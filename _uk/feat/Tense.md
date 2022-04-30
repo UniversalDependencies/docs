@@ -51,4 +51,4 @@ The future tense denotes actions that will happen after the current moment. It i
 * _<b>Буду</b> йти додому.&nbsp;_ “I <b>will</b> be coming home.” (_Йти&nbsp;_ is an imperfective verb, the future tense is formed periphrastically here.)
 
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:30 CET 2021 -->

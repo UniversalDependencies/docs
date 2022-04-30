@@ -11,4 +11,4 @@ A clausal subject is a clausal syntactic subject of a clause, i.e., the subject 
 What she said makes sense
 csubj(makes, said)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:59 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:48 CET 2021 -->

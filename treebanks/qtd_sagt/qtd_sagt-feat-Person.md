@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="qtd_sagt-feat-Person.html">Person</a></tt>, <tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt>.
 
-7457 tokens (20%) have a non-empty value of `Person`.
+7490 tokens (20%) have a non-empty value of `Person`.
 1580 types (24%) occur at least once with a non-empty value of `Person`.
 457 lemmas (12%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (3126; 8% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (2738; 7% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (1593; 4% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (3126; 8% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (2771; 7% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (1593; 4% instances).
 
 ### `VERB`
 
@@ -85,16 +85,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-2738 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Person`.
+2771 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (66% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2703; 99%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2412; 88%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2067; 75%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1911; 70%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2736; 99%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2445; 88%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2100; 76%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1939; 70%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (1470; 54% of non-empty `Person`): <em>ich, wir, ben, mir, mich, benim, bana, bizim, biz, uns</em>
+* `1` (1503; 54% of non-empty `Person`): <em>ich, ben, wir, mir, mich, benim, bana, bizim, biz, uns</em>
 * `2` (436; 16% of non-empty `Person`): <em>du, dir, sen, ihr, dich, sana, dein, seni, senin, sende</em>
 * `3` (832; 30% of non-empty `Person`): <em>es, o, ondan, sie, er, onun, onu, sich, ona, onlar</em>
-* `EMPTY` (1450): <em>das, die, man, was, orada, ne, bu, alles, der, burada</em>
+* `EMPTY` (1417): <em>das, die, man, was, orada, ne, bu, alles, der, burada</em>
 
 <table>
   <tr><th>Paradigm <i>ihr</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -140,8 +140,8 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (856; 51%),
-<tt>VERB --[<tt><a href="qtd_sagt-dep-expl.html">expl</a></tt>]--> PRON</tt> (60; 71%),
+<tt>VERB --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (870; 52%),
+<tt>VERB --[<tt><a href="qtd_sagt-dep-expl.html">expl</a></tt>]--> PRON</tt> (59; 70%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (45; 79%),
 <tt>AUX --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (27; 79%),
 <tt>PRON --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (24; 92%),

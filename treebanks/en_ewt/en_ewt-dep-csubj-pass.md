@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 7	fgColor:white
 # visual-style 7 2 csubj:pass	color:blue
 1	What	what	PRON	WP	PronType=Int	2	nsubj	2:nsubj	_
-2	followed	follow	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	csubj:pass	7:csubj:pass	_
+2	followed	follow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	csubj:pass	7:csubj:pass	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	next	next	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	day	day	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	_

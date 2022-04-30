@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `compound`: <tt><a href="hyw_armtdp-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="hyw_armtdp-dep-compound-redup.html">compound:redup</a></tt>, <tt><a href="hyw_armtdp-dep-compound-svc.html">compound:svc</a></tt>.
 
-36 nodes (0%) are attached to their parents as `compound`.
+118 nodes (0%) are attached to their parents as `compound`.
 
-35 instances of `compound` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.41666666666667.
+116 instances of `compound` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.42372881355932.
 
-The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (22; 61% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (3; 8% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 3% instances).
+The following 18 pairs of parts of speech are connected with `compound`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (71; 60% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (7; 6% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (5; 4% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -36,19 +36,31 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 compound	color:blue
-1	Զինւորական	զինուորական	ADJ	_	_	2	amod	_	Translit=Zinworakan|LTranslit=zinoworakan
-2	քայլերգ	քայլերգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=k’aylerg|LTranslit=k’aylerg
-3	եւ	եւ	CCONJ	_	_	7	cc	_	Translit=ew|LTranslit=ew
-4	ահա	ահա	PART	_	_	7	discourse	_	Translit=aha|LTranslit=aha
-5	կարմիր	կարմիր	ADJ	_	Degree=Pos	7	nmod:poss	_	Translit=karmir|LTranslit=karmir
-6	բանակայիններու	բանակային	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	5	compound	_	Translit=banakayinnerow|LTranslit=banakayin
-7	երթը	երթ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	conj	_	Translit=ert’ë|LTranslit=ert’|SpaceAfter=No
-8	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 15 compound	color:blue
+1	Այդ	այդ	DET	_	Deixis=Med|PronType=Dem	6	det	_	Translit=Ayd|LTranslit=ayd
+2	հայ	Հայ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	6	nmod	_	Translit=hay|LTranslit=Hay
+3	պզտիկ	պզտիկ	ADJ	_	Degree=Pos	6	amod	_	Translit=pztik|LTranslit=pztik|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
+5	մուրացիկ	մուրացիկ	ADJ	_	_	3	conj	_	Translit=mowrac’ik|LTranslit=mowrac’ik
+6	տղուն	տղայ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	8	nmod:poss	_	Translit=tġown|LTranslit=tġay
+7	տրտում	տրտում	ADJ	_	Degree=Pos	8	amod	_	Translit=trtowm|LTranslit=trtowm
+8	յիշատակին	յիշատակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	10	obj	_	Translit=yišatakin|LTranslit=yišatak
+9	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	10	aux	_	Translit=kë|LTranslit=kë
+10	նուիրեմ	նուիրել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=nowirem|LTranslit=nowirel
+11	այս	այս	DET	_	Deixis=Prox|PronType=Dem	19	det	_	Translit=ays|LTranslit=ays
+12	կէս	կէս	ADV	_	_	13	advmod	_	Translit=kēs|LTranslit=kēs
+13	սուտ	սուտ	ADJ	_	Degree=Pos	19	amod	_	Translit=sowt|LTranslit=sowt
+14	կէս	կէս	ADV	_	_	15	advmod	_	Translit=kēs|LTranslit=kēs
+15	իրաւ	իրաւ	ADJ	_	Degree=Pos	13	compound	_	Translit=iraw|LTranslit=iraw
+16	սիրոյ	սէր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	19	nmod:poss	_	Translit=siroy|LTranslit=sēr
+17	ու	ու	CCONJ	_	_	18	cc	_	Translit=ow|LTranslit=ow
+18	արկածի	արկած	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	16	conj	_	Translit=arkaçi|LTranslit=arkaç
+19	պատմութիւնը	պատմութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	10	obj	_	Translit=patmowt’iwnë|LTranslit=patmowt’iwn|SpaceAfter=No
+20	։	։	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

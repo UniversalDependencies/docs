@@ -8,12 +8,23 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* Words are generally delimited by whitespace or punctuation.
-* Words, containing “infixed” punctuation (e.g. question, exclamation, emphasis and Armenian abbreviation marks), as in *ինչո՞ւ = ինչու + ՞* “why?”, are treated as multi-word tokens and segmented to individual syntactic words.
+* In general, words are delimited by whitespace characters. Description of exceptions follows.
+* According to typographical rules, a punctuation mark is attached to a neighbouring (usually following) word. Punctuation marks are usually tokenised as separate tokens (words), unless they are considered an integral part of the lemma (as in _2-րդ_ “2nd”, _44-օրեայ_ “44-day”, or _85-ամեայ_ “85th anniversary”) or are used to express inflection (as in _96-ի_ “of 96.Dat”, _1956-ին_ “in 1956.Dat”). On the other hand, hyphenated compounds such as _ռուսա-սուրիական_ “Russian-Syrian” or abbreviations such as _թ._ “year” are treated as separate tokens.
+* A whitespace separating digits in a large number is not treated as a word separator. For example, _1 000 000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Western Armenian treebanks as of release 2.8.)
+* There are two classes of “orthographic words” (sequences of letters without spaces inside) that are split into several syntactic tokens.
+  * The most prominent type is so-called “infixed punctuation”, i.e. words containing question, exclamation, emphasis and Armenian abbreviation marks, as in _ինչպէ՞ս = ինչպէս + ՞_ “How?”, are treated as multi-word tokens and segmented to individual syntactic words.
+  * Orthographic words of the other class consist of a indicative or negative particles _կ՚_ and _չ՚_ (followed by a vocal and treated as auxiliaries), as in _կ՚այցելեմ = կ՚ + այցելեմ_ “(I am) visiting” and _չ՚ուզեր = չի + ուզեր_ “(He/She) does not want”.
+* For more details, see [tokenization](tokenization.html).
 
 ## Morphology
 
 ### Tags
+
+This is an overview only. For more detailed discussion and examples, see the list of [Armenian POS tags](pos/index.html)
+and [Armenian features](feat/index.html).
+
+* Western Armenian uses all 17 universal POS categories, including particles ([PART]()).
+* The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives (the traditional grammar does not define determiners, but distinguishes pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET]() as well.
 
 ### Nominal Features
 
@@ -48,22 +59,10 @@ There is just one Western Armenian UD treebank.
 
 # UD for Armenian (Eastern) <span class="flagspan"><img class="flag" src="../../flags/svg/AM.svg" /></span>
 
-## Tokenization and Word Segmentation
-
-* Words are generally delimited by whitespace or punctuation. Description of exceptions follows.
-* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words); this holds even for hyphenated compounds such as *անգլո-ամերիկյան* “anglo-american” (three tokens) and for abbreviations such as *թ.* “year” (two tokens).
-* Numerical expressions (including dates, expressions with hyphen and Armenian endings) are treated as single words and may contain punctuation or whitespace: *1.1.1970*, *1/1/1970*, *11:00*, *2 000*, *10-15*, *2,15*, *1-ին* “1st”, *1700-ամյա* “1700-year-old”, *ՆԱՏՕ-ական* “belonging-to-NATO”.
-* Words, containing “infixed” punctuation (e.g. question, exclamation, emphasis and Armenian abbreviation marks), as in *ինչո՞ւ = ինչու + ՞* “why?”, are treated as multi-word tokens and segmented to individual syntactic words. For more details, see [tokenization](tokenization.html).
-
 ## Morphology
 
 ### Tags
 
-This is an overview only. For more detailed discussion and examples, see the list of [Armenian POS tags](pos/index.html)
-and [Armenian features](feat/index.html).
-
-* Armenian uses all 17 universal POS categories, including particles ([PART]()). The exact list of particles is in the stage of being worked out.
-* The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives (the traditional grammar does not define determiners, but distinguishes pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET]() as well.
 * Eastern Armenian has one auxiliary verb ([AUX]()), _եմ_ (“to be”), but the lemma _լինել_ is also possible.
   This is in fact just an aspectual variant of _եմ_, but this is a separate lemma because
   the morphological process that relates it to _եմ_ is considered derivational. There is another auxiliary _տալ_ (“cause/make someone to perform action”) for periphrastic causatives.

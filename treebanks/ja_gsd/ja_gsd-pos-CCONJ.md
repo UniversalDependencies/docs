@@ -15,7 +15,7 @@ The 10 most frequent `CCONJ` types:  また, しかし, そして, および, �
 
 The 10 most frequent ambiguous lemmas: また (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 223, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 41), なお (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 37, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 11), だ (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 4832, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 33, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 2), さらに (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 23), 一方 (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 32, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 28), ただ (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 27, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1), で (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2600, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 24), それ (<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> 136, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 18), 更に (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 5), ところ (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 50, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 9)
 
-The 10 most frequent ambiguous types:  また (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 223, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 41), なお (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 37, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 11), さらに (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 23), だ (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 372, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 28), 一方 (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 32, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 28), ただ (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 27, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1), で (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2600, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1641, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2), それ (<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> 136, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 18), ちなみ (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 1), 及び (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2)
+The 10 most frequent ambiguous types:  また (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 223, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 41), なお (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 37, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 11), さらに (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 23), だ (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 372, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 28), 一方 (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 32, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 28), ただ (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 27, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1), で (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2600, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1637, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 167, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2), それ (<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> 136, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 18), ちなみ (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 1), 及び (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2)
 
 
 * また
@@ -39,8 +39,8 @@ The 10 most frequent ambiguous types:  また (<tt><a href="ja_gsd-pos-CCONJ.htm
   * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1: ホメオパシー の レメディ は 毒 に も 薬 に も なら ない “ <b>ただ</b> の 水 ” と 砂糖 玉 な の で , 司法 解剖 に よっ て わかる 類 の 因果 関係 なんて ある はず も あり ませ ん 。
 * で
   * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2600: 一方 B 国 <b>で</b> は 輸出 に より 小麦 の 量 が 減る の で 、 小麦 の 価格 は 上がる 。
-  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1641: 姉 と 同じ 先生 だっ た の <b>で</b> 、 話 やすかっ た です 。
-  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 163: 新宿 の 高速 バス を 利用 する とき は 必ず 足 を 運ん <b>で</b> しまう 。
+  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1637: 姉 と 同じ 先生 だっ た の <b>で</b> 、 話 やすかっ た です 。
+  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 167: 新宿 の 高速 バス を 利用 する とき は 必ず 足 を 運ん <b>で</b> しまう 。
   * <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 24: <b>で</b> も 、 リニューアル し た ゲストハウス 風 の ロビー ?
   * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2: 渋谷 駅 を <b>で</b> て すぐ な の で 、 行く の に も 楽 でし た 。
 * それ
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  また (<tt><a href="ja_gsd-pos-CCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.052632 (the average of all parts of speech is 1.059467).
+The form / lemma ratio of `CCONJ` is 1.052632 (the average of all parts of speech is 1.059603).
 
 The 1st highest number of forms (4) was observed with the lemma “だ”: だ, です, な, に.
 
@@ -84,5 +84,5 @@ The highest child degree of a `CCONJ` node is 4.
 
 Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (378; 71% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (151; 29% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (378; 71% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (99; 19% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (47; 9% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances)
+Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (378; 71% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (99; 19% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (49; 9% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 

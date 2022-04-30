@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt>, <tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt>.
 
-17033 tokens (46%) have a non-empty value of `Number`.
-5453 types (82%) occur at least once with a non-empty value of `Number`.
-2701 lemmas (72%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (5211; 14% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4176; 11% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (3785; 10% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (1594; 4% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1084; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (768; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (289; 1% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (90; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (36; 0% instances).
+17031 tokens (46%) have a non-empty value of `Number`.
+5451 types (82%) occur at least once with a non-empty value of `Number`.
+2703 lemmas (72%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (5199; 14% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4176; 11% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (3785; 10% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (1594; 4% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1084; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (778; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (289; 1% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (90; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (36; 0% instances).
 
 ### `NOUN`
 
-5211 <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+5199 <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4503; 86%), <tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4503; 86%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3103; 60%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4491; 86%), <tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4491; 86%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3093; 59%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2601; 50%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (879; 17% of non-empty `Number`): <em>şeyler, Leute, Sachen, Prüfungen, insanlar, Wochen, Serien, Sprachen, kitaplar, şeyleri</em>
-* `Sing` (4332; 83% of non-empty `Number`): <em>şey, şimdi, zaman, Beispiel, sene, şeyi, Buch, Zeit, Dings, hafta</em>
-* `EMPTY` (84): <em>Alter, King, Cheeseburger, Queens, Mann, Motherboard, Protectors, action, dagger, man</em>
+* `Sing` (4320; 83% of non-empty `Number`): <em>şey, şimdi, zaman, Beispiel, sene, şeyi, Buch, Zeit, Dings, hafta</em>
+* `EMPTY` (84): <em>Alter, King, Cheeseburger, Queens, action, Mann, Motherboard, Protectors, dagger, man</em>
 
 <table>
   <tr><th>Paradigm <i>şey</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -37,15 +37,16 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>şeyin</em></td><td><em>şeylerin</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>şeyle</em></td><td><em>şeylerle</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>şeyde</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>şey, s--</em></td><td><em>şeyler</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>şey</em></td><td><em>şeyler</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>şeyi, şeyleri</em></td><td><em>şeyleri</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>s--</em></td><td></td></tr>
 </table>
 
 ### `PRON`
 
 4176 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2812; 67%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2773; 66%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2705; 65%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2812; 67%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2773; 66%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2738; 66%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -56,7 +57,8 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>die</em></td><td><em>die</em></td></tr>
-  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>das, des</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>das</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>des</em></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>den</em></td><td><em>die</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>den</em></td><td><em>die</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>die</em></td><td><em>die</em></td></tr>
@@ -67,7 +69,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>dem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>dem</em></td><td><em>denen</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>der</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>des</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>des</em></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>dessen</em></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>deren</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>die</em></td><td><em>die</em></td></tr>
@@ -206,7 +208,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-1084 <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> tokens (63% of all `DET` tokens) have a non-empty value of `Number`.
+1084 <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (935; 86%), <tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (689; 64%).
 
@@ -214,35 +216,39 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (169; 16% of non-empty `Number`): <em>die, den, viele, der, mehrere, diese, alle, manche, solche, manchen</em>
 * `Sing` (915; 84% of non-empty `Number`): <em>dem, der, die, ein, eine, das, einen, keine, den, einem</em>
-* `EMPTY` (625): <em>bir, o, her, bu, böyle, çok, öyle, hangi, şu, birkaç</em>
+* `EMPTY` (620): <em>bir, o, her, bu, böyle, çok, öyle, hangi, şu, birkaç</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>den</em></td><td><em>die, den</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>die, den</em></td><td><em>die, den</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>die</em></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>das</em></td><td><em>die</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>dem, der</em></td><td><em>den</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>der</em></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>der</em></td><td><em>den, der</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>dem</em></td><td><em>den</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>der</em></td><td><em>der</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>der</em></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>des</em></td><td><em>der</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>des</em></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>der</em></td><td><em>die</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>der</em></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>die</em></td><td><em>die</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>das, der</em></td><td><em>die</em></td></tr>
 </table>
 
 ### `PROPN`
 
-768 <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> tokens (88% of all `PROPN` tokens) have a non-empty value of `Number`.
+778 <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> tokens (88% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (426; 55%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (432; 56%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (32; 4% of non-empty `Number`): <em>Türkler, Rap, Almanlar, Euro, IfL, Türklerde, Almanların, Deutschen, Formale, Hecken</em>
-* `Sing` (736; 96% of non-empty `Number`): <em>Türkei, Deutschland, Englisch, Türkçe, Stuttgart, İngilizce, Samsun, Türkiye'de, Türk, Alman</em>
-* `EMPTY` (108): <em>Netflix, Iron, Keanu, Bachelor, Basic, Batman, Englisch, Fast, Ghul, Jane</em>
+* `Sing` (746; 96% of non-empty `Number`): <em>Türkei, Deutschland, Englisch, Türkçe, Stuttgart, İngilizce, Samsun, Türkiye'de, Türk, Alman</em>
+* `EMPTY` (105): <em>Netflix, Iron, Keanu, Bachelor, Basic, Batman, Englisch, Fast, Ghul, Jane</em>
 
 <table>
   <tr><th>Paradigm <i>Türk</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -252,7 +258,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Türk, Türkçe</em></td><td><em>Türkler</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (356) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (363) occur only with one value of `Number`.
 
 ### `ADJ`
 
@@ -280,7 +286,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 * `Plur` (5; 6% of non-empty `Number`): <em>lılar, kiler</em>
 * `Sing` (85; 94% of non-empty `Number`): <em>ki, li, geçen, lı, lik, lü, lığı, içinde, lu, lık</em>
-* `EMPTY` (1569): <em>in, zu, sonra, için, mit, von, für, auf, an, gibi</em>
+* `EMPTY` (1568): <em>in, zu, sonra, için, mit, von, für, auf, an, gibi</em>
 
 <table>
   <tr><th>Paradigm <i>li</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -304,12 +310,12 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1148; 64%),
+<tt>VERB --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1149; 65%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (922; 60%),
-<tt>VERB --[<tt><a href="qtd_sagt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (834; 63%),
-<tt>VERB --[<tt><a href="qtd_sagt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (614; 56%),
+<tt>VERB --[<tt><a href="qtd_sagt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (830; 63%),
+<tt>VERB --[<tt><a href="qtd_sagt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (610; 56%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-conj.html">conj</a></tt>]--> VERB</tt> (409; 64%),
-<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (332; 74%),
+<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (331; 74%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (310; 71%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (261; 78%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-obj.html">obj</a></tt>]--> PRON</tt> (257; 50%),

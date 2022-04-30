@@ -9,10 +9,10 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
  * In general, words are delimited by whitespace characters and punctuations are considered as separated words.
- * Only numbers can contain spaces (following `[0-9 ,]+` regexp).
+ * Only numbers can contain spaces (following the regexp `[0-9 ,]+`).
  * There are several closed classes of contractions that are treated as multi-word tokens and segmented to individual syntactic words.
-For instance, `au` -> `à` + `le`, `auquel` -> `de` + `lequel`.
-Note that `du` and `des` are ambiguous and can be split or not depending of their usage.
+For instance, *au* -> *à* + *le*, *auquel* -> *de* + *lequel*.
+Note that *du* and *des* are ambiguous and can be split or not depending of their usage.
 
 For more details, see [tokenization](tokenization.html).
 
@@ -23,12 +23,12 @@ For more details, see [tokenization](tokenization.html).
 This is an overview only. For more detailed discussion and examples, see the list of [French POS tags](pos/index.html)
 and [French features](feat/index.html).
 
-* French uses all 17 universal POS categories, including particles ([PART]()). [PART]() is used differently among treebanks. Most common usages are for euphonic element (like *t* in *a-t-il*) or for *-là* and *-ci* when they follow a pronoun (*celle-là*) or a noun (*cette fois-ci*). Some corpora uses [PART]() for negation words *ne* and *pas*.
-* Most French corpora has just three auxiliary verb ([AUX]())
-	* *être* (to be) is used as a copule, as a tense auxiliary and as a passive auxiliary,
-	* *avoir* (to have) is used as a tense auxiliary,
-	* *faire* (to make) is used in causative constructions.
-* **UD_French-ParTUT** uses a few more auxiliaries (*aller*, *devoir*, *pouvoir*, …).
+* French uses all 17 universal POS categories:
+  * ([PART]()) is used only in **UD_French-ParTUT** for the negation particule *ne* (which is annotated `ADV` in other treebanks).
+  * All French corpora has just three auxiliary verb ([AUX]())
+    * *être* (to be) is used as a copule, as a tense auxiliary and as a passive auxiliary,
+    * *avoir* (to have) is used as a tense auxiliary,
+    * *faire* (to make) is used in causative constructions.
 
 ### Features
 
@@ -50,12 +50,15 @@ and [French features](feat/index.html).
 
 ## Treebanks
 
-There are [seven](../treebanks/fr-comparison.html) French UD treebanks:
+There are [eight](../treebanks/fr-comparison.html) French UD treebanks:
 
   * [UD_French-ParTUT](../treebanks/fr_partut)
   * [UD_French-GSD](../treebanks/fr_gsd)
   * [UD_French-Sequoia](../treebanks/fr_sequoia)
+  * [UD_French-FQB](../treebanks/fr_fqb)
+  * [UD_French-Rhapsodie](../treebanks/fr_rhapsodie) (This treebank was named UD_French-Spoken until version 2.8)
+  * [UD_French-ParisStories](../treebanks/fr_parisstories)
   * [UD_French-PUD](../treebanks/fr_pud)
   * [UD_French-FTB](../treebanks/fr_ftb)
-  * [UD_French-Spoken](../treebanks/fr_spoken)
-  * [UD_French-FQB](../treebanks/fr_fqb)
+  
+Note that the corpus UD_French-FTB was not updated since 2018 and may not follow the more rencent description given in these guidelines.

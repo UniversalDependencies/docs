@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 The determiner relation holds between a nominal head and its determiner.  
-The dependent of a determiner relation is always a word of POS <code>DET</code>. If a POS <code>DET</code> word appears before another determiner, than it is marked as [det:predet](). See below for the description of this relation.
+The dependent of a determiner relation is always a word of POS <code>DET</code>. If a POS <code>DET</code> word appears before another determiner, then it is marked as [det:predet]().
 
 ~~~ sdparse
 Alcune chiamate partirono da il Quirinale . 
@@ -21,4 +21,4 @@ det(guerra, la)
 Casi di questo genere . 
 det(genere, questo)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:02 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:50 CET 2021 -->

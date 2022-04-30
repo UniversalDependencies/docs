@@ -5,6 +5,16 @@ shortdef: 'numeral type'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Card">Card</a></td>
+  <td><a href="#Ord">Ord</a></td>
+  <td><a href="#Range">Range</a></td>
+  <td><a href="#Gen">Gen</a></td>
+</tr>
+</table>
+
 The `NumType` feature applies to:
 
 * [u-pos/NUM](): numerals
@@ -23,8 +33,9 @@ This is a subtype of adjectives or pronouns.
 #### Examples
 
 * _primo_ "first", _secondo_ "second", _terzo_ "third";
-* _III_, _IV_, XIX
+* _III_, _IV_, _XIX_
 * 30a, 30esima, 1°
+* _bis_ "bis", _ter_ "ter", _quater_ "quater"
 
 ### <a name="Range">`Range`</a>: range of values
 
@@ -36,6 +47,8 @@ Used for expressions such as:
 
 ### <a name="Gen">`Gen`</a>: generic numeral, i.e. a numeral that is neither of the above
 
+Currently not attested and also deprecated by v2 guidelines.
+
 #### Examples
 
 Used for time expressions such as:
@@ -44,4 +57,4 @@ Used for time expressions such as:
 * 1.00'16''
 
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:25 CET 2021 -->

@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` lemmas: <em>Ворошилов, Ефрем, Кли�
 
 The 10 most frequent `PROPN` types:  <em>Ворошилов, Климент, Ефремович, Краснӧй, Сталин, Валентина, Волгалань, Ворошиловӧс, Ефремовичкӧд, Ивановна</em>
 
-The 10 most frequent ambiguous lemmas: <em>Ворошилов</em> (<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>Мери</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 1), <em>Питер</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 1), <em>Эжва</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>Ворошилов</em> (<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>Максим</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 1), <em>Мери</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 1), <em>Питер</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 1), <em>Эжва</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Краснӧй</em> (<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 2), <em>Мери</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 1), <em>Питер</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 1), <em>Эжва</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>Краснӧй</em> (<tt><a href="kpv
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.064516 (the average of all parts of speech is 1.465770).
+The form / lemma ratio of `PROPN` is 1.064516 (the average of all parts of speech is 1.467100).
 
 The 1st highest number of forms (2) was observed with the lemma “Ворошилов”: <em>Ворошилов, Ворошиловӧс</em>.
 

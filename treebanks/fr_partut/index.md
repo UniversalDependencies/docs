@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -220,7 +220,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
     <ul>
       <li>ADJ: autres, nécessaires, applicables, structurels, dangereuses, mêmes, communautaires, techniques, disponibles, publicitaires</li>
       <li>AUX-Fin: sont, ont, soient, étaient, sommes, avons, avez, êtes, seront, aient</li>
-      <li>DET: les, des, ces, tous, ses, leurs, certains, nos, toutes, de</li>
+      <li>DET: les, des, ces, tous, ses, leurs, certains, nos, de, toutes</li>
       <li>NOUN: membres, états, droits, fonds, mesures, exigences, produits, termes, transports, conditions</li>
       <li>PRON: nous, vous, ils, elles, ceux, tous, autres, ceux-ci, leur, auxquelles</li>
       <li>VERB-Fin: ont, peuvent, pouvez, devons, doivent, font, devraient, devrions, espérons, allons</li>

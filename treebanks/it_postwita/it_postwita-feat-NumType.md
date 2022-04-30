@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-1626 tokens (1%) have a non-empty value of `NumType`.
+1617 tokens (1%) have a non-empty value of `NumType`.
 412 types (2%) occur at least once with a non-empty value of `NumType`.
 386 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (1420; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (206; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (1411; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (206; 0% instances).
 
 ### `NUM`
 
-1420 <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+1411 <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (1420; 100% of non-empty `NumType`): <em>2, 3, 1, due, 5, 4, 7, 6, 10, 20</em>
+* `Card` (1411; 100% of non-empty `NumType`): <em>2, 3, due, 1, 5, 4, 7, 6, 10, 20</em>
 * `EMPTY` (2): <em>100, 5</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (370) occur only with one value of `NumType`.

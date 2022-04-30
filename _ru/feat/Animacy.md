@@ -31,4 +31,4 @@ Nouns that are not animate are inanimate.
 
 - _год&nbsp;_ “year”, _закон&nbsp;_ “law”, _состояние&nbsp;_ “state”, _падеж&nbsp;_ “case”, _миллион&nbsp;_ “million”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:27 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->

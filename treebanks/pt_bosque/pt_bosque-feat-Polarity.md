@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pt_bosque-pos-ADV.h
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (1367; 100% of non-empty `Polarity`): <em>não, nada</em>
-* `EMPTY` (7016): <em>mais, já, também, ainda, ontem, só, depois, muito, como, agora</em>
+* `EMPTY` (7017): <em>mais, já, também, ainda, ontem, só, depois, muito, como, agora</em>
 

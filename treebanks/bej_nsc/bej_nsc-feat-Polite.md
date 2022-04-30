@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): <em>=uːn</em>
-* `EMPTY` (238): <em>i-, a-, =heːb, -an, hoːj, iː-, -ja, -i, =i, ti-</em>
+* `EMPTY` (234): <em>i-, a-, =heːb, -an, hoːj, iː-, -ja, -i, =i, ti-</em>
 

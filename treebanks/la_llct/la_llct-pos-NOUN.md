@@ -61,9 +61,9 @@ The 3rd highest number of forms (21) was observed with the lemma “scabinus”:
 
 `NOUN` occurs with 3 features: <tt><a href="la_llct-feat-Case.html">Case</a></tt> (51206; 100% instances), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt> (51206; 100% instances), <tt><a href="la_llct-feat-Number.html">Number</a></tt> (51206; 100% instances)
 
-`NOUN` occurs with 12 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+`NOUN` occurs with 11 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
-`NOUN` occurs with 32 feature combinations.
+`NOUN` occurs with 31 feature combinations.
 The most frequent feature combination is `Case=Abl|Gender=Masc|Number=Sing` (6965 tokens).
 Examples: <em>teste, loco, anno, domno, presbitero, augusto, ordine, mense, filio, clerico</em>
 

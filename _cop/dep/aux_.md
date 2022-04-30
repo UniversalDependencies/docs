@@ -42,4 +42,4 @@ case(ⲩ,ⲙⲙⲟ)
 ~~~
 
 Presentative ⲉⲓⲥ in similar constructions is not considered an auxiliary or predicate, but is analyzed as `advmod` (see [Special Constructions](https://universaldependencies.org/cop/specific-syntax.html))
-<!-- Interlanguage links updated Pá kvě 14 11:08:51 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:39 CET 2021 -->

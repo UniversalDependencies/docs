@@ -82,7 +82,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `X` tokens may have the following values of `PronType`:
 
 * `Prs` (1; 100% of non-empty `PronType`): <em>te</em>
-* `EMPTY` (991): <em>of, Prince, i, live, and, a, on, the, in, my</em>
+* `EMPTY` (988): <em>of, Prince, i, live, a, and, on, the, in, my</em>
 
 ## Relations with Agreement in `PronType`
 

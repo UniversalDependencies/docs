@@ -24,14 +24,14 @@ The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 8 4 nsubj:pass	color:blue
 1	Anteriormente	anteriormente	ADV	RB	_	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	os	o	DET	DT	Gender=Masc|Number=Plur	4	det	_	_
+3	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	jatos	jato	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj:pass	_	_
 5	só	só	ADV	RB	_	8	advmod	_	_
 6	tinham	ter	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	8	aux	_	_
 7	sido	ser	AUX	VBN	_	8	aux:pass	_	_
 8	vistos	_	VERB	VBN	Gender=Masc|Number=Plur	0	root	_	_
 9	por	por	ADP	INDT	_	11	case	_	_
-10	os	o	DET	_	Gender=Masc|Number=Plur	11	det	_	_
+10	os	o	DET	_	Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	blogueiros	_	NOUN	NN	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	8	punct	_	_
 

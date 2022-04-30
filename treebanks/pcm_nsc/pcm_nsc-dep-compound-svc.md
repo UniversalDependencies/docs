@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pcm_nsc-dep-compound.html">compound</a></tt>.
 There are also 2 other language-specific subtypes of `compound`: <tt><a href="pcm_nsc-dep-compound-prt.html">compound:prt</a></tt>, <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt>.
 
-1019 nodes (1%) are attached to their parents as `compound:svc`.
+1277 nodes (1%) are attached to their parents as `compound:svc`.
 
-1019 instances of `compound:svc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.08047105004907.
+1277 instances of `compound:svc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.85591229444009.
 
-The following 7 pairs of parts of speech are connected with `compound:svc`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (983; 96% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (25; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `compound:svc`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1237; 97% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (24; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,10 +30,10 @@ The following 7 pairs of parts of speech are connected with `compound:svc`: <tt>
 5	carry	carry	VERB	_	_	4	xcomp	_	AlignBegin=10850|AlignEnd=11170|Gloss=carry
 6	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	AlignBegin=11170|AlignEnd=11370|Gloss=ACC.SG.1
 7	go	go	VERB	_	_	5	compound:svc	_	AlignBegin=11370|AlignEnd=11503|Gloss=go
-8	meh	make	AUX	_	Mood=Opt	10	aux	_	AlignBegin=11533|AlignEnd=11710|Gloss=SBJV
+8	meh	make	SCONJ	_	_	10	mark	_	AlignBegin=11533|AlignEnd=11710|Gloss=that
 9	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	AlignBegin=11710|AlignEnd=11770|Gloss=NOM.SG.3
 10	go	go	VERB	_	_	5	advcl	_	AlignBegin=11770|AlignEnd=12120|Gloss=go
-11	train	train	VERB	_	_	10	xcomp	_	AlignBegin=12120|AlignEnd=12430|Gloss=train
+11	train	train	VERB	_	_	10	compound:svc	_	AlignBegin=12120|AlignEnd=12430|Gloss=train
 12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	AlignBegin=12430|AlignEnd=12550|Gloss=ACC.SG.1
 13	//	//	X	_	_	4	dep	_	AlignBegin=12550|AlignEnd=12580|Gloss=PUNCT
 
@@ -53,7 +53,7 @@ The following 7 pairs of parts of speech are connected with `compound:svc`: <tt>
 5	||	||	X	_	_	7	dep	_	AlignBegin=100526|AlignEnd=100556|Gloss=PUNCT
 6	na	na	AUX	_	PartType=Cop	7	cop	_	AlignBegin=100556|AlignEnd=100707|Gloss=be
 7	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	reparandum	_	AlignBegin=100707|AlignEnd=100850|Gloss=NOM.PL.3
-8	fi~	X	X	_	_	7	advcl:cleft	_	AlignBegin=100850|AlignEnd=101022|Gloss=X
+8	fi~	X	X	_	_	7	advcl:cleft	_	AlignBegin=100850|AlignEnd=101022|Gloss=X|Scrap=Yes
 9	||	||	X	_	_	11	dep	_	AlignBegin=101022|AlignEnd=101052|Gloss=PUNCT
 10	na	na	AUX	_	PartType=Cop	11	cop	_	AlignBegin=101052|AlignEnd=101178|Gloss=be
 11	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	reparandum	_	AlignBegin=101178|AlignEnd=101285|Gloss=NOM.PL.3

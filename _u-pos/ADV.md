@@ -51,4 +51,4 @@ either [VERB]() or `ADV`.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adverb?](https://glossary.sil.org/term/adverb-grammar)
 - [Wikipedia](http://en.wikipedia.org/wiki/Adverb)
-<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:08 CET 2021 -->

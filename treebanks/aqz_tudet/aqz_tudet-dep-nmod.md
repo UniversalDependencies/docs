@@ -22,10 +22,10 @@ The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod	color:blue
-1	apara	apara	NOUN	n	_	2	nmod	2:nmod	_
-2	tep	ep	NOUN	n	Rel=Cont	3	obj	3:obj	REL-leaf
-3	tʃopa	tʃop	VERB	vt	Tv=Yes	0	root	0:root	see-THV
-4	jẽ	jẽ	DET	dem	Deixis=Prox	3	nsubj	3:nsubj	_
+1	apara	apara	NOUN	n	_	2	nmod	_	_
+2	tep	ep	NOUN	n	Rel=Cont	3	obj	_	REL-leaf
+3	tʃopa	tʃop	VERB	vt	Tv=Yes	0	root	_	see-THV
+4	jẽ	jẽ	DET	dem	Deixis=Prox	3	nsubj	_	_
 
 ~~~
 
@@ -36,13 +36,13 @@ The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nmod	color:blue
-1	jẽ	jẽ	DET	dem	Deixis=Prox	3	nmod	3:nmod	_
-2	kem	kem	NOUN	n	_	3	nmod	3:nmod	_
-3	kɨ	kɨ	NOUN	n	_	0	root	0:root	_
-4	jẽ	jẽ	DET	dem	Deixis=Prox	6	nmod	6:nmod	_
-5	kem	kem	NOUN	n	_	6	nmod	6:nmod	_
-6	kɨ	kɨ	NOUN	n	_	3	parataxis	3:parataxis	_
-7	rom	rom	ADV	adv	Polarity=Neg	6	advmod	6:advmod	_
+1	jẽ	jẽ	DET	dem	Deixis=Prox	3	nmod	_	_
+2	kem	kem	NOUN	n	_	3	nmod	_	_
+3	kɨ	kɨ	NOUN	n	_	0	root	_	_
+4	jẽ	jẽ	DET	dem	Deixis=Prox	6	nmod	_	_
+5	kem	kem	NOUN	n	_	6	nmod	_	_
+6	kɨ	kɨ	NOUN	n	_	3	parataxis	_	_
+7	rom	rom	ADV	adv	Polarity=Neg	6	advmod	_	_
 
 ~~~
 
@@ -53,10 +53,10 @@ The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod	color:blue
-1	Karow	Karow	PROPN	pn	_	2	nmod	2:nmod	_
-2	etap	et	NOUN	n	_	3	nmod	3:nmod	_
-3	tek	ek	NOUN	n	Rel=Cont	0	root	0:root	_
-4	iw	iw	NOUN	n	_	3	amod	3:amod	_
+1	Karow	Karow	PROPN	pn	_	2	nmod	_	_
+2	etap	et	NOUN	n	_	3	nmod	_	_
+3	tek	ek	NOUN	n	Rel=Cont	0	root	_	_
+4	iw	iw	NOUN	n	_	3	amod	_	_
 
 ~~~
 

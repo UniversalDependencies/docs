@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
-110724 tokens (20%) have a non-empty value of `PronType`.
+110718 tokens (20%) have a non-empty value of `PronType`.
 257 types (1%) occur at least once with a non-empty value of `PronType`.
 98 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (87262; 16% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (23462; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (87263; 16% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (23455; 4% instances).
 
 ### `DET`
 
-87262 <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+87263 <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (68677; 79%), <tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (63638; 73%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (68678; 79%), <tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (63638; 73%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (68466; 78% of non-empty `PronType`): <em>el, la, l', els, les, un, meva, una, los, las</em>
 * `Dem` (3352; 4% of non-empty `PronType`): <em>aquest, aquesta, aquests, aquestes, aquell, aquells, aquella, aquelles, tal, tals</em>
-* `Ind` (12136; 14% of non-empty `PronType`): <em>un, una, altres, tots, mateix, tot, cap, cada, uns, diferents</em>
+* `Ind` (12137; 14% of non-empty `PronType`): <em>un, una, altres, tots, mateix, tot, cap, cada, uns, diferents</em>
 * `Int` (62; 0% of non-empty `PronType`): <em>quina, quin, quines, quins, quants</em>
 * `Prs` (3140; 4% of non-empty `PronType`): <em>seva, seu, seus, seves, nostra, nostre, nostres, meu, meus, su</em>
 * `Rel` (56; 0% of non-empty `PronType`): <em>qual, Que</em>
 * `Tot` (50; 0% of non-empty `PronType`): <em>tot</em>
-* `EMPTY` (12): <em>Armats, Collserola, Interior, Jean-Paul, Lydia, Paral·lel, Quin, Quins, Vinyoles, este</em>
+* `EMPTY` (5): <em>Quin, Quins, este, mateix, ningún</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Prs</tt></th><th><tt>Art</tt></th></tr>
@@ -53,17 +53,17 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-23462 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+23455 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19718; 84%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (16846; 72%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16637; 71%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (16620; 71%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12463; 53%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12007; 51%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19712; 84%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (16839; 72%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16634; 71%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (16614; 71%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12457; 53%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12001; 51%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (643; 3% of non-empty `PronType`): <em>això, aquest, aquesta, tal, allò, aquests, aquestes, aquells, aquell, aquelles</em>
-* `Ind` (1938; 8% of non-empty `PronType`): <em>un, una, altres, uns, alguns, res, tots, altra, altre, ningú</em>
-* `Int` (286; 1% of non-empty `PronType`): <em>com, què, qui, on, quan, quina, quin, quines, quins, quant</em>
-* `Prs` (11455; 49% of non-empty `PronType`): <em>es, s', hi, se, li, ho, els, la, ens, el</em>
-* `Rel` (8760; 37% of non-empty `PronType`): <em>que, on, què, qui, qual, quals, quan, com</em>
+* `Ind` (1937; 8% of non-empty `PronType`): <em>un, una, altres, uns, alguns, res, tots, altra, altre, ningú</em>
+* `Int` (283; 1% of non-empty `PronType`): <em>com, què, qui, on, quan, quina, quin, quines, quins, quant</em>
+* `Prs` (11454; 49% of non-empty `PronType`): <em>es, s', hi, se, li, ho, els, la, ens, el</em>
+* `Rel` (8758; 37% of non-empty `PronType`): <em>que, on, què, qui, qual, quals, quan, com</em>
 * `Tot` (380; 2% of non-empty `PronType`): <em>tot</em>
 
 <table>
@@ -75,7 +75,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>DET --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> DET</tt> (15; 100%),
+<tt>DET --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> DET</tt> (18; 100%),
 <tt>PRON --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> PRON</tt> (13; 87%),
 <tt>PRON --[<tt><a href="ca_ancora-dep-flat.html">flat</a></tt>]--> PRON</tt> (2; 100%),
 <tt>PRON --[<tt><a href="ca_ancora-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (1; 100%),

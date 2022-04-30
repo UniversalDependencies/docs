@@ -24,4 +24,4 @@ Denotes an action not known to have happened.
 
 * _Xaq <b>ta</b> ne kimbʼe iwukʼ._ "Que fuera yo con ustedes."
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:34 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->

@@ -7,18 +7,34 @@ udver: '2'
 
 # Enhanced Dependencies
 
-We always intended the Universal Dependencies representation to be used in shallow natural language understanding tasks such as relation extraction or biomedical event extraction. For such tasks, one is typically interested in the relation between certain entities, e.g., the relation between two persons or whether one protein interacts with another. UD is particularly well suited for such tasks as UD trees contain many direct dependencies between content words and many of the dependency labels provide a lot of information about the type of relation between two content words. However, for some constructions, the dependency path between two content words of interest can be very long in a UD tree, which complicates determining how the content words are related. Further, some dependency types such as [`obl`](u-dep/obl) or [`nmod`](u-dep/nmod) are used for many different types of arguments and modifiers, and therefore they are not very informative on their own. For these reasons, we also provide guidelines for an _enhanced_ representation, which makes some of the implicit relations between words more explicit, and augments some of the dependency labels to facilitate the disambiguation of types of arguments and modifiers.
+We always intended the Universal Dependencies representation to be used in shallow natural language understanding tasks such as
+relation extraction or biomedical event extraction. For such tasks, one is typically interested in the relation between certain
+entities, e.g., the relation between two persons or whether one protein interacts with another. UD is particularly well suited
+for such tasks as UD trees contain many direct dependencies between content words and many of the dependency labels provide a
+lot of information about the type of relation between two content words. However, for some constructions, the dependency path
+between two content words of interest can be very long in a UD tree, which complicates determining how the content words are
+related. Further, some dependency types such as [`obl`](u-dep/obl) or [`nmod`](u-dep/nmod) are used for many different types of
+arguments and modifiers, and therefore they are not very informative on their own. For these reasons, we also provide guidelines
+for an _enhanced_ representation, which makes some of the implicit relations between words more explicit, and augments some of
+the dependency labels to facilitate the disambiguation of types of arguments and modifiers.
 
 _Enhanced_ UD graphs may contain some or all of the following enhancements, which are described in the sections below.
+If a corpus does not annotate any of the enhancements defined in the guidelines, it should always have the underscore
+character in the DEPS column. That is, the enhanced graph should not be just an exact copy of the basic tree for all
+sentences in the corpus. Otherwise it creates the impression that the user can expect some enhancements while there are
+actually none.
 
 * [Empty (null) nodes for elided predicates](#ellipsis)
 * [Propagation of incoming dependencies to conjuncts](#propagation-of-incoming-dependencies-to-conjuncts)
 * [Propagation of outgoing dependencies from conjuncts](#propagation-of-outgoing-dependencies-from-conjuncts)
 * [Additional subject relations for control and raising constructions](#controlledraised-subjects)
 * [Coreference in relative clause constructions](#relative-clauses)
-* [Modifier labels that contain the preposition or other case-marking information](#case-information)
+* [Modifier labels that contain the preposition, other case marker or conjunction](#case-information)
 
-Note that the _enhanced_ graph is not necessarily a supergraph of the basic tree, i.e., the graph is not required to contain all the basic dependency relations. For this reason, all relations of the enhanced graph (also the ones that are present in the basic UD tree) have to be included in the _DEPS_ column of a CoNLL-U file. See the specificiation of the [CoNLL-U](/format.html) file format for details.
+Note that the _enhanced_ graph is not necessarily a supergraph of the basic tree, i.e., the graph is not required to contain all
+the basic dependency relations. For this reason, all relations of the enhanced graph (also the ones that are present in the basic
+UD tree) have to be included in the _DEPS_ column of a CoNLL-U file. See the specificiation of the [CoNLL-U](/format.html) file
+format for details.
 
 Furthermore, the dependency relation labels in the enhanced graph in DEPS may contain certain extensions that are not permitted
 in the basic relation type in the DEPREL column. The regular expression restricting relation labels in DEPREL is pretty simple;
@@ -32,13 +48,22 @@ in the order described below. We provide a more detailed explanation of the extr
 1. Universal dependency relation. In addition to the [37 relations](http://universaldependencies.org/u/dep/index.html)
    defined in the basic representation, the relation can also be <tt><a href="#relative-clauses">ref</a></tt>.
 2. Documented [relation subtype](/ext-dep-index.html) (either language-specific or more general) from the basic representation.
-3. [Case information](#case-information) –
-   adposition or conjunction that occurs as a `case` or `mark` dependent of the node whose relation to its
+3. The string <tt><a href="#controlledraised-subjects">xsubj</a></tt>, denoting external subject relations of [xcomp]() predicates.
+   This extension is used only with [nsubj](), [csubj](), and their subtypes such as [nsubj:pass]().
+   It does not combine with the other extensions described below because they do not apply to subjects.
+3. [Case and similar information](#case-information) –
+   adposition or conjunction that occurs as a `case`, `mark` or `cc` dependent of the node whose relation to its
    parent is being enhanced. Note that this is the only part where non-ASCII letters are permitted within the enhanced relation label.
    The word should be normalized (lowercased, no typos), i.e., in general we take its lemma. However, if the case/mark dependent is
    a fixed multi-word expression, the lemma of the expression is not necessarily composed of lemmas of the individual member words.
    For instance, the string representing the English expression “As Opposed To” is `as_opposed_to`. That is, the casing is normalized
-   from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. We use the underscore
+   from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. Similarly,
+   grammaticalized deverbal connectives such as “regarding” may in some languages (if required by the language-specific guidelines)
+   still be tagged [VERB](), despite being attached as [case](), and their lemma will thus be verbal (“regard”); nevertheless,
+   the corresponding deprel extension should be the grammaticalized form, i.e., “regarding”.
+   Language-specific guidelines may also specify that certain synonyms (e.g., “toward” and “towards”) be mapped on the same enhanced
+   label, despite having different lemmas.
+   We use the underscore
    character (“_”) to connect member words. The same approach can also be taken when a node has multiple case markers that are not
    annotated as a fixed expression, e.g., `out_of` for “out of business”.
 4. [Case information](#case-information) –
@@ -400,7 +425,10 @@ Similarly, the enhanced representation can also distinguish private dependents o
 
 ## Controlled/raised subjects
 
-The _basic_ trees lack a subject dependency between a controlled verb and its controller or between an embedded verb and its raised subject. In the _enhanced_ graph, there is an additional dependency between the embedded verb and the subject of the matrix clause.
+The _basic_ trees lack a subject dependency between a controlled verb and its controller
+or between an embedded verb and its raised subject. In the _enhanced_ graph, there is an
+additional dependency between the embedded verb and the subject of the matrix clause.
+This dependency can be recognized by the extension (subtype) `:xsubj`.
 
 <table id="control-raising-example1"> <!--Mary wants to buy a book .-->
 <thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
@@ -416,8 +444,8 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 </div>
 </td><td width="600">
 <div class="conllu-parse">
-# visual-style 4 1 nsubj color:blue
-1 Mary  _ _ _ _ 2 nsubj 4:nsubj _
+# visual-style 4 1 nsubj:xsubj color:blue
+1 Mary  _ _ _ _ 2 nsubj 4:nsubj:xsubj _
 2 wants _ _ _ _ 0 root  _ _
 3 to    _ _ _ _ 4 mark  _ _
 4 buy   _ _ _ _ 2 xcomp _ _
@@ -442,8 +470,8 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 </div>
 </td><td width="600">
 <div class="conllu-parse">
-# visual-style 5 1 nsubj color:blue
-1 She     _ _ _ _ 2 nsubj 5:nsubj _
+# visual-style 5 1 nsubj:xsubj color:blue
+1 She     _ _ _ _ 2 nsubj 5:nsubj:xsubj _
 2 seems   _ _ _ _ 0 root  _ _
 3 to      _ _ _ _ 5 mark  _ _
 4 be      _ _ _ _ 5 aux   _ _
@@ -451,6 +479,56 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 6 a       _ _ _ _ 7 det   _ _
 7 book    _ _ _ _ 5 obj   _ _
 8 .       _ _ _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+<table id="control-raising-example1"> <!--Mary made me buy the house .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 Mary  _ _ _ _ 2 nsubj _ _
+2 made  _ _ _ _ 0 root  _ _
+3 me    _ _ _ _ 2 obj   _ _
+4 buy   _ _ _ _ 2 xcomp _ _
+5 the   _ _ _ _ 6 det   _ _
+6 house _ _ _ _ 4 obj   _ _
+7 .     _ _ _ _ 2 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 4 3 nsubj:xsubj color:blue
+1 Mary  _ _ _ _ 2 nsubj _ _
+2 made  _ _ _ _ 0 root  _ _
+3 me    _ _ _ _ 2 obj   4:nsubj:xsubj _
+4 buy   _ _ _ _ 2 xcomp _ _
+5 the   _ _ _ _ 6 det   _ _
+6 house _ _ _ _ 4 obj   _ _
+7 .     _ _ _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+<table id="control-raising-example1"> <!--Mary wants me to be promoted .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 Mary     _ _ _ _ 2 nsubj    _ _
+2 wants    _ _ _ _ 0 root     _ _
+3 me       _ _ _ _ 2 obj      _ _
+4 to       _ _ _ _ 6 mark     _ _
+5 be       _ _ _ _ 6 aux:pass _ _
+6 promoted _ _ _ _ 2 xcomp    _ _
+7 .        _ _ _ _ 2 punct    _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 6 3 nsubj:pass:xsubj color:blue
+1 Mary     _ _ _ _ 2 nsubj    _ _
+2 wants    _ _ _ _ 0 root     _ _
+3 me       _ _ _ _ 2 obj      6:nsubj:pass:xsubj _
+4 to       _ _ _ _ 6 mark     _ _
+5 be       _ _ _ _ 6 aux:pass _ _
+6 promoted _ _ _ _ 2 xcomp    _ _
+7 .        _ _ _ _ 2 punct    _ _
 </div>
 </td></tr></tbody>
 </table>
@@ -649,26 +727,50 @@ The augmented relations are `nmod`, `acl`, `obl` and `advcl`; if it makes sense 
 augmented: `obj`, `iobj`, `ccomp`.
 Case information may be represented by the lemma of an adposition attached via a `case` relation.
 For clauses, the corresponding information may be represented by the lemma of a `mark` dependent instead.
-<!-- DZ: Do we really want to include cc dependents here? How are they related to case? Don't we want to make them augment conj relations instead? -->
 Case information may also be represented by the value of the morphological feature [Case](/u/feat/Case.html).
 In some languages, there is both the adposition and the morphological case, and their combination must be reflected in the enhanced relation.
 
+In a similar manner, enhanced UD graphs also contain `conj` relations that are augmented with their coordinating conjunction.
+This makes the type of coordination between two phrases more explicit which is particularly useful in phrases with multiple
+coordinating conjunctions.
+
 The following formal rules apply (copied from the summary at the beginning of this page):
 
-* Adposition or conjunction that occurs as a `case` or `mark` <!--or `cc` ?--> dependent of the node whose relation to its
+* Adposition or conjunction that occurs as a `case` or `mark` or `cc` dependent of the node whose relation to its
   parent is being enhanced. Note that this is the only part where non-ASCII letters are permitted within the enhanced relation label.
   The word should be normalized (lowercased, no typos), i.e., in general we take its lemma. However, if the case/mark dependent is
   a fixed multi-word expression, the lemma of the expression is not necessarily composed of lemmas of the individual member words.
   For instance, the string representing the English expression “As Opposed To” is `as_opposed_to`. That is, the casing is normalized
-  from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. We use the underscore
+  from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. Similarly,
+  grammaticalized deverbal connectives such as “regarding” may in some languages (if required by the language-specific guidelines)
+  still be tagged [VERB](), despite being attached as [case](), and their lemma will thus be verbal (“regard”); nevertheless,
+  the corresponding deprel extension should be the grammaticalized form, i.e., “regarding”.
+  Language-specific guidelines may also specify that certain synonyms (e.g., “toward” and “towards”) be mapped on the same enhanced
+  label, despite having different lemmas.
+  We use the underscore
   character (“_”) to connect member words. The same approach can also be taken when a node has multiple case markers that are not
-   annotated as a fixed expression, e.g., `out_of` for “out of business”.
+  annotated as a fixed expression, e.g., `out_of` for “out of business”.
   * Multiple `case` or `mark` nodes may occur even if it is not a fixed expression. For example, a type of adverbial clause
     in Dutch uses two markers _om_ and _te_, the first one roughly corresponding to English “so that”, the second one being
     an infinitive marker. The incoming dependency of the subordinate clause will then be labeled `advcl:om_te`.
+  * Case markers may be coordinated, as in _they transport goods <b>to and from</b> Prague_. Here there are two different relations
+    between the verb and the nominal: `obl:to` and `obl:from`. Both will be added to the enhanced graph.
+    <!-- https://github.com/UniversalDependencies/docs/issues/854 -->
 * Morphological case of the node whose relation to its parent is being enhanced. Value corresponds to the value of
   the Case feature but it is lowercased (e.g., `gen` instead of `Gen`). Unlike in morphological features, multivalues with comma
   (`Case=Acc,Dat`) are not allowed. Case information in enhanced relations must be fully disambiguated.
+  * In certain languages and situations, the morphological case is combined with a lexical case marker (adposition).
+    This is particularly useful if adpositions in the language select a subset of the morphological cases available
+    and if the same adposition may have different meanings with different morphological cases.
+  * It may happen that two adpositions are coordinated, each selects a different morphological case and the noun can satisfy only
+    one of the case requirements. For instance, [cs] _Lidé se rozutekli <b>před a během útoku</b>._ “People ran away <b>before
+    and during the attack</b>.” The first preposition requires instrumental, the second requires genitive, the noun is in genitive.
+    However, the relations in the enhanced graph should be `obl:před:ins` and `obl:během:gen`. The first relation should indicate
+    instrumental despite the fact that the surface form of the noun in the current sentence is not instrumental, and its morphological
+    feature is `Case=Gen`. The relation `obl:před:gen` does not exist in the language and has no meaning. (Note however that
+    instrumental is not the only option with this preposition; accusative is also possible, and `obl:před:acc` does not mean
+    the same thing as `obl:před:ins`.)
+    <!-- https://github.com/UniversalDependencies/docs/issues/854 -->
 
 <table> <!--the house on the hill-->
 <tbody><tr><td width="600">
@@ -832,6 +934,67 @@ The following formal rules apply (copied from the summary at the beginning of th
 </td></tr></tbody>
 </table>
 
+<table> <!--Lidé se rozutekli před a během útoku. \n People ran away before and during the attack.-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+# visual-style 3 7 obl color:green
+# visual-style 4 6 conj color:green
+# text = Lidé se rozutekli před a během útoku.
+1  Lidé      People     NOUN   _  Case=Nom  3  nsubj     _  _
+2  se        themselves PRON   _  Case=Acc  3  expl:pv   _  _
+3  rozutekli scattered  VERB   _  _         0  root      _  _
+4  před      before     ADP    _  Case=Ins  7  case      _  _
+5  a         and        CCONJ  _  _         6  cc        _  _
+6  během     during     ADP    _  Case=Gen  4  conj      _  _
+7  útoku     attack     NOUN   _  Case=Gen  3  obl       _  SpaceAfter=No
+8  .         .          PUNCT  _  _         3  punct     _  _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 3 7 obl:během:gen color:blue
+# visual-style 3 7 obl:před:ins color:blue
+# visual-style 4 6 conj:a color:blue
+# text = Lidé se rozutekli před a během útoku.
+1  Lidé      People     NOUN   _  Case=Nom  3  nsubj          _  _
+2  se        themselves PRON   _  Case=Acc  3  expl:pv        _  _
+3  rozutekli scattered  VERB   _  _         0  root           _  _
+4  před      before     ADP    _  Case=Ins  7  case           _  _
+5  a         and        CCONJ  _  _         6  cc             _  _
+6  během     during     ADP    _  Case=Gen  4  conj:a         _  _
+7  útoku     attack     NOUN   _  Case=Gen  3  obl:během:gen  3:obl:před:ins  SpaceAfter=No
+8  .         .          PUNCT  _  _         3  punct          _  _
+</div>
+</td></tr></tbody>
+</table>
+
+<table> <!--apples and bananas, or oranges-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+# visual-style 1 3 conj color:green
+# visual-style 1 6 conj color:green
+1  apples  _ _ _ _ 0 root  _ _
+2  and     _ _ _ _ 3 cc    _ _
+3  bananas _ _ _ _ 1 conj  _ SpaceAfter=No
+4  ,       _ _ _ _ 6 punct _ _
+5  or      _ _ _ _ 6 cc    _ _
+6  oranges _ _ _ _ 1 conj  _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 1 3 conj:and color:blue
+# visual-style 1 6 conj:or color:blue
+1  apples  _ _ _ _ 0 root     _ _
+2  and     _ _ _ _ 3 cc       _ _
+3  bananas _ _ _ _ 1 conj:and _ SpaceAfter=No
+4  ,       _ _ _ _ 6 punct    _ _
+5  or      _ _ _ _ 6 cc       _ _
+6  oranges _ _ _ _ 1 conj:or  _ _
+</div>
+</td></tr></tbody>
+</table>
+
+
+
 ## Additional enhancements
 
 Some postprocessing steps such as demoting light nouns that behave like quantificational determiners (as, for example, described in [Schuster and Manning (2016)](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf)) can improve the usability of the dependency graphs for downstream applications. However, as most of these additions are highly language-specific, we do not provide any universal guidelines for such a representation and anything beyond the above additions is not part of the UD standard and should not be added to the officially released treebanks.
@@ -842,8 +1005,5 @@ DZ: Here are some additional thoughts on things that are not part of the officia
 but I think that they should be considered for addition in the future (based on experience with the
 treebanks that already contain some enhanced annotation).
 
-* If a corpus does not annotate any of the enhancements defined in the guidelines, it should always have the underscore character in the DEPS column. That is, the enhanced graph should not be just an exact copy of the basic tree. Otherwise it creates the impression that the user can expect some enhancements while there are actually none.
-* If one sentence in a corpus has the enhanced graph, then all sentences in the corpus must have it. It will facilitate processing of the corpus.
 * While individual enhancement types are optional, once a particular enhancement type is annotated somewhere in the corpus, the authors should annotate it everywhere in the corpus. This cannot be checked automatically for some enhancement types, but obviously the user will then assume that non-presence of the annotation in a sentence means that the phenomenon does not occur there.
-* It would be useful if one could recognize from the enhanced relation type what type of enhancement it represents. (Some relations may be a result of two enhancement types combined.) The Stanford Enhancer does this at least for the controlled subjects (generating `nsubj:xsubj`, `nsubj:pass:xsubj`, `csubj:xsubj`, or `csubj:pass:xsubj` for the new enhanced relation) but in fact, the `:xsubj` extension is not supported in the guidelines and is technically illegal.
-* Besides adding case information to `nmod`, `obl`, `acl`, and `advcl`, the Stanford Enhancer also adds conjunction information to `conj`. This is not allowed in the guidelines and thus illegal; however, several UD treebanks already contain it and, arguably, its usefulness can be compared to that of case information.
+* It would be useful if one could recognize from the enhanced relation type what type of enhancement it represents. (Some relations may be a result of two enhancement types combined.) The Stanford Enhancer does this at least for the controlled subjects (generating `nsubj:xsubj`, `nsubj:pass:xsubj`, `csubj:xsubj`, or `csubj:pass:xsubj` for the new enhanced relation).

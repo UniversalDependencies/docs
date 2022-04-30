@@ -16,4 +16,4 @@ csubj(prinde, aleargă)
 A greși e omenesc . \n To err is human .
 csubj(omenesc, greși)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:59 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:48 CET 2021 -->

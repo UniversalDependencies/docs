@@ -14,12 +14,35 @@ The fixed relation is used for certain fixed grammaticized expressions with func
 Fixed expressions are annotated in a flat, head-initial structure, in which all words in the expression modify the first one using the
 `fixed` label.
 
-At present, this relation is used inside the following expressions: 
+At present, this relation is used inside the following expressions, semantically grouped for convenience: 
+
+| Category | Expressions |
+|----------|-------------|
+| [Augmentative/substitutive/conjunctive](#augmentativesubstitutiveconjunctive-expressions) | *as well*, *as well as*, *rather than*, *instead of*, *let alone* |
+| [Causal](#causal-connectives) | *because of*, *due to*, *how come*, *in order*, *so as to*, *so that* |
+| [Spatiotemporal](#spatiotemporal-markers) | *in between*, *prior to* |
+| [Circumstantial/conditional](#circumstantialconditional-connectives) | *in case (of)*, *whether or not* |
+| [Approximators](#approximators-quantity-modifiers) | with a quantity: *more than*, *less than*, *up to*, *as many/much/few/little as* |
+| [Attributional](#attributional-markers) | *according to* |
+| [Exemplification](#exemplification) | *such as* |
+| [Pragmatic/miscellaneous](#pragmaticmiscellaneous-markers) | *all but*, *as if*, *as opposed to*, *as to*, *at least* (non-quantity), *kind/sort of* (hedge), *not to mention*, *of course*, *that is* |
+| [NEED DISCUSSION](#need-discussion) | *one another*, *had better* |
+
+Below the description of `fixed` expressions are a few idiomatic combinations that are [analyzed without `fixed`](#not-fixed). These are summarized as follows:
+
+| Non-`fixed` Expressions |
+|-------------------------|
+| Double spatial prepositions: *out of*, *off of*, etc. |
+| *as soon/long as*; *at all*, *at best/worst*, *by far*; *at most/least* (with quantities); *compared to/with*; *nothing/anything but*; *so long*; *what about*, *what if* |
+
+## `fixed` expressions
+
+### Augmentative/substitutive/conjunctive expressions
 
 *as well*
 
 ~~~ sdparse
-I like dogs as well
+I like dogs as/ADV well/ADV
 advmod(like, as)
 fixed(as, well)
 ~~~
@@ -27,39 +50,38 @@ fixed(as, well)
 *as well as*
 
 ~~~ sdparse
-I like dogs as well as cats
+I like dogs as/ADV well/ADV as/ADP cats
 fixed(as-4, well)
 fixed(as-4, as-6)
 cc(cats, as-4)
 conj(dogs, cats)
 ~~~
 
-*such as*
+<!-- TODO: add POS tags for remaining examples -->
+
+*rather than* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
+
+Typically analyzed as a coordinating conjunction:
 
 ~~~ sdparse
-I like fluffy animals , such as dogs
-case(dogs, such)
-fixed(such, as)
+I decided to get a dog rather than a cat
+fixed(rather, than)
+cc(cat, rather)
+conj(dog, cat)
 ~~~
 
-
-*due to* (and other forms, such as *d t* and *d/t*)
+However, when fronted, it attaches as `case` or `mark`:
 
 ~~~ sdparse
-He cried due to the fact that you hurt him
-case(fact, due)
-fixed(due, to)
+Rather than a cat , I decided to get a dog.
+fixed(Rather, than)
+case(cat, Rather)
+obl(decided, cat)
 ~~~
 
-*because of* (and other forms, such as *b c of* and *b/c of*)
+*instead of* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
 
-~~~ sdparse
-He cried because of you
-case(you, because)
-fixed(because, of)
-~~~
-
-*instead of*
+Similar in meaning to *rather than*, but never analyzed as a coordinating conjunction, always `case` or `mark`:
 
 ~~~ sdparse
 John went instead of Mary
@@ -72,6 +94,101 @@ John left early instead of staying for the whole thing
 fixed(instead, of)
 mark(staying, instead)
 ~~~
+
+*let alone*
+
+~~~ sdparse
+He could n't handle being hurt , let alone hurt by you
+fixed(let, alone)
+cc(hurt-10, let)
+conj(hurt-6, hurt-10)
+~~~
+
+
+### Causal connectives
+
+*because of* (and other forms, such as *b c of* and *b/c of*)
+
+~~~ sdparse
+He cried because of you
+case(you, because)
+fixed(because, of)
+~~~
+
+*due to* (and other forms, such as *d t* and *d/t*)
+
+~~~ sdparse
+He cried due to the fact that you hurt him
+case(fact, due)
+fixed(due, to)
+~~~
+
+*how come*
+
+~~~ sdparse
+How come John left early ?
+fixed(How, come)
+mark(left, How)
+~~~
+
+*in order*
+
+~~~ sdparse
+He cried in order to make you feel bad
+mark(feel, in)
+fixed(in, order)
+~~~
+
+~~~ sdparse
+He cried in order that you might feel bad
+mark(feel, in)
+fixed(in, order)
+~~~
+
+~~~ sdparse
+He cried in order for you to have something to feel bad about
+mark(have, in)
+fixed(in, order)
+~~~
+
+*so as to*
+
+~~~ sdparse
+John left early so as to miss the meeting
+fixed(so, as)
+fixed(so, to)
+mark(miss, so)
+~~~
+
+*so that*
+
+~~~ sdparse
+He cried so that you would feel bad
+mark(feel, so)
+fixed(so, that)
+~~~
+
+
+### Spatiotemporal markers
+
+*in between*
+
+~~~ sdparse
+John left in between meetings
+fixed(in, between)
+case(meetings, in)
+~~~
+
+*prior to*
+
+~~~ sdparse
+John left prior to the meeting
+fixed(prior, to)
+case(meeting, prior)
+~~~
+
+
+### Circumstantial/conditional connectives
 
 *in case*
 
@@ -97,21 +214,17 @@ fixed(in, of)
 case(crash, in)
 ~~~
 
-*of course*
+*whether or not*
 
 ~~~ sdparse
-I like dogs , of course
-advmod(like, of)
-fixed(of, course)
+He 's crying whether or not you feel bad about it
+fixed(whether, or)
+fixed(whether, not)
+mark(feel, whether)
 ~~~
 
-*so that*
 
-~~~ sdparse
-He cried so that you would feel bad
-mark(feel, so)
-fixed(so, that)
-~~~
+### Approximators (quantity modifiers)
 
 *more than* (when used synonymously with "over" in a quantity)
 
@@ -137,6 +250,18 @@ fixed(Up, to)
 advmod(percent, Up)
 ~~~
 
+*as many/much/few/little as* (when used in quantities)  <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/281 -->
+
+~~~ sdparse
+As much as fifty percent
+fixed(As, much)
+fixed(As, as)
+advmod(percent, As)
+~~~
+
+
+### Attributional markers
+
 *according to*
 
 ~~~ sdparse
@@ -145,41 +270,26 @@ fixed(According, to)
 case(John, According)
 ~~~
 
-*in order*
+
+### Exemplification
+
+*such as*
 
 ~~~ sdparse
-He cried in order to make you feel bad
-mark(feel, in)
-fixed(in, order)
+I like fluffy animals , such as dogs
+case(dogs, such)
+fixed(such, as)
 ~~~
 
-~~~ sdparse
-He cried in order that you might feel bad
-mark(feel, in)
-fixed(in, order)
-~~~
+
+### Pragmatic/miscellaneous markers
+
+*all but*
 
 ~~~ sdparse
-He cried in order for you to have something to feel bad about
-mark(have, in)
-fixed(in, order)
-~~~
-
-*rather than*
-
-~~~ sdparse
-I decided to get a dog rather than a cat
-fixed(rather, than)
-cc(cat, rather)
-conj(dog, cat)
-~~~
-
-*at least* (when not used for quantities)
-
-~~~ sdparse
-At least I like dogs
-fixed(At, least)
-advmod(like, At)
+John has all but left
+fixed(all, but)
+advmod(left, all)
 ~~~
 
 *as if*
@@ -190,12 +300,13 @@ fixed(as, if)
 mark(cried, as)
 ~~~
 
-*prior to*
+*as opposed to*
 
 ~~~ sdparse
-John left prior to the meeting
-fixed(prior, to)
-case(meeting, prior)
+John decided to leave early , as opposed to Mary
+fixed(as, opposed)
+fixed(as, to-9)
+case(Mary, as)
 ~~~
 
 *as to*
@@ -212,21 +323,20 @@ fixed(As, to)
 case(love, As)
 ~~~
 
+*at least* (when not used for quantities)
+
+~~~ sdparse
+At least I like dogs
+fixed(At, least)
+advmod(like, At)
+~~~
+
 *kind of*, *sort of* (as a hedge)
 
 ~~~ sdparse
 I kind of like dogs
 fixed(kind, of)
 advmod(like, kind)
-~~~
-
-*whether or not*
-
-~~~ sdparse
-He 's crying whether or not you feel bad about it
-fixed(whether, or)
-fixed(whether, not)
-mark(feel, whether)
 ~~~
 
 *not to mention*
@@ -239,47 +349,12 @@ cc(staff, not)
 conj(food, staff)
 ~~~
 
-*as opposed to*
+*of course*
 
 ~~~ sdparse
-John decided to leave early , as opposed to Mary
-fixed(as, opposed)
-fixed(as, to-9)
-case(Mary, as)
-~~~
-
-*let alone*
-
-~~~ sdparse
-He could n't handle being hurt , let alone hurt by you
-fixed(let, alone)
-cc(hurt-10, let)
-conj(hurt-6, hurt-10)
-~~~
-
-*so as to*
-
-~~~ sdparse
-John left early so as to miss the meeting
-fixed(so, as)
-fixed(so, to)
-mark(miss, so)
-~~~
-
-*in between*
-
-~~~ sdparse
-John left in between meetings
-fixed(in, between)
-case(meetings, in)
-~~~
-
-*all but*
-
-~~~ sdparse
-John has all but left
-fixed(all, but)
-advmod(left, all)
+I like dogs , of course
+advmod(like, of)
+fixed(of, course)
 ~~~
 
 *that is*
@@ -290,21 +365,8 @@ fixed(that, is)
 advmod(trained, that)
 ~~~
 
-*how come*
 
-~~~ sdparse
-How come John left early ?
-fixed(How, come)
-mark(left, How)
-~~~
-
-*had better* (and *'d better*)
-
-~~~ sdparse
-You had better apologize
-fixed(had, better)
-aux(apologize, had)
-~~~
+### NEED DISCUSSION
 
 *one another* (as a reciprocal pronoun; however, `fixed` is not currently used for *each other*)
 
@@ -314,9 +376,19 @@ fixed(one, another)
 aux(saw, one)
 ~~~
 
+*had better* (and *'d better*)
 
-### Not `fixed`s
-The following are **not** annotated as `fixed`s, but are instead labeled according to their apparent internal structure.
+** Disputed—see [issue #803](https://github.com/UniversalDependencies/docs/issues/803) **
+
+~~~ sdparse
+You had better apologize
+fixed(had, better)
+aux(apologize, had)
+~~~
+
+
+## Not `fixed`
+The following are **not** annotated as `fixed`, but are instead labeled according to their apparent internal structure.
 
 *out of*, *off of* (All double prepositions denoting spatial relations are annotated with two cases on the nominal)
 
@@ -402,4 +474,32 @@ advmod(long, So)
 vocative(long, Ham)
 parataxis(long, missed)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:05 CEST 2021 -->
+
+*nothing but X*, *anything but X*: *but* is treated as a preposition like *except* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/272 -->
+
+~~~ sdparse
+Harriet eats nothing but tomato sandwiches
+nmod(nothing, sandwiches)
+case(sandwiches, but)
+~~~
+
+*compared to/with X*: *compared* is treated as a verb <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/78 -->
+
+~~~ sdparse
+This glass is tall compared to that one
+advcl(tall, compared)
+obl(compared, one)
+case(one, to)
+~~~
+
+*as soon as*, *as long as* (standard [comparative analysis](/u/overview/specific-syntax.html#comparatives); contrast coordinating *as well as* above)
+
+~~~ sdparse
+Let 's leave as soon as it ends .
+advmod(leave, soon)
+advmod(soon, as-4)
+advcl(soon, ends)
+mark(ends, as-6)
+nsubj(ends, it)
+~~~
+<!-- Interlanguage links updated St lis 3 20:58:53 CET 2021 -->

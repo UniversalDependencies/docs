@@ -24,14 +24,14 @@ The following 53 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 13 2 parataxis	color:blue
 1	'	'	PUNCT	Punct	_	2	punct	_	SpaceAfter=No
 2	Tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	13	parataxis	_	_
-3	téagar	téagar	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	2	nsubj	_	_
+3	téagar	téagar	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	sna	i	ADP	Art	Number=Plur|PronType=Art	5	case	_	_
-5	páirteanna	páirt	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Plur	2	obl	_	_
+5	páirteanna	páirt	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	obl	_	_
 6	a	a	PART	Vb	Form=Direct|PartType=Vb|PronType=Rel	7	obj	_	_
 7	fhaigheann	faigh	VERB	VT	Form=Len|Mood=Ind|Tense=Pres	5	acl:relcl	_	_
 8	tú	tú	PRON	Pers	Number=Sing|Person=2	7	nsubj	_	_
 9	i	i	ADP	Simp	_	10	case	_	_
-10	scannán	scannán	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	scannán	scannán	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 11	,	,	PUNCT	Punct	_	2	punct	_	SpaceAfter=No
 12	'	'	PUNCT	Punct	_	2	punct	_	_
 13	ar	ar	VERB	PastInd	Mood=Ind|Tense=Past	0	root	_	_
@@ -51,8 +51,8 @@ The following 53 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	nílirse	bí	VERB	PresInd	Form=Emp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres	0	root	_	_
 3	sásta	sásta	ADJ	Adj	Degree=Pos	2	xcomp:pred	_	SpaceAfter=No
 4	,	,	PUNCT	Punct	_	5	punct	_	_
-5	bóthar	bóthar	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	2	parataxis	_	_
-6	geal	geal	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	5	amod	_	_
+5	bóthar	bóthar	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	_
+6	geal	geal	ADJ	Adj	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	_
 7	atá	bí	VERB	PresInd	Form=Direct|Mood=Ind|PronType=Rel|Tense=Pres	5	csubj:cleft	_	_
 8	uait	ó	ADP	Prep	Number=Sing|Person=2	7	xcomp:pred	_	SpaceAfter=No
 9	!	!	PUNCT	!	_	2	punct	_	_
@@ -66,17 +66,17 @@ The following 53 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 6 parataxis	color:blue
-1	Suim	suim	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
+1	Suim	suim	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	sa	i	ADP	Art	Number=Sing|PronType=Art	3	case	_	_
-3	Cheol	ceol	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	1	nmod	_	_
+3	Cheol	ceol	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	1	nmod	_	_
 4	-	-	PUNCT	Punct	_	6	punct	_	_
 5	An	an	PART	Vb	PartType=Vb	6	mark:prt	_	_
 6	bhfuil	bí	VERB	PresInd	Form=Ecl|Mood=Ind|Tense=Pres	1	parataxis	_	_
-7	mórán	mórán	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	6	nsubj	_	_
-8	suim	suim	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	7	nmod	_	_
+7	mórán	mórán	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	suim	suim	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	_
 9	agat	ag	ADP	Prep	Number=Sing|Person=2	6	obl:prep	_	_
 10	i	i	ADP	Simp	_	11	case	_	_
-11	gceol	ceol	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+11	gceol	ceol	NOUN	Noun	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 12	?	?	PUNCT	?	_	1	punct	_	_
 
 ~~~

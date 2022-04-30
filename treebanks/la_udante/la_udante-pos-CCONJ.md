@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-UDante: POS Tags: `CCONJ`
 
-There are 40 `CCONJ` lemmas (1%), 41 `CCONJ` types (0%) and 3298 `CCONJ` tokens (6%).
-Out of 16 observed tags, the rank of `CCONJ` is: 9 in number of lemmas, 11 in number of types and 7 in number of tokens.
+There are 40 `CCONJ` lemmas (1%), 41 `CCONJ` types (0%) and 3150 `CCONJ` tokens (6%).
+Out of 16 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 11 in number of types and 7 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>et, sed, uel, ergo, neque, que, atque, autem, siue, scilicet</em>
+The 10 most frequent `CCONJ` lemmas: <em>et, sed, uel, neque, que, atque, autem, siue, scilicet, aut</em>
 
-The 10 most frequent `CCONJ` types:  <em>et, sed, vel, nec, ergo, que, autem, sive, atque, scilicet</em>
+The 10 most frequent `CCONJ` types:  <em>et, sed, vel, nec, que, autem, sive, atque, scilicet, aut</em>
 
-The 10 most frequent ambiguous lemmas: <em>et</em> (<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 1744, <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 49, <tt><a href="la_udante-pos-X.html">X</a></tt> 2), <em>que</em> (<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 138, <tt><a href="la_udante-pos-X.html">X</a></tt> 1), <em>unde</em> (<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> 44, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 5), <em>ideo</em> (<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 12), <em>tum</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 10, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 5), <em>tamen</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 59, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 3), <em>ceu</em> (<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 2), <em>propterea</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 3, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 1), <em>quapropter</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 9, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 2), <em>quia</em> (<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 169, <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 2, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>et</em> (<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 1744, <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 49, <tt><a href="la_udante-pos-X.html">X</a></tt> 2), <em>que</em> (<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 138, <tt><a href="la_udante-pos-X.html">X</a></tt> 1), <em>unde</em> (<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> 44, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 5), <em>ideo</em> (<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 12), <em>ergo</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 148, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 9), <em>tum</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 10, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 5), <em>tamen</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 59, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 3), <em>ceu</em> (<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 2), <em>propterea</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 3, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 1), <em>quapropter</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 9, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 1498, <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 48, <tt><a href="la_udante-pos-X.html">X</a></tt> 2), <em>que</em> (<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> 306, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 138, <tt><a href="la_udante-pos-DET.html">DET</a></tt> 4, <tt><a href="la_udante-pos-X.html">X</a></tt> 1), <em>unde</em> (<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> 17, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> 1), <em>ideo</em> (<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 12), <em>tum</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 9, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 5), <em>tamen</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 59, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 3), <em>Quapropter</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 8, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ceu</em> (<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 1), <em>propterea</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 3, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 1), <em>quia</em> (<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 164, <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 2, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 1498, <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 48, <tt><a href="la_udante-pos-X.html">X</a></tt> 2), <em>que</em> (<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> 306, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 138, <tt><a href="la_udante-pos-DET.html">DET</a></tt> 4, <tt><a href="la_udante-pos-X.html">X</a></tt> 1), <em>unde</em> (<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> 17, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> 1), <em>ideo</em> (<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 12), <em>ergo</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 136, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 9), <em>tum</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 9, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 5), <em>tamen</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 59, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 3), <em>Quapropter</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 8, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ceu</em> (<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 1), <em>propterea</em> (<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 3, <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>et</em>
@@ -35,6 +35,9 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="la_udante-pos-C
 * <em>ideo</em>
   * <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 15: <em>Et respondeo quod <b>ideo</b> non fuit circularis , quia materia non sufficiebat ad tantam elevationem .</em>
   * <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 12: <em>Et <b>ideo</b> divinitus in nobis esse credendum est quod in actu nostrorum effectuum ordinato letamur .</em>
+* <em>ergo</em>
+  * <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 136: <em>Pudeat <b>ergo</b> tam ab infra , non de celo ut absolvat , argui vel moneri .</em>
+  * <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 9: <em>Preterea , res dicitur melior per esse propinquior optime ; et finis habet rationem optimi ; sed fieri per unum est propinquius fini : <b>ergo</b> est melius .</em>
 * <em>tum</em>
   * <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 9: <em>- Nam solus eram , puer , incola silve ; irruerant alii causis adigentibus urbem , nec <b>tum</b> Nisa michi nec respondebat Alexis , suetus uterque comes .</em>
   * <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 5: <em>Unde cum in amore veritatis a pueritia mea continue sim nutritus , non sustinui questionem prefatam linquere indiscussam ; sed placuit de ipsa verum ostendere , nec non argumenta facta contra dissolvere , <b>tum</b> veritatis amore , <b>tum</b> etiam odio falsitatis .</em>
@@ -50,15 +53,10 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="la_udante-pos-C
 * <em>propterea</em>
   * <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 3: <em>Anne <b>propterea</b> nequam hominum applaudet audacias , et initis presumptionum pocula propinabit ?</em>
   * <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Cum ergo materia circa quam versatur presens tractatus sit admirabilis , et <b>propterea</b> ad admirabile reducenda , ista tria intenduntur in principio exordii sive prologi .</em>
-* <em>quia</em>
-  * <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> 164: <em>De rithimo vero mentionem non facimus , <b>quia</b> de propria cantionis arte non est .</em>
-  * <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> 2: <em>Et me cum : « Si cantat oves et Tityrus hircos aut armenta trahit , <b>quia</b> nam civile canebas urbe sedens carmen ?</em>
-  * <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Cum ergo Papa et Imperator sint id quod sunt per quasdam relationes , <b>quia</b> per Papatum et per Imperiatum , que relationes sunt altera sub ambitu paternitatis et altera sub ambitu dominationis , manifestum est quod Papa et Imperator , in quantum huiusmodi , habent reponi sub predicamento relationis , et per consequens reduci ad aliquod existens sub illo genere .</em>
-  * <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> 1: <em>Ex hiis ergo que declarata sunt patet per quod melius , ymo per quod optime genus humanum pertingit ad opus proprium ; et per consequens visum est propinquissimum medium per quod itur in illud ad quod , velut in ultimum finem , omnia nostra opera ordinantur , <b>quia</b> est pax universalis , que pro principio rationum subsequentium supponatur .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.025000 (the average of all parts of speech is 2.108584).
+The form / lemma ratio of `CCONJ` is 1.025000 (the average of all parts of speech is 2.108945).
 
 The 1st highest number of forms (2) was observed with the lemma “atque”: <em>ac, atque</em>.
 
@@ -66,32 +64,32 @@ The 2nd highest number of forms (2) was observed with the lemma “neque”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “aliter”: <em>aliter</em>.
 
-`CCONJ` occurs with 7 features: <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt> (178; 5% instances), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt> (158; 5% instances), <tt><a href="la_udante-feat-Clitic.html">Clitic</a></tt> (140; 4% instances), <tt><a href="la_udante-feat-Emphatic.html">Emphatic</a></tt> (118; 4% instances), <tt><a href="la_udante-feat-ConjType.html">ConjType</a></tt> (100; 3% instances), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt> (88; 3% instances), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt> (65; 2% instances)
+`CCONJ` occurs with 7 features: <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt> (178; 6% instances), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt> (158; 5% instances), <tt><a href="la_udante-feat-Clitic.html">Clitic</a></tt> (142; 5% instances), <tt><a href="la_udante-feat-Form.html">Form</a></tt> (118; 4% instances), <tt><a href="la_udante-feat-ConjType.html">ConjType</a></tt> (100; 3% instances), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt> (88; 3% instances), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt> (65; 2% instances)
 
-`CCONJ` occurs with 8 feature-value pairs: `Clitic=Yes`, `Compound=Yes`, `ConjType=Expl`, `Emphatic=Yes`, `Polarity=Neg`, `PronType=Dem`, `PronType=Rel`, `VerbForm=Fin`
+`CCONJ` occurs with 8 feature-value pairs: `Clitic=Yes`, `Compound=Yes`, `ConjType=Expl`, `Form=Emp`, `Polarity=Neg`, `PronType=Dem`, `PronType=Rel`, `VerbForm=Fin`
 
 `CCONJ` occurs with 16 feature combinations.
-The most frequent feature combination is `_` (2641 tokens).
-Examples: <em>et, sed, vel, ergo, autem, sive, aut, seu, neque, at</em>
+The most frequent feature combination is `_` (2491 tokens).
+Examples: <em>et, sed, vel, autem, sive, aut, seu, neque, ergo, at</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="la_udante-dep-cc.html">cc</a></tt> (3246; 98% instances), <tt><a href="la_udante-dep-advmod.html">advmod</a></tt> (17; 1% instances), <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (11; 0% instances), <tt><a href="la_udante-dep-discourse.html">discourse</a></tt> (10; 0% instances), <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt> (6; 0% instances), <tt><a href="la_udante-dep-mark.html">mark</a></tt> (6; 0% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (2; 0% instances)
+`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="la_udante-dep-cc.html">cc</a></tt> (3098; 98% instances), <tt><a href="la_udante-dep-advmod.html">advmod</a></tt> (16; 1% instances), <tt><a href="la_udante-dep-discourse.html">discourse</a></tt> (11; 0% instances), <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (11; 0% instances), <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt> (6; 0% instances), <tt><a href="la_udante-dep-mark.html">mark</a></tt> (6; 0% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (2; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1452; 44% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (938; 28% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (446; 14% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (147; 4% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (110; 3% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (75; 2% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (54; 2% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (24; 1% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (17; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1349; 43% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (921; 29% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (428; 14% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (144; 5% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (109; 3% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (75; 2% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (53; 2% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (24; 1% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (16; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-3111 (94%) `CCONJ` nodes are leaves.
+2966 (94%) `CCONJ` nodes are leaves.
 
-160 (5%) `CCONJ` nodes have one child.
+158 (5%) `CCONJ` nodes have one child.
 
-26 (1%) `CCONJ` nodes have two children.
+25 (1%) `CCONJ` nodes have two children.
 
 1 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 3.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="la_udante-dep-punct.html">punct</a></tt> (192; 89% instances), <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (21; 10% instances), <tt><a href="la_udante-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="la_udante-dep-punct.html">punct</a></tt> (188; 89% instances), <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (21; 10% instances), <tt><a href="la_udante-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="la_udante-pos-PUNCT.html">PUNCT</a></tt> (192; 89% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (19; 9% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="la_udante-pos-PUNCT.html">PUNCT</a></tt> (188; 89% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (19; 9% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 

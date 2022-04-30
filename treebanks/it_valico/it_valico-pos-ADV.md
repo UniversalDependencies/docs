@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-Valico: POS Tags: `ADV`
 
-There are 93 `ADV` lemmas (9%), 99 `ADV` types (7%) and 389 `ADV` tokens (6%).
+There are 94 `ADV` lemmas (9%), 99 `ADV` types (7%) and 389 `ADV` tokens (6%).
 Out of 16 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>non, molto, ieri, poi, come, più, così, anche, invece, subito</em>
 
 The 10 most frequent `ADV` types:  <em>non, molto, Ieri, poi, come, più, anche, così, invece, subito</em>
 
-The 10 most frequent ambiguous lemmas: <em>non</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 87, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>molto</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 38, <tt><a href="it_valico-pos-DET.html">DET</a></tt> 5, <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 1), <em>come</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 13, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>così</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 11, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>anche</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 9, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>dopo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3), <em>no</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 2), <em>solo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> 2), <em>bene</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 1), <em>li</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 9, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>non</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 87, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>molto</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 38, <tt><a href="it_valico-pos-DET.html">DET</a></tt> 5, <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 1), <em>come</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 13, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>così</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 10, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>anche</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 9, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>dopo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3), <em>no</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 2), <em>solo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> 2), <em>bene</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 1), <em>li</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 9, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3)
 
 The 10 most frequent ambiguous types:  <em>come</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 11, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>così</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 9, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>prima</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> 1), <em>dopo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 1, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>no</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 1), <em>solo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> 1), <em>bene</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 1), <em>li</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 9, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3), <em>perchè</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1, <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1), <em>dietro</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 1, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1)
 
@@ -53,11 +53,11 @@ The 10 most frequent ambiguous types:  <em>come</em> (<tt><a href="it_valico-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.064516 (the average of all parts of speech is 1.390760).
+The form / lemma ratio of `ADV` is 1.053191 (the average of all parts of speech is 1.389423).
 
-The 1st highest number of forms (3) was observed with the lemma “così”: <em>Cosi, co, così</em>.
+The 1st highest number of forms (3) was observed with the lemma “molto”: <em>moltissimo, moltissomo, molto</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “molto”: <em>moltissimo, moltissomo, molto</em>.
+The 2nd highest number of forms (2) was observed with the lemma “così”: <em>Cosi, così</em>.
 
 The 3rd highest number of forms (2) was observed with the lemma “giù”: <em>GIU, giù</em>.
 

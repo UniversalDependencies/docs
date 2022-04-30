@@ -11,7 +11,7 @@ This relation is universal.
 1020 nodes (4%) are attached to their parents as `root`.
 
 1020 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.08529411764706.
+Average distance between parent and child is 8.0843137254902.
 
 The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (806; 79% instances), -<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (134; 13% instances), -<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (59; 6% instances), -<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (15; 1% instances), -<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), -<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="fr_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
@@ -49,22 +49,23 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 6 root	color:blue
-1	Et	et	CCONJ	CC	_	6	cc	_	_
-2	franchement	franchement	ADV	B	_	6	advmod	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	2	punct	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-5	seuis	être	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	face	face	ADJ	A	Number=Sing	0	root	_	_
-7	à	à	ADP	E	_	9	case	_	_
-8	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	obstacle	obstacle	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
-10	majeur	majeur	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
-11	:	:	PUNCT	FC	_	6	punct	_	_
+# visual-style 0 4 root	color:blue
+1	Mais	mais	CCONJ	CC	_	4	cc	_	_
+2	voici	voici	ADP	E	_	4	discourse	_	_
+3	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	champignon	champignon	ADJ	A	Number=Sing	0	root	_	_
+5	qui	qui	PRON	PR	PronType=Rel	11	nsubj	_	_
+6	n'	ne	PART	PART	Polarity=Neg	11	advmod	_	SpaceAfter=No
+7	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+8	plus	plus	ADV	B	_	11	advmod	_	_
+9	de	de	ADP	E	_	11	case	_	_
+10	première	premier	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	11	amod	_	_
+11	jeunesse	jeunesse	NOUN	S	Gender=Fem|Number=Sing	4	acl:relcl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 

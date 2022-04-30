@@ -14,4 +14,4 @@ by making one of them a constituent of the other.
 - _eftersom_ "because"
 - _om_ "if"
 - _att_ "that" as in _visa <b>att</b> du kan klara det_ "show that you can do it"
-<!-- Interlanguage links updated Pá kvě 14 11:08:25 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:14 CET 2021 -->

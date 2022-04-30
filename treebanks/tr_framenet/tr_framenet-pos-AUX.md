@@ -27,9 +27,9 @@ The 1st highest number of forms (10) was observed with the lemma “mi”: <em>m
 
 The 2nd highest number of forms (3) was observed with the lemma “değil”: <em>değil, değildi, değilim</em>.
 
-`AUX` occurs with 7 features: <tt><a href="tr_framenet-feat-PronType.html">PronType</a></tt> (20; 71% instances), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt> (1; 4% instances), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt> (1; 4% instances), <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt> (1; 4% instances)
+`AUX` occurs with 7 features: <tt><a href="tr_framenet-feat-PronType.html">PronType</a></tt> (20; 71% instances), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt> (1; 4% instances)
 
-`AUX` occurs with 9 feature-value pairs: `Aspect=Perf`, `Mood=Ind`, `Number=Sing`, `Person=1`, `Person=3`, `PronType=Int`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`
+`AUX` occurs with 10 feature-value pairs: `Aspect=Perf`, `Mood=Gen`, `Mood=Ind`, `Number=Sing`, `Person=1`, `Person=3`, `PronType=Int`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`
 
 `AUX` occurs with 4 feature combinations.
 The most frequent feature combination is `PronType=Int` (20 tokens).

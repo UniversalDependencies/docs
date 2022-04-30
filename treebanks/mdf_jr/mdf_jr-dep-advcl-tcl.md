@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-advcl.html">advcl</a></tt>.
 There are also 1 other language-specific subtypes of `advcl`: <tt><a href="mdf_jr-dep-advcl-cau.html">advcl:cau</a></tt>.
 
-12 nodes (0%) are attached to their parents as `advcl:tcl`.
+14 nodes (0%) are attached to their parents as `advcl:tcl`.
 
-8 instances of `advcl:tcl` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.41666666666667.
+10 instances of `advcl:tcl` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.21428571428571.
 
-The following 2 pairs of parts of speech are connected with `advcl:tcl`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (11; 92% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+The following 3 pairs of parts of speech are connected with `advcl:tcl`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (12; 86% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -51,6 +51,43 @@ The following 2 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 5	сядонга	сяда	ADV	Adv	Clitic=AddNgA	6	advmod:deg	_	GTtags=Clt/NgA
 6	кальдяв	кальдяв	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 advcl:tcl	color:blue
+1	А	а	CCONJ	CC	_	3	cc	_	_
+2	завтракамста	завтракамс	VERB	V	Case=Ela|VerbForm=Conv	3	advcl:tcl	_	GTtags=Ger,Ela
+3	кой	кой	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	обедамста-ужнамста	обедамс-ужнамс	VERB	V	Case=Ela|VerbForm=Conv	8	advcl:tcl	_	GTtags=Ger,Ela
+6	аньцек	аньцек	ADV	Adv	_	8	advmod	_	_
+7	и	и	CCONJ	CC	_	6	fixed	_	_
+8	кулят	кулемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	3	conj	_	GTtags=Ind,Prs,ScSg2
+9	сяка	сяка	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing	10	det	_	GTtags=Sg,Nom,Indef
+10	валонц	вал	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Sg,Gen,PxSg3|SpaceAfter=No
+11	:	:	PUNCT	_	_	13	punct	_	_
+12	"	"	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
+13	Ярхцада	ярхцамс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2	10	appos	_	GTtags=Imprt,ScPl2|SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	ярхцада	ярхцамс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2	13	conj	_	GTtags=Imprt,ScPl2
+16	...	...	PUNCT	_	_	15	punct	_	_
+17	"	"	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	бта	бта	ADV	Adv	_	21	mark	_	_
+20	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	21	aux:neg	_	GTtags=Aux,Neg
+21	мярьгондяряй	мярьгомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	25	advcl	_	GTtags=Cond,ScSg3
+22	тяфта	тяфта	ADV	Adv	_	21	advmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	21	punct	_	_
+24	ломаттне	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Plur	25	nsubj	_	GTtags=Pl,Nom,Def
+25	илядыхть	илядомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,ScPl3
+26	вачедоня	вачедоня	ADV	Adv	_	25	advcl	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

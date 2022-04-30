@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 1 different values: `Ped`.
 
 8 tokens (0%) have a non-empty value of `Style`.
-8 types (1%) occur at least once with a non-empty value of `Style`.
+8 types (0%) occur at least once with a non-empty value of `Style`.
 7 lemmas (1%) occur at least once with a non-empty value of `Style`.
 The feature is used with 5 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 ### `DET`
 
-2 <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Style`.
+2 <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Style`.
 
 `DET` tokens may have the following values of `Style`:
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 ### `SCONJ`
 
-2 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (17% of all `SCONJ` tokens) have a non-empty value of `Style`.
+2 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (11% of all `SCONJ` tokens) have a non-empty value of `Style`.
 
 `SCONJ` tokens may have the following values of `Style`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 ### `PART`
 
-1 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (8% of all `PART` tokens) have a non-empty value of `Style`.
+1 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (7% of all `PART` tokens) have a non-empty value of `Style`.
 
 The most frequent other feature values with which `PART` and `Style` co-occurred: <tt><a href="mdf_jr-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%).
 

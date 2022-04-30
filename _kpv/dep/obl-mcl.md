@@ -19,4 +19,4 @@ punct(сьылам-6, ...-7)
 
 ~~~
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:18 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:06 CET 2021 -->

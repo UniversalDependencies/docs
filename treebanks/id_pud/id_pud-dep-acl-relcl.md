@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="id_pud-dep-acl.html">acl</a></tt>.
 
-501 nodes (3%) are attached to their parents as `acl:relcl`.
+511 nodes (3%) are attached to their parents as `acl:relcl`.
 
-499 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.91017964071856.
+509 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.98825831702544.
 
-The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (299; 60% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (128; 26% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (34; 7% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (17; 3% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (308; 60% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (128; 25% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (35; 7% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (20; 4% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 acl:relcl	color:blue
-1	Namun	namun	CCONJ	_	_	4	cc	_	SpaceAfter=No
+1	Namun	namun	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	masih	masih	ADV	_	_	4	advmod	_	_
 4	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
@@ -42,8 +42,8 @@ The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 7 acl:relcl	color:blue
 1	Atau	atau	CCONJ	_	_	4	cc	_	_
-2	apa	apa	PRON	_	PronType=Int	5	nmod	_	_
-3	kah	kah	PART	_	_	2	advmod:emph	_	_
+2	apa	apa	ADV	_	PronType=Int	5	advmod	_	_
+3	kah	kah	PART	_	_	5	advmod:emph	_	_
 4	itu	itu	PRON	_	PronType=Dem	5	nsubj	_	_
 5	standar	standar	NOUN	_	Number=Sing	0	root	_	_
 6	yang	yang	PRON	_	PronType=Rel	7	nsubj	_	_

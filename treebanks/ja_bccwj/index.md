@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Masayuki Asahara, Yusuke Miyao, Takaaki Tanaka, Hiroshi Kanayama, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Yugo Murawaki.
 
 Repository: [UD_Japanese-BCCWJ](https://github.com/UniversalDependencies/UD_Japanese-BCCWJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwj28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwj29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-NC-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -141,11 +141,11 @@ and is a project of the Center for Corpus Development, NINJAL.
 
 
 <ul>
-<li>This corpus contains 57109 sentences and 1253904 tokens.</li>
+<li>This corpus contains 57109 sentences and 1253903 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1247232 tokens (99%) that are not followed by a space.</li>
+<li>This corpus contains 1247231 tokens (99%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -275,7 +275,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-ADP(_) (28330)</li>
+      <li>VERB--NOUN-ADP(_) (28331)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_) (5)</li>
       <li>VERB--PRON-ADP(_) (1999)</li>
       <li>VERB--PRON-ADP(_)-ADP(_) (1)</li>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-267 nodes (1%) are attached to their parents as `mark`.
+376 nodes (1%) are attached to their parents as `mark`.
 
-266 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.9063670411985.
+368 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.86702127659574.
 
-The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (201; 75% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (23; 9% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (19; 7% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `mark`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (289; 77% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (29; 8% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (27; 7% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (6; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,27 +61,21 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 mark	color:blue
-1	А	а	CCONJ	_	_	4	cc	_	_
-2	будет	будетъ	SCONJ	_	_	4	mark	_	_
-3	сеять	сеяти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	_
-4	поздо	поздый	ADJ	AdjType=Predic	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	advcl	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	и	и	CCONJ	_	_	11	cc	_	_
-7	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
-8	бы	бы	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	_	_
-9	ту	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
-10	землю	земля	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
-11	посеял	посеяти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
-12	рожью	рожь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	11	iobj	_	_
-13	ко	ко	ADP	_	_	15	case	_	_
-14	160-му	160-й	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	15	amod	_	_
-15	году	годъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 mark	color:blue
+1	И	и	CCONJ	_	_	5	cc	_	Norm=И
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	Norm=не
+3	вотще	вотще	ADV	_	Degree=Pos	5	advmod	_	Norm=вотще
+4	сіꙗ	сей	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	3	nsubj:pass	_	Norm=сіꙗ
+5	рекошасꙗ	рещи	VERB	Tense=Imp	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Norm=рекошасꙗ|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	Norm=,
+7	ꙗко	яко	SCONJ	_	_	9	mark	_	Norm=ꙗко
+8	всꙗ	весь	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot	9	det	_	Norm=всꙗ
+9	стран(н)аꙗ	странный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	ccomp	_	Norm=страннаꙗ
+10	etc.	etc.	X	_	Foreign=Yes	9	dep	_	Norm=etc.
 
 ~~~
 

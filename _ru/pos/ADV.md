@@ -34,4 +34,4 @@ are tagged [VERB](), not `ADV`.
 - indefinite adverbs: _где-то, куда-то, когда-то, как-то&nbsp;_ “somewhere, to somewhere, sometime, somehow”
 - total adverbs: _везде, всегда&nbsp;_ “everywhere, always”
 - negative adverbs: _нигде, никогда&nbsp;_ “nowhere, never”
-<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:08 CET 2021 -->

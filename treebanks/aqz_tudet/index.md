@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Carolina Aragon, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaqz_tudet28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaqz_tudet29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 

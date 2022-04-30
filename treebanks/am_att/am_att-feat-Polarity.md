@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="am_att-pos-PART.htm
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (197; 100% of non-empty `Polarity`): ኣል, አል, ኣለ, ያለ, አለ, ኣይ, ም, አይ
-* `EMPTY` (678): ን, ም, የ, እም, በ, ኣ, እየ, ከ, ኣን, ው
+* `EMPTY` (677): ን, ም, የ, እም, በ, ኣ, ከ, ኣን, እየ, ው
 

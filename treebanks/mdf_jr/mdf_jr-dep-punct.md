@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-533 nodes (19%) are attached to their parents as `punct`.
+627 nodes (20%) are attached to their parents as `punct`.
 
-339 instances of `punct` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.18574108818011.
+398 instances of `punct` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.11004784688995.
 
-The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (398; 75% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (55; 10% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (40; 8% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (18; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (11; 2% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (6; 1% instances), <tt><a href="mdf_jr-pos-PART.html">PART</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (470; 75% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (64; 10% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (46; 7% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (19; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (14; 2% instances), <tt><a href="mdf_jr-pos-PART.html">PART</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (6; 1% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (6; 1% instances), <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-X.html">X</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `punct`: <tt><a href
 7	:	:	PUNCT	CLB	_	11	punct	_	_
 8	гулянять	гуляня	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	nmod	_	_
 9	пацяняц	паця	NOUN	N	Case=Nom|Derivation=Dimin|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obj	_	_
-10	апак	апак	AUX	Aux	Polarity=Neg	11	aux:neg	_	_
+10	апак	аф	AUX	Aux	Polarity=Neg|VerbForm=Conv,Part	11	aux:neg	_	_
 11	синтть	синдемс	VERB	V	Connegative=Yes|Valency=2	6	csubj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	6	punct	_	_
 

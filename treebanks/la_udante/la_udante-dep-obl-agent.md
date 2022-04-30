@@ -24,7 +24,7 @@ The following 15 pairs of parts of speech are connected with `obl:agent`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 3 obl:agent	color:blue
 1	An	an	PART	co	PartType=Int	7	discourse	_	_
-2	septi	sepio	VERB	vp4prpmv	Aspect=Perf|Case=Voc|Degree=Pos|Gender=Masc|InflClass=LatI|InflClass[noun]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl:pred	_	_
+2	septi	sepio	VERB	vp4prpmv	Aspect=Perf|Case=Voc|Degree=Pos|Gender=Masc|InflClass=LatI|InflClass[nominal]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl:pred	_	_
 3	vallo	uallum	NOUN	sns2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	2	obl:agent	_	_
 4	ridiculo	ridiculus	ADJ	ams1b	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	3	amod	_	_
 5	cuiquam	quisquam	DET	dinsfd	Case=Dat|Compound=Yes|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	6	det	_	_
@@ -49,20 +49,20 @@ The following 15 pairs of parts of speech are connected with `obl:agent`: <tt><a
 6	peccatum	peccatum	NOUN	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	4	nsubj	_	SpaceAfter=No
 7	,	,	PUNCT	Pu	_	4	punct	_	_
 8	conclusio	conclusio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	9	nsubj:pass	_	_
-9	interimenda	interimo	VERB	vp3gvsfn	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[noun]=IndEurA|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	0	root	_	_
+9	interimenda	interimo	VERB	vp3gvsfn	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	0	root	_	_
 10	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
 11	ab	ab	ADP	e	AdpType=Prep	12	case	_	_
 12	illo	ille	DET	ddismb	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	9	obl:agent	_	_
 13	qui	qui	PRON	presmn	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	15	nsubj	_	_
-14	solvere	soluo	VERB	va3fp	Aspect=Imp|InflClass=LatX|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	15	ccomp	_	_
-15	vult	uolo	VERB	va5ips3	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	SpaceAfter=No
+14	solvere	soluo	VERB	va3fp	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	15	ccomp	_	_
+15	vult	uolo	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	SpaceAfter=No
 16	,	,	PUNCT	Pu	_	17	punct	_	_
-17	ostendendo	ostendo	VERB	va3fgb	Aspect=Imp|Case=Abl|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Ger|Voice=Pass	9	advcl	_	_
+17	ostendendo	ostendo	VERB	va3fgb	Aspect=Imp|Case=Abl|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Ger|Voice=Pass	9	advcl	_	_
 18	formam	forma	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	22	nsubj:pass	_	_
 19	sillogisticam	syllogisticus	ADJ	afs1a	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	18	amod	_	_
 20	non	non	PART	r	Polarity=Neg	22	advmod:neg	_	_
-21	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf	22	aux:pass	_	_
-22	servatam	seruo	VERB	vp1fr	Aspect=Perf|InflClass=LatA|InflClass[noun]=Ind|Tense=Past|VerbForm=Inf|Voice=Pass	17	ccomp	_	SpaceAfter=No
+21	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf	22	aux:pass	_	_
+22	servatam	seruo	VERB	vp1fr	Aspect=Perf|InflClass=LatA|InflClass[nominal]=Ind|Tense=Past|VerbForm=Inf|Voice=Pass	17	ccomp	_	SpaceAfter=No
 23	.	.	PUNCT	Pu	_	9	punct	_	_
 
 ~~~
@@ -79,7 +79,7 @@ The following 15 pairs of parts of speech are connected with `obl:agent`: <tt><a
 3	mea	meus	DET	dsnpn	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	_
 4	regna	regnum	NOUN	snp2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	6	nsubj:pass	_	_
 5	tibi	tu	PRON	ppp2smd	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	6	obl:agent	_	_
-6	despecta	despicio	VERB	anp1n	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatI2|InflClass[noun]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	despecta	despicio	VERB	anp1n	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatI2|InflClass[nominal]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 7	?	?	PUNCT	Pu	_	6	punct	_	_
 
 ~~~

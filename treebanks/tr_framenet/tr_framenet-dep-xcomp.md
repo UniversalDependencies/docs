@@ -58,7 +58,7 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 4 xcomp	color:blue
 1	Bıçak	bıçak	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
-2	körelmiş	körel	VERB	_	Aspect=Perf|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	5	parataxis	_	_
+2	körelmiş	körel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	bileylemek	bileyle	NOUN	_	Case=Nom|Number=Sing|Person=3	5	xcomp	_	_
 5	gerek	gerek	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_

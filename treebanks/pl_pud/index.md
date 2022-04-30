@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Alina Wróblewska.
 
 Repository: [UD_Polish-PUD](https://github.com/UniversalDependencies/UD_Polish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pud28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pud29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 

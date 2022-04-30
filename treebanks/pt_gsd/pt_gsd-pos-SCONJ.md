@@ -13,15 +13,15 @@ The 10 most frequent `SCONJ` lemmas: <em>_, que</em>
 
 The 10 most frequent `SCONJ` types:  <em>que</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> 32914, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 9541, <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> 8486, <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 7386, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 4475, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 3571, <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> 2298, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1844, <tt><a href="pt_gsd-pos-PUNCT.html">PUNCT</a></tt> 1601, <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> 1257, <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> 1009, <tt><a href="pt_gsd-pos-PART.html">PART</a></tt> 749, <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> 704, <tt><a href="pt_gsd-pos-X.html">X</a></tt> 529, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 230, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 1), <em>que</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1893, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 2, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> 32806, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 9506, <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> 8462, <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 7364, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 4461, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 3563, <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> 2298, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1840, <tt><a href="pt_gsd-pos-PUNCT.html">PUNCT</a></tt> 1596, <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> 1247, <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> 1008, <tt><a href="pt_gsd-pos-PART.html">PART</a></tt> 746, <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> 703, <tt><a href="pt_gsd-pos-X.html">X</a></tt> 526, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 231, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 1), <em>que</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1889, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 2, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 2968, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 2236, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 114, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 7, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="pt_gsd-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 2962, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 2230, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 115, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 7, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="pt_gsd-pos-X.html">X</a></tt> 1)
 
 
 * <em>que</em>
-  * <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 2968: <em>Ver também a lista de entidades <b>que</b> tenham emitido selos postais .</em>
-  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 2236: <em>" Não podemos fazer outra coisa <b>que</b> sair a as ruas .</em>
-  * <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 114: <em>Dizia que estava sendo abandonado e <b>que</b> tinha muita coisa pra contar .</em>
+  * <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 2962: <em>Ver também a lista de entidades <b>que</b> tenham emitido selos postais .</em>
+  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 2230: <em>" Não podemos fazer outra coisa <b>que</b> sair a as ruas .</em>
+  * <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 115: <em>Dizia que estava sendo abandonado e <b>que</b> tinha muita coisa pra contar .</em>
   * <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 7: <em>Se for assim , <b>que</b> triste realidade .</em>
   * <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 3: <em>Tomara <b>que</b> caia com acessório em a frente ( mais reto , o modelo proporciona um visual horizontal ) ;</em>
   * <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 2: <em>O advogado logo pensou <b>que</b> a punição fosse em razão de o atraso de as mulheres para realizar as tarefas .</em>
@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="pt_gsd-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.500000 (the average of all parts of speech is 3.372893).
+The form / lemma ratio of `SCONJ` is 0.500000 (the average of all parts of speech is 3.372737).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>que</em>.
 

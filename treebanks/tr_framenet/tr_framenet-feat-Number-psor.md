@@ -50,7 +50,7 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 9 <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8; 89%), <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8; 89%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9; 100%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Gen</tt> (8; 89%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8; 89%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
 
@@ -58,5 +58,5 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
 ## Relations with Agreement in `Number[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
-<tt>VERB --[<tt><a href="tr_framenet-dep-list.html">list</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="tr_framenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (8; 53%).
 

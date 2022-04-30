@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-101 nodes (1%) are attached to their parents as `cop`.
+102 nodes (1%) are attached to their parents as `cop`.
 
-98 instances of `cop` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.47524752475248.
+101 instances of `cop` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.47058823529412.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (53; 52% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (32; 32% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (10; 10% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (54; 53% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (34; 33% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (10; 10% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

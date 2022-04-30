@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="la_udante-dep-nsubj-cleft.html">nsubj:cleft</a></tt>.
 
-707 nodes (1%) are attached to their parents as `nsubj:pass`.
+720 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-561 instances of `nsubj:pass` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.40735502121641.
+569 instances of `nsubj:pass` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.37361111111111.
 
-The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (382; 54% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (169; 24% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (95; 13% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (33; 5% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (15; 2% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (389; 54% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (172; 24% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (98; 14% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (34; 5% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (15; 2% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,11 +57,11 @@ The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 7	fgColor:white
 # visual-style 7 1 nsubj:pass	color:blue
 1	Hoc	hic	DET	ddisna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	7	nsubj:pass	_	_
-2	idem	idem	DET	dpnsa	Case=Acc|Emphatic=Yes|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Emp	1	det	_	_
+2	idem	idem	DET	dpnsa	Case=Acc|Form=Emp|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	1	det	_	_
 3	in	in	ADP	e	AdpType=Prep	4	case	_	_
-4	versibus	uersus	NOUN	smp4b	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Plur|VerbForm=Part	6	obl	_	_
-5	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf	6	aux:pass	_	_
-6	servandum	seruo	VERB	vp1gvsna	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	7	xcomp	_	_
+4	versibus	uersus	NOUN	smp4b	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Plur|VerbForm=Sup	6	obl	_	_
+5	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf	6	aux:pass	_	_
+6	servandum	seruo	VERB	vp1gvsna	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	7	xcomp	_	_
 7	astruimus	adstruo	VERB	va3ipp1	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Pu	_	7	punct	_	_
 

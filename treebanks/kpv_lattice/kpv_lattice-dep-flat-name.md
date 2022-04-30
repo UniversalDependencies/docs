@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `flat:name`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="kpv_lattice-dep-flat-num.html">flat:num</a></tt>.
 
-53 nodes (1%) are attached to their parents as `flat:name`.
+54 nodes (1%) are attached to their parents as `flat:name`.
 
-53 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13207547169811.
+54 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.12962962962963.
 
-The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (41; 77% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (8; 15% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (42; 78% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (8; 15% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

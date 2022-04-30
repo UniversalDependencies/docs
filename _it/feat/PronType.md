@@ -5,6 +5,24 @@ shortdef: 'pronominal type'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Prs">Prs</a></td>
+  <td><a href="#Art">Art</a></td>
+  <td><a href="#Int">Int</a></td>
+  <td><a href="#Rel">Rel</a></td>
+  <td><a href="#Dem">Dem</a></td>
+  <td><a href="#Tot">Tot</a></td>
+  <td><a href="#Neg">Neg</a></td>
+  <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Exc">Exc</a></td>
+  <td><a href="#Clit">Clit</a></td>
+  <td><a href="#Predet">Exc</a></td>
+  <td><a href="#Ord">Clit</a></td>
+</tr>
+</table>
+
 This feature typically applies to [pronouns](u-pos/PRON),
 [determiners](u-pos/DET), pronominal [numerals](u-pos/NUM)
 (quantifiers) and pronominal [adverbs](u-pos/ADV).
@@ -30,7 +48,7 @@ Article is a special case of determiner that bears the feature of
 
 #### Examples
 
-* Definite articles (`Definite=Def`): _<b>La</b> luna_ "The moon", _I regali di Natale_ "Christmas presents"
+* Definite articles (`Definite=Def`): _<b>La</b> luna_ "The moon", _<b>I</b> regali di Natale_ "Christmas presents"
 * Indefinite articles (`Definite=Ind`): _<b>Un</b> amico_ "A friend", _<b>Una</b> sorpresa_ "A surprise"
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner, numeral or adverb
@@ -55,9 +73,7 @@ Note: for the time being we do not use the feature `ProntType=Int` interrogative
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner, numeral or adverb
 
-These are often parallel to interrogatives. Some tagsets might also
-distinguish a separate feature of distance (_here / there_; [es] _aquí
-/ ahí / allí_).
+These are often parallel to interrogatives.
 
 #### Examples
 
@@ -74,9 +90,9 @@ We are not using `PronType=Tot`.
 
 ### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
 
-Examples:
+#### Examples:
 
-We distinguish only negative adverbs such as: _non_, _nemmeno, _neppure_.
+We distinguish only negative adverbs such as: _non_, _nemmeno_, _neppure_.
 
 ### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner, numeral or adverb
 
@@ -85,7 +101,7 @@ We distinguish only negative adverbs such as: _non_, _nemmeno, _neppure_.
 * Indefinite pronouns: _uno_ "one", _tutti_ "everybody", _ognuno_ "each one", _chiunque_ "anybody", _qualcosa_ "something", _qualcuno_ "somebody"
 * indefinite determiners: _tutti_ "all", _qualche_ "some", _ogni_ "each", _alcuni_ "some", _diversi_ "several"
 
-### <a name="Exc">`Exc`</a>: exclamative determiners. This value is language specific.
+### <a name="Exc">`Exc`</a>: exclamative determiners.
 
 #### Examples
 
@@ -119,7 +135,7 @@ It is used to mark ordinal pronouns. Part of speech is PRON/NO. When ordinals ar
 #### Examples
 
 * Il _primo_ sostiene che ...  "the first asserts that ...
-* Un quarto d'ora "a quarter of an hour"
+* Un _quarto_ d'ora "a quarter of an hour"
 * Valentina è _quinta_ "Valentina is fifth"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:39 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:28 CET 2021 -->

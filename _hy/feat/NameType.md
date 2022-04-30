@@ -29,15 +29,15 @@ Names of cities, countries, rivers, mountains etc.
 
 #### Examples
 
-* _<b>Երևան, ՀՀ, Եվրոպա, Գերմանիա, Վանա, Սևանա</b>&nbsp;_ “Yerevan, RA, Europe, Germany, ov Van, of Sevan”
+* _<b>Երևան, ՀՀ, Եվրոպա, Գերմանիա, Վանա, Սևանա</b>&nbsp;_ “Yerevan, RA, Europe, Germany, of Van, of Sevan”
 
 ### <a name="Prs">`Prs`</a>: name of person
 
-This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name. We used this value for pseudonyms, nicknames, pen-names, etc.
+This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name. We used this value for pseudonyms, nicknames, pen-names, foreign (mostly Slavic or à la Slavic manner) patronymics etc.
 
 #### Examples
 
-* _<b>Նար-Դոս, Գամառ-Քատիպա, Քաչալ</b>&nbsp;_ “Nar-Dos, Gamar-Katipa, Kachal (skinhead)”
+* _<b>Նար-Դոս, Գամառ-Քատիպա, Քաչալ, Մարտիրոսովիչ</b>&nbsp;_ “Nar-Dos, Gamar-Katipa, Kachal (skinhead), Martirosovich”
 
 ### <a name="Giv">`Giv`</a>: given name of person
 
@@ -74,4 +74,4 @@ Names of stadiums, guerilla bases, events etc.
 #### Examples
 
 * _<b>«Հրազդան», «Դինամո», «Զվարթնոց», Զատիկ</b>&nbsp;_ “Hrazdan, Dinamo, Zvartnots, Easter”
-<!-- Interlanguage links updated Pá kvě 14 11:08:34 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->

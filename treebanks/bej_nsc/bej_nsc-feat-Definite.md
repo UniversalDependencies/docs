@@ -16,15 +16,15 @@ The feature is used with 2 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.htm
 
 ### `DET`
 
-108 <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> tokens (91% of all `DET` tokens) have a non-empty value of `Definite`.
+108 <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (74; 69%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (68; 63%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="bej_nsc-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="bej_nsc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (74; 69%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (68; 63%).
 
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (66; 61% of non-empty `Definite`): <em>i=, oː=, uː=, toː=, w=, ti=, t=, eː=, j=, aː=</em>
 * `Ind` (42; 39% of non-empty `Definite`): <em>=b, =t</em>
-* `EMPTY` (11): <em>uːn, eːn, oːn, beːn, kass, toːt</em>
+* `EMPTY` (15): <em>uːn, oːn, aːn, eːn, beːn, kass, toːt</em>
 
 ### `SCONJ`
 
@@ -36,5 +36,5 @@ The most frequent other feature values with which `SCONJ` and `Definite` co-occu
 
 * `Def` (1; 50% of non-empty `Definite`): <em>ti=</em>
 * `Ind` (1; 50% of non-empty `Definite`): <em>=t</em>
-* `EMPTY` (94): <em>=hoːb, -aː, -eː, -a, =eːt, =jeːt, =aj, na, -jaː, -oːj</em>
+* `EMPTY` (90): <em>=hoːb, -aː, -eː, -a, =eːt, =jeːt, =aj, -jaː, -oːj, =eːb</em>
 

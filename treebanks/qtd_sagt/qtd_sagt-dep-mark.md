@@ -22,18 +22,18 @@ The following 22 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 5 mark	color:blue
-1	Daha	daha	ADV	_	_	2	advmod	_	LangID=TR
-2	çok	çok	DET	_	_	4	det	_	LangID=TR
-3	sebze	sebze	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	LangID=TR
-4	türleri	tür	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	0	root	_	LangID=TR
-5	weil	weil	SCONJ	_	_	11	mark	_	LangID=DE
-6	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	expl	_	LangID=DE
-7	mir	ich	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	11	expl:pv	_	LangID=DE
-8	auch	auch	ADV	_	_	11	advmod	_	LangID=DE
-9	sehr	sehr	ADV	_	_	10	advmod	_	LangID=DE
-10	sehr	sehr	ADV	_	_	11	advmod	_	LangID=DE
-11	schmeckt	schmecken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	LangID=DE|SpaceAfter=No
-12	.	.	PUNCT	_	_	4	punct	_	LangID=OTHER
+1	Daha	daha	ADV	_	_	2	advmod	_	CSID=TR|Lang=tr
+2	çok	çok	DET	_	_	4	det	_	CSID=TR|Lang=tr
+3	sebze	sebze	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	CSID=TR|Lang=tr
+4	türleri	tür	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	0	root	_	CSID=TR|Lang=tr
+5	weil	weil	SCONJ	_	_	11	mark	_	CSID=DE|Lang=de
+6	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	expl	_	CSID=DE|Lang=de
+7	mir	ich	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	11	expl:pv	_	CSID=DE|Lang=de
+8	auch	auch	ADV	_	_	11	advmod	_	CSID=DE|Lang=de
+9	sehr	sehr	ADV	_	_	10	advmod	_	CSID=DE|Lang=de
+10	sehr	sehr	ADV	_	_	11	advmod	_	CSID=DE|Lang=de
+11	schmeckt	schmecken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	CSID=DE|Lang=de|SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	CSID=OTHER
 
 ~~~
 
@@ -44,17 +44,17 @@ The following 22 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 mark	color:blue
-1	Sürekli	sürekli	ADV	_	_	4	advmod	_	LangID=TR
-2	Türk	türk	ADJ	_	_	3	amod	_	LangID=TR
-3	düğünü	düğün	NOUN	_	Case=Acc|Number=Sing	4	xcomp	_	LangID=TR
-4	olduğu	ol	VERB	_	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LangID=TR
-5	için	için	ADP	_	_	4	mark	_	LangID=TR|SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
-7	ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	LangID=DE
-8	weiß	wissen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	LangID=DE
-9	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	LangID=DE
-10	nicht	nicht	PART	_	Polarity=Neg	8	advmod	_	LangID=DE|SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	_	LangID=OTHER
+1	Sürekli	sürekli	ADV	_	_	4	advmod	_	CSID=TR|Lang=tr
+2	Türk	türk	ADJ	_	_	3	amod	_	CSID=TR|Lang=tr
+3	düğünü	düğün	NOUN	_	Case=Acc|Number=Sing	4	xcomp	_	CSID=TR|Lang=tr
+4	olduğu	ol	VERB	_	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	CSID=TR|Lang=tr
+5	için	için	ADP	_	_	4	mark	_	CSID=TR|Lang=tr|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	CSID=OTHER
+7	ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	CSID=DE|Lang=de
+8	weiß	wissen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	CSID=DE|Lang=de
+9	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	CSID=DE|Lang=de
+10	nicht	nicht	PART	_	Polarity=Neg	8	advmod	_	CSID=DE|Lang=de|SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	CSID=OTHER
 
 ~~~
 
@@ -65,12 +65,12 @@ The following 22 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 mark	color:blue
-1	Çünkü	çünkü	SCONJ	_	_	5	mark	_	LangID=TR
-2	o	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nmod	_	LangID=TR
-3	Punkteler	Punkte	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	CSPoint=Punkte§ler|DeCase=Acc|DeGender=Fem|LangID=MIXED
-4	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	obl	_	LangID=TR
-5	lazım	lazım	ADJ	_	_	0	root	_	LangID=TR|SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
+1	Çünkü	çünkü	SCONJ	_	_	5	mark	_	CSID=TR|Lang=tr
+2	o	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nmod	_	CSID=TR|Lang=tr
+3	Punkteler	Punkte	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	CSID=MIXED|CSPoint=Punkte§ler|DeCase=Acc|DeGender=Fem|Lang=qtd
+4	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	obl	_	CSID=TR|Lang=tr
+5	lazım	lazım	ADJ	_	_	0	root	_	CSID=TR|Lang=tr|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	CSID=OTHER
 
 ~~~
 

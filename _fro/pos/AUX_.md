@@ -17,4 +17,4 @@ Semi auxiliaries are annotated `AUX` too (voloir, devoir, povoir, savoir, soloir
 - _les espices terriennes i <b>fussent</b> espandues_
 - _grant honor lor <b>avoit</b> fete_
 - _je le <b>puisse</b> veoir_
-<!-- Interlanguage links updated Pá kvě 14 11:08:19 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:08 CET 2021 -->

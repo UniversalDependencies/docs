@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `case`: <tt><a href="id_pud-dep-case-adv.html">case:adv</a></tt>.
 
-1840 nodes (9%) are attached to their parents as `case`.
+1823 nodes (9%) are attached to their parents as `case`.
 
-1840 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17336956521739.
+1823 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17388919363686.
 
-The following 9 pairs of parts of speech are connected with `case`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (1325; 72% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (364; 20% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (113; 6% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (25; 1% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `case`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (1324; 73% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (365; 20% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (93; 5% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (25; 1% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

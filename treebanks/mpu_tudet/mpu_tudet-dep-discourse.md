@@ -22,11 +22,11 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 discourse	color:blue
-1	xop	xop	DET	dem	Deixis=Prox	2	obj	2:obj	_
-2	ten	ten	VERB	vt	_	0	root	0:root	_
-3	eya	eya	PART	pcl	Tense=Fut	2	dep	2:dep	_
-4	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-5	ke	ke	PART	pcl	Evident=Fh	2	discourse	2:discourse	_
+1	xop	xop	DET	dem	Deixis=Prox	2	obj	_	_
+2	ten	ten	VERB	vt	_	0	root	_	_
+3	eya	eya	PART	pcl	Tense=Fut	2	dep	_	_
+4	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+5	ke	ke	PART	pcl	Evident=Fh	2	discourse	_	_
 
 ~~~
 
@@ -37,8 +37,8 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 discourse	color:blue
-1	woaret	woaret	NOUN	n	_	0	root	0:root	_
-2	koa	koa	PART	pcl	_	1	discourse	1:discourse	_
+1	woaret	woaret	NOUN	n	_	0	root	_	_
+2	koa	koa	PART	pcl	_	1	discourse	_	_
 
 ~~~
 
@@ -49,9 +49,9 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 discourse	color:blue
-1	xeke	xeke	PRON	pro	Person=3|PronType=Prs	0	root	0:root	_
-2	xēke	xēke	PART	pcl	_	1	discourse	1:discourse	_
-3	ke	ke	PART	pcl	Evident=Nfh	1	discourse	1:discourse	_
+1	xeke	xeke	PRON	pro	Person=3|PronType=Prs	0	root	_	_
+2	xēke	xēke	PART	pcl	_	1	discourse	_	_
+3	ke	ke	PART	pcl	Evident=Nfh	1	discourse	_	_
 
 ~~~
 

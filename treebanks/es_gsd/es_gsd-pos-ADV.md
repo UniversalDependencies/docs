@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="es_gsd-pos-ADV.
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 0.991334 (the average of all parts of speech is 1.256161).
+The form / lemma ratio of `ADV` is 0.991334 (the average of all parts of speech is 1.279343).
 
 The 1st highest number of forms (4) was observed with the lemma “mucho”: <em>muchas, mucho, muchos, muy</em>.
 

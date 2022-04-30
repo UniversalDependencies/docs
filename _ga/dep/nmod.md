@@ -143,4 +143,4 @@ nmod(fo-ailt, (2))
 ~~~
 
 NOTE: We treat ordinal numbers as [amod](https://universaldependencies.org/ga/dep/amod.html) and cardinal numbers as [nummod](https://universaldependencies.org/ga/dep/nummod.html)
-<!-- Interlanguage links updated Pá kvě 14 11:09:09 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:58 CET 2021 -->

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Maria Jesus Aranzabe, Aitziber Atutxa, Kepa Bengoetxea, Arantza Diaz de Ilarraza, Iakes Goenaga, Koldo Gojenola, Larraitz Uria.
 
 Repository: [UD_Basque-BDT](https://github.com/UniversalDependencies/UD_Basque-BDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeu_bdt28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeu_bdt29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-NC-SA 3.0
 

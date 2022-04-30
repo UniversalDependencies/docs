@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="hyw_armtdp-dep-nsubj-caus.html">nsubj:caus</a></tt>.
 
-59 nodes (0%) are attached to their parents as `nsubj:pass`.
+275 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-52 instances of `nsubj:pass` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.11864406779661.
+202 instances of `nsubj:pass` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.46909090909091.
 
-The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (49; 83% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (5; 8% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (2; 3% instances).
+The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (229; 83% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (30; 11% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (11; 4% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,16 +54,17 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 nsubj:pass	color:blue
-1	—	—	PUNCT	_	_	6	punct	_	Translit=—|LTranslit=—
-2	Պոլիսը	Պոլիս|Պօլիս	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	6	nsubj:pass	_	Translit=Polisë|LTranslit=Polis|Pòlis
-3	զինուորական	զինուորական	ADJ	_	_	4	amod	_	Translit=zinoworakan|LTranslit=zinoworakan
-4	իշխանութեան	իշխանութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	6	obj	_	Translit=išxanowt’ean|LTranslit=išxanowt’iwn
-5	պիտի	պիտի	AUX	_	Aspect=Prosp|Mood=Ind|Polarity=Pos	6	aux	_	Translit=piti|LTranslit=piti
-6	յանձնուի	յանձնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=yanjnowi|LTranslit=yanjnel|SpaceAfter=No
-7	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 nsubj:pass	color:blue
+1	ՈՂԲԱՑԵԱԼ	ողբացեալ	ADJ	_	_	2	amod	_	Translit=OĠBAC’EAL|LTranslit=oġbac’eal
+2	ԷՎԱ	Էվա	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	nsubj:pass	_	Translit=ĒVA|LTranslit=Ēva
+3	ՍԱՆԹԱԼՈՒ	Սանթալու	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	2	flat:name	_	Translit=SANT’ALOW|LTranslit=Sant’alow
+4	ՈԳԵԿՈՉՈՒԵՑԱՒ	ոգեկոչել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=OGEKOČOWEC’AW|LTranslit=ogekočel
+5	ՄԱՀՈՒԱՆ	մահ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	6	nmod:poss	_	Translit=MAHOWAN|LTranslit=mah
+6	ՔԱՌԱՍՆԻՑ	քառասուն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur|Style=Arch	7	nmod:poss	_	Translit=K’AṘASNIC’|LTranslit=k’aṙasown
+7	ԼՐՄԱՆ	լրում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	4	obl	_	Translit=LRMAN|LTranslit=lrowm
+8	ԱՌԹԻՒ	առթիւ	ADP	_	AdpType=Post	7	case	_	Translit=AṘT’IW|LTranslit=aṙt’iw
 
 ~~~
 

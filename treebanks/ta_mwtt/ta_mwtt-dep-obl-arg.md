@@ -23,10 +23,10 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 obl:arg	color:blue
-1	உங்களுக்கு	நீங்கள்	PRON	_	Case=Dat|Gender=Com|Number=Plur|Person=2	3	nsubj:nc	3:nsubj:nc	Translit=uṅkaḷukku|LTranslit=nīṅkaḷ
-2	எது	எது	PRON	_	_	3	obl:arg	3:obl:arg	Translit=etu|LTranslit=etu
-3	வேண்டும்	வேண்டு	VERB	_	Gender=Com|Number=Sing|Person=3|Tense=Fut	0	root	0:root	Translit=vēṇṭum|LTranslit=vēṇṭu
-4	?	?	PUNCT	_	_	3	punct	3:punct	Translit=?|LTranslit=?
+1	உங்களுக்கு	நீங்கள்	PRON	_	Case=Dat|Gender=Com|Number=Plur|Person=2	3	nsubj:nc	_	Translit=uṅkaḷukku|LTranslit=nīṅkaḷ
+2	எது	எது	PRON	_	_	3	obl:arg	_	Translit=etu|LTranslit=etu
+3	வேண்டும்	வேண்டு	VERB	_	Gender=Com|Number=Sing|Person=3|Tense=Fut	0	root	_	Translit=vēṇṭum|LTranslit=vēṇṭu
+4	?	?	PUNCT	_	_	3	punct	_	Translit=?|LTranslit=?
 
 ~~~
 

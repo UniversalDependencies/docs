@@ -83,4 +83,11 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 
 * _<b>t-uβ-we</b>&nbsp;_ “To the father”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->
+## Diffs
+
+### Prague Dependency Treebank
+
+The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
+therefore this distinction is not being made in the converted data.
+<!-- Interlanguage links updated St lis 3 20:58:20 CET 2021 -->
+

@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>вана, ох, виде, ну, арас
 
 The 10 most frequent `INTJ` types:  <em>вана, ох, виде, ну, Арась, ура, Эх, вай, Да, Угу</em>
 
-The 10 most frequent ambiguous lemmas: <em>вана</em> (<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 24, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 8, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 3), <em>виде</em> (<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 9, <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> 8), <em>арась</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 36, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 2), <em>вай</em> (<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1), <em>я</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 2, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 2), <em>а</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 181, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>вана</em> (<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 24, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 8, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 3), <em>виде</em> (<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 9, <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> 8), <em>арась</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 37, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 2), <em>вай</em> (<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1), <em>я</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 2, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 2), <em>а</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 343, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>вана</em> (<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 11, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 4, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 3), <em>виде</em> (<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 3), <em>Арась</em> (<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 2), <em>вай</em> (<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1), <em>Я</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 2, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 2), <em>А</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 17, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>вана</em> (<tt><a href="myv_jr-po
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.044097).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.044845).
 
 The 1st highest number of forms (1) was observed with the lemma “Иго-го-го”: <em>Иго-го-го</em>.
 

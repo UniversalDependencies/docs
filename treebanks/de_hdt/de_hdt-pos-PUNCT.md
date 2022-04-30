@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-HDT: POS Tags: `PUNCT`
 
-There are 15 `PUNCT` lemmas (0%), 15 `PUNCT` types (0%) and 396266 `PUNCT` tokens (12%).
+There are 15 `PUNCT` lemmas (0%), 15 `PUNCT` types (0%) and 396266 `PUNCT` tokens (11%).
 Out of 16 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 14 in number of types and 3 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ", :, (, ), -, ;, ?, !</em>
@@ -20,7 +20,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="de_hdt-pos-PUNCT
 
 * <em>.</em>
   * <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> 156600: <em>" Diesen Gerüchten liegt eine unseriöse Recherche zugrunde <b>.</b></em>
-  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 1: <em>Weiterhin stellt sich die Frage , warum Strato seinen Kunden nicht echte Unterdomains zur Verfügung stellt , wie gewohnt mit einem " <b>.</b> " statt einem " @ " als Trennzeichen .</em>
+  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 1: <em>Weiterhin stellt sich die Frage , warum Strato seinen Kunden nicht echte Unterdomains zu der Verfügung stellt , wie gewohnt mit einem " <b>.</b> " statt einem " @ " als Trennzeichen .</em>
 * <em>"</em>
   * <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> 45969: <em><b>"</b> Diesen Gerüchten liegt eine unseriöse Recherche zugrunde .</em>
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 2: <em>Miniatur-Festplatten für den PC-Card-Einsatz werden inzwischen nur noch von der schottischen Firma Calluna Technology gefertigt , hier allerdings noch in 1,8 <b>"</b> Größe .</em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="de_hdt-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.524227).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.524629).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 

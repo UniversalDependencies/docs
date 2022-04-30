@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-1846969 tokens (54%) have a non-empty value of `Number`.
-143468 types (76%) occur at least once with a non-empty value of `Number`.
-35126 lemmas (50%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (694170; 20% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (400500; 12% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (179022; 5% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (134320; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (134055; 4% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (128907; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (104485; 3% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (71297; 2% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (179; 0% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (33; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+1903158 tokens (55%) have a non-empty value of `Number`.
+143467 types (76%) occur at least once with a non-empty value of `Number`.
+35125 lemmas (50%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (694170; 20% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (456690; 13% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (179022; 5% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (134320; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (134055; 4% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (128907; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (104485; 3% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (71297; 2% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (179; 0% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (33; 0% instances).
 
 ### `NOUN`
 
@@ -37,19 +37,22 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-400500 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+456690 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (371042; 93%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (427232; 94%), <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (400500; 88%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (85397; 21% of non-empty `Number`): <em>die, der, den, alle, keine, diese, einige, allen, aller, mehrere</em>
-* `Sing` (315103; 79% of non-empty `Number`): <em>der, die, das, des, den, eine, dem, ein, einen, einem</em>
+* `Plur` (85397; 19% of non-empty `Number`): <em>die, der, den, alle, keine, diese, einige, allen, aller, mehrere</em>
+* `Sing` (371293; 81% of non-empty `Number`): <em>der, dem, die, das, des, den, eine, ein, einen, einem</em>
 * `EMPTY` (3284): <em>mehr, deren, dessen, weniger, keinerlei, genug, all, wieviel, solch, derlei</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>das</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>der</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>dem</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>der</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>der</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>der</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>der</em></td><td></td></tr>
@@ -259,19 +262,10 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 * `Sing` (33; 100% of non-empty `Number`): <em>bisschen, bißchen, erstenmal</em>
 * `EMPTY` (194315): <em>auch, noch, nur, so, aber, bereits, allerdings, mehr, damit, schon</em>
 
-### `SCONJ`
-
-1 <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Number`.
-
-`SCONJ` tokens may have the following values of `Number`:
-
-* `Sing` (1; 100% of non-empty `Number`): <em>dass</em>
-* `EMPTY` (29441): <em>dass, um, wenn, ob, daß, da, während, weil, nachdem, als</em>
-
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> DET</tt> (355959; 95%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> DET</tt> (408206; 96%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (163012; 90%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (84306; 53%),
 <tt>VERB --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (61923; 62%),

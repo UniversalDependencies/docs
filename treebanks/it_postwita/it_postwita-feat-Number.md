@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (3978; 25% of non-empty `Number`): <em>anni, partiti, italiani, politici, cose, ministri, giorni, elezioni, parole, voti</em>
 * `Sing` (11788; 75% of non-empty `Number`): <em>governo, politica, manovra, vita, presidente, lavoro, cosa, fiducia, paese, gente</em>
-* `EMPTY` (2155): <em>rt, crisi, video, premier, tv, foto, TT, antipolitica, spread, equità</em>
+* `EMPTY` (2154): <em>rt, crisi, video, premier, tv, foto, TT, antipolitica, spread, equità</em>
 
 <table>
   <tr><th>Paradigm <i>governo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -170,7 +170,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 `X` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>te</em>
-* `EMPTY` (991): <em>of, Prince, i, live, and, a, on, the, in, my</em>
+* `EMPTY` (988): <em>of, Prince, i, live, a, and, on, the, in, my</em>
 
 ## Relations with Agreement in `Number`
 

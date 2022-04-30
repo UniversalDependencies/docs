@@ -25,4 +25,4 @@ expl(permets,me)
 
 Other treebanks use the subtypes: [expl:comp](), [expl:pass]() and [expl:subj]().
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:04 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:52 CET 2021 -->

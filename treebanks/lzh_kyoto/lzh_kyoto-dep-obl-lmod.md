@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="lzh_kyoto-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="lzh_kyoto-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-2610 nodes (1%) are attached to their parents as `obl:lmod`.
+2778 nodes (1%) are attached to their parents as `obl:lmod`.
 
-1424 instances of `obl:lmod` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.37049808429119.
+1515 instances of `obl:lmod` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.36969042476602.
 
-The following 14 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (2045; 78% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (512; 20% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (24; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (2162; 78% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (542; 20% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (24; 1% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,20 +51,17 @@ The following 14 pairs of parts of speech are connected with `obl:lmod`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 obl:lmod	color:blue
-1	緜駒	緜駒	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
-2	處	處	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=place|SpaceAfter=No
-3	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	高唐	高唐	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
-5	而	而	CCONJ	p,助詞,接続,並列	_	9	cc	_	Gloss=and|SpaceAfter=No
-6	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	7	nmod	_	Gloss=[country-name]|SpaceAfter=No
-7	右	右	NOUN	n,名詞,固定物,関係	Case=Loc	9	obl:lmod	_	Gloss=right-hand|SpaceAfter=No
-8	善	善	ADV	v,動詞,描写,態度	Degree=Pos|VerbForm=Conv	9	advmod	_	Gloss=good|SpaceAfter=No
-9	歌	歌	NOUN	n,名詞,可搬,伝達	_	2	conj	_	Gloss=song|SpaceAfter=No
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 obl:lmod	color:blue
+1	焉	焉	PRON	n,代名詞,指示,*	PronType=Dem	3	obl:lmod	_	Gloss=there|SpaceAfter=No
+2	乃	乃	ADV	v,副詞,時相,緊接	AdvType=Tim	3	advmod	_	Gloss=then|SpaceAfter=No
+3	逝	逝	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=pass-away|SpaceAfter=No
+4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=use|SpaceAfter=No
+5	俳	俳	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	SpaceAfter=No
+6	佪	佪	VERB	v,動詞,行為,動作	_	3	parataxis	_	SpacesAfter=\n
 
 ~~~
 

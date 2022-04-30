@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2116 nodes (1%) are attached to their parents as `cop`.
+2128 nodes (1%) are attached to their parents as `cop`.
 
-1993 instances of `cop` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.76086956521739.
+2005 instances of `cop` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75704887218045.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (779; 37% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (633; 30% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (289; 14% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (265; 13% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (85; 4% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (19; 1% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (777; 37% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (651; 31% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (284; 13% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (266; 13% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (85; 4% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (19; 1% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -68,7 +68,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 6	ora	oră	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	_
 7	mea	meu	DET	Ds1fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
 8	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	9	obj	_	_
-9	inspiră	inspira	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp:pmod	_	_
+9	inspiră	inspira	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp:pmod	_	_
 10	să	să	PART	Qs	Mood=Sub	11	mark	_	_
 11	scrii	scrie	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	ccomp:pmod	_	_
 12	poezii	poezie	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	11	obj	_	SpaceAfter=No

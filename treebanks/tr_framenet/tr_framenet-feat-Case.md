@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-7194 tokens (37%) have a non-empty value of `Case`.
-4805 types (61%) occur at least once with a non-empty value of `Case`.
-2472 lemmas (63%) occur at least once with a non-empty value of `Case`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (6960; 36% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt> (234; 1% instances).
+7196 tokens (37%) have a non-empty value of `Case`.
+4806 types (61%) occur at least once with a non-empty value of `Case`.
+2473 lemmas (63%) occur at least once with a non-empty value of `Case`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (6962; 36% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt> (234; 1% instances).
 
 ### `NOUN`
 
-6960 <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+6962 <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (6960; 100%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6069; 87%), <tt><a href="tr_framenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4757; 68%), <tt><a href="tr_framenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4757; 68%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (6962; 100%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6070; 87%), <tt><a href="tr_framenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4759; 68%), <tt><a href="tr_framenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4759; 68%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Gen` (426; 6% of non-empty `Case`): <em>işin, evin, Babasının, adamın, masanın, çocuğun, aklının, sahibinin, takımın, çocukların</em>
 * `Ins` (147; 2% of non-empty `Case`): <em>gözle, konuyla, gözüyle, zorla, arkadaşlarıyla, ateşle, boyayla, etkisiyle, gürültüyle, kürekle</em>
 * `Loc` (484; 7% of non-empty `Case`): <em>şekilde, evde, anda, içinde, karşısında, yolda, arasında, elinde, konusunda, okulda</em>
-* `Nom` (3541; 51% of non-empty `Case`): <em>para, adam, çocuk, şey, gün, iş, ay, zaman, sabah, hafta</em>
+* `Nom` (3543; 51% of non-empty `Case`): <em>para, adam, çocuk, şey, gün, iş, ay, zaman, sabah, hafta</em>
 * `EMPTY` (10): <em>akıllarınca, atınca, bitince, bozunca, duyunca, gence, göstericilerce, katınca, satınca, çuvallarca</em>
 
 <table>
@@ -69,14 +69,14 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="tr_framenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (16; 70%),
+<tt>NOUN --[<tt><a href="tr_framenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (23; 66%),
 <tt>PROPN --[<tt><a href="tr_framenet-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (10; 77%),
-<tt>NOUN --[<tt><a href="tr_framenet-dep-list.html">list</a></tt>]--> NOUN</tt> (8; 62%),
-<tt>NOUN --[<tt><a href="tr_framenet-dep-acl.html">acl</a></tt>]--> NOUN</tt> (7; 54%),
 <tt>PROPN --[<tt><a href="tr_framenet-dep-conj.html">conj</a></tt>]--> PROPN</tt> (4; 100%),
 <tt>NOUN --[<tt><a href="tr_framenet-dep-csubj.html">csubj</a></tt>]--> NOUN</tt> (2; 67%),
 <tt>PROPN --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> PROPN</tt> (2; 100%),
 <tt>PROPN --[<tt><a href="tr_framenet-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2; 67%),
 <tt>PROPN --[<tt><a href="tr_framenet-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="tr_framenet-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="tr_framenet-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="tr_framenet-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="tr_framenet-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (1; 100%).
 

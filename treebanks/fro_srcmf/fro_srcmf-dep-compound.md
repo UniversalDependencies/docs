@@ -17,17 +17,20 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 compound	color:blue
-1	Sire	_	NOUN	NOMcom	_	3	vocative	_	_
-2	or	_	ADV	ADVgen	_	3	advmod	_	_
-3	mandez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
-4	le	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	_
-5	nain	_	NOUN	NOMcom	_	3	obj	_	_
-6	devin	_	NOUN	NOMcom	_	5	compound	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 compound	color:blue
+1	-	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_26_04608
+2	Sire	_	NOUN	NOMcom	_	5	vocative	_	SpaceAfter=No|XmlId=w_26_04610
+3	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_26_04611
+4	or	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_26_04612
+5	mandez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04613
+6	le	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_26_04614
+7	nain	_	NOUN	NOMcom	_	5	obj	_	XmlId=w_26_04615
+8	devin	_	NOUN	NOMcom	_	7	compound	_	XmlId=w_26_04616
+9	:	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_26_04617
 
 ~~~
 

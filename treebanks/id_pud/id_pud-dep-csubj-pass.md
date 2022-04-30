@@ -26,9 +26,9 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	seri	seri	ADJ	_	_	1	advmod	_	_
 3	dalam	dalam	ADP	_	_	4	case	_	_
 4	permainan	main	NOUN	_	Number=Sing	1	obl	_	_
-5	yang	yang	SCONJ	_	_	8	mark	_	_
+5	yang	yang	PRON	_	PronType=Rel	8	obj	_	_
 6	telah	telah	AUX	_	_	8	aux	_	_
-7	Anda	anda	PRON	_	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+7	Anda	anda	PRON	_	Number=Sing|Person=2|Polite=Form|PronType=Prs	8	nsubj	_	_
 8	dominasi	dominasi	VERB	_	Mood=Ind|Voice=Act	4	acl:relcl	_	_
 9	mudah	mudah	ADJ	_	_	0	root	_	_
 10	saja	saja	ADV	_	_	9	advmod	_	_
@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	itu	itu	PRON	_	PronType=Dem	11	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	terjadi	jadi	VERB	_	Mood=Ind|Voice=Pass	11	csubj:pass	_	_
-5	nya	nya	DET	_	PronType=Dem	4	det	_	_
+5	nya	nya	DET	_	Definite=Def|PronType=Art	4	det	_	_
 6	badai	badai	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 7	di	di	ADP	_	_	8	case	_	_
 8	pulau	pulau	NOUN	_	Number=Sing	6	nmod	_	_

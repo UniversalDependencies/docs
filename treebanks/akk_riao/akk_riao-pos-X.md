@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>_, Karduniaš</em>
 
 The 10 most frequent `X` types:  <em>x, x-</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> 2390, <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> 411, <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> 333, <tt><a href="akk_riao-pos-PART.html">PART</a></tt> 171, <tt><a href="akk_riao-pos-CCONJ.html">CCONJ</a></tt> 142, <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> 100, <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> 64, <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> 47, <tt><a href="akk_riao-pos-ADV.html">ADV</a></tt> 6, <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 5, <tt><a href="akk_riao-pos-X.html">X</a></tt> 3, <tt><a href="akk_riao-pos-DET.html">DET</a></tt> 2), <em>Karduniaš</em> (<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> 25, <tt><a href="akk_riao-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> 2345, <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> 405, <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> 323, <tt><a href="akk_riao-pos-PART.html">PART</a></tt> 169, <tt><a href="akk_riao-pos-CCONJ.html">CCONJ</a></tt> 133, <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> 100, <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> 63, <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> 47, <tt><a href="akk_riao-pos-ADV.html">ADV</a></tt> 6, <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 5, <tt><a href="akk_riao-pos-X.html">X</a></tt> 3, <tt><a href="akk_riao-pos-DET.html">DET</a></tt> 2), <em>Karduniaš</em> (<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> 25, <tt><a href="akk_riao-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>x</em> (<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> 16, <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> 10, <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 3, <tt><a href="akk_riao-pos-X.html">X</a></tt> 3, <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> 1)
 
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>x</em> (<tt><a href="akk_riao-pos-NOU
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.796005).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.795993).
 
 The 1st highest number of forms (1) was observed with the lemma “Karduniaš”: <em>x-</em>.
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt>.
 There are also 6 other language-specific subtypes of `advmod`: <tt><a href="sms_giellagas-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="sms_giellagas-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="sms_giellagas-dep-advmod-foc.html">advmod:foc</a></tt>, <tt><a href="sms_giellagas-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-73 nodes (3%) are attached to their parents as `advmod:tmod`.
+88 nodes (4%) are attached to their parents as `advmod:tmod`.
 
-60 instances of `advmod:tmod` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72602739726027.
+71 instances of `advmod:tmod` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.73863636363636.
 
-The following 4 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (65; 89% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (80; 91% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

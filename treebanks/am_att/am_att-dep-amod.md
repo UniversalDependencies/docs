@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-62 nodes (1%) are attached to their parents as `amod`.
+63 nodes (1%) are attached to their parents as `amod`.
 
-58 instances of `amod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.59677419354839.
+59 instances of `amod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58730158730159.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (52; 84% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (4; 6% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (53; 84% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (4; 6% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -36,8 +36,8 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 12	ን	ን	PART	ACC	_	9	case	_	Translit=nə|LTranslit=nə
 13	ዘዴ	ዘዴ	NOUN	NOUN	_	15	obj	_	Translit=zäde|LTranslit=zäde
 14	ብ	ብ	ADP	ADP	_	15	mark	_	Translit=bə|LTranslit=bə
-15	ኣገኝ	ኣገኝ	VERB	VERB	_	16	advmod	_	Translit='agäňə|LTranslit='agäňə
-16	ብል	ብል	VERB	VERB	_	18	advmod	_	Translit=bələ|LTranslit=bələ
+15	ኣገኝ	ኣገኝ	VERB	VERB	_	16	advcl	_	Translit='agäňə|LTranslit='agäňə
+16	ብል	ብል	VERB	VERB	_	18	advcl	_	Translit=bələ|LTranslit=bələ
 17	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	16	expl	_	Translit='o|LTranslit='o
 18	ተመኝ	ተመኝ	VERB	VERB	Voice=Pass	0	root	_	Translit=tämäňə|LTranslit=tämäňə
 19	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	18	nsubj	_	Translit='ă|LTranslit='ă

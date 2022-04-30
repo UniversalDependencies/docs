@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Hum` are language-specific.
 It occurs with 1 different values: `Hum`.
 
-18 tokens (1%) have a non-empty value of `Animacy`.
-18 types (1%) occur at least once with a non-empty value of `Animacy`.
-16 lemmas (2%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (16; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+19 tokens (1%) have a non-empty value of `Animacy`.
+19 types (1%) occur at least once with a non-empty value of `Animacy`.
+17 lemmas (2%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (17; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `PROPN`
 
-16 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (30% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+17 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (31% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (14; 88%), <tt><a href="mdf_jr-feat-NameType.html">NameType</a></tt><tt>=Sur</tt> (14; 88%), <tt><a href="mdf_jr-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13; 81%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt> (9; 56%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (15; 88%), <tt><a href="mdf_jr-feat-NameType.html">NameType</a></tt><tt>=Sur</tt> (15; 88%), <tt><a href="mdf_jr-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13; 76%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt> (9; 53%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 53%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Hum` (16; 100% of non-empty `Animacy`): <em>Васильевна, Вельдинонь, Голенков, Девинонь, Девятаев, Елена, Злобинонь, Келаськин, Кокоревонь, Кукушкинць</em>
+* `Hum` (17; 100% of non-empty `Animacy`): <em>Васильевна, Вельдинонь, Голенков, Девинонь, Девятаев, Елена, Злобинонь, Келаськин, Кокоревонь, Кукушкинць</em>
 * `EMPTY` (38): <em>Петя, Марья, Алда-баба, Анна, Архипонь, Браун, Ванянди, Василь, Васильевич, Васясь</em>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (15) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (16) occur only with one value of `Animacy`.
 
 ### `NOUN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Hum` (2; 100% of non-empty `Animacy`): <em>тядяц</em>
-* `EMPTY` (780): <em>лангс, ава, ломаттне, шиня, шись, Тишка, шамац, визькс, вирьса, карденя</em>
+* `EMPTY` (852): <em>лангс, ломаттне, ава, шиня, шись, Тишка, цёранц, шамац, визькс, вирьса</em>
 
 ## Relations with Agreement in `Animacy`
 

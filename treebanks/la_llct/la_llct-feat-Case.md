@@ -22,11 +22,10 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (18686; 36% of non-empty `Case`): <em>teste, loco, terra, nomine, anno, rebus, domno, indictione, casis, casa</em>
+* `Abl` (18710; 37% of non-empty `Case`): <em>teste, loco, terra, nomine, anno, rebus, domno, indictione, casis, casa</em>
 * `Acc` (16890; 33% of non-empty `Case`): <em>filio, res, casa, cartula, annos, argentum, notarium, lato, soledos, heredes</em>
 * `Dat` (1131; 2% of non-empty `Case`): <em>ecclesie, successoribus, presbitero, filio, episcopo, episcopatui, domno, homini, clerico, diacono</em>
 * `Gen` (6746; 13% of non-empty `Case`): <em>ecclesie, manus, testis, memorie, episcopatui, regni, imperii, filii, clerici, domni</em>
-* `Loc` (24; 0% of non-empty `Case`): <em>noctu</em>
 * `Nom` (7715; 15% of non-empty `Case`): <em>signum, notarius, episcopus, presbiter, clericus, imperator, pars, missus, germani, schabinus</em>
 * `Voc` (14; 0% of non-empty `Case`): <em>episcope, domne, clerice</em>
 * `EMPTY` (7): <em>[noun], [pronoun], [--]</em>
@@ -187,7 +186,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (13960; 93%),
 <tt>NOUN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6363; 100%),
 <tt>PROPN --[<tt><a href="la_llct-dep-appos.html">appos</a></tt>]--> NOUN</tt> (5022; 71%),
-<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4891; 87%),
+<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4915; 88%),
 <tt>PRON --[<tt><a href="la_llct-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3007; 62%),
 <tt>PROPN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2261; 70%),
 <tt>NOUN --[<tt><a href="la_llct-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1856; 92%),

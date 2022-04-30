@@ -19,4 +19,4 @@ The `advcl:relcl` relation is used for indicating relative clauses (with the rel
 8	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:46 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:35 CET 2021 -->

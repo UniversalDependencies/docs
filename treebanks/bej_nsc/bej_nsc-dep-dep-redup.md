@@ -23,28 +23,28 @@ The following 1 pairs of parts of speech are connected with `dep:redup`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 dep:redup	color:blue
-1	moːk	_	VERB	V1	VerbClass=1	3	dep:redup	_	GE= INT|Gloss= take_shelter|RX=V1,DER|Times= 23859, 24018|TokenType=Stem
-2	-eː	_	SCONJ	CVB	VerbForm=Conv	1	mark:aff	_	GE= -CVB,SMLT|Times= 24018, 24177|TokenType=Aff
-3	moːk	_	VERB	V1	VerbClass=1	5	dep:redup	_	GE= INT|Gloss= take_shelter|RX=V1,DER|Times= 24177, 24336|TokenType=Stem
-4	-eː	_	SCONJ	CVB	VerbForm=Conv	3	mark:aff	_	GE= -CVB,SMLT|Times= 24336, 24495|TokenType=Aff
-5	moːk	_	VERB	V1	VerbClass=1	12	advcl	_	GE= INT|Gloss= take_shelter|RX=V1,DER|Times= 24495, 24654|TokenType=Stem
-6	-eː	_	SCONJ	CVB	VerbForm=Conv	5	mark:aff	_	GE= -CVB,SMLT|Times= 24654, 24813|TokenType=Aff
-7	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	GE= PROX,SG,M,NOM|RX=DEM|Times= 24813, 25131|TokenType=Stem
-8	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	det	_	GE= DEF,SG,M,NOM=|RX= DET=|Times= 25131, 25290|TokenType=Clit
-9	biri	_	NOUN	N	Gender=Masc	12	nsubj	_	Gloss= rain|RX= SBJ,N,M|Times= 25290, 25449|TokenType=Stem
-10	/	_	PUNCT	PUNCT	_	9	punct	_	GE= PUNCT|RX=PUNCT|Times= 25449, 26008
-11	diːseːt	_	ADV	ADV	_	12	advmod	_	Gloss= slowly|RX= ADV|Times= 26008, 26503|TokenType=Stem
-12	ʔit	_	VERB	V2	VerbClass=2	18	advcl	_	GE= V2|Gloss= fall_asleep|Times= 26503, 26626|TokenType=Stem
-13	-ja	_	PRON	TAM,PNG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	12	nsubj:aff	_	GE= -PFV,3SG,M|RX= -TAM,PNG|Times= 26626, 26750|TokenType=Aff
-14	-n	_	X	NP	_	12	dep:aff	_	GE= -L|Times= 26750, 26874|TokenType=Aff
-15	=hoːb	_	SCONJ	CONJ	_	12	mark	_	GE= =CONJ|Gloss= =when|Times= 26874, 26998|TokenType=Clit
-16	//	_	PUNCT	PUNCT	_	12	punct	_	GE= PUNCT|RX=PUNCT|Times= 26998, 28033
-17	tak	_	NOUN	N	Gender=Masc	18	nsubj	_	Gloss= man|RX= SBJ,N,M|Times= 28033, 28250|TokenType=Stem
-18	eːja	_	VERB	V2,IRG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbClass=2	21	parataxis	_	GE= PFV,3SG,M|Gloss= come|ReportedSpeech=Yes|RX=V2,IRG|Times= 28250, 28359|TokenType=Stem
-19	=heːb	_	PRON	PRO	Number=Sing|Person=1	18	obj	_	GE= =OBJ,1SG|RX= =PRO|Times= 28359, 28468|TokenType=Clit
-20	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	21	nsubj:aff	_	GE= 3SG,M-|RX= PNG-|Times= 28468, 28577|TokenType=Aff
-21	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	GE= PFV|Gloss= say|RX=V1,IRG|Times= 28577, 28686|TokenType=Stem
-22	//	_	PUNCT	PUNCT	_	21	punct	_	GE= PUNCT|RX=PUNCT|Times= 28686, 30643
+1	moːk	_	VERB	V1	VerbClass=1	3	dep:redup	_	AlignBegin=23859|AlignEnd=24018|GE=take_shelter\[INT]|Gloss=take_shelter|RX=[V1].[DER]|TokenType=Stem
+2	-eː	_	SCONJ	CVB	VerbForm=Conv	1	mark:aff	_	AlignBegin=24018|AlignEnd=24177|GE=-[CVB].[SMLT]|TokenType=DerAff
+3	moːk	_	VERB	V1	VerbClass=1	5	dep:redup	_	AlignBegin=24177|AlignEnd=24336|GE=take_shelter\[INT]|Gloss=take_shelter|RX=[V1].[DER]|TokenType=Stem
+4	-eː	_	SCONJ	CVB	VerbForm=Conv	3	mark:aff	_	AlignBegin=24336|AlignEnd=24495|GE=-[CVB].[SMLT]|TokenType=DerAff
+5	moːk	_	VERB	V1	VerbClass=1	12	advcl	_	AlignBegin=24495|AlignEnd=24654|GE=take_shelter\[INT]|Gloss=take_shelter|RX=[V1].[DER]|TokenType=Stem
+6	-eː	_	SCONJ	CVB	VerbForm=Conv	5	mark:aff	_	AlignBegin=24654|AlignEnd=24813|GE=-[CVB].[SMLT]|TokenType=DerAff
+7	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	AlignBegin=24813|AlignEnd=25131|GE=[PROX].[SG].[M].[NOM]|RX=[DEM]|TokenType=Stem
+8	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	det	_	AlignBegin=25131|AlignEnd=25290|GE=[DEF].[SG].[M].[NOM]=|RX=[DET]=|TokenType=Clit
+9	biri	_	NOUN	N	Gender=Masc	12	nsubj	_	AlignBegin=25290|AlignEnd=25449|GE=rain|Gloss=rain|RX=[SBJ].[N].[M]|TokenType=Stem
+10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=25449|AlignEnd=26008|TokenType=Break
+11	diːseːt	_	ADV	ADV	_	12	advmod	_	AlignBegin=26008|AlignEnd=26503|GE=slowly|Gloss=slowly|RX=[ADV]|TokenType=Stem
+12	ʔit	_	VERB	V2	VerbClass=2	18	advcl	_	AlignBegin=26503|AlignEnd=26626|GE=fall_asleep|Gloss=fall_asleep|RX=[V2]|TokenType=Stem
+13	-ja	_	PRON	TAM,PNG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	12	nsubj:aff	_	AlignBegin=26626|AlignEnd=26750|GE=-[PFV].[3SG].[M]|RX=-[TAM].[PNG]|TokenType=InflAff
+14	-n	_	X	NP	_	12	dep:aff	_	AlignBegin=26750|AlignEnd=26874|GE=-[L]|ProperName=-L|TokenType=InflAff
+15	=hoːb	_	SCONJ	CONJ	_	12	mark	_	AlignBegin=26874|AlignEnd=26998|GE==when|Gloss==when|RX==[CONJ]|TokenType=Clit
+16	//	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=26998|AlignEnd=28033|TokenType=Break
+17	tak	_	NOUN	N	Gender=Masc	18	nsubj	_	AlignBegin=28033|AlignEnd=28250|GE=man|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Stem
+18	eːja	_	VERB	V2,IRG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbClass=2	21	parataxis	_	AlignBegin=28250|AlignEnd=28359|GE=come\[PFV].[3SG].[M]|Gloss=come|ReportedSpeech=Yes|RX=[V2].[IRG]|TokenType=Stem
+19	=heːb	_	PRON	PRO	Number=Sing|Person=1	18	obj	_	AlignBegin=28359|AlignEnd=28468|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
+20	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	21	nsubj:aff	_	AlignBegin=28468|AlignEnd=28577|GE=[3SG].[M]-|RX=[PNG]-|TokenType=InflAff
+21	ni	_	VERB	V1,IRG	Aspect=Perf|VerbClass=1	0	root	_	AlignBegin=28577|AlignEnd=28686|GE=say\[PFV]|Gloss=say|RX=[V1].[IRG]|TokenType=Stem
+22	//	_	PUNCT	PUNCT	_	21	punct	_	AlignBegin=28686|AlignEnd=30643|TokenType=Break
 
 ~~~
 

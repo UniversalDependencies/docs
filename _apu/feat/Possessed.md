@@ -22,4 +22,4 @@ In UD Apurinã, the feature `Possessed` marks forms that have a possessor (words
 
 * _Uwa ũtanyrykata awa <b>ũaapuku</b> 'amarekatãĩ._ “She and her husband, she has a very big <b>house</b>.”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:39 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:28 CET 2021 -->

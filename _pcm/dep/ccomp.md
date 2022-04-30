@@ -79,4 +79,4 @@ The head of such complements can be a verb or an adjective :
 6	okay	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:55 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:44 CET 2021 -->

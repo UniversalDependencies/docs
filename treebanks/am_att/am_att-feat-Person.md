@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (401; 17% of non-empty `Person`): ኝ, ኤ, እ, ሁ, ኧሁ, ኩ, ኧኝ, ን, ኧን, እን
 * `2` (133; 6% of non-empty `Person`): ህ, ኧህ, ት, ሽ, ኢ, ክ, ኣችን, ኧ, ኣችሁ, ኧሽ
 * `3` (1841; 78% of non-empty `Person`): ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኣት, ኣ
-* `EMPTY` (174): ምን, እኔ, ማን, እሱ, የት, መቼ, ምነው, አንተ, እርሱ, ማንም
+* `EMPTY` (180): ምን, እኔ, ማን, እሱ, ው, የት, መቼ, ምነው, አንተ, እርሱ
 
 <table>
   <tr><th>Paradigm <i>ኧ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -42,7 +42,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 `DET` tokens may have the following values of `Person`:
 
 * `3` (2; 100% of non-empty `Person`): ው
-* `EMPTY` (485): ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, ያ, እየ
+* `EMPTY` (480): ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, እየ, ያ
 
 ### `VERB`
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 `VERB` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): ይ
-* `EMPTY` (1552): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
+* `EMPTY` (1551): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
 
 ## Relations with Agreement in `Person`
 

@@ -24,5 +24,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (605; 73% of non-empty `Definite`): <em>il, la, l', le, i, lo, gli, l</em>
 * `Ind` (225; 27% of non-empty `Definite`): <em>un, una, un', uno</em>
-* `EMPTY` (195): <em>suo, sua, mio, questo, altro, mia, che, questa, suoi, altra</em>
+* `EMPTY` (193): <em>suo, sua, mio, questo, altro, mia, questa, suoi, altra, che</em>
 

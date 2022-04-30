@@ -15,4 +15,4 @@ The names of people living in a place (such as _Les Américains_ "The Americans"
 - _Pierre_
 - _ONU_
 - _Mexique_
-<!-- Interlanguage links updated Pá kvě 14 11:08:23 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:13 CET 2021 -->

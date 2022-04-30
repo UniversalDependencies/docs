@@ -72,7 +72,7 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 
 84 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (84; 100%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (72; 86%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (58; 69%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (52; 62%), <tt><a href="qtd_sagt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45; 54%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (84; 100%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (72; 86%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (58; 69%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (49; 58%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 

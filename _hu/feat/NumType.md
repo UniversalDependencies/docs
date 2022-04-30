@@ -37,4 +37,4 @@ in a set of targets.
 * [hu] _három-három in gyermekenként <b>három-három</b> ezer
   forinttal_ "three thousand forint per child"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:25 CET 2021 -->

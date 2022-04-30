@@ -22,7 +22,7 @@ The following 19 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 obj	color:blue
-1	O	o	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+1	O	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	esquema	esquema	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	faz	fazer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	dinheiro	dinheiro	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
@@ -67,7 +67,7 @@ The following 19 pairs of parts of speech are connected with `obj`: <tt><a href=
 6	redenção	redenção	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	8	punct	_	_
 8	vencendo	_	VERB	VBG	_	2	acl	_	_
-9	a	o	DET	DT	Gender=Fem|Number=Sing	10	det	_	_
+9	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	Inglaterra	Inglaterra	PROPN	NNP	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Salvatore Scarlata, Elia Ackermann, Oliver Hellwig, Erica Biagetti, Paul Widmer.
 
 Repository: [UD_Sanskrit-Vedic](https://github.com/UniversalDependencies/UD_Sanskrit-Vedic)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_vedic28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_vedic29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 

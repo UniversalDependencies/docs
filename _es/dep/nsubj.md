@@ -11,4 +11,4 @@ A nominal subject is a noun phrase which is the syntactic subject of a clause. T
 Juan ha invitado a Pedro . \n Juan has invited Pedro .
 nsubj(invitado, Juan)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:12 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:00 CET 2021 -->

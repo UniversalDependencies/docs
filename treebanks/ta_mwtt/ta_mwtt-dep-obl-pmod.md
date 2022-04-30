@@ -23,12 +23,12 @@ The following 1 pairs of parts of speech are connected with `obl:pmod`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 obl:pmod	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	5:nsubj	Translit=kumār|LTranslit=kumār
-2	இன்று	இன்று	ADV	_	_	5	obl:tmod	5:obl:tmod	Translit=iṉṟu|LTranslit=iṉṟu
-3	மட்டும்	மட்டும்	ADV	_	_	5	advmod	5:advmod	Translit=maṭṭum|LTranslit=maṭṭum
-4	இங்கே	இங்கே	ADV	_	_	5	obl:pmod	5:obl:pmod	Translit=iṅkē|LTranslit=iṅkē
-5	இருக்கிறான்	இரு	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	0:root	Translit=irukkiṟāṉ|LTranslit=iru
-6	.	.	PUNCT	_	PunctType=Peri	5	punct	5:punct	Translit=.|LTranslit=.
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	_	Translit=kumār|LTranslit=kumār
+2	இன்று	இன்று	ADV	_	_	5	obl:tmod	_	Translit=iṉṟu|LTranslit=iṉṟu
+3	மட்டும்	மட்டும்	ADV	_	_	5	advmod	_	Translit=maṭṭum|LTranslit=maṭṭum
+4	இங்கே	இங்கே	ADV	_	_	5	obl:pmod	_	Translit=iṅkē|LTranslit=iṅkē
+5	இருக்கிறான்	இரு	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=irukkiṟāṉ|LTranslit=iru
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

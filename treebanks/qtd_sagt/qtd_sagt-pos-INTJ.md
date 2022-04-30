@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="qtd_sagt-pos-IN
   * <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> 39: <em>Anladım okey filmler olarak ne ne izliyorsun veya <b>ne</b> izledin bisher so ?</em>
   * <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> 12: <em>Und die schreiben selber so : " ifşalandık " , so wir werden geoutet <b>ne</b> .</em>
   * <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> 2: <em>Und natürlich auch Schlaf <b>ne</b> yani yeterince uyumazsan also bei mir ist es so ben hiç yani derse hiç şey yapamam yani çünkü hani gözlerimi açamıyorum dann .</em>
-  * <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> 1: <em>Em başka <b>ne</b> ler var Garten'inizde ?</em>
+  * <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> 1: <em>Em başka <b>ne</b> ler var Garteninizde ?</em>
 * <em>Dings</em>
   * <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> 24: <em>Ich hab <b>Dings</b> ähm o kadar Prüfunglarım var ki .</em>
   * <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> 13: <em>So tamam ya aber <b>Dings</b> ja .</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="qtd_sagt-pos-IN
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.974026 (the average of all parts of speech is 1.681057).
+The form / lemma ratio of `INTJ` is 0.974026 (the average of all parts of speech is 1.679170).
 
 The 1st highest number of forms (2) was observed with the lemma “ehm”: <em>ehm, em</em>.
 
@@ -65,12 +65,12 @@ The 2nd highest number of forms (2) was observed with the lemma “inşallah”:
 
 The 3rd highest number of forms (2) was observed with the lemma “işte”: <em>işte, İşte</em>.
 
-`INTJ` occurs with 1 features: <tt><a href="qtd_sagt-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`INTJ` occurs with 1 features: <tt><a href="qtd_sagt-feat-Foreign.html">Foreign</a></tt> (3; 0% instances)
 
 `INTJ` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `INTJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1847 tokens).
+The most frequent feature combination is `_` (1845 tokens).
 Examples: <em>ja, ähm, eh, ehm, em, ya, äh, işte, okay, nein</em>
 
 
@@ -78,7 +78,7 @@ Examples: <em>ja, ähm, eh, ehm, em, ya, äh, işte, okay, nein</em>
 
 `INTJ` nodes are attached to their parents using 9 different relations: <tt><a href="qtd_sagt-dep-discourse.html">discourse</a></tt> (1820; 98% instances), <tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt> (7; 0% instances), <tt><a href="qtd_sagt-dep-vocative.html">vocative</a></tt> (6; 0% instances), <tt><a href="qtd_sagt-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="qtd_sagt-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (4; 0% instances), <tt><a href="qtd_sagt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 13 different parts of speech: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1188; 64% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (252; 14% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (204; 11% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (69; 4% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (54; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (40; 2% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (8; 0% instances),  (3; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `INTJ` nodes belong to 13 different parts of speech: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1189; 64% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (251; 14% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (204; 11% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (69; 4% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (54; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (40; 2% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (8; 0% instances),  (3; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 1724 (93%) `INTJ` nodes are leaves.
 

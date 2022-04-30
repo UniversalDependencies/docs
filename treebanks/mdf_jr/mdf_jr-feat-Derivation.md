@@ -7,22 +7,22 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Features: `Derivation`
 
 This feature is language-specific.
-It occurs with 6 different values: `Dimin`, `F`, `NomAg`, `Ozj`, `Poss`, `Wife`.
+It occurs with 7 different values: `Dimin`, `F`, `GenAttr`, `NomAg`, `Ozj`, `Poss`, `Wife`.
 
-66 tokens (2%) have a non-empty value of `Derivation`.
-58 types (4%) occur at least once with a non-empty value of `Derivation`.
-50 lemmas (5%) occur at least once with a non-empty value of `Derivation`.
-The feature is used with 4 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (44; 2% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+72 tokens (2%) have a non-empty value of `Derivation`.
+64 types (4%) occur at least once with a non-empty value of `Derivation`.
+56 lemmas (5%) occur at least once with a non-empty value of `Derivation`.
+The feature is used with 5 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (46; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (23; 1% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-44 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (6% of all `NOUN` tokens) have a non-empty value of `Derivation`.
+46 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (40; 91%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (40; 91%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (26; 59%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 57%).
+The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (42; 91%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (42; 91%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (28; 61%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 57%).
 
 `NOUN` tokens may have the following values of `Derivation`:
 
-* `Dimin` (40; 91% of non-empty `Derivation`): <em>карденя, очконять, досканят, коволнятнень, пацяняц, стирнятне, Луганятне, Макарня, Маманяв, Очконясь</em>
+* `Dimin` (42; 91% of non-empty `Derivation`): <em>карденя, очконять, досканят, коволнятнень, пацяняц, стирнятне, Луганятне, Макарня, Маманяв, Очконясь</em>
 * `Poss` (4; 9% of non-empty `Derivation`): <em>зрняннеть, июленнекс, кизоннекс, сияннеть</em>
 
 <table>
@@ -31,19 +31,19 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
   <tr><td><tt><tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt></tt></td><td></td><td><em>кизоннекс</em></td></tr>
 </table>
 
-`Derivation` seems to be **lexical feature** of `NOUN`. 97% lemmas (29) occur only with one value of `Derivation`.
+`Derivation` seems to be **lexical feature** of `NOUN`. 97% lemmas (31) occur only with one value of `Derivation`.
 
 ### `VERB`
 
-20 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Derivation`.
+23 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (17; 85%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (17; 85%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (17; 85%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12; 60%), <tt><a href="mdf_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (11; 55%).
+The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (20; 87%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (20; 87%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (20; 87%), <tt><a href="mdf_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (14; 61%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12; 52%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (12; 52%).
 
 `VERB` tokens may have the following values of `Derivation`:
 
-* `F` (9; 45% of non-empty `Derivation`): <em>ацафоль, маскировандафт, путфт, ранендаф, содафоль, таргозьфтольхть, тиф, шавф, эйндаф</em>
-* `NomAg` (3; 15% of non-empty `Derivation`): <em>Лядыхне, кельгихть, ётафтысь</em>
-* `Ozj` (8; 40% of non-empty `Derivation`): <em>ётазь, Нолдазь, дивандазь, кенордазь, палозь, путозь, учсезь</em>
+* `F` (12; 52% of non-empty `Derivation`): <em>анеляф, ацафоль, максф, маскировандафт, путфт, ранендаф, содафоль, таргозьфтольхть, тиф, шавф</em>
+* `NomAg` (3; 13% of non-empty `Derivation`): <em>Лядыхне, кельгихть, ётафтысь</em>
+* `Ozj` (8; 35% of non-empty `Derivation`): <em>ётазь, Нолдазь, дивандазь, кенордазь, палозь, путозь, учсезь</em>
 
 <table>
   <tr><th>Paradigm <i>путомс</i></th><th><tt>F</tt></th><th><tt>Ozj</tt></th></tr>
@@ -51,7 +51,17 @@ The most frequent other feature values with which `VERB` and `Derivation` co-occ
   <tr><td><tt><tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td><em>путозь</em></td></tr>
 </table>
 
-`Derivation` seems to be **lexical feature** of `VERB`. 94% lemmas (17) occur only with one value of `Derivation`.
+`Derivation` seems to be **lexical feature** of `VERB`. 95% lemmas (20) occur only with one value of `Derivation`.
+
+### `ADJ`
+
+1 <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Derivation`.
+
+The most frequent other feature values with which `ADJ` and `Derivation` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`ADJ` tokens may have the following values of `Derivation`:
+
+* `GenAttr` (1; 100% of non-empty `Derivation`): <em>озадонь</em>
 
 ### `ADV`
 

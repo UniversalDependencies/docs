@@ -9,49 +9,44 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pt_bosque-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="pt_bosque-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-5750 nodes (3%) are attached to their parents as `flat:name`.
+5702 nodes (3%) are attached to their parents as `flat:name`.
 
-5750 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.31513043478261.
+5702 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.31111890564714.
 
-The following 19 pairs of parts of speech are connected with `flat:name`: <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (5585; 97% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (76; 1% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (27; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt>-<tt><a href="pt_bosque-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `flat:name`: <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (5532; 97% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (75; 1% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (26; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt>-<tt><a href="pt_bosque-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 flat:name	color:blue
-1	Um	um	NUM	_	NumType=Card	6	nsubj	_	_
-2	de	de	ADP	_	_	3	case	_	_
-3	eles	eles	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nmod	_	_
-4	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
-5	seu	seu	DET	_	Gender=Masc|Number=Sing|PronType=Prs	6	det	_	_
-6	filho	filho	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	Sérgio	Sérgio	PROPN	_	Gender=Masc|Number=Sing	6	appos	_	MWE=Sérgio_Fioravanti|MWEPOS=PROPN
-9	Fioravanti	Fioravanti	PROPN	_	Number=Sing	8	flat:name	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat:name	color:blue
+1	MAILSON	MAILSON	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	DA	DA	PROPN	_	_	1	flat:name	_	_
+3	NÓBREGA	NÓBREGA	PROPN	_	Number=Sing	1	flat:name	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 flat:name	color:blue
-1	Título	título	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	_	_	1	punct	_	_
-3	Salazar	Salazar	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	MWE=Salazar_e_Caetano|MWEPOS=PROPN
-4	e	e	CCONJ	_	_	3	flat:name	_	_
-5	Caetano	Caetano	PROPN	_	Number=Sing	3	flat:name	_	_
-6	--	--	PUNCT	_	_	3	punct	_	_
-7	Cartas	Cartas	PROPN	_	Number=Sing	3	parataxis	_	MWE=Cartas_Secretas_(1932-1968)|MWEPOS=PROPN
-8	Secretas	Secretas	PROPN	_	Number=Sing	7	flat:name	_	_
-9	(1932-1968)	(1932-1968)	PROPN	_	Number=Sing	7	flat:name	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 flat:name	color:blue
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	pesquisa	pesquisa	NOUN	_	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+3	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	feita	fazer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Hubert	Hubert	PROPN	_	ExtPos=PROPN|Gender=Fem|Number=Sing	4	obl:agent	_	_
+8	Imóveis	Imóveis	PROPN	_	Number=Sing	7	flat:name	_	_
+9	e	e	CCONJ	_	_	7	flat:name	_	_
+10	Administração	Administração	PROPN	_	Number=Sing	7	flat:name	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -62,14 +57,14 @@ The following 19 pairs of parts of speech are connected with `flat:name`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat:name	color:blue
-1	Balança	Balança	PROPN	_	Gender=Masc|Number=Sing	0	root	_	MWE=Balança_Rolha|MWEPOS=PROPN
+1	Balança	Balança	PROPN	_	ExtPos=PROPN|Gender=Masc|Number=Sing	0	root	_	_
 2	Rolha	Rolha	PROPN	_	Number=Sing	1	flat:name	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	Sacode	Sacode	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	MWE=Sacode_a_Rosquinha|MWEPOS=PROPN
+4	Sacode	Sacode	PROPN	_	ExtPos=PROPN|Gender=Masc|Number=Sing	1	conj	_	_
 5	a	a	DET	_	Number=Sing|PronType=Art	4	flat:name	_	_
 6	Rosquinha	Rosquinha	PROPN	_	Number=Sing	4	flat:name	_	_
 7	e	e	CCONJ	_	_	8	cc	_	_
-8	Peru	Peru	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	MWE=Peru_Esperto|MWEPOS=PROPN
+8	Peru	Peru	PROPN	_	ExtPos=PROPN|Gender=Masc|Number=Sing	1	conj	_	_
 9	Esperto	Esperto	PROPN	_	Number=Sing	8	flat:name	_	SpaceAfter=No
 10	!	!	PUNCT	_	_	1	punct	_	_
 

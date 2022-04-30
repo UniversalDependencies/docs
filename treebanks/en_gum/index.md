@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUM](https://github.com/UniversalDependencies/UD_English-GUM)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -98,11 +98,11 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 
 
 <ul>
-<li>This corpus contains 7402 sentences, 132835 tokens and 134488 syntactic words.</li>
+<li>This corpus contains 7397 sentences, 134233 tokens and 135886 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 17578 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 18978 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -110,7 +110,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 </ul>
 
 <ul>
-<li>This corpus contains 816 types of words that contain both letters and punctuation. Examples: 's, n't, ’s, 're, n’t, 'm, 've, 'll, 'd, U.S., ’re, ’ve, e.g., L'Enfant, ’d, ’ll, ’m, al., St., Mr., non-avian, Mof-Ávvi, pro-Beijing, c., i.e., COVID-19, Naqsh-e, cross-sectional, how-to, pan-democracy, w-, b., d., etc., eye-tracking, north-south, other-initiated, t-shirt, J., L., Ph.D., Vava'u, W., adult-like, anti-establishment, control-weight, e-mail, m., native-like, pan-democrat</li>
+<li>This corpus contains 297 types of words that contain both letters and punctuation. Examples: 's, n't, ’s, 're, n’t, 'm, 've, 'll, 'd, U.S., ’re, ’ve, e.g., L'Enfant, ’d, ’ll, ’m, al., St., Mr., non-avian, Mof-Ávvi, pro-Beijing, c., i.e., Naqsh-e, cross-sectional, w-, b., d., etc., eye-tracking, J., L., Ph.D., Vava'u, W., anti-establishment, e-mail, m., re-elected, th-, #istandwithahmed, A., Mrs., U.S, a-, b-, co-founder, f-</li>
 </ul>
 
 <ul>
@@ -131,15 +131,15 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 </ul>
 
 <ul>
-<li>This corpus contains 49 lemmas tagged as pronouns (PRON): I, a, all, another, any, both, d-, each, either, half, he, her, herself, himself, his, it, its, itself, mine, my, myself, no, one, oneself, our, quite, s/he, she, some, such, that, the, their, theirs, themselves, there, they, this, we, what, whatever, which, who, whoever, whose, you, your, yours, yourself</li>
+<li>This corpus contains 36 lemmas tagged as pronouns (PRON): I, he, her, herself, himself, his, it, its, itself, mine, my, myself, one, oneself, our, s/he, self, she, that, their, theirs, themselves, there, they, this, we, what, whatever, which, who, whoever, whose, you, your, yours, yourself</li>
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as determiners (DET): Mat, a, all, another, any, both, each, either, every, next, no, other, some, such, that, the, this, une, what, whatever, which</li>
+<li>This corpus contains 24 lemmas tagged as determiners (DET): Mat, a, all, another, any, both, d-, each, either, every, half, next, no, other, quite, some, such, that, the, this, une, what, whatever, which</li>
 </ul>
 
 <ul>
-<li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: a, all, another, any, both, each, either, no, some, such, that, the, this, what, whatever, which</li>
+<li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: that, this, what, whatever, which</li>
 </ul>
 
 <ul>
@@ -157,7 +157,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: is, was, can, will, are, would, should, 's, were, do</li>
+    <li>AUX: is, was, can, are, will, would, 's, were, should, do</li>
     <li>VERB: have, said, are, know, is, has, had, think, get, want</li>
   </ul>
   </li>
@@ -167,7 +167,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Ger
   <ul>
     <li>AUX: being, having, getting</li>
-    <li>SCONJ: Depending, regarding</li>
+    <li>SCONJ: regarding</li>
     <li>VERB: using, including, following, making, doing, according, having, thinking, going, growing</li>
   </ul>
   </li>
@@ -178,6 +178,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <ul>
     <li>AUX: be, have, do, get, 've, a</li>
     <li>VERB: have, make, do, get, know, see, go, take, want, find</li>
+    <li>X: dally</li>
   </ul>
   </li>
 </ul>
@@ -186,8 +187,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Part
   <ul>
     <li>AUX: been</li>
-    <li>SCONJ: given</li>
-    <li>VERB: united, used, called, known, made, given, going, found, based, gon</li>
+    <li>VERB: united, called, known, used, based, made, given, going, found, born</li>
   </ul>
   </li>
 </ul>
@@ -231,12 +231,12 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Plur
     <ul>
-      <li>AUX-Fin: are, were, have, do, 're, had, did, 've, ’re, was</li>
+      <li>AUX-Fin: are, were, have, do, 're, will, had, did, can, 've</li>
       <li>DET: these, those</li>
       <li>NOUN: people, years, things, days, studies, languages, children, minutes, months, words</li>
       <li>PRON: we, they, their, our, them, us, you, those, these, 's</li>
-      <li>PROPN: States, skittles, Nations, Americans, Chathams, Sox, Mets, Netherlands, Olmec, Thais</li>
-      <li>VERB-Fin: are, have, had, need, show, know, go, got, want, came</li>
+      <li>PROPN: States, skittles, Nations, Americans, Chathams, Mets, Sox, Netherlands, Olmec, Thais</li>
+      <li>VERB-Fin: are, have, had, need, show, want, know, do, go, got</li>
     </ul>
   </li>
 </ul>
@@ -244,17 +244,17 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Sing
     <ul>
-      <li>ADV: Always, Little, Loud, Out</li>
-      <li>AUX: is, was, 's, has, are, do, had, did, ’s, 'm</li>
-      <li>AUX-Fin: is, was, 's, has, are, do, had, did, ’s, 'm</li>
+      <li>ADV: Always, Little, Loud, Out, northwest, south</li>
+      <li>AUX: is, was, 's, has, do, had, did, ’s, 'm, 're</li>
+      <li>AUX-Fin: is, was, 's, has, do, had, did, ’s, 'm, 're</li>
       <li>DET: this, that, A</li>
-      <li>NOUN: time, city, way, language, world, year, life, something, day, work</li>
-      <li>NUM: half, Seven, Three</li>
+      <li>NOUN: time, city, way, year, world, language, life, something, day, work</li>
+      <li>NUM: Seven, half, Three</li>
       <li>PRON: i, it, you, he, his, she, her, this, my, that</li>
-      <li>PROPN: New, University, York, Scientology, Warhol, lee, September, party, America, Zealand</li>
+      <li>PROPN: New, University, York, Scientology, Warhol, lee, September, north, party, America</li>
       <li>PUNCT: ?</li>
       <li>SYM: %</li>
-      <li>VERB-Fin: said, is, has, know, had, have, think, want, was, says</li>
+      <li>VERB-Fin: said, is, has, know, had, have, think, want, says, was</li>
     </ul>
   </li>
 </ul>
@@ -288,7 +288,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Def
     <ul>
       <li>DET: the</li>
-      <li>PRON: the</li>
     </ul>
   </li>
 </ul>
@@ -297,7 +296,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Ind
     <ul>
       <li>DET: a, an</li>
-      <li>PRON: a</li>
     </ul>
   </li>
 </ul>
@@ -312,8 +310,9 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: more, better, greater, larger, further, easier, higher, later, smaller, younger</li>
-      <li>ADV: more, later, less, earlier, longer, further, better, sooner, faster, worse</li>
+      <li>ADJ: more, better, larger, greater, further, easier, higher, later, smaller, younger</li>
+      <li>ADV: more, later, less, earlier, longer, further, better, sooner, Lesser, faster</li>
+      <li>X: more</li>
     </ul>
   </li>
 </ul>
@@ -321,11 +320,12 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: other, many, new, good, little, first, such, different, own, last</li>
-      <li>ADV: really, well, back, still, much, too, away, again, around, often</li>
-      <li>DET: such, all, next, other</li>
+      <li>ADJ: other, many, new, good, little, first, such, same, different, last</li>
+      <li>ADV: well, really, back, still, too, away, much, again, around, often</li>
+      <li>DET: all, next, other</li>
       <li>PUNCT: —</li>
       <li>SCONJ: instead, such, like</li>
+      <li>X: ever</li>
     </ul>
   </li>
 </ul>
@@ -352,7 +352,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
       <li>INTJ: no</li>
       <li>NOUN: nothing, discomfort, non-art, non-fiction, non-locals, non-philosophers, nowhere</li>
       <li>PART: not, n't, n’t, n`t</li>
-      <li>PRON: no</li>
       <li>PROPN: Non-Proliferation, pas</li>
       <li>VERB-Fin: dismounted, Uncover, unclenched, uncovered</li>
       <li>VERB-Inf: undo, disentangle</li>
@@ -374,7 +373,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: let, see, make, get, use, add, look, take, place, try</li>
+      <li>VERB-Fin: let, see, make, get, use, add, look, place, take, try</li>
     </ul>
   </li>
 </ul>
@@ -383,7 +382,16 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Ind
     <ul>
       <li>AUX-Fin: is, was, are, 's, were, do, has, have, had, did</li>
-      <li>VERB-Fin: have, said, are, is, know, has, had, think, want, was</li>
+      <li>VERB-Fin: have, said, are, know, is, has, had, think, want, was</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: be</li>
+      <li>VERB-Fin: collaborate, look, rise, wear</li>
     </ul>
   </li>
 </ul>
@@ -397,9 +405,8 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
     <ul>
       <li>AUX-Fin: was, were, had, did, ’d, 'd, got, where</li>
       <li>AUX-Part: been</li>
-      <li>SCONJ-Part: given</li>
       <li>VERB-Fin: said, had, was, came, took, made, became, thought, wanted, did</li>
-      <li>VERB-Part: united, used, called, known, made, given, found, based, born, done</li>
+      <li>VERB-Part: united, called, known, used, based, made, given, found, born, done</li>
     </ul>
   </li>
 </ul>
@@ -408,7 +415,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Pres
     <ul>
       <li>AUX-Fin: is, are, 's, do, has, have, 're, ’s, 'm, 've</li>
-      <li>VERB-Fin: have, are, is, know, has, think, want, says, 's, get</li>
+      <li>VERB-Fin: have, are, know, is, has, think, want, says, get, 's</li>
       <li>VERB-Part: going, gon, doing, trying, coming, getting, looking, taking, working, making</li>
     </ul>
   </li>
@@ -440,7 +447,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Art
     <ul>
       <li>DET: the, a, an</li>
-      <li>PRON: the, a</li>
     </ul>
   </li>
 </ul>
@@ -451,7 +457,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
       <li>ADV: then, there, here</li>
       <li>DET: this, these, that, those</li>
       <li>PRON: this, that, those, these</li>
-      <li>SCONJ: then</li>
     </ul>
   </li>
 </ul>
@@ -478,9 +483,9 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: where, why</li>
+      <li>ADV: why, where, how</li>
       <li>PRON: that, which, who, what, whose, whom, whatever, whoever</li>
-      <li>SCONJ: where, how, why, when, that, which</li>
+      <li>SCONJ: where, how, why, when</li>
     </ul>
   </li>
 </ul>
@@ -492,7 +497,16 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Card
     <ul>
-      <li>NUM: one, two, 1, 2, 3, 6, three, 15, 4, 5</li>
+      <li>NUM: one, two, 1, 2, 3, three, 6, four, 4, 15</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Frac
+    <ul>
+      <li>NOUN: half, headquarters, quarter, behalf, third, millionth, quarters, tenth, thirds</li>
+      <li>NUM: 1.5, half, 1.3, 1.4, 1.75, 2.2, 2.3, 2.4, 7.2, 7.3</li>
     </ul>
   </li>
 </ul>
@@ -501,7 +515,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Mult
     <ul>
       <li>ADV: once, twice</li>
-      <li>SCONJ: Once</li>
     </ul>
   </li>
 </ul>
@@ -509,8 +522,8 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: first, second, third, 19th, fourth, 20th, fifth, 30th, 10th, 2nd</li>
-      <li>ADV: first, second, third, sixth</li>
+      <li>ADJ: first, second, third, 19th, fourth, 20th, fifth, 30th, 10th, 17th</li>
+      <li>ADV: first, second, third, 135th, 15th, sixth</li>
     </ul>
   </li>
 </ul>
@@ -556,10 +569,10 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: do, 're, are, did, have, ’re, were, ’ve, 've, 'd</li>
+      <li>AUX-Fin: do, 're, are, did, have, ’re, ’ve, were, 've, 'd</li>
       <li>PRON: you, your, yourself, yours</li>
-      <li>VERB-Fin: know, get, see, have, let, want, make, use, look, take</li>
-      <li>VERB-Inf: see, make, get, go, use, do, give, have, improve, let</li>
+      <li>VERB-Fin: know, get, have, let, see, want, make, use, look, take</li>
+      <li>VERB-Inf: see, let, get, go, use, Discuss, make, run, stay, Describe</li>
     </ul>
   </li>
 </ul>
@@ -567,9 +580,9 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: is, was, are, 's, were, has, had, ’s, have, do</li>
+      <li>AUX-Fin: is, was, are, 's, were, has, had, ’s, have, will</li>
       <li>PRON: it, he, his, they, she, her, their, them, its, him</li>
-      <li>VERB-Fin: said, is, has, are, have, had, says, was, came, 's</li>
+      <li>VERB-Fin: said, is, has, are, have, had, says, was, 's, came</li>
     </ul>
   </li>
 </ul>
@@ -587,12 +600,12 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
         <ul>
           <li>ADJ: OK</li>
           <li>ADP: vs.</li>
-          <li>ADV: e.g., c., i.e., ca., approx.</li>
+          <li>ADV: e.g., i.e., c., ca., approx.</li>
           <li>INTJ: OK</li>
-          <li>NOUN: GIS, DNA, No., Ph.D., p., DAB, Ed., St., USD, a.m.</li>
-          <li>PROPN: US, NASA, NATO, U.S., USI, DH, Mr., St., DAB, COVID-19</li>
+          <li>NOUN: GIS, DNA, No., Ph.D., p., DAB, Ed., ROS, St., USD</li>
+          <li>PROPN: US, NASA, NATO, U.S., USI, DH, Mr., St., DAB, IE6</li>
           <li>VERB-Part: b., d., div., m.</li>
-          <li>X: al., etc., i.e., Mlle., e.g.</li>
+          <li>X: al., etc., Mlle., e.g.</li>
         </ul>
       </li>
     </ul>
@@ -604,7 +617,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
     <ul>
       <li>Digit
         <ul>
-          <li>NUM: 1, 2, 3, 6, 15, 4, 5, 10, 24, 17</li>
+          <li>NUM: 1, 2, 3, 6, 4, 15, 5, 10, 24, 17</li>
         </ul>
       </li>
       <li>Roman
@@ -614,7 +627,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
       </li>
       <li>Word
         <ul>
-          <li>NUM: one, two, three, four, six, five, million, ten, hundred, eight</li>
+          <li>NUM: one, two, three, four, five, six, million, ten, eight, twenty</li>
         </ul>
       </li>
     </ul>
@@ -626,28 +639,28 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: I.=, Well-food, appropriate, authentic, correct, difficult, educative, first, least, non-Muslim</li>
+          <li>ADJ: I.=, appropriate, authentic, correct, difficult, educative, first, least, non-Muslim, northeastern</li>
           <li>ADP: of, on, in, to, with, a, as, at, fro, from</li>
-          <li>ADV: before, then, as, maybe, only, them, actually, around, awhile, commonly</li>
+          <li>ADV: before, then, as, maybe, only, them, well, actually, around, awhile</li>
           <li>AUX-Fin: can, has, are, is, 'd, 'm, 's, 've, must, s</li>
           <li>AUX-Inf: be, have</li>
           <li>AUX-Part: been</li>
           <li>CCONJ: and</li>
-          <li>DET: a, the, an, on, to, What, these, this</li>
+          <li>DET: the, a, a-, all, an, d-, on, to, What, these</li>
           <li>INTJ: w-, duh, Th, like, th-, Woo, Y-, a-, alreet, alroot</li>
-          <li>NOUN: hand, Color, F, app-, b-, bag, balls, break, cent, hum-</li>
+          <li>NOUN: Color, F, air, app-, b-, bag, break, hum-, lotos, migration</li>
           <li>NUM: 2, 4, thr-, three</li>
           <li>PART: s, 's, to, na, not, the</li>
-          <li>PRON: the, a, Th-, a-, all, d-, what, that, which, ya</li>
-          <li>PROPN: F&AM, Chatnam, Hell</li>
-          <li>PUNCT: —, –, ,, ., [, ], ", ), -, --</li>
+          <li>PRON: Th-, what, that, which, ya</li>
+          <li>PROPN: lotos, F&AM, Chatnam, Hell</li>
+          <li>PUNCT: —, –, ,, ., [, ", ], ), -, --</li>
           <li>SCONJ: cuz, UNLESS, before, despite, that, till, how</li>
           <li>SYM: /</li>
-          <li>VERB-Fin: is, 's, Keep, address, begun, cause, did, do, get, has</li>
+          <li>VERB-Fin: 's, Keep, address, begun, cause, did, do, get, has, insured</li>
           <li>VERB-Ger: deeping, getting, leading, looking, missing, recurring</li>
           <li>VERB-Inf: have, breath, conquer, copy, experience, f-, g-, l-, look, put</li>
-          <li>VERB-Part: been, coded, completed, given, going, gon, know, known, recommend, shown</li>
-          <li>X: etc, N-, S-</li>
+          <li>VERB-Part: been, coded, completed, food, given, going, gon, know, known, recommend</li>
+          <li>X: etc, hand, N-, S-, balls, cent, is</li>
         </ul>
       </li>
     </ul>
@@ -673,19 +686,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1453)</li>
+      <li>VERB-Fin--NOUN (1448)</li>
       <li>VERB-Fin--NOUN-ADP(behind) (1)</li>
-      <li>VERB-Fin--PRON (451)</li>
-      <li>VERB-Fin--PRON-Nom (2219)</li>
+      <li>VERB-Fin--PRON (427)</li>
+      <li>VERB-Fin--PRON-Nom (2216)</li>
       <li>VERB-Ger--NOUN (42)</li>
-      <li>VERB-Ger--PRON (5)</li>
-      <li>VERB-Ger--PRON-Nom (7)</li>
-      <li>VERB-Inf--NOUN (335)</li>
-      <li>VERB-Inf--PRON (123)</li>
+      <li>VERB-Ger--PRON (1)</li>
+      <li>VERB-Ger--PRON-Nom (10)</li>
+      <li>VERB-Inf--NOUN (339)</li>
+      <li>VERB-Inf--PRON (114)</li>
       <li>VERB-Inf--PRON-Nom (874)</li>
-      <li>VERB-Part--NOUN (242)</li>
-      <li>VERB-Part--PRON (58)</li>
-      <li>VERB-Part--PRON-Nom (489)</li>
+      <li>VERB-Part--NOUN (241)</li>
+      <li>VERB-Part--PRON (57)</li>
+      <li>VERB-Part--PRON-Nom (491)</li>
     </ul>
   </li>
 </ul>
@@ -693,18 +706,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2099)</li>
-      <li>VERB-Fin--PRON (124)</li>
-      <li>VERB-Fin--PRON-Acc (359)</li>
-      <li>VERB-Ger--NOUN (716)</li>
-      <li>VERB-Ger--PRON (16)</li>
-      <li>VERB-Ger--PRON-Acc (61)</li>
+      <li>VERB-Fin--NOUN (2080)</li>
+      <li>VERB-Fin--PRON (103)</li>
+      <li>VERB-Fin--PRON-Acc (355)</li>
+      <li>VERB-Ger--NOUN (718)</li>
+      <li>VERB-Ger--PRON (10)</li>
+      <li>VERB-Ger--PRON-Acc (62)</li>
       <li>VERB-Ger--PRON-Acc-ADP(after) (1)</li>
-      <li>VERB-Inf--NOUN (1431)</li>
-      <li>VERB-Inf--PRON (146)</li>
-      <li>VERB-Inf--PRON-Acc (263)</li>
-      <li>VERB-Part--NOUN (332)</li>
-      <li>VERB-Part--PRON (42)</li>
+      <li>VERB-Inf--NOUN (1449)</li>
+      <li>VERB-Inf--PRON (127)</li>
+      <li>VERB-Inf--PRON-Acc (266)</li>
+      <li>VERB-Part--NOUN (333)</li>
+      <li>VERB-Part--PRON (40)</li>
       <li>VERB-Part--PRON-Acc (51)</li>
     </ul>
   </li>
@@ -714,12 +727,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN (11)</li>
-      <li>VERB-Fin--PRON-Acc (60)</li>
-      <li>VERB-Ger--NOUN (8)</li>
+      <li>VERB-Fin--PRON-Acc (58)</li>
+      <li>VERB-Ger--NOUN (7)</li>
       <li>VERB-Ger--PRON-Acc (7)</li>
       <li>VERB-Inf--NOUN (16)</li>
-      <li>VERB-Inf--PRON-Acc (29)</li>
-      <li>VERB-Part--NOUN (2)</li>
+      <li>VERB-Inf--PRON-Acc (31)</li>
+      <li>VERB-Part--NOUN (3)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (7)</li>
     </ul>

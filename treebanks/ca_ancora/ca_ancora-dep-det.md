@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-86863 nodes (16%) are attached to their parents as `det`.
+86814 nodes (16%) are attached to their parents as `det`.
 
-84799 instances of `det` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17482702646697.
+85537 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16031976409335.
 
-The following 24 pairs of parts of speech are connected with `det`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (67921; 78% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (12372; 14% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1524; 2% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1313; 2% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (983; 1% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (835; 1% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (759; 1% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (581; 1% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (349; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (151; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (26; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-X.html">X</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `det`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (68374; 79% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (12465; 14% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1516; 2% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1350; 2% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (987; 1% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (844; 1% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (782; 1% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (350; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (109; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,19 +22,19 @@ The following 24 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
-1	D'	de	ADP	_	_	3	case	_	SpaceAfter=No
-2	aquestes	aquest	DET	_	Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
-3	activitats	activitat	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
-5	algunes	algun	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	9	nsubj	_	_
-6	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
-7	s'	ell	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	obj	_	SpaceAfter=No
-8	han	haver	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
-9	obert	obrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-10	a	a	ADP	_	_	12	case	_	_
-11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	públic	públic	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
-13	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+1	D'	de	ADP	sps00	_	3	case	3:case	SpaceAfter=No
+2	aquestes	aquest	DET	dd0fp0	Gender=Fem|Number=Plur|PronType=Dem	3	det	3:det	_
+3	activitats	activitat	NOUN	ncfp000	Gender=Fem|Number=Plur	9	obl	9:obl	SpaceAfter=No
+4	,	,	PUNCT	fc	PunctType=Comm	3	punct	3:punct	_
+5	algunes	algun	PRON	pi0fp000	Gender=Fem|Number=Plur|PronType=Ind	9	nsubj	9:nsubj	_
+6	no	no	ADV	rn	Polarity=Neg	9	advmod	9:advmod	_
+7	s'	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	obj	9:obj	SpaceAfter=No
+8	han	haver	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
+9	obert	obrir	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
+10	a	a	ADP	spcms	_	12	case	12:case	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	12:det	_
+12	públic	públic	NOUN	ncms000	Gender=Masc|Number=Sing	9	obj	9:obj	SpaceAfter=No
+13	.	.	PUNCT	fp	PunctType=Peri	9	punct	9:punct	_
 
 ~~~
 
@@ -45,19 +45,19 @@ The following 24 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 det	color:blue
-1	També	també	ADV	_	_	4	advmod	_	_
-2	s'	ell	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	obj	_	SpaceAfter=No
-3	ha	haver	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	fet	fer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-5	una	un	NUM	_	Gender=Fem|Number=Sing|NumType=Card	6	nummod	_	_
-6	ofrena	ofrena	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
-7	simbòlica	simbòlic	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
-8	a	a	ADP	_	_	11	case	_	_
-9	'	'	SYM	_	_	11	nmod	_	SpaceAfter=No
-10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	Moreneta	Moreneta	PROPN	_	_	4	obj	_	SpaceAfter=No
-12	'	'	SYM	_	_	11	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+1	També	també	ADV	rg	_	4	advmod	4:advmod	_
+2	s'	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	obj	4:obj	SpaceAfter=No
+3	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+4	fet	fer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
+5	una	un	NUM	dn0fs0	Gender=Fem|Number=Sing|NumType=Card	6	nummod	6:nummod	_
+6	ofrena	ofrena	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
+7	simbòlica	simbòlic	ADJ	aq0fs0	Gender=Fem|Number=Sing	6	amod	6:amod	_
+8	a	a	ADP	sps00	_	11	case	11:case	_
+9	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+10	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	11:det	_
+11	Moreneta	Moreneta	PROPN	np0000p	_	4	obj	4:obj	SpaceAfter=No|ClusterId=3LB-CAT-06010300-3-s4.sn.21|ClusterType=Spec.person|MentionSpan=9-12
+12	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+13	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
 
@@ -68,13 +68,13 @@ The following 24 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 det	color:blue
-1	Dues	dos	NUM	_	Gender=Fem|Number=Plur|NumType=Card	2	nummod	_	_
-2	vegades	vegada	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
-3	en	en	ADP	_	_	6	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	mateixa	mateix	DET	_	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
-6	roca	roca	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
-7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+1	Dues	dos	NUM	dn0fp0	Gender=Fem|Number=Plur|NumType=Card	2	nummod	2:nummod	_
+2	vegades	vegada	NOUN	ncfp000	Gender=Fem|Number=Plur	0	root	0:root	ClusterId=CESS-CAT-A-20010315-27617-s94.sn.2|ClusterType=Gen|MentionSpan=1-6|MentionMisc=Title
+3	en	en	ADP	sps00	_	6	case	6:case	_
+4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
+5	mateixa	mateix	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	4	det	4:det	_
+6	roca	roca	NOUN	ncfs000	Gender=Fem|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
 

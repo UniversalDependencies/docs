@@ -111,4 +111,4 @@ The conditional mood is translated as 'if or when one Vs'.
 - Steven A. Jacobson. 2001. A Practical Grammar of the St. Lawrence Island / Siberian Yupik Eskimo Language, Preliminary Edition, 2nd edition. Alaska Native Language Center, Fairbanks, Alaska.
 
 - Willem J. de Reuse. 1994. _Siberian Yupik Eskimo -- The Language and Its Contacts with Chukchi._  Studies in Indigenous Languages of the Americas. University of Utah Press, Salt Lake City, Utah.
-<!-- Interlanguage links updated Pá kvě 14 11:08:33 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->

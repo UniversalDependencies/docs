@@ -9,32 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1988 tokens (1%) have a non-empty value of `Poss`.
-15 types (0%) occur at least once with a non-empty value of `Poss`.
-11 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1900; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (88; 0% instances).
+1966 tokens (1%) have a non-empty value of `Poss`.
+16 types (0%) occur at least once with a non-empty value of `Poss`.
+10 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 2 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1930; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (36; 0% instances).
 
 ### `PRON`
 
-1900 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (10% of all `PRON` tokens) have a non-empty value of `Poss`.
+1930 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1900; 100%), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1858; 98%), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=1</tt> (1088; 57%), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=Plur</tt> (951; 50%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1930; 100%), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1824; 95%), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=1</tt> (1088; 56%).
 
 `PRON` tokens may have the following values of `Poss`:
 
-* `Yes` (1900; 100% of non-empty `Poss`): <em>my, your, our, deir, her, im, we, dem, una, e</em>
-* `EMPTY` (16359): <em>I, you, e, we, am, de, me, dem, im, wetin</em>
-
-`Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Poss`.
+* `Yes` (1930; 100% of non-empty `Poss`): <em>my, your, our, deir, her, im, una, we, dem, e</em>
+* `EMPTY` (16432): <em>I, you, e, we, am, de, me, dem, im, wetin</em>
 
 ### `ADJ`
 
-88 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Poss`.
+36 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
 `ADJ` tokens may have the following values of `Poss`:
 
-* `Yes` (88; 100% of non-empty `Poss`): <em>her, your, its</em>
-* `EMPTY` (3518): <em>small, own, good, kind, different, better, many, first, big, plenty</em>
+* `Yes` (36; 100% of non-empty `Poss`): <em>your, its</em>
+* `EMPTY` (3504): <em>small, own, good, kind, different, better, many, first, plenty, big</em>
 
 ## Relations with Agreement in `Poss`
 

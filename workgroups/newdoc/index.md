@@ -32,7 +32,7 @@ udver: '2'
     * “Complement” clauses of nouns (`acl:comp`?)
   * Subject clauses
   * Adverbial clauses
-  * Relative clauses
+  * [Relative clauses](relative_clauses.html)
     * Free relatives (see also issues and other discussions, e.g. [this comment](https://github.com/UniversalDependencies/UD_English-EWT/pull/96#issuecomment-692915672))
   * Other adnominal clauses
   * Open complements (and secondary predication)

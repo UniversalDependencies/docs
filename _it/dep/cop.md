@@ -31,7 +31,7 @@ nsubj(Qual, capitale)
 cop(Qual, è)
 ~~~
 
-If the copula comes together another verbal auxiliaries (e.g. because of the tense), they are taken as dependents of the lexical predicate:
+If the copula comes together with other verbal auxiliaries (e.g. because of the tense), they are taken as dependents of the lexical predicate:
 
 ~~~ sdparse
 Non venne mai chiarito quale formazione era stata responsabile
@@ -74,7 +74,7 @@ case(Hamad, di)
 det(Hamad, il)
 nmod(è, Hamad)
 amod(Hamad, pachistano)
-name(Hamad, Butt)
+flat:name(Hamad, Butt)
 ~~~
 ~~~ sdparse
 ROOT Oggi è in grado di dir ci qualcosa
@@ -101,4 +101,4 @@ ccomp(è, esplodendo)
 nsubj(esplodendo, spesa)
 mark(esplodendo, che)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:58 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:47 CET 2021 -->

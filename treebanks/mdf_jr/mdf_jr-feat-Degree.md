@@ -16,10 +16,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-PART.htm
 
 ### `PART`
 
-3 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (25% of all `PART` tokens) have a non-empty value of `Degree`.
+3 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (21% of all `PART` tokens) have a non-empty value of `Degree`.
 
 `PART` tokens may have the following values of `Degree`:
 
 * `Cmp` (3; 100% of non-empty `Degree`): <em>сяда</em>
-* `EMPTY` (9): <em>вдь, улема, хоть, въдь, нльне, нльня</em>
+* `EMPTY` (11): <em>вдь, улема, хоть, въдь, дяряй, нльне, нльня, шять</em>
 

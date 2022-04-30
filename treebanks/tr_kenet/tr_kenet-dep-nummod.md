@@ -22,7 +22,7 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nummod	color:blue
-1	Bu	bu	DET	_	Definite=Def	2	det	_	_
+1	Bu	bu	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	arada	ara	NOUN	_	Case=Loc|Number=Sing|Person=3	10	obl	_	_
 3	üç	üç	NUM	_	NumType=Card	4	compound	_	_
 4	beş	beş	NUM	_	NumType=Card	5	nummod	_	_
@@ -43,15 +43,15 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nummod	color:blue
-1	Kimse	kimse	PRON	_	_	9	nsubj	_	_
+1	Kimse	kimse	PRON	_	PronType=Ind	9	nsubj	_	_
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	dört	dört	NUM	_	NumType=Card	4	nummod	_	_
 4	çocuklu	çocuklu	ADJ	_	_	6	amod	_	_
-5	bir	bir	DET	_	Definite=Ind	6	det	_	_
+5	bir	bir	DET	_	Definite=Ind|PronType=Art	6	det	_	_
 6	aileye	aile	NOUN	_	Case=Dat|Number=Sing|Person=3	8	obl	_	_
 7	ev	ev	NOUN	_	Case=Nom|Number=Sing|Person=3	8	obj	_	_
 8	vermek	ver	NOUN	_	Case=Nom|Number=Sing|Person=3	9	xcomp	_	_
-9	istememiş	iste	VERB	_	Aspect=Perf|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	_
+9	istememiş	iste	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
@@ -67,7 +67,7 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 2	üç	üç	NUM	_	NumType=Card	3	nummod	_	_
 3	günlük	gün	ADJ	_	_	4	amod	_	_
 4	mesaiyle	mesai	NOUN	_	Case=Ins|Number=Sing|Person=3	9	obl	_	_
-5	bir	bir	DET	_	Definite=Ind	6	det	_	_
+5	bir	bir	DET	_	Definite=Ind|PronType=Art	6	det	_	_
 6	sürü	sürü	NOUN	_	Case=Nom|Number=Sing|Person=3	8	amod	_	_
 7	karanlık	karanlık	ADJ	_	_	8	amod	_	_
 8	noktayı	nokta	NOUN	_	Case=Acc|Number=Sing|Person=3	9	obj	_	_

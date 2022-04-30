@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-222 nodes (1%) are attached to their parents as `xcomp`.
+225 nodes (1%) are attached to their parents as `xcomp`.
 
-222 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.62162162162162.
+225 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.63555555555556.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (176; 79% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (34; 15% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (12; 5% instances).
+The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (176; 78% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (37; 16% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (12; 5% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 8 9 xcomp	color:blue
 1	Dan	dan	CCONJ	_	_	8	cc	_	_
 2	hasil	hasil	NOUN	_	Number=Sing	8	nsubj:pass	_	_
-3	nya	nya	DET	_	PronType=Dem	2	det	_	_
+3	nya	nya	DET	_	Definite=Def|PronType=Art	2	det	_	_
 4	sama	sama	ADJ	_	_	8	advmod	_	_
 5	sekali	kali	ADV	_	_	4	fixed	_	_
 6	tidak	tidak	PART	_	Polarity=Neg	8	advmod	_	_

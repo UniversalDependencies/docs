@@ -22,11 +22,11 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 iobj	color:blue
-1	Tʃaruj	Tʃaruj	PROPN	pn	_	3	nsubj	3:nsubj	_
-2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	3:obj	_
-3	õa	õ	VERB	vt	Tv=Yes	0	root	0:root	_
-4	te	te	PART	pclfoc	_	3	dep	3:dep	_
-5	Kanibõ	Kani	PROPN	pn	Case=All	3	iobj	3:iobj	_
+1	Tʃaruj	Tʃaruj	PROPN	pn	_	3	nsubj	_	_
+2	kɨjtpit	kɨjtpit	NOUN	n	_	3	obj	_	_
+3	õa	õ	VERB	vt	Tv=Yes	0	root	_	_
+4	te	te	PART	pclfoc	_	3	dep	_	_
+5	Kanibõ	Kani	PROPN	pn	Case=All	3	iobj	_	_
 
 ~~~
 

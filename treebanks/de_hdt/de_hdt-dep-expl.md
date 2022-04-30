@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `expl`: <tt><a href="de_hdt-dep-expl-p
 3114 nodes (0%) are attached to their parents as `expl`.
 
 2315 instances of `expl` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.91875401412974.
+Average distance between parent and child is 2.93802183686577.
 
 The following 8 pairs of parts of speech are connected with `expl`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1761; 57% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (769; 25% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (410; 13% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (154; 5% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 

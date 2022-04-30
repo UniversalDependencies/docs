@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>XSD</em> (<tt><a href="en_lines-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.037037 (the average of all parts of speech is 1.241057).
+The form / lemma ratio of `X` is 1.037037 (the average of all parts of speech is 1.241030).
 
 The 1st highest number of forms (2) was observed with the lemma “xsl”: <em>.xsl, XSL</em>.
 

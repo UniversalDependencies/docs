@@ -13,17 +13,17 @@ The 10 most frequent `SCONJ` lemmas: <em>kī, ša, inūma, ašru, ašāru, ašš
 
 The 10 most frequent `SCONJ` types:  <em>kī, ša, enūma, ašar, arki, ašur, aššu, šumma</em>
 
-The 10 most frequent ambiguous lemmas: <em>kī</em> (<tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 7), <em>ša</em> (<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 708, <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> 260, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 9), <em>inūma</em> (<tt><a href="akk_riao-pos-ADV.html">ADV</a></tt> 24, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 7), <em>ašru</em> (<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> 42, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 4), <em>ašāru</em> (<tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> 1), <em>warki</em> (<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 14, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>kī</em> (<tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 7), <em>ša</em> (<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 698, <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> 246, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 9), <em>inūma</em> (<tt><a href="akk_riao-pos-ADV.html">ADV</a></tt> 24, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 7), <em>ašru</em> (<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 4), <em>ašāru</em> (<tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> 1), <em>warki</em> (<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 12, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>kī</em> (<tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 7), <em>ša</em> (<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 708, <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> 394, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 9), <em>enūma</em> (<tt><a href="akk_riao-pos-ADV.html">ADV</a></tt> 24, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 7), <em>ašar</em> (<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 4), <em>arki</em> (<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 14, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>kī</em> (<tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 7), <em>ša</em> (<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 698, <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> 380, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 9), <em>enūma</em> (<tt><a href="akk_riao-pos-ADV.html">ADV</a></tt> 24, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 7), <em>ašar</em> (<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 4), <em>arki</em> (<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 12, <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>kī</em>
   * <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 11: <em><b>kī</b> ina Aribua usbakūni ālāni ša Luhuti aktašad</em>
   * <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 7: <em>ilāni šunu <b>kī</b> qīšūte ana Aššur bēli ya lū aqīš</em>
 * <em>ša</em>
-  * <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 708: <em><b>ša</b> bīt nathi <b>ša</b> Ninua</em>
-  * <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> 394: <em>eli māt Aššur māta eli nišī <b>ša</b> nišī uraddi</em>
+  * <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 698: <em><b>ša</b> bīt nathi <b>ša</b> Ninua</em>
+  * <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> 380: <em>eli māt Aššur māta eli nišī <b>ša</b> nišī uraddi</em>
   * <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 9: <em><b>ša</b> ina kussî šarrūti rabîš ūšibu ina qibīt Aššur bēli rabê bēli ya narkabāti ummānāte ya adki</em>
 * <em>enūma</em>
   * <tt><a href="akk_riao-pos-ADV.html">ADV</a></tt> 24: <em><b>enūma</b> bīt Ištar ša Nina bēlti ya ultu uššē šu adi gabadibbī šu arṣip</em>
@@ -32,12 +32,12 @@ The 10 most frequent ambiguous types:  <em>kī</em> (<tt><a href="akk_riao-pos-S
   * <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> 16: <em>ina tāhāzi ša šarrāni <b>ašar</b> taqrubte ammar libbi šu ušamṣa šu</em>
   * <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 4: <em><b>ašar</b> laššu šammu</em>
 * <em>arki</em>
-  * <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 14: <em><b>arki</b> šunu artedi</em>
+  * <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> 12: <em><b>arki</b> šunu artedi</em>
   * <tt><a href="akk_riao-pos-SCONJ.html">SCONJ</a></tt> 1: <em><b>arki</b> ilāni rabûti išīmū ma haṭṭi murte’ât nišī ana qāti ya umellû eli šarrāni šūt agê iššû ni melamme šarrūti īpirū ni siqr ī šurbâ eli naphar bēlē ušāterū šumu kabta Adad-nerari šar māt Aššur ibbû ni</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.796005).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.795993).
 
 The 1st highest number of forms (1) was observed with the lemma “ašru”: <em>ašar</em>.
 

@@ -12,9 +12,9 @@ There are also 2 other language-specific subtypes of `compound`: <tt><a href="pc
 366 nodes (0%) are attached to their parents as `compound:prt`.
 
 366 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.29234972677596.
+Average distance between parent and child is 1.31147540983607.
 
-The following 9 pairs of parts of speech are connected with `compound:prt`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (351; 96% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `compound:prt`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (350; 96% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,7 +38,7 @@ The following 9 pairs of parts of speech are connected with `compound:prt`: <tt>
 13	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	AlignBegin=216957|AlignEnd=217042|Gloss=NOM.SG.3
 14	dey	dey	VERB	_	VerbType=Cop	4	advcl	_	AlignBegin=217042|AlignEnd=217211|Gloss=be
 15	like	like	ADP	_	_	16	case	_	AlignBegin=217211|AlignEnd=217429|Gloss=like
-16	dat	dat	PRON	_	Number=Sing|PronType=Dem	14	xcomp	_	AlignBegin=217429|AlignEnd=217586|Gloss=SG.DEM
+16	dat	dat	PRON	_	Number=Sing	14	xcomp	_	AlignBegin=217429|AlignEnd=217586|Gloss=SG.DEM
 17	//	//	X	_	_	4	dep	_	AlignBegin=217586|AlignEnd=217616|Gloss=PUNCT
 
 ~~~
@@ -77,7 +77,7 @@ The following 9 pairs of parts of speech are connected with `compound:prt`: <tt>
 7	dey	dey	AUX	_	Aspect=Imp	8	aux	_	AlignBegin=231590|AlignEnd=231710|Gloss=IPFV
 8	go	go	VERB	_	_	3	ccomp	_	AlignBegin=231710|AlignEnd=231960|Gloss=go
 9	#	#	X	_	_	12	dep	_	AlignBegin=231960|AlignEnd=232410|Gloss=PUNCT
-10	no	no	PART	_	Polarity=Neg	12	advmod	_	AlignBegin=232410|AlignEnd=232560|Gloss=NEG
+10	no	no	AUX	_	Polarity=Neg	12	aux	_	AlignBegin=232410|AlignEnd=232560|Gloss=NEG
 11	fit	fit	AUX	_	Mood=Pot	12	aux	_	AlignBegin=232560|AlignEnd=232680|Gloss=ABIL
 12	make	make	VERB	_	_	0	root	_	AlignBegin=232680|AlignEnd=232870|Gloss=make
 13	us	us	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	obj	_	AlignBegin=232870|AlignEnd=233000|Gloss=ACC.PL.1

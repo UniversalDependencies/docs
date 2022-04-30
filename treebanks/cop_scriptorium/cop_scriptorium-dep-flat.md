@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-49 nodes (0%) are attached to their parents as `flat`.
+50 nodes (0%) are attached to their parents as `flat`.
 
-49 instances of `flat` (100%) are left-to-right (parent precedes child).
+50 instances of `flat` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `flat`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (49; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (50; 100% instances).
 
 
 ~~~ conllu

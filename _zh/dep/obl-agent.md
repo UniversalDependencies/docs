@@ -28,4 +28,4 @@ The `obl:agent` relation is used to link an agent noun phrase to the main verb, 
 ~~~
 
 For the "short passive" construction where the agent is absent, the function word 被 _bèi_ is treated as a passive auxiliary (tagged [AUX](); see [aux:pass]()).
-<!-- Interlanguage links updated Pá kvě 14 11:09:16 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:05 CET 2021 -->

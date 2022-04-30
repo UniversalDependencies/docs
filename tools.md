@@ -38,6 +38,7 @@ You may also want to announce your tool in the
     * [Sublime Text](#sublime-text)
   * Processing tools
     * [CL-CONLLU](#cl-conllu)
+    * [hs-conllu](#hs-conllu)
     * [DepEdit](#depedit)
     * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
     * [pyconll](#pyconll)
@@ -62,7 +63,7 @@ The Universal Dependencies project maintains a number of core tools for working 
 These tools are available from <https://github.com/universaldependencies/tools> and briefly
 described below.
 
-* [Specification for converters and validators for v2](v1_to_v2.html)
+* [Specification for converters and validators for v2](workgroups/v1_to_v2.html)
 
 ### Annotation statistics
 
@@ -234,13 +235,15 @@ The editor provides the following functionalities:
 * join/split sentences (to correct tokenization errors)
 * search (also sequences)
 * undo/redo (partially)
-* run validatin scripts
+* run validation scripts
 * git support
+* edit sentence metadata (sent_id, newdoc, newpar, translations, transliterations)
+* add initial transliteration (FORM -> MISC:Translit, LEMMA -> MISC:LTranslit)
 
 
 * Category: manual annotation tool
 * Platform: Any
-* Implementation: Java, JavaScript
+* Implementation: Java, JavaScript, Python3
 * License: BSD-3-Clause (open source)
 * Homepage: <https://github.com/Orange-OpenSource/conllueditor>
 * References: Johannes Heinecke (2019): [ConlluEditor: a fully graphical editor for Universal dependencies treebank files](https://syntaxfest.github.io/syntaxfest19/proceedings/papers/paper_55.pdf). In: [Proceedings of the Universal Dependencies Workshop 2019](http://universaldependencies.org/udw19/). Paris. ([Short demo video](https://syntaxfest.github.io/syntaxfest19/slides/conllueditor_demo_windows_subtitled.mp4))
@@ -324,6 +327,17 @@ A Common Lisp library for various CoNLL-U-related operations. We have already fu
 * License: Apache License
 * Homepage: <https://github.com/own-pt/cl-conllu/>
 * References: http://arademaker.github.io/bibliography/tilic-stil-2017.html
+
+#### hs-conllu
+
+A Haskel library for various CoNLL-U-related operations. So far, the basic functions for reading and writing. The plan is to port all other functions from the CL-CONLLU
+
+* Category: library
+* Platform: any OS that runs a Haskell compiler/interpreter
+* Implementation: Haskell
+* License: Apache License
+* Homepage: https://hackage.haskell.org/package/hs-conllu
+* References: see homepage
 
 
 #### DepEdit

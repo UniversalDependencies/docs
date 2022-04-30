@@ -52,7 +52,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 7	разделяют	разделять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
 9	оптимизма	оптимизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	7	punct	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_~
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	Кирилл	Кирилл	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	_
 7	очень	очень	ADV	_	Degree=Pos	8	advmod	_	_
 8	удивлялся	удивляться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_~
 
 ~~~
 

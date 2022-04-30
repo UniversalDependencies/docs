@@ -8,44 +8,62 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Perm">Perm</a></td>
   <td><a href="#Sub">Sub</a></td>
+  <td><a href="#Imp">Imp</a></td>
   <td><a href="#Cnd">Cnd</a></td>
+  <td><a href="#Per">Per</a></td>
+  <td><a href="#Opt">Opt</a></td>
   
   
 </tr>
 </table>
 
-`Mood` is a 
-
-### <a name="Perm">`Perm`</a>: Permissive
-
-Contiguity is more often associated with
-
-#### Examples
-
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
-
-
-
+`Mood` is 
 
 ### <a name="Sub">`Sub`</a>: Subjunctive
 
-Contiguity is more often associated with
+The subjunctive aspect is marked by the  .
 
 #### Examples
 
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+* _<b></b>&nbsp;_ “” - 
 
 
 
-### <a name="Cnd">`Cnd`</a>: Permissive
+### <a name="Imp">`Imp`</a>: Imperative
 
-Contiguity is more often associated with
+Iterative aspect is indicated by the particle _teɲẽ_.
 
 #### Examples
 
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+* _<b></b>&nbsp;_ “” - 
+
+
+
+### <a name="Cnd">`Cnd`</a>: Conditional
+
+Successive aspect indicates that the action happens more than once, either the subject or the object has to have a plural reading (one after the other).
+
+#### Examples
+
+* _<b></b>&nbsp;_ “” - 
+
+
+
+### <a name="Per">`Per`</a>: Permissive
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “” -
+
+
+### <a name="Opt">`Opt`</a>: Optative
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “” -
 
 
 
@@ -55,5 +73,4 @@ Contiguity is more often associated with
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-
-<!-- Interlanguage links updated Pá kvě 14 11:08:34 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->

@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Acc">Acc</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Gen">Gen</a></td>
@@ -83,6 +84,15 @@ belongs to its governor (adnominal dative) or depends on the verb (adverbal dati
 * _Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։&nbsp;_ “Yerevan is the
   capital <b>of Armenia</b>.”
 
+### <a name="Acc">`Acc`</a>: accusative
+
+Perhaps the second most widely spread morphological case.
+This is the word form most frequently used for direct objects of verbs, see above.
+
+#### Examples
+
+* _Եղբայրս սիրում է <b>Աննային</b>։_ “My brother loves <b>Anna</b>.”
+
 ### <a name="Abl">`Abl`</a>: ablative
 
 Prototypical meaning: direction from some point (object, location or time).
@@ -121,4 +131,4 @@ required by a preposition).
 
 * _Հուլիսին ես <b>Շվեդիայում</b> էի։&nbsp;_ “In July I was in <b>Sweden</b>.”
 * _Մի <b>ժամում</b> հասավ։&nbsp;_ “lit: He got there in an <b>hour</b>.”
-<!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->

@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 578 <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (558; 97%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (542; 94%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (540; 93%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (397; 69%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (558; 97%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (542; 94%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (541; 94%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (397; 69%).
 
 `AUX` tokens may have the following values of `Tense`:
 

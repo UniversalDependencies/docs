@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>dann</em> (<tt><a href="qtd_sagt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.681057).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.679170).
 
 The 1st highest number of forms (2) was observed with the lemma “mi”: <em>mi, mı</em>.
 
@@ -69,7 +69,13 @@ The 2nd highest number of forms (1) was observed with the lemma “als”: <em>a
 
 The 3rd highest number of forms (1) was observed with the lemma “anstatt”: <em>anstatt</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (672 tokens).
+Examples: <em>weil, çünkü, wenn, dass, dann, ki, diye, ya, ob, wie</em>
 
 
 ## Relations

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-44832 tokens (11%) have a non-empty value of `VerbForm`.
+44834 tokens (11%) have a non-empty value of `VerbForm`.
 8275 types (19%) occur at least once with a non-empty value of `VerbForm`.
-2212 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (31945; 8% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (12886; 3% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+2214 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (31946; 8% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (12887; 3% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-31945 <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+31946 <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20765; 65%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19531; 61%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18216; 57%), <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (18215; 57%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20764; 65%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19532; 61%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18217; 57%), <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (18216; 57%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (13735; 43% of non-empty `VerbForm`): <em>a, peut, fait, est, trouve, devient, doit, ont, permet, agit</em>
+* `Fin` (13737; 43% of non-empty `VerbForm`): <em>a, peut, fait, est, trouve, devient, doit, ont, permet, agit</em>
 * `Inf` (5523; 17% of non-empty `VerbForm`): <em>faire, partir, voir, prendre, avoir, mettre, passer, trouver, aller, dire</em>
-* `Part` (12687; 40% of non-empty `VerbForm`): <em>né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</em>
-* `EMPTY` (31): <em>voilà, voici, Voila, cf</em>
+* `Part` (12686; 40% of non-empty `VerbForm`): <em>né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</em>
+* `EMPTY` (32): <em>voilà, voici, Rampant, Voila, cf</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -55,7 +55,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>auront</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>avaient</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>eurent</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ont, non</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ont</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>non</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>eût</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ait</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ayons</em></td><td></td><td></td></tr>
@@ -65,13 +66,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-12886 <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+12887 <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10792; 84%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (10705; 83%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9738; 76%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9640; 75%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10793; 84%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (10706; 83%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9739; 76%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9640; 75%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (11150; 87% of non-empty `VerbForm`): <em>est, a, sont, ont, était, fut, avait, ai, sera, étaient</em>
+* `Fin` (11151; 87% of non-empty `VerbForm`): <em>est, a, sont, ont, était, fut, avait, ai, sera, étaient</em>
 * `Inf` (653; 5% of non-empty `VerbForm`): <em>être, avoir, faire, -être, etre</em>
 * `Part` (1083; 8% of non-empty `VerbForm`): <em>été, étant, ayant, fait, faisant, Etant, faite</em>
 
@@ -81,6 +82,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>est</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>été</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>serais</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>serais</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>serait</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>serions</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>seriez</em></td><td></td><td></td></tr>
@@ -123,17 +125,17 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>informé</em>
-* `EMPTY` (23727): <em>premier, première, français, autres, même, française, tous, dernier, grande, grand</em>
+* `EMPTY` (23744): <em>premier, première, français, autres, même, française, tous, dernier, grande, grand</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2445; 80%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (226; 55%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2483; 81%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (230; 56%),
 <tt>AUX --[<tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (7; 100%),
-<tt>AUX --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 63%),
-<tt>AUX --[<tt><a href="fr_gsd-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (5; 71%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-advcl-cleft.html">advcl:cleft</a></tt>]--> VERB</tt> (4; 80%),
+<tt>AUX --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 67%),
+<tt>AUX --[<tt><a href="fr_gsd-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (5; 63%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-advcl-cleft.html">advcl:cleft</a></tt>]--> VERB</tt> (4; 67%),
 <tt>AUX --[<tt><a href="fr_gsd-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="fr_gsd-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 67%),
 <tt>VERB --[<tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (2; 100%),

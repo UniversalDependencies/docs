@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Universal Dependencies'
+shortdef: 'guidelines'
 udver: '2'
 ---
 
@@ -28,7 +29,7 @@ udver: '2'
   * [Syntactic relations](u/dep/index.html) ([single document](u/dep/all.html))
     * [Relations in data](ext-dep-index.html) (list of **all** relation subtypes that are used in treebanks)
   * [Conversion from other tagsets to UD tags and features](tagset-conversion/index.html)
+  * [MISC attributes](misc.html)
 * Incubator for [Construction-Oriented Documentation](/workgroups/newdoc/index.html) (it will be moved here when it is mature enough)
 
-This is the online documentation of UD guidelines v2 (2016-12-01). For earlier versions, see
-[archived v1 guidelines](docsv1/) and [changes from v1 to v2](v2/summary.html).
+This is the online documentation of UD guidelines v2 (launched 2016-12-01 with subsequent revisions). For change history, see [Guidelines Changes](changes.html).

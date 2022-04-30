@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 13	untuk	untuk	SCONJ	_	_	14	mark	_	_
 14	mendapatkan	dapat	VERB	_	Mood=Ind|Voice=Act	9	advcl	_	_
 15	kemerdekaan	merdeka	NOUN	_	Number=Sing	14	obj	_	_
-16	mereka	mereka	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	SpaceAfter=No
+16	mereka	mereka	PRON	_	Number=Plur|Person=3|PronType=Prs	15	nmod:poss	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -60,13 +60,13 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 8	dan	dan	CCONJ	_	_	9	cc	_	_
 9	Penghasilan	hasil	NOUN	_	Number=Sing	7	conj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	16	punct	_	_
-11	yang	yang	SCONJ	_	_	16	mark	_	_
+11	yang	yang	PRON	_	PronType=Rel	16	obl	_	_
 12	ke	ke	ADP	_	_	14	case	_	_
 13	dalam	dalam	NOUN	_	Number=Sing	14	nmod:lmod	_	_
 14	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	16	obl	_	_
 15	investor	investor	NOUN	_	Number=Sing	16	nsubj	_	_
 16	memasukkan	masuk	VERB	_	Mood=Ind|Voice=Act	3	acl:relcl	_	_
-17	masing-masing	masing-masing	NOUN	_	Number=Sing	18	nmod	_	_
+17	masing-masing	masing-masing	DET	_	PronType=Tot	18	det	_	_
 18	£	£	SYM	_	_	16	obj	_	SpaceAfter=No
 19	2	2	NUM	_	NumType=Card	18	nummod	_	_
 20	miliar	miliar	NUM	_	NumType=Card	19	flat	_	_

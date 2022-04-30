@@ -34,4 +34,4 @@ In Irish, the comparative and the superlative form is the same. In both cases, t
 * _<b>is</b> fearr_ "the best"
 * _<b>is</b> mó_ "the biggest"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:31 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:19 CET 2021 -->

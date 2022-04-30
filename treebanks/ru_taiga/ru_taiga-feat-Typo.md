@@ -9,50 +9,50 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-843 tokens (0%) have a non-empty value of `Typo`.
-785 types (2%) occur at least once with a non-empty value of `Typo`.
-694 lemmas (3%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 14 part-of-speech tags: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (295; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (269; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (118; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (55; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (35; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+863 tokens (0%) have a non-empty value of `Typo`.
+805 types (2%) occur at least once with a non-empty value of `Typo`.
+712 lemmas (4%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 14 part-of-speech tags: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (300; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (278; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (119; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (55; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (38; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-295 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
+300 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (236; 80%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (174; 59%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (170; 58%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (168; 57%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (161; 55%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (155; 53%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (237; 79%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (177; 59%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (173; 58%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (170; 57%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (166; 55%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (158; 53%).
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (295; 100% of non-empty `Typo`): <em>нравиться, Если, Здраствуйте, находиться, связанно, бежив, встретится, держут, ложиться, любить</em>
+* `Yes` (300; 100% of non-empty `Typo`): <em>нравиться, Если, Здраствуйте, находиться, связанно, бежив, встретится, держут, ложиться, любить</em>
 
-`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (242) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (246) occur only with one value of `Typo`.
 
 ### `NOUN`
 
-269 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Typo`.
+278 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (211; 78%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (198; 74%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (218; 78%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (206; 74%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (269; 100% of non-empty `Typo`): <em>ге, атракционов, бриджы, дело, линолиум, мороженное, тысеч, удаленьщики, #кайтсефринг, Аоезда</em>
+* `Yes` (278; 100% of non-empty `Typo`): <em>ге, атракционов, бриджы, дело, линолиум, мороженное, тысеч, удаленьщики, #кайтсефринг, Аоезда</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (233) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (241) occur only with one value of `Typo`.
 
 ### `ADJ`
 
-118 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Typo`.
+119 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (113; 96%), <tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (101; 86%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (81; 69%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (114; 96%), <tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (102; 86%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (81; 68%).
 
 `ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (118; 100% of non-empty `Typo`): <em>СУППЕР, Хорошое, компитентный, хорошии, экстро, Александовской, Бондарчуковския, Бооольшой, Величиственно, Воторой</em>
+* `Yes` (119; 100% of non-empty `Typo`): <em>СУППЕР, Хорошое, компитентный, хорошии, экстро, Александовской, Бондарчуковския, Бооольшой, Величиственно, Воторой</em>
 
-`Typo` seems to be **lexical feature** of `ADJ`. 100% lemmas (104) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `ADJ`. 100% lemmas (105) occur only with one value of `Typo`.
 
 ### `ADV`
 
-55 <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+55 <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Typo`.
 
 The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (53; 96%), <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (41; 75%).
 
@@ -64,27 +64,27 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 ### `PROPN`
 
-35 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Typo`.
+38 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 91%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27; 77%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (20; 57%).
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35; 92%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (29; 76%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (23; 61%).
 
 `PROPN` tokens may have the following values of `Typo`:
 
-* `Yes` (35; 100% of non-empty `Typo`): <em>Фарингейту, инстаграм, инстаграмме, телеграмме, Акропле, Анндрей, Беклемищева, Гелиадор, Громовв, Левиофан</em>
+* `Yes` (38; 100% of non-empty `Typo`): <em>Фарингейту, инстаграм, инстаграмме, телеграмме, Акропле, Анндрей, Беклемищева, Гелиадор, Громовв, Левиофан</em>
 
-`Typo` seems to be **lexical feature** of `PROPN`. 100% lemmas (29) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `PROPN`. 100% lemmas (32) occur only with one value of `Typo`.
 
 ### `DET`
 
-18 <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
+20 <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 78%).
+The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="ru_taiga-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 80%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (11; 55%).
 
 `DET` tokens may have the following values of `Typo`:
 
-* `Yes` (18; 100% of non-empty `Typo`): <em>это, Какого, всё, дургие, как, какаято, какойто, каком-нибуль, каку, кого</em>
+* `Yes` (20; 100% of non-empty `Typo`): <em>это, Какого, всё, дургие, как, какаято, какойто, каком-нибуль, каку, кого</em>
 
-`Typo` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Typo`.
 
 ### `ADP`
 
@@ -112,7 +112,7 @@ The most frequent other feature values with which `PART` and `Typo` co-occurred:
 
 `PART` tokens may have the following values of `Typo`:
 
-* `Yes` (10; 100% of non-empty `Typo`): <em>Да, Спасиииибо, лии, лиш, небудь, та, е, не, ни, нп</em>
+* `Yes` (10; 100% of non-empty `Typo`): <em>Даааа, Спасиииибо, лии, лиш, небудь, та, е, не, ни, нп</em>
 
 ### `CCONJ`
 
@@ -126,7 +126,7 @@ The most frequent other feature values with which `PART` and `Typo` co-occurred:
 
 3 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2; 67%), <tt><a href="ru_taiga-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2; 67%).
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (3; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2; 67%).
 
 `NUM` tokens may have the following values of `Typo`:
 

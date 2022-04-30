@@ -18,23 +18,26 @@ The following 1 pairs of parts of speech are connected with `obj:obl`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 12 10 obj:obl	color:blue
-1	Ço	_	PRON	PROdem	PronType=Dem	3	obj	_	_
-2	li	_	PRON	PROper	PronType=Prs	3	iobj	_	_
-3	deprient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
-4	la	_	DET	DETdef	Definite=Def|PronType=Art	6	det	_	_
-5	sue	_	ADJ	ADJpos	Poss=Yes	6	amod	_	_
-6	pietét	_	NOUN	NOMcom	_	3	obl	_	_
-7	Que	_	SCONJ	CONsub	_	9	mark	_	_
-8	lur	_	PRON	PROper	PronType=Prs	9	iobj	_	_
-9	anseint	_	VERB	VERcjg	VerbForm=Fin	1	acl	_	_
-10	ol	_	PRON	PROrel.PROper	_	12	obj:obl	_	_
-11	poissent	_	AUX	VERcjg	VerbForm=Fin	12	aux	_	_
-12	recovrer	_	VERB	VERinf	VerbForm=Inf	9	xcomp	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 12 obj:obl	color:blue
+1	Ço	_	PRON	PROdem	PronType=Dem	3	obj	_	XmlId=w_AlexisRaM_2773
+2	li	_	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_AlexisRaM_2774
+3	deprient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_AlexisRaM_2775
+4	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_AlexisRaM_2776
+5	la	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_AlexisRaM_2777
+6	sue	_	ADJ	ADJpos	Poss=Yes	7	amod	_	XmlId=w_AlexisRaM_2778
+7	pïetét	_	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_AlexisRaM_2779
+8	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_AlexisRaM_2780
+9	que	_	SCONJ	CONsub	_	11	mark	_	XmlId=w_AlexisRaM_2781
+10	lur	_	PRON	PROper	PronType=Prs	11	iobj	_	XmlId=w_AlexisRaM_2782
+11	anseinet	_	VERB	VERcjg	VerbForm=Fin	1	acl	_	XmlId=w_AlexisRaM_2783
+12	ol	_	PRON	PROrel.PROper	_	14	obj:obl	_	XmlId=w_AlexisRaM_2784
+13	poissent	_	AUX	VERcjg	VerbForm=Fin	14	aux	_	XmlId=w_AlexisRaM_2785
+14	recovrer	_	VERB	VERinf	VerbForm=Inf	11	xcomp	_	SpaceAfter=No|XmlId=w_AlexisRaM_2786
+15	.	_	PUNCT	PONfrt	_	11	punct	_	XmlId=w_AlexisRaM_2787
 
 ~~~
 

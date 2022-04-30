@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `flat:num`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt>.
 
 2 nodes (0%) are attached to their parents as `flat:num`.

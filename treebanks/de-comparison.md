@@ -41,7 +41,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 189928 sentences and 3399390 tokens.</li>
+      <li>This corpus contains 189928 sentences, 3399390 tokens and 3455580 syntactic words.</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -51,14 +51,14 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences, 21001 tokens and 21329 syntactic words.</li>
+      <li>This corpus contains 1000 sentences, 21000 tokens and 21331 syntactic words.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 34763 tokens (12%) that are not followed by a space.</li>
+      <li>This corpus contains 34806 tokens (12%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -73,7 +73,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 2889 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 2888 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -117,7 +117,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 35 types of words that contain both letters and punctuation. Examples: Chr., v., I., bzw., B., St., ca., n., z., IV., Mrd., Nr., Addenbrooke's, Darius', Don', Dr., Hl., III., M.A., Mio., Männer., Pompeius', Smith', Thutmosis', VI., X., Zettel's, bleiben., didn', du., führen., tritt., u.a., werden., will.</li>
+      <li>This corpus contains 35 types of words that contain both letters and punctuation. Examples: Chr., v., I., bzw., B., St., ca., n., IV., Mrd., Nr., Addenbrooke's, Darius', Don', Dr., Hl., III., M.A., Mio., Männer., Pompeius', Smith', Thutmosis', VI., X., Z., Zettel's, bleiben., didn', du., führen., tritt., u.a., werden., will.</li>
       </ul>
     </td>
   </tr>
@@ -130,6 +130,8 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
+      <li>This corpus contains 56190 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 21 types of multi-word tokens. Examples: im, am, zum, zur, vom, beim, ins, fürs, ans, übers, aufs, ums, durchs, z., unterm, vorm, unters, hinters, vors, A., hinterm.</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -140,8 +142,8 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 328 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 8 types of multi-word tokens. Examples: im, am, zum, zur, vom, beim, ins, ans.</li>
+      <li>This corpus contains 331 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 9 types of multi-word tokens. Examples: im, am, zum, zur, vom, beim, ins, z., ans.</li>
       </ul>
     </td>
   </tr>
@@ -211,7 +213,7 @@ udver: '2'
   <tr>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 129 lemmas tagged as pronouns (PRON): 250g, Anger, Brettstein, Bär, DIE, Dr., FOSs, Ihr|ihr, Johannes, Jones, KPO, Kehr, Kid, Letztere, Loderer, M2, Mrd, PD, Propyläen, SKa, See, Sefer, Sie|sie, Silber, Weiteren, Workaholic, all, alle, allermeisten, ander, andere, bei, beide, bißchen, d, dBm, dadurch, dafür, dagegen, daher, damit, daran, darauf, daraus, darin, darum, darüber, davon, davor, dazu, definitionem, der, dergleichen, derjenige, derselbe, diejenige, diejenigen, dies, dieselbe, du, ebendies, eigige, ein, einige, einiges, er, er|es, er|es|sie, es, etlich, etwas, euer, genug, i, ich, ihr, irgendein, irgendetwas, irgendwas, irgendwelch, irgendwer, jed, jeglich, jemand, jen, kein, keinerlei, keinster, letzt, letzter, mA, man, manch, mehr, mehrere, meist, miles, murales, nichts, niemand, nix, paar, s, selb, selbst, sie, solch, soviel, sowas, sämtlich, viel, was, welch, welche, wenig, weniger, wer, wieviele, wir, wobei, wodurch, womit, wonach, woraus, worin, wovon, wozu, zahlreich, zuviel</li>
+      <li>This corpus contains 130 lemmas tagged as pronouns (PRON): 250g, Anger, Brettstein, Bär, DIE, Dr., FOSs, Ihr|ihr, Johannes, Jones, KPO, Kehr, Kid, Letztere, Loderer, M2, Mrd, PD, Propyläen, SKa, See, Sefer, Sie|sie, Silber, Weiteren, Workaholic, all, alle, allermeisten, ander, andere, bei, beide, bißchen, d, dBm, dadurch, dafür, dagegen, daher, damit, daran, darauf, daraus, darin, darum, darüber, davon, davor, dazu, definitionem, der, dergleichen, derjenige, derselbe, diejenige, diejenigen, dies, dieselbe, du, ebendies, eigige, ein, einander, einige, einiges, er, er|es, er|es|sie, es, etlich, etwas, euer, genug, i, ich, ihr, irgendein, irgendetwas, irgendwas, irgendwelch, irgendwer, jed, jeglich, jemand, jen, kein, keinerlei, keinster, letzt, letzter, mA, man, manch, mehr, mehrere, meist, miles, murales, nichts, niemand, nix, paar, s, selb, selbst, sie, solch, soviel, sowas, sämtlich, viel, was, welch, welche, wenig, weniger, wer, wieviele, wir, wobei, wodurch, womit, wonach, woraus, worin, wovon, wozu, zahlreich, zuviel</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -397,7 +399,7 @@ udver: '2'
           <li>NOUN: lernen, 1980ern, Glauben, Wüstenvätern, arten, beilagen, liegenden, mücken, rauchen, reellen</li>
           <li>PRON: einen</li>
           <li>PROPN: Wetten, diedenkweisen, kontrollieren, weingarten</li>
-          <li>VERB: lassen, empfehlen, machen, werden, erreichen, finden, sehen, haben, kommen, arbeiten</li>
+          <li>VERB: lassen, empfehlen, machen, werden, erreichen, finden, sehen, haben, kommen, sagen</li>
           <li>X: en</li>
         </ul>
         </li>
@@ -507,18 +509,14 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: erste, ersten, neue, weitere, große, gute, deutschen, anderen, andere, verschiedenen</li>
-            <li>ADP: de, Fur, Gleichwie, lt., names</li>
             <li>ADV: lange, super, Allzeit, Kehrt, Nahe, Wenige, Zügig, absolute, aka, ca</li>
-            <li>CCONJ: and, e, od, und</li>
             <li>DET: der, die, eine, einer, den, seine, seiner, ihre, ihrer, meine</li>
             <li>NOUN: Zeit, Stadt, Familie, Gemeinde, Saison, Frau, Gruppe, Region, Geschichte, Kirche</li>
             <li>NUM: eine, einer, Millionen, zweier, 15, Million, 30, 35, 6, 1.681.469</li>
             <li>PART: nicht, keine</li>
             <li>PRON: sie, die, diese, dieser, der, keine, ihr, alle, beiden, eine</li>
             <li>PROPN: SPD, Mark, Universität, Schweiz, US, Maria, DDR, Deutschen, CDU, Straße</li>
-            <li>PUNCT: →</li>
             <li>SYM: °</li>
-            <li>VERB: eingerichtete, Beschrieben, Druckventilen, Empfelen, Fahre, Formatierten, Frage, Mitteldornen, Quarten, Zahlen</li>
             <li>X: Chr, B., E, S., €, #, B, C, La, MEZ</li>
           </ul>
         </li>
@@ -529,7 +527,6 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: neue, deutsche, erste, weitere, eigene, große, nächste, deutschen, andere, digitale</li>
-            <li>ADP: zur</li>
             <li>DET: die, der, eine, einer, diese, dieser, keine, jede, aller, einiger</li>
             <li>NOUN: Millionen, Mark, Milliarden, Firma, Angaben, Software, Zeit, Firmen, Version, Informationen</li>
             <li>PRON: die, sie, seiner, seine, ihre, der, ihrer, diese, eine, unsere</li>
@@ -562,20 +559,14 @@ udver: '2'
           <ul>
             <li>ADJ: ersten, anderen, neuen, großen, erste, weiteren, weitere, heutigen, amerikanischen, neue</li>
             <li>ADJ-Part: genannten</li>
-            <li>ADP: Sitz, Bestandteil, Dank, Durand, Entlang, Gegenstand, bzgl, de, dominierten, namens</li>
             <li>ADV: Abends, Anfangs, ECHT, EINFACH, Ex, Gottlob, Katzelmacher, Křižanov, NIE, NIEMALS</li>
-            <li>AUX: Bin</li>
-            <li>CCONJ: and, und, bzw</li>
             <li>DET: dem, der, den, des, die, ein, einen, einem, eines, seinen</li>
             <li>NOUN: Teil, Ort, Menschen, Platz, Sohn, km, Namen, Anfang, Titel, Meter</li>
             <li>NUM: ein, 5., 6., einem, einen, 50, 10, 24., 28, 7</li>
             <li>PART: preis</li>
             <li>PRON: er, der, ihm, ihn, diesem, dieser, dem, diesen, einer, den</li>
             <li>PROPN: Oktober, US, August, Mai, November, September, Juli, Peter, Weltkrieg, Johann</li>
-            <li>PUNCT: ·</li>
-            <li>SCONJ: den</li>
             <li>SYM: :-), o, °, ·</li>
-            <li>VERB: läd, Benannt, Biphenylen, Brauch, Check, DENKST, Eingeklemmter, Einhalt, Empfehlen, Fischen</li>
             <li>X: :-), B., er, :), ???a?, ??µ?????, A, Fr, Hauswurde, Hl</li>
           </ul>
         </li>
@@ -586,7 +577,6 @@ udver: '2'
         <li>Masc
           <ul>
             <li>ADJ: neuen, neue, ersten, neuer, deutsche, deutschen, großen, größte, erste, eigenen</li>
-            <li>ADP: im</li>
             <li>DET: der, den, des, dem, einen, ein, einem, eines, diesem, keinen</li>
             <li>NOUN: US-Dollar, Euro, Markt, Dollar, Hersteller, Umsatz, Computer, Preis, Anfang, Mitarbeiter</li>
             <li>PRON: er, der, seinen, dem, ihren, den, seinem, ihn, einer, anderem</li>
@@ -615,23 +605,44 @@ udver: '2'
   </tr>
   <tr>
     <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Masc,Neut
+          <ul>
+            <li>DET: dem</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Masc,Neut
+          <ul>
+            <li>DET: dem</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li>Neut
           <ul>
             <li>ADJ: ersten, erste, anderen, letzten, weitere, neuen, gleichen, andere, neues, gutes</li>
-            <li>ADP: Pro, Amtssitz, Jahrhunderts, Mittels, Stammland, bzgl, de, dieses</li>
             <li>ADV: was, allem, ca, alles, anderem, Dort, How, Mal, PMMA, Rääts</li>
-            <li>CCONJ: and, et, bzw, u, und</li>
             <li>DET: dem, das, ein, des, die, den, einem, der, sein, eines</li>
             <li>NOUN: jahr, Jahre, Jahren, Prozent, Ende, %, Unternehmen, Kinder, Leben, Mitglied</li>
             <li>NUM: ein, 3, einem, 10, 1:1, ², +7,6, 100, 1000, 17</li>
             <li>PART: 's, Nein, nicht</li>
             <li>PRON: es, das, was, dies, dieses, allem, alles, anderem, dem, diesem</li>
             <li>PROPN: Deutschland, Berlin, Frankreich, München, New, Wien, London, Paris, St., Italien</li>
-            <li>PUNCT: 's</li>
-            <li>SCONJ: indem</li>
             <li>SYM: %, ×</li>
-            <li>VERB: was, erreichte, essen, Amt, Jahrzehnten, Paniertes, Probefahren, Schwimmen, Spielen, Taugen</li>
             <li>X: %, B., 's, Abs, 4Jahren, ???????, Aufl, Az., C., Chr</li>
           </ul>
         </li>
@@ -642,13 +653,11 @@ udver: '2'
         <li>Neut
           <ul>
             <li>ADJ: neue, neues, erste, weiteres, ersten, laufende, neuen, eigenes, erstes, zweite</li>
-            <li>ADP: ins, fürs, ans, übers, aufs, ums, durchs, unters, hinters, vors</li>
             <li>ADV: bisschen, bißchen, erstenmal</li>
             <li>DET: das, ein, des, dem, einem, dieses, diesem, eines, kein, jedes</li>
             <li>NOUN: Prozent, Internet, Unternehmen, Jahr, Ende, Quartal, Jahres, Jahren, Netz, Daten</li>
             <li>PRON: es, das, allem, dies, was, mehr, anderem, dem, sein, ihr</li>
             <li>PROPN: AppleStore, PowerBooks, KurzFilmFestival, PowerBook, RealVideo, BusinessCall, Deutschland, FeRAMs, G3-PowerBook, InternetTeam</li>
-            <li>SCONJ: dass</li>
             <li>X: Inc., Corp.</li>
           </ul>
         </li>
@@ -662,7 +671,6 @@ udver: '2'
         <li>Neut
           <ul>
             <li>ADJ: letzten, ersten, Olympischen, eigenen, 8., drittes, karibische, neuen, 13., 1960er</li>
-            <li>ADP: z., z</li>
             <li>DET: das, dem, ein, des, die, den, der, einem, dies, dieses</li>
             <li>NOUN: Jahr, Jahre, Jahren, Jahrhundert, Mal, Land, Leben, Meer, Ende, Reich</li>
             <li>PRON: es, sich, das, die, ihr, was, sein, seines, sie, ihres</li>
@@ -713,12 +721,9 @@ udver: '2'
           <ul>
             <li>ADJ: weitere, anderen, ersten, verschiedenen, andere, verschiedene, zahlreiche, neue, großen, letzten</li>
             <li>ADJ-Fin: bezeichneten, ausgelobten, beanspruchten, betreuten, entdeckten, entstanden, entworfenen, erstellten, eröffneten, genannten</li>
-            <li>ADP: Jahrhunderts, der</li>
-            <li>ADV: kennen, Katzelmacher, Wenige, allen, aufgetretene, aussen, einander, leibeigene, längerer, mehrere</li>
+            <li>ADV: kennen, Katzelmacher, Wenige, allen, aufgetretene, aussen, leibeigene, längerer, mehrere, verbundenen</li>
             <li>ADV-Fin: kennen, aussen</li>
-            <li>AUX: sind, wurden, werden, waren, haben, können, sollen, hatten, konnten, müssen</li>
             <li>AUX-Fin: sind, wurden, werden, waren, haben, können, sollen, hatten, konnten, müssen</li>
-            <li>CCONJ: od, uns</li>
             <li>DET: die, den, der, seine, ihre, seinen, viele, ihren, vielen, seiner</li>
             <li>DET-Fin: meinen</li>
             <li>NOUN: Jahren, Jahre, Menschen, %, km, Prozent, Kinder, m, Einwohner, Millionen</li>
@@ -730,7 +735,6 @@ udver: '2'
             <li>PROPN-Fin: sind, Roden, Verden, ausnutzen, ficken, kommen, machen, treten</li>
             <li>SCONJ-Fin: sonden</li>
             <li>SYM: %, °</li>
-            <li>VERB: haben, stehen, gehören, sind, hatten, kamen, kommen, fanden, finden, waren</li>
             <li>VERB-Fin: haben, stehen, gehören, sind, hatten, kamen, kommen, fanden, finden, waren</li>
             <li>X: %, €, S., wurden, C, DasFahren, E, Nr, die, registrierten</li>
             <li>X-Fin: wurden, DasFahren, registrierten, z</li>
@@ -784,13 +788,10 @@ udver: '2'
             <li>ADJ: erste, ersten, neuen, neue, deutschen, großen, zweiten, große, heutigen, gute</li>
             <li>ADJ-Fin: weiß, entwickelte, verwandte, ambitionierte, aufbewahrte, ausgerichtete, automatisiert, beinhaltet, beplankt, beteiligt</li>
             <li>ADJ-Part: genannten</li>
-            <li>ADP: de, Pro, Sitz, bzgl, Amtssitz, Bestandteil, Dank, Durand, Entlang, Fur</li>
             <li>ADP-Fin: empfahl, fuer, liess, schrieb</li>
             <li>ADV: ca, was, allem, super, SEHR, alles, anderem, lange, vorallem, Abends</li>
             <li>ADV-Fin: bevorzugt, herausstellte, scheint, ﻿Auch</li>
-            <li>AUX: ist, wurde, war, wird, kann, hat, hatte, konnte, habe, sei</li>
             <li>AUX-Fin: ist, wurde, war, wird, kann, hat, hatte, konnte, habe, sei</li>
-            <li>CCONJ: and, und, bzw, et, e, hatte, u, ﻿Um</li>
             <li>CCONJ-Fin: bzw, hatte, ﻿Um</li>
             <li>DET: der, dem, die, das, des, eine, ein, den, einer, einem</li>
             <li>NOUN: jahr, Zeit, Stadt, Ende, Teil, Familie, Ort, Gemeinde, Platz, Saison</li>
@@ -801,11 +802,8 @@ udver: '2'
             <li>PRON: er, sich, es, sie, ich, der, die, man, das, dieser</li>
             <li>PROPN: Deutschland, Berlin, US, SPD, St., Oktober, Frankreich, August, Mai, New</li>
             <li>PROPN-Fin: ist, 1st, EVTA, Gibt, Glaube, Kambodschas, Kemble, Leuchten, Sankt, Verzeih</li>
-            <li>PUNCT: ·, →, 's, wurde</li>
             <li>PUNCT-Fin: wurde</li>
-            <li>SCONJ: den, indem</li>
             <li>SYM: :-), o, ·, ×</li>
-            <li>VERB: wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</li>
             <li>VERB-Fin: wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</li>
             <li>X: B., Chr, wurde, :-), 's, Abs, S, er, sog, tunga</li>
             <li>X-Fin: wurde, wird, isl., og, s., sog, vergl</li>
@@ -820,12 +818,11 @@ udver: '2'
             <li>ADJ: neuen, neue, deutschen, deutsche, ersten, erste, vergangenen, letzten, zweiten, heutigen</li>
             <li>ADV: bisschen, bißchen, erstenmal</li>
             <li>AUX-Fin: ist, hat, wird, soll, sei, will, hatte, kann, habe, war</li>
-            <li>DET: der, die, das, des, den, eine, dem, ein, einen, einem</li>
+            <li>DET: der, dem, die, das, des, den, eine, ein, einen, einem</li>
             <li>NOUN: Internet, Jahr, Unternehmen, Firma, Markt, Ende, Quartal, Software, Jahres, Zeit</li>
             <li>NUM: 1, eins, ein, SR-1, 2^3021377-1, 3166-1, EFS-1, Slot-1, viertel, 2/1</li>
             <li>PRON: es, man, das, er, der, die, sie, allem, dies, was</li>
             <li>PROPN: Microsoft, Telekom, Deutschland, Intel, AOL, IBM, c't, Europa, AMD, Apple</li>
-            <li>SCONJ: dass</li>
             <li>VERB: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
             <li>VERB-Fin: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
             <li>X: Inc., Corp., Call</li>
@@ -841,7 +838,6 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: ersten, neue, eigene, große, britischen, erste, gemeinsamen, letzten, neuen, zweiten</li>
-            <li>ADP: z., z</li>
             <li>AUX: ist, war, wurde, wird, hat, hatte, kann, würde, muss, könnte</li>
             <li>DET: der, dem, die, das, des, eine, ein, den, einer, einem</li>
             <li>NOUN: Jahr, Zeit, Regierung, Stadt, Geschichte, Jahrhundert, Oktober, Teil, Film, Mal</li>
@@ -880,20 +876,14 @@ udver: '2'
         <li>Acc
           <ul>
             <li>ADJ: neue, große, weitere, gute, verschiedene, andere, erste, eigene, ersten, neuen</li>
-            <li>ADP: Dank, bzgl, de</li>
             <li>ADV: was, ca, EINFACH, How, Katzelmacher, Kehrt, Mal, NIEMALS, NOCH, Revue</li>
-            <li>AUX: Bin</li>
-            <li>CCONJ: und, and</li>
             <li>DET: die, den, eine, das, einen, ein, seine, ihre, seinen, sein</li>
             <li>NOUN: Jahre, Zeit, Ende, jahr, Platz, Anfang, %, Meter, tage, Rolle</li>
             <li>NUM: ein, eine, einen, 15, 3, Millionen, ², 0:2, 10, 100</li>
             <li>PART: Nein, nicht, preis</li>
             <li>PRON: sich, ihn, die, diese, keine, es, mich, sie, das, alle</li>
             <li>PROPN: US, USA, Euro, Deutschland, Mai, Oktober, Award, März, Cup, Deutsche</li>
-            <li>PUNCT: 's</li>
-            <li>SCONJ: den</li>
             <li>SYM: %</li>
-            <li>VERB: was, Bin, Einhalt, Empfelen, Essen, Formatierten, Frage, Quarten, abgestellte, aufgetretene</li>
             <li>X: %, €, 's, E, S, inkl, post</li>
           </ul>
         </li>
@@ -904,9 +894,9 @@ udver: '2'
         <li>Acc
           <ul>
             <li>ADJ: neuen, viele, ersten, großen, eigenen, weiteren, deutschen, wenige, beiden, größten</li>
-            <li>ADP: für, auf, über, in, um, durch, an, gegen, ohne, ins</li>
+            <li>ADP: für, auf, in, über, um, durch, an, gegen, ohne, unter</li>
             <li>ADV: bisschen, bißchen</li>
-            <li>DET: die, den, eine, das, einen, ein, keine, diese, alle, keinen</li>
+            <li>DET: die, den, das, eine, einen, ein, keine, diese, alle, keinen</li>
             <li>NOUN: Internet, Mark, Server, Ende, US-Dollar, Markt, Kunden, Version, Zugang, Anfang</li>
             <li>PRON: sich, ihre, seine, die, das, seinen, sie, sein, es, ihren</li>
             <li>PROPN: Microsoft, AOL, Intel, Napster, Java, Palm, IBM, Apple, OS/2, Netscape</li>
@@ -939,19 +929,15 @@ udver: '2'
         <li>Dat
           <ul>
             <li>ADJ: ersten, anderen, weiteren, großen, verschiedenen, neuen, letzten, deutschen, gleichen, heutigen</li>
-            <li>ADP: zufolge, nach, Gleichwie, Stammland, bzgl, de, üer</li>
+            <li>ADP: zufolge, nach</li>
             <li>ADV: allem, anderem, ca, Anfangs, DADURCH, Dort, Ex, Křižanov, PMMA, allen</li>
-            <li>AUX: Bin</li>
-            <li>CCONJ: et, and, bzw, od, u, uns</li>
             <li>DET: dem, der, den, einem, einer, seiner, seinem, ihrem, seinen, ihrer</li>
             <li>NOUN: Jahr, Jahren, Zeit, Jahre, Saison, Ende, Familie, Teil, Ort, Seite</li>
             <li>NUM: einer, einem, 1:1, 24., 8, Millionen, ², +7,6, -10, -2288,9</li>
             <li>PART: nicht</li>
             <li>PRON: ihm, diesem, dem, dieser, sich, allem, mir, der, denen, anderem</li>
             <li>PROPN: Deutschland, Berlin, Frankreich, Oktober, Weltkrieg, Paris, München, New, Mai, November</li>
-            <li>SCONJ: indem</li>
             <li>SYM: °, ·</li>
-            <li>VERB: Amt, Biphenylen, Empfehlen, Fischen, GELÖST, Jahrzehnten, Probefahren, Schwimmen, Spielen, abschloss</li>
             <li>X: B., Chr, %, Abs, #, 4Jahren, :-), A, B, E</li>
           </ul>
         </li>
@@ -962,8 +948,8 @@ udver: '2'
         <li>Dat
           <ul>
             <li>ADJ: anderen, eigenen, neuen, vielen, wenigen, verschiedenen, kurzem, weiteren, deutschen, beiden</li>
-            <li>ADP: von, in, mit, im, bei, nach, auf, zu, am, zum</li>
-            <li>DET: der, dem, den, einem, einer, diesem, dieser, allen, einigen, diesen</li>
+            <li>ADP: in, von, mit, zu, bei, an, nach, auf, aus, vor</li>
+            <li>DET: dem, der, den, einem, einer, diesem, dieser, allen, einigen, diesen</li>
             <li>NOUN: Jahren, Monaten, Tagen, Ländern, Mitarbeitern, Geräten, Computern, Bereichen, Worten, Zuge</li>
             <li>NUM: dreien, zweien</li>
             <li>PRON: sich, allem, dem, anderem, seiner, denen, der, seinem, ihren, ihrer</li>
@@ -980,7 +966,7 @@ udver: '2'
         <li>Dat
           <ul>
             <li>ADJ: ersten, letzten, neuen, selben, zweiten, 1., Vereinigten, besten, deutschen, gemeinsamen</li>
-            <li>ADP: z., z</li>
+            <li>ADP: zu</li>
             <li>DET: dem, der, den, einem, einer, dieser, diesem, anderen, vielen, beiden</li>
             <li>NOUN: Jahr, Jahren, Zeit, Jahrhundert, Bezug, Fall, Krieg, Leben, Region, Tag</li>
             <li>PRON: ihrer, ihm, denen, sich, seiner, der, ihren, ihr, dem, ihnen</li>
@@ -997,16 +983,12 @@ udver: '2'
           <ul>
             <li>ADJ: deutschen, ersten, ehemaligen, neuen, großen, amerikanischen, französischen, heutigen, zweiten, besten</li>
             <li>ADJ-Part: genannten</li>
-            <li>ADP: Mittels, Pro, der, dieses, dominierten, namens, of</li>
             <li>ADV: Abends, NIE, Zügig, längerer</li>
-            <li>CCONJ: and, und, e</li>
             <li>DET: der, des, eines, einer, seiner, dessen, seines, deren, ihrer, ihres</li>
             <li>NOUN: Stadt, Jahre, Jahres, Zeit, Landes, Gemeinde, Familie, Bevölkerung, Vaters, Saison</li>
             <li>NUM: zweier, 7, 1846-1925, 35, 50, Mio, dreier, einer</li>
             <li>PRON: dieser, der, aller, dieses, des, beiden, deren, dessen, mehrerer, vieler</li>
             <li>PROPN: Deutschen, US, Deutschlands, Ersten, Europäischen, Weltkrieges, Zweiten, St., Weltkriegs, Frankreichs</li>
-            <li>PUNCT: ·</li>
-            <li>VERB: Repariert, Sagen, angebotenen, beherrschten, erweiterten, gefüllten, geleisteter, großen, produzierten, stationierten</li>
             <li>X: C, Hl, La, Mio, st</li>
           </ul>
         </li>
@@ -1050,19 +1032,14 @@ udver: '2'
         <li>Nom
           <ul>
             <li>ADJ: erste, weitere, neue, deutsche, große, andere, kleine, gute, letzte, alte</li>
-            <li>ADP: Sitz, de, Amtssitz, Bestandteil, Durand, Entlang, Fur, Gegenstand, Jahrhunderts, Pro</li>
             <li>ADV: SEHR, alles, super, Allzeit, ECHT, Gottlob, Nahe, Rääts, Vorallem, aka</li>
-            <li>AUX: Hab, Bin, wir</li>
-            <li>CCONJ: and, bzw</li>
             <li>DET: die, der, das, ein, eine, sein, seine, ihre, mein, ihr</li>
             <li>NOUN: Teil, Sohn, Mitglied, Stadt, Menschen, Ort, Gemeinde, Frau, Unternehmen, Präsident</li>
             <li>NUM: ein, 5., 6., 10, Millionen, 20, 28, 35, 6, eine</li>
             <li>PART: 's, ;-), keine</li>
             <li>PRON: er, sie, es, die, ich, man, der, wir, das, diese</li>
             <li>PROPN: SPD, US, Hans, Peter, Paul, Deutschland, Johann, Juli, Wilhelm, Karl</li>
-            <li>PUNCT: →</li>
             <li>SYM: %, :-), o, ×</li>
-            <li>VERB: was, eingerichtete, erreichte, gelieferte, läd, veröffentlichte, Benannt, Beschrieben, Brauch, Check</li>
             <li>X: B., :-), S., er, tunga, u, usw, %, 's, :)</li>
           </ul>
         </li>
@@ -1079,7 +1056,6 @@ udver: '2'
             <li>NUM: eins</li>
             <li>PRON: es, die, man, sie, er, das, der, wir, was, dies</li>
             <li>PROPN: Microsoft, Intel, AOL, IBM, Apple, Napster, Compaq, Siemens, Sony, Gates</li>
-            <li>SCONJ: dass</li>
             <li>X: AID, Anti-Spam-Petition, Digital, Push, Telekom-Mitarbeiter, dmmv</li>
           </ul>
         </li>
@@ -1123,7 +1099,9 @@ udver: '2'
       </ul>
     </td>
     <td width="25%" valign="top">
-
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
     </td>
     <td width="25%" valign="top">
 
@@ -1139,10 +1117,17 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>ADP: der</li>
             <li>DET: der, die, dem, den, das, des</li>
             <li>PRON: der, die, des, das, dem, den, 's, KPO</li>
-            <li>PUNCT: 's</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Def
+          <ul>
+            <li>DET: dem, der, das</li>
           </ul>
         </li>
       </ul>
@@ -1151,13 +1136,9 @@ udver: '2'
 
     </td>
     <td width="25%" valign="top">
-
-    </td>
-    <td width="25%" valign="top">
       <ul>
         <li>Def
           <ul>
-            <li>ADP: z., z</li>
             <li>DET: der, die, dem, den, das, des, diese, dieser, dies, dieses</li>
           </ul>
         </li>
@@ -1170,11 +1151,9 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADV: mehr, etwas, viel, wenig, allem, genug, alles, anderem, ausreichend, zuviel</li>
-            <li>AUX: Bin</li>
             <li>DET: eine, ein, einer, einem, einen, eines, viele, vielen, meisten, wenige</li>
             <li>PART: keine, keinerlei</li>
             <li>PRON: man, alle, keine, beiden, allem, einige, alles, mehrere, anderem, viele</li>
-            <li>VERB: gefiel</li>
             <li>X: Min</li>
           </ul>
         </li>
@@ -1812,12 +1791,8 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>ADP: der</li>
-            <li>ADV: ein</li>
-            <li>AUX: Bin</li>
             <li>DET: der, die, dem, den, das, des, eine, ein, einer, einem</li>
             <li>PRON: der, die, des, das, dem, den, einen, eine, einem, 's</li>
-            <li>PUNCT: 's</li>
             <li>X: Min, Mio</li>
           </ul>
         </li>
@@ -1827,8 +1802,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>ADP: im, am, zum, zur, vom, beim, ins, fürs, ans, übers</li>
-            <li>DET: die, der, den, das, des, eine, dem, ein, einen, einem</li>
+            <li>DET: der, die, dem, den, das, des, eine, ein, einen, einem</li>
           </ul>
         </li>
       </ul>
@@ -1837,7 +1811,13 @@ udver: '2'
 
     </td>
     <td width="25%" valign="top">
-
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: dem</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1845,11 +1825,9 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>ADP: dieses</li>
             <li>ADV: daneben, darüber</li>
             <li>DET: dessen, deren, selben, das, diese, jener, derselben, diesem, der, jenen</li>
             <li>PRON: diese, dieser, diesem, das, dieses, dies, diesen, die, der, dem</li>
-            <li>VERB: lies</li>
           </ul>
         </li>
       </ul>
@@ -1877,9 +1855,8 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADV: mehr, etwas, viel, wenig, allem, genug, alles, anderem, ausreichend, zuviel</li>
-            <li>DET: viele, vielen, meisten, wenige, wenigen, viel, weniger, anderem, eine, beiden</li>
+            <li>DET: viele, vielen, meisten, wenige, wenigen, viel, manche, weniger, anderem, eine</li>
             <li>PRON: man, alle, beiden, allem, einige, alles, mehrere, anderem, viele, einer</li>
-            <li>VERB: gefiel</li>
           </ul>
         </li>
       </ul>
@@ -1920,13 +1897,9 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>ADV: wo, wobei, wie, warum, woraufhin, wodurch, wovon, wohin, wonach, wohingegen</li>
-            <li>AUX: Bin</li>
-            <li>CCONJ: wobei, weshalb, wie, woher</li>
+            <li>ADV: wo, wobei, wie, warum, weshalb, woraufhin, wodurch, wovon, wohin, wonach</li>
             <li>DET: welch</li>
             <li>PRON: was, wer, welche, wodurch, wovon, womit, welchem, welchen, welcher, wonach</li>
-            <li>SCONJ: wie, weshalb, warum, wo</li>
-            <li>VERB: Bin</li>
           </ul>
         </li>
       </ul>
@@ -1976,10 +1949,6 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>ADP: üer</li>
-            <li>ADV: einander</li>
-            <li>AUX: Bin, wir</li>
-            <li>CCONJ: uns</li>
             <li>DET: seine, seiner, sein, ihre, seinen, seinem, ihren, ihrer, ihrem, seines</li>
             <li>DET-Fin: meinen</li>
             <li>PART: 's</li>
@@ -2013,7 +1982,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="25%" valign="top">
-
+      <ul>
+        <li>Rcp
+          <ul>
+            <li>PRON: einander</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="25%" valign="top">
 
@@ -2038,8 +2013,6 @@ udver: '2'
           <ul>
             <li>DET: die, deren, der, dessen, das, dem, den, top</li>
             <li>PRON: die, der, das, dem, was, denen, den, welche, welches, welcher</li>
-            <li>SCONJ: den</li>
-            <li>VERB: was</li>
             <li>X: die</li>
           </ul>
         </li>
@@ -2218,7 +2191,6 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>ADV: einander</li>
             <li>PRON: sich, mich, uns, mir, Euch, dich</li>
           </ul>
         </li>
@@ -2267,9 +2239,7 @@ udver: '2'
           <ul>
             <li>ADJ-Fin: probleme</li>
             <li>ADP-Fin: liess</li>
-            <li>AUX: habe, haben, bin, kann, sind, war, werden, werde, hatte, waren</li>
-            <li>AUX-Fin: habe, haben, bin, kann, sind, war, werden, werde, hatte, waren</li>
-            <li>CCONJ: hatte, uns</li>
+            <li>AUX-Fin: habe, bin, haben, kann, sind, war, werden, werde, hatte, waren</li>
             <li>CCONJ-Fin: hatte</li>
             <li>DET: meine, unsere, mein, meiner, meinem, unser, meinen, unserer, unserem, unseren</li>
             <li>DET-Fin: meinen</li>
@@ -2277,7 +2247,7 @@ udver: '2'
             <li>PART-Fin: wehe</li>
             <li>PRON: ich, wir, uns, mir, mich, dBm, i</li>
             <li>PROPN-Fin: Glaube, Verden, ficken, kommen, rike</li>
-            <li>VERB-Fin: war, hatte, bin, haben, kommen, finde, waren, gehe, fühle, habe</li>
+            <li>VERB-Fin: war, bin, hatte, haben, kommen, finde, waren, gehe, fühle, habe</li>
             <li>X-Fin: DasFahren</li>
           </ul>
         </li>
@@ -2314,11 +2284,10 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>ADP: üer</li>
             <li>AUX-Fin: bist, habt, hast, kannst, müsst, seid, sollst, werdet, wirst</li>
             <li>DET: deinen, dein, ihr</li>
             <li>PRON: du, ihr, euch, Dir, dich</li>
-            <li>VERB-Fin: Siehe, gebt, gehst, kommst, laßt, machst, weißt, Brecht, Hast, ISST</li>
+            <li>VERB-Fin: Siehe, gebt, gehst, kommst, laßt, machst, weißt, Brecht, DENKST, Hast</li>
           </ul>
         </li>
       </ul>
@@ -2358,9 +2327,7 @@ udver: '2'
           <ul>
             <li>ADJ-Fin: weiß, bezeichneten, entwickelte, verwandte, ambitionierte, aufbewahrte, ausgelobten, ausgerichtete, automatisiert, beanspruchten</li>
             <li>ADP-Fin: empfahl, schrieb</li>
-            <li>ADV: kennen, aussen, bevorzugt, einander, herausstellte, scheint, ﻿Auch</li>
             <li>ADV-Fin: kennen, aussen, bevorzugt, herausstellte, scheint, ﻿Auch</li>
-            <li>AUX: ist, wurde, war, sind, wird, wurden, hat, werden, kann, waren</li>
             <li>AUX-Fin: ist, wurde, war, sind, wird, wurden, hat, werden, kann, waren</li>
             <li>CCONJ-Fin: bzw, ﻿Um</li>
             <li>DET: seine, seiner, sein, ihre, seinen, seinem, ihren, ihrer, ihrem, seines</li>
@@ -2390,7 +2357,6 @@ udver: '2'
             <li>NUM: zwei, 2000, drei, 2001, 1999, vier, fünf, 20, 100, 30</li>
             <li>PRON: sich, es, die, sie, man, das, er, der, ihre, seine</li>
             <li>PROPN: Microsoft, Telekom, Deutschland, Intel, USA, telepolis, AOL, ibm, ICANN, CeBIT</li>
-            <li>SCONJ: dass</li>
             <li>VERB: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
             <li>VERB-Fin: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
             <li>X: of, internet, the, and, digital, mobile, media, for, OS, network</li>
@@ -2406,7 +2372,6 @@ udver: '2'
         <li>3
           <ul>
             <li>ADJ: ersten, neue, letzten, neuen, große, politischen, Vereinigten, britische, britischen, eigene</li>
-            <li>ADP: z., z</li>
             <li>AUX: ist, war, wurde, wird, wurden, sind, hat, waren, hatte, kann</li>
             <li>DET: der, die, dem, den, das, des, eine, ein, einer, einem</li>
             <li>NOUN: Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Jahrhundert, Oktober</li>
@@ -2624,11 +2589,14 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
+                <li>ADP: bzgl, lt.</li>
                 <li>ADV: usw</li>
+                <li>CCONJ: bzw, od, u</li>
                 <li>NOUN: ET, N, S, Sp, U</li>
                 <li>NUM: T</li>
                 <li>PRON: Mrd</li>
                 <li>PROPN: GT, P, TD, FK</li>
+                <li>VERB-Part: geb</li>
               </ul>
             </li>
           </ul>
@@ -2665,7 +2633,7 @@ udver: '2'
             </li>
             <li>Prep
               <ul>
-                <li>ADP: in, von, für, mit, auf, im, bei, nach, an, zu</li>
+                <li>ADP: in, von, für, mit, auf, zu, an, bei, nach, über</li>
               </ul>
             </li>
           </ul>
@@ -2676,7 +2644,17 @@ udver: '2'
 
     </td>
     <td width="25%" valign="top">
-
+      <ul>
+        <li><a>AdpType</a>
+          <ul>
+            <li>Prep
+              <ul>
+                <li>ADP: zu</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -2711,14 +2689,14 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>ADJ: Top, Local, Safe, ca, correct, englisch, hollandaise, hypermethylated, imparar, lat.</li>
-                <li>ADP: in, de, a, För, om, per</li>
+                <li>ADP: de, in, a, För, Pro, des, of, om, per</li>
                 <li>ADV: Please, always, ca, inte, socially, up, wahnsinning, yonder</li>
-                <li>CCONJ: and, et, an, bzw, i, or, ou, u</li>
+                <li>CCONJ: and, et, an, bzw, e, i, or, ou, u</li>
                 <li>DET: The, alla, dessa, Seine</li>
                 <li>NOUN: Bass, Top, facto, Arrondissement, Armée, Atun, Chief, City, Dirigent, Drücklok</li>
                 <li>PROPN: of, de, the, University, la, d', for, You, di, a</li>
                 <li>SCONJ: att</li>
-                <li>VERB: Logon, anschloss, loved, meln, sang, shines</li>
+                <li>VERB: Logon, anschloss, batian, batt, loved, meln, sang, shines</li>
                 <li>X: 's, i, to, be, ???, ????, ?????, ???????, All, Bottom</li>
               </ul>
             </li>
@@ -2891,8 +2869,15 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>NOUN: sahne</li>
-                <li>SCONJ: das</li>
+                <li>ADP: üer</li>
+                <li>ADV: darzu</li>
+                <li>AUX-Fin: wir</li>
+                <li>CCONJ: uns</li>
+                <li>NOUN: essen, freundin, sahne</li>
+                <li>SCONJ: das, den</li>
+                <li>VERB-Fin: läd</li>
+                <li>VERB-Inf: Empfelen, Fischen, Frage, Probefahren, Sagen, Schwimmen</li>
+                <li>VERB-Part: Repariert</li>
                 <li>X: -</li>
               </ul>
             </li>
@@ -3009,32 +2994,31 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB--NOUN (2)</li>
-            <li>VERB--NOUN-Acc (6)</li>
-            <li>VERB--NOUN-Gen (1)</li>
-            <li>VERB--NOUN-Nom (26)</li>
-            <li>VERB--PRON-Acc (1)</li>
+            <li>VERB--NOUN-Acc (4)</li>
+            <li>VERB--NOUN-Nom (16)</li>
             <li>VERB--PRON-Dat (1)</li>
-            <li>VERB--PRON-Nom (38)</li>
+            <li>VERB--PRON-Nom (27)</li>
             <li>VERB-Fin--NOUN (42)</li>
-            <li>VERB-Fin--NOUN-Acc (377)</li>
+            <li>VERB-Fin--NOUN-Acc (379)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(bis)-ADP(zu) (2)</li>
             <li>VERB-Fin--NOUN-Dat (21)</li>
-            <li>VERB-Fin--NOUN-Gen (21)</li>
-            <li>VERB-Fin--NOUN-Nom (4262)</li>
+            <li>VERB-Fin--NOUN-Gen (22)</li>
+            <li>VERB-Fin--NOUN-Nom (4271)</li>
             <li>VERB-Fin--PRON (16)</li>
             <li>VERB-Fin--PRON-Acc (55)</li>
             <li>VERB-Fin--PRON-Dat (6)</li>
             <li>VERB-Fin--PRON-Gen (3)</li>
-            <li>VERB-Fin--PRON-Nom (4073)</li>
+            <li>VERB-Fin--PRON-Nom (4082)</li>
             <li>VERB-Inf--NOUN (4)</li>
-            <li>VERB-Inf--NOUN-Acc (45)</li>
+            <li>VERB-Inf--NOUN-Acc (44)</li>
+            <li>VERB-Inf--NOUN-Acc-ADP(über) (1)</li>
             <li>VERB-Inf--NOUN-Dat (2)</li>
             <li>VERB-Inf--NOUN-Gen (3)</li>
-            <li>VERB-Inf--NOUN-Nom (396)</li>
+            <li>VERB-Inf--NOUN-Nom (397)</li>
             <li>VERB-Inf--PRON (4)</li>
-            <li>VERB-Inf--PRON-Acc (14)</li>
+            <li>VERB-Inf--PRON-Acc (15)</li>
             <li>VERB-Inf--PRON-Dat (1)</li>
-            <li>VERB-Inf--PRON-Nom (750)</li>
+            <li>VERB-Inf--PRON-Nom (754)</li>
             <li>VERB-Part--NOUN (2)</li>
             <li>VERB-Part--NOUN-Acc (26)</li>
             <li>VERB-Part--NOUN-Dat (1)</li>
@@ -3128,36 +3112,35 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN (1)</li>
-            <li>VERB--NOUN-Acc (34)</li>
-            <li>VERB--NOUN-Dat (3)</li>
-            <li>VERB--NOUN-Gen (1)</li>
-            <li>VERB--NOUN-Nom (11)</li>
-            <li>VERB--PRON-Acc (15)</li>
+            <li>VERB--NOUN-Acc (17)</li>
+            <li>VERB--NOUN-Dat (1)</li>
+            <li>VERB--NOUN-Nom (1)</li>
+            <li>VERB--PRON-Acc (11)</li>
             <li>VERB--PRON-Dat (3)</li>
-            <li>VERB--PRON-Nom (1)</li>
             <li>VERB-Fin--NOUN (36)</li>
-            <li>VERB-Fin--NOUN-Acc (3404)</li>
+            <li>VERB-Fin--NOUN-Acc (3419)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(von) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(über) (1)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(über) (2)</li>
             <li>VERB-Fin--NOUN-Dat (55)</li>
-            <li>VERB-Fin--NOUN-Gen (16)</li>
-            <li>VERB-Fin--NOUN-Nom (458)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(über) (1)</li>
+            <li>VERB-Fin--NOUN-Gen (17)</li>
+            <li>VERB-Fin--NOUN-Nom (465)</li>
             <li>VERB-Fin--PRON (48)</li>
-            <li>VERB-Fin--PRON-Acc (1185)</li>
+            <li>VERB-Fin--PRON-Acc (1189)</li>
             <li>VERB-Fin--PRON-Dat (18)</li>
             <li>VERB-Fin--PRON-Nom (57)</li>
             <li>VERB-Inf--NOUN (9)</li>
-            <li>VERB-Inf--NOUN-Acc (1111)</li>
+            <li>VERB-Inf--NOUN-Acc (1113)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(zwischen) (1)</li>
             <li>VERB-Inf--NOUN-Dat (17)</li>
             <li>VERB-Inf--NOUN-Gen (4)</li>
-            <li>VERB-Inf--NOUN-Nom (86)</li>
+            <li>VERB-Inf--NOUN-Nom (87)</li>
             <li>VERB-Inf--PRON (33)</li>
-            <li>VERB-Inf--PRON-Acc (319)</li>
+            <li>VERB-Inf--PRON-Acc (322)</li>
             <li>VERB-Inf--PRON-Dat (9)</li>
-            <li>VERB-Inf--PRON-Nom (16)</li>
+            <li>VERB-Inf--PRON-Nom (17)</li>
             <li>VERB-Part--NOUN (3)</li>
-            <li>VERB-Part--NOUN-Acc (442)</li>
+            <li>VERB-Part--NOUN-Acc (443)</li>
             <li>VERB-Part--NOUN-Acc-ADP(für) (1)</li>
             <li>VERB-Part--NOUN-Dat (7)</li>
             <li>VERB-Part--NOUN-Nom (52)</li>
@@ -3175,52 +3158,37 @@ udver: '2'
           <ul>
             <li>VERB--NOUN-Acc (3)</li>
             <li>VERB-Fin--NOUN (51684)</li>
-            <li>VERB-Fin--NOUN-ADP(Am) (4)</li>
             <li>VERB-Fin--NOUN-ADP(An) (18)</li>
             <li>VERB-Fin--NOUN-ADP(Auf) (37)</li>
             <li>VERB-Fin--NOUN-ADP(Aus) (2)</li>
             <li>VERB-Fin--NOUN-ADP(Bei) (4)</li>
             <li>VERB-Fin--NOUN-ADP(Für) (39)</li>
             <li>VERB-Fin--NOUN-ADP(Gegen) (1)</li>
-            <li>VERB-Fin--NOUN-ADP(Im) (3)</li>
             <li>VERB-Fin--NOUN-ADP(In) (11)</li>
-            <li>VERB-Fin--NOUN-ADP(Ins) (2)</li>
             <li>VERB-Fin--NOUN-ADP(Mit) (20)</li>
             <li>VERB-Fin--NOUN-ADP(Nach) (8)</li>
-            <li>VERB-Fin--NOUN-ADP(Vom) (5)</li>
             <li>VERB-Fin--NOUN-ADP(Von) (14)</li>
             <li>VERB-Fin--NOUN-ADP(Zu) (95)</li>
-            <li>VERB-Fin--NOUN-ADP(Zum) (48)</li>
-            <li>VERB-Fin--NOUN-ADP(Zur) (34)</li>
             <li>VERB-Fin--NOUN-ADP(als) (1)</li>
-            <li>VERB-Fin--NOUN-ADP(am) (28)</li>
-            <li>VERB-Fin--NOUN-ADP(an) (363)</li>
-            <li>VERB-Fin--NOUN-ADP(auf) (1345)</li>
+            <li>VERB-Fin--NOUN-ADP(an) (395)</li>
+            <li>VERB-Fin--NOUN-ADP(auf) (1350)</li>
             <li>VERB-Fin--NOUN-ADP(auf)-ADP(hin) (8)</li>
             <li>VERB-Fin--NOUN-ADP(auf)-ADP(zu) (3)</li>
-            <li>VERB-Fin--NOUN-ADP(aufs) (5)</li>
             <li>VERB-Fin--NOUN-ADP(aus) (153)</li>
-            <li>VERB-Fin--NOUN-ADP(bei) (18)</li>
-            <li>VERB-Fin--NOUN-ADP(beim) (4)</li>
+            <li>VERB-Fin--NOUN-ADP(bei) (22)</li>
             <li>VERB-Fin--NOUN-ADP(durch) (4)</li>
             <li>VERB-Fin--NOUN-ADP(für) (362)</li>
             <li>VERB-Fin--NOUN-ADP(gegen) (110)</li>
-            <li>VERB-Fin--NOUN-ADP(im) (7)</li>
-            <li>VERB-Fin--NOUN-ADP(in) (233)</li>
-            <li>VERB-Fin--NOUN-ADP(ins) (27)</li>
+            <li>VERB-Fin--NOUN-ADP(in) (272)</li>
             <li>VERB-Fin--NOUN-ADP(mit) (559)</li>
             <li>VERB-Fin--NOUN-ADP(nach) (108)</li>
-            <li>VERB-Fin--NOUN-ADP(um) (53)</li>
-            <li>VERB-Fin--NOUN-ADP(ums) (2)</li>
+            <li>VERB-Fin--NOUN-ADP(um) (55)</li>
             <li>VERB-Fin--NOUN-ADP(unter) (35)</li>
-            <li>VERB-Fin--NOUN-ADP(vom) (53)</li>
-            <li>VERB-Fin--NOUN-ADP(von) (252)</li>
+            <li>VERB-Fin--NOUN-ADP(von) (310)</li>
             <li>VERB-Fin--NOUN-ADP(von)-ADP(aus) (5)</li>
             <li>VERB-Fin--NOUN-ADP(vor) (4)</li>
             <li>VERB-Fin--NOUN-ADP(wie) (1)</li>
-            <li>VERB-Fin--NOUN-ADP(zu) (406)</li>
-            <li>VERB-Fin--NOUN-ADP(zum) (214)</li>
-            <li>VERB-Fin--NOUN-ADP(zur) (133)</li>
+            <li>VERB-Fin--NOUN-ADP(zu) (835)</li>
             <li>VERB-Fin--NOUN-ADP(zwischen) (1)</li>
             <li>VERB-Fin--NOUN-ADP(Über) (14)</li>
             <li>VERB-Fin--NOUN-ADP(über) (532)</li>
@@ -3228,13 +3196,11 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc-ADP(An) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(Auf) (3)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(an) (8)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(auf) (67)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(aufs) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(durchs) (1)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(auf) (68)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(durch) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(für) (12)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(gegen) (11)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(in) (8)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(ins) (1)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(in) (9)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(unter) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(Über) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(über) (11)</li>
@@ -3247,23 +3213,17 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat-ADP(Nach) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(Von) (4)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(Zu) (84)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(Zum) (2)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(Zur) (2)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(an) (21)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(auf) (11)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(aus) (47)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(bei) (2)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(beim) (1)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(bei) (3)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(in) (5)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(mit) (113)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(nach) (49)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(vom) (1)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(von) (64)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(von) (65)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(von)-ADP(aus) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(vor) (1)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(zu) (211)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(zum) (21)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(zur) (4)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(zu) (240)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(zwischen) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(über) (3)</li>
             <li>VERB-Fin--NOUN-Gen (33)</li>
@@ -3277,41 +3237,28 @@ udver: '2'
             <li>VERB-Fin--PRON-Gen (1)</li>
             <li>VERB-Fin--PRON-Nom (7)</li>
             <li>VERB-Inf--NOUN (37081)</li>
-            <li>VERB-Inf--NOUN-ADP(Am) (2)</li>
             <li>VERB-Inf--NOUN-ADP(An) (15)</li>
             <li>VERB-Inf--NOUN-ADP(Auf) (22)</li>
             <li>VERB-Inf--NOUN-ADP(Bei) (1)</li>
             <li>VERB-Inf--NOUN-ADP(Für) (11)</li>
             <li>VERB-Inf--NOUN-ADP(In) (4)</li>
             <li>VERB-Inf--NOUN-ADP(Mit) (32)</li>
-            <li>VERB-Inf--NOUN-ADP(Vom) (1)</li>
             <li>VERB-Inf--NOUN-ADP(Von) (7)</li>
             <li>VERB-Inf--NOUN-ADP(Zu) (5)</li>
-            <li>VERB-Inf--NOUN-ADP(Zum) (1)</li>
-            <li>VERB-Inf--NOUN-ADP(Zur) (2)</li>
-            <li>VERB-Inf--NOUN-ADP(am) (26)</li>
-            <li>VERB-Inf--NOUN-ADP(an) (196)</li>
-            <li>VERB-Inf--NOUN-ADP(ans) (1)</li>
-            <li>VERB-Inf--NOUN-ADP(auf) (575)</li>
-            <li>VERB-Inf--NOUN-ADP(aufs) (3)</li>
+            <li>VERB-Inf--NOUN-ADP(an) (225)</li>
+            <li>VERB-Inf--NOUN-ADP(auf) (578)</li>
             <li>VERB-Inf--NOUN-ADP(aus) (27)</li>
-            <li>VERB-Inf--NOUN-ADP(bei) (29)</li>
-            <li>VERB-Inf--NOUN-ADP(beim) (5)</li>
+            <li>VERB-Inf--NOUN-ADP(bei) (34)</li>
             <li>VERB-Inf--NOUN-ADP(durch) (2)</li>
             <li>VERB-Inf--NOUN-ADP(für) (166)</li>
             <li>VERB-Inf--NOUN-ADP(gegen) (16)</li>
-            <li>VERB-Inf--NOUN-ADP(im) (3)</li>
-            <li>VERB-Inf--NOUN-ADP(in) (218)</li>
-            <li>VERB-Inf--NOUN-ADP(ins) (10)</li>
+            <li>VERB-Inf--NOUN-ADP(in) (231)</li>
             <li>VERB-Inf--NOUN-ADP(mit) (232)</li>
             <li>VERB-Inf--NOUN-ADP(nach) (34)</li>
             <li>VERB-Inf--NOUN-ADP(um) (10)</li>
             <li>VERB-Inf--NOUN-ADP(unter) (8)</li>
-            <li>VERB-Inf--NOUN-ADP(vom) (42)</li>
-            <li>VERB-Inf--NOUN-ADP(von) (125)</li>
-            <li>VERB-Inf--NOUN-ADP(zu) (221)</li>
-            <li>VERB-Inf--NOUN-ADP(zum) (87)</li>
-            <li>VERB-Inf--NOUN-ADP(zur) (75)</li>
+            <li>VERB-Inf--NOUN-ADP(von) (168)</li>
+            <li>VERB-Inf--NOUN-ADP(zu) (386)</li>
             <li>VERB-Inf--NOUN-ADP(zwischen) (9)</li>
             <li>VERB-Inf--NOUN-ADP(Über) (3)</li>
             <li>VERB-Inf--NOUN-ADP(über) (148)</li>
@@ -3322,16 +3269,14 @@ udver: '2'
             <li>VERB-Inf--NOUN-Acc-ADP(auf) (20)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(für) (4)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(gegen) (3)</li>
-            <li>VERB-Inf--NOUN-Acc-ADP(in) (8)</li>
-            <li>VERB-Inf--NOUN-Acc-ADP(ins) (1)</li>
+            <li>VERB-Inf--NOUN-Acc-ADP(in) (9)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(über) (3)</li>
             <li>VERB-Inf--NOUN-Dat (294)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(Mit) (8)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(Nach) (1)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(Von) (1)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(Zu) (4)</li>
-            <li>VERB-Inf--NOUN-Dat-ADP(am) (2)</li>
-            <li>VERB-Inf--NOUN-Dat-ADP(an) (25)</li>
+            <li>VERB-Inf--NOUN-Dat-ADP(an) (27)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(auf) (1)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(aus) (5)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(bei) (2)</li>
@@ -3339,9 +3284,7 @@ udver: '2'
             <li>VERB-Inf--NOUN-Dat-ADP(mit) (56)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(nach) (19)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(von) (27)</li>
-            <li>VERB-Inf--NOUN-Dat-ADP(zu) (73)</li>
-            <li>VERB-Inf--NOUN-Dat-ADP(zum) (3)</li>
-            <li>VERB-Inf--NOUN-Dat-ADP(zur) (3)</li>
+            <li>VERB-Inf--NOUN-Dat-ADP(zu) (79)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(zwischen) (2)</li>
             <li>VERB-Inf--NOUN-Gen (15)</li>
             <li>VERB-Inf--NOUN-Nom (16)</li>
@@ -3355,34 +3298,23 @@ udver: '2'
             <li>VERB-Part--NOUN-ADP(Auf) (18)</li>
             <li>VERB-Part--NOUN-ADP(Für) (5)</li>
             <li>VERB-Part--NOUN-ADP(In) (2)</li>
-            <li>VERB-Part--NOUN-ADP(Ins) (1)</li>
             <li>VERB-Part--NOUN-ADP(Mit) (11)</li>
             <li>VERB-Part--NOUN-ADP(Um) (2)</li>
-            <li>VERB-Part--NOUN-ADP(Vom) (1)</li>
             <li>VERB-Part--NOUN-ADP(Von) (2)</li>
             <li>VERB-Part--NOUN-ADP(Zu) (2)</li>
-            <li>VERB-Part--NOUN-ADP(Zum) (4)</li>
-            <li>VERB-Part--NOUN-ADP(Zur) (4)</li>
-            <li>VERB-Part--NOUN-ADP(am) (2)</li>
-            <li>VERB-Part--NOUN-ADP(an) (153)</li>
-            <li>VERB-Part--NOUN-ADP(auf) (283)</li>
-            <li>VERB-Part--NOUN-ADP(aufs) (4)</li>
+            <li>VERB-Part--NOUN-ADP(an) (155)</li>
+            <li>VERB-Part--NOUN-ADP(auf) (287)</li>
             <li>VERB-Part--NOUN-ADP(aus) (2)</li>
             <li>VERB-Part--NOUN-ADP(bei) (2)</li>
             <li>VERB-Part--NOUN-ADP(für) (87)</li>
             <li>VERB-Part--NOUN-ADP(gegen) (58)</li>
-            <li>VERB-Part--NOUN-ADP(im) (1)</li>
-            <li>VERB-Part--NOUN-ADP(in) (148)</li>
-            <li>VERB-Part--NOUN-ADP(ins) (24)</li>
+            <li>VERB-Part--NOUN-ADP(in) (174)</li>
             <li>VERB-Part--NOUN-ADP(mit) (198)</li>
             <li>VERB-Part--NOUN-ADP(nach) (23)</li>
             <li>VERB-Part--NOUN-ADP(um) (25)</li>
             <li>VERB-Part--NOUN-ADP(unter) (16)</li>
-            <li>VERB-Part--NOUN-ADP(vom) (18)</li>
-            <li>VERB-Part--NOUN-ADP(von) (106)</li>
-            <li>VERB-Part--NOUN-ADP(zu) (185)</li>
-            <li>VERB-Part--NOUN-ADP(zum) (64)</li>
-            <li>VERB-Part--NOUN-ADP(zur) (82)</li>
+            <li>VERB-Part--NOUN-ADP(von) (125)</li>
+            <li>VERB-Part--NOUN-ADP(zu) (339)</li>
             <li>VERB-Part--NOUN-ADP(Über) (7)</li>
             <li>VERB-Part--NOUN-ADP(über) (62)</li>
             <li>VERB-Part--NOUN-Acc (551)</li>
@@ -3403,15 +3335,12 @@ udver: '2'
             <li>VERB-Part--NOUN-Dat-ADP(in) (2)</li>
             <li>VERB-Part--NOUN-Dat-ADP(mit) (30)</li>
             <li>VERB-Part--NOUN-Dat-ADP(nach) (7)</li>
-            <li>VERB-Part--NOUN-Dat-ADP(vom) (1)</li>
-            <li>VERB-Part--NOUN-Dat-ADP(von) (18)</li>
-            <li>VERB-Part--NOUN-Dat-ADP(zu) (54)</li>
-            <li>VERB-Part--NOUN-Dat-ADP(zum) (3)</li>
-            <li>VERB-Part--NOUN-Dat-ADP(zur) (8)</li>
+            <li>VERB-Part--NOUN-Dat-ADP(von) (19)</li>
+            <li>VERB-Part--NOUN-Dat-ADP(zu) (65)</li>
             <li>VERB-Part--NOUN-Dat-ADP(zwischen) (1)</li>
             <li>VERB-Part--NOUN-Dat-ADP(über) (2)</li>
             <li>VERB-Part--NOUN-Gen (12)</li>
-            <li>VERB-Part--NOUN-Gen-ADP(vom) (1)</li>
+            <li>VERB-Part--NOUN-Gen-ADP(von) (1)</li>
             <li>VERB-Part--NOUN-Gen-ADP(zu) (1)</li>
             <li>VERB-Part--NOUN-Nom (11)</li>
             <li>VERB-Part--PRON (92)</li>
@@ -3467,17 +3396,17 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN-Dat (6)</li>
-            <li>VERB--PRON-Dat (4)</li>
+            <li>VERB--NOUN-Dat (5)</li>
+            <li>VERB--PRON-Dat (2)</li>
             <li>VERB--PRON-Gen (1)</li>
             <li>VERB-Fin--NOUN (3)</li>
             <li>VERB-Fin--NOUN-Acc (18)</li>
-            <li>VERB-Fin--NOUN-Dat (295)</li>
+            <li>VERB-Fin--NOUN-Dat (296)</li>
             <li>VERB-Fin--NOUN-Gen (24)</li>
             <li>VERB-Fin--NOUN-Nom (13)</li>
             <li>VERB-Fin--PRON (1)</li>
             <li>VERB-Fin--PRON-Acc (40)</li>
-            <li>VERB-Fin--PRON-Dat (205)</li>
+            <li>VERB-Fin--PRON-Dat (207)</li>
             <li>VERB-Fin--PRON-Nom (11)</li>
             <li>VERB-Inf--NOUN-Acc (7)</li>
             <li>VERB-Inf--NOUN-Dat (71)</li>

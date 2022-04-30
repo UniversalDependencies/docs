@@ -26,7 +26,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	também	também	ADV	RB	_	3	advmod	_	_
 3	penso	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
 4	se	_	SCONJ	IN	_	8	mark	_	_
-5	a	o	DET	DT	Gender=Fem|Number=Sing	6	det	_	_
+5	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Taça	taça	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	Proper=True
 7	Davis	Davis	PROPN	NNP	Gender=Fem|Number=Sing	6	appos	_	_
 8	desempenhou	desempenhar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	ccomp	_	_
@@ -49,10 +49,10 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	garante	garantir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 5	acesso	acesso	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 6	a	a	ADP	INDT	_	8	case	_	_
-7	o	o	DET	_	Gender=Masc|Number=Sing	8	det	_	_
+7	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	concerto	concerto	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 9	em	em	ADP	INDT	_	12	case	_	_
-10	o	o	DET	_	Gender=Masc|Number=Sing	12	det	_	_
+10	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 11	mesmo	_	DET	DT	Gender=Masc|Number=Sing	12	det	_	_
 12	dia	dia	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	_	_
@@ -71,7 +71,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	claro	claro	ADV	RB	_	5	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	tem	ter	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-6	o	o	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Bob	Bob	PROPN	NNP	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	_	_
 9	uma	um	DET	DT	Gender=Fem|Number=Sing	11	det	_	_

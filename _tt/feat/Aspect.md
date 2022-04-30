@@ -39,3 +39,4 @@ Tatar distinguishes this aspect only in a converb construction ("while ...") wit
 
 * _Мин сиңа <b>бара-бара</b> сөйләрмен_ "I will tell you on the road (lit. while going)"
 * _Илнар Гөлнараны <b>озата</b> кайтты_ "Ilnar saw Gölnara off"
+<!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->

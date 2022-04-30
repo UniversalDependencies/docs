@@ -11,4 +11,4 @@ A prepositional object is an oblique that has a preposition selected by the head
 Ne bazăm pe ajutorul lor . \n We count on help-the their .
 obl:pmod(bazăm, ajutorul)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:18 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:06 CET 2021 -->

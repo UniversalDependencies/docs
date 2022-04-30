@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-5544 tokens (24%) have a non-empty value of `Person`.
-682 types (23%) occur at least once with a non-empty value of `Person`.
+5452 tokens (24%) have a non-empty value of `Person`.
+680 types (23%) occur at least once with a non-empty value of `Person`.
 233 lemmas (15%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (3023; 13% instances), <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (2407; 10% instances), <tt><a href="akk_riao-pos-DET.html">DET</a></tt> (54; 0% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (30; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (30; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (2976; 13% instances), <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (2362; 10% instances), <tt><a href="akk_riao-pos-DET.html">DET</a></tt> (54; 0% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (30; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (30; 0% instances).
 
 ### `VERB`
 
-3023 <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Person`.
+2976 <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="akk_riao-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2822; 93%), <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2716; 90%), <tt><a href="akk_riao-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2684; 89%), <tt><a href="akk_riao-feat-Subordinative.html">Subordinative</a></tt><tt>=EMPTY</tt> (2657; 88%), <tt><a href="akk_riao-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2560; 85%), <tt><a href="akk_riao-feat-VerbStem.html">VerbStem</a></tt><tt>=G</tt> (2205; 73%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (2015; 67%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="akk_riao-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2776; 93%), <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2672; 90%), <tt><a href="akk_riao-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2638; 89%), <tt><a href="akk_riao-feat-Subordinative.html">Subordinative</a></tt><tt>=EMPTY</tt> (2632; 88%), <tt><a href="akk_riao-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2515; 85%), <tt><a href="akk_riao-feat-VerbStem.html">VerbStem</a></tt><tt>=G</tt> (2168; 73%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (1992; 67%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (2016; 67% of non-empty `Person`): <em>attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</em>
-* `2` (25; 1% of non-empty `Person`): <em>hadāt, tušaršidu, uddiš, tapaššiṭ, tēr, balliṭ, dūku, epuš, hulliq, tabarri</em>
-* `3` (982; 32% of non-empty `Person`): <em>bēde, ittallaku, īšû, ikšud, ittumuš, iṣbutū, ēnah, ipēlu, šaknū, ittumša</em>
+* `1` (1993; 67% of non-empty `Person`): <em>attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</em>
+* `2` (24; 1% of non-empty `Person`): <em>hadāt, uddiš, tapaššiṭ, tušaršidu, tēr, balliṭ, dūku, epuš, hulliq, tabarri</em>
+* `3` (959; 32% of non-empty `Person`): <em>bēde, ikšud, ittallaku, īšû, ittumuš, iṣbutū, ēnah, šaknū, ipēlu, ittumša</em>
 * `EMPTY` (118): <em>šūzub, epēš, x, arāk, šumʾud, uppušu, pêli, šuknuše, hulluq, napāhi</em>
 
 <table>
@@ -43,27 +43,27 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-2407 <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> tokens (89% of all `PRON` tokens) have a non-empty value of `Person`.
+2362 <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> tokens (90% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1694; 70%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1423; 59%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1668; 71%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1385; 59%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (755; 31% of non-empty `Person`): <em>ya, ī, ni, anāku, anni, wa, a, nim, ā, ayyâši</em>
-* `2` (12; 0% of non-empty `Person`): <em>ka, ki, attunu</em>
-* `3` (1640; 68% of non-empty `Person`): <em>šu, šunu, ša, sunu, su, šina, ši, sa, sunūti, šunūti</em>
-* `EMPTY` (289): <em>ša, mamma, ammar, mannu, mamman, mammana, mīna</em>
+* `1` (752; 32% of non-empty `Person`): <em>ya, ī, ni, anāku, anni, wa, a, nim, ā, ayyâši</em>
+* `2` (10; 0% of non-empty `Person`): <em>ka, ki, attunu</em>
+* `3` (1600; 68% of non-empty `Person`): <em>šu, šunu, ša, sunu, su, šina, ši, sa, sunūti, šunūti</em>
+* `EMPTY` (275): <em>ša, mamma, ammar, mannu, mamman, mammana, mīna</em>
 
 ### `DET`
 
-54 <tt><a href="akk_riao-pos-DET.html">DET</a></tt> tokens (34% of all `DET` tokens) have a non-empty value of `Person`.
+54 <tt><a href="akk_riao-pos-DET.html">DET</a></tt> tokens (35% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (53; 98%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (35; 65%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="akk_riao-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (54; 100%), <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (53; 98%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (35; 65%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `3` (54; 100% of non-empty `Person`): <em>šū, šuātu, šī, šuʾātu, šuāte, šuāti</em>
-* `EMPTY` (107): <em>kalî, ammâte, kal, annâte, annīte, annî, kalāma, annê, mimma, šuātunu</em>
+* `EMPTY` (102): <em>kalî, ammâte, kal, annâte, annīte, annî, kalāma, annê, mimma, šuātunu</em>
 
 ### `ADJ`
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 `ADJ` tokens may have the following values of `Person`:
 
 * `1` (30; 100% of non-empty `Person`): <em>ašarēdāku, kabtāku, šurruhāku, ṣīrāku, nâdāku, gešrāku, šitmurāku, ašṭāku, dandannāku, dannāku</em>
-* `EMPTY` (917): <em>dannu, rabû, rabûti, rabê, danni, dannūte, dannūti, qardu, rapšāte, arkû</em>
+* `EMPTY` (893): <em>dannu, rabû, rabûti, rabê, danni, dannūte, dannūti, rapšāte, arkû, qardu</em>
 
 `Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (13) occur only with one value of `Person`.
 
@@ -88,12 +88,12 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 
 * `1` (27; 90% of non-empty `Person`): <em>labbāku, qarrādāku, zikarāku, bēlāku, uršānāku, šarrāku</em>
 * `3` (3; 10% of non-empty `Person`): <em>abullu, liātu, mušerbû</em>
-* `EMPTY` (8892): <em>šar, māt, mār, kiššati, šarru, ālāni, libbi, maddattu, ilāni, ummānāti</em>
+* `EMPTY` (8699): <em>šar, māt, mār, kiššati, šarru, ālāni, libbi, maddattu, ummānāti, ilāni</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (965; 90%),
+<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (945; 90%),
 <tt>VERB --[<tt><a href="akk_riao-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (45; 96%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> ADJ</tt> (30; 100%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> NOUN</tt> (22; 100%),

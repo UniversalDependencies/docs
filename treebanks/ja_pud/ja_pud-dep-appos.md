@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-49 nodes (0%) are attached to their parents as `appos`.
+50 nodes (0%) are attached to their parents as `appos`.
 
-49 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.87755102040816.
+50 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.84.
 
-The following 11 pairs of parts of speech are connected with `appos`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (22; 45% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (8; 16% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (7; 14% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (4; 8% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `appos`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (22; 44% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (8; 16% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (7; 14% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (4; 8% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -39,8 +39,8 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 15	年	年	NOUN	名詞-普通名詞-助数詞可能	_	16	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 16	統治	統治	NOUN	名詞-普通名詞-サ変可能	_	9	appos	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 17	）	）	PUNCT	補助記号-括弧閉	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧閉|SpaceAfter=No
-18	でし	だ	AUX	助動詞	_	9	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-デス|SpaceAfter=No
-19	た	た	AUX	助動詞	_	9	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+18	でし	だ	AUX	助動詞-助動詞-デス	_	9	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-デス|SpaceAfter=No
+19	た	た	AUX	助動詞-助動詞-タ	_	9	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 20	。	。	PUNCT	補助記号-句点	_	9	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No
 
 ~~~
@@ -77,8 +77,8 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 23	に	に	ADP	助詞-格助詞	_	22	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 24	政府	政府	NOUN	名詞-普通名詞-一般	_	26	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 25	と	と	ADP	助詞-格助詞	_	24	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-26	結ん	結ぶ	VERB	動詞-一般	_	30	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-五段-バ行|SpaceAfter=No
-27	だ	た	AUX	助動詞	_	26	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+26	結ん	結ぶ	VERB	動詞-一般-五段-バ行	_	30	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-五段-バ行|SpaceAfter=No
+27	だ	た	AUX	助動詞-助動詞-タ	_	26	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 28	都市	都市	NOUN	名詞-普通名詞-一般	_	30	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 29	開発	開発	NOUN	名詞-普通名詞-サ変可能	_	30	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 30	協定	協定	NOUN	名詞-普通名詞-サ変可能	_	32	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -86,11 +86,11 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 32	履行	履行	NOUN	名詞-普通名詞-サ変可能	_	34	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 33	を	を	ADP	助詞-格助詞	_	32	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 34	中止	中止	VERB	名詞-普通名詞-サ変可能	_	36	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
-35	する	する	AUX	動詞-非自立可能	_	34	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
+35	する	する	AUX	動詞-非自立可能-サ行変格	_	34	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
 36	こと	こと	NOUN	名詞-普通名詞-一般	_	38	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 37	を	を	ADP	助詞-格助詞	_	36	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-38	決め	決める	VERB	動詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-下一段-マ行|SpaceAfter=No
-39	た	た	AUX	助動詞	_	38	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+38	決め	決める	VERB	動詞-一般-下一段-マ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-下一段-マ行|SpaceAfter=No
+39	た	た	AUX	助動詞-助動詞-タ	_	38	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 40	。	。	PUNCT	補助記号-句点	_	38	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~
@@ -122,9 +122,9 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 18	川	川	NOUN	名詞-普通名詞-一般	_	14	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 19	で	で	ADP	助詞-格助詞	_	14	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 20	確保	確保	VERB	名詞-普通名詞-サ変可能	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
-21	さ	する	AUX	動詞-非自立可能	_	20	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
-22	れ	れる	AUX	助動詞	_	20	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-レル|SpaceAfter=No
-23	た	た	AUX	助動詞	_	20	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+21	さ	する	AUX	動詞-非自立可能-サ行変格	_	20	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
+22	れ	れる	AUX	助動詞-助動詞-レル	_	20	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-レル|SpaceAfter=No
+23	た	た	AUX	助動詞-助動詞-タ	_	20	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 24	。	。	PUNCT	補助記号-句点	_	20	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No
 
 ~~~

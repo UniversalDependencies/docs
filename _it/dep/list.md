@@ -21,4 +21,5 @@ list(TT, Prince)
 list(TT, Lega)
 ~~~
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:08 CEST 2021 -->
+<code>list</code> covers bullet points, numbered lists and similar cases, as illustrated above. However it does **not** cover list items constructed with coordinating conjunctions and punctuation: those cases are covered by the dependency relations [cc]() and [conj]().
+<!-- Interlanguage links updated St lis 3 20:58:56 CET 2021 -->

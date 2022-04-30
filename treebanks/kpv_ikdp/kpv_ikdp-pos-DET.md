@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `DET`
 
 There are 7 `DET` lemmas (1%), 9 `DET` types (1%) and 10 `DET` tokens (0%).
-Out of 16 observed tags, the rank of `DET` is: 15 in number of lemmas, 13 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 15 in number of lemmas, 14 in number of types and 15 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>уна, став, весь, какой, кымын, мӧд, такой</em>
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>уна</em> (<tt><a href="kpv_ikdp-po
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.285714 (the average of all parts of speech is 1.333333).
+The form / lemma ratio of `DET` is 1.285714 (the average of all parts of speech is 1.332903).
 
 The 1st highest number of forms (2) was observed with the lemma “став”: <em>Став, ставыс</em>.
 

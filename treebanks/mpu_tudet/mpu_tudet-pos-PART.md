@@ -37,8 +37,8 @@ The 3rd highest number of forms (1) was observed with the lemma “koa”: <em>k
 `PART` occurs with 5 feature-value pairs: `Evident=Fh`, `Evident=Nfh`, `Pcl=Dub`, `Tense=Fut`, `Tense=Past`
 
 `PART` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (4 tokens).
-Examples: <em>koa, nitēt, xēke</em>
+The most frequent feature combination is `Tense=Fut` (4 tokens).
+Examples: <em>eya</em>
 
 
 ## Relations

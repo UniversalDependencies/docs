@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-nummod.html">nummod</a></tt>.
 
-189 nodes (1%) are attached to their parents as `nummod:gov`.
+190 nodes (1%) are attached to their parents as `nummod:gov`.
 
-171 instances of `nummod:gov` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5026455026455.
+172 instances of `nummod:gov` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50526315789474.
 
-The following 6 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (180; 95% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (180; 95% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,6 +35,37 @@ The following 6 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 11	и	и	CCONJ	_	_	13	cc	_	_
 12	з	съ	ADP	_	_	13	case	_	_
 13	ѕаписи	запись	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 nummod:gov	color:blue
+1	Имаши	имѣти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Norm=Имаши
+2	премного	премного	NUM	_	Case=Acc	4	nummod:gov	_	Norm=премного
+3	таковыхъ	таковой	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	Norm=таковыхъ
+4	домашныхъ	домашний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	1	obj	_	Norm=домашныхъ
+5	своихъ	свой	DET	_	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	Norm=своихъ|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	Norm=,
+7	Россіе	Россия	PROPN	_	Case=Voc|Gender=Fem|Number=Sing	1	vocative	_	Norm=Россіе|SpaceAfter=No
+8	:	:	PUNCT	_	_	9	punct	_	Norm=:
+9	возри	возрѣти	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	1	parataxis	_	Norm=возри
+10	вⸯ	въ	ADP	_	_	12	case	_	Norm=въ
+11	своꙗ	свой	DET	_	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	Norm=своꙗ
+12	Исторіи	история	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	9	obl	_	Norm=Исторіи|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	Norm=,
+14	и	и	CCONJ	_	_	15	cc	_	Norm=и
+15	ꙋвидиши	увидѣти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	9	conj	_	Norm=ꙋвидиши
+16	собстве(н)ное	собственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	Norm=собственное
+17	о	о	ADP	_	_	18	case	_	Norm=о
+18	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	19	nmod	_	Norm=тебѣ
+19	смо(т)реніе	смотрение	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	Norm=смотреніе
+20	Бж҃іе	божий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	Norm=Божіе|SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	Norm=.
 
 ~~~
 
@@ -81,58 +112,6 @@ The following 6 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 34	300	300	NUM	_	Case=Nom|NumForm=Digit	33	nummod:gov	_	_
 35	черенков	черенокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	33	nsubj:pass	_	SpaceAfter=No
 36	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 36	bgColor:blue
-# visual-style 36	fgColor:white
-# visual-style 37	bgColor:blue
-# visual-style 37	fgColor:white
-# visual-style 37 36 nummod:gov	color:blue
-1	Да	да	CCONJ	_	_	7	cc	_	_
-2	ис	изъ	ADP	_	_	3	case	_	_
-3	Переславля	Переславль	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	г.	государь	NOUN	_	Abbr=Yes	3	parataxis	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	5	punct	_	_
-7	прислано	прислати	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
-8	вишен	вишня	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	7	nsubj:pass	_	_
-9	и	и	CCONJ	_	_	10	cc	_	_
-10	посажено	посадити	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	conj	_	_
-11	288	288	NUM	_	Case=Nom|NumForm=Digit	12	nummod:gov	_	_
-12	дерев	дерево	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	10	nsubj:pass	_	SpaceAfter=No
-13	;	;	PUNCT	_	_	15	punct	_	_
-14	а	а	CCONJ	_	_	15	cc	_	_
-15	сажены	садити	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	conj	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	17	punct	_	_
-17	г.	государь	NOUN	_	Abbr=Yes	15	parataxis	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	17	punct	_	_
-19	те	тотъ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	20	det	_	_
-20	вишны	вишня	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	15	nsubj:pass	_	_
-21	не	не	PART	_	Polarity=Neg	22	advmod	_	_
-22	многие	многий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	20	amod	_	_
-23	рознимаючи	разнимати	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	15	advcl	_	SpaceAfter=No
-24	,	,	PUNCT	_	_	30	punct	_	_
-25	а	а	CCONJ	_	_	30	cc	_	_
-26	то	то	PART	_	_	30	expl	_	SpaceAfter=No
-27	,	,	PUNCT	_	_	28	punct	_	_
-28	г.	государь	NOUN	_	Abbr=Yes	26	parataxis	_	SpaceAfter=No
-29	,	,	PUNCT	_	_	28	punct	_	_
-30	сажены	садити	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	15	conj	_	_
-31	кустами	кустъ	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	30	iobj	_	_
-32	для	для	ADP	_	_	33	case	_	_
-33	того	то	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	30	obl	_	SpaceAfter=No
-34	,	,	PUNCT	_	_	37	punct	_	_
-35	что	что	SCONJ	_	_	37	mark	_	_
-36	много	много	NUM	_	Case=Nom	37	nummod:gov	_	_
-37	сухих	сухой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	33	acl	_	SpaceAfter=No
-38	,	,	PUNCT	_	_	41	punct	_	_
-39	рознимать	разнимати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	41	csubj	_	_
-40	было	быти	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	41	aux	_	_
-41	нельзя	нельзя	VERB	_	Polarity=Neg	37	conj	_	SpaceAfter=No
-42	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

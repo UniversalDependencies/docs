@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-61178 tokens (11%) have a non-empty value of `Person`.
+61148 tokens (11%) have a non-empty value of `Person`.
 7684 types (20%) occur at least once with a non-empty value of `Person`.
 1938 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (30197; 5% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (12955; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (12620; 2% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (5406; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (30180; 5% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (12944; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (12617; 2% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (5407; 1% instances).
 
 ### `VERB`
 
-30197 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Person`.
+30180 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (30197; 100%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27395; 91%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22628; 75%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (30180; 100%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27378; 91%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22619; 75%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (1563; 5% of non-empty `Person`): <em>creo, tenemos, tengo, sé, queremos, quiero, pienso, sabemos, digo, hacemos</em>
 * `2` (238; 1% of non-empty `Person`): <em>mira, añade, tienes, afirma, asegura, sabes, apunta, figura, haz, Aprietas</em>
-* `3` (28396; 94% of non-empty `Person`): <em>tiene, dijo, hace, tienen, aseguró, explicó, afirmó, hizo, señaló, anunció</em>
-* `EMPTY` (16998): <em>hacer, dar, tener, ganar, hecho, ver, poner, decir, evitar, conseguir</em>
+* `3` (28379; 94% of non-empty `Person`): <em>tiene, dijo, hace, tienen, aseguró, explicó, afirmó, hizo, señaló, anunció</em>
+* `EMPTY` (16983): <em>hacer, dar, tener, ganar, hecho, ver, poner, decir, evitar, conseguir</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -49,15 +49,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-12955 <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Person`.
+12944 <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12955; 100%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (11734; 91%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9852; 76%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9165; 71%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12944; 100%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (11723; 91%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9845; 76%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9159; 71%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (683; 5% of non-empty `Person`): <em>he, hemos, estamos, estoy, somos, podemos, soy, vamos, debemos, puedo</em>
 * `2` (44; 0% of non-empty `Person`): <em>eres, puedes, debes, has, He, estás, eras, podéis, seas, Estabas</em>
-* `3` (12228; 94% of non-empty `Person`): <em>es, ha, han, fue, son, está, había, hay, puede, era</em>
+* `3` (12217; 94% of non-empty `Person`): <em>es, ha, han, fue, son, está, había, hay, puede, era</em>
 * `EMPTY` (1641): <em>ser, sido, haber, estar, siendo, poder, podido, estado, habido, saber</em>
 
 <table>
@@ -82,16 +82,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-12620 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Person`.
+12617 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12611; 100%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (9943; 79%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9058; 72%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt> (8690; 69%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (6690; 53%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6433; 51%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12609; 100%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (9941; 79%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9056; 72%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt> (8688; 69%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (6688; 53%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6431; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (1171; 9% of non-empty `Person`): <em>me, nos, yo, nosotros, mí, conmigo, nuestra, mío, nuestro, mía</em>
+* `1` (1170; 9% of non-empty `Person`): <em>me, nos, yo, nosotros, mí, conmigo, nuestra, nuestro, mía, mío</em>
 * `2` (176; 1% of non-empty `Person`): <em>te, usted, tú, ti, os, ustedes, contigo, tuya, tuyo, tuyos</em>
-* `3` (11273; 89% of non-empty `Person`): <em>se, lo, le, la, les, él, ellos, ello, los, ella</em>
-* `EMPTY` (13304): <em>que, donde, uno, quien, todo, eso, nada, una, qué, algo</em>
+* `3` (11271; 89% of non-empty `Person`): <em>se, lo, le, la, les, él, ellos, ello, los, ella</em>
+* `EMPTY` (13288): <em>que, donde, uno, quien, todo, eso, nada, una, qué, algo</em>
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -124,30 +124,30 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `DET`
 
-5406 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Person`.
+5407 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5406; 100%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5398; 100%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5111; 95%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3998; 74%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5407; 100%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5398; 100%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5111; 95%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4000; 74%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (463; 9% of non-empty `Person`): <em>mi, nuestra, nuestro, nuestros, mis, nuestras, mío, mía</em>
+* `1` (465; 9% of non-empty `Person`): <em>mi, nuestra, nuestro, nuestros, mis, nuestras, mío, mía</em>
 * `2` (32; 1% of non-empty `Person`): <em>tu, tus, vuestra, vuestras</em>
-* `3` (4911; 91% of non-empty `Person`): <em>su, sus, suyo, suya, suyos, suyas, Seu, Seva</em>
-* `EMPTY` (78913): <em>el, la, los, un, las, una, este, esta, todo, esa</em>
+* `3` (4910; 91% of non-empty `Person`): <em>su, sus, suyo, suya, suyos, suyas, Seu, Seva</em>
+* `EMPTY` (78840): <em>el, la, los, un, las, una, este, esta, todo, esa</em>
 
 `Person` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (2390; 71%),
-<tt>VERB --[<tt><a href="es_ancora-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (2151; 67%),
+<tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (2391; 71%),
+<tt>VERB --[<tt><a href="es_ancora-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (2150; 67%),
 <tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2108; 53%),
 <tt>VERB --[<tt><a href="es_ancora-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (1590; 71%),
-<tt>VERB --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> PRON</tt> (502; 72%),
+<tt>VERB --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> PRON</tt> (501; 72%),
 <tt>AUX --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (282; 55%),
 <tt>VERB --[<tt><a href="es_ancora-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (275; 78%),
 <tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (230; 79%),
-<tt>VERB --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (93; 51%),
+<tt>VERB --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (94; 51%),
 <tt>AUX --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (81; 54%).
 

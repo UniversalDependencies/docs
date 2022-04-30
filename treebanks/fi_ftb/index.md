@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Jussi Piitulainen, Hanna Nurmi.
 
 Repository: [UD_Finnish-FTB](https://github.com/UniversalDependencies/UD_Finnish-FTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ftb28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ftb29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY 4.0
 

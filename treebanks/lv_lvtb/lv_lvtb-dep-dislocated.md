@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `dislocated`.
+12 nodes (0%) are attached to their parents as `dislocated`.
 
-9 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.33333333333333.
+12 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.58333333333333.
 
-The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (9; 100% instances).
+The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (12; 100% instances).
 
 
 ~~~ conllu

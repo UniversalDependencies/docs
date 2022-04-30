@@ -64,13 +64,13 @@ The 2nd highest number of forms (6) was observed with the lemma “este”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “o”: <em>a, as, o, os</em>.
 
-`DET` occurs with 8 features: <tt><a href="pt_pud-feat-Number.html">Number</a></tt> (3540; 100% instances), <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt> (3537; 100% instances), <tt><a href="pt_pud-feat-PronType.html">PronType</a></tt> (11; 0% instances), <tt><a href="pt_pud-feat-Person.html">Person</a></tt> (5; 0% instances), <tt><a href="pt_pud-feat-Case.html">Case</a></tt> (4; 0% instances), <tt><a href="pt_pud-feat-Definite.html">Definite</a></tt> (4; 0% instances), <tt><a href="pt_pud-feat-Poss.html">Poss</a></tt> (4; 0% instances), <tt><a href="pt_pud-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances)
+`DET` occurs with 8 features: <tt><a href="pt_pud-feat-Number.html">Number</a></tt> (3540; 100% instances), <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt> (3537; 100% instances), <tt><a href="pt_pud-feat-PronType.html">PronType</a></tt> (2737; 77% instances), <tt><a href="pt_pud-feat-Definite.html">Definite</a></tt> (10; 0% instances), <tt><a href="pt_pud-feat-Person.html">Person</a></tt> (5; 0% instances), <tt><a href="pt_pud-feat-Case.html">Case</a></tt> (4; 0% instances), <tt><a href="pt_pud-feat-Poss.html">Poss</a></tt> (4; 0% instances), <tt><a href="pt_pud-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances)
 
 `DET` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Dat`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Person=1`, `Poss=Yes`, `PronType=Art`, `PronType=Prs`, `PronType=Rel`
 
-`DET` occurs with 16 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (1420 tokens).
-Examples: <em>o, um, este, isso, cada, outro, mesmo, aquele, muito, nenhum</em>
+`DET` occurs with 21 feature combinations.
+The most frequent feature combination is `Gender=Fem|Number=Sing|PronType=Art` (1059 tokens).
+Examples: <em>a</em>
 
 
 ## Relations

@@ -9,76 +9,104 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-105 tokens (17%) have a non-empty value of `Person`.
-45 types (30%) occur at least once with a non-empty value of `Person`.
-35 lemmas (28%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (89; 15% instances), <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gub_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
+424 tokens (21%) have a non-empty value of `Person`.
+149 types (36%) occur at least once with a non-empty value of `Person`.
+98 lemmas (33%) occur at least once with a non-empty value of `Person`.
+The feature is used with 6 part-of-speech tags: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (300; 15% instances), <tt><a href="gub_tudet-pos-PART.html">PART</a></tt> (53; 3% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (29; 1% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (11; 1% instances).
 
 ### `VERB`
 
-89 <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> tokens (94% of all `VERB` tokens) have a non-empty value of `Person`.
+300 <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> tokens (88% of all `VERB` tokens) have a non-empty value of `Person`.
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (4; 4% of non-empty `Person`): <em>Aha, Aputar, zanexiʔu</em>
-* `2` (1; 1% of non-empty `Person`): <em>Ezapo</em>
-* `3` (84; 94% of non-empty `Person`): <em>oho, heta, umim, uʔu, wiko, Umeʔe, Wexak, oʔok, upɨta, Umaʔereko</em>
-* `EMPTY` (6): <em>iputuka, pɨhɨk, kɨr, ʔu</em>
+* `1` (8; 3% of non-empty `Person`): <em>Aha, Aputar, tazuka, Amonopiʔez, Hepuruʔu, zanexiʔu</em>
+* `2` (7; 2% of non-empty `Person`): <em>Emururapiʔez, erezapo, Emeʔe, Exiroxiro, Ezapo, Ezuka</em>
+* `3` (285; 95% of non-empty `Person`): <em>oho, heta, iʔi, uʔu, upɨhɨk, uwewe, uzuka, uhem, ur, wexak</em>
+* `EMPTY` (42): <em>iko, iputuka, Hekuzar, Ikatu, Imaʔuhez, pɨhɨk, ʔur, Epɨhɨk, Imomor, Nahetakatukwaw</em>
 
 <table>
-  <tr><th>Paradigm <i>apo</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Ezapo</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>Nuzapo</em></td></tr>
+  <tr><th>Paradigm <i>zuka</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>tazuka</em></td><td></td><td><em>uzuka</em></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt></tt></td><td></td><td><em>Ezuka</em></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 97% lemmas (30) occur only with one value of `Person`.
-
-### `AUX`
-
-7 <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="gub_tudet-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (7; 100%).
-
-`AUX` tokens may have the following values of `Person`:
-
-* `3` (7; 100% of non-empty `Person`): <em>iko</em>
-
-### `PRON`
-
-6 <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> tokens (30% of all `PRON` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="gub_tudet-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5; 83%).
-
-`PRON` tokens may have the following values of `Person`:
-
-* `3` (6; 100% of non-empty `Person`): <em>aʔe</em>
-* `EMPTY` (14): <em>aʔe, Mon, aipo, ihe</em>
-
-### `NOUN`
-
-2 <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Person`.
-
-`NOUN` tokens may have the following values of `Person`:
-
-* `1` (1; 50% of non-empty `Person`): <em>heraʔɨr</em>
-* `3` (1; 50% of non-empty `Person`): <em>tuwihaw</em>
-* `EMPTY` (181): <em>maʔe, kara, ʔɨ, ipira, arapapa, ipiraʔi, ɨrɨhu, ihɨ, ko, ipiar</em>
+`Person` seems to be **lexical feature** of `VERB`. 91% lemmas (71) occur only with one value of `Person`.
 
 ### `PART`
 
-1 <tt><a href="gub_tudet-pos-PART.html">PART</a></tt> tokens (3% of all `PART` tokens) have a non-empty value of `Person`.
+53 <tt><a href="gub_tudet-pos-PART.html">PART</a></tt> tokens (24% of all `PART` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
+The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (52; 98%).
 
 `PART` tokens may have the following values of `Person`:
 
-* `3` (1; 100% of non-empty `Person`): <em>wà</em>
-* `EMPTY` (37): <em>no, kurɨ, wa, wà, aipo, ae, nehe, kakwez, katu, ruʔu</em>
+* `3` (53; 100% of non-empty `Person`): <em>aʔe, wà</em>
+* `EMPTY` (167): <em>kurɨ, no, wà, tɨ, wa, xe, aipo, nehe, rihi, zepe</em>
+
+### `NOUN`
+
+29 <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> tokens (6% of all `NOUN` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (22; 76%).
+
+`NOUN` tokens may have the following values of `Person`:
+
+* `1` (3; 10% of non-empty `Person`): <em>hemaʔe, heraʔɨr, herukaz</em>
+* `2` (3; 10% of non-empty `Person`): <em>nemaʔe, nerukaz</em>
+* `3` (23; 79% of non-empty `Person`): <em>tu, umukaw, uxi, waʔɨr, iʔi, tuwihaw, wanekohaw, Upɨnɨkwaw, uzeapomaʔe, uzeputupɨkhaw</em>
+* `EMPTY` (478): <em>maʔe, kaʔa, ko, awa, awaxi, ipira, ɨrɨhu, ʔɨ, hoko, kara</em>
+
+<table>
+  <tr><th>Paradigm <i>maʔe</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>nemaʔe</em></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=Cont</tt></tt></td><td><em>hemaʔe</em></td><td></td></tr>
+</table>
+
+### `ADP`
+
+19 <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> tokens (7% of all `ADP` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=Cont</tt> (12; 63%), <tt><a href="gub_tudet-feat-Case.html">Case</a></tt><tt>=Dat</tt> (11; 58%).
+
+`ADP` tokens may have the following values of `Person`:
+
+* `2` (4; 21% of non-empty `Person`): <em>newe</em>
+* `3` (15; 79% of non-empty `Person`): <em>wanupe, uzeupe, wanehe, wanuwi, waʔaromo</em>
+* `EMPTY` (252): <em>pe, rehe, rupi, romo, izupe, pa, pupe, mehe, wi, hehe</em>
+
+### `PRON`
+
+12 <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> tokens (18% of all `PRON` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="gub_tudet-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (8; 67%).
+
+`PRON` tokens may have the following values of `Person`:
+
+* `1` (1; 8% of non-empty `Person`): <em>ihe</em>
+* `2` (2; 17% of non-empty `Person`): <em>ere, ne</em>
+* `3` (9; 75% of non-empty `Person`): <em>aʔe</em>
+* `EMPTY` (53): <em>aʔe, Maʔe, ihe, Mon, aʔere, ne, Agwer, Aʔepe, Mo, aipo</em>
+
+### `AUX`
+
+11 <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="gub_tudet-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (11; 100%).
+
+`AUX` tokens may have the following values of `Person`:
+
+* `3` (11; 100% of non-empty `Person`): <em>iko</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
+<tt>VERB --[<tt><a href="gub_tudet-dep-dep.html">dep</a></tt>]--> VERB</tt> (18; 75%),
+<tt>VERB --[<tt><a href="gub_tudet-dep-conj.html">conj</a></tt>]--> VERB</tt> (12; 80%),
 <tt>AUX --[<tt><a href="gub_tudet-dep-dep.html">dep</a></tt>]--> VERB</tt> (7; 100%),
-<tt>VERB --[<tt><a href="gub_tudet-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (4; 80%),
-<tt>VERB --[<tt><a href="gub_tudet-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="gub_tudet-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4; 57%),
+<tt>VERB --[<tt><a href="gub_tudet-dep-dep.html">dep</a></tt>]--> AUX</tt> (4; 100%),
+<tt>VERB --[<tt><a href="gub_tudet-dep-obj.html">obj</a></tt>]--> VERB</tt> (4; 100%),
+<tt>VERB --[<tt><a href="gub_tudet-dep-obl.html">obl</a></tt>]--> PART</tt> (1; 100%),
+<tt>VERB --[<tt><a href="gub_tudet-dep-obl.html">obl</a></tt>]--> VERB</tt> (1; 100%).
 

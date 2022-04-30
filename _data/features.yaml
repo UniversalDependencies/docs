@@ -18,6 +18,8 @@
   - label: 'u/feat'
 - label: 'AdvType'
   languages:
+  - label: 'arr/feat'
+  - label: 'la/feat'
   - label: 'myv/feat'
   - label: 'quc/feat'
   - label: 'tpn/feat'
@@ -44,6 +46,7 @@
   - label: 'uk/feat'
 - label: 'Aspect'
   languages:
+  - label: 'arr/feat'
   - label: 'bej/feat'
   - label: 'bg/feat'
   - label: 'bm/feat'
@@ -61,6 +64,7 @@
   - label: 'sl/feat'
   - label: 'tpn/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urb/feat'
@@ -69,6 +73,7 @@
   languages:
   - label: 'am/feat'
   - label: 'apu/feat'
+  - label: 'arr/feat'
   - label: 'bej/feat'
   - label: 'bg/feat'
   - label: 'cs/feat'
@@ -93,10 +98,14 @@
   - label: 'sv/feat'
   - label: 'tpn/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urb/feat'
   - label: 'urj/feat'
+- label: 'Clas'
+  languages:
+  - label: 'arr/feat'
 - label: 'Class'
   languages:
   - label: 'myu/feat'
@@ -135,6 +144,7 @@
   - label: 'sa/feat'
 - label: 'ConjType'
   languages:
+  - label: 'arr/feat'
   - label: 'cs/feat'
   - label: 'hy/feat'
   - label: 'la/feat'
@@ -154,6 +164,12 @@
   - label: 'olo/feat'
   - label: 'sme/feat'
   - label: 'sms/feat'
+- label: 'Corf'
+  languages:
+  - label: 'arr/feat'
+- label: 'Decl'
+  languages:
+  - label: 'arr/feat'
 - label: 'Definite'
   languages:
   - label: 'bej/feat'
@@ -194,6 +210,7 @@
   - label: 'sl/feat'
   - label: 'sv/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urj/feat'
@@ -206,6 +223,7 @@
   - label: 'u/feat'
 - label: 'Deixis:psor'
   languages:
+  - label: 'hy/feat'
   - label: 'hyw/feat'
 - label: 'DeixisRef'
   languages:
@@ -219,8 +237,12 @@
   - label: 'mdf/feat'
   - label: 'myv/feat'
   - label: 'sms/feat'
+- label: 'Detrans'
+  languages:
+  - label: 'gub/feat'
 - label: 'Dev'
   languages:
+  - label: 'arr/feat'
   - label: 'tpn/feat'
 - label: 'Dialect'
   languages:
@@ -234,6 +256,8 @@
   - label: 'u/feat'
 - label: 'Emph'
   languages:
+  - label: 'arr/feat'
+  - label: 'gub/feat'
   - label: 'tpn/feat'
 - label: 'Emphatic'
   languages:
@@ -245,6 +269,10 @@
   - label: 'gub/feat'
   - label: 'tr/feat'
   - label: 'u/feat'
+- label: 'ExtPos'
+  languages:
+  - label: 'en/feat'
+  - label: 'pt/feat'
 - label: 'Focus'
   languages:
   - label: 'quc/feat'
@@ -256,6 +284,7 @@
   - label: 'bej/feat'
   - label: 'cs/feat'
   - label: 'ga/feat'
+  - label: 'gub/feat'
   - label: 'hy/feat'
   - label: 'sl/feat'
   - label: 'sv/feat'
@@ -266,6 +295,7 @@
   - label: 'gd/feat'
   - label: 'gv/feat'
   - label: 'ko/feat'
+  - label: 'la/feat'
 - label: 'Gender'
   languages:
   - label: 'bej/feat'
@@ -314,6 +344,7 @@
   - label: 'u/feat'
 - label: 'Incorp'
   languages:
+  - label: 'arr/feat'
   - label: 'myu/feat'
   - label: 'tpn/feat'
 - label: 'InfForm'
@@ -323,14 +354,17 @@
 - label: 'InflClass'
   languages:
   - label: 'la/feat'
-- label: 'InflClass:noun'
+- label: 'InflClass:nominal'
   languages:
   - label: 'la/feat'
 - label: 'Int'
   languages:
+  - label: 'arr/feat'
+  - label: 'sah/feat'
   - label: 'tpn/feat'
 - label: 'Intens'
   languages:
+  - label: 'arr/feat'
   - label: 'tpn/feat'
 - label: 'Intense'
   languages:
@@ -344,6 +378,7 @@
 - label: 'Mood'
   languages:
   - label: 'akk/feat'
+  - label: 'arr/feat'
   - label: 'bej/feat'
   - label: 'bg/feat'
   - label: 'bm/feat'
@@ -370,6 +405,7 @@
   - label: 'sv/feat'
   - label: 'tpn/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'ug/feat'
   - label: 'uk/feat'
@@ -399,9 +435,11 @@
 - label: 'Nomzr'
   languages:
   - label: 'aqz/feat'
+  - label: 'arr/feat'
   - label: 'gub/feat'
   - label: 'mpu/feat'
   - label: 'myu/feat'
+  - label: 'sah/feat'
   - label: 'tpn/feat'
   - label: 'urb/feat'
 - label: 'Noun'
@@ -425,6 +463,7 @@
   - label: 'u/feat'
 - label: 'Number'
   languages:
+  - label: 'arr/feat'
   - label: 'bej/feat'
   - label: 'bg/feat'
   - label: 'bm/feat'
@@ -449,6 +488,7 @@
   - label: 'sv/feat'
   - label: 'tpn/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urb/feat'
@@ -480,6 +520,7 @@
   - label: 'hy/feat'
   - label: 'sl/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
 - label: 'Number:subj'
   languages:
@@ -492,6 +533,7 @@
   - label: 'hyw/feat'
   - label: 'la/feat'
   - label: 'lt/feat'
+  - label: 'mdf/feat'
   - label: 'orv/feat'
   - label: 'sl/feat'
   - label: 'u/feat'
@@ -517,6 +559,7 @@
   - label: 'sl/feat'
   - label: 'sme/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urj/feat'
@@ -526,6 +569,7 @@
   - label: 'u/feat'
 - label: 'OblTop'
   languages:
+  - label: 'arr/feat'
   - label: 'gub/feat'
   - label: 'tpn/feat'
 - label: 'Orth'
@@ -555,6 +599,7 @@
 - label: 'Person'
   languages:
   - label: 'aqz/feat'
+  - label: 'arr/feat'
   - label: 'bej/feat'
   - label: 'bg/feat'
   - label: 'bm/feat'
@@ -576,6 +621,7 @@
   - label: 'sl/feat'
   - label: 'tpn/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urb/feat'
@@ -630,6 +676,7 @@
   - label: 'sl/feat'
   - label: 'sv/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urj/feat'
@@ -653,6 +700,7 @@
   - label: 'ro/feat'
 - label: 'Poss'
   languages:
+  - label: 'arr/feat'
   - label: 'bej/feat'
   - label: 'bg/feat'
   - label: 'cs/feat'
@@ -685,6 +733,7 @@
   - label: 'ga/feat'
 - label: 'PronType'
   languages:
+  - label: 'arr/feat'
   - label: 'bej/feat'
   - label: 'bg/feat'
   - label: 'bm/feat'
@@ -700,12 +749,14 @@
   - label: 'hy/feat'
   - label: 'it/feat'
   - label: 'kpv/feat'
+  - label: 'la/feat'
   - label: 'myu/feat'
   - label: 'pcm/feat'
   - label: 'sl/feat'
   - label: 'sv/feat'
   - label: 'tpn/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urj/feat'
@@ -727,6 +778,9 @@
   - label: 'mpu/feat'
   - label: 'myu/feat'
   - label: 'tpn/feat'
+- label: 'Redup'
+  languages:
+  - label: 'arr/feat'
 - label: 'Reflex'
   languages:
   - label: 'bej/feat'
@@ -746,6 +800,7 @@
   - label: 'sl/feat'
   - label: 'sms/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urj/feat'
@@ -758,6 +813,7 @@
 - label: 'Rel'
   languages:
   - label: 'aqz/feat'
+  - label: 'arr/feat'
   - label: 'gub/feat'
   - label: 'mpu/feat'
   - label: 'myu/feat'
@@ -796,6 +852,7 @@
 - label: 'Tense'
   languages:
   - label: 'aqz/feat'
+  - label: 'arr/feat'
   - label: 'bej/feat'
   - label: 'bg/feat'
   - label: 'bm/feat'
@@ -811,9 +868,11 @@
   - label: 'it/feat'
   - label: 'pcm/feat'
   - label: 'ru/feat'
+  - label: 'sah/feat'
   - label: 'sl/feat'
   - label: 'sv/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urb/feat'
@@ -885,12 +944,14 @@
   - label: 'hy/feat'
   - label: 'it/feat'
   - label: 'kpv/feat'
+  - label: 'la/feat'
   - label: 'orv/feat'
   - label: 'pcm/feat'
   - label: 'ru/feat'
   - label: 'sl/feat'
   - label: 'sv/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urj/feat'
@@ -907,6 +968,7 @@
 - label: 'Voice'
   languages:
   - label: 'am/feat'
+  - label: 'arr/feat'
   - label: 'bej/feat'
   - label: 'bg/feat'
   - label: 'cs/feat'
@@ -924,6 +986,7 @@
   - label: 'tl/feat'
   - label: 'tpn/feat'
   - label: 'tr/feat'
+  - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urb/feat'

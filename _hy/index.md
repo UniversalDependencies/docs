@@ -106,9 +106,8 @@ and [Armenian features](feat/index.html).
   We tag it as second person (because that is its meaning) and we tag also its number (it is used for singular addressees) despite the fact that it combines with second-person plural verbs.
   The parser must learn that `Number=Sing|Person=2|Polite=Form` subject attaches to `Number=Plur|Person=2` verbs,
   while `Number=Sing|Person=2|Polite=Infm` subject attaches to `Number=Sing|Person=2` verbs.
-* There are two [layered features](../../u/overview/feat-layers.html), [Person[psor]]() and [Number[psor]]().
-  They appear with nouns, gerundives, certain determiners and adpositions and encode the lexical person(deixis)/number of the possessor. The extra layer is needed to distinguish these lexical features from the inflectional person and number
-  that mark agreement with the modified (possessed) noun.
+* There are three [layered features](../../u/overview/feat-layers.html), [Person[psor]](), [Number[psor]]() and [Deixis[psor]]().
+  They appear with nouns, gerundives, certain pronouns and adpositions and encode the lexical person/number of the possessor or the position of an entity relative to either the speaker or the hearer. The extra layer is needed to distinguish these lexical features from the inflectional person and number that mark agreement with the modified (possessed) noun.
 
 ### Other Features
 
@@ -170,6 +169,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
 
 * The following relation subtypes are used in Armenian:
   * [acl:relcl]() for relative clauses
+  * [advcl:relcl]() for relative clause modifiers of clauses
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
   * [aux:caus]() for causative auxiliaries
   * [aux:ех]() for existentials as auxiliary
@@ -185,11 +185,13 @@ as well as Armenian-specific examples scattered across the documentation of cons
   * [nsubj:caus]() for nominal subjects of causative verbs
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
-* The following relation types are not used in Armenian at all:
-  [clf]()
+* The following relation types are not used in Armenian at all: [clf]()
 
 ## Treebanks
 
-There is just one Eastern Armenian UD treebank.
+There are [two](../treebanks/hy-comparison.html) Eastern Armenian UD treebanks and one treebank in Western Armenian:
 
   * [Armenian-ArmTDP](../treebanks/hy_armtdp/index.html)
+  * [Armenian-BSUT](../treebanks/hy_bsut/index.html)
+  * [Western_Armenian-ArmTDP](../treebanks/hyw_armtdp/index.html)
+

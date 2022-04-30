@@ -80,4 +80,4 @@ punct(eg, ”)
 punct(նշանակում, ։)
 punct(means, .-18)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:21 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:09 CET 2021 -->

@@ -30,7 +30,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 6	:	:	PUNCT	Z	_	3	punct	_	_
 7	Istanbul	Istanbul	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
 8	domaćin	domaćin	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-9	37.	37.	NUM	Mdo	NumType=Ord	8	nummod	_	_
+9	37.	37.	ADJ	Mdo	NumType=Ord	8	amod	_	_
 10	Međunarodnog	međunarodni	ADJ	Agpmsgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
 11	muzičkog	muzički	ADJ	Agpmsgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
 12	festivala	festival	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	18	dep	_	SpaceAfter=No

@@ -7,40 +7,54 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-FrameNet: Features: `PronType`
 
 This feature is universal.
-It occurs with 4 different values: `Dem`, `Int`, `Prs`, `Rcp`.
+It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`.
 
-511 tokens (3%) have a non-empty value of `PronType`.
-102 types (1%) occur at least once with a non-empty value of `PronType`.
-16 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (467; 2% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+1399 tokens (7%) have a non-empty value of `PronType`.
+170 types (2%) occur at least once with a non-empty value of `PronType`.
+34 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="tr_framenet-pos-DET.html">DET</a></tt> (747; 4% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (585; 3% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (47; 0% instances), <tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (20; 0% instances).
+
+### `DET`
+
+747 <tt><a href="tr_framenet-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="tr_framenet-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (378; 51%).
+
+`DET` tokens may have the following values of `PronType`:
+
+* `Art` (747; 100% of non-empty `PronType`): <em>bir, bu, her, tüm, o, hiçbir, birçok, şu, birkaç, bazı</em>
+
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `PronType`.
 
 ### `PRON`
 
-467 <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `PronType`.
+585 <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (79; 17% of non-empty `PronType`): <em>bu, bunları, bunu, onların, Bundan, Bunlar, onlara, şunu, buna, bunun</em>
+* `Dem` (79; 14% of non-empty `PronType`): <em>bu, bunları, bunu, onların, Bundan, Bunlar, onlara, şunu, buna, bunun</em>
+* `Ind` (83; 14% of non-empty `PronType`): <em>herkes, hepsini, kimse, biri, herkese, kimseye, hepimizin, hepsi, herkesin, kimsenin</em>
 * `Int` (15; 3% of non-empty `PronType`): <em>ne, Kimden, neresi, Kimi, hangi, kim, kimin, neye</em>
-* `Prs` (358; 77% of non-empty `PronType`): <em>onu, onun, ona, o, ben, bana, beni, sen, biz, senin</em>
+* `Neg` (1; 0% of non-empty `PronType`): <em>Hiçbirimizi</em>
+* `Prs` (392; 67% of non-empty `PronType`): <em>onu, onun, ona, o, ben, bana, beni, sen, biz, senin</em>
 * `Rcp` (15; 3% of non-empty `PronType`): <em>birbirine, birbiriyle, birbirlerine, birbiri, birbirinden, birbirini, birbirlerini, birbirlerinin</em>
-* `EMPTY` (118): <em>herkes, kendi, hepsini, kimse, biri, herkese, kendine, kimseye, hepimizin, hepsi</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
   <tr><td><tt></tt></td><td><em>onu, onun, ona, o, onunla, ondan, onları</em></td><td><em>onların, onlara, onlardan, Onları</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 92% lemmas (12) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 96% lemmas (23) occur only with one value of `PronType`.
 
 ### `ADV`
 
-23 <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `PronType`.
+47 <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Int` (23; 100% of non-empty `PronType`): <em>ne, nasıl, kaçarak, kaçıp</em>
-* `EMPTY` (1477): <em>çok, daha, artık, biraz, en, sonunda, hep, hiç, iyice, bile</em>
+* `Ind` (24; 51% of non-empty `PronType`): <em>hep</em>
+* `Int` (23; 49% of non-empty `PronType`): <em>ne, nasıl, kaçarak, kaçıp</em>
+* `EMPTY` (1452): <em>çok, daha, artık, biraz, en, sonunda, hiç, iyice, bile, hemen</em>
 
 ### `AUX`
 
@@ -51,19 +65,9 @@ The feature is used with 4 part-of-speech tags: <tt><a href="tr_framenet-pos-PRO
 * `Int` (20; 100% of non-empty `PronType`): <em>mı, mu, mi, musun, mi?, misin, miydim, muydu, mü, mı?</em>
 * `EMPTY` (8): <em>değil, değildi, değilim</em>
 
-### `NOUN`
-
-1 <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `NOUN` and `PronType` co-occurred: <tt><a href="tr_framenet-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="tr_framenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="tr_framenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`NOUN` tokens may have the following values of `PronType`:
-
-* `Int` (1; 100% of non-empty `PronType`): <em>kaçış</em>
-* `EMPTY` (6969): <em>para, adam, çocuk, şey, gün, iş, şeyi, ay, işi, başına</em>
-
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> PRON</tt> (2; 100%).
+<tt>PRON --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> PRON</tt> (4; 100%),
+<tt>DET --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> DET</tt> (2; 100%).
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Neslihan Cesur, Aslı Kuzgun, Olcay Taner Yıldız, Büşra Marşan, Neslihan Kara, Bilge Nas Arıcan, Merve Özçelik, Deniz Baran Aslan.
 
 Repository: [UD_Turkish-Penn](https://github.com/UniversalDependencies/UD_Turkish-Penn)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_penn28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_penn29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -75,13 +75,13 @@ We wish to thank the Starlang Software for funding and supporting this work.
 
 ## Relations
 
-[acl](tr_penn-dep-acl.html) – [advcl](tr_penn-dep-advcl.html) – [advmod](tr_penn-dep-advmod.html) – [amod](tr_penn-dep-amod.html) – [appos](tr_penn-dep-appos.html) – [aux](tr_penn-dep-aux.html) – [case](tr_penn-dep-case.html) – [cc](tr_penn-dep-cc.html) – [ccomp](tr_penn-dep-ccomp.html) – [clf](tr_penn-dep-clf.html) – [compound](tr_penn-dep-compound.html) – [conj](tr_penn-dep-conj.html) – [csubj](tr_penn-dep-csubj.html) – [dep](tr_penn-dep-dep.html) – [det](tr_penn-dep-det.html) – [discourse](tr_penn-dep-discourse.html) – [dislocated](tr_penn-dep-dislocated.html) – [fixed](tr_penn-dep-fixed.html) – [flat](tr_penn-dep-flat.html) – [goeswith](tr_penn-dep-goeswith.html) – [list](tr_penn-dep-list.html) – [mark](tr_penn-dep-mark.html) – [nmod](tr_penn-dep-nmod.html) – [nsubj](tr_penn-dep-nsubj.html) – [nummod](tr_penn-dep-nummod.html) – [obj](tr_penn-dep-obj.html) – [obl](tr_penn-dep-obl.html) – [parataxis](tr_penn-dep-parataxis.html) – [punct](tr_penn-dep-punct.html) – [root](tr_penn-dep-root.html) – [vocative](tr_penn-dep-vocative.html) – [xcomp](tr_penn-dep-xcomp.html)
+[acl](tr_penn-dep-acl.html) – [advcl](tr_penn-dep-advcl.html) – [advmod](tr_penn-dep-advmod.html) – [amod](tr_penn-dep-amod.html) – [appos](tr_penn-dep-appos.html) – [aux](tr_penn-dep-aux.html) – [case](tr_penn-dep-case.html) – [cc](tr_penn-dep-cc.html) – [ccomp](tr_penn-dep-ccomp.html) – [clf](tr_penn-dep-clf.html) – [compound](tr_penn-dep-compound.html) – [conj](tr_penn-dep-conj.html) – [csubj](tr_penn-dep-csubj.html) – [dep](tr_penn-dep-dep.html) – [det](tr_penn-dep-det.html) – [discourse](tr_penn-dep-discourse.html) – [dislocated](tr_penn-dep-dislocated.html) – [fixed](tr_penn-dep-fixed.html) – [flat](tr_penn-dep-flat.html) – [goeswith](tr_penn-dep-goeswith.html) – [iobj](tr_penn-dep-iobj.html) – [list](tr_penn-dep-list.html) – [mark](tr_penn-dep-mark.html) – [nmod](tr_penn-dep-nmod.html) – [nsubj](tr_penn-dep-nsubj.html) – [nummod](tr_penn-dep-nummod.html) – [obj](tr_penn-dep-obj.html) – [obl](tr_penn-dep-obl.html) – [orphan](tr_penn-dep-orphan.html) – [parataxis](tr_penn-dep-parataxis.html) – [punct](tr_penn-dep-punct.html) – [root](tr_penn-dep-root.html) – [vocative](tr_penn-dep-vocative.html) – [xcomp](tr_penn-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 9557 sentences and 87367 tokens.</li>
+<li>This corpus contains 16396 sentences and 183554 tokens.</li>
 </ul>
 
 <ul>
@@ -93,7 +93,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 </ul>
 
 <ul>
-<li>This corpus contains 1740 types of words that contain both letters and punctuation. Examples: Doları'na, Corp., Doları'ndan, Co., Inc., A.B.D., Yen'e, Yen'den, a.m, A.Ş, S&P, Moody's, York'ta, Journal'ın, A., A.B.D, F., J., alım-satım, 1988'de, Borsası'ndaki, Japonya'nın, Doları'nda, Ekim'de, Kasım'da, Komisyonu'na, U.S.A, 1987'de, Aralık'ta, Avrupa'da, B., Borsası'nda, Bush'un, Dr., Japonya'da, R., Sotheby's, W., Çin'in, 30-hisse, 9'luk, AT&T, Corp'un, Doları'ydı, Londra'nın, S., U.S., 1/4'e, 3/4'e, Air'in</li>
+<li>This corpus contains 3530 types of words that contain both letters and punctuation. Examples: Corp., Co., Inc., Doları'na, $'dan, Doları'ndan, $'a, Borsası'nda, yen'e, A.B.D., Japonya'nın, S&P, yen'den, 1988'de, Moody's, York'ta, ABD'de, J., a.m, Japonya'da, Ltd., A.Ş, Dr., Journal'ın, alım-satım, A., Bush'un, Tokyo'da, 1990'da, Corp.'un, IBM'in, ABD'deki, Borsası'ndaki, Ekim'de, Kasım'da, W., 1987'de, Almanya'nın, Avrupa'da, Ağustos'ta, E., F., Inc.,, Çin'in, ABD'li, ABD'nin, Inc.'in, 100'e, B., Co.'nun</li>
 </ul>
 
 <ul>
@@ -112,7 +112,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as pronouns (PRON): bazı, ben, birbiri, birbirleri, biri, birçoğu, biz, bu, hangi, hep, hepsi, hiçbiri, kendi, kim, kimse, ne, nere, o, sen, siz, tümü, çoğu, şu</li>
+<li>This corpus contains 27 lemmas tagged as pronouns (PRON): bazı, ben, birbiri, birbirleri, biri, birçokları, birçoğu, biz, bu, diğeri, hangi, hep, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, nere, o, sen, siz, tümü, çoğu, öbür, şu</li>
 </ul>
 
 <ul>
@@ -145,8 +145,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: değildi, değillerdi, değildim</li>
-    <li>VERB: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
+    <li>AUX: değildir, değildi, değiliz, değilse, değillerdi, değilim, değildik, değildim, değillerdir, değilmiş</li>
+    <li>VERB: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
   </ul>
   </li>
 </ul>
@@ -154,7 +154,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Part
   <ul>
-    <li>VERB: düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi, kazananıydı, olandır, olanlardır, olanıdır</li>
+    <li>VERB: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir</li>
   </ul>
   </li>
 </ul>
@@ -162,7 +162,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: danışmanlar, olmasıdır, demektir, sağlamaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktır, almalıyız</li>
+    <li>VERB: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
   </ul>
   </li>
 </ul>
@@ -179,11 +179,12 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Plur
     <ul>
-      <li>AUX: değiliz, değiller</li>
-      <li>NOUN: kıymetler, fiyatları, satışlar, hisseleri, tahviller, yatırımcılar, hisseler, tahvilleri, analistler, şirketler</li>
-      <li>PROPN: CD'ler, Bolar, CD'lerin, CFC'ler, Cumhuriyetler, Daimler, Devletler'de, Giansts'ların, Hıristiyanlar, Monet'leri</li>
-      <li>VERB: ediyorlar, istiyorlar, aldılar, alıyorlar, ettiler, gördük, söylediler, verdiler, diyorlar, düşünüyoruz</li>
-      <li>VERB-Fin: ediyorlar, istiyorlar, aldılar, alıyorlar, ettiler, gördük, söylediler, verdiler, diyorlar, düşünüyoruz</li>
+      <li>AUX: değiller, değiliz, değildik, değillerdir</li>
+      <li>AUX-Fin: değiliz, değildik, değillerdir</li>
+      <li>NOUN: fiyatları, hisseleri, satışlar, kıymetler, yatırımcılar, analistler, tahviller, şirketler, satışları, tahvilleri</li>
+      <li>PROPN: Kıymetler, CD'ler, Bolar, CD'lerde, A'lar, Avustralyalılar, Blanding'ler, Borsalar, CD'lerin, CFC'ler</li>
+      <li>VERB: söylediler, ediyorlar, istiyorlar, istiyoruz, söylüyorlar, ettiler, aldılar, verdiler, ediyoruz, yaptık</li>
+      <li>VERB-Fin: söylediler, ediyorlar, istiyorlar, istiyoruz, söylüyorlar, ettiler, aldılar, verdiler, ediyoruz, yaptık</li>
     </ul>
   </li>
 </ul>
@@ -191,15 +192,15 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Sing
     <ul>
-      <li>AUX: değildir, değildi, değilim, değillerdi, değilse, değildim, değilsin</li>
-      <li>AUX-Fin: değildi, değillerdi, değildim</li>
-      <li>NOUN: bay, hisse, Amerikan, şirket, şekilde, devam, yıl, gelir, doları, yorum</li>
-      <li>PROPN: New, York, ABD, Inc, Corp., Wall, Co., Inc., Dow, Street</li>
-      <li>VERB: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
+      <li>AUX: değildir, değildi, değilim, değilse, değillerdi, değildim, değilmiş, değilsin</li>
+      <li>AUX-Fin: değildir, değildi, değilse, değillerdi, değilim, değildim, değilmiş</li>
+      <li>NOUN: bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</li>
+      <li>PROPN: New, ABD, York, Corp., Dow, Jones, Wall, Cuma, Co., Inc.</li>
+      <li>VERB: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
       <li>VERB-Conv: arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</li>
-      <li>VERB-Fin: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
-      <li>VERB-Part: düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi, kazananıydı, olandır, olanlardır, olanıdır</li>
-      <li>VERB-Vnoun: danışmanlar, olmasıdır, demektir, sağlamaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktır, almalıyız</li>
+      <li>VERB-Fin: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
+      <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir</li>
+      <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
     </ul>
   </li>
 </ul>
@@ -211,8 +212,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Abl
     <ul>
-      <li>NOUN: tarafından, dolardan, Doları'ndan, milyardan, milyondan, azından, üzerinden, açısından, seviyesinden, sonundan</li>
-      <li>PROPN: Yen'den, Londra'dan, ABD'den, Campeau'dan, Drexel'den, Mesa'dan, Moskova'dan, Philadelphia'dan, York'tan, A'dan</li>
+      <li>NOUN: dolardan, tarafından, milyondan, milyardan, azından, seviyesinden, Doları'ndan, üzerinden, açısından, ortadan</li>
+      <li>PROPN: Yen'den, Co.'dan, York'tan, ABD'den, Kasım'dan, Londra'dan, İtalya'dan, Asya'dan, Ağustos'tan, Campeau'dan</li>
     </ul>
   </li>
 </ul>
@@ -220,8 +221,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Acc
     <ul>
-      <li>NOUN: olduğunu, günü, fiyatları, yapmayı, doları, olmadığını, olacağını, merkezi, ettiğini, çoğu</li>
-      <li>PROPN: Co'yu, onu, Delmed'i, Kaliforniya'yı, A'yı, Andersson'u, Aoun'u, Arizona'yı, Bond'u, Bush'u</li>
+      <li>NOUN: olduğunu, olacağını, olmadığını, yapmayı, ettiğini, gerektiğini, günü, fiyatları, doları, hisselerini</li>
+      <li>PROPN: ABD'yi, Co'yu, onu, Co.'yu, Corp'u, Delmed'i, HUD'u, Inc'ı, Jaguar'ı, Kaliforniya'yı</li>
     </ul>
   </li>
 </ul>
@@ -229,8 +230,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Dat
     <ul>
-      <li>NOUN: Doları'na, dolara, başına, seviyesine, sona, makaleye, ortaya, işe, hâle, ise</li>
-      <li>PROPN: Yen'e, Dolar'a, Kasım'a, Frank'a, Paribas'a, Amerika'ya, Avrupa'ya, CenTrust'a, Kaliforniya'ya, Moskova'ya</li>
+      <li>NOUN: dolara, başına, sona, seviyesine, Doları'na, ortaya, hale, işe, hisseye, yıla</li>
+      <li>PROPN: Yen'e, Kasım'a, Dolar'a, ABD'ye, Amerika'ya, Washington'a, Avrupa'ya, Frank'a, Moskova'ya, Paribas'a</li>
     </ul>
   </li>
 </ul>
@@ -238,8 +239,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Gen
     <ul>
-      <li>NOUN: şirketin, yılının, piyasanın, yatırımcıların, yılın, gününün, senetlerinin, şirketlerin, şirketinin, dünyanın</li>
-      <li>PROPN: Journal'ın, Japonya'nın, Bush'un, Çin'in, Corp'un, Londra'nın, Air'in, Almanya'nın, McCaw'ın, Noriega'nın</li>
+      <li>NOUN: şirketin, yılın, yatırımcıların, piyasanın, şirketlerin, yılının, hükümetin, dünyanın, şirketinin, hisselerin</li>
+      <li>PROPN: Japonya'nın, Bush'un, Journal'ın, Almanya'nın, Çin'in, ABD'nin, Co.'nun, Corp'un, Ford'un, Hazine'nin</li>
     </ul>
   </li>
 </ul>
@@ -247,8 +248,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Ins
     <ul>
-      <li>NOUN: artışla, düşüşle, itibariyle, anlamıyla, nedenle, yükselişle, oranla, hisseyle, zamanla, deyişle</li>
-      <li>PROPN: Ford'la</li>
+      <li>NOUN: artışla, düşüşle, itibariyle, nedenle, yükselişle, oranla, anlamıyla, hisseyle, deyişle, zamanla</li>
+      <li>PROPN: Toyota'yla, CFC'lerle, Doğu'yla, Ford'la, Hut'la, Rubens'le</li>
     </ul>
   </li>
 </ul>
@@ -256,8 +257,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Loc
     <ul>
-      <li>NOUN: şekilde, arasında, durumda, konusunda, ayında, anda, altında, yılında, katkıda, üzerinde</li>
-      <li>PROPN: York'ta, Kasım'da, Aralık'ta, Avrupa'da, Ekim'de, Japonya'da, Ağustos'ta, Tokyo'da, Londra'da, ABD'de</li>
+      <li>NOUN: şekilde, arasında, konusunda, ayında, altında, anda, yılında, durumda, zamanda, ölçüde</li>
+      <li>PROPN: York'ta, ABD'de, Japonya'da, Tokyo'da, Kasım'da, Avrupa'da, Ağustos'ta, Ekim'de, Aralık'ta, Eylül'de</li>
     </ul>
   </li>
 </ul>
@@ -266,8 +267,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Nom
     <ul>
       <li>AUX: değilim, değiller, değilsin</li>
-      <li>NOUN: bay, hisse, Amerikan, şirket, devam, yıl, gelir, yorum, dolar, piyasa</li>
-      <li>PROPN: New, York, ABD, Inc, Corp., Wall, Co., Inc., Dow, Street</li>
+      <li>NOUN: bay, hisse, dolar, yıl, şirket, satın, devam, gelir, dün, Amerikan</li>
+      <li>PROPN: New, ABD, York, Corp., Dow, Jones, Wall, Cuma, Co., Inc.</li>
     </ul>
   </li>
 </ul>
@@ -288,7 +289,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Ind
     <ul>
-      <li>DET: bir, bazı, birkaç, BİR, birçok, hedef, pazarlık</li>
+      <li>DET: bir, bazı, birkaç, BİR, Bİr, birçok, hedef</li>
     </ul>
   </li>
 </ul>
@@ -323,9 +324,9 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Neg
     <ul>
-      <li>VERB: açıklanmadı, ulaşılamadı, yapmadı, değişmedi, olmayacak, açıklamadı, edilmedi, vermedi, etmedi, dönmedi</li>
-      <li>VERB-Fin: açıklanmadı, ulaşılamadı, yapmadı, değişmedi, olmayacak, açıklamadı, edilmedi, vermedi, etmedi, dönmedi</li>
-      <li>VERB-Vnoun: beklenmemektedir, düşünmemesiydi</li>
+      <li>VERB-Fin: açıklanmadı, ulaşılamadı, yapmadı, değişmedi, etmedi, olmayacak, söylemedi, vermedi, sanmıyorum, beklemiyor</li>
+      <li>VERB-Part: bahsetmediğinizdir, olmadığıydı</li>
+      <li>VERB-Vnoun: beklenmemektedir, düşünmemesiydi, olmamasıdır, olmamasıydı, yönlendirememenizdir</li>
     </ul>
   </li>
 </ul>
@@ -333,11 +334,10 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Pos
     <ul>
-      <li>VERB: oldu, ediyor, söyledi, geldi, etti, dedi, yükseldi, diyor, çıktı, düştü</li>
       <li>VERB-Conv: arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</li>
-      <li>VERB-Fin: oldu, ediyor, söyledi, geldi, etti, dedi, yükseldi, diyor, çıktı, düştü</li>
-      <li>VERB-Part: düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi, kazananıydı, olandır, olanlardır, olanıdır</li>
-      <li>VERB-Vnoun: danışmanlar, olmasıdır, demektir, sağlamaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktır, almalıyız</li>
+      <li>VERB-Fin: söyledi, dedi, ediyor, oldu, etti, yükseldi, diyor, düştü, kapandı, geldi</li>
+      <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi</li>
+      <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
     </ul>
   </li>
 </ul>
@@ -353,7 +353,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Hab
     <ul>
-      <li>VERB-Fin: olabilir, kıyaslanır, olursa, olur, edebilir, eder, gelir, sanırım, içerir, olmayabilir</li>
+      <li>VERB-Fin: olabilir, eder, olursa, edebilir, olur, gerekir, içerir, dayanır, kıyaslanır, sanırım</li>
     </ul>
   </li>
 </ul>
@@ -361,12 +361,11 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Fin: değildi, değillerdi, değildim</li>
-      <li>VERB: oldu, söyledi, geldi, etti, yükseldi, dedi, çıktı, düştü, kapandı, olacak</li>
+      <li>AUX-Fin: değildi, değillerdi, değildik, değildim, değilmiş</li>
       <li>VERB-Conv: dönüştü, değişti, oluştu</li>
-      <li>VERB-Fin: oldu, söyledi, geldi, etti, yükseldi, dedi, çıktı, düştü, kapandı, olacak</li>
-      <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı</li>
-      <li>VERB-Vnoun: sözleşmeydi, alınmasıydı, birleşmesiydi, düşünmemesiydi, edilmeli, getirmekti, korunmasızdı, oluşmaktaydı, satmaktı, saçmalamaktı</li>
+      <li>VERB-Fin: söyledi, dedi, oldu, yükseldi, etti, düştü, kapandı, geldi, çıktı, aldı</li>
+      <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı, olanlardı, olmadığıydı</li>
+      <li>VERB-Vnoun: sözleşmeydi, almaktı, alınmasıydı, açıklanmasıydı, birleşmesiydi, desteklemekti, düşmesiydi, düşünmemesiydi, edilmeli, edinmekti</li>
     </ul>
   </li>
 </ul>
@@ -374,8 +373,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Prog
     <ul>
-      <li>VERB: ediyor, diyor, söylüyor, veriyor, gösteriyor, geliyor, oluyor, görünüyor, yapıyor, bekleniyor</li>
-      <li>VERB-Fin: ediyor, diyor, söylüyor, veriyor, gösteriyor, geliyor, oluyor, görünüyor, yapıyor, bekleniyor</li>
+      <li>VERB-Fin: ediyor, diyor, söylüyor, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor, geliyor</li>
     </ul>
   </li>
 </ul>
@@ -387,10 +385,33 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: değilse</li>
-      <li>VERB: olursa, varsa, yüksek, olursak, zayıflarsa, öyleyse, Yapmazsan, almazsa, artarsa, bakılırsa</li>
-      <li>VERB-Fin: olursa, olursak, zayıflarsa, Yapmazsan, almazsa, artarsa, bakılırsa, bilirlerse, biliyorsan, bilmezse</li>
+      <li>AUX-Fin: değilse</li>
+      <li>VERB-Fin: varsa, öyleyse, gerekiyorsa, düşüyorsa, gelirse, istiyorsa, olacaksa, yoksa, yüksek, adamlarıysa</li>
       <li>VERB-Vnoun: yapmaktansa</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>CndGen
+    <ul>
+      <li>VERB-Fin: olursa, düşerse, kalırsa, olmazsa, olursak, alırsa, artarsa, bakılırsa, bulursa, gerekirse</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>CndGenPot
+    <ul>
+      <li>VERB-Fin: alabilirse, alamazsa, bulabilirse, kaçınamazsa, yapamazlarsa, yönlendirilebilirse</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>CndPot
+    <ul>
+      <li>VERB-Fin: denetleyebiliyorsa</li>
     </ul>
   </li>
 </ul>
@@ -398,8 +419,45 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Des
     <ul>
-      <li>VERB: ise, olsa, olsaydı, etmeseler, iseniz, istense, olmasa, olmasak, olmasaydı, olsalar</li>
-      <li>VERB-Fin: olsaydı, olmasaydı, paylaşsaydı, söylenseydi, yapabilseydi</li>
+      <li>VERB-Fin: ise, olsa, olsaydı, olmasa, varsa, verse, Kazansam, artsa, artırmasaydık, aşsa</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>DesPot
+    <ul>
+      <li>VERB-Fin: alınabilse, edebilse, geçemese, yapabilseydi</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Gen
+    <ul>
+      <li>AUX-Fin: değildir, değiliz, değilim, değillerdir</li>
+      <li>VERB-Conv: düşüşündedir, yükseliştedir</li>
+      <li>VERB-Fin: sahiptir, vardır, eder, şirketidir, biridir, dolardır, olur, nedir, gerekir, bağlıdır</li>
+      <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, düşündüğüdür, ettiğidir, olacağıdır, olandır</li>
+      <li>VERB-Vnoun: olmasıdır, demektir, sağlamaktır, almaktır, bulmaktır, almadır, almalıyız, anlamasıdır, azalmasıdır, azaltmaktır</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>GenNec
+    <ul>
+      <li>VERB-Fin: olmalıdır, yapmalıdır, etmelidir, getirmelidir, kaldırmalıdır, onaylamalıdır, yapılmalıdır, almalıdır, alınmalıdır, açıklıyor</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>GenPot
+    <ul>
+      <li>VERB-Fin: olabilir, edebilir, olabilirdi, olmayabilir, edilebilir, getirebilir, alabilir, olamaz, verebilir, gelebilir</li>
+      <li>VERB-Part: dönüştürülebileceğidir, olabileceğidir, yapabileceğimizdir</li>
+      <li>VERB-Vnoun: geçebilmesidir, kullanılabilmesidir, yönlendirememenizdir</li>
     </ul>
   </li>
 </ul>
@@ -407,7 +465,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: olsun, anlaşma, buna, et, uçuş, al, artış, bekleyin, ol, satış</li>
+      <li>VERB-Fin: olsun, kıyasla, dile, dönüş, et, al, git, bekleyin, düşünün, edin</li>
     </ul>
   </li>
 </ul>
@@ -415,11 +473,11 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: değildi, değillerdi, değildim</li>
+      <li>AUX-Fin: değildi, değillerdi, değildik, değildim, değilmiş</li>
       <li>VERB-Conv: dönüştü, değişti, oluştu</li>
-      <li>VERB-Fin: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
-      <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı</li>
-      <li>VERB-Vnoun: sözleşmeydi, alınmasıydı, birleşmesiydi, düşünmemesiydi, edilmeli, getirmekti, korunmasızdı, oluşmaktaydı, satmaktı, saçmalamaktı</li>
+      <li>VERB-Fin: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
+      <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı, olanlardı, olmadığıydı</li>
+      <li>VERB-Vnoun: sözleşmeydi, almaktı, alınmasıydı, açıklanmasıydı, birleşmesiydi, desteklemekti, düşmesiydi, düşünmemesiydi, edilmeli, edinmekti</li>
     </ul>
   </li>
 </ul>
@@ -427,8 +485,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Nec
     <ul>
-      <li>VERB: olmalı, etmeli, etmelidir, gitmeli, olmalılar, yapmalıdır, almalıdır, alınmalıdır, açmalı, açıklıyor</li>
-      <li>VERB-Fin: edilmeliydi, etmeliydi, getirilmeliydi, olmamalıydı, yapmalıydılar, yaratmalıydı</li>
+      <li>VERB-Fin: olmalı, etmeli, edilmeliydi, etmeliyiz, gitmeli, incelemeliyiz, olmalılar, olmalıydı, almalı, anlamalıyız</li>
     </ul>
   </li>
 </ul>
@@ -436,7 +493,15 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Opt
     <ul>
-      <li>VERB: satışa, bile, artışa, açıklayalım, denkleştirmeye, dile, düze, düşüşe, gide, konumlanmaya</li>
+      <li>VERB-Fin: gide, olayım, satışa, Ola, Yaka, alalım, anlayalım, açıklayalım, bata, denemeyelim</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pot
+    <ul>
+      <li>VERB-Fin: ulaşılamadı, alamadı, ulaşamadık, yapamadı, alabiliyor, bulamadı, bulunamadı, edebiliyor, edemedi, edemiyor</li>
     </ul>
   </li>
 </ul>
@@ -448,7 +513,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Fut
     <ul>
-      <li>VERB-Fin: olacak, edecek, gelecek, olmayacak, kalacak, olacaktır, yapacak, edilecek, alacak, girecek</li>
+      <li>VERB-Fin: olacak, edecek, olacaktır, başlayacak, alacak, olmayacak, kalacak, gelecek, yapacak, ödeyecek</li>
     </ul>
   </li>
 </ul>
@@ -456,11 +521,11 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: değildi, değillerdi, değildim</li>
+      <li>AUX-Fin: değildi, değillerdi, değildik, değildim</li>
       <li>VERB-Conv: dönüştü, değişti, oluştu</li>
-      <li>VERB-Fin: oldu, söyledi, geldi, etti, yükseldi, dedi, çıktı, düştü, kapandı, açıklanmadı</li>
-      <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı</li>
-      <li>VERB-Vnoun: sözleşmeydi, alınmasıydı, birleşmesiydi, düşünmemesiydi, edilmeli, getirmekti, korunmasızdı, oluşmaktaydı, satmaktı, saçmalamaktı</li>
+      <li>VERB-Fin: söyledi, dedi, oldu, yükseldi, etti, düştü, kapandı, geldi, çıktı, aldı</li>
+      <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı, olanlardı, olmadığıydı</li>
+      <li>VERB-Vnoun: sözleşmeydi, almaktı, alınmasıydı, açıklanmasıydı, birleşmesiydi, desteklemekti, düşmesiydi, düşünmemesiydi, edilmeli, edinmekti</li>
     </ul>
   </li>
 </ul>
@@ -468,12 +533,13 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: değildir, değiliz, değilim, değilse</li>
-      <li>VERB: ediyor, diyor, olabilir, söylüyor, veriyor, gösteriyor, geliyor, oluyor, görünüyor, yapıyor</li>
+      <li>AUX: değildir, değiliz, değilse, değilim, değiller, değillerdir, değilmiş</li>
+      <li>AUX-Fin: değildir, değiliz, değilse, değilim, değillerdir, değilmiş</li>
+      <li>VERB: ediyor, diyor, söylüyor, olabilir, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor</li>
       <li>VERB-Conv: arayışındalar, düşüşündedir, yükseliştedir</li>
-      <li>VERB-Fin: ediyor, diyor, olabilir, söylüyor, veriyor, gösteriyor, geliyor, oluyor, yapıyor, görünüyor</li>
-      <li>VERB-Part: düşündüğüdür, ettiğidir, olandır, olanlardır, olanıdır</li>
-      <li>VERB-Vnoun: danışmanlar, olmasıdır, demektir, sağlamaktır, bulmaktır, Faturalandırmalar, almadır, almaktır, almalıyız, anlamasıdır</li>
+      <li>VERB-Fin: ediyor, diyor, söylüyor, olabilir, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor</li>
+      <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, ettiğidir, olabileceğidir</li>
+      <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, Faturalandırmalar, almadır, almalıyız, anlamasıdır</li>
     </ul>
   </li>
 </ul>
@@ -485,9 +551,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: bildirdi, üretiyor, yükseltti, yansıtıyor, gerektiriyor, oluşturuyor, adlandırıyor, çıkarıyor, arttırdı, değiştirdi</li>
-      <li>VERB-Fin: bildirdi, üretiyor, yükseltti, yansıtıyor, gerektiriyor, oluşturuyor, adlandırıyor, çıkarıyor, arttırdı, değiştirdi</li>
-      <li>VERB-Vnoun: Faturalandırmalar, azaltmaktır, geçirmektedir, işletmektedir</li>
+      <li>VERB-Fin: bildirdi, gerektiriyor, yükseltti, üretiyor, oluşturuyor, oluşturdu, yansıtıyor, çıkarıyor, geliştirdi, oluşturmaktadır</li>
+      <li>VERB-Vnoun: Faturalandırmalar, azaltmaktır, dönüştürmektir, geçirmektedir, işletmektedir, oluşturmaktadır, yönlendirememenizdir</li>
     </ul>
   </li>
 </ul>
@@ -495,8 +560,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>CauPass
     <ul>
-      <li>VERB: gerçekleştirildi, çıkarıldı, değerlendirilmektedir, sınıflandırıldı, adlandırıldı, adlandırılıyor, derecelendirildi, değiştirildi, durduruldu, dönüştürüldü</li>
-      <li>VERB-Fin: gerçekleştirildi, çıkarıldı, sınıflandırıldı, adlandırıldı, adlandırılıyor, derecelendirildi, değiştirildi, durduruldu, dönüştürüldü, kararlaştırıldı</li>
+      <li>VERB-Fin: gerçekleştirildi, çıkarıldı, sınıflandırıldı, adlandırıldı, adlandırılıyor, ağırlıklandırılmıştır, derecelendirildi, değerlendirilmektedir, değiştirildi, durduruldu</li>
       <li>VERB-Vnoun: değerlendirilmektedir, genişletilmektedir</li>
     </ul>
   </li>
@@ -505,10 +569,9 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: açıklanmadı, edildi, ulaşılamadı, bekleniyor, bulundu, ediliyor, kıyaslanır, verildi, alındı, açıldı</li>
-      <li>VERB-Fin: açıklanmadı, edildi, ulaşılamadı, bekleniyor, bulundu, ediliyor, kıyaslanır, verildi, alındı, açıldı</li>
-      <li>VERB-Part: etkilenenlerdi</li>
-      <li>VERB-Vnoun: alınmasıydı, beklenmemektedir, bozulmasıdır, bölünmektedir, edilmeli, korunmasızdı, kullanılmaktadır, toparlanmasıdır, yaratılmasıdır, çekilmedeydi</li>
+      <li>VERB-Fin: edildi, bekleniyor, açıklanmadı, ulaşılamadı, bulundu, ediliyor, açıldı, seçildi, alındı, verildi</li>
+      <li>VERB-Part: dönüştürülebileceğidir, etkilenenlerdi</li>
+      <li>VERB-Vnoun: alınmasıydı, açıklanmasıydı, beklenmemektedir, bozulmasıdır, bölünmektedir, desteklenmektedir, edilmeli, indirilmesidir, korunmasızdı, kullanılabilmesidir</li>
     </ul>
   </li>
 </ul>
@@ -516,8 +579,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Rcp
     <ul>
-      <li>VERB: uçuş, artış, satış, dönüştü, düşüş, satışa, karıştırıyor, Anlaşma, Geliştirmenin, artışa</li>
-      <li>VERB-Fin: dönüştü, karıştırıyor, değişmedi, dolaştıracak, dönüşebilir, dönüştürebilirdi, dönüşür, gerçekleşti, görüşüyor, kalkışamıyor</li>
+      <li>VERB-Fin: dönüştü, artış, karıştırıyor, satış, satışa, sıkılaştırıyor, uçuş, Anlaşma, değişmedi, dolaştıracak</li>
     </ul>
   </li>
 </ul>
@@ -525,7 +587,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Rfl
     <ul>
-      <li>VERB-Fin: uyarlandı, dendi, denebilir, denebilirdi, denemez, sabitlendi, uyarlanmadı, uyarlanır, yuvarlandı</li>
+      <li>VERB-Fin: uyarlandı, den, dendi, denebilir, denebilirdi, denemez, denir, deniyordu, sabitlendi, uyarlanmadı</li>
     </ul>
   </li>
 </ul>
@@ -539,9 +601,26 @@ We wish to thank the Starlang Software for funding and supporting this work.
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: bir, bu, birçok, tüm, her, bazı, hiçbir, o, birkaç, şu</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
-      <li>PRON: bu, bunu, bunun, buna, onun, bunlar, bununla, bunların, onlara, onların</li>
+      <li>PRON: bu, bunu, bunun, buna, bununla, onlar, bunlar, onun, onların, bunların</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADV: hep</li>
+      <li>PRON: biri, bazıları, hepsi, çoğu, kimse, herkes, çoğunu, hepimiz, çoğunun, hepsinin</li>
     </ul>
   </li>
 </ul>
@@ -550,9 +629,16 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Int
     <ul>
       <li>ADV: ne, nasıl, kaçıp, neler</li>
-      <li>AUX: mı, mi, mu, mıydı, miydi, musunuz, mısın, mü, mıydık, Mİ</li>
-      <li>NOUN: kaçırma, kaçırmaya, kaçırıldığını, kaçışının</li>
-      <li>PRON: ne, kim, neden, hangi, kimi, neyin, kimin, HANGİSİ, nerede, nereden</li>
+      <li>AUX: mi, mı, mu, mıydı, miydi, musunuz, mü, mısın, mıydık, Mİ</li>
+      <li>PRON: ne, kim, neden, hangi, kimin, neyin, kimi, neyi, kime, neye</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>PRON: hiçbiri, hiçbirinin, hiçbirine, hiçbirini, hiçbiriyle</li>
     </ul>
   </li>
 </ul>
@@ -560,7 +646,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: onlar, onun, ben, o, onların, biz, onları, onu, sen, bize</li>
+      <li>PRON: onun, kendi, o, ben, onlar, onu, biz, ona, onların, onları</li>
     </ul>
   </li>
 </ul>
@@ -568,7 +654,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Rcp
     <ul>
-      <li>PRON: birbirine, birbirinden, birbirlerine, birbirini, birbirinin, birbirlerini</li>
+      <li>PRON: birbirine, birbirinden, birbirlerine, birbirini, birbirinin, birbirlerini, birbirlerinin</li>
     </ul>
   </li>
 </ul>
@@ -580,8 +666,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Card
     <ul>
-      <li>ADJ: ikisi, 9'luk, milyonluk, 1980'li, 20'lik, kaç, milyarlık, 15'lik, 1970'li, 3.5'lik</li>
-      <li>NUM: milyon, milyar, iki, bir, 1, üç, 10, 30, 3, 2</li>
+      <li>ADJ: milyonluk, ikisi, 9'luk, kaç, 0.3'lük, 10'luk, 1980'li, 20'lik, 3'lük, 3/4'lük</li>
+      <li>NUM: milyon, milyar, iki, bir, 1, 10, üç, 30, 2, 3</li>
     </ul>
   </li>
 </ul>
@@ -597,8 +683,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: Üçüncüsü</li>
-      <li>NUM: üçüncü, ikinci, birinci, dördüncü, İkinci, 13., 3., altıncı, 11., 20.</li>
+      <li>ADJ: 9:30'daki, Üçüncüsü</li>
+      <li>NUM: %, üçüncü, ikinci, 3., dördüncü, birinci, İkinci, 13., 2., altıncı</li>
     </ul>
   </li>
 </ul>
@@ -611,7 +697,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: kendi, kendisi, kendini, kendilerini, kendine, kendisini, kendileri, kendilerine, kendisinin, kendilerinden</li>
+      <li>PRON: kendi, kendisi, kendini, kendilerini, kendine, kendisini, kendisinin, kendisine, kendilerine, kendileri</li>
     </ul>
   </li>
 </ul>
@@ -623,10 +709,10 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>1
     <ul>
-      <li>AUX: değiliz, değilim, değildim</li>
-      <li>AUX-Fin: değildim</li>
-      <li>VERB: benim, düşünüyorum, sanırım, alım, bizim, gördük, sanmıyorum, bilmiyorum, düşünüyoruz, ediyoruz</li>
-      <li>VERB-Fin: düşünüyorum, sanırım, gördük, sanmıyorum, bilmiyorum, düşünüyoruz, ediyoruz, istiyoruz, aldım, ediyorum</li>
+      <li>AUX-Fin: değiliz, değilim, değildik, değildim</li>
+      <li>VERB: düşünüyorum, istiyoruz, sanmıyorum, sanırım, ediyoruz, yaptık, düşünüyoruz, bilmiyorum, düşündüm, ediyorum</li>
+      <li>VERB-Fin: düşünüyorum, istiyoruz, sanmıyorum, sanırım, ediyoruz, yaptık, düşünüyoruz, bilmiyorum, düşündüm, ediyorum</li>
+      <li>VERB-Part: Gördüğünüz, Sunduğunuz, yaptığınız</li>
       <li>VERB-Vnoun: almalıyız</li>
     </ul>
   </li>
@@ -635,8 +721,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>2
     <ul>
-      <li>VERB: anlaşma, buna, biliyorsun, et, uçuş, al, artış, bekleyin, ol, satış</li>
-      <li>VERB-Fin: biliyorsun, yapıyorsun, atacaksın, diyebilirsiniz, geldiniz, Yapmazsan, alabilirsin, alamıyorsunuz, alıyorsun, arayacaksınız</li>
+      <li>VERB-Fin: kıyasla, biliyorsun, dile, dönüş, et, al, git, bekleyin, diyebilirsiniz, düşünün</li>
     </ul>
   </li>
 </ul>
@@ -644,14 +729,14 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>3
     <ul>
-      <li>AUX: değildir, değildi, değillerdi, değilim, değiller, değilse, değilsin</li>
-      <li>AUX-Fin: değildi, değillerdi</li>
-      <li>NOUN: bay, hisse, Amerikan, şirket, şekilde, devam, yıl, gelir, doları, yorum</li>
-      <li>VERB: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
+      <li>AUX: değildir, değildi, değiller, değilim, değilse, değillerdi, değillerdir, değilmiş, değilsin</li>
+      <li>AUX-Fin: değildir, değildi, değilse, değillerdi, değillerdir, değilmiş</li>
+      <li>NOUN: bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</li>
+      <li>VERB: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
       <li>VERB-Conv: arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</li>
-      <li>VERB-Fin: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
-      <li>VERB-Part: düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi, kazananıydı, olandır, olanlardır, olanıdır</li>
-      <li>VERB-Vnoun: danışmanlar, olmasıdır, demektir, sağlamaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktır, alınmasıydı</li>
+      <li>VERB-Fin: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
+      <li>VERB-Part: olduğudur, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi, kazananıydı</li>
+      <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
     </ul>
   </li>
 </ul>
@@ -665,11 +750,11 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: fiyatları, hisseleri, koşulları, yetkilileri, oranları, tahvilleri, hizmetleri, kazançlarını, liderleri, sahipleri</li>
-      <li>PROPN: Doları'ydı, Doları, Doları'dır</li>
-      <li>VERB: ayarlarındalar, haplarıdır, kayıtlarıdır, ortaklıklarıdır, problemleriydi, rafineleriydi, uyarmalarıdır, örnekleridir, üzerimizdeydi</li>
-      <li>VERB-Fin: ayarlarındalar, problemleriydi, rafineleriydi, üzerimizdeydi</li>
-      <li>VERB-Vnoun: uyarmalarıdır</li>
+      <li>NOUN: fiyatları, hisseleri, koşulları, yetkilileri, oranları, tahvilleri, hizmetleri, ihtiyacımız, kazançlarını, liderleri</li>
+      <li>PROPN: Doları'ydı, Doları, Doları'dır, Hizmetleri'ne</li>
+      <li>VERB-Fin: ayarlarındalar, bahçemizdeydik, bonolarıdır, bırakmalarıdır, direktörleridir, haplarıdır, kayıtlarıdır, ortaklıklarıdır, problemleriydi, rafineleriydi</li>
+      <li>VERB-Part: alacağımızdır, bahsetmediğinizdir, yapabileceğimizdir</li>
+      <li>VERB-Vnoun: kalmalarıdır, uyarmalarıdır, yönlendirememenizdir</li>
     </ul>
   </li>
 </ul>
@@ -678,13 +763,13 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Sing
     <ul>
       <li>AUX: değilim, değilsin</li>
-      <li>NOUN: olduğunu, tarafından, doları, arasında, Doları'na, konusunda, başına, ayında, senedi, endeksi</li>
-      <li>PROPN: Corp.'un, Lynch'in, onu, IBM'in, Inc.'ın, AGIP'in, Blok'una, Bridge'in, CEO'su, Carbide'in</li>
-      <li>VERB: şirketidir, biridir, firmasıdır, birimidir, başkanıdır, editörüdür, içindeler, yardımcısıydı, danışmanlar, dolarıydı</li>
+      <li>NOUN: olduğunu, arasında, konusunda, senedi, günü, başına, tarafından, ayında, endeksi, doları</li>
+      <li>PROPN: IBM'in, CEO'su, Corp.'un, Inc.'ın, Lynch'in, onu, Bridge'in, Bronx'u, Colgate'in, OPEC'in</li>
+      <li>VERB: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, olmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir</li>
       <li>VERB-Conv: arayışındalar, düşüşündedir</li>
-      <li>VERB-Fin: yardımcısıydı, dolarıydı, seviyesindeydi, başkanıydı, kararıydı, arasındaydı, biriydi, düşündü, hatasıydı, tutarındaydı</li>
-      <li>VERB-Part: düşündüğüdür, ettiğidir, getirdiğiydi, kazananıydı, olanıdır</li>
-      <li>VERB-Vnoun: danışmanlar, olmasıdır, alınmasıydı, anlamasıdır, azalmasıdır, birleşmesiydi, bozulmasıdır, düşünmemesiydi, gözetmenler, kaybetmesidir</li>
+      <li>VERB-Fin: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir, üzerindeydi</li>
+      <li>VERB-Part: olduğudur, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, ettiğidir, getirdiğiydi, kazananıydı, olabileceğidir, olacağıdır, olanıdır</li>
+      <li>VERB-Vnoun: olmasıdır, danışmanlar, alınmasıydı, anlamasıdır, azalmasıdır, açıklanmasıydı, birleşmesiydi, bozulmasıdır, düşmesiydi, düşünmemesiydi</li>
     </ul>
   </li>
 </ul>
@@ -698,28 +783,28 @@ We wish to thank the Starlang Software for funding and supporting this work.
       <li>1
         <ul>
           <li>AUX: değilim</li>
-          <li>NOUN: benim, bizim, satım, toplam, alım, devam, ihtiyacımız, toplamı, Dudaklarımı, IMA</li>
-          <li>VERB: Atılımlar, kararımdı, üzerimizdeydi</li>
-          <li>VERB-Fin: kararımdı, üzerimizdeydi</li>
+          <li>NOUN: benim, bizim, satım, toplam, alım, devam, ihtiyacımız, olduğum, IMA, arkadaşım</li>
+          <li>VERB-Fin: bahçemizdeydik, kararımdı, yeteneğimizdir, üzerimizdeydi</li>
+          <li>VERB-Part: alacağımızdır, yapabileceğimizdir</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>AUX: değilsin</li>
-          <li>NOUN: üzerinde, altında, tarafından, üzerinden, azından, yılının, içinde, satın, teminatlarında, yılın</li>
-          <li>VERB: danışmanlar, düşündü, üzerindeydi, alındı, değerindedir, gözetmenler, sürendir, üzerindedir, üzerindeyim, üzgünüm</li>
-          <li>VERB-Fin: düşündü, üzerindeydi, alındı</li>
-          <li>VERB-Vnoun: danışmanlar, gözetmenler</li>
+          <li>NOUN: üzerinde, üzerinden, altında, tarafından, azından, satın, yılının, üzerine, içinde, süren</li>
+          <li>VERB-Fin: üzerindeydi, düşündü, üzerindedir, alındı, ayrılığındaydı, değerindedir, sürendir, üzerindeyim, üzerinedir, üzgünüm</li>
+          <li>VERB-Part: bahsetmediğinizdir</li>
+          <li>VERB-Vnoun: danışmanlar, gözetmenler, yönlendirememenizdir</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>NOUN: olduğunu, doları, tarafından, arasında, Doları'na, konusunda, başına, ayında, senedi, hisseleri</li>
-          <li>VERB: şirketidir, biridir, firmasıdır, birimidir, başkanıdır, editörüdür, içindeler, yardımcısıydı, dolarıydı, kaynağıdır</li>
+          <li>NOUN: olduğunu, arasında, konusunda, senedi, günü, başına, ayında, tarafından, hisseleri, endeksi</li>
+          <li>VERB: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, olmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir</li>
           <li>VERB-Conv: arayışındalar, düşüşündedir</li>
-          <li>VERB-Fin: yardımcısıydı, dolarıydı, seviyesindeydi, başkanıydı, kararıydı, arasındaydı, biriydi, hatasıydı, tutarındaydı, zamanıydı</li>
-          <li>VERB-Part: düşündüğüdür, ettiğidir, getirdiğiydi, kazananıydı, olanıdır</li>
-          <li>VERB-Vnoun: olmasıdır, alınmasıydı, anlamasıdır, azalmasıdır, birleşmesiydi, bozulmasıdır, düşünmemesiydi, kaybetmesidir, toparlanmasıdır, uyarmalarıdır</li>
+          <li>VERB-Fin: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir, altındaydı</li>
+          <li>VERB-Part: olduğudur, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, ettiğidir, getirdiğiydi, kazananıydı, olabileceğidir, olacağıdır, olanıdır</li>
+          <li>VERB-Vnoun: olmasıdır, alınmasıydı, anlamasıdır, azalmasıdır, açıklanmasıydı, birleşmesiydi, bozulmasıdır, düşmesiydi, düşünmemesiydi, etmesidir</li>
         </ul>
       </li>
     </ul>
@@ -744,43 +829,44 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Acc (34)</li>
-      <li>VERB--NOUN-Gen (4)</li>
-      <li>VERB--NOUN-Loc (1)</li>
-      <li>VERB--NOUN-Nom (378)</li>
-      <li>VERB--NOUN-Nom-ADP(da) (3)</li>
-      <li>VERB--NOUN-Nom-ADP(de) (3)</li>
-      <li>VERB--PRON (59)</li>
+      <li>VERB--NOUN-Nom (12)</li>
+      <li>VERB--PRON (2)</li>
+      <li>VERB--PRON-ADP(da) (1)</li>
+      <li>VERB-Conv--NOUN-Acc (1)</li>
+      <li>VERB-Conv--NOUN-Loc (1)</li>
       <li>VERB-Conv--NOUN-Nom (5)</li>
-      <li>VERB-Fin--NOUN-Abl (3)</li>
-      <li>VERB-Fin--NOUN-Abl-ADP(çok) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (322)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(da) (8)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(de) (8)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-Abl (2)</li>
+      <li>VERB-Fin--NOUN-Abl-ADP(fazla) (2)</li>
+      <li>VERB-Fin--NOUN-Acc (379)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(da) (3)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(de) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(i) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(is) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (22)</li>
+      <li>VERB-Fin--NOUN-Dat (26)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(da) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (9)</li>
-      <li>VERB-Fin--NOUN-Nom (3138)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(bile) (2)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(da) (27)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(de) (21)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(i) (5)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(is) (4)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(taraf) (1)</li>
-      <li>VERB-Fin--PRON (238)</li>
-      <li>VERB-Fin--PRON-ADP(da) (2)</li>
-      <li>VERB-Fin--PRON-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON-ADP(i) (1)</li>
-      <li>VERB-Fin--PRON-ADP(is) (1)</li>
-      <li>VERB-Part--NOUN-Gen (1)</li>
-      <li>VERB-Part--NOUN-Nom (5)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(yönelik) (1)</li>
+      <li>VERB-Fin--NOUN-Gen (32)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(iç) (1)</li>
+      <li>VERB-Fin--NOUN-Ins (1)</li>
+      <li>VERB-Fin--NOUN-Loc (5)</li>
+      <li>VERB-Fin--NOUN-Nom (7218)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(bile) (3)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(da) (40)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(de) (43)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(i) (8)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(is) (3)</li>
+      <li>VERB-Fin--PRON (578)</li>
+      <li>VERB-Fin--PRON-ADP(da) (4)</li>
+      <li>VERB-Fin--PRON-ADP(de) (5)</li>
+      <li>VERB-Fin--PRON-ADP(i) (3)</li>
+      <li>VERB-Part--NOUN-Nom (17)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Vnoun--NOUN-Acc (4)</li>
-      <li>VERB-Vnoun--NOUN-Gen (1)</li>
-      <li>VERB-Vnoun--NOUN-Nom (34)</li>
-      <li>VERB-Vnoun--PRON (1)</li>
+      <li>VERB-Vnoun--NOUN-Gen (2)</li>
+      <li>VERB-Vnoun--NOUN-Nom (68)</li>
+      <li>VERB-Vnoun--NOUN-Nom-ADP(da) (1)</li>
+      <li>VERB-Vnoun--PRON (2)</li>
+      <li>VERB-Vnoun--PRON-ADP(de) (1)</li>
     </ul>
   </li>
 </ul>
@@ -788,41 +874,44 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Abl (10)</li>
-      <li>VERB--NOUN-Acc (75)</li>
-      <li>VERB--NOUN-Dat (35)</li>
-      <li>VERB--NOUN-Gen (2)</li>
-      <li>VERB--NOUN-Ins-ADP(de) (1)</li>
-      <li>VERB--NOUN-Loc (2)</li>
-      <li>VERB--NOUN-Nom (80)</li>
-      <li>VERB--NOUN-Nom-ADP(ile) (2)</li>
-      <li>VERB--PRON (18)</li>
+      <li>VERB--NOUN-Dat (1)</li>
+      <li>VERB--NOUN-Gen (1)</li>
       <li>VERB-Conv--NOUN-Nom (2)</li>
-      <li>VERB-Fin--NOUN-Abl (57)</li>
-      <li>VERB-Fin--NOUN-Abl-ADP(de) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (835)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(da) (9)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(de) (7)</li>
-      <li>VERB-Fin--NOUN-Dat (297)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-Abl (100)</li>
+      <li>VERB-Fin--NOUN-Abl-ADP(fazla) (1)</li>
+      <li>VERB-Fin--NOUN-Acc (1827)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(da) (12)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(de) (13)</li>
+      <li>VERB-Fin--NOUN-Dat (477)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(karşı) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (6)</li>
-      <li>VERB-Fin--NOUN-Ins (12)</li>
-      <li>VERB-Fin--NOUN-Loc (20)</li>
-      <li>VERB-Fin--NOUN-Nom (762)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(yakın) (1)</li>
+      <li>VERB-Fin--NOUN-Gen (13)</li>
+      <li>VERB-Fin--NOUN-Ins (28)</li>
+      <li>VERB-Fin--NOUN-Loc (32)</li>
+      <li>VERB-Fin--NOUN-Nom (1985)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(alt) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(da) (2)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(bile) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(da) (5)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(de) (2)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(ile) (5)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(için) (2)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(gibi) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(ile) (11)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(için) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(kadar) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(tarafından) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(üzerine) (2)</li>
-      <li>VERB-Fin--PRON (163)</li>
+      <li>VERB-Fin--PRON (283)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
+      <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON (1)</li>
+      <li>VERB-Part--PRON-ADP(kadar) (1)</li>
       <li>VERB-Vnoun--NOUN-Abl (1)</li>
-      <li>VERB-Vnoun--NOUN-Acc (8)</li>
+      <li>VERB-Vnoun--NOUN-Acc (15)</li>
+      <li>VERB-Vnoun--NOUN-Dat (2)</li>
       <li>VERB-Vnoun--NOUN-Gen (1)</li>
-      <li>VERB-Vnoun--NOUN-Nom (11)</li>
-      <li>VERB-Vnoun--PRON (1)</li>
+      <li>VERB-Vnoun--NOUN-Nom (19)</li>
+      <li>VERB-Vnoun--PRON (3)</li>
     </ul>
   </li>
 </ul>
@@ -830,6 +919,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Fin--NOUN-Dat (17)</li>
+      <li>VERB-Fin--NOUN-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -839,12 +930,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 30 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: et kendini, et kendisini, hisset kendimi, ada kendimi, adlandır kendini, al kendilerini, at kendini, ayarla kendisini, açıkla kendisini, aş kendilerini, besle kendini, bil kendi̇ni̇, bul kendilerini, dölle kendisini, ekle kendini, gör kendilerini, gör kendini, hazırla kendilerini, hazırla kendini, katıl kendilerine, koru kendilerini, oluş kendilerini, savun kendisini, sür kendini, tanımla kendisini, ulaş kendisine, ver kendilerini, vur kendilerini, yapı kendisini, şımar kendilerini</li>
+  <li>This corpus contains 47 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: hisset kendimi, besle kendini, et kendilerini, et kendini, et kendisini, gör kendilerini, savun kendini, savun kendisini, ada kendilerini, ada kendimi, adlandır kendini, al kendilerini, an kendini, at kendini, ayarla kendisini, açıkla kendisini, aş kendilerini, bil kendi̇ni̇, biçim kendini, borçlu kendilerini, bul kendilerini, bul kendini, bul kendisini, diril kendini, dölle kendisini, ekle kendini, et kendisine, gör kendini, göster kendisini, hazırla kendilerini, hazırla kendini, hisset kendinizi, kanıtla kendimi, karart kendisi, katıl kendilerine, koru kendilerini, oluş kendilerini, sür kendini, tanımla kendisini, toparla kendini, ulaş kendisine, ver kendilerini, vur kendilerini, yapı kendisini, yarala kendini, çek kendilerini, şımar kendilerini</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>cop</a>, <a>orphan</a>, <a>reparandum</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a>, <a>reparandum</a></li>
 </ul>

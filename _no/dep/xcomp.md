@@ -28,4 +28,4 @@ Mennesket kan bli edelt \n Man can become noble
 xcomp(bli,edelt)
 ~~~
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:23 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:11 CET 2021 -->

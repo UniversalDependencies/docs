@@ -25,9 +25,11 @@ punct(said, ,-6)
 
 ## An inventory of constructions to which parataxis has been applied
 
+*The following material is duplicated in the [syntax overview](/u/overview/specific-syntax.html#paratactic-constructions).*
+
 ### Side-by-side sentences ("run-on sentences")
 
-The relation parataxis is used for a pair of what could have been standalone sentences, 
+The parataxis relation is used for a pair of what could have been standalone sentences, 
 but which are being treated together as a single sentence. This may happen because sentence
 segmentation of the sentence was done primarily following the presence of sentence-final punctuation,
 and these clauses are joined by punctuation such as a colon or comma, or not delimited by punctuation
@@ -52,9 +54,43 @@ parataxis(world, CIA)
 det(CIA, the)
 ~~~
 
-### Treatment of reported speech
+### Paired clauses with non-conjunction connective ("X so Y" etc.)
 
-For this reported speech example:
+The relation is also used for clauses connected by a word like *so*, *then*, *therefore*, or *however* 
+if neither clause is interpreted as modifying the other, and there is no coordinating conjunction:
+
+~~~ sdparse
+He claimed to be a wizard ; however/ADV , he turned out to be a humbug .
+parataxis(claimed, turned)
+advmod(turned, however)
+~~~
+
+~~~ sdparse
+I 'm hungry , so/ADV I 'm getting a bagel .
+parataxis(hungry, getting)
+advmod(getting, so)
+~~~
+
+The following, by contrast, are [advcl]() modifiers:
+
+~~~ sdparse
+Eat now so/ADV you wo n't be hungry later .
+advcl(Eat, hungry)
+advmod(hungry, so)
+~~~
+
+~~~ sdparse
+If/SCONJ you build it , then/ADV they will come .
+advcl(come, build)
+mark(build, If)
+advmod(come, then)
+~~~
+
+Note that *if*-clauses should almost always be analyzed as subordinate, even when *then* is present.
+
+### Reported speech
+
+When a speech verb interrupts reported speech content, the interruption is treated as a parenthetical parataxis:
 
 ~~~ sdparse
 The guy , John said , left early in the morning
@@ -63,59 +99,7 @@ punct(said, ,-3)
 punct(said, ,-6)
 ~~~
 
-there are paraphrases that convey essentially the same meaning but
-with a different syntactic structure. When the reported speech is embedded in a subordinate clause (with or 
-without an overt complementizer _that_), the subordinate clause is a [ccomp]() of the speech verb. When the
-reported speech follows the speech verb and is separated by a colon, the reported speech forms a main clause
-that attaches to the preceding main clause with a [parataxis]() relation, hence with the speech verb as its head.
-However, when the speech verb occurs as a medial or final parenthetical, the relation is reversed and the speech
-verb is treated as a [parataxis]() of the reported speech. 
-This analysis is not uncontroversial but follows many authorities, such as Huddleston and Pullum (2002),
-_The Cambridge Grammar of the English Language_ (see chapter 11, section 9). 
-
-~~~ sdparse
-John said that the guy left early in the morning .
-ccomp(said, left)
-~~~
-
-~~~ sdparse
-John said the guy left early in the morning .
-ccomp(said, left)
-~~~
-
-~~~ sdparse
-John said : “ The guy left early in the morning . ”
-parataxis(said, left)
-punct(left, :)
-punct(left, “)
-punct(left, ”)
-~~~
-
-~~~ sdparse
-“ The guy left early in the morning ” , John said .
-parataxis(left, said)
-punct(said, ,)
-punct(left, “)
-punct(left, ”)
-~~~
-
-~~~ sdparse
-The guy left early in the morning , John said .
-parataxis(left, said)
-punct(said, ,)
-~~~
-
-~~~ sdparse
-The guy , he said , left early in the morning .
-parataxis(left, said)
-punct(said, ,-3)
-punct(said, ,-6)
-~~~
-
-An argument for this analysis is that in the cases analyzed as embedding, the entire clause
-can be further embedded (_I was taken aback when John said the guy left early in the morning._),
-while this is not possible with medial or final placement of the speech verb 
-(_*I was taken aback when the guy left early this morning, John said._).
+See further discussion of reported speech at [ccomp](ccomp.html#reported-speech).
 
 ### News article bylines
 
@@ -158,4 +142,4 @@ It 's not me , is it ?
 parataxis(me, is)
 punct(is, ,)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:19 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:07 CET 2021 -->

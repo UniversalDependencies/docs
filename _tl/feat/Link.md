@@ -23,4 +23,4 @@ The approaches should be harmonized in future releases.
 * _Matalino ang lalaki<b>ng</b> bumasa ng diyaryo._ “The man who reads a newspaper is intelligent.” (The linker links the noun
   _lalaki_ “man” with the relative clause _bumasa ng diyaryo_ “reads a newspaper”. The word _lalaking_ will have `Link=Yes`.)
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:33 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->

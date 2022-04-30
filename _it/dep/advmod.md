@@ -22,7 +22,7 @@ advmod(fucilarono, dopo)
 ~~~
 ~~~ sdparse
 una strada abbastanza/ADV frequentata/ADJ 
-advmod(abbastanza, frequentata)
+advmod(frequentata, abbastanza)
 ~~~
 ~~~ sdparse
 cinque anni/NOUN fa/ADV
@@ -41,21 +41,30 @@ advmod(occupano, ne)
 ~~~ sdparse
 ogni fatto costituisce di/ADP per/ADP sé/PRON inadempimento .
 advmod(costituisce, di)
-mwe(di, per)
-mwe(di, sé)
+fixed(di, per)
+fixed(di, sé)
 ~~~
 ~~~ sdparse
 meno/ADV che/SCONJ meno/ADV quella di essere a conoscenza dei segreti 
 advmod(quella, meno-1)
-mwe(meno-1, che)
-mwe(meno-1, meno-3)
+fixed(meno-1, che)
+fixed(meno-1, meno-3)
 ~~~
 ~~~ sdparse
 vale/VERB a/ADP dire/VERB il cuore della Finanziaria
 advmod(cuore, vale)
-mwe(vale, a)
-mwe(vale, dire)
+fixed(vale, a)
+fixed(vale, dire)
 ~~~
 
 **NB** For prepositional multiword expressions the correct relations are [case]() or [mark]().
-<!-- Interlanguage links updated Pá kvě 14 11:08:47 CEST 2021 -->
+
+Adverbials realized by noun phrases or adpositional phrases are instead covered by the relation [obl]():
+
+~~~ sdparse
+oggi la canto qui da voi
+advmod(canto, oggi)
+advmod(canto, qui)
+obl(canto, voi)
+~~~
+<!-- Interlanguage links updated St lis 3 20:58:35 CET 2021 -->

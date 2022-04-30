@@ -8,7 +8,7 @@ udver: '2'
 The `nmod` relation is used for nominal dependents of another noun or noun phrase and functionally corresponds to
 an attribute, or genitive complement.
 
-**New from v2:** The `nmod` relation was previously used also for nominal dependents of verbs, adjectives, and adverbs. The latter are now covered by the new [obl]() relation.
+**New from v2:** The `nmod` relation was previously used also for nominal dependents of verbs, adjectives, and adverbs. These are now covered by the new [obl]() relation.
 
 In conjunction with the [case]() relation, `nmod` provides a uniform analysis for the possessive alternation (with the option of a subtype like `nmod:poss` to distinguish non-adpositional case):
 
@@ -26,4 +26,4 @@ det(Chair-2, the-1)
 nmod:poss(office-4, Chair-2)
 case(Chair-2, 's-3)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:10 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:58 CET 2021 -->

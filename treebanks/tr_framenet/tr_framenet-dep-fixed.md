@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	fiyatını	fiyat	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	obj	_	_
 3	daha	daha	ADV	_	Degree=Cmp	5	advmod	_	_
 4	da	da	CCONJ	_	_	3	fixed	_	_
-5	düşürmüş	düşür	VERB	_	Aspect=Perf|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+5	düşürmüş	düşür	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -39,7 +39,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
 1	Öyle	öyle	ADV	_	_	3	advmod	_	_
-2	bir	bir	DET	_	Definite=Ind	1	fixed	_	_
+2	bir	bir	DET	_	Definite=Ind|PronType=Art	1	fixed	_	_
 3	göçtü	göç	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	6	advcl	_	_
 4	ki	ki	SCONJ	_	_	3	mark	_	_
 5	sandalyeye	sandalye	NOUN	_	Case=Dat|Number=Sing|Person=3	3	obl	_	_

@@ -12,4 +12,4 @@ phrase that serves to modify the meaning of the word.
 DÅ@b PRO1 BESTÄMMA-SIG PRO1 PLUGGA TECKENSPRÅK \n Then I decided to study sign-language.
 advmod(BESTÄMMA-SIG, DÅ@b)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:47 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:36 CET 2021 -->

@@ -34,10 +34,10 @@ The <code>case</code> relation can also be used for multiword expression introdu
 ~~~ sdparse
 Prima di tutto 
 case(tutto, Prima)
-mwe(Prima, di)
+fixed(Prima, di)
 ~~~
 
-If the head of the relation is a verb in a subordinate clause, than the correct relation is [mark](). If the verb is used as a noun infinitive, than <code>case</code> is the correct relation.
+If the head of the relation is a verb in a subordinate clause, then the correct relation is [mark](). If the verb is used as a noun infinitive, then <code>case</code> is the correct relation.
 
 ~~~ sdparse
 La consegna consiste in il fare ronde notturne .
@@ -50,4 +50,4 @@ case(esaltare, con)
 det(esaltare, l')
 nmod(finisce, esaltare)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:53 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:42 CET 2021 -->

@@ -9,28 +9,48 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-25746 tokens (11%) have a non-empty value of `VerbForm`.
-7599 types (29%) occur at least once with a non-empty value of `VerbForm`.
-1948 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (20763; 9% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4981; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+25751 tokens (11%) have a non-empty value of `VerbForm`.
+7597 types (29%) occur at least once with a non-empty value of `VerbForm`.
+1918 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (20761; 9% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4989; 2% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-20763 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+20761 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17226; 83%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11465; 55%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (11242; 54%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10734; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17224; 83%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11470; 55%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (11244; 54%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10733; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (11742; 57% of non-empty `VerbForm`): <em>tem, há, disse, pode, diz, é, deve, está, fez, têm</em>
-* `Ger` (777; 4% of non-empty `VerbForm`): <em>tendo, passando, dando, incluindo, fazendo, ganhando, dizendo, mostrando, considerando, esperando</em>
-* `Inf` (4366; 21% of non-empty `VerbForm`): <em>fazer, ter, ver, dar, dizer, partir, falar, manter, saber, passar</em>
-* `Part` (3878; 19% of non-empty `VerbForm`): <em>feito, feita, feitas, dito, vindo, tido, eleito, visto, aberto, considerado</em>
-* `EMPTY` (14): <em>Conhecido, chamadas, conhecida, dirigido, discutido, dizer, erra, estava, irritada, relacionados</em>
+* `Fin` (11739; 57% of non-empty `VerbForm`): <em>tem, há, disse, pode, diz, é, deve, está, fez, têm</em>
+* `Ger` (777; 4% of non-empty `VerbForm`): <em>tendo, dando, incluindo, fazendo, passando, ganhando, dizendo, mostrando, considerando, esperando</em>
+* `Inf` (4369; 21% of non-empty `VerbForm`): <em>fazer, ter, ver, dar, dizer, partir, falar, manter, saber, passar</em>
+* `Part` (3876; 19% of non-empty `VerbForm`): <em>feito, feita, feitas, dito, tido, eleito, visto, vindo, aberto, considerado</em>
+* `EMPTY` (2): <em>há, partir</em>
 
 <table>
   <tr><th>Paradigm <i>ter</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>ter, tê</em></td><td><em>tido</em></td><td><em>tendo</em></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt></tt></td><td></td><td><em>ter</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>teria</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>teriam</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>tive</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>terá</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tinha</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>teve</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tem</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>teremos</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>temos</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>tiveram</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>terão</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tinham</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>têm</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>tiver</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>tiver</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tivesse</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tenha</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tivéssemos</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>ter</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>tido</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>tido</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>tida</em></td><td></td></tr>
@@ -57,12 +77,10 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>tiveram</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>têm</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tinha</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>tiver</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>tiver</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tivesse</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tenha</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>tivermos</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tivéssemos</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tenhamos</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tivessem</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tenham</em></td><td></td><td></td><td></td></tr>
@@ -73,13 +91,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-4981 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+4989 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (4031; 81%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3753; 75%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3155; 63%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (4037; 81%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3761; 75%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3158; 63%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (4103; 82% of non-empty `VerbForm`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
+* `Fin` (4111; 82% of non-empty `VerbForm`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
 * `Ger` (77; 2% of non-empty `VerbForm`): <em>sendo, tendo, estando</em>
 * `Inf` (688; 14% of non-empty `VerbForm`): <em>ser, ter, estar, serem, ir, terem, haver, estarem, tê, estarmos</em>
 * `Part` (113; 2% of non-empty `VerbForm`): <em>sido, estado, ido</em>
@@ -125,17 +143,6 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>serem</em></td><td></td><td></td></tr>
 </table>
 
-### `PRON`
-
-1 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `PRON` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
-
-`PRON` tokens may have the following values of `VerbForm`:
-
-* `Ger` (1; 100% of non-empty `VerbForm`): <em>se</em>
-* `EMPTY` (7464): <em>que, se, o, ele, isso, onde, quem, lhe, tudo, eles</em>
-
 ### `SCONJ`
 
 1 <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `VerbForm`.
@@ -143,17 +150,16 @@ The most frequent other feature values with which `PRON` and `VerbForm` co-occur
 `SCONJ` tokens may have the following values of `VerbForm`:
 
 * `Ger` (1; 100% of non-empty `VerbForm`): <em>sendo</em>
-* `EMPTY` (5352): <em>que, a, de, para, se, porque, por, como, em, quando</em>
+* `EMPTY` (5356): <em>que, a, de, para, se, porque, como, por, em, quando</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (1187; 83%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (1190; 83%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (653; 59%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (268; 79%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (265; 79%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (6; 67%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="pt_bosque-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -24,4 +24,4 @@ udver: '2'
 ### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=97> (in Finnish)
-<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:24 CET 2021 -->

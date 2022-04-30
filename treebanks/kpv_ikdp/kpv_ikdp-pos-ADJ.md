@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>сэтшем</em> (<tt><a href="kpv_i
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.051948 (the average of all parts of speech is 1.333333).
+The form / lemma ratio of `ADJ` is 1.051948 (the average of all parts of speech is 1.332903).
 
 The 1st highest number of forms (2) was observed with the lemma “английскӧй”: <em>английскеен, английскейсэ</em>.
 

@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="id_pud-pos-PROPN.ht
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (76; 100% of non-empty `Abbr`): <em>AS, A.S., BBC, CNN, Nn., Tn., B.C., DNA, GCA, GOP</em>
-* `EMPTY` (2014): <em>Amerika, Inggris, Eropa, of, Tiongkok, the, Prancis, Spanyol, Yunani, Oktober</em>
+* `EMPTY` (2037): <em>Amerika, Inggris, Eropa, of, Tiongkok, the, Prancis, Spanyol, Yunani, Oktober</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (52) occur only with one value of `Abbr`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (28; 100% of non-empty `Abbr`): <em>SM, AIDS, ATM, BC, DFB, GIF, HFC, MLA, MP, No.</em>
-* `EMPTY` (4653): <em>tahun, orang, bulan, bagian, hari, negara, kota, laut, perang, hal</em>
+* `EMPTY` (4661): <em>tahun, orang, bulan, bagian, hari, negara, kota, laut, hal, perang</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (17) occur only with one value of `Abbr`.
 

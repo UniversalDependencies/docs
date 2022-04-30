@@ -22,11 +22,11 @@ The following 1 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 det	color:blue
-1	sawaʔe	sawaʔe	NOUN	n	Number=Sing	0	root	0:root	_
-2	panem	panem	ADJ	adj	_	1	amod	1:amod	_
-3	ta	ta	PART	pcl	_	1	nmod	1:nmod	_
-4	ke	ke	PART	pcl	_	1	discourse	1:discourse	_
-5	upa	upa	DET	det	_	1	det	1:det	_
+1	sawaʔe	sawaʔe	NOUN	n	Number=Sing	0	root	_	_
+2	panem	panem	ADJ	adj	_	1	amod	_	_
+3	ta	ta	PART	pcl	_	1	nmod	_	_
+4	ke	ke	PART	pcl	_	1	discourse	_	_
+5	upa	upa	DET	det	_	1	det	_	_
 
 ~~~
 

@@ -53,7 +53,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 5	fazer	_	VERB	VB	_	10	csubj	_	_
 6	campanha	campanha	NOUN	NN	Gender=Fem|Number=Sing	5	obj	_	_
 7	contra	_	ADP	IN	_	9	case	_	_
-8	as	o	DET	DT	Gender=Fem|Number=Plur	9	det	_	_
+8	as	o	DET	DT	Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	negociações	negociação	NOUN	NN	Gender=Fem|Number=Plur	5	obl	_	_
 10	faz	fazer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 11	sentido	sentido	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
@@ -69,12 +69,12 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 6 csubj	color:blue
 1	É	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
-2	o	o	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+2	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	sonho	sonho	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	ele	ele	PRON	INP	Gender=Masc|Number=Sing|Person=3	3	obj	_	_
 6	terminar	_	VERB	VB	_	3	csubj	_	_
-7	a	o	DET	PDT	Gender=Fem|Number=Sing	9	det	_	_
+7	a	o	DET	PDT	Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	sua	_	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	9	det	_	_
 9	carreira	_	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 10	aqui	aqui	ADV	RB	_	6	advmod	_	SpaceAfter=No

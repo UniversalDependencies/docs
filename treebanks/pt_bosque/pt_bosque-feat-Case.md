@@ -18,14 +18,14 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pt_bosque-pos-PRON.
 
 2542 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (34% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2539; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (1938; 76%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1624; 64%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1370; 54%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2539; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (1938; 76%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1625; 64%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1370; 54%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (1780; 70% of non-empty `Case`): <em>se, o, me, a, nos, lo, os, la, as, los</em>
 * `Dat` (228; 9% of non-empty `Case`): <em>lhe, me, nos, lhes, se, Ihe, vos</em>
 * `Nom` (534; 21% of non-empty `Case`): <em>ele, eu, eles, ela, você, nós, elas, vocês, voce, vós</em>
-* `EMPTY` (4923): <em>que, o, isso, onde, quem, tudo, os, isto, nada, a</em>
+* `EMPTY` (4925): <em>que, o, isso, onde, quem, tudo, os, isto, nada, a</em>
 
 <table>
   <tr><th>Paradigm <i>ele</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>

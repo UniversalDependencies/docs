@@ -32,4 +32,24 @@ Therefore their relation to the quantified noun is not `nummod` but
 Sam ate many sheep
 det(sheep, many)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:14 CEST 2021 -->
+
+Furthermore, a number that serves as a label for an entity rather than denoting quantity
+is not `nummod`. For example, in _The meeting will be in room 4_, the number is the name
+of a particular room, it is different from the expression _4 rooms_. Note that the label
+of the room could also be non-numeric, as in _The meeting will be in room A_. UD analyzes
+the number as a nominal (even if keeping the UPOS tag [NUM]() for it). Hence the number
+is attached as [nmod]() to the noun it modifies, unless there is clear morphosyntactic
+evidence in the language for the opposite direction. See also §3.6.3 of
+[de Marneffe et al. (2021)](https://doi.org/10.1162/coli_a_00402).
+
+~~~ sdparse
+The meeting will be in room 4
+det(meeting, The)
+nsubj(room, meeting)
+aux(room, will)
+cop(room, be)
+case(room, in)
+nmod(room, 4)
+~~~
+
+<!-- Interlanguage links updated St lis 3 20:59:02 CET 2021 -->

@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="id_pud-pos-PRON.htm
 
 45 <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Clusivity`.
 
-The most frequent other feature values with which `PRON` and `Clusivity` co-occurred: <tt><a href="id_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (45; 100%), <tt><a href="id_pud-feat-Person.html">Person</a></tt><tt>=1</tt> (45; 100%), <tt><a href="id_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (45; 100%), <tt><a href="id_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (36; 80%).
+The most frequent other feature values with which `PRON` and `Clusivity` co-occurred: <tt><a href="id_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (45; 100%), <tt><a href="id_pud-feat-Person.html">Person</a></tt><tt>=1</tt> (45; 100%), <tt><a href="id_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (45; 100%).
 
 `PRON` tokens may have the following values of `Clusivity`:
 

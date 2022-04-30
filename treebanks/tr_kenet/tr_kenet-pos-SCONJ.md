@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.280199).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.284446).
 
 The 1st highest number of forms (1) was observed with the lemma “eğer”: <em>eğer</em>.
 
@@ -32,9 +32,9 @@ The 2nd highest number of forms (1) was observed with the lemma “ki”: <em>ki
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="tr_kenet-dep-mark.html">mark</a></tt> (313; 81% instances), <tt><a href="tr_kenet-dep-case.html">case</a></tt> (23; 6% instances), <tt><a href="tr_kenet-dep-cc.html">cc</a></tt> (16; 4% instances), <tt><a href="tr_kenet-dep-discourse.html">discourse</a></tt> (12; 3% instances), <tt><a href="tr_kenet-dep-fixed.html">fixed</a></tt> (9; 2% instances), <tt><a href="tr_kenet-dep-conj.html">conj</a></tt> (7; 2% instances), <tt><a href="tr_kenet-dep-list.html">list</a></tt> (3; 1% instances), <tt><a href="tr_kenet-dep-ccomp.html">ccomp</a></tt> (2; 1% instances), <tt><a href="tr_kenet-dep-compound.html">compound</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="tr_kenet-dep-mark.html">mark</a></tt> (327; 85% instances), <tt><a href="tr_kenet-dep-case.html">case</a></tt> (25; 6% instances), <tt><a href="tr_kenet-dep-discourse.html">discourse</a></tt> (12; 3% instances), <tt><a href="tr_kenet-dep-fixed.html">fixed</a></tt> (9; 2% instances), <tt><a href="tr_kenet-dep-conj.html">conj</a></tt> (7; 2% instances), <tt><a href="tr_kenet-dep-list.html">list</a></tt> (3; 1% instances), <tt><a href="tr_kenet-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="tr_kenet-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="tr_kenet-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt> (286; 74% instances), <tt><a href="tr_kenet-pos-ADJ.html">ADJ</a></tt> (38; 10% instances), <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (36; 9% instances), <tt><a href="tr_kenet-pos-ADV.html">ADV</a></tt> (14; 4% instances), <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="tr_kenet-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="tr_kenet-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="tr_kenet-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt> (285; 74% instances), <tt><a href="tr_kenet-pos-ADJ.html">ADJ</a></tt> (39; 10% instances), <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (36; 9% instances), <tt><a href="tr_kenet-pos-ADV.html">ADV</a></tt> (14; 4% instances), <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="tr_kenet-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="tr_kenet-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="tr_kenet-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 382 (99%) `SCONJ` nodes are leaves.
 

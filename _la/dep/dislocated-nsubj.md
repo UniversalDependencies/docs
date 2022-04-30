@@ -5,7 +5,7 @@ shortdef: 'dislocated nominal subject'
 udver: '2'
 ---
 
-Through different subtypes of [`dislocated`](u-dep/dislocated) we more precisely identify which element has been dislocated in the sentence. This information is not directly retrievable otherwise from "basic" dependencies, since the `dislocated` relation always depends on the local head.
+Through different subtypes of [`dislocated`](u-dep/dislocated) we more precisely identify which argument has been dislocated in the sentence and how it is realized in this position (nominally or clausally). This information is not directly retrievable otherwise from "basic" dependencies, since the `dislocated` relation always depends on the local head.
 
 In the translation of the example, the bold passage corresponds to the dislocated element, and the underlined passage to the dislocating one.
 
@@ -20,4 +20,4 @@ nsubj(he-will-teach,that)
 ~~~
 
 '**The Paraclete, the Holy Ghost**, whom the Father will send in My name, <u>He</u> will teach you all things.' (*Summa contra Gentiles* citing John 14:26, ITTB)
-<!-- Interlanguage links updated Pá kvě 14 11:09:04 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:52 CET 2021 -->

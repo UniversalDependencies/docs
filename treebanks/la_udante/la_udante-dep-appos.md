@@ -51,7 +51,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 6	parvo	paruus	ADJ	ams1b	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	8	amod	_	_
 7	te	tu	PRON	ppp2sma	Case=Acc|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	9	nsubj:pass	_	_
 8	limite	limes	NOUN	sms3b	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	9	obl:agent	_	_
-9	septum	saepio	VERB	vp4prsma	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatI|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+9	septum	saepio	VERB	vp4prsma	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatI|InflClass[nominal]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
 10	non	non	PART	r	Polarity=Neg	11	advmod:neg	_	_
 11	contentus	contentus	ADJ	ams1n	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing|VerbForm=Part	0	root	_	_
 12	eris	sum	AUX	va5ifs2	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	11	cop	_	SpaceAfter=No
@@ -59,7 +59,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 14	nec	neque	CCONJ	co	Polarity=Neg	17	cc	_	_
 15	vulgo	uulgus	NOUN	sns2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	17	obl:agent	_	_
 16	iudice	iudex	NOUN	sms3b	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	15	appos	_	_
-17	tolli	tollo	VERB	vp3fp	Aspect=Imp|InflClass=LatX|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	9	conj	_	SpaceAfter=No
+17	tolli	tollo	VERB	vp3fp	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	9	conj	_	SpaceAfter=No
 18	.	.	PUNCT	Pu	_	11	punct	_	_
 
 ~~~

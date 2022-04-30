@@ -19,7 +19,7 @@ The feature is used with 13 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.ht
 
 9937 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (30% of all `NOUN` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `NOUN` and `Form` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8030; 81%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (6549; 66%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6429; 65%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5327; 54%).
+The most frequent other feature values with which `NOUN` and `Form` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8030; 81%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6549; 66%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6429; 65%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5327; 54%).
 
 `NOUN` tokens may have the following values of `Form`:
 
@@ -137,7 +137,7 @@ The most frequent other feature values with which `PROPN` and `Form` co-occurred
   <tr><th>Paradigm <i>Gaeltacht</i></th><th><tt>Ecl</tt></th><th><tt>Len</tt></th></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nGaeltachtaí</em></td><td><em>Ghaeltachtaí</em></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Ghaeltachta</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>nGaeltacht</em></td><td><em>Ghaeltacht</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>nGaeltacht</em></td><td><em>Ghaeltacht</em></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Ghaeltacht</em></td></tr>
 </table>
 
@@ -145,7 +145,7 @@ The most frequent other feature values with which `PROPN` and `Form` co-occurred
 
 924 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `ADJ` and `Form` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (897; 97%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (839; 91%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (594; 64%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (500; 54%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (479; 52%).
+The most frequent other feature values with which `ADJ` and `Form` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (897; 97%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (839; 91%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (594; 64%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (500; 54%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (479; 52%).
 
 `ADJ` tokens may have the following values of `Form`:
 

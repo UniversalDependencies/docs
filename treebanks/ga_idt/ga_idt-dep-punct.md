@@ -42,7 +42,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 punct	color:blue
-1	Bean	bean	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
+1	Bean	bean	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	shuidhte	suidhte	ADJ	Adj	Form=Len|VerbForm=Part	1	amod	_	_
 3	dhéanta	déanta	ADJ	Adj	Degree=Pos|Form=Len	1	amod	_	SpaceAfter=No
 4	...	...	PUNCT	...	_	1	punct	_	_

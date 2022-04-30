@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Kaoru Ito, Taishi Chika, Shinsuke Mori, Sumire Uematsu, Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Atsuko Shimada, Anna Trukhina, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Japanese-PUD](https://github.com/UniversalDependencies/UD_Japanese-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pud28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pud29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 3.0
 
@@ -102,7 +102,7 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 </ul>
 
 <ul>
-<li>This corpus contains 28354 tokens (98%) that are not followed by a space.</li>
+<li>This corpus contains 28353 tokens (98%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -141,7 +141,7 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 </ul>
 
 <ul>
-<li>This corpus contains 25 lemmas tagged as auxiliaries (AUX): いい, がましい, させる, しめる, する, せる, そう, た, たい, たり, だ, てる, できる, ない, なり, ぬ, べし, ます, やすい, よい, よう, らしい, られる, り, れる</li>
+<li>This corpus contains 23 lemmas tagged as auxiliaries (AUX): いい, がましい, させる, しめる, する, せる, そう, た, たい, たり, だ, できる, ない, なり, べし, ます, やすい, よい, よう, らしい, られる, り, れる</li>
 </ul>
 
 <ul>
@@ -172,9 +172,8 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: ない, なかっ, ず, ん, なけれ, なく</li>
       <li>NOUN: 不, 未, 非, 反, 無</li>
-      <li>SCONJ: ず</li>
+      <li>SCONJ: ない, なかっ, ず, ん, なけれ, なく</li>
     </ul>
   </li>
 </ul>
@@ -211,7 +210,7 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 </ul>
 
 <ul>
-<li>This corpus uses 22 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, れる, ます, ない, られる, よう, せる, ぬ, できる, たい, べし, させる, そう, たり, がましい, しめる, てる, なり, やすい, らしい.</li>
+<li>This corpus uses 19 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, れる, ます, られる, よう, せる, できる, たい, べし, させる, そう, たり, がましい, しめる, なり, やすい, らしい.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

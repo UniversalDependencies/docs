@@ -71,7 +71,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (303; 57% of non-empty `PronType`): <em>then, there, here, that</em>
 * `Int` (169; 32% of non-empty `PronType`): <em>how, why, where, when, wherever</em>
 * `Rel` (55; 10% of non-empty `PronType`): <em>where, why</em>
-* `EMPTY` (4598): <em>out, up, so, back, now, very, just, too, again, only</em>
+* `EMPTY` (4563): <em>out, up, so, back, now, very, just, too, again, only</em>
 
 <table>
   <tr><th>Paradigm <i>where</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -87,7 +87,7 @@ The most frequent other feature values with which `SCONJ` and `PronType` co-occu
 `SCONJ` tokens may have the following values of `PronType`:
 
 * `Rel` (1; 100% of non-empty `PronType`): <em>that</em>
-* `EMPTY` (1556): <em>that, as, if, when, because, though, while, before, whether, for</em>
+* `EMPTY` (1557): <em>that, as, if, when, because, though, while, before, whether, for</em>
 
 ## Relations with Agreement in `PronType`
 

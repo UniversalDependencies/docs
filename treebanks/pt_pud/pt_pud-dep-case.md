@@ -27,7 +27,7 @@ The following 19 pairs of parts of speech are connected with `case`: <tt><a href
 3	por	por	ADP	IN	_	4	case	_	_
 4	pessoa	pessoa	NOUN	NN	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	_
-6	o	o	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	máximo	máximo	NOUN	NN	Gender=Masc|Number=Sing	1	appos	_	_
 8	permitido	permitido	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	_	_
@@ -44,7 +44,7 @@ The following 19 pairs of parts of speech are connected with `case`: <tt><a href
 1	Ele	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
 2	trabalhou	trabalhar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	para	para	ADP	IN	_	5	case	_	_
-4	a	o	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+4	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	BBC	BBC	PROPN	NNP	Gender=Fem|Number=Sing	2	obl	_	_
 6	por	por	ADP	IN	_	8	case	_	_
 7	uma	um	DET	CD	Gender=Fem	8	det	_	_
@@ -63,13 +63,13 @@ The following 19 pairs of parts of speech are connected with `case`: <tt><a href
 1	Para	_	ADP	IN	_	2	case	_	_
 2	já	já	ADV	RB	_	7	xcomp	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
-4	os	o	DET	DT	Gender=Masc|Number=Plur	5	det	_	_
+4	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	analistas	analista	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 6	estão	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	cop	_	_
 7	hesitantes	hesitante	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	_
 8	em	em	ADP	IN	_	9	case	_	_
 9	eliminar	_	VERB	VB	_	7	xcomp	_	_
-10	o	o	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+10	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	serviço	serviço	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_
 

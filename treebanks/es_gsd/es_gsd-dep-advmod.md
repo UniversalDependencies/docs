@@ -25,7 +25,7 @@ The following 62 pairs of parts of speech are connected with `advmod`: <tt><a hr
 1	Aun	aun	ADV	_	_	2	advmod	_	_
 2	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	otros	otro	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	2	obj	_	_
-4	reclutados	reclutado	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	3	acl	_	_
+4	reclutados	reclutar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	3	acl	_	_
 5	por	por	ADP	_	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Ejército	ejército	NOUN	_	_	4	obl	_	_

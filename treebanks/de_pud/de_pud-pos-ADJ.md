@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>bekannt</em> (<tt><a href="de_pud-pos
   * <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Allerdings war sie zu sehr auf kleine Posten in dem Westen <b>ausgerichtet</b> und nicht so gut für einen Überseekonflikt gerüstet .</em>
   * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1: <em>Die Winteruniversiade 2019 wird von Krasnojarsk <b>ausgerichtet</b> .</em>
 * <em>ausgesetzt</em>
-  * <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Das gleiche Muster ließ sich jedoch nicht in Gewebe finden , das dem Rauch nicht direkt <b>ausgesetzt</b> ist , wie z . B. die Blase .</em>
+  * <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Das gleiche Muster ließ sich jedoch nicht in Gewebe finden , das dem Rauch nicht direkt <b>ausgesetzt</b> ist , wie zu dem B. die Blase .</em>
   * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2: <em>1955 begann Mishima mit Hanteltraining , und er hat seinen Trainingsplan von drei Einheiten pro Woche die letzten 15 Jahre seines Lebens nicht <b>ausgesetzt</b> .</em>
 * <em>erfolgreich</em>
   * <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Nicht alle Veränderungen in der Region waren <b>erfolgreich</b> .</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>bekannt</em> (<tt><a href="de_pud-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.267339 (the average of all parts of speech is 1.195571).
+The form / lemma ratio of `ADJ` is 1.267339 (the average of all parts of speech is 1.195641).
 
 The 1st highest number of forms (11) was observed with the lemma “groß”: <em>groß, große, großem, großen, großer, großes, größer, größere, größeren, größte, größten</em>.
 

@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `nmod:agent`: <tt><a
 12	-	-	PUNCT	punct	_	13	punct	_	SpaceAfter=No
 13	1830	1830	NUM	num	_	11	nmod	_	SpaceAfter=No
 14	)	)	PUNCT	punct	_	11	punct	_	_
-15	sef	sef	CCONJ	cconj	_	16	cc	_	_
+15	sef	sef	ADV	adv	_	16	advmod	_	_
 16	bardd	bardd	NOUN	noun	Gender=Masc|Number=Sing	8	appos	_	_
 17	a	a	CCONJ	cconj	_	18	cc	_	_
 18	golygydd	golygydd	NOUN	noun	Gender=Masc|Number=Sing	16	conj	_	_

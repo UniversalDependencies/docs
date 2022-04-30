@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_English-ParTUT](https://github.com/UniversalDependencies/UD_English-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_partut28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_partut29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-NC-SA 4.0
 

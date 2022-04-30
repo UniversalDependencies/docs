@@ -20,10 +20,10 @@ The 10 most frequent ambiguous types:  <em>Telekom</em> (<tt><a href="de_hdt-pos
 
 * <em>Telekom</em>
   * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 3831: <em>Diese Auskunft gab jedenfalls heute die Hotline der <b>Telekom</b> .</em>
-  * <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> 1: <em>Während Compuserve beim Pro-Tarif selbst die Rechnung an den Kunden schreibt , erledigt das beim ebenfalls anmeldepflichtigen Office-Tarif die <b>Telekom</b> , vergleichbar mit anderen Call-by-Call-Anbietern .</em>
-  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 1: <em>Ziel der Bemühungen ist der Aufbau des <b>Telekom</b> Broadcast Network ( TBN ) , über das - ähnlich dem amerikanischen Real Broadcast Network - Fernseh- und Radio-Programme im Internet verfügbar gemacht werden sollen .</em>
+  * <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> 1: <em>Während Compuserve bei dem Pro-Tarif selbst die Rechnung an den Kunden schreibt , erledigt das bei dem ebenfalls anmeldepflichtigen Office-Tarif die <b>Telekom</b> , vergleichbar mit anderen Call-by-Call-Anbietern .</em>
+  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 1: <em>Ziel der Bemühungen ist der Aufbau des <b>Telekom</b> Broadcast Network ( TBN ) , über das - ähnlich dem amerikanischen Real Broadcast Network - Fernseh- und Radio-Programme in dem Internet verfügbar gemacht werden sollen .</em>
 * <em>Intel</em>
-  * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 2657: <em>SAP und <b>Intel</b> machen Verluste im Internet-Handel</em>
+  * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 2657: <em>SAP und <b>Intel</b> machen Verluste in dem Internet-Handel</em>
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 6: <em>Dies wurde auf dem <b>Intel</b> Developer Forum bekannt .</em>
 * <em>USA</em>
   * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 2566: <em>Schauen Sie nur mal in die <b>USA</b> .</em>
@@ -33,14 +33,14 @@ The 10 most frequent ambiguous types:  <em>Telekom</em> (<tt><a href="de_hdt-pos
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 2: <em>Lesen Sie einen ausführlichen Test in der aktuellen Ausgabe 10/98 der <b>c't</b> .</em>
 * <em>AMD</em>
   * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 1143: <em><b>AMD</b> auf der Überholspur</em>
-  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 1: <em>Diese Posten verwaltete Sanders kommissarisch , seit im Frühsommer letzten Jahres der bis dahin als Kronprinz gehandelte Atiq Raza offenbar nach einem heftigen Streit mit Sanders <b>AMD</b> verließ - und das kurz vor der Athlon-Premiere .</em>
+  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 1: <em>Diese Posten verwaltete Sanders kommissarisch , seit in dem Frühsommer letzten Jahres der bis dahin als Kronprinz gehandelte Atiq Raza offenbar nach einem heftigen Streit mit Sanders <b>AMD</b> verließ - und das kurz vor der Athlon-Premiere .</em>
 * <em>Apple</em>
   * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 1071: <em><b>Apple</b> iBook :</em>
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 6: <em>Die Standardversion verteilt <b>Apple</b> kostenlos .</em>
   * <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> 3: <em>Das Mindeste , was <b>Apple</b> ankündigen müßte , wären also PPC750-Prozessoren mit höheren Taktfrequenzen .</em>
 * <em>Windows</em>
   * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 1043: <em>Was haben <b>Windows</b> 98 und der Film " X Files " gemeinsam ?</em>
-  * <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> 852: <em>Sony bietet eine Einwahlsoftware für <b>Windows</b> 95/98 zum Download an .</em>
+  * <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> 852: <em>Sony bietet eine Einwahlsoftware für <b>Windows</b> 95/98 zu dem Download an .</em>
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 108: <em>Allerdings gibt sich das Programm als <b>Windows</b> Explorer aus .</em>
 * <em>online</em>
   * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 806: <em>Bundestag <b>online</b></em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>Telekom</em> (<tt><a href="de_hdt-pos
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 0.999817 (the average of all parts of speech is 2.524227).
+The form / lemma ratio of `PROPN` is 0.999817 (the average of all parts of speech is 2.524629).
 
 The 1st highest number of forms (3) was observed with the lemma “PowerBook”: <em>G3-PowerBook, PowerBook, PowerBooks</em>.
 
@@ -80,15 +80,15 @@ Parents of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="de
 
 93189 (48%) `PROPN` nodes are leaves.
 
-53620 (28%) `PROPN` nodes have one child.
+53007 (27%) `PROPN` nodes have one child.
 
-30239 (16%) `PROPN` nodes have two children.
+30486 (16%) `PROPN` nodes have two children.
 
-16944 (9%) `PROPN` nodes have three or more children.
+17310 (9%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 43.
 
-Children of `PROPN` nodes are attached using 27 different relations: <tt><a href="de_hdt-dep-case.html">case</a></tt> (50492; 29% instances), <tt><a href="de_hdt-dep-punct.html">punct</a></tt> (27458; 16% instances), <tt><a href="de_hdt-dep-det.html">det</a></tt> (20759; 12% instances), <tt><a href="de_hdt-dep-flat-name.html">flat:name</a></tt> (17180; 10% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (13508; 8% instances), <tt><a href="de_hdt-dep-flat.html">flat</a></tt> (9576; 5% instances), <tt><a href="de_hdt-dep-appos.html">appos</a></tt> (9558; 5% instances), <tt><a href="de_hdt-dep-cc.html">cc</a></tt> (8923; 5% instances), <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (5429; 3% instances), <tt><a href="de_hdt-dep-nmod.html">nmod</a></tt> (5339; 3% instances), <tt><a href="de_hdt-dep-amod.html">amod</a></tt> (4340; 2% instances), <tt><a href="de_hdt-dep-acl.html">acl</a></tt> (1752; 1% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (232; 0% instances), <tt><a href="de_hdt-dep-nummod.html">nummod</a></tt> (205; 0% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (190; 0% instances), <tt><a href="de_hdt-dep-cop.html">cop</a></tt> (159; 0% instances), <tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt> (46; 0% instances), <tt><a href="de_hdt-dep-mark.html">mark</a></tt> (27; 0% instances), <tt><a href="de_hdt-dep-aux.html">aux</a></tt> (19; 0% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (14; 0% instances), <tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt> (7; 0% instances), <tt><a href="de_hdt-dep-csubj.html">csubj</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-det-poss.html">det:poss</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-expl.html">expl</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 27 different relations: <tt><a href="de_hdt-dep-case.html">case</a></tt> (50492; 29% instances), <tt><a href="de_hdt-dep-punct.html">punct</a></tt> (27458; 16% instances), <tt><a href="de_hdt-dep-det.html">det</a></tt> (22014; 12% instances), <tt><a href="de_hdt-dep-flat-name.html">flat:name</a></tt> (17180; 10% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (13508; 8% instances), <tt><a href="de_hdt-dep-flat.html">flat</a></tt> (9576; 5% instances), <tt><a href="de_hdt-dep-appos.html">appos</a></tt> (9558; 5% instances), <tt><a href="de_hdt-dep-cc.html">cc</a></tt> (8923; 5% instances), <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (5429; 3% instances), <tt><a href="de_hdt-dep-nmod.html">nmod</a></tt> (5339; 3% instances), <tt><a href="de_hdt-dep-amod.html">amod</a></tt> (4340; 2% instances), <tt><a href="de_hdt-dep-acl.html">acl</a></tt> (1752; 1% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (232; 0% instances), <tt><a href="de_hdt-dep-nummod.html">nummod</a></tt> (205; 0% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (190; 0% instances), <tt><a href="de_hdt-dep-cop.html">cop</a></tt> (159; 0% instances), <tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt> (46; 0% instances), <tt><a href="de_hdt-dep-mark.html">mark</a></tt> (27; 0% instances), <tt><a href="de_hdt-dep-aux.html">aux</a></tt> (19; 0% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (14; 0% instances), <tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt> (7; 0% instances), <tt><a href="de_hdt-dep-csubj.html">csubj</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-det-poss.html">det:poss</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-expl.html">expl</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 15 different parts of speech: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (48179; 27% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (30376; 17% instances), <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (27458; 16% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (20600; 12% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (12911; 7% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (11242; 6% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (7763; 4% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (4935; 3% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (4840; 3% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (4094; 2% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (1661; 1% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (740; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (227; 0% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (171; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances)
+Children of `PROPN` nodes belong to 15 different parts of speech: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (48179; 27% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (30376; 17% instances), <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (27458; 16% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (21855; 12% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (12911; 7% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (11242; 6% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (7763; 4% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (4935; 3% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (4840; 3% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (4094; 2% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (1661; 1% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (740; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (227; 0% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (171; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances)
 

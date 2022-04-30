@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Circ`, `Post`, `Prep`.
 
-365227 tokens (11%) have a non-empty value of `AdpType`.
-226 types (0%) occur at least once with a non-empty value of `AdpType`.
-226 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (365227; 11% instances).
+365228 tokens (11%) have a non-empty value of `AdpType`.
+193 types (0%) occur at least once with a non-empty value of `AdpType`.
+192 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (365228; 11% instances).
 
 ### `ADP`
 
-365227 <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> tokens (95% of all `ADP` tokens) have a non-empty value of `AdpType`.
+365228 <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> tokens (95% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (309038; 85%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt> (257473; 70%).
+The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt> (257477; 70%).
 
 `ADP` tokens may have the following values of `AdpType`:
 
 * `Circ` (1243; 0% of non-empty `AdpType`): <em>hinaus, aus, an, hin, her, hinweg, heraus, vorbei, zu, auf</em>
 * `Post` (1190; 0% of non-empty `AdpType`): <em>zufolge, nach, lang, gegenüber, wegen, über, gemäß, entgegen, entlang, halber</em>
-* `Prep` (362794; 99% of non-empty `AdpType`): <em>in, von, für, mit, auf, im, bei, nach, an, zu</em>
+* `Prep` (362795; 99% of non-empty `AdpType`): <em>in, von, für, mit, auf, zu, an, bei, nach, über</em>
 
 <table>
   <tr><th>Paradigm <i>wegen</i></th><th><tt>Circ</tt></th><th><tt>Post</tt></th><th><tt>Prep</tt></th></tr>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADP` and `AdpType` co-occurre
   <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>wegen</em></td><td><em>wegen</em></td></tr>
 </table>
 
-`AdpType` seems to be **lexical feature** of `ADP`. 94% lemmas (213) occur only with one value of `AdpType`.
+`AdpType` seems to be **lexical feature** of `ADP`. 93% lemmas (179) occur only with one value of `AdpType`.
 
 ## Relations with Agreement in `AdpType`
 

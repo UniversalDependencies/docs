@@ -31,11 +31,11 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 7	que	_	ADP	IN	_	6	fixed	_	_
 8	navios	navio	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj:pass	_	_
 9	grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	_
-10	o	o	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+10	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	suficiente	suficiente	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
 12	para	para	ADP	IN	_	13	case	_	_
 13	cruzar	_	VERB	VB	_	9	xcomp	_	_
-14	os	o	DET	DT	Gender=Masc|Number=Plur	15	det	_	_
+14	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 15	mares	mar	NOUN	NN	Gender=Masc|Number=Plur	13	obj	_	_
 16	fossem	_	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Past	17	aux:pass	_	_
 17	contruídos	_	VERB	VBN	Gender=Masc|Number=Plur	5	advcl	_	SpaceAfter=No
@@ -76,7 +76,7 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 2	mais	mais	ADV	RBR	_	3	advmod	_	_
 3	óbvio	óbvio	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 4	quando	_	SCONJ	IN	_	15	mark	_	_
-5	o	o	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+5	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	nome	nome	NOUN	NN	Gender=Masc|Number=Sing	15	nsubj	_	_
 7	de	de	ADP	IN	_	9	case	_	_
 8	uma	um	DET	DT	Gender=Fem|Number=Sing	9	det	_	_

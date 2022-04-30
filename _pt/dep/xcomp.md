@@ -116,4 +116,4 @@ interpretation of _declarou._
 
 The result is that in _Ela entrou na sala triste,_ _triste_ will
 depend on _Ela_ and the relation will be [acl]() instead of `xcomp`.
-<!-- Interlanguage links updated Pá kvě 14 11:09:23 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:11 CET 2021 -->

@@ -28,15 +28,15 @@ The following 11 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 4	,	,	PUNCT	,	_	8	punct	_	_
 5	em	em	ADP	IN	_	8	case	_	_
 6	ambos	_	DET	PDT	Gender=Masc|Number=Plur	8	det	_	_
-7	os	o	DET	DT	Gender=Masc|Number=Plur	8	det	_	_
+7	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	casos	caso	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	acl:relcl	_	_
 11	em	em	ADP	INDT	_	13	case	_	_
-12	o	o	DET	_	Gender=Masc|Number=Sing	13	det	_	_
+12	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	topo	topo	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_
 14	de	de	ADP	INDT	_	16	case	_	_
-15	a	o	DET	_	Gender=Fem|Number=Sing	16	det	_	_
+15	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	UE	UE	PROPN	NNP	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -56,7 +56,7 @@ The following 11 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 5	que	_	PRON	WP	_	6	obj	_	_
 6	precisamos	precisar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres	4	acl:relcl	_	_
 7	em	em	ADP	INDT	_	10	case	_	_
-8	o	o	DET	_	Gender=Masc|Number=Sing	10	det	_	_
+8	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	nosso	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	10	det	_	_
 10	país	país	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	12	punct	_	_
@@ -72,7 +72,7 @@ The following 11 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 acl:relcl	color:blue
-1	O	o	DET	PDT	Gender=Masc|Number=Sing	4	det	_	_
+1	O	o	DET	PDT	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 2	seu	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	4	det	_	_
 3	primeiro	primeiro	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 4	rei	rei	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_

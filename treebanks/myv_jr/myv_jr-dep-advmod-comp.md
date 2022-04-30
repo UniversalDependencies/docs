@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `advmod:comp`: <tt><
 # visual-style 6	fgColor:white
 # visual-style 6 5 advmod:comp	color:blue
 1	—	—	PUNCT	PUNCT	_	4	punct	_	_
-2	Микол	Микол	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Giv|Number=Sing	4	vocative	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef|SpaceAfter=No
+2	Микол	Микол	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	vocative	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	стяк	стямс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	GTtags=IV,Imprt,ScSg2
 5	седе	седе	ADV	Adv	Degree=Cmp	6	advmod:comp	_	GTtags=Comp
@@ -43,8 +43,8 @@ The following 5 pairs of parts of speech are connected with `advmod:comp`: <tt><
 1	Конась	кона	DET	Det	Case=Nom|Definite=Def|Number=Sing|PronType=Int	3	nsubj	_	GTtags=Interr,Sg,Nom,Def
 2	седе	седе	ADV	Adv	Degree=Cmp	3	advmod:comp	_	GTtags=Comp
 3	мазый	мазый	ADJ	A	Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Prs,ScSg3
-4	эсь	эсь	PRON	Pron	Reflex=Yes	5	det	_	GTtags=Refl,Adn
-5	ютковаст	ютко	NOUN	N	Case=Prl|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	3	obl:lmp	_	GTtags=Sem/Plc,SP,Prl,PxPl3|SpaceAfter=No
+4	эсь	эсь	DET	Det	Reflex=Yes	5	det	_	GTtags=Refl,Adn
+5	ютковаст	ютко	NOUN	N	Case=Prl|NounType=Relat|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	3	obl:lmp	_	GTtags=Sem/Plc,SP,Prl,PxPl3|SpaceAfter=No
 6	?	?	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -58,7 +58,7 @@ The following 5 pairs of parts of speech are connected with `advmod:comp`: <tt><
 # visual-style 7 6 advmod:comp	color:blue
 1	Ансяк	ансяк	ADV	Adv	_	2	advmod:foc	_	GTtags=Exclusive
 2	кодат	кодамо	ADJ	A	Case=Nom|Number=Plur|PronType=Int	13	acl:relcl	_	GTtags=Interr,Nom,Pl
-3	иляст	иля	AUX	AUX	Mood=Opt|Number[subj]=Plur|Person[subj]=3|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Opt,ScPl3
+3	иляст	а	AUX	AUX	Mood=Opt|Number[subj]=Plur|Person[subj]=3|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Opt,ScPl3
 4	уле	улемс	AUX	V	Connegative=Yes|Valency=1	2	cop	_	GTtags=IV,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	2	punct	_	_
 6	весемеде	весемеде	PART	Pcle	Degree=Sup	7	advmod:comp	_	GTtags=Degree=Sup

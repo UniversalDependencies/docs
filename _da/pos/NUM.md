@@ -18,4 +18,4 @@ Note that in Danish the decimal mark is most often a comma. Thousands are then s
 - _0, 1, 2, 3, 2014, 1 000 000, 3.000,15, 3,14159265359_
 - _et_ "one", _to_ "two", _tre_ "three", _nitten_ "nineteen"
 - _I, II, III, IV, V, MMXIV_
-<!-- Interlanguage links updated Pá kvě 14 11:08:21 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:11 CET 2021 -->

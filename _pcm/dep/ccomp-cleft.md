@@ -55,4 +55,4 @@ Clefted elements can often be identified by the presence of the copulative parti
 ~~~
 
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:55 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:44 CET 2021 -->

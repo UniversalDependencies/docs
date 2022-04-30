@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sms_giellagas-pos-A
 
 ### `ADP`
 
-21 <tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> tokens (95% of all `ADP` tokens) have a non-empty value of `AdpType`.
+21 <tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> tokens (88% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17; 81%).
 

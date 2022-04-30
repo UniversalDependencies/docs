@@ -9,31 +9,31 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-591 tokens (3%) have a non-empty value of `NumType`.
-258 types (5%) occur at least once with a non-empty value of `NumType`.
-223 lemmas (6%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (515; 3% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (76; 0% instances).
+559 tokens (3%) have a non-empty value of `NumType`.
+243 types (5%) occur at least once with a non-empty value of `NumType`.
+213 lemmas (6%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (501; 3% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (58; 0% instances).
 
 ### `NUM`
 
-515 <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+501 <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (515; 100% of non-empty `NumType`): <em>satu, dua, kedua, tiga, juta, empat, 1, 10, 3, puluh</em>
+* `Card` (501; 100% of non-empty `NumType`): <em>satu, dua, kedua, tiga, juta, empat, 1, 10, 3, puluh</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (214) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (211) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-76 <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `NumType`.
+58 <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (76; 100% of non-empty `NumType`): <em>pertama, kedua, ketiga, I, III, II, IV, ke-16, ke-3, ke-5</em>
-* `EMPTY` (969): <em>besar, lain, baru, terakhir, baik, sama, banyak, salah, lama, biasa</em>
+* `Ord` (58; 100% of non-empty `NumType`): <em>pertama, kedua, ketiga, ke-16, ke-3, ke-5, ke-13, ke-14, ke-15, ke-20</em>
+* `EMPTY` (968): <em>besar, lain, baru, terakhir, baik, sama, banyak, salah, lama, biasa</em>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (22) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (15) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 

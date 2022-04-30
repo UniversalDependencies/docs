@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  - (<tt><a href="ja_gsd-pos-SYM.html">SYM<
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.040000 (the average of all parts of speech is 1.059467).
+The form / lemma ratio of `SYM` is 1.040000 (the average of all parts of speech is 1.059603).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: _, ملك.
 

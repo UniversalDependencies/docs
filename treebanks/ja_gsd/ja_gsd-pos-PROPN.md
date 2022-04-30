@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  オウム (<tt><a href="ja_gsd-pos-PROPN.
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.059467).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.059603).
 
 The 1st highest number of forms (1) was observed with the lemma “48”: 48.
 

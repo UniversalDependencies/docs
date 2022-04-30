@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="de_pud-feat-Person.html">Person</a></tt>, <tt><a href="de_pud-feat-Person-psor.html">Person[psor]</a></tt>.
 
-12551 tokens (59%) have a non-empty value of `Person`.
-5314 types (82%) occur at least once with a non-empty value of `Person`.
-4393 lemmas (82%) occur at least once with a non-empty value of `Person`.
-The feature is used with 10 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4245; 20% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2842; 13% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1219; 6% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1182; 6% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1168; 5% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1084; 5% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (804; 4% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+12548 tokens (59%) have a non-empty value of `Person`.
+5312 types (82%) occur at least once with a non-empty value of `Person`.
+4391 lemmas (82%) occur at least once with a non-empty value of `Person`.
+The feature is used with 9 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4245; 20% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2842; 13% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1219; 6% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1182; 6% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1168; 5% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1084; 5% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (804; 4% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `DET` tokens may have the following values of `Person`:
 
 * `3` (2842; 100% of non-empty `Person`): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
-* `EMPTY` (1): <em>die</em>
+* `EMPTY` (4): <em>dem, die</em>
 
 `Person` seems to be **lexical feature** of `DET`. 100% lemmas (40) occur only with one value of `Person`.
 
@@ -184,15 +184,6 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>habe</em></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>hätten</em></td><td></td><td><em>hätten</em></td></tr>
 </table>
-
-### `ADP`
-
-3 <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Person`.
-
-`ADP` tokens may have the following values of `Person`:
-
-* `3` (3; 100% of non-empty `Person`): <em>z., z</em>
-* `EMPTY` (2040): <em>in, von, zu, mit, für, an, auf, nach, bei, über</em>
 
 ### `X`
 

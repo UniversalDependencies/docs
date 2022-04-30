@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-GSD: POS Tags: `PRON`
 
 There are 55 `PRON` lemmas (0%), 55 `PRON` types (0%) and 1138 `PRON` tokens (1%).
-Out of 16 observed tags, the rank of `PRON` is: 7 in number of lemmas, 8 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `PRON` is: 7 in number of lemmas, 9 in number of types and 13 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: これ, それ, 彼, 私, ここ, 何, こちら, そこ, いつ, ある
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  それ (<tt><a href="ja_gsd-pos-PRON.html
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.059467).
+The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.059603).
 
 The 1st highest number of forms (1) was observed with the lemma “You”: You.
 
@@ -79,7 +79,7 @@ Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="ja_g
 
 The highest child degree of a `PRON` node is 11.
 
-Children of `PRON` nodes are attached using 17 different relations: <tt><a href="ja_gsd-dep-case.html">case</a></tt> (1022; 80% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (102; 8% instances), <tt><a href="ja_gsd-dep-cop.html">cop</a></tt> (31; 2% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (29; 2% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (27; 2% instances), <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (24; 2% instances), <tt><a href="ja_gsd-dep-nsubj.html">nsubj</a></tt> (10; 1% instances), <tt><a href="ja_gsd-dep-aux.html">aux</a></tt> (8; 1% instances), <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (6; 0% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
+Children of `PRON` nodes are attached using 17 different relations: <tt><a href="ja_gsd-dep-case.html">case</a></tt> (1022; 80% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (102; 8% instances), <tt><a href="ja_gsd-dep-cop.html">cop</a></tt> (31; 2% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (29; 2% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (27; 2% instances), <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (25; 2% instances), <tt><a href="ja_gsd-dep-nsubj.html">nsubj</a></tt> (10; 1% instances), <tt><a href="ja_gsd-dep-aux.html">aux</a></tt> (7; 1% instances), <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (6; 0% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
 
-Children of `PRON` nodes belong to 14 different parts of speech: <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1022; 80% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (102; 8% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (39; 3% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (36; 3% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (26; 2% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Children of `PRON` nodes belong to 14 different parts of speech: <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1022; 80% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (102; 8% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (38; 3% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (36; 3% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (26; 2% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (11; 1% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

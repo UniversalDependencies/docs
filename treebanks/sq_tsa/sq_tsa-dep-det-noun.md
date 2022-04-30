@@ -23,21 +23,21 @@ The following 1 pairs of parts of speech are connected with `det:noun`: <tt><a h
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 det:noun	color:blue
-1	Dëgjojmë	dëgjoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	0:root	_
-2	lajmet	lajm	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	1	obj	1:obj	_
-3	dhe	dhe	CCONJ	_	_	4	cc	4:cc	_
-4	lexojmë	lexoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	1	conj	1:conj	_
-5	artikujt	artikull	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	4	obj	4:obj	_
-6	që	që	SCONJ	_	_	8	mark	8:mark	_
-7	na	ne	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Prs	8	iobj	8:iobj	_
-8	japin	jap	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	acl:relcl	5:acl:relcl	_
-9	statistika	statistikë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obj	8:obj	_
-10	për	për	ADP	_	_	12	case	12:case	_
-11	të	i	DET	_	Gender=Masc	12	det:noun	12:det:noun	_
-12	vdekurit	vdekur	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	9	nmod	9:nmod	_
-13	në	në	ADP	_	_	14	case	14:case	_
-14	luftë	luftë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	nmod	12:nmod	SpaceAfter=No
-15	.	.	PUNCT	_	_	1	punct	1:punct	_
+1	Dëgjojmë	dëgjoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+2	lajmet	lajm	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	_
+3	dhe	dhe	CCONJ	_	_	4	cc	_	_
+4	lexojmë	lexoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	1	conj	_	_
+5	artikujt	artikull	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	4	obj	_	_
+6	që	që	SCONJ	_	_	8	mark	_	_
+7	na	ne	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Prs	8	iobj	_	_
+8	japin	jap	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	acl:relcl	_	_
+9	statistika	statistikë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obj	_	_
+10	për	për	ADP	_	_	12	case	_	_
+11	të	i	DET	_	Gender=Masc	12	det:noun	_	_
+12	vdekurit	vdekur	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	9	nmod	_	_
+13	në	në	ADP	_	_	14	case	_	_
+14	luftë	luftë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

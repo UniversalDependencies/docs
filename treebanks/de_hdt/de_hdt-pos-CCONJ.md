@@ -20,21 +20,21 @@ The 10 most frequent ambiguous types:  <em>und</em> (<tt><a href="de_hdt-pos-CCO
 
 * <em>und</em>
   * <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> 56959: <em>Das Material stammt von lokalen <b>und</b> internationalen Fernsehstationen .</em>
-  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 1: <em>Im September 1997 rief das amerikanische National Institute of Standards <b>und</b> Technology ( Nist ) einen bisher einmaligen Wettbewerb zur Suche nach einem neuen Verschlüsselungsstandard aus .</em>
+  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 1: <em>In dem September 1997 rief das amerikanische National Institute of Standards <b>und</b> Technology ( Nist ) einen bisher einmaligen Wettbewerb zu der Suche nach einem neuen Verschlüsselungsstandard aus .</em>
 * <em>als</em>
   * <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> 12040: <em>Qualität <b>als</b> bester Kopierschutz für Musik</em>
-  * <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> 343: <em>Der Effekt habe am Tag eingesetzt , <b>als</b> Microsofts Störung publik wurde .</em>
+  * <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> 343: <em>Der Verkauf wurde allerdings gestoppt , <b>als</b> WinStar protestierte .</em>
 * <em>wie</em>
   * <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> 6257: <em>Dieser erhält <b>wie</b> beschrieben einen Anruf , den er quittieren muß .</em>
   * <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 1899: <em>Aber dies reicht längst nicht aus , <b>wie</b> Blumenthals Anwalt meint .</em>
 * <em>aber</em>
-  * <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 5548: <em>Das System eignet sich <b>aber</b> auch zur Bezahlung mobiler Dienstleistungen :</em>
+  * <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 5548: <em>Damit will sich Schmidt <b>aber</b> nicht zufrieden geben :</em>
   * <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> 1420: <em>Der richtet zwar keinen Schaden an , <b>aber</b> ärgerlich ist er dennoch .</em>
   * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 2: <em>Wesentliche neue Funktionen oder Programme soll das 4,5 MByte große Update nicht bieten , das System <b>aber</b> um Bugs bereinigen und für etwas mehr Geschwindigkeit sorgen .</em>
 * <em>doch</em>
   * <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 867: <em>Dell hat <b>doch</b> nicht die Marktführerschaft an US-Schulen übernommen .</em>
   * <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> 607: <em>" Wir haben alles auf Rambus gesetzt , <b>doch</b> es hat nicht funktioniert .</em>
-  * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1: <em>Chang verriet nun , dass VIA über ein Programm zum Auslesen einer internen Revisionsnummer verfüge und damit die betroffenen Chips <b>doch</b> per Software identifizieren könnte .</em>
+  * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1: <em>Chang verriet nun , dass VIA über ein Programm zu dem Auslesen einer internen Revisionsnummer verfüge und damit die betroffenen Chips <b>doch</b> per Software identifizieren könnte .</em>
 * <em>denn</em>
   * <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> 641: <em>SDMI kopfloser <b>denn</b> je</em>
   * <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 191: <em>Was sind <b>denn</b> die Infrastrukturen ?</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>und</em> (<tt><a href="de_hdt-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.222222 (the average of all parts of speech is 2.524227).
+The form / lemma ratio of `CCONJ` is 1.222222 (the average of all parts of speech is 2.524629).
 
 The 1st highest number of forms (6) was observed with the lemma “und”: <em>&, +, u., und, und/oder, usw.</em>.
 

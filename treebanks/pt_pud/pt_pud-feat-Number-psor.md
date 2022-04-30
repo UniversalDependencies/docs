@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `Number[psor]` co-o
 
 1 <tt><a href="pt_pud-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="pt_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="pt_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 

@@ -8,10 +8,10 @@ udver: '2'
 
 This relation is universal.
 
-396266 nodes (12%) are attached to their parents as `punct`.
+396266 nodes (11%) are attached to their parents as `punct`.
 
 237630 instances of `punct` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.27994579398687.
+Average distance between parent and child is 7.39105045600682.
 
 The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (257872; 65% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (61885; 16% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (27458; 7% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (20765; 5% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (10816; 3% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (10559; 3% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (2703; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (2499; 1% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (1448; 0% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (102; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (65; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (46; 0% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances).
 

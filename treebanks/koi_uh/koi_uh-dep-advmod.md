@@ -9,7 +9,7 @@ udver: '2'
 This relation is universal.
 There are 4 language-specific subtypes of `advmod`: <tt><a href="koi_uh-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="koi_uh-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="koi_uh-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="koi_uh-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-40 nodes (5%) are attached to their parents as `advmod`.
+40 nodes (4%) are attached to their parents as `advmod`.
 
 30 instances of `advmod` (75%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.125.

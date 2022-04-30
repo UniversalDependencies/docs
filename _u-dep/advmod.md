@@ -45,4 +45,4 @@ About 200 people came to the party
 advmod(200, About)
 ~~~
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:47 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:36 CET 2021 -->

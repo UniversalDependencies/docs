@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish_German-SAGT: POS Tags: `ADP`
 
-There are 74 `ADP` lemmas (2%), 94 `ADP` types (1%) and 1659 `ADP` tokens (4%).
+There are 73 `ADP` lemmas (2%), 93 `ADP` types (1%) and 1658 `ADP` tokens (4%).
 Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>in, zu, sonra, için, mit, von, für, auf, an, gibi</em>
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>zu</em> (<tt><a href="qtd_sagt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.270270 (the average of all parts of speech is 1.681057).
+The form / lemma ratio of `ADP` is 1.273973 (the average of all parts of speech is 1.679170).
 
 The 1st highest number of forms (10) was observed with the lemma “lik”: <em>lik, likle, liği, liğin, liğine, lük, lüğümden, lık, lığı, lığına</em>.
 
@@ -71,17 +71,17 @@ The 3rd highest number of forms (4) was observed with the lemma “ki”: <em>ki
 `ADP` occurs with 13 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Foreign=Yes`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
 
 `ADP` occurs with 15 feature combinations.
-The most frequent feature combination is `_` (1561 tokens).
+The most frequent feature combination is `_` (1560 tokens).
 Examples: <em>in, zu, sonra, için, mit, von, für, auf, an, gibi</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="qtd_sagt-dep-case.html">case</a></tt> (1318; 79% instances), <tt><a href="qtd_sagt-dep-mark.html">mark</a></tt> (238; 14% instances), <tt><a href="qtd_sagt-dep-compound-prt.html">compound:prt</a></tt> (48; 3% instances), <tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt> (30; 2% instances), <tt><a href="qtd_sagt-dep-fixed.html">fixed</a></tt> (9; 1% instances), <tt><a href="qtd_sagt-dep-obl.html">obl</a></tt> (6; 0% instances), <tt><a href="qtd_sagt-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-dep-obj.html">obj</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="qtd_sagt-dep-case.html">case</a></tt> (1317; 79% instances), <tt><a href="qtd_sagt-dep-mark.html">mark</a></tt> (238; 14% instances), <tt><a href="qtd_sagt-dep-compound-prt.html">compound:prt</a></tt> (48; 3% instances), <tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt> (30; 2% instances), <tt><a href="qtd_sagt-dep-fixed.html">fixed</a></tt> (9; 1% instances), <tt><a href="qtd_sagt-dep-obl.html">obl</a></tt> (6; 0% instances), <tt><a href="qtd_sagt-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (855; 52% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (288; 17% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (271; 16% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (181; 11% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (26; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (15; 1% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="qtd_sagt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (853; 51% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (288; 17% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (271; 16% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (182; 11% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (26; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (15; 1% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="qtd_sagt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (1; 0% instances)
 
-1616 (97%) `ADP` nodes are leaves.
+1615 (97%) `ADP` nodes are leaves.
 
 37 (2%) `ADP` nodes have one child.
 

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Card`, `Ord`.
 
 12905 tokens (3%) have a non-empty value of `NumType`.
 2494 types (5%) occur at least once with a non-empty value of `NumType`.
-2328 lemmas (6%) occur at least once with a non-empty value of `NumType`.
+2328 lemmas (7%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 4 part-of-speech tags: <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (11017; 3% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (941; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (539; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (408; 0% instances).
 
 ### `NUM`

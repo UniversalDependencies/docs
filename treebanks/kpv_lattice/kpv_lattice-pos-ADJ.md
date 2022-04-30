@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: POS Tags: `ADJ`
 
-There are 254 `ADJ` lemmas (10%), 302 `ADJ` types (8%) and 488 `ADJ` tokens (6%).
+There are 254 `ADJ` lemmas (10%), 302 `ADJ` types (8%) and 489 `ADJ` tokens (6%).
 Out of 15 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>ыджыд, кодь, бур, важ, сэтшӧм, мича, том, еджыд, ичӧтик, лёк</em>
 
-The 10 most frequent `ADJ` types:  <em>ыджыд, кодь, важ, бур, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
+The 10 most frequent `ADJ` types:  <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
 
 The 10 most frequent ambiguous lemmas: <em>кодь</em> (<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 2), <em>кутшӧм</em> (<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 4), <em>воддза</em> (<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>краснӧй</em> (<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>сӧстӧм</em> (<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>татшӧм</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 4, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3), <em>югыд</em> (<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>водз</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>рад</em> (<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>ылі</em> (<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>кодь</em> (<tt><a href="kpv_latti
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.188976 (the average of all parts of speech is 1.465770).
+The form / lemma ratio of `ADJ` is 1.188976 (the average of all parts of speech is 1.467100).
 
 The 1st highest number of forms (4) was observed with the lemma “бур”: <em>бур, бурджык, бурсӧ, бурыс</em>.
 
@@ -60,22 +60,22 @@ The 2nd highest number of forms (3) was observed with the lemma “важ”: <e
 
 The 3rd highest number of forms (3) was observed with the lemma “воддза”: <em>Воддза, воддзаыскӧд, медводдза</em>.
 
-`ADJ` occurs with 11 features: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (430; 88% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (429; 88% instances), <tt><a href="kpv_lattice-feat-Number-subj.html">Number[subj]</a></tt> (44; 9% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (21; 4% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (21; 4% instances), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt> (19; 4% instances), <tt><a href="kpv_lattice-feat-Degree.html">Degree</a></tt> (17; 3% instances), <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt> (12; 2% instances), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt> (5; 1% instances), <tt><a href="kpv_lattice-feat-Definite.html">Definite</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt> (1; 0% instances)
+`ADJ` occurs with 11 features: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (431; 88% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (430; 88% instances), <tt><a href="kpv_lattice-feat-Number-subj.html">Number[subj]</a></tt> (44; 9% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (21; 4% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (21; 4% instances), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt> (19; 4% instances), <tt><a href="kpv_lattice-feat-Degree.html">Degree</a></tt> (17; 3% instances), <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt> (12; 2% instances), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt> (5; 1% instances), <tt><a href="kpv_lattice-feat-Definite.html">Definite</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt> (1; 0% instances)
 
 `ADJ` occurs with 28 feature-value pairs: `Case=Acc`, `Case=Apr`, `Case=Com`, `Case=Dat`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Definite=Ind`, `Degree=Cmp`, `Degree=Sup`, `Derivation=CompMod`, `Derivation=Ik`, `Derivation=Ko`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Number[subj]=Plur`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Polarity=Neg`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`
 
 `ADJ` occurs with 45 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (343 tokens).
-Examples: <em>ыджыд, кодь, важ, бур, мича, еджыд, том, выль, кузь, лёк</em>
+The most frequent feature combination is `Case=Nom|Number=Sing` (344 tokens).
+Examples: <em>ыджыд, кодь, бур, важ, мича, еджыд, том, выль, кузь, лёк</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 20 different relations: <tt><a href="kpv_lattice-dep-amod.html">amod</a></tt> (328; 67% instances), <tt><a href="kpv_lattice-dep-root.html">root</a></tt> (51; 10% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (41; 8% instances), <tt><a href="kpv_lattice-dep-xcomp.html">xcomp</a></tt> (13; 3% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (11; 2% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (8; 2% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (6; 1% instances), <tt><a href="kpv_lattice-dep-ccomp.html">ccomp</a></tt> (5; 1% instances), <tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-dep-advmod-tmod.html">advmod:tmod</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-dep-nsubj-cop.html">nsubj:cop</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-dep-obl-tmod.html">obl:tmod</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 20 different relations: <tt><a href="kpv_lattice-dep-amod.html">amod</a></tt> (329; 67% instances), <tt><a href="kpv_lattice-dep-root.html">root</a></tt> (51; 10% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (41; 8% instances), <tt><a href="kpv_lattice-dep-xcomp.html">xcomp</a></tt> (13; 3% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (11; 2% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (8; 2% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (6; 1% instances), <tt><a href="kpv_lattice-dep-ccomp.html">ccomp</a></tt> (5; 1% instances), <tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-dep-advmod-tmod.html">advmod:tmod</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-dep-nsubj-cop.html">nsubj:cop</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-dep-obl-tmod.html">obl:tmod</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 8 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (306; 63% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (69; 14% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (53; 11% instances),  (51; 10% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `ADJ` nodes belong to 8 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (307; 63% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (69; 14% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (53; 11% instances),  (51; 10% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-301 (62%) `ADJ` nodes are leaves.
+302 (62%) `ADJ` nodes are leaves.
 
 95 (19%) `ADJ` nodes have one child.
 

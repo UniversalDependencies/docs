@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-csubj.html">csubj</a></tt>.
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="la_udante-dep-csubj-cleft.html">csubj:cleft</a></tt>.
 
-126 nodes (0%) are attached to their parents as `csubj:pass`.
+127 nodes (0%) are attached to their parents as `csubj:pass`.
 
-94 instances of `csubj:pass` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.88888888888889.
+94 instances of `csubj:pass` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.8503937007874.
 
-The following 9 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (88; 70% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (12; 10% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (12; 10% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (5; 4% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (89; 70% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (12; 9% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (12; 9% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (5; 4% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,11 +26,11 @@ The following 9 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	Et	et	CCONJ	co	_	3	cc	_	_
 2	sic	sic	ADV	r	PronType=Dem	3	discourse	_	_
 3	patet	pateo	VERB	va2*ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	soli	solus	DET	dpmsd	Case=Dat|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Emp	5	det	_	_
+4	soli	solus	DET	dpmsd	Case=Dat|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Con	5	det	_	_
 5	homini	homo	NOUN	sms3d	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	6	obl:arg	_	_
-6	datum	do	VERB	vp1fr	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	csubj	_	_
-7	fuisse	sum	AUX	va5fr	Aspect=Perf|InflClass=LatAnom|InflClass[noun]=Ind|Tense=Past|VerbForm=Inf	6	aux:pass	_	_
-8	loqui	loquor	VERB	vd3fp	Aspect=Imp|InflClass=LatX|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	6	csubj:pass	_	SpaceAfter=No
+6	datum	do	VERB	vp1fr	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	csubj	_	_
+7	fuisse	sum	AUX	va5fr	Aspect=Perf|InflClass=LatAnom|InflClass[nominal]=Ind|Tense=Past|VerbForm=Inf	6	aux:pass	_	_
+8	loqui	loquor	VERB	vd3fp	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	6	csubj:pass	_	SpaceAfter=No
 9	.	.	PUNCT	Pu	_	3	punct	_	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 5 csubj:pass	color:blue
 1	Sed	sed	CCONJ	co	_	2	cc	_	_
-2	disserendum	dissero	VERB	va3*gvsnn	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	0	root	_	_
+2	disserendum	dissero	VERB	va3*gvsnn	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	0	root	_	_
 3	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
 4	que	qui	PRON	prepnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel	5	nsubj	_	_
 5	maxima	magnus	ADJ	anp1ns	Case=Nom|Degree=Abs|Gender=Neut|InflClass=IndEurO|Number=Plur	2	csubj:pass	_	_

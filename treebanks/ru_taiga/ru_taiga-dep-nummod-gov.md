@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-nummod.html">nummod</a></tt>.
 There are also 1 other language-specific subtypes of `nummod`: <tt><a href="ru_taiga-dep-nummod-entity.html">nummod:entity</a></tt>.
 
-1237 nodes (1%) are attached to their parents as `nummod:gov`.
+1380 nodes (1%) are attached to their parents as `nummod:gov`.
 
-1178 instances of `nummod:gov` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26515763945028.
+1312 instances of `nummod:gov` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27536231884058.
 
-The following 8 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1173; 95% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (32; 3% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1302; 94% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (32; 2% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -70,14 +70,20 @@ The following 8 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nummod:gov	color:blue
-1	За	за	ADP	_	_	3	case	_	_
-2	6	6	NUM	_	NumForm=Digit|NumType=Card	3	nummod:gov	_	_
-3	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
-4	освоено	освоить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
-5	42	42	NUM	_	NumForm=Digit|NumType=Card	6	nummod:gov	_	_
-6	млн.	миллион	NOUN	_	Abbr=Yes	7	nummod:gov	_	_
-7	га	гектар	NOUN	_	Abbr=Yes	4	nsubj:pass	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
+1	А	а	CCONJ	_	_	2	cc	_	_
+2	сынки	сынок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+3	Чайки	Чайка	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	2	nmod	_	_
+4	Да	да	PART	_	_	7	cc	_	_
+5	и	и	PART	_	_	7	advmod	_	_
+6	много	много	NUM	_	Case=Nom|NumForm=Word|NumType=Card	7	nummod:gov	_	_
+7	кого	кто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	3	conj	_	_
+8	из	из	ADP	_	_	10	case	_	_
+9	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	Героев	герой	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+11	Единой	единый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	10	nmod	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

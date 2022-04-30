@@ -16,4 +16,4 @@ expresses a semantic relationship between them.
 - _och_ "and"
 - _eller_ "or"
 - _men_ "but"
-<!-- Interlanguage links updated Pá kvě 14 11:08:19 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:09 CET 2021 -->

@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Mood` co-occurred:
 `PRON` tokens may have the following values of `Mood`:
 
 * `Imp` (10; 100% of non-empty `Mood`): <em>-i, -a, -aːna</em>
-* `EMPTY` (229): <em>i-, a-, =heːb, -an, hoːj, iː-, -ja, =i, ti-, -n</em>
+* `EMPTY` (225): <em>i-, a-, =heːb, -an, hoːj, iː-, -ja, =i, ti-, -n</em>
 
 ### `AUX`
 

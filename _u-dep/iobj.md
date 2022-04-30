@@ -77,4 +77,4 @@ most directly affected object _(patient)._ If possible,
 language-specific documentation should help identify direct and
 indirect objects.
 -->
-<!-- Interlanguage links updated Pá kvě 14 11:09:08 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:56 CET 2021 -->

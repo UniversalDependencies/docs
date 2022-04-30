@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-222 nodes (0%) are attached to their parents as `appos`.
+218 nodes (0%) are attached to their parents as `appos`.
 
-222 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.96396396396396.
+218 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.87614678899083.
 
-The following 31 pairs of parts of speech are connected with `appos`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (72; 32% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (60; 27% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (13; 6% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (12; 5% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (11; 5% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (9; 4% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `appos`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (71; 33% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (60; 28% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (13; 6% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (13; 6% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (11; 5% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (9; 4% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -67,26 +67,22 @@ The following 31 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 11 appos	color:blue
-1	#	#	X	_	_	2	dep	_	AlignBegin=306040|AlignEnd=306278|Gloss=PUNCT
-2	check	check	VERB	_	_	0	root	_	AlignBegin=306278|AlignEnd=306438|Gloss=check
-3	for	for	ADP	_	_	4	case	_	AlignBegin=306438|AlignEnd=306538|Gloss=for
-4	example	example	NOUN	_	_	2	obl:mod	_	AlignBegin=306538|AlignEnd=306955|Gloss=example
-5	{	{	X	_	_	6	dep	_	AlignBegin=306955|AlignEnd=307348|Gloss=PUNCT
-6	Dangote	Dangote	PROPN	_	_	2	obj	_	AlignBegin=306955|AlignEnd=307348|Gloss=Dangote
-7	now	now	ADV	_	_	6	advmod	_	AlignBegin=307348|AlignEnd=307518|Gloss=now
-8	|a	|a	X	_	_	11	dep	_	AlignBegin=307518|AlignEnd=307548|Gloss=PUNCT
-9	di	di	DET	_	Definite=Def|PronType=Art	11	det	_	AlignBegin=307548|AlignEnd=307698|Gloss=DEF.ART
-10	richest	richest	ADJ	_	Degree=Sup	11	amod	_	AlignBegin=307698|AlignEnd=308032|Gloss=rich.SUP
-11	man	man	NOUN	_	_	6	appos	_	AlignBegin=308032|AlignEnd=308203|Gloss=man
-12	for	for	ADP	_	_	13	case	_	AlignBegin=308203|AlignEnd=308357|Gloss=for
-13	Africa	Africa	PROPN	_	_	11	nmod	_	AlignBegin=308357|AlignEnd=308709|Gloss=Africa
-14	}	}	X	_	_	6	dep	_	AlignBegin=308709|AlignEnd=308739|Gloss=PUNCT
-15	//	//	X	_	_	2	dep	_	AlignBegin=308709|AlignEnd=308739|Gloss=PUNCT
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 appos	color:blue
+1	#	#	X	_	_	4	dep	_	AlignBegin=300040|AlignEnd=300520|Gloss=PUNCT
+2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	AlignBegin=300520|AlignEnd=300716|Gloss=NOM.2
+3	guy	guy	NOUN	_	_	2	appos	_	AlignBegin=300716|AlignEnd=301070|Gloss=guy
+4	chop	chop	VERB	_	_	0	root	_	AlignBegin=301070|AlignEnd=301301|Gloss=eat
+5	{	{	X	_	_	7	dep	_	AlignBegin=301331|AlignEnd=301571|Gloss=PUNCT
+6	di	di	DET	_	Definite=Def|PronType=Art	7	det	_	AlignBegin=301331|AlignEnd=301571|Gloss=DEF.ART
+7	bone	bone	NOUN	_	_	4	parataxis	_	AlignBegin=301571|AlignEnd=301821|Gloss=bone
+8	|a	|a	X	_	_	9	dep	_	AlignBegin=301821|AlignEnd=301851|Gloss=PUNCT
+9	everyting	everyting	PRON	_	_	7	appos	_	AlignBegin=301851|AlignEnd=302590|Gloss=everything
+10	}	}	X	_	_	7	dep	_	AlignBegin=302620|AlignEnd=303240|Gloss=PUNCT
+11	//	//	X	_	_	4	dep	_	AlignBegin=302620|AlignEnd=303240|Gloss=PUNCT
 
 ~~~
 

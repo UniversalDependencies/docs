@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal but the values `Appr`, `OrdMult` are language-specific.
 It occurs with 6 different values: `Appr`, `Card`, `Dist`, `Mult`, `Ord`, `OrdMult`.
 
-89 tokens (1%) have a non-empty value of `NumType`.
+91 tokens (1%) have a non-empty value of `NumType`.
 48 types (1%) occur at least once with a non-empty value of `NumType`.
-34 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (61; 1% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+35 lemmas (2%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 5 part-of-speech tags: <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (63; 1% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-61 <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> tokens (97% of all `NUM` tokens) have a non-empty value of `NumType`.
+63 <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> tokens (95% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (53; 87%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (53; 87%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (55; 87%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (55; 87%).
 
 `NUM` tokens may have the following values of `NumType`:
 
 * `Appr` (1; 2% of non-empty `NumType`): <em>Нёль-ӧ-вит</em>
-* `Card` (57; 93% of non-empty `NumType`): <em>кык, ӧти, ветымынъяс, дас, комын, 12-20, 16, 18, 1940, 29</em>
+* `Card` (59; 94% of non-empty `NumType`): <em>кык, ӧти, дас, ветымынъяс, комын, куим, 12-20, 16, 18, 1940</em>
 * `Dist` (2; 3% of non-empty `NumType`): <em>Нёльӧнӧс, кыкӧныдлы</em>
 * `Ord` (1; 2% of non-empty `NumType`): <em>Кызьӧд</em>
-* `EMPTY` (2): <em>Ӧтнам, ӧтнад</em>
+* `EMPTY` (3): <em>кык, Ӧтнам, ӧтнад</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (23) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (24) occur only with one value of `NumType`.
 
 ### `ADV`
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Dist` (3; 23% of non-empty `NumType`): <em>кыкӧныс, Унаӧнӧсь, быдсӧн</em>
 * `Mult` (8; 62% of non-empty `NumType`): <em>унаысь, ӧтчыд, Гоз-мӧдысь, выльысь, кыкысь, мӧдысь</em>
 * `OrdMult` (2; 15% of non-empty `NumType`): <em>гоз-мӧдысь, мӧдысь</em>
-* `EMPTY` (859): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
+* `EMPTY` (861): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
 
 <table>
   <tr><th>Paradigm <i>гоз-мӧдысь</i></th><th><tt>Mult</tt></th><th><tt>OrdMult</tt></th></tr>
@@ -70,7 +70,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 * `Card` (3; 50% of non-empty `NumType`): <em>ӧтияс, ӧти</em>
 * `Ord` (3; 50% of non-empty `NumType`): <em>Мӧдыс, мӧд, мӧдыслы</em>
-* `EMPTY` (525): <em>сійӧ, тайӧ, ме, сы, мый, ми, сійӧс, найӧ, тэ, быд</em>
+* `EMPTY` (529): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
 
 ### `ADJ`
 
@@ -81,7 +81,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>татшӧм</em>
-* `EMPTY` (487): <em>ыджыд, кодь, важ, бур, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
+* `EMPTY` (488): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
 
 ## Relations with Agreement in `NumType`
 

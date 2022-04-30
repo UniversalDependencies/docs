@@ -29,7 +29,7 @@ The following 32 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	obj	_	_
 6	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 7	'	'	PUNCT	Punct	_	8	punct	_	SpaceAfter=No
-8	fhios	fios	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	fhios	fios	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
 9	agam	ag	ADP	Prep	Number=Sing|Person=1	6	obl:prep	_	_
 10	gur	gur	PART	Vb	PartType=Vb|Tense=Past	11	mark:prt	_	_
 11	thuig	tuig	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	6	ccomp	_	_
@@ -37,7 +37,7 @@ The following 32 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 13	sin	sin	PRON	Dem	PronType=Dem	11	obj	_	_
 14	i	i	ADP	Simp	_	16	case	_	_
 15	do	do	DET	Det	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
-16	chroí	croí	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+16	chroí	croí	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -77,7 +77,7 @@ The following 32 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	Dúirt	abair	VERB	VTI	Mood=Ind|Tense=Past	0	root	_	_
 2	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	nach	is	AUX	Cop	Polarity=Neg|Tense=Pres|VerbForm=Cop	4	cop	_	_
-4	múinteoir	múinteoir	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	ccomp	_	_
+4	múinteoir	múinteoir	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	_
 5	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	_	_
 

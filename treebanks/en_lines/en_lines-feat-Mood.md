@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (119; 2% of non-empty `Mood`): <em>let, look, see, Come, Note, click, Imagine, have, make, remember</em>
 * `Ind` (4960; 98% of non-empty `Mood`): <em>said, was, had, is, came, seemed, looked, went, made, know</em>
 * `Sub` (4; 0% of non-empty `Mood`): <em>were, get, post</em>
-* `EMPTY` (6025): <em>see, going, know, do, make, come, go, have, get, say</em>
+* `EMPTY` (6027): <em>see, going, know, do, make, come, go, have, get, say</em>
 
 <table>
   <tr><th>Paradigm <i>get</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -48,7 +48,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Imp` (14; 0% of non-empty `Mood`): <em>do, be</em>
 * `Ind` (3354; 99% of non-empty `Mood`): <em>was, had, is, are, were, have, 's, did, do, has</em>
 * `Sub` (12; 0% of non-empty `Mood`): <em>be, were</em>
-* `EMPTY` (1786): <em>be, can, would, been, could, will, must, should, being, 'll</em>
+* `EMPTY` (1785): <em>be, can, would, been, could, will, must, should, being, 'll</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -66,6 +66,7 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (671; 67%),
 <tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 60%),
 <tt>VERB --[<tt><a href="en_lines-dep-csubj.html">csubj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<tt><a href="en_lines-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (2; 67%),
 <tt>AUX --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<tt><a href="en_lines-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).
 

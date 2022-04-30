@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-139 tokens (0%) have a non-empty value of `Connegative`.
-72 types (1%) occur at least once with a non-empty value of `Connegative`.
-70 lemmas (1%) occur at least once with a non-empty value of `Connegative`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (138; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+317 tokens (0%) have a non-empty value of `Connegative`.
+126 types (1%) occur at least once with a non-empty value of `Connegative`.
+119 lemmas (1%) occur at least once with a non-empty value of `Connegative`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (316; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-138 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Connegative`.
+316 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (138; 100%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (137; 99%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (74; 54%).
+The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (316; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (316; 100%), <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (316; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (316; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (316; 100%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (316; 100%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (316; 100%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (314; 99%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (314; 99%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (175; 55%).
 
 `VERB` tokens may have the following values of `Connegative`:
 
-* `Yes` (138; 100% of non-empty `Connegative`): <em>գիտեր, կրնար, ուզեր, մեռնիր, երթար, սպասեր, տար, անդրադառնար, առներ, գտներ</em>
+* `Yes` (316; 100% of non-empty `Connegative`): <em>գիտեր, կրնար, ուզեր, յիշեր, ըներ, ունենար, ըլլար, հասկնար, ճանչնար, սիրեր</em>
 
-`Connegative` seems to be **lexical feature** of `VERB`. 100% lemmas (70) occur only with one value of `Connegative`.
+`Connegative` seems to be **lexical feature** of `VERB`. 100% lemmas (119) occur only with one value of `Connegative`.
 
 ### `AUX`
 
@@ -39,5 +39,5 @@ The most frequent other feature values with which `AUX` and `Connegative` co-occ
 ## Relations with Agreement in `Connegative`
 
 The 10 most frequent relations where parent and child node agree in `Connegative`:
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%).
 

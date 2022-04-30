@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (39; 100% of non-empty `Polarity`): <em>keine, kein, keinen</em>
-* `EMPTY` (1670): <em>bir, dem, die, der, ein, o, eine, das, her, den</em>
+* `EMPTY` (1665): <em>bir, dem, die, der, ein, o, eine, das, den, her</em>
 
 ### `PRON`
 

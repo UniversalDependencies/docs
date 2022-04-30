@@ -23,10 +23,10 @@ The following 24 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 5 obj	color:blue
 1	Ar	ar	ADP	Simp	_	2	case	_	_
-2	gcúl	cúl	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+2	gcúl	cúl	NOUN	Noun	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 3	,	,	PUNCT	Punct	_	2	punct	_	_
 4	taispeántar	taispeáin	VERB	VT	Mood=Ind|Person=0|Tense=Pres	0	root	_	_
-5	slua	slua	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	obj	_	_
+5	slua	slua	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
 6	ag	ag	ADP	Simp	_	7	case	_	_
 7	iarraidh	iarraidh	NOUN	Noun	VerbForm=Vnoun	4	xcomp	_	_
 8	brú	brú	NOUN	Noun	VerbForm=Inf	7	xcomp	_	_
@@ -43,13 +43,13 @@ The following 24 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 3 obj	color:blue
 1	Caithfidh	caith	VERB	VTI	Mood=Ind|Tense=Fut	0	root	_	_
-2	foirne	foireann	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Plur	5	nsubj	_	_
-3	úsáid	úsáid	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	5	obj	_	_
+2	foirne	foireann	NOUN	Noun	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	úsáid	úsáid	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	5	obj	_	_
 4	a	a	PART	Inf	PartType=Inf	5	mark	_	_
 5	bhaint	baint	NOUN	Noun	Form=Len|VerbForm=Inf	1	xcomp	_	_
 6	as	as	ADP	Simp	_	8	case	_	_
 7	na	an	DET	Art	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	huimhreacha	uimhir	NOUN	Noun	Case=NomAcc|Definite=Def|Form=HPref|Gender=Fem|Number=Plur	5	obl	_	_
+8	huimhreacha	uimhir	NOUN	Noun	Case=Nom|Definite=Def|Form=HPref|Gender=Fem|Number=Plur	5	obl	_	_
 9	4-15	4-15	NUM	Num	_	8	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -65,12 +65,12 @@ The following 24 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	nobilis	nobilis	X	Foreign	Foreign=Yes	0	root	_	SpaceAfter=No
 2	)	)	PUNCT	Punct	_	4	punct	_	SpaceAfter=No
 3	,	,	PUNCT	Punct	_	4	punct	_	_
-4	gaol	gaol	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	parataxis	_	_
+4	gaol	gaol	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
 5	leis	le	ADP	Prep	Gender=Masc|Number=Sing|Person=3	4	obl:prep	_	_
 6	a	a	PART	Vb	Form=Direct|PartType=Vb|PronType=Rel	7	obj	_	_
 7	fhaightear	faigh	VERB	VT	Form=Len|Mood=Ind|Person=0|Tense=Pres	4	acl:relcl	_	_
 8	sa	i	ADP	Art	Number=Sing|PronType=Art	9	case	_	_
-9	Mheánmhuir	Meánmhuir	PROPN	Noun	Case=NomAcc|Definite=Def|Form=Len|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+9	Mheánmhuir	Meánmhuir	PROPN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~

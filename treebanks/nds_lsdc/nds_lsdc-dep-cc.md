@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-47 nodes (4%) are attached to their parents as `cc`.
+99 nodes (4%) are attached to their parents as `cc`.
 
-47 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.70212765957447.
+99 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.73737373737374.
 
-The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (36; 77% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (5; 11% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (3; 6% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (2; 4% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (69; 70% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (10; 10% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (8; 8% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,106 +22,71 @@ The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="n
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
-1	Hee	hee	PRON	_	_	2	nsubj	_	lemma[gml]=hê¹
-2	vorwündert	vorwunderen	VERB	_	_	0	root	_	lemma[gml]=vorwunderen
-3	sik	sik	PRON	_	_	2	expl	_	lemma[gml]=sik¹
+1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=hê¹
+2	vorwündert	vorwunderen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	lemma[gml]=vorwunderen
+3	sik	sik	PRON	_	Case=Acc,Dat|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	lemma[gml]=sik¹
 4	un	un	CCONJ	_	_	5	cc	_	lemma[gml]=unde²
-5	vrågt	vrågen	VERB	_	_	2	conj	_	lemma[gml]=vrâgen
-6	den	de	DET	_	_	7	det	_	lemma[gml]=dê¹
-7	waerd	waerd	NOUN	_	_	5	iobj	_	lemma[gml]=wērt¹|SpaceAfter=No
+5	vrågt	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	lemma[gml]=vrâgen
+6	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma[gml]=dê¹
+7	waerd	waerd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	iobj	_	lemma[gml]=wērt¹|SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
-9	hwat	wat	PRON	_	_	11	obj	_	lemma[gml]=wat(te)³
-10	dat	dat	PRON	_	_	11	nsubj	_	lemma[gml]=dat²
-11	bedüdde	bedüden	VERB	_	_	5	ccomp	_	lemma[gml]=bedü̂den|SpaceAfter=No
+9	hwat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	11	obj	_	lemma[gml]=wat(te)³
+10	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	lemma[gml]=dat²
+11	bedüdde	bedüden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	lemma[gml]=bedü̂den|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 20 cc	color:blue
-1	De	de	DET	_	_	3	det	_	lemma[gml]=dê¹
-2	gemeynen	gemeyn	ADJ	_	_	3	amod	_	lemma[gml]=gemêⁱne¹
-3	lüde	lüde	NOUN	_	_	8	nsubj	_	lemma[gml]=lü̂de¹
-4	hadden	hebben	AUX	_	_	8	aux	_	lemma[gml]=hebben
-5	em	hee	PRON	_	_	8	obj	_	lemma[gml]=hê¹
-6	swårens	twåren	ADV	_	_	8	advmod	_	lemma[gml]=twâr(en)
-7	immer	immer	ADV	_	_	8	advmod	_	lemma[gml]=iem(m)er
-8	nåsegd	nåseggen	VERB	_	_	0	root	_	lemma[gml]=nâseggen|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
-10	hee	hee	PRON	_	_	11	nsubj	_	lemma[gml]=hê¹
-11	miat	meaten	VERB	_	_	8	ccomp	_	lemma[gml]=mēten¹
-12	mid	mid	ADP	_	_	14	case	_	lemma[gml]=mit
-13	valske	valsk	ADJ	_	_	14	amod	_	lemma[gml]=valsch¹
-14	ealen	eale	NOUN	_	_	11	obl	_	lemma[gml]=ēle
-15	un	un	CCONJ	_	_	16	cc	_	lemma[gml]=unde²
-16	hädde	hebben	VERB	_	_	11	conj	_	lemma[gml]=hebben
-17	ouk	ouk	ADV	_	_	16	advmod	_	lemma[gml]=ôk
-18	valsk	valsk	ADJ	_	_	19	amod	_	lemma[gml]=valsch¹
-19	måt	måte	NOUN	_	_	16	obj	_	lemma[gml]=mâte
-20	un	un	CCONJ	_	_	21	cc	_	lemma[gml]=unde²
-21	gewicht	gewichte	NOUN	_	_	19	conj	_	lemma[gml]=gewichte|SpaceAfter=No
-22	;	;	PUNCT	_	_	31	punct	_	_
-23	men	men	CCONJ	_	_	31	cc	_	lemma[gml]=men³
-24	se	see	PRON	_	_	31	nsubj	_	lemma[gml]=sê²
-25	konnen	künnen	AUX	_	_	31	aux	_	lemma[gml]=künnen
-26	em	hee	PRON	_	_	31	obj	_	lemma[gml]=hê¹
-27	doch	doch	ADV	_	_	31	advmod	_	lemma[gml]=doch¹
-28	syn	syn	DET	_	_	29	det	_	lemma[gml]=sîn⁴
-29	liaven	leaven	NOUN	_	_	31	obl	_	lemma[gml]=lēven⁴
-30	nich	nich	PART	_	_	31	advmod	_	lemma[gml]=nicht¹
-31	ankuamen	ankoamen	VERB	_	_	8	conj	_	lemma[gml]=ankōmen|SpaceAfter=No
-32	,	,	PUNCT	_	_	34	punct	_	_
-33	un	un	CCONJ	_	_	34	cc	_	lemma[gml]=unde²
-34	hee	hee	PRON	_	_	35	nsubj	_	lemma[gml]=hê¹
-35	word	werden	AUX	_	_	31	conj	_	lemma[gml]=wērden¹
-36	eynen	eyn	NUM	_	_	35	xcomp	_	lemma[gml]=êⁱn¹
-37	van	van	ADP	_	_	43	case	_	lemma[gml]=van¹
-38	de	de	DET	_	_	43	det	_	lemma[gml]=dê¹
-39	anseenliksten	anseenlik	ADJ	_	_	43	amod	_	lemma[gml]=ansênlĩk
-40	un	un	CCONJ	_	_	42	cc	_	lemma[gml]=unde²
-41	de	de	DET	_	_	43	det	_	lemma[gml]=dê¹
-42	ryksten	ryke	ADJ	_	_	39	conj	_	lemma[gml]=rîke²
-43	kråmers	kråmer	NOUN	_	_	36	obl	_	lemma[gml]=krâmêr(e)
-44	in	in	ADP	_	_	46	case	_	lemma[gml]=in²
-45	de	de	DET	_	_	46	det	_	lemma[gml]=dê¹
-46	stad	stad	NOUN	_	_	43	obl	_	lemma[gml]=stat⁴|SpaceAfter=No
-47	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 cc	color:blue
+1	Beaden	beaden	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	lemma[gml]=bēden(t)
+2	un	un	CCONJ	_	_	3	cc	_	lemma[gml]=unde²
+3	vlöken	vloken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	lemma[gml]=vlôken(t)
+4	wesselde	wesselen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=wes(se)len
+5	mid	mid	ADP	_	AdpType=Prep	6	case	_	lemma[gml]=mit
+6	enander	enander	PRON	_	Case=Acc,Dat|PronType=Rcp	4	obl	_	lemma[gml]=êⁱnander
+7	af	af	ADV	_	_	4	compound	_	lemma[gml]=af²|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 16 cc	color:blue
-1	Et	et	PRON	_	_	2	expl	_	lemma[gml]=et¹
-2	hevt	hebben	VERB	_	_	0	root	_	lemma[gml]=hebben
-3	nu	nu	ADV	_	_	2	advmod	_	lemma[gml]=nû¹
-4	gans	gans	ADV	_	_	7	advmod	_	lemma[gml]=gans¹
-5	en	un	CCONJ	_	_	6	cc	_	lemma[gml]=unde²
-6	gaar	gaar	ADV	_	_	4	conj	_	lemma[gml]=gār²
-7	gin	geyn	DET	_	_	8	det	_	lemma[gml]=gêⁱn²
-8	fatsuun	fatsuun	NOUN	_	_	2	obj	_	lemma[gml]=fatsûn|SpaceAfter=No
-9	,	,	PUNCT	_	_	19	punct	_	_
-10	dat	dat	SCONJ	_	_	19	mark	_	lemma[gml]=dat²
-11	jy	jy	PRON	_	_	19	nsubj	_	lemma[gml]=gî²
-12	myn	myn	DET	_	_	13	det	_	lemma[gml]=mîn²
-13	leevde	leevde	NOUN	_	_	19	obj	_	lemma[gml]=lêfte
-14	sou	sou	ADV	_	_	15	advmod	_	lemma[gml]=sô²
-15	kold	kold	ADJ	_	_	19	advmod	_	lemma[gml]=kōlt
-16	en	un	CCONJ	_	_	18	cc	_	lemma[gml]=unde²
-17	sou	sou	ADV	_	_	18	advmod	_	lemma[gml]=sô²
-18	vorwerd	vorwerren	ADJ	_	_	15	conj	_	lemma[gml]=vorwerren
-19	handelen	handelen	VERB	_	_	2	ccomp	_	lemma[gml]=handelen
-20	blyvet	blyven	VERB	_	_	19	xcomp	_	lemma[gml]=blîven|SpaceAfter=No
-21	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 11 cc	color:blue
+1	Vertelsel	vortelsel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	van	van	ADP	_	AdpType=Prep	4	case	_	lemma[gml]=van¹
+3	nen	en	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Case[regional]=Acc|lemma[gml]=êⁱn¹
+4	buur	buur	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	Case[regional]=Acc|lemma[gml]=bûr¹|SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	den	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	Case[regional]=Acc|lemma[gml]=dê¹
+7	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	lemma[gml]=et²
+8	harde	hard	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	lemma[gml]=hart¹
+9	werken	werken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nmod	_	lemma[gml]=werken¹
+10	möde	möde	ADJ	_	Degree=Pos	4	acl	_	lemma[gml]=mö̂de¹
+11	en	un	CCONJ	_	_	15	cc	_	lemma[gml]=unde²
+12	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	lemma[gml]=et²
+13	pap	pap	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	lemma[gml]=pap¹
+14	etten	eaten	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	nmod	_	lemma[gml]=ēten
+15	sat	sat	ADJ	_	Degree=Pos	10	conj	_	lemma[gml]=sat¹
+16	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	lemma[gml]=wēsen²|SpaceAfter=No
+17	,	,	PUNCT	_	_	23	punct	_	_
+18	en	un	CCONJ	_	_	23	cc	_	lemma[gml]=unde²
+19	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	obj	_	lemma[gml]=et¹
+20	in	in	ADP	_	AdpType=Prep	22	case	_	lemma[gml]=in²
+21	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	Case[regional]=Acc|lemma[gml]=dê¹
+22	stad	stad	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	23	obl	_	Case[regional]=Acc|lemma[gml]=stat⁴
+23	güng	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	conj	_	lemma[gml]=gân
+24	söken	söken	VERB	_	VerbForm=Inf	23	xcomp	_	lemma[gml]=sö̂ken|SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

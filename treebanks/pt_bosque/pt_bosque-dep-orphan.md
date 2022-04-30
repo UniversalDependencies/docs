@@ -62,7 +62,7 @@ The following 10 pairs of parts of speech are connected with `orphan`: <tt><a hr
 5	%	%	SYM	_	_	3	obj	_	_
 6	para	para	ADP	_	_	7	case	_	_
 7	US$	US$	SYM	_	_	3	obl	_	_
-8	51	51	NUM	_	NumType=Card	7	nummod	_	MWE=51_milhões
+8	51	51	NUM	_	NumType=Card	7	nummod	_	_
 9	milhões	milhão	NUM	_	NumType=Card	8	flat	_	_
 10	e	e	CCONJ	_	_	3	cc	_	_
 11	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
@@ -73,7 +73,7 @@ The following 10 pairs of parts of speech are connected with `orphan`: <tt><a hr
 16	,	,	PUNCT	_	_	15	punct	_	_
 17	para	para	ADP	_	_	18	case	_	_
 18	US$	US$	SYM	_	_	12	orphan	_	_
-19	776	776	NUM	_	NumType=Card	18	nummod	_	MWE=776_milhões
+19	776	776	NUM	_	NumType=Card	18	nummod	_	_
 20	milhões	milhão	NUM	_	NumType=Card	19	flat	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
 

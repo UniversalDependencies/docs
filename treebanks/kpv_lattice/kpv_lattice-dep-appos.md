@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-67 nodes (1%) are attached to their parents as `appos`.
+71 nodes (1%) are attached to their parents as `appos`.
 
-67 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.43283582089552.
+71 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.3943661971831.
 
-The following 17 pairs of parts of speech are connected with `appos`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (30; 45% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `appos`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (32; 45% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -58,20 +58,22 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 appos	color:blue
-1	Том	том	ADJ	A	Case=Nom|Number=Sing	2	amod	_	GTtags=Sg,Nom
-2	гӧтрасьӧмысь	гӧтрасьны	VERB	V	Case=Ela|Number=Sing|VerbForm=Vnoun	0	root	_	GTtags=Refl,Der,Der/ӧм,Der/NomAct,N,Sg,Ela
-3	пӧ	пӧ	ADV	Adv	_	2	advmod:eval	_	GTtags=Parenthetic
-4	абу	абу	AUX	Pcle	Polarity=Neg	2	aux:neg	_	GTtags=Aux,Neg
-5	каета	каета	NOUN	N	Case=Nom|Number=Sing	2	nsubj:cop	_	GTtags=Sg,Nom|SpaceAfter=No
-6	,	,	PUNCT	PUNCT	_	8	punct	_	_
-7	нинӧм	нинӧм	PRON	Pron	Case=Nom|Number=Sing|Polarity=Neg	8	obj	_	GTtags=Neg,Sg,Nom
-8	тужитны	тужитны	VERB	V	Connegative=Yes|Number=Plur|Person=3|Valency=1	5	appos	_	GTtags=IV,ConNeg,Pl3|SpaceAfter=No
-9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 appos	color:blue
+1	Ми	ме	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	GTtags=Pers,Pl1,Nom|SpaceAfter=No
+2	,	,	PUNCT	CLB	_	3	punct	_	_
+3	зонпосни	зонпосни	NOUN	N	Case=Nom|Number=Sing	1	appos	_	GTtags=Sg,Nom|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	3	punct	_	_
+5	туриясӧн	тури	NOUN	N	Case=Ins|Number=Plur	6	obl	_	GTtags=Pl,Ins
+6	вайӧм	вайны	VERB	V	Tense=Past|VerbForm=Part	7	acl	_	GTtags=TV,Der,Der/ӧм,PastPtc
+7	шудсӧ	шуд	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Sg,Acc,PxSg3
+8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,Pl1
+9	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	10	det	_	GTtags=Det,Refl,Abs
+10	ног	ног	NOUN	N	Case=Nom|Number=Sing	8	obl	_	GTtags=Sg,Nom|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	8	punct	_	_
 
 ~~~
 

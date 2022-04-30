@@ -7,26 +7,26 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-AnCora: POS Tags: `PART`
 
 There are 1 `PART` lemmas (0%), 1 `PART` types (0%) and 154 `PART` tokens (0%).
-Out of 17 observed tags, the rank of `PART` is: 16 in number of lemmas, 16 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `PART` is: 17 in number of lemmas, 17 in number of types and 16 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>no</em>
 
 The 10 most frequent `PART` types:  <em>no</em>
 
-The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 3640, <tt><a href="es_ancora-pos-PART.html">PART</a></tt> 150, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 3639, <tt><a href="es_ancora-pos-PART.html">PART</a></tt> 150, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 3300, <tt><a href="es_ancora-pos-PART.html">PART</a></tt> 105, <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 3299, <tt><a href="es_ancora-pos-PART.html">PART</a></tt> 105, <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>no</em>
-  * <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 3300: <em>La fuerza se le sale por los poros y <b>no</b> la puede contener .</em>
-  * <tt><a href="es_ancora-pos-PART.html">PART</a></tt> 105: <em>Anunció que , para activar las , el PSOE presentará en breve una proposición <b>no</b> de ley .</em>
+  * <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 3299: <em>La fuerza se le sale por los poros y <b>no</b> la puede contener .</em>
+  * <tt><a href="es_ancora-pos-PART.html">PART</a></tt> 105: <em>Este fue , <b>no</b> obstante , el guión de Bonet en sus orientalistas conciertos de 1999 .</em>
   * <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 1: <em>Castro pasó acompañado de miles de cubanos sin dejar de mirar el edificio americano y bajo las consignas de Cuba sí , yanquis <b>no</b> en los actos de el Día de el Trabajo .</em>
   * <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 1: <em>A el pedir le que precise si el JNE ha descartado de el todo una postergación de la segunda vuelta , Muñoz respondió " <b>no</b> " .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.502240).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.502396).
 
 The 1st highest number of forms (1) was observed with the lemma “No”: <em>No</em>.
 

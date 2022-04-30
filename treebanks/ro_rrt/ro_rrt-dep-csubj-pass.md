@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-csubj.html">csubj</a></tt>.
 
-57 nodes (0%) are attached to their parents as `csubj:pass`.
+58 nodes (0%) are attached to their parents as `csubj:pass`.
 
-56 instances of `csubj:pass` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.84210526315789.
+57 instances of `csubj:pass` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.79310344827586.
 
-The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (49; 86% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (49; 84% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 7 csubj:pass	color:blue
 1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pass	_	_
-2	consideră	considera	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	consideră	considera	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	că	că	SCONJ	Csssp	Polarity=Pos	7	mark	_	_
 4	aceste	acest	DET	Dd3fpr---e	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|Position=Prenom|PronType=Dem	5	det	_	_
 5	modificări	modificare	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	7	nsubj	_	_
@@ -60,36 +60,38 @@ The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 18 csubj:pass	color:blue
-1	Și	și	CCONJ	Crssp	Polarity=Pos	10	cc	_	_
-2	cum	cum	ADV	Rw	PronType=Int,Rel	7	advmod	_	_
-3	războiul	război	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
-4	de-	de	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	5	case	_	SpaceAfter=No
-5	abia	abia	ADV	Rgp	Degree=Pos	7	advmod	_	_
-6	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	7	expl:pv	_	_
-7	terminase	termina	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	10	advcl	_	SpaceAfter=No
-8	,	,	PUNCT	COMMA	_	7	punct	_	_
-9	am	avea	AUX	Va--1	Person=1	10	aux	_	_
-10	socotit	socoti	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-11	că	că	SCONJ	Csssp	Polarity=Pos	16	mark	_	_
-12	n-	nu	PART	Qz-y	Polarity=Neg|Variant=Short	16	advmod	_	SpaceAfter=No
-13	ar	avea	AUX	Va--3	Person=3	16	aux	_	_
-14	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	16	cop	_	_
-15	tocmai	tocmai	ADV	Rgp	Degree=Pos	16	advmod	_	_
-16	nepotrivit	nepotrivit	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	ccomp	_	_
-17	să	să	PART	Qs	Mood=Sub	18	mark	_	_
-18	povestesc	povesti	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	csubj:pass	_	_
-19	"	"	PUNCT	DBLQ	_	20	punct	_	SpaceAfter=No
-20	Întoarcerea	întoarcere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	18	obj	_	_
-21	tatii	tată	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	20	nmod	_	_
-22	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
-23	războiu	războiu	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
-24	"	"	PUNCT	DBLQ	_	20	punct	_	SpaceAfter=No
-25	.	.	PUNCT	PERIOD	_	10	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 11 csubj:pass	color:blue
+1	E	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
+2	știut	ști	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+4	când	când	ADV	Rw	PronType=Int,Rel	3	fixed	_	_
+5	lumea	lume	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
+6	că	că	SCONJ	Csssp	Polarity=Pos	11	mark	_	_
+7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
+8	somn	somn	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	11	obl	_	_
+9	omul	om	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	_
+10	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	liber	liber	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	csubj:pass	_	_
+12	și	și	CCONJ	Crssp	Polarity=Pos	18	cc	_	_
+13	că	că	SCONJ	Csssp	Polarity=Pos	18	mark	_	_
+14	noaptea	noaptea	ADV	Rgp	Degree=Pos	18	advmod	_	_
+15	sufletul	suflet	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	_
+16	omului	om	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	_
+17	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	18	expl:pv	_	_
+18	desparte	despărți	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
+20	trup	trup	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	obl:pmod	_	_
+21	și	și	CCONJ	Crssp	Polarity=Pos	22	cc	_	_
+22	devine	deveni	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	_
+23	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	24	obj	_	_
+24	vrea	vrea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	xcomp	_	SpaceAfter=No
+25	,	,	PUNCT	COMMA	_	26	punct	_	_
+26	infinit	infinit	ADV	Rgp	Degree=Pos	24	conj	_	SpaceAfter=No
+27	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pcm_nsc-dep-obj.html">obj</a></tt>.
 
-113 nodes (0%) are attached to their parents as `obj:lvc`.
+53 nodes (0%) are attached to their parents as `obj:lvc`.
 
-113 instances of `obj:lvc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.56637168141593.
+53 instances of `obj:lvc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.30188679245283.
 
-The following 5 pairs of parts of speech are connected with `obj:lvc`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (83; 73% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (26; 23% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `obj:lvc`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (45; 85% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -38,17 +38,26 @@ The following 5 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 obj:lvc	color:blue
-1	#	#	X	_	_	2	dep	_	AlignBegin=338162|AlignEnd=338386|Gloss=PUNCT
-2	make	make	VERB	_	_	0	root	_	AlignBegin=338386|AlignEnd=338625|Gloss=make
-3	yoursef	yoursef	PRON	_	Case=Acc|Person=2|PronType=Prs|Reflex=Yes	2	obj	_	AlignBegin=338625|AlignEnd=338895|Gloss=ACC.2.REFL
-4	comfortable	comfortable	ADJ	_	_	2	obj:lvc	_	AlignBegin=338895|AlignEnd=339435|Gloss=comfortable
-5	o	o	PART	_	PartType=Disc	4	advmod	_	AlignBegin=339435|AlignEnd=339635|Gloss=EMPH
-6	//	//	X	_	_	2	dep	_	AlignBegin=339635|AlignEnd=339665|Gloss=PUNCT
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 obj:lvc	color:blue
+1	#	#	X	_	_	9	dep	_	AlignBegin=57536|AlignEnd=58100|Gloss=PUNCT
+2	and	and	CCONJ	_	_	9	discourse	_	AlignBegin=58100|AlignEnd=58315|Gloss=and
+3	{	{	X	_	_	4	dep	_	AlignBegin=58315|AlignEnd=58345|Gloss=PUNCT
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	AlignBegin=58345|AlignEnd=58534|Gloss=NOM.SG.1
+5	||	||	X	_	_	6	dep	_	AlignBegin=58534|AlignEnd=58564|Gloss=PUNCT
+6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	reparandum	_	AlignBegin=58564|AlignEnd=58735|Gloss=NOM.SG.1
+7	}	}	X	_	_	4	dep	_	AlignBegin=58735|AlignEnd=58765|Gloss=PUNCT
+8	don't	no	AUX	_	Polarity=Neg	9	aux	_	AlignBegin=58765|AlignEnd=58930|Gloss=NEG|Scrap=Yes
+9	do	do	VERB	_	_	0	root	_	AlignBegin=58930|AlignEnd=59047|Gloss=do
+10	bad	bad	ADJ	_	_	9	obj:lvc	_	AlignBegin=59047|AlignEnd=59270|Gloss=bad
+11	//+	//+	X	_	_	14	dep	_	AlignBegin=59270|AlignEnd=59300|Gloss=PUNCT
+12	#	#	X	_	_	14	dep	_	AlignBegin=59300|AlignEnd=59386|Gloss=PUNCT
+13	for	for	ADP	_	_	14	case	_	AlignBegin=59386|AlignEnd=59456|Gloss=for
+14	school	school	NOUN	_	_	9	obl:arg	_	AlignBegin=59456|AlignEnd=59687|Gloss=school
+15	//	//	X	_	_	9	dep	_	AlignBegin=59687|AlignEnd=59717|Gloss=PUNCT
 
 ~~~
 
@@ -60,12 +69,12 @@ The following 5 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 9	fgColor:white
 # visual-style 9 10 obj:lvc	color:blue
 1	to	to	ADP	_	_	2	case	_	AlignBegin=62052|AlignEnd=62403|Gloss=to
-2	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl:mod	_	AlignBegin=62403|AlignEnd=62754|Gloss=ACC.SG.1
+2	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	dislocated	_	AlignBegin=62403|AlignEnd=62754|Gloss=ACC.SG.1
 3	ma	ma	PART	_	PartType=Disc	2	advmod	_	AlignBegin=62754|AlignEnd=63106|Gloss=FOC
 4	<	<	X	_	_	2	dep	_	AlignBegin=63106|AlignEnd=63106|Gloss=PUNCT
 5	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=63106|AlignEnd=63457|Gloss=NOM.SG.1
-6	no	no	PART	_	Polarity=Neg	7	advmod	_	AlignBegin=63457|AlignEnd=63808|Gloss=NEG
-7	ready	ready	ADJ	_	_	0	root	_	AlignBegin=63808|AlignEnd=64159|Gloss=ready
+6	no	no	AUX	_	Polarity=Neg	7	aux	_	AlignBegin=63457|AlignEnd=63808|Gloss=NEG
+7	ready	ready	ADJ	_	_	0	root	_	AlignBegin=63808|AlignEnd=64159|ExtPos=VERB|Gloss=ready
 8	to	to	ADP	_	_	9	mark	_	AlignBegin=64159|AlignEnd=64510|Gloss=to
 9	do	do	VERB	_	_	7	xcomp	_	AlignBegin=64510|AlignEnd=64862|Gloss=do
 10	falla	follow	VERB	_	_	9	obj:lvc	_	AlignBegin=64862|AlignEnd=65213|Gloss=follow

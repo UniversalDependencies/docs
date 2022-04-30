@@ -97,4 +97,4 @@ Another special form that is used in serial verb constructions.
 
 * [gun] ???
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:31 CET 2021 -->

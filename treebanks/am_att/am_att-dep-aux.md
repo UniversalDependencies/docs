@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-319 nodes (3%) are attached to their parents as `aux`.
+315 nodes (3%) are attached to their parents as `aux`.
 
-297 instances of `aux` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.95611285266458.
+296 instances of `aux` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.94603174603175.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (294; 92% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (11; 3% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (297; 94% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (11; 3% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,27 +56,25 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 aux	color:blue
-1	ወደ	ወደ	ADP	ADP	_	2	case	_	Translit=wädä|LTranslit=wädä
-2	ቤተ	ቤተ	NOUN	NOUN	_	3	compound	_	Translit=betä|LTranslit=betä
-3	መጻሕፍት	መጻሕፍት	NOUN	NOUN	_	7	nmod	_	Translit=mäcaħəfətə|LTranslit=mäcaħəfətə
-4	የ	የ	PART	RLP	_	7	mark	_	Translit=jä|LTranslit=jä
-5	እም	እም	PART	IRLP	_	7	mark	_	Translit='əmə|LTranslit='əmə
-6	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	7	nsubj	_	Translit=tə|LTranslit=tə
-7	ሄድ	ሄድ	VERB	VERB	_	13	advcl	_	Translit=hedə|LTranslit=hedə
-8	ከ	ከ	ADP	ADP	_	9	mark	_	Translit=kä|LTranslit=kä
-9	ሆን	ሆን	VERB	VERB	_	7	aux	_	Translit=honə|LTranslit=honə
-10	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	expl	_	Translit='ă|LTranslit='ă
-11	ይህን	ይህን	DET	DET	_	12	det	_	Translit=jəhənə|LTranslit=jəhənə
-12	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	13	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
-13	መልስ	መልስ	VERB	VERB	_	0	root	_	Translit=mäləsə|LTranslit=mäləsə
-14	ል	ል	ADP	ADP	Case=Ben	13	case	_	Translit=lə|LTranslit=lə
-15	ኝ	ኝ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	13	nsubj	_	Translit=ňə|LTranslit=ňə
-16	።	።	PUNCT	PUNCT	_	13	punct	_	Translit=.|LTranslit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 aux	color:blue
+1	ሰነፍ	ሰነፍ	ADJ	ADJ	_	4	ccomp	_	Translit=sänäfə|LTranslit=sänäfə
+2	ን	ን	AUX	AUX	_	1	aux	_	Translit=nə|LTranslit=nə
+3	ኧህ	ኧህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	1	nsubj	_	Translit='ăhə|LTranslit='ăhə
+4	ብል	ብል	VERB	VERB	_	8	ccomp	_	Translit=bələ|LTranslit=bələ
+5	ኧህ	ኧህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	4	expl	_	Translit='ăhə|LTranslit='ăhə
+6	ል	ል	SCONJ	SCONJ	_	8	mark	_	Translit=lə|LTranslit=lə
+7	ት	ት	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Translit=tə|LTranslit=tə
+8	ወቅስ	ወቅስ	VERB	VERB	_	0	root	_	Translit=wäqəsə|LTranslit=wäqəsə
+9	ኧኝ	ኧኝ	PRON	OBJC	Number=Sing|Person=1	8	obj	_	Translit='ăňə|LTranslit='ăňə
+10	ኣል	ኣል	PART	NEG	Polarity=Neg	8	advmod	_	Translit='alə|LTranslit='alə
+11	ት	ት	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	expl	_	Translit=tə|LTranslit=tə
+12	ችል	ችል	AUX	AUX	_	8	aux	_	Translit=čələ|LTranslit=čələ
+13	ም	ም	PART	NCM	_	8	discourse	_	Translit=mə|LTranslit=mə
+14	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

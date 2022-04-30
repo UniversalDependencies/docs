@@ -13,13 +13,13 @@ The 10 most frequent `PART` lemmas: <em>zu, nicht, wohl</em>
 
 The 10 most frequent `PART` types:  <em>zu, nicht, wohl</em>
 
-The 10 most frequent ambiguous lemmas: <em>zu</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 160, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 143, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>nicht</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 86, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>zu</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 163, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 143, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>nicht</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 86, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>zu</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 144, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 143, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>nicht</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 84, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>zu</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 147, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 143, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>nicht</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 84, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>zu</em>
-  * <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 144: <em>Der Stadtstaat entwickelte sich <b>zu</b> der selben Zeit wie Sukhothai .</em>
+  * <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 147: <em>Der Stadtstaat entwickelte sich <b>zu</b> der selben Zeit wie Sukhothai .</em>
   * <tt><a href="de_pud-pos-PART.html">PART</a></tt> 143: <em>Vor diesem Hintergrund ist es sinnvoll , über den Handel <b>zu</b> schimpfen .</em>
   * <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 5: <em>Vielleicht war die Kleiderordnung <b>zu</b> bieder .</em>
   * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2: <em>China wurde besiegt und stimmte 1842 den Vorschriften des Vertrages von Nanking <b>zu</b> .</em>
@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>zu</em> (<tt><a href="de_pud-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.195571).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.195641).
 
 The 1st highest number of forms (1) was observed with the lemma “nicht”: <em>nicht</em>.
 

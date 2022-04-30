@@ -10,9 +10,11 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
   <td><a href="#Pas">Pas</a></td>
+  <td><a href="#DevPass">DevPass</a></td>
   <td><a href="#Ag">Ag</a></td>
   <td><a href="#Rel">Rel</a></td>
   <td><a href="#CCirc">CCirc</a></td>
+  <td><a href="#Hab">Hab</a></td>
   
   
 
@@ -32,9 +34,9 @@ The nominalizer of circumstance can be roughly translated as 'way / place of x'
 </tr>
 </table>
 
-### <a name="Pas">`Pas`</a>: Pasive deverbal
+### <a name="Pas">`Pas`</a>: Pasive 
 
-The deverbal passive
+The passive
 
 #### Examples
 
@@ -44,6 +46,16 @@ The deverbal passive
 </tr>
 </table>
 
+### <a name="DevPass">`DevPass`</a>: Deverbal Pasive
+
+The passive deverbalizer prefix _emi-_ is a nominalizer with passive meaning. It is actually non different than the passive nominalizer suffix _-pɨr_ . 
+
+#### Examples
+
+* _<b>-emi-motar-a</b>&nbsp;_ “wanted thing?”
+  
+</tr>
+</table>
 
 ### <a name="Ag">`Ag`</a>: Agent
 
@@ -77,10 +89,20 @@ The complement of circumstance 'the one who is (in)'
 
 
 
+### <a name="Hab">`Hab`</a>: Habitual
+
+The habitual nominalizer indicates that the subject often does X
+
+#### Examples
+
+* _<b>kaɲem-βor</b>&nbsp;_ “one who often flees”
+
+
+
 ## Diffs
 
 ### Prague Dependency Treebank
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Pá kvě 14 11:08:35 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->

@@ -22,13 +22,13 @@ The following 14 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj	color:blue
-1	Tupã	Tupã	PROPN	propn	_	2	nmod	2:nmod	_
-2	mombeʔu	mombeʔu	NOUN	n	_	3	nsubj	3:nsubj	_
-3	sɨkɨijéʔyma	sɨkɨijé	NOUN	n	Case=Ref|Polarity=Neg	7	xcomp	7:xcomp	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	_
-5	sauwsuβa	auwsuβ	NOUN	n	Case=Ref|Rel=NCont	7	obl	7:obl	_
-6	resé	esé	ADP	posp	Rel=Cont	5	case	5:case	_
-7	seʔõuw	eʔõ	NOUN	n	Rel=NCont	0	root	0:root	_
+1	Tupã	Tupã	PROPN	propn	_	2	nmod	_	_
+2	mombeʔu	mombeʔu	NOUN	n	_	3	nsubj	_	_
+3	sɨkɨijéʔyma	sɨkɨijé	NOUN	n	Case=Ref|Polarity=Neg	7	xcomp	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	sauwsuβa	auwsuβ	NOUN	n	Case=Ref|Rel=NCont	7	obl	_	_
+6	resé	esé	ADP	posp	Rel=Cont	5	case	_	_
+7	seʔõuw	eʔõ	NOUN	n	Rel=NCont	0	root	_	_
 
 ~~~
 
@@ -39,10 +39,10 @@ The following 14 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj	color:blue
-1	Mbaʔepe	mbaʔepe	PRON	pro	PronType=Int	3	nsubj	3:nsubj	_
-2	cristãos	cristão	NOUN	n	Number=Plur	3	nmod	3:nmod	_
-3	jekwapaβa	_	NOUN	n	Case=Ref|Nomzr=Circ	0	root	0:root	_
-4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+1	Mbaʔepe	mbaʔepe	PRON	pro	PronType=Int	3	nsubj	_	_
+2	cristãos	cristão	NOUN	n	Number=Plur	3	nmod	_	_
+3	jekwapaβa	_	NOUN	n	Case=Ref|Nomzr=Circ	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
 
 ~~~
 
@@ -53,11 +53,11 @@ The following 14 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 nsubj	color:blue
-1	Marã	marã	PRON	pro	PronType=Int	2	obj	2:obj	_
-2	eʔipe	ʔi	VERB	vt	Person=3	0	root	0:root	gloss_port=say-Q
-3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nsubj	2:nsubj	_
-4	iʃupé	supé	ADP	posp	Rel=NCont	2	obl	2:obl	_
-5	?	?	PUNCT	punct	_	2	punct	2:punct	_
+1	Marã	marã	PRON	pro	PronType=Int	2	obj	_	_
+2	eʔipe	ʔi	VERB	vt	Person=3	0	root	_	gloss_port=say-Q
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1	2	nsubj	_	_
+4	iʃupé	supé	ADP	posp	Rel=NCont	2	obl	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
 
 ~~~
 

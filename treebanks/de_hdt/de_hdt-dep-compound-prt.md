@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="de_hdt-dep-compound
 20645 nodes (1%) are attached to their parents as `compound:prt`.
 
 19476 instances of `compound:prt` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.73548074594333.
+Average distance between parent and child is 6.87168806006297.
 
 The following 7 pairs of parts of speech are connected with `compound:prt`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (20167; 98% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (247; 1% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (186; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (32; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 

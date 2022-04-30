@@ -43,10 +43,10 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 1	PÁIDÍ	Páidí	PROPN	Noun	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	2	vocative	_	_
 2	Cuir	cuir	VERB	VTI	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3	do	do	DET	Det	Number=Sing|Person=2|Poss=Yes	4	nmod:poss	_	_
-4	lámh	lámh	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	2	obj	_	_
+4	lámh	lámh	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	obj	_	_
 5	thar	thar	ADP	Simp	_	7	case	_	_
 6	mo	mo	DET	Det	Number=Sing|Person=1|Poss=Yes	7	nmod:poss	_	_
-7	ghualainn	gualainn	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Len|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+7	ghualainn	gualainn	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 8	,	,	PUNCT	Punct	_	10	punct	_	_
 9	a	a	PART	Voc	PartType=Voc	10	case:voc	_	_
 10	sheanduine	seanduine	NOUN	Noun	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
@@ -61,7 +61,7 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 vocative	color:blue
-1	Slán	slán	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	0	root	_	_
+1	Slán	slán	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	leat	le	ADP	Prep	Number=Sing|Person=2	1	obl:prep	_	SpaceAfter=No
 3	,	,	PUNCT	Punct	_	5	punct	_	_
 4	a	a	PART	Voc	PartType=Voc	5	case:voc	_	_

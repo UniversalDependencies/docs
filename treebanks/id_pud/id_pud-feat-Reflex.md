@@ -18,10 +18,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="id_pud-pos-PRON.htm
 
 15 <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="id_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="id_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="id_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="id_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="id_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="id_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="id_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (15; 100% of non-empty `Reflex`): <em>diri</em>
-* `EMPTY` (1308): <em>yang, nya, ia, mereka, saya, itu, ini, apa, kami, dia</em>
+* `EMPTY` (1314): <em>yang, nya, ia, mereka, saya, itu, ini, kami, dia, mana</em>
 

@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Fin">Fin</a></td>
   <td><a href="#Inf">Inf</a></td>
   <td><a href="#Part">Part</a></td>
+  <td><a href="#Vnoun">Vnoun</a></td>
 </tr>
 </table>
 
@@ -84,4 +85,18 @@ Perfective verbs form past converb, meaning “having done”.
   stared at me <b>while gripping</b> their guns firmly”
 - _<b>udělavši</b> večeři, zavolala rodinu ke stolu&nbsp;_ “<b>having
   prepared</b> the dinner, she called her family to the table”
-<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->
+
+### <a name="Vnoun">`Vnoun`</a>: verbal noun
+
+Unlike in some other languages, verbal noun is a form strictly distinct from infinitive.
+It is considered a noun derived from a verb. Its UPOS tag is [NOUN]() (not [VERB]())
+and its lemma is the singular nominative form of the verbal noun (not the infinitive of
+the verb). Unlike finite verbs and infinitives, a verbal noun inflects for [Case]()
+and [Number]() (although plural forms are rarely used).
+
+#### Examples
+
+- _nesení_ &nbsp;“carrying”
+- _bytí_ &nbsp;“being”
+
+<!-- Interlanguage links updated St lis 3 20:58:31 CET 2021 -->

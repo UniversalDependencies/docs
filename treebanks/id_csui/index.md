@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Ika Alfina, Jessica Naraiswari Arwidarasti, Muhammad Yudistira Hanifmuti, Arawinda Dinakaramani, Ruli Manurung, Fam Rashel, Andry Luthfi.
 
 Repository: [UD_Indonesian-CSUI](https://github.com/UniversalDependencies/UD_Indonesian-CSUI)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_csui28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_csui29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -30,15 +30,13 @@ Questions, comments?
 General annotation questions (either Indonesian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Indonesian-CSUI/issues).
 If you want to collaborate, please contact [ika&nbsp;•&nbsp;alfina&nbsp;(æt)&nbsp;cs&nbsp;•&nbsp;ui&nbsp;•&nbsp;ac&nbsp;•&nbsp;id].
-Development of the treebank happens outside the UD repository.
-If there are bugs, either the original data source or the conversion procedure must be fixed.
-Do not submit pull requests against the UD repository.
+Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, not checked manually |
-| UPOS | annotated manually in non-UD style, automatically converted to UD |
-| XPOS | annotated manually in non-UD style, automatically converted to UD |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
+| UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| XPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 | Features | assigned by a program, with some manual corrections, but not a full manual verification |
 | Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 
@@ -62,9 +60,9 @@ Other characteristics of the treebank:
 ## Acknowledgments
 
 * The original constituency treebank was built with manual annotation by [Arawinda Dinakaramani, Fam Rashel, Andry Luthfi, and Ruli Manurung](https://github.com/famrashel/idn-treebank) at Faculty of Computer Science, Universitas Indonesia in 2015.
-* The previous treebank was converted to the Penn Treebank format by Ika Alfina and Jessica Naraiswari Arwidarasti at Faculty of Computer Science, Universitas Indonesia in 2019-2020. This PTB version was named [**Kethu**](https://github.com/ialfina/kethu).
-* The Kethu treebank was converted to a UD treebank by Ika Alfina et al. in 2020.
-* The lemma (LEMMA) and morphological features (FEATS) were generated using [Aksara](https://github.com/bahasa-csui/aksara).
+* The previous treebank was converted to the Penn Treebank format by Ika Alfina and Jessica Naraiswari Arwidarasti in 2019-2020. This PTB version was named [**Kethu**](https://github.com/ir-nlp-csui/kethu-id-ptb).
+* The Kethu treebank was converted automatically to this UD treebank by Alfina et al. (2020).
+* The lemma (LEMMA) and morphological features (FEATS) were generated using [Aksara](https://github.com/ir-nlp-csui/aksara) and manually corrected.
 
 ## References
 * Ika Alfina, Indra Budi, and Heru Suhartanto. ["**Tree Rotations for Dependency Trees: Converting the Head-Directionality of Noun Phrases**"](http://www.thescipub.com/abstract/jcssp.2020.1585.1597). In Journal of Computer Science, 2020, Vol 16 No 11.
@@ -79,11 +77,11 @@ Other characteristics of the treebank:
 
 ## Features
 
-[Clusivity](id_csui-feat-Clusivity.html) – [Degree](id_csui-feat-Degree.html) – [Foreign](id_csui-feat-Foreign.html) – [Number](id_csui-feat-Number.html) – [Person](id_csui-feat-Person.html) – [Polarity](id_csui-feat-Polarity.html) – [Poss](id_csui-feat-Poss.html) – [PronType](id_csui-feat-PronType.html) – [Reflex](id_csui-feat-Reflex.html) – [Voice](id_csui-feat-Voice.html)
+[Clusivity](id_csui-feat-Clusivity.html) – [Definite](id_csui-feat-Definite.html) – [Degree](id_csui-feat-Degree.html) – [Foreign](id_csui-feat-Foreign.html) – [Mood](id_csui-feat-Mood.html) – [Number](id_csui-feat-Number.html) – [NumType](id_csui-feat-NumType.html) – [Person](id_csui-feat-Person.html) – [Polarity](id_csui-feat-Polarity.html) – [Polite](id_csui-feat-Polite.html) – [PronType](id_csui-feat-PronType.html) – [Reflex](id_csui-feat-Reflex.html) – [Voice](id_csui-feat-Voice.html)
 
 ## Relations
 
-[acl](id_csui-dep-acl.html) – [acl:relcl](id_csui-dep-acl-relcl.html) – [advcl](id_csui-dep-advcl.html) – [advmod](id_csui-dep-advmod.html) – [advmod:emph](id_csui-dep-advmod-emph.html) – [amod](id_csui-dep-amod.html) – [appos](id_csui-dep-appos.html) – [aux](id_csui-dep-aux.html) – [case](id_csui-dep-case.html) – [case:adv](id_csui-dep-case-adv.html) – [cc](id_csui-dep-cc.html) – [cc:preconj](id_csui-dep-cc-preconj.html) – [ccomp](id_csui-dep-ccomp.html) – [clf](id_csui-dep-clf.html) – [compound:a](id_csui-dep-compound-a.html) – [conj](id_csui-dep-conj.html) – [cop](id_csui-dep-cop.html) – [csubj](id_csui-dep-csubj.html) – [csubj:pass](id_csui-dep-csubj-pass.html) – [det](id_csui-dep-det.html) – [discourse](id_csui-dep-discourse.html) – [dislocated](id_csui-dep-dislocated.html) – [fixed](id_csui-dep-fixed.html) – [flat](id_csui-dep-flat.html) – [flat:foreign](id_csui-dep-flat-foreign.html) – [flat:name](id_csui-dep-flat-name.html) – [iobj](id_csui-dep-iobj.html) – [mark](id_csui-dep-mark.html) – [nmod](id_csui-dep-nmod.html) – [nmod:lmod](id_csui-dep-nmod-lmod.html) – [nmod:poss](id_csui-dep-nmod-poss.html) – [nmod:tmod](id_csui-dep-nmod-tmod.html) – [nsubj](id_csui-dep-nsubj.html) – [nsubj:pass](id_csui-dep-nsubj-pass.html) – [nummod](id_csui-dep-nummod.html) – [obj](id_csui-dep-obj.html) – [obl](id_csui-dep-obl.html) – [obl:agent](id_csui-dep-obl-agent.html) – [obl:tmod](id_csui-dep-obl-tmod.html) – [orphan](id_csui-dep-orphan.html) – [parataxis](id_csui-dep-parataxis.html) – [punct](id_csui-dep-punct.html) – [root](id_csui-dep-root.html) – [xcomp](id_csui-dep-xcomp.html)
+[acl](id_csui-dep-acl.html) – [acl:relcl](id_csui-dep-acl-relcl.html) – [advcl](id_csui-dep-advcl.html) – [advmod](id_csui-dep-advmod.html) – [advmod:emph](id_csui-dep-advmod-emph.html) – [amod](id_csui-dep-amod.html) – [appos](id_csui-dep-appos.html) – [aux](id_csui-dep-aux.html) – [case](id_csui-dep-case.html) – [case:adv](id_csui-dep-case-adv.html) – [cc](id_csui-dep-cc.html) – [cc:preconj](id_csui-dep-cc-preconj.html) – [ccomp](id_csui-dep-ccomp.html) – [clf](id_csui-dep-clf.html) – [compound:a](id_csui-dep-compound-a.html) – [conj](id_csui-dep-conj.html) – [cop](id_csui-dep-cop.html) – [csubj](id_csui-dep-csubj.html) – [dep](id_csui-dep-dep.html) – [det](id_csui-dep-det.html) – [discourse](id_csui-dep-discourse.html) – [dislocated](id_csui-dep-dislocated.html) – [fixed](id_csui-dep-fixed.html) – [flat](id_csui-dep-flat.html) – [flat:foreign](id_csui-dep-flat-foreign.html) – [flat:name](id_csui-dep-flat-name.html) – [iobj](id_csui-dep-iobj.html) – [mark](id_csui-dep-mark.html) – [nmod](id_csui-dep-nmod.html) – [nmod:lmod](id_csui-dep-nmod-lmod.html) – [nmod:poss](id_csui-dep-nmod-poss.html) – [nmod:tmod](id_csui-dep-nmod-tmod.html) – [nsubj](id_csui-dep-nsubj.html) – [nsubj:pass](id_csui-dep-nsubj-pass.html) – [nummod](id_csui-dep-nummod.html) – [obj](id_csui-dep-obj.html) – [obl](id_csui-dep-obl.html) – [obl:agent](id_csui-dep-obl-agent.html) – [obl:tmod](id_csui-dep-obl-tmod.html) – [orphan](id_csui-dep-orphan.html) – [parataxis](id_csui-dep-parataxis.html) – [punct](id_csui-dep-punct.html) – [root](id_csui-dep-root.html) – [xcomp](id_csui-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -93,7 +91,7 @@ Other characteristics of the treebank:
 </ul>
 
 <ul>
-<li>This corpus contains 3922 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 3923 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -122,23 +120,23 @@ Other characteristics of the treebank:
 </ul>
 
 <ul>
-<li>This corpus contains 19 lemmas tagged as pronouns (PRON): anda, apa, begitu, demikian, dia, diri, ia, ini, itu, kami, kita, mana, masing-masing, mereka, nya, saya, sesuatu, siapa, yang</li>
+<li>This corpus contains 18 lemmas tagged as pronouns (PRON): anda, apa, begitu, demikian, dia, diri, ia, ini, itu, kami, kita, mana, mereka, nya, saya, sesuatu, siapa, yang</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as determiners (DET): Seorang, banyak, beberapa, begitu, berbagai, buah, ini, itu, masing-masing, nya, orang, para, sana, sebagian, sebut, sedikit, segala, seluruh, semua, sendiri, setiap, si, suatu</li>
+<li>This corpus contains 22 lemmas tagged as determiners (DET): bagi, banyak, beberapa, berbagai, buah, ini, itu, masing-masing, nya, orang, para, sana, sebut, sedikit, segala, seluruh, semua, sendiri, setiap, si, suatu, yang</li>
 </ul>
 
 <ul>
-<li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: begitu, ini, itu, masing-masing, nya</li>
+<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: ini, itu, nya, yang</li>
 </ul>
 
 <ul>
-<li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): adalah, akan, bakal, bisa, boleh, dapat, harus, ialah, mungkin, perlu, sedang, sudah, telah, tengah</li>
+<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): adalah, akan, bisa, boleh, dapat, harus, ialah, mungkin, sedang, sudah, telah, tengah</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: dapat, perlu</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: dapat</li>
 </ul>
 
 <ul>
@@ -157,6 +155,7 @@ Other characteristics of the treebank:
 <ul>
   <li>Plur
     <ul>
+      <li>DET: beberapa, banyak, para, berbagai</li>
       <li>NOUN: langkah-langkah, negara-negara, bank-bank, syarat-syarat, anak-anak, monyet-monyet, nama-nama, obligasi-obligasi, peringkat-peringkat, perusahaan-perusahaan</li>
       <li>PRON: kita, mereka, kami</li>
     </ul>
@@ -166,15 +165,33 @@ Other characteristics of the treebank:
 <ul>
   <li>Sing
     <ul>
-      <li>DET: sebuah, seorang</li>
       <li>NOUN: persen, Rp, tahun, dolar, sebesar, saham, perusahaan, pemerintah, negara, pertumbuhan</li>
-      <li>PRON: nya, dia, ia, saya, mana, sesuatu, anda</li>
+      <li>PRON: nya, dia, ia, saya, anda</li>
     </ul>
   </li>
 </ul>
 
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: nya, yang</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: sebuah, seorang, suatu</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
@@ -208,6 +225,17 @@ Other characteristics of the treebank:
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>VERB: kata, menjadi, mencapai, mengatakan, ada, meningkat, naik, dibandingkan, lalu, merupakan</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -239,11 +267,26 @@ Other characteristics of the treebank:
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: nya, sebuah, seorang, yang, suatu</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
-      <li>DET: ini, itu, sana</li>
-      <li>NOUN: Demikian</li>
-      <li>PRON: itu, ini, demikian</li>
+      <li>DET: ini, tersebut, itu, si, sana, sebagian</li>
+      <li>PRON: itu, demikian, ini, mana, begitu</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Emp
+    <ul>
+      <li>DET: sendiri</li>
     </ul>
   </li>
 </ul>
@@ -251,7 +294,16 @@ Other characteristics of the treebank:
 <ul>
   <li>Ind
     <ul>
-      <li>DET: sebuah, seorang</li>
+      <li>DET: beberapa, banyak, para, berbagai, sedikit</li>
+      <li>PRON: sesuatu</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: Apa</li>
     </ul>
   </li>
 </ul>
@@ -259,7 +311,7 @@ Other characteristics of the treebank:
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: nya, dia, ia, kita, mereka, saya, kami, diri, anda</li>
+      <li>PRON: nya, dia, kita, ia, mereka, saya, kami, diri, anda</li>
     </ul>
   </li>
 </ul>
@@ -267,7 +319,8 @@ Other characteristics of the treebank:
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: yang</li>
+      <li>ADV: bagaimana</li>
+      <li>PRON: yang, apa, siapa</li>
     </ul>
   </li>
 </ul>
@@ -275,23 +328,32 @@ Other characteristics of the treebank:
 <ul>
   <li>Tot
     <ul>
-      <li>DET: segala</li>
+      <li>DET: seluruh, semua, masing-masing, setiap, segala</li>
+      <li>NUM: Ke-23</li>
     </ul>
   </li>
 </ul>
 
-
 <ul>
-  <li><a>Poss</a></li>
+  <li><a>NumType</a></li>
 </ul>
 
 <ul>
-  <li>Yes
+  <li>Card
     <ul>
-      <li>PRON: nya</li>
+      <li>NUM: 2007, triliun, miliar, 2006, juta, 2008, satu, dua, 30, 10</li>
     </ul>
   </li>
 </ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: pertama, kedua, ketiga, keenam, kedelapan, kelima, ke-10, ke-2, ke-4, ke-40</li>
+    </ul>
+  </li>
+</ul>
+
 
 <ul>
   <li><a>Reflex</a></li>
@@ -333,6 +395,17 @@ Other characteristics of the treebank:
   </li>
 </ul>
 
+<ul>
+  <li><a>Polite</a></li>
+</ul>
+
+<ul>
+  <li>Form
+    <ul>
+      <li>PRON: saya, anda</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -377,7 +450,7 @@ Other characteristics of the treebank:
 </ul>
 
 <ul>
-<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: akan, telah, bisa, dapat, sudah, harus, perlu, sedang, mungkin, tengah, bakal, boleh.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: akan, telah, bisa, dapat, sudah, harus, sedang, mungkin, tengah, boleh.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -386,8 +459,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (706)</li>
-      <li>VERB--PRON (300)</li>
+      <li>VERB--NOUN (687)</li>
+      <li>VERB--PRON (503)</li>
     </ul>
   </li>
 </ul>
@@ -395,8 +468,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (960)</li>
-      <li>VERB--PRON (28)</li>
+      <li>VERB--NOUN (943)</li>
+      <li>VERB--PRON (31)</li>
     </ul>
   </li>
 </ul>
@@ -420,7 +493,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>case:adv</a>, <a>cc:preconj</a>, <a>compound:a</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:lmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>case:adv</a>, <a>cc:preconj</a>, <a>compound:a</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:lmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

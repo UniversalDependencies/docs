@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (11; 100% of non-empty `Foreign`): <em>Towers, n-Og, Bay, From, Horizon, Jubilee, New, Tiger, Trust, World</em>
-* `EMPTY` (1457): <em>Cymru, Nghymru, Gymru, Eryri, Gwynedd, Aberystwyth, Bangor, Jones, Caerdydd, Lloegr</em>
+* `EMPTY` (1580): <em>Cymru, Nghymru, Gymru, Bangor, Eryri, Gwynedd, Aberystwyth, Jones, Lloegr, Caerdydd</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (11) occur only with one value of `Foreign`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>Lady, Nation, irritating</em>
-* `EMPTY` (11124): <em>bod, cael, ôl, iaith, gael, Gymraeg, fod, dod, nifer, cyngor</em>
+* `EMPTY` (12438): <em>bod, cael, ôl, iaith, fod, Gymraeg, gael, dod, nifer, ysgol</em>
 
 ### `DET`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Na, The</em>
-* `EMPTY` (2338): <em>y, 'r, yr, pa, ba, mha, P'</em>
+* `EMPTY` (2589): <em>y, 'r, yr, pa, ba, mha, An, P'</em>
 
 ### `ADJ`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Iron</em>
-* `EMPTY` (2552): <em>newydd, Cymraeg, bob, Gymraeg, mwy, eraill, arall, lleol, pob, cyntaf</em>
+* `EMPTY` (2832): <em>newydd, Cymraeg, bob, Gymraeg, mwy, eraill, lleol, pob, arall, unrhyw</em>
 
 ## Relations with Agreement in `Foreign`
 

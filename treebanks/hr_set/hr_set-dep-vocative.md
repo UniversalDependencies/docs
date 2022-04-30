@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (0%) are attached to their parents as `vocative`.
+23 nodes (0%) are attached to their parents as `vocative`.
 
-13 instances of `vocative` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.45833333333333.
+12 instances of `vocative` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.60869565217391.
 
-The following 10 pairs of parts of speech are connected with `vocative`: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (10; 42% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 10 pairs of parts of speech are connected with `vocative`: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (10; 43% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 9% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2; 9% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 9% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -39,29 +39,53 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 vocative	color:blue
-1	Southeast	Southeast	X	Xf	_	8	parataxis	_	_
-2	European	European	X	Xf	_	1	flat	_	_
-3	Times	Times	X	Xf	_	1	flat	_	SpaceAfter=No
-4	:	:	PUNCT	Z	_	1	punct	_	_
-5	G.	G.	NOUN	Y	_	6	vocative	_	_
-6	predsjedniče	predsjednik	NOUN	Ncmsv	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	SpaceAfter=No
-7	,	,	PUNCT	Z	_	6	punct	_	_
-8	očekujete	očekivati	VERB	Vmr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	li	li	PART	Qq	_	8	mark	_	_
-10	turbulentno	turbulentan	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	11	amod	_	_
-11	razdoblje	razdoblje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
-12	u	u	ADP	Sl	Case=Loc	13	case	_	_
-13	regiji	regija	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	_
-14	nakon	nakon	ADP	Sg	Case=Gen	15	case	_	_
-15	proglašenja	proglašenje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	8	obl	_	_
-16	neovisnosti	neovisnost	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
-17	Kosova	Kosovo	PROPN	Npnsg	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
-18	?	?	PUNCT	Z	_	8	punct	_	_
+# visual-style 34	bgColor:blue
+# visual-style 34	fgColor:white
+# visual-style 33	bgColor:blue
+# visual-style 33	fgColor:white
+# visual-style 33 34 vocative	color:blue
+1	Na	na	ADP	Sa	Case=Acc	4	case	_	_
+2	tu	taj	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+3	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+4	snimku	snimka	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+5	u	u	ADP	Sl	Case=Loc	6	case	_	_
+6	montaži	montaža	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+7	dodan	dodati	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+8	njegov	njegov	DET	Ps3msn	Case=Nom|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	glas	glas	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+10	koji	koji	DET	Pi-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel	11	nsubj	_	_
+11	kaže	kazati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	SpaceAfter=No
+12	:	:	PUNCT	Z	_	25	punct	_	_
+13	Uzoriti	uzorit	ADJ	Agpmsvy	Case=Voc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+14	prvi	prvi	ADJ	Mlomsv	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	ministre	ministar	NOUN	Ncmsv	Case=Voc|Gender=Masc|Number=Sing	25	vocative	_	SpaceAfter=No
+16	,	,	PUNCT	Z	_	15	punct	_	_
+17	Eduardo	Eduardo	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+18	da	da	X	Xf	Foreign=Yes	17	flat	_	_
+19	Silva	Silva	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	17	flat	_	SpaceAfter=No
+20	,	,	PUNCT	Z	_	21	punct	_	_
+21	broj	broj	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	17	appos	_	_
+22	22	22	NUM	Mdc	NumType=Card	21	nummod	_	SpaceAfter=No
+23	,	,	PUNCT	Z	_	21	punct	_	_
+24	najbolje	dobro	ADV	Rgs	Degree=Sup	25	advmod	_	_
+25	zabija	zabijati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	SpaceAfter=No
+26	,	,	PUNCT	Z	_	31	punct	_	_
+27	na	na	ADP	Sa	Case=Acc	28	case	_	_
+28	što	što	PRON	Pi3n-a	Case=Acc|Gender=Neut|PronType=Int,Rel	31	obj	_	_
+29	premijer	premijer	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	_
+30	Sanader	Sanader	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	29	flat	_	_
+31	odgovara	odgovarati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+32	:	:	PUNCT	Z	_	36	punct	_	_
+33	Gospodine	gospodin	NOUN	Ncmsv	Case=Voc|Gender=Masc|Number=Sing	36	vocative	_	_
+34	zastupniče	zastupnik	NOUN	Ncmsv	Case=Voc|Gender=Masc|Number=Sing	33	vocative	_	SpaceAfter=No
+35	,	,	PUNCT	Z	_	33	punct	_	_
+36	točno	točno	ADJ	Agpnsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	31	parataxis	_	_
+37	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
+38	ovo	ovaj	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	36	nsubj	_	_
+39	što	što	PRON	Pi3n-a	Case=Acc|Gender=Neut|PronType=Int,Rel	41	obj	_	_
+40	ste	biti	AUX	Var2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	41	aux	_	_
+41	kazali	kazati	VERB	Vmp-pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	38	acl	_	SpaceAfter=No
+42	.	.	PUNCT	Z	_	7	punct	_	_
 
 ~~~
 

@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 3	quis	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	imediatamente	imediatamente	ADV	_	_	9	advmod	_	_
-6	atrás	atrás	ADV	_	_	3	advmod	_	MWE=atrás_de
+6	atrás	atrás	ADV	_	_	3	advmod	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	muro	muro	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_

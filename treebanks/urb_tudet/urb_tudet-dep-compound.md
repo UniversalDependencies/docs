@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound	color:blue
-1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	2:obj	_
-2	ujan	jan	VERB	vi	Person=3	0	root	0:root	_
-3	oho	ho	VERB	vi	Person=3	2	compound	2:compound	_
+1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	_	_
+2	ujan	jan	VERB	vi	Person=3	0	root	_	_
+3	oho	ho	VERB	vi	Person=3	2	compound	_	_
 
 ~~~
 

@@ -32,4 +32,4 @@ Note that "Confissões de Adolescente" and "ministro da Fazenda" are
 multi word expressions and therefore "de Adolescente" and "da Fazenda"
 are part of the mwe token in the current version of Portuguese corpus,
 so they do not hold the `amod` relation.
-<!-- Interlanguage links updated Pá kvě 14 11:08:50 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:38 CET 2021 -->

@@ -22,10 +22,10 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	இந்த	இந்த	DET	_	_	2	det	2:det	Translit=inta|LTranslit=inta
-2	புத்தகத்தைக்	புத்தகம்	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	3	obj	3:obj	Translit=puttakattaik|LTranslit=puttakam
-3	கொடுங்கள்	கொடு	VERB	_	Animacy=Anim|Gender=Com|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=koṭuṅkaḷ|LTranslit=koṭu
-4	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+1	இந்த	இந்த	DET	_	_	2	det	_	Translit=inta|LTranslit=inta
+2	புத்தகத்தைக்	புத்தகம்	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	3	obj	_	Translit=puttakattaik|LTranslit=puttakam
+3	கொடுங்கள்	கொடு	VERB	_	Animacy=Anim|Gender=Com|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	Translit=koṭuṅkaḷ|LTranslit=koṭu
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -36,10 +36,10 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	இந்த	இந்த	DET	_	_	2	det	2:det	Translit=inta|LTranslit=inta
-2	நல்ல	நல்ல	ADJ	_	_	3	amod	3:amod	Translit=nalla|LTranslit=nalla
-3	பையன்	பையன்	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	0:root	Translit=paiyaṉ|LTranslit=paiyaṉ
-4	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+1	இந்த	இந்த	DET	_	_	2	det	_	Translit=inta|LTranslit=inta
+2	நல்ல	நல்ல	ADJ	_	_	3	amod	_	Translit=nalla|LTranslit=nalla
+3	பையன்	பையன்	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	Translit=paiyaṉ|LTranslit=paiyaṉ
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -50,13 +50,13 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	*இந்த	இந்த	DET	_	_	2	det	2:det	Translit=inta|LTranslit=inta*discuss
-2	இரண்டு	இரண்டு	NUM	_	NumType=Card	3	nummod	3:nummod	Translit=iraṇṭu|LTranslit=iraṇṭu
-3	மாணவர்களும்	மாணவர்	NOUN	_	Case=Nom|Number=Plur	6	nsubj	6:nsubj	Translit=māṇavarkaḷum|LTranslit=māṇavar
-4	ஒரு	ஒன்று	NUM	_	_	5	nummod	5:nummod	Translit=oru|LTranslit=oṉṟu
-5	அறையில்	அறை	NOUN	_	Case=Loc|Number=Sing|Person=3	6	obl:lmod	6:obl:lmod	Translit=aṟaiyil|LTranslit=aṟai
-6	தங்குகிறார்கள்	தங்கு	VERB	_	Gender=Com|Number=Plur|Person=3|Tense=Pres	0	root	0:root	Translit=taṅkukiṟārkaḷ|LTranslit=taṅku
-7	.	.	PUNCT	_	PunctType=Peri	6	punct	6:punct	Translit=.|LTranslit=.
+1	*இந்த	இந்த	DET	_	_	2	det	_	Translit=inta|LTranslit=inta*discuss
+2	இரண்டு	இரண்டு	NUM	_	NumType=Card	3	nummod	_	Translit=iraṇṭu|LTranslit=iraṇṭu
+3	மாணவர்களும்	மாணவர்	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	Translit=māṇavarkaḷum|LTranslit=māṇavar
+4	ஒரு	ஒன்று	NUM	_	_	5	nummod	_	Translit=oru|LTranslit=oṉṟu
+5	அறையில்	அறை	NOUN	_	Case=Loc|Number=Sing|Person=3	6	obl:lmod	_	Translit=aṟaiyil|LTranslit=aṟai
+6	தங்குகிறார்கள்	தங்கு	VERB	_	Gender=Com|Number=Plur|Person=3|Tense=Pres	0	root	_	Translit=taṅkukiṟārkaḷ|LTranslit=taṅku
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

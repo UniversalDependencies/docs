@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-479 nodes (1%) are attached to their parents as `xcomp`.
+1467 nodes (2%) are attached to their parents as `xcomp`.
 
-282 instances of `xcomp` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.36534446764092.
+911 instances of `xcomp` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.35241990456714.
 
-The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (247; 52% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (106; 22% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (79; 16% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (27; 6% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (791; 54% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (302; 21% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (253; 17% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (64; 4% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,11 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 xcomp	color:blue
-1	Աչքերը	աչք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	2	nsubj	_	Translit=Ačk’erë|LTranslit=ačk’
-2	սկսան	սկսիլ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=sksan|LTranslit=sksil
-3	շողալ	շողալ	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	2	xcomp	_	Translit=šoġal|LTranslit=šoġal|SpaceAfter=No
-4	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+1	Եւ	եւ	CCONJ	_	_	2	cc	_	Translit=EW|LTranslit=ew
+2	որոշեցիր	որոշել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=orošec’ir|LTranslit=orošel
+3	փախչիլ	փախչիլ	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	2	xcomp	_	Translit=p’axčil|LTranslit=p’axčil
+4	հոնկէ	հոնկէ	ADV	_	Deixis=Remt|PronType=Dem	3	advmod	_	Translit=honkē|LTranslit=honkē|SpaceAfter=No
+5	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -54,19 +55,21 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 xcomp	color:blue
-1	Ժամանակ	ժամանակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	obl	_	Translit=Žamanak|LTranslit=žamanak
-2	մը	մը	DET	_	PronType=Art	1	det	_	Translit=më|LTranslit=më
-3	մտախոհ	մտախոհ	ADJ	_	Degree=Pos	6	xcomp	_	Translit=mtaxoh|LTranslit=mtaxoh|SpaceAfter=No
-4	՝	՝	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
-5	շուկայ	շուկայ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	obl	_	Translit=šowkay|LTranslit=šowkay
-6	գնաց	երթալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=gnac’|LTranslit=ert’al
-7	եկաւ	գալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	6	compound:svc	_	Translit=ekaw|LTranslit=gal|SpaceAfter=No
-8	:	:	PUNCT	_	Foreign=Yes	6	punct	_	Translit=.|LTranslit=.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 xcomp	color:blue
+1	—	—	PUNCT	_	_	2	punct	_	Translit=—|LTranslit=—
+2	Հարկ	հարկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	0	root	_	Translit=Hark|LTranslit=hark
+3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=ē|LTranslit=em
+4	կրթել	կրթել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	2	csubj	_	Translit=krt’el|LTranslit=krt’el
+5	գայլերը	գայլ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	4	obj	_	Translit=gaylerë|LTranslit=gayl
+6	եւ	եւ	CCONJ	_	_	8	cc	_	Translit=ew|LTranslit=ew
+7	խոտաճարակ	խոտաճարակ	ADJ	_	_	8	xcomp	_	Translit=xotač̣arak|LTranslit=xotač̣arak
+8	դարձնել	դարձնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	4	conj	_	Translit=darjnel|LTranslit=darjnel
+9	զանոնք	ան	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	Translit=zanonk’|LTranslit=an|SpaceAfter=No
+10	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

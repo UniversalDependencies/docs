@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Irish-IDT: POS Tags: `ADJ`
 
-There are 1298 `ADJ` lemmas (13%), 1804 `ADJ` types (11%) and 6518 `ADJ` tokens (6%).
+There are 1297 `ADJ` lemmas (13%), 1804 `ADJ` types (11%) and 6518 `ADJ` tokens (6%).
 Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>mór, maith, amháin, nua, beag, áirithe, áitiúil, náisiúnta, céanna, éagsúil</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>maith</em> (<tt><a href="ga_idt-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.389831 (the average of all parts of speech is 1.643740).
+The form / lemma ratio of `ADJ` is 1.390902 (the average of all parts of speech is 1.643911).
 
 The 1st highest number of forms (10) was observed with the lemma “mór”: <em>Móir, Móire, mhó, mhóir, mhór, mhóra, mó, móide, mór, móra</em>.
 
@@ -59,9 +59,9 @@ The 2nd highest number of forms (9) was observed with the lemma “beag”: <em>
 
 The 3rd highest number of forms (7) was observed with the lemma “digiteach”: <em>Dhigiteach, dhigiteacha, dhigitigh, dhitigeacha, digiteach, digiteacha, digití</em>.
 
-`ADJ` occurs with 10 features: <tt><a href="ga_idt-feat-Number.html">Number</a></tt> (3462; 53% instances), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt> (3452; 53% instances), <tt><a href="ga_idt-feat-Case.html">Case</a></tt> (3432; 53% instances), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt> (2110; 32% instances), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt> (1054; 16% instances), <tt><a href="ga_idt-feat-Form.html">Form</a></tt> (924; 14% instances), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt> (915; 14% instances), <tt><a href="ga_idt-feat-Typo.html">Typo</a></tt> (33; 1% instances), <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt> (18; 0% instances), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt> (4; 0% instances)
+`ADJ` occurs with 10 features: <tt><a href="ga_idt-feat-Number.html">Number</a></tt> (3462; 53% instances), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt> (3452; 53% instances), <tt><a href="ga_idt-feat-Case.html">Case</a></tt> (3432; 53% instances), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt> (2110; 32% instances), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt> (1054; 16% instances), <tt><a href="ga_idt-feat-Form.html">Form</a></tt> (924; 14% instances), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt> (914; 14% instances), <tt><a href="ga_idt-feat-Typo.html">Typo</a></tt> (33; 1% instances), <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt> (18; 0% instances), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt> (4; 0% instances)
 
-`ADJ` occurs with 19 feature-value pairs: `Abbr=Yes`, `Case=Gen`, `Case=NomAcc`, `Degree=Cmp,Sup`, `Degree=Pos`, `Foreign=Yes`, `Form=Ecl`, `Form=HPref`, `Form=Len`, `Gender=Fem`, `Gender=Masc`, `NounType=NotSlender`, `NounType=Slender`, `NounType=Strong`, `NounType=Weak`, `Number=Plur`, `Number=Sing`, `Typo=Yes`, `VerbForm=Part`
+`ADJ` occurs with 20 feature-value pairs: `Abbr=Yes`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Degree=Cmp,Sup`, `Degree=Pos`, `Foreign=Yes`, `Form=Ecl`, `Form=HPref`, `Form=Len`, `Gender=Fem`, `Gender=Masc`, `NounType=NotSlender`, `NounType=Slender`, `NounType=Strong`, `NounType=Weak`, `Number=Plur`, `Number=Sing`, `Typo=Yes`, `VerbForm=Part`
 
 `ADJ` occurs with 62 feature combinations.
 The most frequent feature combination is `Degree=Pos` (1471 tokens).

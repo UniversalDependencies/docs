@@ -24,4 +24,4 @@ orphan(Maria, pork)
 
 In this example, the subject *Мария* “Maria“ is promoted to the head position in the second conjunct. Attaching the object *свинину* “pork“ to the subject is necessary to preserve the integrity of the clause, but using the standard relation `obj` would be misleading because *pork* is not the object of *Maria*. Therefore, the orphan relation is used to indicate that this is a non-standard attachment. By contrast, the coordinating conjunction *а* “and“ performs essentially the same function as in the non-elliptical case and therefore retains its normal relation `cc`.
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:19 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:07 CET 2021 -->

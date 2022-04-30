@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Özlem Çetinoğlu, Çağrı Çöltekin.
 
 Repository: [UD_Turkish_German-SAGT](https://github.com/UniversalDependencies/UD_Turkish_German-SAGT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -68,12 +68,16 @@ The treebank development is funded by DFG via project CE 326/1-1 “Computationa
 
 ## References
 For the treebank:
-* Özlem Çetinoğlu and Çağrı Çöltekin (2019). "Challenges of Annotating a Code-Switching Treebank". In _Proceedings of the 18th International Workshop on Treebanks and Linguistic Theories (TLT, SyntaxFest 2019)_
+* Özlem Çetinoğlu and Çağrı Çöltekin (2019). "Challenges of Annotating a Code-Switching Treebank". In _Proceedings of the 18th International Workshop on Treebanks and Linguistic Theories (TLT, SyntaxFest 2019)_.
 <https://www.aclweb.org/anthology/W19-7809.pdf>
 
 For the speech collection (Note that the paper describes a separate speech corpus but the methodology is parallel.)
-* Özlem Çetinoğlu (2017). "A Code-Switching Corpus of Turkish-German Conversations". In _Proceedings of the 11th Linguistic Annotation Workshop_
+* Özlem Çetinoğlu (2017). "A Code-Switching Corpus of Turkish-German Conversations". In _Proceedings of the 11th Linguistic Annotation Workshop_.
 <https://www.aclweb.org/anthology/W17-0804.pdf>
+
+For language IDs:
+* Özlem Çetinoğlu (2016). "A Turkish-German Code-Switching Corpus". In _Proceedings of the 10th edition of the Language Resources and Evaluation Conference_.
+<http://www.lrec-conf.org/proceedings/lrec2016/pdf/1151_Paper.pdf>
 
 
 
@@ -95,7 +99,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 
 
 <ul>
-<li>This corpus contains 2184 sentences, 36940 tokens and 37233 syntactic words.</li>
+<li>This corpus contains 2184 sentences, 36934 tokens and 37227 syntactic words.</li>
 </ul>
 
 <ul>
@@ -107,7 +111,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 </ul>
 
 <ul>
-<li>This corpus contains 345 types of words that contain both letters and punctuation. Examples: Türkiye'de, Almanya'da, İstanbul'a, Berlin'e, H&M, Kunde'lere, Kunde'lerin, Mısır'a, Netflix'te, Ostsee'ye, be--, kü--, me--, n--, İstanbul'un, Allah'tan, Alman'a, Almanya'ya, Amazon'da, Amazon'dan, BK'nın, Bochum'a, Bodensee'ye, Es--, Essen'den, Frankfurt'da, Fransa'ya, Hertrampf'da, Hohenheim'da, IMS'de, Konstanz'ın, Kunde'lerle, Leverkursen'e, Malta'da, Man'i, Offenbach'da, Ra's, Reutlingen'de, Rottenburg'da, S-Bahn, Samsun'a, Samsun'da, Theo'yu, Türkiye'nin, Türkiye'ye, Türkçe'de, Wuppertal'da, bis--, büy--, de--</li>
+<li>This corpus contains 317 types of words that contain both letters and punctuation. Examples: Türkiye'de, Almanya'da, İstanbul'a, Berlin'e, H&M, Mısır'a, Netflix'te, Ostsee'ye, be--, kü--, me--, n--, İstanbul'un, Allah'tan, Alman'a, Almanya'ya, Amazon'da, Amazon'dan, BK'nın, Bochum'a, Bodensee'ye, Es--, Essen'den, Frankfurt'da, Fransa'ya, Hertrampf'da, Hohenheim'da, IMS'de, Konstanz'ın, Leverkursen'e, Malta'da, Man'i, Offenbach'da, Ra's, Reutlingen'de, Rottenburg'da, S-Bahn, Samsun'a, Samsun'da, Theo'yu, Türkiye'nin, Türkiye'ye, Türkçe'de, Wuppertal'da, bis--, büy--, de--, etc., f--, he--</li>
 </ul>
 
 <ul>
@@ -295,7 +299,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
   <li>Abl
     <ul>
       <li>ADP: gibisinden, lüğümden</li>
-      <li>NOUN: yüzden, şeyden, Hauptschuleden, yerden, yönden, Abiturdan, Tunnelden, içimden, işten, kitaptan</li>
+      <li>NOUN: yüzden, şeyden, Hauptschuleden, yerden, yönden, Abiturdan, Fitnessden, Realschuleden, Tunnelden, içimden</li>
       <li>PRON: ondan, bundan, onlardan, Oradan, bizden, neden, Nelerden, birbirinden, buradan, nereden</li>
       <li>PROPN: Allah'tan, Amazon'dan, Essen'den, Almanya'dan, Arsenal'dan, Bochum'dan, Brezilya'dan, Daimler'dan, Dortmund'dan, Frankfurt'dan</li>
       <li>VERB: geldikten, bittikten, dedikten, kaldıktan, Kullanacaklarımdan, aldığından, ayrıldıktan, başladıktan, bitirdikten, ettikten</li>
@@ -314,7 +318,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
       <li>NOUN: Buch, şeyi, Sachen, Zeit, şey, Jahr, Pause, Praktikum, Tag, kitabı</li>
       <li>NUM: bir, yirmi</li>
       <li>PRON: das, es, mich, was, onu, alles, sich, die, beni, dich</li>
-      <li>PROPN: Türkei, Deutschland, Englisch, Henna, Konstanz, Rap, A2, BK, Groupon, Spanisch</li>
+      <li>PROPN: Türkei, Deutschland, Englisch, Henna, Konstanz, Rap, A2, BK, Groupon, Man'i</li>
       <li>VERB: gitmeyi, istediğimi, zorlaşacağımı, Dediğini, Gidelim'e, anlattığını, bitirmeyi, büyüttüğünü, diyeceğimi, edeceğimi</li>
       <li>VERB-Part: istediğimi, zorlaşacağımı, Dediğini, anlattığını, büyüttüğünü, diyeceğimi, geçtiğini, gittiği, istemediğini, kastettiğini</li>
       <li>VERB-Vnoun: gitmeyi, bitirmeyi, etmemi, etmeni, gelmemi, gelmesini, gelmeyi, kapatmayı, kapatılmasını, yapmayı</li>
@@ -367,9 +371,9 @@ For the speech collection (Note that the paper describes a separate speech corpu
   <li>Ins
     <ul>
       <li>ADP: likle</li>
-      <li>NOUN: annemle, arkadaşlarımla, insanlarla, Kunde'lerle, arabayla, numarayla, uçakla, şeyle, şeylerle, Autorlarla</li>
+      <li>NOUN: annemle, arkadaşlarımla, insanlarla, Kundelerle, arabayla, numarayla, uçakla, şeyle, şeylerle, Autorlarla</li>
       <li>PRON: onunla, benimle, birbirleriyle, onlarla, birbiriyle, bizimle, bununla, seninle, sizlerle</li>
-      <li>PROPN: Eren'le, İsveç'le</li>
+      <li>PROPN: Eren'le, Man'le, Softwaretechnik'le, İsveç'le</li>
       <li>VERB: giyinişle, olanlarla</li>
       <li>VERB-Vnoun: giyinişle</li>
     </ul>
@@ -380,7 +384,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
   <li>Loc
     <ul>
       <li>ADP: içinde, orada, karşında</li>
-      <li>NOUN: yerde, okulda, şeyde, ileride, filmde, içinde, derste, halde, evde, hakkında</li>
+      <li>NOUN: yerde, okulda, şeyde, ileride, filmde, içinde, derste, evde, hakkında, üzerinde</li>
       <li>PRON: orada, burada, bizde, orda, bende, sende, bunda, burda, nerede, sizde</li>
       <li>PROPN: Türkiye'de, Almanya'da, Netflix'te, Amazon'da, Frankfurt'da, Hertrampf'da, Hohenheim'da, IMS'de, Malta'da, Offenbach'da</li>
       <li>VERB-Part: başladığında, geldiğimizde, açtığında, bakıldığında, geldiklerinde, geldiğinde, sorduğumda, yaptığımda, yaptığımızda, yaptığında</li>
@@ -829,7 +833,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ich, es, du, o, wir, ondan, ben, mir, sie, mich</li>
+      <li>PRON: ich, es, du, ben, o, wir, ondan, mir, sie, mich</li>
     </ul>
   </li>
 </ul>
@@ -903,7 +907,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
     <ul>
       <li>AUX: habe, bin, muss, kann, war, würde, haben, werde, sind, wollte</li>
       <li>AUX-Fin: habe, bin, muss, kann, war, würde, haben, werde, sind, wollte</li>
-      <li>PRON: ich, wir, ben, mir, mich, benim, bana, bizim, biz, uns</li>
+      <li>PRON: ich, ben, wir, mir, mich, benim, bana, bizim, biz, uns</li>
       <li>VERB: glaube, habe, weiß, diyelim, yaptım, denke, bilmiyorum, finde, dedim, hatte</li>
       <li>VERB-Fin: glaube, habe, weiß, denke, finde, hatte, dachte, haben, meine, gehe</li>
       <li>VERB-Inf: Fangen, Sitzenbleiben, benützen</li>
@@ -983,13 +987,14 @@ For the speech collection (Note that the paper describes a separate speech corpu
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: Half, international, parallel, small</li>
+          <li>ADJ: Big, Half, international, parallel, shopaholic, small</li>
           <li>ADP: of, to</li>
+          <li>ADV: instantly</li>
           <li>AUX: is</li>
           <li>CCONJ: and, vs.</li>
           <li>DET: The, a</li>
-          <li>INTJ: äh</li>
-          <li>NOUN: Cheeseburger, King, Queens, Motherboard, Protectors, action, dagger, man, Arts, Au-Pair</li>
+          <li>INTJ: eh, okay, äh</li>
+          <li>NOUN: King, Cheeseburger, Queens, action, Motherboard, Protectors, dagger, man, shake, Arts</li>
           <li>NUM: 96, Two</li>
           <li>PART: to</li>
           <li>PRON: I, my, this</li>
@@ -1018,7 +1023,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
       <li>2
         <ul>
           <li>ADP: geçen, liğin</li>
-          <li>NOUN: üzerine, hoşuna, Kunde'lerin, derslerin, zamanın, zamanını, öğlende, Abgabeleriniz, Abiturunu, Arbeitından</li>
+          <li>NOUN: üzerine, hoşuna, Kundelerin, derslerin, zamanın, zamanını, öğlende, Abgabeleriniz, Abiturunu, Arbeitından</li>
           <li>PRON: kendin, hepsini, senin, sizin, hangilerini, hangisini, kendini, seninle</li>
           <li>PROPN: Almanların, Zeliha'nın, İstanbul'un</li>
           <li>VERB: istediğin, yaptığın, bildiğin, baktığın, dediğin, gitmen, vurduğun, Dediğini, alacağın, atmışın</li>
@@ -1046,13 +1051,18 @@ For the speech collection (Note that the paper describes a separate speech corpu
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: teoretikmen</li>
-          <li>ADV: bazenleri, bilene</li>
-          <li>NOUN: arkadaşnan, motion, Immobilientechniknen, Milluminati, mabloları, maplar, mizza, mrank, mül</li>
-          <li>PRON: bazileri, bazilerini</li>
-          <li>PROPN: Nizze</li>
-          <li>VERB: tozunuyor, harcamaz</li>
-          <li>X: tschiu</li>
+          <li>ADJ: kü--, einversch--, finanz--, ge--, inte--, poli--, reş--, schei--, teoretikmen, übersensibles--</li>
+          <li>AUX: mu</li>
+          <li>CCONJ: he--</li>
+          <li>DET: des, der, han--, die, ein, ein--, einen--</li>
+          <li>NOUN: Bei--, Bewerbungs--, De--, Dilleri--, Eingelockte, Erdanziehungs--, Firmenleit--, Halt--, Immobilientechniknen, Kampfpilo--</li>
+          <li>PRON: des, bazileri, bazilerini, be--, n--, o--</li>
+          <li>PROPN: Es--, Internatz--, John--, Mar--, Marei--, Nizze, Woy--, sam--</li>
+          <li>SCONJ: dass</li>
+          <li>VERB: ba--, büy--, he--, sp--, tozunuyor, biliyo--, get--, gide--, gidil--, git--</li>
+          <li>VERB-Fin: sch--</li>
+          <li>VERB-Part: get--, hat--, yapan--</li>
+          <li>VERB-Vnoun: yat--</li>
         </ul>
       </li>
     </ul>
@@ -1079,7 +1089,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (5)</li>
-      <li>VERB--NOUN-Acc (5)</li>
+      <li>VERB--NOUN-Acc (3)</li>
       <li>VERB--NOUN-Gen (1)</li>
       <li>VERB--NOUN-Nom (259)</li>
       <li>VERB--NOUN-Nom-ADP(diye) (1)</li>
@@ -1095,10 +1105,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Nom (6)</li>
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (65)</li>
+      <li>VERB-Fin--NOUN-Nom (66)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(als) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(aus) (1)</li>
-      <li>VERB-Fin--PRON-Nom (743)</li>
+      <li>VERB-Fin--PRON-Nom (744)</li>
       <li>VERB-Inf--NOUN-Nom (20)</li>
       <li>VERB-Inf--PRON-Nom (267)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
@@ -1120,13 +1130,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (4)</li>
-      <li>VERB--NOUN-Acc (286)</li>
+      <li>VERB--NOUN (6)</li>
+      <li>VERB--NOUN-Acc (288)</li>
       <li>VERB--NOUN-Acc-ADP(auf) (1)</li>
       <li>VERB--NOUN-Acc-ADP(für) (1)</li>
       <li>VERB--NOUN-Acc-ADP(için) (1)</li>
-      <li>VERB--NOUN-Ins (1)</li>
-      <li>VERB--NOUN-Nom (214)</li>
+      <li>VERB--NOUN-Nom (212)</li>
       <li>VERB--NOUN-Nom-ADP(diye) (1)</li>
       <li>VERB--PRON-Acc (131)</li>
       <li>VERB--PRON-Acc-ADP(kin) (1)</li>
@@ -1138,6 +1147,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Nom (3)</li>
       <li>VERB-Conv--PRON-Acc (5)</li>
       <li>VERB-Fin--NOUN (2)</li>
+      <li>VERB-Fin--NOUN-ADP(wie) (1)</li>
       <li>VERB-Fin--NOUN-Acc (211)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(als) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(auf) (2)</li>
@@ -1146,11 +1156,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(nach) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(um) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(von) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(wie) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(zu) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(über) (3)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Nom (35)</li>
+      <li>VERB-Fin--NOUN-Nom (33)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(für) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(wie) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(über) (2)</li>
@@ -1164,7 +1173,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc-ADP(von) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(über) (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(mit) (2)</li>
-      <li>VERB-Inf--NOUN-Nom (15)</li>
+      <li>VERB-Inf--NOUN-Nom (14)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(in) (1)</li>
       <li>VERB-Inf--PRON-Acc (86)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
@@ -1175,13 +1184,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc-ADP(nach) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(von) (2)</li>
       <li>VERB-Part--NOUN-Acc-ADP(über) (1)</li>
-      <li>VERB-Part--NOUN-Ins (1)</li>
       <li>VERB-Part--NOUN-Nom (31)</li>
       <li>VERB-Part--PRON-Acc (69)</li>
       <li>VERB-Part--PRON-Dat (2)</li>
       <li>VERB-Part--PRON-Dat-ADP(mit) (1)</li>
       <li>VERB-Part--PRON-Nom (24)</li>
-      <li>VERB-Vnoun--NOUN-Acc (30)</li>
+      <li>VERB-Vnoun--NOUN-Acc (29)</li>
       <li>VERB-Vnoun--NOUN-Ins (1)</li>
       <li>VERB-Vnoun--NOUN-Nom (41)</li>
       <li>VERB-Vnoun--PRON-Acc (5)</li>

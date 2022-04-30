@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cy_ccg-dep-compound.html">compound</a></tt>.
 
-110 nodes (0%) are attached to their parents as `compound:redup`.
+117 nodes (0%) are attached to their parents as `compound:redup`.
 
-110 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
+117 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `compound:redup`: <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (110; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound:redup`: <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (117; 100% instances).
 
 
 ~~~ conllu

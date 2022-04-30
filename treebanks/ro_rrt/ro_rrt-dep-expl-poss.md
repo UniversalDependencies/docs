@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_rrt-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_rrt-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_rrt-dep-expl-pv.html">expl:pv</a></tt>.
 
-603 nodes (0%) are attached to their parents as `expl:poss`.
+608 nodes (0%) are attached to their parents as `expl:poss`.
 
-563 instances of `expl:poss` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46102819237148.
+568 instances of `expl:poss` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46875.
 
-The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (592; 98% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (596; 98% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 6	zis	zice	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	ccomp	_	_
 7	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	11	mark	_	_
 8	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	fixed	_	_
-9	i-	el	PRON	Pp3mpa--y-----w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak|Variant=Short	11	expl:poss	_	SpaceAfter=No
+9	i-	el	PRON	Pp3-sd--y-----w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	11	expl:poss	_	SpaceAfter=No
 10	ați	avea	AUX	Va--2p	Number=Plur|Person=2	11	aux	_	_
 11	bușit	buși	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl:tcl	_	_
 12	mutra	mutră	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No

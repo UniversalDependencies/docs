@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#HIFIL">HIFIL</a></td>
   <td><a href="#HITPAEL">HITPAEL</a></td>
+  <td><a href="#NITPAEL">NITPAEL</a></td>
   <td><a href="#HUFAL">HUFAL</a></td>
   <td><a href="#NIFAL">NIFAL</a></td>
   <td><a href="#PAAL">PAAL</a></td>
@@ -83,4 +84,13 @@ Template `hitCaCeC`. Reflexive, reciprocal or middle voice.
 
 * _<b>hitkatev</b>_ “corresponded”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:33 CEST 2021 -->
+### <a name="NITPAEL">`NITPAEL`</a>: reflexive-cooperative form, marked register
+
+Template `nitCaCeC`. Reflexive, reciprocal or middle voice, carrying the style of לשון חכמים, more formal or bookish in contemporary usage.
+
+#### Examples
+
+* _<b>nitgalta</b>_ “was discovered”
+
+
+<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->

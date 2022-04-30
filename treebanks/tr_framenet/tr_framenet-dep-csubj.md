@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	Uçağın	uçak	NOUN	_	Case=Gen|Number=Sing|Person=3	3	nsubj	_	_
 2	sorti	sorti	NOUN	_	Case=Nom|Number=Sing|Person=3	3	compound	_	_
 3	yapması	yap	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	csubj	_	_
-4	kulenin	kule	NOUN	_	Case=Gen|Number=Sing|Person=3	6	nsubj	_	_
+4	kulenin	kule	NOUN	_	Case=Gen|Number=Sing|Person=3	5	nmod	_	_
 5	ilgisini	ilgi	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	compound	_	_
 6	çekmişti	çek	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_

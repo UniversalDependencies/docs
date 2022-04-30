@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 7 language-specific subtypes of `advmod`: <tt><a href="sms_giellagas-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="sms_giellagas-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="sms_giellagas-dep-advmod-foc.html">advmod:foc</a></tt>, <tt><a href="sms_giellagas-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="sms_giellagas-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-51 nodes (2%) are attached to their parents as `advmod`.
+63 nodes (3%) are attached to their parents as `advmod`.
 
-36 instances of `advmod` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.90196078431373.
+43 instances of `advmod` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.73015873015873.
 
-The following 6 pairs of parts of speech are connected with `advmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (37; 73% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (6; 12% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 8% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `advmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (41; 65% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (8; 13% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (6; 10% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 6% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -40,6 +40,28 @@ The following 6 pairs of parts of speech are connected with `advmod`: <tt><a hre
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod	color:blue
+1	–	–	PUNCT	PUNCT	_	4	punct	_	_
+2	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
+3	Vot	vot	ADV	Adv	_	4	advmod	_	_
+4	miʹjjid	mon	PRON	Pron	Case=Ill|Number=Plur|Person=1|PronType=Prs	0	root	_	GTtags=Pers,Pl1,Ill
+5	i	i	ADV	Adv	_	4	advmod	_	_
+6	triâŋgg	triâŋgg	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	9	punct	_	_
+8	vot	vot	ADV	Adv	_	9	advmod	_	_
+9	miʹjjid	mon	PRON	Pron	Case=Ill|Number=Plur|Person=1|PronType=Prs	4	conj	_	GTtags=Pers,Pl1,Ill
+10	triâŋgg	triâŋgg	NOUN	N	Case=Nom|Number=Sing	9	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+12	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 advmod	color:blue
@@ -56,24 +78,6 @@ The following 6 pairs of parts of speech are connected with `advmod`: <tt><a hre
 11	pooutak	puʹhtted	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	ccomp	_	GTtags=Ind,Prs,Sg2,@+FMAINV|SpaceAfter=No
 12	?	?	PUNCT	CLB	_	11	punct	_	SpaceAfter=No
 13	”	”	PUNCT	PUNCT	_	1	punct	_	GTtags=RIGHT
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 advmod	color:blue
-1	Seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl	_	GTtags=Pers,Pl3,Loc
-2	jeäʹla	iʹlla	AUX	V	Number=Plur|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=V
-3	ǩeeʹrjteeʹjest	ǩeeʹrjteei	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
-4	võl	võl	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
-5	ni	ni	PART	Pcle	_	6	advmod:neg	_	_
-6	måkam	måkam	DET	Det	_	7	det	_	GTtags=Attr
-7	jurddi	juurd	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	GTtags=Pl,Nom|SpaceAfter=No
-8	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

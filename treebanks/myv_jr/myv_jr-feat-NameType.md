@@ -9,16 +9,16 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `Geo`, `Giv`, `Hom`, `Oth`, `Pat`, `Sur`.
 
-575 tokens (3%) have a non-empty value of `NameType`.
-147 types (3%) occur at least once with a non-empty value of `NameType`.
-91 lemmas (3%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (573; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+577 tokens (3%) have a non-empty value of `NameType`.
+149 types (3%) occur at least once with a non-empty value of `NameType`.
+93 lemmas (3%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (573; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
 
 ### `PROPN`
 
 573 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (568; 99%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (450; 79%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (398; 69%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (397; 69%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (334; 58%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (568; 99%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (458; 80%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (450; 79%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (398; 69%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (397; 69%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
@@ -41,14 +41,14 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 ### `NOUN`
 
-2 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NameType`.
+4 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `NOUN` and `NameType` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `NameType` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4; 100%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `NOUN` tokens may have the following values of `NameType`:
 
-* `Geo` (1; 50% of non-empty `NameType`): <em>Паргелень</em>
-* `Sur` (1; 50% of non-empty `NameType`): <em>Аржай</em>
+* `Geo` (1; 25% of non-empty `NameType`): <em>Паргелень</em>
+* `Sur` (3; 75% of non-empty `NameType`): <em>Аржай, Живаевень, Иванович</em>
 
 ## Relations with Agreement in `NameType`
 

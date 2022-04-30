@@ -27,7 +27,7 @@ The following 14 pairs of parts of speech are connected with `discourse`: <tt><a
 3	claro	claro	ADV	RB	_	5	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	tem	ter	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-6	o	o	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Bob	Bob	PROPN	NNP	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	_	_
 9	uma	um	DET	DT	Gender=Fem|Number=Sing	11	det	_	_

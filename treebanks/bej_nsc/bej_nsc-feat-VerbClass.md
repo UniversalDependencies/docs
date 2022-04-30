@@ -40,11 +40,12 @@ The most frequent other feature values with which `AUX` and `VerbClass` co-occur
 
 The 10 most frequent relations where parent and child node agree in `VerbClass`:
 <tt>VERB --[<tt><a href="bej_nsc-dep-aux-aff.html">aux:aff</a></tt>]--> AUX</tt> (16; 70%),
-<tt>VERB --[<tt><a href="bej_nsc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (14; 52%),
-<tt>VERB --[<tt><a href="bej_nsc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (5; 71%),
+<tt>VERB --[<tt><a href="bej_nsc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (8; 80%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-dep-redup.html">dep:redup</a></tt>]--> VERB</tt> (4; 100%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<tt><a href="bej_nsc-dep-dep-comp.html">dep:comp</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-parataxis-coord.html">parataxis:coord</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="bej_nsc-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-parataxis-mod.html">parataxis:mod</a></tt>]--> VERB</tt> (1; 100%).
 

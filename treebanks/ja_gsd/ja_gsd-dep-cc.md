@@ -39,9 +39,9 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="j
 15	の	の	ADP	助詞-格助詞	_	14	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 16	もの	もの	NOUN	名詞-普通名詞-サ変可能	_	18	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 17	が	が	ADP	助詞-格助詞	_	16	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-18	使わ	使う	VERB	動詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-ワア行|SpaceAfter=No
-19	れ	れる	AUX	助動詞	_	18	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-レル|SpaceAfter=No
-20	た	た	AUX	助動詞	_	18	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+18	使わ	使う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-ワア行|SpaceAfter=No
+19	れ	れる	AUX	助動詞-助動詞-レル	_	18	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-レル|SpaceAfter=No
+20	た	た	AUX	助動詞-助動詞-タ	_	18	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 21	。	。	PUNCT	補助記号-句点	_	18	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~
@@ -67,8 +67,8 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="j
 12	,	,	PUNCT	補助記号-読点	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No
 13	000	000	NUM	名詞-数詞	_	14	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No
 14	°C	°C	NOUN	名詞-普通名詞-助数詞可能	_	0	root	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No
-15	で	だ	AUX	助動詞	_	14	cop	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-五段-ラ行|SpaceAfter=No
-16	ある	ある	VERB	動詞-非自立可能	_	15	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞-五段-ラ行|SpaceAfter=No
+15	で	だ	AUX	助動詞-助動詞-ダ	_	14	cop	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-五段-ラ行|SpaceAfter=No
+16	ある	ある	VERB	動詞-非自立可能-五段-ラ行	_	15	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞-五段-ラ行|SpaceAfter=No
 17	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~
@@ -87,9 +87,9 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="j
 5	料理	料理	NOUN	名詞-普通名詞-サ変可能	_	8	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No
 7	とても	とても	ADV	副詞	_	8	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No
-8	美味しかっ	美味しい	ADJ	形容詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=形容詞-一般-形容詞|SpaceAfter=No
-9	た	た	AUX	助動詞	_	8	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
-10	です	だ	AUX	助動詞	_	8	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-デス|SpaceAfter=No
+8	美味しかっ	美味しい	ADJ	形容詞-一般-形容詞	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=形容詞-一般-形容詞|SpaceAfter=No
+9	た	た	AUX	助動詞-助動詞-タ	_	8	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+10	です	だ	AUX	助動詞-助動詞-デス	_	8	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-デス|SpaceAfter=No
 11	。	。	PUNCT	補助記号-句点	_	8	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~

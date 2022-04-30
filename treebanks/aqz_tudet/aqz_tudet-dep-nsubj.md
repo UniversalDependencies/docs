@@ -22,9 +22,9 @@ The following 12 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj	color:blue
-1	kitʃe	kitʃe	PRON	pron	Clusivity=In|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-2	tawtʃe	tawtʃe	NOUN	n	_	3	obj	3:obj	_
-3	koa	ko	VERB	vt	Tv=Yes	0	root	0:root	_
+1	kitʃe	kitʃe	PRON	pron	Clusivity=In|Person=1|PronType=Prs	3	nsubj	_	_
+2	tawtʃe	tawtʃe	NOUN	n	_	3	obj	_	_
+3	koa	ko	VERB	vt	Tv=Yes	0	root	_	_
 
 ~~~
 
@@ -35,9 +35,9 @@ The following 12 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj	color:blue
-1	kwako	kwako	NOUN	n	_	3	nsubj	3:nsubj	_
-2	kɨpek	kɨpek	NOUN	n	_	3	obj	3:obj	_
-3	koa	ko	VERB	vt	Tv=Yes	0	root	0:root	_
+1	kwako	kwako	NOUN	n	_	3	nsubj	_	_
+2	kɨpek	kɨpek	NOUN	n	_	3	obj	_	_
+3	koa	ko	VERB	vt	Tv=Yes	0	root	_	_
 
 ~~~
 
@@ -48,9 +48,9 @@ The following 12 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj	color:blue
-1	kwaẽ	kwaẽ	NOUN	n	_	3	obl	3:obl	_
-2	te	te	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
-3	ipitka	pit	NOUN	n	Person=3|Trans=Yes	0	root	0:root	_
+1	kwaẽ	kwaẽ	NOUN	n	_	3	obl	_	_
+2	te	te	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ipitka	pit	NOUN	n	Person=3|Trans=Yes	0	root	_	_
 
 ~~~
 

@@ -25,4 +25,4 @@ Abbreviations for single words are not symbols but are assigned the part of spee
 #### Conversion from JOS
 
 The list of characters in ssj500k treebank has been manually divided into subgroups of `PUNCT` and `SYM`. Note that some characters display characteristics of both POS categories, such as asterisk or dash-like characters that can either function as mathematical operators (`SYM`) or bullets in itemized lists (`PUNCT`). In case of such ambiguity, the more common function was chosen. 
-<!-- Interlanguage links updated Pá kvě 14 11:08:25 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:15 CET 2021 -->

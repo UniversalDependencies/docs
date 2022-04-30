@@ -8,34 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-3931 nodes (2%) are attached to their parents as `mark`.
+4021 nodes (2%) are attached to their parents as `mark`.
 
-3855 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.14245738997711.
+3950 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.1564287490674.
 
-The following 33 pairs of parts of speech are connected with `mark`: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (2705; 69% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (500; 13% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (299; 8% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (97; 2% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (91; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (63; 2% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (41; 1% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (16; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 33 pairs of parts of speech are connected with `mark`: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (2779; 69% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (512; 13% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (305; 8% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (99; 2% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (90; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (62; 2% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (40; 1% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (16; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 mark	color:blue
-1	"	"	PUNCT	Z	_	11	punct	_	SpaceAfter=No
-2	Ako	ako	SCONJ	Cs	_	3	mark	_	_
-3	želite	željeti	VERB	Vmr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	_
-4	dobiti	dobiti	VERB	Vmn	VerbForm=Inf	3	xcomp	_	_
-5	nešto	nešto	PRON	Pi3n-a	Case=Acc|Gender=Neut|PronType=Ind	4	obj	_	_
-6	[	[	PUNCT	Z	_	8	punct	_	SpaceAfter=No
-7	kao	kao	SCONJ	Cs	_	8	case	_	_
-8	manjina	manjina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
-9	]	]	PUNCT	Z	_	8	punct	_	SpaceAfter=No
-10	,	,	PUNCT	Z	_	3	punct	_	_
-11	morate	morati	VERB	Vmr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	to	taj	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	13	obj	_	_
-13	tražiti	tražiti	VERB	Vmn	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
-14	.	.	PUNCT	Z	_	11	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 mark	color:blue
+1	Bytyci	Bytyci	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	kaže	kazati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	kako	kako	SCONJ	Cs	_	7	mark	_	_
+4	bi	biti	AUX	Vaa3p	Mood=Cnd|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+5	jači	jak	ADJ	Agcmpny	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	6	amod	_	_
+6	sindikati	sindikat	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+7	doveli	dovesti	VERB	Vmp-pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	2	ccomp	_	_
+8	do	do	ADP	Sg	Case=Gen	10	case	_	_
+9	boljih	dobar	ADJ	Agcmpgy	Case=Gen|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	10	amod	_	_
+10	ishoda	ishod	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 

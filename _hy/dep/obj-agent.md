@@ -23,3 +23,4 @@ This nominal phrase can be pronominalized as follows: _Վերակառուցմա�
 ~~~
 
 The infinitive verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation.
+<!-- Interlanguage links updated St lis 3 20:59:03 CET 2021 -->

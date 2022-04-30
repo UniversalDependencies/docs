@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `X`
 
-There are 8 `X` lemmas (0%), 43 `X` types (1%) and 56 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 14 in number of lemmas, 11 in number of types and 15 in number of tokens.
+There are 26 `X` lemmas (1%), 61 `X` types (1%) and 74 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 12 in number of lemmas, 10 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_, </i>, <i>, </em>, <em>, {л._41_об.}, {л._601_об.}, риди</em>
+The 10 most frequent `X` lemmas: <em>_, </i>, <i>, </em>, <em>, etc., {3_reg_:_10.}, {4_reg_:_11.}, {Ammian_:_1_.29._Sozom_:_1._6,_cap._35._Socrat_:_1._4,_cap._15.}, {Ibid_:_4.}</em>
 
 The 10 most frequent `X` types:  <em>л., </i>, <i>, 1, 10, 11, 12, 13, 14, 15</em>
 
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>л.</em> (<tt><a href="orv_rnc-pos-X.
 
 ## Morphology
 
-The form / lemma ratio of `X` is 5.375000 (the average of all parts of speech is 1.947924).
+The form / lemma ratio of `X` is 2.346154 (the average of all parts of speech is 1.971070).
 
 The 1st highest number of forms (36) was observed with the lemma “_”: <em>1, 10, 11, 12, 13, 14, 15, 3, 6, 7, 8, 9, {л._1_об.}, {л._254_об.}, {л._255_об.}, {л._255}, {л._256}, {л._300_об.}, {л._300}, {л._301_об.}, {л._302_об.}, {л._302}, {л._303}, {л._304_об.}, {л._304}, {л._305}, {л._306_об.}, {л._3}, {л._41}, {л._4}, {л._5}, {л._602_об.}, {л._602}, Помета, л., об.</em>.
 
@@ -66,26 +66,32 @@ The 2nd highest number of forms (1) was observed with the lemma “</em>”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “</i>”: <em></i></em>.
 
-`X` does not occur with any features.
+`X` occurs with 1 features: <tt><a href="orv_rnc-feat-Foreign.html">Foreign</a></tt> (1; 1% instances)
+
+`X` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`X` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (73 tokens).
+Examples: <em>л., </i>, <i>, 1, 10, 11, 12, 13, 14, 15</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 4 different relations: <tt><a href="orv_rnc-dep-dep.html">dep</a></tt> (40; 71% instances), <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt> (14; 25% instances), <tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="orv_rnc-dep-root.html">root</a></tt> (1; 2% instances)
+`X` nodes are attached to their parents using 4 different relations: <tt><a href="orv_rnc-dep-dep.html">dep</a></tt> (58; 78% instances), <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt> (14; 19% instances), <tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="orv_rnc-dep-root.html">root</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 9 different parts of speech: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (21; 38% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (14; 25% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (9; 16% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 9% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 5% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 2% instances),  (1; 2% instances)
+Parents of `X` nodes belong to 9 different parts of speech: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (27; 36% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (15; 20% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (14; 19% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (4; 5% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances),  (1; 1% instances)
 
-43 (77%) `X` nodes are leaves.
+60 (81%) `X` nodes are leaves.
 
-0 (0%) `X` nodes have one child.
+1 (1%) `X` nodes have one child.
 
 0 (0%) `X` nodes have two children.
 
-13 (23%) `X` nodes have three or more children.
+13 (18%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 6.
 
-Children of `X` nodes are attached using 4 different relations: <tt><a href="orv_rnc-dep-punct.html">punct</a></tt> (28; 65% instances), <tt><a href="orv_rnc-dep-dep.html">dep</a></tt> (12; 28% instances), <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt> (2; 5% instances), <tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt> (1; 2% instances)
+Children of `X` nodes are attached using 4 different relations: <tt><a href="orv_rnc-dep-punct.html">punct</a></tt> (29; 66% instances), <tt><a href="orv_rnc-dep-dep.html">dep</a></tt> (12; 27% instances), <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt> (2; 5% instances), <tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt> (1; 2% instances)
 
-Children of `X` nodes belong to 3 different parts of speech: <tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (28; 65% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (14; 33% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `X` nodes belong to 3 different parts of speech: <tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (29; 66% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (14; 32% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

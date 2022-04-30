@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>nafar</em>
-* `EMPTY` (111): <em>kaːm, tak, biri, doːr, meːk, gaw, mhiːn, ʔoːr, halak, hanʤar</em>
+* `EMPTY` (115): <em>kaːm, tak, biri, doːr, meːk, na, gaw, mhiːn, ʔoːr, halak</em>
 
 ### `PART`
 

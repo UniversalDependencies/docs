@@ -85,4 +85,4 @@ Present forms of verbs in subjunctive, conditional and necessitative moods have 
 * _գիտենամ&nbsp;_ “(if) I know.`Sub`”,
 * _արժենամ&nbsp;_ “(if) I am worth.`Sub`”
 * _լինեմ&nbsp;_ “I am / I will be.`Sub`”,
-<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:30 CET 2021 -->

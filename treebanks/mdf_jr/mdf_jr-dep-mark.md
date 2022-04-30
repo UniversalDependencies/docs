@@ -8,30 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (1%) are attached to their parents as `mark`.
+29 nodes (1%) are attached to their parents as `mark`.
 
-24 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.875.
+29 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.89655172413793.
 
-The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (9; 38% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (8; 33% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (3; 13% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 mark	color:blue
-1	Афи	афи	AUX	Aux	Polarity=Neg	2	aux:neg	_	_
-2	шарьхкодень	шарьхкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	CLB	_	5	punct	_	_
-4	кода	кода	ADV	Adv	_	5	mark	_	_
-5	лаподень	лаподемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	2	advcl	_	_
-6	карденя	карда	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Sing|Typo=Yes	7	nmod	_	_
-7	пряста	пря	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	5	obl:lfrom	_	SpaceAfter=No
-8	.	.	PUNCT	CLB	_	2	punct	_	_
-
-~~~
+The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (12; 41% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (10; 34% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (3; 10% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -58,12 +40,30 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 mark	color:blue
+1	Афи	аф	AUX	Aux	Clitic=I|Polarity=Neg	2	aux:neg	_	_
+2	шарьхкодень	шарьхкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	5	punct	_	_
+4	кода	кода	ADV	Adv	_	5	mark	_	_
+5	лаподень	лаподемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	2	advcl	_	_
+6	карденя	карда	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Sing|Typo=Yes	7	nmod	_	_
+7	пряста	пря	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	5	obl:lfrom	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 mark	color:blue
-1	Сясы	сясы	SCONJ	CS	_	5	mark	_	_
+1	Сясы	сяс	SCONJ	CS	Clitic=I	5	mark	_	_
 2	синь	сон	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 3	сембе	сембе	ADV	Adv	_	2	advmod	_	_
 4	и	и	CCONJ	CC	_	5	cc:preconj	_	_

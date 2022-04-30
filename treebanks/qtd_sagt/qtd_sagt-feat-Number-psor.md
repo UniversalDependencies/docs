@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt>, <tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt>.
 
 1101 tokens (3%) have a non-empty value of `Number[psor]`.
-768 types (11%) occur at least once with a non-empty value of `Number[psor]`.
+768 types (12%) occur at least once with a non-empty value of `Number[psor]`.
 412 lemmas (11%) occur at least once with a non-empty value of `Number[psor]`.
 The feature is used with 6 part-of-speech tags: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (708; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (266; 1% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (84; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (19; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (4; 0% instances).
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
 
 84 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (84; 100%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (72; 86%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (58; 69%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (52; 62%), <tt><a href="qtd_sagt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45; 54%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (84; 100%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (72; 86%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (58; 69%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (49; 58%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

@@ -22,4 +22,4 @@ nouns. Less obvious cases in Uralic (some are defined in Universal too):
 * [fi] _sellainen_ "like that"
 * [fi] _ensimmäinen_ "first"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:17 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:07 CET 2021 -->

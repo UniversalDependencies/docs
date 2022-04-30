@@ -28,7 +28,7 @@ The following 12 pairs of parts of speech are connected with `cc:preconj`: <tt><
 4	JOS	jos	ADV	Rgp	Degree=Pos	3	ccomp	_	_
 5	FRATELE	frate	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	obj	_	_
 6	CEL	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	det	_	_
-7	MARE	mare	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+7	MARE	mare	ADJ	Afp-s-n	Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	12	punct	_	_
 9	fie	fie	CCONJ	Ccssp	Polarity=Pos	12	cc	_	_
 10	că	că	SCONJ	Csssp	Polarity=Pos	12	mark	_	_
@@ -71,7 +71,7 @@ The following 12 pairs of parts of speech are connected with `cc:preconj`: <tt><
 1	Aspectul	aspect	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
 2	gazetei	gazetă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
 3	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pass	_	_
-4	schimbă	schimba	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	schimbă	schimba	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	7	punct	_	_
 6	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	7	expl:pass	_	_
 7	modernizează	moderniza	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_

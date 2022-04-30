@@ -35,4 +35,4 @@ This word form must be used after a preposition.
 #### Examples
 
 * _<b>něho</b>, <b>němu</b>, <b>něm</b>, <b>ním</b>_ “him” (`Gen,Acc`, `Dat`, `Loc`, `Ins`)
-<!-- Interlanguage links updated Pá kvě 14 11:08:39 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:28 CET 2021 -->

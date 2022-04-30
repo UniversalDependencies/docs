@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (168; 100% of non-empty `Voice`): <em>wurde, wurden, werden, wird, werde, würden</em>
-* `EMPTY` (20546): <em>gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet, ist</em>
+* `EMPTY` (20488): <em>gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet, ist</em>
 
 ### `X`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `X` and `Voice` co-occurred: <
 `X` tokens may have the following values of `Voice`:
 
 * `Pass` (7; 100% of non-empty `Voice`): <em>wurde, wurden, wird</em>
-* `EMPTY` (337): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
+* `EMPTY` (334): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
 
 ### `PUNCT`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `X` and `Voice` co-occurred: <
 `PUNCT` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>wurde</em>
-* `EMPTY` (38512): <em>., ,, -, ", ), (, !, :, ``, ''</em>
+* `EMPTY` (38511): <em>., ,, -, ", ), (, !, :, ``, ''</em>
 
 ## Relations with Agreement in `Voice`
 

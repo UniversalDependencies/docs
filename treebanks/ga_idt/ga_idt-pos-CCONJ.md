@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>agus</em> (<tt><a href="ga_idt-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.857143 (the average of all parts of speech is 1.643740).
+The form / lemma ratio of `CCONJ` is 1.857143 (the average of all parts of speech is 1.643911).
 
 The 1st highest number of forms (7) was observed with the lemma “agus”: <em>&, 'gus, 's, Gus, a's, agus, is</em>.
 

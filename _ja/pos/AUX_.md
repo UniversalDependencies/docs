@@ -23,4 +23,4 @@ In addition, `AUX` is also used for functional verbs / adjectives tagged by `ver
 - _食べ<b>ない</b>&nbsp;_ “not eat” (negation) (`auxiliary_verb` / 助動詞) : `AUX` for negation marker
 - _食べる<b>よう</b>だ&nbsp;_ “seem to eat”  (`adjective auxiliary_verb_stem` / 形状詞-助動詞語幹)
 - _食べる<b>そう</b>だ&nbsp;_ “hear that ... eat” (`adjective auxiliary_verb_stem` / 名詞-助動詞語幹)
-<!-- Interlanguage links updated Pá kvě 14 11:08:19 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:08 CET 2021 -->

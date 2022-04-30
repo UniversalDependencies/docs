@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-53497 tokens (13%) have a non-empty value of `Definite`.
+53494 tokens (13%) have a non-empty value of `Definite`.
 29 types (0%) occur at least once with a non-empty value of `Definite`.
 6 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (53497; 13% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (53494; 13% instances).
 
 ### `DET`
 
-53497 <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Definite`.
+53494 <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="fr_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (53497; 100%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41486; 78%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="fr_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (53494; 100%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41484; 78%).
 
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (43343; 81% of non-empty `Definite`): <em>le, la, les, l', l, ladite, là</em>
-* `Ind` (10154; 19% of non-empty `Definite`): <em>un, une, des, de, d', du, telle, in</em>
-* `EMPTY` (7673): <em>son, sa, cette, ses, ce, leur, ces, plusieurs, leurs, cet</em>
+* `Ind` (10151; 19% of non-empty `Definite`): <em>un, une, des, de, d', du, telle, in</em>
+* `EMPTY` (7678): <em>son, sa, cette, ses, ce, leur, ces, plusieurs, leurs, cet</em>
 
 ## Relations with Agreement in `Definite`
 

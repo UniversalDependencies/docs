@@ -22,8 +22,8 @@ The following 1 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 aux	color:blue
-1	oetara	et	VERB	vi	Aspect=Hab|Person=1|Tv=Yes	0	root	0:root	_
-2	otoa	toa	AUX	aux	Person=1	1	aux	1:aux	_
+1	oetara	et	VERB	vi	Aspect=Hab|Person=1|Tv=Yes	0	root	_	_
+2	otoa	toa	AUX	aux	Person=1	1	aux	_	_
 
 ~~~
 

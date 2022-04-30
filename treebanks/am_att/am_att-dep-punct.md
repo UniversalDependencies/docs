@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1092 nodes (11%) are attached to their parents as `punct`.
+1093 nodes (11%) are attached to their parents as `punct`.
 
-1092 instances of `punct` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.84432234432234.
+1093 instances of `punct` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.84354986276304.
 
-The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (973; 89% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (68; 6% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (34; 3% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (9; 1% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="am_att-pos-PART.html">PART</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (976; 89% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (67; 6% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (34; 3% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (9; 1% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt>-<tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

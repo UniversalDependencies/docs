@@ -25,4 +25,4 @@ The Yupik verb inflects for the person (and number) of subject. If subject is pr
 
 * [ess] _Sameng atan <b>ivaghta</b>?_ "What did your father look for?" The verb ending _-ta_ `Number[subj]=Sing|Person[subj]=3` in the verb _ivaghta_ "what did he look for" agrees with the subject _atan_ "your father" in person (and number).
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:27 CET 2021 -->

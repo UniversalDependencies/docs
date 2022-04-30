@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="mdf_jr-dep-csubj-cop.html">csubj:cop</a></tt>.
 
-5 nodes (0%) are attached to their parents as `csubj`.
+6 nodes (0%) are attached to their parents as `csubj`.
 
-3 instances of `csubj` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.4.
+4 instances of `csubj` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.5.
 
-The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (3; 60% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 20% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (3; 50% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 33% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 7	:	:	PUNCT	CLB	_	11	punct	_	_
 8	гулянять	гуляня	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	nmod	_	_
 9	пацяняц	паця	NOUN	N	Case=Nom|Derivation=Dimin|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obj	_	_
-10	апак	апак	AUX	Aux	Polarity=Neg	11	aux:neg	_	_
+10	апак	аф	AUX	Aux	Polarity=Neg|VerbForm=Conv,Part	11	aux:neg	_	_
 11	синтть	синдемс	VERB	V	Connegative=Yes|Valency=2	6	csubj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	6	punct	_	_
 

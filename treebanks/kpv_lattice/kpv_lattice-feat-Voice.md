@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (3; 100% of non-empty `Voice`): <em>Вӧралысь, кыйсьысь, шептасьысь</em>
-* `EMPTY` (1337): <em>воис, идралӧм, лои, лоны, шуны, идралӧмын, мунны, мунӧ, Локтас, видзӧдліс</em>
+* `EMPTY` (1347): <em>воис, идралӧм, лои, лоны, шуны, идралӧмын, мунны, мунӧ, Локтас, видзӧдліс</em>
 

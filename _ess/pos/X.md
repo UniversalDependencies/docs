@@ -23,4 +23,4 @@ kameg(N)-[Abs.Du]	ifla(V)-[Ind.Trns]-[3Sg.3Du]	.
 5	k	k	X	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg.3Du]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:26 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:16 CET 2021 -->

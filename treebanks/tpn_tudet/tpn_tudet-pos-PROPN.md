@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` lemmas: <em>Tupã, Jesus, Pilatos, _, SantaMaria, A
 
 The 10 most frequent `PROPN` types:  <em>Tupã, JesusCristo, Jesus, Pilatos, S.João, SantaMaria, Aɲanga, EspíritoSanto, Iesus, Cristo</em>
 
-The 10 most frequent ambiguous lemmas: <em>Tupã</em> (<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> 12, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 11), <em>Pilatos</em> (<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>_</em> (<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 47, <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> 15, <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 6, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 5, <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 3, <tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> 2, <tt><a href="tpn_tudet-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>Tupã</em> (<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> 12, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 11), <em>Pilatos</em> (<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>_</em> (<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 48, <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> 17, <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 6, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 5, <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 3, <tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> 2, <tt><a href="tpn_tudet-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Tupã</em> (<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> 12, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 7), <em>Pilatos</em> (<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>Tupã</em> (<tt><a href="tpn_tudet-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 0.950000 (the average of all parts of speech is 1.424063).
+The form / lemma ratio of `PROPN` is 0.950000 (the average of all parts of speech is 1.431068).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>EspíritoSanto, JesusCristo, MonteCalvário, S.João</em>.
 

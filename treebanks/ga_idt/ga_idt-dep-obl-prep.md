@@ -30,7 +30,7 @@ The following 11 pairs of parts of speech are connected with `obl:prep`: <tt><a 
 5	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	obj	_	_
 6	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 7	'	'	PUNCT	Punct	_	8	punct	_	SpaceAfter=No
-8	fhios	fios	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	fhios	fios	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
 9	agam	ag	ADP	Prep	Number=Sing|Person=1	6	obl:prep	_	_
 10	gur	gur	PART	Vb	PartType=Vb|Tense=Past	11	mark:prt	_	_
 11	thuig	tuig	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	6	ccomp	_	_
@@ -38,7 +38,7 @@ The following 11 pairs of parts of speech are connected with `obl:prep`: <tt><a 
 13	sin	sin	PRON	Dem	PronType=Dem	11	obj	_	_
 14	i	i	ADP	Simp	_	16	case	_	_
 15	do	do	DET	Det	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
-16	chroí	croí	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+16	chroí	croí	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -52,7 +52,7 @@ The following 11 pairs of parts of speech are connected with `obl:prep`: <tt><a 
 # visual-style 3 4 obl:prep	color:blue
 1	''	''	PUNCT	Punct	_	3	punct	_	_
 2	Ní	is	AUX	Cop	Polarity=Neg|Tense=Pres|VerbForm=Cop	3	cop	_	_
-3	dóigh	dóigh	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
+3	dóigh	dóigh	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 4	liom	le	ADP	Prep	Number=Sing|Person=1	3	obl:prep	_	_
 5	go	go	PART	Vb	PartType=Cmpl	6	mark:prt	_	_
 6	n-oirfeadh	oir	VERB	VI	Form=Ecl|Mood=Cnd	3	csubj:cop	_	_

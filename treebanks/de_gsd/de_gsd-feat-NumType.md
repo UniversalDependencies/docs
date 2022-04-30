@@ -40,7 +40,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (418; 100% of non-empty `NumType`): <em>II, 1, 2, III, 3, 4, Sieben, 2000, 6, 90</em>
-* `EMPTY` (30426): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
+* `EMPTY` (30356): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
 
 `NumType` seems to be **lexical feature** of `PROPN`. 100% lemmas (225) occur only with one value of `NumType`.
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (27; 100% of non-empty `NumType`): <em>Null, drei, zwei, 1/2h, 1000m, 1392, 1542, 1571, 1827, 1838</em>
-* `EMPTY` (52173): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52195): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 `NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (24) occur only with one value of `NumType`.
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (8; 100% of non-empty `NumType`): <em>eine, eins, ein, einem, einen, eines</em>
-* `EMPTY` (37367): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
+* `EMPTY` (37383): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 
 ### `ADJ`
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (3; 43% of non-empty `NumType`): <em>3, siebenhundert, zehntausend</em>
 * `Ord` (4; 57% of non-empty `NumType`): <em>erste, 19., Ersten</em>
-* `EMPTY` (20561): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
+* `EMPTY` (20596): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
 
 ### `X`
 
@@ -89,7 +89,7 @@ The most frequent other feature values with which `X` and `NumType` co-occurred:
 `X` tokens may have the following values of `NumType`:
 
 * `Card` (5; 100% of non-empty `NumType`): <em>2n, 60m, 7Fe0, 9S8, S8</em>
-* `EMPTY` (339): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
+* `EMPTY` (336): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
 
 ### `ADV`
 
@@ -98,7 +98,7 @@ The most frequent other feature values with which `X` and `NumType` co-occurred:
 `ADV` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>2x</em>
-* `EMPTY` (14861): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14855): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ## Relations with Agreement in `NumType`
 

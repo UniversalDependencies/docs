@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-957 nodes (3%) are attached to their parents as `root`.
+1059 nodes (3%) are attached to their parents as `root`.
 
-957 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.95506792058516.
+1059 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.8243626062323.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (751; 78% instances), -<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (128; 13% instances), -<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (28; 3% instances), -<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), -<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (12; 1% instances), -<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (7; 1% instances), -<tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> (5; 1% instances), -<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="orv_rnc-pos-X.html">X</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (836; 79% instances), -<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (138; 13% instances), -<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (34; 3% instances), -<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), -<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (12; 1% instances), -<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (7; 1% instances), -<tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> (6; 1% instances), -<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="orv_rnc-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -16,12 +16,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sr_set-pos-PART.htm
 
 ### `PART`
 
-347 <tt><a href="sr_set-pos-PART.html">PART</a></tt> tokens (61% of all `PART` tokens) have a non-empty value of `Polarity`.
+347 <tt><a href="sr_set-pos-PART.html">PART</a></tt> tokens (59% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (347; 100% of non-empty `Polarity`): <em>ne, ni, niti</em>
-* `EMPTY` (224): <em>li, i, ni, sve, bilo, god, čak, Naime, evo, Dakle</em>
+* `EMPTY` (239): <em>li, i, bilo, ni, sve, god, čak, Naime, evo, Dakle</em>
 
 ### `AUX`
 

@@ -38,7 +38,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 14	Costa	costa	PROPN	_	_	9	appos	_	_
 15	Rica	rica	PROPN	_	_	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
-17	establecido	establecido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	_
+17	establecido	establecer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	_
 18	en	en	ADP	_	_	19	case	_	_
 19	1883	1883	NUM	_	NumType=Card	17	obl	_	_
 20	con	con	ADP	_	_	22	case	_	_
@@ -57,7 +57,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 33	población	población	NOUN	_	Gender=Fem|Number=Sing	31	obj	_	_
 34	cabecera	cabecero	ADJ	_	Gender=Fem|Number=Sing	33	amod	_	_
 35	posteriormente	posteriormente	ADV	_	_	36	advmod	_	_
-36	denominada	denominado	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	33	acl	_	_
+36	denominada	denominar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	33	acl	_	_
 37	Villa	Villa	PROPN	_	_	36	xcomp	_	_
 38	Colón	Colón	PROPN	_	_	37	flat	_	_
 39	y	y	CCONJ	_	_	40	cc	_	_

@@ -9,27 +9,27 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: <tt><a href="id_csui-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-845 nodes (3%) are attached to their parents as `advmod`.
+935 nodes (3%) are attached to their parents as `advmod`.
 
-735 instances of `advmod` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57514792899408.
+826 instances of `advmod` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.20855614973262.
 
-The following 21 pairs of parts of speech are connected with `advmod`: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (320; 38% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (174; 21% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (125; 15% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-PART.html">PART</a></tt> (71; 8% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (34; 4% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-PART.html">PART</a></tt> (32; 4% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-PART.html">PART</a></tt> (14; 2% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-PART.html">PART</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-X.html">X</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `advmod`: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (389; 42% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (177; 19% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (128; 14% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-PART.html">PART</a></tt> (71; 8% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (34; 4% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-PART.html">PART</a></tt> (32; 3% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (9; 1% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-PART.html">PART</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-X.html">X</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 advmod	color:blue
-1	Namun	namun	CCONJ	CC	_	5	cc	_	_
+# visual-style 5 1 advmod	color:blue
+1	Namun	namun	ADV	RB	_	5	advmod	_	_
 2	dana	dana	NOUN	NN	Number=Sing	5	nsubj:pass	_	_
-3	tersebut	sebut	DET	DT	_	2	det	_	_
+3	tersebut	sebut	DET	DT	PronType=Dem	2	det	_	_
 4	baru	baru	ADV	RB	_	5	advmod	_	_
-5	terpakai	pakai	VERB	VB	Voice=Pass	0	root	_	_
-6	168	168	NUM	CD	_	8	nummod	_	_
-7	juta	juta	NUM	CD	_	6	flat	_	_
+5	terpakai	pakai	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	_
+6	168	168	NUM	CD	NumType=Card	8	nummod	_	_
+7	juta	juta	NUM	CD	NumType=Card	6	flat	_	_
 8	dolar	dolar	NOUN	NN	Number=Sing	5	obl	_	_
 9	AS	AS	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	5	punct	_	_
@@ -38,21 +38,16 @@ The following 21 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 advmod	color:blue
-1	Perkembangan	kembang	NOUN	NN	Number=Sing	9	obl	_	_
-2	sektor	sektor	NOUN	NN	Number=Sing	1	nmod	_	_
-3	riil	riil	ADJ	JJ	_	1	amod	_	_
-4	di	di	ADP	IN	_	5	case	_	_
-5	bulan	bulan	NOUN	NN	Number=Sing	1	nmod:tmod	_	_
-6	Juni	Juni	PROPN	NNP	_	5	nmod:tmod	_	_
-7	2007	2007	NUM	CD	_	5	nummod	_	_
-8	sangat	sangat	ADV	RB	_	9	advmod	_	_
-9	positif	positif	ADJ	JJ	_	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	9	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 advmod	color:blue
+1	Namun	namun	ADV	RB	_	4	advmod	_	_
+2	Rooney	Rooney	PROPN	NNP	_	4	nsubj	_	_
+3	tidak	tidak	PART	RP	Polarity=Neg	4	advmod	_	_
+4	sendirian	sendiri	ADJ	JJ	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

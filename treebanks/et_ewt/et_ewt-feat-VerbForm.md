@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 5 different values: `Conv`, `Fin`, `Inf`, `Part`, `Sup`.
 
-12493 tokens (18%) have a non-empty value of `VerbForm`.
-3849 types (24%) occur at least once with a non-empty value of `VerbForm`.
-1379 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (8262; 12% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (3531; 5% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (645; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (55; 0% instances).
+13130 tokens (18%) have a non-empty value of `VerbForm`.
+3970 types (24%) occur at least once with a non-empty value of `VerbForm`.
+1413 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (8653; 12% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (3755; 5% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (667; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (55; 0% instances).
 
 ### `VERB`
 
-8262 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+8653 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (7411; 90%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6098; 74%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4825; 58%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4234; 51%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4221; 51%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4146; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (7765; 90%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6402; 74%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5059; 58%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4404; 51%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4392; 51%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4371; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (154; 2% of non-empty `VerbForm`): <em>minnes, võttes, arvates, võrreldes, arvestades, kasutades, lugedes, vaadates, kartes, pannes</em>
-* `Fin` (5427; 66% of non-empty `VerbForm`): <em>on, tuleb, tea, saab, tuli, läks, saa, arvan, läheb, pole</em>
-* `Inf` (1421; 17% of non-empty `VerbForm`): <em>teha, saada, minna, teada, öelda, panna, näha, võtta, kirjutada, osta</em>
-* `Part` (693; 8% of non-empty `VerbForm`): <em>saanud, kuulnud, tulnud, antud, läinud, käinud, pandud, tehtud, teinud, lisatud</em>
-* `Sup` (567; 7% of non-empty `VerbForm`): <em>olemas, tegema, hakkama, saama, maksma, minema, kirjutama, rääkimata, tulema, mõtlema</em>
+* `Conv` (155; 2% of non-empty `VerbForm`): <em>minnes, võrreldes, võttes, arvates, arvestades, kasutades, lugedes, vaadates, kartes, pannes</em>
+* `Fin` (5704; 66% of non-empty `VerbForm`): <em>on, tuleb, saab, tea, läheb, tuli, läks, saa, arvan, pole</em>
+* `Inf` (1481; 17% of non-empty `VerbForm`): <em>teha, saada, minna, teada, öelda, panna, võtta, näha, kirjutada, osta</em>
+* `Part` (727; 8% of non-empty `VerbForm`): <em>saanud, kuulnud, tulnud, antud, käinud, läinud, tehtud, teinud, pandud, lisatud</em>
+* `Sup` (586; 7% of non-empty `VerbForm`): <em>olemas, tegema, minema, hakkama, saama, maksma, kirjutama, mõtlema, rääkimata, tulema</em>
 
 <table>
   <tr><th>Paradigm <i>olema</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -66,18 +66,18 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-3531 <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+3755 <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3459; 98%), <tt><a href="et_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3244; 92%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2928; 83%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2901; 82%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2128; 60%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (2115; 60%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3682; 98%), <tt><a href="et_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3456; 92%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3116; 83%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3095; 82%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2274; 61%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (2261; 60%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Conv` (4; 0% of non-empty `VerbForm`): <em>olles</em>
-* `Fin` (3349; 95% of non-empty `VerbForm`): <em>on, oli, pole, oleks, ole, olen, võib, peaks, peab, oled</em>
-* `Inf` (68; 2% of non-empty `VerbForm`): <em>olla</em>
-* `Part` (53; 2% of non-empty `VerbForm`): <em>olnud, võinud, pidanud, saanud, pinanud, v6inud</em>
-* `Sup` (57; 2% of non-empty `VerbForm`): <em>olema, olemagi, saama</em>
-* `EMPTY` (1119): <em>ei, mai, 2ra, e</em>
+* `Fin` (3564; 95% of non-empty `VerbForm`): <em>on, oli, pole, oleks, ole, olen, võib, peaks, peab, oled</em>
+* `Inf` (69; 2% of non-empty `VerbForm`): <em>olla</em>
+* `Part` (56; 1% of non-empty `VerbForm`): <em>olnud, võinud, pidanud, saanud, pinanud, v6inud</em>
+* `Sup` (62; 2% of non-empty `VerbForm`): <em>olema, olemagi, saama</em>
+* `EMPTY` (1172): <em>ei, mai, 2ra, e</em>
 
 <table>
   <tr><th>Paradigm <i>olema</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -109,7 +109,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olen, olengi</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oled, oledki, ole</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oli, oligi</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="et_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>pn</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="et_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ple, pn</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>on, ongi, ole</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olime</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oleme, olemegi</em></td><td></td><td></td><td></td><td></td></tr>
@@ -127,17 +127,17 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-645 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+667 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (638; 99%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (437; 68%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (372; 58%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (660; 99%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (451; 68%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (385; 58%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (636; 99% of non-empty `VerbForm`): <em>huvitav, antud, teatud, ülejäänud, erinevaid, asetatud, karastatud, tehtud, erinevad, mainitud</em>
+* `Part` (658; 99% of non-empty `VerbForm`): <em>huvitav, antud, teatud, ülejäänud, erinevaid, tehtud, asetatud, karastatud, erinevad, erinevate</em>
 * `Sup` (9; 1% of non-empty `VerbForm`): <em>Tegemata, harmoniseerimata, lahendamata, niitmata, poolitamata, tasumata, tasustamata, treenimata, täpsustamata</em>
-* `EMPTY` (3324): <em>hea, võimalik, õige, suur, vana, esimene, head, tore, lihtne, inglise</em>
+* `EMPTY` (3511): <em>hea, võimalik, õige, head, suur, vana, parem, esimene, tore, lihtne</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (369) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (376) occur only with one value of `VerbForm`.
 
 ### `NOUN`
 
@@ -148,16 +148,16 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Part` (55; 100% of non-empty `VerbForm`): <em>nakatunuid, surnuid, nakatunutest, nakatunut, nakatunu, nakatunust, nakatunute, surnu, surnut, tänud</em>
-* `EMPTY` (13697): <em>asi, aasta, aru, teema, inimesed, inimene, osa, elu, aega, kooli</em>
+* `EMPTY` (14228): <em>asi, aasta, teema, aru, inimesed, inimene, aega, osa, elu, auto</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (22) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1045; 81%),
-<tt>VERB --[<tt><a href="et_ewt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (237; 62%),
-<tt>VERB --[<tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (111; 63%),
+<tt>VERB --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1079; 80%),
+<tt>VERB --[<tt><a href="et_ewt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (241; 62%),
+<tt>VERB --[<tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (118; 65%),
 <tt>VERB --[<tt><a href="et_ewt-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (6; 100%),
 <tt>NOUN --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 67%),
 <tt>VERB --[<tt><a href="et_ewt-dep-dep.html">dep</a></tt>]--> VERB</tt> (2; 67%),

@@ -23,7 +23,7 @@ The following 15 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 16	fgColor:white
 # visual-style 16 14 obj	color:blue
 1	多彩	多彩	ADJ	形状詞-一般	_	4	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=形状詞-一般|SpaceAfter=No
-2	な	だ	AUX	助動詞	_	1	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No
+2	な	だ	AUX	助動詞-助動詞-ダ	_	1	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No
 3	ライブ	ライブ	NOUN	名詞-普通名詞-一般	_	4	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	アクト	アクト	NOUN	名詞-普通名詞-一般	_	6	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 5	と	と	ADP	助詞-格助詞	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
@@ -37,11 +37,11 @@ The following 15 pairs of parts of speech are connected with `obj`: <tt><a href=
 13	の	の	ADP	助詞-格助詞	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 14	夜	夜	NOUN	名詞-普通名詞-副詞可能	_	16	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 15	を	を	ADP	助詞-格助詞	_	14	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-16	盛り上げ	盛り上げる	VERB	動詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-下一段-ガ行|SpaceAfter=No
+16	盛り上げ	盛り上げる	VERB	動詞-一般-下一段-ガ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-下一段-ガ行|SpaceAfter=No
 17	て	て	SCONJ	助詞-接続助詞	_	16	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-下一段-ラ行|SpaceAfter=No
-18	くれ	くれる	VERB	動詞-非自立可能	_	17	fixed	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=助動詞-下一段-ラ行|SpaceAfter=No
+18	くれ	くれる	VERB	動詞-非自立可能-下一段-ラ行	_	17	fixed	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=助動詞-下一段-ラ行|SpaceAfter=No
 19	そう	そう	AUX	形状詞-助動詞語幹	_	16	aux	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=形状詞-助動詞語幹|SpaceAfter=No
-20	だ	だ	AUX	助動詞	_	16	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No
+20	だ	だ	AUX	助動詞-助動詞-ダ	_	16	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No
 21	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~
@@ -69,12 +69,12 @@ The following 15 pairs of parts of speech are connected with `obj`: <tt><a href=
 14	の	の	ADP	助詞-格助詞	_	13	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 15	危機	危機	NOUN	名詞-普通名詞-一般	_	18	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=形状詞-一般|SpaceAfter=No
 16	的	的	PART	接尾辞-形状詞的	_	15	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=形状詞-一般|SpaceAfter=No
-17	な	だ	AUX	助動詞	_	15	cop	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No
+17	な	だ	AUX	助動詞-助動詞-ダ	_	15	cop	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No
 18	状況	状況	NOUN	名詞-普通名詞-一般	_	20	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 19	が	が	ADP	助詞-格助詞	_	18	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-20	続い	続く	VERB	動詞-非自立可能	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-カ行|SpaceAfter=No
+20	続い	続く	VERB	動詞-非自立可能-五段-カ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-カ行|SpaceAfter=No
 21	て	て	SCONJ	助詞-接続助詞	_	20	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-上一段-ア行|SpaceAfter=No
-22	いる	いる	VERB	動詞-非自立可能	_	21	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞-上一段-ア行|SpaceAfter=No
+22	いる	いる	VERB	動詞-非自立可能-上一段-ア行	_	21	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞-上一段-ア行|SpaceAfter=No
 23	。	。	PUNCT	補助記号-句点	_	20	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~
@@ -103,7 +103,7 @@ The following 15 pairs of parts of speech are connected with `obj`: <tt><a href=
 15	バス	バス	NOUN	名詞-普通名詞-一般	_	17	nsubj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 16	が	が	ADP	助詞-格助詞	_	15	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 17	通過	通過	VERB	名詞-普通名詞-サ変可能	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
-18	する	する	AUX	動詞-非自立可能	_	17	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
+18	する	する	AUX	動詞-非自立可能-サ行変格	_	17	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
 19	。	。	PUNCT	補助記号-句点	_	17	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~

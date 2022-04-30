@@ -9,34 +9,35 @@ udver: '2'
 This feature is universal but the values `Equ` are language-specific.
 It occurs with 8 different values: `Abl`, `Acc`, `Dat`, `Equ`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-12218 tokens (33%) have a non-empty value of `Case`.
-4006 types (60%) occur at least once with a non-empty value of `Case`.
-2372 lemmas (63%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (5212; 14% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4176; 11% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1084; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (768; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (557; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (294; 1% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (91; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (36; 0% instances).
+12215 tokens (33%) have a non-empty value of `Case`.
+4003 types (60%) occur at least once with a non-empty value of `Case`.
+2373 lemmas (63%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (5199; 14% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4176; 11% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1084; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (778; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (557; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (294; 1% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (91; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (36; 0% instances).
 
 ### `NOUN`
 
-5212 <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
+5199 <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4504; 86%), <tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4504; 86%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4332; 83%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3104; 60%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4491; 86%), <tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4491; 86%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4320; 83%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3093; 59%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (124; 2% of non-empty `Case`): <em>yüzden, şeyden, Hauptschuleden, yerden, yönden, Abiturdan, Tunnelden, içimden, işten, kitaptan</em>
-* `Acc` (1122; 22% of non-empty `Case`): <em>Buch, şeyi, Sachen, Zeit, şey, Jahr, Pause, Praktikum, Tag, kitabı</em>
+* `Abl` (124; 2% of non-empty `Case`): <em>yüzden, şeyden, Hauptschuleden, yerden, yönden, Abiturdan, Fitnessden, Realschuleden, Tunnelden, içimden</em>
+* `Acc` (1119; 22% of non-empty `Case`): <em>Buch, şeyi, Sachen, Zeit, şey, Jahr, Pause, Praktikum, Tag, kitabı</em>
 * `Dat` (769; 15% of non-empty `Case`): <em>Beispiel, şeye, Hause, üzerine, eve, hoşuma, Uni, Wochenende, Leuten, tatile</em>
 * `Equ` (1; 0% of non-empty `Case`): <em>milyonlarca</em>
 * `Gen` (139; 3% of non-empty `Case`): <em>Dings, şeyin, adamın, annemin, insanın, oyuncuların, oyunun, Autornun, CPUların, ailemin</em>
-* `Ins` (83; 2% of non-empty `Case`): <em>annemle, arkadaşlarımla, insanlarla, Kunde'lerle, arabayla, numarayla, uçakla, şeyle, şeylerle, Autorlarla</em>
-* `Loc` (370; 7% of non-empty `Case`): <em>yerde, okulda, şeyde, ileride, filmde, içinde, derste, halde, evde, hakkında</em>
-* `Nom` (2604; 50% of non-empty `Case`): <em>şey, şimdi, zaman, sene, şeyler, hafta, saat, kitap, tane, Leute</em>
-* `EMPTY` (83): <em>Alter, King, Cheeseburger, Queens, Mann, Motherboard, Protectors, action, dagger, man</em>
+* `Ins` (82; 2% of non-empty `Case`): <em>annemle, arkadaşlarımla, insanlarla, Kundelerle, arabayla, numarayla, uçakla, şeyle, şeylerle, Autorlarla</em>
+* `Loc` (364; 7% of non-empty `Case`): <em>yerde, okulda, şeyde, ileride, filmde, içinde, derste, evde, hakkında, üzerinde</em>
+* `Nom` (2601; 50% of non-empty `Case`): <em>şey, şimdi, zaman, sene, şeyler, hafta, saat, kitap, tane, Leute</em>
+* `EMPTY` (84): <em>Alter, King, Cheeseburger, Queens, action, Mann, Motherboard, Protectors, dagger, man</em>
 
 <table>
   <tr><th>Paradigm <i>şey</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>şey, s--</em></td><td><em>şeyi, şey, şeye</em></td><td><em>şeye, şey</em></td><td><em>şeyin</em></td><td><em>şeyde</em></td><td><em>şeyle</em></td><td><em>şeyden</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>şey</em></td><td><em>şeyi, şey, şeye</em></td><td><em>şeye, şey</em></td><td><em>şeyin</em></td><td><em>şeyde</em></td><td><em>şeyle</em></td><td><em>şeyden</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>şeyi</em></td><td><em>şeyini, şeyi</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>şeyleri</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>s--</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>şeyler</em></td><td><em>şeyleri</em></td><td><em>şeylere</em></td><td><em>şeylerin</em></td><td></td><td><em>şeylerle</em></td><td><em>şeylerden</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>şeyleri</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
@@ -45,7 +46,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 4176 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3674; 88%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2773; 66%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2705; 65%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3674; 88%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2773; 66%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2738; 66%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -61,13 +62,14 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>o</em></td><td><em>onu</em></td><td><em>ona</em></td><td><em>onun, o--</em></td><td></td><td><em>onunla</em></td><td><em>ondan</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>o</em></td><td><em>onu</em></td><td><em>ona</em></td><td><em>onun</em></td><td></td><td><em>onunla</em></td><td><em>ondan</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td></td><td><em>o--</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onlar, o</em></td><td><em>onları</em></td><td><em>onlara</em></td><td><em>Onların</em></td><td><em>Onlarda</em></td><td><em>onlarla</em></td><td><em>onlardan</em></td></tr>
 </table>
 
 ### `DET`
 
-1084 <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> tokens (63% of all `DET` tokens) have a non-empty value of `Case`.
+1084 <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (935; 86%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (915; 84%), <tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (689; 64%).
 
@@ -77,35 +79,38 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Dat` (375; 35% of non-empty `Case`): <em>dem, der, den, einem, einer, diesem, jedem, jeder, ein, manchen</em>
 * `Gen` (14; 1% of non-empty `Case`): <em>der, des</em>
 * `Nom` (297; 27% of non-empty `Case`): <em>die, ein, das, der, eine, keine, viele, dieses, diese, dieser</em>
-* `EMPTY` (625): <em>bir, o, her, bu, böyle, çok, öyle, hangi, şu, birkaç</em>
+* `EMPTY` (620): <em>bir, o, her, bu, böyle, çok, öyle, hangi, şu, birkaç</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>der</em></td><td><em>den</em></td><td><em>dem, der</em></td><td><em>der</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>der</em></td><td></td><td><em>der</em></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>die</em></td><td><em>die, den</em></td><td><em>den</em></td><td><em>der</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>die</em></td><td><em>die, den</em></td><td><em>der</em></td><td><em>der</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>die</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>die</em></td><td><em>die, den</em></td><td><em>den, der</em></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>das, der</em></td><td><em>das</em></td><td><em>dem</em></td><td><em>des</em></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td></td><td><em>des</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>den</em></td><td><em>der</em></td></tr>
 </table>
 
 ### `PROPN`
 
-768 <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> tokens (88% of all `PROPN` tokens) have a non-empty value of `Case`.
+778 <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> tokens (88% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (736; 96%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (426; 55%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (746; 96%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (432; 56%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Abl` (22; 3% of non-empty `Case`): <em>Allah'tan, Amazon'dan, Essen'den, Almanya'dan, Arsenal'dan, Bochum'dan, Brezilya'dan, Daimler'dan, Dortmund'dan, Frankfurt'dan</em>
-* `Acc` (109; 14% of non-empty `Case`): <em>Türkei, Deutschland, Englisch, Henna, Konstanz, Rap, A2, BK, Groupon, Spanisch</em>
+* `Abl` (23; 3% of non-empty `Case`): <em>Allah'tan, Amazon'dan, Essen'den, Almanya'dan, Arsenal'dan, Bochum'dan, Brezilya'dan, Daimler'dan, Dortmund'dan, Frankfurt'dan</em>
+* `Acc` (113; 15% of non-empty `Case`): <em>Türkei, Deutschland, Englisch, Henna, Konstanz, Rap, A2, BK, Groupon, Man'i</em>
 * `Dat` (178; 23% of non-empty `Case`): <em>Samsun, Berlin'e, Deutschland, Englisch, Türkei, İstanbul'a, Deutschen, Dortmund, Freitag, Istanbul</em>
 * `Equ` (4; 1% of non-empty `Case`): <em>Türkçe, İngilizce</em>
 * `Gen` (28; 4% of non-empty `Case`): <em>BK'nın, Konstanz'ın, Türkiye'nin, İstanbul'un, Almanya'nın, Apple'in, Austen'nın, Beşiktaş'ın, DC'nin, Ertaş'ın</em>
-* `Ins` (2; 0% of non-empty `Case`): <em>Eren'le, İsveç'le</em>
-* `Loc` (72; 9% of non-empty `Case`): <em>Türkiye'de, Almanya'da, Netflix'te, Amazon'da, Frankfurt'da, Hertrampf'da, Hohenheim'da, IMS'de, Malta'da, Offenbach'da</em>
-* `Nom` (353; 46% of non-empty `Case`): <em>Türkçe, Stuttgart, Türk, İngilizce, Alman, Türkler, Allah, BWL, Deutsch, Fransızca</em>
-* `EMPTY` (108): <em>Netflix, Iron, Keanu, Bachelor, Basic, Batman, Englisch, Fast, Ghul, Jane</em>
+* `Ins` (4; 1% of non-empty `Case`): <em>Eren'le, Man'le, Softwaretechnik'le, İsveç'le</em>
+* `Loc` (73; 9% of non-empty `Case`): <em>Türkiye'de, Almanya'da, Netflix'te, Amazon'da, Frankfurt'da, Hertrampf'da, Hohenheim'da, IMS'de, Malta'da, Offenbach'da</em>
+* `Nom` (355; 46% of non-empty `Case`): <em>Türkçe, Stuttgart, Türk, İngilizce, Alman, Türkler, Allah, BWL, Deutsch, Fransızca</em>
+* `EMPTY` (105): <em>Netflix, Iron, Keanu, Bachelor, Basic, Batman, Englisch, Fast, Ghul, Jane</em>
 
 <table>
   <tr><th>Paradigm <i>Türkiye</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
@@ -180,7 +185,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Ins` (2; 2% of non-empty `Case`): <em>likle</em>
 * `Loc` (5; 5% of non-empty `Case`): <em>içinde, orada, karşında</em>
 * `Nom` (64; 70% of non-empty `Case`): <em>ki, geçen, li, lik, lü, lı, lık, lılar, lığı, kiler</em>
-* `EMPTY` (1568): <em>in, zu, sonra, için, mit, von, für, auf, an, gibi</em>
+* `EMPTY` (1567): <em>in, zu, sonra, için, mit, von, für, auf, an, gibi</em>
 
 <table>
   <tr><th>Paradigm <i>lik</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
@@ -212,11 +217,11 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (867; 57%),
-<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (194; 58%),
+<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (193; 58%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (128; 72%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (67; 60%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (55; 68%),
-<tt>PROPN --[<tt><a href="qtd_sagt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (40; 73%),
+<tt>PROPN --[<tt><a href="qtd_sagt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (40; 74%),
 <tt>PROPN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (38; 67%),
 <tt>PRON --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (32; 82%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (28; 72%),

@@ -37,7 +37,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 13	mente	mente	NOUN	_	Gender=Masc|Number=Sing	12	goeswith	_	_
 14	valorizados	valorizar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	7	acl	_	_
 15	por	por	ADP	_	_	16	case	_	_
-16	Patrick	Patrick	PROPN	_	Gender=Masc|Number=Sing	14	obl:agent	_	MWE=Patrick_Brennan|MWEPOS=PROPN
+16	Patrick	Patrick	PROPN	_	ExtPos=PROPN|Gender=Masc|Number=Sing	14	obl:agent	_	_
 17	Brennan	Brennan	PROPN	_	Number=Sing	16	flat:name	_	SpaceAfter=No
 18	:	:	PUNCT	_	_	20	punct	_	_
 19	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -49,7 +49,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 25	tocar	tocar	VERB	_	VerbForm=Inf	23	acl	_	_
 26	(	(	PUNCT	_	_	38	punct	_	SpaceAfter=No
 27	sem	sem	ADP	_	_	29	case	_	_
-28	os	o	DET	_	Gender=Masc|Number=Plur|PronType=Art	29	det	_	MWE=os_quais
+28	os	o	DET	_	Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
 29	quais	qual	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	38	obl	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	29	punct	_	_
 31	aliás	aliás	ADV	_	_	38	advmod	_	SpaceAfter=No
@@ -66,7 +66,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 42	que	que	SCONJ	_	_	55	mark	_	SpaceAfter=No
 43	,	,	PUNCT	_	_	44	punct	_	_
 44	mais	mais	ADV	_	_	55	advmod	_	_
-45	de	de	ADP	_	_	49	case	_	MWE=do_que
+45	de	de	ADP	_	_	49	case	_	_
 46	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	45	fixed	_	_
 47	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	45	fixed	_	_
 48	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	49	det	_	_
@@ -89,7 +89,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 65	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	66	det	_	_
 66	desenvolvimento	desenvolvimento	NOUN	_	Gender=Masc|Number=Sing	60	nmod	_	_
 67	de	de	ADP	_	_	69	case	_	_
-68	as	o	DET	_	Definite=Def|PronType=Art	69	det	_	_
+68	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	69	det	_	_
 69	notas	nota	NOUN	_	Gender=Fem|Number=Plur	66	nmod	_	_
 70	e	e	CCONJ	_	_	78	cc	_	SpaceAfter=No
 71	,	,	PUNCT	_	_	72	punct	_	_
@@ -129,7 +129,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 12	fgColor:white
 # visual-style 12 13 goeswith	color:blue
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	agência	agência	PROPN	_	Gender=Fem|Number=Sing	5	nsubj	_	MWE=agência_Nova_China
+2	agência	agência	PROPN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	Nova	Nova	PROPN	_	Number=Sing	2	flat:name	_	_
 4	China	China	PROPN	_	Number=Sing	2	flat:name	_	_
 5	informou	informar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -139,7 +139,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 9	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
 10	dicionário	dicionário	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
 11	de	de	ADP	_	_	14	case	_	_
-12	34	34	NUM	_	NumType=Card	14	nummod	_	MWE=34_470
+12	34	34	NUM	_	NumType=Card	14	nummod	_	_
 13	470	470	NUM	_	NumType=Card	12	goeswith	_	_
 14	entradas	entrada	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
 15	em	em	ADP	_	_	16	case	_	_

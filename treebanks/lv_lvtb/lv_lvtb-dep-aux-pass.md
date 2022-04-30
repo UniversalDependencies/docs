@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-aux.html">aux</a></tt>.
 
-1524 nodes (1%) are attached to their parents as `aux:pass`.
+1597 nodes (1%) are attached to their parents as `aux:pass`.
 
-1503 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11548556430446.
+1576 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1108328115216.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1519; 100% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1591; 100% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -26,6 +26,32 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	nav	būt	AUX	vcnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	3:aux:pass	LvtbNodeId=a-d197-p78s6w2
 3	precēta	precēt	VERB	vmnpdfsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	LvtbNodeId=a-d197-p78s6w3|SpaceAfter=No
 4	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d197-p78s6w4
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 aux:pass	color:blue
+1	Vēl	vēl	ADV	r0t	_	3	advmod	3:advmod	LvtbNodeId=a-d198-p73s2w1
+2	vienmēr	vienmēr	ADV	r0t	PronType=Tot	3	advmod	3:advmod	LvtbNodeId=a-d198-p73s2w2
+3	kaila	kails	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-d198-p73s2w3|SpaceAfter=No
+4	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d198-p73s2w4
+5	vēl	vēl	ADV	r0t	_	7	advmod	7:advmod	LvtbNodeId=a-d198-p73s2w5
+6	vienmēr	vienmēr	ADV	r0t	PronType=Tot	7	advmod	7:advmod	LvtbNodeId=a-d198-p73s2w6
+7	salstu	salt	VERB	vmnipi11san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj	LvtbNodeId=a-d198-p73s2w7|SpaceAfter=No
+8	,	,	PUNCT	zc	_	13	punct	13:punct	LvtbNodeId=a-d198-p73s2w8
+9	bet	bet	CCONJ	cc	_	13	cc	13:cc	LvtbNodeId=a-d198-p73s2w9
+10	vīrieša	vīrietis	NOUN	ncmsg2	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod:gen	LvtbNodeId=a-d198-p73s2w10
+11	balss	balss	NOUN	ncfsn6	Case=Nom|Gender=Fem|Number=Sing	13	nsubj:pass	13:nsubj:pass|15.1:nsubj	LvtbNodeId=a-d198-p73s2w11
+12	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux:pass	13:aux:pass	LvtbNodeId=a-d198-p73s2w12
+13	silta	silts	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	conj	3:conj	LvtbNodeId=a-d198-p73s2w13
+14	un	un	CCONJ	cc	_	15	cc	15.1:cc	LvtbNodeId=a-d198-p73s2w14
+15	tuvu	tuvu	ADV	r0p	_	13	conj	15.1:advmod	LvtbNodeId=a-d198-p73s2w15|SpaceAfter=No
+16	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d198-p73s2w16
 
 ~~~
 
@@ -53,32 +79,6 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 15	tēmu	tēma	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	4	conj	4:conj	LvtbNodeId=a-p10683-p20s6w15
 16	nebūs	būt	AUX	vcnifii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act	15	cop	15:cop	LvtbNodeId=a-p10683-p20s6w16|SpaceAfter=No
 17	!	!	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-p10683-p20s6w17
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 12 aux:pass	color:blue
-1	Vēl	vēl	ADV	r0t	_	3	advmod	3:advmod	LvtbNodeId=a-d198-p73s2w1
-2	vienmēr	vienmēr	ADV	r0t	PronType=Tot	3	advmod	3:advmod	LvtbNodeId=a-d198-p73s2w2
-3	kaila	kails	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-d198-p73s2w3|SpaceAfter=No
-4	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d198-p73s2w4
-5	vēl	vēl	ADV	r0t	_	7	advmod	7:advmod	LvtbNodeId=a-d198-p73s2w5
-6	vienmēr	vienmēr	ADV	r0t	PronType=Tot	7	advmod	7:advmod	LvtbNodeId=a-d198-p73s2w6
-7	salstu	salt	VERB	vmnipi11san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj	LvtbNodeId=a-d198-p73s2w7|SpaceAfter=No
-8	,	,	PUNCT	zc	_	13	punct	13:punct	LvtbNodeId=a-d198-p73s2w8
-9	bet	bet	CCONJ	cc	_	13	cc	13:cc	LvtbNodeId=a-d198-p73s2w9
-10	vīrieša	vīrietis	NOUN	ncmsg2	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod:gen	LvtbNodeId=a-d198-p73s2w10
-11	balss	balss	NOUN	ncfsn6	Case=Nom|Gender=Fem|Number=Sing	13	nsubj:pass	13:nsubj:pass|15.1:nsubj	LvtbNodeId=a-d198-p73s2w11
-12	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux:pass	13:aux:pass	LvtbNodeId=a-d198-p73s2w12
-13	silta	silts	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	conj	3:conj	LvtbNodeId=a-d198-p73s2w13
-14	un	un	CCONJ	cc	_	15	cc	15.1:cc	LvtbNodeId=a-d198-p73s2w14
-15	tuvu	tuvu	ADV	r0p	_	13	conj	15.1:advmod	LvtbNodeId=a-d198-p73s2w15|SpaceAfter=No
-16	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d198-p73s2w16
 
 ~~~
 

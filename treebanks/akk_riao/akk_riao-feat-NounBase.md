@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Bound`, `Free`, `Suffixal`, `Terminal`.
 
-7435 tokens (32%) have a non-empty value of `NounBase`.
-1078 types (37%) occur at least once with a non-empty value of `NounBase`.
-643 lemmas (41%) occur at least once with a non-empty value of `NounBase`.
-The feature is used with 6 part-of-speech tags: <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (7320; 31% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (92; 0% instances), <tt><a href="akk_riao-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+7284 tokens (31%) have a non-empty value of `NounBase`.
+1075 types (37%) occur at least once with a non-empty value of `NounBase`.
+641 lemmas (41%) occur at least once with a non-empty value of `NounBase`.
+The feature is used with 6 part-of-speech tags: <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (7169; 31% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (92; 0% instances), <tt><a href="akk_riao-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-7320 <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> tokens (82% of all `NOUN` tokens) have a non-empty value of `NounBase`.
+7169 <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> tokens (82% of all `NOUN` tokens) have a non-empty value of `NounBase`.
 
-The most frequent other feature values with which `NOUN` and `NounBase` co-occurred: <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6050; 83%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4360; 60%), <tt><a href="akk_riao-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4081; 56%).
+The most frequent other feature values with which `NOUN` and `NounBase` co-occurred: <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5924; 83%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4263; 59%), <tt><a href="akk_riao-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3990; 56%).
 
 `NOUN` tokens may have the following values of `NounBase`:
 
-* `Bound` (2640; 36% of non-empty `NounBase`): <em>šar, māt, mār, ēkal, bīt, iššak, pān, āl, šakin, ebertān</em>
-* `Free` (2607; 36% of non-empty `NounBase`): <em>kiššati, šarru, maddattu, libbi, siparri, išātāti, mātāti, ummānāti, rubû, narkabāti</em>
-* `Suffixal` (2033; 28% of non-empty `NounBase`): <em>šallas, māti, bēli, šēpī, šum, šarrūti, sihirti, ummānāti, kakkī, bēlūti</em>
+* `Bound` (2576; 36% of non-empty `NounBase`): <em>šar, māt, mār, ēkal, bīt, iššak, pān, āl, šakin, ebertān</em>
+* `Free` (2555; 36% of non-empty `NounBase`): <em>kiššati, šarru, maddattu, libbi, siparri, išātāti, mātāti, ummānāti, rubû, narkabāti</em>
+* `Suffixal` (1998; 28% of non-empty `NounBase`): <em>šallas, māti, bēli, šēpī, šum, šarrūti, sihirti, ummānāti, kakkī, bēlūti</em>
 * `Terminal` (40; 1% of non-empty `NounBase`): <em>bilat, mana, qāta</em>
 
 <table>
@@ -91,8 +91,9 @@ The most frequent other feature values with which `PROPN` and `NounBase` co-occu
 ## Relations with Agreement in `NounBase`
 
 The 10 most frequent relations where parent and child node agree in `NounBase`:
-<tt>NOUN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> NOUN</tt> (446; 51%),
+<tt>NOUN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> NOUN</tt> (444; 51%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (12; 75%),
 <tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (11; 92%),
-<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%).
+<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>NOUN --[<tt><a href="akk_riao-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1; 100%).
 

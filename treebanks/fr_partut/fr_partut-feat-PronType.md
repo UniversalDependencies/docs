@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Exc` are language-specific.
 It occurs with 8 different values: `Art`, `Dem`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`.
 
-6419 tokens (22%) have a non-empty value of `PronType`.
+6420 tokens (22%) have a non-empty value of `PronType`.
 161 types (4%) occur at least once with a non-empty value of `PronType`.
 70 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4791; 17% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1611; 6% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (17; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4792; 17% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1611; 6% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (17; 0% instances).
 
 ### `DET`
 
-4791 <tt><a href="fr_partut-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+4792 <tt><a href="fr_partut-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3374; 70%), <tt><a href="fr_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (3351; 70%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (3974; 83% of non-empty `PronType`): <em>le, les, la, l', une, un, des, d', de, du</em>
-* `Dem` (301; 6% of non-empty `PronType`): <em>ce, cette, ces, cet, de, d', Des, telles</em>
+* `Dem` (302; 6% of non-empty `PronType`): <em>ce, cette, ces, cet, de, d', Des, telles</em>
 * `Exc` (1; 0% of non-empty `PronType`): <em>quel</em>
 * `Ind` (234; 5% of non-empty `PronType`): <em>toute, tous, tout, certains, aucune, toutes, chaque, quelques, aucun, autres</em>
 * `Int` (3; 0% of non-empty `PronType`): <em>quel, quelle</em>
@@ -77,7 +77,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Neg` (17; 100% of non-empty `PronType`): <em>non</em>
-* `EMPTY` (983): <em>pas, plus, également, tout, ainsi, très, donc, lors, moins, bien</em>
+* `EMPTY` (984): <em>pas, plus, également, tout, ainsi, très, donc, lors, moins, bien</em>
 
 ## Relations with Agreement in `PronType`
 

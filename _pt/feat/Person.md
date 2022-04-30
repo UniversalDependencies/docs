@@ -44,4 +44,4 @@ speakers nor addressees.
 * _<b>ele, ela, eles, elas</b>_
 * _<b>quer, querem</b>_
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:37 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:26 CET 2021 -->

@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj:caus	color:blue
 1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:caus	_	wordform=il
-2	s'	se	PRON	_	Person=3|PronType=Prs	5	obl:arg	_	SpaceAfter=No
+2	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	iobj	_	SpaceAfter=No
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	_
 5	poser	poser	VERB	_	VerbForm=Inf	0	root	_	_

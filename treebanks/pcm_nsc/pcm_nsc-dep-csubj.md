@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-73 nodes (0%) are attached to their parents as `csubj`.
+63 nodes (0%) are attached to their parents as `csubj`.
 
-50 instances of `csubj` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.3972602739726.
+42 instances of `csubj` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.3968253968254.
 
-The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (37; 51% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (19; 26% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `csubj`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (29; 46% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (18; 29% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 8	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=179901|AlignEnd=180131|Gloss=be
 9	too	too	ADV	_	_	10	advmod	_	AlignBegin=180131|AlignEnd=180391|Gloss=too
 10	hard	hard	ADJ	_	_	8	xcomp	_	AlignBegin=180391|AlignEnd=180660|Gloss=hard
-11	o	o	PART	_	PartType=Disc	10	advmod	_	AlignBegin=180660|AlignEnd=180850|Gloss=EMPH
+11	o	o	PART	_	PartType=Disc	8	advmod	_	AlignBegin=180660|AlignEnd=180850|Gloss=EMPH
 12	//	//	X	_	_	8	dep	_	AlignBegin=180850|AlignEnd=180880|Gloss=PUNCT
 
 ~~~
@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 4 7 csubj	color:blue
 1	#	#	X	_	_	4	dep	_	AlignBegin=137100|AlignEnd=137440|Gloss=PUNCT
 2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	AlignBegin=137440|AlignEnd=137505|Gloss=NOM.SG.3
-3	no	no	PART	_	Polarity=Neg	4	advmod	_	AlignBegin=137505|AlignEnd=137740|Gloss=NEG
+3	no	no	AUX	_	Polarity=Neg	4	aux	_	AlignBegin=137505|AlignEnd=137740|Gloss=NEG
 4	good	good	ADJ	_	_	0	root	_	AlignBegin=137740|AlignEnd=137880|Gloss=good
 5	make	make	AUX	_	Mood=Opt	7	aux	_	AlignBegin=137880|AlignEnd=138020|Gloss=SBJV
 6	person	person	NOUN	_	_	7	nsubj	_	AlignBegin=138020|AlignEnd=138350|Gloss=person
@@ -60,18 +60,20 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 csubj	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=462231|AlignEnd=462800|Gloss=PUNCT
-2	so	so	ADV	_	_	4	discourse	_	AlignBegin=462800|AlignEnd=462890|Gloss=so
-3	na	na	AUX	_	PartType=Cop	4	cop	_	AlignBegin=462890|AlignEnd=463080|Gloss=be
-4	taboo	taboo	NOUN	_	_	0	root	_	AlignBegin=463080|AlignEnd=463530|Gloss=taboo
-5	for	for	ADP	_	_	6	case	_	AlignBegin=463530|AlignEnd=463940|Gloss=for
-6	woman	woman	NOUN	_	_	4	nmod	_	AlignBegin=463940|AlignEnd=464290|Gloss=woman
-7	to	to	ADP	_	_	8	mark	_	AlignBegin=464290|AlignEnd=464470|Gloss=to
-8	go	go	VERB	_	_	4	csubj	_	AlignBegin=464470|AlignEnd=464586|Gloss=go
-9	//	//	X	_	_	4	dep	_	AlignBegin=464586|AlignEnd=464616|Gloss=PUNCT
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 csubj	color:blue
+1	#	#	X	_	_	10	dep	_	AlignBegin=191667|AlignEnd=191878|Gloss=PUNCT
+2	but	but	CCONJ	_	_	10	discourse	_	AlignBegin=191878|AlignEnd=192040|Gloss=but
+3	now	now	ADV	_	_	10	advmod	_	AlignBegin=192040|AlignEnd=192359|Gloss=now
+4	<	<	X	_	_	3	dep	_	AlignBegin=192359|AlignEnd=192389|Gloss=PUNCT
+5	#	#	X	_	_	3	dep	_	AlignBegin=192389|AlignEnd=192519|Gloss=PUNCT
+6	even	even	ADV	_	_	8	advmod	_	AlignBegin=192519|AlignEnd=192849|Gloss=even
+7	to	to	ADP	_	_	8	mark	_	AlignBegin=192849|AlignEnd=193129|Gloss=to
+8	eat	eat	VERB	_	_	10	csubj	_	AlignBegin=193129|AlignEnd=193389|Gloss=eat
+9	now	now	ADV	_	_	8	advmod	_	AlignBegin=193389|AlignEnd=193599|Gloss=now
+10	na	na	AUX	_	PartType=Cop	0	root	_	AlignBegin=193599|AlignEnd=193970|Gloss=be|Scrap=Yes
+11	&//	&//	X	_	_	10	dep	_	AlignBegin=193970|AlignEnd=194000|Gloss=PUNCT
 
 ~~~
 

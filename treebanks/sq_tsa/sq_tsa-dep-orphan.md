@@ -22,17 +22,17 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 orphan	color:blue
-1	Forcat	forcë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	4	nsubj	4:nsubj	_
-2	ushtarake	ushtarak	ADJ	_	Gender=Fem|Number=Plur	1	amod	1:amod	_
-3	u	u	AUX	_	_	4	aux	4:aux	_
-4	formuan	formoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	0	root	0:root	_
-5	për	për	ADP	_	_	6	case	6:case	_
-6	mbrojtje	mbrojtje	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	obl	4:obl	_
-7	dhe	dhe	CCONJ	_	_	8	cc	8:cc	_
-8	qeveria	qeveri	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	conj	4:conj	_
-9	për	për	ADP	_	_	10	case	10:case	_
-10	administrim	administrim	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	orphan	8:orphan	SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	4:punct	_
+1	Forcat	forcë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	4	nsubj	_	_
+2	ushtarake	ushtarak	ADJ	_	Gender=Fem|Number=Plur	1	amod	_	_
+3	u	u	AUX	_	_	4	aux	_	_
+4	formuan	formoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+5	për	për	ADP	_	_	6	case	_	_
+6	mbrojtje	mbrojtje	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	_
+7	dhe	dhe	CCONJ	_	_	8	cc	_	_
+8	qeveria	qeveri	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	conj	_	_
+9	për	për	ADP	_	_	10	case	_	_
+10	administrim	administrim	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	orphan	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

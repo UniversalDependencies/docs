@@ -68,15 +68,15 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 compound	color:blue
-1	Въ	въ	ADP	_	_	2	case	_	Norm=Въ|SpaceAfter=Yes
-2	Цари	Царь	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	4	compound	_	Norm=Цари|SpaceAfter=Yes
-3	же	же	PART	_	_	2	advmod	_	Norm=же|SpaceAfter=Yes
-4	граде	градъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	Norm=граде|SpaceAfter=Yes
-5	тогда	тогда	ADV	_	Degree=Pos	6	advmod	_	Norm=тогда|SpaceAfter=Yes
-6	царствуя	царствовати	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	root	_	Norm=царствуя|SpaceAfter=Yes
-7	Михаилъ	Михаилъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Norm=Михаилъ|SpaceAfter=Yes
+1	Въ	въ	ADP	_	_	2	case	_	Norm=Въ
+2	Цари	Царь	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	4	compound	_	Norm=Цари
+3	же	же	PART	_	_	2	advmod	_	Norm=же
+4	граде	градъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	Norm=граде
+5	тогда	тогда	ADV	_	Degree=Pos	6	advmod	_	Norm=тогда
+6	царствуя	царствовати	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	root	_	Norm=царствуя
+7	Михаилъ	Михаилъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Norm=Михаилъ
 8	Пафлегоненинъ	Пафлегоненинъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	Norm=Пафлегоненинъ|SpaceAfter=No
-9	.	.	PUNCT	_	_	6	punct	_	Norm=.|SpaceAfter=Yes
+9	.	.	PUNCT	_	_	6	punct	_	Norm=.
 
 ~~~
 

@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ro_rrt-pos-NUM.html
 
 5605 <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4665; 83%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4477; 80%), <tt><a href="ro_rrt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (3851; 69%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4665; 83%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4476; 80%), <tt><a href="ro_rrt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (3852; 69%).
 
 `NUM` tokens may have the following values of `NumType`:
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="gd_arcosg-dep-case.html">case</a></tt>.
 
-59 nodes (0%) are attached to their parents as `case:voc`.
+67 nodes (0%) are attached to their parents as `case:voc`.
 
-59 instances of `case:voc` (100%) are right-to-left (child precedes parent).
+67 instances of `case:voc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (40; 68% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (15; 25% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (4; 7% instances).
+The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (42; 63% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (19; 28% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (6; 9% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a h
 # visual-style 9 8 case:voc	color:blue
 1	tha	bi	VERB	V-p	Tense=Pres	0	root	_	_
 2	thusa	thu	PRON	Pp2s--e	Form=Emp|Number=Sing|Person=2	1	nsubj	_	_
-3	nad	nad	ADP	Sp	_	5	case	_	_
+3	nad	an	ADP	Sp	_	5	case	_	_
 4	do	do	PRON	Dp2s	Number=Sing|Person=2|Poss=Yes	5	nmod:poss	_	_
 5	ghille	gille	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	1	xcomp:pred	_	_
 6	mhòr	mòr	ADJ	Aq-smd	Case=Dat|Gender=Masc|Number=Sing	5	amod	_	_
@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a h
 1	ciamar	ciamar	ADV	Uq	_	3	xcomp:pred	_	_
 2	a	a	PART	Q-r	PartType=Vb|PronType=Rel	3	mark:prt	_	_
 3	bha	bi	VERB	V-s	Tense=Past	0	root	_	_
-4	na	an	DET	Tdp	Number=Plur	5	det	_	_
+4	na	an	DET	Tdp	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	veggie	veggie	NOUN	Xfe	Foreign=Yes	3	nsubj	_	_
 6	burgers	burgers	NOUN	Xfe	Foreign=Yes	5	flat:name	_	_
 7	a	a	PART	Uv	PartType=Voc	8	case:voc	_	_

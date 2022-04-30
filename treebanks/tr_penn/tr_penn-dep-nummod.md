@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3540 nodes (4%) are attached to their parents as `nummod`.
+6775 nodes (4%) are attached to their parents as `nummod`.
 
-3526 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16949152542373.
+6759 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16309963099631.
 
-The following 17 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (1916; 54% instances), <tt><a href="tr_penn-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (689; 19% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (233; 7% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (233; 7% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (193; 5% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (152; 4% instances), <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (61; 2% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="tr_penn-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="tr_penn-pos-DET.html">DET</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="tr_penn-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="tr_penn-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_penn-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="tr_penn-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (3978; 59% instances), <tt><a href="tr_penn-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (1216; 18% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (577; 9% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (298; 4% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (270; 4% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (203; 3% instances), <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (132; 2% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (34; 1% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (19; 0% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="tr_penn-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="tr_penn-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="tr_penn-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="tr_penn-pos-DET.html">DET</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="tr_penn-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_penn-pos-DET.html">DET</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_penn-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 17 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 7	fgColor:white
 # visual-style 7 6 nummod	color:blue
 1	Faiz	faiz	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
-2	dışı	dış	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	amod	_	_
+2	dışı	dış	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	nmod	_	_
 3	giderler	gider	NOUN	_	Case=Nom|Number=Plur|Person=3	9	nsubj	_	_
 4	%16'lık	%16'lık	NOUN	_	Case=Nom|Number=Sing|Person=3	5	amod	_	_
 5	artışla	art	NOUN	_	Case=Ins|Number=Sing|Person=3	9	obl	_	_
@@ -69,7 +69,7 @@ The following 17 pairs of parts of speech are connected with `nummod`: <tt><a hr
 5	milyon	milyon	NUM	_	NumType=Card	6	nummod	_	_
 6	adi	adi	ADJ	_	_	7	amod	_	_
 7	hisseye	hisse	NOUN	_	Case=Dat|Number=Sing|Person=3	8	obj	_	_
-8	sahiptir	sahip	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+8	sahiptir	sahip	VERB	_	Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~

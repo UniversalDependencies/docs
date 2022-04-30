@@ -27,7 +27,7 @@ The following 22 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	FATURAMI	fatura	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	6	obj	_	_
 4	NE	ne	ADV	_	PronType=Int	6	advmod	_	_
 5	ZAMAN	zaman	NOUN	_	Case=Nom|Number=Sing|Person=3	4	fixed	_	_
-6	ALABİLİRİM	al	VERB	_	Aspect=Hab|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ALABİLİRİM	al	VERB	_	Aspect=Hab|Mood=GenPot|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -55,7 +55,7 @@ The following 22 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
 1	HİÇ	hiç	ADV	_	_	3	nmod	_	_
-2	BİR	bir	DET	_	Definite=Ind	1	fixed	_	_
+2	BİR	bir	DET	_	Definite=Ind|PronType=Art	1	fixed	_	_
 3	SORUN	sorun	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
 4	ÇIKMADI	çık	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_

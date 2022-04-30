@@ -25,9 +25,9 @@ The following 18 pairs of parts of speech are connected with `cc`: <tt><a href="
 1	Bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	sí	sí	PRON	Pers	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
 3	naoi	naoi	NUM	Num	NumType=Card	4	nummod	_	_
-4	mbliana	bliain	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Fem|Number=Plur	1	xcomp:pred	_	_
+4	mbliana	bliain	NOUN	Noun	Case=Nom|Form=Ecl|Gender=Fem|Number=Plur	1	xcomp:pred	_	_
 5	agus	agus	CCONJ	Coord	_	6	cc	_	_
-6	leathchéad	leathchéad	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+6	leathchéad	leathchéad	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -40,8 +40,8 @@ The following 18 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
 1	Cheannaigh	ceannaigh	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	Seán	Seán	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	leabhar	leabhar	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	2	obj	_	_
+2	Seán	Seán	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	leabhar	leabhar	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	_
 4	agus	agus	CCONJ	Coord	_	5	cc	_	_
 5	léigh	léigh	VERB	VTI	Mood=Ind|Tense=Past	1	conj	_	_
 6	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_

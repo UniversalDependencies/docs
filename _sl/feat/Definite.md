@@ -30,4 +30,4 @@ Definiteness in Slovenian is an inflectional feature of masculine word forms in 
 All adjectives and numerals with feature Definiteness=yes are converted to `Definite=Def` and all adjectives and numerals with feature Definiteness=no are converted to `Definite=Ind`.
 
 However, note that definiteness has not been sufficiently solved within JOS, as it could also be attributed to other POS categories or category types, such as ordinal written numerals (_prvi, drugi, tretji_) and pronouns (_neki_). Consequently, some inconsistencies occur, as different JOS categories are merged into one UD category. For example, JOS-adjective _slovenski_ "Slovenian" has feature `Definite=Def`, whereas JOS-numeral _prvi_ "the first" does not have any `Definite` feature, although they are both tagged as UD `ADJ` and display identical grammatical characteristics.
-<!-- Interlanguage links updated Pá kvě 14 11:08:30 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:19 CET 2021 -->

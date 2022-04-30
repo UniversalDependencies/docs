@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `CCONJ`
 
-There are 6 `CCONJ` lemmas (2%), 6 `CCONJ` types (1%) and 40 `CCONJ` tokens (5%).
+There are 6 `CCONJ` lemmas (1%), 6 `CCONJ` types (1%) and 40 `CCONJ` tokens (4%).
 Out of 15 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 11 in number of types and 6 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>и, а, да, не, но, али</em>
 
 The 10 most frequent `CCONJ` types:  <em>и, а, да, не, но, али</em>
 
-The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1), <em>да</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1), <em>не</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1), <em>да</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1), <em>не</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 2, <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1), <em>да</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1), <em>не</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1), <em>да</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1), <em>не</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 2, <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 2)
 
 
 * <em>и</em>
@@ -25,12 +25,12 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="koi_uh-pos-CCON
   * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Сія пондыліс чапкыны куритны <b>да</b> юны .</em>
   * <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Ме эг вермы сійӧ вӧтны , ӧддьӧн чожа котӧртіс <b>да</b> .</em>
 * <em>не</em>
+  * <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 2: <em>Ме татӧн <b>не</b> ӧтнам .</em>
   * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Эз позь бӧрйыны <b>не</b> Питер Смитӧс , <b>не</b> Мери Браунӧс .</em>
-  * <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1: <em>Ме татӧн <b>не</b> ӧтнам .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.206107).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.228365).
 
 The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 

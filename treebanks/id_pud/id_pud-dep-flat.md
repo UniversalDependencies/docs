@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="id_pud-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="id_pud-dep-flat-name.html">flat:name</a></tt>.
 
-121 nodes (1%) are attached to their parents as `flat`.
+116 nodes (1%) are attached to their parents as `flat`.
 
-121 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.37190082644628.
+116 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.38793103448276.
 
-The following 12 pairs of parts of speech are connected with `flat`: <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (51; 42% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (24; 20% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (19; 16% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (6; 5% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (5; 4% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (3; 2% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (51; 44% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (24; 21% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (19; 16% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (6; 5% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (5; 4% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (3; 3% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,10 +25,10 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 9 11 flat	color:blue
 1	Raja	raja	NOUN	_	Number=Sing	5	nsubj	_	_
 2	pertama	pertama	ADJ	_	NumType=Ord	1	amod	_	_
-3	nya	nya	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+3	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	1	nmod:poss	_	_
 4	adalah	adalah	AUX	_	_	5	cop	_	_
 5	Mojmír	Mojmír	PROPN	_	_	0	root	_	_
-6	I	i	ADJ	_	NumType=Ord	5	amod	_	_
+6	I	I	PROPN	_	_	5	flat:name	_	_
 7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
 8	berkuasa	kuasa	VERB	_	Mood=Ind|Voice=Act	5	parataxis	_	_
 9	830	830	NUM	_	NumType=Card	8	obl:tmod	_	_

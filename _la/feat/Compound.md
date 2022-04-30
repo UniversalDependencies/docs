@@ -28,4 +28,4 @@ Depending on the source, two (or more) words which act as a single unit may appe
 * ***idest*** 'that is', from *id* 'it' and *est* 'is', form of *sum* 'to be'; a phrase which, like *scilicet*, ultimately became an explicative conjunction
     * one often finds this expression written separately as *id est*, or abbreviated as *i.e.*: in such cases, `fixed` is used
 * ***animaduerto*** 'to give attention to', from *anima* 'soul' and *aduerto* 'to turn to'
-<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:18 CET 2021 -->

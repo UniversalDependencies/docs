@@ -24,10 +24,10 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-PART.
 
 ### `ADV`
 
-125 <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> tokens (13% of all `ADV` tokens) have a non-empty value of `Polarity`.
+125 <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> tokens (12% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (125; 100% of non-empty `Polarity`): <em>pas</em>
-* `EMPTY` (875): <em>plus, également, tout, ainsi, très, donc, lors, moins, bien, aussi</em>
+* `EMPTY` (876): <em>plus, également, tout, ainsi, très, donc, lors, moins, bien, aussi</em>
 

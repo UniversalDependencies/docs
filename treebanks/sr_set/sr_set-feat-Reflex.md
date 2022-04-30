@@ -27,12 +27,12 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 ### `DET`
 
-347 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Reflex`.
+347 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (347; 100%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (347; 100%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (347; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (221; 64%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (199; 57%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (347; 100%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (347; 100%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (347; 100%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (347; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (221; 64%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (199; 57%).
 
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (347; 100% of non-empty `Reflex`): <em>svoje, svoj, svoju, svog, svojih, svojim, svom, svojoj, svoja, svojom</em>
-* `EMPTY` (3318): <em>koji, to, koje, koja, ove, sve, toga, nekoliko, koju, taj</em>
+* `EMPTY` (3292): <em>koji, to, koje, koja, ove, sve, toga, nekoliko, koju, taj</em>
 

@@ -27,8 +27,8 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 3	キューバ	キューバ	PROPN	名詞-固有名詞-地名-国	_	5	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-地名-国|SpaceAfter=No
 4	を	を	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 5	解放	解放	VERB	名詞-普通名詞-サ変可能	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
-6	し	する	AUX	動詞-非自立可能	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
-7	た	た	AUX	助動詞	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+6	し	する	AUX	動詞-非自立可能-サ行変格	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
+7	た	た	AUX	助動詞-助動詞-タ	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 8	（	（	PUNCT	補助記号-括弧開	_	12	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧開|SpaceAfter=No
 9	米軍	米軍	NOUN	名詞-普通名詞-一般	_	12	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 10	の	の	ADP	助詞-格助詞	_	12	dep	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
@@ -73,8 +73,8 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 25	が	が	ADP	助詞-格助詞	_	29	dep	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 26	珍味	珍味	NOUN	名詞-普通名詞-一般	_	29	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 27	と	と	ADP	助詞-格助詞	_	29	dep	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-28	さ	する	AUX	動詞-非自立可能	_	29	dep	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
-29	れる	れる	AUX	助動詞	_	22	appos	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-レル|SpaceAfter=No
+28	さ	する	AUX	動詞-非自立可能-サ行変格	_	29	dep	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
+29	れる	れる	AUX	助動詞-助動詞-レル	_	22	appos	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-レル|SpaceAfter=No
 30	）	）	PUNCT	補助記号-括弧閉	_	29	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧閉|SpaceAfter=No
 31	、	、	PUNCT	補助記号-読点	_	22	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No
 32	バッファロー	バッファロー	NOUN	名詞-普通名詞-一般	_	34	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -88,16 +88,16 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 40	や	や	ADP	助詞-副助詞	_	39	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-副助詞|SpaceAfter=No
 41	葉	葉	NOUN	名詞-普通名詞-一般	_	45	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 42	、	、	PUNCT	補助記号-読点	_	41	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No
-43	生き	生きる	VERB	動詞-一般	_	45	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-上一段-カ行|SpaceAfter=No
-44	た	た	AUX	助動詞	_	43	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+43	生き	生きる	VERB	動詞-一般-上一段-カ行	_	45	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-上一段-カ行|SpaceAfter=No
+44	た	た	AUX	助動詞-助動詞-タ	_	43	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 45	ヒキガエル	ヒキガエル	NOUN	名詞-普通名詞-一般	_	47	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 46	、	、	PUNCT	補助記号-読点	_	45	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No
 47	ナマズ	ナマズ	NOUN	名詞-普通名詞-一般	_	49	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 48	を	を	ADP	助詞-格助詞	_	47	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-49	見	みる	VERB	動詞-非自立可能	_	51	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-上一段-マ行|SpaceAfter=No
+49	見	みる	VERB	動詞-非自立可能-上一段-マ行	_	51	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-上一段-マ行|SpaceAfter=No
 50	て	て	SCONJ	助詞-接続助詞	_	49	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-接続助詞|SpaceAfter=No
-51	まわっ	まわる	VERB	動詞-非自立可能	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-ラ行|SpaceAfter=No
-52	た	た	AUX	助動詞	_	51	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+51	まわっ	まわる	VERB	動詞-非自立可能-五段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-ラ行|SpaceAfter=No
+52	た	た	AUX	助動詞-助動詞-タ	_	51	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 53	。	。	PUNCT	補助記号-句点	_	51	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~
@@ -136,8 +136,8 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 25	が	が	ADP	助詞-格助詞	_	29	dep	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 26	珍味	珍味	NOUN	名詞-普通名詞-一般	_	29	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 27	と	と	ADP	助詞-格助詞	_	29	dep	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-28	さ	する	AUX	動詞-非自立可能	_	29	dep	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
-29	れる	れる	AUX	助動詞	_	22	appos	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-レル|SpaceAfter=No
+28	さ	する	AUX	動詞-非自立可能-サ行変格	_	29	dep	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
+29	れる	れる	AUX	助動詞-助動詞-レル	_	22	appos	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-レル|SpaceAfter=No
 30	）	）	PUNCT	補助記号-括弧閉	_	29	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧閉|SpaceAfter=No
 31	、	、	PUNCT	補助記号-読点	_	22	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No
 32	バッファロー	バッファロー	NOUN	名詞-普通名詞-一般	_	34	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
@@ -151,16 +151,16 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 40	や	や	ADP	助詞-副助詞	_	39	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-副助詞|SpaceAfter=No
 41	葉	葉	NOUN	名詞-普通名詞-一般	_	45	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 42	、	、	PUNCT	補助記号-読点	_	41	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No
-43	生き	生きる	VERB	動詞-一般	_	45	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-上一段-カ行|SpaceAfter=No
-44	た	た	AUX	助動詞	_	43	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+43	生き	生きる	VERB	動詞-一般-上一段-カ行	_	45	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-上一段-カ行|SpaceAfter=No
+44	た	た	AUX	助動詞-助動詞-タ	_	43	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 45	ヒキガエル	ヒキガエル	NOUN	名詞-普通名詞-一般	_	47	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 46	、	、	PUNCT	補助記号-読点	_	45	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No
 47	ナマズ	ナマズ	NOUN	名詞-普通名詞-一般	_	49	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 48	を	を	ADP	助詞-格助詞	_	47	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-49	見	みる	VERB	動詞-非自立可能	_	51	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-上一段-マ行|SpaceAfter=No
+49	見	みる	VERB	動詞-非自立可能-上一段-マ行	_	51	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-上一段-マ行|SpaceAfter=No
 50	て	て	SCONJ	助詞-接続助詞	_	49	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-接続助詞|SpaceAfter=No
-51	まわっ	まわる	VERB	動詞-非自立可能	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-ラ行|SpaceAfter=No
-52	た	た	AUX	助動詞	_	51	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+51	まわっ	まわる	VERB	動詞-非自立可能-五段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-ラ行|SpaceAfter=No
+52	た	た	AUX	助動詞-助動詞-タ	_	51	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 53	。	。	PUNCT	補助記号-句点	_	51	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~

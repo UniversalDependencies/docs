@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>во</em> (<tt><a href="kpv_ikdp-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.374517 (the average of all parts of speech is 1.333333).
+The form / lemma ratio of `NOUN` is 1.374517 (the average of all parts of speech is 1.332903).
 
 The 1st highest number of forms (7) was observed with the lemma “вок”: <em>Воке, вок, воклэн, вокныс, вокъяскед, вокъясыс, вокыдлэн</em>.
 

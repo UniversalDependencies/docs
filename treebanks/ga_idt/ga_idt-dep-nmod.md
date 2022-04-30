@@ -23,14 +23,14 @@ The following 64 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 nmod	color:blue
-1	Leaba	leaba	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
-2	mhór	mór	ADJ	Adj	Case=NomAcc|Form=Len|Gender=Fem|Number=Sing	1	amod	_	_
+1	Leaba	leaba	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	mhór	mór	ADJ	Adj	Case=Nom|Form=Len|Gender=Fem|Number=Sing	1	amod	_	_
 3	agus	agus	SCONJ	Subord	_	4	mark	_	_
 4	í	í	PRON	Pers	Gender=Fem|Number=Sing|Person=3	1	advcl	_	_
 5	cóirithe	cóirithe	ADJ	Adj	VerbForm=Part	4	xcomp:pred	_	_
 6	fé	faoi	ADP	Simp	_	7	case	_	_
-7	bhrat	brat	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	4	nmod	_	_
-8	buí	buí	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	7	amod	_	_
+7	bhrat	brat	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	4	nmod	_	_
+8	buí	buí	ADJ	Adj	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
 9	síoda	síoda	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -43,11 +43,11 @@ The following 64 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 nmod	color:blue
-1	Campa	campa	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+1	Campa	campa	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 2	samhraidh	samhradh	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NamedEntity=Yes
-3	Óg-Eagras	Óg-Eagras	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	flat	_	NamedEntity=Yes|SpaceAfter=No
+3	Óg-Eagras	Óg-Eagras	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	flat	_	NamedEntity=Yes|SpaceAfter=No
 4	,	,	PUNCT	Punct	_	5	punct	_	_
-5	Ionad	ionad	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes
+5	Ionad	ionad	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes
 6	Mosney	Mosney	PROPN	Noun	Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	NamedEntity=Yes|SpaceAfter=No
 7	,	,	PUNCT	Punct	_	8	punct	_	_
 8	Co.	contae	NOUN	Abr	Abbr=Yes|Definite=Def	1	nmod	_	NamedEntity=Yes

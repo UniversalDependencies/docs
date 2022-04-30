@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Dist`, `Mult`, `Ord`.
 
-836 tokens (2%) have a non-empty value of `NumType`.
-152 types (1%) occur at least once with a non-empty value of `NumType`.
-61 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (287; 1% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (256; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (202; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (91; 0% instances).
+837 tokens (2%) have a non-empty value of `NumType`.
+153 types (1%) occur at least once with a non-empty value of `NumType`.
+62 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (287; 1% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (256; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (203; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (91; 0% instances).
 
 ### `ADJ`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Dist` (3; 1% of non-empty `NumType`): <em>duodena, singulis, tredena</em>
 * `Ord` (284; 99% of non-empty `NumType`): <em>prima, primo, primum, primi, secundo, quarto, secunda, primus, tertio, tertium</em>
-* `EMPTY` (3786): <em>humanum, consequens, manifestum, necesse, verum, romanorum, illustre, romanus, falsum, inpossibile</em>
+* `EMPTY` (3787): <em>humanum, consequens, manifestum, necesse, verum, romanorum, illustre, romanus, falsum, inpossibile</em>
 
 <table>
   <tr><th>Paradigm <i>singuli</i></th><th><tt>Ord</tt></th><th><tt>Dist</tt></th></tr>
@@ -48,14 +48,16 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `DET`
 
-202 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `NumType`.
+203 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (202; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (202; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (147; 73%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (203; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (203; 100%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (202; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (147; 72%).
 
 `DET` tokens may have the following values of `NumType`:
 
-* `Card` (202; 100% of non-empty `NumType`): <em>quantum, una, multa, unum, plura, uno, multis, pluribus, unius, multi</em>
-* `EMPTY` (3324): <em>hoc, illa, illud, hec, ipsum, omnes, aliud, sua, quedam, huius</em>
+* `Card` (203; 100% of non-empty `NumType`): <em>quantum, una, multa, unum, plura, uno, multis, pluribus, unius, multi</em>
+* `EMPTY` (3323): <em>hoc, illa, illud, hec, ipsum, omnes, aliud, sua, quedam, huius</em>
+
+`NumType` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `NumType`.
 
 ### `ADV`
 
@@ -68,7 +70,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Card` (32; 35% of non-empty `NumType`): <em>quantum, quanto, quantumcunque</em>
 * `Mult` (5; 5% of non-empty `NumType`): <em>semel, bis, ter, multotiens</em>
 * `Ord` (54; 59% of non-empty `NumType`): <em>primo, primum, secundo, tertio, quinto, Quarto, tertium</em>
-* `EMPTY` (2783): <em>sic, etiam, vero, nunc, tamen, bene, iam, magis, et, solum</em>
+* `EMPTY` (2936): <em>sic, ergo, etiam, vero, nunc, tamen, bene, iam, magis, et</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (14) occur only with one value of `NumType`.
 

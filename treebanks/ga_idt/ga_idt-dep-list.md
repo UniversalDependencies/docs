@@ -23,7 +23,7 @@ The following 16 pairs of parts of speech are connected with `list`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 list	color:blue
 1	(a)	(a)	NUM	Item	_	2	list	_	_
-2	Ospideul	ospideul	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	0	root	_	_
+2	Ospideul	ospideul	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	meán-suidhte	meán-suidhte	ADJ	Adj	VerbForm=Part	2	xcomp:pred	_	_
 4	chun	chun	ADP	Simp	_	5	case	_	_
 5	cásanna	cás	NOUN	Noun	Case=Gen|Gender=Masc|NounType=Strong|Number=Plur	2	nmod	_	_
@@ -49,9 +49,9 @@ The following 16 pairs of parts of speech are connected with `list`: <tt><a href
 3	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
 4	a	a	PART	Nm	PartType=Num	2	mark:prt	_	_
 5	dó	dó	NUM	Num	NumType=Card	8	nummod	_	_
-6	dhéag	déag	NOUN	Subst	Case=NomAcc|Form=Len|Number=Sing	5	nmod	_	_
+6	dhéag	déag	NOUN	Subst	Case=Nom|Form=Len|Number=Sing	5	nmod	_	_
 7	a	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
-8	chlog	clog	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	obl:tmod	_	SpaceAfter=No
+8	chlog	clog	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	obl:tmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
@@ -63,15 +63,15 @@ The following 16 pairs of parts of speech are connected with `list`: <tt><a href
 # visual-style 66	bgColor:blue
 # visual-style 66	fgColor:white
 # visual-style 66 71 list	color:blue
-1	Céimeanna	céim	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Plur	0	root	_	_
+1	Céimeanna	céim	NOUN	Noun	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
 2	comparáide	comparáid	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
 3	-	-	PUNCT	Punct	_	4	punct	_	_
-4	Aidiachtaí	aidiacht	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Plur	1	parataxis	_	_
+4	Aidiachtaí	aidiacht	NOUN	Noun	Case=Nom|Gender=Fem|Number=Plur	1	parataxis	_	_
 5	a	a	PART	Vb	Form=Direct|PartType=Vb|PronType=Rel	6	nsubj	_	_
 6	chríochnaíonn	críochnaigh	VERB	VTI	Form=Len|Mood=Ind|Tense=Pres	4	acl:relcl	_	_
 7	ar	ar	ADP	Simp	_	8	case	_	_
-8	chonsan	consan	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	6	obl	_	_
-9	leathan	leathan	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	8	amod	_	_
+8	chonsan	consan	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	6	obl	_	_
+9	leathan	leathan	ADJ	Adj	Case=Nom|Gender=Masc|Number=Sing	8	amod	_	_
 10	mall	mall	ADJ	Adj	Degree=Pos	4	parataxis	_	_
 11	slow	slow	X	Foreign	Foreign=Yes	10	appos	_	_
 12	níos	níos	PART	Cmp	PartType=Comp	13	mark:prt	_	_
@@ -117,7 +117,7 @@ The following 16 pairs of parts of speech are connected with `list`: <tt><a href
 52	is	is	PART	Sup	PartType=Sup	53	mark:prt	_	_
 53	fuaire	fuar	ADJ	Adj	Degree=Cmp,Sup	48	list	_	_
 54	bán	bán	ADJ	Adj	Degree=Pos	10	list	_	_
-55	white	whi	ADJ	Adj	Foreign=Yes|VerbForm=Part	54	appos	_	_
+55	white	white	ADJ	Adj	Foreign=Yes	54	appos	_	_
 56	níos	níos	PART	Cmp	PartType=Comp	57	mark:prt	_	_
 57	báine	bán	ADJ	Adj	Degree=Cmp,Sup	54	list	_	_
 58	is	is	PART	Sup	PartType=Sup	59	mark:prt	_	_
@@ -135,8 +135,8 @@ The following 16 pairs of parts of speech are connected with `list`: <tt><a href
 70	is	is	PART	Sup	PartType=Sup	71	mark:prt	_	_
 71	ciallmhaire	ciallmhar	ADJ	Adj	Degree=Cmp,Sup	66	list	_	_
 72	Más	má	SCONJ	Subord	VerbForm=Cop	73	mark	_	_
-73	aidiacht	aidiacht	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	76	advcl	_	_
-74	leathan	leathan	ADJ	Adj	Case=NomAcc|Gender=Fem|Number=Sing	73	amod	_	_
+73	aidiacht	aidiacht	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	76	advcl	_	_
+74	leathan	leathan	ADJ	Adj	Case=Nom|Gender=Fem|Number=Sing	73	amod	_	_
 75	í	í	PRON	Pers	Gender=Fem|Number=Sing|Person=3	73	nsubj	_	_
 76	déan	déan	VERB	VTI	Mood=Imp|Number=Sing|Person=2	1	advcl	_	_
 77	caol	caol	ADJ	Adj	Degree=Pos	76	xcomp:pred	_	_
@@ -146,7 +146,7 @@ The following 16 pairs of parts of speech are connected with `list`: <tt><a href
 81	-e	-e	SYM	_	_	80	obj	_	_
 82	leis	le	ADP	Prep	Gender=Masc|Number=Sing|Person=3	80	obl:prep	_	_
 83	sna	i	ADP	Art	Number=Plur|PronType=Art	84	case	_	_
-84	foirmeacha	foirm	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Plur	80	obl	_	_
+84	foirmeacha	foirm	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	80	obl	_	_
 85	comparáide	comparáid	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	84	nmod	_	SpaceAfter=No
 86	.	.	PUNCT	.	_	1	punct	_	_
 

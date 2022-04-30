@@ -22,12 +22,12 @@ The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 obl	color:blue
-1	xop	xop	DET	dem	_	4	obl	4:obl	_
-2	me	me	ADP	posp	_	1	case	1:case	_
-3	pote	pote	ADV	adv	_	4	advmod	4:advmod	_
-4	worawiget	worawik	NOUN	n	Case=Gen|Rel=Cont	0	root	0:root	_
-5	xop	xop	DET	dem	_	4	obl	4:obl	_
-6	me	me	ADP	posp	_	5	case	5:case	_
+1	xop	xop	DET	dem	_	4	obl	_	_
+2	me	me	ADP	posp	_	1	case	_	_
+3	pote	pote	ADV	adv	_	4	advmod	_	_
+4	worawiget	worawik	NOUN	n	Case=Gen|Rel=Cont	0	root	_	_
+5	xop	xop	DET	dem	_	4	obl	_	_
+6	me	me	ADP	posp	_	5	case	_	_
 
 ~~~
 
@@ -38,11 +38,11 @@ The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 obl	color:blue
-1	mokat	mokat	ADV	adv	_	2	advmod	2:advmod	_
-2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
-3	korop	korop	VERB	vi	Aspect=Perf	2	dep	2:dep	_
-4	noa	noa	NOUN	n	_	3	obl	3:obl	_
-5	pe	pe	ADP	posp	_	4	case	4:case	_
+1	mokat	mokat	ADV	adv	_	2	advmod	_	_
+2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+3	korop	korop	VERB	vi	Aspect=Perf	2	dep	_	_
+4	noa	noa	NOUN	n	_	3	obl	_	_
+5	pe	pe	ADP	posp	_	4	case	_	_
 
 ~~~
 

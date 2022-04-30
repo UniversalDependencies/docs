@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADV` and `Compound` co-occurr
 
 182 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `DET` and `Compound` co-occurred: <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (182; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (182; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (140; 77%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (140; 77%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (109; 60%).
+The most frequent other feature values with which `DET` and `Compound` co-occurred: <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (182; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (182; 100%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (148; 81%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (140; 77%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (140; 77%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (107; 59%).
 
 `DET` tokens may have the following values of `Compound`:
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `VERB` and `Compound` co-occur
 
 29 <tt><a href="la_udante-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `PART` and `Compound` co-occurred: <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="la_udante-feat-Emphatic.html">Emphatic</a></tt><tt>=Yes</tt> (26; 90%).
+The most frequent other feature values with which `PART` and `Compound` co-occurred: <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=Emp</tt> (26; 90%).
 
 `PART` tokens may have the following values of `Compound`:
 

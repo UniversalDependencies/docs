@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>ais</em> (<tt><a href="ga_idt-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.111111 (the average of all parts of speech is 1.643740).
+The form / lemma ratio of `ADV` is 1.111111 (the average of all parts of speech is 1.643911).
 
 The 1st highest number of forms (5) was observed with the lemma “chomh”: <em>cho, chomh, chó, comh, cómh</em>.
 

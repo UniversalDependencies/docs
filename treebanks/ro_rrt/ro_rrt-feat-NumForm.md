@@ -18,12 +18,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ro_rrt-pos-NUM.html
 
 5554 <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ro_rrt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4824; 87%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4662; 84%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4477; 81%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ro_rrt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4824; 87%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4662; 84%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4476; 81%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Combi` (139; 3% of non-empty `NumForm`): <em>91/493/CEE, 000, 1999/468/CE, 3.4.1.5, 3.4.2.2, 72/462/CEE, 1.1.1, 100, 1720/1999/CE, 2.1.2</em>
-* `Digit` (3851; 69% of non-empty `NumForm`): <em>1, 2, 3, 4, 5, 6, 7, 8, 2004, 10</em>
+* `Combi` (138; 2% of non-empty `NumForm`): <em>91/493/CEE, 000, 1999/468/CE, 3.4.1.5, 3.4.2.2, 72/462/CEE, 1.1.1, 100, 1720/1999/CE, 2.1.2</em>
+* `Digit` (3852; 69% of non-empty `NumForm`): <em>1, 2, 3, 4, 5, 6, 7, 8, 2004, 10</em>
 * `Roman` (245; 4% of non-empty `NumForm`): <em>ii, i, iii, iv, V, XX, XIX, VI, VII, XIII</em>
 * `Word` (1319; 24% of non-empty `NumForm`): <em>două, trei, primul, doi, prima, patru, cinci, doilea, doua, primele</em>
 

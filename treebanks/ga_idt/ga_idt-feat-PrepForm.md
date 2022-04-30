@@ -30,7 +30,7 @@ The most frequent other feature values with which `ADP` and `PrepForm` co-occurr
 
 978 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `PrepForm`.
 
-The most frequent other feature values with which `NOUN` and `PrepForm` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (978; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (901; 92%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (886; 91%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (827; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (671; 69%).
+The most frequent other feature values with which `NOUN` and `PrepForm` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (978; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (901; 92%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (886; 91%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (827; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (671; 69%).
 
 `NOUN` tokens may have the following values of `PrepForm`:
 

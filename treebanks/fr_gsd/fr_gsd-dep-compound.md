@@ -8,82 +8,38 @@ udver: '2'
 
 This relation is universal.
 
-827 nodes (0%) are attached to their parents as `compound`.
+1 nodes (0%) are attached to their parents as `compound`.
 
-472 instances of `compound` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.28536880290206.
+1 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.
 
-The following 49 pairs of parts of speech are connected with `compound`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (448; 54% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (48; 6% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (46; 6% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (38; 5% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (33; 4% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (32; 4% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (22; 3% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (16; 2% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (14; 2% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (8; 1% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PART.html">PART</a></tt>-<tt><a href="fr_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 compound	color:blue
-1	Pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
-2	de	un	DET	_	Definite=Ind|PronType=Art	3	det	_	_
-3	sèche	sécher	VERB	_	_	0	root	_	_
-4	cheveux	cheveu	NOUN	_	Gender=Masc|Number=Plur	3	goeswith	_	_
-5	ni	ni	CCONJ	_	_	7	cc	_	_
-6	de	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	prise	prise	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
-8	rasoir	rasoir	NOUN	_	Gender=Masc|Number=Sing	7	compound	_	_
-9	dans	dans	ADP	_	_	11	case	_	_
-10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	salle	salle	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
-12	de	de	ADP	_	_	13	case	_	_
-13	bains	bain	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
+The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 9 compound	color:blue
-1	73	73	NUM	_	_	0	root	_	_
-2	:	:	PUNCT	_	_	3	punct	_	_
-3	80	80	NUM	_	_	1	conj	_	_
-4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
-5	1935	1935	NUM	_	_	1	nmod	_	SpaceAfter=No
-6	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
-7	]	]	PUNCT	_	_	5	punct	_	_
-8	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
-9	Orygia	Orygia	X	_	_	11	compound	_	_
-10	decumbens	decumbens	X	_	_	11	compound	_	_
-11	Forssk	Forssk	X	_	_	1	appos	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
-13	)	)	PUNCT	_	_	11	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 compound	color:blue
-1	J'	je	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
-2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	excellent	excellent	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
-6	WE	WE	X	_	_	3	obj	_	_
-7	à	à	ADP	_	_	9	case	_	_
-8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	volant	volant	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
-10	d'	de	ADP	_	_	12	case	_	SpaceAfter=No
-11	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	BMW	BMW	PROPN	_	_	9	nmod	_	_
-13	série	série	NOUN	_	Gender=Fem|Number=Sing	12	compound	_	_
-14	5	5	NUM	_	_	13	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 compound	color:blue
+1	À	à	ADP	_	_	3	case	_	wordform=à
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	origine	origine	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+4	pom-pom	pom-pom	NOUN	_	Gender=Masc	5	compound	_	_
+5	girl	girl	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	et	et	CCONJ	_	_	9	cc	_	_
+8	ex-petite	ex-petit	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+9	amie	amie	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	Mark	Mark	PROPN	_	_	9	nmod	_	_
+12	James	James	PROPN	_	_	11	flat:name	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	quaterback	quaterback	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No
+17	école	école	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

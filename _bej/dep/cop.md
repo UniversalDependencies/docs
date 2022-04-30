@@ -14,4 +14,4 @@ hoː =b hoːsoː ʃʔag -aː =b =u uː= tak // ʔasal -aː =b iː- kti =jeːb /
 text_en: "The man was carrying on his shoulder a lamb that he had grilled.
 cop(ʃʔag, =u) ("carry_on_shoulder", `AUX`)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:58 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:47 CET 2021 -->

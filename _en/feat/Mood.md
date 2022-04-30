@@ -39,4 +39,4 @@ otherwise uncertain such as expressing an opinion or describing one's state of m
 
 (Note that there is currently no reliable way of identifying subjunctive verbs in an automatic way and therefore we currently also mark present subjunctive verbs as [infinitives](VerbForm) and past subjunctive verbs as past indicative verbs.)
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:33 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->

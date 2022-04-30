@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-compound.html">compound</a></tt>.
 There are also 2 other language-specific subtypes of `compound`: <tt><a href="hyw_armtdp-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="hyw_armtdp-dep-compound-redup.html">compound:redup</a></tt>.
 
-26 nodes (0%) are attached to their parents as `compound:svc`.
+36 nodes (0%) are attached to their parents as `compound:svc`.
 
-26 instances of `compound:svc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.46153846153846.
+36 instances of `compound:svc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.52777777777778.
 
-The following 1 pairs of parts of speech are connected with `compound:svc`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (26; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound:svc`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (36; 100% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `compound:svc`: <tt>
 3	-	-	PUNCT	_	_	4	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 4	ծուռ	ծուռ	ADV	_	_	2	compound:redup	_	Translit=çowṙ|LTranslit=çowṙ
 5	երիտասարդին	երիտասարդ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	6	nmod:poss	_	Translit=eritasardin|LTranslit=eritasard
-6	երեսը	երես	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	obl	_	Translit=eresë|LTranslit=eres
+6	երեսը	երես	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	obj	_	Translit=eresë|LTranslit=eres
 7	նայած	նայիլ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=nayaç|LTranslit=nayil
 8	ու	ու	CCONJ	_	_	9	cc	_	Translit=ow|LTranslit=ow
 9	առած	առնել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	7	conj	_	Translit=aṙaç|LTranslit=aṙnel

@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="koi_uh-pos-ADV.html
 `ADV` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>мылякӧ</em>
-* `EMPTY` (81): <em>кыдз, ни, кӧр, сэсся, сё, талун, чожа, эшӧ, дасöтiсь, кынымкӧ</em>
+* `EMPTY` (82): <em>кыдз, ни, кӧр, сэсся, сё, талун, чожа, эшӧ, дасöтiсь, кынымкӧ</em>
 

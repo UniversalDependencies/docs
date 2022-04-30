@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (416; 24% of non-empty `Gender`): ኧች, ት, ኣት, ኣ, ዋ, ኢ, ሽ, ኣች, ኧሽ, ኡ
 * `Masc` (1232; 71% of non-empty `Gender`): ኧ, ይ, ት, ኦ, ው, ኡ, ህ, ኧት, ኧህ, ክ
 * `Neut` (62; 4% of non-empty `Gender`): ኝ, ኧሁ, ሁ, ኣቸው, ን, ኡ, ኣሁ, ኧ, ኧኝ, ዋ
-* `EMPTY` (824): ኧው, ኡ, ኝ, እ, ኤ, ምን, ኩ, ሁ, ኣቸው, እኔ
+* `EMPTY` (830): ኧው, ኡ, ኝ, እ, ኤ, ምን, ኩ, ሁ, ኣቸው, እኔ
 
 <table>
   <tr><th>Paradigm <i>ኡ</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Fem` (3; 75% of non-empty `Gender`): ዋ
 * `Masc` (1; 25% of non-empty `Gender`): ው
-* `EMPTY` (483): ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, ያ, እየ
+* `EMPTY` (478): ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, እየ, ያ
 
 ### `VERB`
 
@@ -56,5 +56,5 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 `VERB` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): ይ
-* `EMPTY` (1552): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
+* `EMPTY` (1551): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
 

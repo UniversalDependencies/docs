@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="et_ewt-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-2526 nodes (4%) are attached to their parents as `cc`.
+2666 nodes (4%) are attached to their parents as `cc`.
 
-2523 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.62905779889153.
+2663 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.63090772693173.
 
-The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1244; 49% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (672; 27% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (227; 9% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (161; 6% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (109; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (76; 3% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (21; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1306; 49% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (705; 26% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (241; 9% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (166; 6% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (115; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (94; 4% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (22; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

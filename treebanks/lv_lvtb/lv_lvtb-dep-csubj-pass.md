@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-csubj.html">csubj</a></tt>.
 
-102 nodes (0%) are attached to their parents as `csubj:pass`.
+110 nodes (0%) are attached to their parents as `csubj:pass`.
 
-96 instances of `csubj:pass` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.7843137254902.
+103 instances of `csubj:pass` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.67272727272727.
 
-The following 7 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (90; 88% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (97; 88% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -74,17 +74,17 @@ The following 7 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 csubj:pass	color:blue
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 csubj:pass	color:blue
 1	Kāpēc	kāpēc	ADV	r0c	PronType=Int	2	advmod	2:advmod	LvtbNodeId=a-p9969-p20s3w1
-2	tā	tā	ADV	r0m	PronType=Dem	6	csubj:pass	6:csubj:pass|7:dep	LvtbNodeId=a-p9969-p20s3w2|SpaceAfter=No
+2	tā	tā	ADV	r0m	PronType=Dem	7	csubj:pass	7:csubj:pass	LvtbNodeId=a-p9969-p20s3w2|SpaceAfter=No
 3	,	,	PUNCT	zc	_	2	punct	2:punct	LvtbNodeId=a-p9969-p20s3w3
-4	tas	tas	PRON	pd3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj:pass	6:nsubj:pass|7:nsubj:pass	LvtbNodeId=a-p9969-p20s3w4
-5	vecākiem	vecāks	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	6	iobj	6:iobj	LvtbNodeId=a-p9969-p20s3w5
-6	neesot	nebūt	VERB	vcnrpii00ay	Evident=Nfh|Mood=Qot|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p9969-p20s3w6
-7	paskaidrots	paskaidrot	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	6:xcomp	LvtbNodeId=a-p9969-p20s3w7|SpaceAfter=No
-8	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p9969-p20s3w8
+4	tas	tas	PRON	pd3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj:pass	7:nsubj:pass	LvtbNodeId=a-p9969-p20s3w4
+5	vecākiem	vecāks	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	7	iobj	7:iobj	LvtbNodeId=a-p9969-p20s3w5
+6	neesot	būt	AUX	vcnrpii00ay	Evident=Nfh|Mood=Qot|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux:pass	7:aux:pass	LvtbNodeId=a-p9969-p20s3w6
+7	paskaidrots	paskaidrot	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	LvtbNodeId=a-p9969-p20s3w7|SpaceAfter=No
+8	.	.	PUNCT	zs	_	7	punct	7:punct	LvtbNodeId=a-p9969-p20s3w8
 
 ~~~
 

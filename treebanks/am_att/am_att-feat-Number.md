@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 * `Dual` (1; 0% of non-empty `Number`): ኢ
 * `Plur` (228; 10% of non-empty `Number`): ኡ, ኣቸው, ኣችን, ን, ኧን, እን, ኣችሁ, ኧ, ት, ኡት
 * `Sing` (2148; 90% of non-empty `Number`): ኧ, ይ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት, ኡ
-* `EMPTY` (172): ምን, እኔ, ማን, እሱ, የት, መቼ, ምነው, አንተ, እርሱ, ማንም
+* `EMPTY` (178): ምን, እኔ, ማን, እሱ, ው, የት, መቼ, ምነው, አንተ, እርሱ
 
 <table>
   <tr><th>Paradigm <i>ኧ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -65,18 +65,18 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 `DET` tokens may have the following values of `Number`:
 
 * `Sing` (2; 100% of non-empty `Number`): ው
-* `EMPTY` (485): ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, ያ, እየ
+* `EMPTY` (480): ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, እየ, ያ
 
 ### `NUM`
 
-1 <tt><a href="am_att-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Number`.
+1 <tt><a href="am_att-pos-NUM.html">NUM</a></tt> tokens (3% of all `NUM` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="am_att-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 
 * `Plur` (1; 100% of non-empty `Number`): መቶዎች
-* `EMPTY` (41): አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, ስምንት, ሶስት, ሺህ, በጣም
+* `EMPTY` (39): አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, ስምንት, ሶስት, ሺህ, አምስት
 
 ### `VERB`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 `VERB` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): ይ
-* `EMPTY` (1552): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
+* `EMPTY` (1551): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
 
 ## Relations with Agreement in `Number`
 

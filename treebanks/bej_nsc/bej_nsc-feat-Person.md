@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="bej_nsc-pos-PRON.ht
 
 ### `PRON`
 
-192 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Person`.
+192 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (175; 91%), <tt><a href="bej_nsc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (161; 84%), <tt><a href="bej_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (149; 78%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (109; 57%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (97; 51% of non-empty `Person`): <em>a-, =heːb, -an, =i, =oː, ani, -na, =eː, =uːn, hinin</em>
 * `2` (7; 4% of non-empty `Person`): <em>-ta, ti-, -teːn, =oːk, barijoːk</em>
 * `3` (88; 46% of non-empty `Person`): <em>i-, -ja, iː-, ti-, -n, -ta, -i, =isi, t-, -iːni</em>
-* `EMPTY` (47): <em>hoːj, -i, -n, iː-, -a, kina, aːn, i-, oːn, -aːna</em>
+* `EMPTY` (43): <em>hoːj, -i, -n, iː-, -a, kina, i-, -aːna, -na, =i</em>
 
 ### `AUX`
 

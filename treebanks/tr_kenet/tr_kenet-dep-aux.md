@@ -44,14 +44,14 @@ The following 10 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 5 6 aux	color:blue
 1	İnsanın	insan	NOUN	_	Case=Gen|Number=Sing|Person=3	2	nmod	_	_
 2	gözü	göz	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nsubj	_	_
-3	bir	bir	DET	_	Definite=Ind	4	det	_	_
+3	bir	bir	DET	_	Definite=Ind|PronType=Art	4	det	_	_
 4	şey	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	5	obj	_	_
 5	görmedi	gör	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	10	advcl	_	_
 6	mi	mi	AUX	_	PronType=Int	5	aux	_	_
 7	dünyanın	dünya	NOUN	_	Case=Gen|Number=Sing|Person=3	8	nmod	_	_
 8	altını	alt	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	compound	_	_
 9	üstüne	üst	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	compound	_	_
-10	getirmeli	getir	VERB	_	Mood=Nec|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+10	getirmeli	getir	VERB	_	Mood=Nec|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~

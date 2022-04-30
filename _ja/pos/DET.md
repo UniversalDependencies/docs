@@ -19,4 +19,4 @@ while others are tagged [ADJ]() (e.g. _同じ&nbsp;_ “same”, _大きな&nbsp
 
 - demonstrative determiners: _<b>この</b>_ “this”, _<b>その</b>_ “that”, _<b>あの</b>_ “that”, _<b>どの</b>&nbsp;_ “which” (`adnominal` / 連体詞)
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:20 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:10 CET 2021 -->

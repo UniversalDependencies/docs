@@ -13,4 +13,12 @@ In the four corpora **UD_French-ParTUT**, **UD_French-Sequoia**, **UD_French-PUD
 
 * _<b>ne</b>, <b>pas</b>_
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->
+### <a name="Pos">`Pos`</a>: positive
+
+In the *UD_French-GSD**, there are a few case of *jamais* used as a positive adverb.
+
+#### Examples
+
+* _<b>jamais</b>
+
+<!-- Interlanguage links updated St lis 3 20:58:27 CET 2021 -->

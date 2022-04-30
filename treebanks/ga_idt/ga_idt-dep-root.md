@@ -42,7 +42,7 @@ The following 16 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Bean	bean	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
+1	Bean	bean	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	shuidhte	suidhte	ADJ	Adj	Form=Len|VerbForm=Part	1	amod	_	_
 3	dhéanta	déanta	ADJ	Adj	Degree=Pos|Form=Len	1	amod	_	SpaceAfter=No
 4	...	...	PUNCT	...	_	1	punct	_	_
@@ -58,11 +58,11 @@ The following 16 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 2 root	color:blue
 1	Níorbh	is	AUX	Cop	Form=VF|Polarity=Neg|Tense=Past|VerbForm=Cop	2	cop	_	_
 2	ionann	ionann	ADJ	Adj	Degree=Pos	0	root	_	_
-3	tithe	teach	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	_
+3	tithe	teach	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	_
 4	na	an	DET	Art	Case=Gen|Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	gcathracha	cathair	NOUN	Noun	Case=Gen|Definite=Def|Form=Ecl|Gender=Fem|NounType=Strong|Number=Plur	3	nmod	_	_
 6	agus	agus	CCONJ	Coord	_	7	cc	_	_
-7	tithe	teach	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Plur	3	conj	_	_
+7	tithe	teach	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	conj	_	_
 8	na	an	DET	Art	Case=Gen|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	mbailte	baile	NOUN	Noun	Case=Gen|Definite=Def|Form=Ecl|Gender=Masc|NounType=Strong|Number=Plur	7	nmod	_	_
 10	beaga	beag	ADJ	Adj	Case=Gen|Gender=Masc|NounType=Strong|Number=Plur	9	amod	_	SpaceAfter=No

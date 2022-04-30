@@ -26,7 +26,7 @@ The following 35 pairs of parts of speech are connected with `acl`: <tt><a href=
 1	Cumplieron	cumplir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	plazos	plazo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
-4	previstos	previsto	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	3	acl	_	_
+4	previstos	prever	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	3	acl	_	_
 5	y	y	CCONJ	_	_	7	cc	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	presupuesto	presupuesto	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
@@ -48,7 +48,7 @@ The following 35 pairs of parts of speech are connected with `acl`: <tt><a href=
 4	Germanicae	germanicae	PROPN	_	_	1	flat	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	_
 6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
-7	abreviado	abreviado	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	acl	_	_
+7	abreviado	abreviar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	acl	_	_
 8	Gen.	gen.	X	_	_	9	compound	_	_
 9	Fl	fl	X	_	_	7	appos	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_

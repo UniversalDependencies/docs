@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.084934).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.085880).
 
 The 1st highest number of forms (1) was observed with the lemma “belum”: <em>belum</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>tidak, belum, bukan, tak, jangan</em>
 
 `PART` nodes are attached to their parents using 3 different relations: <tt><a href="id_csui-dep-advmod.html">advmod</a></tt> (124; 78% instances), <tt><a href="id_csui-dep-advmod-emph.html">advmod:emph</a></tt> (33; 21% instances), <tt><a href="id_csui-dep-conj.html">conj</a></tt> (2; 1% instances)
 
-Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (74; 47% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (33; 21% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (17; 11% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (13; 8% instances), <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (9; 6% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (8; 5% instances), <tt><a href="id_csui-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (1; 1% instances)
+Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (79; 50% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (34; 21% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (18; 11% instances), <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (9; 6% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (8; 5% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (6; 4% instances), <tt><a href="id_csui-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (1; 1% instances)
 
 150 (94%) `PART` nodes are leaves.
 

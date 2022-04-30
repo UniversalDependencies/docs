@@ -29,9 +29,9 @@ When a noun or a verb takes a prepositionally marked non-core argument (modifier
 ~~~ sdparse
 We have no useful information on whether users are at risk .
 nsubj(have, We)
-neg(information, no)
+det(information, no)
 amod(information, useful)
-dobj(have, information)
+obj(have, information)
 mark(risk, on)
 mark(risk, whether)
 nsubj(risk, users)
@@ -40,4 +40,4 @@ case(risk, at)
 acl(information, risk)
 punct(have, .)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:08 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:56 CET 2021 -->

@@ -23,10 +23,10 @@ The following 2 pairs of parts of speech are connected with `obl:cmpr`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 obl:cmpr	color:blue
-1	அங்குக்கு	அங்கு	NOUN	_	Case=Dat|Number=Sing	3	obl:cmpr	3:obl:cmpr	Translit=aṅkukku|LTranslit=aṅku
-2	இங்கு	இங்கு	NOUN	_	_	3	nsubj	3:nsubj	Translit=iṅku|LTranslit=iṅku
-3	நல்லது	நல்ல	ADJ	_	Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=nallatu|LTranslit=nalla
-4	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+1	அங்குக்கு	அங்கு	NOUN	_	Case=Dat|Number=Sing	3	obl:cmpr	_	Translit=aṅkukku|LTranslit=aṅku
+2	இங்கு	இங்கு	NOUN	_	_	3	nsubj	_	Translit=iṅku|LTranslit=iṅku
+3	நல்லது	நல்ல	ADJ	_	Gender=Neut|Number=Sing|Person=3	0	root	_	Translit=nallatu|LTranslit=nalla
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -37,12 +37,12 @@ The following 2 pairs of parts of speech are connected with `obl:cmpr`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 obl:cmpr	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	5:nsubj	Translit=kumār|LTranslit=kumār
-2	ராஜாவை	ராஜா	PROPN	_	Case=Acc|Number=Sing|Person=3	5	obl:cmpr	5:obl:cmpr	Translit=rājāvai|LTranslit=rājā
-3	விட	விட	ADP	_	AdpType=Post	2	case	2:case	Translit=viṭa|LTranslit=viṭa
-4	உயரமாக	உயரம்	ADV	_	_	5	advmod	5:advmod	Translit=uyaramāka|LTranslit=uyaram
-5	இருக்கிறான்	இரு	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	0:root	Translit=irukkiṟāṉ|LTranslit=iru
-6	.	.	PUNCT	_	PunctType=Peri	5	punct	5:punct	Translit=.|LTranslit=.
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	_	Translit=kumār|LTranslit=kumār
+2	ராஜாவை	ராஜா	PROPN	_	Case=Acc|Number=Sing|Person=3	5	obl:cmpr	_	Translit=rājāvai|LTranslit=rājā
+3	விட	விட	ADP	_	AdpType=Post	2	case	_	Translit=viṭa|LTranslit=viṭa
+4	உயரமாக	உயரம்	ADV	_	_	5	advmod	_	Translit=uyaramāka|LTranslit=uyaram
+5	இருக்கிறான்	இரு	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=irukkiṟāṉ|LTranslit=iru
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

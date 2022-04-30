@@ -71,7 +71,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ምክንያ�
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="am_att-dep-mark.html">mark</a></tt> (208; 97% instances), <tt><a href="am_att-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="am_att-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="am_att-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="am_att-dep-goeswith.html">goeswith</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="am_att-dep-mark.html">mark</a></tt> (209; 98% instances), <tt><a href="am_att-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="am_att-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="am_att-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="am_att-dep-goeswith.html">goeswith</a></tt> (1; 0% instances)
 
 Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (205; 96% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

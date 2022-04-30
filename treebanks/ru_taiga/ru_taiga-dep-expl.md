@@ -13,7 +13,7 @@ This relation is universal.
 135 instances of `expl` (96%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.02142857142857.
 
-The following 12 pairs of parts of speech are connected with `expl`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (65; 46% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (35; 25% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (12; 9% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (9; 6% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (6; 4% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `expl`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (65; 46% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (35; 25% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (12; 9% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (9; 6% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 12 pairs of parts of speech are connected with `expl`: <tt><a href
 3	это	это	PART	_	_	5	expl	_	_
 4	не	не	PART	_	Polarity=Neg	5	advmod	_	_
 5	нормально	нормальный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_~
 
 ~~~
 

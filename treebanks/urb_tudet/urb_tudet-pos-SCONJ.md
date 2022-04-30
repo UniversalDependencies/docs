@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kaapor-TuDeT: POS Tags: `SCONJ`
 
-There are 1 `SCONJ` lemmas (1%), 1 `SCONJ` types (1%) and 2 `SCONJ` tokens (1%).
-Out of 13 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 11 in number of tokens.
+There are 1 `SCONJ` lemmas (1%), 1 `SCONJ` types (0%) and 2 `SCONJ` tokens (1%).
+Out of 13 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>rahã</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.162963).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.160000).
 
 The 1st highest number of forms (1) was observed with the lemma “rahã”: <em>rahã</em>.
 

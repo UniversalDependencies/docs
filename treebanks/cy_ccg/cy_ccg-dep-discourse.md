@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 9	a	a	PRON	rel	PronType=Rel	10	nsubj	_	_
 10	gafodd	cael	VERB	verb	Mood=Ind|Mutation=SM|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
 11	bum	pum	NUM	num	Mutation=SM	12	nummod	_	_
-12	mlynedd	blwyddyn	NOUN	noun	Gender=Masc|Mutation=NM|Number=Plur	10	obj	_	_
+12	mlynedd	blwyddyn	NOUN	noun	Gender=Fem|Mutation=NM|Number=Plur	10	obj	_	_
 13	o	o	ADP	prep	_	14	case	_	_
 14	gymorth	cymorth	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	12	nmod	_	_
 15	ardrethi	ardreth	NOUN	noun	Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No

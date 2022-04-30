@@ -23,11 +23,11 @@ The following 6 pairs of parts of speech are connected with `nsubj:nc`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj:nc	color:blue
-1	குமாருக்கு	குமார்	PROPN	_	Case=Dat|Number=Sing|Person=3|Polite=Form	4	nsubj:nc	4:nsubj:nc	Translit=kumārukku|LTranslit=kumār
-2	ஒரு	ஒன்று	NUM	_	_	3	nummod	3:nummod	Translit=oru|LTranslit=oṉṟu
-3	வீடு	வீடு	NOUN	_	Case=Nom|Number=Sing|Person=3	4	obj	4:obj	Translit=vīṭu|LTranslit=vīṭu
-4	வேண்டும்	வேண்டு	VERB	_	Gender=Com|Number=Sing|Person=3|Tense=Fut	0	root	0:root	Translit=vēṇṭum|LTranslit=vēṇṭu
-5	.	.	PUNCT	_	PunctType=Peri	4	punct	4:punct	Translit=.|LTranslit=.
+1	குமாருக்கு	குமார்	PROPN	_	Case=Dat|Number=Sing|Person=3|Polite=Form	4	nsubj:nc	_	Translit=kumārukku|LTranslit=kumār
+2	ஒரு	ஒன்று	NUM	_	_	3	nummod	_	Translit=oru|LTranslit=oṉṟu
+3	வீடு	வீடு	NOUN	_	Case=Nom|Number=Sing|Person=3	4	obj	_	Translit=vīṭu|LTranslit=vīṭu
+4	வேண்டும்	வேண்டு	VERB	_	Gender=Com|Number=Sing|Person=3|Tense=Fut	0	root	_	Translit=vēṇṭum|LTranslit=vēṇṭu
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -38,11 +38,11 @@ The following 6 pairs of parts of speech are connected with `nsubj:nc`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:nc	color:blue
-1	குமாருக்கு	குமார்	PROPN	_	Case=Dat|Number=Sing|Person=3	3	nsubj:nc	3:nsubj:nc	Translit=kumārukku|LTranslit=kumār*check the book
-2	இந்தத்	இந்த	DET	_	_	3	det	3:det	Translit=inta|LTranslit=inta
-3	தண்டனை	தண்டனை	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	0:root	Translit=taṇṭaṉai|LTranslit=taṇṭaṉai
-4	தகும்	தகும்	VERB	_	Polarity=Pos|VerbForm=Fin	3	compound:lvc	3:compound:lvc	Translit=takum|LTranslit=takum
-5	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+1	குமாருக்கு	குமார்	PROPN	_	Case=Dat|Number=Sing|Person=3	3	nsubj:nc	_	Translit=kumārukku|LTranslit=kumār*check the book
+2	இந்தத்	இந்த	DET	_	_	3	det	_	Translit=inta|LTranslit=inta
+3	தண்டனை	தண்டனை	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	Translit=taṇṭaṉai|LTranslit=taṇṭaṉai
+4	தகும்	தகும்	VERB	_	Polarity=Pos|VerbForm=Fin	3	compound:lvc	_	Translit=takum|LTranslit=takum
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -53,11 +53,11 @@ The following 6 pairs of parts of speech are connected with `nsubj:nc`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:nc	color:blue
-1	அவனுக்கு	அவன்	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	3	nsubj:nc	3:nsubj:nc	Translit=avaṉukku|LTranslit=avaṉ
-2	மூன்று	மூன்று	NUM	_	Case=Nom	3	nummod	3:nummod	Translit=mūṉṟu|LTranslit=mūṉṟu
-3	பிள்ளைகள்	பிள்ளை	NOUN	_	Case=Nom|Number=Plur	0	root	0:root	Translit=piḷḷaikaḷ|LTranslit=piḷḷai
-4	இருக்கிறார்கள்	இரு	AUX	_	Gender=Com|Number=Plur|Person=3|Tense=Pres	3	aux	3:aux	Translit=irukkiṟārkaḷ|LTranslit=iru
-5	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+1	அவனுக்கு	அவன்	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	3	nsubj:nc	_	Translit=avaṉukku|LTranslit=avaṉ
+2	மூன்று	மூன்று	NUM	_	Case=Nom	3	nummod	_	Translit=mūṉṟu|LTranslit=mūṉṟu
+3	பிள்ளைகள்	பிள்ளை	NOUN	_	Case=Nom|Number=Plur	0	root	_	Translit=piḷḷaikaḷ|LTranslit=piḷḷai
+4	இருக்கிறார்கள்	இரு	AUX	_	Gender=Com|Number=Plur|Person=3|Tense=Pres	3	aux	_	Translit=irukkiṟārkaḷ|LTranslit=iru
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

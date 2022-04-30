@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-3955 tokens (58%) have a non-empty value of `Number`.
+3956 tokens (58%) have a non-empty value of `Number`.
 1057 types (79%) occur at least once with a non-empty value of `Number`.
 695 lemmas (72%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1015; 15% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (994; 15% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (745; 11% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (578; 9% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (313; 5% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (309; 5% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1015; 15% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (994; 15% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (745; 11% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (578; 9% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (314; 5% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (309; 5% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `DET`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (89; 9% of non-empty `Number`): <em>le, i, gli, suoi, molti, delle, dei, miei, queste, sue</em>
 * `Sing` (926; 91% of non-empty `Number`): <em>il, la, un, una, l', suo, sua, mio, questo, un'</em>
-* `EMPTY` (10): <em>che, alcun, loro, tutti</em>
+* `EMPTY` (8): <em>che, alcun, loro, tutti</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -77,7 +77,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 578 <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (558; 97%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (540; 93%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (397; 69%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (384; 66%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (558; 97%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (541; 94%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (397; 69%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (384; 66%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -87,7 +87,6 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>avere</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>abbiamo</em></td></tr>
   <tr><td><tt><tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>avevo</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ho, he, h', o</em></td><td><em>abiamo, abbiamo</em></td></tr>
   <tr><td><tt><tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>hai</em></td><td><em>avete</em></td></tr>
@@ -99,15 +98,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-313 <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `Number`.
+314 <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="it_valico-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (259; 83%), <tt><a href="it_valico-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (177; 57%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="it_valico-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (260; 83%), <tt><a href="it_valico-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (178; 57%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (29; 9% of non-empty `Number`): <em>li, loro, tutti, entrambi, gli, le, Noi, altre, ci, cose</em>
-* `Sing` (284; 91% of non-empty `Number`): <em>mi, la, lui, lei, l', me, lo, quello, io, gli</em>
-* `EMPTY` (193): <em>che, si, niente, c', ne, se, qualcosa, ci, dove, chi</em>
+* `Plur` (30; 10% of non-empty `Number`): <em>li, loro, le, tutti, entrambi, gli, Noi, altre, ci, cose</em>
+* `Sing` (284; 90% of non-empty `Number`): <em>mi, la, lui, lei, l', me, lo, quello, io, gli</em>
+* `EMPTY` (195): <em>che, si, niente, c', se, ne, qualcosa, ci, dove, chi</em>
 
 <table>
   <tr><th>Paradigm <i>gli</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -148,12 +147,12 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="it_valico-dep-det.html">det</a></tt>]--> DET</tt> (854; 97%),
 <tt>VERB --[<tt><a href="it_valico-dep-aux.html">aux</a></tt>]--> AUX</tt> (354; 80%),
-<tt>VERB --[<tt><a href="it_valico-dep-obl.html">obl</a></tt>]--> NOUN</tt> (187; 60%),
-<tt>VERB --[<tt><a href="it_valico-dep-obj.html">obj</a></tt>]--> NOUN</tt> (165; 60%),
+<tt>VERB --[<tt><a href="it_valico-dep-obl.html">obl</a></tt>]--> NOUN</tt> (186; 60%),
+<tt>VERB --[<tt><a href="it_valico-dep-obj.html">obj</a></tt>]--> NOUN</tt> (163; 59%),
 <tt>NOUN --[<tt><a href="it_valico-dep-amod.html">amod</a></tt>]--> ADJ</tt> (160; 95%),
 <tt>VERB --[<tt><a href="it_valico-dep-conj.html">conj</a></tt>]--> VERB</tt> (154; 84%),
-<tt>VERB --[<tt><a href="it_valico-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (139; 88%),
+<tt>VERB --[<tt><a href="it_valico-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (139; 89%),
 <tt>NOUN --[<tt><a href="it_valico-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (99; 97%),
-<tt>VERB --[<tt><a href="it_valico-dep-obj.html">obj</a></tt>]--> PRON</tt> (76; 52%),
+<tt>VERB --[<tt><a href="it_valico-dep-obj.html">obj</a></tt>]--> PRON</tt> (75; 50%),
 <tt>ADJ --[<tt><a href="it_valico-dep-cop.html">cop</a></tt>]--> AUX</tt> (64; 94%).
 

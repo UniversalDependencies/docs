@@ -11,20 +11,20 @@ It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
 29940 tokens (7%) have a non-empty value of `Mood`.
 5513 types (12%) occur at least once with a non-empty value of `Mood`.
-2139 lemmas (6%) occur at least once with a non-empty value of `Mood`.
+2136 lemmas (6%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (20151; 5% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9789; 2% instances).
 
 ### `VERB`
 
 20151 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20151; 100%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20151; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19461; 97%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14996; 74%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10145; 50%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20151; 100%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20151; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19459; 97%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14996; 74%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10143; 50%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (357; 2% of non-empty `Mood`): <em>tendría, gustaría, haría, volvería, sería, varían, varía, conseguiría, llegaría, serían</em>
-* `Imp` (68; 0% of non-empty `Mood`): <em>pese, pase, añade, compre, mira, tengan, Afirma, Comprobaremos, Disponemos, Oiga</em>
-* `Ind` (18793; 93% of non-empty `Mood`): <em>tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, hizo</em>
+* `Imp` (70; 0% of non-empty `Mood`): <em>pese, pase, añade, compre, mira, tengan, Afirma, Comprobaremos, Disponemos, Oiga</em>
+* `Ind` (18791; 93% of non-empty `Mood`): <em>tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, hizo</em>
 * `Sub` (933; 5% of non-empty `Mood`): <em>sea, tenga, crea, haga, haya, tengan, hagan, diera, llegue, quiera</em>
 * `EMPTY` (15877): <em>hacer, ubicado, ver, conocido, debido, decir, tener, dar, partir, llegar</em>
 

@@ -26,10 +26,10 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	не	не	PART	_	Polarity=Neg	3	advmod	_	_
 3	сосчитать	сосчитать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj:pass	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	SpaceAfter=No
-5	сколько	сколько	NUM	_	Case=Nom|NumForm=Word	3	nsubj	_	_
+5	сколько	сколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	3	nsubj	_	_
 6	видов	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	_
 7	товара	товар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_~
 
 ~~~
 

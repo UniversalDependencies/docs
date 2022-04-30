@@ -21,7 +21,7 @@ This value is used for conjunctions introducing (possibly elliptic) [comparative
 
 Such conjunctions usually originate from relative elements (e.g. *quam*, related to the [relative pronoun](la-feat/PronType) *qui*), and can have come to incorporate originally correlated demonstrative elements (like *sic* in in *sicut*, from *sic ... ut ...*).
 
-Note: the `Cmpr` value has been preferred over `Comp`, so as to parallel the `:cmpr` subrelation for clauses.
+Note: the `Cmpr` value has been preferred over `Comp`, so as to parallel the `:cmpr` subrelation for clauses (e.g. [`advcl:cmpr`](la-dep/advcl-cmpr)).
 
 #### Examples
 
@@ -58,4 +58,4 @@ In the following sentences, explicative conjunctions (and their equivalents in t
 
 
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:30 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:18 CET 2021 -->

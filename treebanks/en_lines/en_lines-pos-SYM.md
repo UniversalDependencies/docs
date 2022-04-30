@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>%</em> (<tt><a href="en_lines-pos-NOU
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.500000 (the average of all parts of speech is 1.241057).
+The form / lemma ratio of `SYM` is 1.500000 (the average of all parts of speech is 1.241030).
 
 The 1st highest number of forms (2) was observed with the lemma “%”: <em>%, -%</em>.
 
@@ -41,8 +41,8 @@ The 2nd highest number of forms (1) was observed with the lemma “like”: <em>
 `SYM` occurs with 1 feature-value pairs: `Number=Sing`
 
 `SYM` occurs with 2 feature combinations.
-The most frequent feature combination is `Number=Sing` (3 tokens).
-Examples: <em>%</em>
+The most frequent feature combination is `_` (3 tokens).
+Examples: <em>-%, Like</em>
 
 
 ## Relations

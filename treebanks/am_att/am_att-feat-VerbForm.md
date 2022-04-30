@@ -35,7 +35,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 * `Conv` (51; 75% of non-empty `VerbForm`): ገዝት, ብል, መጥት, በልት, ከፍት, ዘንብ, ይዝ, ሄድ, ሠራርት, ረጥብ
 * `Vnoun` (17; 25% of non-empty `VerbForm`): መምጣት, ማለፍ, መሄጃ, መሆን, መሆኛ, መስል, መስረቅ, መኖር, መወሰን, መውደቅ
-* `EMPTY` (1485): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
+* `EMPTY` (1484): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (54) occur only with one value of `VerbForm`.
 

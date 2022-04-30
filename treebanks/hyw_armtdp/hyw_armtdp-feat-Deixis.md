@@ -11,50 +11,61 @@ It occurs with 3 different values: `Med`, `Prox`, `Remt`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt>, <tt><a href="hyw_armtdp-feat-Deixis-psor.html">Deixis[psor]</a></tt>.
 
-910 tokens (3%) have a non-empty value of `Deixis`.
-92 types (1%) occur at least once with a non-empty value of `Deixis`.
-43 lemmas (1%) occur at least once with a non-empty value of `Deixis`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (561; 2% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (192; 1% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (157; 0% instances).
+2143 tokens (2%) have a non-empty value of `Deixis`.
+131 types (1%) occur at least once with a non-empty value of `Deixis`.
+54 lemmas (1%) occur at least once with a non-empty value of `Deixis`.
+The feature is used with 3 part-of-speech tags: <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1382; 1% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (400; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (361; 0% instances).
 
 ### `DET`
 
-561 <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> tokens (23% of all `DET` tokens) have a non-empty value of `Deixis`.
+1382 <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> tokens (26% of all `DET` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (561; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (561; 100%), <tt><a href="hyw_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (561; 100%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (558; 99%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (558; 99%), <tt><a href="hyw_armtdp-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (558; 99%).
+The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1382; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1382; 100%), <tt><a href="hyw_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1382; 100%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1361; 98%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1361; 98%), <tt><a href="hyw_armtdp-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1361; 98%).
 
 `DET` tokens may have the following values of `Deixis`:
 
-* `Med` (183; 33% of non-empty `Deixis`): <em>այդ, այդպիսի, այդքան, ատ, ատանկ</em>
-* `Prox` (210; 37% of non-empty `Deixis`): <em>այս, աս, սա, այսպիսի, այսքան, էս, Ասանկ, ասոնց</em>
-* `Remt` (168; 30% of non-empty `Deixis`): <em>այն, նոյն, այնպիսի, ան, էն, այնքան, անանկ, անոր, նորին</em>
+* `Med` (482; 35% of non-empty `Deixis`): <em>այդ, այդպիսի, այդքան, ատ, ատանկ, ատոր</em>
+* `Prox` (582; 42% of non-empty `Deixis`): <em>այս, սա, աս, այսպիսի, սոյն, այսքան, Ասանկ, ասոնց, էս, այսչափ</em>
+* `Remt` (318; 23% of non-empty `Deixis`): <em>այն, նոյն, նորին, այնպիսի, ան, անոր, էն, այնքան, Ն, անոնց</em>
 
-`Deixis` seems to be **lexical feature** of `DET`. 100% lemmas (22) occur only with one value of `Deixis`.
+`Deixis` seems to be **lexical feature** of `DET`. 100% lemmas (27) occur only with one value of `Deixis`.
 
 ### `ADV`
 
-192 <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Deixis`.
+400 <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> tokens (9% of all `ADV` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `ADV` and `Deixis` co-occurred: <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (190; 99%).
+The most frequent other feature values with which `ADV` and `Deixis` co-occurred: <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (397; 99%).
 
 `ADV` tokens may have the following values of `Deixis`:
 
-* `Med` (22; 11% of non-empty `Deixis`): <em>այդպէս, այդքան, հոդ, Հոտկէ, ատանկ</em>
-* `Prox` (71; 37% of non-empty `Deixis`): <em>հոս, այսպէս, այսքան, այսչափ, այստեղ, ասանկ, ասդին, հոսկէ</em>
-* `Remt` (99; 52% of non-empty `Deixis`): <em>այնքան, հոն, այնպէս, անդին, նոյնքան, այնչափ, անանկ, հոնկէ, հունա</em>
+* `Med` (46; 12% of non-empty `Deixis`): <em>այդպէս, այդքան, այդտեղ, հոդ, Հոտկէ, այդչափ, ատանկ</em>
+* `Prox` (179; 45% of non-empty `Deixis`): <em>հոս, այսպէս, այստեղ, այսքան, ասանկ, այսչափ, հոսկէ, սանկ, ասդին</em>
+* `Remt` (175; 44% of non-empty `Deixis`): <em>հոն, այնքան, այնպէս, նոյնքան, անդին, այնտեղ, անանկ, այնչափ, հոնկէ, հունա</em>
 
-`Deixis` seems to be **lexical feature** of `ADV`. 100% lemmas (22) occur only with one value of `Deixis`.
+`Deixis` seems to be **lexical feature** of `ADV`. 100% lemmas (26) occur only with one value of `Deixis`.
 
 ### `PRON`
 
-157 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (12% of all `PRON` tokens) have a non-empty value of `Deixis`.
+361 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (12% of all `PRON` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (157; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (157; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (156; 99%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (152; 97%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (88; 56%).
+The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (361; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (361; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (360; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (349; 97%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (197; 55%).
 
 `PRON` tokens may have the following values of `Deixis`:
 
-* `Med` (26; 17% of non-empty `Deixis`): <em>այդ, ատիկա, ատոր, ատ, ատկէ, ատոնք, Էդ, այդպէսով, այդքանը, ատոնցմէ</em>
-* `Prox` (56; 36% of non-empty `Deixis`): <em>այս, ասիկա, ասոր, ասկէ, աս, ասոնք, սա, Ասի, այսպէս, այսքանով</em>
-* `Remt` (75; 48% of non-empty `Deixis`): <em>այն, անիկա, անկէ, զանոնք, անոր, զայն, ան, անոնց, նոյնը, Էն</em>
+* `Med` (76; 21% of non-empty `Deixis`): <em>այդ, ատկէ, ատիկա, ատոնք, ատոր, ատ, այդպէսով, այդքանը, Էդ, այդպիսով</em>
+* `Prox` (126; 35% of non-empty `Deixis`): <em>այս, սա, ասիկա, ասոր, ասոնք, ասկէ, աս, այսպէս, ասի, այսքանը</em>
+* `Remt` (159; 44% of non-empty `Deixis`): <em>այն, անիկա, անկէ, զայն, ան, անոր, զանոնք, նոյնը, նոյնն, անոնց</em>
 
-`Deixis` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `Deixis`.
+<table>
+  <tr><th>Paradigm <i>այստեղ</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td></td><td><em>այստեղէն</em></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>այստեղի</em></td><td></td></tr>
+</table>
+
+`Deixis` seems to be **lexical feature** of `PRON`. 96% lemmas (27) occur only with one value of `Deixis`.
+
+## Relations with Agreement in `Deixis`
+
+The 10 most frequent relations where parent and child node agree in `Deixis`:
+<tt>PRON --[<tt><a href="hyw_armtdp-dep-orphan.html">orphan</a></tt>]--> ADV</tt> (1; 100%).
 

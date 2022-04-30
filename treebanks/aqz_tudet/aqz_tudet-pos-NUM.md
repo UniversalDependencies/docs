@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “tɨɾɨ”: <
 `NUM` occurs with 1 feature-value pairs: `NumType=Card`
 
 `NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `NumType=Card` (3 tokens).
-Examples: <em>kɨte, tɨrɨ, tɨɾɨ</em>
+The most frequent feature combination is `_` (3 tokens).
+Examples: <em>kɨte</em>
 
 
 ## Relations

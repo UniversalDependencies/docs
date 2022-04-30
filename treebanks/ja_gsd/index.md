@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Ryan McDonald, Joakim Nivre, Daniel Zeman.
 
 Repository: [UD_Japanese-GSD](https://github.com/UniversalDependencies/UD_Japanese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_gsd28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_gsd29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -49,7 +49,7 @@ This Universal Dependencies (UD) Japanese treebank is based on the definition of
 
 The Japanese UD treebank contains the sentences from Google Universal Dependency Treebanks v2.0 (legacy): https://github.com/ryanmcd/uni-dep-tb. First, Google UDT v2.0 was converted to UD-style with bunsetsu-based word units (say "master" corpus).
 
-The word units in "master" is significantly different from the definition of the documents based on Short Word Unit (SWU) [1], then the sentences are automatically re-processed by Hiroshi Kanayama in Feb 2017. It is the Japanese_UD v2.0 and used in the CoNLL 2017 shared task.
+The word units in "master" is significantly different from the definition of the documents based on **Short Unit Word** (SUW) [1], then the sentences are automatically re-processed by Hiroshi Kanayama in Feb 2017. It is the Japanese_UD v2.0 and used in the CoNLL 2017 shared task.
 In November 2017, UD_Japanese v2.0 is merged with the "master" data so that the manual annotations for dependencies can be reflected to the corpus. It reduced the errors in the dependency structures and relation labels.
 
 Still there are slight differences in the word unit between UD_Japanese v2.1 and UD_Japanese-KTC 1.3.
@@ -112,7 +112,7 @@ through annotation, discussion and validation with
 </ul>
 
 <ul>
-<li>This corpus contains 185315 tokens (96%) that are not followed by a space.</li>
+<li>This corpus contains 185312 tokens (96%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -151,7 +151,7 @@ through annotation, discussion and validation with
 </ul>
 
 <ul>
-<li>This corpus contains 47 lemmas tagged as auxiliaries (AUX): いい, いたす, いただく, がたい, がましい, くださる, ごとし, させる, じゃ, する, せる, そう, た, たい, たがる, たり, だ, ちゃう, つう, てく, てる, できる, とく, ない, なさる, なり, にくい, ぬ, べし, ほしい, まい, まじ, ます, みたい, みたく, む, や, やすい, よい, よう, らしい, られる, り, れる, 易い, 辛い, 難い</li>
+<li>This corpus contains 44 lemmas tagged as auxiliaries (AUX): いい, いたす, いただく, がたい, がましい, くださる, ごとし, させる, じゃ, する, せる, そう, た, たい, たがる, たり, だ, ちゃう, つう, できる, とく, ない, なさる, なり, にくい, べし, ほしい, まい, まじ, ます, みたい, みたく, む, や, やすい, よい, よう, らしい, られる, り, れる, 易い, 辛い, 難い</li>
 </ul>
 
 <ul>
@@ -182,9 +182,8 @@ through annotation, discussion and validation with
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: ない, ず, ん, なかっ, なく, なけれ, ざる, ぬ, なきゃ, な</li>
       <li>NOUN: 不, 非, 反, 無, 未, 異</li>
-      <li>SCONJ: ず</li>
+      <li>SCONJ: ない, ず, ん, なかっ, なく, なけれ, ざる, ぬ, なきゃ, な</li>
     </ul>
   </li>
 </ul>
@@ -221,7 +220,7 @@ through annotation, discussion and validation with
 </ul>
 
 <ul>
-<li>This corpus uses 43 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, れる, ます, ない, られる, ぬ, よう, せる, できる, たい, てる, そう, べし, やすい, らしい, みたい, くださる, ちゃう, いたす, させる, なり, にくい, つう, いただく, 易い, たり, 辛い, 難い, がたい, ごとし, なさる, まじ, や, がましい, じゃ, たがる, てく, とく, まい, みたく, む.</li>
+<li>This corpus uses 40 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, れる, ます, られる, よう, せる, できる, たい, そう, べし, やすい, らしい, みたい, くださる, ちゃう, いたす, させる, なり, にくい, つう, いただく, ない, 易い, たり, 辛い, 難い, がたい, ごとし, なさる, まじ, や, がましい, じゃ, たがる, とく, まい, みたく, む.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -230,8 +229,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-ADP(が) (2608)</li>
-      <li>VERB--NOUN-ADP(は) (1573)</li>
+      <li>VERB--NOUN-ADP(が) (2609)</li>
+      <li>VERB--NOUN-ADP(は) (1574)</li>
       <li>VERB--NOUN-ADP(も) (598)</li>
       <li>VERB--PRON-ADP(が) (47)</li>
       <li>VERB--PRON-ADP(は) (91)</li>

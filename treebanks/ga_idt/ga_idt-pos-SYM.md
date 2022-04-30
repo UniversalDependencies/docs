@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>Dublin.ie</em> (<tt><a href="ga_idt-p
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.643740).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.643911).
 
 The 1st highest number of forms (1) was observed with the lemma “-e”: <em>-e</em>.
 

@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 1 aux:pass	color:blue
 1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
-2	descubierto	descubierto	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	descubierto	descubrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	en	en	ADP	_	_	4	case	_	_
 4	1952	1952	NUM	_	NumType=Card	2	obl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
@@ -38,7 +38,7 @@ The following 9 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 1 aux:pass	color:blue
 1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-2	ordenado	ordenado	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	cop	_	_
+2	ordenado	ordenar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	cop	_	_
 3	sacerdote	sacerdote	NOUN	_	VerbForm=Inf	0	root	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	1	1	NUM	_	NumType=Card	3	nmod	_	_
@@ -58,7 +58,7 @@ The following 9 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 13	fgColor:white
 # visual-style 13 11 aux:pass	color:blue
 1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
-2	considerado	considerado	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	cop	_	_
+2	considerado	considerar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	cop	_	_
 3	nomen	nomen	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	nudum	nudum	PROPN	_	Gender=Masc|Number=Sing	3	flat	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_

@@ -25,11 +25,11 @@ The following 1 pairs of parts of speech are connected with `compound:a`: <tt><a
 1	Penulis	tulis	NOUN	NN	Number=Sing	4	nsubj	_	_
 2	Jerome	Jerome	PROPN	NNP	_	1	nmod	_	_
 3	Maida	Maida	PROPN	NNP	_	1	nmod	_	_
-4	menyebut	sebut	VERB	VB	Voice=Act	0	root	_	_
+4	menyebut	sebut	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
 5	kisah	kisah	NOUN	NN	Number=Sing	8	obl	_	_
 6	Zuckerberg	Zuckerberg	PROPN	NNP	_	5	nmod	_	_
 7	'	'	PUNCT	``	_	8	punct	_	SpaceAfter=No
-8	mengagumkan	kagum	VERB	VB	Voice=Act	4	xcomp	_	SpaceAfter=No
+8	mengagumkan	kagum	VERB	VB	Mood=Ind|Voice=Act	4	xcomp	_	SpaceAfter=No
 9	'	'	PUNCT	''	_	8	punct	_	_
 10	dan	dan	CCONJ	CC	_	13	cc	_	_
 11	'	'	PUNCT	``	_	13	punct	_	SpaceAfter=No

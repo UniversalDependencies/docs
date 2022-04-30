@@ -50,4 +50,4 @@ as “or something”, “etc.”, “like that” etc.
 * _մարդ-<b>մուրդ</b>_ “some people”,
 * _<b>դափ</b>-դատարկ_ “fully empty”,
 * _<b>նոփ</b>-նոր_ “fully new”
-<!-- Interlanguage links updated Pá kvě 14 11:08:31 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:20 CET 2021 -->

@@ -51,8 +51,8 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 6	ወድ	ወድ	VERB	VERB	_	0	root	_	Translit=wädə|LTranslit=wädə
 7	ኣል	ኣል	AUX	AUX	_	6	aux	_	Translit='alə|LTranslit='alə
 8	ኧሁ	ኧሁ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	6	expl	_	Translit='ăhu|LTranslit='ăhu
-9	ነገር	ነገር	NOUN	NOUN	_	10	goeswith	_	Translit=nägärə|LTranslit=nägärə
-10	ግን	ግን	CCONJ	CCONJ	_	12	cc	_	Translit=gənə|LTranslit=gənə
+9	ነገር	ነገር	CCONJ	CCONJ	_	12	cc	_	Translit=nägärə|LTranslit=nägärə
+10	ግን	ግን	CCONJ	CCONJ	_	9	goeswith	_	Translit=gənə|LTranslit=gənə
 11	ጊዜ	ጊዜ	NOUN	NOUN	_	12	obj	_	Translit=gize|LTranslit=gize
 12	የለ	የለ	VERB	VERB	_	6	conj	_	Translit=jälä|LTranslit=jälä
 13	ኝ	ኝ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	12	nsubj	_	Translit=ňə|LTranslit=ňə

@@ -9,34 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-67 tokens (4%) have a non-empty value of `Reflex`.
-57 types (8%) occur at least once with a non-empty value of `Reflex`.
+68 tokens (4%) have a non-empty value of `Reflex`.
+58 types (8%) occur at least once with a non-empty value of `Reflex`.
 47 lemmas (10%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 4 part-of-speech tags: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (48; 3% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (3; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (48; 3% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-48 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (9% of all `NOUN` tokens) have a non-empty value of `Reflex`.
+48 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (8% of all `NOUN` tokens) have a non-empty value of `Reflex`.
 
 The most frequent other feature values with which `NOUN` and `Reflex` co-occurred: <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (47; 98%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (47; 98%), <tt><a href="tpn_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=EMPTY</tt> (46; 96%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45; 94%).
 
 `NOUN` tokens may have the following values of `Reflex`:
 
 * `Yes` (48; 100% of non-empty `Reflex`): <em>osɨ, oguβa, Oguwɨ, Oker, oakangaoβĩ, oeʔõ, ogupjarama, omaʔendwáramo, ombaʔe, opɨʔape</em>
-* `EMPTY` (505): <em>jandéjara, aβá, cruz, judeus, Tupã, iʃɨ, mbaʔe, raʔangaβa, sekóreme, seków</em>
+* `EMPTY` (520): <em>jandéjara, aβá, cruz, judeus, Tupã, iʃɨ, mbaʔe, raʔangaβa, sekóreme, seków</em>
 
 `Reflex` seems to be **lexical feature** of `NOUN`. 100% lemmas (35) occur only with one value of `Reflex`.
 
 ### `VERB`
 
-12 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Reflex`.
+13 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9; 75%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (8; 67%), <tt><a href="tpn_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7; 58%).
+The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (10; 77%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (9; 69%), <tt><a href="tpn_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7; 54%).
 
 `VERB` tokens may have the following values of `Reflex`:
 
-* `Yes` (12; 100% of non-empty `Reflex`): <em>Ojeaɨβɨk, Ojepoej, Ojerokɨ, Ojerokɨpe, Oɲenomũnomũ, ojekájeká, ojemotupana, ojoβasapa, oɲemopɨtun, oɲemosakojaβo</em>
-* `EMPTY` (195): <em>eʔi, ojaβo, eʔipe, ojkóβo, Osó, meʔenga, omanõmo, owerasó, Eresawsupe, Ojaoβok</em>
+* `Yes` (13; 100% of non-empty `Reflex`): <em>Ojeaɨβɨk, Ojepoej, Ojerokɨ, Ojerokɨpe, Oɲenomũnomũ, ojekájeká, ojemotupana, ojoporuporwaβo, ojoβasapa, oɲemopɨtun</em>
+* `EMPTY` (201): <em>eʔi, ojaβo, eʔipe, Ojaoβok, ojkóβo, Osó, meʔenga, omanõmo, owerasó, Eresawsupe</em>
 
 `Reflex` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Reflex`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADP` and `Reflex` co-occurred
 `ADP` tokens may have the following values of `Reflex`:
 
 * `Yes` (4; 100% of non-empty `Reflex`): <em>ojoupé, ojoesé, ojoswi</em>
-* `EMPTY` (134): <em>resé, swi, supé, pupé, sesé, iré, rupi, janondé, iʃupé, ri</em>
+* `EMPTY` (141): <em>resé, swi, supé, pupé, sesé, rupi, iré, janondé, iʃupé, ri</em>
 
 ### `PRON`
 

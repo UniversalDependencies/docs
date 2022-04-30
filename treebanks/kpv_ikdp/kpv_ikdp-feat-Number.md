@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 1151 tokens (50%) have a non-empty value of `Number`.
 799 types (80%) occur at least once with a non-empty value of `Number`.
-544 lemmas (75%) occur at least once with a non-empty value of `Number`.
+544 lemmas (74%) occur at least once with a non-empty value of `Number`.
 The feature is used with 11 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (475; 21% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (268; 12% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (152; 7% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (87; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (51; 2% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (35; 2% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (31; 1% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `NOUN`

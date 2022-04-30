@@ -10,22 +10,22 @@ This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Ind|Neg|Tot`.
 
-582482 tokens (17%) have a non-empty value of `PronType`.
-487 types (0%) occur at least once with a non-empty value of `PronType`.
-352 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (395913; 12% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (125441; 4% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (56189; 2% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (4939; 0% instances).
+582483 tokens (17%) have a non-empty value of `PronType`.
+453 types (0%) occur at least once with a non-empty value of `PronType`.
+318 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (452103; 13% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (125441; 4% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (4939; 0% instances).
 
 ### `DET`
 
-395913 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `PronType`.
+452103 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (313026; 79%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (395913; 88%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (369216; 82%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (371043; 94% of non-empty `PronType`): <em>die, der, den, das, des, eine, dem, ein, einen, einem</em>
+* `Art` (427233; 94% of non-empty `PronType`): <em>der, die, dem, den, das, des, eine, ein, einen, einem</em>
 * `Dem` (12147; 3% of non-empty `PronType`): <em>diese, dieser, diesem, dieses, diesen, deren, dessen, derselben, denselben, dieselbe</em>
-* `Ind,Neg,Tot` (11302; 3% of non-empty `PronType`): <em>keine, kein, einige, mehr, keinen, mehrere, einigen, jedem, weniger, einiger</em>
+* `Ind,Neg,Tot` (11302; 2% of non-empty `PronType`): <em>keine, kein, einige, mehr, keinen, mehrere, einigen, jedem, weniger, einiger</em>
 * `Int` (713; 0% of non-empty `PronType`): <em>welche, welchen, welcher, welchem, wieviel, welches, welch, wieviele, wessen, wievielen</em>
 * `Rel` (708; 0% of non-empty `PronType`): <em>deren, dessen</em>
 * `EMPTY` (7871): <em>alle, aller, allen, beide, jeder, solche, jede, jeden, jedes, beiden</em>
@@ -63,19 +63,6 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PronType` seems to be **lexical feature** of `PRON`. 94% lemmas (211) occur only with one value of `PronType`.
 
-### `ADP`
-
-56189 <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> tokens (15% of all `ADP` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `ADP` and `PronType` co-occurred: <tt><a href="de_hdt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (56189; 100%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt> (54005; 96%).
-
-`ADP` tokens may have the following values of `PronType`:
-
-* `Art` (56189; 100% of non-empty `PronType`): <em>im, am, zum, zur, vom, beim, ins, fürs, ans, übers</em>
-* `EMPTY` (329535): <em>in, von, mit, für, auf, bei, an, nach, zu, über</em>
-
-`PronType` seems to be **lexical feature** of `ADP`. 100% lemmas (34) occur only with one value of `PronType`.
-
 ### `ADV`
 
 4939 <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `PronType`.
@@ -96,7 +83,6 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>DET --[<tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (12; 100%),
 <tt>PRON --[<tt><a href="de_hdt-dep-amod.html">amod</a></tt>]--> DET</tt> (8; 100%),
 <tt>PRON --[<tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (5; 100%),
-<tt>ADP --[<tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt>]--> ADP</tt> (3; 100%),
 <tt>DET --[<tt><a href="de_hdt-dep-obl.html">obl</a></tt>]--> PRON</tt> (2; 100%),
 <tt>ADV --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
 

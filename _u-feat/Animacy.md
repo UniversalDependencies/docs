@@ -104,4 +104,4 @@ is used for inanimates.
 
 * [pl] _<b>małe psy</b>_ “small dogs”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:27 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->

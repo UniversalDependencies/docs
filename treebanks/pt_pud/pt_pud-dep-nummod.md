@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 nummod	color:blue
-1	O	o	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+1	O	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	atual	atual	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
 3	período	período	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
 4	de	de	ADP	IN	_	5	case	_	_
@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	por	por	ADP	IN	_	4	case	_	_
 4	pessoa	pessoa	NOUN	NN	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	_
-6	o	o	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	máximo	máximo	NOUN	NN	Gender=Masc|Number=Sing	1	appos	_	_
 8	permitido	permitido	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	_	_

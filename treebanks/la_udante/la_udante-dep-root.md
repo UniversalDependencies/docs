@@ -11,7 +11,7 @@ This relation is universal.
 1721 nodes (3%) are attached to their parents as `root`.
 
 1721 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.03370133643231.
+Average distance between parent and child is 9.0348634514817.
 
 The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1321; 77% instances), -<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (146; 8% instances), -<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (130; 8% instances), -<tt><a href="la_udante-pos-DET.html">DET</a></tt> (44; 3% instances), -<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (22; 1% instances), -<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (22; 1% instances), -<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (20; 1% instances), -<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 0% instances), -<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="la_udante-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
@@ -61,7 +61,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	et	et	CCONJ	co	_	10	cc	_	_
 7	iterum	iterum	ADV	r	Degree=Cmp	9	advmod	_	_
 8	iam	iam	ADV	r	_	9	advmod	_	_
-9	punita	punio	VERB	vp4prsfv	Aspect=Perf|Case=Voc|Degree=Pos|Gender=Fem|InflClass=LatI|InflClass[noun]=IndEurA|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+9	punita	punio	VERB	vp4prsfv	Aspect=Perf|Case=Voc|Degree=Pos|Gender=Fem|InflClass=LatI|InflClass[nominal]=IndEurA|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
 10	barbaries	barbaries	NOUN	sfs5n	Case=Nom|Gender=Fem|InflClass=IndEurE|Number=Sing	4	conj	_	SpaceAfter=No
 11	!	!	PUNCT	Pu	_	4	punct	_	_
 

@@ -13,9 +13,9 @@ The 10 most frequent `PRON` lemmas: <em>der, er, es, er|es|sie, sie, sein, ihr, 
 
 The 10 most frequent `PRON` types:  <em>es, sich, die, er, sie, der, ich, seine, wir, ihre</em>
 
-The 10 most frequent ambiguous lemmas: <em>der</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 2118, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 236), <em>sein</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 323, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 107, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 49), <em>her</em> (<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>der</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 2121, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 236), <em>sein</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 323, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 107, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 49), <em>her</em> (<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>die</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 474, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 131), <em>der</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 541, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 65), <em>das</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 143, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 17), <em>sein</em> (<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 9, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 3), <em>denen</em> (<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 1), <em>dem</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 399, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 7), <em>deren</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 2), <em>dessen</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 2), <em>den</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 201, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>die</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 474, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 131), <em>der</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 541, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 65), <em>das</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 143, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 17), <em>sein</em> (<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 9, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 3), <em>denen</em> (<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 1), <em>dem</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 402, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 7), <em>deren</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 2), <em>dessen</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 2), <em>den</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 201, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>die</em>
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>die</em> (<tt><a href="de_pud-pos-DET
   * <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 11: <em>Letzterer überwacht die Vorwahlen der Konservativen , in <b>denen</b> Rachida Dati Nicolas Sarkozy unterstützt .</em>
   * <tt><a href="de_pud-pos-DET.html">DET</a></tt> 1: <em>Es wurde betont , dass wir nicht mit <b>denen</b> weiterarbeiten können , die völlig gegen Italien sind .</em>
 * <em>dem</em>
-  * <tt><a href="de_pud-pos-DET.html">DET</a></tt> 399: <em>Er hat seine harten Kanten in <b>dem</b> Spiel , aber auch weiche Hände .</em>
+  * <tt><a href="de_pud-pos-DET.html">DET</a></tt> 402: <em>Er hat seine harten Kanten in <b>dem</b> Spiel , aber auch weiche Hände .</em>
   * <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 7: <em>North Carolina ist der Ort , bei <b>dem</b> sich in dieser Wahl alles entscheidet .</em>
 * <em>deren</em>
   * <tt><a href="de_pud-pos-DET.html">DET</a></tt> 3: <em>Der Vorsprung der Republikaner wurde von einer großen Anzahl von Briefwählern gestützt , Anfang der Woche lag <b>deren</b> Gesamtzahl bei 16.500 .</em>
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>die</em> (<tt><a href="de_pud-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.000000 (the average of all parts of speech is 1.195571).
+The form / lemma ratio of `PRON` is 2.000000 (the average of all parts of speech is 1.195641).
 
 The 1st highest number of forms (8) was observed with the lemma “der”: <em>das, dem, den, denen, der, deren, dessen, die</em>.
 

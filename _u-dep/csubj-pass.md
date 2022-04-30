@@ -20,4 +20,4 @@ Nepředpokládá se , že přijdete před devátou . \n It-does-not-expect itsel
 csubj:pass(Nepředpokládá, přijdete)
 csubj:pass(It-does-not-expect, you-will-come)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:00 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:49 CET 2021 -->

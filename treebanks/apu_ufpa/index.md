@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Marília Fernanda, Sidney Facundes, Bruna Lima Padovani, Jack Rueter, Niko Partanen.
 
 Repository: [UD_Apurina-UFPA](https://github.com/UniversalDependencies/UD_Apurina-UFPA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udapu_ufpa28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udapu_ufpa29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -83,17 +83,17 @@ Finite-State Transistor development:
 
 ## Relations
 
-[acl](apu_ufpa-dep-acl.html) – [acl:relcl](apu_ufpa-dep-acl-relcl.html) – [advcl](apu_ufpa-dep-advcl.html) – [advcl:tcl](apu_ufpa-dep-advcl-tcl.html) – [advmod](apu_ufpa-dep-advmod.html) – [advmod:lmod](apu_ufpa-dep-advmod-lmod.html) – [advmod:neg](apu_ufpa-dep-advmod-neg.html) – [advmod:tmod](apu_ufpa-dep-advmod-tmod.html) – [aux](apu_ufpa-dep-aux.html) – [case](apu_ufpa-dep-case.html) – [cc](apu_ufpa-dep-cc.html) – [conj](apu_ufpa-dep-conj.html) – [cop](apu_ufpa-dep-cop.html) – [csubj](apu_ufpa-dep-csubj.html) – [dep](apu_ufpa-dep-dep.html) – [det](apu_ufpa-dep-det.html) – [dislocated](apu_ufpa-dep-dislocated.html) – [mark](apu_ufpa-dep-mark.html) – [nmod](apu_ufpa-dep-nmod.html) – [nmod:poss](apu_ufpa-dep-nmod-poss.html) – [nsubj](apu_ufpa-dep-nsubj.html) – [nsubj:cop](apu_ufpa-dep-nsubj-cop.html) – [nummod](apu_ufpa-dep-nummod.html) – [obj](apu_ufpa-dep-obj.html) – [obj:agent](apu_ufpa-dep-obj-agent.html) – [obl](apu_ufpa-dep-obl.html) – [obl:lmod](apu_ufpa-dep-obl-lmod.html) – [obl:tmod](apu_ufpa-dep-obl-tmod.html) – [punct](apu_ufpa-dep-punct.html) – [root](apu_ufpa-dep-root.html) – [xcomp](apu_ufpa-dep-xcomp.html)
+[acl](apu_ufpa-dep-acl.html) – [acl:relcl](apu_ufpa-dep-acl-relcl.html) – [advcl](apu_ufpa-dep-advcl.html) – [advcl:tcl](apu_ufpa-dep-advcl-tcl.html) – [advmod](apu_ufpa-dep-advmod.html) – [advmod:lmod](apu_ufpa-dep-advmod-lmod.html) – [advmod:neg](apu_ufpa-dep-advmod-neg.html) – [advmod:tmod](apu_ufpa-dep-advmod-tmod.html) – [aux](apu_ufpa-dep-aux.html) – [aux:exhort](apu_ufpa-dep-aux-exhort.html) – [case](apu_ufpa-dep-case.html) – [cc](apu_ufpa-dep-cc.html) – [ccomp](apu_ufpa-dep-ccomp.html) – [conj](apu_ufpa-dep-conj.html) – [cop](apu_ufpa-dep-cop.html) – [csubj](apu_ufpa-dep-csubj.html) – [dep](apu_ufpa-dep-dep.html) – [det](apu_ufpa-dep-det.html) – [dislocated](apu_ufpa-dep-dislocated.html) – [mark](apu_ufpa-dep-mark.html) – [nmod](apu_ufpa-dep-nmod.html) – [nmod:poss](apu_ufpa-dep-nmod-poss.html) – [nsubj](apu_ufpa-dep-nsubj.html) – [nsubj:cop](apu_ufpa-dep-nsubj-cop.html) – [nummod](apu_ufpa-dep-nummod.html) – [obj](apu_ufpa-dep-obj.html) – [obj:agent](apu_ufpa-dep-obj-agent.html) – [obl](apu_ufpa-dep-obl.html) – [obl:lmod](apu_ufpa-dep-obl-lmod.html) – [obl:tmod](apu_ufpa-dep-obl-tmod.html) – [punct](apu_ufpa-dep-punct.html) – [root](apu_ufpa-dep-root.html) – [xcomp](apu_ufpa-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 88 sentences, 639 tokens and 642 syntactic words.</li>
+<li>This corpus contains 107 sentences, 728 tokens and 731 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 134 tokens (21%) that are not followed by a space.</li>
+<li>This corpus contains 155 tokens (21%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -123,18 +123,18 @@ Finite-State Transistor development:
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as pronouns (PRON): kiripa, nynuwa, uwa, ykyny, ykynyk, ykynypuku, ywa</li>
+<li>This corpus contains 8 lemmas tagged as pronouns (PRON): atha, kiripa, nynuwa, uwa, ykyny, ykynyk, ykynypuku, ywa</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as determiners (DET): ie, ithu, kaiãapuku, kaiãpuku</li>
+<li>This corpus contains 5 lemmas tagged as determiners (DET): ie, ithu, kaiãapuku, kaiãpuku, kaiãũ</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): txa</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): amu, txa</li>
 </ul>
 
 <ul>
@@ -171,7 +171,7 @@ Finite-State Transistor development:
 <ul>
   <li>Fem
     <ul>
-      <li>NOUN: maky, sytu, syture, ytanuru</li>
+      <li>NOUN: maky, Sytuwakuru, amarute, sytu, syture, ytanuru</li>
       <li>NUM: Hãtu</li>
       <li>PRON: uwa</li>
     </ul>
@@ -182,7 +182,7 @@ Finite-State Transistor development:
   <li>Masc
     <ul>
       <li>DET: iia, iie, kaiãapukury</li>
-      <li>NOUN: kyky, kãkiti, ãkiti, ithupa, iãkynytikinhi, pupỹkary, tiitxi, tiwitxi, Pupĩkary, Pupũkary</li>
+      <li>NOUN: kyky, ximaky, kãkiti, ãkiti, ithupa, iãkynytikinhi, kãkity, pupỹkary, tiitxi, tiwitxi</li>
       <li>NUM: ãty</li>
       <li>PRON: ywa, ywamunhi</li>
     </ul>
@@ -197,7 +197,7 @@ Finite-State Transistor development:
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: Pupĩkaryny, imiakurykata, ypyrawakury, ũimiakury</li>
+      <li>NOUN: Pupĩkaryny, Sytuwakuru, amarynyky, imiakurykata, ypyrawakury, ũimiakury</li>
       <li>PRON: nynuwa</li>
     </ul>
   </li>
@@ -206,7 +206,7 @@ Finite-State Transistor development:
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: kyky, ãkiti, Tukury, Yẽrẽkatikinhi, aapuku, apy, awinhi, awinhinã, iserẽkana, iãkynykata</li>
+      <li>NOUN: kyky, ximaky, ãkiti, awinhi, Tukury, Yẽrẽkatikinhi, aapuku, apy, awinhinã, iserẽkana</li>
       <li>PRON: ywa, uwa, ywamunhi</li>
     </ul>
   </li>
@@ -248,7 +248,7 @@ Finite-State Transistor development:
 <ul>
   <li>Nom
     <ul>
-      <li>NOUN: kyky, ãkiti, tiitxi, tiwitxi, Pupỹkary, Tukury, aapuku, aiku, awinhi, erẽkatxi</li>
+      <li>NOUN: kyky, ximaky, ãkiti, tiitxi, tiwitxi, awinhi, Pupỹkary, Sytuwakuru, Tukury, aapuku</li>
       <li>PRON: ywa, nynuwa, uwa</li>
     </ul>
   </li>
@@ -348,7 +348,7 @@ Finite-State Transistor development:
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: iserẽkana, ykyynyrytena, ãawinhinhĩã</li>
+      <li>NOUN: iserẽkana, ykyynyrytena, ãawinhinhĩã, ãawinhipuku</li>
     </ul>
   </li>
 </ul>
@@ -394,7 +394,7 @@ Finite-State Transistor development:
       <li>Masc
         <ul>
           <li>CCONJ: txamary</li>
-          <li>VERB: awary, amutary, sary, 'awary, apukary, atamatary, ithupytymary, kaiãapukury, mitxiry, myremanary</li>
+          <li>VERB: awary, amutary, 'awary, kamary, Makamary, apukary, atamatary, ithupytymary, kaiãapukury, mawakynỹãty</li>
         </ul>
       </li>
     </ul>
@@ -404,12 +404,18 @@ Finite-State Transistor development:
 <ul>
   <li><a>Gender[subj]</a>
     <ul>
+      <li>Fem
+        <ul>
+          <li>VERB: Naãtyru</li>
+        </ul>
+      </li>
       <li>Masc
         <ul>
           <li>ADJ: Kataparaxinery</li>
           <li>ADV: myrykynyty</li>
           <li>AUX: itxa</li>
-          <li>VERB: apukary, awana, inhinhiãwa, iputurĩ, kasunakyry, kaxinhiry, ysa, Ĩkanapyryãkasaaky</li>
+          <li>NOUN: myramanery</li>
+          <li>VERB: sary, Kuaxary, Kunakamunyry, apukary, awana, inhinhiãwa, iputurĩ, kasunakyry, kaxinhiry, mitxiry</li>
           <li>VERB-Conv: Ĩkanapyryãkasaaky</li>
         </ul>
       </li>
@@ -428,7 +434,7 @@ Finite-State Transistor development:
       <li>Sing
         <ul>
           <li>CCONJ: txamary</li>
-          <li>VERB: awary, amutary, sary, 'awary, apukary, atamatary, araũkytary, ithupytymary, kaiãapukury, mitxiry</li>
+          <li>VERB: awary, amutary, 'awary, apukary, atamatary, kamary, Makamary, araũkytary, ithupytymary, kaiãapukury</li>
         </ul>
       </li>
     </ul>
@@ -448,7 +454,8 @@ Finite-State Transistor development:
           <li>ADJ: Kataparaxinery</li>
           <li>ADV: myrykynyty</li>
           <li>AUX: itxa</li>
-          <li>VERB: apukary, inhinhiãwa, iputurĩ, kasunakyry, kaxinhiry, ysa, Ĩkanapyryãkasaaky</li>
+          <li>NOUN: myramanery</li>
+          <li>VERB: sary, Kuaxary, Kunakamunyry, Naãtyru, apukary, inhinhiãwa, iputurĩ, kasunakyry, kaxinhiry, mitxiry</li>
           <li>VERB-Conv: Ĩkanapyryãkasaaky</li>
         </ul>
       </li>
@@ -462,7 +469,7 @@ Finite-State Transistor development:
       <li>3
         <ul>
           <li>CCONJ: txamary</li>
-          <li>VERB: awary, amutary, sary, apukary, 'awary, atamatary, araũkytary, ithupytymary, kaiãapukury, mitxiry</li>
+          <li>VERB: awary, amutary, apukary, 'awary, atamatary, kamary, Makamary, araũkytary, ithupytymary, kaiãapukury</li>
         </ul>
       </li>
     </ul>
@@ -474,7 +481,7 @@ Finite-State Transistor development:
     <ul>
       <li>1
         <ul>
-          <li>NOUN: ãawinhinhĩã</li>
+          <li>NOUN: ãawinhinhĩã, ãawinhipuku</li>
         </ul>
       </li>
       <li>3
@@ -494,7 +501,8 @@ Finite-State Transistor development:
           <li>ADJ: Kataparaxinery</li>
           <li>ADV: myrykynyty</li>
           <li>AUX: itxa</li>
-          <li>VERB: apukary, awana, inhinhiãwa, iputurĩ, kasunakyry, kaxinhiry, ysa, Ĩkanapyryãkasaaky</li>
+          <li>NOUN: myramanery</li>
+          <li>VERB: sary, Kuaxary, Kunakamunyry, Naãtyru, apukary, awana, inhinhiãwa, iputurĩ, kasunakyry, kaxinhiry</li>
           <li>VERB-Conv: Ĩkanapyryãkasaaky</li>
         </ul>
       </li>
@@ -507,13 +515,13 @@ Finite-State Transistor development:
     <ul>
       <li>No
         <ul>
-          <li>NOUN: kyky, tiwitxi, aapukutxi, mãkatxi, nhipukury, tiitxi, aapukutxiã, kekutxi, maky, Tukury</li>
+          <li>NOUN: kyky, tiwitxi, aapukutxi, mãkatxi, nhipukury, ximaky, tiitxi, aapukutxiã, kekutxi, maky</li>
           <li>VERB: nhipukury</li>
         </ul>
       </li>
       <li>Yes
         <ul>
-          <li>NOUN: aapuku, Ukywyxikeru, Yẽrẽkatikinhi, apy, awinhi, awinhinã, iserẽkana, iãkynytikinhi, kikiute, syture</li>
+          <li>NOUN: aapuku, Ukywyxikeru, Yẽrẽkatikinhi, amarute, apy, awinhi, awinhinã, iserẽkana, iãkynytikinhi, kikiute</li>
         </ul>
       </li>
     </ul>
@@ -527,7 +535,8 @@ Finite-State Transistor development:
         <ul>
           <li>ADJ: Kataparaxinery</li>
           <li>ADV: myrykynyty</li>
-          <li>VERB: kasunakyry, kaxinhiry</li>
+          <li>NOUN: myramanery</li>
+          <li>VERB: sary, Kuaxary, Kunakamunyry, Naãtyru, kasunakyry, kaxinhiry, mitxiry, xepitiry</li>
         </ul>
       </li>
     </ul>
@@ -552,10 +561,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (34)</li>
-      <li>VERB--NOUN-Nom (13)</li>
-      <li>VERB--PRON (4)</li>
-      <li>VERB--PRON-Nom (36)</li>
+      <li>VERB--NOUN (43)</li>
+      <li>VERB--NOUN-Nom (14)</li>
+      <li>VERB--PRON (8)</li>
+      <li>VERB--PRON-Nom (38)</li>
     </ul>
   </li>
 </ul>
@@ -563,12 +572,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (43)</li>
-      <li>VERB--NOUN-Nom (14)</li>
+      <li>VERB--NOUN (47)</li>
+      <li>VERB--NOUN-Nom (17)</li>
       <li>VERB--PRON (2)</li>
       <li>VERB--PRON-Nom (1)</li>
       <li>VERB-Conv--NOUN-Nom (1)</li>
-      <li>VERB-Vnoun--NOUN (2)</li>
+      <li>VERB-Vnoun--NOUN (1)</li>
+      <li>VERB-Vnoun--NOUN-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -586,6 +596,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>advcl:tcl</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obj:agent</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
-<li>The following 16 relation types are not used in this corpus at all: <a>iobj</a>, <a>ccomp</a>, <a>vocative</a>, <a>expl</a>, <a>discourse</a>, <a>appos</a>, <a>amod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:tcl</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:exhort</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obj:agent</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>The following 15 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>discourse</a>, <a>appos</a>, <a>amod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

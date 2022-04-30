@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-251 nodes (1%) are attached to their parents as `acl`.
+254 nodes (1%) are attached to their parents as `acl`.
 
-251 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33067729083665.
+254 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.36614173228346.
 
-The following 12 pairs of parts of speech are connected with `acl`: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (217; 86% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-DET.html">DET</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `acl`: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (219; 86% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (14; 6% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-DET.html">DET</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 6	önüne	ön	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	obl	_	_
 7	geyik	geyik	NOUN	_	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
 8	çıkınca	çık	ADV	_	_	12	advcl	_	_
-9	bir	bir	DET	_	Definite=Ind	10	det	_	_
+9	bir	bir	DET	_	Definite=Ind|PronType=Art	10	det	_	_
 10	anda	an	NOUN	_	Case=Loc|Number=Sing|Person=3	12	obl	_	_
 11	çark	çark	NOUN	_	Case=Nom|Number=Sing|Person=3	12	compound	_	_
 12	etti	et	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_

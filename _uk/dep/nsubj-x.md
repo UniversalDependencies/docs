@@ -50,4 +50,4 @@ This relation is sometimes called `nsubj:xsubj` (like in [Schuster and Manning, 
 <!-- For related discussions, see issues [#567](https://github.com/UniversalDependencies/docs/issues/567) and [#568](https://github.com/UniversalDependencies/docs/issues/568). -->
 
  <!-- If the subject is not overt but is deducible from the form of the verb, there is no `nsubj:x`. -->
-<!-- Interlanguage links updated Pá kvě 14 11:09:14 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:02 CET 2021 -->

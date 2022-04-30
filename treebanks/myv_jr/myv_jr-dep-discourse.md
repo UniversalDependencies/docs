@@ -25,7 +25,7 @@ The following 21 pairs of parts of speech are connected with `discourse`: <tt><a
 1	―	―	PUNCT	PUNCT	_	5	punct	_	_
 2	Вана	вана	INTJ	Interj	_	5	discourse	_	GTtags=|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
-4	Звездов	Звездов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	5	nsubj	_	GTtags=Sur_Mal,Prop,Sg,Nom,Indef
+4	Звездов	Звездов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	5	nsubj	_	GTtags=Sur_Mal,Prop,Sg,Nom,Indef
 5	кучсь	кучомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
 6	отрядонтень	отряд	NOUN	N	Case=Dat|Definite=Def|Number=Sing	5	obl	_	GTtags=Sg,Dat,Def
 7	оптечка	оптечка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	obj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
@@ -46,7 +46,7 @@ The following 21 pairs of parts of speech are connected with `discourse`: <tt><a
 4	истя	истя	ADV	Adv	AdvType=Man	6	advmod:mmod	_	GTtags=Manner
 5	жо	жо	PART	Pcle	_	4	discourse	_	_
 6	кившкадсь	кившкадемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
-7	Вострин	Вострин	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	6	nsubj	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef|SpaceAfter=No
+7	Вострин	Вострин	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	6	nsubj	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-82 nodes (0%) are attached to their parents as `flat`.
+78 nodes (0%) are attached to their parents as `flat`.
 
-82 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.23170731707317.
+78 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.24358974358974.
 
-The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (42; 51% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (22; 27% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (12; 15% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (4; 5% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (38; 49% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (22; 28% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (12; 15% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (4; 5% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

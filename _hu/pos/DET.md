@@ -13,4 +13,4 @@ this-PL-ACC the book-PL-ACC
 ``those books''
 
 These determiners bear the nominal inflectional features (Number, Case, Number[psor], Person[psor], Number[psed]).
-<!-- Interlanguage links updated Pá kvě 14 11:08:20 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:09 CET 2021 -->

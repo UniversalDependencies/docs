@@ -22,13 +22,13 @@ The following 2 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 advmod	color:blue
-1	yãn	yãn	ADV	adv	_	3	advmod	3:advmod	_
-2	oxepngoret	ngot	NOUN	n	Case=Gen|Person=1|Rel=Cont	3	obj	3:obj	_
-3	oerã	oen	VERB	vt	_	0	root	0:root	_
-4	kepit	kepit	CCONJ	conj	_	5	cc	5:cc	_
-5	eta	eta	VERB	vi	_	3	conj	3:conj	_
-6	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-7	toa	top	VERB	vt	_	5	dep	5:dep	_
+1	yãn	yãn	ADV	adv	_	3	advmod	_	_
+2	oxepngoret	ngot	NOUN	n	Case=Gen|Person=1|Rel=Cont	3	obj	_	_
+3	oerã	oen	VERB	vt	_	0	root	_	_
+4	kepit	kepit	CCONJ	conj	_	5	cc	_	_
+5	eta	eta	VERB	vi	_	3	conj	_	_
+6	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+7	toa	top	VERB	vt	_	5	dep	_	_
 
 ~~~
 
@@ -39,12 +39,12 @@ The following 2 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 advmod	color:blue
-1	xop	xop	DET	dem	_	4	obl	4:obl	_
-2	me	me	ADP	posp	_	1	case	1:case	_
-3	pote	pote	ADV	adv	_	4	advmod	4:advmod	_
-4	worawiget	worawik	NOUN	n	Case=Gen|Rel=Cont	0	root	0:root	_
-5	xop	xop	DET	dem	_	4	obl	4:obl	_
-6	me	me	ADP	posp	_	5	case	5:case	_
+1	xop	xop	DET	dem	_	4	obl	_	_
+2	me	me	ADP	posp	_	1	case	_	_
+3	pote	pote	ADV	adv	_	4	advmod	_	_
+4	worawiget	worawik	NOUN	n	Case=Gen|Rel=Cont	0	root	_	_
+5	xop	xop	DET	dem	_	4	obl	_	_
+6	me	me	ADP	posp	_	5	case	_	_
 
 ~~~
 

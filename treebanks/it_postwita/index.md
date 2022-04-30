@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_Italian-PoSTWITA](https://github.com/UniversalDependencies/UD_Italian-PoSTWITA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -79,11 +79,11 @@ The treebank development has also been possible thanks to the contribution of Fa
 
 
 <ul>
-<li>This corpus contains 6713 sentences, 119376 tokens and 124557 syntactic words.</li>
+<li>This corpus contains 6712 sentences, 119342 tokens and 124523 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 13288 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 13279 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -91,7 +91,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 </ul>
 
 <ul>
-<li>This corpus contains 4116 types of words that contain both letters and punctuation. Examples: @user, l', #grillo, #monti, @user1, @user2, #governo, e', c', #serviziopubblico, @user3, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, #mario, #politica, @user4, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, #bersani, #rimontiamo, #pdl, @user5, B., #fullmonti, #bossi, c:, #rt, #crisi, #m5stour, #news, #roma, #fatepresto, #liberalizzazioni, #ballarò, #cinemaInChiesa, #movimento5stelle, #antipolitica, #opencamera, #postofisso</li>
+<li>This corpus contains 4116 types of words that contain both letters and punctuation. Examples: @user, l', #grillo, #monti, @user1, @user2, #governo, e', c', #serviziopubblico, @user3, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, #mario, #politica, @user4, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, #bersani, #rimontiamo, #pdl, @user5, B., #fullmonti, #bossi, c:, #rt, #crisi, #m5stour, #news, #roma, #fatepresto, #liberalizzazioni, #ballarò, #movimento5stelle, #antipolitica, #cinemaInChiesa, #opencamera, #postofisso</li>
 </ul>
 
 <ul>
@@ -475,7 +475,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 <ul>
   <li>Card
     <ul>
-      <li>NUM: 2, 3, 1, due, 5, 4, 7, 6, 10, 20</li>
+      <li>NUM: 2, 3, due, 1, 5, 4, 7, 6, 10, 20</li>
     </ul>
   </li>
 </ul>

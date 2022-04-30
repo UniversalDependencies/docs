@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `PART`
 
-There are 4 `PART` lemmas (1%), 4 `PART` types (1%) and 12 `PART` tokens (1%).
+There are 4 `PART` lemmas (1%), 4 `PART` types (1%) and 12 `PART` tokens (0%).
 Out of 15 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 14 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>ni, veʹt, gõs, tâma</em>
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ni</em> (<tt><a href="sms_giellagas-p
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.421739).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.444906).
 
 The 1st highest number of forms (1) was observed with the lemma “gõs”: <em>gõs</em>.
 

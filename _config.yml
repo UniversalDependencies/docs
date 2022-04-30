@@ -364,6 +364,24 @@ collections:
     output: true
   bn:
     output: true
+  pa:
+    output: true
+  ceb:
+    output: true
+  nhi:
+    output: true
+  hbo:
+    output: true
+  gn:
+    output: true
+  eme:
+    output: true
+  jaa:
+    output: true
+  xum:
+    output: true
+  frm:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 

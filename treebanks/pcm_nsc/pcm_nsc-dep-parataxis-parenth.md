@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: Relations: `parataxis:parenth`
 
 This relation is a language-specific subtype of <tt><a href="pcm_nsc-dep-parataxis.html">parataxis</a></tt>.
-There are also 3 other language-specific subtypes of `parataxis`: <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-dislocated.html">parataxis:dislocated</a></tt>.
+There are also 4 other language-specific subtypes of `parataxis`: <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-dislocated.html">parataxis:dislocated</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-mod.html">parataxis:mod</a></tt>.
 
-126 nodes (0%) are attached to their parents as `parataxis:parenth`.
+129 nodes (0%) are attached to their parents as `parataxis:parenth`.
 
-115 instances of `parataxis:parenth` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.84920634920635.
+118 instances of `parataxis:parenth` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.82945736434108.
 
-The following 33 pairs of parts of speech are connected with `parataxis:parenth`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (26; 21% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (18; 14% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (12; 10% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (12; 10% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (10; 8% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (4; 3% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 34 pairs of parts of speech are connected with `parataxis:parenth`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (28; 22% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (18; 14% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (12; 9% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (12; 9% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (11; 9% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (4; 3% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -56,12 +56,12 @@ The following 33 pairs of parts of speech are connected with `parataxis:parenth`
 3	#	#	X	_	_	2	dep	_	AlignBegin=388500|AlignEnd=389090|Gloss=PUNCT
 4	if	if	SCONJ	_	_	7	mark	_	AlignBegin=389090|AlignEnd=389260|Gloss=if
 5	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	AlignBegin=389260|AlignEnd=389320|Gloss=NOM.2
-6	no	no	PART	_	Polarity=Neg	7	advmod	_	AlignBegin=389320|AlignEnd=389480|Gloss=NEG
+6	no	no	AUX	_	Polarity=Neg	7	aux	_	AlignBegin=389320|AlignEnd=389480|Gloss=NEG
 7	buy	buy	VERB	_	_	22	advcl	_	AlignBegin=389480|AlignEnd=389800|Gloss=buy
 8	akara	akara	NOUN	_	_	7	obj	_	AlignBegin=389800|AlignEnd=390277|Gloss=bean_doughnut
 9	#	#	X	_	_	7	dep	_	AlignBegin=390277|AlignEnd=390582|Gloss=PUNCT
 10	(	(	X	_	_	17	dep	_	AlignBegin=390277|AlignEnd=390582|Gloss=PUNCT
-11	wey	when	SCONJ	_	_	17	mark	_	AlignBegin=390582|AlignEnd=390652|ExtPos=SCONJ|Gloss=when|PhraseType=Idiom
+11	wey	when	SCONJ	_	_	17	mark	_	AlignBegin=390582|AlignEnd=390652|ExtPos=SCONJ|Gloss=when|Idiom=Yes
 12	be	be	AUX	_	PartType=Cop	11	fixed	_	AlignBegin=390652|AlignEnd=390785|Gloss=be|InIdiom=Yes
 13	sey	sey	SCONJ	_	_	11	fixed	_	AlignBegin=390785|AlignEnd=390932|Gloss=COMP|InIdiom=Yes
 14	na	na	AUX	_	PartType=Cop	17	cop	_	AlignBegin=390932|AlignEnd=391087|Gloss=be
@@ -83,28 +83,29 @@ The following 33 pairs of parts of speech are connected with `parataxis:parenth`
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 parataxis:parenth	color:blue
-1	#	#	X	_	_	15	dep	_	AlignBegin=247700|AlignEnd=248360|Gloss=PUNCT
-2	now	now	ADV	_	_	15	advmod	_	AlignBegin=248360|AlignEnd=248480|Gloss=now
-3	(	(	X	_	_	6	dep	_	AlignBegin=248480|AlignEnd=248510|Gloss=PUNCT
-4	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=248510|AlignEnd=248583|Gloss=NOM.PL.1
-5	don	don	AUX	_	Aspect=Perf	6	aux	_	AlignBegin=248583|AlignEnd=248751|Gloss=PRF
-6	reach	reach	VERB	_	_	2	parataxis:parenth	_	AlignBegin=248751|AlignEnd=248949|Gloss=reach
-7	now	now	ADV	_	_	6	advmod	_	AlignBegin=248949|AlignEnd=249170|Gloss=now
-8	//)	//)	X	_	_	6	dep	_	AlignBegin=249170|AlignEnd=249200|Gloss=PUNCT
-9	<	<	X	_	_	15	dep	_	AlignBegin=249170|AlignEnd=249200|Gloss=PUNCT
-10	our	our	PRON	_	Number=Plur|Person=1|Poss=Yes	12	nmod:poss	_	AlignBegin=249200|AlignEnd=249370|Gloss=PL.1.POSS
-11	own	own	ADJ	_	_	12	amod	_	AlignBegin=249370|AlignEnd=249585|Gloss=own
-12	tings	tings	NOUN	_	Number=Plur	15	nsubj	_	AlignBegin=249585|AlignEnd=249850|Gloss=thing.PL
-13	still	still	ADV	_	_	15	advmod	_	AlignBegin=249850|AlignEnd=250020|Gloss=still
-14	no	no	PART	_	Polarity=Neg	15	advmod	_	AlignBegin=250020|AlignEnd=250196|Gloss=NEG
-15	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=250196|AlignEnd=250350|Gloss=be
-16	better	beta	ADJ	_	Degree=Cmp	15	xcomp	_	AlignBegin=250350|AlignEnd=250674|Gloss=good.CMPR
-17	//	//	X	_	_	15	dep	_	AlignBegin=250674|AlignEnd=250750|Gloss=PUNCT
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 11 parataxis:parenth	color:blue
+1	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	AlignBegin=277799|AlignEnd=277882|Gloss=NOM.SG.3
+2	get	get	VERB	_	_	0	root	_	AlignBegin=277882|AlignEnd=278054|Gloss=get
+3	one	one	NOUN	_	_	2	nsubj	_	AlignBegin=278054|AlignEnd=278246|Gloss=one
+4	wey	wey	SCONJ	_	_	7	mark	_	AlignBegin=278246|AlignEnd=278340|Gloss=REL
+5	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=278340|AlignEnd=278428|Gloss=NOM.PL.1
+6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	AlignBegin=278428|AlignEnd=278601|Gloss=IPFV
+7	use	use	VERB	_	_	3	acl:relcl	_	AlignBegin=278601|AlignEnd=278860|Gloss=use
+8	#	#	X	_	_	11	dep	_	Gloss=PUNCT
+9	ehm	ehm	INTJ	_	_	11	discourse	_	AlignBegin=279260|AlignEnd=279670|Gloss=ehm
+10	dis	dis	DET	_	Number=Sing|PronType=Dem	11	det	_	AlignBegin=279670|AlignEnd=279921|Gloss=SG.DEM
+11	thing	ting	NOUN	_	_	7	parataxis:parenth	_	AlignBegin=279921|AlignEnd=280160|Gloss=thing
+12	#	#	X	_	_	13	dep	_	AlignBegin=280190|AlignEnd=280380|Gloss=PUNCT
+13	do	do	VERB	_	_	7	compound:svc	_	AlignBegin=280380|AlignEnd=280533|Gloss=do
+14	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	obj	_	AlignBegin=280533|AlignEnd=280780|Gloss=ACC.SG.3
+15	>	>	X	_	_	17	dep	_	Gloss=PUNCT
+16	tiger	tiger	NOUN	_	_	17	compound	_	AlignBegin=280780|AlignEnd=281210|Gloss=tiger
+17	nut	nut	NOUN	_	_	2	dislocated	_	AlignBegin=281210|AlignEnd=281490|Gloss=nut
+18	//	//	X	_	_	2	dep	_	AlignBegin=281490|AlignEnd=281520|Gloss=PUNCT
 
 ~~~
 

@@ -48,4 +48,4 @@ These are tagged as particles also in Russian treebank, although the exact use m
 - _то_
 - _тожӧ_
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:12 CET 2021 -->

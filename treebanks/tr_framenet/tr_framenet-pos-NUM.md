@@ -42,9 +42,9 @@ The 2nd highest number of forms (1) was observed with the lemma “%”: <em>%</
 
 The 3rd highest number of forms (1) was observed with the lemma “0”: <em>000</em>.
 
-`NUM` occurs with 1 features: <tt><a href="tr_framenet-feat-NumType.html">NumType</a></tt> (143; 99% instances)
+`NUM` occurs with 1 features: <tt><a href="tr_framenet-feat-NumType.html">NumType</a></tt> (144; 100% instances)
 
-`NUM` occurs with 1 feature-value pairs: `NumType=Card`
+`NUM` occurs with 2 feature-value pairs: `NumType=Card`, `NumType=Ord`
 
 `NUM` occurs with 2 feature combinations.
 The most frequent feature combination is `NumType=Card` (143 tokens).
@@ -53,21 +53,21 @@ Examples: <em>iki, bir, beş, bin, üç, İki, on, 2, altı, sekiz</em>
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 6 different relations: <tt><a href="tr_framenet-dep-nummod.html">nummod</a></tt> (115; 80% instances), <tt><a href="tr_framenet-dep-compound.html">compound</a></tt> (25; 17% instances), <tt><a href="tr_framenet-dep-list.html">list</a></tt> (1; 1% instances), <tt><a href="tr_framenet-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="tr_framenet-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="tr_framenet-dep-obl.html">obl</a></tt> (1; 1% instances)
+`NUM` nodes are attached to their parents using 5 different relations: <tt><a href="tr_framenet-dep-nummod.html">nummod</a></tt> (116; 81% instances), <tt><a href="tr_framenet-dep-compound.html">compound</a></tt> (25; 17% instances), <tt><a href="tr_framenet-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="tr_framenet-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="tr_framenet-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Parents of `NUM` nodes belong to 6 different parts of speech: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (107; 74% instances), <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (20; 14% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="tr_framenet-pos-X.html">X</a></tt> (1; 1% instances)
+Parents of `NUM` nodes belong to 6 different parts of speech: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (108; 75% instances), <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (19; 13% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="tr_framenet-pos-X.html">X</a></tt> (1; 1% instances)
 
 119 (83%) `NUM` nodes are leaves.
 
-20 (14%) `NUM` nodes have one child.
+21 (15%) `NUM` nodes have one child.
 
-4 (3%) `NUM` nodes have two children.
+3 (2%) `NUM` nodes have two children.
 
 1 (1%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 3.
 
-Children of `NUM` nodes are attached using 6 different relations: <tt><a href="tr_framenet-dep-compound.html">compound</a></tt> (19; 61% instances), <tt><a href="tr_framenet-dep-punct.html">punct</a></tt> (5; 16% instances), <tt><a href="tr_framenet-dep-advmod.html">advmod</a></tt> (3; 10% instances), <tt><a href="tr_framenet-dep-nummod.html">nummod</a></tt> (2; 6% instances), <tt><a href="tr_framenet-dep-case.html">case</a></tt> (1; 3% instances), <tt><a href="tr_framenet-dep-list.html">list</a></tt> (1; 3% instances)
+Children of `NUM` nodes are attached using 5 different relations: <tt><a href="tr_framenet-dep-compound.html">compound</a></tt> (19; 63% instances), <tt><a href="tr_framenet-dep-punct.html">punct</a></tt> (5; 17% instances), <tt><a href="tr_framenet-dep-advmod.html">advmod</a></tt> (3; 10% instances), <tt><a href="tr_framenet-dep-nummod.html">nummod</a></tt> (2; 7% instances), <tt><a href="tr_framenet-dep-case.html">case</a></tt> (1; 3% instances)
 
-Children of `NUM` nodes belong to 5 different parts of speech: <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (20; 65% instances), <tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (5; 16% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (3; 10% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (1; 3% instances)
+Children of `NUM` nodes belong to 5 different parts of speech: <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (19; 63% instances), <tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (5; 17% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (3; 10% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (1; 3% instances)
 

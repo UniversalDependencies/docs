@@ -75,4 +75,4 @@ The `advmod:arg` relation is used in the Polish [PDB-UD](http://universaldepende
 24	silly	_	_	_	_	_	_	_	_
 25	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:47 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:36 CET 2021 -->

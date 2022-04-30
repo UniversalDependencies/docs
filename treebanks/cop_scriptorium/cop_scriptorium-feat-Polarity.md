@@ -9,74 +9,74 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-843 tokens (2%) have a non-empty value of `Polarity`.
-26 types (1%) occur at least once with a non-empty value of `Polarity`.
+903 tokens (2%) have a non-empty value of `Polarity`.
+27 types (1%) occur at least once with a non-empty value of `Polarity`.
 20 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (461; 1% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (249; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (61; 0% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (59; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (487; 1% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (269; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (66; 0% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (63; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-461 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (24% of all `ADV` tokens) have a non-empty value of `Polarity`.
+487 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (23% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (461; 100% of non-empty `Polarity`): ⲁⲛ, ⲛ, ⲧⲙ, ⲙⲡⲣ, ⲙ, ⲟⲩⲕ, ⲙⲉ, ⲟⲩ, ⲟⲩⲇⲉ
-* `EMPTY` (1487): ⲉⲃⲟⲗ, ⲉϩⲟⲩⲛ, ⲧⲏⲣ, ⲟⲛ, ⲉϩⲣⲁⲓ, ⲙⲙⲁⲩ, ϩⲱⲱ, ⲙⲁⲩⲁⲁ, ϩⲣⲁⲓ, ⲉⲙⲁⲧⲉ
+* `Neg` (487; 100% of non-empty `Polarity`): ⲁⲛ, ⲛ, ⲧⲙ, ⲙⲡⲣ, ⲙ, ⲟⲩⲕ, ⲙⲉ, ⲟⲩ, ⲟⲩⲇⲉ
+* `EMPTY` (1604): ⲉⲃⲟⲗ, ⲉϩⲟⲩⲛ, ⲧⲏⲣ, ⲟⲛ, ⲉϩⲣⲁⲓ, ⲙⲙⲁⲩ, ϩⲱⲱ, ⲙⲁⲩⲁⲁ, ⲧⲉⲛⲟⲩ, ϩⲣⲁⲓ
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (10) occur only with one value of `Polarity`.
 
 ### `AUX`
 
-249 <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> tokens (8% of all `AUX` tokens) have a non-empty value of `Polarity`.
+269 <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> tokens (8% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (249; 100% of non-empty `Polarity`): ⲙⲡ, ⲛⲛⲉ, ⲙⲡⲉ, ⲙⲉ, ⲙⲛ, ⲙⲡⲁⲧ, ⲙⲁⲣⲉ, ⲙⲡⲁⲧⲉ, ⲙⲡⲣⲧⲣⲉ, ⲛⲛ
-* `EMPTY` (2703): ⲁ, ⲛⲁ, ⲛ, ⲛⲉ, ⲛⲧⲉⲣⲉ, ϣⲁ, ⲛⲧⲉⲣ, ⲙⲁⲣⲉ, ϣ, ⲉⲣϣⲁⲛ
+* `Neg` (269; 100% of non-empty `Polarity`): ⲙⲡ, ⲙⲡⲉ, ⲛⲛⲉ, ⲙⲉ, ⲙⲛ, ⲙⲡⲁⲧ, ⲙⲡⲣⲧⲣⲉ, ⲙⲁⲣⲉ, ⲙⲡⲁⲧⲉ, ⲛⲛ
+* `EMPTY` (2912): ⲁ, ⲛⲁ, ⲛ, ⲛⲉ, ⲛⲧⲉⲣⲉ, ϣⲁ, ⲛⲧⲉⲣ, ⲙⲁⲣⲉ, ϣ, ⲉⲣϣⲁⲛ
 
 ### `VERB`
 
-61 <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polarity`.
+66 <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cop_scriptorium-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (61; 100%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cop_scriptorium-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (66; 100%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (61; 100% of non-empty `Polarity`): ⲙⲛ, ⲙⲙⲛ, ⲙⲙⲛⲧ, ⲙⲛⲧⲁ, ⲙⲛⲧ, ⲙⲙⲛⲧⲉ
-* `EMPTY` (5727): ⲡⲉϫⲁ, ⲧⲣⲉ, ⲉⲓ, ϫⲱ, ϣⲱⲡⲉ, ⲃⲱⲕ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ
+* `Neg` (66; 100% of non-empty `Polarity`): ⲙⲛ, ⲙⲙⲛ, ⲙⲙⲛⲧ, ⲙⲛⲧ, ⲙⲛⲧⲁ, ⲙⲛⲧⲏ, ⲙⲙⲛⲧⲉ
+* `EMPTY` (6148): ⲧⲣⲉ, ⲡⲉϫⲁ, ⲉⲓ, ϫⲱ, ϣⲱⲡⲉ, ϫⲟⲟ, ⲃⲱⲕ, ⲛⲁⲩ, ϯ, ⲣ
 
 ### `CCONJ`
 
-59 <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> tokens (5% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
+63 <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> tokens (5% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `CCONJ` and `Polarity` co-occurred: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (59; 100%).
+The most frequent other feature values with which `CCONJ` and `Polarity` co-occurred: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (63; 100%).
 
 `CCONJ` tokens may have the following values of `Polarity`:
 
-* `Neg` (59; 100% of non-empty `Polarity`): ⲟⲩⲇⲉ
-* `EMPTY` (1147): ⲁⲩⲱ, ⲁⲗⲗⲁ, ⲏ, ϫⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲟⲩⲧⲉ, ⲡⲗⲏⲛ, ⲕⲁⲛ, ⲕⲁⲓ
+* `Neg` (63; 100% of non-empty `Polarity`): ⲟⲩⲇⲉ
+* `EMPTY` (1205): ⲁⲩⲱ, ⲁⲗⲗⲁ, ⲏ, ϫⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲡⲗⲏⲛ, ⲟⲩⲧⲉ, ⲕⲁⲓ, ⲕⲁⲛ
 
 ### `PART`
 
-7 <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Polarity`.
+10 <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (6; 86%).
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (9; 90%).
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (7; 100% of non-empty `Polarity`): ⲙⲙⲟⲛ, ⲟⲩⲇⲉ
-* `EMPTY` (1681): ⲉ, ⲇⲉ, ⲅⲁⲣ, ⲛϭⲓ, ⲛⲧ, ϭⲉ, ⲉⲓⲥ, ⲱ, ⲉⲣⲉ, ⲙⲉⲛ
+* `Neg` (10; 100% of non-empty `Polarity`): ⲙⲙⲟⲛ, ⲟⲩⲇⲉ
+* `EMPTY` (1815): ⲉ, ⲇⲉ, ⲅⲁⲣ, ⲛϭⲓ, ⲛⲧ, ϭⲉ, ⲱ, ⲉⲓⲥ, ⲉⲣⲉ, ⲙⲉⲛ
 
 ### `X`
 
-4 <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> tokens (9% of all `X` tokens) have a non-empty value of `Polarity`.
+6 <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> tokens (12% of all `X` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `X` and `Polarity` co-occurred: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `X` and `Polarity` co-occurred: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (5; 83%).
 
 `X` tokens may have the following values of `Polarity`:
 
-* `Neg` (4; 100% of non-empty `Polarity`): ⲟⲩ
-* `EMPTY` (42): ⲙⲟⲛⲟⲛ, .., ....., [...], ...., [..], ......, ........., .........., .....ⲟ...
+* `Neg` (6; 100% of non-empty `Polarity`): ⲟⲩ
+* `EMPTY` (44): ⲙⲟⲛⲟⲛ, .., ....., [...], ...., [..], ......, ........., .........., .....ⲟ...
 
 ### `PRON`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): ⲙⲡⲉ
-* `EMPTY` (7969): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
+* `EMPTY` (8510): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
 
 ### `SCONJ`
 
@@ -96,12 +96,10 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): ⲟⲩⲇⲉ
-* `EMPTY` (2868): ϫⲉ, ⲉ, ⲉⲧ, ⲉⲛⲧ, ⲉⲧⲉ, ⲛⲧ, ⲉⲣⲉ, ⲉϣⲱⲡⲉ, ϫⲉⲕⲁⲁⲥ, ⲉⲧⲉⲣⲉ
+* `EMPTY` (3080): ϫⲉ, ⲉ, ⲉⲧ, ⲉⲛⲧ, ⲉⲧⲉ, ⲛⲧ, ⲉⲣⲉ, ⲉϣⲱⲡⲉ, ϫⲉⲕⲁⲁⲥ, ⲉⲧⲉⲣⲉ
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 67%),
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-advmod.html">advmod</a></tt>]--> CCONJ</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-discourse.html">discourse</a></tt>]--> PART</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 67%).
 

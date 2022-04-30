@@ -3,6 +3,7 @@ layout: postag
 title: 'CCONJ'
 redirect_from: "it/pos/CONJ.html"
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
 
 ### Definition
@@ -13,6 +14,10 @@ expresses a semantic relationship between them.
 
 For _subordinating conjunctions_ see [SCONJ]().
 
+### Corresponding language-specific part-of-speech tags
+
+CC: Coordinative conjunction
+
 ### Examples
 
 - _e_ "and"
@@ -20,4 +25,4 @@ For _subordinating conjunctions_ see [SCONJ]().
 - _ma_ "but"
 - _sia_ ... _sia_ "both ... and"
 - _né_ ... _né_  "neither ... nor"
-<!-- Interlanguage links updated Pá kvě 14 11:08:19 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:09 CET 2021 -->

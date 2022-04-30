@@ -5,28 +5,25 @@ shortdef: 'nominal modifier'
 udver: '2'
 ---
 
-The <code>nmod</code> relation is used for nominal modifiers. They depend either on another noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).  
-In Italian, <code>nmod</code> is used for non-prepositional and prepositional complements; the most common complements are temporal, place and specification. 
-
+The <code>nmod</code> relation is used for nominal modifiers that depend on another noun or noun phrase and functionally corresponds to an attribute, or genitive complement. 
 ~~~ sdparse
 Vi sono migliaia di casi di questo genere . 
 nmod(migliaia, casi)
 nmod(casi, genere)
 ~~~
+
+From **v2**, nominal modifiers that depend on a verb, adverb or adjective are covered by the new [obl]():
+
 ~~~ sdparse
 Da il '93 dirige il Festival di Taormina 
-nmod(dirige, '93)
+obl(dirige, '93)
 nmod(Festival, Taormina)
 ~~~
 ~~~ sdparse
-Esodo controllato a Civitavecchia . 
-nmod(Esodo, Civitavecchia)
-~~~
-~~~ sdparse
-E' stato trent' anni fa parlamentare comunista. 
-nmod(parlamentare, anni)
+Irene venga a lezione di tolleranza 
+obl(venga, lezione)
+nmod(lezione, tolleranza)
 ~~~
 
 
-
-<!-- Interlanguage links updated Pá kvě 14 11:09:09 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:58 CET 2021 -->

@@ -22,11 +22,11 @@ The following 2 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 advmod:emph	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	3:nsubj	Translit=kumār|LTranslit=kumār
-2	நேரத்தோடு	நேரம்	NOUN	_	Case=Com|Number=Sing|Person=3	3	obl:tmod	3:obl:tmod	Translit=nērattōṭu|LTranslit=nēram
-3	வந்தால்	வா	VERB	_	VerbForm=Fin	0	root	0:root	Translit=vantāl|LTranslit=vā
-4	தானே	தான்	ADV	_	Gender=Com|Number=Sing	3	advmod:emph	3:advmod:emph	Translit=tāṉē|LTranslit=tāṉ
-5	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	Translit=kumār|LTranslit=kumār
+2	நேரத்தோடு	நேரம்	NOUN	_	Case=Com|Number=Sing|Person=3	3	obl:tmod	_	Translit=nērattōṭu|LTranslit=nēram
+3	வந்தால்	வா	VERB	_	VerbForm=Fin	0	root	_	Translit=vantāl|LTranslit=vā
+4	தானே	தான்	ADV	_	Gender=Com|Number=Sing	3	advmod:emph	_	Translit=tāṉē|LTranslit=tāṉ
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -37,12 +37,12 @@ The following 2 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 advmod:emph	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	2	nsubj	2:nsubj	Translit=kumār|LTranslit=kumār
-2	கத்தியது	கத்து	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Past	0	root	0:root	Translit=kattiyatu|LTranslit=kattu
-3	பன்றியை	பன்றி	NOUN	_	Case=Acc|Number=Sing|Person=3	2	obl	2:obl	Translit=paṉṟiyai|LTranslit=paṉṟi
-4	மாதிரி	மாதிரி	ADP	_	AdpType=Post	3	case	3:case	Translit=mātiri|LTranslit=mātiri
-5	தான்	தான்	PART	_	_	4	advmod:emph	4:advmod:emph	Translit=tāṉ|LTranslit=tāṉ
-6	.	.	PUNCT	_	PunctType=Peri	2	punct	2:punct	Translit=.|LTranslit=.
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	2	nsubj	_	Translit=kumār|LTranslit=kumār
+2	கத்தியது	கத்து	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Past	0	root	_	Translit=kattiyatu|LTranslit=kattu
+3	பன்றியை	பன்றி	NOUN	_	Case=Acc|Number=Sing|Person=3	2	obl	_	Translit=paṉṟiyai|LTranslit=paṉṟi
+4	மாதிரி	மாதிரி	ADP	_	AdpType=Post	3	case	_	Translit=mātiri|LTranslit=mātiri
+5	தான்	தான்	PART	_	_	4	advmod:emph	_	Translit=tāṉ|LTranslit=tāṉ
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

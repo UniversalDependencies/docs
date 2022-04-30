@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="pt_gsd-dep-obl-agent.html">obl:agent</a></tt>.
 
-38 nodes (0%) are attached to their parents as `obl`.
+46 nodes (0%) are attached to their parents as `obl`.
 
-30 instances of `obl` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.73684210526316.
+34 instances of `obl` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.76086956521739.
 
-The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (19; 50% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (9; 24% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (3; 8% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> (1; 3% instances).
+The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (23; 50% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (9; 20% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (4; 9% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -56,36 +56,28 @@ The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 8 obl	color:blue
-1	Foi	ser	AUX	AUX	_	2	aux:pass	_	_
-2	eleito	eleger	VERB	AUX	_	0	root	_	_
-3	prefeito	prefeito	NOUN	NOUN	_	2	obj	_	_
-4	de	de	ADP	ADP	_	5	case	_	_
-5	São	_	PROPN	PNOUN	_	3	nmod	_	_
-6	Bernardo	_	PROPN	PNOUN	_	5	flat:name	_	_
-7	em	em	ADP	ADP	_	8	case	_	_
-8	1951	_	NUM	NUM	NumType=Card	2	obl	_	SpaceAfter=No
-9	,	,	PUNCT	.	_	13	punct	_	_
-10	onde	onde	ADV	ADV	_	13	advmod	_	_
-11	sempre	sempre	ADV	ADV	_	13	advmod	_	_
-12	era	ser	AUX	AUX	_	13	aux:pass	_	_
-13	visto	_	VERB	VERB	_	5	acl:relcl	_	_
-14	por	por	ADP	ADP	_	16	case	_	_
-15	as	o	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
-16	ruas	rua	NOUN	NOUN	_	13	nmod	_	_
-17	verificando	verificar	VERB	VERB	_	13	acl	_	_
-18	como	como	ADV	ADV	_	19	advmod	_	_
-19	andavam	andar	VERB	VERB	_	17	ccomp	_	_
-20	as	o	DET	DET	_	21	det	_	_
-21	coisas	coisa	NOUN	NOUN	_	19	nsubj	_	_
-22	por	por	ADP	ADP	_	24	case	_	_
-23	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
-24	cidade	cidade	NOUN	NOUN	_	19	nmod	_	SpaceAfter=No
-25	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 obl	color:blue
+1	Em	em	ADP	ADP	_	2	case	_	_
+2	1975	_	NUM	NUM	NumType=Card	4	obl	_	_
+3	foi	_	AUX	AUX	_	4	aux:pass	_	_
+4	eleito	eleger	VERB	_	_	0	root	_	_
+5	Deputado	_	PROPN	PNOUN	_	4	obj	_	_
+6	Estadual	_	PROPN	PNOUN	_	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	.	_	8	punct	_	_
+8	mandato	mandato	NOUN	NOUN	_	5	nmod	_	_
+9	que	_	PRON	PRON	_	10	obj	_	_
+10	repetiu	repetir	VERB	VERB	_	8	acl:relcl	_	_
+11	por	por	ADP	ADP	_	14	case	_	_
+12	mais	mais	ADV	ADV	_	13	advmod	_	_
+13	duas	_	NUM	NUM	NumType=Card	14	nummod	_	_
+14	vezes	vez	NOUN	NOUN	_	10	nmod	_	_
+15	até	_	ADP	ADP	_	16	case	_	_
+16	1986	_	NUM	NUM	NumType=Card	10	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

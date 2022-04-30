@@ -9,27 +9,27 @@ udver: '2'
 This feature is language-specific.
 It occurs with 17 different values: `AdvstO`, `Dimin`, `GenAttr`, `NomAg`, `OkshnOms`, `Omka`, `OvOms`, `Ovt`, `Ozj`, `PronGak`, `Shka`, `VGen`, `VSj`, `VerbYcja`, `VerbYks`, `Voc`, `VocKaj`.
 
-412 tokens (2%) have a non-empty value of `Derivation`.
-330 types (6%) occur at least once with a non-empty value of `Derivation`.
-265 lemmas (10%) occur at least once with a non-empty value of `Derivation`.
-The feature is used with 8 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (309; 2% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (46; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (29; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (20; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+417 tokens (2%) have a non-empty value of `Derivation`.
+334 types (6%) occur at least once with a non-empty value of `Derivation`.
+267 lemmas (10%) occur at least once with a non-empty value of `Derivation`.
+The feature is used with 8 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (313; 2% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (46; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (29; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (20; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-309 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Derivation`.
+313 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (308; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (308; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (294; 95%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (274; 89%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (273; 88%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (268; 87%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (235; 76%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt> (228; 74%).
+The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (312; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (312; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (299; 96%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (279; 89%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (278; 89%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (273; 87%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (239; 76%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt> (233; 74%).
 
 `VERB` tokens may have the following values of `Derivation`:
 
-* `OkshnOms` (13; 4% of non-empty `Derivation`): <em>Кайсевкшнынь, Ранявкшнынь, арьсекшнэсть, вастневкшнесть, здоровакшность, кадовкшность, кармакшнось, лоткакшнось, получакшнось, сакшность</em>
+* `OkshnOms` (12; 4% of non-empty `Derivation`): <em>Кайсевкшнынь, Ранявкшнынь, арьсекшнэсть, вастневкшнесть, здоровакшность, кадовкшность, лоткакшнось, получакшнось, сакшность, сакшнось</em>
 * `Omka` (2; 1% of non-empty `Derivation`): <em>ванстомкась, ванстомкатне</em>
 * `OvOms` (4; 1% of non-empty `Derivation`): <em>марявояк, содавомояк, чарькодевияк, явновомо</em>
 * `Ovt` (9; 3% of non-empty `Derivation`): <em>тапардавт, вадневть, кепедевть, костявт, оршавт, судрявт, сюлмавт, шачовт</em>
-* `Ozj` (231; 75% of non-empty `Derivation`): <em>чиезь, пелезь, ютазь, капшазь, оршазь, пурнавозь, аштезь, кадовозь, каразь, каштмолезь</em>
+* `Ozj` (236; 75% of non-empty `Derivation`): <em>чиезь, пелезь, ютазь, капшазь, оршазь, пурнавозь, аштезь, кадовозь, каразь, каштмолезь</em>
 * `VGen` (1; 0% of non-empty `Derivation`): <em>учонь</em>
 * `VSj` (1; 0% of non-empty `Derivation`): <em>синдсь</em>
-* `VerbYcja` (48; 16% of non-empty `Derivation`): <em>молицятнень, Мелявтыцякс, апаркстомтыця, ардыцят, аштиця, валгстыця, вельмиця, гайгицякс, дивсиця, касыця</em>
+* `VerbYcja` (48; 15% of non-empty `Derivation`): <em>молицятнень, Мелявтыцякс, апаркстомтыця, ардыцят, аштиця, валгстыця, вельмиця, гайгицякс, дивсиця, касыця</em>
 
 <table>
   <tr><th>Paradigm <i>самс</i></th><th><tt>OkshnOms</tt></th><th><tt>Ozj</tt></th><th><tt>VerbYcja</tt></th></tr>
@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `Derivation` co-occ
   <tr><td><tt><tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td><em>сазь</em></td><td></td></tr>
 </table>
 
-`Derivation` seems to be **lexical feature** of `VERB`. 91% lemmas (179) occur only with one value of `Derivation`.
+`Derivation` seems to be **lexical feature** of `VERB`. 91% lemmas (180) occur only with one value of `Derivation`.
 
 ### `NOUN`
 
@@ -88,6 +88,16 @@ The most frequent other feature values with which `ADV` and `Derivation` co-occu
 
 `Derivation` seems to be **lexical feature** of `ADV`. 100% lemmas (16) occur only with one value of `Derivation`.
 
+### `AUX`
+
+3 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Derivation`.
+
+The most frequent other feature values with which `AUX` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (3; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (3; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (2; 67%).
+
+`AUX` tokens may have the following values of `Derivation`:
+
+* `OkshnOms` (3; 100% of non-empty `Derivation`): <em>кармакшнось, савкшнокшность, савкшнось</em>
+
 ### `PROPN`
 
 3 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Derivation`.
@@ -108,16 +118,6 @@ The most frequent other feature values with which `ADP` and `Derivation` co-occu
 
 * `AdvstO` (1; 50% of non-empty `Derivation`): <em>маластояк</em>
 * `PronGak` (1; 50% of non-empty `Derivation`): <em>кувалткак</em>
-
-### `AUX`
-
-2 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Derivation`.
-
-The most frequent other feature values with which `AUX` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (2; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (2; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (2; 100%).
-
-`AUX` tokens may have the following values of `Derivation`:
-
-* `OkshnOms` (2; 100% of non-empty `Derivation`): <em>савкшнокшность, савкшнось</em>
 
 ### `PRON`
 

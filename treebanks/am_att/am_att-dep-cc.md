@@ -8,20 +8,20 @@ udver: '2'
 
 This relation is universal.
 
-88 nodes (1%) are attached to their parents as `cc`.
+86 nodes (1%) are attached to their parents as `cc`.
 
-75 instances of `cc` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.57954545454545.
+74 instances of `cc` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.6046511627907.
 
-The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (31; 35% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (27; 31% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (16; 18% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (33; 38% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (27; 31% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (16; 19% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 12 10 cc	color:blue
+# visual-style 12 9 cc	color:blue
 1	ብ	ብ	ADP	ADP	_	2	mark	_	Translit=bə|LTranslit=bə
 2	ሠር	ሠር	VERB	VERB	_	6	csubj	_	Translit=śärə|LTranslit=śärə
 3	ኣ	ኣ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	Translit='a|LTranslit='a
@@ -30,8 +30,8 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 6	ወድ	ወድ	VERB	VERB	_	0	root	_	Translit=wädə|LTranslit=wädə
 7	ኣል	ኣል	AUX	AUX	_	6	aux	_	Translit='alə|LTranslit='alə
 8	ኧሁ	ኧሁ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	6	expl	_	Translit='ăhu|LTranslit='ăhu
-9	ነገር	ነገር	NOUN	NOUN	_	10	goeswith	_	Translit=nägärə|LTranslit=nägärə
-10	ግን	ግን	CCONJ	CCONJ	_	12	cc	_	Translit=gənə|LTranslit=gənə
+9	ነገር	ነገር	CCONJ	CCONJ	_	12	cc	_	Translit=nägärə|LTranslit=nägärə
+10	ግን	ግን	CCONJ	CCONJ	_	9	goeswith	_	Translit=gənə|LTranslit=gənə
 11	ጊዜ	ጊዜ	NOUN	NOUN	_	12	obj	_	Translit=gize|LTranslit=gize
 12	የለ	የለ	VERB	VERB	_	6	conj	_	Translit=jälä|LTranslit=jälä
 13	ኝ	ኝ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	12	nsubj	_	Translit=ňə|LTranslit=ňə

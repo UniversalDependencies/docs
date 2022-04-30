@@ -5,18 +5,13 @@ shortdef: 'particle'
 udver: '2'
 ---
 
-The use of `PART` is limited to possessive markers, in English names: [en] ‘s.
+The use of `PART` is limited to possessive markers, in English names: [en] ‘s: these do not occurr in Italian.
 
-According to the UD guidelines, particles may also encode grammatical
-categories such as negation, e.g. 
-
-- Negation particle: [en] _not;_ [de] _nicht;_ [tr] _mu_
-
-In Italian however we tag negation particles, such as _non_, as a negation 
+In some languages the tag includes negation particles (e.g. [en] _not;_ [de] _nicht;_ [tr] _mu_); in Italian however such instances (e.g. _non_) are tagged as a negation 
 adverb. See [ADV]().
 
 ## Examples
 
 * Wendy 's
 * McDonald 's
-<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:12 CET 2021 -->

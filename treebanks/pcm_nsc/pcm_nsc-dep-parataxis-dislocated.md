@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: Relations: `parataxis:dislocated`
 
 This relation is a language-specific subtype of <tt><a href="pcm_nsc-dep-parataxis.html">parataxis</a></tt>.
-There are also 3 other language-specific subtypes of `parataxis`: <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
+There are also 4 other language-specific subtypes of `parataxis`: <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-mod.html">parataxis:mod</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
 
-72 nodes (0%) are attached to their parents as `parataxis:dislocated`.
+30 nodes (0%) are attached to their parents as `parataxis:dislocated`.
 
-67 instances of `parataxis:dislocated` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 11.1111111111111.
+30 instances of `parataxis:dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 12.8.
 
-The following 10 pairs of parts of speech are connected with `parataxis:dislocated`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (50; 69% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (6; 8% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `parataxis:dislocated`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (24; 80% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 10 pairs of parts of speech are connected with `parataxis:dislocat
 7	<	<	X	_	_	2	dep	_	AlignBegin=343884|AlignEnd=343914|Gloss=PUNCT
 8	#	#	X	_	_	11	dep	_	AlignBegin=343914|AlignEnd=344230|Gloss=PUNCT
 9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	AlignBegin=344230|AlignEnd=344362|Gloss=NOM.SG.1
-10	no	no	PART	_	Polarity=Neg	11	advmod	_	AlignBegin=344362|AlignEnd=344512|Gloss=NEG
+10	no	no	AUX	_	Polarity=Neg	11	aux	_	AlignBegin=344362|AlignEnd=344512|Gloss=NEG
 11	see	see	VERB	_	_	0	root	_	AlignBegin=344512|AlignEnd=344692|Gloss=see
 12	any	any	DET	_	_	13	det	_	AlignBegin=344692|AlignEnd=344862|Gloss=any
 13	work	work	NOUN	_	_	11	obj	_	AlignBegin=344862|AlignEnd=345162|Gloss=work
@@ -43,44 +43,60 @@ The following 10 pairs of parts of speech are connected with `parataxis:dislocat
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 4 parataxis:dislocated	color:blue
-1	#	#	X	_	_	7	dep	_	AlignBegin=146640|AlignEnd=147000|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=147000|AlignEnd=147082|Gloss=NOM.SG.1
-3	dey	dey	AUX	_	Aspect=Imp	4	aux	_	AlignBegin=147082|AlignEnd=147149|Gloss=IPFV
-4	hustle	hustle	VERB	_	_	7	parataxis:dislocated	_	AlignBegin=147149|AlignEnd=147350|Gloss=struggle
-5	<	<	X	_	_	4	dep	_	AlignBegin=147350|AlignEnd=147380|Gloss=PUNCT
-6	na	na	AUX	_	_	7	cop	_	AlignBegin=147380|AlignEnd=147430|Gloss=be
-7	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	root	_	AlignBegin=147380|AlignEnd=147430|Gloss=NOM.SG.3
-8	>+	>+	X	_	_	9	dep	_	AlignBegin=147430|AlignEnd=147510|Gloss=PUNCT
-9	be	be	VERB	_	PartType=Cop	7	advcl:cleft	_	AlignBegin=147430|AlignEnd=147510|Gloss=be
-10	dat	dat	PRON	_	Number=Sing|PronType=Dem	9	nsubj	_	AlignBegin=147510|AlignEnd=147692|Gloss=SG.DEM
-11	//	//	X	_	_	7	dep	_	AlignBegin=147692|AlignEnd=147722|Gloss=PUNCT
+# visual-style 7 1 parataxis:dislocated	color:blue
+1	see	see	VERB	_	_	7	parataxis:dislocated	_	AlignBegin=37130|AlignEnd=37564|Gloss=see
+2	her	her	PRON	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	AlignBegin=37564|AlignEnd=37997|Gloss=POSS.F.SG.3
+3	thighs	thigh	NOUN	_	Number=Plur	1	obj	_	AlignBegin=37997|AlignEnd=38430|Gloss=thigh.PL
+4	<	<	X	_	_	1	dep	_	AlignBegin=38430|AlignEnd=38430|Gloss=PUNCT
+5	very	very	ADV	_	_	7	advmod	_	AlignBegin=38430|AlignEnd=38864|Gloss=very
+6	{	{	X	_	_	7	dep	_	AlignBegin=38864|AlignEnd=38864|Gloss=PUNCT
+7	fat	fat	ADJ	_	_	0	root	_	AlignBegin=38864|AlignEnd=39298|Gloss=fat
+8	|r	|r	X	_	_	9	dep	_	AlignBegin=39298|AlignEnd=39298|Gloss=PUNCT
+9	fat	fat	ADJ	_	_	7	compound:redup	_	AlignBegin=39298|AlignEnd=39731|Gloss=fat
+10	}	}	X	_	_	7	dep	_	AlignBegin=39731|AlignEnd=39731|Gloss=PUNCT
+11	//	//	X	_	_	7	dep	_	AlignBegin=39731|AlignEnd=39731|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 4 parataxis:dislocated	color:blue
-1	#	#	X	_	_	11	dep	_	AlignBegin=241160|AlignEnd=241401|Gloss=PUNCT
-2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	AlignBegin=241401|AlignEnd=241481|Gloss=NOM.2
-3	go	go	AUX	_	Aspect=Prosp	4	aux	_	AlignBegin=241481|AlignEnd=241669|Gloss=PROSP
-4	born	born	VERB	_	_	11	parataxis:dislocated	_	AlignBegin=241669|AlignEnd=241830|Gloss=give_birth
-5	pikin	pikin	NOUN	_	_	4	obj	_	AlignBegin=241830|AlignEnd=242011|Gloss=child
-6	<	<	X	_	_	4	dep	_	AlignBegin=242011|AlignEnd=242041|Gloss=PUNCT
-7	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	AlignBegin=242041|AlignEnd=242140|Gloss=NOM.SG.3
-8	go	go	AUX	_	Aspect=Prosp	11	aux	_	AlignBegin=242140|AlignEnd=242220|Gloss=PROSP
-9	be	be	AUX	_	PartType=Cop	11	cop	_	AlignBegin=242220|AlignEnd=242310|Gloss=be
-10	like	like	ADP	_	_	11	case	_	AlignBegin=242310|AlignEnd=242470|Gloss=like
-11	imbecile	imbecile	NOUN	_	_	0	root	_	AlignBegin=242470|AlignEnd=242910|Gloss=imbecile
-12	//	//	X	_	_	11	dep	_	AlignBegin=242910|AlignEnd=242940|Gloss=PUNCT
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 5 parataxis:dislocated	color:blue
+1	#	#	X	_	_	22	dep	_	AlignBegin=126360|AlignEnd=128620|Gloss=PUNCT
+2	because	because	SCONJ	_	_	22	discourse	_	AlignBegin=128620|AlignEnd=129060|Gloss=because
+3	#	#	X	_	_	2	dep	_	AlignBegin=129060|AlignEnd=129660|Gloss=PUNCT
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=129660|AlignEnd=129790|Gloss=NOM.SG.1
+5	remember	remember	VERB	_	_	22	parataxis:dislocated	_	AlignBegin=129790|AlignEnd=130230|Gloss=remember
+6	dat	dat	DET	_	Number=Sing	7	det	_	AlignBegin=130230|AlignEnd=130370|Gloss=SG.DEM
+7	time	time	NOUN	_	_	5	obj	_	AlignBegin=130370|AlignEnd=130720|Gloss=time
+8	when	wey	ADV	_	_	7	advmod	_	AlignBegin=130720|AlignEnd=130858|Gloss=when.Q
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=130858|AlignEnd=130960|Gloss=NOM.SG.1
+10	dey	dey	VERB	_	VerbType=Cop	8	ccomp	_	AlignBegin=130960|AlignEnd=131140|Gloss=be
+11	small	small	ADJ	_	_	10	xcomp	_	AlignBegin=131140|AlignEnd=131670|Gloss=small
+12	<	<	X	_	_	5	dep	_	AlignBegin=131670|AlignEnd=131820|Gloss=PUNCT
+13	#	#	X	_	_	5	dep	_	AlignBegin=131820|AlignEnd=133060|Gloss=PUNCT
+14	everyting	everyting	PRON	_	_	22	dislocated	_	AlignBegin=133060|AlignEnd=133502|Gloss=everything
+15	wey	wey	SCONJ	_	_	16	mark	_	AlignBegin=133502|AlignEnd=133702|Gloss=REL
+16	concern	concern	VERB	_	_	14	acl:relcl	_	AlignBegin=133702|AlignEnd=134060|Gloss=concern
+17	eh	eh	INTJ	_	_	18	discourse	_	AlignBegin=134060|AlignEnd=134177|Gloss=eh
+18	electric	electric	ADJ	_	_	16	obj	_	AlignBegin=134177|AlignEnd=135209|Gloss=electric
+19	<	<	X	_	_	14	dep	_	AlignBegin=135209|AlignEnd=135254|Gloss=PUNCT
+20	#	#	X	_	_	14	dep	_	AlignBegin=135254|AlignEnd=135740|Gloss=PUNCT
+21	na	na	AUX	_	PartType=Cop	22	cop	_	AlignBegin=135740|AlignEnd=135852|Gloss=be
+22	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	root	_	AlignBegin=135852|AlignEnd=135892|Gloss=NOM.SG.3
+23	>+	>+	X	_	_	26	dep	_	AlignBegin=135892|AlignEnd=135922|Gloss=PUNCT
+24	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	AlignBegin=135922|AlignEnd=136010|Gloss=NOM.SG.1
+25	dey	dey	AUX	_	Aspect=Imp	26	aux	_	AlignBegin=136010|AlignEnd=136090|Gloss=IPFV
+26	put	put	VERB	_	_	22	advcl:cleft	_	AlignBegin=136090|AlignEnd=136474|Gloss=put
+27	hand	hand	NOUN	_	_	26	obj	_	AlignBegin=136474|AlignEnd=136670|Gloss=hand
+28	//	//	X	_	_	22	dep	_	AlignBegin=136670|AlignEnd=136700|Gloss=PUNCT
 
 ~~~
 

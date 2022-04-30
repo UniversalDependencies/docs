@@ -17,19 +17,21 @@ The following 16 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 discourse	color:blue
-1	Compreendem	compreender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
-3	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Int	7	obj	_	_
-4	é	ser	AUX	_	_	7	discourse	_	MWE=é_que|MWEPOS=INTJ
-5	que	que	SCONJ	_	_	4	fixed	_	_
-6	vocês	você	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
-7	queriam	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	1	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 discourse	color:blue
+1	«	«	PUNCT	_	_	8	punct	_	SpaceAfter=No
+2	Qual	qual	INTJ	_	_	8	discourse	_	_
+3	quê	quê	INTJ	_	_	2	fixed	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	eles	ele	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+6	é	ser	AUX	_	ExtPos=INTJ	8	discourse	_	_
+7	que	que	SCONJ	_	_	6	fixed	_	_
+8	prepararam	preparar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	tudo	tudo	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
@@ -48,7 +50,7 @@ The following 16 pairs of parts of speech are connected with `discourse`: <tt><a
 6	claro	claro	INTJ	_	_	2	discourse	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	2	punct	_	_
 8	também	também	ADV	_	_	2	advmod	_	_
-9	graças	graças	ADV	_	_	11	case	_	MWE=graças_a|MWEPOS=ADP
+9	graças	graças	ADV	_	ExtPos=ADP	11	case	_	_
 10	a	a	ADP	_	_	9	fixed	_	_
 11	Cruyff	Cruyff	PROPN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 12	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -58,18 +60,19 @@ The following 16 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 3 discourse	color:blue
-1	R.	r.	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-2	--	--	PUNCT	_	_	1	punct	_	_
-3	Não	não	ADV	_	Polarity=Neg	6	discourse	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	não	não	ADV	_	Polarity=Neg	6	advmod	_	_
-6	acredito	acreditar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 6 2 discourse	color:blue
+1	«	«	PUNCT	_	_	6	punct	_	SpaceAfter=No
+2	Não	não	ADV	_	Polarity=Neg	6	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	vou	ir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	pescar	pescar	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+7	»	»	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

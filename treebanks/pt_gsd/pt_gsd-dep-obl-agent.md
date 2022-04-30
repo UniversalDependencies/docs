@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pt_gsd-dep-obl.html">obl</a></tt>.
 
-1 nodes (0%) are attached to their parents as `obl:agent`.
+2 nodes (0%) are attached to their parents as `obl:agent`.
 
-1 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+2 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.
 
-The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

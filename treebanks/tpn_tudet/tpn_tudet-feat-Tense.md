@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 
 * `Fut` (10; 31% of non-empty `Tense`): <em>ijukasarama, iẽawama, joβasaβetáetáwne, kuɲãangaturama, mombeβawama, oemiʔurama, ojukawame, owerama, serekoarama, soarama</em>
 * `Past` (22; 69% of non-empty `Tense`): <em>seʔõawera, seʔõmbwera, Ojukaawera, imojarɨpɨrwera, imoperépereβawera, inupãsawera, iɲuβãni, jandérepɨmeʔengawera, jemobokaβawera, oangajpawera</em>
-* `EMPTY` (521): <em>jandéjara, aβá, cruz, judeus, Tupã, sereków, iʃɨ, mbaʔe, osɨ, raʔangaβa</em>
+* `EMPTY` (536): <em>jandéjara, aβá, cruz, judeus, Tupã, sereków, iʃɨ, mbaʔe, osɨ, raʔangaβa</em>
 
 `Tense` seems to be **lexical feature** of `NOUN`. 95% lemmas (21) occur only with one value of `Tense`.
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Fut` (2; 67% of non-empty `Tense`): <em>ʔárine, ajukaukáne</em>
 * `Past` (1; 33% of non-empty `Tense`): <em>oɲemosakojaβo</em>
-* `EMPTY` (204): <em>eʔi, ojaβo, eʔipe, ojkóβo, Osó, meʔenga, omanõmo, owerasó, Eresawsupe, Ojaoβok</em>
+* `EMPTY` (211): <em>eʔi, ojaβo, eʔipe, Ojaoβok, ojkóβo, Osó, meʔenga, omanõmo, owerasó, Eresawsupe</em>
 
 ### `ADP`
 
@@ -49,5 +49,5 @@ The most frequent other feature values with which `ADP` and `Tense` co-occurred:
 `ADP` tokens may have the following values of `Tense`:
 
 * `Fut` (1; 100% of non-empty `Tense`): <em>ʃepɨ́rine</em>
-* `EMPTY` (137): <em>resé, swi, supé, pupé, sesé, iré, rupi, janondé, iʃupé, ri</em>
+* `EMPTY` (144): <em>resé, swi, supé, pupé, sesé, rupi, iré, janondé, iʃupé, ri</em>
 

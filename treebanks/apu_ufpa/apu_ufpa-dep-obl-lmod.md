@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="apu_ufpa-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-23 nodes (4%) are attached to their parents as `obl:lmod`.
+24 nodes (3%) are attached to their parents as `obl:lmod`.
 
-14 instances of `obl:lmod` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.69565217391304.
+15 instances of `obl:lmod` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.75.
 
-The following 3 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (21; 91% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+The following 3 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (22; 92% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

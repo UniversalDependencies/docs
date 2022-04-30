@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `INTJ`
 
 There are 10 `INTJ` lemmas (1%), 12 `INTJ` types (1%) and 17 `INTJ` tokens (1%).
-Out of 16 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 12 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 12 in number of types and 14 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>оо, ӧ, а, но, Ооо, м-м, ой, пӧжалуста, хах, этайӧ</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>Но</em> (<tt><a href="kpv_ikdp-pos-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.200000 (the average of all parts of speech is 1.333333).
+The form / lemma ratio of `INTJ` is 1.200000 (the average of all parts of speech is 1.332903).
 
 The 1st highest number of forms (2) was observed with the lemma “а”: <em>А, Ааа</em>.
 

@@ -59,4 +59,4 @@ Steve Jones Fone: 555-9814 Email: jones@abc.edf
 appos(Fone, 555-9814)
 appos(Email, jones@abc.edf)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:51 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:39 CET 2021 -->

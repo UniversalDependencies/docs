@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Þórunn Arnardóttir, Hinrik Hafsteinsson, Einar Freyr Sigurðsson, Hildur Jónsdóttir, Kristín Bjarnadóttir, Anton Karl Ingason, Kristján Rúnarsson, Steinþór Steingrímsson, Joel C. Wallenberg, Eiríkur Rögnvaldsson.
 
 Repository: [UD_Icelandic-IcePaHC](https://github.com/UniversalDependencies/UD_Icelandic-IcePaHC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_icepahc28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_icepahc29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 

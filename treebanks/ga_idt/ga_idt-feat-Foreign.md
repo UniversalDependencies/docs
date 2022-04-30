@@ -55,11 +55,11 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 4 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (4; 100% of non-empty `Foreign`): <em>general, strong, Ltd, white</em>
+* `Yes` (4; 100% of non-empty `Foreign`): <em>general, strong, white, Ltd</em>
 * `EMPTY` (6514): <em>maith, mór, nua, amháin, mó, náisiúnta, déanta, éagsúla, sibhialta, céanna</em>
 
 ### `DET`

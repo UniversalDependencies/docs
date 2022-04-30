@@ -28,10 +28,10 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 4	Worf	Worf	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 5	provalio	provaliti	VERB	Vmp-sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 6	:	:	PUNCT	Z	_	8	punct	_	_
-7	I	i	X	Xf	_	8	nmod	_	_
-8	told	told	X	Xf	_	5	parataxis	_	_
-9	you	you	X	Xf	_	8	flat:foreign	_	_
-10	so	sti	X	Xf	_	8	flat:foreign	_	SpaceAfter=No
+7	I	i	X	Xf	Foreign=Yes	8	nmod	_	_
+8	told	told	X	Xf	Foreign=Yes	5	parataxis	_	_
+9	you	you	X	Xf	Foreign=Yes	8	flat:foreign	_	_
+10	so	sti	X	Xf	Foreign=Yes	8	flat:foreign	_	SpaceAfter=No
 11	.	.	PUNCT	Z	_	5	punct	_	_
 
 ~~~
@@ -46,8 +46,8 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 1	Bradavica	bradavica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
 2	dojke	dojka	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
 3	(	(	PUNCT	Z	_	4	punct	_	SpaceAfter=No
-4	mamilla	Mamilla	X	Xf	_	1	appos	_	_
-5	mammae	Mammae	X	Xf	_	4	flat:foreign	_	SpaceAfter=No
+4	mamilla	Mamilla	X	Xf	Foreign=Yes	1	appos	_	_
+5	mammae	Mammae	X	Xf	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
 6	)	)	PUNCT	Z	_	4	punct	_	_
 7	i	i	CCONJ	Cc	_	8	cc	_	_
 8	pojas	pojas	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
@@ -94,17 +94,17 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 16	s	sa	ADP	Si	Case=Ins	17	case	_	_
 17	albumom	album	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
 18	"	"	PUNCT	Z	_	20	punct	_	SpaceAfter=No
-19	The	the	X	Xf	_	20	nmod	_	_
-20	Rise	rise	X	Xf	_	17	flat	_	_
-21	and	and	X	Xf	_	20	flat:foreign	_	_
-22	Fall	fall	X	Xf	_	20	flat:foreign	_	_
-23	of	of	X	Xf	_	24	nmod	_	_
+19	The	the	X	Xf	Foreign=Yes	20	nmod	_	_
+20	Rise	rise	X	Xf	Foreign=Yes	17	flat	_	_
+21	and	and	X	Xf	Foreign=Yes	20	flat:foreign	_	_
+22	Fall	fall	X	Xf	Foreign=Yes	20	flat:foreign	_	_
+23	of	of	X	Xf	Foreign=Yes	24	nmod	_	_
 24	Ziggy	Ziggy	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	22	flat:foreign	_	_
 25	Stardust	Stardust	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	24	flat:foreign	_	_
-26	and	and	X	Xf	_	20	flat:foreign	_	_
-27	the	the	X	Xf	_	28	nmod	_	_
-28	Spiders	spiders	X	Xf	_	20	flat:foreign	_	_
-29	from	fra	X	Xf	_	30	nmod	_	_
+26	and	and	X	Xf	Foreign=Yes	20	flat:foreign	_	_
+27	the	the	X	Xf	Foreign=Yes	28	nmod	_	_
+28	Spiders	spiders	X	Xf	Foreign=Yes	20	flat:foreign	_	_
+29	from	fra	X	Xf	Foreign=Yes	30	nmod	_	_
 30	Mars	mars	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	28	flat:foreign	_	SpaceAfter=No
 31	"	"	PUNCT	Z	_	20	punct	_	SpaceAfter=No
 32	.	.	PUNCT	Z	_	8	punct	_	_

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-19323 tokens (10%) have a non-empty value of `Mood`.
+19326 tokens (10%) have a non-empty value of `Mood`.
 2405 types (7%) occur at least once with a non-empty value of `Mood`.
 1349 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 4 part-of-speech tags: <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (11401; 6% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (7920; 4% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (11412; 6% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (7914; 4% instances).
 
 ### `AUX`
 
-11401 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Mood`.
+11412 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11401; 100%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10624; 93%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (10614; 93%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8330; 73%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11412; 100%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10635; 93%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (10619; 93%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8335; 73%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (773; 7% of non-empty `Mood`): <em>bi, biste, bismo, bih</em>
 * `Imp` (2; 0% of non-empty `Mood`): <em>budite</em>
-* `Ind` (10626; 93% of non-empty `Mood`): <em>je, su, će, nije, smo, sam, neće, nisu, ćete, ćemo</em>
-* `EMPTY` (1159): <em>biti, bio, bilo, bila, bit, bili, bile, si, ja</em>
+* `Ind` (10637; 93% of non-empty `Mood`): <em>je, su, će, nije, smo, sam, neće, nisu, ćete, ćemo</em>
+* `EMPTY` (1154): <em>biti, bio, bilo, bila, bit, bili, bile</em>
 
 <table>
   <tr><th>Paradigm <i>biti</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
@@ -53,14 +53,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `VERB`
 
-7920 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (46% of all `VERB` tokens) have a non-empty value of `Mood`.
+7914 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (46% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7920; 100%), <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7920; 100%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7920; 100%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7694; 97%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (6730; 85%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4839; 61%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7914; 100%), <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7914; 100%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7914; 100%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7688; 97%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (6726; 85%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4836; 61%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (219; 3% of non-empty `Mood`): <em>kliknite, recimo, izbjegavajte, koristite, potražite, pročitajte, čuvajte, daj, nemojte, odaberite</em>
-* `Ind` (7701; 97% of non-empty `Mood`): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</em>
+* `Ind` (7695; 97% of non-empty `Mood`): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</em>
 * `EMPTY` (9473): <em>izjavio, rekao, kazao, imati, mogli, mogla, dodao, mogao, moglo, trebala</em>
 
 <table>
@@ -78,38 +78,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 `Mood` seems to be **lexical feature** of `VERB`. 95% lemmas (1274) occur only with one value of `Mood`.
 
-### `ADV`
-
-1 <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `ADV` and `Mood` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`ADV` tokens may have the following values of `Mood`:
-
-* `Ind` (1; 100% of non-empty `Mood`): <em>sam</em>
-* `EMPTY` (8933): <em>više, samo, još, također, posto, već, kada, sada, nekoliko, tako</em>
-
-### `DET`
-
-1 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `DET` and `Mood` co-occurred: <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`DET` tokens may have the following values of `Mood`:
-
-* `Ind` (1; 100% of non-empty `Mood`): <em>sam</em>
-* `EMPTY` (7393): <em>koji, to, koje, koja, svoje, ove, toga, sve, kojima, koju</em>
-
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (785; 71%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (784; 71%),
+<tt>AUX --[<tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (18; 82%),
 <tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (18; 55%),
-<tt>AUX --[<tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (17; 85%),
 <tt>AUX --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (17; 61%),
-<tt>AUX --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (12; 67%),
+<tt>AUX --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (12; 60%),
+<tt>VERB --[<tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (12; 52%),
 <tt>VERB --[<tt><a href="hr_set-dep-obj.html">obj</a></tt>]--> VERB</tt> (8; 80%),
 <tt>VERB --[<tt><a href="hr_set-dep-list.html">list</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="hr_set-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%).
 

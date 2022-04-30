@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Cmp`, `Sup`.
 
-514 tokens (1%) have a non-empty value of `Degree`.
+512 tokens (1%) have a non-empty value of `Degree`.
 2 types (0%) occur at least once with a non-empty value of `Degree`.
 2 lemmas (0%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 1 part-of-speech tags: <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (514; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (512; 1% instances).
 
 ### `ADV`
 
-514 <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `Degree`.
+512 <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (435; 85% of non-empty `Degree`): <em>DAHA</em>
+* `Cmp` (433; 85% of non-empty `Degree`): <em>DAHA</em>
 * `Sup` (79; 15% of non-empty `Degree`): <em>EN</em>
-* `EMPTY` (6826): <em>ÇOK, OLARAK, BİRAZ, GAYET, HİÇ, SADECE, ÖZELLİKLE, PEK, KESİNLİKLE, HEP</em>
+* `EMPTY` (6801): <em>ÇOK, OLARAK, BİRAZ, GAYET, HİÇ, SADECE, ÖZELLİKLE, PEK, KESİNLİKLE, HEP</em>
 

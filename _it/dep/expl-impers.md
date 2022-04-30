@@ -12,7 +12,7 @@ Si prevede che viaggerà .
 expl:impers(prevede, Si)
 ~~~
 
-If there's a clitic in a construction with a modal or an auxiliary verb, than generally it is an impersonal construction. 
+If there's a clitic in a construction with a modal or an auxiliary verb, then generally it is an impersonal construction. 
 
 ~~~ sdparse
 Si può procedere a sequestro .
@@ -27,4 +27,4 @@ expl:impers(attendeva, si)
 expl(attendeva, ci)
 ~~~
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:04 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:53 CET 2021 -->

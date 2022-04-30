@@ -11,9 +11,9 @@ This relation is universal.
 16341 nodes (4%) are attached to their parents as `root`.
 
 16341 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.42353589131632.
+Average distance between parent and child is 7.4221283887155.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (11991; 73% instances), -<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (2881; 18% instances), -<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (982; 6% instances), -<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (178; 1% instances), -<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (169; 1% instances), -<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (48; 0% instances), -<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (29; 0% instances), -<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (20; 0% instances), -<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (14; 0% instances), -<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (12; 0% instances), -<tt><a href="fr_gsd-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (3; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (11992; 73% instances), -<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (2881; 18% instances), -<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (985; 6% instances), -<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (177; 1% instances), -<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (166; 1% instances), -<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (47; 0% instances), -<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (29; 0% instances), -<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (20; 0% instances), -<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (14; 0% instances), -<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (12; 0% instances), -<tt><a href="fr_gsd-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

@@ -24,4 +24,4 @@ aux:pass(killed, will-be)
 aux:pass(убитым, быть)
 aux:pass(killed, to-be)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:53 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:41 CET 2021 -->

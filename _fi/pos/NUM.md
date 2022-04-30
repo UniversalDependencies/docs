@@ -17,4 +17,4 @@ number, such as quantity, sequence, frequency or fraction.
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=771> (in Finnish)
-<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:11 CET 2021 -->

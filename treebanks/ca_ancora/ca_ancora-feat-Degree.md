@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (248; 100% of non-empty `Degree`): <em>millor, major, millors, pitjor, menor, majors, menors, pitjors</em>
-* `EMPTY` (29832): <em>passat, gran, primer, nou, primera, general, nova, catalana, espanyol, grans</em>
+* `EMPTY` (29833): <em>passat, gran, primer, nou, primera, general, nova, catalana, espanyol, grans</em>
 
 ## Relations with Agreement in `Degree`
 

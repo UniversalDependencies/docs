@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.htm
 
 12691 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (38% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12291; 97%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (10193; 80%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10058; 79%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (8081; 64%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7785; 61%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12291; 97%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10193; 80%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10058; 79%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (8081; 64%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7785; 61%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
@@ -33,11 +33,11 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
   <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cionn</em></td><td><em>cionn</em></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>chinn</em></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>cinn</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>gceann</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>gcinn</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>cheann</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ceann</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>cinn</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>gceann</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>gcinn</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>cheann</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ceann</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>cinn</em></td></tr>
 </table>
 
 `Definite` seems to be **lexical feature** of `NOUN`. 100% lemmas (2691) occur only with one value of `Definite`.

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sr_set-dep-nummod.html">nummod</a></tt>.
 
-643 nodes (1%) are attached to their parents as `nummod:gov`.
+642 nodes (1%) are attached to their parents as `nummod:gov`.
 
-638 instances of `nummod:gov` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.71073094867807.
+637 instances of `nummod:gov` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.70872274143302.
 
-The following 7 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (607; 94% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (10; 2% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (606; 94% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (10; 2% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

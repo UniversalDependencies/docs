@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-41 nodes (0%) are attached to their parents as `dep`.
+279 nodes (0%) are attached to their parents as `dep`.
 
-39 instances of `dep` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5609756097561.
+272 instances of `dep` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.91756272401434.
 
-The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (12; 29% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (10; 24% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (8; 20% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (3; 7% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 14 pairs of parts of speech are connected with `dep`: <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (95; 34% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (88; 32% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (43; 15% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (30; 11% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,67 +23,57 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 4 dep	color:blue
 1	«	«	PUNCT	_	_	2	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-2	Շարգի	շարգի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	nsubj	_	Translit=Šargi|LTranslit=šargi|SpaceAfter=No
+2	Բռէնթան	Բռէնթան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	6	nmod:poss	_	Translit=Bṙēnt’an|LTranslit=Bṙēnt’an|SpaceAfter=No
 3	»	»	PUNCT	_	_	2	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
-4	ն	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Hyph=Yes|Number=Sing	2	dep	_	Translit=n|LTranslit=ë
-5	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	6	aux	_	Translit=kë|LTranslit=kë
-6	տիրապետէր	տիրապետել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	Translit=tirapetēr|LTranslit=tirapetel|SpaceAfter=No
-7	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+4	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing	2	dep	_	Translit=i|LTranslit=ë
+5	վայելչակազմ	վայելչակազմ	ADJ	_	Degree=Pos	6	amod	_	Translit=vayelčakazm|LTranslit=vayelčakazm
+6	պահապանը	պահապան	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	Translit=pahapanë|LTranslit=pahapan
+7	աղէկ	աղէկ	ADJ	_	Degree=Pos	8	amod	_	Translit=aġēk|LTranslit=aġēk
+8	ճամբու	ճամբայ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	0	root	_	Translit=č̣ambow|LTranslit=č̣ambay
+9	մէջ	մէջ	ADP	_	AdpType=Post	8	case	_	Translit=mēǰ|LTranslit=mēǰ
+10	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	8	cop	_	Translit=ēr|LTranslit=em|SpaceAfter=No
+11	:	:	PUNCT	_	Foreign=Yes	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 dep	color:blue
-1	Օգոստոսի	Օգոստոս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	2	nmod:poss	_	Translit=Ògostosi|LTranslit=Ògostos
-2	2	2	NUM	_	NumForm=Digit|NumType=Card	15	obl	_	Translit=2|LTranslit=2|SpaceAfter=No
-3	ին	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Hyph=Yes|Number=Sing	2	dep	_	Translit=in|LTranslit=ë
-4	(	(	PUNCT	_	_	7	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
-5	Ն	Ն.	ADJ	_	Abbr=Yes|Degree=Pos	7	amod	_	Translit=N|LTranslit=N.|SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
-7	Տ	Տ.	NOUN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	parataxis	_	Translit=T|LTranslit=T.|SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|SpaceAfter=No
-9	)	)	PUNCT	_	_	7	punct	_	Translit=)|LTranslit=)
-10	կիրակի	կիրակի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	11	nmod	_	Translit=kiraki|LTranslit=kiraki
-11	օր	օր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	appos	_	Translit=òr|LTranslit=òr|SpaceAfter=No
-12	,	,	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,
-13	թերթերը	թերթ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	15	nsubj	_	Translit=t’ert’erë|LTranslit=t’ert’
-14	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	15	aux	_	Translit=kë|LTranslit=kë
-15	ծանուցանեն	ծանուցանել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=çanowc’anen|LTranslit=çanowc’anel
-16	թէ	թէ	SCONJ	_	_	19	mark	_	Translit=t’ē|LTranslit=t’ē
-17	ընդհանուր	ընդհանուր	ADJ	_	Degree=Pos	18	amod	_	Translit=ëndhanowr|LTranslit=ëndhanowr
-18	պատերազմը	պատերազմ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	19	nsubj:pass	_	Translit=paterazmë|LTranslit=paterazm
-19	յայտարարուած	յայտարարել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	15	ccomp	_	Translit=yaytararowaç|LTranslit=yaytararel
-20	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	19	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
-21	։	։	PUNCT	_	_	15	punct	_	Translit=.|LTranslit=.
+# visual-style 2 4 dep	color:blue
+1	Առտու	առտու	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	7	nmod	_	Translit=Aṙtow|LTranslit=aṙtow
+2	7	7	NUM	_	NumForm=Digit|NumType=Card	5	obl	_	Translit=7|LTranslit=7|SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+4	ին	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Hyph=Yes|Number=Sing	2	dep	_	Translit=in|LTranslit=ë
+5	արթննալը	արթննալ	VERB	_	Case=Nom|Definite=Def|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	7	csubj	_	Translit=art’nnalë|LTranslit=art’nnal
+6	հաճելի	հաճելի	ADJ	_	Degree=Pos	7	amod	_	Translit=hač̣eli|LTranslit=hač̣eli
+7	բան	բան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=ban|LTranslit=ban
+8	մը	մը	DET	_	PronType=Art	7	det	_	Translit=më|LTranslit=më
+9	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	cop	_	Translit=čē|LTranslit=em|SpaceAfter=No
+10	:	:	PUNCT	_	Foreign=Yes	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 dep	color:blue
-1	Օր	օր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	12	obl	_	Translit=Òr|LTranslit=òr
-2	մը	մը	DET	_	PronType=Art	1	det	_	Translit=më|LTranslit=më|SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
-4	կէս	կէս	NUM	_	NumForm=Word|NumType=Frac	5	nummod	_	Translit=kēs|LTranslit=kēs
-5	օրէ	օր	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	1	appos	_	Translit=òrē|LTranslit=òr
-6	վերջ	վերջ	ADP	_	AdpType=Post	5	case	_	Translit=verǰ|LTranslit=verǰ|SpaceAfter=No
-7	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
-8	բոլոր	բոլոր	DET	_	PronType=Tot	9	det	_	Translit=bolor|LTranslit=bolor
-9	pensionnaire	pensionnaire	X	_	Foreign=Yes	12	nsubj	_	Translit=pensionnaire|LTranslit=pensionnaire|SpaceAfter=No
-10	ները	ը	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Hyph=Yes|Number=Plur	9	dep	_	Translit=nerë|LTranslit=ë
-11	պտոյտի	պտոյտ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	12	compound:lvc	_	Translit=ptoyti|LTranslit=ptoyt
-12	ելած	ելլալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=elaç|LTranslit=ellal
-13	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	12	aux	_	Translit=ēin|LTranslit=em|SpaceAfter=No
-14	։	։	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 dep	color:blue
+1	«	«	PUNCT	_	_	3	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+2	բարի	բարի	ADJ	_	Degree=Pos	3	amod	_	Translit=bari|LTranslit=bari
+3	լոյս	լոյս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	7	nsubj	_	Translit=loys|LTranslit=loys|SpaceAfter=No
+4	»	»	PUNCT	_	_	3	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
+5	եր	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Hyph=Yes|Number=Plur	3	dep	_	Translit=er|LTranslit=ë
+6	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	7	aux	_	Translit=kë|LTranslit=kë
+7	փոխանակուէին	փոխանակուիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	Translit=p’oxanakowēin|LTranslit=p’oxanakowil
+8	դրացի	դրացի	ADJ	_	_	9	amod	_	Translit=drac’i|LTranslit=drac’i
+9	մարդոց	մարդ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	7	obl	_	Translit=mardoc’|LTranslit=mard
+10	մէջ	մէջ	ADP	_	AdpType=Post	9	case	_	Translit=mēǰ|LTranslit=mēǰ|SpaceAfter=No
+11	:	:	PUNCT	_	Foreign=Yes	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

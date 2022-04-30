@@ -25,8 +25,8 @@ The following 47 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	Tá	bí	VERB	VI	Mood=Ind|Tense=Pres	0	root	_	_
 2	mé	mé	PRON	Pers	Number=Sing|Person=1	1	nsubj	_	_
 3	tar	tar	ADP	Cmpd	PrepForm=Cmpd	7	case	_	_
-4	éis	éis	NOUN	Cmpd	Case=NomAcc|Number=Sing|PrepForm=Cmpd	3	fixed	_	_
-5	cáca	cáca	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	7	obj	_	_
+4	éis	éis	NOUN	Cmpd	Case=Nom|Number=Sing|PrepForm=Cmpd	3	fixed	_	_
+5	cáca	cáca	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	7	obj	_	_
 6	a	a	PART	Inf	PartType=Inf	7	mark	_	_
 7	dhéanamh	déanamh	NOUN	Noun	Form=Len|VerbForm=Inf	1	xcomp	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	1	punct	_	_
@@ -48,7 +48,7 @@ The following 47 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 7	ar	ar	ADP	Simp	_	9	case	_	_
 8	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
-9	gcáca	cáca	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	5	obl	_	_
+9	gcáca	cáca	NOUN	Noun	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	5	obl	_	_
 10	agus	agus	CCONJ	Coord	_	11	cc	_	_
 11	mar	mar	ADP	Simp	_	2	conj	_	_
 12	sin	sin	PRON	Dem	PronType=Dem	11	fixed	_	_

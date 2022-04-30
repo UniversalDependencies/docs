@@ -22,16 +22,16 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 1 ccomp	color:blue
-1	Taʃepeʔa	_	NOUN	n	Mood=Perm|Number=Sing|Person=1	10	ccomp	10:ccomp	_
-2	Tupã	Tupã	PROPN	propn	_	1	nsubj	1:nsubj	_
-3	tekoangajpaβa	_	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Abs	1	obl	1:obl	_
-4	swi	swi	ADP	posp	Rel=Cont	3	case	3:case	_
-5	,	,	PUNCT	punct	_	3	punct	3:punct	_
-6	asé	asé	PRON	pro	PronType=Prs	7	nmod	7:nmod	_
-7	ɲɨʔã	_	NOUN	n	_	9	nmod	9:nmod	_
-8	swi	swi	ADP	posp	Rel=Cont	7	case	7:case	_
-9	osembaʔe	sem	NOUN	n	Nomzr=Rel|Person=3	3	appos	3:appos	_
-10	ojaβo	ʔi	VERB	v	VerbForm=Ger	0	root	0:root	_
+1	Taʃepeʔa	_	NOUN	n	Mood=Perm|Number=Sing|Person=1	10	ccomp	_	_
+2	Tupã	Tupã	PROPN	propn	_	1	nsubj	_	_
+3	tekoangajpaβa	_	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Hum	1	obl	_	_
+4	swi	swi	ADP	posp	Rel=Cont	3	case	_	_
+5	,	,	PUNCT	punct	_	3	punct	_	_
+6	asé	asé	PRON	pro	PronType=Prs	7	nmod	_	_
+7	ɲɨʔã	_	NOUN	n	_	9	nmod	_	_
+8	swi	swi	ADP	posp	Rel=Cont	7	case	_	_
+9	osembaʔe	sem	NOUN	n	Nomzr=Rel|Person=3	3	appos	_	_
+10	ojaβo	ʔi	VERB	v	VerbForm=Ger	0	root	_	_
 
 ~~~
 
@@ -42,12 +42,12 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 ccomp	color:blue
-1	t'ojpeʔa	peʔa	VERB	v	Mood=Perm|Person=33	6	ccomp	6:ccomp	_
-2	Tupã	Tupã	PROPN	propn	_	1	obl	1:obl	_
-3	ɲeʔẽmemwã	ɲeʔẽmemwã	NOUN	_	_	1	obl	1:obl	_
-4	ʃejuru	juru	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	obl	1:obl	_
-5	swi	swi	ADP	posp	Rel=Cont	4	case	4:case	_
-6	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	0	root	0:root	_
+1	t'ojpeʔa	peʔa	VERB	v	Mood=Perm|Person=33	6	ccomp	_	_
+2	Tupã	Tupã	PROPN	propn	_	1	obl	_	_
+3	ɲeʔẽmemwã	ɲeʔẽmemwã	NOUN	n	_	1	obl	_	_
+4	ʃejuru	juru	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	obl	_	_
+5	swi	swi	ADP	posp	Rel=Cont	4	case	_	_
+6	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	0	root	_	_
 
 ~~~
 
@@ -58,17 +58,17 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 ccomp	color:blue
-1	Sesé	ese	ADP	posp	Rel=NCont	3	case	3:case	_
-2	o	o	PRON	pro	Reflex=Yes	3	nmod	3:nmod	_
-3	maʔendwáramo	maʔendwár	NOUN	n	_	0	root	0:root	_
-4	e	e	PART	pcl	_	3	discourse	3:discourse	_
-5	asé	asé	PRON	pro	_	7	nmod	7:nmod	_
-6	Tupã	Tupã	NOUN	n	_	7	nmod	7:nmod	_
-7	rawsúβi	awsuβ	NOUN	n	Rel=Cont	3	ccomp	3:ccomp	_
-8	o	o	PRON	pro	Reflex=Yes	9	nmod	9:nmod	_
-9	pɨʔape	pɨʔa	NOUN	n	Case=Loc	10	obl	10:obl	_
-10	sekó	ekó	NOUN	n	Rel=NCont	11	obj	11:obj	_
-11	aβɨpotareʔɨma	aβɨpotar	VERB	v	Polarity=Neg|VerbForm=Ger	7	dep	7:dep	_
+1	Sesé	ese	ADP	posp	Rel=NCont	3	case	_	_
+2	o	o	PRON	pro	Reflex=Yes	3	nmod	_	_
+3	maʔendwáramo	maʔendwár	NOUN	n	_	0	root	_	_
+4	e	e	PART	pcl	_	3	discourse	_	_
+5	asé	asé	PRON	pro	_	7	nmod	_	_
+6	Tupã	Tupã	NOUN	n	_	7	nmod	_	_
+7	rawsúβi	awsuβ	NOUN	n	Rel=Cont	3	ccomp	_	_
+8	o	o	PRON	pro	Reflex=Yes	9	nmod	_	_
+9	pɨʔape	pɨʔa	NOUN	n	Case=Loc	10	obl	_	_
+10	sekó	ekó	NOUN	n	Rel=NCont	11	obj	_	_
+11	aβɨpotareʔɨma	aβɨpotar	VERB	v	Polarity=Neg|VerbForm=Ger	7	dep	_	_
 
 ~~~
 

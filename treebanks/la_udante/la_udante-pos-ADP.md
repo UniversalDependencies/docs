@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-UDante: POS Tags: `ADP`
 
-There are 39 `ADP` lemmas (1%), 39 `ADP` types (0%) and 4140 `ADP` tokens (7%).
-Out of 16 observed tags, the rank of `ADP` is: 10 in number of lemmas, 12 in number of types and 4 in number of tokens.
+There are 40 `ADP` lemmas (1%), 40 `ADP` types (0%) and 4141 `ADP` tokens (7%).
+Out of 16 observed tags, the rank of `ADP` is: 9 in number of lemmas, 12 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>in, ad, de, per, a, ab, propter, ex, cum, secundum</em>
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="la_udante-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 2.108584).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 2.108945).
 
 The 1st highest number of forms (2) was observed with the lemma “ab”: <em>a, ab</em>.
 
@@ -71,13 +71,13 @@ Examples: <em>in, ad, de, per, a, ab, propter, ex, cum, sub</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 13 different relations: <tt><a href="la_udante-dep-case.html">case</a></tt> (4005; 97% instances), <tt><a href="la_udante-dep-mark.html">mark</a></tt> (106; 3% instances), <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (14; 0% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="la_udante-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-advcl-cmpr.html">advcl:cmpr</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 13 different relations: <tt><a href="la_udante-dep-case.html">case</a></tt> (3937; 95% instances), <tt><a href="la_udante-dep-mark.html">mark</a></tt> (175; 4% instances), <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (14; 0% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="la_udante-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-advcl-cmpr.html">advcl:cmpr</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2459; 59% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (463; 11% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (409; 10% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (349; 8% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (180; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (174; 4% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (44; 1% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (38; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2460; 59% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (463; 11% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (409; 10% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (349; 8% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (180; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (174; 4% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (44; 1% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (38; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 4065 (98%) `ADP` nodes are leaves.
 
-68 (2%) `ADP` nodes have one child.
+69 (2%) `ADP` nodes have one child.
 
 4 (0%) `ADP` nodes have two children.
 
@@ -85,7 +85,7 @@ Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="la_u
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 11 different relations: <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (60; 70% instances), <tt><a href="la_udante-dep-punct.html">punct</a></tt> (8; 9% instances), <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt> (3; 3% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-advmod.html">advmod</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-mark.html">mark</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-discourse.html">discourse</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 12 different relations: <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (60; 69% instances), <tt><a href="la_udante-dep-punct.html">punct</a></tt> (8; 9% instances), <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt> (3; 3% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-advmod.html">advmod</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-mark.html">mark</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt> (1; 1% instances), <tt><a href="la_udante-dep-discourse.html">discourse</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 11 different parts of speech: <tt><a href="la_udante-pos-DET.html">DET</a></tt> (25; 29% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (21; 24% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (14; 16% instances), <tt><a href="la_udante-pos-PUNCT.html">PUNCT</a></tt> (8; 9% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (6; 7% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="la_udante-pos-DET.html">DET</a></tt> (25; 29% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (21; 24% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (14; 16% instances), <tt><a href="la_udante-pos-PUNCT.html">PUNCT</a></tt> (8; 9% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (6; 7% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

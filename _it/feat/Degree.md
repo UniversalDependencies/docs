@@ -38,6 +38,6 @@ set of objects.
 
 #### Examples
 
-* _bellissimo_, _massimo_, _malissimo_, _ottimo_ "very beatiful", "maximum", "very badly", "optimum"
+* _bellissimo_ "very beatiful", _massimo_ "maximum", _malissimo_ "very badly", _ottimo_ "optimum"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:31 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:19 CET 2021 -->

@@ -22,18 +22,18 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 13 orphan	color:blue
-1	A	o	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	A	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj:pass	_	_
 3	norte	norte	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
 4	de	de	ADP	INDT	_	6	case	_	_
-5	o	o	DET	_	Gender=Masc|Number=Sing	6	det	_	_
+5	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Cáucaso	Cáucaso	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
 7	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux:pass	_	_
 8	conhecida	_	VERB	VBN	Gender=Fem|Number=Sing	0	root	_	_
 9	como	como	ADP	IN	_	10	case	_	_
 10	Ciscaucásia	Ciscaucásia	PROPN	NNP	Gender=Fem|Number=Sing	8	obl	_	_
 11	e	e	CCONJ	CC	_	15	cc	_	_
-12	a	o	DET	DT	Gender=Fem|Number=Sing	13	det	_	_
+12	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	15	orphan	_	orig_deprel=nsubj:pass
 14	sul	sul	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
 15	como	como	ADP	IN	_	8	conj	_	orig_deprel=obl|ToDo=ex-adp-child
@@ -53,7 +53,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 2	1912	_	NUM	CD	Gender=Masc	4	obl	_	_
 3	foi	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux:pass	_	_
 4	fundada	_	VERB	VBN	Gender=Fem|Number=Sing	0	root	_	_
-5	a	o	DET	DT	Gender=Fem|Number=Sing	7	det	_	_
+5	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 6	primeira	primeiro	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
 7	companhia	companhia	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
 8	cinematográfica	cinematográfico	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
@@ -64,7 +64,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 13	e	e	CCONJ	CC	_	14	cc	_	_
 14	em	em	ADP	IN	_	4	conj	_	orig_deprel=obl|ToDo=ex-adp-child
 15	1916	_	NUM	CD	Gender=Masc	14	obj	_	ToDo=pobj
-16	a	o	DET	DT	Gender=Fem|Number=Sing	17	det	_	_
+16	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	Asty	Asty	PROPN	NNP	Gender=Fem|Number=Sing	14	orphan	_	orig_deprel=nsubj:pass
 18	Film	Film	PROPN	NNP	Foreign=Yes|Gender=Fem|Number=Sing	17	flat	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	4	punct	_	_

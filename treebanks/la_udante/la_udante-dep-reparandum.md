@@ -41,11 +41,11 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 17	,	,	PUNCT	Pu	_	19	punct	_	_
 18	que	qui	PRON	presfn	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	19	nsubj	_	_
 19	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
-20	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf	21	cop	_	_
+20	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf	21	cop	_	_
 21	deorsum	deorsum	ADV	r	VerbForm=Part	19	ccomp	_	SpaceAfter=No
 22	,	,	PUNCT	Pu	_	15	punct	_	_
-23	inesse	insum	VERB	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	10	csubj	_	_
-24	aliam	alius	DET	dpfs1a	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	25	det	_	_
+23	inesse	insum	VERB	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	10	csubj	_	_
+24	aliam	alius	DET	dpfs1a	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Con	25	det	_	_
 25	naturam	natura	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|VerbForm=Part	23	nsubj	_	_
 26	per	per	ADP	e	AdpType=Prep	27	case	_	_
 27	quam	qui	PRON	presfa	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	28	obl	_	_
@@ -57,7 +57,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 33	ut	ut	SCONJ	r	_	35	reparandum	_	_
 34	scilicet	scilicet	CCONJ	r	Compound=Yes|ConjType=Expl|VerbForm=Fin	35	cc	_	_
 35	pateretur	patior	VERB	vd3cis3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	28	conj:expl	_	_
-36	elevari	eleuo	VERB	vp1fp	Aspect=Imp|InflClass=LatA|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	35	xcomp	_	_
+36	elevari	eleuo	VERB	vp1fp	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	35	xcomp	_	_
 37	in	in	ADP	e	AdpType=Prep	38	case	_	_
 38	parte	pars	NOUN	sfs3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	36	obl	_	_
 39	a	a	ADP	e	AdpType=Prep	40	case	_	_
@@ -65,9 +65,9 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 41	celi	caelum	NOUN	sns2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	40	nmod	_	SpaceAfter=No
 42	,	,	PUNCT	Pu	_	44	punct	_	_
 43	tanquam	tamquam	SCONJ	r	Compound=Yes|ConjType=Cmpr|PronType=Rel	44	mark	_	_
-44	obediens	oboedio	VERB	va4ppsmn	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatI|InflClass[noun]=IndEurI|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	35	advcl:cmpr	_	_
-45	a	a	ADP	e	AdpType=Prep	46	case	_	_
-46	precipiente	praecipio	VERB	va3ppsmb	Aspect=Imp|Case=Abl|Degree=Pos|Gender=Masc|InflClass=LatI2|InflClass[noun]=IndEurI|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	44	orphan	_	SpaceAfter=No
+44	obediens	oboedio	VERB	va4ppsmn	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatI|InflClass[nominal]=IndEurI|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	35	advcl:cmpr	_	_
+45	a	a	ADP	e	AdpType=Prep	46	mark	_	_
+46	precipiente	praecipio	VERB	va3ppsmb	Aspect=Imp|Case=Abl|Degree=Pos|Gender=Masc|InflClass=LatI2|InflClass[nominal]=IndEurI|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	44	orphan	_	SpaceAfter=No
 47	,	,	PUNCT	Pu	_	49	punct	_	_
 48	sicut	sicut	SCONJ	r	Compound=Yes|ConjType=Cmpr	49	mark	_	_
 49	videmus	uideo	VERB	va2ipp1	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl:cmpr	_	_
@@ -95,7 +95,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 71	obedibiles	obedibilis	ADJ	amp2n	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Plur	78	advcl	_	_
 72	sunt	sum	AUX	va5ipp3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	71	cop	_	SpaceAfter=No
 73	,	,	PUNCT	Pu	_	71	punct	_	_
-74	quandoque	quandoque	ADV	r	Emphatic=Yes|PronType=Rel	78	advmod	_	_
+74	quandoque	quandoque	ADV	r	Form=Emp|PronType=Rel	78	advmod	_	_
 75	a	a	ADP	e	AdpType=Prep	77	case	_	_
 76	proprio	proprius	ADJ	ams1b	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	77	amod	_	_
 77	impetu	impetus	NOUN	sms4b	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	78	obl	_	_

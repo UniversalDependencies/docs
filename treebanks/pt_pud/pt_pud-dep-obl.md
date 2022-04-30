@@ -23,7 +23,7 @@ The following 22 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 obl	color:blue
-1	O	o	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+1	O	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	esquema	esquema	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	faz	fazer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	dinheiro	dinheiro	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
@@ -46,7 +46,7 @@ The following 22 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	Ele	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
 2	trabalhou	trabalhar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	para	para	ADP	IN	_	5	case	_	_
-4	a	o	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+4	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	BBC	BBC	PROPN	NNP	Gender=Fem|Number=Sing	2	obl	_	_
 6	por	por	ADP	IN	_	8	case	_	_
 7	uma	um	DET	CD	Gender=Fem	8	det	_	_
@@ -62,7 +62,7 @@ The following 22 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 obl	color:blue
-1	O	o	DET	PDT	Gender=Masc|Number=Sing	4	det	_	_
+1	O	o	DET	PDT	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 2	seu	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	4	det	_	_
 3	primeiro	primeiro	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 4	rei	rei	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_

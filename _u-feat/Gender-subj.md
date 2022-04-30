@@ -41,4 +41,4 @@ Examples: [eu] _ukan <b>ezak</b>_ “have it” `Gender[erg]=Masc|Number[abs]=Si
 
 Examples: [eu] _ukan <b>ezan</b>_ “have it” `Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf`
 (imperative addressing a woman)
-<!-- Interlanguage links updated Pá kvě 14 11:08:33 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->

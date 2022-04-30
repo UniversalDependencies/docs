@@ -27,7 +27,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	por	por	ADP	IN	_	4	case	_	_
 4	pessoa	pessoa	NOUN	NN	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	_
-6	o	o	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	máximo	máximo	NOUN	NN	Gender=Masc|Number=Sing	1	appos	_	_
 8	permitido	permitido	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	_	_
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 5	a	_	ADP	IN	_	9	case	_	_
 6	partir	_	VERB	VB	_	5	fixed	_	_
 7	de	de	ADP	INDT	_	5	fixed	_	_
-8	a	o	DET	_	Gender=Fem|Number=Sing	9	det	_	_
+8	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Europa	Europa	PROPN	NNP	Gender=Fem|Number=Sing	2	obl	_	_
 10	continental	continental	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
@@ -65,7 +65,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Em	_	ADP	IN	_	2	case	_	_
 2	1340	_	NUM	CD	Gender=Masc	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
-4	o	o	DET	DT	Gender=Masc|Number=Sing	5	det	_	_
+4	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Cairo	Cairo	PROPN	NNP	Gender=Masc|Number=Sing	6	nsubj	_	_
 6	tinha	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 7	uma	um	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
@@ -79,13 +79,13 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 15	tornando	_	AUX	VBG	_	20	cop	_	SpaceAfter=No
 16	-	-	PUNCT	-	_	15	punct	_	SpaceAfter=No
 17	a	_	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	20	obj	_	_
-18	a	o	DET	DT	Gender=Fem|Number=Sing	20	det	_	_
+18	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 19	maior	maior	ADJ	JJS	Gender=Fem|Number=Sing	20	amod	_	_
 20	cidade	cidade	NOUN	NN	Gender=Fem|Number=Sing	6	acl	_	_
 21	a	_	ADP	IN	_	22	case	_	_
 22	oeste	oeste	NOUN	NN	Gender=Masc|Number=Sing	20	nmod	_	ToDo=nmod
 23	de	de	ADP	INDT	_	25	case	_	_
-24	a	o	DET	_	Gender=Fem|Number=Sing	25	det	_	_
+24	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	China	China	PROPN	NNP	Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	6	punct	_	_
 

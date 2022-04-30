@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 1	Стяко	стяко	ADV	Adv	_	3	advmod	_	_
 2	а	а	AUX	Pcle	Polarity=Neg	3	aux:neg	_	GTtags=Neg
 3	ёми	ёмамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3
-4	Дуняшинэнь	Дуняшин	PROPN	N	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|NameType=Sur|Number=Plur,Sing	5	nmod:gsubj	_	GTtags=Prop,Sur_Mal,SP,Gen,Indef
+4	Дуняшинэнь	Дуняшин	PROPN	N	Animacy=Hum|Case=Gen|Definite=Ind|NameType=Sur|Number=Plur,Sing	5	nmod:gsubj	_	GTtags=Prop,Sur_Mal,SP,Gen,Indef
 5	сёрмадомазо	сёрмадомс	VERB	V	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|Valency=2|VerbForm=Vnoun	3	nsubj	_	GTtags=TV,NomAct,N,Sg,Nom,PxSg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	3	punct	_	_
 

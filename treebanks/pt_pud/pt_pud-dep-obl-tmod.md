@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 17	fgColor:white
 # visual-style 17 19 obl:tmod	color:blue
 1	Em	em	ADP	INDT	_	3	case	_	_
-2	o	o	DET	_	Gender=Masc|Number=Sing	3	det	_	_
+2	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	século	século	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
 4	XX	_	NUM	CD	_	3	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	_
@@ -78,7 +78,7 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 1	De	_	ADP	IN	_	6	case	_	_
 2	acordo	acordo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3	com	_	ADP	IN	_	1	fixed	_	_
-4	o	o	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+4	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	Novo	novo	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	Proper=True
 6	Testamento	testamento	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	Proper=True|SpaceAfter=No
 7	,	,	PUNCT	,	_	6	punct	_	_
@@ -94,7 +94,7 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 17	anos	ano	NOUN	NN	Gender=Masc|Number=Plur	18	obl:tmod	_	_
 18	depois	depois	ADV	RB	_	9	advmod	_	_
 19	de	de	ADP	INDT	_	22	case	_	_
-20	a	o	DET	_	Gender=Fem|Number=Sing	22	det	_	_
+20	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 21	sua	_	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	22	det	_	_
 22	conversão	conversão	NOUN	NN	Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	9	punct	_	_

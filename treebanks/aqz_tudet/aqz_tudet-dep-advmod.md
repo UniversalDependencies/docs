@@ -22,11 +22,11 @@ The following 4 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 advmod	color:blue
-1	Kani	Kani	PROPN	pn	_	0	root	0:root	_
-2	okɨpi	kɨpi	NOUN	n	Person=1	1	appos	1:appos	_
-3	kem	kem	NOUN	n	_	1	nmod	1:nmod	_
-4	kɨ	kɨ	NOUN	n	_	3	nmod	3:nmod	_
-5	rom	rom	ADV	adv	Polarity=Neg	3	advmod	3:advmod	_
+1	Kani	Kani	PROPN	pn	_	0	root	_	_
+2	okɨpi	kɨpi	NOUN	n	Person=1	1	appos	_	_
+3	kem	kem	NOUN	n	_	1	nmod	_	_
+4	kɨ	kɨ	NOUN	n	_	3	nmod	_	_
+5	rom	rom	ADV	adv	Polarity=Neg	3	advmod	_	_
 
 ~~~
 
@@ -37,9 +37,9 @@ The following 4 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 advmod	color:blue
-1	Ariano	Ariano	PROPN	pn	_	2	nsubj	2:nsubj	_
-2	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	0:root	_
-3	kɨrẽ	kɨrẽ	ADV	adv	_	2	advmod	2:advmod	_
+1	Ariano	Ariano	PROPN	pn	_	2	nsubj	_	_
+2	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
+3	kɨrẽ	kɨrẽ	ADV	adv	_	2	advmod	_	_
 
 ~~~
 
@@ -50,8 +50,8 @@ The following 4 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 advmod	color:blue
-1	kitʃetara	tʃet	VERB	vi	Aspect=Hab|Clusivity=In|Mood=Ind|Person=1|Tv=Yes	0	root	0:root	_
-2	kom	kom	PART	pcl	Tense=Fut	1	advmod	1:advmod	_
+1	kitʃetara	tʃet	VERB	vi	Aspect=Hab|Clusivity=In|Mood=Ind|Person=1|Tv=Yes	0	root	_	_
+2	kom	kom	PART	pcl	Tense=Fut	1	advmod	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pt_gsd-dep-flat.html">flat</a></tt>.
 
-26 nodes (0%) are attached to their parents as `flat:name`.
+27 nodes (0%) are attached to their parents as `flat:name`.
 
-26 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.76923076923077.
+27 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.74074074074074.
 
-The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (25; 96% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (26; 96% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

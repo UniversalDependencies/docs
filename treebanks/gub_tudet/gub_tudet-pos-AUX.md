@@ -6,47 +6,50 @@ udver: '2'
 
 ## Treebank Statistics: UD_Guajajara-TuDeT: POS Tags: `AUX`
 
-There are 1 `AUX` lemmas (1%), 1 `AUX` types (1%) and 7 `AUX` tokens (1%).
-Out of 10 observed tags, the rank of `AUX` is: 10 in number of lemmas, 10 in number of types and 10 in number of tokens.
+There are 1 `AUX` lemmas (0%), 1 `AUX` types (0%) and 11 `AUX` tokens (1%).
+Out of 14 observed tags, the rank of `AUX` is: 12 in number of lemmas, 12 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>iko</em>
 
 The 10 most frequent `AUX` types:  <em>iko</em>
 
-The 10 most frequent ambiguous lemmas: <em>iko</em> (<tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> 7, <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>iko</em> (<tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> 11, <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> 10)
 
-The 10 most frequent ambiguous types:  
+The 10 most frequent ambiguous types:  <em>iko</em> (<tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> 11, <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> 4)
 
 
+* <em>iko</em>
+  * <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> 11: <em>Mon aipo ur <b>iko</b> aʔe</em>
+  * <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> 4: <em>Aʔe pe ukàzikàzim zekaipo <b>iko</b> aʔepehar wanuwi .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.000000 (the average of all parts of speech is 1.126761).
+The form / lemma ratio of `AUX` is 1.000000 (the average of all parts of speech is 1.254902).
 
 The 1st highest number of forms (1) was observed with the lemma “iko”: <em>iko</em>.
 
-`AUX` occurs with 2 features: <tt><a href="gub_tudet-feat-Aspect.html">Aspect</a></tt> (7; 100% instances), <tt><a href="gub_tudet-feat-Person.html">Person</a></tt> (7; 100% instances)
+`AUX` occurs with 2 features: <tt><a href="gub_tudet-feat-Aspect.html">Aspect</a></tt> (11; 100% instances), <tt><a href="gub_tudet-feat-Person.html">Person</a></tt> (11; 100% instances)
 
 `AUX` occurs with 2 feature-value pairs: `Aspect=Prog`, `Person=3`
 
 `AUX` occurs with 1 feature combinations.
-The most frequent feature combination is `Aspect=Prog|Person=3` (7 tokens).
+The most frequent feature combination is `Aspect=Prog|Person=3` (11 tokens).
 Examples: <em>iko</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 1 different relations: <tt><a href="gub_tudet-dep-root.html">root</a></tt> (7; 100% instances)
+`AUX` nodes are attached to their parents using 2 different relations: <tt><a href="gub_tudet-dep-root.html">root</a></tt> (7; 64% instances), <tt><a href="gub_tudet-dep-dep.html">dep</a></tt> (4; 36% instances)
 
-Parents of `AUX` nodes belong to 1 different parts of speech:  (7; 100% instances)
+Parents of `AUX` nodes belong to 2 different parts of speech:  (7; 64% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (4; 36% instances)
 
-0 (0%) `AUX` nodes are leaves.
+4 (36%) `AUX` nodes are leaves.
 
 0 (0%) `AUX` nodes have one child.
 
-1 (14%) `AUX` nodes have two children.
+1 (9%) `AUX` nodes have two children.
 
-6 (86%) `AUX` nodes have three or more children.
+6 (55%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 5.
 

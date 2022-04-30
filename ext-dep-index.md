@@ -20,10 +20,9 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [acl:adv](): Ukrainian
 * [acl:attr](): Chukchi
 * [acl:cleft](): Norwegian, Swedish
-* [acl:fixed](): Beja
 * [acl:inf](): Portuguese
 * [acl:relat](): Chukchi
-* [acl:relcl](): Akkadian, Albanian, Apurina, Arabic, Armenian, Assyrian, Beja, Belarusian, Breton, Bulgarian, Chinese, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, German, Greek, Hebrew, Hindi, Hindi English, Icelandic, Indonesian, Irish, Italian, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Lithuanian, Livvi, Manx, Marathi, Moksha, Naija, North Sami, Norwegian, Old East Slavic, Old French, Persian, Polish, Portuguese, Russian, Sanskrit, Scottish Gaelic, Slovak, Spanish, Swedish, Swedish Sign Language, Swiss German, Tagalog, Tamil, Telugu, Thai, Ukrainian, Urdu, Welsh, Western Armenian, Wolof
+* [acl:relcl](): Akkadian, Albanian, Apurina, Arabic, Armenian, Assyrian, Beja, Belarusian, Bengali, Breton, Bulgarian, Catalan, Chinese, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, German, Greek, Hebrew, Hindi, Hindi English, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Ligurian, Lithuanian, Livvi, Manx, Marathi, Moksha, Naija, North Sami, Norwegian, Old East Slavic, Old French, Persian, Polish, Portuguese, Russian, Sanskrit, Scottish Gaelic, Slovak, Spanish, Swedish, Swedish Sign Language, Swiss German, Tagalog, Tamil, Telugu, Thai, Ukrainian, Urdu, Welsh, Western Armenian, Wolof, Xibe
 
 
 
@@ -39,7 +38,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [advcl:lto](): Komi Zyrian
 * [advcl:mcl](): Komi Permyak
 * [advcl:pred](): Latin
-* [advcl:relcl](): Polish, Western Armenian
+* [advcl:relcl](): Armenian, Polish, Western Armenian
 * [advcl:sp](): Ukrainian
 * [advcl:svc](): Ukrainian
 * [advcl:tcl](): Apurina, Erzya, Komi Permyak, Komi Zyrian, Moksha, Romanian, Skolt Sami
@@ -53,13 +52,12 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [advmod:deg](): Erzya, Komi Permyak, Komi Zyrian, Moksha, Skolt Sami
 * [advmod:det](): Ukrainian
 * [advmod:df](): Cantonese, Chinese
-* [advmod:emph](): Akkadian, Arabic, Armenian, Catalan, Chukchi, Croatian, Czech, Indonesian, Komi Zyrian, Latin, Lithuanian, Polish, Sanskrit, Slovak, South Levantine Arabic, Tamil, Turkish, Turkish German, Upper Sorbian, Uyghur, Western Armenian
+* [advmod:emph](): Akkadian, Arabic, Armenian, Catalan, Chukchi, Croatian, Czech, Indonesian, Javanese, Komi Zyrian, Latin, Lithuanian, Polish, Sanskrit, Slovak, South Levantine Arabic, Tamil, Turkish, Turkish German, Upper Sorbian, Uyghur, Western Armenian
 * [advmod:eval](): Erzya, Komi Zyrian, Moksha, Skolt Sami
-* [advmod:fixed](): Beja
 * [advmod:foc](): Erzya, Komi Zyrian, Moksha, Skolt Sami
 * [advmod:freq](): Komi Zyrian, Moksha
 * [advmod:lfrom](): Erzya, Komi Zyrian, Moksha
-* [advmod:lmod](): Apurina, Danish, Erzya, Komi Permyak, Komi Zyrian, Moksha, Skolt Sami
+* [advmod:lmod](): Apurina, Danish, Erzya, Komi Permyak, Komi Zyrian, Latin, Moksha, Skolt Sami
 * [advmod:lmp](): Erzya, Komi Zyrian
 * [advmod:locy](): Hungarian
 * [advmod:lto](): Erzya, Komi Zyrian, Moksha
@@ -70,7 +68,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [advmod:que](): Hungarian
 * [advmod:tfrom](): Hungarian
 * [advmod:tlocy](): Hungarian
-* [advmod:tmod](): Apurina, Erzya, Komi Permyak, Komi Zyrian, Moksha, Romanian, Skolt Sami
+* [advmod:tmod](): Apurina, Erzya, Komi Permyak, Komi Zyrian, Latin, Moksha, Romanian, Skolt Sami
 * [advmod:to](): Hungarian
 * [advmod:tto](): Hungarian
 
@@ -90,26 +88,27 @@ This is an automatically generated list of relation subtypes that occur in the U
 
 ## aux
 * [aux:aff](): Beja
-* [aux:aspect](): Komi Zyrian
+* [aux:aspect](): Erzya, Komi Zyrian
 * [aux:caus](): Armenian, French, Western Armenian
 * [aux:clitic](): Polish
-* [aux:cnd](): Erzya, Komi Permyak, Komi Zyrian, Polish
+* [aux:cnd](): Erzya, Komi Permyak, Komi Zyrian, Moksha, Polish
 * [aux:ex](): Armenian, Western Armenian
+* [aux:exhort](): Apurina
 * [aux:imp](): Erzya, Polish
-* [aux:nec](): Komi Zyrian, Moksha, Skolt Sami
+* [aux:nec](): Erzya, Komi Zyrian, Moksha, Skolt Sami
 * [aux:neg](): Chukchi, Erzya, Komi Permyak, Komi Zyrian, Maltese, Moksha, North Sami, Skolt Sami, Tamil
 * [aux:opt](): Erzya, Moksha
 * [aux:part](): Maltese
-* [aux:pass](): Afrikaans, Ancient Greek, Arabic, Assyrian, Belarusian, Bhojpuri, Breton, Bulgarian, Buryat, Chinese, Czech, Dutch, English, Faroese, Finnish, French, Frisian Dutch, Galician, German, Hindi, Italian, Kangri, Karelian, Latin, Latvian, Lithuanian, Maltese, Marathi, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Swiss German, Tamil, Thai, Turkish German, Upper Sorbian, Vietnamese
+* [aux:pass](): Afrikaans, Ancient Greek, Arabic, Assyrian, Belarusian, Bhojpuri, Breton, Bulgarian, Buryat, Chinese, Czech, Dutch, English, Faroese, Finnish, French, Frisian Dutch, Galician, German, Hindi, Italian, Kangri, Karelian, Latin, Latvian, Lithuanian, Low Saxon, Maltese, Marathi, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Swiss German, Tamil, Thai, Turkish German, Upper Sorbian, Vietnamese
 * [aux:pot](): Komi Zyrian
-* [aux:q](): Erzya, Turkish, Turkish German
+* [aux:q](): Erzya, Moksha, Turkish, Turkish German
 * [aux:tense](): French, Komi Zyrian, Skolt Sami
 
 
 
 ## case
 * [case:acc](): Hebrew
-* [case:adv](): Indonesian
+* [case:adv](): Indonesian, Javanese
 * [case:aff](): Beja
 * [case:det](): Maltese, Old French
 * [case:gen](): Hebrew
@@ -139,14 +138,14 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [compound:affix](): Hebrew
 * [compound:dir](): Cantonese, Chinese
 * [compound:ext](): Cantonese, Chinese
-* [compound:lvc](): Armenian, Hindi, Kazakh, Khunsari, Korean, Kurmanji, Marathi, Nayini, Persian, Soi, Tamil, Telugu, Turkish, Turkish German, Uyghur, Western Armenian
+* [compound:lvc](): Armenian, Bengali, Hindi, Kazakh, Khunsari, Korean, Kurmanji, Marathi, Nayini, Persian, Soi, Tamil, Tatar, Telugu, Turkish, Turkish German, Uyghur, Western Armenian
 * [compound:nn](): Finnish, Livvi, North Sami
 * [compound:preverb](): Hungarian
-* [compound:prt](): Afrikaans, Arabic, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, Frisian Dutch, German, Icelandic, Irish, Karelian, Komi Permyak, Naija, Norwegian, Persian, Spanish, Swedish, Swedish Sign Language, Swiss German, Tamil, Thai, Turkish German, Wolof, Yoruba
+* [compound:prt](): Afrikaans, Arabic, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, Frisian Dutch, German, Icelandic, Irish, Karelian, Komi Permyak, Low Saxon, Naija, Norwegian, Persian, Spanish, Swedish, Swedish Sign Language, Swiss German, Tamil, Thai, Turkish German, Wolof, Yoruba
 * [compound:quant](): Cantonese
 * [compound:redup](): Armenian, Bambara, Classical Chinese, Erzya, Hindi, Kurmanji, Marathi, Naija, Tagalog, Tamil, Telugu, Turkish, Turkish German, Uyghur, Welsh, Western Armenian
 * [compound:smixut](): Hebrew
-* [compound:svc](): Amharic, Armenian, Marathi, Mbya Guarani, Naija, Swedish Sign Language, Telugu, Ukrainian, Western Armenian, Wolof, Yoruba
+* [compound:svc](): Amharic, Armenian, Beja, Marathi, Mbya Guarani, Naija, Swedish Sign Language, Telugu, Ukrainian, Western Armenian, Wolof, Yoruba
 * [compound:vo](): Cantonese, Chinese
 * [compound:vv](): Cantonese, Chinese
 
@@ -195,9 +194,9 @@ This is an automatically generated list of relation subtypes that occur in the U
 ## det
 * [det:adj](): Albanian
 * [det:noun](): Albanian
-* [det:numgov](): Czech, Polish, Serbian, Slovak, Ukrainian, Upper Sorbian
+* [det:numgov](): Croatian, Czech, Polish, Serbian, Slovak, Ukrainian, Upper Sorbian
 * [det:nummod](): Czech, Polish, Ukrainian
-* [det:poss](): Akkadian, Armenian, German, Italian, Korean, Polish, Portuguese, Western Armenian
+* [det:poss](): Akkadian, Armenian, German, Italian, Korean, Low Saxon, Polish, Portuguese, Western Armenian
 * [det:predet](): English, Italian, Persian
 * [det:pron](): Albanian
 * [det:rel](): Bambara
@@ -223,10 +222,10 @@ This is an automatically generated list of relation subtypes that occur in the U
 
 ## expl
 * [expl:comp](): French
-* [expl:impers](): Italian, Polish, Romanian, Spanish
+* [expl:impers](): Italian, Ligurian, Polish, Romanian, Spanish
 * [expl:pass](): Catalan, Czech, French, Italian, Latin, Portuguese, Romanian, Slovak, Spanish, Upper Sorbian
 * [expl:poss](): Romanian
-* [expl:pv](): Czech, Dutch, German, Old East Slavic, Polish, Portuguese, Romanian, Slovak, Spanish, Turkish German, Upper Sorbian
+* [expl:pv](): Czech, Dutch, French, German, Ligurian, Low Saxon, Old East Slavic, Polish, Portuguese, Romanian, Slovak, Spanish, Turkish German, Upper Sorbian
 * [expl:subj](): French, Naija
 
 
@@ -234,10 +233,12 @@ This is an automatically generated list of relation subtypes that occur in the U
 ## flat
 * [flat:abs](): Ukrainian
 * [flat:dist](): Western Armenian
-* [flat:foreign](): Arabic, Belarusian, Buryat, Chinese, Chukchi, Croatian, Czech, English, Estonian, Faroese, Finnish, French, Galician, Icelandic, Indonesian, Irish, Italian, Komi Zyrian, Latin, Latvian, Lithuanian, Manx, Naija, Norwegian, Persian, Polish, Portuguese, Russian, Scottish Gaelic, Slovak, Slovenian, South Levantine Arabic, Ukrainian, Upper Sorbian
-* [flat:name](): Ancient Greek, Belarusian, Breton, Chinese, Chukchi, Erzya, Faroese, Finnish, French, Frisian Dutch, Galician, German, Gothic, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Latvian, Livvi, Maltese, Moksha, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Portuguese, Russian, Scottish Gaelic, Skolt Sami, Slovenian, Spanish, Swedish, Thai, Ukrainian, Welsh, Western Armenian
+* [flat:foreign](): Arabic, Belarusian, Buryat, Chinese, Chukchi, Croatian, Czech, English, Estonian, Faroese, Finnish, French, Galician, Icelandic, Indonesian, Irish, Italian, Javanese, Komi Zyrian, Latin, Latvian, Lithuanian, Manx, Naija, Norwegian, Persian, Polish, Portuguese, Russian, Scottish Gaelic, Slovak, Slovenian, South Levantine Arabic, Ukrainian, Upper Sorbian
+* [flat:frac](): Western Armenian
+* [flat:gov](): Latin
+* [flat:name](): Ancient Greek, Armenian, Belarusian, Breton, Chinese, Chukchi, Erzya, Faroese, Finnish, French, Frisian Dutch, Galician, German, Gothic, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Latvian, Livvi, Maltese, Moksha, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Portuguese, Russian, Scottish Gaelic, Skolt Sami, Slovenian, Spanish, Swedish, Thai, Ukrainian, Welsh, Western Armenian, Xibe
 * [flat:num](): Komi Zyrian, Persian
-* [flat:range](): Ukrainian, Western Armenian
+* [flat:range](): Armenian, Ukrainian, Western Armenian
 * [flat:repeat](): Ukrainian
 * [flat:sibl](): Ukrainian
 * [flat:title](): Ukrainian
@@ -246,19 +247,20 @@ This is an automatically generated list of relation subtypes that occur in the U
 
 
 ## iobj
-* [iobj:agent](): Armenian, French, Western Armenian
+* [iobj:agent](): Armenian, French, Naija, Western Armenian
 * [iobj:appl](): Wolof
 * [iobj:patient](): Tagalog
 
 
 
 ## mark
-* [mark:adv](): Cantonese, Chinese
+* [mark:adv](): Cantonese, Chinese, Xibe
 * [mark:advmod](): Old French
 * [mark:aff](): Beja
+* [mark:plur](): Xibe
 * [mark:prt](): Chinese, Irish, Scottish Gaelic
 * [mark:q](): Hebrew
-* [mark:rel](): Cantonese, Chinese
+* [mark:rel](): Cantonese, Chinese, Xibe
 
 
 
@@ -277,18 +279,18 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [nmod:gobj](): Erzya, Finnish
 * [nmod:gsubj](): Erzya, Finnish, Karelian
 * [nmod:lfrom](): Komi Zyrian
-* [nmod:lmod](): Erzya, Indonesian, Komi Permyak, Komi Zyrian, Moksha
+* [nmod:lmod](): Erzya, Indonesian, Javanese, Komi Permyak, Komi Zyrian, Moksha
 * [nmod:npmod](): Armenian, English, Western Armenian
 * [nmod:obj](): Komi Zyrian
 * [nmod:obl](): Hungarian
 * [nmod:part](): Turkish, Uyghur
-* [nmod:poss](): Akkadian, Albanian, Apurina, Arabic, Armenian, Assyrian, Bambara, Beja, Breton, Chukchi, Danish, Dutch, English, Erzya, Faroese, Finnish, Frisian Dutch, German, Hebrew, Hindi, Icelandic, Indonesian, Irish, Karelian, Kazakh, Khunsari, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Livvi, Maltese, Manx, Marathi, Moksha, Naija, Nayini, North Sami, Persian, Polish, Sanskrit, Scottish Gaelic, Skolt Sami, Soi, South Levantine Arabic, Swedish, Swedish Sign Language, Swiss German, Tagalog, Tamil, Telugu, Thai, Turkish, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof
+* [nmod:poss](): Akkadian, Albanian, Apurina, Arabic, Armenian, Assyrian, Bambara, Beja, Bengali, Breton, Chukchi, Danish, Dutch, English, Erzya, Faroese, Finnish, Frisian Dutch, German, Hebrew, Hindi, Icelandic, Indonesian, Irish, Javanese, Karelian, Kazakh, Khunsari, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Livvi, Low Saxon, Maltese, Manx, Marathi, Moksha, Naija, Nayini, North Sami, Persian, Polish, Sanskrit, Scottish Gaelic, Skolt Sami, Soi, South Levantine Arabic, Swedish, Swedish Sign Language, Swiss German, Tagalog, Tamil, Telugu, Thai, Turkish, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe
 * [nmod:pred](): Polish
 * [nmod:prp](): Komi Zyrian
 * [nmod:redup](): Welsh
 * [nmod:relat](): Chukchi
 * [nmod:subj](): Komi Zyrian
-* [nmod:tmod](): Chinese, English, Indonesian, Moksha, Romanian, Telugu, Uyghur
+* [nmod:tmod](): Chinese, English, Indonesian, Javanese, Moksha, Romanian, Telugu, Uyghur
 
 
 
@@ -304,7 +306,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [nsubj:lvc](): Hungarian
 * [nsubj:nc](): Persian, Tamil, Telugu
 * [nsubj:obj](): Old French
-* [nsubj:pass](): Afrikaans, Amharic, Ancient Greek, Arabic, Armenian, Assyrian, Belarusian, Bulgarian, Buryat, Cantonese, Catalan, Chinese, Classical Chinese, Czech, Dutch, English, Faroese, French, Frisian Dutch, Galician, German, Gothic, Greek, Hindi, Indonesian, Italian, Korean, Latin, Latvian, Lithuanian, Maltese, Marathi, Moksha, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Skolt Sami, Slovak, Spanish, Swedish, Swiss German, Tagalog, Tamil, Thai, Turkish German, Upper Sorbian, Western Armenian
+* [nsubj:pass](): Afrikaans, Amharic, Ancient Greek, Arabic, Armenian, Assyrian, Belarusian, Bengali, Bulgarian, Buryat, Cantonese, Catalan, Chinese, Classical Chinese, Czech, Dutch, English, Faroese, French, Frisian Dutch, Galician, German, Gothic, Greek, Hindi, Indonesian, Italian, Javanese, Korean, Latin, Latvian, Lithuanian, Low Saxon, Maltese, Marathi, Moksha, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Skolt Sami, Slovak, Spanish, Swedish, Swiss German, Tagalog, Tamil, Thai, Turkish German, Upper Sorbian, Western Armenian, Xibe
 * [nsubj:periph](): Cantonese
 
 
@@ -331,7 +333,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 
 ## obl
 * [obl:advmod](): Old French
-* [obl:agent](): Ancient Greek, Armenian, Belarusian, Breton, Cantonese, Chinese, Czech, Dutch, Erzya, French, German, Gothic, Greek, Hindi, Indonesian, Italian, Komi Zyrian, Latin, Lithuanian, Maltese, Moksha, Naija, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Skolt Sami, Swedish, Tamil, Turkish, Welsh, Western Armenian
+* [obl:agent](): Ancient Greek, Armenian, Belarusian, Breton, Cantonese, Chinese, Czech, Dutch, Erzya, French, German, Gothic, Greek, Hindi, Indonesian, Italian, Javanese, Komi Zyrian, Latin, Lithuanian, Low Saxon, Maltese, Moksha, Naija, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Skolt Sami, Swedish, Tamil, Turkish, Welsh, Western Armenian
 * [obl:appl](): Wolof
 * [obl:arg](): Arabic, Beja, Czech, French, German, Greek, Icelandic, Latin, Lithuanian, Maltese, Naija, Persian, Polish, Sanskrit, Slovak, South Levantine Arabic, Tamil
 * [obl:cau](): Erzya, Komi Zyrian, Moksha, Telugu
@@ -342,7 +344,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [obl:freq](): Moksha
 * [obl:inst](): Erzya, Moksha, Tamil
 * [obl:lfrom](): Erzya, Komi Zyrian, Moksha
-* [obl:lmod](): Apurina, Classical Chinese, Danish, Erzya, Komi Permyak, Komi Zyrian, Moksha, Skolt Sami, Tamil
+* [obl:lmod](): Apurina, Classical Chinese, Danish, Erzya, Komi Permyak, Komi Zyrian, Moksha, Skolt Sami, Tamil, Xibe
 * [obl:lmp](): Erzya, Komi Zyrian, Moksha
 * [obl:lto](): Erzya, Komi Zyrian, Moksha
 * [obl:lvc](): Hungarian
@@ -357,7 +359,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [obl:prep](): Irish
 * [obl:sentcon](): Mbya Guarani
 * [obl:smod](): Scottish Gaelic
-* [obl:tmod](): Apurina, Arabic, Cantonese, Chinese, Classical Chinese, Danish, English, Erzya, Frisian Dutch, German, Hindi, Indonesian, Irish, Italian, Komi Permyak, Komi Zyrian, Korean, Manx, Moksha, Portuguese, Scottish Gaelic, Skolt Sami, Spanish, Tamil, Telugu, Thai, Turkish, Uyghur, Warlpiri
+* [obl:tmod](): Apurina, Arabic, Cantonese, Chinese, Classical Chinese, Danish, English, Erzya, Frisian Dutch, German, Hindi, Indonesian, Irish, Italian, Javanese, Komi Permyak, Komi Zyrian, Korean, Manx, Moksha, Portuguese, Romanian, Russian, Scottish Gaelic, Skolt Sami, Spanish, Tamil, Telugu, Thai, Turkish, Uyghur, Warlpiri, Xibe
 
 
 
@@ -375,7 +377,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [parataxis:dislocated](): Naija
 * [parataxis:hashtag](): Irish, Italian
 * [parataxis:insert](): French, Italian, Polish
-* [parataxis:mod](): Beja
+* [parataxis:mod](): Beja, Naija
 * [parataxis:newsent](): Ukrainian
 * [parataxis:nsubj](): Italian
 * [parataxis:obj](): Bambara, Italian, Polish

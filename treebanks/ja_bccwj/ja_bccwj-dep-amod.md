@@ -71,7 +71,7 @@ The following 11 pairs of parts of speech are connected with `amod`: <tt><a href
 15	_	_	PART	_	_	14	mark	_	BBIL=I|BPT=3|LBIL=B|LPOS=44|SpaceAfter=No
 16	_	_	ADP	_	_	15	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=44|SpaceAfter=No
 17	_	_	VERB	_	_	15	fixed	_	BBIL=I|BPT=0|LBIL=I|LPOS=44|SpaceAfter=No
-18	_	_	AUX	_	Polarity=Neg	15	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=44|SpaceAfter=No
+18	_	_	SCONJ	_	Polarity=Neg	15	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=44|SpaceAfter=No
 19	_	_	SCONJ	_	_	14	mark	_	BBIL=I|BPT=3|LBIL=B|LPOS=9|SpaceAfter=No
 20	_	_	PART	_	_	14	mark	_	BBIL=I|BPT=2|LBIL=B|LPOS=29|SpaceAfter=No
 21	_	_	PUNCT	_	_	14	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No

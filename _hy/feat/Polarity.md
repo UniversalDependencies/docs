@@ -46,4 +46,4 @@ Negating nouns are usually limited to those derived from verbs (_չունեցո�
 * _<b>չեկավ</b>&nbsp;_ “he did not come”
 * _<b>չեն</b>&nbsp;_ “they are not”
 * _<b>չպիտի (չպետք է)</b> գրեն&nbsp;_ “they mustn't write”
-<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:27 CET 2021 -->

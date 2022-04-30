@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	медучреждений	медучреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nsubj:pass	_	_
 3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
 4	реорганизованы	реорганизовать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_~
 
 ~~~
 
@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 4	открыт	открытый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
 5	ко	ко	ADP	_	_	6	case	_	_
 6	всем	все	PRON	_	Animacy=Anim|Case=Dat|Number=Plur|PronType=Tot	4	obl	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	4	punct	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_~
 
 ~~~
 

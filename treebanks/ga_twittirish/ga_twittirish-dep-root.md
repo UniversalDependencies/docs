@@ -13,7 +13,7 @@ This relation is universal.
 866 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.16859122401848.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (323; 37% instances), -<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (320; 37% instances), -<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (84; 10% instances), -<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (83; 10% instances), -<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (26; 3% instances), -<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (8; 1% instances), -<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (5; 1% instances), -<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (5; 1% instances), -<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (5; 1% instances), -<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (323; 37% instances), -<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (321; 37% instances), -<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (83; 10% instances), -<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (83; 10% instances), -<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (26; 3% instances), -<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (8; 1% instances), -<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (5; 1% instances), -<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (5; 1% instances), -<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (5; 1% instances), -<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,21 +55,17 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 1 root	color:blue
-1	La	lá	PROPN	_	_	0	root	_	CorrectForm=Lá|Lang=ga
-2	fheile	féile	PROPN	_	_	1	nmod	_	CorrectForm=Fhéile|Lang=ga
-3	#Padraig	#Padraig	X	_	_	1	nmod	_	Lang=ga
-4	dhaoibh	do	ADP	_	_	1	obl:prep	_	Lang=ga|SpaceAfter=No
-5	!	!	PUNCT	_	_	1	punct	_	SpaceAfter=No
-6	Bain	bain	VERB	_	_	1	parataxis:sentence	_	Lang=ga
-7	sibh	sibh	PRON	_	_	6	nsubj	_	Lang=ga
-8	sult	sult	NOUN	_	_	6	obj	_	Lang=ga
-9	as	as	ADP	_	_	6	obl:prep	_	Lang=ga|SpaceAfter=No
-10	!	!	PUNCT	_	_	6	punct	_	_
+# visual-style 0 3 root	color:blue
+1	@Johnny_Caldwell	@Johnny_Caldwell	PROPN	_	_	3	vocative:mention	_	_
+2	Go	go	PART	_	_	3	mark:prt	_	Lang=ga
+3	hálainn	álainn	ADJ	_	_	0	root	_	Lang=ga
+4	😍	😍	SYM	_	_	3	discourse:emo	_	SpaceAfter=No
+5	😍	😍	SYM	_	_	3	discourse:emo	_	SpaceAfter=No
+6	😍	😍	SYM	_	_	3	discourse:emo	_	_
 
 ~~~
 

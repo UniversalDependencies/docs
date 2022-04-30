@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pcm_nsc-pos-VERB.ht
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (8; 100% of non-empty `Voice`): <em>called, exposed, frustrated, inbuilt, pounded, rescued, scattered, tempted</em>
-* `EMPTY` (17757): <em>go, dey, do, get, say, come, know, see, tell, wan</em>
+* `EMPTY` (17750): <em>go, dey, do, get, say, come, know, see, tell, wan</em>
 

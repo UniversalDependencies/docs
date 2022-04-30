@@ -33,7 +33,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 9	_	_	NOUN	_	_	11	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No
 10	_	_	ADP	_	_	9	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
 11	_	_	VERB	_	_	26	advcl	_	BBIL=B|BPT=1|LBIL=B|LPOS=23|SpaceAfter=No
-12	_	_	AUX	_	Polarity=Neg	11	aux	_	BBIL=I|BPT=2|LBIL=B|LPOS=31|SpaceAfter=No
+12	_	_	SCONJ	_	Polarity=Neg	11	mark	_	BBIL=I|BPT=2|LBIL=B|LPOS=31|SpaceAfter=No
 13	_	_	AUX	_	_	11	aux	_	BBIL=I|BPT=0|LBIL=B|LPOS=41|SpaceAfter=No
 14	_	_	PUNCT	_	_	11	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=2|SpaceAfter=No
 15	_	_	VERB	_	_	18	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=3|SpaceAfter=No

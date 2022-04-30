@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="sr_set-dep-det-numgov.html">det:numgov</a></tt>.
 
-1749 nodes (2%) are attached to their parents as `det`.
+1730 nodes (2%) are attached to their parents as `det`.
 
-1744 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3093196112064.
+1726 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30693641618497.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1702; 97% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1691; 98% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
 1	Ali	ali	CCONJ	Cc	_	7	discourse	_	_
-2	sve	sav	DET	Agpnsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	3	det	_	_
+2	sve	sav	DET	Pi-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	det	_	_
 3	ostalo	ostali	ADJ	Agpnsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	7	nsubj	_	_
 4	u	u	ADP	Sl	Case=Loc	5	case	_	_
 5	romanima	roman	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	7	obl	_	_
@@ -72,19 +72,23 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	U	u	ADP	Sl	Case=Loc	2	case	_	_
-2	Bulgartabaku	Bulgartabaka	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
-3	su	biti	AUX	Var3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	odbili	odbiti	VERB	Vmp-pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-5	bilo	bilo	DET	Qo	_	6	det	_	_
-6	kakav	kakav	DET	Pi-msan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel	7	det	_	_
-7	komentar	komentar	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
-8	.	.	PUNCT	Z	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	Osam	osam	NUM	Mlc	NumType=Card	8	nsubj	_	_
+2	od	od	ADP	Sg	Case=Gen	4	case	_	_
+3	ovih	ovaj	DET	Pd-fpg	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	4	det	_	_
+4	četrdeset	četrdeset	NUM	Mlc	NumType=Card	1	nmod	_	_
+5	bilo	biti	AUX	Vap-sn	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	cop	_	_
+6	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	na	na	ADP	Sl	Case=Loc	8	case	_	_
+8	univerzitetima	univerzitet	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	0	root	_	_
+9	Evrope	Evropa	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	i	i	CCONJ	Cc	_	11	cc	_	_
+11	Amerike	Amerika	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	9	conj	_	SpaceAfter=No
+12	.	.	PUNCT	Z	_	8	punct	_	_
 
 ~~~
 

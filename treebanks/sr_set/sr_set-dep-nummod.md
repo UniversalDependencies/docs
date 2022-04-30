@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="sr_set-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-1250 nodes (1%) are attached to their parents as `nummod`.
+443 nodes (0%) are attached to their parents as `nummod`.
 
-1192 instances of `nummod` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3144.
+408 instances of `nummod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50112866817156.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1177; 94% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (42; 3% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-X.html">X</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (400; 90% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (27; 6% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,21 +53,19 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 nummod	color:blue
-1	"	"	PUNCT	Z	_	2	punct	_	SpaceAfter=No
-2	Izvršenje	izvršenje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-3	smrtne	smrtan	ADJ	Agpfsgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
-4	kazne	kazna	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
-5	"	"	PUNCT	Z	_	2	punct	_	_
-6	izbačeno	izbaciti	ADJ	Appnsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
-7	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
-8	iz	iz	ADP	Sg	Case=Gen	9	case	_	_
-9	Člana	Član	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
-10	15.	15.	NUM	Mdo	NumType=Ord	9	nummod	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 nummod	color:blue
+1	Crnogorska	crnogorski	ADJ	Agpfsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+2	vaterpolo	vaterpolo	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+3	reprezentacija	reprezentacija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	pobedila	pobediti	VERB	Vmp-sf	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+6	Grčku	Grčka	PROPN	Npfsa	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+7	10-6	10-6	NUM	Mdm	NumType=Mult	4	nummod	_	SpaceAfter=No
+8	.	.	PUNCT	Z	_	4	punct	_	_
 
 ~~~
 

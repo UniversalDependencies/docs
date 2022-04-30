@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-PRON.htm
 
 ### `PRON`
 
-7 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Reflex`.
+7 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
 The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7; 100%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 86%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 86%), <tt><a href="mdf_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="mdf_jr-feat-Person.html">Person</a></tt><tt>=3</tt> (4; 57%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (7; 100% of non-empty `Reflex`): <em>монць, сонць, сонцьке, тонцьке, эсезост</em>
-* `EMPTY` (133): <em>сон, сонь, мон, тя, синь, сембонь, тейнза, минь, кие, кона</em>
+* `EMPTY` (154): <em>сон, сонь, мон, тя, синь, минь, сембонь, тейнза, монь, тон</em>
 
 ### `DET`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): <em>эсь</em>
-* `EMPTY` (22): <em>лама, эрь, Тя, ся, Мъзяра, Сяка, иля, кодама-бъди, кой-кона, ламос</em>
+* `EMPTY` (24): <em>лама, эрь, Тя, сембе, ся, Мъзяра, Сяка, иля, кодама-бъди, кой-кона</em>
 

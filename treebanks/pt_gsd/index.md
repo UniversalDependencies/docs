@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Ryan McDonald, Joakim Nivre, Daniel Zeman, Fabricio Chalub, Carlos Ramisch.
 
 Repository: [UD_Portuguese-GSD](https://github.com/UniversalDependencies/UD_Portuguese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -56,7 +56,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 
 ## Features
 
-[Definite](pt_gsd-feat-Definite.html) – [Gender](pt_gsd-feat-Gender.html) – [Mood](pt_gsd-feat-Mood.html) – [Number](pt_gsd-feat-Number.html) – [NumType](pt_gsd-feat-NumType.html) – [Person](pt_gsd-feat-Person.html) – [Polarity](pt_gsd-feat-Polarity.html) – [Poss](pt_gsd-feat-Poss.html) – [PronType](pt_gsd-feat-PronType.html) – [Tense](pt_gsd-feat-Tense.html) – [VerbForm](pt_gsd-feat-VerbForm.html) – [Voice](pt_gsd-feat-Voice.html)
+[Abbr](pt_gsd-feat-Abbr.html) – [Definite](pt_gsd-feat-Definite.html) – [Foreign](pt_gsd-feat-Foreign.html) – [Gender](pt_gsd-feat-Gender.html) – [Mood](pt_gsd-feat-Mood.html) – [Number](pt_gsd-feat-Number.html) – [NumType](pt_gsd-feat-NumType.html) – [Person](pt_gsd-feat-Person.html) – [Polarity](pt_gsd-feat-Polarity.html) – [Poss](pt_gsd-feat-Poss.html) – [PronType](pt_gsd-feat-PronType.html) – [Tense](pt_gsd-feat-Tense.html) – [VerbForm](pt_gsd-feat-VerbForm.html) – [Voice](pt_gsd-feat-Voice.html)
 
 ## Relations
 
@@ -66,11 +66,11 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 
 
 <ul>
-<li>This corpus contains 12078 sentences, 297938 tokens and 319852 syntactic words.</li>
+<li>This corpus contains 12019 sentences, 297057 tokens and 318922 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 38166 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 38080 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -78,12 +78,12 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>This corpus contains 182 types of words that contain both letters and punctuation. Examples: &amp;, 's, D., d', c., S., B., a.C., Yahoo!, J., r., Sr., A., Sul., W., Amazon.com, Av., Don't, Dr., E., S.Paulo, art., Bahá'í, F., I., Min., a_0, a_n, d.C., dez/12, didn't, http://m.goal.com, i.e., 11/jul, 1940.http, 19h.A, 2/jan, 2003.Com, 32/2012/CM, A.D., Amém., Anéis., Atenas/2004, B06/42-Acura, Bay., Belém., Brasília.Nos, Bucci-11.fev.2012/AP, C'rculo, Cerro-Corá/RN</li>
+<li>This corpus contains 182 types of words that contain both letters and punctuation. Examples: &amp;, 's, D., d', c., B., S., a.C., J., r., Sr., A., Sul., W., Amazon.com, Av., Don't, Dr., E., Yahoo!, art., Bahá'í, F., I., Min., S.Paulo, a_0, a_n, d.C., dez/12, didn't, i.e., 11/jul, 1940.http, 19h.A, 2/jan, 2003.Com, 32/2012/CM, A.D., Amém., Anéis., Atenas/2004, B06/42-Acura, Bay., Belém., Brasília.Nos, Bucci-11.fev.2012/AP, C'rculo, Cerro-Corá/RN, Co.Ltd</li>
 </ul>
 
 <ul>
-<li>This corpus contains 21914 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 46 types of multi-word tokens. Examples: do, da, no, na, dos, ao, das, à, pelo, pela, nos, aos, nas, às, dum, duma, pelos, num, numa, pelas, doutros, nalguns, dalguns, noutras, dalgumas, doutra, noutros, nalgumas, doutras, noutro, donde, doutro, noutra, dalguma, comigo, dalgum, deste, Concentre-se, Estende-se, Registre-se, Tornando-se, dalguém, dali, dele, demonstrou-se, tornar-se.</li>
+<li>This corpus contains 21865 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 45 types of multi-word tokens. Examples: do, da, no, na, dos, ao, das, à, pelo, pela, nos, aos, nas, às, dum, duma, pelos, num, numa, pelas, doutros, nalguns, dalguns, noutras, dalgumas, doutra, noutros, nalgumas, doutras, noutro, donde, doutro, noutra, dalguma, comigo, dalgum, deste, Concentre-se, Estende-se, Tornando-se, dalguém, dali, dele, demonstrou-se, tornar-se.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -104,7 +104,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as determiners (DET): _, este, o, seu, um</li>
+<li>This corpus contains 6 lemmas tagged as determiners (DET): _, a, este, o, seu, um</li>
 </ul>
 
 <ul>
@@ -112,11 +112,11 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>This corpus contains 59 lemmas tagged as auxiliaries (AUX): _, acabar, andar, apelidar, arar, botar, cansar, chamar, chegar, começar, configurar, conseguir, considerar, continuar, costumar, deixar, denominar, designar, dever, dizer, eleger, encontrar, entrar, estar, fazer, ficar, haver, iniciar, instituir, intitular, ir, mostrar, nascer, nomear, ordenar, parar, parecer, passar, permanecer, persistir, poder, precisar, pretender, proclamar, representar, sagrar, seguir, sentir, ser, significar, tentar, ter, terminar, tocar, tornar, vencer, vir, virar, voltar</li>
+<li>This corpus contains 58 lemmas tagged as auxiliaries (AUX): _, acabar, andar, apelidar, arar, botar, cansar, chamar, chegar, começar, configurar, conseguir, considerar, continuar, costumar, deixar, denominar, designar, dever, dizer, eleger, encontrar, entrar, estar, fazer, ficar, haver, iniciar, instituir, intitular, ir, mostrar, nascer, nomear, ordenar, parar, parecer, passar, permanecer, persistir, poder, precisar, proclamar, representar, sagrar, seguir, sentir, ser, significar, tentar, ter, terminar, tocar, tornar, vencer, vir, virar, voltar</li>
 </ul>
 
 <ul>
-<li>Out of the above, 55 lemmas occurred sometimes as AUX and sometimes as VERB: _, acabar, andar, apelidar, botar, chamar, chegar, começar, configurar, conseguir, considerar, continuar, costumar, deixar, denominar, designar, dever, dizer, eleger, encontrar, entrar, estar, fazer, ficar, haver, iniciar, instituir, ir, mostrar, nascer, nomear, ordenar, parar, parecer, passar, permanecer, persistir, poder, precisar, pretender, proclamar, representar, seguir, sentir, ser, significar, tentar, ter, terminar, tocar, tornar, vencer, vir, virar, voltar</li>
+<li>Out of the above, 54 lemmas occurred sometimes as AUX and sometimes as VERB: _, acabar, andar, apelidar, botar, chamar, chegar, começar, configurar, conseguir, considerar, continuar, costumar, deixar, denominar, designar, dever, dizer, eleger, encontrar, entrar, estar, fazer, ficar, haver, iniciar, instituir, ir, mostrar, nascer, nomear, ordenar, parar, parecer, passar, permanecer, persistir, poder, precisar, proclamar, representar, seguir, sentir, ser, significar, tentar, ter, terminar, tocar, tornar, vencer, vir, virar, voltar</li>
 </ul>
 
 <ul>
@@ -352,16 +352,42 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>PROPN: S.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>DET: A, the</li>
+          <li>NUM: 1940s</li>
+          <li>PROPN: 's, Crowd, Evening, Gay, Kirmser, Life, The, at, in</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 33 lemmas as copulas (<a>cop</a>). Examples: ser, _, tornar, considerar, chamar, virar, denominar, estar, eleger, intitular, nomear, sagrar, designar, dizer, fazer, parecer, representar, significar, apelidar, configurar, encontrar, entrar, ferido, instituir, menino, mostrar, motivo, nascer, ordenar, permanecer, proclamar, sentir, vencer.</li>
+<li>This corpus uses 33 lemmas as copulas (<a>cop</a>). Examples: ser, _, tornar, considerar, chamar, virar, denominar, estar, intitular, eleger, nomear, sagrar, designar, dizer, fazer, parecer, representar, significar, apelidar, configurar, encontrar, entrar, ferido, instituir, menino, mostrar, motivo, nascer, ordenar, permanecer, proclamar, sentir, vencer.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 33 lemmas as auxiliaries (<a>aux</a>). Examples: _, ter, ir, estar, dever, poder, haver, vir, acabar, passar, começar, continuar, voltar, chegar, deixar, costumar, ficar, ser, seguir, parar, precisar, cansar, conseguir, tentar, terminar, andar, botar, encontrar, iniciar, parecer, persistir, tocar, tornar.</li>
+<li>This corpus uses 32 lemmas as auxiliaries (<a>aux</a>). Examples: _, ter, ir, estar, dever, poder, haver, vir, acabar, passar, começar, continuar, voltar, chegar, deixar, costumar, ficar, ser, seguir, parar, precisar, cansar, conseguir, tentar, terminar, andar, botar, iniciar, parecer, persistir, tocar, tornar.</li>
 <li>This corpus uses 7 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, _, ficar, arar, estar, poder, ter.</li>
 </ul>
 
@@ -371,10 +397,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (6585)</li>
+      <li>VERB--NOUN (6560)</li>
       <li>VERB--NOUN-ADP(_) (1)</li>
       <li>VERB--NOUN-ADP(de) (22)</li>
-      <li>VERB--PRON (3594)</li>
+      <li>VERB--PRON (3585)</li>
     </ul>
   </li>
 </ul>
@@ -382,7 +408,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (8849)</li>
+      <li>VERB--NOUN (8821)</li>
       <li>VERB--NOUN-ADP(_) (2)</li>
       <li>VERB--NOUN-ADP(a) (2)</li>
       <li>VERB--NOUN-ADP(de) (43)</li>
@@ -390,7 +416,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(em) (1)</li>
       <li>VERB--NOUN-ADP(por) (1)</li>
       <li>VERB--NOUN-ADP(rede) (1)</li>
-      <li>VERB--PRON (1307)</li>
+      <li>VERB--PRON (1301)</li>
       <li>VERB--PRON-ADP(_) (3)</li>
       <li>VERB-Ger--NOUN (1)</li>
     </ul>
@@ -413,7 +439,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 301 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ se, tornar se, encontrar se, estender se, referir se, tratar se, destacar se, localizar se, manter se, fazer se, dizer se, passar se, recusar se, ver se, dar se, comunicar se, dever se, realizar se, situar se, ter se, aplicar se, dedicar se, desenvolver se, espalhar se, esperar se, mudar se, saber se, transformar se, aproveitar se, arrepender se, classificar se, formar se, lembrar se, manifestar se, mostrar se, recuperar se, repetir se, sentir se, apropriar se, assemelhar se, campeão se, comportar se, concentrar se, conhecer se, converter se, deparar se, distinguir se, instalar se, limitar se, negar se</li>
+  <li>This corpus contains 300 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ se, tornar se, encontrar se, estender se, referir se, tratar se, destacar se, localizar se, manter se, fazer se, dizer se, passar se, recusar se, ver se, dar se, comunicar se, dever se, realizar se, situar se, ter se, aplicar se, dedicar se, desenvolver se, espalhar se, esperar se, mudar se, saber se, transformar se, aproveitar se, arrepender se, classificar se, formar se, lembrar se, mostrar se, recuperar se, repetir se, sentir se, apropriar se, assemelhar se, campeão se, comportar se, concentrar se, conhecer se, converter se, deparar se, distinguir se, instalar se, limitar se, manifestar se, negar se</li>
 </ul>
 
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-816 nodes (1%) are attached to their parents as `advcl`.
+946 nodes (1%) are attached to their parents as `advcl`.
 
-584 instances of `advcl` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.23039215686275.
+692 instances of `advcl` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.34249471458774.
 
-The following 29 pairs of parts of speech are connected with `advcl`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (406; 50% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (172; 21% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (48; 6% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (43; 5% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (23; 3% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (22; 3% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (16; 2% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (14; 2% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `advcl`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (483; 51% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (192; 20% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (52; 5% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (51; 5% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (28; 3% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (26; 3% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (18; 2% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (14; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,9 +29,9 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 5	thàna	tàna	VERB	V-s	Tense=Past	1	advcl	_	_
 6	tu	thu	PRON	Pp2s	Number=Sing|Person=2	5	nsubj	_	_
 7	do	do	ADP	Sp	_	9	case	_	_
-8	an	an	DET	Tds	Number=Sing	9	det	_	_
-9	taigh-sa	taigh-sa	NOUN	Ncsmde	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-10	,	,	PUNCT	Fi	_	5	punct	_	_
+8	an	an	DET	Tds	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	taigh-sa	taigh-sa	NOUN	Ncsmde	Case=Dat|Form=Emp|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Fi	_	5	punct	_	SpaceAfter=No
 11	"	"	PUNCT	Fz	_	1	punct	_	_
 12	ars’	arsa	VERB	V-s	Tense=Past	1	parataxis	_	_
 13	esan	e	PRON	Pp3sm-e	Form=Emp|Gender=Masc|Number=Sing|Person=3	12	nsubj	_	SpaceAfter=No
@@ -60,22 +60,31 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 8 advcl	color:blue
-1	Bha	bi	VERB	V-s	Tense=Past	0	root	_	_
-2	Ludovic	Ludovic	PROPN	Nn-mn	Case=Nom|Gender=Masc	1	nsubj	_	_
-3	an	an	ADP	Sp	_	5	case	_	_
-4	a	a	PRON	Dp3sm	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
-5	chabhaig	cabhaig	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	1	xcomp:pred	_	SpaceAfter=No
-6	,	,	PUNCT	Fi	_	8	punct	_	_
-7	agus	agus	SCONJ	Cc	_	8	mark	_	_
-8	aithreachas	aithreachas	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	1	advcl	_	_
-9	air	air	ADP	Sp	_	10	case	_	_
-10	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	8	xcomp:pred	_	_
-11	.	.	PUNCT	Fe	_	1	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 advcl	color:blue
+1	Có	có	PRON	Uq	PronType=Int	0	root	_	_
+2	chanadh	can	VERB	V-h	Mood=Cnd	1	acl:relcl	_	_
+3	nach	nach	PART	Qn	PartType=Cmpl|Polarity=Neg	4	mark:prt	_	_
+4	eil	bi	VERB	V-p--d	Tense=Pres	2	ccomp	_	_
+5	’s	's	SCONJ	Cc	_	6	mark	_	_
+6	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	4	advcl	_	_
+7	coltach	coltach	ADJ	Ap	_	6	xcomp:pred	_	_
+8	nach	nach	PART	Qn	PartType=Cmpl|Polarity=Neg	9	mark:prt	_	_
+9	eil	bi	VERB	V-p--d	Tense=Pres	7	ccomp	_	_
+10	beatha	beatha	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+11	a’	an	DET	Tdsfg	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	mhórchuid	mórchuid	NOUN	Ncsfg	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+13	ach	ach	ADP	Sp	_	15	case	_	_
+14	cho	cho	ADV	Rg	_	15	advmod	_	_
+15	falamh	falamh	ADJ	Ap	_	9	xcomp:pred	_	_
+16	’s	's	CCONJ	Cc	_	18	cc	_	_
+17	cho	cho	ADV	Rg	_	18	advmod	_	_
+18	suarach	suarach	ADJ	Ap	_	15	conj	_	_
+19	co-dhiù	co-dhiù	ADV	Rg	_	2	advmod	_	SpaceAfter=No
+20	?	?	PUNCT	Fg	_	1	punct	_	_
 
 ~~~
 

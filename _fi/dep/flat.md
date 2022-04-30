@@ -25,4 +25,4 @@ flat(Donna-5, Tarttin-6)
 nmod:poss(esikoisteos-7, Donna-5)
 ~~~
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:05 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:54 CET 2021 -->

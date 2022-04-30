@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (2%) are attached to their parents as `mark`.
+14 nodes (2%) are attached to their parents as `mark`.
 
-12 instances of `mark` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+13 instances of `mark` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.92857142857143.
 
-The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (6; 46% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (4; 31% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances).
+The following 6 pairs of parts of speech are connected with `mark`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (6; 43% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (4; 29% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (1; 7% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (1; 7% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 7% instances).
 
 
 ~~~ conllu

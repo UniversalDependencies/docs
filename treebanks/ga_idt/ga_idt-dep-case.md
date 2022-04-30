@@ -23,14 +23,14 @@ The following 21 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 case	color:blue
-1	Leaba	leaba	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
-2	mhór	mór	ADJ	Adj	Case=NomAcc|Form=Len|Gender=Fem|Number=Sing	1	amod	_	_
+1	Leaba	leaba	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	mhór	mór	ADJ	Adj	Case=Nom|Form=Len|Gender=Fem|Number=Sing	1	amod	_	_
 3	agus	agus	SCONJ	Subord	_	4	mark	_	_
 4	í	í	PRON	Pers	Gender=Fem|Number=Sing|Person=3	1	advcl	_	_
 5	cóirithe	cóirithe	ADJ	Adj	VerbForm=Part	4	xcomp:pred	_	_
 6	fé	faoi	ADP	Simp	_	7	case	_	_
-7	bhrat	brat	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	4	nmod	_	_
-8	buí	buí	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	7	amod	_	_
+7	bhrat	brat	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	4	nmod	_	_
+8	buí	buí	ADJ	Adj	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
 9	síoda	síoda	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -44,7 +44,7 @@ The following 21 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 7	fgColor:white
 # visual-style 7 5 case	color:blue
 1	Mo	mo	DET	Det	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	_
-2	léan	léan	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+2	léan	léan	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 3	go	go	PART	Vb	PartType=Cmpl	4	mark:prt	_	_
 4	mbeidh	bí	VERB	FutInd	Form=Ecl|Mood=Ind|Tense=Fut	2	acl	_	_
 5	ar	ar	ADP	Simp	_	7	case	_	_
@@ -54,7 +54,7 @@ The following 21 pairs of parts of speech are connected with `case`: <tt><a href
 9	síos	síos	ADV	Dir	_	8	advmod	_	_
 10	arís	arís	ADV	Gn	_	8	advmod	_	_
 11	ina	i	ADP	Poss	Number=Plur|Person=3|Poss=Yes	12	case	_	_
-12	dtír	tír	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	4	obl	_	_
+12	dtír	tír	NOUN	Noun	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	4	obl	_	_
 13	féin	féin	PRON	Ref	Reflex=Yes	12	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	_	_
 

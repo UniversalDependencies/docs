@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-267 nodes (3%) are attached to their parents as `advcl`.
+318 nodes (3%) are attached to their parents as `advcl`.
 
-265 instances of `advcl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.35205992509363.
+306 instances of `advcl` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.10377358490566.
 
-The following 12 pairs of parts of speech are connected with `advcl`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (201; 75% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (34; 13% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (13; 5% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="am_att-pos-PART.html">PART</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advcl`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (246; 77% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (34; 11% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (17; 5% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="am_att-pos-PART.html">PART</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 7	ጓዝ	ጓዝ	NOUN	NOUN	_	10	advcl	_	Translit=gwazə|LTranslit=gwazə
 8	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	7	nmod	_	Translit='u|LTranslit='u
 9	ን	ን	PART	ACC	_	7	case	_	Translit=nə|LTranslit=nə
-10	ይዝ	ይዝ	VERB	VERB	_	13	advmod	_	Translit=jəzə|LTranslit=jəzə
+10	ይዝ	ይዝ	VERB	VERB	_	13	advcl	_	Translit=jəzə|LTranslit=jəzə
 11	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	expl	_	Translit='o|LTranslit='o
 12	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	13	expl	_	Translit=jə|LTranslit=jə
 13	ምጣ	ምጣ	VERB	VERB	_	0	root	_	Translit=məţa|LTranslit=məţa
@@ -62,25 +62,22 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 4 advcl	color:blue
-1	ልብስ	ልብስ	NOUN	NOUN	_	4	obj	_	Translit=ləbəsə|LTranslit=ləbəsə
-2	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	1	nmod	_	Translit='e|LTranslit='e
-3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
-4	ሸጭ	ሸጭ	VERB	VERB	_	9	advcl	_	Translit=šäćə|LTranslit=šäćə
-5	ኤ	ኤ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	Translit='e|LTranslit='e
-6	እዳ	እዳ	NOUN	NOUN	_	9	obj	_	Translit='əda|LTranslit='əda
-7	ዬ	ዬ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	6	nmod	_	Translit=je|LTranslit=je
-8	ን	ን	PART	ACC	_	6	case	_	Translit=nə|LTranslit=nə
-9	መክፈል	መክፈል	NOUN	NOUN	VerbForm=Vnoun	0	root	_	Translit=mäkəfälə|LTranslit=mäkəfälə
-10	ነበር	ነበር	AUX	AUX	_	9	cop	_	Translit=näbärə|LTranslit=näbärə
-11	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	Translit='ă|LTranslit='ă
-12	ብ	ብ	ADP	ADP	Case=Mal	9	case	_	Translit=bə|LTranslit=bə
-13	ኝ	ኝ	PRON	OBJC	Number=Sing|Person=1	9	expl	_	Translit=ňə|LTranslit=ňə
-14	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 advcl	color:blue
+1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
+2	መናገር	መናገር	NOUN	NOUN	VerbForm=Vnoun	8	advcl	_	Translit=mänagärə|LTranslit=mänagärə
+3	ላይ	ላይ	ADP	ADP	_	2	case	_	Translit=lajə|LTranslit=lajə
+4	እየ	እየ	SCONJ	SCONJ	_	5	mark	_	Translit='əjä|LTranslit='əjä
+5	ኣለ	ኣለ	VERB	VERB	_	2	advcl	_	Translit='alä|LTranslit='alä
+6	ሁ	ሁ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	5	nsubj	_	Translit=hu|LTranslit=hu
+7	መልስ	መልስ	NOUN	NOUN	_	8	obj	_	Translit=mäləsə|LTranslit=mäləsə
+8	ሰጥ	ሰጥ	VERB	VERB	_	0	root	_	Translit=säţə|LTranslit=säţə
+9	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	8	nsubj	_	Translit='ăčə|LTranslit='ăčə
+10	ኝ	ኝ	PRON	OBJC	Gender=Com|Number=Sing|Person=1	8	iobj	_	Translit=ňə|LTranslit=ňə
+11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

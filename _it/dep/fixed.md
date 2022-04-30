@@ -34,4 +34,12 @@ fixed(prima, di)
 Pur se . 
 fixed(Pur, se)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:05 CEST 2021 -->
+
+Fixed MWEs are annotated in a flat structure, where all subsequent words in the expression are attached to the first one.
+
+~~~ sdparse
+Fino a quando . 
+fixed(Fino, a)
+fixed(Fino, quando)
+~~~
+<!-- Interlanguage links updated St lis 3 20:58:53 CET 2021 -->

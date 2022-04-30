@@ -22,11 +22,11 @@ The following 1 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 xcomp	color:blue
-1	xop	xop	DET	dem	_	3	nmod	3:nmod	_
-2	koa	koa	PART	pcl	_	3	discourse	3:discourse	_
-3	ten	ten	ADV	adv	_	4	advmod	4:advmod	_
-4	nã	n	VERB	vt	Aspect=Imp	5	xcomp	5:xcomp	_
-5	peka	pek	VERB	vt	Aspect=Imp	0	root	0:root	_
+1	xop	xop	DET	dem	_	3	nmod	_	_
+2	koa	koa	PART	pcl	_	3	discourse	_	_
+3	ten	ten	ADV	adv	_	4	advmod	_	_
+4	nã	n	VERB	vt	Aspect=Imp	5	xcomp	_	_
+5	peka	pek	VERB	vt	Aspect=Imp	0	root	_	_
 
 ~~~
 

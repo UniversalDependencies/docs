@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kaapor-TuDeT: POS Tags: `ADJ`
 
-There are 1 `ADJ` lemmas (1%), 1 `ADJ` types (1%) and 1 `ADJ` tokens (0%).
-Out of 13 observed tags, the rank of `ADJ` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
+There are 1 `ADJ` lemmas (1%), 1 `ADJ` types (0%) and 1 `ADJ` tokens (0%).
+Out of 13 observed tags, the rank of `ADJ` is: 11 in number of lemmas, 11 in number of types and 13 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>panem</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.162963).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.160000).
 
 The 1st highest number of forms (1) was observed with the lemma “panem”: <em>panem</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2301 nodes (1%) are attached to their parents as `nummod`.
+2435 nodes (1%) are attached to their parents as `nummod`.
 
-2229 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.47544545849631.
+2360 instances of `nummod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46652977412731.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2012; 87% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (157; 7% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (92; 4% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (18; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `nummod`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2126; 87% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (170; 7% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (96; 4% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (19; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

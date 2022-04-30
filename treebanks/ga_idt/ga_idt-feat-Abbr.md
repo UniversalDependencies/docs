@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 18 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 78%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (13; 72%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11; 61%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 78%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (13; 72%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11; 61%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 

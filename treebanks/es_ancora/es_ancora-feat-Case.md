@@ -10,26 +10,26 @@ This feature is universal.
 It occurs with 4 different values: `Acc`, `Com`, `Dat`, `Nom`.
 Some words have combined values of the feature; 2 combinations have been observed: `Acc|Dat`, `Acc|Nom`.
 
-12075 tokens (2%) have a non-empty value of `Case`.
+12073 tokens (2%) have a non-empty value of `Case`.
 51 types (0%) occur at least once with a non-empty value of `Case`.
 6 lemmas (0%) occur at least once with a non-empty value of `Case`.
-The feature is used with 1 part-of-speech tags: <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (12075; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (12073; 2% instances).
 
 ### `PRON`
 
-12075 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (47% of all `PRON` tokens) have a non-empty value of `Case`.
+12073 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (47% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12075; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (10765; 89%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (9471; 78%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8540; 71%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (6218; 51%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12073; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (10763; 89%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (9469; 78%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8538; 71%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (6216; 51%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (8690; 72% of non-empty `Case`): <em>se, lo, la, me, nos, los, las, mí, sí, te</em>
+* `Acc` (8688; 72% of non-empty `Case`): <em>se, lo, la, me, nos, los, las, mí, sí, te</em>
 * `Acc,Dat` (13; 0% of non-empty `Case`): <em>se, nos, te, me, Os</em>
 * `Acc,Nom` (955; 8% of non-empty `Case`): <em>él, ellos, ello, ella, nosotros, ellas, usted, ustedes</em>
 * `Com` (15; 0% of non-empty `Case`): <em>conmigo, consigo, contigo</em>
 * `Dat` (2243; 19% of non-empty `Case`): <em>le, se, les, me, nos, te, os</em>
 * `Nom` (159; 1% of non-empty `Case`): <em>yo, tú</em>
-* `EMPTY` (13849): <em>que, se, donde, uno, quien, todo, eso, nada, una, qué</em>
+* `EMPTY` (13832): <em>que, se, donde, uno, quien, todo, eso, nada, una, qué</em>
 
 <table>
   <tr><th>Paradigm <i>yo</i></th><th><tt>Acc,Dat</tt></th><th><tt>Acc,Nom</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Com</tt></th></tr>

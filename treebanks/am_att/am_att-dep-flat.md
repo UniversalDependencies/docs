@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	አቶ	አቶ	ADJ	ADJ	_	8	nsubj	_	Translit='äto|LTranslit='äto
 2	ካሳ	ካሳ	PROPN	PROPN	_	1	flat	_	Translit=kasa|LTranslit=kasa
 3	ለ	ለ	ADP	ADP	_	4	case	_	Translit=lä|LTranslit=lä
-4	እስራ~ዘመን	እስራ~ዘመን	NOUN	NOUN	_	8	advmod	_	Translit='əsəra~zämänə|LTranslit='əsəra~zämänə
+4	እስራ~ዘመን	እስራ~ዘመን	NOUN	NOUN	_	8	obl	_	Translit='əsəra~zämänə|LTranslit='əsəra~zämänə
 5	ኡ	ኡ	DET	DET	_	4	det	_	Translit='u|LTranslit='u
 6	አስር	አስር	NUM	NUM	NumType=Card	7	nummod	_	Translit='äsərə|LTranslit='äsərə
 7	ችግኝ	ችግኝ	NOUN	NOUN	_	8	obj	_	Translit=čəgəňə|LTranslit=čəgəňə

@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-376 tokens (1%) have a non-empty value of `Foreign`.
-235 types (5%) occur at least once with a non-empty value of `Foreign`.
-235 lemmas (6%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 1 part-of-speech tags: <tt><a href="id_csui-pos-X.html">X</a></tt> (376; 1% instances).
+378 tokens (1%) have a non-empty value of `Foreign`.
+236 types (5%) occur at least once with a non-empty value of `Foreign`.
+236 lemmas (6%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 1 part-of-speech tags: <tt><a href="id_csui-pos-X.html">X</a></tt> (378; 1% instances).
 
 ### `X`
 
-376 <tt><a href="id_csui-pos-X.html">X</a></tt> tokens (100% of all `X` tokens) have a non-empty value of `Foreign`.
+378 <tt><a href="id_csui-pos-X.html">X</a></tt> tokens (100% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (376; 100% of non-empty `Foreign`): <em>rate, year, rating, mortgage, subprime, on, listed, net, netto, outlook</em>
+* `Yes` (378; 100% of non-empty `Foreign`): <em>rate, year, rating, mortgage, subprime, on, listed, net, netto, outlook</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (235) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (236) occur only with one value of `Foreign`.
 
 ## Relations with Agreement in `Foreign`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-csubj.html">csubj</a></tt>.
 
-26 nodes (0%) are attached to their parents as `csubj:pass`.
+31 nodes (0%) are attached to their parents as `csubj:pass`.
 
-26 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.84615384615385.
+31 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.12903225806452.
 
-The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (22; 85% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 12% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
+The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (27; 87% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -83,7 +83,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 8	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
 9	capable	capable	ADJ	_	Gender=Masc|Number=Sing	4	csubj:pass	_	_
 10	de	de	ADP	_	_	12	mark	_	_
-11	se	se	PRON	_	Person=3|PronType=Prs	12	dep:comp	_	_
+11	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
 12	tenir	tenir	VERB	_	VerbForm=Inf	9	xcomp	_	_
 13	debout	debout	ADV	_	_	12	advmod	_	_
 14	sur	sur	ADP	_	_	16	case	_	_

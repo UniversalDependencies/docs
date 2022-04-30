@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6713 nodes (5%) are attached to their parents as `root`.
+6712 nodes (5%) are attached to their parents as `root`.
 
-6713 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.9241769700581.
+6712 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.92476162097735.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (3651; 54% instances), -<tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (1660; 25% instances), -<tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (437; 7% instances), -<tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (359; 5% instances), -<tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (178; 3% instances), -<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (148; 2% instances), -<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (129; 2% instances), -<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (86; 1% instances), -<tt><a href="it_postwita-pos-X.html">X</a></tt> (46; 1% instances), -<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (11; 0% instances), -<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (4; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (3651; 54% instances), -<tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (1659; 25% instances), -<tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (437; 7% instances), -<tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (359; 5% instances), -<tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (178; 3% instances), -<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (148; 2% instances), -<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (129; 2% instances), -<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (86; 1% instances), -<tt><a href="it_postwita-pos-X.html">X</a></tt> (46; 1% instances), -<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (11; 0% instances), -<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

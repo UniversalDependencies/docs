@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-316 nodes (0%) are attached to their parents as `expl`.
+347 nodes (0%) are attached to their parents as `expl`.
 
-223 instances of `expl` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15822784810127.
+254 instances of `expl` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1700288184438.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (302; 96% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (327; 94% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (14; 4% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

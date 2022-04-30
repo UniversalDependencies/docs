@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-129 nodes (0%) are attached to their parents as `vocative`.
+144 nodes (0%) are attached to their parents as `vocative`.
 
-79 instances of `vocative` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.90697674418605.
+87 instances of `vocative` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.71527777777778.
 
-The following 12 pairs of parts of speech are connected with `vocative`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (97; 75% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `vocative`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (106; 74% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (9; 6% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,6 +39,32 @@ The following 12 pairs of parts of speech are connected with `vocative`: <tt><a 
 15	ⲉⲣⲟ	ⲉ	ADP	PREP	_	16	case	_	_
 16	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	obl	_	Entity=abstract)
 17	·	·	PUNCT	PUNCT	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 10 vocative	color:blue
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	Orig=Ⲁⲩⲱ̅
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+4	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	ⲛⲁ	ⲛⲁ	ADP	PREP	_	7	case	_	_
+7	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	obl	_	Orig=ⲓ̅
+8	·	·	PUNCT	PUNCT	_	9	punct	_	_
+9	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	13	mark	_	_
+10	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	13	vocative	_	Entity=(person-John_the_Apostle)|Orig=ⲓ̅ⲱϩⲁⲛⲛⲏⲥ|OrigLang=he
+11	·	·	PUNCT	PUNCT	_	10	punct	_	_
+12	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+13	ⲣⲭⲣⲉⲓⲁ	ⲣⲭⲣⲉⲓⲁ	VERB	V	Foreign=Yes|VerbForm=Fin	4	ccomp	_	Morphs=ⲣ-ⲭⲣⲉⲓⲁ|Orig=ⲉⲣⲭⲣⲓⲁ`|OrigLang=grc
+14	ⲙⲙⲟ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	obl	_	_
+16	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 
@@ -79,22 +105,6 @@ The following 12 pairs of parts of speech are connected with `vocative`: <tt><a 
 28	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	29	det	_	Entity=(place
 29	ⲙⲁ	ⲙⲁ	NOUN	N	_	25	obl	_	Entity=place)
 30	·	·	PUNCT	PUNCT	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 vocative	color:blue
-1	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	0	root	_	_
-2	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	1	vocative	_	Orig=ⲛ̇ⲧⲱⲧⲛ̇
-3	ⲙ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲙ̇
-4	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Entity=(place|Orig=ⲡⲉⲓ̇
-5	ⲙⲁ	ⲙⲁ	NOUN	N	_	1	obl	_	Entity=place)
-6	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 1	Столь	столь	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	nmod	_	GTtags=Sg,Nom,Indef
 2	лангсо	лангсо	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	3	nmod:lmod	_	GTtags=SP,Ine,Indef
 3	лампась	лампа	NOUN	N	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	GTtags=Sg,Nom,Def
-4	апак	апак	AUX	Pcle	Polarity=Neg	5	aux:neg	_	GTtags=Neg
+4	апак	а	AUX	Pcle	Polarity=Neg|VerbForm=Conv,Part	5	aux:neg	_	GTtags=Neg
 5	кончтне	кончтнемс	VERB	V	Connegative=Yes|Valency=2	6	advcl	_	GTtags=TV,ConNeg
 6	ваны	ваномс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScSg3
 7	конёвом	конёв	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	8	nmod	_	GTtags=Sg,Gen,PxSg1

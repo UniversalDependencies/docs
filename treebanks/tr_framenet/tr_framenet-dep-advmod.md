@@ -11,7 +11,7 @@ This relation is universal.
 1194 nodes (6%) are attached to their parents as `advmod`.
 
 1054 instances of `advmod` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70603015075377.
+Average distance between parent and child is 1.70435510887772.
 
 The following 17 pairs of parts of speech are connected with `advmod`: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (656; 55% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (123; 10% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (116; 10% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (83; 7% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (56; 5% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (45; 4% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (34; 3% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (20; 2% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (10; 1% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
@@ -37,7 +37,7 @@ The following 17 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 advmod	color:blue
-1	Bu	bu	DET	_	Definite=Def	2	det	_	_
+1	Bu	bu	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	proje	proje	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obl	_	_
 3	için	için	ADP	_	_	2	case	_	_
 4	babam	baba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	7	nsubj	_	_
@@ -59,7 +59,7 @@ The following 17 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	kalan	kalan	ADJ	_	_	3	acl	_	_
 3	parayı	para	NOUN	_	Case=Acc|Number=Sing|Person=3	4	obj	_	_
 4	hesaptan	hesap	NOUN	_	Case=Abl|Number=Sing|Person=3	5	compound	_	_
-5	düş	düş	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres	0	root	_	_
+5	düş	düş	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	artık	artık	ADV	_	_	5	advmod	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 

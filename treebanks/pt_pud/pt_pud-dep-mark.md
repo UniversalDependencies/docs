@@ -64,12 +64,12 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 1 mark	color:blue
 1	Porque	_	SCONJ	IN	_	9	mark	_	_
-2	a	o	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+2	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	série	série	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
 4	1	_	NUM	CD	Gender=Masc	3	appos	_	_
 5	não	não	ADV	RB	Polarity=Neg	9	advmod	_	_
 6	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
-7	a	o	DET	DT	Gender=Fem|Number=Sing	9	det	_	_
+7	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	mais	_	ADJ	JJS	Gender=Fem|Number=Sing	9	amod	_	_
 9	antiga	antigo	NOUN	NN	Gender=Fem|Number=Sing	13	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	9	punct	_	_

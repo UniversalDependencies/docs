@@ -31,4 +31,4 @@ column. (Which means that empty value has the `No` meaning.)
 
 * reflexive personal pronouns: _իր, իրեն, իրենց_ (occur in various cases but not in nominative and distinguish [Number]())
 * reflexive possessive determiners: _իր, իրենց_
-<!-- Interlanguage links updated Pá kvě 14 11:08:40 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:29 CET 2021 -->

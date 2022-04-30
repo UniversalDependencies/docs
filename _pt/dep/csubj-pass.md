@@ -13,4 +13,4 @@ of the clause). In the example below, *que ele mentiu* is the subject.
 Que ela mentiu foi suspeito por todos.
 csubj:pass(suspeito, mentiu)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:00 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:49 CET 2021 -->

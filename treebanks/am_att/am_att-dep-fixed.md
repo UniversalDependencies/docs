@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1 2 fixed	color:blue
 1	እንደ	እንደ	SCONJ	SCONJ	_	3	advmod	_	Translit='ənədä|LTranslit='ənədä
 2	ምንም	ምንም	ADV	ADV	_	1	fixed	_	Translit=mənəmə|LTranslit=mənəmə
-3	ብል	ብል	VERB	VERB	_	9	advmod	_	Translit=bələ|LTranslit=bələ
+3	ብል	ብል	VERB	VERB	_	9	advcl	_	Translit=bələ|LTranslit=bələ
 4	ኤ	ኤ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	3	nsubj	_	Translit='e|LTranslit='e
 5	ከ	ከ	ADP	ADP	_	6	case	_	Translit=kä|LTranslit=kä
 6	እዚያ	እዚያ	DET	DET	_	9	nmod	_	Translit='əzija|LTranslit='əzija

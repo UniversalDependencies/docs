@@ -34,10 +34,10 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 9	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	CLB	_	11	punct	_	_
 11	колхоз	колхоз	NOUN	N	Case=Nom|Number=Sing	8	conj	_	OrigLang=ru
-12	"	"	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
+12	«	«	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
 13	Красный	Красный	PROPN	N	Case=Nom|Number=Sing	0	root	_	Lang=ru
 14	Октябрь	октябрь	PROPN	N	Case=Nom|Number=Sing	13	flat:name	_	Lang=ru|SpaceAfter=No
-15	"	"	PUNCT	PUNCT	_	14	punct	_	SpaceAfter=No
+15	»	»	PUNCT	PUNCT	_	14	punct	_	SpaceAfter=No
 16	,	,	PUNCT	CLB	_	17	punct	_	_
 17	да	да	PART	Pcle	_	13	advmod	_	OrigLang=ru|SpaceAfter=No
 18	?	?	PUNCT	CLB	_	13	punct	_	_

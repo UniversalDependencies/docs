@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20092 nodes (22%) are attached to their parents as `punct`.
+20063 nodes (22%) are attached to their parents as `punct`.
 
-19927 instances of `punct` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21998805494724.
+19905 instances of `punct` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.21940886208443.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (14498; 72% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (3119; 16% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (2147; 11% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (138; 1% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (103; 1% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (24; 0% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (14472; 72% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (3120; 16% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (2143; 11% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (138; 1% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (103; 1% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (24; 0% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 punct	color:blue
-1	HER	her	DET	_	Definite=Def	2	det	_	_
+1	HER	her	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	ŞEY	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 

@@ -22,8 +22,8 @@ The following 3 pairs of parts of speech are connected with `case:adv`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 case:adv	color:blue
-1	Apa	apa	PRON	_	PronType=Int	6	obl	_	_
-2	kah	kah	PART	_	_	1	advmod:emph	_	_
+1	Apa	apa	ADV	_	PronType=Int	6	advmod	_	_
+2	kah	kah	PART	_	_	6	advmod:emph	_	_
 3	serial	serial	NOUN	_	Number=Sing	6	nsubj	_	_
 4	yang	yang	PRON	_	PronType=Rel	5	nsubj	_	_
 5	kedua	dua	ADJ	_	NumType=Ord	3	acl:relcl	_	_
@@ -62,10 +62,10 @@ The following 3 pairs of parts of speech are connected with `case:adv`: <tt><a h
 # visual-style 24	bgColor:blue
 # visual-style 24	fgColor:white
 # visual-style 24 23 case:adv	color:blue
-1	Namun	namun	CCONJ	_	_	2	cc	_	_
+1	Namun	namun	ADV	_	_	2	advmod	_	_
 2	mengakibatkan	akibat	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
 3	ditinggalkan	tinggal	VERB	_	Mood=Ind|Voice=Pass	2	advcl	_	_
-4	nya	nya	DET	_	PronType=Dem	3	det	_	_
+4	nya	nya	DET	_	Definite=Def|PronType=Art	3	det	_	_
 5	barang-barang	barang	NOUN	_	Number=Plur	3	nsubj:pass	_	_
 6	penting	penting	ADJ	_	_	5	amod	_	_
 7	artileri	artileri	NOUN	_	Number=Sing	5	nmod	_	_

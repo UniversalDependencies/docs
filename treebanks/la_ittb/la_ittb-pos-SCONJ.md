@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-ITTB: POS Tags: `SCONJ`
 
-There are 71 `SCONJ` lemmas (1%), 74 `SCONJ` types (0%) and 23362 `SCONJ` tokens (5%).
-Out of 15 observed tags, the rank of `SCONJ` is: 7 in number of lemmas, 9 in number of types and 9 in number of tokens.
+There are 71 `SCONJ` lemmas (1%), 74 `SCONJ` types (0%) and 23361 `SCONJ` tokens (5%).
+Out of 15 observed tags, the rank of `SCONJ` is: 7 in number of lemmas, 9 in number of types and 10 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>quod, ut, sicut, quia, si, cum, nisi, quam, in+quantum, licet</em>
 
@@ -15,12 +15,12 @@ The 10 most frequent `SCONJ` types:  <em>quod, ut, sicut, quia, si, cum, nisi, q
 
 The 10 most frequent ambiguous lemmas: <em>quod</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 7477, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> 5, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1), <em>ut</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 3181, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 366, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>sicut</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 2754, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 134, <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>quia</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1939, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1), <em>si</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1921, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 2), <em>cum</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1869, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 362), <em>quam</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 637, <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> 48, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 12, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1), <em>in+quantum</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 532, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 1), <em>licet</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 228, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 14, <tt><a href="la_ittb-pos-X.html">X</a></tt> 1), <em>quamuis</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 215, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>quod</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 7482, <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> 3245, <tt><a href="la_ittb-pos-DET.html">DET</a></tt> 13, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1), <em>ut</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 3181, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 366, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>sicut</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 2749, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 134, <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>quia</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1939, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1), <em>si</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1921, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 2), <em>cum</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1869, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 362), <em>quam</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 639, <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> 530, <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> 48, <tt><a href="la_ittb-pos-DET.html">DET</a></tt> 26, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 12, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1), <em>inquantum</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 589, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 1), <em>licet</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 230, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="la_ittb-pos-X.html">X</a></tt> 1), <em>quamuis</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 215, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>quod</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 7481, <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> 3246, <tt><a href="la_ittb-pos-DET.html">DET</a></tt> 13, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1), <em>ut</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 3181, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 366, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>sicut</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 2749, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 134, <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>quia</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1939, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1), <em>si</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1921, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 2), <em>cum</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1869, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 362), <em>quam</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 639, <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> 530, <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> 48, <tt><a href="la_ittb-pos-DET.html">DET</a></tt> 26, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 12, <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1), <em>inquantum</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 589, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 1), <em>licet</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 230, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="la_ittb-pos-X.html">X</a></tt> 1), <em>quamuis</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 215, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 1)
 
 
 * <em>quod</em>
-  * <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 7482: <em>unum est <b>quod</b> paucis hominibus dei cognitio inesset .</em>
-  * <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> 3245: <em><b>quod</b> sit officium sapientis .</em>
+  * <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 7481: <em>unum est <b>quod</b> paucis hominibus dei cognitio inesset .</em>
+  * <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> 3246: <em><b>quod</b> sit officium sapientis .</em>
   * <tt><a href="la_ittb-pos-DET.html">DET</a></tt> 13: <em>si dixerint ad me filii israel , <b>quod</b> nomen eius ?</em>
   * <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 8: <em><b>quod</b> autem est malum , non habet causam in natura :</em>
   * <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> 1: <em>nam paradisus locus quidam terrenus esse uidetur , ex hoc quod dicitur gen. 2-8 , <b>quod</b> plantauerat dominus deus paradisum uoluptatis , in quo posuit hominem quem formauerat .</em>
@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>quod</em> (<tt><a href="la_ittb-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.042254 (the average of all parts of speech is 3.291705).
+The form / lemma ratio of `SCONJ` is 1.042254 (the average of all parts of speech is 3.337297).
 
 The 1st highest number of forms (2) was observed with the lemma “ab”: <em>a, ab</em>.
 
@@ -72,22 +72,22 @@ The 2nd highest number of forms (2) was observed with the lemma “ex”: <em>e,
 
 The 3rd highest number of forms (2) was observed with the lemma “in”: <em>in, inquantum</em>.
 
-`SCONJ` occurs with 4 features: <tt><a href="la_ittb-feat-Polarity.html">Polarity</a></tt> (207; 1% instances), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (16; 0% instances), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt> (6; 0% instances), <tt><a href="la_ittb-feat-ConjType.html">ConjType</a></tt> (2; 0% instances)
+`SCONJ` occurs with 4 features: <tt><a href="la_ittb-feat-Polarity.html">Polarity</a></tt> (207; 1% instances), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (44; 0% instances), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt> (6; 0% instances), <tt><a href="la_ittb-feat-ConjType.html">ConjType</a></tt> (4; 0% instances)
 
 `SCONJ` occurs with 4 feature-value pairs: `ConjType=Cmpr`, `Polarity=Neg`, `PronType=Rel`, `VerbForm=Fin`
 
 `SCONJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (23131 tokens).
+The most frequent feature combination is `_` (23100 tokens).
 Examples: <em>quod, ut, sicut, quia, si, cum, nisi, quam, inquantum, licet</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (22521; 96% instances), <tt><a href="la_ittb-dep-fixed.html">fixed</a></tt> (810; 3% instances), <tt><a href="la_ittb-dep-cc.html">cc</a></tt> (27; 0% instances), <tt><a href="la_ittb-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-advcl-cmpr.html">advcl:cmpr</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (22520; 96% instances), <tt><a href="la_ittb-dep-fixed.html">fixed</a></tt> (810; 3% instances), <tt><a href="la_ittb-dep-cc.html">cc</a></tt> (27; 0% instances), <tt><a href="la_ittb-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-advcl-cmpr.html">advcl:cmpr</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (16334; 70% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (4258; 18% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1322; 6% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (601; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (271; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (258; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (107; 0% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (80; 0% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (51; 0% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (36; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (30; 0% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (14; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (14470; 62% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (3981; 17% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1863; 8% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1325; 6% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (601; 3% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (408; 2% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (195; 1% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (184; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (137; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (80; 0% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (51; 0% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (36; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (30; 0% instances)
 
-22263 (95%) `SCONJ` nodes are leaves.
+22262 (95%) `SCONJ` nodes are leaves.
 
 939 (4%) `SCONJ` nodes have one child.
 

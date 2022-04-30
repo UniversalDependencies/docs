@@ -9,12 +9,27 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="koi_uh-dep-nsubj-cop.html">nsubj:cop</a></tt>.
 
-76 nodes (9%) are attached to their parents as `nsubj`.
+94 nodes (10%) are attached to their parents as `nsubj`.
 
-55 instances of `nsubj` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75.
+72 instances of `nsubj` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.61702127659574.
 
-The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (34; 45% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (27; 36% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (5; 7% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (5; 7% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (45; 48% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (34; 36% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nsubj	color:blue
+1	Ныв	ныв	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Sg,Nom
+2	гижис	гижны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+3	ёртыслӧ	ёрт	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Sg,Dat,PxSg3
+4	гижӧт	гижӧт	NOUN	_	Case=Nom|Number=Sing	2	obj	_	GTtags=Sg,Nom|SpaceAfter=No
+5	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -30,21 +45,6 @@ The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href
 5	да	да	CCONJ	_	_	6	cc	_	_
 6	юны	юны	VERB	_	VerbForm=Inf	4	conj	_	GTtags=Inf|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nsubj	color:blue
-1	Ныв	ныв	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Sg,Nom
-2	гижис	гижны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
-3	ёртыслӧ	ёрт	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Sg,Dat,PxSg3
-4	гижӧт	гижӧт	NOUN	_	Case=Nom|Number=Sing	2	obj	_	GTtags=Sg,Nom|SpaceAfter=No
-5	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

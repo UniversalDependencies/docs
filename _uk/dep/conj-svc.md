@@ -36,4 +36,4 @@ verb. However, here the syntactic construction is coordination rather than adver
 21	»	»	PUNCT	U	PunctType=Quot	10	punct	_	Id=1go9|LTranslit=»|Translit=»
 
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:58 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:47 CET 2021 -->

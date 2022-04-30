@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat	color:blue
 1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
-2	s'	se	PRON	_	Person=3|PronType=Prs	3	dep:comp	_	SpaceAfter=No
+2	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	SpaceAfter=No
 3	agit	agir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	d'	de	ADP	_	_	5	case	_	SpaceAfter=No
 5	album	album	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	_

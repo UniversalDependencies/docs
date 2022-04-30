@@ -43,4 +43,4 @@ nmod(bukatzeko-8, nirekin-7)
 advcl(da-6, bukatzeko-8)
 punct(da-6, .-9)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:56 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:44 CET 2021 -->

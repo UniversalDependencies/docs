@@ -41,7 +41,7 @@ The fields must additionally meet the following constraints:
 
 * Fields must not be empty.
 * Fields other than FORM, LEMMA, and MISC must not contain space characters.
-* Underscore (_) is used to denote unspecified values in all fields except ID. Note that no format-level distinction is made for the rare cases where the FORM or LEMMA is the literal underscore – processing in such cases is application-dependent. Further, in UD treebanks the UPOS, HEAD, and DEPREL columns are not allowed to be left unspecified except in multiword tokens, where all must be unspecified, and empty nodes, where UPOS is optional and HEAD and DEPREL must be unspecified.
+* Underscore (_) is used to denote unspecified values in all fields except ID. Note that no format-level distinction is made for the rare cases where the FORM or LEMMA is the literal underscore – processing in such cases is application-dependent. Further, in UD treebanks the UPOS, HEAD, and DEPREL columns are not allowed to be left unspecified except in multiword tokens, where all must be unspecified, and empty nodes, where UPOS is optional and HEAD and DEPREL must be unspecified. The enhanced DEPS annotation is optional in UD treebanks, but if it is provided, it must be provided for all sentences in the treebank.
 
 See the [tools page](tools.html) for a list of tools that work with the CoNLL-U format. There is also a simple JavaScript-based [CoNLL-U file viewer](conllu_viewer.html).
 
@@ -120,29 +120,6 @@ The HEAD and DEPREL fields are used to encode a dependency tree over words. The 
 As in the case of morphology, syntactic annotation is only provided for words, and
 tokens that are not words have an underscore in both the HEAD and DEPREL fields.
 
-<!--However, the script that extracts the token sequence optionally provides a heuristic mapping of the morphological and syntactic annotation to non-word tokens. For example, given the following annotation of the English sentence _I haven't a clue_:
-
-WARNING: The multi-word token "haven't" may clash with usual low-level tokenization of English, see issue #322.
-Before uncommenting this part, we may want to use an example from another language.
-
-    1     I         I      PRON    PRP   Case=Nom|Number=Sing|Person=1     2   nsubj
-    2-3   haven't   _      _       _     _                                 _   _
-    2     have      have   VERB    VBP   Number=Sing|Person=1|Tense=Pres   0   root
-    3     not       not    PART    RB    Negative=Neg                      2   neg
-    4     a         a      DET     DT    Definite=Ind|PronType=Art         5   det
-    5     clue      clue   NOUN    NN    Number=Sing                       2   obj
-    6     .         .      PUNCT   .     _                                 2   punct
-
-We can extract the following approximation at the token level (with token indexing):
-
-    1     I         I      PRON    PRP   Case=Nom|Number=Sing|Person=1                  2   nsubj
-    2     haven't   _      VERB    _     Negative=Neg|Number=Sing|Person=1|Tense=Pres   0   root
-    3     a         a      DET     DT    Definite=Ind|PronType=Art                      4   det
-    4     clue      clue   NOUN    NN    Number=Sing                                    2   obj
-    5     .         .      PUNCT   .     _                                              2   punct
-
-The usefulness of this approximate representation will vary from language to language, depending on the divergence between tokens and words and on the arbitrariness of the heuristic mapping.
--->
 The HEAD and DEPREL values define the basic dependencies which must be strictly a tree. However, in addition to these basic dependencies, treebanks may optionally provide an enhanced dependency representation that specifies additional dependency relations, for example, when dependencies propagate over coordinate structures. The enhanced dependency representation, which in general is a graph and not a tree, is specified in the DEPS field, using a list of head-relation pairs. We use colon (:) to separate the head and relation and (as usual) vertical bar (\|) to separate list items and underscore for the empty list. The list is to be sorted by the index of the head: `4:nsubj|11:nsubj`.
 
 Note that the DEPS field should be a self-contained representation of the enhanced dependency graph, which means that dependencies that are shared between the basic and the enhanced dependency representations must be repeated in the DEPS field. Here is an example, showing the first nine fields for the English sentence _They buy and sell books_:
@@ -153,6 +130,10 @@ Note that the DEPS field should be a self-contained representation of the enhanc
     4    sell     sell    VERB    VBP    Number=Plur|Person=3|Tense=Pres    2    conj     0:root|2:conj
     5    books    book    NOUN    NNS    Number=Plur                        2    obj      2:obj|4:obj
     6    .        .       PUNCT   .      _                                  2    punct    2:punct
+
+On the other hand, if a treebank does not provide any enhanced representation, it is not necessary
+to copy all basic trees to DEPS, and it should be avoided in released UD treebanks (the DEPS field
+should be left unspecified instead).
 
 The dependency relations in DEPREL must have the form `[a-z]+(:[a-z]+)?`.
 Certain extensions of this basic format will be allowed in DEPS but not in DEPREL;
@@ -225,6 +206,9 @@ all treebanks.
 * `Gloss` … approximate translation of the word form or the lemma to another language (typically English). If the translation consists of multiple words, they are connected using a hyphen.
 * `MSeg` … morphemic segmentation as commonly used in interlinear glossed text in linguistic literature: a hyphen (“-”) denotes boundary between morphemes, “=” is placed between a clitic and its host word.
 * `MGloss` … glossing of individual morphemes as commonly used in interlinear glossed text in linguistic literature. Hypens and equals-to symbols delimit morphemes as in `MSeg`, and there should be the same number of morphemes as in `MSeg` (if `MSeg` is missing, a single morpheme is assumed). A gloss is either a lexical meaning in English, or a grammatical tag; if multiple words/tags are needed in the gloss of one morpheme, they are joined by a period (“.”). There are no guidelines for the tags ([Leipzig glossing rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php) are a source of tags that are commonly used). However, most of the tags should probably have a corresponding feature in the FEATS column, and there it must follow the UD guidelines.
+
+For a more comprehensive documentation of MISC attributes that have been used in various UD treebanks,
+[see here](misc.html).
 
 
 

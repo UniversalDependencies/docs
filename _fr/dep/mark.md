@@ -47,4 +47,4 @@ Muriel a quitté la pièce dès que son mari est arrivé . \n Muriel left the ro
 mark(arrivé,que)
 mark(arrivé,dès)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:08 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:56 CET 2021 -->

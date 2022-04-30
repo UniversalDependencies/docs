@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-HDT: POS Tags: `AUX`
 
-There are 9 `AUX` lemmas (0%), 94 `AUX` types (0%) and 153141 `AUX` tokens (5%).
+There are 9 `AUX` lemmas (0%), 94 `AUX` types (0%) and 153141 `AUX` tokens (4%).
 Out of 16 observed tags, the rank of `AUX` is: 15 in number of lemmas, 11 in number of types and 9 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>sein, werden, haben, können, sollen, wollen, müssen, dürfen, mögen</em>
@@ -26,10 +26,10 @@ The 10 most frequent ambiguous types:  <em>ist</em> (<tt><a href="de_hdt-pos-AUX
   * <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> 1: <em>Nach dem Motto " sicher <b>werden</b> und bleiben " bieten die Redmonder in den USA ab dem 15. Oktober unter anderem eine CD mit Tools , Service-Packs und Patches an .</em>
 * <em>hat</em>
   * <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> 10676: <em>Als neue Zielgruppe <b>hat</b> Renner die " über 25-Jährigen " entdeckt .</em>
-  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 2: <em>Medienwirksam war zumindest auch , dass erstmals ein " Hacker " ins Weiße Haus eingeladen wurde , natürlich aus der " guten " Abteilung der " white <b>hat</b> hacker " .</em>
+  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 2: <em>Medienwirksam war zumindest auch , dass erstmals ein " Hacker " in das Weiße Haus eingeladen wurde , natürlich aus der " guten " Abteilung der " white <b>hat</b> hacker " .</em>
 * <em>sei</em>
   * <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> 6197: <em>Amazon-Sprecherin Patty Smith betonte , dass dies nicht geplant <b>sei</b> .</em>
-  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 1: <em>So genannte gepulste Verfahren , wie <b>sei</b> bei heutigen Handys angewandt würden , seien technisch keineswegs zwingend , betonte der Telekommunikations-Experte Martin Virnich vom VDB in einem dpa-Gespräch .</em>
+  * <tt><a href="de_hdt-pos-X.html">X</a></tt> 1: <em>So genannte gepulste Verfahren , wie <b>sei</b> bei heutigen Handys angewandt würden , seien technisch keineswegs zwingend , betonte der Telekommunikations-Experte Martin Virnich von dem VDB in einem dpa-Gespräch .</em>
 * <em>will</em>
   * <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> 6114: <em>DENIC <b>will</b> bei Domainstreit Richterspruch abwarten</em>
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 15: <em>" The revolution <b>will</b> not be televised " sang einst Gill Scott Heron .</em>
@@ -44,15 +44,15 @@ The 10 most frequent ambiguous types:  <em>ist</em> (<tt><a href="de_hdt-pos-AUX
   * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 3: <em>Nimmt das Konsortium diese Option <b>war</b> , hat es anschließend 48 Prozent Aktien- und 59 Prozent Stimmanteil an Net2Phone .</em>
 * <em>seien</em>
   * <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> 2525: <em>AOL teilte mit , die betroffenen Accounts <b>seien</b> mittlerweile gesperrt .</em>
-  * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 2: <em>Zum Abspielen der Filme muss man allerdings zunächst zumindest seinen Namen und <b>seien</b> E-Mail-Adresse hinterlassen - auch sollte der heimische PC nicht zu den ältesten Modellen gehören .</em>
+  * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 2: <em>Zu dem Abspielen der Filme muss man allerdings zunächst zumindest seinen Namen und <b>seien</b> E-Mail-Adresse hinterlassen - auch sollte der heimische PC nicht zu den ältesten Modellen gehören .</em>
   * <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> 1: <em>Externe Modelle mit SCSI- oder FireWire-Interface , die vor allem für Macintosh-Anwender interessant <b>seien</b> dürften , sollen in etwa zwei Monaten in den Handel kommen .</em>
 * <em>geworden</em>
   * <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> 371: <em>Gleichzeitig wären 3500 Mark Anwaltskosten fällig <b>geworden</b> .</em>
-  * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1: <em>Der als Suchmaschine berühmt <b>geworden</b> Internet-Anbieter AltaVista will nun in Großbritannien zum Schrecken der dortigen Telekom-Branche einen kostenlosen Internet-Zugang anbieten .</em>
+  * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1: <em>Der als Suchmaschine berühmt <b>geworden</b> Internet-Anbieter AltaVista will nun in Großbritannien zu dem Schrecken der dortigen Telekom-Branche einen kostenlosen Internet-Zugang anbieten .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 10.444444 (the average of all parts of speech is 2.524227).
+The form / lemma ratio of `AUX` is 10.444444 (the average of all parts of speech is 2.524629).
 
 The 1st highest number of forms (14) was observed with the lemma “müssen”: <em>muss, musst, musste, mussten, muß, mußte, mußten, müsse, müssen, müsst, müsste, müssten, müßte, müßten</em>.
 

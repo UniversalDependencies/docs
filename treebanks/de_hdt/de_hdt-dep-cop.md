@@ -11,7 +11,7 @@ This relation is universal.
 25362 nodes (1%) are attached to their parents as `cop`.
 
 15096 instances of `cop` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.57735982966643.
+Average distance between parent and child is 3.62384669978708.
 
 The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (13687; 54% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (10126; 40% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (628; 2% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (523; 2% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (159; 1% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (102; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (91; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (37; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
@@ -54,21 +54,17 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 cop	color:blue
-1	Im	Im	ADP	APPRART	AdpType=Prep|Case=Dat|PronType=Art	2	case	_	_
-2	Grunde	Grund	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
-3	seien	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-4	Free-PCs	PC	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	nsubj	_	_
-5	nichts	nichts	DET	PIAT	Gender=Neut|Number=Sing|Person=3|PronType=Ind,Neg,Tot	6	det	_	_
-6	anderes	ander	PRON	PIS	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Neg,Tot	0	root	_	_
-7	als	als	CCONJ	KOKOM	ConjType=Comp	9	case	_	_
-8	eine	eine	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	Mogelpackung	Packung	NOUN	NN	Gender=Fem|Number=Sing|Person=3	6	obl	_	_
-10	.	.	PUNCT	$.	PunctType=Peri	6	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 cop	color:blue
+1	Was	Was	PRON	PWS	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int	0	root	_	_
+2	sind	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	denn	denn	ADV	ADV	_	1	advmod	_	_
+4	die	die	DET	ART	Case=Nom|Number=Plur|PronType=Art	5	det	_	_
+5	Infrastrukturen	Infrastruktur	NOUN	NN	Gender=Fem|Number=Plur|Person=3	1	nsubj	_	_
+6	?	?	PUNCT	$.	PunctType=Peri	1	punct	_	_
 
 ~~~
 

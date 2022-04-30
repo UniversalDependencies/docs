@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `Exc` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-1621 tokens (24%) have a non-empty value of `PronType`.
+1622 tokens (24%) have a non-empty value of `PronType`.
 132 types (10%) occur at least once with a non-empty value of `PronType`.
 67 lemmas (7%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1022; 15% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (506; 7% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (92; 1% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1020; 15% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (509; 8% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (92; 1% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `DET`
 
-1022 <tt><a href="it_valico-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+1020 <tt><a href="it_valico-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (925; 91%), <tt><a href="it_valico-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (918; 90%), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (618; 60%), <tt><a href="it_valico-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (605; 59%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (925; 91%), <tt><a href="it_valico-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (916; 90%), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (618; 61%), <tt><a href="it_valico-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (605; 59%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Dem` (33; 3% of non-empty `PronType`): <em>questo, questa, quel, queste, Quest', quella, quello, questi</em>
 * `Exc` (1; 0% of non-empty `PronType`): <em>che</em>
 * `Ind` (41; 4% of non-empty `PronType`): <em>altro, altra, molti, ogni, delle, qualche, alcun, dei, tutti, Alcuni</em>
-* `Int` (6; 1% of non-empty `PronType`): <em>che</em>
+* `Int` (4; 0% of non-empty `PronType`): <em>che</em>
 * `Prs` (104; 10% of non-empty `PronType`): <em>suo, sua, mio, mia, suoi, miei, nostra, nostro, sue, tuo</em>
 * `Tot` (7; 1% of non-empty `PronType`): <em>tutta, tutto, tutti</em>
 * `EMPTY` (3): <em>sui, otro</em>
@@ -43,16 +43,16 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-506 <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+509 <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (313; 62%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (284; 56%), <tt><a href="it_valico-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (265; 52%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (315; 62%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (284; 56%), <tt><a href="it_valico-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (266; 52%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (30; 6% of non-empty `PronType`): <em>quello, questo, questa, quella, ciò, eso, queste</em>
 * `Ind` (37; 7% of non-empty `PronType`): <em>niente, qualcosa, nessuno, tutti, entrambi, qualchosa, altre, altro, molte, qualcuno</em>
-* `Int` (8; 2% of non-empty `PronType`): <em>cosa, che, chi, cose</em>
-* `Prs` (348; 69% of non-empty `PronType`): <em>mi, si, la, lui, lei, l', me, lo, gli, c'</em>
+* `Int` (10; 2% of non-empty `PronType`): <em>che, cosa, chi, cose</em>
+* `Prs` (349; 69% of non-empty `PronType`): <em>mi, si, la, lui, lei, l', me, lo, gli, c'</em>
 * `Rel` (83; 16% of non-empty `PronType`): <em>che, dove, cui, que, quale, chi, qui</em>
 
 <table>

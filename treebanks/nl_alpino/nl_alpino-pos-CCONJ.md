@@ -76,15 +76,15 @@ The 3rd highest number of forms (2) was observed with the lemma “respectieveli
 
 Parents of `CCONJ` nodes belong to 16 different parts of speech: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (1564; 35% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1548; 35% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (568; 13% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (410; 9% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (101; 2% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (89; 2% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (74; 2% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (39; 1% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (35; 1% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (25; 1% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-4424 (99%) `CCONJ` nodes are leaves.
+4423 (99%) `CCONJ` nodes are leaves.
 
-39 (1%) `CCONJ` nodes have one child.
+40 (1%) `CCONJ` nodes have one child.
 
 11 (0%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="nl_alpino-dep-punct.html">punct</a></tt> (35; 57% instances), <tt><a href="nl_alpino-dep-fixed.html">fixed</a></tt> (23; 38% instances), <tt><a href="nl_alpino-dep-conj.html">conj</a></tt> (2; 3% instances), <tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="nl_alpino-dep-punct.html">punct</a></tt> (36; 58% instances), <tt><a href="nl_alpino-dep-fixed.html">fixed</a></tt> (23; 37% instances), <tt><a href="nl_alpino-dep-conj.html">conj</a></tt> (2; 3% instances), <tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
 
-Children of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="nl_alpino-pos-PUNCT.html">PUNCT</a></tt> (35; 57% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (5; 8% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (5; 8% instances), <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (4; 7% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (4; 7% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (4; 7% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="nl_alpino-pos-PUNCT.html">PUNCT</a></tt> (36; 58% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (5; 8% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (5; 8% instances), <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (4; 6% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (4; 6% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (4; 6% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

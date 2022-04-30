@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>chur</em> (<tt><a href="ga_idt-pos-NO
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.801669 (the average of all parts of speech is 1.643740).
+The form / lemma ratio of `NOUN` is 1.801669 (the average of all parts of speech is 1.643911).
 
 The 1st highest number of forms (13) was observed with the lemma “teach”: <em>TI, Tighe, Títhe, dteach, dtigh, dtithe, dtí, teach, theach, thigh, tigh, tithe, tí</em>.
 
@@ -61,10 +61,10 @@ The 3rd highest number of forms (10) was observed with the lemma “bás”: <em
 
 `NOUN` occurs with 12 features: <tt><a href="ga_idt-feat-Number.html">Number</a></tt> (28764; 87% instances), <tt><a href="ga_idt-feat-Case.html">Case</a></tt> (28668; 86% instances), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt> (28042; 85% instances), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt> (12691; 38% instances), <tt><a href="ga_idt-feat-Form.html">Form</a></tt> (9937; 30% instances), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt> (4100; 12% instances), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt> (1199; 4% instances), <tt><a href="ga_idt-feat-PrepForm.html">PrepForm</a></tt> (978; 3% instances), <tt><a href="ga_idt-feat-Typo.html">Typo</a></tt> (157; 0% instances), <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt> (101; 0% instances), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt> (64; 0% instances), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt> (13; 0% instances)
 
-`NOUN` occurs with 26 feature-value pairs: `Abbr=Yes`, `Case=Dat`, `Case=Gen`, `Case=NomAcc`, `Case=Voc`, `Definite=Def`, `Definite=Ind`, `Dialect=Connaught`, `Dialect=Munster`, `Dialect=Ulster`, `Foreign=Yes`, `Form=Ecl`, `Form=Emp`, `Form=Emp,Len`, `Form=HPref`, `Form=Len`, `Gender=Fem`, `Gender=Masc`, `NounType=Strong`, `NounType=Weak`, `Number=Plur`, `Number=Sing`, `PrepForm=Cmpd`, `Typo=Yes`, `VerbForm=Inf`, `VerbForm=Vnoun`
+`NOUN` occurs with 26 feature-value pairs: `Abbr=Yes`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Definite=Def`, `Definite=Ind`, `Dialect=Connaught`, `Dialect=Munster`, `Dialect=Ulster`, `Foreign=Yes`, `Form=Ecl`, `Form=Emp`, `Form=Emp,Len`, `Form=HPref`, `Form=Len`, `Gender=Fem`, `Gender=Masc`, `NounType=Strong`, `NounType=Weak`, `Number=Plur`, `Number=Sing`, `PrepForm=Cmpd`, `Typo=Yes`, `VerbForm=Inf`, `VerbForm=Vnoun`
 
 `NOUN` occurs with 265 feature combinations.
-The most frequent feature combination is `Case=NomAcc|Gender=Masc|Number=Sing` (3997 tokens).
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (3997 tokens).
 Examples: <em>duine, rud, bith, gá, fad, ábhar, bás, iarratas, lá, tús</em>
 
 

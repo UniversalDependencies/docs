@@ -22,17 +22,17 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Ya	ya	CCONJ	_	_	4	cc	_	LangID=TR
-2	da	de	CCONJ	_	_	1	fixed	_	LangID=TR
-3	ne	ne	ADV	_	_	4	advmod	_	LangID=TR
-4	bileyim	bil	VERB	_	Aspect=Imp|Evident=Fh|Mood=Opt|Number=Sing|Person=1|Tense=Pres	0	root	_	LangID=TR
-5	ich	ich	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	LangID=DE
-6	bin	sein	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	LangID=DE
-7	bei	bei	ADP	_	_	8	case	_	LangID=DE
-8	Ding	Ding	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	parataxis	_	LangID=DE
-9	eh	eh	INTJ	_	_	8	discourse	_	LangID=DE
-10	Sale	Sale	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	dislocated	_	DislocateHead=8|LangID=DE|SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	_	LangID=OTHER
+1	Ya	ya	CCONJ	_	_	4	cc	_	CSID=TR|Lang=tr
+2	da	de	CCONJ	_	_	1	fixed	_	CSID=TR|Lang=tr
+3	ne	ne	ADV	_	_	4	advmod	_	CSID=TR|Lang=tr
+4	bileyim	bil	VERB	_	Aspect=Imp|Evident=Fh|Mood=Opt|Number=Sing|Person=1|Tense=Pres	0	root	_	CSID=TR|Lang=tr
+5	ich	ich	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	CSID=DE|Lang=de
+6	bin	sein	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	CSID=DE|Lang=de
+7	bei	bei	ADP	_	_	8	case	_	CSID=DE|Lang=de
+8	Ding	Ding	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	parataxis	_	CSID=DE|Lang=de
+9	eh	eh	INTJ	_	_	8	discourse	_	CSID=DE|Lang=de
+10	Sale	Sale	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	dislocated	_	CSID=DE|DislocateHead=8|Lang=de|SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	CSID=OTHER
 
 ~~~
 
@@ -43,14 +43,14 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
-1	Yani	yani	ADV	_	_	5	advmod	_	LangID=TR
-2	tabii	tabii	ADV	_	_	5	advmod	_	LangID=TR
-3	ki	ki	ADV	_	_	2	fixed	_	LangID=TR
-4	bazen	bazen	ADV	_	_	5	advmod	_	LangID=TR
-5	willst	wollen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	LangID=DE
-6	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	LangID=DE
-7	nicht	nicht	PART	_	Polarity=Neg	5	advmod	_	LangID=DE|SpaceAfter=No
-8	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
+1	Yani	yani	ADV	_	_	5	advmod	_	CSID=TR|Lang=tr
+2	tabii	tabii	ADV	_	_	5	advmod	_	CSID=TR|Lang=tr
+3	ki	ki	ADV	_	_	2	fixed	_	CSID=TR|Lang=tr
+4	bazen	bazen	ADV	_	_	5	advmod	_	CSID=TR|Lang=tr
+5	willst	wollen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	CSID=DE|Lang=de
+6	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	CSID=DE|Lang=de
+7	nicht	nicht	PART	_	Polarity=Neg	5	advmod	_	CSID=DE|Lang=de|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	CSID=OTHER
 
 ~~~
 
@@ -61,16 +61,16 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
-1	Ehm	ehm	INTJ	_	_	5	discourse	_	LangID=TR
-2	ilk	ilk	ADJ	_	_	5	advmod	_	LangID=TR
-3	önce	önce	NOUN	_	Case=Nom|Number=Sing	2	obl	_	LangID=TR
-4	kendi	kendi	DET	_	_	5	det	_	LangID=TR
-5	dilleri	dil	NOUN	_	Case=Acc|Number=Plur	0	root	_	LangID=TR
-6	ondan	o	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Prs	9	advmod	_	LangID=TR
-7	sonra	sonra	ADP	_	_	6	fixed	_	LangID=TR
-8	eh	eh	INTJ	_	_	9	discourse	_	LangID=TR
-9	Englisch	Englisch	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	LangID=DE|SpaceAfter=No
-10	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
+1	Ehm	ehm	INTJ	_	_	5	discourse	_	CSID=TR|Lang=tr
+2	ilk	ilk	ADJ	_	_	5	advmod	_	CSID=TR|Lang=tr
+3	önce	önce	NOUN	_	Case=Nom|Number=Sing	2	obl	_	CSID=TR|Lang=tr
+4	kendi	kendi	DET	_	_	5	det	_	CSID=TR|Lang=tr
+5	dilleri	dil	NOUN	_	Case=Acc|Number=Plur	0	root	_	CSID=TR|Lang=tr
+6	ondan	o	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Prs	9	advmod	_	CSID=TR|Lang=tr
+7	sonra	sonra	ADP	_	_	6	fixed	_	CSID=TR|Lang=tr
+8	eh	eh	INTJ	_	_	9	discourse	_	CSID=TR|Lang=tr
+9	Englisch	Englisch	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	CSID=DE|Lang=de|SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	CSID=OTHER
 
 ~~~
 

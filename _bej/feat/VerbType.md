@@ -42,4 +42,4 @@ is contributed by a noun complement but it is not just a nominal predicate with 
 
 #### Examples
 - _ j= ʔar han hus i- <b>kati</b> -na /_ "The children also keep quiet"
-<!-- Interlanguage links updated Pá kvě 14 11:08:43 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:32 CET 2021 -->

@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 2 3 nmod:poss	color:blue
 1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	Suara	suara	NOUN	_	Number=Sing	4	nsubj	_	_
-3	nya	nya	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+3	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
 4	menjangkau	jangkau	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
 5	seluruh	seluruh	DET	_	PronType=Tot	6	det	_	_
 6	dunia	dunia	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No
@@ -68,7 +68,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 2	nyata	nyata	ADJ	_	_	0	root	_	_
 3	saat	saat	ADV	_	PronType=Rel	9	advmod	_	_
 4	nama	nama	NOUN	_	Number=Sing	9	nsubj	_	_
-5	seorang	orang	DET	_	Number=Sing|PronType=Ind	6	det	_	_
+5	seorang	orang	DET	_	Definite=Ind|PronType=Art	6	det	_	_
 6	selebriti	selebritas	NOUN	_	Number=Sing	4	nmod:poss	_	_
 7	awalnya	awal	ADV	_	_	9	advmod	_	_
 8	cukup	cukup	ADV	_	_	9	advmod	_	_

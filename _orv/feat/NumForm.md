@@ -41,4 +41,4 @@ digits, letters, or as a word?
 #### Examples
 
 * _РПЅ г сентябрѧ въ Ѕ де_  “in the y<ear> 186th on the sixth d<ay>“
-<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:25 CET 2021 -->

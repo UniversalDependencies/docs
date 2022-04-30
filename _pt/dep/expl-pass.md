@@ -18,4 +18,4 @@ with free pro-drop (the ability to use zero anaphora rather than overt pronouns)
 expletives of this sort, they can be positioned where normally a core argument appears: the subject
 and direct object (and even indirect object) slots, as in the examples below.
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:04 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:53 CET 2021 -->

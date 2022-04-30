@@ -29,7 +29,7 @@ The following 43 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 5	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	obj	_	_
 6	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 7	'	'	PUNCT	Punct	_	8	punct	_	SpaceAfter=No
-8	fhios	fios	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	fhios	fios	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
 9	agam	ag	ADP	Prep	Number=Sing|Person=1	6	obl:prep	_	_
 10	gur	gur	PART	Vb	PartType=Vb|Tense=Past	11	mark:prt	_	_
 11	thuig	tuig	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	6	ccomp	_	_
@@ -37,7 +37,7 @@ The following 43 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 13	sin	sin	PRON	Dem	PronType=Dem	11	obj	_	_
 14	i	i	ADP	Simp	_	16	case	_	_
 15	do	do	DET	Det	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
-16	chroí	croí	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+16	chroí	croí	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -52,9 +52,9 @@ The following 43 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	Bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	sí	sí	PRON	Pers	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
 3	naoi	naoi	NUM	Num	NumType=Card	4	nummod	_	_
-4	mbliana	bliain	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Fem|Number=Plur	1	xcomp:pred	_	_
+4	mbliana	bliain	NOUN	Noun	Case=Nom|Form=Ecl|Gender=Fem|Number=Plur	1	xcomp:pred	_	_
 5	agus	agus	CCONJ	Coord	_	6	cc	_	_
-6	leathchéad	leathchéad	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+6	leathchéad	leathchéad	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -68,10 +68,10 @@ The following 43 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 5 4 nsubj	color:blue
 1	Sin	is	AUX	Cop	PronType=Dem|Tense=Pres|VerbForm=Cop	0	root	_	_
 2	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
-3	té	té	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	té	té	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
 4	a	a	PART	Vb	Form=Direct|PartType=Vb|PronType=Rel	5	nsubj	_	_
 5	itheann	ith	VERB	VTI	Mood=Ind|Tense=Pres	3	acl:relcl	_	_
-6	feoil	feoil	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+6	feoil	feoil	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~

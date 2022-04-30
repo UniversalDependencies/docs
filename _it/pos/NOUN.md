@@ -2,6 +2,7 @@
 layout: postag
 title: 'NOUN'
 shortdef: 'noun'
+udver: '2'
 ---
 
 
@@ -13,7 +14,7 @@ The `NOUN` tag is intended for common nouns only. See [PROPN]() for
 proper nouns and [PRON]() for pronouns.
 
 
-###Corresponding language-specific part-of-speech tags
+### Corresponding language-specific part-of-speech tags
 
 S:	Common noun
 
@@ -25,4 +26,4 @@ S:	Common noun
 - _albero_ "tree"
 - _aria_ "air"
 - _bellezza_ "beauty"
-<!-- Interlanguage links updated Pá kvě 14 11:08:21 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:11 CET 2021 -->

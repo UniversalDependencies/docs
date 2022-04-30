@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>вылын</em> (<tt><a href="kpv_ikd
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.068966 (the average of all parts of speech is 1.333333).
+The form / lemma ratio of `ADP` is 1.068966 (the average of all parts of speech is 1.332903).
 
 The 1st highest number of forms (3) was observed with the lemma “вылын”: <em>вылас, вылын, вылэ</em>.
 

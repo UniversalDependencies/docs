@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-48 nodes (0%) are attached to their parents as `conj`.
+49 nodes (0%) are attached to their parents as `conj`.
 
-48 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.72916666666667.
+49 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.73469387755102.
 
-The following 7 pairs of parts of speech are connected with `conj`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (25; 52% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (14; 29% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `conj`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (26; 53% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (14; 29% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -30,8 +30,8 @@ The following 7 pairs of parts of speech are connected with `conj`: <tt><a href=
 6	ወድ	ወድ	VERB	VERB	_	0	root	_	Translit=wädə|LTranslit=wädə
 7	ኣል	ኣል	AUX	AUX	_	6	aux	_	Translit='alə|LTranslit='alə
 8	ኧሁ	ኧሁ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	6	expl	_	Translit='ăhu|LTranslit='ăhu
-9	ነገር	ነገር	NOUN	NOUN	_	10	goeswith	_	Translit=nägärə|LTranslit=nägärə
-10	ግን	ግን	CCONJ	CCONJ	_	12	cc	_	Translit=gənə|LTranslit=gənə
+9	ነገር	ነገር	CCONJ	CCONJ	_	12	cc	_	Translit=nägärə|LTranslit=nägärə
+10	ግን	ግን	CCONJ	CCONJ	_	9	goeswith	_	Translit=gənə|LTranslit=gənə
 11	ጊዜ	ጊዜ	NOUN	NOUN	_	12	obj	_	Translit=gize|LTranslit=gize
 12	የለ	የለ	VERB	VERB	_	6	conj	_	Translit=jälä|LTranslit=jälä
 13	ኝ	ኝ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	12	nsubj	_	Translit=ňə|LTranslit=ňə

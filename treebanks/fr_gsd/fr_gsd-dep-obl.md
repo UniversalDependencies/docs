@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `obl`: <tt><a href="fr_gsd-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="fr_gsd-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="fr_gsd-dep-obl-mod.html">obl:mod</a></tt>.
 
-14 nodes (0%) are attached to their parents as `obl`.
+16 nodes (0%) are attached to their parents as `obl`.
 
-13 instances of `obl` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.0714285714286.
+15 instances of `obl` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.125.
 
-The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (9; 64% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (2; 14% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 7% instances).
+The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (8; 50% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4; 25% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -56,38 +56,31 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 26 obl	color:blue
-1	Allez	Allez	PROPN	_	_	5	nsubj	_	_
-2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-4	premier	premier	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
-5	album	album	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-6	de	de	ADP	_	_	7	case	_	_
-7	Kaolin	Kaolin	PROPN	_	_	5	nmod	_	_
-8	enregistré	enregistrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
-9	en	en	ADP	_	_	10	case	_	_
-10	décembre	décembre	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_
-11	2001	2001	NUM	_	Number=Plur	10	nmod	_	_
-12	à	à	ADP	_	_	14	case	_	_
-13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	Parkgate	Parkgate	PROPN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_
-15	studio	studio	NOUN	_	Gender=Masc|Number=Sing	14	flat:name	_	_
-16	à	à	ADP	_	_	17	case	_	_
-17	Battlefield	Battlefield	PROPN	_	_	8	obl:mod	_	_
-18	et	et	CCONJ	_	_	19	cc	_	_
-19	janvier	janvier	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
-20	2002	2002	NUM	_	Number=Plur	19	nmod	_	_
-21	à	à	ADP	_	_	23	case	_	_
-22	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-23	Gam	Gam	PROPN	_	Gender=Masc|Number=Sing	8	obl	_	_
-24	studio	studio	NOUN	_	Gender=Masc|Number=Sing	23	flat:name	_	_
-25	à	à	ADP	_	_	26	case	_	_
-26	Waimes	Waimes	PROPN	_	_	8	obl	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 8 12 obl	color:blue
+1	Akhmatova	Akhmatova	PROPN	_	_	4	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	opéra	opéra	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	dont	dont	PRON	_	PronType=Rel	7	nmod	_	_
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	création	création	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+8	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+9	lieu	lieu	NOUN	_	Gender=Masc|Number=Sing	8	obj:lvc	_	_
+10	à	à	ADP	_	_	12	case	_	_
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	Opéra	Opéra	PROPN	_	Number=Sing	8	obl	_	_
+13	Bastille	Bastille	PROPN	_	_	12	flat:name	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	Paris	Paris	PROPN	_	_	12	nmod	_	_
+16	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	28	28	NUM	_	Number=Sing	8	obl:mod	_	_
+18	mars	mars	NOUN	_	Gender=Masc	17	nmod	_	_
+19	2011	2011	NUM	_	Number=Plur	18	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -124,7 +117,7 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 24	,	,	PUNCT	_	_	20	punct	_	_
 25	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	27	nsubj	_	_
 26	sommes	être	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	27	cop	_	_
-27	présent	présent	ADJ	_	Gender=Masc|Number=Sing|Typo=Yes	0	root	_	CorrectNumber=Plur|wordform=présents
+27	présent	présent	ADJ	_	Gender=Masc|Number=Sing|Typo=Yes	0	root	_	CorrectForm=présents|CorrectNumber=Plur
 28	sur	sur	ADP	_	_	30	case	_	_
 29	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	rive	rive	NOUN	_	Gender=Fem|Number=Sing	27	obl	_	_
@@ -132,7 +125,7 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 32	comme	comme	SCONJ	_	_	35	mark	_	_
 33	sur	sur	ADP	_	_	35	case	_	_
 34	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
-35	rive	rive	NOUN	_	Gender=Fem|Number=Sing	30	acl	_	_
+35	rive	rive	NOUN	_	Gender=Fem|Number=Sing	27	advcl	_	_
 36	gauche	gauche	ADJ	_	Gender=Fem|Number=Sing	35	amod	_	_
 37	de	de	ADP	_	_	39	case	_	_
 38	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_

@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>1, 2, deux, 3, 6, 2000, 2002, 1999, 2001,
 
 The 10 most frequent `NUM` types:  <em>1, 2, deux, 3, 6, 2000, 2002, 1999, 2001, 2005</em>
 
-The 10 most frequent ambiguous lemmas: <em>neuf</em> (<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> 1), <em>un</em> (<tt><a href="fr_partut-pos-DET.html">DET</a></tt> 620, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 11, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>neuf</em> (<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> 1), <em>un</em> (<tt><a href="fr_partut-pos-DET.html">DET</a></tt> 621, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 11, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="fr_partut-pos-DET.html">DET</a></tt> 209, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 5, <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> 1)
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="fr_partut-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.409310).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.409573).
 
 The 1st highest number of forms (1) was observed with the lemma “-20”: <em>-20</em>.
 

@@ -8,20 +8,20 @@ udver: '2'
 
 This relation is universal.
 
-4522 nodes (15%) are attached to their parents as `punct`.
+5288 nodes (15%) are attached to their parents as `punct`.
 
-2815 instances of `punct` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.43697478991597.
+3363 instances of `punct` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.58850226928896.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1975; 44% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1918; 42% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (285; 6% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (152; 3% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (68; 2% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (49; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (29; 1% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (28; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (2409; 46% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (2142; 41% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (316; 6% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (206; 4% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (69; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (56; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (30; 1% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (29; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), <tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 punct	color:blue
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 12 punct	color:blue
 1	Писанъ	писати	VERB	Transit=Tran	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
 2	на	на	ADP	_	_	3	case	_	_
 3	Москвѣ	Москва	PROPN	Animacy[lex]=Inan	Case=Loc|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
@@ -39,11 +39,11 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 12 punct	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 punct	color:blue
 1	Писанъ	писати	VERB	Transit=Tran	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
 2	на	на	ADP	_	_	3	case	_	_
 3	Москвѣ	Москва	PROPN	Animacy[lex]=Inan	Case=Loc|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No

@@ -22,15 +22,15 @@ The following 6 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 conj	color:blue
-1	Oker	ker	NOUN	n	Reflex=Yes	0	root	0:root	_
-2	janondé	janondé	ADP	posp	_	1	case	1:case	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	opakawérɨpe	ok	NOUN	n	Case=Loc|Reflex=Yes|Tense=Past	1	conj	1:conj	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	oka	oka	NOUN	n	Case=Ref	8	obl	8:obl	_
-7	swi	swi	ADP	posp	Rel=Cont	6	case	6:case	_
-8	osema	sem	NOUN	n	Case=Ref|Reflex=Yes	1	conj	1:conj	_
-9	βé	βé	ADV	adv	_	1	advmod	1:advmod	_
+1	Oker	ker	NOUN	n	Reflex=Yes	0	root	_	_
+2	janondé	janondé	ADP	posp	_	1	case	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	opakawérɨpe	ok	NOUN	n	Case=Loc|Reflex=Yes|Tense=Past	1	conj	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	oka	oka	NOUN	n	Case=Ref	8	obl	_	_
+7	swi	swi	ADP	posp	Rel=Cont	6	case	_	_
+8	osema	sem	NOUN	n	Case=Ref|Reflex=Yes	1	conj	_	_
+9	βé	βé	ADV	adv	_	1	advmod	_	_
 
 ~~~
 
@@ -41,12 +41,12 @@ The following 6 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 conj	color:blue
-1	Ijaoβoka	aoβok	VERB	vi	Incorp=Yes|Rel=NCont|VerbForm=Ger	0	root	0:root	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	4:nmod	_
-4	aopiranga	aoβpirang	NOUN	_	_	5	obl	5:obl	_
-5	mondepa	mondep	VERB	vt	Rel=Cont|VerbForm=Ger	1	conj	1:conj	_
-6	sesé	sesé	ADP	posp	Rel=NCont	4	case	4:case	_
+1	Ijaoβoka	aoβok	VERB	vi	Incorp=Yes|Rel=NCont|VerbForm=Ger	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	_	_
+4	aopiranga	aoβpirang	NOUN	_	_	5	obl	_	_
+5	mondepa	mondep	VERB	vt	Rel=Cont|VerbForm=Ger	1	conj	_	_
+6	sesé	sesé	ADP	posp	Rel=NCont	4	case	_	_
 
 ~~~
 
@@ -57,16 +57,16 @@ The following 6 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 10 conj	color:blue
-1	Iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
-2	seroβiarɨpɨra	eroβjar	NOUN	n	Nomzr=Pas|Rel=NCont	1	appos	1:appos	_
-3	,	,	PUNCT	punct	_	1	punct	1:punct	_
-4	ʃeaɲangusumiʃɨra	aɲangusumiʃɨr	NOUN	n	Nomzr=Pas|Number=Sing|Person=1	1	conj	1:conj	_
-5	,	,	PUNCT	punct	_	4	punct	4:punct	_
-6	Waiʃará	Guaixará	PROPN	propn	_	7	nmod	7:nmod	_
-7	serɨβaʔe	er	NOUN	Nomzr=Rel|Rel=NCont	_	1	conj	1:conj	_
-8	,	,	PUNCT	punct	_	7	punct	7:punct	_
-9	kwepe	kwepe	ADV	adv	_	10	advmod	10:advmod	_
-10	imoerapwanɨmbɨra	_	NOUN	n	Nomzr=Pas|Rel=NCont|Voice=Cau	1	conj	1:conj	_
+1	Iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	seroβiarɨpɨra	eroβjar	NOUN	n	Nomzr=Pas|Rel=NCont	1	appos	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	ʃeaɲangusumiʃɨra	aɲangusumiʃɨr	NOUN	n	Nomzr=Pas|Number=Sing|Person=1	1	conj	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	Waiʃará	Guaixará	PROPN	propn	_	7	nmod	_	_
+7	serɨβaʔe	er	NOUN	Nomzr=Rel|Rel=NCont	_	1	conj	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	kwepe	kwepe	ADV	adv	_	10	advmod	_	_
+10	imoerapwanɨmbɨra	_	NOUN	n	Nomzr=Pas|Rel=NCont|Voice=Cau	1	conj	_	_
 
 ~~~
 

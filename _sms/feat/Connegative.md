@@ -20,4 +20,4 @@ Note that there is no `No` value. If the word is not connegative, the
 
 * [sms] _Jiõm <b>pâsttam</b> ..._ "I didn't <b>manage</b> to ..."
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:30 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:19 CET 2021 -->

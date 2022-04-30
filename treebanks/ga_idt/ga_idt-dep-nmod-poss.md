@@ -29,7 +29,7 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 5	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	obj	_	_
 6	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 7	'	'	PUNCT	Punct	_	8	punct	_	SpaceAfter=No
-8	fhios	fios	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	fhios	fios	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
 9	agam	ag	ADP	Prep	Number=Sing|Person=1	6	obl:prep	_	_
 10	gur	gur	PART	Vb	PartType=Vb|Tense=Past	11	mark:prt	_	_
 11	thuig	tuig	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	6	ccomp	_	_
@@ -37,7 +37,7 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 13	sin	sin	PRON	Dem	PronType=Dem	11	obj	_	_
 14	i	i	ADP	Simp	_	16	case	_	_
 15	do	do	DET	Det	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
-16	chroí	croí	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+16	chroí	croí	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -49,12 +49,12 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nmod:poss	color:blue
-1	Bricfeasta	bricfeasta	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	0	root	_	_
+1	Bricfeasta	bricfeasta	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	ag	ag	ADP	Simp	_	4	case	_	_
 3	a	a	PART	Nm	PartType=Num	4	nmod:poss	_	_
-4	leath	leath	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	obl:tmod	_	_
+4	leath	leath	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	1	obl:tmod	_	_
 5	i	i	ADP	Cmpd	PrepForm=Cmpd	8	case	_	_
-6	ndiaidh	diaidh	NOUN	Cmpd	Case=NomAcc|Form=Ecl|Number=Sing|PrepForm=Cmpd	5	fixed	_	_
+6	ndiaidh	diaidh	NOUN	Cmpd	Case=Nom|Form=Ecl|Number=Sing|PrepForm=Cmpd	5	fixed	_	_
 7	a	a	PART	Nm	PartType=Num	8	mark:prt	_	_
 8	sé	sé	NUM	Num	NumType=Card	4	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	Punct	_	11	punct	_	_
@@ -79,7 +79,7 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 9 8 nmod:poss	color:blue
 1	Toghfaidh	togh	VERB	VTI	Mood=Ind|Tense=Fut	0	root	_	_
 2	siad	siad	PRON	Pers	Number=Plur|Person=3	1	nsubj	_	_
-3	Uachtarán	uachtarán	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
+3	Uachtarán	uachtarán	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
 4	na	an	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Cúirte	cúirt	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	_
 6	Iniúchóirí	iniúchóir	NOUN	Noun	Case=Gen|Gender=Masc|NounType=Strong|Number=Plur	5	nmod	_	_
@@ -88,10 +88,10 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 9	Hon	Hon	PROPN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
 10	féin	féin	PRON	Ref	Reflex=Yes	9	nmod	_	_
 11	go	go	ADP	Cmpd	PrepForm=Cmpd	13	case	_	_
-12	ceann	ceann	NOUN	Cmpd	Case=NomAcc|Gender=Masc|Number=Sing|PrepForm=Cmpd	11	fixed	_	_
+12	ceann	ceann	NOUN	Cmpd	Case=Nom|Gender=Masc|Number=Sing|PrepForm=Cmpd	11	fixed	_	_
 13	téarma	téarma	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
 14	trí	trí	NUM	Num	NumType=Card	15	nummod	_	_
-15	bliana	bliain	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
+15	bliana	bliain	NOUN	Noun	Case=Nom|Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~

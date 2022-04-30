@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-11219 tokens (11%) have a non-empty value of `Person`.
-1712 types (9%) occur at least once with a non-empty value of `Person`.
-964 lemmas (10%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (5750; 6% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (4419; 5% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (682; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (367; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+11223 tokens (11%) have a non-empty value of `Person`.
+1711 types (9%) occur at least once with a non-empty value of `Person`.
+963 lemmas (10%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (5750; 6% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (4419; 5% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (682; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (372; 0% instances).
 
 ### `AUX`
 
@@ -73,27 +73,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `DET`
 
-367 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Person`.
+372 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (367; 100%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (367; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (288; 78%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (372; 100%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (372; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (293; 79%), <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (215; 58%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (80; 22% of non-empty `Person`): <em>naše, našeg, naša, naš, naših, moj, našem, našoj, moja, moju</em>
+* `1` (81; 22% of non-empty `Person`): <em>naše, našeg, naša, naš, naših, moj, našem, našoj, moja, moju</em>
 * `2` (10; 3% of non-empty `Person`): <em>vaša, vaše, vašem, tvojim, vaš</em>
-* `3` (277; 75% of non-empty `Person`): <em>njegova, njegov, njegovog, njen, njihov, njegove, njihove, njegovih, njegovim, njegovom</em>
-* `EMPTY` (3298): <em>koji, to, koje, koja, svoje, ove, sve, toga, nekoliko, koju</em>
-
-### `NUM`
-
-1 <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
-
-`NUM` tokens may have the following values of `Person`:
-
-* `3` (1; 100% of non-empty `Person`): <em>dve</em>
-* `EMPTY` (2085): <em>jedan, tri, dve, dva, prvi, pet, četiri, 20, jedna, deset</em>
+* `3` (281; 76% of non-empty `Person`): <em>njegova, njegov, njegovog, njen, njihov, njegove, njihove, njegovom, njegovih, njegovim</em>
+* `EMPTY` (3267): <em>koji, to, koje, koja, svoje, ove, sve, toga, nekoliko, koju</em>
 
 ## Relations with Agreement in `Person`
 

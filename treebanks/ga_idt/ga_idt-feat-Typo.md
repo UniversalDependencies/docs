@@ -18,7 +18,7 @@ The feature is used with 11 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.ht
 
 157 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (133; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (118; 75%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (111; 71%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (103; 66%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (98; 62%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (80; 51%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (133; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (118; 75%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (111; 71%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (103; 66%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (98; 62%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (80; 51%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 33 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (29; 88%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (28; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (26; 79%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (25; 76%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (22; 67%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (19; 58%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (29; 88%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (28; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (26; 79%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (25; 76%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (22; 67%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (19; 58%).
 
 `ADJ` tokens may have the following values of `Typo`:
 

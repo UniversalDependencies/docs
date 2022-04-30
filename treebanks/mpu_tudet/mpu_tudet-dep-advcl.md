@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 advcl	color:blue
-1	wotye	woty	VERB	vi	Aspect=Imp	0	root	0:root	_
-2	pukpuga	puk	VERB	vi	Aspect=Perf	1	advcl	1:advcl	_
-3	pit	pit	PRON	pro	Polarity=Neg	2	parataxis	2:parataxis	_
+1	wotye	woty	VERB	vi	Aspect=Imp	0	root	_	_
+2	pukpuga	puk	VERB	vi	Aspect=Perf	1	advcl	_	_
+3	pit	pit	PRON	pro	Polarity=Neg	2	parataxis	_	_
 
 ~~~
 

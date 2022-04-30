@@ -64,7 +64,7 @@ The following 26 pairs of parts of speech are connected with `orphan`: <tt><a hr
 9	milijarde	milijarda	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	8	flat	_	_
 10	evra	evro	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	5	obl	_	_
 11	u	u	ADP	Sl	Case=Loc	13	case	_	_
-12	2003.	2003.	NUM	Mdo	NumType=Ord	13	nummod	_	_
+12	2003.	2003.	ADJ	Mdo	NumType=Ord	13	amod	_	_
 13	godini	godina	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	Z	_	16	punct	_	_
 15	na	na	ADP	Sa	Case=Acc	16	case	_	_

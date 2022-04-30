@@ -117,13 +117,13 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 
 1524 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1524; 100%), <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1524; 100%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Ind,Neg,Tot</tt> (1522; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1515; 99%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1524; 100%), <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1524; 100%), <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1524; 100%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Ind,Neg,Tot</tt> (1522; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1515; 99%).
 
 `DET` tokens may have the following values of `Degree`:
 
 * `Cmp` (1522; 100% of non-empty `Degree`): <em>mehr, weniger</em>
 * `Sup` (2; 0% of non-empty `Degree`): <em>meisten</em>
-* `EMPTY` (402260): <em>die, der, den, das, des, eine, dem, ein, einen, einem</em>
+* `EMPTY` (458450): <em>der, die, dem, den, das, des, eine, ein, einen, einem</em>
 
 ### `VERB`
 

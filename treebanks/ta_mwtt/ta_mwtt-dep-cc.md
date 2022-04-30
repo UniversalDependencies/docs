@@ -22,11 +22,11 @@ The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="t
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cc	color:blue
-1	சிறிய	சிறிய	ADJ	_	_	4	amod	4:amod	Translit=ciṟiya|LTranslit=ciṟiya
-2	ஆனால்	ஆனால்	ADV	_	_	3	cc	3:cc	Translit=āṉāl|LTranslit=āṉāl
-3	நல்ல	நல்ல	ADJ	_	_	4	amod	4:amod	Translit=nalla|LTranslit=nalla
-4	பெண்	பெண்	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	0:root	Translit=peṇ|LTranslit=peṇ
-5	.	.	PUNCT	_	PunctType=Peri	4	punct	4:punct	Translit=.|LTranslit=.
+1	சிறிய	சிறிய	ADJ	_	_	4	amod	_	Translit=ciṟiya|LTranslit=ciṟiya
+2	ஆனால்	ஆனால்	ADV	_	_	3	cc	_	Translit=āṉāl|LTranslit=āṉāl
+3	நல்ல	நல்ல	ADJ	_	_	4	amod	_	Translit=nalla|LTranslit=nalla
+4	பெண்	பெண்	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	Translit=peṇ|LTranslit=peṇ
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -37,10 +37,10 @@ The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="t
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cc	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	0	root	0:root	Translit=kumār|LTranslit=kumār
-2	அல்லது	அல்லது	CCONJ	_	_	3	cc	3:cc	Translit=allatu|LTranslit=allatu
-3	ராஜா	ராஜா	PROPN	_	Case=Nom|Number=Sing|Person=3	1	conj	1:conj	Translit=rājā|LTranslit=rājā
-4	.	.	PUNCT	_	PunctType=Peri	1	punct	1:punct	Translit=.|LTranslit=.
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	0	root	_	Translit=kumār|LTranslit=kumār
+2	அல்லது	அல்லது	CCONJ	_	_	3	cc	_	Translit=allatu|LTranslit=allatu
+3	ராஜா	ராஜா	PROPN	_	Case=Nom|Number=Sing|Person=3	1	conj	_	Translit=rājā|LTranslit=rājā
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

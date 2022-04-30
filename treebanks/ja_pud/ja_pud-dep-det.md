@@ -26,20 +26,20 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No
 3	いずれ	いずれ	PRON	代名詞	_	9	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No
 4	に	に	SCONJ	助詞-格助詞	_	3	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-接続助詞|SpaceAfter=No
-5	せよ	せる	SCONJ	助動詞	_	4	fixed	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=助詞-接続助詞|SpaceAfter=No
+5	せよ	せる	SCONJ	助動詞-下一段-サ行	_	4	fixed	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=助詞-接続助詞|SpaceAfter=No
 6	刑務	刑務	NOUN	名詞-普通名詞-一般	_	7	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 7	所	所	NOUN	接尾辞-名詞的-一般	_	9	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 8	に	に	ADP	助詞-格助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-9	行く	行く	VERB	動詞-非自立可能	_	15	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-五段-カ行|SpaceAfter=No
+9	行く	行く	VERB	動詞-非自立可能-五段-カ行	_	15	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-五段-カ行|SpaceAfter=No
 10	が	が	SCONJ	助詞-接続助詞	_	9	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-接続助詞|SpaceAfter=No
 11	、	、	PUNCT	補助記号-読点	_	9	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No
 12	その	その	DET	連体詞	_	13	det	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=連体詞|SpaceAfter=No
 13	価値	価値	NOUN	名詞-普通名詞-一般	_	15	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 14	が	が	ADP	助詞-格助詞	_	13	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-15	あり	ある	VERB	動詞-非自立可能	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-ラ行|SpaceAfter=No
-16	ます	ます	AUX	助動詞	_	15	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-マス|SpaceAfter=No
+15	あり	ある	VERB	動詞-非自立可能-五段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-ラ行|SpaceAfter=No
+16	ます	ます	AUX	助動詞-助動詞-マス	_	15	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-マス|SpaceAfter=No
 17	よう	よう	AUX	形状詞-助動詞語幹	_	15	aux	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=形状詞-助動詞語幹|SpaceAfter=No
-18	に	だ	AUX	助動詞	_	15	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No
+18	に	だ	AUX	助動詞-助動詞-ダ	_	15	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No
 19	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~
@@ -58,15 +58,15 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 5	と	と	ADP	助詞-格助詞	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 6	あらゆる	あらゆる	DET	連体詞	_	7	det	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=連体詞|SpaceAfter=No
 7	不思議	不思議	ADJ	名詞-普通名詞-形状詞可能	_	9	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=形状詞-一般|SpaceAfter=No
-8	な	だ	AUX	助動詞	_	7	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No
+8	な	だ	AUX	助動詞-助動詞-ダ	_	7	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No
 9	こと	こと	NOUN	名詞-普通名詞-一般	_	17	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 10	と	と	ADP	助詞-格助詞	_	9	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 11	それぞれ	それぞれ	ADV	名詞-普通名詞-副詞可能	_	13	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No
 12	専門	専門	NOUN	名詞-普通名詞-一般	_	13	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
 13	化	化	NOUN	接尾辞-名詞的-サ変可能	_	17	acl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
-14	さ	する	AUX	動詞-非自立可能	_	13	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
-15	れ	れる	AUX	助動詞	_	13	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-レル|SpaceAfter=No
-16	た	た	AUX	助動詞	_	13	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+14	さ	する	AUX	動詞-非自立可能-サ行変格	_	13	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No
+15	れ	れる	AUX	助動詞-助動詞-レル	_	13	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-レル|SpaceAfter=No
+16	た	た	AUX	助動詞-助動詞-タ	_	13	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 17	地区	地区	NOUN	名詞-普通名詞-一般	_	24	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 18	が	が	ADP	助詞-格助詞	_	17	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 19	、	、	PUNCT	補助記号-読点	_	17	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No
@@ -74,12 +74,12 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 21	の	の	ADP	助詞-格助詞	_	20	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 22	地	地	NOUN	名詞-普通名詞-一般	_	24	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 23	を	を	ADP	助詞-格助詞	_	22	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-24	占め	占める	VERB	動詞-一般	_	27	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-下一段-マ行|SpaceAfter=No
+24	占め	占める	VERB	動詞-一般-下一段-マ行	_	27	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-下一段-マ行|SpaceAfter=No
 25	て	て	SCONJ	助詞-接続助詞	_	24	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-上一段-ア行|SpaceAfter=No
-26	いる	いる	VERB	動詞-非自立可能	_	25	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞-上一段-ア行|SpaceAfter=No
+26	いる	いる	VERB	動詞-非自立可能-上一段-ア行	_	25	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞-上一段-ア行|SpaceAfter=No
 27	ため	ため	NOUN	名詞-普通名詞-副詞可能	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
-28	で	だ	AUX	助動詞	_	27	cop	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-五段-ラ行|SpaceAfter=No
-29	ある	ある	VERB	動詞-非自立可能	_	28	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞-五段-ラ行|SpaceAfter=No
+28	で	だ	AUX	助動詞-助動詞-ダ	_	27	cop	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-五段-ラ行|SpaceAfter=No
+29	ある	ある	VERB	動詞-非自立可能-五段-ラ行	_	28	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞-五段-ラ行|SpaceAfter=No
 30	。	。	PUNCT	補助記号-句点	_	27	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~
@@ -104,11 +104,11 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 11	代理	代理	NOUN	名詞-普通名詞-サ変可能	_	12	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 12	店	店	NOUN	接尾辞-名詞的-一般	_	14	nsubj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 13	が	が	ADP	助詞-格助詞	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-14	ある	ある	VERB	動詞-非自立可能	_	28	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-五段-ラ行|SpaceAfter=No
+14	ある	ある	VERB	動詞-非自立可能-五段-ラ行	_	28	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般-五段-ラ行|SpaceAfter=No
 15	に	に	SCONJ	助詞-格助詞	_	14	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-接続助詞|SpaceAfter=No
 16	も	も	SCONJ	助詞-係助詞	_	15	fixed	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=助詞-接続助詞|SpaceAfter=No
-17	かかわら	かかわる	SCONJ	動詞-一般	_	15	fixed	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=助詞-接続助詞|SpaceAfter=No
-18	ず	ぬ	SCONJ	助動詞	Polarity=Neg	15	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助詞-接続助詞|SpaceAfter=No
+17	かかわら	かかわる	SCONJ	動詞-一般-五段-ラ行	_	15	fixed	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=助詞-接続助詞|SpaceAfter=No
+18	ず	ぬ	SCONJ	助動詞-助動詞-ヌ	Polarity=Neg	15	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助詞-接続助詞|SpaceAfter=No
 19	、	、	PUNCT	補助記号-読点	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No
 20	その	その	DET	連体詞	_	21	det	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=連体詞|SpaceAfter=No
 21	ドイツ	ドイツ	PROPN	名詞-固有名詞-地名-国	_	23	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-地名-国|SpaceAfter=No
@@ -118,10 +118,10 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 25	財政	財政	NOUN	名詞-普通名詞-一般	_	26	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 26	難	難	NOUN	名詞-普通名詞-一般	_	28	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 27	に	に	ADP	助詞-格助詞	_	26	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
-28	陥っ	陥る	VERB	動詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-ラ行|SpaceAfter=No
+28	陥っ	陥る	VERB	動詞-一般-五段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-ラ行|SpaceAfter=No
 29	て	て	SCONJ	助詞-接続助詞	_	28	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-上一段-ア行|SpaceAfter=No
-30	い	いる	VERB	動詞-非自立可能	_	29	fixed	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=助動詞-上一段-ア行|SpaceAfter=No
-31	た	た	AUX	助動詞	_	28	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
+30	い	いる	VERB	動詞-非自立可能-上一段-ア行	_	29	fixed	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=助動詞-上一段-ア行|SpaceAfter=No
+31	た	た	AUX	助動詞-助動詞-タ	_	28	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No
 32	。	。	PUNCT	補助記号-句点	_	28	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes
 
 ~~~

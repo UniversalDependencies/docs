@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-Valico: POS Tags: `DET`
 
-There are 33 `DET` lemmas (3%), 57 `DET` types (4%) and 1025 `DET` tokens (15%).
+There are 33 `DET` lemmas (3%), 57 `DET` types (4%) and 1023 `DET` tokens (15%).
 Out of 16 observed tags, the rank of `DET` is: 6 in number of lemmas, 6 in number of types and 2 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>il, la, un, una, lo, suo, mio, le, questo, i</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="it_valico-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.727273 (the average of all parts of speech is 1.390760).
+The form / lemma ratio of `DET` is 1.727273 (the average of all parts of speech is 1.389423).
 
 The 1st highest number of forms (6) was observed with the lemma “suo”: <em>sua, sue, sui, suo, suoe, suoi</em>.
 
@@ -60,7 +60,7 @@ The 2nd highest number of forms (5) was observed with the lemma “mio”: <em>M
 
 The 3rd highest number of forms (5) was observed with the lemma “questo”: <em>Quest', questa, queste, questi, questo</em>.
 
-`DET` occurs with 5 features: <tt><a href="it_valico-feat-PronType.html">PronType</a></tt> (1022; 100% instances), <tt><a href="it_valico-feat-Number.html">Number</a></tt> (1015; 99% instances), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (1008; 98% instances), <tt><a href="it_valico-feat-Definite.html">Definite</a></tt> (830; 81% instances), <tt><a href="it_valico-feat-Poss.html">Poss</a></tt> (104; 10% instances)
+`DET` occurs with 5 features: <tt><a href="it_valico-feat-PronType.html">PronType</a></tt> (1020; 100% instances), <tt><a href="it_valico-feat-Number.html">Number</a></tt> (1015; 99% instances), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (1008; 99% instances), <tt><a href="it_valico-feat-Definite.html">Definite</a></tt> (830; 81% instances), <tt><a href="it_valico-feat-Poss.html">Poss</a></tt> (104; 10% instances)
 
 `DET` occurs with 14 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Exc`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Tot`
 
@@ -71,19 +71,19 @@ Examples: <em>il, l', lo, l</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 8 different relations: <tt><a href="it_valico-dep-det.html">det</a></tt> (908; 89% instances), <tt><a href="it_valico-dep-det-poss.html">det:poss</a></tt> (103; 10% instances), <tt><a href="it_valico-dep-det-predet.html">det:predet</a></tt> (7; 1% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="it_valico-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 6 different relations: <tt><a href="it_valico-dep-det.html">det</a></tt> (908; 89% instances), <tt><a href="it_valico-dep-det-poss.html">det:poss</a></tt> (103; 10% instances), <tt><a href="it_valico-dep-det-predet.html">det:predet</a></tt> (7; 1% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="it_valico-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (995; 97% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (995; 97% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-1021 (100%) `DET` nodes are leaves.
+1020 (100%) `DET` nodes are leaves.
 
-2 (0%) `DET` nodes have one child.
+1 (0%) `DET` nodes have one child.
 
 2 (0%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 3 different relations: <tt><a href="it_valico-dep-case.html">case</a></tt> (3; 50% instances), <tt><a href="it_valico-dep-amod.html">amod</a></tt> (2; 33% instances), <tt><a href="it_valico-dep-cc.html">cc</a></tt> (1; 17% instances)
+Children of `DET` nodes are attached using 2 different relations: <tt><a href="it_valico-dep-case.html">case</a></tt> (3; 60% instances), <tt><a href="it_valico-dep-amod.html">amod</a></tt> (2; 40% instances)
 
-Children of `DET` nodes belong to 3 different parts of speech: <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (3; 50% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (2; 33% instances), <tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (1; 17% instances)
+Children of `DET` nodes belong to 2 different parts of speech: <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (3; 60% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (2; 40% instances)
 

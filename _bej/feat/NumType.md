@@ -20,4 +20,4 @@ Used to distinguish numbers from the cardinal numerals which are ordinals stem w
 
 #### Examples
 - _areː <b>mali -a</b> doːr ingiːdhoːm /_ "Then, when he throws it a <b>second</b>(two + suffix) time" 
-<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:25 CET 2021 -->

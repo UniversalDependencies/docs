@@ -58,4 +58,4 @@ This relation is used for adverbs of negation too.
 7	venuz	_	VERB	VERppe	_	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:47 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:35 CET 2021 -->

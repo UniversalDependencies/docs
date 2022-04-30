@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>2006</em> (<tt><a href="id_csui-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.005848 (the average of all parts of speech is 1.084934).
+The form / lemma ratio of `NUM` is 1.005848 (the average of all parts of speech is 1.085880).
 
 The 1st highest number of forms (2) was observed with the lemma “dua”: <em>dua, dua-duanya</em>.
 
@@ -47,26 +47,32 @@ The 2nd highest number of forms (2) was observed with the lemma “juta”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “puluh”: <em>puluh, puluhan</em>.
 
-`NUM` does not occur with any features.
+`NUM` occurs with 2 features: <tt><a href="id_csui-feat-NumType.html">NumType</a></tt> (1857; 100% instances), <tt><a href="id_csui-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+
+`NUM` occurs with 2 feature-value pairs: `NumType=Card`, `PronType=Tot`
+
+`NUM` occurs with 2 feature combinations.
+The most frequent feature combination is `NumType=Card` (1856 tokens).
+Examples: <em>2007, triliun, miliar, 2006, juta, 2008, satu, dua, 30, 10</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="id_csui-dep-nummod.html">nummod</a></tt> (1371; 74% instances), <tt><a href="id_csui-dep-flat.html">flat</a></tt> (361; 19% instances), <tt><a href="id_csui-dep-nmod.html">nmod</a></tt> (41; 2% instances), <tt><a href="id_csui-dep-obl.html">obl</a></tt> (39; 2% instances), <tt><a href="id_csui-dep-obj.html">obj</a></tt> (22; 1% instances), <tt><a href="id_csui-dep-conj.html">conj</a></tt> (14; 1% instances), <tt><a href="id_csui-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="id_csui-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="id_csui-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 13 different relations: <tt><a href="id_csui-dep-nummod.html">nummod</a></tt> (1315; 71% instances), <tt><a href="id_csui-dep-flat.html">flat</a></tt> (383; 21% instances), <tt><a href="id_csui-dep-nmod.html">nmod</a></tt> (41; 2% instances), <tt><a href="id_csui-dep-obl.html">obl</a></tt> (37; 2% instances), <tt><a href="id_csui-dep-obl-tmod.html">obl:tmod</a></tt> (24; 1% instances), <tt><a href="id_csui-dep-obj.html">obj</a></tt> (22; 1% instances), <tt><a href="id_csui-dep-conj.html">conj</a></tt> (14; 1% instances), <tt><a href="id_csui-dep-nmod-tmod.html">nmod:tmod</a></tt> (12; 1% instances), <tt><a href="id_csui-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="id_csui-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="id_csui-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (1206; 65% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (381; 21% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (186; 10% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (61; 3% instances), <tt><a href="id_csui-pos-SYM.html">SYM</a></tt> (12; 1% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (4; 0% instances),  (3; 0% instances)
+Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (1213; 65% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (401; 22% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (137; 7% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (83; 4% instances), <tt><a href="id_csui-pos-SYM.html">SYM</a></tt> (12; 1% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (4; 0% instances),  (3; 0% instances)
 
-1328 (72%) `NUM` nodes are leaves.
+1293 (70%) `NUM` nodes are leaves.
 
-445 (24%) `NUM` nodes have one child.
+450 (24%) `NUM` nodes have one child.
 
-62 (3%) `NUM` nodes have two children.
+75 (4%) `NUM` nodes have two children.
 
-22 (1%) `NUM` nodes have three or more children.
+39 (2%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 10.
 
-Children of `NUM` nodes are attached using 16 different relations: <tt><a href="id_csui-dep-flat.html">flat</a></tt> (363; 56% instances), <tt><a href="id_csui-dep-case.html">case</a></tt> (79; 12% instances), <tt><a href="id_csui-dep-punct.html">punct</a></tt> (55; 8% instances), <tt><a href="id_csui-dep-advmod.html">advmod</a></tt> (46; 7% instances), <tt><a href="id_csui-dep-nmod.html">nmod</a></tt> (41; 6% instances), <tt><a href="id_csui-dep-nummod.html">nummod</a></tt> (19; 3% instances), <tt><a href="id_csui-dep-cc.html">cc</a></tt> (14; 2% instances), <tt><a href="id_csui-dep-acl-relcl.html">acl:relcl</a></tt> (13; 2% instances), <tt><a href="id_csui-dep-conj.html">conj</a></tt> (13; 2% instances), <tt><a href="id_csui-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="id_csui-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-nmod-lmod.html">nmod:lmod</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+Children of `NUM` nodes are attached using 17 different relations: <tt><a href="id_csui-dep-flat.html">flat</a></tt> (410; 56% instances), <tt><a href="id_csui-dep-case.html">case</a></tt> (111; 15% instances), <tt><a href="id_csui-dep-punct.html">punct</a></tt> (57; 8% instances), <tt><a href="id_csui-dep-advmod.html">advmod</a></tt> (46; 6% instances), <tt><a href="id_csui-dep-nmod.html">nmod</a></tt> (35; 5% instances), <tt><a href="id_csui-dep-nummod.html">nummod</a></tt> (17; 2% instances), <tt><a href="id_csui-dep-acl-relcl.html">acl:relcl</a></tt> (15; 2% instances), <tt><a href="id_csui-dep-cc.html">cc</a></tt> (14; 2% instances), <tt><a href="id_csui-dep-conj.html">conj</a></tt> (13; 2% instances), <tt><a href="id_csui-dep-nmod-tmod.html">nmod:tmod</a></tt> (7; 1% instances), <tt><a href="id_csui-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="id_csui-dep-nmod-lmod.html">nmod:lmod</a></tt> (3; 0% instances), <tt><a href="id_csui-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 11 different parts of speech: <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (381; 58% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (79; 12% instances), <tt><a href="id_csui-pos-PUNCT.html">PUNCT</a></tt> (55; 8% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (50; 8% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (34; 5% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (21; 3% instances), <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> (15; 2% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `NUM` nodes belong to 11 different parts of speech: <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (401; 54% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (111; 15% instances), <tt><a href="id_csui-pos-PUNCT.html">PUNCT</a></tt> (57; 8% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (47; 6% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (40; 5% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (34; 5% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (22; 3% instances), <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> (15; 2% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

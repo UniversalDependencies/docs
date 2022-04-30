@@ -32,7 +32,7 @@ The following 15 pairs of parts of speech are connected with `discourse`: <tt><a
 8	holc	olc	ADJ	Adj	Degree=Pos|Form=HPref	5	xcomp:pred	_	_
 9	san	sin	DET	Det	Dialect=Munster|PronType=Dem	8	det	_	_
 10	ar	ar	ADP	Simp	_	11	case	_	_
-11	fad	fad	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	fad	fad	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
@@ -60,13 +60,13 @@ The following 15 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 2 discourse	color:blue
 1	Ach	ach	SCONJ	Subord	_	2	mark	_	_
-2	cogar	cogar	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	5	discourse	_	SpaceAfter=No
+2	cogar	cogar	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	5	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	Punct	_	2	punct	_	_
 4	ar	ar	PART	Vb	PartType=Vb|Tense=Past	5	mark:prt	_	_
 5	bhuaigh	buaigh	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 6	sibh	sibh	PRON	Pers	Number=Plur|Person=2	5	nsubj	_	_
 7	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
-8	cluiche	cluiche	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	cluiche	cluiche	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~

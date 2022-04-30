@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	U	u	ADP	Sa	Case=Acc	2	case	_	_
 2	ponedeljak	ponedeljak	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
 3	(	(	PUNCT	Z	_	5	punct	_	SpaceAfter=No
-4	7.	7.	NUM	Mdo	NumType=Ord	5	nummod	_	_
+4	7.	7.	ADJ	Mdo	NumType=Ord	5	amod	_	_
 5	aprila	april	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No
 6	)	)	PUNCT	Z	_	5	punct	_	SpaceAfter=No
 7	,	,	PUNCT	Z	_	2	punct	_	_

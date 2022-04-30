@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ga_twittirish-dep-csubj.html">csubj</a></tt>.
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="ga_twittirish-dep-csubj-cleft.html">csubj:cleft</a></tt>.
 
-49 nodes (0%) are attached to their parents as `csubj:cop`.
+48 nodes (0%) are attached to their parents as `csubj:cop`.
 
-49 instances of `csubj:cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.16326530612245.
+48 instances of `csubj:cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.10416666666667.
 
-The following 8 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (15; 31% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (15; 31% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (9; 18% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (5; 10% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (15; 31% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (15; 31% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (9; 19% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (5; 10% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

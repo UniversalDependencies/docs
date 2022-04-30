@@ -60,3 +60,4 @@ This value covers reciprocal pronoun _бер-бере_ and its inflected forms.
 
 * _беркем_, _һичкем_ "no one"
 * _бернәрсә_, _һичнәрсә_ "nothing"
+<!-- Interlanguage links updated St lis 3 20:58:28 CET 2021 -->

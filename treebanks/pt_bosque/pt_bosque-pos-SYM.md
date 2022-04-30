@@ -13,18 +13,18 @@ The 10 most frequent `SYM` lemmas: <em>%, US$, R$, CR$, -</em>
 
 The 10 most frequent `SYM` types:  <em>%, US$, R$, CR$, -</em>
 
-The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 61, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 62, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 61, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 62, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
 
 
 * <em>-</em>
-  * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 61: <em>Sporting <b>-</b> Vitória de Setúbal e Marítimo ou Ovarense <b>-</b> FC Porto .</em>
+  * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 62: <em>Sporting <b>-</b> Vitória de Setúbal e Marítimo ou Ovarense <b>-</b> FC Porto .</em>
   * <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2: <em>Já as maiores quedas , de os preços médios , ficaram com a cenoura ( <b>-</b> 13,82 ) , batata comum ( 5,14 % ) e pão francês ( <b>-</b> 1,25 % ) .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.414899).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.420809).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -39,7 +39,7 @@ The 3rd highest number of forms (1) was observed with the lemma “CR$”: <em>C
 
 `SYM` nodes are attached to their parents using 16 different relations: <tt><a href="pt_bosque-dep-obj.html">obj</a></tt> (110; 26% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (108; 26% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (62; 15% instances), <tt><a href="pt_bosque-dep-appos.html">appos</a></tt> (56; 13% instances), <tt><a href="pt_bosque-dep-root.html">root</a></tt> (23; 6% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (21; 5% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (12; 3% instances), <tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt> (10; 2% instances), <tt><a href="pt_bosque-dep-nsubj-pass.html">nsubj:pass</a></tt> (5; 1% instances), <tt><a href="pt_bosque-dep-orphan.html">orphan</a></tt> (3; 1% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (183; 44% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (123; 29% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (52; 12% instances),  (23; 6% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (14; 3% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (7; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (182; 44% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (124; 30% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (52; 12% instances),  (23; 6% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (14; 3% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (7; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
 2 (0%) `SYM` nodes are leaves.
 

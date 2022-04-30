@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt>, <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt>.
 
-602 tokens (8%) have a non-empty value of `Person[psor]`.
-512 types (15%) occur at least once with a non-empty value of `Person[psor]`.
-369 lemmas (16%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 10 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (455; 6% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (54; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (33; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+609 tokens (8%) have a non-empty value of `Person[psor]`.
+515 types (15%) occur at least once with a non-empty value of `Person[psor]`.
+371 lemmas (16%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 10 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (462; 6% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (54; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (33; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-455 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+462 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (415; 91%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (373; 82%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (422; 91%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (379; 82%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 

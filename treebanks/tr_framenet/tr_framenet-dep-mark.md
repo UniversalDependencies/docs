@@ -40,9 +40,9 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 5 mark	color:blue
 1	Sırf	sırf	ADV	_	_	4	advmod	_	_
-2	bu	bu	DET	_	Definite=Def	3	det	_	_
+2	bu	bu	DET	_	Definite=Def|PronType=Art	3	det	_	_
 3	parayı	para	NOUN	_	Case=Acc|Number=Sing|Person=3	4	obj	_	_
-4	ödeyemiyorum	öde	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+4	ödeyemiyorum	öde	VERB	_	Aspect=Prog|Mood=Pot|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 5	diye	diye	ADP	_	_	4	mark	_	_
 6	çekip	çek	ADV	_	_	7	compound	_	_
 7	gitti	git	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_

@@ -22,18 +22,18 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 6 cop	color:blue
-1	Ama	ama	CCONJ	_	_	3	cc	_	LangID=TR
-2	araban	araba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	obj	_	LangID=TR
-3	olduğu	ol	VERB	_	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LangID=TR
-4	zaman	zaman	NOUN	_	Case=Nom|Number=Sing	3	obl	_	LangID=TR
-5	dann	dann	ADV	_	_	11	advmod	_	LangID=DE
-6	bist	sein	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	cop	_	LangID=DE
-7	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	LangID=DE
-8	ähm	ähm	INTJ	_	_	11	discourse	_	LangID=DE
-9	gar	gar	ADV	_	_	11	advmod	_	LangID=DE
-10	nicht	nicht	PART	_	Polarity=Neg	11	advmod	_	LangID=DE
-11	abhängig	abhängig	ADJ	_	_	3	advcl	_	LangID=DE|SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	LangID=OTHER
+1	Ama	ama	CCONJ	_	_	3	cc	_	CSID=TR|Lang=tr
+2	araban	araba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	obj	_	CSID=TR|Lang=tr
+3	olduğu	ol	VERB	_	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	CSID=TR|Lang=tr
+4	zaman	zaman	NOUN	_	Case=Nom|Number=Sing	3	obl	_	CSID=TR|Lang=tr
+5	dann	dann	ADV	_	_	11	advmod	_	CSID=DE|Lang=de
+6	bist	sein	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	cop	_	CSID=DE|Lang=de
+7	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	CSID=DE|Lang=de
+8	ähm	ähm	INTJ	_	_	11	discourse	_	CSID=DE|Lang=de
+9	gar	gar	ADV	_	_	11	advmod	_	CSID=DE|Lang=de
+10	nicht	nicht	PART	_	Polarity=Neg	11	advmod	_	CSID=DE|Lang=de
+11	abhängig	abhängig	ADJ	_	_	3	advcl	_	CSID=DE|Lang=de|SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	CSID=OTHER
 
 ~~~
 
@@ -44,15 +44,15 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 cop	color:blue
-1	Ya	ya	INTJ	_	_	7	discourse	_	LangID=TR
-2	bunun	bu	PRON	_	Case=Gen|Number=Sing|PronType=Dem	3	nmod	_	LangID=TR
-3	hikayesi	hikaye	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	LangID=TR
-4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	LangID=DE
-5	halt	halt	ADV	_	_	7	advmod	_	LangID=DE
-6	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	LangID=DE
-7	Krimibuch	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LangID=DE
-8	ja	ja	INTJ	_	_	7	discourse	_	LangID=DE|SpaceAfter=No
-9	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
+1	Ya	ya	INTJ	_	_	7	discourse	_	CSID=TR|Lang=tr
+2	bunun	bu	PRON	_	Case=Gen|Number=Sing|PronType=Dem	3	nmod	_	CSID=TR|Lang=tr
+3	hikayesi	hikaye	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	CSID=TR|Lang=tr
+4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	CSID=DE|Lang=de
+5	halt	halt	ADV	_	_	7	advmod	_	CSID=DE|Lang=de
+6	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	CSID=DE|Lang=de
+7	Krimibuch	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	CSID=DE|Lang=de
+8	ja	ja	INTJ	_	_	7	discourse	_	CSID=DE|Lang=de|SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	CSID=OTHER
 
 ~~~
 
@@ -63,18 +63,18 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 cop	color:blue
-1	Şimdi	şimdi	NOUN	_	Case=Nom|Number=Sing	5	obl	_	LangID=TR
-2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	LangID=DE
-3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	LangID=DE
-4	schon	schon	ADV	_	_	5	advmod	_	LangID=DE
-5	so	so	ADV	_	_	0	root	_	LangID=DE
-6	ähm	ähm	INTJ	_	_	5	discourse	_	LangID=DE
-7	dass	dass	SCONJ	_	_	11	mark	_	LangID=DE
-8	halt	halt	ADV	_	_	11	advmod	_	LangID=DE
-9	Rassismus	Rassismus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	LangID=DE
-10	ja	ja	ADV	_	_	11	advmod	_	LangID=DE
-11	gibt	geben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	LangID=DE|SpaceAfter=No
-12	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
+1	Şimdi	şimdi	NOUN	_	Case=Nom|Number=Sing	5	obl	_	CSID=TR|Lang=tr
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	CSID=DE|Lang=de
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	CSID=DE|Lang=de
+4	schon	schon	ADV	_	_	5	advmod	_	CSID=DE|Lang=de
+5	so	so	ADV	_	_	0	root	_	CSID=DE|Lang=de
+6	ähm	ähm	INTJ	_	_	5	discourse	_	CSID=DE|Lang=de
+7	dass	dass	SCONJ	_	_	11	mark	_	CSID=DE|Lang=de
+8	halt	halt	ADV	_	_	11	advmod	_	CSID=DE|Lang=de
+9	Rassismus	Rassismus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	CSID=DE|Lang=de
+10	ja	ja	ADV	_	_	11	advmod	_	CSID=DE|Lang=de
+11	gibt	geben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	CSID=DE|Lang=de|SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	CSID=OTHER
 
 ~~~
 

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-LinES: POS Tags: `PART`
 
-There are 5 `PART` lemmas (0%), 7 `PART` types (0%) and 2417 `PART` tokens (3%).
+There are 5 `PART` lemmas (0%), 7 `PART` types (0%) and 2451 `PART` tokens (3%).
 Out of 17 observed tags, the rank of `PART` is: 16 in number of lemmas, 16 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>to, not, 's, be, in</em>
 
 The 10 most frequent `PART` types:  <em>to, not, 's, n't, ', in, t'</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 1317, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 916, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3), <em>not</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 739, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 35), <em>be</em> (<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> 2780, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 536, <tt><a href="en_lines-pos-PART.html">PART</a></tt> 1), <em>in</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 1402, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 52, <tt><a href="en_lines-pos-PART.html">PART</a></tt> 1, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 1317, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 916, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3), <em>not</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 773, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1), <em>be</em> (<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> 2780, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 536, <tt><a href="en_lines-pos-PART.html">PART</a></tt> 1), <em>in</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 1402, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 52, <tt><a href="en_lines-pos-PART.html">PART</a></tt> 1, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 1284, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 904, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3), <em>not</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 477, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3), <em>'s</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 332, <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> 149, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 42, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1), <em>n't</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 242, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 32), <em>'</em> (<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> 274, <tt><a href="en_lines-pos-PART.html">PART</a></tt> 28), <em>in</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 1284, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 52, <tt><a href="en_lines-pos-PART.html">PART</a></tt> 1, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 1284, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 904, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3), <em>not</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 479, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1), <em>'s</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 332, <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> 149, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 42, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1), <em>'</em> (<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> 274, <tt><a href="en_lines-pos-PART.html">PART</a></tt> 28), <em>in</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 1284, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 52, <tt><a href="en_lines-pos-PART.html">PART</a></tt> 1, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>to</em>
@@ -23,16 +23,13 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_lines-pos-PA
   * <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 904: <em>Some of the hyperlinks in this topic go <b>to</b> the Web .</em>
   * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3: <em>Black rags were wound round their loins , and the short ends behind wagged <b>to</b> and fro like tails .</em>
 * <em>not</em>
-  * <tt><a href="en_lines-pos-PART.html">PART</a></tt> 477: <em>But I 'm <b>not</b> a detective .</em>
-  * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3: <em>My self-esteem is a jigsaw I can <b>not</b> complete .</em>
+  * <tt><a href="en_lines-pos-PART.html">PART</a></tt> 479: <em>But I 'm <b>not</b> a detective .</em>
+  * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1: <em>My self-esteem is a jigsaw I can <b>not</b> complete .</em>
 * <em>'s</em>
   * <tt><a href="en_lines-pos-PART.html">PART</a></tt> 332: <em>Once again , however , Stillman <b>'s</b> face told him nothing .</em>
   * <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> 149: <em>Yeah , he <b>'s</b> smart . But he talks too much .</em>
   * <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 42: <em>If that 's true , then there <b>'s</b> no hope .</em>
   * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1: <em>I got him from the new labour exchange – I thought , well , let <b>'s</b> try it , so they send him along , five years ' experience , everything fine .</em>
-* <em>n't</em>
-  * <tt><a href="en_lines-pos-PART.html">PART</a></tt> 242: <em>If you do <b>n't</b> like it , why do you go on reading ?</em>
-  * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 32: <em>If I were , said I , I would <b>n't</b> be talking like this with you .</em>
 * <em>'</em>
   * <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> 274: <em>Ever any madness in your family ? <b>'</b> he asked , in a matter-of-fact tone .</em>
   * <tt><a href="en_lines-pos-PART.html">PART</a></tt> 28: <em>Give me my friends <b>'</b> letters !</em>
@@ -44,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_lines-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.400000 (the average of all parts of speech is 1.241057).
+The form / lemma ratio of `PART` is 1.400000 (the average of all parts of speech is 1.241030).
 
 The 1st highest number of forms (2) was observed with the lemma “'s”: <em>', 's</em>.
 
@@ -57,17 +54,17 @@ The 3rd highest number of forms (2) was observed with the lemma “to”: <em>t'
 `PART` occurs with 1 feature-value pairs: `Case=Nom`
 
 `PART` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (2416 tokens).
+The most frequent feature combination is `_` (2450 tokens).
 Examples: <em>to, not, 's, n't, ', t'</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 12 different relations: <tt><a href="en_lines-dep-mark.html">mark</a></tt> (1312; 54% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (727; 30% instances), <tt><a href="en_lines-dep-case.html">case</a></tt> (359; 15% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="en_lines-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="en_lines-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="en_lines-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="en_lines-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 12 different relations: <tt><a href="en_lines-dep-mark.html">mark</a></tt> (1312; 54% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (761; 31% instances), <tt><a href="en_lines-dep-case.html">case</a></tt> (359; 15% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="en_lines-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="en_lines-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="en_lines-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="en_lines-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 11 different parts of speech: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1769; 73% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (259; 11% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (200; 8% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (108; 4% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (30; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (21; 1% instances),  (3; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 11 different parts of speech: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1797; 73% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (261; 11% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (200; 8% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (109; 4% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (31; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (23; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (21; 1% instances),  (3; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-2400 (99%) `PART` nodes are leaves.
+2434 (99%) `PART` nodes are leaves.
 
 11 (0%) `PART` nodes have one child.
 

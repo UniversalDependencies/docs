@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>TABİ</em> (<tt><a href="tr_tourism-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.837764).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.829134).
 
 The 1st highest number of forms (1) was observed with the lemma “e”: <em>E</em>.
 

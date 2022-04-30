@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ist</em> (<tt><a href="qtd_sagt-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 9.461538 (the average of all parts of speech is 1.681057).
+The form / lemma ratio of `AUX` is 9.461538 (the average of all parts of speech is 1.679170).
 
 The 1st highest number of forms (45) was observed with the lemma “i”: <em>di, dik, dim, dir, du, dur, dı, dık, dır, im, ken, lar, lardı, ler, lerdir, miş, muş, mış, sa, se, sen, sin, sun, sın, ti, tim, tu, tı, ydi, ydim, ydu, ydü, ydı, ydık, ydım, yim, yiz, yken, ymiş, ysem, yum, yım, yız, ım, ız</em>.
 
@@ -60,11 +60,11 @@ The 2nd highest number of forms (15) was observed with the lemma “mi”: <em>m
 
 The 3rd highest number of forms (12) was observed with the lemma “sein”: <em>bin, bist, gewesen, ist, sei, seid, sein, sind, war, waren, wäre, wären</em>.
 
-`AUX` occurs with 9 features: <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt> (1594; 97% instances), <tt><a href="qtd_sagt-feat-Person.html">Person</a></tt> (1593; 97% instances), <tt><a href="qtd_sagt-feat-Mood.html">Mood</a></tt> (1445; 88% instances), <tt><a href="qtd_sagt-feat-Tense.html">Tense</a></tt> (1445; 88% instances), <tt><a href="qtd_sagt-feat-VerbForm.html">VerbForm</a></tt> (1245; 76% instances), <tt><a href="qtd_sagt-feat-Aspect.html">Aspect</a></tt> (207; 13% instances), <tt><a href="qtd_sagt-feat-Evident.html">Evident</a></tt> (198; 12% instances), <tt><a href="qtd_sagt-feat-Voice.html">Voice</a></tt> (11; 1% instances), <tt><a href="qtd_sagt-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`AUX` occurs with 10 features: <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt> (1594; 97% instances), <tt><a href="qtd_sagt-feat-Person.html">Person</a></tt> (1593; 97% instances), <tt><a href="qtd_sagt-feat-Mood.html">Mood</a></tt> (1445; 88% instances), <tt><a href="qtd_sagt-feat-Tense.html">Tense</a></tt> (1445; 88% instances), <tt><a href="qtd_sagt-feat-VerbForm.html">VerbForm</a></tt> (1245; 76% instances), <tt><a href="qtd_sagt-feat-Aspect.html">Aspect</a></tt> (207; 13% instances), <tt><a href="qtd_sagt-feat-Evident.html">Evident</a></tt> (198; 12% instances), <tt><a href="qtd_sagt-feat-Voice.html">Voice</a></tt> (11; 1% instances), <tt><a href="qtd_sagt-feat-Foreign.html">Foreign</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`AUX` occurs with 23 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Evident=Fh`, `Evident=Nfh`, `Foreign=Yes`, `Mood=Cnd`, `Mood=Des`, `Mood=Gen`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Pass`
+`AUX` occurs with 24 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Evident=Fh`, `Evident=Nfh`, `Foreign=Yes`, `Mood=Cnd`, `Mood=Des`, `Mood=Gen`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Pass`
 
-`AUX` occurs with 53 feature combinations.
+`AUX` occurs with 54 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (411 tokens).
 Examples: <em>ist, hat, wird, muss, kann, will, soll, könnt</em>
 

@@ -20,4 +20,4 @@ Syntactically, adverbs modify verbs, adjectives, or other adverbs. Adverbs have 
 
 Smyth, Herbert Weir. 1920. _A Greek Grammar for Colleges_. New York: American Book Company (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">Perseus Digital Library</a>; 
 <a href="https://archive.org/details/agreekgrammarfo02smytgoog" target="_blank">Internet Archive</a>).
-<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:08 CET 2021 -->

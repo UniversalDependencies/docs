@@ -23,21 +23,20 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (5; 1% of non-empty `Mood`): <em>sarebbe, dovrebbe, sarei</em>
-* `Imp` (1; 0% of non-empty `Mood`): <em>abbiamo</em>
-* `Ind` (540; 97% of non-empty `Mood`): <em>ha, ho, era, è, sono, aveva, stava, ero, avevo, e</em>
+* `Ind` (541; 97% of non-empty `Mood`): <em>ha, ho, era, è, sono, aveva, stava, ero, avevo, e</em>
 * `Sub` (12; 2% of non-empty `Mood`): <em>fosse, abbia, avesse, dovesse, dovessi, possa, potesse, stesse, volesse</em>
 * `EMPTY` (33): <em>stato, essere, aver, stata, dovuto, potuto, stati, viuto, voluto</em>
 
 <table>
-  <tr><th>Paradigm <i>avere</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>avevo</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ho, he, h', o</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>hai</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>aveva</em></td><td></td><td><em>avesse</em></td></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ha, a</em></td><td></td><td><em>abbia</em></td></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>abiamo, abbiamo</em></td><td><em>abbiamo</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>avete</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>hanno</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>essere</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>ero</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sono</em></td><td><em>sarei</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sei</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td><em>fosse</em></td></tr>
+  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>è, e, ed</em></td><td><em>sarebbe</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Siamo</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>erano, eranno</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sono</em></td><td></td><td></td></tr>
 </table>
 
 ### `VERB`
@@ -49,9 +48,9 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (6; 2% of non-empty `Mood`): <em>farebbe, continuerei, lascerebbe, piacerebbe</em>
-* `Imp` (13; 4% of non-empty `Mood`): <em>lascia, scusi, aspetti, scusate, smetti, vai</em>
-* `Ind` (334; 93% of non-empty `Mood`): <em>era, portava, aveva, sembrava, leggeva, gridava, pensava, amo, pensavo, piace</em>
-* `Sub` (8; 2% of non-empty `Mood`): <em>Pensa, accomoda, desse, dicesse, lasciasse, riceva, senta, vada</em>
+* `Imp` (14; 4% of non-empty `Mood`): <em>lascia, scusi, aspetti, scusate, smetti, vada, vai</em>
+* `Ind` (336; 93% of non-empty `Mood`): <em>era, portava, aveva, sembrava, leggeva, gridava, pensava, amo, pensavo, piace</em>
+* `Sub` (5; 1% of non-empty `Mood`): <em>desse, dicesse, lasciasse, riceva, senta</em>
 * `EMPTY` (607): <em>detto, visto, fatto, leggendo, pensato, sentito, seduto, cominciato, fare, andare</em>
 
 <table>
@@ -62,7 +61,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>lasciamo</em></td><td></td><td></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 92% lemmas (114) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 93% lemmas (115) occur only with one value of `Mood`.
 
 ## Relations with Agreement in `Mood`
 

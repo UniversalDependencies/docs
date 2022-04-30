@@ -32,7 +32,7 @@ The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a h
 8	shona	sona	ADJ	Adj	Degree=Pos|Form=Len	2	csubj:cleft	_	SpaceAfter=No
 9	,	,	PUNCT	Punct	_	10	punct	_	_
 10	na	an	DET	Art	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	laethanta	lá	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Plur	12	nsubj	_	_
+11	laethanta	lá	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	12	nsubj	_	_
 12	iad	iad	PRON	Pers	Number=Plur|Person=3	8	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a h
 # visual-style 10	fgColor:white
 # visual-style 10 9 case:voc	color:blue
 1	Cén	cé	PRON	Q	Number=Sing|PronType=Int	0	root	_	_
-2	áit	áit	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
+2	áit	áit	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
 3	an	an	PART	Vb	PartType=Vb	4	mark:prt	_	_
 4	bhfágfaidh	fág	VERB	VTI	Form=Ecl|Mood=Ind|Tense=Fut	2	acl:relcl	_	_
 5	mé	mé	PRON	Pers	Number=Sing|Person=1	4	nsubj	_	_

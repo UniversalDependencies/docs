@@ -79,14 +79,14 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 14	,	,	PUNCT	_	_	17	punct	_	_
 15	«	«	PUNCT	_	_	17	punct	_	_
 16	qui	qui	PRON	_	PronType=Rel	17	nsubj	_	InTitle=Yes
-17	vit	vivre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	appos	_	ExtPos=PROPN|PhraseType=Title
+17	vit	vivre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	appos	_	ExtPos=PROPN|Title=Yes
 18	dans	dans	ADP	_	_	17	dep	_	InTitle=Yes|SpaceAfter=No
 19	,	,	PUNCT	_	_	21	punct	_	InTitle=Yes
 20	qui	qui	PRON	_	PronType=Rel	21	nsubj	_	InTitle=Yes
 21	habite	habiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	InTitle=Yes
 22	»	»	PUNCT	_	_	17	punct	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	17	punct	_	_
-24	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obl:arg	_	_
+24	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	iobj	_	_
 25	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux:tense	_	_
 26	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	27	aux:pass	_	_
 27	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -133,7 +133,7 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 22	nuit	nuit	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	26	punct	_	_
 24	qui	qui	PRON	_	PronType=Rel	26	nsubj	_	_
-25	se	se	PRON	_	Person=3|PronType=Prs	26	obj	_	_
+25	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	26	obj	_	_
 26	laisse	laisser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 27	gentiment	gentiment	ADV	_	_	26	advmod	_	_
 28	chevaucher	chevaucher	VERB	_	VerbForm=Inf	26	xcomp	_	SpaceAfter=No

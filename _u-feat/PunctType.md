@@ -91,4 +91,4 @@ more detail.
 
 * [pl] _Zaczynała w RSC w połowie lat 60., grając pacjentkę szpitala dla obłąkanych w „Marat<b>/</b>Sade”._ “She started out at the RSC in the mid-Sixties playing an asylum-inmate in Marat/Sade.”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:40 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:29 CET 2021 -->

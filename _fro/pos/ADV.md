@@ -17,4 +17,4 @@ Adverbs are words that typically modify adjectives, verbs or other adverbs for s
 - _cortoisement_
 
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:08 CET 2021 -->

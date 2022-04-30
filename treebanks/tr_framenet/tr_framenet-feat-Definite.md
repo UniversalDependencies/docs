@@ -18,6 +18,8 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_framenet-pos-DET
 
 687 <tt><a href="tr_framenet-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Definite`.
 
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="tr_framenet-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (687; 100%).
+
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (378; 55% of non-empty `Definite`): <em>bu, her, o, şu</em>

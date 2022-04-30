@@ -188,7 +188,7 @@ something.
 * [hu] _asztal_ "table"; _<b>asztalon</b>_ "on the table"
 * [hu] _könyvek_ "books"; _<b>könyveken</b>_ "on books"
 
-### <a name="Sub">`Sub`</a>: sublative
+### <a name="Sbl">`Sbl`</a>: sublative
 
 The sublative case is used in Finno-Ugric languages to express the
 destination of movement, originally to the surface of something
@@ -198,7 +198,7 @@ meanings as well (e.g. "to university").
 #### Examples
 
 * [hu] _Belgrádtól 150 <b>kilométerre délnyugatra</b>_ lit.
-  _Belgrade.Abl 150 kilometer.Sub southwest.Sub_ "150 kilometers
+  _Belgrade.Abl 150 kilometer.Sbl southwest.Sbl_ "150 kilometers
   southwest of Belgrade"
 * [hu] _hajó_ "ship"; _<b>hajóra</b>_ "onto the ship"
 * [hu] _<b>bokorra</b>_ "on the shrub"
@@ -250,4 +250,4 @@ money") and it also can mean the goal of something.
 * [hu] _Elmentem a boltba <b>tejért</b>._ lit. _went the shop.Ill
   milk.Cau_ "I went to the shop to buy milk."
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->

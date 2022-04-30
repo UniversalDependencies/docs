@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  か (<tt><a href="ja_pud-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.049631).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.050009).
 
 The 1st highest number of forms (1) was observed with the lemma “い”: い.
 
@@ -72,5 +72,5 @@ The highest child degree of a `PART` node is 3.
 
 Children of `PART` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (18; 100% instances)
 
-Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (6; 33% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (6; 33% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (6; 33% instances)
+Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (6; 33% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 33% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (6; 33% instances)
 

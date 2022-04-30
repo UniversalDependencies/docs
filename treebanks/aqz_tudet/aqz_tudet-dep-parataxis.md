@@ -22,11 +22,11 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 parataxis	color:blue
-1	kɨrẽri	kɨrẽ	NOUN	n	Case=Abl	3	obl	3:obl	_
-2	ta	ta	DET	dem	Deixis=Dist	3	nsubj	3:nsubj	_
-3	paja	paj	VERB	vi	Tv=Yes	0	root	0:root	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	_
-5	kiwkiw	kiw	VERB	ideo	_	3	parataxis	3:parataxis	_
+1	kɨrẽri	kɨrẽ	NOUN	n	Case=Abl	3	obl	_	_
+2	ta	ta	DET	dem	Deixis=Dist	3	nsubj	_	_
+3	paja	paj	VERB	vi	Tv=Yes	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	kiwkiw	kiw	VERB	ideo	_	3	parataxis	_	_
 
 ~~~
 
@@ -37,10 +37,10 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 parataxis	color:blue
-1	tawtʃeri	tawtʃe	NOUN	n	Case=Abl	2	obl	2:obl	_
-2	mia	mi	VERB	vi	Tv=Yes	0	root	0:root	_
-3	kɨjtpit	kɨjtpit	NOUN	n	_	2	parataxis	2:parataxis	_
-4	nõm	nõm	ADV	adv	Polarity=Neg	3	advmod	3:advmod	_
+1	tawtʃeri	tawtʃe	NOUN	n	Case=Abl	2	obl	_	_
+2	mia	mi	VERB	vi	Tv=Yes	0	root	_	_
+3	kɨjtpit	kɨjtpit	NOUN	n	_	2	parataxis	_	_
+4	nõm	nõm	ADV	adv	Polarity=Neg	3	advmod	_	_
 
 ~~~
 
@@ -51,12 +51,12 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 parataxis	color:blue
-1	tebõ	te	PRON	pron	Case=All|Person=3|Reflex=Yes	3	nmod	3:nmod	_
-2	kɨte	kɨte	NUM	num	_	3	nummod	3:nummod	_
-3	purururu	puru	NOUN	ideo	_	0	root	0:root	_
-4	,	,	PUNCT	punct	_	5	punct	5:punct	_
-5	kebõ	ke	DET	dem	Case=All|Deixis=Dist	3	parataxis	3:parataxis	_
-6	nõm	nõm	ADV	adv	Polarity=Neg	5	advmod	5:advmod	_
+1	tebõ	te	PRON	pron	Case=All|Person=3|Reflex=Yes	3	nmod	_	_
+2	kɨte	kɨte	NUM	num	_	3	nummod	_	_
+3	purururu	puru	NOUN	ideo	_	0	root	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	kebõ	ke	DET	dem	Case=All|Deixis=Dist	3	parataxis	_	_
+6	nõm	nõm	ADV	adv	Polarity=Neg	5	advmod	_	_
 
 ~~~
 

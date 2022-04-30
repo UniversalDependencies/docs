@@ -22,17 +22,17 @@ The following 1 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 6 advcl	color:blue
-1	rubû	rubû	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	11	nsubj	11:nsubj	NUN-u₂
-2	arkû	warkû	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	1	amod	1:amod	EGIR-u₂
-3	enūma	inūma	SCONJ	SBJ	_	6	mark	6:mark	e-nu-ma
-4	dūru	dūru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	6	nsubj	6:nsubj	BAD₃
-5	šū	šū	DET	IP	Gender=Masc|Number=Sing|Person=3	4	amod	4:amod	šu
-6	ušalbaru	labāru	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=S	11	advcl	11:advcl	u₂-šal-ba-ru-ma
-7	ma	_	CCONJ	_	_	8	cc	8:cc	_
-8	ennahu	anāhu	VERB	V	Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=G	6	conj	6:conj	e-na-hu
-9	anhūs	anhūtu	NOUN	N	Gender=Fem|NounBase=Suffixal|Number=Sing	11	obj	11:obj	an-hu-su
-10	su	_	PRON	_	Gender=Masc|Number=Sing|Person=3	9	det:poss	9:det:poss	_
-11	luddiš	edēšu	VERB	V	Gender=Masc|Mood=Prec|Number=Sing|Person=3|VerbForm=Fin|VerbStem=D	0	root	0:root	lu-ud-diš
+1	rubû	rubû	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	11	nsubj	_	NUN-u₂
+2	arkû	warkû	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	EGIR-u₂
+3	enūma	inūma	SCONJ	SBJ	_	6	mark	_	e-nu-ma
+4	dūru	dūru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	6	nsubj	_	BAD₃
+5	šū	šū	DET	IP	Gender=Masc|Number=Sing|Person=3	4	amod	_	šu
+6	ušalbaru	labāru	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=S	11	advcl	_	u₂-šal-ba-ru-ma
+7	ma	_	CCONJ	_	_	8	cc	_	_
+8	ennahu	anāhu	VERB	V	Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=G	6	conj	_	e-na-hu
+9	anhūs	anhūtu	NOUN	N	Gender=Fem|NounBase=Suffixal|Number=Sing	11	obj	_	an-hu-su
+10	su	_	PRON	_	Gender=Masc|Number=Sing|Person=3	9	det:poss	_	_
+11	luddiš	edēšu	VERB	V	Gender=Masc|Mood=Prec|Number=Sing|Person=3|VerbForm=Fin|VerbStem=D	0	root	_	lu-ud-diš
 
 ~~~
 
