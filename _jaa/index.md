@@ -67,19 +67,7 @@ arrive-1SG-AUX-IPST.EVID.F
 * Derivational suffixes are more than a hundred, of which only about twenty are derivational.
 
 ### Nominalizers
-
-Tupinambá has many nominalizers with different functions. All but 
-
-Nominalizer    |       function             |    Example                           |
-:------------: | :------------------------: |:----------------------:              |
- _(e)mi_-      | passive deverbalizer       | _t-emi-juka_ 'what is killed'.         |
- -_βaʔe_       | relativizer                | _o-juká-βaʔe_ 'the one who kills'.     | 
- -_pɨr_        | passive deverbalizer       | _i-juká-pɨr_ 'the one who must be killed'  |
- -_sar_        | agentive nominalizer       | _juká-sar-a_ 'the killer'.             |                                
- -_saβ_        | circunstantial nominalizer | _juká-saβ-a_ 'occasion/place/mode/instrument of killing' |                      
- -_βor_        | habitual agent             | _juká-βor_ 'one who often kills'       |                     
- -_(a)βo_      | gerund                     | _juká-βo_ 'killing'                    |                   
- -_i_ ~ -_w_   | nominalized with fronted focalized adverbials  | juká-w           |                        
+                    
  
 
 
