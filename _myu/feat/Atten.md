@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Attenuative'
+title: 'Atten'
 shortdef: 'attenuative'
 udver: '2'
 ---
