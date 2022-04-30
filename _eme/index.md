@@ -4,7 +4,7 @@ title:  'Teko UD'
 udver: '2'
 ---
 
-# UD for Tupinamba <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
+# UD for Teko <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
