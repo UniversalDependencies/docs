@@ -40,6 +40,10 @@ Mapping UPOS to XPOS Tupinambá
 
 ## Morphology
 
+### Number
+
+Jarawara distinguishes three numbers: siongular, dual, and plural, but no details will be given here, since the details are man and complicatde. 
+
 ### Gender
 
 * Nouns are either masculine or feminine, and gender is not morphologically marked. Gender is maniphested through agreement, mostly with the verb.
@@ -167,7 +171,7 @@ Suffix           |     Aspect         |
 
 ---
 
-### Syntax
+## Syntax
 
  A fundamental distinction in Jarawara concerns transitive clauses. The linking of clauses are based on
  the pivot, which is not syntactically restricted (S/A or S/O). One type of transitive construction has A as pivot (AC = A-construction), and another type has O pivot (OC = O-construction).
@@ -183,7 +187,7 @@ Mary.O John.A OC-see OC-DECL.F
 'John saw Mary'
 ```
 
-In order to say 'John came in and saw Mary', one has the option of choosing which construction si more suitable for the discource context:
+In order to say 'John came in and saw Mary', one has the option of choosing which construction is more suitable for the context of discource:
 
  
 ```
@@ -219,9 +223,6 @@ and the treebank code in the file name.
 
 ---
 
-## Syntax
-
-*
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
