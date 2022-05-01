@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Fut">Fut</a></td>
   <td><a href="#NearPast">NearPast</a></td>
   <td><a href="#PastPart">PastPart</a></td>
+  <td><a href="#Past">Past</a></td>
   
 </tr>
 </table>
@@ -67,6 +68,17 @@ The past participle is formed from the stem of the verb by the affix _-быт_, 
 
 * _<b>ууга түспүтүм</b>&nbsp;_ “I fell into water”
 * _<b>түспүт хаар</b>&nbsp;_ “Fallen snow”
+
+</tr>
+</table>
+
+
+### <a name="Past">`Past`</a>: Past
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+* _<b></b>&nbsp;_ “”
 
 </tr>
 </table>
