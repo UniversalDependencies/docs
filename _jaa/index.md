@@ -136,42 +136,33 @@ Suffix           |     Aspect         |
 
 ### Syntax
 
- As a head-marking language,
-
-* Nominal phrases (NPs) semantically related to the core-arguments can appear in any order in relation to the predicate (where the core arguments are indexed). This is exemplified below through the sentence _John sees Mary_:
-
-_John<sub>i</sub> Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak_   
+ A fundamental distinction in Jarawara concerns transitive clauses. The linking of clauses are based on
+ the pivot, which is not syntactically restricted (S/A or S/O). One type of transitive construction has A as pivot (AC = Aconstruction), and another type has O pivot (OC = Oconstruction).
  
-_Mary<sub>j</sub> John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak_  
- 
-_o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub> Mary<sub>j</sub>_   
- 
-_o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub> John<sub>i</sub>_   
- 
-_Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub>_   
- 
-_John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub>_
-
-* The dependency linking the core arguments with the NPs semantically related to the core-arguments are `obl` ([oblique](https://universaldependencies.org/u/dep/obl.html)).
-
-* The object of transitive verbs is always indexed by `Rel=Ncont`. Tupinambá has transitive verbs only when objects are third person. In the other cases a predicative possession is used. When the object is third person, the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (S and O): `Person=13`, `Person=23`, and `Person=33`. 
-* Other combinations of person indexes occur in the case of 1 &#8594; 2. Two portmanteau pronouns are available: _oro_- 1 &#8594; 2.SG, and _opo_- 1 &#8594; 2.PL:
-
 ```
-orojuká 
-oro-juká
-1.2SG(O)-kill
-'I/We kill(ed) you'
+John Mary awa-ka 
+John.A Mary.O see-DECL.M
+'John saw Watati'
 ```
 ```
-opojuká 
-opo-juká
-1.2PL(O)-kill
-'I/we kill(ed) you'
+Mary John hi-wa hi-ke 
+Mary.O John.A OC-see OC-DECL.F
+'John saw Mary'
 ```
 
+In order to say 'John came in and saw Mary', one has the option of choosing which construction si more suitable for the discource context:
 
-
+ 
+```
+John ki-joma-ke-ka, ∅<sub>A</sub> Mary awa-ka 
+John be.in.motion-THROUGH-COMING-DECL.M Mary see-DECL.M
+'John came in and saw Mary'
+```
+```
+ Mary ki-joma-ke-ke, ∅<sub>o</sub> John hi-wa hi ke 
+John be.in.motion-THROUGH-COMING-DECL.F John OC-see OC-DECL.F
+'John came in and saw Mary'
+```
 
 
 ---
