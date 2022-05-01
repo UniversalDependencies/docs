@@ -11,13 +11,7 @@ udver: '2'
 * Words are delimited by whitespace characters
 * According to typographical rules, many punctuation marks are attached to a neighboring word. They are given as separate tokens
 
-
-## Morphology
-
-As a synthetic agglutinating language
-
-
-### Tags
+## Tags
 
 * Jarawara uses all 17 universal POS categories. `ADJ` is only used for fourteen lexical items. All other modifiers are intransitive verbs.
 
@@ -44,6 +38,37 @@ Mapping UPOS to XPOS Tupinambá
  X     | x        |
 
 
+## Morphology
+
+Person indexes
+
+Person/Number/Animacy | Slot 1   | Slot 2 and 8  | Cardinal indexes |Alienamble possessor   | Inalienamble possessor|
+:-----------------:   | :------: | :----------:  |:----------------:|:--------------------: |:--------------------: |  
+1 SG                  | owa      | o-            | owa              | oko                   | o-, oko               |
+2 SG                  | tiwa     | ti-           | tiwa             | tika                  | fee ~ hee             |
+3 SG inanimate        |          |               |                  |                       |                       |
+1 PL.IN               | era      | ee-           | e                | ee kaa                | ee                    |
+1 PL.EX               | otara    | otaa-         | ota              | otaa kaa              | otaa                  |
+2 NSG                 | tera     | tee-          | te               | tee kaa               | tee                   |
+3 NSG animate         | me, mera | mee-          | me               | mee kaa               | mee                   |
+
+Slot 1: O function in transitive predicates
+Slot 2: A, S or copula subject function
+Slot 8: the function of the indexes depend on the type of constructions (O or A). Always S in intransitive predicates. Possessor
+in an NP.
+
+The absence of an index (S, A, or O) indicates the argument in 3SG.
+
+* About ten verbs have suppletive forms for singular, dual, or plural reference for the S argument. 
+
+Number   |   sit                                       | stand |
+:------: | :-----------------------------------------: |:-----:|
+Singular | -ita-                                       | -wa-  |
+Dual     | joro -na- or teme -na- (in free alternation)| joro -na- or teme -na- (in free alternation)|
+Plural   | naho- for an animate and sii -na- for an inanimate S argument | joro -na- or teme -na- (in free alternation)|
+
+
+
 ### Verbal Features
 
 * The most important verbal feature is the distinction between two morphological verb classes, inflecting and non-inflecting. The infelcting class takes prefixes and suffixes, while non-inflecting verbs require auxiliaries which carry infixes.
@@ -66,6 +91,40 @@ arrive-1SG-AUX-IPST.EVID.F
 * Following Vogel (2003), there are only 3 derivational prefixes.
 * Derivational suffixes are more than a hundred, of which only about twenty are derivational.
 
+The following are tense markers. Those indicating past also mark evidentiality:
+
+ Suffix          |     Meaning               |
+:--------------: | :-----------------------: |
+ -hara/-hare     |  immediate past, attested|  
+ -hani/-hino     | immediate past, non-attested|
+ -hamaro/-himari | far past, attested     |
+ -hemete/-himata | far past, non-eyewitness  |
+ -haba(na)/-hiba(na)| future |
+ 
+
+A group of suffixes with adverbial are clause-final modifiers:
+
+Suffix       |     Meaning               |
+:----------------: | :-----------------------: |
+-mina      |  in the morning, tomorrow |
+-baha      |  do first                 |  
+-rama      | unusual, unexpected       |
+-tasa      | do again                  |
+-bisa      | also                      |
+-mata       | short time                |
+-waha       | now, the next thing, then |
+-makoni      | unusual, take no responsability for |
+
+* Some aspectual distinctions are signalled by inflectional verbal suffixes.
+
+Suffix           |     Aspect         |
+:--------------: | :----------------: |
+ -te             |  habitual          |   
+ -ne             | continuous         |
+ -habone/-hibona | intentive          |
+ -hamone/-himona | reportative        |
+ -ke/-ka         | declarative        |
+
 ### Nominalizers
                     
  
@@ -76,21 +135,7 @@ arrive-1SG-AUX-IPST.EVID.F
 
 ### Syntax
 
-* As a head-marking language, core arguments, are indexed on the predicate, in the order SOV as in the example below:
-
-```
-aɲan
-a-ɲan
-1.SG-run
-'I ran/run'
-```
-
-```
-osepjak 
-o-s-epjak
-3.SG(S)-3(O)-see
-He/she/it/they see her/him/it/them
-```
+ As a head-marking language,
 
 * Nominal phrases (NPs) semantically related to the core-arguments can appear in any order in relation to the predicate (where the core arguments are indexed). This is exemplified below through the sentence _John sees Mary_:
 
@@ -125,25 +170,6 @@ opo-juká
 ```
 
 
-* What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to a nominalization accompanied by the fronting of an adverbial expression: adverbs, adverbial expressions, postpositional phrases (oblique topicalization). The nominalized form in this case is marked by the feature-value [OblTop=Yes](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/OblTop.md).
-
-
-### Arguments (or potentially refering expressions)
-
-Since all lexical roots in Tupinambá are predicates, their use as potentially refering expressions or arguments require aditional morphology. Compare both examples below:
-
-```
-nerub
-ne=r-ub
-2.SG=Cont-father
-'I have a father'
-```
-```
-neruβa
-ne=r-ub-a
-2.SG=Cont-father-Ref
-'My father'
-```
 
 
 
@@ -151,7 +177,7 @@ ne=r-ub-a
 
 ## Treebanks
 
-There is 1 Tupinamba UD treebank:
+There is 1 Jarawara UD treebank:
 
   * [Tupinamba-A](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT)
 
