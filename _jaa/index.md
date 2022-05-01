@@ -40,7 +40,8 @@ Mapping UPOS to XPOS Tupinambá
 
 ## Morphology
 
-Person indexes
+### Person indexes
+
 
 Person/Number/Animacy | Slot 1   | Slot 2 and 8  | Cardinal indexes |Alienamble possessor   | Inalienamble possessor|
 :-----------------:   | :------: | :----------:  |:----------------:|:--------------------: |:--------------------: |  
@@ -125,7 +126,7 @@ Suffix           |     Aspect         |
  -hamone/-himona | reportative        |
  -ke/-ka         | declarative        |
 
-### Nominalizers
+### Predicate Structure
                     
  
 
