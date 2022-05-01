@@ -40,6 +40,39 @@ Mapping UPOS to XPOS Tupinambá
 
 ## Morphology
 
+### Gender
+
+* Nouns are either masculine or feminine, and gender is not morphologically marked. Gender is maniphested through agreement, mostly with the verb.
+
+```
+Inamatewe amo-ka
+baby(M) sleep-DECL.M
+'The baby (boy) is sleeping'
+```
+
+```
+Inamatewe amo-ke
+baby(F) sleep-DECL.F
+'The baby (girl) is sleeping'
+```
+
+* Masculine animated anouns show feminine agreement in the plural.
+
+* Possessed nouns agree with the gender of the possessor and often they have two forms, which are not predictable, i.e., they must be memorized. The feminine forms are the default forms. Sometimes both forms are similar as e.g. *ibisiri* (F) / *ibisiri* (M) 'piece', but often they are not *fanaki* (f) / *fanako* (M) 'thigh'.
+
+```
+Okomobi moni ama-ka
+Okomobi sound be-DECL.M
+'It's Okomobi's sound'
+```
+
+```
+Hinabori moni ama-ke
+Okomobi sound be-DECL.F
+'It's Hinabori's sound'
+```
+
+
 ### Person indexes
 
 
@@ -137,7 +170,7 @@ Suffix           |     Aspect         |
 ### Syntax
 
  A fundamental distinction in Jarawara concerns transitive clauses. The linking of clauses are based on
- the pivot, which is not syntactically restricted (S/A or S/O). One type of transitive construction has A as pivot (AC = Aconstruction), and another type has O pivot (OC = Oconstruction).
+ the pivot, which is not syntactically restricted (S/A or S/O). One type of transitive construction has A as pivot (AC = A-construction), and another type has O pivot (OC = O-construction).
  
 ```
 John Mary awa-ka 
