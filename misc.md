@@ -297,6 +297,11 @@ as it could occur in German as well; but we mark it as a part of the quoted Engl
 will now allow the lemma _be_ as a copula (because it is listed for English), while otherwise
 it would only allow the German copula _sein_.
 
+If `Lang=xx` is provided, the morphological features, their values and their applicability to
+particular UPOS tags will be validated as in language `xx`, with one exception: the feature
+`Foreign=Yes` should be present and it says that the word is foreign in the main language of
+the treebank, not in language `xx`.
+
 ### LDeriv
 
 See also [LId](#lid), [LGloss](#lgloss), [LNumValue](#lnumvalue) and [Root](#root).
