@@ -158,7 +158,7 @@ column](https://universaldependencies.org/misc.html#lang).
 Its value is the ISO 639 language code, as registered for the language in UD (either two letters
 from ISO 639-1, or three letters from ISO 639-3, lowercased!)
 
-If `Lang=xx` is provided the morphological features, their values and their applicability to
+If `Lang=xx` is provided, the morphological features, their values and their applicability to
 particular UPOS tags will be validated as in language `xx`, with one exception: the feature
 `Foreign=Yes` should be present and it says that the word is foreign in the main language of
 the treebank, not in language `xx`.
