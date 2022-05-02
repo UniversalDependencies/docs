@@ -217,6 +217,17 @@ det(flower, a-11)
 punct(gave, .)
 ~~~
 
+~~~ sdparse
+I want her to win and him to lose .
+
+nsubj(want, I)
+obj(want, her)
+xcomp(want, win)
+conj(want, him)
+cc(him, and)
+orphan(him, lose)
+~~~
+
 Note that the `orphan` relation is only used when an ordinary relation would be misleading (for example, when attaching an object to a subject). In particular, the ordinary `cc` relation should be used for the coordinating conjunction, which attaches to the pseudo-constituent formed through the `orphan` dependency.
 
 In German the grammar requires that non-finite verbs are at the end of the clause, which may mean that they are far away from
