@@ -20,7 +20,7 @@ udver: '2'
 * Several word types are classified as particles ([PART](https://universaldependencies.org/u/pos/PART.html)). These fall under two categories:
   * Grammatical particles (linkers *nga* and *ka*)
   * Lexical particles (such as the question marker *ba*, negation marker *dili*, *ayaw*, *ambot*, *wala*)
-* Quantifiers (including the plural marker *mga* and indefinite quantifiers such as *daghan* “many”) are classified as determiners ([DET](https://universaldependencies.org/u/pos/DET.html))
+* Quantifiers (including the plural marker *mga* and indefinite quantifiers such as *daghan* “many”) are classified as determiners ([DET](https://universaldependencies.org/u/pos/DET.html)).
 * Similar to other Philippine-type languages, Cebuano has nominal markers that function both as prepositions and articles. Calling these as markers is probably the safest classification instead of prepositions, articles or determiners, as the markers can function all of them. To parallel the Tagalog treebank, they are labeled as ([ADP](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADP)). These markers are: 
   * The topic nominative/absolutive marker *ang*
   * The non-topic genitive/ergative marker *ug* or *sa*
@@ -35,14 +35,14 @@ udver: '2'
 
 ### Degree and Polarity
 
-* [Degree](https://universaldependencies.org/u/feat/all.html#al-u-feat/Degree) applies to adjectives ([ADJ](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADJ)) and has 2 possible values: `Pos`, `Sup`. `Cmp` (comparative form) is not formed morphologically
+* [Degree](https://universaldependencies.org/u/feat/all.html#al-u-feat/Degree) applies to adjectives ([ADJ](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADJ)) and has 2 possible values: `Pos`, `Sup`. `Cmp` (comparative form) is not formed morphologically.
 * [Polarity](https://universaldependencies.org/u/feat/all.html#al-u-feat/Polarity) is used to some existential verbs ([VERBS](https://universaldependencies.org/u/pos/all.html#al-u-pos/VERB)), negation particles like *dili*, *ayaw*, *wala*, *ambot*, and response to interjection like *uu* and *dili*. It has 2 possible values: `Pos`, `Neg`.
 
 ### Verbal Features
 
 * Verbs ([VERBS](https://universaldependencies.org/u/pos/all.html#al-u-pos/VERB)) inflect according to [Mood](https://universaldependencies.org/u/feat/all.html#al-u-feat/Mood), [Aspect](https://universaldependencies.org/u/feat/all.html#al-u-feat/Aspect) (instead of [Tense](https://universaldependencies.org/u/feat/all.html#al-u-feat/Tense)), and [Voice](https://universaldependencies.org/u/feat/all.html#al-u-feat/Voice).
 * Verbs ([VERBS](https://universaldependencies.org/u/pos/all.html#al-u-pos/VERB)) in the current data contains 3 possible mood values: `Ind` (indicative), `Imp` (imperative), `Pot` (potential).
-* [Aspect](https://universaldependencies.org/u/feat/all.html#al-u-feat/Aspect) has 3 possible values: `Perf` (perfective), `Imp` (imperfective), `Prosp` (prospective)
+* [Aspect](https://universaldependencies.org/u/feat/all.html#al-u-feat/Aspect) has 3 possible values: `Perf` (perfective), `Imp` (imperfective), `Prosp` (prospective).
 * [Voice](https://universaldependencies.org/u/feat/all.html#al-u-feat/Voice) is different in many Austronesian languages such as Cebuano as it does not follow the active-passive voice difference. [Verbs](https://universaldependencies.org/u/pos/all.html#al-u-pos/VERB) “focus” on one specific argument, making it as the subject, but it does not transform the patient-like argument from a transitive clause to intransitive, and retains the agent-like argument, if present, is still a core argument. This feature is similar to Tagalog. There are 4 possible values for `Voice`:
   * `Act` (actor-focused voice) where the actor is the topic of the sentence.
   * `Pass` (patient-focused voice) where the patient is the topic of the sentence.
@@ -51,8 +51,8 @@ udver: '2'
 
 ### Pronouns, Determiners, Quantifiers
 
-* [PronType](https://universaldependencies.org/u/feat/all.html#al-u-feat/PronType) is used with pronouns ([PRON](https://universaldependencies.org/u/pos/all.html#al-u-pos/PRON)), determiners ([DET](https://universaldependencies.org/u/pos/DET.html)), and adverbs ([ADV](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADV))
-* [NumType](https://universaldependencies.org/u/feat/all.html#al-u-feat/NumType) is used with cardinal numerals ([NUM](https://universaldependencies.org/u/pos/all.html#al-u-pos/NUM))
+* [PronType](https://universaldependencies.org/u/feat/all.html#al-u-feat/PronType) is used with pronouns ([PRON](https://universaldependencies.org/u/pos/all.html#al-u-pos/PRON)), determiners ([DET](https://universaldependencies.org/u/pos/DET.html)), and adverbs ([ADV](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADV)).
+* [NumType](https://universaldependencies.org/u/feat/all.html#al-u-feat/NumType) is used with cardinal numerals ([NUM](https://universaldependencies.org/u/pos/all.html#al-u-pos/NUM)).
 * [Person](https://universaldependencies.org/u/feat/all.html#al-u-feat/Person) is a feature for personal pronouns ([PRON](https://universaldependencies.org/u/pos/all.html#al-u-pos/PRON)) and has 3 possible values: `1`, `2`, `3`. Person is not marked on other types of pronouns or nouns, but they can be interpreted as they are in 3rd person.
 * [Clusivity](https://universaldependencies.org/u/feat/all.html#al-u-feat/Clusivity) is a feature in 1st personal plural pronouns. It has 2 possible values: `In` (inclusive), `Ex` (exclusive).
 * [Deixis](https://universaldependencies.org/u/feat/all.html#al-u-feat/Deixis) is a lexical feature of demonstratives (PRON, ADV) and has 3 possible values: `Prox` (proximate), `Med` (medial), `Remt` (remote or distal).
@@ -62,7 +62,7 @@ udver: '2'
 * [PartType](https://universaldependencies.org/u/feat/all.html#al-u-feat/PartType) is used to distinguish the particles used in Cebuano. This excludes linkers even though they are considered as particles. For now, only `Int` (interrogative particles) such as *ba* or *no* are marked. 
 * [Definitizer](https://github.com/UniversalDependencies/docs/blob/pages-source/_ceb/feat/Definitizer.md)`=Yes` feature is used for the definitizer suffix -a that attaches to words such as nouns, verbs or adjectives to make an object or modifier “definite”.
 * [Neutral](https://github.com/UniversalDependencies/docs/blob/pages-source/_ceb/feat/Neutral.md)`=Yes` feature is used for the neutral marker suffix -y that attaches to words like pronouns, verbs (especially existential verbs), adverbs and particles. 
-* [Foreign](https://universaldependencies.org/u/feat/all.html#al-u-feat/Foreign)`=Yes` feature is used for words that are not natively Cebuano, usually English or Spanish words that are used a substitute for Cebuano words. If an English word is naturally used in Cebuano sentences and if there is a Cebuano translation but is not really commonly used (e.g. *travel document*) then it is not labeled as `Foreign=Yes` anymore
+* [Foreign](https://universaldependencies.org/u/feat/all.html#al-u-feat/Foreign)`=Yes` feature is used for words that are not natively Cebuano, usually English or Spanish words that are used a substitute for Cebuano words. If an English word is naturally used in Cebuano sentences and if there is a Cebuano translation but is not really commonly used (e.g. *travel document*) then it is not labeled as `Foreign=Yes` anymore.
 
 ## Syntax
 
