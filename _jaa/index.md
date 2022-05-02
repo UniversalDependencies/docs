@@ -42,7 +42,7 @@ Mapping UPOS to XPOS Tupinambá
 
 ### Number
 
-Jarawara distinguishes three numbers: siongular, dual, and plural, but no details will be given here, since the details are man and complicatde. 
+Jarawara distinguishes three numbers: siongular, dual, and plural, but no details will be given here, since the details are many and complicatde. 
 
 ### Gender
 
