@@ -87,9 +87,6 @@ There is [1](../treebanks/ceb-comparison.html) Cebuano UD treebank:
 
   * [Cebuano-GJA](../treebanks/ceb_a/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
+## Treebanks
+* Tanangkinsing, M. (2011). A functional reference grammar of Cebuano: from a discourse perspective. Vol 1 & 2. Lambert Academic Publishing: Saarbrücken, Germany. ISBN: 978-3-8465-1024-7 / 978-3-8465-9150-5
 
----
