@@ -153,9 +153,15 @@ validator can temporarily switch to a language different from the main language 
 This is useful in cases of code-switching, i.e., when a foreign language phrase is inserted in
 the text, and the annotators decided to annotate it according to the foreign language guidelines
 (instead of simply tagging everything as `X` and connecting it as a `flat` structure). The
-alternative language is signaled for individual tokens using the `Lang` attribute in the MISC
-column. Its value is the ISO 639 language code, as registered for the language in UD (either
-two letters from ISO 639-1, or three letters from ISO 639-3, lowercased!)
+alternative language is signaled for individual tokens using the `Lang` attribute in the [MISC
+column](https://universaldependencies.org/misc.html#lang).
+Its value is the ISO 639 language code, as registered for the language in UD (either two letters
+from ISO 639-1, or three letters from ISO 639-3, lowercased!)
+
+If `Lang=xx` is provided the morphological features, their values and their applicability to
+particular UPOS tags will be validated as in language `xx`, with one exception: the feature
+`Foreign=Yes` should be present and it says that the word is foreign in the main language of
+the treebank, not in language `xx`.
 
 # Other Notes
 
