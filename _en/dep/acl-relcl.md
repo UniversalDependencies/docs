@@ -117,7 +117,7 @@ In the Enhanced Dependencies layer (right), the relativizer instead attaches to 
 <tbody><tr><td width="600">
 <div class="conllu-parse">
 # visual-style 4 3 nmod:poss color:orange
- 1 the the DET DT Definite=Def|PronType=Art 2 det _ _
+1 the the DET DT Definite=Def|PronType=Art 2 det _ _
 2 woman woman NOUN NN Number=Sing 0 root _ _
 3 whose whose PRON WP$ Poss=Yes|PronType=Rel 4 nmod:poss _ _
 4 cat cat NOUN NN Number=Sing 5 nsubj _ _
@@ -132,6 +132,38 @@ In the Enhanced Dependencies layer (right), the relativizer instead attaches to 
 3 whose whose PRON WP$ Poss=Yes|PronType=Rel 2 ref _ _
 4 cat cat NOUN NN Number=Sing 5 nsubj _ _
 5 smells smell VERB VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
+</div>
+</td></tr></tbody>
+</table>
+
+
+<table> <!--the country that we want to be -->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+# visual-style 5 3 xcomp color:orange
+# visual-style 6 3 mark color:orange
+# visual-style 7 3 cop color:orange
+1 the the DET DT Definite=Def|PronType=Art 2 det _ _
+2 country country NOUN NN Number=Sing 0 root _ _
+3 that that PRON WP PronType=Rel 5 xcomp _ _
+4 we we PRON PRP Case=Nom|Number=Plur|Person=1|PronType=Pers 5 nsubj _ _
+5 want want VERB VBP Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
+6 to to PART TO _ 3 mark _ _
+7 be be VERB VB VerbForm=Inf 3 cop _ _
+ </div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 2 3 ref color:blue
+# visual-style 2 6 mark color:blue
+# visual-style 2 7 cop color:blue
+# visual-style 5 2 xcomp color:blue
+1 the the DET DT Definite=Def|PronType=Art 2 det _ _
+2 country country NOUN NN Number=Sing 0 root 5:xcomp _
+3 that that PRON WP PronType=Rel 2 ref _ _
+4 we we PRON PRP Case=Nom|Number=Plur|Person=1|PronType=Pers 5 nsubj _ _
+5 want want VERB VBP Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
+6 to to PART TO _ 2 mark _ _
+7 be be VERB VB VerbForm=Inf 2 cop _ _
 </div>
 </td></tr></tbody>
 </table>
@@ -176,6 +208,33 @@ nsubj(idea, which)
 ~~~
 
 Another such case occurs in *it*-clefts: see [below](#clefts).
+
+## Predicate Ellipsis in the Relative Clause
+
+TBD: Option A: promote the aux, relativizer as mark
+
+~~~ sdparse
+If we lose ( which/PRON we probably will ) , I'm blaming you.
+advcl(blaming, lose)
+advcl:relcl(lose, will)
+nsubj(will, we)
+advmod(will, probably)
+mark(lose, which)
+~~~
+
+Option B: relativizer as predicate
+
+~~~ sdparse
+If we lose ( which/PRON we probably will ) , I'm blaming you.
+advcl(blaming, lose)
+advcl:relcl(lose, which)
+nsubj(which, we)
+advmod(which, probably)
+aux(which, will)
+~~~
+
+Option B seems logical given how we normally treat the relativizer as standing for substantive material in the embedded clause, 
+but a clause-initial PRON standing for a predicate looks a bit odd.
 
 ## Preposition Stranding
 
