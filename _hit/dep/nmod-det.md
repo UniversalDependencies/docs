@@ -5,7 +5,7 @@ shortdef: 'determinative'
 udver: '2'
 ---
 
-In Hittite, this relation is used for determinatives, which indicate the category that a modified word should be part of. Examples include \textit{d} (indicates a god) and \textit{URU} (indicates a city).
+In Hittite, this relation is used for determinatives, which indicate the category that a modified word should be part of. Examples include *d* (indicates a god) and *URU* (indicates a city).
 ~~~ conllu
 # sent_id = 6.7-2
 # text = nu d-UTU ŠA-ME-E IGI.ḪI.A-it uš-ke-ez-zi NINDA-an-n=a-a=z TI-an-na-aš az-zi-ik-ke-ez-zi
