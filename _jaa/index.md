@@ -42,7 +42,7 @@ Mapping UPOS to XPOS Tupinambá
 
 ### Number
 
-Jarawara distinguishes three numbers: siongular, dual, and plural, but no details will be given here, since the details are many and complicatde. 
+Jarawara distinguishes three numbers: singular, dual, and plural, but no details will be given here, since the details are many and complicated. 
 
 ### Gender
 
@@ -60,7 +60,7 @@ baby(F) sleep-DECL.F
 'The baby (girl) is sleeping'
 ```
 
-* Masculine animated anouns show feminine agreement in the plural.
+* Masculine animated nouns show feminine agreement in the plural.
 
 * Possessed nouns agree with the gender of the possessor and often they have two forms, which are not predictable, i.e., they must be memorized. The feminine forms are the default forms. Sometimes both forms are similar as e.g. *ibisiri* (F) / *ibisiri* (M) 'piece', but often they are not *fanaki* (f) / *fanako* (M) 'thigh'.
 
@@ -267,6 +267,30 @@ John be.in.motion-THROUGH-COMING-DECL.M Mary see-DECL.M
 John be.in.motion-THROUGH-COMING-DECL.F John OC-see OC-DECL.F
 'John came in and saw Mary'
 ```
+
+
+---
+
+## Noun Phrase
+
+Noun phrases occur in slot 2 and 5.
+
+Possessive NPs are of two types: alienable and inalienable.
+
+Inalienable possession is a simple juxtaposition:
+
+```
+John teme
+John foot.M
+'John's foot'
+
+Alienable possession require a postpositional possessive marker *ka*:
+
+```
+John ka tao.kana
+John POSS gun.F
+'Jon's gun'
+
 
 
 ---
