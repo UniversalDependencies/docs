@@ -128,16 +128,6 @@ arrive-1SG-AUX-IPST.EVID.F
 * There are two copular verbs, which are neither transitive nor intransitive.
 * Following Vogel (2003), there are only 3 derivational prefixes.
 * Derivational suffixes are more than a hundred, of which only about twenty are derivational.
-
-The following are tense markers. Those indicating past also mark evidentiality:
-
- Suffix          |     Meaning               |
-:--------------: | :-----------------------: |
- -hara/-hare     |  immediate past, attested|  
- -hani/-hino     | immediate past, non-attested|
- -hamaro/-himari | far past, attested     |
- -hemete/-himata | far past, non-eyewitness  |
- -haba(na)/-hiba(na)| future |
  
 
 A group of suffixes with adverbial are clause-final modifiers:
@@ -153,21 +143,98 @@ Suffix       |     Meaning               |
 -waha       | now, the next thing, then |
 -makoni      | unusual, take no responsability for |
 
+
+## Verbal Aspect
 * Some aspectual distinctions are signalled by inflectional verbal suffixes.
 
 Suffix           |     Aspect         |
 :--------------: | :----------------: |
  -te             |  habitual          |   
  -ne             | continuous         |
- -habone/-hibona | intentive          |
- -hamone/-himona | reportative        |
- -ke/-ka         | declarative        |
+
 
 ### Predicate Structure
-                    
+
+The predicate has elements that are obligatory and others that are optional. In total there are eleven slots, which are filled by
+prefixes, suffixes, and separate words.
+
+**Slot 1**
+
+cross-references O. Obligatory in transitive clauses. Must be singular.
+
+**Slot 2**
+
+cross-references S or A. Non-singular = separate word, and singular = prefix. 
+
+**Slot 3**
+
+3.1 singular subject index prefixes (1SG *o*-, 2SG *ti*-); *hi*-, used in an OC when both
+A and O are 3rd person; or *to*- 'away';
+
+3.2 applicative *ka*-
+
+3.3 causative *na* ~ *niha*-
+
+
+**Slot 4**
+
+predicate (verb root) (few exceptions)
+
+**Slot 5*
+
+auxiliary
+
+**Slot 6*
+
+56 different suffixes (highly complex):
+negation
+
+**Slot 7 (Tense + Evidentiality)*
+
+Suffix         |   Tense + Evidentiality |
+:------------: | :----------------------:|
+  -*(hV)ra/e*      | Immediate past + attested |
+   -*(hV)ni/o*     | Immediate past + non-attested |
+  -*(hV)ro/i*      | Recent past + attested|
+   -*(hV)te/a*     | Recent past + non-attested|
+  -*(hV)maro/i*    | Far past + attested |
+  -*(hV)mete -mata* | Far past + non-attested |
+  -*(hV)bone/a* |  Intentional |
+ -*(hV)ba(na)* | Future |
+ -*(hV)ne/a* | Irrealis |
+ -*(hV)mene/mana* | Hypothetical |
+ -*(hV)mone/mona* | Reportative
+ 
+ 
+ 
+**Slot 8*
+
+index: S in an intransitive clause, to A in an AC, and to either O or A in an OC. 
+
+**Slot 9*
+
+secondary verbs: *ama* 'extended in time' or *awine/awa* 'seems', optional.
+
+**Slot 10*
+
+mood suffixes (optional) and markers of dependent clause: 
+
+Suffix           |     Mood         |
+:--------------: | :----------------: |
+ -*ke/ka*          |  Declarative       |   
+ -*ni/ne*          |  Backgrounding     |
+ -*habone/-hibona* |  Interrogative     |
+ -*hamone/-himona* |  Imperative        |
+ -*kani/kani *     |  Counterfactual |
+ -*nihi/noho*      | Climax   |
+ -*be(ja)/ba(ja)*  | Immediate |
+ -*makoni/mako*    | Take no responsability |
+ -*rihi/rihi*.     | Contrastive negation|
  
 
+**Slot 11**
 
+many tense-modal forms (from slot 7), negation (from slot 6).
 
 ---
 
