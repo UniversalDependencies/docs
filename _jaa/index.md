@@ -292,6 +292,29 @@ John POSS gun.F
 'Jon's gun'
 
 
+```
+amise tame
+aunt.F foot.F
+'Aunt's foot'
+```
+
+In the example below, there is embedding (alienable + inalienable possession). 
+
+```
+[amise ka] jome teme
+aunt.F POSS dog.M foot.M
+'Aunt's dog's foot'
+
+All possessed NPs in Jarawara are third person.
+
+An NP can function as a copula subject:
+
+```
+Manoware ka yobe hawa towareka
+Manoware ka yobe hawa to-ha-hare-ka
+Manoware POSS house be.ready INC-AUX-IPAST.EVID.M-DECL.M
+Manoware's house is ready
+
 
 ---
 
