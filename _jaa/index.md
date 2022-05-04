@@ -316,6 +316,7 @@ Manoware ka yobe hawa to-ha-hare-ka
 Manoware POSS house be.ready INC-AUX-IPAST.EVID.M-DECL.M
 Manoware's house is ready
 
+The contrastive marker *ta* appears at the end of an NP. It can only be followed by the obsolete suffix -*ra*.
 
 ---
 
