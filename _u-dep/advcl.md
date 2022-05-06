@@ -56,7 +56,7 @@ Note the similarity to the *while sad* example above. Omitting the nominal predi
 
 ~~~ sdparse
 Entering the room sad is not recommended
-advcl(entered, sad)
+advcl(Entering, sad)
 ~~~
 
 <!-- Interlanguage links updated St lis 3 20:58:34 CET 2021 -->
