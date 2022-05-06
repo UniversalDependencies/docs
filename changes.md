@@ -24,10 +24,15 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 | &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
 |:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
+| 4 | 2022-May     | 2.10              | AMENDMENT                | [Optional Depictives](#optional-depictives)   |
 | 3 | 2022-Feb     | 2.10              | AMENDMENT                | [Reported Speech](#reported-speech)           |
 | 2 | 2022-Jan     | 2.10              | AMENDMENT, VALIDATOR     | [Typos and `goeswith`](#typos-and-goeswith)   |
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
 
+### Optional Depictives
+
+[Reanalyzed](https://github.com/UniversalDependencies/docs/pull/866) optional depictives as adverbial ([advcl]()) rather than adnominal ([acl]()), given that the predicand may not always be overt in the sentence, and even when it is overt it doesn't form a nominal phrase with the depictive. The secondary predication can instead be expressed via an enhanced dependency, similar to control. (A precise naming recommendation for the enhanced edge is deferred for further discussion.)
+  
 ### Reported Speech
 
 [Revised](https://github.com/UniversalDependencies/docs/pull/850) the policy regarding reported speech: the quoted material attaches as [ccomp]() to the speech verb regardless of order and punctuation; [parataxis]() should be used only if the quotation is interrupted.
