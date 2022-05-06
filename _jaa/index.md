@@ -42,11 +42,11 @@ Mapping UPOS to XPOS Tupinambá
 
 ### Number
 
-Jarawara distinguishes three numbers: singular, dual, and plural, but no details will be given here, since the details are many and complicated. 
+Jarawara distinguishes three numbers: `singular`, `dual`, and `plural`.
 
 ### Gender
 
-* Nouns are either masculine or feminine, and gender is not morphologically marked. Gender is maniphested through agreement, mostly with the verb.
+* Nouns are either `masculine` or `feminine`, and gender is not morphologically marked. Gender is maniphested through agreement, mostly with the verb.
 
 ```
 Inamatewe amo-ka
@@ -62,7 +62,7 @@ baby(F) sleep-DECL.F
 
 * Masculine animated nouns show feminine agreement in the plural.
 
-* Possessed nouns agree with the gender of the possessor and often they have two forms, which are not predictable, i.e., they must be memorized. The feminine forms are the default forms. Sometimes both forms are similar as e.g. *ibisiri* (F) / *ibisiri* (M) 'piece', but often they are not *fanaki* (f) / *fanako* (M) 'thigh'.
+* Possessed nouns agree with the gender of the possessor and often they have two forms, which are not predictable. The feminine forms are the default forms. Sometimes both forms are similar as e.g. *ibisiri* (F) / *ibisiri* (M) 'piece', but often they are not *fanaki* (f) / *fanako* (M) 'thigh'.
 
 ```
 Okomobi moni ama-ka
@@ -93,7 +93,7 @@ Person/Number/Animacy | Slot 1   | Slot 2 and 8  | Cardinal indexes |Alienamble 
 Slot 1: O function in transitive predicates
 Slot 2: A, S or copula subject function
 Slot 8: the function of the indexes depend on the type of constructions (O or A). Always S in intransitive predicates. Possessor
-in an NP.
+in an NP, A in AC. In OC, it can be A or O.
 
 The absence of an index (S, A, or O) indicates the argument in 3SG.
 
@@ -139,9 +139,9 @@ Suffix       |     Meaning               |
 -rama      | unusual, unexpected       |
 -tasa      | do again                  |
 -bisa      | also                      |
--mata       | short time                |
--waha       | now, the next thing, then |
--makoni      | unusual, take no responsability for |
+-mata      | short time                |
+-waha      | now, the next thing, then |
+-makoni     | unusual, take no responsability for |
 
 
 ## Verbal Aspect
@@ -198,12 +198,12 @@ Suffix         |   Tense + Evidentiality |
   -*(hV)ro/i*      | Recent past + attested|
    -*(hV)te/a*     | Recent past + non-attested|
   -*(hV)maro/i*    | Far past + attested |
-  -*(hV)mete -mata* | Far past + non-attested |
-  -*(hV)bone/a* |  Intentional |
- -*(hV)ba(na)* | Future |
- -*(hV)ne/a* | Irrealis |
- -*(hV)mene/mana* | Hypothetical |
- -*(hV)mone/mona* | Reportative
+  -*(hV)mete -mata*| Far past + non-attested |
+  -*(hV)bone/a*    |  Intentional |
+ -*(hV)ba(na)*     | Future       |
+ -*(hV)ne/a*       | Irrealis     |
+ -*(hV)mene/mana*  | Hypothetical |
+ -*(hV)mone/mona*  | Reportative
  
  
  
@@ -217,7 +217,7 @@ secondary verbs: *ama* 'extended in time' or *awine/awa* 'seems', optional.
 
 **Slot 10*
 
-mood suffixes (optional) and markers of dependent clause: 
+`mood suffixes (optional) and markers of dependent clause: 
 
 Suffix           |     Mood         |
 :--------------: | :----------------: |
@@ -225,9 +225,9 @@ Suffix           |     Mood         |
  -*ni/ne*          |  Backgrounding     |
  -*habone/-hibona* |  Interrogative     |
  -*hamone/-himona* |  Imperative        |
- -*kani/kani *     |  Counterfactual |
- -*nihi/noho*      | Climax   |
- -*be(ja)/ba(ja)*  | Immediate |
+ -*kani/kani *     |  Counterfactual    |
+ -*nihi/noho*      | Climax             |
+ -*be(ja)/ba(ja)*  | Immediate          |
  -*makoni/mako*    | Take no responsability |
  -*rihi/rihi*.     | Contrastive negation|
  
@@ -235,6 +235,13 @@ Suffix           |     Mood         |
 **Slot 11**
 
 many tense-modal forms (from slot 7), negation (from slot 6).
+
+```
+[jomee]o [∅      otaa  kobo ra-ba     otaa awine-ke]
+jaguar(M) 3SG.O  1EX.A meet NEG-FUT.F 1EX SEEM.F-DEC.F
+          A       B    D     F G      H     I    H
+it is not likely that we will see a jaguar
+
 
 ---
 
