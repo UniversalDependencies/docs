@@ -344,18 +344,25 @@ Once you do this, you are all set. Your copy will stay switched to the dev branc
 # Validation
 
 Up-to-date automatic validation runs of the repositories are available
-[here](http://quest.ms.mff.cuni.cz/udvalidator/).
-These are based on the `dev` branch of the data and use the `validate.py` script
-described below. Note that the validation script evolved significantly between
-releases 2.3 and 2.5. Now it includes many content-focused tests that check
-conformity with the guidelines. See a separate page on
-[validation rules](validation-rules.html), which explains the various
-validation levels, as well as the consequences of your treebank's not being
-valid at release time.
+[here](http://quest.ms.mff.cuni.cz/udvalidator/). Depending on the size of the treebank, the report
+will be updated within one to twenty minutes after pushing changes to Github. The report is based
+on the `dev` branch of the data and combines the output of two scripts: `check_files.pl` and
+`validate.py`. The former checks whether the treebank repository contains the expected files,
+whether the metadata in `README` look good and whether the language-specific documentation exists
+in the `docs` repository. The latter checks the actual contents of the CoNLL-U files within the
+treebank. This is the official UD validator, described in more detail below. You may want to
+download `validate.py` and check your data locally before uploading them; but even if you do so,
+always check the on-line validation report after uploading any changes to your repository. If you
+run your local validator with wrong configuration (or if you do not have the latest version of the
+validator), you may be led to think that your treebank is in good shape, while the fact is that the
+server will reject it.
 
-The validation script is available in the tools repository and you can use
-it to test your data locally before you upload them to Github. Make sure that
-you always have the latest update of the tools repository.
+See a separate page on [validation rules](validation-rules.html), which explains the various
+validation levels, as well as the consequences of your treebank's not being valid at release time.
+
+The validation script is available in the [tools](https://github.com/UniversalDependencies/tools)
+repository and you can use it to test your data locally before you upload them to Github. Make sure
+that you always have the latest update of the tools repository.
 
     $ git clone git@github.com:UniversalDependencies/tools.git
     $ cd tools
@@ -367,8 +374,7 @@ invoking the validator:
 
     $ sudo apt-get install python3-pip; python3 -m pip install regex
 
-See also the
-[README file](https://github.com/UniversalDependencies/tools/blob/master/README.md)
+See also the [README file](https://github.com/UniversalDependencies/tools/blob/master/README.md)
 in the tools repository.
 
 In general, you validate the data like so:

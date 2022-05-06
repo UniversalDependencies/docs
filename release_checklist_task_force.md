@@ -20,10 +20,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   back; if this is the case, you will see lists of modified files in the output and you
   will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
-* Run `tools/check_files.pl --release 2.10 --next-expected 'November 2022' --oldpath /net/data/universal-dependencies-2.9 |& tee release-2.10-report.txt | less`.
-  (There are hard-coded defaults for the above parameters. Instead of updating them regularly,
-  we may want to rewrite the script so that it is mandatory to specify them on the command
-  line.)
+* Run `tools/check_release.pl --release 2.10 --next-expected 'November 2022' --oldpath /net/data/universal-dependencies-2.9 |& tee release-2.10-report.txt | less`.
   The script will visit all repositories and report any missing files, unexpected or unexpectedly named files.
   It will download the [online validation report](http://quest.ms.mff.cuni.cz/udvalidator/)
   and check whether the treebanks are valid (prerequisite: all UD repositories are registered
