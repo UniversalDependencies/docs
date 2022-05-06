@@ -44,7 +44,7 @@ advcl(entered, sad)
 
 ## Optional Depictives
 
-This relation is also used for optional depictive adjectives. The adjective is treated as an adverbial clause modifier of the higher clause. The adjective also provides a secondary predication, where the nominal predicand may or may not be overt; if it is overt, the secondary predication can be represented with an Enhanced dependency. See [xcomp]() for further discussion of resultatives and depictives.
+This relation is also used for optional depictive adjectives. The adjective is treated as an adverbial clause modifier of the higher clause. The adjective also provides a secondary predication, where the nominal predicand may or may not be overt; if it is overt, the secondary predication can be represented with an enhanced dependency. See [xcomp]() for further discussion of resultatives and depictives.
 
 ~~~ sdparse
 She entered the room sad
