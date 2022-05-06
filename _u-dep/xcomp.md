@@ -187,7 +187,7 @@ obj(walking, dog)
 punct(found, .)
 ~~~
 
-The optional secondary predication or controlled adjunct subject relation can be represented with an Enhanced dependency edge 
+The optional secondary predication or controlled adjunct subject relation can be represented with an enhanced dependency edge 
 in addition to the [advcl]() relation.
 
 <!-- Interlanguage links updated St lis 3 20:59:11 CET 2021 -->
