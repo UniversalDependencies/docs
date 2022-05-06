@@ -50,4 +50,7 @@ mark(honest, that)
 cop(honest, are)
 nsubj(honest, you)
 ~~~
+
+This relation is no longer used for optional depictives: [advcl]() should be used instead.
+
 <!-- Interlanguage links updated St lis 3 20:58:33 CET 2021 -->
