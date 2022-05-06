@@ -93,6 +93,8 @@ xcomp(Promised, to-write)
 
 ### Secondary Predicates
 
+*The following is excerpted from [a more detailed discussion of secondary predicates](../overview/complex-syntax.html#secondary-predicates).*
+
 The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_.
 Examples:
 
@@ -163,6 +165,15 @@ punct(recommended, .)
 ~~~
 
 Notice that *while* can be inserted before *sad*, clearly marking it as a clause. 
+
+A Czech example:
+
+~~~ sdparse
+Vstoupila do místnosti smutná . \n She-entered to room sad .
+advcl(Vstoupila, smutná)
+advcl(She-entered, sad)
+~~~
+
 There is no need to decide whether an example like the following is a depictive or a manner adverbial:
 
 ~~~ sdparse
