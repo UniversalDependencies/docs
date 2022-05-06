@@ -32,6 +32,6 @@ She looks very beautiful
 xcomp(looks, beautiful)
 ~~~
 
-For additional examples and discussion, see the universal [xcomp]() page.
+For additional examples and discussion, see the universal [xcomp](../../u/dep/xcomp.html) page.
 
 <!-- Interlanguage links updated St lis 3 20:59:11 CET 2021 -->
