@@ -236,6 +236,10 @@ Suffix           |     Mood         |
 
 many tense-modal forms (from slot 7), negation (from slot 6).
 
+---
+
+Example of predicate with eight slots:
+
 ```
 [jomee]o [∅      otaa  kobo ra-ba     otaa awine-ke]
 jaguar(M) 3SG.O  1EX.A meet NEG-FUT.F 1EX SEEM.F-DEC.F
