@@ -543,7 +543,7 @@ The following show the pseudocleft construction being used to foreground a claus
 ~~~sdparse
 -ROOT- What John did was to play tennis .
 mark(play, to)
-cop:outer(play, was)
+cop(play, was)
 nsubj:outer(play, What)
 acl:relcl(What, did)
 ~~~
