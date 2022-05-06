@@ -356,30 +356,56 @@ nor significantly alter the meaning of the verb.
 On the other hand, leaving out _beautiful_ in _She declared the cake beautiful_
 will either render the sentence ungrammatical or lead to a different interpretation of _declared._
 
-The result is that in _She entered the room sad,_ _sad_ will depend on _She_
-and the relation will be [acl]() instead of `xcomp`:
+The result is that in _She entered the room sad_, _sad_ is considered a modifier (not complement) of the verb,
+with the relation [advcl]() instead of `xcomp`. 
+(This was [changed](/changes.html#optional-depictives) from the previous approach which analyzed the secondary predication directly with [acl](), 
+because the nominal predicand is not always overt, and even when it is, the adjective does not really belong to the same nominal phrase.)
 
 ~~~ sdparse
 She entered the room sad .
+nsubj(entered, She)
+det(room, the)
 obj(entered, room)
-acl(She, sad)
+advcl(entered, sad)
+punct(entered, .)
 ~~~
 
 ~~~ sdparse
-He painted the model naked .
-obj(painted, model)
-acl(model, naked)
+Entering the room sad is not recommended .
+csubj(recommended, Entering)
+det(room, the)
+obj(Entering, room)
+advcl(Entering, sad)
+cop(recommended, is)
+advmod(recommended, not)
+punct(recommended, .)
 ~~~
 
-If the nominal head is missing, the secondary predicate must be attached as
-[advcl]() of the verbal predicate, even though it is an [adjective](../pos/ADJ.html),
-not an [adverb](../pos/ADV.html). There is a second predication and the adjective heads the predication (just like in *She is sad*) and in this case there are simply no other words expressing this second predication:
+Notice that *while* can be inserted before *sad*, clearly marking it as a clause. 
+
+A Czech example:
 
 ~~~ sdparse
 Vstoupila do místnosti smutná . \n She-entered to room sad .
 advcl(Vstoupila, smutná)
 advcl(She-entered, sad)
 ~~~
+
+There is no need to decide whether an example like the following is a depictive or a manner adverbial:
+
+~~~ sdparse
+Linda found the money walking our dog .
+nsubj(found, Linda)
+det(money, the)
+obj(found, money)
+advcl(found, walking)
+det(dog, our)
+obj(walking, dog)
+punct(found, .)
+~~~
+
+The optional secondary predication or controlled adjunct subject relation can be represented with an enhanced dependency edge 
+in addition to the [advcl]() relation.
 
 The remaining, most subtle case is optional resultatives. For these,
 we uniformly use `xcomp`:
