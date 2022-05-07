@@ -21,7 +21,6 @@ Hint: *όχι" / *ochi* "no/not" should be tagged as [PART]() and <code>Polarity
 -	*να*
 -	*όχι*
 -	*πάρα*
--	*υπόψη*
 -	*μακάρι*
 
 
