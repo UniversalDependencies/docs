@@ -8,9 +8,11 @@ udver: '2'
 A nominal subject (`nsubj`) is a nominal which is the syntactic subject and the proto-agent of a clause.
 That is, it is in the position that passes typical grammatical test for subjecthood, and this argument is the more agentive,
 the do-er, or the proto-agent of the clause.
-(See [csubj]() for when the subject is clausal. See [nsubj:pass]() and [csubj:pass]() for when the subject is not
-the proto-agent argument due to valence changing operations.) This nominal may be headed by a noun,
-or it may be a pronoun or relative pronoun, or in ellipsis contexts, other things such as an adjective.
+This nominal may be headed by a noun, or it may be a pronoun or relative pronoun, or in ellipsis contexts, other things such as an adjective.
+
+Special cases are [nsubj:pass]() for when the subject is not the proto-agent argument due to valence changing operations; 
+and [nsubj:outer]() for when the subject is of a copular clause whose predicate is itself a clause.
+(See [csubj](), [csubj:pass](), and [csubj:outer]() for when the subject is clausal.)
 
 The `nsubj` role is only applied to semantic arguments of a predicate.
 When there is an empty argument in a grammatical subject position (sometimes called a pleonastic or expletive),
