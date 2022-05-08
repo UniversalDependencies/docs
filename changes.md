@@ -41,7 +41,7 @@ would be promoted to head its subject and the predicate of the inner clause woul
 But this yielded an odd interpretation of some copulas as transitive and offered no solution for zero copula constructions.
 A [change](https://github.com/UniversalDependencies/docs/pull/868) was necessary.
 
-The [new policy](_u-overview/complex-syntax.html#predicate-clauses)—a product of extensive deliberation—is that the predicate of the inner clause can have multiple subject dependents. 
+The [new policy](/u/overview/complex-syntax.html#predicate-clauses)—a product of extensive deliberation—is that the predicate of the inner clause can have multiple subject dependents. 
 The subject(s) of the non-innermost clause(s) can be subtyped with `:outer` to signify nesting: [nsubj:outer](), [csubj:outer](). 
 The `:outer` subtype, like all subtypes, is (at least for now) technically optional.
 Therefore, as an alternative, the validator will allow a treebank's maintainers to manually verify that 
