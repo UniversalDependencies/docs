@@ -310,7 +310,7 @@ xcomp(Like, Hot)
 There may be an outer subject with no inner subject:
 
 ~~~ sdparse
-The important thing is to keep calm.
+The important thing is to keep calm .
 nsubj:outer(keep, thing)
 cop(keep, is)
 mark(keep, to)
@@ -318,7 +318,7 @@ xcomp(keep, calm)
 ~~~
 
 ~~~ sdparse
-To hike in the mountains is to experience the best of nature.
+To hike in the mountains is to experience the best of nature .
 csubj:outer(experience, hike)
 obl(hike, mountains)
 mark(hike, To)
