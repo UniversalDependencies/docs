@@ -101,7 +101,7 @@ aux(destabilizing, will)
 
 While a part of speech (and associated deprel: `cop` vs. `aux`) has to be decided in such cases, it would be unfortunate if the choice of part of speech also changed the dependency structure. Note, however, that the exact distribution of the copula construction is subject to language-specific variation.
 
-Finally, the `cop` may mark a [predicate clause](/u/overview/complex-syntax.html), i.e., a full clause serving as the predicate within an outer copular clause. 
+Finally, the `cop` may mark a [predicate clause](/u/overview/complex-syntax.html#predicate-clauses), i.e., a full clause serving as the predicate within an outer copular clause. 
 In such cases, [nsubj:outer]() or [csubj:outer]() can be used to distinguish the outer subject:
 
 ~~~ sdparse
