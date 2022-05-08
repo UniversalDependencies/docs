@@ -9,6 +9,7 @@ udver: '2'
 
 * [Coordinated clauses](#coordination)
 * [Subordinate clauses](#subordination)
+* [Predicate clauses](#predicate-clauses)
 * [Secondary predicates](#secondary-predicates)
 
 ## Coordination
@@ -207,22 +208,7 @@ obj(let, us)
 xcomp(let, know)
 ~~~
 
-Finally, `ccomp` is used with copulas in equational constructions involving full clauses.
-
-~~~ sdparse
-The important thing is to keep calm.
-ccomp(is, keep)
-nsubj(is, thing)
-~~~
-
-~~~ sdparse
-The problem is that this has never been tried .
-ccomp(is, tried)
-nsubj(is, problem)
-~~~
-
-(In these cases, the copula is treated as a head to preserve the integrity of clause boundaries and prevent one predicate to
-be assigned two subjects. This is not an optimal solution given the analysis of equational constructions involving nominals, where one of the nominals is treated as the head, but it is the preferred solution for now.)
+(`ccomp` is no longer used for a copular predicate which is itself a clause: see [Predicate Clauses](#predicate-clauses).)
 
 ### Adverbial Clause Modifiers
 
@@ -295,6 +281,77 @@ clauses" in Huddleston and Pullum 2002). These are also analyzed as `acl`.
 the fact that nobody cares
 acl(fact, cares)
 ~~~
+
+## Predicate Clauses
+
+In copula constructions, the predicate may be an entire clause. Because UD does not represent constituent structure, the word that is the predicate of the inner clause does double duty as the head of the outer copula construction. This means that there may be multiple subject relations with the same head—an exception to the usual rule that a word should have at most one [nsubj]() or [csubj]() dependent. The subtype `:outer` can be used to distinguish the subject that belongs to the outer clause (the innermost nested clause is the "normal" clause; if it has a subject, it does not receive any special designation):
+
+~~~ sdparse
+-ROOT- The problem is that this has never been tried .
+nsubj:outer(tried, problem)
+cop(tried, is)
+mark(tried, that)
+nsubj:pass(tried, this)
+aux(tried, has)
+advmod(tried, never)
+aux:pass(tried, been)
+root(-ROOT-, tried)
+~~~
+
+~~~ sdparse
+The title is Some Like It Hot .
+nsubj:outer(Like, title)
+cop(Like, is)
+nsubj(Like, Some)
+obj(Like, It)
+xcomp(Like, Hot)
+~~~
+
+There may be an outer subject with no inner subject:
+
+~~~ sdparse
+The important thing is to keep calm.
+nsubj:outer(keep, thing)
+cop(keep, is)
+mark(keep, to)
+xcomp(keep, calm)
+~~~
+
+~~~ sdparse
+To hike in the mountains is to experience the best of nature.
+csubj:outer(experience, hike)
+obl(hike, mountains)
+mark(hike, To)
+cop(experience, is)
+mark(experience, to)
+obj(experience, best)
+~~~
+
+Some languages have zero copula constructions—that is, there is no overt copula, but the nesting is the same, and the outer subject can be distinguished with [nsubj:outer]() or [csubj:outer](). 
+Here is a Hebrew sentence demonstrating a copular clause nested within another copular clause, i.e. _The problem (is) that Kim (is) tired_:
+
+~~~ sdparse
+ha/DET be'aya/NOUN she/SCONJ Kim/PROPN 'ayefa/ADJ .
+det(be'aya, ha)
+nsubj:outer('ayefa, be'aya)
+mark('ayefa, she)
+nsubj('ayefa, Kim)
+~~~
+
+In principle there could be multiple levels of nesting with multiple `:outer` subjects (though this is extremely rare in practice):
+
+~~~ sdparse
+My memory is that the problem is that Kim will be traveling in March .
+nsubj:outer(traveling, memory)
+cop(traveling, is-3)
+mark(traveling, that-4)
+nsubj:outer(traveling, problem)
+cop(traveling, is-7)
+mark(traveling, that-8)
+nsubj(traveling, Kim)
+~~~
+
+(This was [changed](/changes.html#multiple-subjects) from earlier versions of the guidelines, where the outer copula was the head of a `ccomp` relation.)
 
 ## Secondary Predicates
 
