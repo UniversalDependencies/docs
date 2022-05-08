@@ -30,6 +30,24 @@ obj(Like, It)
 xcomp(Like, Hot)
 ~~~
 
+~~~ sdparse
+It was because Bill is honest
+nsubj:outer(honest, It)
+mark(honest, because)
+cop(honest, was)
+nsubj(honest, Bill)
+cop(honest, is)
+~~~
+
+~~~ sdparse
+My question is : was that really true ?
+nsubj:outer(true, question)
+cop(true, is)
+cop(true, was)
+nsubj(true, that)
+advmod(true, really)
+~~~
+
 There may be an outer subject with no inner subject:
 
 ~~~ sdparse
@@ -38,6 +56,17 @@ nsubj:outer(keep, thing)
 cop(keep, is)
 mark(keep, to)
 xcomp(keep, calm)
+~~~
+
+~~~ sdparse
+This is to inform you of our decision
+nsubj:outer(inform, This)
+cop(inform, is)
+mark(inform, to)
+obj(inform, you)
+obl(inform, decision)
+case(decision, of)
+nmod:poss(decision, our)
 ~~~
 
 The clausal counterpart of this relation is [csubj:outer]().
