@@ -33,7 +33,7 @@ xcomp(Like, Hot)
 There may be an outer subject with no inner subject:
 
 ~~~ sdparse
-The important thing is to keep calm.
+The important thing is to keep calm .
 nsubj:outer(keep, thing)
 cop(keep, is)
 mark(keep, to)
