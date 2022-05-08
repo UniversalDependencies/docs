@@ -66,4 +66,16 @@ nsubj(existed, that)
 From China comes news of a new super-small mobile phone .
 nsubj(comes, news)
 ~~~
+
+Some infinitival clauses have a nominal subject preceded by *for*:
+
+~~~ sdparse
+It is important for/SCONJ everyone to remain calm .
+expl(important, It)
+csubj(important, remain)
+mark(remain, for)
+nsubj(remain, everyone)
+mark(remain, to)
+xcomp(remain, calm)
+~~~
 <!-- Interlanguage links updated St lis 3 20:59:00 CET 2021 -->
