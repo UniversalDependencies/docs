@@ -117,7 +117,7 @@ root(-ROOT-, tried)
 ~~~
 
 ~~~ sdparse
-The important thing is to keep calm.
+The important thing is to keep calm .
 nsubj:outer(keep, thing)
 cop(keep, is)
 mark(keep, to)
