@@ -10,7 +10,7 @@ to signal that it is not the subject of the nested clause.
 See discussion of [Predicate Clauses](../overview/complex-clauses.html#predicate-clauses).
 
 ~~~ sdparse
--ROOT- To hike in the mountains is to experience the best of nature.
+-ROOT- To hike in the mountains is to experience the best of nature .
 root(-ROOT-, experience)
 csubj:outer(experience, hike)
 obl(hike, mountains)
@@ -18,6 +18,19 @@ mark(hike, To)
 cop(experience, is)
 mark(experience, to)
 obj(experience, best)
+~~~
+
+~~~ sdparse
+For us to not attempt to solve the problem is for us to acknowledge defeat .
+mark(attempt, For)
+nsubj(attempt, us)
+mark(attempt, to-3)
+xcomp(attempt, solve)
+csubj:outer(acknowledge, attempt)
+cop(acknowledge, is)
+mark(acknowledge, for)
+nsubj(acknowledge, us)
+obj(acknowledge, defeat)
 ~~~
 
 The nominal counterpart of this relation is [nsubj:outer]().
