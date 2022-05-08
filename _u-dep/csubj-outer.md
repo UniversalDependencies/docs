@@ -23,13 +23,13 @@ obj(experience, best)
 ~~~ sdparse
 For us to not attempt to solve the problem is for us to acknowledge defeat .
 mark(attempt, For)
-nsubj(attempt, us)
+nsubj(attempt, us-2)
 mark(attempt, to-3)
 xcomp(attempt, solve)
 csubj:outer(acknowledge, attempt)
 cop(acknowledge, is)
 mark(acknowledge, for)
-nsubj(acknowledge, us)
+nsubj(acknowledge, us-12)
 obj(acknowledge, defeat)
 ~~~
 
