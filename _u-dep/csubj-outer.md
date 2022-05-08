@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: 'nsubj:outer'
-shortdef: 'outer clause nominal subject'
+title: 'csubj:outer'
+shortdef: 'outer clause clausal subject'
 udver: '2'
 ---
 
