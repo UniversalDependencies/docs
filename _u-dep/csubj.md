@@ -14,7 +14,7 @@ examples, *what she said* (that is, *said*) is the clausal subject of *makes* an
 
 **New from v2:** The `csubj` relation is also used for the clausal subject of a passive verb or verb group. For languages
 that have a grammaticalized passive transformation, it is strongly recommended to use the subtype [csubj:pass]() in 
-such cases.
+such cases. If the subject is of a copular clause whose predicate is itself a clause, [csubj:outer]() may be used.
 
 ~~~ sdparse
 What she said makes sense

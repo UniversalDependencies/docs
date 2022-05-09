@@ -95,27 +95,8 @@ nsubj(having, practices)
 parataxis(having, say)
 ~~~
 
-### Copular Construction with Full Clause as Predicate
+_Changed:_ 
+- In earlier versions of SD/USD, complement clauses with nouns like *fact* or *report* were also analyzed as `ccomp`. However, we now analyze them as [acl](). Hence, `ccomp` does not appear in nominals. This makes sense, since nominals normally do not take core arguments.
+- The policy for copular constructions with a full clause as predicate has been [changed](/changes.html#multiple-subjects) to no longer use `ccomp` to nest the predicate clause under the copula.
 
-Additionally, `ccomp` is used with copulas in equational constructions involving full clauses.
-
-~~~ sdparse
-The important thing is to keep calm.
-ccomp(is, keep)
-nsubj(is, thing)
-~~~
-
-~~~ sdparse
-The problem is that this has never been tried .
-ccomp(is, tried)
-nsubj(is, problem)
-~~~
-
-(In these cases, the copula is treated as a head to preserve the integrity of clause boundaries and prevent one predicate to
-be assigned two subjects. This is not an optimal solution given the analysis of equational constructions involving nominals, where one of the nominals is treated as the head, but it is the preferred solution for now.)
-
-_Note:_ In earlier versions of SD/USD, complement
-clauses with nouns like *fact* or *report* were also analyzed as `ccomp`. 
-However, we now analyze them as [acl](). Hence, `ccomp` does not appear in nominals.
-This makes sense, since nominals normally do not take core arguments.
 <!-- Interlanguage links updated St lis 3 20:58:44 CET 2021 -->

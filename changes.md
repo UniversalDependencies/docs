@@ -24,10 +24,33 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 | &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
 |:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
+| 5 | 2022-May     | 2.10              | AMENDMENT, VALIDATOR     | [Multiple Subjects](#multiple-subjects)       |
 | 4 | 2022-May     | 2.10              | AMENDMENT                | [Optional Depictives](#optional-depictives)   |
 | 3 | 2022-Feb     | 2.10              | AMENDMENT                | [Reported Speech](#reported-speech)           |
 | 2 | 2022-Jan     | 2.10              | AMENDMENT, VALIDATOR     | [Typos and `goeswith`](#typos-and-goeswith)   |
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
+
+
+### Multiple Subjects
+
+In general, UD prohibits multiple subjects (i.e. a word may have at most one [nsubj]() or [csubj]() dependent), 
+and enforcing this in validation is a useful way to catch errors.
+However, a clause may serve as the predicate in a copular construction (e.g. _The problem is that we already paid_), posing a problem for this constraint.
+Until now, the guidelines carved out an exception for such cases: the copula of the outer clause
+would be promoted to head its subject and the predicate of the inner clause would attach to it as [ccomp]() (as explained in [v1 guidelines](/docsv1/u/dep/ccomp.html)).
+But this yielded an odd interpretation of some copulas as transitive and offered no solution for zero copula constructions.
+A [change](https://github.com/UniversalDependencies/docs/pull/868) was necessary.
+
+The [new policy](/u/overview/complex-syntax.html#predicate-clauses)—a product of extensive deliberation—is that the predicate of the inner clause can have multiple subject dependents. 
+The subject(s) of the non-innermost clause(s) can be subtyped with `:outer` to signify nesting: [nsubj:outer](), [csubj:outer](). 
+The `:outer` subtype, like all subtypes, is (at least for now) technically optional.
+Therefore, as an alternative, the validator will allow a treebank's maintainers to manually verify that 
+any instances of multiple subjects are correct.
+  
+Note that using `:outer` just for subjects does not fully disambiguate the compositional structure: 
+for example, [cop](), [aux](), [mark](), [advmod](), and [obl]() dependents of the predicate may belong to either the inner or outer clause. 
+In order to avoid a proliferation of subtyped relations, the trees in the new guidelines do not apply the `:outer` label to anything other than subjects.
+Treebanks are, of course, welcome to innovate in their use of subtypes and/or MISC features.  
 
 ### Optional Depictives
 

@@ -101,19 +101,27 @@ aux(destabilizing, will)
 
 While a part of speech (and associated deprel: `cop` vs. `aux`) has to be decided in such cases, it would be unfortunate if the choice of part of speech also changed the dependency structure. Note, however, that the exact distribution of the copula construction is subject to language-specific variation.
 
-Finally, the `cop` relation is not used when the nonverbal predicate has the form of a clause, which typically occur in equational constructions like the following:
+Finally, the `cop` may mark a [predicate clause](/u/overview/complex-syntax.html#predicate-clauses), i.e., a full clause serving as the predicate within an outer copular clause. 
+In such cases, [nsubj:outer]() or [csubj:outer]() can be used to distinguish the outer subject:
+
+~~~ sdparse
+-ROOT- The problem is that this has never been tried .
+nsubj:outer(tried, problem)
+cop(tried, is)
+mark(tried, that)
+nsubj:pass(tried, this)
+aux(tried, has)
+advmod(tried, never)
+aux:pass(tried, been)
+root(-ROOT-, tried)
+~~~
 
 ~~~ sdparse
 The important thing is to keep calm .
-ccomp(is, keep)
-nsubj(is, thing)
+nsubj:outer(keep, thing)
+cop(keep, is)
+mark(keep, to)
+xcomp(keep, calm)
 ~~~
 
-~~~ sdparse
-The problem is that this has never been tried .
-ccomp(is, tried)
-nsubj(is, problem)
-~~~
-
-If we took the predicate of the clause as the head, instead of the copula verb, it would have two subjects, which would be unworkable. Examples like the above *could* be analyzed reversed with the initial noun phrase as the predicate, but in addition to this seeming undesirable, it would fail to be a solution if there were a clause on both sides of *be*, such as in: *(For us) to not attempt to solve the problem is (for us) to acknowledge defeat*. (Note: This solution is not perfect and refining it is a possible direction for the future.)
 <!-- Interlanguage links updated St lis 3 20:58:47 CET 2021 -->

@@ -13,7 +13,7 @@ or it may be a pronoun or relative pronoun or, in ellipsis contexts, other thing
 **New from v2:** The `nsubj` relation is also used for the nominal subject of a passive verb or verb group, even
 though the subject is then not typically the proto-agent argument due to valency changing operations. For languages
 that have a grammaticalized passive transformation, it is strongly recommended to use the subtype [nsubj:pass]() in 
-such cases.
+such cases. If the subject is of a copular clause whose predicate is itself a clause, [nsubj:outer]() may be used.
 
 The governor of the `nsubj` relation might not always be a verb: when
 the verb is a copular verb, the root of the clause is the complement
