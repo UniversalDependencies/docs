@@ -12,7 +12,7 @@ Adverbs are words that typically modify verbs for place, time, manner or quantit
 
 Some adverbs seem to form phrasal verbs (rare phenomenon in Greek),  such as *βάζω μπρος/μπροστά* / *vazo bros/brosta* ‘to start an engine/to start operating'. Although they function as particles in a multiword expression, they are assigned the tag ADV and the multiword status of the expression is accounted for in syntax.
 
-Aadverbs may be assigned the <code>PronType</code> feature:
+Adverbs may be assigned the <code>PronType</code> feature:
 - demonstrative adverbs ([PronType=Dem]()): *εδώ* / *edo* ‘here', *εκεί* / *eki* `there', *τώρα* / *tora* ‘now', *τότε* / *tote* ‘then'
 - indefinite adverbs ([PronType=Ind]()): *κάπου* / *kapou* ‘somewhere', *κάποτε* / *kapote* ‘sometime', *οπουδήποτε* / *opoudipote* ‘anywhere', *οποτεδήποτε* / *opotedipote* ‘anytime'
 - interrogative adverbs ([PronType=Int]()): *πού* / *pou* ‘where', *πότε* / *pote* ‘when', *πώς* / *pos* ‘how', *γιατί* / *giati* ‘why'
