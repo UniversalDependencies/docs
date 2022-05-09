@@ -558,7 +558,10 @@ nsubj(worked, plan)
 root(-ROOT-, worked)
 ~~~
 
-☞ TODO: nesting of copular clauses: What the committee asked is whether the plan is viable.
+☞ TODO: clefts vs. extraposition. 
+- CLEFT: "It’s [that he’s so self-satisfied] [that I find offputting]." (CGEL p. 1418). 
+- EXTRAPOSITION: "I find it offputting that he's so self-satisfied." expl(find, it), nsubj(find, I), ccomp(find, self-satisfied)
+
 
 <!--
 ~~~sdparse
