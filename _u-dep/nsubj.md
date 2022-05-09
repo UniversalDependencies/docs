@@ -63,7 +63,7 @@ nsubj(is, ghost)
 
 ~~~sdparse
 These links present the many viewpoints that existed .
-acl(viewpoints, existed)
+acl:relcl(viewpoints, existed)
 nsubj(existed, that)
 ~~~
 
