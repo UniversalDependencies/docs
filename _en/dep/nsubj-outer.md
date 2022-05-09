@@ -7,7 +7,7 @@ udver: '2'
 
 This relation specifies a nominal subject of a copular clause whose predicate is itself a clause, 
 to signal that it is not the subject of the nested clause.
-See discussion of [Predicate Clauses](/u/overview/complex-clauses.html#predicate-clauses).
+See discussion of [Predicate Clauses](/u/overview/complex-syntax.html#predicate-clauses).
 
 ~~~ sdparse
 -ROOT- The problem is that this has never been tried .
