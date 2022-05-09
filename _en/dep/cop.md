@@ -110,11 +110,11 @@ det(bags, some)
 ~~~
 
 ~~~ sdparse
-There 's a cow in the field
+There 's/VERB a cow in the field
 expl('s, There)
 nsubj('s, cow)
 det(cow, a)
-nmod('s, field)
+obl('s, field)
 det(field, the)
 case(field, in)
 ~~~
