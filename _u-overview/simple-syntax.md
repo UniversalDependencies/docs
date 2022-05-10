@@ -390,6 +390,8 @@ When the second part is a clause, the demonstrative pronoun _то_ must be inser
 дело в том , что она моя мать \n fact in that , that she my mother
 nsubj(том, дело)
 nsubj(that-12, fact)
+case(том, в)
+case(that-12, in)
 acl(том, мать)
 acl(that-12, mother)
 nsubj(мать, она)
