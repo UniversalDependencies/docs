@@ -50,7 +50,7 @@ any instances of multiple subjects are correct.
 Note that using `:outer` just for subjects does not fully disambiguate the compositional structure: 
 for example, [cop](), [aux](), [mark](), [advmod](), and [obl]() dependents of the predicate may belong to either the inner or outer clause. 
 In order to avoid a proliferation of subtyped relations, the trees in the new guidelines do not apply the `:outer` label to anything other than subjects.
-Treebanks are, of course, welcome to innovate in their use of subtypes and/or MISC features.  
+Treebanks are, of course, welcome to innovate in their use of subtypes and/or MISC attributes.  
 
 ### Optional Depictives
 
