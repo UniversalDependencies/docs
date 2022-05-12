@@ -16,7 +16,7 @@ If you're new to UD, you should start by reading the first part of the Short Int
 * More information on UD:
   * [How to contribute to UD](contribute.html)
   * [Tools for working with UD](tools.html)
-  * [Discussion on UD](discussion.html)
+  * [Changes to the UD guidelines](changes.html)
   * [UD-related events](events.html)
 * Query UD treebanks online:
   * [SETS treebank search](http://depsearch-depsearch.rahtiapp.fi/ds_demo/) maintained by the University of Turku
