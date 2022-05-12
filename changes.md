@@ -79,7 +79,7 @@ Deverbal connectives may be tagged as [VERB]() while attaching as [case]() or [m
 ## Discussions
 
 - [Discussion notes](/discussion.html)
-- [Universal guidelines issue tracker](https://github.com/UniversalDependencies/docs/issues)
+- [Issue tracker for guidelines (both universal and language-specific)](https://github.com/UniversalDependencies/docs/issues)
 
 ## Data Releases
 
