@@ -346,6 +346,7 @@ Illustrating the contrast with *where*:
 
 [^2]: Or, formally, *wherein*.
 
+☞ TODO: it may be more complicated than this. look at CGEL pp. 1078-1079
 
 ## Free Relatives
 
