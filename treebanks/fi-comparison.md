@@ -51,7 +51,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 15136 sentences, 201950 tokens and 202194 syntactic words.</li>
+      <li>This corpus contains 15136 sentences, 201948 tokens and 202192 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -73,7 +73,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 28666 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 28664 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -117,7 +117,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 2272 types of words that contain both letters and punctuation. Examples: EU:n, N:o, s., mm., eaa., :D, 5(n), EKP:n, talous-, A., esim., sdp:n, EMN:n, YK:n, n., ns., A:n, -yhtye, oy:n, 2003/634/EY, II:n, huhti-kesäkuussa, ja/tai, EU:, UPM:n, Varsinais-Suomen, var., -yhtyeen, 19/65/ETY, 1980-luvun, 3.Rf3, ETA:n, I:n, kuorma-auto, pinta-ala, 1800-luvun, 1999/730/YUTP, 2.f4, 90/642/ETY, Isossa-Britanniassa, J., SDP:tä, Valko-Venäjä, koulutus-, maahanmuutto-, tutkimus-, ven., 1900-luvun, 1970-luvulla, 1990-luvun</li>
+      <li>This corpus contains 2273 types of words that contain both letters and punctuation. Examples: EU:n, N:o, s., mm., eaa., :D, 5(n), EKP:n, talous-, A., esim., sdp:n, EMN:n, YK:n, n., ns., A:n, -yhtye, oy:n, 2003/634/EY, II:n, huhti-kesäkuussa, ja/tai, EU:, UPM:n, Varsinais-Suomen, var., -yhtyeen, 19/65/ETY, 1980-luvun, 3.Rf3, ETA:n, I:n, kuorma-auto, pinta-ala, 1800-luvun, 1999/730/YUTP, 2.f4, 90/642/ETY, Isossa-Britanniassa, J., SDP:tä, Valko-Venäjä, koulutus-, maahanmuutto-, tutkimus-, ven., 1900-luvun, 1970-luvulla, 1990-luvun</li>
       </ul>
     </td>
   </tr>
@@ -633,13 +633,11 @@ udver: '2'
             <li>AUX-Fin: on, ei, oli, en, eikä, voi, olen, olisi, pitäisi, voisi</li>
             <li>AUX-Inf: olla, olemaan, ollessa, joutua, ollessaan, pitää</li>
             <li>AUX-Part: ollut, olevan, jouduttu, voinut, olevansa, oltava, joutunut, ollu, tainnut, tarvinnut</li>
-            <li>INTJ: Jopas</li>
             <li>NOUN: diureesi, hemodynamiikka, hapetus, hengitys, pulssi, aikana, Tajunta, yövuoro, aamulla, illalla</li>
             <li>NOUN-Inf: kumarrella</li>
             <li>NUM: yksi, kaksi, pari, kolme, yhden, kahden, kolmeen, kolmen, neljä, neljän</li>
             <li>PRON: se, sen, joka, hän, kaikki, mitä, sitä, muuta, tällä, tämä</li>
             <li>PROPN: furesis, Esko, Tymppis, Tymppiksen, the, sp., Eskon, Suomi, suomessa, noradrenalina</li>
-            <li>SYM: %:n</li>
             <li>VERB: saanut, tulee, saa, aloitettu, hapettuu, laitettu, sai, alkoi, päästy, saada</li>
             <li>VERB-Fin: tulee, saa, hapettuu, sai, alkoi, löytyy, laskee, menee, kertoo, laski</li>
             <li>VERB-Inf: saada, tehdä, katsomassa, tulla, laskemaan, nukkuessa, käymään, pitää, mennä, menossa</li>
@@ -811,7 +809,7 @@ udver: '2'
             <li>NUM: kahdeksalta, kuudelta, 581:ltä, neljältä, 955:ltä, aamuviideltä, kahdelta, kolmelta, kymmeneltä, miljoonalta</li>
             <li>PRON: siltä, kaikilta, minulta, tältä, joltain, häneltä, itseltään, meiltä, niiltä, samalta</li>
             <li>PROPN: Tampereelta, Accenturelta, Arnazilta, Atrialta, Bahamalta, Bikbokilta, Danskelta, Granfeltilta, H&M:lta, Harrilta</li>
-            <li>VERB-Part: tapahtuvalta, aiheuttamilta, ei-hyväksytyiltä, johtavalta, julkaistulta, kuolaavalta, käyvältä, loukkaantuneelta, mainitulta, myönnetyiltä</li>
+            <li>VERB-Part: tapahtuvalta, aiheuttamilta, johtavalta, julkaistulta, kuolaavalta, käyvältä, loukkaantuneelta, mainitulta, myönnetyiltä, olevilta</li>
           </ul>
         </li>
       </ul>
@@ -917,7 +915,7 @@ udver: '2'
             <li>PRON: tällä, sillä, jolla, joilla, meillä, minulla, hänellä, samalla, niillä, näillä</li>
             <li>PROPN: venäjällä, Mikkelinsaarilla, Accenturella, Tampereella, Arduinolla, Yliopistonmäellä, Balilla, Balkanilla, Boskärillä, Islandilla</li>
             <li>VERB-Inf: tekemällä, ottamalla, painamalla, analysoimalla, auttamalla, keräämällä, lisäämällä, muuttamalla, pelaamalla, poistamalla</li>
-            <li>VERB-Part: saatavilla, olevalla, nähtävillä, olevilla, tehdyllä, ei-hyväksytyllä, haluamallasi, johtamalla, järjestämällä, koskevalla</li>
+            <li>VERB-Part: saatavilla, olevalla, nähtävillä, olevilla, tehdyllä, haluamallasi, johtamalla, järjestämällä, koskevalla, luetelluilla</li>
           </ul>
         </li>
       </ul>
@@ -1181,7 +1179,6 @@ udver: '2'
             <li>NUM: yhden, kahden, kolmen, neljän, parin, sadan, 100.n, 1000e, 100:n, 2:n</li>
             <li>PRON: sen, tämän, jonka, hänen, meidän, minun, heidän, kaiken, jonkin, minkä</li>
             <li>PROPN: Tymppiksen, Eskon, suomen, Allien, Furesiksen, Jeesuksen, Jortikan, Kelan, Liikenneturvan, Luhtasen</li>
-            <li>SYM: %:n</li>
             <li>VERB: jättämäni, ymmärtävän, arvostavan, auttavan, haukkuvan, jatkuvan, kalastavan, kalifornialaistuneen, kirjoittaneen, koittaneen</li>
             <li>VERB-Part: jättämäni, ymmärtävän, arvostavan, auttavan, haukkuvan, jatkuvan, kalastavan, kalifornialaistuneen, kirjoittaneen, koittaneen</li>
           </ul>
@@ -1312,13 +1309,12 @@ udver: '2'
       <ul>
         <li>Ine
           <ul>
-            <li>ADJ: omassa, Oikeassa, ammatillisissa, erillisissä, halvoissakaan, hirviömäisessä, ilonen, kevyessa, l.sin., lyhyessä</li>
+            <li>ADJ: lyhyessä, omassa, Oikeassa, ammatillisissa, erillisissä, halvoissakaan, hirviömäisessä, ilonen, kevyessa, l.sin.</li>
             <li>AUX-Inf: ollessa, ollessaan</li>
             <li>NOUN: vaiheessa, yhteydessä, kyseessä, thx-kuvassa, helmikuussa, tapauksessa, vuodessa, Sacrumissa, aamupesuissa, ajassa</li>
             <li>NUM: 3ssa, kolmessa</li>
             <li>PRON: jossa, siinä, tässä, missä, jossain, muissa, Missähän, Noissa, hänessä, joissa</li>
-            <li>PROPN: suomessa, Aurassa, Sidessä, euroopassa, @antroblogi'ssa, Aasiassa, Alanyassakin, Amerikassa, Barcelonassa, Bilbaossa</li>
-            <li>VERB: katsomassa, nukkuessa, menossa, tullessa, käymässä, käynnissä, nähdessään, näkyvissä, olemassa, tulossa</li>
+            <li>PROPN: suomessa, Aurassa, Sidessä, @antroblogi'ssa, Aasiassa, Alanyassakin, Amerikassa, Barcelonassa, Bilbaossa, Dubaissa</li>
             <li>VERB-Inf: katsomassa, nukkuessa, menossa, tullessa, käymässä, käynnissä, nähdessään, olemassa, tulossa, valitessa</li>
             <li>VERB-Part: näkyvissä, nähtävissä, takavarikoidussa, vältettävissä</li>
           </ul>
@@ -1411,7 +1407,7 @@ udver: '2'
             <li>PRON: monin, samoin, kaikin, molemmin, minkä</li>
             <li>PROPN: Helmin</li>
             <li>VERB-Inf: ottaen, lukien, johtuen, noudattaen, liittyen, käyttäen, pitäen, riippuen, katsoen, poiketen</li>
-            <li>VERB-Part: edellytetyin, soveltuvin, säädetyin</li>
+            <li>VERB-Part: edellytetyin, säädetyin</li>
           </ul>
         </li>
       </ul>
@@ -1462,7 +1458,6 @@ udver: '2'
             <li>ADJ: hyvä, pitkä, rauhallinen, korkea, oma, vanha, huono, omat, toinen, asiallinen</li>
             <li>ADV: aika, kumma</li>
             <li>AUX-Part: ollut, jouduttu, olleet, voinut, oltava, joutunut, ollet, ollu, tainnut, tarvinnut</li>
-            <li>INTJ: Jopas</li>
             <li>NOUN: diureesi, hemodynamiikka, hapetus, hengitys, pulssi, omaiset, Tajunta, yövuoro, co2, poika</li>
             <li>NUM: yksi, kaksi, pari, kolme, neljä, puoli, sata, yhdeksän, 10, kahdeksan</li>
             <li>PRON: se, joka, hän, kaikki, tämä, ne, mikä, jotka, he, me</li>
@@ -1735,7 +1730,6 @@ udver: '2'
           <ul>
             <li>ADJ: parempi, parempaa, suurempi, pienempi, useamman, alhaisempi, nuorempi, pienempiä, vanhempi, helpompaa</li>
             <li>ADV: paremmin, useammin, nopeammin, laajemmin, enemmän, pidemmälle, pidempään, huonommin, alempana, etäämmällä</li>
-            <li>VERB-Part: hyväksytympi</li>
           </ul>
         </li>
       </ul>
@@ -1752,12 +1746,6 @@ udver: '2'
             <li>ADJ: hyvä, pitkä, rauhallinen, korkea, oma, vanha, hyvää, huono, omat, uuden</li>
             <li>ADJ-Part: tulevaan</li>
             <li>ADV: kumma</li>
-            <li>AUX-Part: ollut, olevan, jouduttu, olleet, voinut, olevansa, oltava, joutunut, ollet, ollu</li>
-            <li>INTJ: Jopas</li>
-            <li>NOUN: Nuorten, aikuinen, ohueen, viranomaiselle</li>
-            <li>PRON: MUUTA, Muuta, Noissa</li>
-            <li>VERB: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
-            <li>VERB-Part: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
           </ul>
         </li>
       </ul>
@@ -1767,9 +1755,6 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: uuden, suuri, uusia, useita, lukuisia, pienen, erilaisia, korkean, mahdollista, poliittisen</li>
-            <li>AUX-Part: ollut, olleet, olevan, oltu, olevansa, aikonut, olleen, pitänyt, saattaneet, täytynyt</li>
-            <li>PROPN: Antarktista, Pyhän</li>
-            <li>VERB-Part: tullut, käytetty, oleva, olevat, saanut, tehty, halunnut, olevaa, ollut, päättänyt</li>
           </ul>
         </li>
       </ul>
@@ -1779,11 +1764,6 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: hyvä, arvoisa, uusi, uuden, hyvää, oman, uutta, pieni, oma, tärkeää</li>
-            <li>AUX-Part: ollut, olevan, olleet, voinut, oltava, ollu, olleen, pitänyt, olevansa, oltu</li>
-            <li>NOUN: alaisena, hyvähän, rakkaille, tuntemattomille, tuttujen, tutuille</li>
-            <li>PRON: muita, muiden, muidenkin, muittenkin</li>
-            <li>PROPN: Yhtenäinen</li>
-            <li>VERB-Part: tehty, saanut, olevan, tullut, s., tehnyt, koskevan, annettu, koskevat, annetun</li>
           </ul>
         </li>
       </ul>
@@ -1820,7 +1800,6 @@ udver: '2'
           <ul>
             <li>ADJ: suurin, suurimman, suurimmalla, tunnetuin, viimeisin, korkeimman, korkeimmassa, korkein, parhaassa, Kaukaisimmassa</li>
             <li>ADV: laajimmin</li>
-            <li>VERB-Part: menestynein, myydyimmistään</li>
           </ul>
         </li>
       </ul>
@@ -1831,7 +1810,6 @@ udver: '2'
           <ul>
             <li>ADJ: suurin, paras, suurimmat, korkein, suurimman, parasta, vanhin, tärkein, useimmat, parhaan</li>
             <li>ADV: parhaiten, helpoimmin, nopeimmin, yleisimmin, ahkerimmin, ilmeisimmin, keskeisimmin, taitavimmin, todennäköisimmin, vaikeimmin</li>
-            <li>VERB-Part: menestynein, myydyin, saastuneimpia</li>
           </ul>
         </li>
       </ul>
@@ -3676,7 +3654,7 @@ udver: '2'
           <ul>
             <li>Han
               <ul>
-                <li>ADJ: mukavahan, näköistähän</li>
+                <li>ADJ: hyvähän, mukavahan, näköistähän</li>
                 <li>ADV: kyllähän, niinhän, ainahan, johan, silloinhan, Hyvinhän, Miksihän, Samallahan, Yleensähän, sinnehän</li>
                 <li>AUX-Fin: eihän, onhan, olihan, pitihän, ovathan, pitäähän, täytyyhän, Eiväthän, Enhän, Ethän</li>
                 <li>NOUN: Pakkohan, työllähän, Kyseessähän, Käytännössähän, Ongelmahan, Pojallehan, helpotushan, herkkuahan, herkkuhan, hinnathan</li>
@@ -3862,7 +3840,6 @@ udver: '2'
             <li>Inen
               <ul>
                 <li>ADJ: ensimmäinen, toinen, limainen, viimeisen, Sentraalisen, ensimmäistä, punainen, entistä, erityisen, hirmuisen</li>
-                <li>NOUN: aikuinen, viranomaiselle</li>
                 <li>PRON: Toinen, toiseen</li>
               </ul>
             </li>
@@ -4057,7 +4034,7 @@ udver: '2'
             <li>Ja
               <ul>
                 <li>ADJ: aiemmilta</li>
-                <li>NOUN: puheenjohtaja, opiskelijoiden, johtaja, toimitusjohtaja, tutkijat, puheenjohtajana, matkustajien, harjoittajan, harjoittajien, isännöitsijä</li>
+                <li>NOUN: puheenjohtaja, opiskelijoiden, johtaja, toimitusjohtaja, tutkijat, puheenjohtajana, matkustajien, harjoittajan, harjoittajien, maahanmuuttajien</li>
               </ul>
             </li>
             <li>Ja,Tar
@@ -4107,7 +4084,7 @@ udver: '2'
             <li>Ton
               <ul>
                 <li>ADJ: välttämätöntä, mahdotonta, tavattoman, uskomatonta, vaivatonta, ehdottomaan, erottamaton, laittoman, maksuton, riippumaton</li>
-                <li>NOUN: pitkäaikaistyöttömien, syyttömiä, tuntemattomille, työttömien, työttömät</li>
+                <li>NOUN: pitkäaikaistyöttömien, syyttömiä, työttömien, työttömät</li>
                 <li>VERB-Part: asettelematonta, palamaton</li>
               </ul>
             </li>
@@ -4526,7 +4503,7 @@ udver: '2'
             </li>
             <li>3
               <ul>
-                <li>ADJ: kaltaisensa, omansa, parastaan</li>
+                <li>ADJ: kaltaisensa, myydyimmistään, omansa, parastaan</li>
                 <li>ADP: kanssaan, välilleen</li>
                 <li>ADV: sisällään, mukanaan, haltuunsa, jälkeensä, päälleen, ympärillään</li>
                 <li>AUX-Inf: Voidakseen</li>
@@ -4535,7 +4512,7 @@ udver: '2'
                 <li>PRON: toisiaan, itsensä, itsestään, itseään, toisensa</li>
                 <li>VERB: saadakseen, keskittyäkseen, Palattuaan, Puhuessaan, Päästäkseen, Päätettyään, Viettäessään, antaessaan, asuttuaan, edistääkseen</li>
                 <li>VERB-Inf: saadakseen, keskittyäkseen, Puhuessaan, Päästäkseen, Viettäessään, antaessaan, edistääkseen, eläessään, etsiessään, hyötyäkseen</li>
-                <li>VERB-Part: Palattuaan, Päätettyään, asuttuaan, ihailemansa, kaappaavansa, käytettävissään, myydyimmistään, saavansa, taistelevansa, taistelleensa</li>
+                <li>VERB-Part: Palattuaan, Päätettyään, asuttuaan, ihailemansa, kaappaavansa, käytettävissään, saavansa, taistelevansa, taistelleensa, tutkittuaan</li>
               </ul>
             </li>
           </ul>
@@ -4754,10 +4731,10 @@ udver: '2'
                 <li>AUX-Fin: eii, n, olisisi</li>
                 <li>AUX-Part: ollet</li>
                 <li>CCONJ: Saatika</li>
-                <li>NOUN: 800eur/kk, 2-luumen, Bipaille, Diureesii, Kateri, Potilan, SAÖ2, aviolitto, diuresi, hengitykoneeseen</li>
+                <li>NOUN: 800eur/kk, 2-luumen, Bipaille, C, Diureesii, Kateri, Potilan, SAÖ2, ahven.net, aviolitto</li>
                 <li>NUM: 100.n</li>
                 <li>PRON: sen</li>
-                <li>PROPN: Actrpid-, Drouhin, Fureisi, Noradrenaliina, Noradrenalinan, OIkkosen, Seenasen, instusta, noradrenaliinaakin, proppofol</li>
+                <li>PROPN: @SuomenPankki, Actrpid-, Drouhin, Fureisi, Noradrenaliina, Noradrenalinan, OIkkosen, Seenasen, instusta, noradrenaliinaakin</li>
                 <li>PUNCT: 8</li>
                 <li>VERB-Fin: Antauden, Happeutui, Satuoi, käysi, liikutta, muttuu, osaisen, osaisin, päädy-tään, soputuu</li>
                 <li>VERB-Inf: sallita</li>
@@ -4779,16 +4756,16 @@ udver: '2'
               <ul>
                 <li>ADJ: ei, musta, Kolmanenta, Suositeltaava, Uusseelantilaisen, asiaankuluvaa, brasílialaisessa, englantilaisella, erilaista, erillaisia</li>
                 <li>ADP: sekaan.</li>
-                <li>ADV: Tällöinen, Vai, Yht’, eihan, ellä, enmmän, ensi, imi, kiinnit, kokonaan.</li>
+                <li>ADV: Tällöinen, Vai, eihan, ellä, enmmän, ensi, imi, kiinnit, kokonaan., koomin</li>
                 <li>AUX-Fin: ai, eivat, eivät, lie, olisi, ovat, voisivat</li>
                 <li>AUX-Inf: olleessa</li>
                 <li>AUX-Part: olevaan, olut</li>
                 <li>CCONJ: jokö, van</li>
                 <li>INTJ: joo.</li>
-                <li>NOUN: n, version, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 11.krenatöörirykmentin, 1kpl, 2.5mm</li>
-                <li>NUM: kahden, miljoona</li>
+                <li>NOUN: version, %:, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 11.krenatöörirykmentin, 1kpl, 2.5mm</li>
+                <li>NUM: 2006/C, 6 000:, kahden, miljoona</li>
                 <li>PRON: minun, sen, Hedän, Kumpikin, Saman, Tosilla, Tämä, erääseen, johon, jonka</li>
-                <li>PROPN: Pekkka, Begia, Carnegiein, EMN, Guinnesiin, Guinnesin, Hohenstaufen, Isoa-Britanniaan, Japani, Jonna</li>
+                <li>PROPN: EU:, EY:, Pekkka, Begia, Carnegiein, EMN, Guinnesiin, Guinnesin, Heathrow, Hohenstaufen</li>
                 <li>VERB-Fin: Lisä, Leikkkaa, Tidän, ajautuu, asun, eroittui, halun, häiritsevän, irroittaa, karkoitettiin</li>
                 <li>VERB-Inf: arvoimaan, epälläkseni, irroittautumaan, kaahamaan, kulkeman, kuumenemaaan, kuunnellessa, laittamalle, läsnäollessa, nousteessa</li>
                 <li>VERB-Part: Itsetehdyt, Paistetu, Viimeksimainittu, ajatunut, hallinoiman, hallisemalle, haluamallasi, herättäva, hyökkäävään, järjestämään</li>
@@ -5053,27 +5030,27 @@ udver: '2'
             <li>VERB-Fin--NOUN-Ela (1)</li>
             <li>VERB-Fin--NOUN-Gen (100)</li>
             <li>VERB-Fin--NOUN-Ill (1)</li>
-            <li>VERB-Fin--NOUN-Nom (66)</li>
-            <li>VERB-Fin--NOUN-Par (194)</li>
+            <li>VERB-Fin--NOUN-Nom (65)</li>
+            <li>VERB-Fin--NOUN-Par (195)</li>
             <li>VERB-Fin--PRON-Acc (8)</li>
             <li>VERB-Fin--PRON-Gen (13)</li>
             <li>VERB-Fin--PRON-Nom (13)</li>
             <li>VERB-Fin--PRON-Par (48)</li>
             <li>VERB-Inf--NOUN-Ela (1)</li>
             <li>VERB-Inf--NOUN-Gen (29)</li>
-            <li>VERB-Inf--NOUN-Nom (39)</li>
-            <li>VERB-Inf--NOUN-Par (127)</li>
+            <li>VERB-Inf--NOUN-Nom (38)</li>
+            <li>VERB-Inf--NOUN-Par (128)</li>
             <li>VERB-Inf--PRON-Gen (6)</li>
             <li>VERB-Inf--PRON-Nom (4)</li>
             <li>VERB-Inf--PRON-Par (21)</li>
             <li>VERB-Inf--PRON-Par-ADP(kohtaan) (1)</li>
             <li>VERB-Part--NOUN-Ela (1)</li>
             <li>VERB-Part--NOUN-Gen (25)</li>
-            <li>VERB-Part--NOUN-Nom (69)</li>
+            <li>VERB-Part--NOUN-Nom (70)</li>
             <li>VERB-Part--NOUN-Par (107)</li>
             <li>VERB-Part--PRON-Gen (2)</li>
             <li>VERB-Part--PRON-Nom (9)</li>
-            <li>VERB-Part--PRON-Par (14)</li>
+            <li>VERB-Part--PRON-Par (15)</li>
           </ul>
         </li>
       </ul>
@@ -5117,10 +5094,10 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN (2)</li>
             <li>VERB-Fin--NOUN-Ela (2)</li>
-            <li>VERB-Fin--NOUN-Gen (1205)</li>
+            <li>VERB-Fin--NOUN-Gen (1206)</li>
             <li>VERB-Fin--NOUN-Ill (3)</li>
             <li>VERB-Fin--NOUN-Ins (1)</li>
-            <li>VERB-Fin--NOUN-Nom (1079)</li>
+            <li>VERB-Fin--NOUN-Nom (1078)</li>
             <li>VERB-Fin--NOUN-Par (2459)</li>
             <li>VERB-Fin--PRON-Acc (91)</li>
             <li>VERB-Fin--PRON-All (1)</li>
@@ -5138,9 +5115,9 @@ udver: '2'
             <li>VERB-Inf--PRON-Par (285)</li>
             <li>VERB-Part--NOUN (1)</li>
             <li>VERB-Part--NOUN-Ela (1)</li>
-            <li>VERB-Part--NOUN-Gen (339)</li>
+            <li>VERB-Part--NOUN-Gen (338)</li>
             <li>VERB-Part--NOUN-Nom (498)</li>
-            <li>VERB-Part--NOUN-Par (1119)</li>
+            <li>VERB-Part--NOUN-Par (1120)</li>
             <li>VERB-Part--PRON-Acc (17)</li>
             <li>VERB-Part--PRON-Gen (46)</li>
             <li>VERB-Part--PRON-Nom (82)</li>

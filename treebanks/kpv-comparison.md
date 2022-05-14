@@ -29,7 +29,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 662 sentences, 8020 tokens and 8072 syntactic words.</li>
+      <li>This corpus contains 663 sentences, 8030 tokens and 8083 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -41,7 +41,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 1426 tokens (18%) that are not followed by a space.</li>
+      <li>This corpus contains 1427 tokens (18%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -78,8 +78,8 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 28 multi-word tokens. On average, one multi-word token consists of 2.86 syntactic words.</li>
-      <li>There are 28 types of multi-word tokens. Examples: yв-йӧг, ай-мам, босьтӧма-лӧсьӧдӧма, вевттьӧма-сайӧдӧма, вӧрсалӧн, вӧчысь-тэчысьясыс, гӧрисны-кӧдзисны, дзӧрны-катласьны, довгыны-мунны, кокъясасӧ, кыдз-пипу, кӧм-пась, кӧм-паськӧм, лебмӧм-сісьмӧм, лыдтӧм-тшӧттӧм, нырисасӧ, нязгис-ворсіс, няръялӧма-песӧма, пуритӧ-быдмӧ, пусьӧма-нӧгыльтчӧма, сиктсаяслы, сир-ёкыш, сьӧла-тар, шкоргис-узис, шлопкӧбтӧ-пуктӧ, шонтӧ-керӧ, шӧтӧ-локтӧ, ыркалӧм-сьӧктаммӧм.</li>
+      <li>This corpus contains 29 multi-word tokens. On average, one multi-word token consists of 2.83 syntactic words.</li>
+      <li>There are 29 types of multi-word tokens. Examples: yв-йӧг, ай-мам, босьтӧма-лӧсьӧдӧма, вевттьӧма-сайӧдӧма, вӧрсалӧн, вӧчысь-тэчысьясыс, гӧрисны-кӧдзисны, дзӧрны-катласьны, довгыны-мунны, кокъясасӧ, кыдз-пипу, кӧм-пась, кӧм-паськӧм, лебмӧм-сісьмӧм, лыдтӧм-тшӧттӧм, мукӧдлӧнысь, нырисасӧ, нязгис-ворсіс, няръялӧма-песӧма, пуритӧ-быдмӧ, пусьӧма-нӧгыльтчӧма, сиктсаяслы, сир-ёкыш, сьӧла-тар, шкоргис-узис, шлопкӧбтӧ-пуктӧ, шонтӧ-керӧ, шӧтӧ-локтӧ, ыркалӧм-сьӧктаммӧм.</li>
       </ul>
     </td>
   </tr>
@@ -433,13 +433,20 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Abe
+          <ul>
+            <li>NOUN: няньтӧг</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
         <li>Abe
           <ul>
-            <li>NOUN: Коктӧм, Кӧмтӧм, Пасьтӧм, Погонъястӧм, берегъястӧм, помтӧмӧсь, пыкӧдтӧмӧсь, сӧстӧмӧсь, шуштӧм</li>
+            <li>NOUN: вошӧмъястӧг, Коктӧм, Кӧмтӧм, Пасьтӧм, Погонъястӧм, Туйтӧг, Шогтӧг, берегъястӧм, помтӧмӧсь, пыкӧдтӧмӧсь</li>
+            <li>PROPN: Льӧмватӧгыс</li>
           </ul>
         </li>
       </ul>
@@ -546,27 +553,6 @@ udver: '2'
         <li>AprIll
           <ul>
             <li>PRON: миянланьӧ</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>Car
-          <ul>
-            <li>NOUN: няньтӧг</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li>Car
-          <ul>
-            <li>NOUN: вошӧмъястӧг, Туйтӧг, Шогтӧг, уджтӧг, шондіястӧг</li>
-            <li>PROPN: Льӧмватӧгыс</li>
           </ul>
         </li>
       </ul>
@@ -698,7 +684,7 @@ udver: '2'
             <li>ADP: йылысь, вылысь, йывсьыд, ылысь, водзсьыс, вывсьыс, дорысь, йывсьыс, пиысь, помсьыд</li>
             <li>ADV: сэтысь, кыськӧ, Быдлаысь, кытысь, Медводдзаысьсӧ, выльысь</li>
             <li>NOUN: вылысь, вӧрысь, кежысь, керкаясысь, Зэрсьыс, Литваысь, Медысь, Стакейсьыс, Татілокысь, абусьыс</li>
-            <li>PRON: ассьыныс, ассьыс, мукӧдъясысь, таысь, Мыйысь, менсьым, некодысь, нинӧмысь, сыысь</li>
+            <li>PRON: ассьыныс, ассьыс, мукӧдъясысь, таысь, Мыйысь, менсьым, некодысь, нинӧмысь, сыысь, ысь</li>
             <li>PROPN: Мӧдлапӧлысь, Пӧлашысь</li>
             <li>SCONJ: медысь</li>
             <li>VERB: гӧтрасьӧмысь, инмӧмысь, кывзысьысьӧсь, саймовтчӧмысь, сыныштӧмысь, усьӧмъяссьыс</li>
@@ -1139,10 +1125,49 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Variant</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a>Variant</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Nomin
+          <ul>
+            <li>NOUN: Коктӧм, Кӧмтӧм, Пасьтӧм, Погонъястӧм, берегъястӧм, помтӧмӧсь, пыкӧдтӧмӧсь, шуштӧм</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Vclause
+          <ul>
+            <li>NOUN: няньтӧг</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Vclause
+          <ul>
+            <li>NOUN: вошӧмъястӧг, Туйтӧг, Шогтӧг, уджтӧг, шондіястӧг</li>
+            <li>PROPN: Льӧмватӧгыс</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1837,7 +1862,7 @@ udver: '2'
           <ul>
             <li>ADP: костаныс, бӧраным, уланыс</li>
             <li>DET: кыкнанныс, мӧдным, ставныс, ӧтиным</li>
-            <li>NOUN: уджныс, Войвыланым, Коднаныд, Петкӧдласъясным, Сьӧлӧмныс, Челядьныд, аслыспӧлӧслунным, ветланныд, газныд, горным</li>
+            <li>NOUN: уджныс, Войвыланым, Коднаныд, Петкӧдласъясным, Свадьбаныс, Сьӧлӧмныс, Челядьныд, аслыспӧлӧслунным, ветланныд, газныд</li>
             <li>PRON: ставныс, Кыкнанным, Кыкнанныс, ставнысӧ, ӧта-мӧднымӧс</li>
             <li>VERB: Пӧттӧдзныс, баитӧмъяснысӧ, велӧдчиганыс, индалысьясным, куйліганыс, чӧвтігкостаныс, ӧвтыштліганыс</li>
             <li>VERB-Conv: велӧдчиганыс, куйліганыс, ӧвтыштліганыс</li>
@@ -2090,7 +2115,7 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>AUX: вермы, кут, вӧв, позь, вӧвны, вӧвлы, ков, вермыны, лысьт</li>
-                <li>VERB: жалит, пов, тыдав, вӧв, тешитчы, тӧд, тӧр, аддзы, бергӧдчы, вермыв</li>
+                <li>VERB: жалит, пов, тыдав, вӧв, тешитчы, тӧд, тӧр, ло, аддзы, бергӧдчы</li>
               </ul>
             </li>
           </ul>
@@ -2146,7 +2171,7 @@ udver: '2'
                 <li>NOUN: Севера, народа</li>
               </ul>
             </li>
-            <li>VCar
+            <li>VAbe
               <ul>
                 <li>VERB: вуджедтэг</li>
               </ul>
@@ -2269,7 +2294,7 @@ udver: '2'
                 <li>NOUN: тӧвся, тӧлысся</li>
               </ul>
             </li>
-            <li>VCar
+            <li>VAbe
               <ul>
                 <li>VERB: виччысьтӧг, бергӧдлытӧг, дугдывтӧг, жалиттӧг, повтӧг, тэрмасьтӧг, Тӧдлытӧг, вӧрзьӧдлывтӧг, чинтытӧг, шойччывтӧг</li>
                 <li>VERB-Conv: дугдывтӧг, жалиттӧг, Тӧдлытӧг, виччысьтӧг, чинтытӧг</li>
@@ -2567,7 +2592,7 @@ udver: '2'
             <li>VERB--NOUN-Ela (1)</li>
             <li>VERB--NOUN-Ill (1)</li>
             <li>VERB--NOUN-Ins (1)</li>
-            <li>VERB--NOUN-Nom (337)</li>
+            <li>VERB--NOUN-Nom (338)</li>
             <li>VERB--NOUN-Nom-ADP(вылысь) (1)</li>
             <li>VERB--PRON (1)</li>
             <li>VERB--PRON-Nom (131)</li>
@@ -2678,16 +2703,16 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 25 relation subtypes: <a>acl:relcl</a>, <a>advcl:eval</a>, <a>advcl:tcl</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:lfrom</a>, <a>advmod:lmod</a>, <a>advmod:lto</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:aspect</a>, <a>aux:cnd</a>, <a>aux:neg</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:appos</a>, <a>nmod:comp</a>, <a>nmod:poss</a>, <a>nmod:prp</a>, <a>nsubj:cop</a>, <a>obl:cau</a>, <a>obl:lmod</a>, <a>obl:lmp</a>, <a>obl:lto</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 25 relation subtypes: <a>acl:relcl</a>, <a>advcl:eval</a>, <a>advcl:tcl</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:lfrom</a>, <a>advmod:lmod</a>, <a>advmod:lto</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:aspect</a>, <a>aux:cnd</a>, <a>aux:neg</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:appos</a>, <a>nmod:poss</a>, <a>nmod:prp</a>, <a>nsubj:cop</a>, <a>obl:cau</a>, <a>obl:comp</a>, <a>obl:lmod</a>, <a>obl:lmp</a>, <a>obl:lto</a>, <a>obl:tmod</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-      <li>The following 3 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a></li>
+      <li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>goeswith</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 41 relation subtypes: <a>acl:relcl</a>, <a>advcl:eval</a>, <a>advcl:lto</a>, <a>advcl:tcl</a>, <a>advmod:cau</a>, <a>advmod:deg</a>, <a>advmod:emph</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:freq</a>, <a>advmod:lfrom</a>, <a>advmod:lmod</a>, <a>advmod:lmp</a>, <a>advmod:lto</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:aspect</a>, <a>aux:nec</a>, <a>aux:neg</a>, <a>aux:pot</a>, <a>aux:tense</a>, <a>cc:preconj</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nmod:appos</a>, <a>nmod:comp</a>, <a>nmod:lfrom</a>, <a>nmod:lmod</a>, <a>nmod:obj</a>, <a>nmod:poss</a>, <a>nmod:subj</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:cau</a>, <a>obl:lfrom</a>, <a>obl:lmod</a>, <a>obl:lmp</a>, <a>obl:lto</a>, <a>obl:mcl</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 41 relation subtypes: <a>acl:relcl</a>, <a>advcl:eval</a>, <a>advcl:lto</a>, <a>advcl:tcl</a>, <a>advmod:cau</a>, <a>advmod:deg</a>, <a>advmod:emph</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:freq</a>, <a>advmod:lfrom</a>, <a>advmod:lmod</a>, <a>advmod:lmp</a>, <a>advmod:lto</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:aspect</a>, <a>aux:nec</a>, <a>aux:neg</a>, <a>aux:pot</a>, <a>aux:tense</a>, <a>cc:preconj</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nmod:appos</a>, <a>nmod:lfrom</a>, <a>nmod:lmod</a>, <a>nmod:obj</a>, <a>nmod:poss</a>, <a>nmod:subj</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:cau</a>, <a>obl:comp</a>, <a>obl:lfrom</a>, <a>obl:lmod</a>, <a>obl:lmp</a>, <a>obl:lto</a>, <a>obl:mcl</a>, <a>obl:tmod</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>goeswith</a>, <a>dep</a></li>
       </ul>
     </td>

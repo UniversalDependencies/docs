@@ -6,81 +6,111 @@ udver: '2'
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h1>UD_Old_East_Slavic-Birchbark</h1>
+    </td>
+    <td width="33%" valign="top">
       <h1>UD_Old_East_Slavic-RNC</h1>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h1>UD_Old_East_Slavic-TOROT</h1>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1059 sentences and 34903 tokens.</li>
+      <li>This corpus contains 3105 sentences and 27196 tokens.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 1070 sentences and 35606 tokens.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 16944 sentences and 149780 tokens.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 5264 tokens (15%) that are not followed by a space.</li>
+      <li>This corpus contains 6 tokens (0%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 5399 tokens (15%) that are not followed by a space.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 701 types of words that contain both letters and punctuation. Examples: г., о(т), т., х., кн[ѧ]зю, де(н), 160-го, л., де[нь], Васил[ь]ю, дес., кн[ѧ]зѣ, се(м), 3-х, любѡв[ь], с., Васил[ь]евичю, кн[ѧ]зи, на(м), то(м), алт., воисти(н)нꙋ, кн[ѧ]зѧ, бы(ст), виж(д), има(т), кнꙗз[ь], ког[о], ми(р), о(т)сюдꙋ, прем(д)рости, пус., собстве(н)но, в-, ве(с), воспріꙗ(т), де(р)жаво, дер., дне(с), е., еди(н), едино(м), кн[ѧ]зем, моег[о], мона(р)ха, пре(д), прем(д)ро(ст), рожде(н)номъ, руб., си(м)</li>
+      <li>This corpus contains 4700 types of words that contain both letters and punctuation. Examples: ·в҃·, ·г҃·, :в҃:, :в:, ·г·, (ѿ), :г҃:, [а], ·ӏ҃·, (ѿ, [и, …а, …и, ·в·, а], :д҃:, ·д҃·, :е҃:, [ѿ], ·е҃·, [и], :ꙅ҃:, [а, ·е·, ·ѳ҃·, в…, н…, :е:, :ꙅ:, и], к[ъ], м…, (а, (къ), (ѹ), ·к·, ·ꙅ҃·, н[е], ѿ), …ъ, (и, (на), ·и҃·, ·ӏ·, п…, …е, (а), :г:, :з҃:, :ѕ҃:</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 707 types of words that contain both letters and punctuation. Examples: г., о(т), т., х., кн[ѧ]зю, де(н), 160-го, л., де[нь], Васил[ь]ю, дес., кн[ѧ]зѣ, се(м), 3-х, любѡв[ь], с., Васил[ь]евичю, кн[ѧ]зи, на(м), то(м), алт., воисти(н)нꙋ, кн[ѧ]зѧ, бы(ст), виж(д), има(т), кнꙗз[ь], ког[о], ми(р), о(т)сюдꙋ, прем(д)рости, пус., собстве(н)но, в-, ве(с), воспріꙗ(т), де(р)жаво, дер., дне(с), е., еди(н), едино(м), кн[ѧ]зем, моег[о], мона(р)ха, пре(д), прем(д)ро(ст), рожде(н)номъ, руб., си(м)</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 235 types of words that contain both letters and punctuation. Examples: в’, к’, зем’ли, д҃.хъ, в҃·е, д҃.и, е҃.и, по., с’, т]и, а., в҃.и, гор’ко, г҃.и, г҃·ми, з҃.и, р’кучи, ѕ҃.и, ѕ҃.ю, ѡлгер’довичев’, --а, -ечали, -коже, -ѧди, ...рожни, .в҃, .г҃.и, .е҃, [за], [и], [из], [х]лѣвъ, ·в҃·е, ·з҃і, Бѣла-града, Глѣбову!, Даждь-Божа, Дажь-Божа, Нову-граду, а[ч]е, аж[е, ан’нинъ, а҃.вѹю, а҃·му, а҃·ю, б]ьꙗхуть, б]ѧше, би[ꙗ, бо]рода, брат[ь]е</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -89,7 +119,16 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -101,90 +140,128 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 81 word types tagged as particles (PART): (н)[е], (н)е, (не, (с)[е], (с)е, (т)[и], -е, [ли, [н](е), [н]е, [н]и, [н]ѣ, [не, [не], [нь], [се, [сь, [т]и, [ти, бꙑ, васидъпизд[ъ]…, да, ж, ж(е, ж(е), ж[е], ж], же, жи, жо, жь, зе, зь, и, ка, ли, ли), ли], ль, лю·бо, любо, н(е), н<lbr/>е, н[е, н[е], н[и, н[ь, н[ь], не, не], ни, нь, нѣ, ото, па(къ, пако, пакъ, пакꙑ, пусти, се, се], си, сь, т)и, т[и, т[и], т]и, те, ти, ти<lbr/>…, ти…, то, толико, тъ, ть, хот[ѧ], хотѧ, ци, ѣда, …<lbr/>же, …ти</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 28 word types tagged as particles (PART): бо, будетъ, веть, да, де, деи, ж, же, жъ, и, ли, лише, ль, не, ни, ниже, нѣ, се, ти, то, токмо, толко, только, убо, хотя, хотѧ, ш, і</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 17 lemmas tagged as pronouns (PRON): азъ, вы, вѣ, и, иже, коробьꙗ, кто, мы, ничто, себе, себя, сѧ, то, ты, что, ꙗ, ꙗзъ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 51 lemmas tagged as pronouns (PRON): азъ, весь, все, вся, вы, его, ей, ему, и, иже, ими, имъ, ихъ, кий, кийждо/кыиждо$, кождо, кой, который, кто, меня, мы, нечто, никто, никтоже, ничто, ничтоже, нѣкто, нѣчто, она, оне, они, оно, онъ, онѣ, се, себе, себя, себѣ, сей, собя, собѣ, ся, тии, то, тотъ, ты, хто, что, што, я, язъ</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 27 lemmas tagged as pronouns (PRON): азъ, ва, вы, вѣ, другъ, елико, еликыи, же, и, иже, каковыи, какыи, коликыи, колькыи, которыи, къто, кыи, мои, мы, онъжде, себе, ты, чии, чьто, я, язъ, язь</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 36 lemmas tagged as determiners (DET): азъ, вашь, весь, вохъ, всѧкии, всѧкыи, вы, другыи, же, и, иже, иныи, какыи, которыи, кыи, мои, нашь, никои, никто, ничто, нѣкто, нѣчто, онъ, самъ, свои, сеи, сь, такъ, такыи, твои, то, тотъ, ты, чии, что, ꙗзъ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 44 lemmas tagged as determiners (DET): вашъ, весь, все, всякий, другой, единъ, иже, инный, иной, каковой, каковъ, какой, кий, кой, коликий, который, многий, мой, нашъ, ниединъ, никакой, никоторый, нѣкий, нѣкоторый, одинъ, онже, оный, премногий, прочий, самъ, самый, свой, сей, сицевый, съ, таковой, такой, твой, той, тойжде, толикий, тотъ, чей, ѣтотъ</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 35 lemmas tagged as determiners (DET): вьсь, етеръ, иже, иныи, какыи, которыи, къжьдо, къто, кыи, кыиже, кыижьдо, никаковъ, никакыи, никоторыи, никътоже, никыи, никыиже, ничьтоже, нѣкакыи, нѣколикыи, нѣкоторыи, нѣкыи, нѣчьто, овъ, онъ, оныи, самъ, сии, сииже, сь, тътъ, тыи, тыиже, чии, чьто</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: азъ, вы, и, иже, ничто, то, ты, что, ꙗзъ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: весь, все, иже, кий, кой, который, сей, тотъ</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: иже, какыи, которыи, къто, кыи, чии, чьто</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): бы, быти</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): бъ, бы, быти</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): быти</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: быти</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: быти</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: быти</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -194,12 +271,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑ, ѥсме, есме</li>
+          <li>VERB: даи, возми, възьми, пришли, посли, присъли, иди, кланѧюсѧ, купи, молови</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -209,7 +296,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -221,17 +308,26 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Inf
         <ul>
-          <li>AUX: быти, быть, быт[и]</li>
-          <li>VERB: имати, платить, сбирать, велеть, взять, чинить, быть, давать, подать, сечь</li>
+          <li>VERB: дати, ѧти, взѧти, возѧти, дать, ити, взѧть, възѧти, давати, давать</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>AUX: быти, быть, быт[и]</li>
+          <li>VERB: имати, платить, сбирать, велеть, взять, чинить, быть, давать, подать, посылать</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -243,7 +339,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>VERB: сътворѧ, водѧ, възьмъши, куплено, пеюци, платѧце, створѧ, стоѧ, (п)[рисл]а[в]о, (полу)<lbr/>чеше</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -253,7 +358,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -265,17 +370,27 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>PartRes
         <ul>
-          <li>AUX: было, былъ, были, была, был</li>
-          <li>VERB: велѣлъ, послал, писал, поколол, приложил, было, велел, послалъ, дал, подалъ</li>
+          <li>AUX: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, ·є·смꙑ, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑли, бꙑл</li>
+          <li>VERB: далъ, шло, дале, послале, възѧле, дала, взѧле, въдале, бꙑло, велѣлъ</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>PartRes
+        <ul>
+          <li>AUX: было, были, былъ, была, был</li>
+          <li>VERB: велѣлъ, послал, писал, поколол, приложил, было, послалъ, велел, дал, подалъ</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>PartRes
         <ul>
@@ -287,10 +402,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Sup
         <ul>
@@ -301,34 +419,59 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Nominal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fem
           <ul>
-            <li>ADJ: приказной, стрѣлецкіе, святыя, Бѣлыя, Малыя, великія, Даурскую, оброчныхъ, оброчные, Новгородьскои</li>
+            <li>ADJ: ст҃ѣ, бѣлонога, дворнюю, десѧтаꙗ, добре, другую, новаѧ, пуста, пѧте, пѧть</li>
+            <li>AUX-PartRes: бꙑла</li>
+            <li>DET: моѧ, свою, мою, ту, моѥи, сама, своеи, твоѧ, моѥӏ, своѥи</li>
+            <li>NOUN: ржи, кѹно, соли, кѹнъ, грамота, гривьнѣ, гривьнъ, рожи, гривено, гривна</li>
+            <li>NUM: три, двь, дви, дове, двѣ, дъвѣ, две, дови, полутори, в҃е</li>
+            <li>PRON: ю, ее, …<lbr/>ю, е<lbr/>и, е]ѥ, еи, еѣ, єи, ѥи, ѥӏ</li>
+            <li>PROPN: мариѧ, ѧна, маренѣ, настасиѧ, куролѣ, лаидиколѣ, лугу, марие, мароѳу, милославь</li>
+            <li>VERB-Part: пеюци, (се)[д]ѧци, [ѿ](им)ана, възьмъши, дан<lbr/>…, дана, дьланаꙗ, едѹц, едѹци, енюци</li>
+            <li>VERB-PartRes: дала, задѣла, рекла, ѧла, (-)шьла, -----ила, [бꙑл]а, Рѣкла, б<lbr/>лодила, бꙑла</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>ADJ: приказной, стрѣлецкіе, святыя, высокою, Бѣлыя, Малыя, великія, Даурскую, государеву, оброчныхъ</li>
             <li>AUX-PartRes: была</li>
-            <li>DET: всеа, тѣ, тѣхъ, сей, свою, те, тое, моя, всю, тои</li>
-            <li>NOUN: денги, земли, денегъ, челобитной, землю, книги, избѣ, памяти, руку, челобитную</li>
+            <li>DET: всеа, тѣ, тѣхъ, сей, свою, те, тое, моя, твою, всю</li>
+            <li>NOUN: денги, земли, денегъ, руку, челобитной, землю, книги, избѣ, памяти, челобитную</li>
             <li>NUM: обе, 2, две, 3, двѣ, 3-х, 4, обѣ, одна, три</li>
             <li>PRON: ее, еи, она, еѣ, них, которые, юже, еꙗ, им, их</li>
             <li>PROPN: Москвѣ, Москве, Русии, Москвы, Росіи, Москву, Россіи, Россіе, Россіꙗ, Ивановна</li>
@@ -338,7 +481,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -358,10 +501,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -375,7 +521,26 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>ADJ: велика, гнѣд, пѧта, ст҃го, бж҃и, ворон, добра, добръ, желѣзен, зелоного</li>
+            <li>AUX-Fin: былъ</li>
+            <li>AUX-PartRes: бꙑлъ, бꙑле, бꙑло, б]ꙑ[лъ], бꙑли, бꙑл</li>
+            <li>DET: своѥму, мои, свои, твои, того, моѥго, моѥму, саме, самь, сего</li>
+            <li>NOUN: поклонъ, гн҃е, поклоно, конь, попа, рубль, сн҃а, кони, приказъ, господине</li>
+            <li>NUM: поло, полъ, пло, два, дова, полѹ, пол, три, (п)олъ, по</li>
+            <li>PRON: ѥго, его, емѹ, него, емꙋ, ѥму, нь, и, немь, нимо</li>
+            <li>PROPN: ивана, петра, бориса, евана, степана, павла, смена, завида, лѹкѣ, михалѧ</li>
+            <li>VERB: далъ, дале, послале, възѧле, взѧле, въдале, велѣлъ, взѧлъ, взѧлѣ, възѧлъ</li>
+            <li>VERB-Part: сътворѧ, водѧ, платѧце, створѧ, стоѧ, (п)[рисл]а[в]о, [зал]ѧко, [с]т[вор]ѧ, блг҃ословлено, боѧ</li>
+            <li>VERB-PartRes: далъ, дале, послале, възѧле, взѧле, въдале, велѣлъ, взѧлъ, взѧлѣ, възѧлъ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -383,18 +548,18 @@ udver: '2'
             <li>AUX-Part: бывшіꙗ, сущу, сꙋщꙋ</li>
             <li>AUX-PartRes: былъ, был</li>
             <li>DET: твой, мои, твоему, сей, тот, всѣхъ, своего, твоего, того, тѣхъ</li>
-            <li>NOUN: государю, государя, государь, году, день, людей, указу, князя, людемъ, люди</li>
-            <li>NUM: два, дву, 3, 1, 3-х, единъ, один, 2, 4, 24</li>
-            <li>PRON: его, ево, ему, имъ, они, ихъ, онъ, он, их, него</li>
+            <li>NOUN: государь, государю, государя, году, день, людей, указу, князя, людемъ, люди</li>
+            <li>NUM: два, дву, 3, 1, 3-х, единъ, один, 2, 4, три</li>
+            <li>PRON: его, ево, они, ему, имъ, ихъ, онъ, он, их, него</li>
             <li>PROPN: Кунгурѣ, Ивановичю, Борису, Ивана, Петр, Григорья, Иванъ, Фальк, Иван, Григорей</li>
             <li>SCONJ: иже</li>
             <li>VERB-Part: сажены, глаголюще, посланъ, посланы, рожде(н)номъ, собраннымъ, Писанъ, взятъ, взяты, взятыхъ</li>
-            <li>VERB-PartRes: велѣлъ, послал, писал, поколол, приложил, велел, послалъ, дал, подалъ, пожаловалъ</li>
+            <li>VERB-PartRes: велѣлъ, послал, писал, поколол, приложил, послалъ, велел, дал, подалъ, пожаловалъ</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -414,11 +579,28 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Neut
           <ul>
-            <li>ADJ: крестному, Бж҃іе, государева, здорово, крестъному, возможно, многие, мощно, 1, прежнему</li>
+            <li>ADJ: добро, проста, здорово, борзи, борзѣ, годьнъ, лживꙑѧ, (д)анилово, (до)ро[г]а[ѧ], (т)[о]тарьского</li>
+            <li>AUX-PartRes: бꙑло, (бꙑ)<lbr/>ло, б[ꙑ]<lbr/>ло</li>
+            <li>DET: то, томъ, того, томо, все, моего, томь, [т]о, вохо, мое</li>
+            <li>NOUN: покланѧние, жита, села, серебра, слово, село, челомъ, серебро, целомъ, цоломъ</li>
+            <li>NUM: три, д[ъ]ва, два, дова, дъва, одиномо, сотъ</li>
+            <li>PRON: то, е, томъ, [ц]ьто, [ѥ]же, его, не, ничимо, томо, чимъ</li>
+            <li>PROPN: городищи, ------<lbr/>скь, -----ина, --руньского, -остер…, [гр]од[и], [сл]а[в]…, бабине, бологожь, болъсинѣ</li>
+            <li>VERB-Part: куплено, [п]окладено, вода[н]о, водано, возѧто, возѧтъ, въда[но], възѧто, вѣлѣно, заглажьно</li>
+            <li>VERB-PartRes: шло, бꙑло, пошло, (шло, диꙗлось, погибло, (пог)[ꙑб]ло, (соро)<lbr/>слосѧ, бꙑвало, деѧло</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>ADJ: крестному, государева, Бж҃іе, здорово, крестъному, возможно, многие, мощно, 1, прежнему</li>
             <li>AUX-PartRes: было</li>
             <li>DET: то, всꙗ, свое, сіе, твое, сего, того, все, всѣхъ, своемъ</li>
             <li>NOUN: челом, челомъ, имя, целованью, времꙗ, лѣта, села, деле, место, бл҃гополꙋчіꙗ</li>
@@ -426,12 +608,12 @@ udver: '2'
             <li>PRON: что, томъ, то, того, ꙗже, том, чем, тово, еже, чемъ</li>
             <li>PROPN: Павловском, Павловское, Великое, Богородицкое, Бунковым, Бедниково, Бедниковым, Бунково, Бункову, Веледиково</li>
             <li>VERB-Part: велѣно, написано, писано, велено, прислано, привито, дано, посажено, послано, требꙋющꙋ</li>
-            <li>VERB-PartRes: было, пошло, стало, взламало, восходило, всперло, захотелос, зашло, именовалосꙗ, ожеребилось</li>
+            <li>VERB-PartRes: было, пошло, стало, пришло, взламало, восходило, всперло, захотелос, зашло, именовалосꙗ</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -451,23 +633,40 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Animacy</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Anim
           <ul>
-            <li>ADJ: даурскихъ, иных, выборныхъ, бедных, великого, добрыхъ, молодшег[о], мꙋжестве(н)нѣйшаго, преславнаго, самыхъ</li>
+            <li>ADJ: смирного</li>
+            <li>DET: моего, моӏхъ</li>
+            <li>NOUN: (с)[н҃а], сиротокъ, хрѣстьꙗнъ</li>
+            <li>PROPN: глѧденцевъ, зуба</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Anim
+          <ul>
+            <li>ADJ: Донскихъ, даурскихъ, иных, выборныхъ, бедных, великого, добрыхъ, молодшег[о], мꙋжестве(н)нѣйшаго, преславнаго</li>
             <li>DET: своих, своего, своихъ, моего, онаго, твоего, всѣхъ, того, нашег[о], оного</li>
-            <li>NOUN: людей, князя, сирот, брата, кн[ѧ]зѧ, дѣтей, саржанта, сына, холопа, зміꙗ</li>
+            <li>NOUN: людей, князя, сирот, брата, кн[ѧ]зѧ, дѣтей, саржанта, сына, холопа, Тотаръ</li>
             <li>NUM: однова, одново</li>
             <li>PRON: насъ, васъ, ево, его, ихже, которыхъ, нихъ, того</li>
             <li>PROPN: Григорья, Ивана, Бориска, Ивашка, Олексѣя, Тотарина, Івана, Василья, Дмитрѣева, Петра</li>
@@ -476,24 +675,39 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Count
+          <ul>
+            <li>ADJ: бѣла, вецѣрашенеи, воислали, къромьнье, недьланꙑ, просо<lbr/>лни, сидърови, цереленаѧ, шестокрї<lbr/>ленаѧ</li>
+            <li>NOUN: грв҃нѣ, гривьнѣ, кнѣ, кꙋници, гривене, кад, грвне, гривне, гривни, гривнь</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Count
           <ul>
@@ -503,12 +717,29 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Dual
+          <ul>
+            <li>ADJ: б]ол[ъ]шии, виновата, ладьнѣ, лѹ<lbr/>боцеве, обои, пълънѣ, сморочьва, стова, сторова, сторова{а}</li>
+            <li>AUX-Fin: есвѣ, еста, бꙑховь, е<lbr/>свѣ, есве, есевь, ѥсм[о</li>
+            <li>DET: моѧ, мое, с<lbr/>ама, сама, тию, тѣ</li>
+            <li>NOUN: (бьрковьс)ка, [к]руж[ивѣ, бьрькъвьскѹ, г)осподина, гривен[е], гривна<lbr/>ма, гривнѣ, гривьнѹ, же<lbr/>-[ебе]цѧ, икѹнокѹ</li>
+            <li>NUM: дьсѧть, в҃е, десѧтьма, дъвои, дьсѧт…</li>
+            <li>PRON: ва, (вꙑ, в[а]ю, ва:ма, вꙑ, на, нама, нѧ</li>
+            <li>VERB-Fin: (исправит-), [б]ерита, [мъ](л)[ви]та, ведаета, водаита, восол[и]та, въдаита, вꙑправита, д]ьлаета, жѧлѹӏта</li>
+            <li>VERB-Part: ръспꙑтав[ъ]шѧ</li>
+            <li>VERB-PartRes: торговала, [в]ъзѧла, вь]з[л]а, заплатила, и]з[ѧла, изꙋ<lbr/>мѣласѧ, кѹпила, кꙋпила, пограбила, под[ъ](п)р[од]ала</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -521,7 +752,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -542,7 +773,26 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: коневꙑхъ, лживꙑѧ, лоньскиѥ, страднꙑх, турабьѥвꙑх, (до)ро[г]а[ѧ], (ко)невꙑхъ, (л)юдними, (с)тар[ѣ]шимъ, (с)траднꙑх</li>
+            <li>AUX-Fin: есте, есме, ѥсме, ѥсте, есмꙑ, есть, ѥсми, ѥсмь, (ѥ)[с]ми, бѹдьть</li>
+            <li>AUX-PartRes: ·є·смꙑ, бꙑли</li>
+            <li>DET: моӏ, свои, тѣ, вашь, вохе, всихъ, всѣхъ, которꙑѥ, мое, моими</li>
+            <li>NOUN: кѹно, кѹнъ, гривьнъ, гривено, блъ, кони, гривьно, кно, грв҃нъ, деже</li>
+            <li>NUM: двои, десѧте, десѧтъ, дьсѧ, дьсѧто, [д]-сѧтъ, дво<lbr/>и, двое, десѧ, десѧто</li>
+            <li>PRON: намъ, насъ, вꙑ, вамъ, вамо, мꙑ, васо, васъ, имъ, намо</li>
+            <li>PROPN: кшетахъ, мълъвотицѣхъ, озеревахъ, шидовицихъ, (д)[орож]иньжичь, [п]елем<lbr/>чѧхъ, алюѥвиць, братиловиць, бриханици, вавоцо</li>
+            <li>VERB-Fin: бѹдѹ, хотѧ, бью, даите, дасте, даӏте, можемъ, поѣдите, пришлете, продаите</li>
+            <li>VERB-Part: платѧце, (полу)<lbr/>чеше, боѧць, вонемъшши, въдавоше, зоби]жонꙑ, изба<lbr/>влѧющес, изꙑм<lbr/>анꙑ, кѹпле<lbr/>нꙑ, мѧтꙑхъ</li>
+            <li>VERB-PartRes: взѧлѣ, послали, пришли, били, взѧли, дали, изловили, имали, крали, носилѣ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -550,18 +800,18 @@ udver: '2'
             <li>AUX-Fin: есте, будутъ, суть, есмя, быхом, бяху, бꙋдꙋт, бꙗхꙋ, есть, есьмы</li>
             <li>AUX-Part: бывшіꙗ</li>
             <li>AUX-PartRes: были</li>
-            <li>DET: тѣхъ, тѣ, всѣхъ, всꙗ, твои, вся, те, своими, своих, своихъ</li>
+            <li>DET: тѣхъ, тѣ, всѣхъ, всꙗ, твои, вся, своихъ, те, своими, своих</li>
             <li>NOUN: людей, денги, денегъ, людемъ, люди, товарыщи, книги, рублевъ, старостамъ, воеводамъ</li>
-            <li>PRON: имъ, они, ихъ, нас, их, нам, мы, им, нихъ, которые</li>
-            <li>PROPN: Бѣжицѣ, Ондреевых, Іаили, Іеффаевъ, Іꙋдиѳи, Аодовъ, Бѣжицахъ, Бѣжиць, Бѣльзы, Вараковъ</li>
-            <li>VERB-Fin: учнутъ, ходят, бьемъ, сказывают, слушают, судят, бранят, велят, емлют, живут</li>
+            <li>PRON: они, имъ, ихъ, мы, нас, их, нам, им, намъ, нихъ</li>
+            <li>PROPN: Бѣжицѣ, Ногаи, Ондреевых, Іаили, Іеффаевъ, Іꙋдиѳи, Аодовъ, Бѣжицахъ, Бѣжиць, Бѣльзы</li>
+            <li>VERB-Fin: учнутъ, ходят, бьемъ, живутъ, сказывают, слушают, судят, бранят, велят, емлют</li>
             <li>VERB-Part: посланы, сажены, взяты, глаголюще, записаны, присланы, взятыхъ, вѣдомы, данные, купленых</li>
-            <li>VERB-PartRes: били, сказали, пошли, давали, подали, гнали, имели, отпустили, платили, поехали</li>
+            <li>VERB-PartRes: били, сказали, пошли, давали, стали, отпустили, подали, гнали, имели, платили</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -583,28 +833,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: великого, великому, государева, приказной, прошломъ, великомꙋ, 160-го, 206, великий, государеву</li>
-            <li>AUX-Fin: есть, бы, еси, будет, бысть, буди, бꙋдетъ, бы(ст), бꙗше, будетъ</li>
-            <li>AUX-Part: сущу, сꙋщꙋ</li>
-            <li>AUX-PartRes: было, былъ, была, был</li>
-            <li>DET: твой, сей, то, мои, того, твоему, своего, твоего, всеа, тот</li>
-            <li>NOUN: государю, государя, государь, году, день, указу, челом, земли, князя, челомъ</li>
-            <li>NUM: едино, 1, единъ, один, едино(м), одна, еди(н), однова, одном, одною</li>
-            <li>PRON: что, тебѣ, его, ты, ево, я, ему, тебе, мнѣ, онъ</li>
-            <li>PROPN: Москвѣ, Кунгурѣ, Ивановичю, Борису, Ивана, Москве, Петр, Григорья, Иванъ, Фальк</li>
-            <li>SCONJ: иже</li>
-            <li>VERB-Fin: бьет, есть, пожалуй, пожалꙋи, бьетъ, вели, бью, нет, пожалуи, рече</li>
-            <li>VERB-Part: велѣно, написано, писано, велено, дана, прислано, привито, требꙋющꙋ, дано, отпущена</li>
-            <li>VERB-PartRes: велѣлъ, послал, писал, поколол, приложил, было, велел, послалъ, дал, подалъ</li>
+            <li>ADJ: добро, проста, велика, ст҃ѣ, гнѣд, добра, здорово, ст҃го, ѡстровескои, бж҃и</li>
+            <li>AUX: еси, ѥси, есмь, ѥсмь, есть, есемо, бꙑ, бꙑло, бꙑлъ, есте</li>
+            <li>AUX-Fin: еси, ѥси, есмь, ѥсмь, есть, есемо, бꙑ, есте, есьмъ, ѥсемь</li>
+            <li>AUX-PartRes: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑл, е:с]и, е:си</li>
+            <li>DET: то, своѥму, того, томъ, мои, моѧ, свою, мою, моѥго, свои</li>
+            <li>NOUN: ржи, поклонъ, гн҃е, поклоно, соли, покланѧние, грамота, жита, конь, рожи</li>
+            <li>NUM: поло, полъ, пло, полѹ, десѧте, десѧть, пол, (п)олъ, двоѥ, одинои</li>
+            <li>PRON: ми, тꙑ, ти, ѧ, мене, тобѣ, мнѣ, ѧзъ, мѧ, тѧ</li>
+            <li>PROPN: ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</li>
+            <li>VERB: даи, далъ, возми, шло, възьми, пришли, посли, присъли, дале, иди</li>
+            <li>VERB-Fin: даи, возми, възьми, пришли, посли, присъли, иди, кланѧюсѧ, молови, присли</li>
+            <li>VERB-Part: сътворѧ, водѧ, куплено, пеюци, створѧ, стоѧ, (п)[рисл]а[в]о, (се)[д]ѧци, [зал]ѧко, [п]окладено</li>
+            <li>VERB-PartRes: далъ, шло, дале, възѧле, послале, дала, взѧле, въдале, бꙑло, велѣлъ</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: великого, великому, государева, приказной, государеву, прошломъ, великомꙋ, 160-го, 206, великий</li>
+            <li>AUX-Fin: есть, бы, еси, будет, бысть, буди, бꙋдетъ, бы(ст), бꙗше, будетъ</li>
+            <li>AUX-Part: сущу, сꙋщꙋ</li>
+            <li>AUX-PartRes: было, былъ, была, был</li>
+            <li>DET: твой, сей, то, мои, того, твоему, твоего, своего, всеа, тот</li>
+            <li>NOUN: государь, государю, государя, году, день, указу, челом, земли, князя, челомъ</li>
+            <li>NUM: едино, 1, единъ, один, едино(м), одна, еди(н), однова, одном, одною</li>
+            <li>PRON: что, тебѣ, его, ево, ты, я, ему, тебе, мнѣ, онъ</li>
+            <li>PROPN: Москвѣ, Кунгурѣ, Ивановичю, Борису, Ивана, Москве, Петр, Григорья, Иванъ, Фальк</li>
+            <li>SCONJ: иже</li>
+            <li>VERB-Fin: бьет, есть, пожалуй, пожалꙋи, бьетъ, вели, бью, нет, пожалуи, рече</li>
+            <li>VERB-Part: велѣно, написано, писано, велено, дана, прислано, привито, требꙋющꙋ, дано, отпущена</li>
+            <li>VERB-PartRes: велѣлъ, послал, писал, поколол, приложил, было, послалъ, велел, дал, подалъ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -626,35 +897,55 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Acc
           <ul>
-            <li>ADJ: стрѣлецкіе, Даурскую, оброчные, денежные, иные, 26, многи, многие, святыя, серебряную</li>
+            <li>ADJ: дворнюю, другую, (в)ѣ[чьн](у), (д)анилово, --------<lbr/>вуѥва, --[х]имовѣ, [тре]<lbr/>теее, Вьцерьнѧѧ, бесудну<lbr/>(ю), бесудную</li>
+            <li>DET: то, свои, свою, мою, ту, мое, твою, твоѥ, того, [т]о</li>
+            <li>NOUN: землю, конь, рубль, грамоту, село, грамотѹ, дворъ, коне, кони, слово</li>
+            <li>NUM: три, поло, полъ, два, цетꙑри, дова, колико, двь, осмь, дви</li>
+            <li>PRON: сѧ, мѧ, тѧ, мене, что, ю, цто, се, ѥго, его</li>
+            <li>PROPN: евана, ѳедора, ивана, лугу, (с)[мо]на, ---[и]ж[ин](а), [сл]а[в]…, борана, бꙑковщи[н]у, в]игуѧ</li>
+            <li>VERB-Part: д[ѣ](ржа)ща, зап[е]<lbr/>…, имуще, летѧ<lbr/>ща, шити</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: стрѣлецкіе, Даурскую, государеву, оброчные, денежные, иные, высокою, 26, многи, многие</li>
             <li>AUX-Part: бывшіꙗ</li>
             <li>DET: то, тѣ, всꙗ, вся, свое, свою, всякіе, своих, всю, сей</li>
-            <li>NOUN: день, денги, землю, руку, челобитную, книги, годы, аршин, людей, де(н)</li>
+            <li>NOUN: день, денги, руку, землю, челобитную, книги, годы, людей, аршин, де(н)</li>
             <li>NUM: обе, сколко, 3, два, 5, двесте, много, шесть, дватцать, двѣ</li>
             <li>PRON: что, ево, меня, нас, то, его, их, ихъ, тебя, него</li>
-            <li>PROPN: Григорья, Ивана, Москву, Павловское, Новъгород, Кунгуръ, Бориска, Ивашка, Аѳонку, Вязьму</li>
+            <li>PROPN: Григорья, Ивана, Москву, Озовъ, Павловское, Новъгород, Кунгуръ, Бориска, Ивашка, Аѳонку</li>
             <li>VERB-Part: данные, рожде(н)наго, Покаряющаяся, взятыхъ, взꙗтыꙗ, видимое, видимый, возбꙋждающаꙗ, возсіꙗвший, воспріꙗтыⸯ</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -673,23 +964,77 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Acc,Gen
+          <ul>
+            <li>ADJ: дро<lbr/>здова, ꙩнцифорова</li>
+            <li>DET: моѥго, своѥго</li>
+            <li>NOUN: брата<lbr/>на, исца, отро{ӏ}ка, родника, сꙑна, трет[ь], ѹѥча</li>
+            <li>PRON: ме, ѥго, васъ, насъ, нихъ</li>
+            <li>PROPN: вицка, ивана, иванца, мꙑсла…, орка, теретиѧ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Acc,Nom
+          <ul>
+            <li>NOUN: гривнѣ</li>
+            <li>NUM: (т)ри</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Dat
+          <ul>
+            <li>ADJ: варѧж<lbr/>…, ст҃ѣ, турабьѥвѣ, (с)тар[ѣ]шимъ, -----<lbr/>скини, [ст҃](м)[у], бьсудьнои, вьликомѹ, вѣ<lbr/>ликее, гробенꙑимо</li>
+            <li>DET: своѥму, моѥму, семѹ, моѥи, никому, никомѹ, тому, моѥӏ, своему, своѥи</li>
+            <li>NOUN: гн҃у, брату, кꙋне, матери, братѹ, бц҃и, дѣтемъ, дѣтемь, жене, жени</li>
+            <li>NUM: бьма, полѹ, пѧти, двема, девѧти, десѧтьма, дъвѣма, дь)[в]ѧти, дьсѧти, одинои</li>
+            <li>PRON: ми, ти, тобѣ, мнѣ, собѣ, намъ, тобе, тоби, вамъ, емѹ</li>
+            <li>PROPN: ивану, максиму, сидору, гюргю, иванѹ, михаилу, петръкѹ, савѣ, смену, фоми</li>
+            <li>VERB-Part: воскрьсошь<lbr/>мѹ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Dat
           <ul>
             <li>ADJ: великому, великомꙋ, земскимъ, крестному, государеву, уѣзднымъ, посадскимъ, юръевъскому, крестъному, думному</li>
             <li>AUX-Part: сущу, сꙋщꙋ</li>
-            <li>DET: твоему, моему, нашему, сей, тому, тѣмъ, твоимъ, всем, своему, моемꙋ</li>
-            <li>NOUN: государю, указу, людемъ, князю, кн[ѧ]зю, старостамъ, целованью, богу, воеводамъ, царю</li>
+            <li>DET: твоему, моему, нашему, сей, тому, твоимъ, тѣмъ, своему, всем, моемꙋ</li>
+            <li>NOUN: государю, указу, людемъ, князю, кн[ѧ]зю, старостамъ, целованью, царю, богу, воеводамъ</li>
             <li>NUM: сту, двадцати, двенатцати, девяти, осьмидесят, пяти, пятидесятъ, сколку, скольку, сороку</li>
-            <li>PRON: тебѣ, ему, имъ, тебе, мнѣ, ти, нам, мне, им, тобѣ</li>
+            <li>PRON: тебѣ, ему, имъ, тебе, мнѣ, ти, мне, нам, им, намъ</li>
             <li>PROPN: Москвѣ, Ивановичю, Борису, Москве, Василью, Ивану, Васил[ь]ю, Новугороду, Петру, Васильевичю</li>
             <li>VERB-Part: требꙋющꙋ, гиблющи, глаголющему, гремꙗщи(м), зачинающим, иждившемꙋ, изволившꙋ, имꙋщемꙋ, исходящемъ, намѣре(н)номꙋ</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -707,10 +1052,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Dat,Gen
           <ul>
@@ -721,23 +1069,38 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>ADJ: проста, трьтиѧ, велика, пѧта, добра, зелоного, пѧте, пѧть, пѧтѣ, семѣ</li>
+            <li>DET: того, моего, моѥго, сего, твоѥго, всѣхъ, вхого, мъихъ, нашихо, св[о]…</li>
+            <li>NOUN: ржи, кѹно, кѹнъ, соли, жита, гривьнъ, гривено, рожи, серебра, села</li>
+            <li>NUM: пѧти, полѹ, дву, девѧти, десѧтъ, довѹ, дьсѧ, дьсѧто, дьсѧть, шести</li>
+            <li>PRON: мене, тебе, ѥго, его, мьнь, насъ, него, себе, кого, васъ</li>
+            <li>PROPN: петра, ивана, бориса, степана, смена, евана, завида, михалѧ, павла, стьпана</li>
+            <li>VERB-Part: мѧтꙑхъ, рѹжьнꙑхо</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Gen
           <ul>
             <li>ADJ: великого, великихъ, государева, 160-го, уѣздныхъ, великія, посадскихъ, Бѣлыя, Малыя, Нынешнова</li>
-            <li>DET: того, тѣхъ, всеа, всѣхъ, твоего, сего, своего, нашего, тое, твоихъ</li>
+            <li>DET: того, тѣхъ, всеа, твоего, всѣхъ, сего, своего, нашего, твоихъ, тое</li>
             <li>NOUN: государя, людей, денегъ, князя, году, земли, отца, царя, рублевъ, маия</li>
             <li>NUM: 3-х, дву, двусотъ, пяти, пятидесят, пятисот, четырехсот, четырехъ, 10, 10-ти</li>
-            <li>PRON: его, ево, ихъ, него, их, того, себя, них, нас, нихъ</li>
-            <li>PROPN: Ивана, Новагорода, Петра, Русии, Москвы, Ивановича, Бориса, Кунгура, Росіи, Шавкунова</li>
+            <li>PRON: его, ево, ихъ, него, их, себя, того, них, нихъ, нас</li>
+            <li>PROPN: Ивана, Русии, Новагорода, Петра, Москвы, Ивановича, Бориса, Кунгура, Росіи, Шавкунова</li>
             <li>VERB: купленых, бывшихъ, взысканныхъ, взятыхъ, возлюбле(н)наго, востающи(х), выгна(н)ныхъ, губящих, дарован{л._301}ныя, дѣйствꙋемыꙗ</li>
             <li>VERB-Part: купленых, бывшихъ, взысканныхъ, взятыхъ, возлюбле(н)наго, востающи(х), выгна(н)ныхъ, губящих, дарован{л._301}ныя, дѣйствꙋемыꙗ</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -756,7 +1119,21 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ins
+          <ul>
+            <li>ADJ: (л)юдними, [л]уговою, [с]ѣроӏ, болшимо, гу(р)ьѥвꙑм, доброю, добрꙑ<lbr/>мъ, дубницкимъ, желутковꙑмъ, илиӏн<lbr/>скимъ</li>
+            <li>DET: ницимъ, же, моими, своими, тими, (моӏ)мо, [т]вое[ӏ], вашимъ, всимо, вхим[и]</li>
+            <li>NOUN: челомъ, целомъ, цоломъ, (челомъ, людми, людьми, братьею, гривьною, дѣтми, женою</li>
+            <li>NUM: :м҃:ми, [ос]м[ию, тримѧ</li>
+            <li>PRON: мною, тобою, вами, мъною, нами, кꙑмъ, ними, нимо, нимь, собо<lbr/>ю</li>
+            <li>PROPN: ѥлбугою, (кл)имом, (ѡк)сент[и]ѥмо, -----(-)<lbr/>вичомꙑ, --<lbr/>аномо, асафъмь, борисоглибом<lbr/>о, борисомо, васил[ь]ѥмъ, воелавомо</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -766,13 +1143,13 @@ udver: '2'
             <li>NUM: восмьдесят, двема, одною, двома, тремя</li>
             <li>PRON: ними, собою, мною, тобою, нами, нимъ, ими, кѣм, ним, вами</li>
             <li>PROPN: Сенкою, Петром, Столбовымъ, Агапитовымъ, Бунковым, Васил[ь]евичем, Григорьем, Ивановною, Иваномъ, Коземкою</li>
-            <li>VERB: собраннымъ, видимою, даны, именова(н)но(м), нечем, преведе(н)ными, приношаемыми, расположе(н)ными, собранною, собранными</li>
+            <li>VERB: собраннымъ, видимою, даны, именова(н)но(м), нечемъ, преведе(н)ными, приношаемыми, расположе(н)ными, собранною, собранными</li>
             <li>VERB-Part: собраннымъ, видимою, даны, именова(н)но(м), преведе(н)ными, приношаемыми, расположе(н)ными, собранною, собранными</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -790,7 +1167,22 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Loc
+          <ul>
+            <li>ADJ: борзи, борзѣ, коневꙑхъ, (с)[т]арои, б[ор](зи), бо)<lbr/>рзѣхо, борзе, борожь, борозе, борозѣ</li>
+            <li>DET: томъ, томо, томь, своѥмь, своѥмъ, (т)омо, (то)<lbr/>мъ, [них, [т]омь, анихъ</li>
+            <li>NOUN: животѣ, городѣ, дни, землѣ, кони, рꙑбахъ, соли, бозѣ, дн҃и, дорѣ</li>
+            <li>NUM: дьсѧть, десѧте, десѧть, довѹ, дьсѧте, наца, нацате, [десѧ]ти, д-сѧ]ть, д[е]</li>
+            <li>PRON: собѣ, мнѣ, [соби], неи, немь, собе, томъ, в[а]ю, васо, васъ</li>
+            <li>PROPN: городищи, куролѣ, кшетахъ, лаидиколѣ, мълъвотицѣхъ, м…, озеревахъ, рѹсѣ, сидоре, шидовицихъ</li>
+            <li>VERB-Part: ꙑзьѣжьнои</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -805,7 +1197,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -823,15 +1215,30 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: добро, гнѣд, здорово, бж҃и, бѣла, бѣлонога, ворон, годьнъ, десѧтаꙗ, добръ</li>
+            <li>DET: то, моѧ, мои, твои, саме, самь, сама, твоѧ, иже, само</li>
+            <li>NOUN: поклонъ, поклоно, покланѧние, грамота, гривна, кад, приказъ, землѧ, полтин, полтина</li>
+            <li>NUM: поло, полъ, три, пло, пѧть, два, двь, шьсть, дви, десѧте</li>
+            <li>PRON: тꙑ, ѧ, ѧзъ, ѧзо, цто, что, азъ, вꙑ, ꙗзъ, мꙑ</li>
+            <li>PROPN: мариѧ, сихаилъ, хрс҃тъ, иване, ѧна, давꙑдъ, настасиѧ, сихаїлъ, ѧкиме, ӏѡ҃</li>
+            <li>VERB-Part: сътворѧ, водѧ, възьмъши, куплено, пеюци, платѧце, створѧ, стоѧ, (п)[рисл]а[в]о, (полу)<lbr/>чеше</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Nom
           <ul>
             <li>ADJ: великий, великій, велики, самъ, государевы, даурскіе, Милосердый, земскіе, пьян, великии</li>
-            <li>DET: твой, мои, твои, тот, моя, сей, те, то, та, сіе</li>
-            <li>NOUN: государь, холопъ, люди, богъ, князь, имя, гсдрь, титулъ, холоп, царь</li>
+            <li>DET: твой, мои, твои, тот, моя, те, сей, то, та, сіе</li>
+            <li>NOUN: государь, холопъ, люди, богъ, князь, имя, господь, гсдрь, мурза, титулъ</li>
             <li>NUM: много, 2, дватцеть, сто, сколко, 3, 8, десять, две, 1</li>
-            <li>PRON: ты, я, что, они, онъ, мы, он, кто, которые, вы</li>
+            <li>PRON: ты, я, они, что, онъ, мы, он, кто, которые, вы</li>
             <li>PROPN: Петр, Иванъ, Фальк, Иван, Григорей, Алешка, Ивашко, Калитинъ, Дмитрей, Михайло</li>
             <li>SCONJ: иже</li>
             <li>VERB-Part: велѣно, написано, писано, сажены, велено, дана, прислано, глаголюще, посланы, дано</li>
@@ -839,7 +1246,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -860,17 +1267,28 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Voc
           <ul>
-            <li>NOUN: княже, господи, де(р)жаво, господине, дню, Імпера(т)рице, Боже, Гд҃рне, Гсдрю, Спасе</li>
+            <li>ADJ: (свѧ)<lbr/>тꙑе, злаѧ, поганꙑи</li>
+            <li>NOUN: гн҃е, господине, ѡсподине, ѻсподине, брате, брать, ги҃, ꙩсподине, сподине, ӧсподо</li>
+            <li>PROPN: [л]авре, ·ꙩ·стафе, Маренко, данило, захарие, илько, куре, марие, марке, милѧто</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Voc
+          <ul>
+            <li>NOUN: княже, господи, де(р)жаво, господине, государю, дню, Імпера(т)рице, Боже, Гд҃рне, Гсдрю</li>
             <li>PROPN: Россіе, Сіоне, Упадыше, Упадыщче</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -883,43 +1301,68 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADJ: болша, (с)тар[ѣ]шимъ, б]ол[ъ]шии, боле, болшимо, больши, большѣе, люче, лѹцьшаго, мьнешее</li>
+            <li>ADV: боль, боле, бол[е], лише, мьнь</li>
+            <li>NUM: боле</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -930,7 +1373,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -942,18 +1385,21 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: великого, великому, государева, великихъ, приказной, прошломъ, стрѣлецкіе, великомꙋ, земскимъ, 160-го</li>
-            <li>ADV: тако, как, гдѣ, нн҃ѣ, какъ, тогда, здѣ, нынѣ, всегда, ныне</li>
+            <li>ADJ: великого, великому, государева, великихъ, приказной, государеву, прошломъ, стрѣлецкіе, великомꙋ, земскимъ</li>
+            <li>ADV: тако, как, гдѣ, какъ, нн҃ѣ, тогда, здѣ, нынѣ, всегда, ныне</li>
             <li>NUM: колько, 18, 207, 3</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -965,7 +1411,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -975,7 +1424,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -986,19 +1435,25 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1011,7 +1466,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1025,31 +1480,47 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Variant</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Short
           <ul>
-            <li>ADJ: государева, государеву, велики, самъ, государевы, здорово, многи, пьян, возможно, мощно</li>
+            <li>ADJ: добро, проста, велика, гнѣд, добра, здорово, пѧта, борзи, борзѣ, бѣла</li>
+            <li>DET: всѧка, таку</li>
+            <li>VERB-Part: (п)[рисл]а[в]о, въземо, вѣлѣно, вꙑведъ, дан<lbr/>…, заплачьно, налѣз[ъ], п[о]им[а]<lbr/>въ, пло[щ]…, погѹблене</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Short
+          <ul>
+            <li>ADJ: государева, государеву, велики, государевы, самъ, здорово, многи, пьян, возможно, мощно</li>
             <li>AUX-Part: сꙋщꙋ</li>
-            <li>DET: каковы, всꙗкъ, какова, колика, многа, мнози, са(м), самъ, самы, такова</li>
+            <li>DET: каковы, всꙗкъ, какова, колика, многа, мнози, са(м), сами, самъ, самы</li>
             <li>VERB-Part: велѣно, написано, писано, посланы, сажены, велено, дана, прислано, взяты, глаголюще</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -1064,27 +1535,36 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Verbal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1092,7 +1572,7 @@ udver: '2'
             <li>AUX-Inf: быть</li>
             <li>VERB: бьет, имати, платить, писал, сбирать, бьетъ, бью, чинить, чистить, давать</li>
             <li>VERB-Conv: дожидаясь, смотря, видꙗ, приличествꙋющаꙗ, прося, хотꙗ, Исполняя, браняся, ведая, веля</li>
-            <li>VERB-Fin: бьет, бьетъ, бью, здравствꙋи, родитца, ходят, бию, бьемъ, виж(д), има(т)</li>
+            <li>VERB-Fin: бьет, бьетъ, бью, здравствꙋи, родитца, ходят, бию, бьемъ, виж(д), живутъ</li>
             <li>VERB-Inf: имати, платить, сбирать, чинить, давать, сечь, судити, чистить, вѣдать, имѣти</li>
             <li>VERB-Part: глаголюще, требꙋющꙋ, вѣдомо, вѣдомы, писавы, Покаряющаяся, ведомо, видимое, видимою, видимый</li>
             <li>VERB-PartRes: писал, билъ, бил, говорил, давали, били, жил, приходил, гнали, имели</li>
@@ -1100,7 +1580,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1112,7 +1592,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -1121,12 +1604,12 @@ udver: '2'
             <li>VERB-Fin: пожалуй, пожалꙋи, вели, учнутъ, пожалуи, рече, смилуйся, походи, Возведи, возми</li>
             <li>VERB-Inf: велеть, взять, подать, отпустить, послати, послать, прислать, дати, выбрать, доложить</li>
             <li>VERB-Part: велѣно, написано, писано, посланы, сажены, велено, дана, прислано, взяты, привито</li>
-            <li>VERB-PartRes: велѣлъ, послал, поколол, приложил, велел, послалъ, дал, подалъ, пожаловалъ, учал</li>
+            <li>VERB-PartRes: велѣлъ, послал, поколол, приложил, послалъ, велел, дал, подалъ, пожаловалъ, учал</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -1138,23 +1621,41 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Cnd
           <ul>
-            <li>AUX: бы, б, было, бъ, былъ, были</li>
+            <li>AUX: бꙑ, бъ, би, бꙑхъ, [еси], б…, бꙑхо, ѥси</li>
+            <li>AUX-Fin: бꙑ, бꙑхъ, [еси], б…, бꙑхо, ѥси</li>
+            <li>SCONJ: бꙑ, би, бъ, абꙑ, аобꙑша, б]ꙑ, цто</li>
+            <li>VERB-Fin: бꙑ</li>
+            <li>VERB-PartRes: въдалъ, дале, далъ, дос)пѣле, доспѣлъ, жаловалѣ, жила, ихалъ, купилъ, нарадилъ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Cnd
+          <ul>
+            <li>AUX: бы, б, бъ, было, былъ, были</li>
             <li>AUX-Fin: бы</li>
             <li>AUX-PartRes: было, былъ, были</li>
             <li>SCONJ: чтобъ, чтоб, чтобы, кабы, обыся</li>
@@ -1163,12 +1664,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX: бꙋди, буди, бѫди</li>
+            <li>AUX-Fin: бꙋди, бѫди</li>
+            <li>VERB-Fin: даи, возми, възьми, пришли, посли, присъли, иди, молови, присли, въдаи</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1178,7 +1690,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1190,7 +1702,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1202,7 +1717,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1214,19 +1729,34 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fut
+          <ul>
+            <li>AUX-Fin: буде, будешь, будь, бѹдѹ, бꙋде, б[уд]…, бу<lbr/>[де], бу[д]е, буд[еть], буде[ш]е</li>
+            <li>VERB-Fin: буду, буде, бѹде, бѹдѹ, бѹдьть, (бу)<lbr/>ду, (п)ришлю, будет[е], будете, будь</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -1239,7 +1769,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -1251,7 +1781,17 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX-Fin: [бе]шь, бьшь</li>
+            <li>VERB-Fin: возꙑвахо, вьлѧшь, дѣѧшь, мълвлѧше, творѧхуо, шюмъ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1260,27 +1800,40 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Fin: бꙑ, бꙑхъ, былъ, б…, бꙑ[хъ], бꙑс, бꙑхо, бꙑховь, бꙑша</li>
+            <li>AUX-PartRes: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑли, бꙑл</li>
+            <li>VERB-Fin: въ, въскрьсѣ, возѧ, ста, (пос)лахомъ, [въ]змути<lbr/>сѧ, [ц]ита, бл҃гви, бꙑ, бꙑше</li>
+            <li>VERB-Part: възьмъши, куплено, (п)[рисл]а[в]о, (полу)<lbr/>чеше, [зал]ѧко, [п]окладено, [ѿ](им)ана, блг҃ословлено, взьмъ, взѧв·ъ</li>
+            <li>VERB-PartRes: далъ, шло, дале, възѧле, послале, дала, взѧле, въдале, бꙑло, велѣлъ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Past
           <ul>
             <li>AUX-Fin: бы, бысть, бы(ст), бꙗше, бѣ, быхом, бяху, бꙗхꙋ</li>
             <li>AUX-Part: бывшіꙗ</li>
-            <li>AUX-PartRes: было, былъ, были, была, был</li>
+            <li>AUX-PartRes: было, были, былъ, была, был</li>
             <li>VERB-Conv: вышед, воспріꙗ(т), взявъ, выбравъ, написавъ, оставивше, пропустя, усмотря, бивъ, видѣвъ</li>
             <li>VERB-Fin: рече, даде, созда, бысть, возлюби, дарова, купи, сотвори, нача, начаша</li>
             <li>VERB-Part: велѣно, написано, писано, посланы, сажены, велено, дана, прислано, взяты, привито</li>
-            <li>VERB-PartRes: велѣлъ, писал, поколол, послал, приложил, было, велел, послалъ, дал, подалъ</li>
+            <li>VERB-PartRes: велѣлъ, писал, поколол, послал, приложил, было, послалъ, велел, дал, подалъ</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1296,7 +1849,36 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pqp
+          <ul>
+            <li>VERB-PartRes: возилесь, возѧлъ, вꙑдалъ, наделиле, оста<lbr/>вили, реклъ, рьклъ, сталь, ѧлъ, ѿ<lbr/>казало</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX-Fin: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, ѥсме, есме, есвѣ</li>
+            <li>AUX-PartRes: ·є·смꙑ, е:с]и, е:си, е[с]мь, ес…, си</li>
+            <li>VERB-Fin: кланѧюсѧ, покланѧю, бию, бью, бью), бѣю, дасть, пишю, дасте, даю</li>
+            <li>VERB-Part: сътворѧ, водѧ, пеюци, платѧце, створѧ, стоѧ, (се)[д]ѧци, [с]т[вор]ѧ, бижа, боѧ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1310,7 +1892,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1326,19 +1908,40 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Act
+          <ul>
+            <li>AUX: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑ, бꙑло, ѥсме</li>
+            <li>AUX-Fin: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑ, ѥсме, есме</li>
+            <li>AUX-PartRes: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, ·є·смꙑ, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑли, бꙑл</li>
+            <li>VERB: даи, далъ, возми, пришли, шло, възьми, посли, присъли, дале, иди</li>
+            <li>VERB-Fin: даи, возми, възьми, пришли, посли, присъли, иди, купи, молови, присли</li>
+            <li>VERB-Inf: дати, взѧти, ѧти, возѧти, дать, ити, взѧть, възѧти, давати, давать</li>
+            <li>VERB-Part: сътворѧ, водѧ, възьмъши, пеюци, платѧце, створѧ, стоѧ, (п)[рисл]а[в]о, (полу)<lbr/>чеше, (се)[д]ѧци</li>
+            <li>VERB-PartRes: далъ, шло, дале, послале, възѧле, дала, взѧле, въдале, бꙑло, велѣлъ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1349,14 +1952,14 @@ udver: '2'
             <li>AUX-PartRes: было, былъ, были, была, был</li>
             <li>VERB-Conv: вышед, воспріꙗ(т), смотря, взявъ, видꙗ, выбравъ, написавъ, оставивше, приличествꙋющаꙗ, пропустя</li>
             <li>VERB-Fin: бьет, есть, пожалуй, пожалꙋи, бьетъ, вели, бью, нет, учнутъ, пожалуи</li>
-            <li>VERB-Inf: имати, платить, сбирать, велеть, взять, чинить, быть, давать, подать, сечь</li>
+            <li>VERB-Inf: имати, платить, сбирать, велеть, взять, чинить, быть, давать, подать, посылать</li>
             <li>VERB-Part: глаголюще, требꙋющꙋ, писавы, Покаряющаяся, Сый, бывшихъ, взем, видящи, возбꙋждающаꙗ, воздыхающе</li>
-            <li>VERB-PartRes: велѣлъ, послал, писал, поколол, приложил, было, велел, послалъ, дал, подалъ</li>
+            <li>VERB-PartRes: велѣлъ, послал, писал, поколол, приложил, было, послалъ, велел, дал, подалъ</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1374,7 +1977,20 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Mid
+          <ul>
+            <li>VERB: кланѧюсѧ, покланѧю, молисѧ, кланѧю, диꙗлось, за…, молю, порꙋчи(‐), потоснисѧ, (соро)<lbr/>слосѧ</li>
+            <li>VERB-Fin: кланѧюсѧ, покланѧю, молисѧ, кланѧю, молю, потоснисѧ, -----[ае]мо, [въ]змути<lbr/>сѧ, [к]ланѧю, [кл]анѧю</li>
+            <li>VERB-Inf: бл)<lbr/>устисе, блустись, вѣдатис[ѧ, жьнитисѧ, ко<lbr/>рмити, наболи<lbr/>[т]исѧ, наболити[сѧ, насмихати, ослѹшати, постꙑдѣтисѧ</li>
+            <li>VERB-Part: вꙑтьрьго, изба<lbr/>влѧющес</li>
+            <li>VERB-PartRes: диꙗлось, (соро)<lbr/>слосѧ, вег[лесе, венилесѧ, возилесь, деѧлось, изꙋ<lbr/>мѣласѧ, осталосѧ, попецаловалесе, попецелилесѧ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Mid
           <ul>
@@ -1382,17 +1998,26 @@ udver: '2'
             <li>VERB-Fin: смилуйся, родитца, доведется, доведетца, умножахуся, ꙋчинит, крестихомся, лишашесꙗ, мешкоетца, мни(т)сꙗ</li>
             <li>VERB-Inf: вступаться, бранитися, радоватисꙗ, явитца, встꙋпатис[ѧ], задаватися, съступитися, Веселитисꙗ, бити, битца</li>
             <li>VERB-Part: исполнꙗющеесꙗ, препирающіисꙗ, препирающіꙗсꙗ, родꙗщи(м)сꙗ, родꙗщіисꙗ, ꙋмножающіꙗсꙗ</li>
-            <li>VERB-PartRes: учинилась, вступался, лишаласꙗ, попались, состоялись, вселися, дрались, женилися, замучились, захотелос</li>
+            <li>VERB-PartRes: учинилась, вступался, лишаласꙗ, обротились, попались, состоялись, вселися, дрались, женилися, замучились</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pass
+          <ul>
+            <li>VERB-Part: куплено, [п]окладено, [ѿ](им)ана, блг҃ословлено, взѧтъ, вода[н]о, водано, возѧто, возѧтъ, восьѧно</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1402,7 +2027,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1413,35 +2038,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1451,12 +2090,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -1465,12 +2107,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Exc
           <ul>
@@ -1479,12 +2124,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: кото<lbr/>рому</li>
+            <li>PRON: цого, цто, цего, (ч)етъ, кого, ц[т]о, цега, цето, цимо, ць:то</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1494,12 +2149,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>ADV: како, какъ, (ка)къ, к)[а]к[о], как<lbr/>ъ, камо</li>
+            <li>PRON: чемѹ, цему, цимъ, цому, цт<lbr/>о, цто, цьмѹ, цьто, цьтъ, ч[т]о</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1510,7 +2175,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1522,7 +2187,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1532,22 +2200,31 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Prs
           <ul>
-            <li>DET: твой, мои, твоему, своего, твои, твоего, моему, свое, нашему, своими</li>
-            <li>PRON: тебѣ, его, ты, ево, я, ему, имъ, они, ихъ, тебе</li>
+            <li>PRON: сѧ, (с)ѧ, [сѧ, с(ѧ), сѧ]</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>DET: твой, мои, твоему, твои, своего, твоего, своихъ, моему, свое, своими</li>
+            <li>PRON: тебѣ, его, ево, ты, я, они, ему, имъ, ихъ, тебе</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1558,10 +2235,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -1572,7 +2252,18 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>ADV: како, къде, г[д]ѣ, кудꙑ</li>
+            <li>DET: иже, ижь, ежь, которъ, которꙑѥ, [е]же, еже, котораго, которое, нее</li>
+            <li>PRON: что, цто, цето, цо, [ц]то, кто, чего, чето, чьто, [ц](ем)[ꙋ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -1583,7 +2274,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -1595,52 +2286,91 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Tot
           <ul>
-            <li>DET: всѣхъ, всꙗ, вся, всеа, всякіе, все, всем, всех, всю, вси</li>
+            <li>DET: всѣхъ, всꙗ, всеа, вся, всякіе, все, всем, всех, всю, вси</li>
             <li>PRON: всем, всемъ, все, всех, вся, весь, вси</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-        <li><a>Poss</a></li>
+        <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a>Poss</a></li>
-      </ul>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-        <li>Yes
+        <li>Card
           <ul>
-            <li>ADJ: государева, государеву, государевы, бжиі, Иванова, Ивашкова, Петрова, Христову, Божіе, Божій</li>
-            <li>DET: мои, твой, своего, твоему, твои, твоего, свое, нашему, своихъ, своими</li>
+            <li>NUM: ·в҃·, три, ·г҃·, :в҃:, :в:, ·г·, в҃, ·ӏ҃·, :г҃:, г҃</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>ADJ: (д)митрову, бж҃и, домажи[р]ова, петровѹ, савина, сменова, турабьѥвѣ, турабьѥвꙑх, тѹдорове, ѥванова</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>ADJ: государева, государеву, государевы, бжиі, Иванова, Ивашкова, Петрова, Христову, Божіе, Божій</li>
+            <li>DET: мои, твой, своего, твоему, твои, твоего, своихъ, свое, своими, нашему</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1651,24 +2381,38 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
-            <li>DET: своего, свое, своихъ, своими, свою, своих, своей, своемъ, своему, своею</li>
-            <li>PRON: себя, себѣ, собою, себе, сѧ, собя, собѣ, ся, си</li>
+            <li>PRON: сѧ, (с)ѧ, [сѧ, с(ѧ), себѣ, сѧ]</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>DET: своего, своихъ, свое, своими, свою, своих, своей, своемъ, своему, своимъ</li>
+            <li>PRON: себя, себѣ, собою, себе, сѧ, собя, собѣ, ся, си, сябя</li>
             <li>VERB-Conv: дожидаясь, браняся, возвесели(м)сꙗ, возрадꙋе(м)сꙗ, оборонясь, потщасꙗ, радꙋющесꙗ, сметесь, считаяся, сьѣхавсѧ</li>
             <li>VERB-Fin: родитца, доведется, смилуйся, ꙋчинит, крестихомся, лишашесꙗ, мни(т)сꙗ, повинуйтеся, противляхся, радꙋюсꙗ</li>
             <li>VERB-Inf: вступаться, бранитися, радоватисꙗ, встꙋпатис[ѧ], задаватися, съступитися, Веселитисꙗ, бити, богатитися, бранитца</li>
@@ -1678,7 +2422,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1690,30 +2434,48 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX-Fin: есмь, ѥсмь, есемо, ѥсме, есме, есвѣ, есьмъ, ѥсемь, ѥсми, есмо</li>
+            <li>AUX-PartRes: ·є·смꙑ, е[с]мь</li>
+            <li>PRON: ми, ѧ, мене, мнѣ, ѧзъ, мѧ, ѧзо, намъ, мною, насъ</li>
+            <li>VERB-Fin: кланѧюсѧ, буду, покланѧю, бию, бью), бѣю, пишю, даю, кланѧю, молю</li>
+            <li>VERB-PartRes: дала, дос)пѣле, послале</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>1
           <ul>
             <li>AUX-Fin: есмя, быхом, есми, есмь, есьмы</li>
-            <li>PRON: я, мнѣ, нас, меня, нам, мне, мы, мною, намъ, насъ</li>
+            <li>PRON: я, мнѣ, мы, нас, меня, мне, нам, намъ, насъ, мною</li>
             <li>VERB-Fin: бью, бию, бьемъ, пошлю, разсꙋждаю, бьем, виждꙋ, желаемъ, крестихомся, о(т)верзꙋ</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1727,7 +2489,20 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>AUX-Fin: еси, ѥси, есте, еста, ѥсте, будешь, е<lbr/>си, есть, (еси, (ѥ)[си]</li>
+            <li>AUX-PartRes: е:с]и, е:си, ес…, си</li>
+            <li>PRON: тꙑ, ти, тобѣ, тѧ, тебе, тобе, вꙑ, тоби, тобою, вамъ</li>
+            <li>VERB-Fin: даи, возми, възьми, пришли, посли, присъли, иди, купи, молови, присли</li>
+            <li>VERB-PartRes: (д)але, взѧла, помина<lbr/>[л]а, послалъ, пр](ислалъ), ѿда<lbr/>(л)…</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1738,7 +2513,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1752,19 +2527,33 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX: есть, бꙑ, есте, буде, е, будь, бꙋде, е<lbr/>сть, [бе]шь, б]ѹде</li>
+            <li>AUX-Fin: есть, бꙑ, есте, буде, е, будь, бꙋде, е<lbr/>сть, [бе]шь, б]ѹде</li>
+            <li>PRON: то, томъ, тебѣ, тобе, томо, ѥго</li>
+            <li>VERB-Fin: буде, бѹде, въ, дасть, бѹдѹ, въскрьсѣ, дасте, поидеть, прода, хотѧ</li>
+            <li>VERB-Part: въземо</li>
+            <li>VERB-PartRes: дале, ѧль</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>3
           <ul>
             <li>AUX-Fin: есть, бы, будет, бысть, будутъ, суть, бꙋдетъ, бы(ст), бꙗше, будетъ</li>
             <li>DET: иныхъ, яже</li>
-            <li>PRON: его, ево, ему, имъ, они, ихъ, онъ, их, он, него</li>
+            <li>PRON: его, ево, они, ему, имъ, ихъ, онъ, их, он, него</li>
             <li>VERB-Fin: бьет, есть, бьетъ, нет, учнутъ, рече, бꙋдет, даде, нетъ, придет</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -1778,39 +2567,54 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -1826,18 +2630,37 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Analyt</a>
           <ul>
             <li>Yes
               <ul>
-                <li>AUX: бы, б, будутъ, бъ, было, былъ, будетъ, были, есмь, есте</li>
+                <li>AUX: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, ѥсме, бꙑ, есме</li>
+                <li>AUX-Fin: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, ѥсме, бꙑ, есме</li>
+                <li>AUX-PartRes: бꙑлъ, бꙑле, бꙑло, ·є·смꙑ, бꙑла, бꙑли, е:с]и, е:си, е[с]мь, ес…</li>
+                <li>PRON: сѧ, се, покланѧю</li>
+                <li>VERB-Fin: бꙑ, е, приѧхо, ѥсть</li>
+                <li>VERB-Part: напс(ана, пр<lbr/>оклѧтъ</li>
+                <li>VERB-PartRes: въдале, торговала, (д)але, [в]ъзѧла, бꙑ[л](ъ), вел[ѣл](ъ), взѧла, возилесь, возѧлъ, въдалъ</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Analyt</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>AUX: бы, б, бъ, будутъ, было, былъ, будетъ, были, есмь, есте</li>
                 <li>AUX-Fin: будутъ, будетъ, есмь, есте</li>
                 <li>AUX-PartRes: было, былъ, были</li>
                 <li>PRON: сѧ, ся</li>
@@ -1851,12 +2674,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Clitic</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>PRON: сѧ, ми, ти, мѧ, тѧ, се, ва, вꙑ, нꙑ, та</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -1869,12 +2716,67 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>NameType</a>
+          <ul>
+            <li>Geo
+              <ul>
+                <li>PROPN: городищи, куролѣ, кшетахъ, лаидиколѣ, лугу, мълъвотицѣхъ, озеревахъ, рѹсѣ, торжеку, шидовицихъ</li>
+              </ul>
+            </li>
+            <li>Giv
+              <ul>
+                <li>PROPN: ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</li>
+              </ul>
+            </li>
+            <li>Hus
+              <ul>
+                <li>PROPN: -----тковье, безѹевее, борише<lbr/>ковее, боришьковее, ва<lbr/>сильеви·и, волотъковѣи, говѣновое, городьшинее, гюрегевее, дав)ꙑжею</li>
+              </ul>
+            </li>
+            <li>Nat
+              <ul>
+                <li>PROPN: [п]елем<lbr/>чѧхъ, братиловиць, во[ло](ч)[а](н)[о], воло[чѧ](н)[омъ, вꙑ<lbr/>ѧнина, вꙑмолчовъ, глѧденцевъ, городищѧне, городищѧньх, городьцано</li>
+              </ul>
+            </li>
+            <li>Pat
+              <ul>
+                <li>PROPN: юрьѥвичю, (д)[орож]иньжичь, (ѻлекс)[а]ндровичю, (…)<lbr/>сѹ[щ]иць, (…)турки(нѣ), -----(-)<lbr/>вичомꙑ, ---[и]ж[ин](а), [во]дин[иц]-, [се]<lbr/>лекѹѥвица, [ю]рь·евицю</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>NumForm</a>
+          <ul>
+            <li>Digit
+              <ul>
+                <li>ADJ: [д҃:], в҃:, г҃:], е҃:, з҃:, и҃:, ѕ҃:·, в҃, е҃:пта, ѕ҃</li>
+                <li>NUM: ·в҃·, ·г҃·, :в҃:, :в:, ·г·, ·ӏ҃·, в҃, г҃, :г҃:, ·в·</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -1899,12 +2801,52 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: жеѧ, иван{ав}ова, силв{н}а<lbr/>нова</li>
+                <li>CCONJ: ӏ</li>
+                <li>DET: нее</li>
+                <li>NOUN: верх{о}ъ, лисид{н}ци<lbr/>никѣ, поклонъ{н}, поконо, р<lbr/>е, смедри</li>
+                <li>PART: ти</li>
+                <li>PROPN: ивана, косноти{ти}ни, ме:ке, сепоне</li>
+                <li>SCONJ: ааи</li>
+                <li>VERB-Inf: ѥ{д}здити</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: Пречистные</li>
+                <li>ADV: 3</li>
+                <li>DET: свой</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -1913,7 +2855,16 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: быти.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: быти.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -1924,13 +2875,19 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: быти, бы.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быти.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: быти, бы, бъ.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быти.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: быти.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быти.</li>
@@ -1938,7 +2895,35 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB--NOUN-Gen (11)</li>
+            <li>VERB--NOUN-Nom (4)</li>
+            <li>VERB--PRON-Gen (1)</li>
+            <li>VERB--PRON-Nom (8)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(по) (1)</li>
+            <li>VERB-Fin--NOUN-Gen (9)</li>
+            <li>VERB-Fin--NOUN-Nom (89)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(по) (1)</li>
+            <li>VERB-Fin--PRON-Dat (1)</li>
+            <li>VERB-Fin--PRON-Nom (147)</li>
+            <li>VERB-Inf--PRON-Nom (1)</li>
+            <li>VERB-Part--NOUN-Nom (1)</li>
+            <li>VERB-Part--PRON-Nom (2)</li>
+            <li>VERB-PartRes--NOUN-Dat-ADP(по) (2)</li>
+            <li>VERB-PartRes--NOUN-Gen (22)</li>
+            <li>VERB-PartRes--NOUN-Nom (57)</li>
+            <li>VERB-PartRes--PRON-Nom (46)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -1950,17 +2935,17 @@ udver: '2'
             <li>VERB--PRON-Nom (1)</li>
             <li>VERB-Conv--NOUN-Acc (1)</li>
             <li>VERB-Conv--NOUN-Nom (4)</li>
-            <li>VERB-Conv--PRON-Nom (4)</li>
-            <li>VERB-Fin--NOUN-Acc (1)</li>
+            <li>VERB-Conv--PRON-Nom (5)</li>
+            <li>VERB-Fin--NOUN-Acc (2)</li>
             <li>VERB-Fin--NOUN-Gen (22)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(въ) (2)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(съ) (1)</li>
             <li>VERB-Fin--NOUN-Loc-ADP(въ) (1)</li>
-            <li>VERB-Fin--NOUN-Nom (310)</li>
+            <li>VERB-Fin--NOUN-Nom (311)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(разве) (1)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
             <li>VERB-Fin--PRON-Gen (1)</li>
-            <li>VERB-Fin--PRON-Nom (155)</li>
+            <li>VERB-Fin--PRON-Nom (157)</li>
             <li>VERB-Fin--PRON-Nom-ADP(на) (1)</li>
             <li>VERB-Inf--NOUN-Nom (6)</li>
             <li>VERB-Inf--PRON-Nom (4)</li>
@@ -1969,18 +2954,18 @@ udver: '2'
             <li>VERB-Part--NOUN-Nom (24)</li>
             <li>VERB-Part--NOUN-Nom-ADP(отъ) (1)</li>
             <li>VERB-Part--PRON-Dat (1)</li>
-            <li>VERB-Part--PRON-Nom (12)</li>
-            <li>VERB-PartRes--NOUN-Acc (5)</li>
-            <li>VERB-PartRes--NOUN-Gen (15)</li>
+            <li>VERB-Part--PRON-Nom (13)</li>
+            <li>VERB-PartRes--NOUN-Acc (6)</li>
+            <li>VERB-PartRes--NOUN-Gen (18)</li>
             <li>VERB-PartRes--NOUN-Ins (1)</li>
-            <li>VERB-PartRes--NOUN-Nom (161)</li>
+            <li>VERB-PartRes--NOUN-Nom (165)</li>
             <li>VERB-PartRes--PRON-Gen (2)</li>
-            <li>VERB-PartRes--PRON-Nom (174)</li>
+            <li>VERB-PartRes--PRON-Nom (182)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -2024,30 +3009,84 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Conv--NOUN-Acc (45)</li>
+            <li>VERB--NOUN-Acc (7)</li>
+            <li>VERB--NOUN-Gen (2)</li>
+            <li>VERB--PRON-Dat (1)</li>
+            <li>VERB--PRON-Gen (1)</li>
+            <li>VERB-Fin--NOUN (4)</li>
+            <li>VERB-Fin--NOUN-ADP(съ) (1)</li>
+            <li>VERB-Fin--NOUN-Acc (297)</li>
+            <li>VERB-Fin--NOUN-Acc,Gen (3)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(въ) (1)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(по) (1)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(съ) (2)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(у) (1)</li>
+            <li>VERB-Fin--NOUN-Dat (2)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(по) (2)</li>
+            <li>VERB-Fin--NOUN-Gen (114)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(до) (1)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(по) (1)</li>
+            <li>VERB-Fin--NOUN-Nom (1)</li>
+            <li>VERB-Fin--PRON-Acc (61)</li>
+            <li>VERB-Fin--PRON-Gen (13)</li>
+            <li>VERB-Fin--PRON-Loc (1)</li>
+            <li>VERB-Inf--NOUN (1)</li>
+            <li>VERB-Inf--NOUN-Acc (30)</li>
+            <li>VERB-Inf--NOUN-Gen (19)</li>
+            <li>VERB-Inf--NOUN-Ins (1)</li>
+            <li>VERB-Inf--NOUN-Nom (9)</li>
+            <li>VERB-Inf--PRON-Acc (11)</li>
+            <li>VERB-Inf--PRON-Gen (1)</li>
+            <li>VERB-Part--NOUN (1)</li>
+            <li>VERB-Part--NOUN-Acc (34)</li>
+            <li>VERB-Part--NOUN-Gen (10)</li>
+            <li>VERB-Part--PRON-Acc (2)</li>
+            <li>VERB-Part--PRON-Gen (1)</li>
+            <li>VERB-PartRes--NOUN (7)</li>
+            <li>VERB-PartRes--NOUN-Acc (187)</li>
+            <li>VERB-PartRes--NOUN-Acc,Gen (1)</li>
+            <li>VERB-PartRes--NOUN-Acc-ADP(въ) (1)</li>
+            <li>VERB-PartRes--NOUN-Acc-ADP(за) (1)</li>
+            <li>VERB-PartRes--NOUN-Acc-ADP(на) (1)</li>
+            <li>VERB-PartRes--NOUN-Acc-ADP(у) (1)</li>
+            <li>VERB-PartRes--NOUN-Gen (66)</li>
+            <li>VERB-PartRes--NOUN-Nom (2)</li>
+            <li>VERB-PartRes--PRON-Acc (39)</li>
+            <li>VERB-PartRes--PRON-Acc,Gen (1)</li>
+            <li>VERB-PartRes--PRON-Dat-ADP(къ) (1)</li>
+            <li>VERB-PartRes--PRON-Gen (5)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB-Conv--NOUN-Acc (46)</li>
             <li>VERB-Conv--NOUN-Acc-ADP(въ) (1)</li>
             <li>VERB-Conv--NOUN-Acc-ADP(съ) (1)</li>
             <li>VERB-Conv--NOUN-Dat (1)</li>
             <li>VERB-Conv--NOUN-Gen (17)</li>
             <li>VERB-Conv--PRON-Acc (7)</li>
             <li>VERB-Conv--PRON-Gen (2)</li>
-            <li>VERB-Fin--NOUN-Acc (245)</li>
+            <li>VERB-Fin--NOUN-Acc (246)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(въ) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (60)</li>
+            <li>VERB-Fin--NOUN-Gen (61)</li>
             <li>VERB-Fin--NOUN-Ins (18)</li>
             <li>VERB-Fin--NOUN-Nom (5)</li>
             <li>VERB-Fin--PRON-Acc (78)</li>
             <li>VERB-Fin--PRON-Gen (9)</li>
             <li>VERB-Fin--PRON-Nom (3)</li>
-            <li>VERB-Inf--NOUN-Acc (211)</li>
+            <li>VERB-Inf--NOUN-Acc (214)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(о) (1)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(по) (1)</li>
             <li>VERB-Inf--NOUN-Dat (3)</li>
-            <li>VERB-Inf--NOUN-Gen (90)</li>
+            <li>VERB-Inf--NOUN-Gen (92)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(у) (1)</li>
             <li>VERB-Inf--NOUN-Ins (8)</li>
             <li>VERB-Inf--NOUN-Nom (9)</li>
@@ -2061,20 +3100,20 @@ udver: '2'
             <li>VERB-Part--NOUN-Gen (6)</li>
             <li>VERB-Part--NOUN-Nom (1)</li>
             <li>VERB-Part--PRON-Acc (9)</li>
-            <li>VERB-PartRes--NOUN-Acc (186)</li>
+            <li>VERB-PartRes--NOUN-Acc (193)</li>
             <li>VERB-PartRes--NOUN-Acc-ADP(за) (1)</li>
             <li>VERB-PartRes--NOUN-Gen (34)</li>
             <li>VERB-PartRes--NOUN-Gen-ADP(по) (1)</li>
             <li>VERB-PartRes--NOUN-Ins (2)</li>
             <li>VERB-PartRes--NOUN-Nom (1)</li>
             <li>VERB-PartRes--PRON-Acc (53)</li>
-            <li>VERB-PartRes--PRON-Gen (10)</li>
+            <li>VERB-PartRes--PRON-Gen (11)</li>
             <li>VERB-PartRes--PRON-Nom (4)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -2134,7 +3173,43 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB--NOUN (1)</li>
+            <li>VERB--NOUN-Dat (2)</li>
+            <li>VERB--NOUN-Ins (1)</li>
+            <li>VERB--PRON-Dat (11)</li>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Acc (7)</li>
+            <li>VERB-Fin--NOUN-Dat (62)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(у) (1)</li>
+            <li>VERB-Fin--NOUN-Gen (1)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(у) (1)</li>
+            <li>VERB-Fin--NOUN-Ins (60)</li>
+            <li>VERB-Fin--PRON-Dat (155)</li>
+            <li>VERB-Fin--PRON-Gen (3)</li>
+            <li>VERB-Fin--PRON-Ins (7)</li>
+            <li>VERB-Fin--PRON-Nom (1)</li>
+            <li>VERB-Inf--NOUN-Dat (8)</li>
+            <li>VERB-Inf--NOUN-Ins (1)</li>
+            <li>VERB-Inf--PRON-Dat (38)</li>
+            <li>VERB-Inf--PRON-Ins (1)</li>
+            <li>VERB-Part--NOUN-Dat (3)</li>
+            <li>VERB-Part--NOUN-Ins (2)</li>
+            <li>VERB-Part--PRON-Dat (4)</li>
+            <li>VERB-PartRes--NOUN-Acc (3)</li>
+            <li>VERB-PartRes--NOUN-Dat (9)</li>
+            <li>VERB-PartRes--NOUN-Gen (2)</li>
+            <li>VERB-PartRes--NOUN-Ins (10)</li>
+            <li>VERB-PartRes--PRON-Acc (1)</li>
+            <li>VERB-PartRes--PRON-Dat (55)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -2142,22 +3217,22 @@ udver: '2'
             <li>VERB--PRON-Dat (5)</li>
             <li>VERB-Conv--NOUN-Acc (2)</li>
             <li>VERB-Conv--NOUN-Dat (4)</li>
-            <li>VERB-Conv--NOUN-Ins (11)</li>
+            <li>VERB-Conv--NOUN-Ins (12)</li>
             <li>VERB-Conv--PRON-Dat (8)</li>
             <li>VERB-Fin--NOUN-Acc (2)</li>
-            <li>VERB-Fin--NOUN-Dat (62)</li>
+            <li>VERB-Fin--NOUN-Dat (63)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(къ) (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--NOUN-Ins (81)</li>
+            <li>VERB-Fin--NOUN-Ins (82)</li>
             <li>VERB-Fin--NOUN-Voc (1)</li>
-            <li>VERB-Fin--PRON-Dat (81)</li>
+            <li>VERB-Fin--PRON-Dat (82)</li>
             <li>VERB-Fin--PRON-Dat-ADP(о) (1)</li>
             <li>VERB-Fin--PRON-Ins (6)</li>
             <li>VERB-Inf--NOUN-Acc (1)</li>
             <li>VERB-Inf--NOUN-Dat (88)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(въ) (1)</li>
             <li>VERB-Inf--NOUN-Ins (23)</li>
-            <li>VERB-Inf--PRON-Dat (142)</li>
+            <li>VERB-Inf--PRON-Dat (144)</li>
             <li>VERB-Inf--PRON-Gen (1)</li>
             <li>VERB-Inf--PRON-Ins (4)</li>
             <li>VERB-Part--NOUN-Dat (20)</li>
@@ -2166,7 +3241,7 @@ udver: '2'
             <li>VERB-Part--PRON-Dat (34)</li>
             <li>VERB-Part--PRON-Ins (1)</li>
             <li>VERB-Part--PRON-Loc (1)</li>
-            <li>VERB-PartRes--NOUN-Dat (22)</li>
+            <li>VERB-PartRes--NOUN-Dat (23)</li>
             <li>VERB-PartRes--NOUN-Ins (50)</li>
             <li>VERB-PartRes--PRON-Dat (64)</li>
             <li>VERB-PartRes--PRON-Ins (1)</li>
@@ -2174,7 +3249,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -2224,34 +3299,47 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
         <li>This corpus contains 6 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: учинитися сѧ, сперетися сѧ, начати ся, оборонитися сѧ, отступитися сѧ, приити ся</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Verbs with Reflexive Core Objects</h3>
+      
+      <ul>
+        <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: взѧти себѣ</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 17 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: имѣти себѣ, купити себѣ, будити себе, будити себя, вдати хвалящися, дати собѣ, ждати себѣ, избрати собѣ, ископати себе, молити твое, наряжати собою, платити собою, погубити себя, помыслити хвалящихся, прославити себя, устрати покаряющаяся, явити си</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -2260,15 +3348,23 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
+      <li>The following 2 relation types are not used in this corpus at all: <a>discourse</a>, <a>clf</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
       <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
-      <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+      <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>

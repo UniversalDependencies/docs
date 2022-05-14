@@ -1543,8 +1543,9 @@ udver: '2'
                 <li>DET: Sauatu, berberapa, dibeberapa</li>
                 <li>NOUN: 141an, 1960an, dihati, dijaren, disini, gayab, kedepan, kedunia, didunia, manusa</li>
                 <li>NUM: Delapn, satu</li>
+                <li>PROPN: Co</li>
                 <li>SCONJ: dimana, darimana</li>
-                <li>VERB: di, kerje, masukan</li>
+                <li>VERB: di, kerje, dititik</li>
                 <li>X: do, pendukun</li>
               </ul>
             </li>
@@ -1558,7 +1559,8 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>NOUN: mercu, suar, Kontituensi, konsulate</li>
+                <li>ADP: dari</li>
+                <li>NOUN: mercu, Kontituensi, konsulate</li>
               </ul>
             </li>
           </ul>

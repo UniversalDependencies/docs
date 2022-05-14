@@ -57,7 +57,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 87913 sentences, 1503732 tokens and 1506484 syntactic words.</li>
+      <li>This corpus contains 87913 sentences, 1503732 tokens and 1506483 syntactic words.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -168,8 +168,8 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 2752 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 10 types of multi-word tokens. Examples: aby, kdyby, abychom, abych, kdybychom, kdybych, abyste, kdybyste, Kdybys, Neníť.</li>
+      <li>This corpus contains 2751 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 9 types of multi-word tokens. Examples: aby, kdyby, abychom, abych, kdybychom, kdybych, abyste, kdybyste, Kdybys.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -260,7 +260,7 @@ udver: '2'
   <tr>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 36 lemmas tagged as pronouns (PRON): Tous, co, cokoliv, copak, cosi, což, eo, er, ipso, jenž, já, kdekdo, kdo, kdokoli, kdokoliv, kdopak, kdosi, kdovíco, leccos, leckdo, ledacos, málokdo, nic, nikdo, nízko, něco, někdo, on, qua, samý, se, they, ty, veškerý, všecek, všechno</li>
+      <li>This corpus contains 35 lemmas tagged as pronouns (PRON): Tous, co, cokoliv, copak, cosi, což, eo, er, ipso, jenž, já, kdekdo, kdo, kdokoli, kdokoliv, kdopak, kdosi, kdovíco, leccos, leckdo, ledacos, málokdo, nic, nikdo, nízko, něco, někdo, on, qua, se, they, ty, veškerý, všecek, všechno</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -270,44 +270,44 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 32 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, samý, se, ty, veškerý, von, všecek</li>
+      <li>This corpus contains 31 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, se, ty, veškerý, von, všecek</li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 53 lemmas tagged as pronouns (PRON): Everything, I, all, bůhvíco, co, cokoliv, copak, cosi, což, gdo, he, it, ja, jenž, já, kdeco, kdekdo, kdo, kdokoliv, kdopak, kdosi, lecco, leccos, leckdo, ledacos, ledasco, man, máloco, málokdo, nic, nihil, nikdo, nothing, něco, někdo, on, ourselves, q, sa, samý, se, sotvakdo, ty, veškerý, von, vy, všecek, všechno, was, we, who, you, čo</li>
+      <li>This corpus contains 52 lemmas tagged as pronouns (PRON): Everything, I, all, bůhvíco, co, cokoliv, copak, cosi, což, gdo, he, it, ja, jenž, já, kdeco, kdekdo, kdo, kdokoliv, kdopak, kdosi, lecco, leccos, leckdo, ledacos, ledasco, man, máloco, málokdo, nic, nihil, nikdo, nothing, něco, někdo, on, ourselves, q, sa, se, sotvakdo, ty, veškerý, von, vy, všecek, všechno, was, we, who, you, čo</li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 18 lemmas tagged as pronouns (PRON): I, co, což, jenž, já, kdo, kdokoli, nic, nikdo, něco, někdo, on, samý, se, ten, ty, veškerý, you</li>
+      <li>This corpus contains 17 lemmas tagged as pronouns (PRON): I, co, což, jenž, já, kdo, kdokoli, nic, nikdo, něco, někdo, on, se, ten, ty, veškerý, you</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 52 lemmas tagged as determiners (DET): hoc, jaký, jakýkoli, jakýkoliv, jakýpak, jakýsi, jeho, jehož, jejichž, jejíž, každý, kdejaký, kdovíkolik, kolik, kolikátý, které, který, kterýkoli, kterýkoliv, kterýžto, leckterý, mnoho, málo, málokterý, můj, nejeden, nemálo, nějaký, několik, některý, něčí, onen, pražádný, quem, sui, svůj, sám, takový, takovýhle, takovýto, ten, tenhle, tenhleten, tento, tentýž, tolik, tvůj, týž, všechen, všelijaký, čí, žádný</li>
+      <li>This corpus contains 52 lemmas tagged as determiners (DET): hoc, jaký, jakýkoli, jakýkoliv, jakýpak, jakýsi, jeho, jehož, jejichž, jejíž, každý, kdejaký, kdovíkolik, kolik, kolikátý, které, který, kterýkoli, kterýkoliv, kterýžto, leckterý, mnoho, málo, málokterý, můj, nejeden, nemálo, nějaký, několik, některý, něčí, onen, pražádný, quem, samý, sui, svůj, takový, takovýhle, takovýto, ten, tenhle, tenhleten, tento, tentýž, tolik, tvůj, týž, všechen, všelijaký, čí, žádný</li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 20 lemmas tagged as determiners (DET): jaký, jakýkoliv, jeho, jehož, jejichž, jejíž, každý, který, kterýkoliv, několik, některý, svůj, sám, takový, takovýto, ten, tento, týž, všechen, žádný</li>
+      <li>This corpus contains 20 lemmas tagged as determiners (DET): jaký, jakýkoliv, jeho, jehož, jejichž, jejíž, každý, který, kterýkoliv, několik, některý, samý, svůj, takový, takovýto, ten, tento, týž, všechen, žádný</li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 53 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, svůj, sám, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
+      <li>This corpus contains 53 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, samý, svůj, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 71 lemmas tagged as determiners (DET): Notre, Your, bůhvíjaký, c, ce, cui, hodně, jaký, jakýkoliv, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdejaký, kdovíjaký, kolik, který, kterýkoliv, kterýžto, ktorý, lecjaký, leckterý, ledajaký, mio, mnoho, moc, my, málo, málokterý, míň, móóc, můj, nejeden, nemnoho, nemálo, nespočet, nějaký, několik, několikátý, některý, něčí, onen, pranic, přemnoho, some, suus, svůj, sám, takový, takovýhle, takovýto, taký, takýs, ten, tenhle, tenhleten, tento, tentýž, that, this, tolik, toť, tvůj, týž, více, všechen, všelijaký, čí, žádný</li>
+      <li>This corpus contains 73 lemmas tagged as determiners (DET): Notre, Your, bůhvíjaký, c, ce, cui, hodně, jaký, jakýkoliv, jakýpak, jakýs, jakýsi, jeho, jehož, jejichž, jejíž, každý, kdejaký, kdovíjaký, kolik, který, kterýkoliv, kterýžto, ktorý, lecjaký, leckterý, ledajaký, mio, mnoho, moc, my, málo, málokterý, míň, móóc, můj, nejeden, nemnoho, nemálo, nespočet, nějaký, několik, několikátý, některý, něčí, onen, pranic, přemnoho, samý, some, suus, svůj, takový, takovýhle, takovýto, taký, takýs, ten, tenhle, tenhleten, tento, tentýž, that, this, tolik, toť, tvůj, týž, více, všechen, všelijaký, čí, žádný</li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 27 lemmas tagged as determiners (DET): hodně, jaký, jakýkoli, jeho, jenž, každý, kolik, který, kterýkoli, mnoho, málo, můj, nějaký, několik, některý, onen, svůj, sám, takový, ten, tenhle, tento, tentýž, tolik, tvůj, všechen, žádný</li>
+      <li>This corpus contains 27 lemmas tagged as determiners (DET): hodně, jaký, jakýkoli, jeho, jenž, každý, kolik, který, kterýkoli, mnoho, málo, můj, nějaký, několik, některý, onen, samý, svůj, takový, ten, tenhle, tento, tentýž, tolik, tvůj, všechen, žádný</li>
       </ul>
     </td>
   </tr>
@@ -327,7 +327,6 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: jenž</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -366,34 +365,29 @@ udver: '2'
   <tr>
     <td width="20%" valign="top">
       <ul>
-      <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat</li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: být</li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat</li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat, bývávat</li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: být</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="20%" valign="top">
       <ul>
-      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -408,12 +402,12 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
@@ -472,8 +466,8 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: je, by, jsou, bude, jsme, není, jsem, budou, bychom, nejsou</li>
-          <li>VERB: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
+          <li>AUX: je, jsou, by, bude, není, jsme, jsem, budou, bychom, nejsou</li>
+          <li>VERB: má, mají, musí, může, jde, lze, mohou, můžeme, patří, nelze</li>
         </ul>
         </li>
       </ul>
@@ -492,8 +486,8 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: jsem, by, je, bych, jsme, jsi, bude, jsou, jste, není</li>
-          <li>VERB: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
+          <li>AUX: jsem, je, by, bych, jsme, bude, jsou, jsi, není, jste</li>
+          <li>VERB: má, mám, může, nevím, musí, mají, musím, vím, nemám, stojí</li>
         </ul>
         </li>
       </ul>
@@ -502,8 +496,8 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: je, by, jsou, bude, jsem, jsme, není, budou, bychom, bych</li>
-          <li>VERB: má, je, může, mají, musí, jde, jsou, lze, mohou, říká</li>
+          <li>AUX: je, by, jsou, bude, není, jsem, jsme, budou, bychom, bych</li>
+          <li>VERB: má, může, mají, musí, jde, lze, mohou, říká, patří, chce</li>
         </ul>
         </li>
       </ul>
@@ -513,7 +507,7 @@ udver: '2'
         <li>Fin
         <ul>
           <li>AUX: je, by, jsou, bude, jsem, není, jsme, budou, nebude, budeme</li>
-          <li>VERB: má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</li>
+          <li>VERB: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
         </ul>
         </li>
       </ul>
@@ -524,8 +518,8 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>AUX: být, býti</li>
-          <li>VERB: mít, zajistit, říci, být, vidět, dělat, řešit, věnovat, použít, provádět</li>
+          <li>AUX: být, býti, nebýt</li>
+          <li>VERB: mít, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět, dosáhnout</li>
         </ul>
         </li>
       </ul>
@@ -545,7 +539,7 @@ udver: '2'
         <li>Inf
         <ul>
           <li>AUX: být, nebýt</li>
-          <li>VERB: dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</li>
+          <li>VERB: dělat, mít, říct, vidět, jít, udělat, žít, stát, dát, mluvit</li>
         </ul>
         </li>
       </ul>
@@ -554,8 +548,8 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>AUX: být, býti, nebýt</li>
-          <li>VERB: mít, získat, stát, být, hrát, říci, platit, muset, dělat, dostat</li>
+          <li>AUX: být, nebýt, býti</li>
+          <li>VERB: mít, získat, stát, hrát, říci, platit, muset, dělat, dostat, dát</li>
         </ul>
         </li>
       </ul>
@@ -576,9 +570,9 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: pracujících, rozhodující, pracující, vedoucí, řečeno, dosaženo, odpovídající, následující, věnována, řídící</li>
-          <li>AUX: byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, býval</li>
-          <li>VERB: měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</li>
+          <li>ADJ: pracujících, rozhodující, pracující, uvedených, uvedené, vedoucí, řečeno, příslušné, dosaženo, odpovídající</li>
+          <li>AUX: bylo, byl, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, nebyli</li>
+          <li>VERB: měl, měla, mohli, mohl, došlo, měli, měly, mělo, řekl, podařilo</li>
         </ul>
         </li>
       </ul>
@@ -600,7 +594,7 @@ udver: '2'
         <ul>
           <li>ADJ: přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</li>
           <li>AUX: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
-          <li>VERB: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
+          <li>VERB: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
         </ul>
         </li>
       </ul>
@@ -609,9 +603,9 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: rozhodující, řečeno, vedoucí, následující, přesvědčen, připravena, připraven, vynikající, týkající, otevřena</li>
+          <li>ADJ: spojených, spojené, rozhodující, řečeno, vedoucí, následující, přesvědčen, připravena, připraven, uvedené</li>
           <li>AUX: byl, bylo, byla, byly, byli, nebyl, nebylo, nebyla, nebyly, nebyli</li>
-          <li>VERB: řekl, měl, měla, uvedl, měli, mělo, mohl, měly, bylo, prohlásil</li>
+          <li>VERB: řekl, měl, měla, uvedl, měli, mělo, mohl, měly, prohlásil, stal</li>
         </ul>
         </li>
       </ul>
@@ -620,9 +614,44 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: řečeno, propuštěn, vedoucí, nabídnuto, následující, označen, poražena, používán, považováno, považovány</li>
+          <li>ADJ: Spojených, řečeno, propuštěn, vedoucí, Spojené, Spojeným, kvalifikovaných, nabídnuto, následující, otevřenou</li>
           <li>AUX: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
           <li>VERB: řekl, mohl, měl, stal, stala, uvedla, vedl, mohla, pracoval, rozhodl</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <ul>
+        <li>Vnoun
+        <ul>
+          <li>NOUN: zařízení, řešení, plnění, poznání, řízení, umění, oddělení, zpracování, pojetí, záření</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>Vnoun
+        <ul>
+          <li>NOUN: jednání, utkání, rozhodnutí, řešení, zařízení, řízení, opatření, zvýšení, setkání, podnikání</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>Vnoun
+        <ul>
+          <li>NOUN: omezení, rozhodnutí, chování, jednání, oddělení, opatření, umění, hlasování, oblečení, pochopení</li>
         </ul>
         </li>
       </ul>
@@ -678,13 +707,16 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: pracovní, socialistické, nové, další, první, základní, současné, druhé, společenské, celé</li>
-            <li>ADJ-Part: rozhodující, vedoucí, odpovídající, týkající, řídící, rostoucí, následující, pracující, vládnoucí, vyplývající</li>
+            <li>ADJ-Part: uvedené, příslušné, rozhodující, uvedených, vedoucí, odpovídající, stanovené, zvýšenou, konané, spojené</li>
+            <li>AUX-Conv: jsouc</li>
             <li>AUX-Part: byla, byly</li>
             <li>DET: které, která, této, své, naší, tato, svou, tyto, kterou, tuto</li>
             <li>NOUN: práce, práci, oblasti, době, společnosti, činnosti, výroby, teorie, organizace, strany</li>
+            <li>NOUN-Vnoun: shromažďování</li>
             <li>NUM: jedné, jednu, jedna, jednou, třetinu, třetina, třetiny, čtvrtiny, dvanáctinu, třetinou</li>
             <li>PRON: ji, všechny, níž, ní, jí, jež, ni, veškeré, jíž, veškerou</li>
             <li>PROPN: KSČ, Praze, Praha, ČSAV, ČSSR, SSM, Škoda, Prahy, ČSR, NDR</li>
+            <li>VERB-Conv: Počínajíc, chtíc, nechtíc, ponechávajíc, přejímajíc</li>
           </ul>
         </li>
       </ul>
@@ -710,14 +742,14 @@ udver: '2'
             <li>ADJ: celou, poslední, první, ráda, celá, další, malá, hlavní, velké, malou</li>
             <li>ADJ-Part: oblečena, uspořádány, hořící, klečící, povznášející, rozhodující, sedící, stojící, tající, truchlící</li>
             <li>AUX-Conv: jsouc</li>
-            <li>AUX-Part: byla, byly, nebyla, bývala</li>
+            <li>AUX-Part: byla, byly, nebyla, bývala, nebyly, nebývala</li>
             <li>DET: která, jeho, té, které, tu, ta, své, svou, kterou, její</li>
             <li>NOUN: chvíli, oči, dívka, ruce, dveře, paní, děti, Kůra, práce, žena</li>
             <li>NUM: dvě, jedna, jednu, jedné, tři, obě, jednou, dvou, čtyři, obou</li>
             <li>PRON: ji, jí, ní, ona, je, ni, nich, níž, ně, jich</li>
             <li>PROPN: Valentýna, Alžběta, Veronika, Alice, Praze, Prahy, Čáslavi, Janičku, Magda, Máša</li>
             <li>VERB-Conv: hledajíc, Nechtíc, Pronášejíc, Třesouc, domnívajíc, lechtajíc, nedbajíc, nespouštějíc, netroufajíc, nevšímajíc</li>
-            <li>VERB-Part: měla, řekla, byla, chtěla, mohla, vzala, přišla, začala, dala, neměla</li>
+            <li>VERB-Part: měla, řekla, chtěla, mohla, vzala, přišla, začala, dala, neměla, stála</li>
           </ul>
         </li>
       </ul>
@@ -727,12 +759,14 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: české, první, druhé, další, česká, nové, státní, poslední, vlastní, národní</li>
-            <li>ADJ-Part: rozhodující, vedoucí, následující, týkající, vládnoucí, odpovídající, rostoucí, vynikající, pokračující, související</li>
+            <li>ADJ-Part: rozhodující, vedoucí, přidané, ozbrojených, příslušné, následující, uvedené, zmíněné, týkající, určené</li>
+            <li>AUX-Conv: jsouc</li>
             <li>DET: která, které, této, své, svou, kterou, tato, tuto, naší, její</li>
             <li>NOUN: korun, strany, společnosti, době, firmy, Kč, práce, vláda, země, vlády</li>
             <li>NUM: jedné, jedna, jednu, jednou, třetiny, třetinu, třetina, třetině, čtvrtinu, čtvrtina</li>
             <li>PRON: ji, ní, níž, jí, jež, ni, ona, veškeré, jíž, niž</li>
             <li>PROPN: Praha, ČR, Praze, LN, ODS, OSN, Evropy, Prahy, ODA, ČSFR</li>
+            <li>VERB-Conv: chtíc, držíc, hynouc, nechtíc, vsouvajíc</li>
             <li>VERB-Part: Were</li>
           </ul>
         </li>
@@ -743,13 +777,14 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: první, nové, druhé, jižní, další, severní, velká, velké, vlastní, východní</li>
-            <li>ADJ-Part: probíhající, dospívající, dívající, ležící, milující, nadcházejících, pocházející, poskytující, postupující, pronásledující</li>
+            <li>ADJ-Part: otevřenou, otevřená, probíhající, vytvořenou, Nejrozšířenější, Oceněná, Vyhnané, danou, dospívající, dívající</li>
             <li>AUX-Part: byla</li>
             <li>DET: která, které, své, svou, této, té, tato, její, kterou, tuto</li>
             <li>NOUN: době, oblasti, války, společnosti, země, policie, část, části, strany, říše</li>
             <li>NUM: jedné, jedna, jednu, jednou, una</li>
             <li>PRON: ní, jí, ji, níž, veškeré, jež, niž, ona, veškerou</li>
             <li>PROPN: Čína, Francie, Albánie, BBC, Británii, Clintonové, Evropě, Itálii, Ameriky, Asii</li>
+            <li>VERB-Conv: redukujíc</li>
             <li>VERB-Part: začala, řekla</li>
           </ul>
         </li>
@@ -764,7 +799,7 @@ udver: '2'
             <li>ADJ: uvedeny, určeny, splněny, provedeny, spojeny, stanoveny, připraveny, vytvořeny, umístěny, charakterizovány</li>
             <li>ADJ-Part: uvedeny, určeny, splněny, provedeny, spojeny, stanoveny, připraveny, vytvořeny, umístěny, charakterizovány</li>
             <li>AUX-Part: byly, nebyly, bývaly</li>
-            <li>VERB-Part: měly, mohly, byly, staly, vznikly, začaly, vytvořily, vedly, dosáhly, neměly</li>
+            <li>VERB-Part: měly, mohly, staly, vznikly, začaly, vytvořily, vedly, dosáhly, neměly, ukázaly</li>
           </ul>
         </li>
       </ul>
@@ -791,7 +826,7 @@ udver: '2'
             <li>ADJ: uvedeny, připraveny, známy, určeny, uzavřeny, nalezeny, považovány, schopny, stanoveny, uloženy</li>
             <li>ADJ-Part: uvedeny, připraveny, určeny, uzavřeny, nalezeny, považovány, stanoveny, uloženy, zastoupeny, zrušeny</li>
             <li>AUX-Part: byly, nebyly, bývaly, bývávaly</li>
-            <li>VERB-Part: měly, mohly, byly, začaly, objevily, dosáhly, získaly, neměly, staly, vedly</li>
+            <li>VERB-Part: měly, mohly, začaly, objevily, dosáhly, získaly, neměly, staly, vedly, dostaly</li>
           </ul>
         </li>
       </ul>
@@ -816,12 +851,10 @@ udver: '2'
           <ul>
             <li>ADJ: věnována, dána, provedena, určena, zahájena, povinna, založena, dokončena, stanovena, vybudována</li>
             <li>ADJ-Part: věnována, dána, provedena, určena, zahájena, založena, dokončena, stanovena, vybudována, spojena</li>
-            <li>AUX-Conv: jsouc</li>
-            <li>AUX-Part: byla, nebyla</li>
+            <li>AUX-Part: byla, nebyla, bývala</li>
             <li>DET: naše, moje, vaše, tvoje</li>
             <li>NUM: dvě, obě</li>
-            <li>VERB-Conv: říkajíc, Počínajíc, chtíc, nechtíc, ponechávajíc, přejímajíc</li>
-            <li>VERB-Part: měla, byla, mohla, stala, začala, dosáhla, vznikla, dala, zůstala, objevila</li>
+            <li>VERB-Part: měla, mohla, stala, začala, dosáhla, vznikla, dala, zůstala, objevila, přišla</li>
           </ul>
         </li>
       </ul>
@@ -848,12 +881,10 @@ udver: '2'
           <ul>
             <li>ADJ: připravena, schopna, otevřena, uzavřena, založena, zahájena, stanovena, určena, podepsána, ráda</li>
             <li>ADJ-Part: připravena, otevřena, uzavřena, založena, zahájena, stanovena, určena, podepsána, považována, uvedena</li>
-            <li>AUX-Conv: jsouc</li>
             <li>AUX-Part: byla, nebyla, bývala, nebývala</li>
             <li>DET: naše, moje, vaše, mio</li>
             <li>NUM: dvě, obě</li>
-            <li>VERB-Conv: říkajíc, Jsouc, chtíc, držíc, hynouc, nechtíc, opírajíc, pokračujíc, vsouvajíc</li>
-            <li>VERB-Part: měla, mohla, byla, stala, začala, získala, musela, vznikla, oznámila, rozhodla</li>
+            <li>VERB-Part: měla, mohla, stala, začala, získala, musela, vznikla, oznámila, rozhodla, uvedla</li>
           </ul>
         </li>
       </ul>
@@ -867,7 +898,6 @@ udver: '2'
             <li>AUX-Part: byla, nebyla</li>
             <li>DET: naše, Moje</li>
             <li>NUM: dvě</li>
-            <li>VERB-Conv: redukujíc</li>
             <li>VERB-Part: stala, uvedla, mohla, vedla, měla, ukázala, vydala, začala, řekla, umožnila</li>
           </ul>
         </li>
@@ -880,15 +910,15 @@ udver: '2'
         <li>Masc
           <ul>
             <li>ADJ: další, jednotlivých, první, základní, pracovní, dalších, velký, celý, pracujících, nové</li>
-            <li>ADJ-Part: pracujících, pracující, rozhodující, vedoucí, dán, splněn, schválen, určen, pracujícího, uveden</li>
-            <li>AUX-Part: byl, byli, nebyl, býval, nebyli</li>
+            <li>ADJ-Part: pracujících, pracující, plánovaných, rozhodující, uvedených, příslušného, vedoucí, dán, spojených, uvedené</li>
+            <li>AUX-Part: byl, byli, nebyl, nebyli, býval, Bývali</li>
             <li>DET: který, které, kteří, tento, každý, tyto, sám, některé, svůj, ten</li>
             <li>NOUN: roce, roku, pracovníků, úkolů, výsledky, jazyka, procesu, lidí, člověka, úkoly</li>
             <li>NUM: jeden, dva, oba, jednoho</li>
             <li>PRON: všechny, všichni, kdo, někdo, nikdo, jeho, jenž, on, oni, veškeré</li>
             <li>PROPN: SSSR, ÚJČ, Fučík, Erben, TIBA, Karel, Horálek, OV, USA, VÚM</li>
             <li>VERB-Conv: počínaje, nemluvě, nevyjímaje, dožívaje, klusaje, konče, nepočítaje, používaje, počítaje, přetvářeje</li>
-            <li>VERB-Part: měl, mohli, mohl, měli, byl, řekl, chtěl, stal, ukázal, dostal</li>
+            <li>VERB-Part: měl, mohli, mohl, měli, řekl, chtěl, stal, ukázal, dostal, dal</li>
           </ul>
         </li>
       </ul>
@@ -916,14 +946,14 @@ udver: '2'
           <ul>
             <li>ADJ: celý, rád, další, první, malý, druhý, starý, jediný, ostatní, mladý</li>
             <li>ADJ-Part: přesvědčen, obklopen, poslán, pozván, dopřán, hledajících, milován, milujících, nastávající, natočen</li>
-            <li>AUX-Part: byl, byli, nebyl, byly, býval, nebyly, nebyli, bývali</li>
+            <li>AUX-Part: byl, byli, nebyl, byly, býval, nebyli, nebyly, bývali, nebýval</li>
             <li>DET: který, ten, jeho, sám, každý, můj, svého, všichni, kteří, svůj</li>
             <li>NOUN: život, den, člověk, plod, profesor, mistr, čas, muž, lidé, mladík</li>
             <li>NUM: jeden, dva, jednoho, oba, tři, čtyři, jedním, dvěma, tisíc, dvou</li>
             <li>PRON: ho, mu, kdo, je, on, nikdo, něj, někdo, ním, jim</li>
             <li>PROPN: Láďa, Leoš, Eduard, Havel, Flajšman, Havlena, Filip, Honza, K, Němci</li>
             <li>VERB-Conv: chtěje, netuše, Divě, Jda, Opíraje, doufajíce, drže, dívaje, klouzaje, kroutě</li>
-            <li>VERB-Part: řekl, měl, mohl, chtěl, byl, viděl, začal, přišel, vzal, zeptal</li>
+            <li>VERB-Part: řekl, měl, mohl, chtěl, viděl, začal, přišel, vzal, zeptal, měli</li>
           </ul>
         </li>
       </ul>
@@ -933,9 +963,9 @@ udver: '2'
         <li>Masc
           <ul>
             <li>ADJ: další, první, nový, český, českého, dalších, celý, nového, druhý, velký</li>
-            <li>ADJ-Part: přesvědčen, připraven, vedoucí, rozhodující, zvolen, odsouzen, kupující, obviněn, považován, vynikající</li>
+            <li>ADJ-Part: spojených, spojené, přesvědčen, připraven, vedoucí, rozhodující, dotázaných, neautorizovaný, vyrovnaný, zvolen</li>
             <li>AUX-Conv: jsa</li>
-            <li>AUX-Part: byl, byli, nebyl, nebyli, býval, bývali</li>
+            <li>AUX-Part: byl, byli, nebyl, nebyli, býval, bývali, nebýval</li>
             <li>DET: který, kteří, které, tento, ten, svůj, každý, své, všechny, sám</li>
             <li>NOUN: roku, roce, případě, zákona, lidí, rok, ministr, světa, předseda, trhu</li>
             <li>NUM: dva, jeden, oba, jednoho</li>
@@ -943,7 +973,7 @@ udver: '2'
             <li>PROPN: USA, Jiří, J, Jan, Václav, Petr, Pavel, Josef, M, Vladimír</li>
             <li>SYM: §, §§</li>
             <li>VERB-Conv: počínaje, nemluvě, konče, Mluvě, soudě, maje, nehledě, nepočítaje, nevyjímaje, žena</li>
-            <li>VERB-Part: řekl, měl, uvedl, měli, mohl, prohlásil, stal, mohli, byl, dodal</li>
+            <li>VERB-Part: řekl, měl, uvedl, měli, mohl, prohlásil, stal, mohli, dodal, dostal</li>
           </ul>
         </li>
       </ul>
@@ -952,10 +982,10 @@ udver: '2'
       <ul>
         <li>Masc
           <ul>
-            <li>ADJ: další, každý, Spojených, nové, nový, první, schopen, vládní, americké, dalších</li>
-            <li>ADJ-Part: propuštěn, Vedoucí, označen, používán, prodán, studujících, uveden, vyslán, vytvořen, zvolen</li>
+            <li>ADJ: další, Spojených, nové, nový, první, schopen, vládní, americké, dalších, dalším</li>
+            <li>ADJ-Part: Spojených, propuštěn, Spojené, Spojeným, Vedoucí, označen, používán, prodán, studujících, uveden</li>
             <li>AUX-Part: byl, byli, nebyl</li>
-            <li>DET: který, kteří, které, tento, svůj, své, ten, někteří, tyto, ty</li>
+            <li>DET: který, kteří, které, tento, svůj, každý, své, ten, někteří, tyto</li>
             <li>NOUN: roce, roku, l, lidí, rok, případě, dolarů, důsledku, film, den</li>
             <li>NUM: dva, jeden, oba</li>
             <li>PRON: kdo, jenž, někdo, on, kdokoli, kdokoliv, koho, nikdo, nikoho, nikým</li>
@@ -1026,10 +1056,12 @@ udver: '2'
             <li>AUX-Part: bylo, nebylo, bývalo, byla</li>
             <li>DET: to, které, toto, která, své, tato, každé, takové, některá, její</li>
             <li>NOUN: let, hlediska, období, prostředí, zařízení, řešení, plnění, množství, poznání, století</li>
+            <li>NOUN-Vnoun: zařízení, řešení, plnění, poznání, řízení, umění, oddělení, zpracování, pojetí, záření</li>
             <li>NUM: jedno</li>
             <li>PRON: všechno, vše, je, všechna, jež, ně, co, ono, veškeré, všecko</li>
             <li>PROPN: ROH, Československa, GŘ, Brně, Slovensku, Československu, MZVŽ, Brno, RVHP, Ústí</li>
-            <li>VERB-Part: bylo, došlo, mělo, podařilo, mohlo, stalo, nebylo, ukázalo, šlo, začalo</li>
+            <li>VERB-Conv: říkajíc</li>
+            <li>VERB-Part: došlo, mělo, podařilo, mohlo, stalo, ukázalo, šlo, začalo, dosáhlo, projevilo</li>
           </ul>
         </li>
       </ul>
@@ -1056,14 +1088,14 @@ udver: '2'
           <ul>
             <li>ADJ: jiného, jasné, možné, jiná, malé, celé, první, druhé, lepší, těžké</li>
             <li>ADJ-Part: řečeno, napsáno, zakázáno, ztraceno, Rozhodující, blížícího, bušícím, dovoleno, míněno, namířeno</li>
-            <li>AUX-Part: bylo, nebylo, byla, bývalo, nebyla, nebývalo</li>
+            <li>AUX-Part: bylo, nebylo, byla, bývalo, nebývalo, nebyla</li>
             <li>DET: to, všechno, tom, tím, toho, tomu, tohle, které, jeho, své</li>
             <li>NOUN: dítě, let, slova, září, místo, tělo, srdce, okna, štěstí, léta</li>
             <li>NUM: jedno, dvě, jednom, tři, jednoho, obě, jedním, půl, čtyř, čtyři</li>
             <li>PRON: je, ho, všecko, ně, něj, něm, co, jež, mu, ono</li>
             <li>PROPN: Československu, Německa, zoo, Československa, C, Japonska, Německu, Ruska, Angeles, Gobi</li>
             <li>VERB-Conv: říkajíc</li>
-            <li>VERB-Part: bylo, stalo, zdálo, napadlo, nebylo, mělo, začalo, šlo, mohlo, podařilo</li>
+            <li>VERB-Part: stalo, zdálo, napadlo, mělo, začalo, šlo, mohlo, podařilo, nenapadlo, nešlo</li>
           </ul>
         </li>
       </ul>
@@ -1074,13 +1106,15 @@ udver: '2'
           <ul>
             <li>ADJ: možné, třeba, jiné, další, prvním, posledních, životního, nutné, první, možno</li>
             <li>ADJ-Part: řečeno, rozhodnuto, uvedeno, dosaženo, vyloučeno, zraněno, určeno, dáno, zahájeno, připraveno</li>
-            <li>AUX-Part: bylo, nebylo, bývalo, nebývalo</li>
+            <li>AUX-Part: bylo, nebylo, bývalo, nebývalo, bolo, bývávalo</li>
             <li>DET: to, které, toto, vše, své, všechno, která, tato, takové, žádné</li>
             <li>NOUN: let, procent, jednání, letech, zahraničí, září, prostředí, ministerstva, vedení, zboží</li>
+            <li>NOUN-Vnoun: jednání, utkání, rozhodnutí, řešení, zařízení, řízení, opatření, zvýšení, setkání, podnikání</li>
             <li>NUM: jedno</li>
             <li>PRON: je, jež, ono, ně, veškeré, it, něž, veškerá, všecko, All</li>
             <li>PROPN: Brno, Německu, Německa, Brně, Rusko, Slovensku, Slovensko, Německo, NATO, HZDS</li>
-            <li>VERB-Part: mělo, bylo, podařilo, došlo, mohlo, šlo, stalo, začalo, ukázalo, přišlo</li>
+            <li>VERB-Conv: říkajíc, opírajíc, pokračujíc</li>
+            <li>VERB-Part: mělo, podařilo, došlo, mohlo, šlo, stalo, začalo, ukázalo, přišlo, nemělo</li>
           </ul>
         </li>
       </ul>
@@ -1090,14 +1124,15 @@ udver: '2'
         <li>Neut
           <ul>
             <li>ADJ: posledních, další, jasné, možné, řečeno, jiné, šedesátých, Karibské, Severního, britského</li>
-            <li>ADJ-Part: řečeno, nabídnuto, považováno, provedeno, psáno, rozděleno, zamítnuto, citováno, dobyto, dovoleno</li>
+            <li>ADJ-Part: řečeno, nabídnuto, považováno, provedeno, psáno, rozděleno, zamítnuto, citováno, dobyto, dobytých</li>
             <li>AUX-Part: bylo, nebylo</li>
             <li>DET: to, toto, které, která, své, tohle, některá, tato, všechno, žádná</li>
             <li>NOUN: let, století, letech, území, období, moře, místo, eur, města, omezení</li>
+            <li>NOUN-Vnoun: omezení, rozhodnutí, chování, jednání, oddělení, opatření, umění, hlasování, oblečení, pochopení</li>
             <li>NUM: jedno</li>
-            <li>PRON: je, samé</li>
+            <li>PRON: je</li>
             <li>PROPN: CNN, Mongolsko, Německo, Řecko, Brisbane, Mexiko, Nizozemí, Norsku, Ontaria, Rusku</li>
-            <li>VERB-Part: bylo, mohlo, mělo, začalo, došlo, konalo, podařilo, poskytovalo, vedlo, vyšlo</li>
+            <li>VERB-Part: mohlo, mělo, začalo, došlo, konalo, podařilo, poskytovalo, vedlo, vyšlo, způsobilo</li>
           </ul>
         </li>
       </ul>
@@ -1136,14 +1171,14 @@ udver: '2'
         <li>Anim
           <ul>
             <li>ADJ: pracujících, mladých, pracující, mladí, další, rádi, mnozí, ostatní, mladý, vedoucí</li>
-            <li>ADJ-Part: pracujících, pracující, vedoucí, vedoucích, pracujícím, připraveni, nuceni, pracujícími, zabezpečeni, cestující</li>
-            <li>AUX-Part: byli, nebyli, byl</li>
+            <li>ADJ-Part: pracujících, pracující, vedoucí, kvalifikovaných, vedoucích, vážený, postiženého, pracujícím, připraveni, zmocněný</li>
+            <li>AUX-Part: byli, nebyli, Bývali, byl</li>
             <li>DET: kteří, každý, sami, každého, ti, někteří, naši, svého, každému, tito</li>
             <li>NOUN: pracovníků, lidí, člověka, člověk, lidé, pracovník, členů, vedoucí, ředitel, pracovníci</li>
             <li>NUM: jednoho</li>
             <li>PRON: všichni, kdo, někdo, nikdo, oni, někomu, nikoho, jehož, kdož, koho</li>
             <li>PROPN: Fučík, Erben, Karel, Horálek, Němec, Julius, Václav, Lenin, Karla, Jaroslav</li>
-            <li>VERB-Part: mohli, měli, byli, začali, dali, chtěli, dosáhli, viděli, pracovali, přišli</li>
+            <li>VERB-Part: mohli, měli, začali, dali, chtěli, dosáhli, viděli, pracovali, přišli, postavili</li>
           </ul>
         </li>
       </ul>
@@ -1167,14 +1202,14 @@ udver: '2'
           <ul>
             <li>ADJ: rád, mladý, ostatní, starý, malý, rádi, bohatý, druhý, první, další</li>
             <li>ADJ-Part: přesvědčen, obklopen, pozván, hledajících, milován, milujících, nastávající, nucen, oblečen, obtížen</li>
-            <li>AUX-Part: byl, byli, nebyl, býval, nebyli, bývali</li>
+            <li>AUX-Part: byl, byli, nebyl, býval, nebyli, bývali, nebýval</li>
             <li>DET: který, sám, ten, všichni, kteří, můj, svého, každý, ti, toho</li>
             <li>NOUN: člověk, profesor, mistr, muž, lidé, mladík, otec, primář, lidí, pán</li>
             <li>NUM: jeden, dva, oba, jednoho, čtyři, tři, dvěma, jedním, jednomu, tří</li>
             <li>PRON: mu, ho, kdo, on, nikdo, někdo, jim, ním, něj, je</li>
             <li>PROPN: Láďa, Leoš, Eduard, Havel, Flajšman, Havlena, Filip, Honza, K, Němci</li>
             <li>VERB-Conv: chtěje, netuše, Jda, Opíraje, doufajíce, drže, dívaje, kroutě, nadýmaje, nedbaje</li>
-            <li>VERB-Part: řekl, měl, chtěl, mohl, viděl, byl, vzal, zeptal, měli, přišel</li>
+            <li>VERB-Part: řekl, měl, chtěl, mohl, viděl, vzal, zeptal, měli, přišel, šel</li>
           </ul>
         </li>
       </ul>
@@ -1184,14 +1219,14 @@ udver: '2'
         <li>Anim
           <ul>
             <li>ADJ: další, bývalý, mnozí, domácí, první, generální, český, americký, českých, dalších</li>
-            <li>ADJ-Part: kupující, vedoucí, přesvědčeni, žijící, připraveni, cestujících, nuceni, vynikající, prodávající, prodávajícího</li>
+            <li>ADJ-Part: dotázaných, kupující, vedoucí, přesvědčeni, postižené, postižených, žijící, připraveni, obviněný, cestujících</li>
             <li>AUX-Part: byli, nebyli, bývali</li>
             <li>DET: kteří, všichni, každý, ti, někteří, sami, naši, svého, každého, kterého</li>
             <li>NOUN: lidí, ministr, předseda, lidé, ředitel, prezident, trenér, ministra, prezidenta, premiér</li>
             <li>NUM: jednoho</li>
             <li>PRON: kdo, nikdo, někdo, oni, koho, komu, někoho, nikoho, nikomu, někomu</li>
             <li>PROPN: Jiří, J, Jan, Václav, Petr, Pavel, Josef, M, Vladimír, V</li>
-            <li>VERB-Part: měli, mohli, chtěli, začali, museli, dostali, získali, byli, rozhodli, přišli</li>
+            <li>VERB-Part: měli, mohli, chtěli, začali, museli, dostali, získali, rozhodli, přišli, neměli</li>
           </ul>
         </li>
       </ul>
@@ -1200,10 +1235,10 @@ udver: '2'
       <ul>
         <li>Anim
           <ul>
-            <li>ADJ: každý, další, Islámští, Vedoucí, australští, dalšími, egyptský, generální, generálního, jistý</li>
-            <li>ADJ-Part: Vedoucí, studujících, dosluhující, navštěvující, nazýváni, oblečeni, osvobozeni, ozbrojeni, pohnuti, poraženi</li>
+            <li>ADJ: další, Islámští, Vedoucí, australští, dalšími, egyptský, generální, generálního, jistý, mladého</li>
+            <li>ADJ-Part: Vedoucí, studujících, dosluhující, jmenovaný, konvertovaných, kvalifikovaných, nadšený, navštěvující, nazýváni, nejmenovaný</li>
             <li>AUX-Part: byli</li>
-            <li>DET: kteří, někteří, všichni, kterého, sami, svého, ty</li>
+            <li>DET: kteří, někteří, každý, všichni, každého, kterého, sami, svého, ty</li>
             <li>NOUN: lidí, lidé, obyvatel, prezident, člověk, investoři, král, lidi, muži, studenti</li>
             <li>PRON: kdo, někdo, kdokoli, kdokoliv, koho, nikdo, nikoho, nikým, někoho, oni</li>
             <li>PROPN: Trump, Trumpa, Donald, Mišima, Richarda, Seagal, Winstone, Wright, Šen, Aldrin</li>
@@ -1219,14 +1254,14 @@ udver: '2'
         <li>Inan
           <ul>
             <li>ADJ: jednotlivých, další, základní, pracovní, celý, první, velký, nové, nový, dalších</li>
-            <li>ADJ-Part: rozhodující, uvedeny, určeny, splněny, provedeny, spojeny, stanoveny, připraveny, pracujícího, vytvořeny</li>
-            <li>AUX-Part: byly, nebyly, byl, bývaly</li>
+            <li>ADJ-Part: plánovaných, rozhodující, uvedeny, uvedených, příslušného, určeny, splněny, spojených, uvedené, dosažené</li>
+            <li>AUX-Part: byly, nebyly, bývaly, byl</li>
             <li>DET: které, tyto, který, tento, svůj, každý, některé, ty, každém, její</li>
             <li>NOUN: roce, roku, úkolů, výsledky, jazyka, procesu, úkoly, podniku, života, základě</li>
             <li>NUM: jeden</li>
             <li>PRON: co, něco, všechny, čím, čem, čeho, copak, něčeho, něčemu, veškeré</li>
             <li>PROPN: SSSR, ÚJČ, TIBA, OV, USA, VÚM, KNV, Vietnamu, Hradci, Klatovech</li>
-            <li>VERB-Part: měly, mohly, byly, staly, vznikly, začaly, vytvořily, vedly, dosáhly, neměly</li>
+            <li>VERB-Part: měly, mohly, staly, vznikly, začaly, vytvořily, vedly, dosáhly, neměly, ukázaly</li>
           </ul>
         </li>
       </ul>
@@ -1260,7 +1295,7 @@ udver: '2'
             <li>PRON: co, ho, je, čím, něm, něj, čem, nich, ním, jich</li>
             <li>PROPN: Poděbradech, Poděbrad, Amadeus, Kolína, Kolíně, Mánes, Neurol, Náchoda, Náchodě, Sudety</li>
             <li>VERB-Conv: klouzaje</li>
-            <li>VERB-Part: byl, stál, nebyl, mohl, měl, ozval, začal, zdál, byly, ujel</li>
+            <li>VERB-Part: stál, mohl, měl, ozval, začal, zdál, ujel, ležel, vypadal, zastavil</li>
           </ul>
         </li>
       </ul>
@@ -1270,15 +1305,15 @@ udver: '2'
         <li>Inan
           <ul>
             <li>ADJ: další, první, nový, českého, celý, český, velký, letošního, státního, minulý</li>
-            <li>ADJ-Part: rozhodující, následující, uvedeny, připraveny, určeny, ležící, následujícím, rozhodujícím, uzavřeny, nalezeny</li>
+            <li>ADJ-Part: spojených, spojené, rozhodující, neautorizovaný, vyrovnaný, následující, příslušný, příslušného, nazvaný, uvedeny</li>
             <li>AUX-Part: byly, nebyly, bývaly, bývávaly</li>
             <li>DET: které, svůj, který, tento, tyto, každý, ty, některé, ten, všechny</li>
             <li>NOUN: roku, roce, případě, zákona, rok, světa, trhu, zákon, zájem, státu</li>
             <li>NUM: jeden</li>
-            <li>PRON: co, čím, čem, čeho, jež, čemu, veškeré, veškerý, ony, WAS</li>
+            <li>PRON: co, něco, čím, čem, čeho, cosi, jež, čemu, něčeho, cokoli</li>
             <li>PROPN: USA, York, Zlín, Liberec, FNM, SSSR, Hradec, Izrael, Londýn, Yorku</li>
             <li>SYM: §, §§</li>
-            <li>VERB-Part: měly, mohly, byly, začaly, objevily, dosáhly, získaly, neměly, staly, vedly</li>
+            <li>VERB-Part: měly, mohly, začaly, objevily, dosáhly, získaly, neměly, staly, vedly, dostaly</li>
           </ul>
         </li>
       </ul>
@@ -1287,12 +1322,12 @@ udver: '2'
       <ul>
         <li>Inan
           <ul>
-            <li>ADJ: Spojených, nové, další, nový, první, vládní, dalších, dalším, hlavní, každý</li>
-            <li>ADJ-Part: považovány, aktivovány, budovány, diskutovány, dospívajícího, exponovány, hanobící, legalizovány, měnícím, následující</li>
+            <li>ADJ: Spojených, nové, další, nový, první, vládní, dalších, dalším, hlavní, nejvyšší</li>
+            <li>ADJ-Part: Spojených, Spojené, Spojeným, považovány, Konzultované, Vynucený, agregované, aktivovány, budovány, chráněný</li>
             <li>AUX-Part: byly, nebyly</li>
-            <li>DET: které, svůj, který, tento, tyto, ty, její, každý, naše, náš</li>
+            <li>DET: které, svůj, který, každý, tento, tyto, ty, její, naše, náš</li>
             <li>NOUN: roce, roku, l, rok, případě, dolarů, důsledku, film, den, stát</li>
-            <li>PRON: co, samý, čím</li>
+            <li>PRON: co, čím</li>
             <li>PROPN: USA, Peking, Abbotsfordu, Egypta, Endurance, Facebooku, Ford, Glasgow, Hill, Hongkong</li>
             <li>VERB-Part: měly, vypadaly, začaly, mohly, používaly, umožnily, vedly, vyvíjely, Následovaly, Podávaly</li>
           </ul>
@@ -1333,6 +1368,7 @@ udver: '2'
         <li>Dual
           <ul>
             <li>ADJ: holýma, jinýma, otevřenýma, plnýma, radostnýma, velkýma, zadníma</li>
+            <li>ADJ-Part: otevřenýma</li>
             <li>DET: mýma, našima, těma</li>
             <li>NOUN: očima, rukama, nohama, ušima</li>
             <li>NUM: dvěma, oběma</li>
@@ -1360,7 +1396,7 @@ udver: '2'
         <li>Dual
           <ul>
             <li>ADJ: zavřenýma, otevřenýma, Sudetoněmeckýma, dlouhýma, filmovýma, holýma, odřenýma, oteklýma, plnýma, prázdnýma</li>
-            <li>ADJ-Part: svítícíma</li>
+            <li>ADJ-Part: zavřenýma, otevřenýma, odřenýma, svítícíma, založenýma, zavázanýma, zdviženýma, zkříženýma, zlomenýma</li>
             <li>DET: jejíma, svýma, těma</li>
             <li>NOUN: očima, rukama, nohama, ušima</li>
             <li>NUM: oběma, dvěma, čtyřma</li>
@@ -1372,7 +1408,7 @@ udver: '2'
       <ul>
         <li>Dual
           <ul>
-            <li>ADJ: nastraženýma</li>
+            <li>ADJ-Part: nastraženýma</li>
             <li>NOUN: ušima</li>
           </ul>
         </li>
@@ -1385,18 +1421,19 @@ udver: '2'
         <li>Plur
           <ul>
             <li>ADJ: jednotlivých, různých, dalších, další, jiných, nové, výrobních, různé, nových, základních</li>
-            <li>ADJ-Part: pracujících, pracující, uvedeny, určeny, splněny, vedoucí, týkající, vedoucích, následující, provedeny</li>
+            <li>ADJ-Part: pracujících, uvedených, pracující, uvedené, plánovaných, spojené, příslušných, spojených, uvedeny, získaných</li>
             <li>AUX-Conv: byvše, jsouce</li>
             <li>AUX-Fin: jsou, jsme, budou, bychom, nejsou, budeme, jste, byste, nebudou, bývají</li>
-            <li>AUX-Part: byly, byli, nebyly, nebyli, byla, bývaly</li>
+            <li>AUX-Part: byly, byli, nebyly, nebyli, bývaly, Bývali, byla</li>
             <li>DET: které, těchto, tyto, kteří, některých, některé, svých, své, našich, ty</li>
             <li>NOUN: let, pracovníků, úkolů, výsledky, lidí, úkoly, podmínky, letech, lidé, práce</li>
+            <li>NOUN-Vnoun: zařízení, opatření, oddělení, měření, zařízeních, ustanovení, řešení, pozorování, setkání, onemocnění</li>
             <li>NUM: dvou, dvě, tři, dva, obou, dvěma, tří, čtyři, oba, obě</li>
             <li>PRON: všech, nás, je, všechny, nám, nich, nichž, jim, jež, všichni</li>
             <li>PROPN: Čechách, Klatovech, Pardubice, horách, Bubny, Holešovice, Čech, Holešovic, Karpaty, Klatovy</li>
             <li>VERB-Conv: Chráníce, nehodíce, plníce, stavíce, toulajíce, upínajíce, vydávajíce, vytvářejíce</li>
-            <li>VERB-Fin: mají, jsou, mohou, můžeme, máme, musíme, musí, tvoří, chceme, nemají</li>
-            <li>VERB-Part: mohli, měli, měly, mohly, byly, byli, začali, dali, chtěli, staly</li>
+            <li>VERB-Fin: mají, mohou, můžeme, máme, musíme, musí, tvoří, chceme, nemají, vznikají</li>
+            <li>VERB-Part: mohli, měli, měly, mohly, začali, dali, chtěli, staly, vznikly, dosáhli</li>
           </ul>
         </li>
       </ul>
@@ -1433,8 +1470,8 @@ udver: '2'
             <li>PRON: je, nás, nám, nich, jim, vás, vám, vy, my, nimi</li>
             <li>PROPN: Němci, Poděbradech, Poděbrad, vánoce, Sudety, USA, Čechách, Američani, Čech, Čechy</li>
             <li>VERB-Conv: doufajíce, očekávajíce, provádějíce, ubezpečujíce</li>
-            <li>VERB-Fin: mají, jsou, víte, máte, máme, nevíte, chcete, musíme, můžeme, můžete</li>
-            <li>VERB-Part: měli, byli, mohli, byly, chtěli, šli, museli, neměli, seděli, začali</li>
+            <li>VERB-Fin: mají, víte, máte, máme, nevíte, chcete, musíme, můžeme, můžete, vidíte</li>
+            <li>VERB-Part: měli, mohli, chtěli, šli, museli, neměli, seděli, začali, dali, vzali</li>
           </ul>
         </li>
       </ul>
@@ -1444,19 +1481,20 @@ udver: '2'
         <li>Plur
           <ul>
             <li>ADJ: další, dalších, českých, posledních, nové, jiných, nových, jednotlivých, různých, zahraničních</li>
-            <li>ADJ-Part: vedoucí, následujících, týkající, zbývajících, přesvědčeni, rozhodujících, uvedeny, následující, připraveni, připraveny</li>
+            <li>ADJ-Part: spojených, spojené, dotázaných, ozbrojených, postižených, uvedených, postižené, vybraných, vedoucí, následujících</li>
             <li>AUX-Conv: jsouce</li>
-            <li>AUX-Fin: jsou, jsme, budou, bychom, nejsou, jste, budeme, nebudou, byste, nebudeme</li>
+            <li>AUX-Fin: jsou, jsme, budou, bychom, nejsou, jste, budeme, nebudou, byste, nejsme</li>
             <li>AUX-Part: byly, byli, nebyly, nebyli, bývaly, bývávaly, bývali</li>
             <li>DET: které, kteří, všechny, všech, těchto, své, tyto, svých, některé, některých</li>
             <li>NOUN: korun, let, procent, lidí, letech, lidé, milionů, miliónů, zemí, dolarů</li>
+            <li>NOUN-Vnoun: jednání, zařízení, opatření, tvrzení, rozhodnutí, jednáních, ustanovení, utkání, zranění, řešení</li>
             <li>NUM: dva, tři, dvě, dvou, čtyři, obou, oba, tří, pěti, obě</li>
             <li>PRON: nás, je, nám, nich, jim, nichž, my, jich, nimi, ně</li>
             <li>PROPN: LN, USA, Čechách, Němci, Čech, Češi, ČEZ, Němců, Vítkovice, Budějovice</li>
             <li>SYM: §§</li>
             <li>VERB-Conv: chtějíce, dodávajíce, mluvíce, následujíce, poukazujíce, používajíce, poznajíce, provázejíce, přikládajíce, semnuvše</li>
-            <li>VERB-Fin: mají, jsou, mohou, máme, můžeme, nemají, chtějí, musíme, musí, patří</li>
-            <li>VERB-Part: měli, měly, mohli, mohly, chtěli, začali, museli, dostali, byly, získali</li>
+            <li>VERB-Fin: mají, mohou, máme, můžeme, nemají, chtějí, musíme, musí, patří, nemohou</li>
+            <li>VERB-Part: měli, měly, mohli, mohly, chtěli, začali, museli, dostali, získali, rozhodli</li>
           </ul>
         </li>
       </ul>
@@ -1466,16 +1504,17 @@ udver: '2'
         <li>Plur
           <ul>
             <li>ADJ: další, nové, posledních, Spojených, různých, dalších, jiných, malé, nových, první</li>
-            <li>ADJ-Part: Vedoucí, považovány, studujících, aktivovány, budovány, diskutovány, dívající, exponovány, legalizovány, ležící</li>
+            <li>ADJ-Part: Spojených, Spojené, Spojeným, Vedoucí, kvalifikovaných, považovány, studujících, Konzultované, Vyhnané, agregované</li>
             <li>AUX-Fin: jsou, jsme, budou, budeme, jste, nebudou, nejsou, Nejsme, bychom, byste</li>
             <li>AUX-Part: byly, byli, nebyly</li>
             <li>DET: které, kteří, své, tyto, svých, ty, těchto, která, někteří, všech</li>
             <li>NOUN: let, letech, lidí, dolarů, eur, liber, lidé, voleb, obyvatel, dat</li>
+            <li>NOUN-Vnoun: opatření, jednání, obvinění, omezení, opevnění, pochopení, slyšení, tažení, umění, utkáních</li>
             <li>NUM: dva, čtyři, dvou, dvě, dvěma, tři, oba, obou, šesti, deseti</li>
             <li>PRON: nich, jim, nimi, nás, je, nichž, nám, jich, ně, jež</li>
             <li>PROPN: USA, Alpy, Andy, Australané, Mayové, News, Číňanů, Řekové, Židů, Aboriginci</li>
             <li>VERB-Conv: nedbajíce</li>
-            <li>VERB-Fin: mohou, mají, existují, jsou, musíme, musíte, můžou, poskytují, používají, představují</li>
+            <li>VERB-Fin: mohou, mají, existují, musíme, musíte, můžou, poskytují, používají, představují, říkají</li>
             <li>VERB-Part: měly, mohli, měli, rozhodli, vypadaly, začaly, bavili, dostali, mohly, neměli</li>
           </ul>
         </li>
@@ -1489,8 +1528,8 @@ udver: '2'
           <ul>
             <li>ADJ: věnována, dána, provedena, určena, zahájena, povinna, založena, dokončena, stanovena, vybudována</li>
             <li>ADJ-Part: věnována, dána, provedena, určena, zahájena, založena, dokončena, stanovena, vybudována, spojena</li>
-            <li>AUX-Part: byla, nebyla</li>
-            <li>VERB-Part: měla, byla, mohla, stala, začala, dosáhla, vznikla, dala, zůstala, objevila</li>
+            <li>AUX-Part: byla, nebyla, bývala</li>
+            <li>VERB-Part: měla, mohla, stala, začala, dosáhla, vznikla, dala, zůstala, objevila, přišla</li>
           </ul>
         </li>
       </ul>
@@ -1517,7 +1556,7 @@ udver: '2'
             <li>ADJ: připravena, schopna, otevřena, uzavřena, založena, zahájena, stanovena, určena, podepsána, ráda</li>
             <li>ADJ-Part: připravena, otevřena, uzavřena, založena, zahájena, stanovena, určena, podepsána, považována, uvedena</li>
             <li>AUX-Part: byla, nebyla, bývala, nebývala</li>
-            <li>VERB-Part: měla, mohla, byla, stala, začala, získala, musela, vznikla, oznámila, rozhodla</li>
+            <li>VERB-Part: měla, mohla, stala, začala, získala, musela, vznikla, oznámila, rozhodla, uvedla</li>
           </ul>
         </li>
       </ul>
@@ -1541,18 +1580,19 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: pracovní, první, možno, další, socialistické, druhé, základní, vlastní, národního, větší</li>
-            <li>ADJ-Part: rozhodující, řečeno, dosaženo, vedoucí, odpovídající, řídící, pracující, uvedeno, dán, splněn</li>
+            <li>ADJ-Part: rozhodující, řečeno, dosaženo, vedoucí, příslušné, odpovídající, příslušného, řídící, pracující, uvedené</li>
             <li>AUX-Conv: jsouc</li>
             <li>AUX-Fin: je, bude, není, jsem, bych, bývá, nebude, budu, jsi, budiž</li>
-            <li>AUX-Part: byl, bylo, nebylo, nebyl, býval, bývalo, byla</li>
+            <li>AUX-Part: bylo, byl, nebylo, nebyl, býval, bývalo, byla</li>
             <li>DET: to, který, která, tím, této, tom, toho, tento, tohoto, tomu</li>
             <li>NOUN: práce, roce, práci, roku, době, společnosti, oblasti, hlediska, činnosti, výroby</li>
+            <li>NOUN-Vnoun: řešení, plnění, poznání, řízení, umění, zpracování, záření, pojetí, chování, jednání</li>
             <li>NUM: jeden, jedné, jednoho, jedním, jednu, jedna, pět, jednom, jedno, tisíc</li>
             <li>PRON: ji, mu, ho, níž, všechno, němž, ní, jej, mi, já</li>
             <li>PROPN: Praze, Praha, Škoda, Prahy, Fučík, Erben, Československa, Karel, Horálek, Země</li>
             <li>VERB-Conv: počínaje, nemluvě, nevyjímaje, říkajíc, Počínajíc, chtíc, dožívaje, klusaje, konče, nechtíc</li>
-            <li>VERB-Fin: je, má, může, jde, lze, musí, nelze, znamená, nemůže, není</li>
-            <li>VERB-Part: měl, bylo, mohl, došlo, byl, mělo, řekl, podařilo, chtěl, stal</li>
+            <li>VERB-Fin: má, může, jde, lze, musí, nelze, znamená, nemůže, patří, platí</li>
+            <li>VERB-Part: měl, mohl, došlo, mělo, řekl, podařilo, chtěl, stal, ukázal, mohlo</li>
           </ul>
         </li>
       </ul>
@@ -1583,7 +1623,7 @@ udver: '2'
             <li>ADJ: celý, první, rád, jiného, poslední, další, celou, malý, druhý, hlavní</li>
             <li>ADJ-Part: přesvědčen, řečeno, oblečena, rozhodující, napsáno, nastávající, následující, obklopen, poslán, povznášející</li>
             <li>AUX-Conv: jsouc</li>
-            <li>AUX-Fin: jsem, je, bych, jsi, bude, není, bys, budu, budeš, nebude</li>
+            <li>AUX-Fin: jsem, je, bych, bude, jsi, není, bys, budu, budeš, nebude</li>
             <li>AUX-Part: byl, byla, bylo, nebyl, nebylo, nebyla, býval, bývala, bývalo, nebývalo</li>
             <li>DET: to, jeho, který, ten, tom, všechno, která, toho, tím, té</li>
             <li>NOUN: chvíli, život, dítě, den, člověk, plod, dívka, profesor, mistr, paní</li>
@@ -1591,8 +1631,8 @@ udver: '2'
             <li>PRON: mi, mě, ho, já, mu, ji, jí, ní, ti, mně</li>
             <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
             <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-            <li>VERB-Fin: je, má, mám, může, nevím, není, musí, musím, vím, nemám</li>
-            <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
+            <li>VERB-Fin: má, mám, může, nevím, musí, musím, vím, nemám, jde, víš</li>
+            <li>VERB-Part: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
           </ul>
         </li>
       </ul>
@@ -1602,18 +1642,19 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: první, české, další, druhé, poslední, státní, možné, třeba, česká, vlastní</li>
-            <li>ADJ-Part: řečeno, rozhodující, vedoucí, přesvědčen, připraven, následující, rozhodnuto, zvolen, uvedeno, vynikající</li>
+            <li>ADJ-Part: řečeno, rozhodující, vedoucí, přesvědčen, připraven, následující, rozhodnuto, neautorizovaný, vyrovnaný, zvolen</li>
             <li>AUX-Conv: jsa, jsouc</li>
-            <li>AUX-Fin: je, bude, jsem, není, bych, nebude, bývá, budu, nejsem, buď</li>
-            <li>AUX-Part: byl, bylo, nebyl, nebylo, býval, bývalo, nebývalo</li>
+            <li>AUX-Fin: je, bude, není, jsem, bych, nebude, bývá, budu, nejsem, buď</li>
+            <li>AUX-Part: byl, bylo, nebyl, nebylo, býval, bývalo, nebývalo, bolo, bývávalo, nebýval</li>
             <li>DET: to, který, která, tím, tom, této, které, tomu, tento, své</li>
             <li>NOUN: roku, roce, době, případě, společnosti, zákona, rok, ministr, vláda, strany</li>
+            <li>NOUN-Vnoun: jednání, utkání, rozhodnutí, řešení, řízení, zvýšení, podnikání, setkání, postavení, sdružení</li>
             <li>NUM: jeden, tisíc, pět, jednoho, jedné, jedna, jednu, deset, jedním, šest</li>
             <li>PRON: mu, ji, ho, mi, ní, něj, jej, níž, já, mě</li>
             <li>PROPN: Praha, Praze, Jiří, Jan, Evropy, Brno, Prahy, Václav, Jana, Petr</li>
             <li>VERB-Conv: počínaje, nemluvě, konče, Mluvě, soudě, říkajíc, maje, nehledě, nepočítaje, nevyjímaje</li>
-            <li>VERB-Fin: má, je, může, jde, musí, lze, říká, chce, není, nelze</li>
-            <li>VERB-Part: řekl, měl, uvedl, mělo, mohl, bylo, prohlásil, stal, podařilo, došlo</li>
+            <li>VERB-Fin: má, může, jde, musí, lze, říká, chce, nelze, nemá, patří</li>
+            <li>VERB-Part: řekl, měl, uvedl, mělo, mohl, prohlásil, stal, podařilo, došlo, dodal</li>
           </ul>
         </li>
       </ul>
@@ -1622,18 +1663,19 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: první, druhé, jižní, severní, další, hlavní, velká, každý, větší, nové</li>
-            <li>ADJ-Part: řečeno, propuštěn, nabídnuto, následující, označen, používán, považováno, probíhající, prodán, provedeno</li>
-            <li>AUX-Fin: je, bude, jsem, není, nebude, budu, bych, bývá, nebudu</li>
+            <li>ADJ: první, druhé, jižní, severní, další, hlavní, velká, větší, nové, velké</li>
+            <li>ADJ-Part: řečeno, propuštěn, nabídnuto, následující, otevřenou, otevřená, označen, používán, považováno, probíhající</li>
+            <li>AUX-Fin: je, bude, jsem, není, nebude, budu, bych, bývá, nebudu, nese</li>
             <li>AUX-Part: byl, bylo, nebyl, nebylo, byla</li>
             <li>CCONJ: i</li>
             <li>DET: to, který, která, toho, tím, její, tento, tohoto, své, toto</li>
             <li>NOUN: roce, roku, století, době, oblasti, l, moře, války, území, místo</li>
+            <li>NOUN-Vnoun: omezení, rozhodnutí, chování, oddělení, hlasování, jednání, oblečení, umění, uznání, učení</li>
             <li>NUM: jedné, jeden, deset, jedna, jedním, jedno, jednoho, jednu, šest, devět</li>
             <li>PRON: ho, ní, jí, mu, mě, ji, něj, ním, jenž, níž</li>
             <li>PROPN: Čína, Francie, Albánie, Británii, Clintonové, Evropě, Itálii, Trump, Trumpa, Ameriky</li>
             <li>VERB-Conv: Počínaje, redukujíc</li>
-            <li>VERB-Fin: má, je, může, říká, lze, obsahuje, pomáhá, ukazuje, nelze, stojí</li>
+            <li>VERB-Fin: má, může, říká, lze, obsahuje, pomáhá, ukazuje, nelze, stojí, zdá</li>
             <li>VERB-Part: řekl, mohl, měl, stal, vedl, pracoval, rozhodl, uvedl, vrátil, začal</li>
           </ul>
         </li>
@@ -1673,10 +1715,11 @@ udver: '2'
         <li>Acc
           <ul>
             <li>ADJ: další, základní, první, pracovní, nové, jiné, různé, vlastní, celou, větší</li>
-            <li>ADJ-Part: rozhodující, pracující, odpovídající, týkající, vyplývající, vedoucí, řídící, následující, vynikající, vznikající</li>
+            <li>ADJ-Part: rozhodující, pracující, odpovídající, uvedené, spojené, týkající, vyplývající, zvýšenou, vedoucí, stanovené</li>
             <li>ADP: na, pro, o, za, v, přes, po, mimo, mezi, ve</li>
             <li>DET: to, které, své, tuto, kterou, tyto, svou, který, tento, několik</li>
             <li>NOUN: práci, dobu, rok, význam, podmínky, úkoly, činnost, pozornost, rozvoj, řadu</li>
+            <li>NOUN-Vnoun: řešení, zařízení, plnění, chování, opatření, zpracování, řízení, poznání, pojetí, postavení</li>
             <li>NUM: jeden, tři, dva, dvě, jednu, pět, čtyři, jedno, půl, deset</li>
             <li>PRON: se, je, ji, co, ho, všechny, nás, jej, sebe, ně</li>
             <li>PROPN: Slovensko, Fučíka, Prahu, Karpaty, Josefa, Lužnici, Miroslava, Pepíčka, Jeana, Marxe</li>
@@ -1720,10 +1763,11 @@ udver: '2'
         <li>Acc
           <ul>
             <li>ADJ: další, první, jiné, vlastní, nové, větší, příští, poslední, celou, základní</li>
-            <li>ADJ-Part: rozhodující, vedoucí, týkající, následující, odpovídající, vynikající, související, rostoucí, umožňující, nadcházející</li>
+            <li>ADJ-Part: rozhodující, vedoucí, postižené, týkající, spojené, následující, příslušné, odpovídající, vynikající, vyrovnaný</li>
             <li>ADP: na, pro, o, za, v, přes, ve, po, mimo, mezi</li>
             <li>DET: to, které, své, kterou, svou, svůj, který, tuto, tento, všechny</li>
             <li>NOUN: rok, dobu, cenu, týden, možnost, místo, den, zájem, peníze, návrh</li>
+            <li>NOUN-Vnoun: řešení, jednání, rozhodnutí, postavení, opatření, utkání, zvýšení, zařízení, tvrzení, uplatnění</li>
             <li>NUM: tři, dva, dvě, jednu, pět, čtyři, jeden, deset, šest, dvacet</li>
             <li>PRON: se, je, co, ji, ho, nás, nic, jej, něco, mě</li>
             <li>PROPN: Slovensko, Evropu, Prahu, Němce, Německo, Václava, Klause, Jiřího, Josefa, Čechy</li>
@@ -1736,10 +1780,11 @@ udver: '2'
         <li>Acc
           <ul>
             <li>ADJ: další, první, vlastní, jiné, novou, nové, hlavní, dlouhé, druhou, nový</li>
-            <li>ADJ-Part: sestávající, hanobící, následující, oddělující, omezující, pronásledující, představujícího, přistávající, rozhodující, splňující</li>
+            <li>ADJ-Part: sestávající, vytvořenou, agregované, danou, dané, hanobící, inspirovaná, kreslené, napsané, neomezený</li>
             <li>ADP: na, pro, za, o, v, po, mimo, přes, ve, mezi</li>
             <li>DET: to, své, svůj, svou, které, několik, který, kterou, mnoho, toto</li>
             <li>NOUN: místo, den, rok, část, roky, většinu, dluhopisy, lidi, možnost, měsíc</li>
+            <li>NOUN-Vnoun: rozhodnutí, jednání, opatření, použití, tažení, zranění, brnění, cestování, chování, dobytí</li>
             <li>NUM: dva, deset, dvě, čtyři, tři, jedno, jednu, šest, osm, jeden</li>
             <li>PRON: se, ho, co, ji, mě, je, nás, něco, nic, ně</li>
             <li>PROPN: Německo, Richarda, Trumpa, Abakumova, Aljašku, Alvareze, Andre, Anglii, Annu, Antarktidu</li>
@@ -1754,10 +1799,11 @@ udver: '2'
         <li>Dat
           <ul>
             <li>ADJ: dalšímu, jiným, ostatním, národnímu, jednotlivým, různým, socialistickému, Slovenskému, plánovaným, určitému</li>
-            <li>ADJ-Part: pracujícím, pracujícímu, cestujícím, charakterizujícím, následujícím, následujícímu, předcházejícímu, soutěžícím, vedoucím, zaostávajícím</li>
+            <li>ADJ-Part: plánovaným, pracujícím, uvedeným, dosaženým, pracujícímu, příslušnému, stanovenému, zadaným, centralizovanému, cestujícím</li>
             <li>ADP: k, ke, proti, vůči, naproti, díky, oproti, kvůli, dík, vstříc</li>
             <li>DET: tomu, tomuto, této, kterým, těmto, svému, těm, každému, některým, jejímu</li>
             <li>NOUN: pracovníkům, práci, dispozici, výročí, lidem, řešení, dětem, rozvoji, zlepšení, skutečnosti</li>
+            <li>NOUN-Vnoun: řešení, zlepšení, plnění, povstání, poznání, zajištění, zabezpečení, pojetí, splnění, vedení</li>
             <li>NUM: jednomu, oběma, jedné, dvěma, třetině, šestině, jedenácti, osmi, pár, pěti</li>
             <li>PRON: si, nám, jim, mu, mi, vám, všem, nim, jí, sobě</li>
             <li>PROPN: Erbenovi, Karlu, Pasákovi, Vietnamu, Zemi, Františku, Fučíkovi, Ivo, Janu, Křikavové</li>
@@ -1801,10 +1847,11 @@ udver: '2'
         <li>Dat
           <ul>
             <li>ADJ: české, dalším, českým, dalšímu, jiným, zahraničním, českému, jinému, novému, ostatním</li>
-            <li>ADJ-Part: prodávajícímu, vedoucím, vládnoucí, pokračujícímu, blížícímu, neslyšícím, následujícím, pokračující, žijícím, blížící</li>
+            <li>ADJ-Part: postiženým, spojeným, prodávajícímu, příslušným, vybraným, očekávanému, vedoucím, vládnoucí, oprávněným, podmíněnému</li>
             <li>ADP: k, proti, ke, vůči, díky, kvůli, oproti, naproti, ku, vstříc</li>
             <li>DET: tomu, tomuto, všem, svým, kterým, svému, těm, této, kterému, své</li>
             <li>NOUN: dispozici, vládě, lidem, firmě, společnosti, státu, dětem, veřejnosti, novinářům, občanům</li>
+            <li>NOUN-Vnoun: zvýšení, rozhodnutí, snížení, řešení, jednání, vytvoření, zlepšení, schválení, poznání, utkání</li>
             <li>NUM: dvěma, oběma, jedné, jednomu, třem, deseti, čtyřem, pěti, osmi, šesti</li>
             <li>PRON: si, nám, mu, jim, mi, jí, vám, nim, němu, sobě</li>
             <li>PROPN: Slovensku, Rusku, Německu, Jiřímu, Němcům, Spartě, Čechům, Evropě, Václavu, Klausovi</li>
@@ -1817,10 +1864,11 @@ udver: '2'
         <li>Dat
           <ul>
             <li>ADJ: Osmanské, Spojeným, nížinné, obecné, větší, Alexandrově, Druhé, Mrtvým, Parmské, Starší</li>
-            <li>ADJ-Part: rozdělujícímu, zhoršujícímu, žijící</li>
+            <li>ADJ-Part: Spojeným, daným, naverbované, následované, ozbrojené, prodávaným, příslušným, rozdělujícímu, shromážděnému, vybraným</li>
             <li>ADP: k, proti, ke, kvůli, díky, vůči, navzdory, oproti</li>
             <li>DET: tomu, svým, kterému, své, těm, těmto, jakékoliv, jejím, kterým, svému</li>
             <li>NOUN: dispozici, podnebí, říši, dívkám, konci, obchodu, obsahu, radě, státům, většině</li>
+            <li>NOUN-Vnoun: zvýšení, chování, kombinování, natáčení, našeptávání, obchodování, odhalení, omezení, opřipomínkování, osvobození</li>
             <li>NUM: oběma, dvěma</li>
             <li>PRON: si, mu, jí, jim, nám, mi, čemuž, nimž, němu, něčemu</li>
             <li>PROPN: Evropě, Itálii, Roně, Rusku, Andymu, Benoîtovi, Britům, Churchillovi, Disneyovi, Francii</li>
@@ -1835,10 +1883,11 @@ udver: '2'
         <li>Gen
           <ul>
             <li>ADJ: jednotlivých, národního, socialistické, výrobních, dalších, různých, jiných, nových, základních, pracovní</li>
-            <li>ADJ-Part: pracujících, vedoucích, pracujícího, vedoucí, existujících, rozhodujících, týkajících, vyplývajících, řídících, žijících</li>
+            <li>ADJ-Part: pracujících, uvedených, plánovaných, příslušného, příslušných, získaných, příslušné, spojených, konané, uvedeného</li>
             <li>ADP: z, do, u, od, podle, ze, bez, za, kolem, kromě</li>
             <li>DET: toho, tohoto, těchto, této, našeho, naší, některých, svého, našich, své</li>
             <li>NOUN: práce, let, roku, hlediska, společnosti, výroby, pracovníků, úkolů, jazyka, lidí</li>
+            <li>NOUN-Vnoun: zařízení, poznání, oddělení, záření, umění, řízení, vedení, plnění, opatření, zaměstnání</li>
             <li>NUM: dvou, jednoho, obou, tří, tisíc, jedné, čtyř, pěti, půl, šesti</li>
             <li>PRON: všech, nás, nich, nichž, sebe, jich, něho, níž, ní, něhož</li>
             <li>PROPN: Prahy, Československa, Země, Evropy, Karla, Gottwalda, Jana, Vltavy, Fermiho, Klementa</li>
@@ -1882,10 +1931,11 @@ udver: '2'
         <li>Gen
           <ul>
             <li>ADJ: české, dalších, českého, českých, nového, nových, druhé, národního, jiných, státního</li>
-            <li>ADJ-Part: zbývajících, žijících, cestujících, vedoucích, rozhodujících, následujícího, prodávajícího, neslyšících, týkajících, pracujících</li>
+            <li>ADJ-Part: spojených, dotázaných, přidané, postižených, ozbrojených, příslušného, uvedených, získaných, vybraných, zbývajících</li>
             <li>ADP: z, do, podle, od, u, ze, bez, kolem, za, během</li>
             <li>DET: toho, tohoto, této, svého, všech, těchto, svých, své, některých, našich</li>
             <li>NOUN: korun, roku, let, procent, zákona, lidí, strany, světa, vlády, společnosti</li>
+            <li>NOUN-Vnoun: jednání, zařízení, řízení, podnikání, umění, oddělení, utkání, mínění, sdružení, rozhodnutí</li>
             <li>NUM: tisíc, dvou, obou, tří, jednoho, jedné, pěti, čtyř, šesti, deseti</li>
             <li>PRON: nás, nich, jich, něj, jehož, nichž, ní, něho, sebe, něhož</li>
             <li>PROPN: Evropy, Prahy, Německa, Jana, Ruska, Slovenska, Jiřího, Československa, Králové, Čech</li>
@@ -1898,10 +1948,11 @@ udver: '2'
         <li>Gen
           <ul>
             <li>ADJ: jiných, nových, prvního, Spojených, amerického, dalších, druhé, nové, první, různých</li>
-            <li>ADJ-Part: studujících, dospívající, dospívajícího, obklopujícího, probíhající, související, stojících, svíjejících, vedoucích, věřících</li>
+            <li>ADJ-Part: Spojených, kvalifikovaných, studujících, dobytých, dospívající, dospívajícího, konané, konvertovaných, namířených, naneseného</li>
             <li>ADP: z, do, od, ze, během, podle, u, kolem, bez, kromě</li>
             <li>DET: toho, tohoto, svého, svých, těchto, své, mnoha, té, všech, jejích</li>
             <li>NOUN: roku, let, století, války, lidí, dolarů, společnosti, doby, eur, liber</li>
+            <li>NOUN-Vnoun: oddělení, pochopení, slyšení, uznání, učení, velení, vyšetřování, vzdělávání, bydlení, chování</li>
             <li>NUM: jedné, dvou, deseti, jednoho, tří, šesti, obou, osmdesáti, padesáti, sedmi</li>
             <li>PRON: nich, ní, něj, jich, nichž, mě, něhož, sebe, jehož, jí</li>
             <li>PROPN: Clintonové, Albánie, Ameriky, Afriky, Burgoyna, Disneyho, Donalda, Duffyho, Egypta, Francie</li>
@@ -1916,10 +1967,11 @@ udver: '2'
         <li>Ins
           <ul>
             <li>ADJ: jinými, hlavním, ostatními, základním, různými, velkým, elektrickým, dalším, určitým, novým</li>
-            <li>ADJ-Part: rozhodující, rozhodujícím, pracujícími, vedoucí, vnímajícím, rostoucí, vedoucím, vynikajícím, odpovídajícím, postupující</li>
+            <li>ADJ-Part: příslušnými, příslušným, uvedenými, příslušnou, rozhodující, rozhodujícím, zvýšeným, pracujícími, hypnotizovaným, izolovaným</li>
             <li>ADP: s, se, mezi, před, pod, nad, za, přede, nade</li>
             <li>DET: tím, svým, svou, tímto, svými, touto, těmito, jakým, kterým, kterými</li>
             <li>NOUN: způsobem, součástí, vodou, cílem, lety, lidmi, prostřednictvím, formou, prací, výsledkem</li>
+            <li>NOUN-Vnoun: vedením, uměním, označením, pojetím, použitím, přihlédnutím, usnesením, zaměřením, využitím, řešením</li>
             <li>NUM: jedním, dvěma, jednou, oběma, třemi, čtyřmi, pěti, dvaceti, sto, třiceti</li>
             <li>PRON: nimi, sebou, ním, čím, jimiž, jimi, všemi, čímž, nimiž, jím</li>
             <li>PROPN: Labem, Bečvou, Václavem, Karlem, Prahou, Sázavou, Alpami, Karpatami, Cidlinou, Honzou</li>
@@ -1963,10 +2015,11 @@ udver: '2'
         <li>Ins
           <ul>
             <li>ADJ: hlavním, dalšími, o, dalším, jinými, jediným, českou, prvním, největším, jiným</li>
-            <li>ADJ-Part: rozhodujícím, rostoucím, rozhodující, následujícím, vedoucí, blížícím, kupujícím, prodávajícím, vynikajícím, blížícími</li>
+            <li>ADJ-Part: omezeným, rozhodujícím, otevřeným, rostoucím, rozhodující, spojenými, následujícím, vedoucí, zvýšenou, blížícím</li>
             <li>ADP: s, se, před, mezi, nad, pod, za, n, přede, př</li>
             <li>DET: tím, svým, tímto, svou, svými, kterým, několika, jakým, touto, jejím</li>
             <li>NOUN: způsobem, lety, koncem, cílem, prostřednictvím, součástí, časem, rokem, zákonem, důvodem</li>
+            <li>NOUN-Vnoun: rozhodnutím, řešením, zvýšením, odvoláním, překvapením, zahájením, zpožděním, působením, jednáním, prohlášením</li>
             <li>NUM: jedním, jednou, dvěma, třemi, oběma, čtyřmi, pěti, šesti, deseti, osmi</li>
             <li>PRON: nimi, ním, čím, sebou, námi, ní, jím, nimiž, čímž, jímž</li>
             <li>PROPN: Labem, Ruskem, Německem, Izraelem, Slovenskem, Václavem, Klausem, Spartou, Srby, Polskem</li>
@@ -1979,10 +2032,11 @@ udver: '2'
         <li>Ins
           <ul>
             <li>ADJ: americkou, dalším, velkou, dalšími, hlavním, hongkongským, nejvyšším, největším, politickou, první</li>
-            <li>ADJ-Part: podporujícím, poskytující, postupující, rostoucí, rozvíjejícím, studujícím, vedoucími, vyskytujícími, zakládajícím, zvyšujícími</li>
+            <li>ADJ-Part: Nejrozšířenější, nastraženýma, neškolenými, otevřenou, podporujícím, poskytující, postupující, příslušnými, rostoucí, rozvíjejícím</li>
             <li>ADP: s, mezi, před, se, pod, př, nad, za</li>
             <li>DET: tím, n, svým, jakým, jejím, mnoha, svou, tou, tímto, těmi</li>
             <li>NOUN: l, lety, rokem, autorem, cílem, nedostatkem, nemovitostmi, prezidentem, soudem, vedením</li>
+            <li>NOUN-Vnoun: vedením, dobytím, hlasováním, hledáním, nařízením, očištěním, pokračováním, posilováním, pronásledováním, překvapením</li>
             <li>NUM: dvěma, jedním, dvaceti, jednou, osmi, třemi</li>
             <li>PRON: ním, nimi, jím, čímž, nikým, ničím, ní, něčím, sebou, čím</li>
             <li>PROPN: Albánií, Bogdgegénem, Kristem, Markem, Alvarezem, Anglií, Asií, Averym, Benátkami, Brantem</li>
@@ -1997,10 +2051,11 @@ udver: '2'
         <li>Loc
           <ul>
             <li>ADJ: současné, druhé, různých, jednotlivých, dalších, jiných, celé, pracovní, celém, posledních</li>
-            <li>ADJ-Part: následujících, následujícím, krátícím, odpovídajících, rozhodující, nastávajícím, odpovídající, rostoucí, rostoucím, rovnající</li>
+            <li>ADJ-Part: uvedeném, uvedených, omezeném, konaných, vyznačených, Spojených, požadovaném, příslušné, následujících, plánovaných</li>
             <li>ADP: v, na, ve, o, při, po, in, Pro, a, ex</li>
             <li>DET: tom, tomto, této, našem, své, těchto, svém, některých, svých, naší</li>
             <li>NOUN: roce, době, oblasti, základě, případě, straně, letech, rámci, práci, smyslu</li>
+            <li>NOUN-Vnoun: plnění, řízení, řešení, skončení, srovnání, budování, pojetí, zaměstnání, zpracování, provedení</li>
             <li>NUM: jedné, jednom, dvou, obou, třech, čtyřech, deseti, osmi, pěti, sedmi</li>
             <li>PRON: němž, všech, nichž, něm, níž, nich, sobě, ní, čem, všem</li>
             <li>PROPN: Praze, Čechách, Brně, Slovensku, Československu, Evropě, Paříži, Hradci, Moskvě, Klatovech</li>
@@ -2044,10 +2099,11 @@ udver: '2'
         <li>Loc
           <ul>
             <li>ADJ: druhé, české, prvním, současné, posledních, první, poslední, pražském, druhém, českém</li>
-            <li>ADJ-Part: následujících, následujícím, nadcházejících, předcházejícím, rozhodujících, rozhodující, vedoucí, nadcházejícím, probíhající, rozhodujícím</li>
+            <li>ADJ-Part: spojených, následujících, vyrovnaném, následujícím, vybraných, uvedeném, příslušných, zmíněném, nadcházejících, otevřeném</li>
             <li>ADP: v, na, ve, o, po, při, w, za</li>
             <li>DET: tom, tomto, této, svém, své, těchto, všech, svých, našem, kterém</li>
             <li>NOUN: roce, době, případě, letech, straně, světě, trhu, oblasti, místě, základě</li>
+            <li>NOUN-Vnoun: utkání, jednání, zasedání, srovnání, setkání, řízení, skončení, porovnání, rozdělení, řešení</li>
             <li>NUM: dvou, jedné, jednom, třech, obou, pěti, čtyřech, třetině, šesti, deseti</li>
             <li>PRON: něm, němž, nich, ní, níž, nichž, sobě, čem, nás, mně</li>
             <li>PROPN: Praze, Evropě, Německu, Brně, Slovensku, Čechách, Ostravě, Francii, Moravě, Bosně</li>
@@ -2060,10 +2116,11 @@ udver: '2'
         <li>Loc
           <ul>
             <li>ADJ: druhé, posledních, Velké, jižní, první, Nové, Severní, Spojených, bronzové, celém</li>
-            <li>ADJ-Part: milující, měnícím, nadcházejících, následujícím, začínajících</li>
+            <li>ADJ-Part: Spojených, daném, diktovaném, milující, měnícím, nadcházejících, následujícím, obnažené, publikované, připravovaném</li>
             <li>ADP: v, na, ve, po, o, při, a</li>
             <li>DET: této, tom, svém, té, kterém, tomto, kterých, některých, své, svých</li>
             <li>NOUN: roce, letech, době, případě, důsledku, oblasti, světě, městě, období, polovině</li>
+            <li>NOUN-Vnoun: omezení, rozhodnutí, chování, dostavění, hlasování, jednání, jmenování, objevení, oblečení, obsazení</li>
             <li>NUM: dvou, jedné, obou, sedmi, šesti, dvaceti, jedenácti, jednom, pěti, sedmnácti</li>
             <li>PRON: níž, ní, něm, nich, nichž, něčem, sobě, veškeré</li>
             <li>PROPN: Británii, Asii, Africe, Americe, Evropě, Facebooku, Glasgow, Itálii, Norsku, Papui</li>
@@ -2078,10 +2135,11 @@ udver: '2'
         <li>Nom
           <ul>
             <li>ADJ: další, první, možné, nutné, nové, základní, pracovní, větší, různé, ostatní</li>
-            <li>ADJ-Part: pracující, rozhodující, vedoucí, následující, odpovídající, řídící, týkající, určující, vycházející, vynikající</li>
+            <li>ADJ-Part: pracující, rozhodující, vedoucí, uvedené, následující, odpovídající, dosažené, spojené, příslušné, řídící</li>
             <li>ADP: de, kontra</li>
             <li>DET: to, které, která, který, kteří, tato, tyto, tento, každý, naše</li>
             <li>NOUN: práce, člověk, lidé, doba, výsledky, pracovník, počet, teorie, organizace, část</li>
+            <li>NOUN-Vnoun: řešení, jednání, zařízení, umění, pojetí, spojení, vedení, využití, zpracování, zvýšení</li>
             <li>NUM: jeden, dvě, dva, jedna, tři, oba, obě, čtyři, pět, jedno</li>
             <li>PRON: jež, všechny, což, co, všichni, kdo, já, my, všechno, nic</li>
             <li>PROPN: Praha, Škoda, Fučík, Erben, Karel, Horálek, Knappová, Němec, Těšitelová, Brno</li>
@@ -2124,10 +2182,11 @@ udver: '2'
         <li>Nom
           <ul>
             <li>ADJ: další, první, možné, česká, český, nový, státní, nová, nové, hlavní</li>
-            <li>ADJ-Part: rozhodující, vedoucí, následující, kupující, vynikající, žijící, ležící, prodávající, zbývající, odpovídající</li>
+            <li>ADJ-Part: spojené, rozhodující, vedoucí, neautorizovaný, následující, kupující, vynikající, žijící, ležící, uvedené</li>
             <li>ADP: de, versus, ad, kontra, a, v, des, ala, à</li>
             <li>DET: to, který, které, která, kteří, tato, tento, ten, každý, její</li>
             <li>NOUN: ministr, vláda, předseda, lidé, společnost, ředitel, prezident, firma, trenér, zákon</li>
+            <li>NOUN-Vnoun: jednání, rozhodnutí, opatření, zařízení, sdružení, řešení, utkání, tvrzení, setkání, řízení</li>
             <li>NUM: jeden, dva, tři, jedna, oba, dvě, obě, čtyři, pět, jedno</li>
             <li>PRON: co, kdo, což, nikdo, já, jež, my, někdo, nic, on</li>
             <li>PROPN: Praha, Jiří, Jan, Brno, Václav, Petr, Pavel, Josef, Vladimír, Klaus</li>
@@ -2139,11 +2198,12 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>ADJ: další, první, velká, severní, každý, poslední, jasné, jižní, každá, možné</li>
-            <li>ADJ-Part: Vedoucí, dosluhující, dívající, ležící, navštěvující, následující, pocházející, probíhající, příslušející, sledující</li>
+            <li>ADJ: další, první, velká, severní, poslední, jasné, jižní, možné, nové, Průmyslová</li>
+            <li>ADJ-Part: Spojené, Vedoucí, otevřená, Konzultované, Oceněná, Vyhnané, Vynucený, chráněný, dodržované, dosluhující</li>
             <li>ADP: de</li>
-            <li>DET: to, který, která, které, kteří, mnoho, tento, její, toto, tato</li>
+            <li>DET: to, který, která, které, kteří, mnoho, tento, její, každý, toto</li>
             <li>NOUN: film, lidé, společnost, vláda, moře, policie, prezident, stát, systém, člověk</li>
+            <li>NOUN-Vnoun: omezení, Přezkoumání, Setkání, Stupňování, Vločkování, Vyšetřování, Vzdělání, Zhroucení, bití, hlasování</li>
             <li>NUM: jeden, jedna, čtyři, dva, dvě, oba, devět, jedno, pět, sedmnáct</li>
             <li>PRON: což, co, kdo, jenž, někdo, já, nic, on, jež, kdokoli</li>
             <li>PROPN: Čína, Trump, Bluntová, Británie, Donald, Francie, Mišima, Seagal, Winstone, Wright</li>
@@ -2158,6 +2218,7 @@ udver: '2'
         <li>Voc
           <ul>
             <li>ADJ: vážený, vážení, vážená, vážené, dolarovej, drahej, mladí, podnikový</li>
+            <li>ADJ-Part: vážený, vážení, vážená, vážené</li>
             <li>NOUN: soudruhu, soudruzi, řediteli, náměstku, soudružko, soudružky, doktore, kamaráde, mámo, pane</li>
             <li>PRON: ty</li>
             <li>PROPN: Mirku, Dosoudile, Falto, Franto, Hrabale, Jiří, Jiříku, Ladislave, Lubo, Luboši</li>
@@ -2187,6 +2248,7 @@ udver: '2'
         <li>Voc
           <ul>
             <li>ADJ: vážení, Svatý, Vážený, Milí, drahá, milý, rudá, Drahý, DŮSTOJNÝ, Laskavý</li>
+            <li>ADJ-Part: vážení, Vážený, Vážená, vzdálená</li>
             <li>DET: má, můj, Vaše, mio, moje, náš</li>
             <li>NOUN: pane, čtenáři, pánové, doktore, bože, generále, Soudruhu, děti, kolego, paní</li>
             <li>PRON: ty</li>
@@ -2264,7 +2326,7 @@ udver: '2'
       <ul>
         <li>Npr
           <ul>
-            <li>PRON: jež, jehož, jenž, jemuž, jímž, jimž, jimiž, jichž, jíž, již</li>
+            <li>PRON: je, ji, jim, jež, jej, jí, jich, jehož, jenž, jím</li>
           </ul>
         </li>
       </ul>
@@ -2393,6 +2455,7 @@ udver: '2'
         <li>Cmp
           <ul>
             <li>ADJ: větší, vyšší, menší, starší, nižší, lepší, delší, vyšších, větších, složitější</li>
+            <li>ADJ-Part: vzdálenější, komplikovanější, rozšířenější, vzdálenějších, diferencovanějšího, kvalifikovanější, kvalifikovanějších, neočekávanější, nezakrytější, nuancovanějších</li>
             <li>ADV: více, dále, méně, později, dříve, víc, spíše, lépe, dál, výše</li>
           </ul>
         </li>
@@ -2423,6 +2486,7 @@ udver: '2'
         <li>Cmp
           <ul>
             <li>ADJ: větší, vyšší, nižší, lepší, menší, delší, starší, horší, vyšších, levnější</li>
+            <li>ADJ-Part: komplikovanější, vzdálenější, otevřenější, vzdálenějších, vzdělanější, napjatější, rozšířenější, spokojenějším, ucelenější, Sehranějším</li>
             <li>ADV: více, méně, spíše, později, dříve, víc, lépe, spíš, raději, dále</li>
           </ul>
         </li>
@@ -2446,8 +2510,8 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: další, pracovní, jednotlivých, základní, nové, socialistické, různých, dalších, jiné, vlastní</li>
+            <li>ADJ-Part: uvedených, uvedené, příslušné, plánovaných, spojené, příslušného, příslušných, spojených, získaných, určené</li>
             <li>ADV: tedy, často, stále, dobře, přímo, současně, stejně, hlavně, postupně, jistě</li>
-            <li>DET: každý, každé, každého, každá, každém, každou, každým, každému, každých, každej</li>
           </ul>
         </li>
       </ul>
@@ -2458,7 +2522,6 @@ udver: '2'
           <ul>
             <li>ADJ: účetní, účetních, účetního, konsolidované, finanční, účetním, výroční, právní, jiných, ostatní</li>
             <li>ADV: obdobně, případně, samostatně, bezprostředně, přímo, odděleně, bezúplatně, přiměřeně, současně, výhradně</li>
-            <li>DET: každou, každé, každého, každý, Každá</li>
           </ul>
         </li>
       </ul>
@@ -2469,7 +2532,6 @@ udver: '2'
           <ul>
             <li>ADJ: celý, další, jiného, poslední, malé, celé, celou, velké, vlastní, celá</li>
             <li>ADV: dobře, často, dlouho, konečně, rychle, brzy, stejně, náhle, úplně, vždy</li>
-            <li>DET: každý, každou, každé, každá, každým, každého, každém, každému</li>
             <li>NOUN: hospodský</li>
           </ul>
         </li>
@@ -2480,8 +2542,8 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: další, české, nové, poslední, státní, dalších, možné, vlastní, jiné, velké</li>
+            <li>ADJ-Part: spojených, spojené, uvedené, určené, příslušné, zmíněné, dotázaných, ozbrojených, postižených, postižené</li>
             <li>ADV: stejně, zřejmě, často, dobře, přesto, samozřejmě, skutečně, přímo, hlavně, údajně</li>
-            <li>DET: každý, každé, každého, každém, každá, každou, každému, každým, každých</li>
           </ul>
         </li>
       </ul>
@@ -2491,6 +2553,7 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</li>
+            <li>ADJ-Part: Spojených, Spojené, Spojeným, kvalifikovaných, otevřenou, otevřená, vytvořenou, Konzultované, Oceněná, Vyhnané</li>
             <li>ADV: stejně, často, pravděpodobně, původně, samozřejmě, dobře, přibližně, společně, úplně, krátce</li>
           </ul>
         </li>
@@ -2503,6 +2566,7 @@ udver: '2'
         <li>Sup
           <ul>
             <li>ADJ: největší, nejlepší, nejvyšší, nejdůležitější, nejmenší, nejbližší, nejlepším, nejrůznějších, největším, nejlepších</li>
+            <li>ADJ-Part: nejnavštěvovanější, nejoblíbenější, nejoblíbenějších, nejpoužívanější, nejpropracovanější, nejrozvinutější, nejrozšířenější, nejfrekventovanějších, nejnavštěvovanějších, nejnavštěvovanějším</li>
             <li>ADV: nejméně, nejlépe, nejvíce, nejdříve, nejčastěji, nejpozději, nejvíc, nejvýše, nejdéle, nejrychleji</li>
           </ul>
         </li>
@@ -2533,6 +2597,7 @@ udver: '2'
         <li>Sup
           <ul>
             <li>ADJ: největší, nejlepší, nejvyšší, největším, nejbližší, nejnižší, největších, nejlepším, nejdůležitější, nejrůznějších</li>
+            <li>ADJ-Part: nejoblíbenější, nejoblíbenějším, nejprodávanější, nejrozšířenější, nejrozšířenějším, nejobchodovanějších, nejobchodovanějšími, nejprodávanějším, nejžádanější, nejexponovanějších</li>
             <li>ADV: nejvíce, nejméně, nejdříve, nejlépe, nejčastěji, nejvíc, nejpozději, nejvýše, nejspíš, nejrychleji</li>
           </ul>
         </li>
@@ -2543,6 +2608,7 @@ udver: '2'
         <li>Sup
           <ul>
             <li>ADJ: nejvyšší, největší, Nejnovější, nejdůležitější, nejhorších, nejlepších, nejvyšším, největším, Nejrozšířenější, Nejstarší</li>
+            <li>ADJ-Part: Nejrozšířenější, nejoblíbenějších</li>
             <li>ADV: nejlépe, nejvíce, nejméně, nejpozději, nejpravděpodobněji</li>
           </ul>
         </li>
@@ -2582,15 +2648,17 @@ udver: '2'
         <li>Neg
           <ul>
             <li>ADJ: nezbytné, neposlední, neželezných, nedávné, nežádoucí, nevhodné, nezbytnou, nezbytná, nebezpečné, nemalou</li>
-            <li>ADJ-Part: nevyhovující, nedostačující, neexistující, nepřesahující, nerezavějící, nespokojeni, nevyhovujících, nezměněno, nezměněny, nedeprimováni</li>
+            <li>ADJ-Part: nezměněné, nedokončené, nevyhovující, nemotivovaný, neomezená, nepodmíněný, nepřipravený, nerušené, nevyčerpanou, nevyřešenou</li>
             <li>ADV: neustále, nezřídka, neméně, neobyčejně, nesmírně, nesporně, nepřímo, nepochybně, nezávisle, nedostatečně</li>
             <li>AUX-Fin: není, nejsou, nebude, nebudou, nebudeme, nejsme, nebudu, nebývá, nebudete, nejsem</li>
+            <li>AUX-Inf: nebýt</li>
             <li>AUX-Part: nebylo, nebyl, nebyla, nebyly, nebyli</li>
             <li>NOUN: nepřítomnosti, nezbytnost, nezávislosti, nedůslednost, neplnění, nepochopení, nepřítomnost, neschopnosti, nespokojenost, nezávislost</li>
+            <li>NOUN-Vnoun: neplnění, nepochopení, nedodržení, nesplnění, Nerespektování, Neřešení, nedocenění, nedodržením, nedodržování, nedodání</li>
             <li>VERB-Conv: nemluvě, nevyjímaje, nechtíc, nehodíce, nepočítaje</li>
-            <li>VERB-Fin: nelze, nemůže, není, nemá, nesmí, nejde, nemají, nemůžeme, nemohou, nestačí</li>
-            <li>VERB-Inf: nebýt, nedovolit, nedělat, nemluvit, neomezovat, nespokojovat, neusnout, nevidět, nevyhazovat, Nekrmit</li>
-            <li>VERB-Part: nebylo, nemohl, neměl, neměli, nepodařilo, nechtěl, nedošlo, neměla, nebyl, nemohli</li>
+            <li>VERB-Fin: nelze, nemůže, nemá, nesmí, nejde, nemají, nemůžeme, nemohou, nestačí, nemusí</li>
+            <li>VERB-Inf: nedovolit, nedělat, nemluvit, neomezovat, nespokojovat, neusnout, nevidět, nevyhazovat, Nekrmit, Neohrozit</li>
+            <li>VERB-Part: nemohl, neměl, neměli, nepodařilo, nechtěl, nedošlo, neměla, nemohli, nemohla, neměly</li>
           </ul>
         </li>
       </ul>
@@ -2619,14 +2687,14 @@ udver: '2'
             <li>ADJ: nerad, nebezpečné, neznámý, nerada, nedaleké, nekonečnou, nekonečné, nepříjemné, neznámému, nešťastná</li>
             <li>ADJ-Part: nedotčena, neexistujícího, nejsoucí, nepoškozeno, nepřejícího, neustávající, neustávajícím</li>
             <li>ADV: nenápadně, nechápavě, netrpělivě, nesměle, nejistě, nerozhodně, nebezpečně, neochotně, nedůvěřivě, nevzrušeně</li>
-            <li>AUX-Fin: není, nebude, nebudu, nejsem, nejsou, nebudeš, Nebývají, nejsme, nejste, Nebuď</li>
+            <li>AUX-Fin: není, nebude, nebudu, nejsem, nejsou, nebudeš, nejsme, nejste, Nebývají, nebudou</li>
             <li>AUX-Inf: nebýt</li>
-            <li>AUX-Part: nebyl, nebylo, nebyla, nebyly, nebyli, nebývalo</li>
+            <li>AUX-Part: nebyl, nebylo, nebyla, nebyly, nebyli, nebývalo, nebýval, nebývala</li>
             <li>NOUN: nemožnosti, nevinnost, nedar, nepřejícnost, neznalost, Nezávislost, necudnost, nekrása, nemravnost, neodpovědnosti</li>
             <li>VERB-Conv: netuše, Nechtíc, nedbaje, nedbajíc, nespouštějíc, netroufajíc, nevěda, nevšímajíc</li>
-            <li>VERB-Fin: nevím, není, nemám, nemá, nechci, nemůže, nemůžu, nevíte, nechce, nemáš</li>
-            <li>VERB-Inf: nebýt, nedívat, Neposuzovat, Nespat, nebrat, nedráždit, nedávat, nehovořit, nejíst, nekazit</li>
-            <li>VERB-Part: nemohl, neměl, nevěděl, nebyl, neměla, nebylo, nechtěl, nemohla, nechtěla, nevěděla</li>
+            <li>VERB-Fin: nevím, nemám, nemá, nechci, nemůže, nemůžu, nevíte, nechce, nemáš, nedá</li>
+            <li>VERB-Inf: nedívat, Neposuzovat, Nespat, nebrat, nedráždit, nedávat, nehovořit, nejíst, nekazit, nemyslet</li>
+            <li>VERB-Part: nemohl, neměl, nevěděl, neměla, nechtěl, nemohla, nechtěla, nevěděla, neměli, neviděl</li>
           </ul>
         </li>
       </ul>
@@ -2636,16 +2704,17 @@ udver: '2'
         <li>Neg
           <ul>
             <li>ADJ: nedávné, nezbytné, necelých, nezávislých, nebezpečné, neautorizovaný, nezávislé, neznámý, nedostatečné, nemožné</li>
-            <li>ADJ-Part: neslyšící, neslyšících, nevyhovující, neexistující, nedostačující, neodpovídající, neuveden, neexistujících, nekončící, neobsazeno</li>
+            <li>ADJ-Part: neautorizovaný, nejmenovaný, neslyšící, neslyšících, nedovoleného, nevyhovující, nečekané, neomezené, neoprávněného, neoprávněné</li>
             <li>ADV: nezávisle, nedaleko, nesmírně, neúměrně, neméně, nepřímo, nesporně, nezřídka, nekonečně, neuvěřitelně</li>
-            <li>AUX-Fin: není, nebude, nejsou, nebudou, nejsem, nebudeme, nejsme, nebudu, nebývá, nejste</li>
+            <li>AUX-Fin: není, nebude, nejsou, nebudou, nejsem, nejsme, nebudeme, nebudu, nebývá, nejste</li>
             <li>AUX-Inf: nebýt</li>
-            <li>AUX-Part: nebyl, nebylo, nebyla, nebyly, nebyli, nebývalo, nebývala</li>
+            <li>AUX-Part: nebyl, nebylo, nebyla, nebyly, nebyli, nebývalo, nebýval, nebývala</li>
             <li>NOUN: nezávislost, nezávislosti, neschopnost, nemožnost, nedodržení, neznalost, nepochopení, nespokojenost, neplnění, neznalosti</li>
+            <li>NOUN-Vnoun: nedodržení, nepochopení, neplnění, neporozumění, neplacení, nepřijetí, nesplnění, nezaplacení, nedodržování, neodvyprávění</li>
             <li>VERB-Conv: nemluvě, nehledě, nepočítaje, nevyjímaje, nechtíc, nemaje, nespočet</li>
-            <li>VERB-Fin: není, nelze, nemá, nemůže, nemají, nemusí, nejde, nemohou, nevím, nesmí</li>
-            <li>VERB-Inf: nebýt, nevidět, nenechat, nedat, nesouhlasit, nebrat, nevzpomenout, Neprodávat, nebát, neklást</li>
-            <li>VERB-Part: neměl, nemohl, neměli, neměla, nemělo, nepodařilo, nebylo, nedošlo, nemohli, nebyl</li>
+            <li>VERB-Fin: nelze, nemá, nemůže, nemají, nemusí, nejde, nemohou, nevím, nesmí, nedá</li>
+            <li>VERB-Inf: nevidět, nenechat, nedat, nesouhlasit, nebrat, nevzpomenout, Neprodávat, nebát, neklást, nelpět</li>
+            <li>VERB-Part: neměl, nemohl, neměli, neměla, nemělo, nepodařilo, nedošlo, nemohli, nechtěl, neměly</li>
           </ul>
         </li>
       </ul>
@@ -2655,12 +2724,13 @@ udver: '2'
         <li>Neg
           <ul>
             <li>ADJ: neuvěřitelný, nevhodné, nezávislé, Nedávným, Nedávnými, Nezávislého, nedobrovolnými, nedobytné, nedávná, nedávného</li>
+            <li>ADJ-Part: nejmenovaný, nekvalifikovaný, nenarozené, neomezený, neomezených, neozbrojený, nevyvinuté, nezodpovězené, neškolenými</li>
             <li>ADV: Nedlouho, nedaleko, nenapodobitelně, nenápadně, neoprávněně, neskutečně, nezbytně, nezávisle</li>
             <li>AUX-Fin: není, nebude, nebudou, nejsou, Nejsme, nebudu</li>
             <li>AUX-Part: nebyly, nebyla, nebyl, nebylo, byl</li>
             <li>NOUN: nezávislost, nedokončenost, nejednotnost, nesmrtelnost, nespokojenost, nezávislosti</li>
             <li>VERB-Conv: nedbajíce</li>
-            <li>VERB-Fin: nelze, nemá, Nevím, nebude, nechce, nemají, nemusí, nemůžeme, není, Neznám</li>
+            <li>VERB-Fin: nelze, nemá, Nevím, nechce, nemají, nemusí, nemůžeme, Neznám, neblíží, nechci</li>
             <li>VERB-Inf: nezobrazit</li>
             <li>VERB-Part: neměl, neměla, neměli, Nemohli, nedopřál, nedoznaly, nedošlo, neexistovalo, nekomunikoval, nekomunikovala</li>
           </ul>
@@ -2674,19 +2744,19 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: další, pracovní, jednotlivých, základní, nové, možno, socialistické, různých, dalších, větší</li>
-            <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, řečeno, dosaženo, odpovídající, následující, věnována, řídící</li>
+            <li>ADJ-Part: pracujících, rozhodující, pracující, uvedených, uvedené, vedoucí, řečeno, příslušné, dosaženo, odpovídající</li>
             <li>ADV: tedy, více, dále, často, stále, dobře, přímo, současně, stejně, hlavně</li>
             <li>AUX-Conv: byvše, jsouc, jsouce</li>
-            <li>AUX-Fin: je, jsou, bude, jsme, jsem, budou, budeme, jste, bývá, bývají</li>
+            <li>AUX-Fin: je, jsou, bude, jsme, jsem, budou, budeme, bývá, jste, bývají</li>
             <li>AUX-Inf: být, býti</li>
-            <li>AUX-Part: byl, bylo, byla, byly, byli, býval, bývalo, bývaly</li>
-            <li>DET: každý, každé, každého, každá, každém, každou, každým, každému, každých, každej</li>
+            <li>AUX-Part: bylo, byl, byla, byly, byli, býval, bývalo, bývaly, Bývali, bývala</li>
             <li>NOUN: práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</li>
+            <li>NOUN-Vnoun: zařízení, řešení, plnění, poznání, řízení, umění, oddělení, zpracování, pojetí, záření</li>
             <li>PROPN: KSČ, ROH, Praze, SSSR, ÚJČ, SSM, Praha, ČSAV, ČSSR, Škoda</li>
             <li>VERB-Conv: počínaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče, plníce, ponechávajíc</li>
-            <li>VERB-Fin: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
-            <li>VERB-Inf: mít, zajistit, říci, být, vidět, dělat, řešit, věnovat, použít, provádět</li>
-            <li>VERB-Part: měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</li>
+            <li>VERB-Fin: má, mají, musí, může, jde, lze, mohou, můžeme, patří, tvoří</li>
+            <li>VERB-Inf: mít, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět, dosáhnout</li>
+            <li>VERB-Part: měl, měla, mohli, mohl, došlo, měli, měly, mělo, řekl, podařilo</li>
           </ul>
         </li>
       </ul>
@@ -2701,7 +2771,6 @@ udver: '2'
             <li>AUX-Fin: je, jsou, není, bude, budou</li>
             <li>AUX-Inf: být</li>
             <li>AUX-Part: byly, byl, bylo, byla</li>
-            <li>DET: každou, každé, každého, každý, Každá</li>
             <li>NOUN: jednotky, jednotka, majetku, období, ocenění, účetnictví, položka, závěrky, dni, ustanovení</li>
             <li>VERB-Conv: počínaje</li>
             <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
@@ -2719,16 +2788,15 @@ udver: '2'
             <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</li>
             <li>ADV: vždycky, dobře, často, víc, dlouho, konečně, rychle, brzy, stejně, náhle</li>
             <li>AUX-Conv: jsouc</li>
-            <li>AUX-Fin: jsem, je, jsme, jsi, bude, jsou, jste, budu, budeš, budou</li>
+            <li>AUX-Fin: jsem, je, jsme, bude, jsou, jsi, jste, budu, budeš, budou</li>
             <li>AUX-Inf: být</li>
-            <li>AUX-Part: byl, byla, bylo, byly, byli, býval, bývala, bývali, bývalo</li>
-            <li>DET: každý, každou, každé, každá, každým, každého, každém, každému</li>
+            <li>AUX-Part: byl, byla, bylo, byly, byli, býval, bývala, bývalo, bývali</li>
             <li>NOUN: chvíli, život, oči, dítě, den, člověk, plod, dívka, profesor, ruce</li>
             <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
             <li>VERB-Conv: chtěje, hledajíc, Divě, Jda, Opíraje, Pronášejíc, Třesouc, domnívajíc, doufajíce, drže</li>
-            <li>VERB-Fin: je, má, mám, může, musí, mají, musím, vím, stojí, jde</li>
-            <li>VERB-Inf: dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</li>
-            <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
+            <li>VERB-Fin: má, mám, může, musí, mají, musím, vím, stojí, jde, víš</li>
+            <li>VERB-Inf: dělat, mít, říct, vidět, jít, udělat, žít, stát, dát, mluvit</li>
+            <li>VERB-Part: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
           </ul>
         </li>
       </ul>
@@ -2738,20 +2806,20 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: další, české, nové, poslední, státní, dalších, možné, vlastní, jiné, velké</li>
-            <li>ADJ-Part: rozhodující, řečeno, vedoucí, následující, přesvědčen, připravena, připraven, vynikající, týkající, otevřena</li>
+            <li>ADJ-Part: spojených, spojené, rozhodující, řečeno, vedoucí, následující, přesvědčen, připravena, připraven, uvedené</li>
             <li>ADV: více, stejně, zřejmě, často, méně, spíše, dobře, později, přesto, samozřejmě</li>
             <li>AUX-Conv: jsouce, jsa, jsouc</li>
             <li>AUX-Fin: je, jsou, bude, jsem, jsme, budou, jste, budeme, bývá, budu</li>
             <li>AUX-Inf: být, býti</li>
-            <li>AUX-Part: byl, bylo, byla, byly, byli, býval, bývala, bývalo, bývaly, bývávaly</li>
-            <li>DET: každý, každé, každého, každém, každá, každou, každému, každým, každých</li>
+            <li>AUX-Part: byl, bylo, byla, byly, byli, býval, bývalo, bývala, bývaly, bývávaly</li>
             <li>NOUN: roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</li>
+            <li>NOUN-Vnoun: jednání, utkání, rozhodnutí, řešení, zařízení, řízení, opatření, zvýšení, setkání, podnikání</li>
             <li>PROPN: Praha, ČR, Praze, LN, ODS, USA, J, Jiří, Jan, OSN</li>
             <li>SYM: §, §§</li>
-            <li>VERB-Conv: počínaje, konče, Mluvě, soudě, říkajíc, maje, Jsouc, žena, PRA, Syče</li>
-            <li>VERB-Fin: má, je, může, mají, musí, jde, jsou, lze, mohou, říká</li>
-            <li>VERB-Inf: mít, získat, stát, být, hrát, říci, platit, muset, dělat, dostat</li>
-            <li>VERB-Part: řekl, měl, měla, uvedl, měli, mělo, mohl, měly, bylo, prohlásil</li>
+            <li>VERB-Conv: počínaje, konče, Mluvě, soudě, říkajíc, maje, žena, PRA, Syče, Vycházeje</li>
+            <li>VERB-Fin: má, může, mají, musí, jde, lze, mohou, říká, patří, chce</li>
+            <li>VERB-Inf: mít, získat, stát, hrát, říci, platit, muset, dělat, dostat, dát</li>
+            <li>VERB-Part: řekl, měl, měla, uvedl, měli, mělo, mohl, měly, prohlásil, stal</li>
           </ul>
         </li>
       </ul>
@@ -2761,16 +2829,17 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</li>
-            <li>ADJ-Part: řečeno, propuštěn, vedoucí, nabídnuto, následující, označen, poražena, používán, považováno, považovány</li>
+            <li>ADJ-Part: Spojených, řečeno, propuštěn, vedoucí, Spojené, Spojeným, kvalifikovaných, nabídnuto, následující, otevřenou</li>
             <li>ADV: více, stejně, často, později, pravděpodobně, původně, samozřejmě, víc, dobře, dříve</li>
             <li>AUX-Fin: je, jsou, bude, jsem, jsme, budou, budeme, budu, jste, bývají</li>
             <li>AUX-Inf: být</li>
             <li>AUX-Part: byl, bylo, byla, byly, byli</li>
             <li>DET: více, víc, méně, tohoto</li>
             <li>NOUN: roce, roku, let, století, letech, době, území, období, oblasti, l</li>
+            <li>NOUN-Vnoun: omezení, rozhodnutí, chování, jednání, oddělení, opatření, umění, hlasování, oblečení, pochopení</li>
             <li>PROPN: Čína, Francie, USA, Čching, Albánie, BBC, Británii, Clintonové, Danevirke, Evropě</li>
             <li>VERB-Conv: Počínaje, redukujíc</li>
-            <li>VERB-Fin: má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</li>
+            <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
             <li>VERB-Inf: mít, vidět, získat, najít, opustit, pokračovat, stát, vést, dělat, muset</li>
             <li>VERB-Part: řekl, mohl, měl, stal, stala, uvedla, vedl, mohla, pracoval, rozhodl</li>
           </ul>
@@ -2812,6 +2881,7 @@ udver: '2'
           <ul>
             <li>ADJ: možno, nutno, povinen, řečeno, dosaženo, známo, rád, rádi, věnována, dána</li>
             <li>ADJ-Part: řečeno, dosaženo, věnována, dána, provedena, uvedeny, určena, určeny, splněny, zahájena</li>
+            <li>DET: sám, sama, sami, samo, samy, samu</li>
             <li>PRON: se, si, mu, ho, mi, mě, ti, tě, mně</li>
           </ul>
         </li>
@@ -2823,6 +2893,7 @@ udver: '2'
           <ul>
             <li>ADJ: povinny, povinna, stanoveno, sestavena, možno, zahrnuty, obchodovány, uvedeny, zavedena, oprávněn</li>
             <li>ADJ-Part: stanoveno, sestavena, zahrnuty, obchodovány, uvedeny, zavedena, oprávněn, uvedena, vykázány, účtovány</li>
+            <li>DET: sama, samo, samy</li>
             <li>PRON: se, ho, si</li>
           </ul>
         </li>
@@ -2834,6 +2905,7 @@ udver: '2'
           <ul>
             <li>ADJ: rád, ráda, rádi, přesvědčen, jist, možno, nerad, vinen, řečeno, oblečena</li>
             <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno, ztraceno</li>
+            <li>DET: sám, sama, sami, samo, samy, samu</li>
             <li>PRON: se, si, mi, mě, ho, mu, ti, tě</li>
           </ul>
         </li>
@@ -2845,6 +2917,7 @@ udver: '2'
           <ul>
             <li>ADJ: třeba, možno, rád, řečeno, schopen, nutno, schopni, známo, přesvědčen, připravena</li>
             <li>ADJ-Part: řečeno, přesvědčen, připravena, připraven, otevřena, rozhodnuto, zvolen, uzavřena, uvedeno, založena</li>
+            <li>DET: sám, sama, sami, samy, samo, samu</li>
             <li>PRON: se, si, mu, ho, mi, mě, tě, ti, sa</li>
           </ul>
         </li>
@@ -2856,6 +2929,7 @@ udver: '2'
           <ul>
             <li>ADJ: schopen, řečeno, propuštěn, rád, nabídnuto, označen, poražena, používán, považováno, považovány</li>
             <li>ADJ-Part: řečeno, propuštěn, nabídnuto, označen, poražena, používán, považováno, považovány, prodán, provedeno</li>
+            <li>DET: sama, sám, sami, samo</li>
             <li>PRON: se, si, ho, mu, mě, mi</li>
           </ul>
         </li>
@@ -2914,7 +2988,7 @@ udver: '2'
             <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, vyplývající</li>
             <li>AUX-Conv: jsouc, jsouce</li>
             <li>AUX-Fin: bývá, bývají, nebývá, nebývají</li>
-            <li>AUX-Part: býval, bývalo, bývaly</li>
+            <li>AUX-Part: býval, bývalo, bývaly, Bývali, bývala</li>
             <li>CCONJ: buď</li>
             <li>NOUN: tváří</li>
             <li>VERB-Conv: počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</li>
@@ -2953,8 +3027,8 @@ udver: '2'
             <li>ADJ-Part: rozhodující, vedoucí, následující, vynikající, týkající, odpovídající, rostoucí, žijící, kupující, považován</li>
             <li>ADP: Nehledě</li>
             <li>AUX-Conv: jsouce, jsa, jsouc</li>
-            <li>AUX-Fin: bývá, bývají, nebývá, nebývají</li>
-            <li>AUX-Part: býval, bývala, bývalo, bývaly, bývávaly, nebývalo, bývali, nebývala</li>
+            <li>AUX-Fin: bývá, bývají, nebývá, nebývají, bývám</li>
+            <li>AUX-Part: býval, bývalo, bývala, bývaly, bývávaly, nebývalo, bývali, bývávalo, nebýval, nebývala</li>
             <li>VERB-Conv: počínaje, nemluvě, konče, Mluvě, soudě, říkajíc, maje, nehledě, nepočítaje, nevyjímaje</li>
             <li>VERB-Fin: říká, patří, znamená, tvrdí, tvoří, představuje, uvádí, považuje, snaží, existuje</li>
             <li>VERB-Inf: dělat, pokračovat, jednat, řešit, očekávat, pracovat, prodávat, hledat, počítat, zabývat</li>
@@ -2987,6 +3061,7 @@ udver: '2'
             <li>ADJ-Part: splněny, zahájena, založena, splněn, stanovena, spojeno, spojeny, stanoveny, vybudována, připraveny</li>
             <li>AUX-Conv: byvše</li>
             <li>NOUN: oprav, vyhovění</li>
+            <li>NOUN-Vnoun: vyhovění</li>
             <li>VERB-Conv: vyměně</li>
             <li>VERB-Fin: stanoví, viz, objeví, zajistí, vytvoří, umožní, uskuteční, spotřebuje, připraví, vznikne</li>
             <li>VERB-Inf: zajistit, vytvořit, vyjádřit, vysvětlit, získat, splnit, odstranit, poskytnout, udělat, zabezpečit</li>
@@ -3013,6 +3088,7 @@ udver: '2'
           <ul>
             <li>ADJ-Part: řečeno, přesvědčen, připravena, připraven, rozhodnuto, zvolen, založena, zahájena, obviněn, stanovena</li>
             <li>NOUN: rozlišení, vyhovění</li>
+            <li>NOUN-Vnoun: vyhovění</li>
             <li>VERB-Conv: nespočet, poznajíce, semnuvše, vzpomenuv</li>
             <li>VERB-Fin: viz, rozhodne, zaplatí, uskuteční, podaří, zvýší, získá, objeví, nastoupí, skončí</li>
             <li>VERB-Inf: získat, říci, vytvořit, udělat, zvýšit, prodat, zaplatit, koupit, změnit, představit</li>
@@ -3086,7 +3162,6 @@ udver: '2'
         <li>Cnd
           <ul>
             <li>AUX-Fin: by, bych, byste, bys, bychom, bysme</li>
-            <li>VERB-Fin: by, bych, bys</li>
           </ul>
         </li>
       </ul>
@@ -3095,8 +3170,8 @@ udver: '2'
       <ul>
         <li>Cnd
           <ul>
-            <li>AUX-Fin: by, bychom, bych, byste, bys</li>
-            <li>VERB-Fin: by, bych, bychom, bysem, bysme, bysom</li>
+            <li>AUX-Fin: by, bychom, bych, byste, bys, bysme</li>
+            <li>VERB-Fin: bysem, bysom</li>
           </ul>
         </li>
       </ul>
@@ -3160,8 +3235,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: je, jsou, bude, jsme, není, jsem, budou, nejsou, budeme, jste</li>
-            <li>VERB-Fin: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
+            <li>AUX-Fin: je, jsou, bude, není, jsme, jsem, budou, nejsou, budeme, bývá</li>
+            <li>VERB-Fin: má, mají, musí, může, jde, lze, mohou, můžeme, patří, nelze</li>
           </ul>
         </li>
       </ul>
@@ -3180,8 +3255,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: jsem, je, jsme, jsi, bude, jsou, jste, není, budu, budeš</li>
-            <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
+            <li>AUX-Fin: jsem, je, jsme, bude, jsou, jsi, není, jste, budu, budeš</li>
+            <li>VERB-Fin: má, mám, může, nevím, musí, mají, musím, vím, nemám, stojí</li>
           </ul>
         </li>
       </ul>
@@ -3190,8 +3265,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: je, jsou, bude, jsem, jsme, není, budou, nebude, nejsou, jste</li>
-            <li>VERB-Fin: má, je, může, mají, musí, jde, jsou, lze, mohou, říká</li>
+            <li>AUX-Fin: je, jsou, bude, není, jsem, jsme, budou, nebude, nejsou, jste</li>
+            <li>VERB-Fin: má, může, mají, musí, jde, lze, mohou, říká, patří, chce</li>
           </ul>
         </li>
       </ul>
@@ -3201,7 +3276,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>AUX-Fin: je, jsou, bude, jsem, není, jsme, budou, nebude, budeme, budu</li>
-            <li>VERB-Fin: má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</li>
+            <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
           </ul>
         </li>
       </ul>
@@ -3240,7 +3315,7 @@ udver: '2'
         <li>Fut
           <ul>
             <li>AUX-Fin: bude, budou, budeme, nebude, nebudou, budu, budete, nebudeme, nebudu, nebudete</li>
-            <li>VERB-Fin: bude, půjde, budou, nebude, budu, pojedu, půjdou, Nepůjde, Pojede, nebudu</li>
+            <li>VERB-Fin: půjde, pojedu, půjdou, Nepůjde, Pojede, pocestuje, poletí, ponese, ponesou</li>
           </ul>
         </li>
       </ul>
@@ -3250,7 +3325,6 @@ udver: '2'
         <li>Fut
           <ul>
             <li>AUX-Fin: bude, budou</li>
-            <li>VERB-Fin: bude</li>
           </ul>
         </li>
       </ul>
@@ -3259,8 +3333,8 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
-            <li>AUX-Fin: bude, budu, budeš, budou, nebude, nebudu, budeme, budete, nebudeš, nebudeme</li>
-            <li>VERB-Fin: bude, nepůjde, nepůjdu, nebude, půjde, půjdeme, půjdu, budou, nebudu, pojedeme</li>
+            <li>AUX-Fin: bude, budu, budeš, budou, nebude, nebudu, budeme, budete, nebudeš, nebudou</li>
+            <li>VERB-Fin: nepůjde, nepůjdu, půjde, půjdeme, půjdu, pojedeme, pojedete, půjdeš, Poběžíme, Potrvá</li>
           </ul>
         </li>
       </ul>
@@ -3270,7 +3344,7 @@ udver: '2'
         <li>Fut
           <ul>
             <li>AUX-Fin: bude, budou, nebude, budeme, nebudou, budu, nebudeme, budete, nebudu, nebudete</li>
-            <li>VERB-Fin: bude, půjde, budou, nebude, nepůjde, pojede, nebudou, půjdou, pojedou, ponese</li>
+            <li>VERB-Fin: půjde, nepůjde, pojede, půjdou, pojedou, ponese, nepojede, půjdeme, poběží, potrvá</li>
           </ul>
         </li>
       </ul>
@@ -3280,7 +3354,7 @@ udver: '2'
         <li>Fut
           <ul>
             <li>AUX-Fin: bude, budou, nebude, budeme, budu, nebudou, nebudu</li>
-            <li>VERB-Fin: nebude, půjde, bude, neporoste</li>
+            <li>VERB-Fin: půjde, neporoste</li>
           </ul>
         </li>
       </ul>
@@ -3293,9 +3367,9 @@ udver: '2'
           <ul>
             <li>ADJ-Part: nastoupivšími, rozpadnuvší</li>
             <li>AUX-Conv: byvše</li>
-            <li>AUX-Part: byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, býval</li>
+            <li>AUX-Part: bylo, byl, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, nebyli</li>
             <li>VERB-Conv: vyměně</li>
-            <li>VERB-Part: měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</li>
+            <li>VERB-Part: měl, měla, mohli, mohl, došlo, měli, měly, mělo, řekl, podařilo</li>
           </ul>
         </li>
       </ul>
@@ -3316,7 +3390,7 @@ udver: '2'
           <ul>
             <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
             <li>VERB-Conv: připomenuv, vrhnuv, vzdychnuv</li>
-            <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
+            <li>VERB-Part: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
           </ul>
         </li>
       </ul>
@@ -3328,7 +3402,7 @@ udver: '2'
             <li>ADJ-Part: odstoupivšího, byvší, doloživší, nastavší, ocitnuvšího, odstoupivších, provinivšího, předčivší, přeživšího, vyskytnuvší</li>
             <li>AUX-Part: byl, bylo, byla, byly, byli, nebyl, nebylo, nebyla, nebyly, nebyli</li>
             <li>VERB-Conv: nespočet, poznajíce, semnuvše, vzpomenuv</li>
-            <li>VERB-Part: řekl, měl, měla, uvedl, měli, mělo, mohl, měly, bylo, prohlásil</li>
+            <li>VERB-Part: řekl, měl, měla, uvedl, měli, mělo, mohl, měly, prohlásil, stal</li>
           </ul>
         </li>
       </ul>
@@ -3352,9 +3426,9 @@ udver: '2'
           <ul>
             <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</li>
             <li>AUX-Conv: jsouc, jsouce</li>
-            <li>AUX-Fin: je, jsou, jsme, není, jsem, nejsou, jste, bývá, bývají, jsi</li>
+            <li>AUX-Fin: je, jsou, není, jsme, jsem, nejsou, bývá, jste, bývají, jsi</li>
             <li>VERB-Conv: počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</li>
-            <li>VERB-Fin: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
+            <li>VERB-Fin: má, mají, musí, může, jde, lze, mohou, můžeme, patří, nelze</li>
           </ul>
         </li>
       </ul>
@@ -3377,9 +3451,9 @@ udver: '2'
           <ul>
             <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
             <li>AUX-Conv: jsouc</li>
-            <li>AUX-Fin: jsem, je, jsme, jsi, jsou, jste, není, nejsem, nejsou, bývá</li>
+            <li>AUX-Fin: jsem, je, jsme, jsou, jsi, není, jste, nejsem, nejsou, bývá</li>
             <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-            <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
+            <li>VERB-Fin: má, mám, může, nevím, musí, mají, musím, vím, nemám, stojí</li>
           </ul>
         </li>
       </ul>
@@ -3390,9 +3464,9 @@ udver: '2'
           <ul>
             <li>ADJ-Part: rozhodující, vedoucí, následující, vynikající, týkající, odpovídající, rostoucí, žijící, kupující, následujících</li>
             <li>AUX-Conv: jsouce, jsa, jsouc</li>
-            <li>AUX-Fin: je, jsou, jsem, jsme, není, nejsou, jste, bývá, nejsem, bývají</li>
+            <li>AUX-Fin: je, jsou, není, jsem, jsme, nejsou, jste, bývá, nejsem, nejsme</li>
             <li>VERB-Conv: počínaje, nemluvě, konče, Mluvě, soudě, říkajíc, maje, nehledě, nepočítaje, nevyjímaje</li>
-            <li>VERB-Fin: má, je, může, mají, musí, jde, jsou, lze, mohou, říká</li>
+            <li>VERB-Fin: má, může, mají, musí, jde, lze, mohou, říká, patří, chce</li>
           </ul>
         </li>
       </ul>
@@ -3404,7 +3478,7 @@ udver: '2'
             <li>ADJ-Part: vedoucí, následující, probíhající, sestávající, studujících, dosluhující, dospívající, dospívajícího, dívající, hanobící</li>
             <li>AUX-Fin: je, jsou, jsem, není, jsme, jste, nejsou, Nejsme, bývají, bývá</li>
             <li>VERB-Conv: Počínaje, nedbajíce</li>
-            <li>VERB-Fin: má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</li>
+            <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
           </ul>
         </li>
       </ul>
@@ -3444,11 +3518,11 @@ udver: '2'
           <ul>
             <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</li>
             <li>AUX-Conv: byvše, jsouc, jsouce</li>
-            <li>AUX-Fin: je, jsou, bude, jsme, není, jsem, budou, nejsou, budeme, jste</li>
-            <li>AUX-Part: byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, býval</li>
+            <li>AUX-Fin: je, jsou, bude, není, jsme, jsem, budou, nejsou, budeme, bývá</li>
+            <li>AUX-Part: bylo, byl, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, nebyli</li>
             <li>VERB-Conv: počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</li>
-            <li>VERB-Fin: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
-            <li>VERB-Part: měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</li>
+            <li>VERB-Fin: má, mají, musí, může, jde, lze, mohou, můžeme, patří, nelze</li>
+            <li>VERB-Part: měl, měla, mohli, mohl, došlo, měli, měly, mělo, řekl, podařilo</li>
           </ul>
         </li>
       </ul>
@@ -3473,11 +3547,11 @@ udver: '2'
           <ul>
             <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
             <li>AUX-Conv: jsouc</li>
-            <li>AUX-Fin: jsem, je, jsme, jsi, bude, jsou, jste, není, budu, budeš</li>
+            <li>AUX-Fin: jsem, je, jsme, bude, jsou, jsi, není, jste, budu, budeš</li>
             <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
             <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-            <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
-            <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
+            <li>VERB-Fin: má, mám, může, nevím, musí, mají, musím, vím, nemám, stojí</li>
+            <li>VERB-Part: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
           </ul>
         </li>
       </ul>
@@ -3488,11 +3562,11 @@ udver: '2'
           <ul>
             <li>ADJ-Part: rozhodující, vedoucí, následující, vynikající, týkající, odpovídající, rostoucí, žijící, kupující, následujících</li>
             <li>AUX-Conv: jsouce, jsa, jsouc</li>
-            <li>AUX-Fin: je, jsou, bude, jsem, jsme, není, budou, nebude, nejsou, jste</li>
+            <li>AUX-Fin: je, jsou, bude, není, jsem, jsme, budou, nebude, nejsou, jste</li>
             <li>AUX-Part: byl, bylo, byla, byly, byli, nebyl, nebylo, nebyla, nebyly, nebyli</li>
             <li>VERB-Conv: počínaje, nemluvě, konče, Mluvě, soudě, říkajíc, maje, nehledě, nepočítaje, nevyjímaje</li>
-            <li>VERB-Fin: má, je, může, mají, musí, jde, jsou, lze, mohou, říká</li>
-            <li>VERB-Part: řekl, měl, měla, uvedl, měli, mělo, mohl, měly, bylo, prohlásil</li>
+            <li>VERB-Fin: má, může, mají, musí, jde, lze, mohou, říká, patří, chce</li>
+            <li>VERB-Part: řekl, měl, měla, uvedl, měli, mělo, mohl, měly, prohlásil, stal</li>
           </ul>
         </li>
       </ul>
@@ -3505,7 +3579,7 @@ udver: '2'
             <li>AUX-Fin: je, jsou, bude, jsem, není, jsme, budou, nebude, budeme, budu</li>
             <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
             <li>VERB-Conv: Počínaje, nedbajíce, redukujíc</li>
-            <li>VERB-Fin: má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</li>
+            <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
             <li>VERB-Inf: překonat</li>
             <li>VERB-Part: řekl, mohl, měl, stal, stala, uvedla, vedl, mohla, pracoval, rozhodl</li>
           </ul>
@@ -3518,7 +3592,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>ADJ-Part: řečeno, dosaženo, věnována, dána, provedena, uvedeny, určena, určeny, splněny, zahájena</li>
+            <li>ADJ-Part: uvedených, uvedené, řečeno, příslušné, dosaženo, plánovaných, spojené, věnována, příslušného, dána</li>
           </ul>
         </li>
       </ul>
@@ -3545,7 +3619,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>ADJ-Part: řečeno, přesvědčen, připravena, připraven, otevřena, rozhodnuto, zvolen, uzavřena, uvedeno, založena</li>
+            <li>ADJ-Part: spojených, spojené, řečeno, přesvědčen, připravena, připraven, uvedené, určené, příslušné, zmíněné</li>
           </ul>
         </li>
       </ul>
@@ -3554,7 +3628,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>ADJ-Part: řečeno, propuštěn, nabídnuto, označen, poražena, používán, považováno, považovány, prodán, provedeno</li>
+            <li>ADJ-Part: Spojených, řečeno, propuštěn, Spojené, Spojeným, kvalifikovaných, nabídnuto, otevřenou, otevřená, označen</li>
           </ul>
         </li>
       </ul>
@@ -3701,7 +3775,7 @@ udver: '2'
       <ul>
         <li>Emp
           <ul>
-            <li>DET: sám, sama, sami, samo, samy, samu</li>
+            <li>DET: sám, sama, sami, samo, samy, samé, samého, samých, samém, samu</li>
           </ul>
         </li>
       </ul>
@@ -3719,7 +3793,7 @@ udver: '2'
       <ul>
         <li>Emp
           <ul>
-            <li>DET: sám, sama, sami, samo, samy, samu</li>
+            <li>DET: sám, sama, sami, samo, samy, samé, samá, samého, samu, samých</li>
           </ul>
         </li>
       </ul>
@@ -3728,7 +3802,7 @@ udver: '2'
       <ul>
         <li>Emp
           <ul>
-            <li>DET: sám, sama, sami, samy, samo, samu, samého</li>
+            <li>DET: sám, sama, sami, samy, samého, samo, samé, samém, samu, samí</li>
           </ul>
         </li>
       </ul>
@@ -3737,7 +3811,7 @@ udver: '2'
       <ul>
         <li>Emp
           <ul>
-            <li>DET: sama, sám, sami, samo</li>
+            <li>DET: sama, sám, sami, samo, samé, samého, samý</li>
           </ul>
         </li>
       </ul>
@@ -4048,7 +4122,7 @@ udver: '2'
           <ul>
             <li>ADV: všude, vždy, navždy, odevšad, odjakživa</li>
             <li>DET: všechno, každý, všichni, všechny, všech, každou, vše, každé, všeho, všem</li>
-            <li>PRON: všecko, samé, veškeré, samá, veškerá, samého, samých, samým, veškeru, veškerý</li>
+            <li>PRON: všecko, veškeré, veškerá, veškeru, veškerý, všecky, samy, veškerou, všecku</li>
           </ul>
         </li>
       </ul>
@@ -4059,7 +4133,7 @@ udver: '2'
           <ul>
             <li>ADV: vždy, všude, navždy, odjakživa, všudy, odevšad</li>
             <li>DET: všechny, všech, každý, vše, všichni, všechno, každé, každého, všem, každém</li>
-            <li>PRON: veškeré, samého, veškerou, veškerý, samé, samém, veškerá, veškerého, veškerých, samí</li>
+            <li>PRON: veškeré, veškerou, veškerý, veškerá, veškerého, veškerých, All, veškerým, všecko, veškerými</li>
           </ul>
         </li>
       </ul>
@@ -4069,8 +4143,8 @@ udver: '2'
         <li>Tot
           <ul>
             <li>ADV: vždy</li>
-            <li>DET: všech, všechny, každý, všechno, všichni, všeho, všemu</li>
-            <li>PRON: veškeré, samé, samého, samý, veškerou</li>
+            <li>DET: každý, všech, všechny, každá, každého, všechno, všichni, každé, všeho, všemu</li>
+            <li>PRON: veškeré, veškerou</li>
           </ul>
         </li>
       </ul>
@@ -4572,7 +4646,7 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX-Fin: jsem, bych, jsme, bychom, budu, nebudu, nejsem, budeme, bysme, nejsme</li>
+            <li>AUX-Fin: jsem, bych, jsme, bychom, budu, nebudu, nejsem, budeme, nejsme, bysme</li>
             <li>DET: moje, můj, naše, mého, náš, mé, mých, mým, mojí, moji</li>
             <li>PRON: mi, mě, já, nás, mně, nám, mnou, mne, my, námi</li>
             <li>VERB-Fin: mám, nevím, musím, vím, nemám, chci, nechci, prosím, ptám, mohu</li>
@@ -4584,10 +4658,10 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX-Fin: jsem, jsme, bychom, bych, budeme, budu, nejsem, nebudeme, nejsme, nebudu</li>
+            <li>AUX-Fin: jsem, jsme, bychom, bych, budeme, budu, nejsem, nejsme, nebudeme, nebudu</li>
             <li>DET: naše, naší, našich, náš, našeho, naši, našem, můj, mého, moje</li>
             <li>PRON: nás, nám, mi, já, mě, my, mne, námi, mně, mnou</li>
-            <li>VERB-Fin: máme, mám, můžeme, myslím, musíme, chceme, musím, nevím, víme, jsme</li>
+            <li>VERB-Fin: máme, mám, můžeme, myslím, musíme, chceme, musím, nevím, víme, nemáme</li>
           </ul>
         </li>
       </ul>
@@ -4625,7 +4699,7 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>AUX-Fin: jsi, jste, byste, bys, budeš, budete, nebudeš, si, buď, buďte</li>
+            <li>AUX-Fin: jsi, jste, byste, bys, budeš, budete, nebudeš, nejste, si, buď</li>
             <li>DET: vaše, tvůj, tvoje, tvé, váš, vaší, tvou, tvá, tvojí, tvého</li>
             <li>PRON: ti, ty, tě, vás, vám, vy, tebe, tebou, tobě, vámi</li>
             <li>VERB-Fin: víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš, dej</li>
@@ -4664,10 +4738,10 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX-Fin: je, by, jsou, bude, není, budou, nejsou, bývá, nebude, nebudou</li>
+            <li>AUX-Fin: je, jsou, by, bude, není, budou, nejsou, bývá, nebude, nebudou</li>
             <li>DET: jejich, jeho, její, jehož, jejichž, jejíž, jejím, jejího, jejích, jejímž</li>
             <li>PRON: je, nich, ji, jim, mu, ho, ní, jej, ně, něm</li>
-            <li>VERB-Fin: je, má, mají, musí, může, jde, lze, jsou, mohou, patří</li>
+            <li>VERB-Fin: má, mají, musí, může, jde, lze, mohou, patří, nelze, tvoří</li>
           </ul>
         </li>
       </ul>
@@ -4691,7 +4765,7 @@ udver: '2'
             <li>AUX-Fin: je, by, bude, jsou, není, budou, nebude, nejsou, bývá, bývají</li>
             <li>DET: jeho, její, jejich, jejím, jejího, jejích, jehož, jejímu, jejichž, jejíž</li>
             <li>PRON: ho, mu, ji, je, jí, ní, on, něj, nich, jim</li>
-            <li>VERB-Fin: je, má, může, musí, není, mají, stojí, jde, jsou, bude</li>
+            <li>VERB-Fin: má, může, musí, mají, stojí, jde, nemá, ví, chce, nemůže</li>
           </ul>
         </li>
       </ul>
@@ -4703,7 +4777,7 @@ udver: '2'
             <li>AUX-Fin: je, jsou, bude, by, není, budou, nebude, nejsou, nebudou, bývá</li>
             <li>DET: jeho, jejich, její, jejichž, jehož, jejím, jejíž, jejího, jejích, jejímž</li>
             <li>PRON: je, nich, mu, ji, ho, jim, ní, něj, jej, jí</li>
-            <li>VERB-Fin: má, je, může, mají, musí, jde, jsou, lze, mohou, říká</li>
+            <li>VERB-Fin: má, může, mají, musí, jde, lze, mohou, říká, patří, chce</li>
           </ul>
         </li>
       </ul>
@@ -4715,7 +4789,7 @@ udver: '2'
             <li>AUX-Fin: je, by, jsou, bude, není, budou, nebude, nebudou, nejsou, bývají</li>
             <li>DET: jeho, jejich, její, jejichž, jejím, jehož, jejích, jejího, jejíž</li>
             <li>PRON: ho, nich, ní, jí, mu, ji, něj, jim, ním, je</li>
-            <li>VERB-Fin: má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</li>
+            <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
           </ul>
         </li>
       </ul>
@@ -5125,12 +5199,13 @@ udver: '2'
                 <li>ADJ: tzv, a, čs, o, sv, RM, US, Č, n, k</li>
                 <li>ADP: n, v, př, P, m, vč</li>
                 <li>ADV: např, mj, apod, atd, resp, atp, popř, cca, ap, kupř</li>
+                <li>AUX-Fin: j</li>
                 <li>CCONJ: tj, tzn, n</li>
                 <li>DET: t, n, mn, vš</li>
                 <li>NOUN: r, s, tel, m, č, km, MS, mil, Kčs, cm</li>
                 <li>PART: CA</li>
                 <li>PROPN: ČR, LN, ODS, J, OSN, ODA, M, ČSFR, V, A</li>
-                <li>VERB-Fin: j, srov</li>
+                <li>VERB-Fin: srov</li>
                 <li>X: A, H, M, S</li>
               </ul>
             </li>
@@ -5363,6 +5438,7 @@ udver: '2'
                 <li>ADJ-Part: vu</li>
                 <li>ADP: de, of, di, van, in, von, versus, ad, Pro, to</li>
                 <li>ADV: cca, priori, Today, live, Here, Only, Sic, Very, dove, echt</li>
+                <li>AUX-Part: bolo</li>
                 <li>CCONJ: and, et, und, As, or, ma, So, e, n</li>
                 <li>DET: Some, My, That, This, Your, sua, C, Notre, These, ce</li>
                 <li>INTJ: O, propos, Bang, Boom, Crash</li>
@@ -5374,7 +5450,7 @@ udver: '2'
                 <li>SCONJ: as, If, When, ak, ako, gdyž, kak</li>
                 <li>VERB-Fin: is, est, transit, Habent, Want, Wish, Won, are, ist, need</li>
                 <li>VERB-Inf: Be, can, Check, Come, Keep, Porter, Talk, Believe, Change, Dance</li>
-                <li>VERB-Part: Were, bolo, Said, dostal, kam, naháňali, polučil, pričinili, wasn</li>
+                <li>VERB-Part: Were, Said, dostal, kam, naháňali, polučil, pričinili, wasn</li>
               </ul>
             </li>
           </ul>
@@ -5689,6 +5765,7 @@ udver: '2'
             <li>Geo
               <ul>
                 <li>ADJ: New, Č, Flushing, Los, San, Tchaj, Horní, Devils, Twin, Buenos</li>
+                <li>ADJ-Part: Spojené</li>
                 <li>ADP: Unter, del, Átha</li>
                 <li>PROPN: Praha, ČR, Praze, USA, Evropy, Brno, Prahy, ČSFR, Evropě, Německu</li>
               </ul>
@@ -6090,17 +6167,18 @@ udver: '2'
                 <li>PRON: jej, kdož</li>
                 <li>PROPN: Alšovi</li>
                 <li>VERB-Conv: vyměně</li>
-                <li>VERB-Fin: jest</li>
-                <li>VERB-Inf: býti, dáti, míti, dodržeti, existovati, housti, hýbati, jeti, nalézti, nařizovati</li>
+                <li>VERB-Inf: dáti, míti, dodržeti, existovati, housti, hýbati, jeti, nalézti, nařizovati, obinúti</li>
               </ul>
             </li>
             <li>Coll
               <ul>
                 <li>ADJ: Žídkova, Žídkových, dolarovej, drahej, druhej, fest, hodný, krásnejch, mluvený, mužský</li>
+                <li>ADJ-Part: mluvený, vyznačené, zfabrikovaný</li>
                 <li>ADV: loni, akorát, teda</li>
                 <li>AUX-Fin: seš</li>
                 <li>DET: každej, nějakejch, svý, tý</li>
                 <li>NOUN: pracech, mejkap, elpíčko, pivčo, pásák, Dvacka, Komunálu, bétéček, dolama, fajnovka</li>
+                <li>NOUN-Vnoun: vagónování, zahrádkaření</li>
                 <li>PART: jo, fakt</li>
                 <li>PROPN: Drahušce, Drahuška, Fanoušů, Jaroušků, Kyšický, dvoukolákem, embéčko</li>
                 <li>VERB-Fin: potřebujou, tancujou, tlačej</li>
@@ -6117,6 +6195,7 @@ udver: '2'
             <li>Rare
               <ul>
                 <li>ADJ: gnoseologických, gnoseologickou, gnoseologické, gnoseologického, gnoseologická, gnoseologickém, gnoseologickým, nivelisační, objektivované, poslední</li>
+                <li>ADJ-Part: objektivované</li>
                 <li>NOUN: folklorismu, folklorismus, styrén, vládce, vládcem, dvoukolka, folklorismem, imanentismu, imanentismus, manažerismu</li>
                 <li>VERB-Fin: objektivuje</li>
               </ul>
@@ -6124,6 +6203,7 @@ udver: '2'
             <li>Slng
               <ul>
                 <li>ADJ: nabiflovaná, vypikýrovaný, zbrojovácké, škodováckých</li>
+                <li>ADJ-Part: nabiflovaná, vypikýrovaný</li>
                 <li>NOUN: šňůry, Moho, šňůru, knajpou, kšeftu, pochoďáku, pětikilo, textilačkami, textilačky, valchaře</li>
               </ul>
             </li>
@@ -6173,11 +6253,11 @@ udver: '2'
                 <li>ADJ-Part: sbalíno</li>
                 <li>ADV: dřív, nejdřív, móc, dýl, hloub</li>
                 <li>AUX-Fin: si, bysme, nejseš</li>
-                <li>DET: který, tvýho, žádnej, každý, které, mý, naše, takovýho, támhleten, tý</li>
+                <li>DET: který, tvýho, žádnej, každý, které, mý, naše, samý, takovýho, támhleten</li>
                 <li>NOUN: holkama, kopečkama, leta, prsama, ženskýma</li>
                 <li>PART: prej, přeci, Neee</li>
-                <li>PRON: jí, veškeru, jenž, samý</li>
-                <li>VERB-Fin: odejdem, rozejdem, si</li>
+                <li>PRON: jí, veškeru, jenž</li>
+                <li>VERB-Fin: odejdem, rozejdem</li>
                 <li>VERB-Inf: pomoct</li>
                 <li>VERB-Part: nevlít, nevšim</li>
               </ul>
@@ -6194,7 +6274,7 @@ udver: '2'
               <ul>
                 <li>ADJ: pathologickým</li>
                 <li>ADV: dosti, dřív, nejdřív, tentokráte, přec, nedosti, Jistěť, oulisně, snáz</li>
-                <li>AUX-Fin: jest, budiž, buď, nésó</li>
+                <li>AUX-Fin: jest, Neníť, budiž, buď, nésó</li>
                 <li>AUX-Inf: býti</li>
                 <li>CCONJ: neb</li>
                 <li>NOUN: léta, létech, léty, páně, létům, Národové, biblí, bukův, chromatoforův, civilu</li>
@@ -6202,23 +6282,25 @@ udver: '2'
                 <li>PRON: jej, kdož</li>
                 <li>PROPN: Québeku, Quebeku, Elbe, Alše, Otona, QUÉBEKU, Veleslavíny</li>
                 <li>VERB-Conv: poznajíce</li>
-                <li>VERB-Fin: jest, Není, neostejcháme, slovou, činějí</li>
-                <li>VERB-Inf: obléci, mlčeti, Dolomiti, býti, dělati, mluviti, pokračovati, poznati, dojíti, dotýkati</li>
+                <li>VERB-Fin: neostejcháme, slovou, činějí</li>
+                <li>VERB-Inf: obléci, mlčeti, Dolomiti, dělati, mluviti, pokračovati, poznati, dojíti, dotýkati, dáti</li>
               </ul>
             </li>
             <li>Coll
               <ul>
                 <li>ADJ: top, druhý, super, Kytkový, Devátý, Vystřelenýho, hodnej, těžký, vyhecovaný, výborný</li>
+                <li>ADJ-Part: Vystřelenýho, vyhecovaný, zakázaný, malovaný, nepřiměřený, ulitý, vylité, zatracený, zfaldovaná</li>
                 <li>ADP: vo</li>
                 <li>ADV: loni, akorát, holt, tuhle, teda, furt, leckdes, nazejtří, vulgo, ergo</li>
-                <li>AUX-Fin: budem, si</li>
+                <li>AUX-Fin: si, budem, bysme</li>
                 <li>DET: které, ty, našim, naší, žádnej, Který, mýho, nějakej, svojí, svýmu</li>
                 <li>INTJ: Hergot</li>
                 <li>NOUN: rozběžky, repete, hodinovce, hejslováctví, kafe, shopping, výpadovce, Ležáka, Progres, Votroky</li>
+                <li>NOUN-Vnoun: hartusením, kolíbáním, počůrání, ředitelování, štupování</li>
                 <li>PART: jo, než, Zaplaťpánbůh</li>
                 <li>PRON: von, ní, vona</li>
                 <li>PROPN: Dan, Ottavě, Bohouš, Poldovka, Slávy, Lidovky, Madla, Marjánka, forda, Čehúny</li>
-                <li>VERB-Fin: vem, NEMUSEJ, Nesem, Pohlédnem, Vomotá, bysem, bysme, dávaj, jdem, kolíbá</li>
+                <li>VERB-Fin: vem, NEMUSEJ, Nesem, Pohlédnem, Vomotá, bysem, dávaj, jdem, kolíbá, neba</li>
                 <li>VERB-Inf: ošoustat</li>
                 <li>VERB-Part: Bejvávalo, počůral, vytrucoval, vytrucovali, zahaprovalo, šoustla</li>
               </ul>
@@ -6226,7 +6308,7 @@ udver: '2'
             <li>Expr
               <ul>
                 <li>ADJ: ultranacionalistické, ztřeštěný, Ultrapravicový, uculujících, ultrapravicová, zkrachovalá, ztřeštěného, ztřeštěných, ztřeštěným</li>
-                <li>ADJ-Part: uculujících</li>
+                <li>ADJ-Part: ztřeštěný, uculujících, ztřeštěného, ztřeštěných, ztřeštěným</li>
                 <li>NOUN: jezírko, jezírka, jezírku, okénko, okénku, semínka, vlákénka, znaménkem, znaménko, bidýlku</li>
                 <li>PROPN: Vlasta, VLAĎKA, Vašíčkem, Vladkem, Vladkovi, Vlastou, Vlasty, Vlastík, Vláďa, Zuzanky</li>
                 <li>VERB-Inf: glajšaltovat</li>
@@ -6236,11 +6318,12 @@ udver: '2'
             <li>Rare
               <ul>
                 <li>ADJ: napjaté, napjatou, napjatá, napjatý, napjatých, napjatější, portfóliových, vypjaté, vysoceaktivní, vysoceaktivních</li>
-                <li>ADJ-Part: přetáhnut, rozepjato</li>
+                <li>ADJ-Part: napjaté, napjatou, napjatá, napjatý, napjatých, napjatější, vypjaté, civilisovaný, nejnapjatější, nejvypjatějších</li>
                 <li>ADP: v</li>
                 <li>ADV: diskursivně, vypjatě</li>
                 <li>DET: ledasjaký</li>
                 <li>NOUN: hod, min, aids, prezidia, aidsu, causa, GmbH, premií, vládce, St</li>
+                <li>NOUN-Vnoun: brždění, stáhnutí, zbržděním</li>
                 <li>PROPN: Volkswagen, Cikánů, Hamas, Hamasu, Mexico, Volkswagenu, cikáni, Marian, Sophie, cikány</li>
                 <li>VERB-Fin: zbude, přibyde, přihlaste, ubyde, ubydou</li>
                 <li>VERB-Part: ujal, ujali, ujalo, neujal, neujalo, ujala, ujaly, vyňal, najmul, objal</li>
@@ -6254,9 +6337,10 @@ udver: '2'
             </li>
             <li>Vrnc
               <ul>
-                <li>ADJ: řečeného</li>
+                <li>ADJ-Part: řečeného</li>
                 <li>INTJ: danaj</li>
                 <li>NOUN: zapomnění, Husličky, Stup, Valnohou, Zítka, kon, kotáry, žehnáčky</li>
+                <li>NOUN-Vnoun: zapomnění</li>
                 <li>PRON: sa</li>
                 <li>VERB-Fin: nesúdí, súdí</li>
               </ul>
@@ -6292,13 +6376,12 @@ udver: '2'
             </li>
             <li>Expr
               <ul>
-                <li>ADJ: ztřeštěné</li>
+                <li>ADJ-Part: ztřeštěné</li>
               </ul>
             </li>
             <li>Rare
               <ul>
-                <li>ADJ: napjatá, předpovězeno, upjaté</li>
-                <li>ADJ-Part: předpovězeno</li>
+                <li>ADJ-Part: napjatá, předpovězeno, upjaté</li>
                 <li>NOUN: AIDS, datum</li>
                 <li>PROPN: Australia, Capitol, Francisco, Jasona, Kenya, Kilimanjaro</li>
                 <li>VERB-Part: ujal</li>
@@ -6423,38 +6506,37 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (30)</li>
+            <li>VERB-Fin--NOUN (28)</li>
             <li>VERB-Fin--NOUN-Acc (36)</li>
-            <li>VERB-Fin--NOUN-Gen (181)</li>
+            <li>VERB-Fin--NOUN-Gen (113)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(kolem) (3)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(na) (3)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(na) (2)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(přes) (3)</li>
-            <li>VERB-Fin--NOUN-Nom (8440)</li>
-            <li>VERB-Fin--PRON (29)</li>
-            <li>VERB-Fin--PRON-Acc (4)</li>
+            <li>VERB-Fin--NOUN-Nom (7655)</li>
+            <li>VERB-Fin--PRON (28)</li>
+            <li>VERB-Fin--PRON-Acc (3)</li>
             <li>VERB-Fin--PRON-Dat (1)</li>
-            <li>VERB-Fin--PRON-Gen (15)</li>
+            <li>VERB-Fin--PRON-Gen (5)</li>
             <li>VERB-Fin--PRON-Gen-ADP(kolem) (1)</li>
             <li>VERB-Fin--PRON-Ins (1)</li>
-            <li>VERB-Fin--PRON-Nom (535)</li>
+            <li>VERB-Fin--PRON-Nom (498)</li>
             <li>VERB-Inf--NOUN (2)</li>
             <li>VERB-Inf--NOUN-Acc (3)</li>
-            <li>VERB-Inf--NOUN-Gen (7)</li>
-            <li>VERB-Inf--NOUN-Nom (185)</li>
+            <li>VERB-Inf--NOUN-Gen (5)</li>
+            <li>VERB-Inf--NOUN-Nom (184)</li>
             <li>VERB-Inf--PRON-Nom (15)</li>
             <li>VERB-Part--NOUN (32)</li>
             <li>VERB-Part--NOUN-Acc (4)</li>
             <li>VERB-Part--NOUN-Acc-ADP(přes) (1)</li>
-            <li>VERB-Part--NOUN-Gen (137)</li>
-            <li>VERB-Part--NOUN-Gen-ADP(kolem) (2)</li>
+            <li>VERB-Part--NOUN-Gen (110)</li>
+            <li>VERB-Part--NOUN-Gen-ADP(kolem) (1)</li>
             <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
             <li>VERB-Part--NOUN-Gen-ADP(přes) (2)</li>
             <li>VERB-Part--NOUN-Ins (1)</li>
-            <li>VERB-Part--NOUN-Nom (3980)</li>
-            <li>VERB-Part--PRON (15)</li>
-            <li>VERB-Part--PRON-Acc (1)</li>
-            <li>VERB-Part--PRON-Gen (6)</li>
-            <li>VERB-Part--PRON-Nom (256)</li>
+            <li>VERB-Part--NOUN-Nom (3823)</li>
+            <li>VERB-Part--PRON (14)</li>
+            <li>VERB-Part--PRON-Gen (4)</li>
+            <li>VERB-Part--PRON-Nom (243)</li>
           </ul>
         </li>
       </ul>
@@ -6470,8 +6552,8 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat (1)</li>
             <li>VERB-Fin--NOUN-Gen (4)</li>
             <li>VERB-Fin--NOUN-Loc (1)</li>
-            <li>VERB-Fin--NOUN-Nom (627)</li>
-            <li>VERB-Fin--PRON-Nom (2)</li>
+            <li>VERB-Fin--NOUN-Nom (619)</li>
+            <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN-Nom (1)</li>
             <li>VERB-Part--NOUN-Gen (1)</li>
             <li>VERB-Part--NOUN-Nom (42)</li>
@@ -6487,20 +6569,19 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Fin--NOUN-Acc-ADP(přes) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (41)</li>
-            <li>VERB-Fin--NOUN-Nom (1289)</li>
+            <li>VERB-Fin--NOUN-Gen (25)</li>
+            <li>VERB-Fin--NOUN-Nom (1112)</li>
             <li>VERB-Fin--PRON (7)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
-            <li>VERB-Fin--PRON-Gen (4)</li>
-            <li>VERB-Fin--PRON-Nom (594)</li>
+            <li>VERB-Fin--PRON-Gen (1)</li>
+            <li>VERB-Fin--PRON-Nom (531)</li>
             <li>VERB-Inf--NOUN-Nom (19)</li>
-            <li>VERB-Inf--PRON-Gen (2)</li>
             <li>VERB-Inf--PRON-Nom (26)</li>
-            <li>VERB-Part--NOUN-Gen (65)</li>
-            <li>VERB-Part--NOUN-Nom (3212)</li>
+            <li>VERB-Part--NOUN-Gen (42)</li>
+            <li>VERB-Part--NOUN-Nom (3074)</li>
             <li>VERB-Part--PRON (10)</li>
-            <li>VERB-Part--PRON-Gen (9)</li>
-            <li>VERB-Part--PRON-Nom (708)</li>
+            <li>VERB-Part--PRON-Gen (8)</li>
+            <li>VERB-Part--PRON-Nom (678)</li>
           </ul>
         </li>
       </ul>
@@ -6512,51 +6593,50 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (123)</li>
+            <li>VERB-Fin--NOUN (119)</li>
             <li>VERB-Fin--NOUN-Acc (10)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(na) (4)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(přes) (1)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(k) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (679)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(kolem) (18)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(na) (22)</li>
+            <li>VERB-Fin--NOUN-Gen (452)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(kolem) (11)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(na) (18)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(okolo) (2)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(přes) (19)</li>
-            <li>VERB-Fin--NOUN-Nom (24257)</li>
-            <li>VERB-Fin--PRON (18)</li>
-            <li>VERB-Fin--PRON-Gen (30)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(přes) (15)</li>
+            <li>VERB-Fin--NOUN-Nom (22231)</li>
+            <li>VERB-Fin--PRON (17)</li>
+            <li>VERB-Fin--PRON-Gen (17)</li>
             <li>VERB-Fin--PRON-Gen-ADP(na) (1)</li>
             <li>VERB-Fin--PRON-Gen-ADP(okolo) (1)</li>
-            <li>VERB-Fin--PRON-Nom (1737)</li>
+            <li>VERB-Fin--PRON-Nom (1619)</li>
             <li>VERB-Fin--PRON-Voc (1)</li>
             <li>VERB-Inf--NOUN (6)</li>
             <li>VERB-Inf--NOUN-Acc (1)</li>
-            <li>VERB-Inf--NOUN-Gen (41)</li>
+            <li>VERB-Inf--NOUN-Gen (30)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(na) (3)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(okolo) (1)</li>
             <li>VERB-Inf--NOUN-Loc-ADP(po) (1)</li>
-            <li>VERB-Inf--NOUN-Nom (1125)</li>
+            <li>VERB-Inf--NOUN-Nom (1124)</li>
             <li>VERB-Inf--PRON-Acc (1)</li>
             <li>VERB-Inf--PRON-Nom (78)</li>
-            <li>VERB-Part--NOUN (75)</li>
+            <li>VERB-Part--NOUN (74)</li>
             <li>VERB-Part--NOUN-Acc (14)</li>
             <li>VERB-Part--NOUN-Acc-ADP(na) (5)</li>
             <li>VERB-Part--NOUN-Acc-ADP(přes) (5)</li>
-            <li>VERB-Part--NOUN-Gen (614)</li>
-            <li>VERB-Part--NOUN-Gen-ADP(kolem) (10)</li>
-            <li>VERB-Part--NOUN-Gen-ADP(na) (25)</li>
+            <li>VERB-Part--NOUN-Gen (544)</li>
+            <li>VERB-Part--NOUN-Gen-ADP(kolem) (9)</li>
+            <li>VERB-Part--NOUN-Gen-ADP(na) (23)</li>
             <li>VERB-Part--NOUN-Gen-ADP(okolo) (4)</li>
-            <li>VERB-Part--NOUN-Gen-ADP(přes) (8)</li>
+            <li>VERB-Part--NOUN-Gen-ADP(přes) (7)</li>
             <li>VERB-Part--NOUN-Ins (1)</li>
             <li>VERB-Part--NOUN-Loc-ADP(po) (3)</li>
-            <li>VERB-Part--NOUN-Nom (20367)</li>
+            <li>VERB-Part--NOUN-Nom (19945)</li>
             <li>VERB-Part--NOUN-Nom-ADP(de) (1)</li>
-            <li>VERB-Part--PRON (10)</li>
+            <li>VERB-Part--PRON (9)</li>
             <li>VERB-Part--PRON-Acc (3)</li>
             <li>VERB-Part--PRON-Dat (1)</li>
-            <li>VERB-Part--PRON-Gen (36)</li>
+            <li>VERB-Part--PRON-Gen (20)</li>
             <li>VERB-Part--PRON-Gen-ADP(na) (1)</li>
-            <li>VERB-Part--PRON-Nom (1157)</li>
+            <li>VERB-Part--PRON-Nom (1115)</li>
           </ul>
         </li>
       </ul>
@@ -6568,19 +6648,18 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (4)</li>
+            <li>VERB-Fin--NOUN (3)</li>
             <li>VERB-Fin--NOUN-Acc (1)</li>
-            <li>VERB-Fin--NOUN-Gen (11)</li>
-            <li>VERB-Fin--NOUN-Nom (212)</li>
-            <li>VERB-Fin--PRON-Nom (17)</li>
+            <li>VERB-Fin--NOUN-Gen (7)</li>
+            <li>VERB-Fin--NOUN-Nom (201)</li>
+            <li>VERB-Fin--PRON-Nom (15)</li>
             <li>VERB-Inf--NOUN-Nom (7)</li>
             <li>VERB-Part--NOUN (4)</li>
             <li>VERB-Part--NOUN-Acc (3)</li>
-            <li>VERB-Part--NOUN-Gen (7)</li>
+            <li>VERB-Part--NOUN-Gen (6)</li>
             <li>VERB-Part--NOUN-Gen-ADP(kolem) (1)</li>
-            <li>VERB-Part--NOUN-Nom (293)</li>
+            <li>VERB-Part--NOUN-Nom (291)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
-            <li>VERB-Part--PRON-Gen (2)</li>
             <li>VERB-Part--PRON-Nom (22)</li>
           </ul>
         </li>
@@ -6602,7 +6681,7 @@ udver: '2'
             <li>VERB-Fin--PRON (18)</li>
             <li>VERB-Fin--PRON-Acc (612)</li>
             <li>VERB-Fin--PRON-Gen (4)</li>
-            <li>VERB-Fin--PRON-Nom (7)</li>
+            <li>VERB-Fin--PRON-Nom (6)</li>
             <li>VERB-Inf--NOUN (5)</li>
             <li>VERB-Inf--NOUN-Acc (3542)</li>
             <li>VERB-Inf--NOUN-Gen (34)</li>
@@ -6655,7 +6734,7 @@ udver: '2'
             <li>VERB-Fin--PRON (1)</li>
             <li>VERB-Fin--PRON-Acc (731)</li>
             <li>VERB-Fin--PRON-Gen (3)</li>
-            <li>VERB-Fin--PRON-Nom (2)</li>
+            <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN-Acc (678)</li>
             <li>VERB-Inf--NOUN-Gen (19)</li>
             <li>VERB-Inf--NOUN-Nom (2)</li>
@@ -6682,7 +6761,7 @@ udver: '2'
             <li>VERB-Conv--PRON-Acc (2)</li>
             <li>VERB-Fin--NOUN (88)</li>
             <li>VERB-Fin--NOUN-Acc (14708)</li>
-            <li>VERB-Fin--NOUN-Gen (677)</li>
+            <li>VERB-Fin--NOUN-Gen (676)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(na) (3)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(o) (6)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(za) (2)</li>
@@ -6692,8 +6771,8 @@ udver: '2'
             <li>VERB-Fin--PRON-Gen (19)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN (31)</li>
-            <li>VERB-Inf--NOUN-Acc (9904)</li>
-            <li>VERB-Inf--NOUN-Gen (266)</li>
+            <li>VERB-Inf--NOUN-Acc (9903)</li>
+            <li>VERB-Inf--NOUN-Gen (265)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(na) (2)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
             <li>VERB-Inf--NOUN-Nom (19)</li>
@@ -6719,9 +6798,9 @@ udver: '2'
           <ul>
             <li>VERB-Conv--NOUN-Acc (1)</li>
             <li>VERB-Fin--NOUN (1)</li>
-            <li>VERB-Fin--NOUN-Acc (157)</li>
+            <li>VERB-Fin--NOUN-Acc (156)</li>
             <li>VERB-Fin--NOUN-Gen (7)</li>
-            <li>VERB-Fin--NOUN-Nom (2)</li>
+            <li>VERB-Fin--NOUN-Nom (1)</li>
             <li>VERB-Fin--PRON-Acc (17)</li>
             <li>VERB-Inf--NOUN (2)</li>
             <li>VERB-Inf--NOUN-Acc (127)</li>
