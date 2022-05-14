@@ -70,4 +70,4 @@ Another place where `list` has been used is for a sequence of attributes or desc
 ~~~
 
 However, `list` should not be over-used. If a construction can be easily analyzed using the grammatical relations of standard sentences, such as when there is overt coordination, then it should be analyzed with these more standard relations, even if it is laid out as a list typographically.
-<!-- Interlanguage links updated St lis 3 20:58:56 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:42 CEST 2022 -->

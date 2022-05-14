@@ -37,4 +37,4 @@ Yes/no questions never occur with _ий_, but may end with the particle _дуо_
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:19 CEST 2022 -->

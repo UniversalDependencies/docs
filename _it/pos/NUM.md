@@ -48,4 +48,4 @@ Tagged as [PRON]():
 
 [Enciclopedia Treccani](http://www.treccani.it/enciclopedia/aggettivi-numerali-ordinali_%28La_grammatica_italiana%29/)
 
-<!-- Interlanguage links updated St lis 3 20:58:11 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:51 CEST 2022 -->

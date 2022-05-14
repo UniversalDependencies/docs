@@ -40,4 +40,4 @@ In Pomak, the feature `NumType` is assigned to the following parts of speech:
 
 - *annóš* "μια φορά", *dvaš* "δυο φορές / δις", *triš* "τρεις φορές / τρις", *čétriš "τέσσερις φορές / τετράκις"*, *beš keré(t)* "πεντάκις", *altý keré(t)* "εξάκις", *jedí keré(t)* "επτάκις", *ellí keré(t)* "πενήντα φορές", *jus keré(t)* "εκατό φορές", *bin keré(t)* "χίλιες φορές"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:27 CEST 2022 -->

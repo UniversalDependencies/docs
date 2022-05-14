@@ -15,4 +15,4 @@ Nouns are a part of speech typically denoting a person, place, thing, animal or 
 - _table_
 - _mestres_
 
-<!-- Interlanguage links updated St lis 3 20:58:11 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:50 CEST 2022 -->

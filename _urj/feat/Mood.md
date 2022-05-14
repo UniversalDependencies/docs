@@ -16,4 +16,4 @@ Mood is a verbal feature. In Uralics it is often described together with
   jussive, optative, eventive and necessive and the UD descriptions thereof
 
 
-<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:21 CEST 2022 -->

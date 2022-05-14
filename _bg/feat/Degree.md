@@ -44,4 +44,4 @@ objects within a set.
 
 - Този стол е <b>най-удобният</b> от всички / _Tozi stol e <b>nay-udobniyat</b> ot vsichki_ "This chair is the most comfortable of all"
 - Той е <b>най-младият</b> учител в училището / _Toy e <b>nay-mladiyat</b> uchitel v uchilishteto_ "He is the youngest teacher in the school"
-<!-- Interlanguage links updated St lis 3 20:58:19 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:10 CEST 2022 -->

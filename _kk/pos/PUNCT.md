@@ -12,4 +12,4 @@ used to delimit linguistic units in printed text.
 * Full stop: _<b>.</b>_
 * Comma: _<b>,</b>_
 * Parentheses: _<b>()</b>_
-<!-- Interlanguage links updated St lis 3 20:58:14 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:56 CEST 2022 -->

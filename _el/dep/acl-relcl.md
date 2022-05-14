@@ -46,4 +46,4 @@ neg(περιέχει, μην)
 <!---
 TODO: Revisit arguments for pou being a marker or a relative pronoun
 -->
-<!-- Interlanguage links updated St lis 3 20:58:33 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:49 CEST 2022 -->

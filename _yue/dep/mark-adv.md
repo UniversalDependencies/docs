@@ -22,4 +22,4 @@ We use this relation to label the manner adverbializer 噉 _gam2_ when it follow
 2	hurriedly"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:57 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:43 CEST 2022 -->

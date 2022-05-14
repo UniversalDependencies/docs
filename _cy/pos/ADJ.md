@@ -20,4 +20,4 @@ Adjectives become adverbs by using the predicative particle _yn_
 
 * _Mae hi'n rhedeg **yn gyflym**_ "she is running fast"
 
-<!-- Interlanguage links updated St lis 3 20:58:06 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:41 CEST 2022 -->

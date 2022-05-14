@@ -35,3 +35,4 @@ Also when acronyms are spelled out, e.g.,  #μου-μου-ε* (spelling out of t
 -	Place names: street names in the genitive case resulting from the drop of the noun *οδός* / *odos* "street", such as *(οδός) Ερμού* / *(odos) Ermou* "Ermou (street)"
 
 Surnames in the GENitive case, like *Κανέλλου* / *Kanelou*  (feminine)  and  *Δημητρίου* /  *Dimitriou* (masculine/femnine), do not inflect and are assigned their own form as a lemma, e.g., the lemma is *Κανέλλου*.  
+<!-- Interlanguage links updated So kvě 14 19:01:54 CEST 2022 -->

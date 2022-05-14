@@ -51,4 +51,4 @@ acl:relcl(see-5, suutnud-11)
 aux(suutnud-11, pole-10)
 ~~~
 
-<!-- Interlanguage links updated St lis 3 20:58:34 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:49 CEST 2022 -->

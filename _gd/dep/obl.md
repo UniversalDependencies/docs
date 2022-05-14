@@ -44,4 +44,4 @@ _Bha ealain a’ bhàird a' toirt cothrom do 'n <b>luchd-éisteachd</b>_ 'The wo
 10	luchd-éisteachd	neach-éisteachd	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
 
 ~~~
-<!-- Interlanguage links updated St lis 3 20:59:04 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:04:01 CEST 2022 -->

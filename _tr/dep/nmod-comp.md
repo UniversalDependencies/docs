@@ -19,4 +19,4 @@ nmod:comp(sıcak, Türkiye'den)
 Benden çok okudu . \n He\/she read more than me (more than I did)
 nmod:comp(çok, Benden)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:58 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:47 CEST 2022 -->

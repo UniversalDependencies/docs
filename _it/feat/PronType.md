@@ -138,4 +138,4 @@ It is used to mark ordinal pronouns. Part of speech is PRON/NO. When ordinals ar
 * Un _quarto_ d'ora "a quarter of an hour"
 * Valentina è _quinta_ "Valentina is fifth"
 
-<!-- Interlanguage links updated St lis 3 20:58:28 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:35 CEST 2022 -->

@@ -48,4 +48,4 @@ while participating in a [case]() or [mark]() relation: see [ADP]().
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a verb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAVerbLinguistics.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Verb)
-<!-- Interlanguage links updated St lis 3 20:58:15 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:59 CEST 2022 -->

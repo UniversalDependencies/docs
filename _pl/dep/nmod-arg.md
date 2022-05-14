@@ -38,4 +38,4 @@ The `nmod:arg` relation is used in the Polish [PDB-UD](http://universaldependenc
 13	1940	_	_	_	_	_	_	_	_
 14	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:58 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:46 CEST 2022 -->

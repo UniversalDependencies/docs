@@ -19,4 +19,4 @@ Onomatopoeic words (擬聲詞 / _nǐshēngcí_) should only be treated as interj
 - 哎哟 / _āiyō_
 - 嗨 / _hāi_
 - 欸 / _āi_
-<!-- Interlanguage links updated St lis 3 20:58:10 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:49 CEST 2022 -->

@@ -167,4 +167,4 @@ In Erzya the transitive can be used in both the noun phrase and the verbal claus
 * [myv] _Ялгам совась <b>инжекс</b>_ "My friend came <b>to visit (as a visitor)</b>"
 * [myv] _<b>Кудокс</b> чокштнэнь кандынек латалов_ "We carried the logs <b>for the house</b> under the roof."
 
-<!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:05 CEST 2022 -->

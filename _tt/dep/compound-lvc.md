@@ -18,4 +18,4 @@ subj(итте, Ул)
 ~~~
 
 Most common verbs that act like as a light verb is _ит-_.
-<!-- Interlanguage links updated St lis 3 20:58:45 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:16 CEST 2022 -->

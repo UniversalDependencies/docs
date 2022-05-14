@@ -21,4 +21,4 @@ appos(Bill-1, cousin-5)
 The Australian Broadcasting Corporation ( ABC )
 appos(Corporation-4, ABC-6)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:39 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:01 CEST 2022 -->

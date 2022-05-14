@@ -25,4 +25,4 @@ fields.
 * [fi] _syönyt_ "eaten", _olin <b>syömässä</b>_ "I was <b>eating</b>",
   _<b>syövä</b> mies_ "<b>eating</b> man"
 
-<!-- Interlanguage links updated St lis 3 20:58:15 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:59 CEST 2022 -->

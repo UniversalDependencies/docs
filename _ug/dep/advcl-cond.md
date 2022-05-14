@@ -18,4 +18,4 @@ There are also two redundant words, _eğer_ and _şayet_ that may be included at
 Use of these words are only for emphasis or an early signal that a conditional clause follows.
 We use [discourse]() (not [mark]()) for marking the relation between these words and head of the conditional clause.
 
-<!-- Interlanguage links updated St lis 3 20:58:35 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:51 CEST 2022 -->

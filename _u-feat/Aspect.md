@@ -126,4 +126,4 @@ as language-specific for Hungarian, though it was called _frequentative_ there
 #### Examples
 
 * [hu] _üt_ “hit”, _<b>ütöget</b>_ “hit several times”
-<!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:04 CEST 2022 -->

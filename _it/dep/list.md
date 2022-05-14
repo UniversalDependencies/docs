@@ -22,4 +22,4 @@ list(TT, Lega)
 ~~~
 
 <code>list</code> covers bullet points, numbered lists and similar cases, as illustrated above. However it does **not** cover list items constructed with coordinating conjunctions and punctuation: those cases are covered by the dependency relations [cc]() and [conj]().
-<!-- Interlanguage links updated St lis 3 20:58:56 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:41 CEST 2022 -->

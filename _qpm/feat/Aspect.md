@@ -74,4 +74,4 @@ Telic point of view: the description focuses on the telic events in the iteratio
 * _píšašo_ "έγραφε (σε μεμονωμένη επανάληψη)" <!--πρόταση;;;;-->
 
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:04 CEST 2022 -->

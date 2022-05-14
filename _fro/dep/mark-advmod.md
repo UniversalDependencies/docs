@@ -20,4 +20,4 @@ conj(coment, quoi)
 cc(quoi, et-18)
 case(quoi, por)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:57 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:43 CEST 2022 -->

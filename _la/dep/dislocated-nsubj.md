@@ -20,4 +20,4 @@ nsubj(he-will-teach,that)
 ~~~
 
 '**The Paraclete, the Holy Ghost**, whom the Father will send in My name, <u>He</u> will teach you all things.' (*Summa contra Gentiles* citing John 14:26, ITTB)
-<!-- Interlanguage links updated St lis 3 20:58:52 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:32 CEST 2022 -->

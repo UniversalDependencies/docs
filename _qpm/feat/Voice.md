@@ -46,4 +46,4 @@ https://drive.google.com/file/d/1zoCi4c_yTYkJgrt0w0hmVwioA2gOWMT0/view?usp=shari
 * _küprǘjesa je právena at Pomáceh_ "η γέφυρα είναι κατασκευασμένη από Πομάκους"
 * _pótet so adbávi ad daždáte_ "ο δρόμος χάλασε από τη βροχή"
 -->
-<!-- Interlanguage links updated Pá kvě 14 11:08:43 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:45 CEST 2022 -->

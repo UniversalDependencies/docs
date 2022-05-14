@@ -19,3 +19,4 @@ In Ancient Hebrew, `Gender` is marked on [nouns](hbo-pos/NOUN) (lexically specif
 
 * _היא, הן_
 
+<!-- Interlanguage links updated So kvě 14 19:02:16 CEST 2022 -->

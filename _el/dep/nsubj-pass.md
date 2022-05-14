@@ -38,4 +38,4 @@ nsubj(κοιμάται, παιδί)
 Έρχεται παγετός
 nsubj(Έρχεται, παγετός)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:59:01 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:55 CEST 2022 -->

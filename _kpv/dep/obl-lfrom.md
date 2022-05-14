@@ -19,4 +19,4 @@ nmod:subj(пуксигӧн-2, Шонді-1)
 
 ~~~
 
-<!-- Interlanguage links updated St lis 3 20:59:05 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:04:04 CEST 2022 -->

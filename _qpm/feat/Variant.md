@@ -21,4 +21,4 @@ The `Variant` feature helps distinguish alternate forms.
 * _íšteš li da tó pójemom sas móne?_ "θέλεις να σε πάρω μαζί μου;"
 * _parǘkaho mó na svádbo_ "με κάλεσαν σε γάμο"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:43 CEST 2022 -->

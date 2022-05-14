@@ -37,4 +37,4 @@ When paired with 嘅 _ge3_, the adjective acts as head of the particle in a [mar
 2	problem"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:39 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:01 CEST 2022 -->

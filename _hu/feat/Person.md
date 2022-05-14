@@ -36,4 +36,4 @@ speakers nor addressees.
 
 * [hu] _<b>alszik</b>_ “<b>he sleeps</b>”
 
-<!-- Interlanguage links updated St lis 3 20:58:26 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:30 CEST 2022 -->

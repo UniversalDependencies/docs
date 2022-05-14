@@ -58,4 +58,4 @@ particles `na / ne` (negative) and `namój / namójte` (prohibitive). The partic
         - *<b>Namójte barzá</b>, ráno sí je* "<b>Μην βιάζεστε</b>, είναι νωρίς ακόμα"
         - *<b>Namój zabaravǽ</b> kutrí tí pamógna da atvóriš dükǽnate* "<b>Μην ξεχνάς</b> ποιος σε βοήθησε να ανοίξεις το μαγαζί"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:33 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:21 CEST 2022 -->

@@ -16,4 +16,4 @@ advcl:lcl(Веськытланьын, тыдалӧны)
 ~~~
 
 
-<!-- Interlanguage links updated St lis 3 20:58:35 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:52 CEST 2022 -->

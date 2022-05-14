@@ -59,4 +59,4 @@ However, sometimes a word modifying an `ADJ` is still regarded as an `ADJ`. Thes
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adjective?](https://glossary.sil.org/term/adjective)
 - [Wikipedia](http://en.wikipedia.org/wiki/Adjective)
-<!-- Interlanguage links updated St lis 3 20:58:07 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:42 CEST 2022 -->

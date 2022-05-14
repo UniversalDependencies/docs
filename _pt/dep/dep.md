@@ -17,4 +17,4 @@ dep(Fica, sinalizado)
 ~~~
 
 In this example `dep` is used due the ambiguity of _sinalizado_  between adjective and verb participle.
-<!-- Interlanguage links updated St lis 3 20:58:49 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:24 CEST 2022 -->

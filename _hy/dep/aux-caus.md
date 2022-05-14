@@ -32,4 +32,4 @@ obl(to-bring, from-Berlin)
 ~~~
 
 For more details see [specific-syntax](http://universaldependencies.org/hy/overview/specific-syntax.html).
-<!-- Interlanguage links updated St lis 3 20:58:40 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:04 CEST 2022 -->

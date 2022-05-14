@@ -81,4 +81,4 @@ Pomak expresses degree modification of nouns, adjectives, past participles and a
 	* _zavíttišiček (zavít)_ "σκεπασμένος / τυλιγμένος πολύ καλά"
 	* _zalǽttišiček (zalǽt)_ "ποτισμένος πολύ καλά"
  
-<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->

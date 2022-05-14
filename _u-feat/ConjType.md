@@ -34,4 +34,4 @@ Examples: [cs] krát (times), plus, minus
 Examples: [pl] jako (as)
 
 
-<!-- Interlanguage links updated St lis 3 20:58:19 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:08 CEST 2022 -->

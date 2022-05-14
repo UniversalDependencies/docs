@@ -26,4 +26,4 @@ Note, that there is _infixed punctuation_ (exclamation, emphasis and question ma
 -	Emphasis mark, Acute accent: _<b>՛</b>_
 -	Apostrophe: _<b>՚</b>_
 -	Armenian hyphen (yentamna): _<b>֊</b>_
-<!-- Interlanguage links updated St lis 3 20:58:14 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:56 CEST 2022 -->

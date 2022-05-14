@@ -16,4 +16,4 @@ vocative(ta, Killar)
 David , hur är läget ? \n David, how 's it going ?
 vocative(hur, David)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:59:10 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:04:16 CEST 2022 -->

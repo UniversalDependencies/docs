@@ -49,4 +49,4 @@ is no such thing as “affirmative pronoun”.)
 * _<b>nerozumný</b>&nbsp;_ “unwise”
 * _<b>nepěkně</b>&nbsp;_ “nastily”
 * _<b>nepřijetí</b>&nbsp;_ “non-acceptance, rejection”
-<!-- Interlanguage links updated St lis 3 20:58:27 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:32 CEST 2022 -->

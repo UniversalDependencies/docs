@@ -24,4 +24,4 @@ Note: This feature is new in UD version 2. It was used as a language-specific ad
 ### <a name="Yes">`Yes`</a>: it is foreign
 
 Example: [en] _He said I could "<b>dra åt helvete!</b>"_
-<!-- Interlanguage links updated St lis 3 20:58:21 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:15 CEST 2022 -->

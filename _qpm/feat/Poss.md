@@ -30,4 +30,4 @@ Note that there is no `No` value. If the word is not possessive, the `Poss` feat
 * κτητικά επίθετα:
     * _bubájkov, brátov / bátev, dǽdov, kalékov, újkov, amíǧev, májčin, séstrin / búlin, nevǽstin, bábin, lélin, účinin, starčinín_ "του πατέρα, του αδερφού, του παππού, του θείου, του θείου, του θείου, της μητέρας, της αδερφής, της νύφης, της γιαγιάς, της θείας, της θείας, της θείας"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:39 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:34 CEST 2022 -->

@@ -37,4 +37,4 @@ Positive polarity (affirmativeness) is rarely, encoded using overt morphology. N
 #### Example
 
 * _dem want come every day ? <b>yes</b>_ "Do they want to come every day ? Yes"
-<!-- Interlanguage links updated St lis 3 20:58:27 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:32 CEST 2022 -->

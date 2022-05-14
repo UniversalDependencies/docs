@@ -10,4 +10,4 @@ Boolean feature. Is this a foreign word?
 ### <a name="Yes">`Yes`</a>: it is foreign
 
 Example: [sv] _Bayless är Sveriges förste '<b>drilling manager</b>'._
-<!-- Interlanguage links updated St lis 3 20:58:21 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:15 CEST 2022 -->

@@ -39,4 +39,4 @@ aux(mugitzen-5, zen-3)
 nsubj(mugitzen-5, ezer-4)
 punct(mugitzen-5, .-6)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:35 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:53 CEST 2022 -->

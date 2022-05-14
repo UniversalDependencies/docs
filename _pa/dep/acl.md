@@ -58,3 +58,4 @@ obl(going, India)
 mark(ਜਾਣ, ਦੀ)
 mark(going, GEN)
 ~~~
+<!-- Interlanguage links updated So kvě 14 19:02:47 CEST 2022 -->

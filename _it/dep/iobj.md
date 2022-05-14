@@ -15,4 +15,4 @@ iobj(regalò, le)
 Mi pare che siano proposte serie e condivisibili .
 iobj(pare, Mi)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:56 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:40 CEST 2022 -->

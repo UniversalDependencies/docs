@@ -42,4 +42,4 @@ The entity is far away from the reference point (e.g., from the speaker).
 Διόρθωσε τα αρχεία σου
 -->
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:31 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->

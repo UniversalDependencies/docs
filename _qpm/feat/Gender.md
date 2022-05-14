@@ -120,4 +120,4 @@ Examples:
 - _<b>kúpeno</b>_ "αγορασμένο"
 - _<b>amýto</b>_ "πλυμένο"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:32 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:16 CEST 2022 -->

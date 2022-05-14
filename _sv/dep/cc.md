@@ -33,4 +33,4 @@ conj(äpplen, apelsiner)
 Och du har inte bara en chans \n And you don't have just one chance
 cc(har, Och)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:43 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:11 CEST 2022 -->

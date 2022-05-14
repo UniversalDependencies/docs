@@ -35,4 +35,4 @@ Is added to the core of the question.
 
 * [sms] _Haaʹlääk<b>-a</b> mõõnnâd?_ "Do you want to go?"
 
-<!-- Interlanguage links updated St lis 3 20:58:18 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:06 CEST 2022 -->

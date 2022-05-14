@@ -14,4 +14,4 @@ a- skʷi -i a- gʷoːj =t // hoːj ɖaːb -ja -i iː- ha //
 text_en: "I chased him, and I could not (catch up with him), and he run away from there.
 dep:conj(ɖaːb, gʷoːj) ("run", "be_unable")
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:49 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:26 CEST 2022 -->

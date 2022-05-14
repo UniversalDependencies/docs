@@ -60,4 +60,4 @@ amod:attlvc(látogatásuk, tett)
 case(látogatásuk, alatt)
 ~~~
 
-<!-- Interlanguage links updated St lis 3 20:59:01 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:54 CEST 2022 -->

@@ -44,4 +44,4 @@ speakers nor addressees.
 
 * [quc] _<b>areʼ</b>_ "he/she", _<b>eʼareʼ</b>_ "they"
 
-<!-- Interlanguage links updated St lis 3 20:58:26 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:30 CEST 2022 -->

@@ -22,3 +22,4 @@ udver: '2'
 #### Examples
 
 * _ישׁמור_ "he will guard"
+<!-- Interlanguage links updated So kvě 14 19:02:30 CEST 2022 -->

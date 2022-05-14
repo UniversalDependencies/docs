@@ -38,3 +38,4 @@ iobj(told, to.her)
 xcomp(ਆਖਿਆ, ਜਾਣ)
 xcomp(told, going)
 ~~~
+<!-- Interlanguage links updated So kvě 14 19:04:17 CEST 2022 -->

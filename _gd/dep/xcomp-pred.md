@@ -16,4 +16,4 @@ Tha m' amhaich goirt 's tha mi a' call mo ghuth \n is my throat sore and am I AS
 xcomp:pred(Tha, goirt)
 xcomp:pred(tha, call)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:59:11 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:04:18 CEST 2022 -->

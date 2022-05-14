@@ -35,4 +35,4 @@ This feature marks both the short forms and the long forms, hence there are the 
 * _<b>тень</b>_ “to me”, _<b>теть</b>_ “to you”, _<b>тензэ</b>_ “to him/her/it”, _<b>тенек</b>_ “to us”, _<b>тенк</b>_ “to you”, _<b>тенст</b>_ “to them”
 * _<b>эстень</b>_ “to me myself”, _<b>эстеть</b>_ “to you yourself”, _<b>эстензэ</b>_ “to him himself/her herself/it itself”, _<b>эстенек</b>_ “to us ourselves”, _<b>эстенк</b>_ “to you yourselves”, _<b>эстенст</b>_ “to them themselves”
 
-<!-- Interlanguage links updated St lis 3 20:58:31 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:43 CEST 2022 -->

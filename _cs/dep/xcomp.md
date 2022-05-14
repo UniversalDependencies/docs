@@ -58,4 +58,4 @@ Slíbil jsem psát . \n Promised I-have to-write .
 xcomp(Slíbil, psát)
 xcomp(Promised, to-write)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:59:11 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:04:17 CEST 2022 -->

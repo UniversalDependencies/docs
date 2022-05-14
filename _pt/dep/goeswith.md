@@ -13,4 +13,4 @@ The head is in some sense the “main” part, often the second part.
 Computa dor é um aparelho .
 goeswith(Computa, dor)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:55 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:39 CEST 2022 -->

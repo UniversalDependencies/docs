@@ -42,4 +42,4 @@ cc(MF-14, And)
 punct(MF-6, ?-7)
 punct(MF-14, ?-15)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:59:09 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:04:15 CEST 2022 -->

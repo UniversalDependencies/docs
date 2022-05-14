@@ -384,4 +384,4 @@ Most nominal parts of speech are also represented by some indeclinable members t
 
 There seem to be no indeclinable finite forms of verbs nor pronouns. 
 
-<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:18 CEST 2022 -->

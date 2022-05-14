@@ -17,3 +17,4 @@ compound:smixut(יושבי, עיר)
 יושבי העיר
 
 "the inhabitants of the city"
+<!-- Interlanguage links updated So kvě 14 19:03:17 CEST 2022 -->

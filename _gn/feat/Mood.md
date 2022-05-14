@@ -65,4 +65,4 @@ Contiguity is more often associated with
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
 
-<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:20 CEST 2022 -->

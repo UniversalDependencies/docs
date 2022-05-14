@@ -126,4 +126,4 @@ Emphatic pro-adjectives (determiners) emphasize the nominal they depend on. Ther
 
 #### Examples
 * _samýj_
-<!-- Interlanguage links updated Pá kvě 14 11:08:39 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:35 CEST 2022 -->

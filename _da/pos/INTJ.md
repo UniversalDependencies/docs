@@ -13,4 +13,4 @@ Examples
 Hmm! “Thanks!”
 Åh! “Oh!”
 Hej! “Hello!”
-<!-- Interlanguage links updated St lis 3 20:58:10 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:48 CEST 2022 -->

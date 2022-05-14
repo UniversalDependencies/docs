@@ -42,4 +42,4 @@ Certain Pomak determiners and adverbs that are tagged with 'PronType=Int' are co
 - *sǽ kugá* "πάντοτε"
 - *sǽ kak* "παντοιοτρόπως"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:29 CEST 2022 -->

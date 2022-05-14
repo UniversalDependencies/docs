@@ -141,4 +141,4 @@ Perfect (active) infinitive | *amauisse*
 * ***audiuisse*** 'to have heard'
 * ***deargentassere*** 'to be going to deprive of money' (Lucil., Sat. 682)
 
-<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:19 CEST 2022 -->

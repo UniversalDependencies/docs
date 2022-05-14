@@ -16,4 +16,4 @@ but they are tagged as `VERB`, and their dependency label indicates their use (a
 ### Examples
 
 * _Укырга теләр идек_ "We would like to study."
-<!-- Interlanguage links updated St lis 3 20:58:08 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:45 CEST 2022 -->

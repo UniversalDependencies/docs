@@ -88,4 +88,4 @@ The advcl:cleft relation is also used in questions containing interrogative word
 7	deal	_	_	_	_	0	_	_	_
 8	with	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:34 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:51 CEST 2022 -->

@@ -17,4 +17,4 @@ An interjection is a word that is used most often as an exclamation or part of a
 - *lütfen*  "please"
 - *tabii*   "of course"
 - *işte*
-<!-- Interlanguage links updated St lis 3 20:58:10 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:49 CEST 2022 -->

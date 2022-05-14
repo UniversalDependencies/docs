@@ -56,4 +56,4 @@ case:loc(այգու, մոտի)
 nmod:obl(the-brook, the-garden)
 case:loc(the-garden, near)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:59 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:48 CEST 2022 -->

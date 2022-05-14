@@ -14,4 +14,4 @@ Armenian uses `flat:dist` for numerical distributions.
 3	դրամ	դրամ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=dram|LTranslit=dram
 
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:55 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:37 CEST 2022 -->

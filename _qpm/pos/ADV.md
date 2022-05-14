@@ -103,4 +103,4 @@ About the diminutives of the following adverbs (*húbbefce [húbbe]* "so and so"
 
 The comparative and superlative degree of adverbs is formed with the adverbs  _po_ and _naj_ respectively: they both are distinct words.   Τhe feature [Degree](feat/Degree.md) is used to denote the positive, comparative and superlative degre of adverbs and is assigned one of the values  `Pos`, `Cmp` και `Sup` respectively. Only the comparative and the superlative degree have been declared so far while the positive degree is treated as the default.
  
-<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:44 CEST 2022 -->

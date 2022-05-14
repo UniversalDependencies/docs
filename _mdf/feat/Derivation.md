@@ -66,4 +66,4 @@ Produces wife address name based on husband's name/nick name.
 
 * [mdf] _<b>Цямкаерясь</b> _ "Tsiamkaj's wife"
 
-<!-- Interlanguage links updated St lis 3 20:58:20 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:12 CEST 2022 -->

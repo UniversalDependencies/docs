@@ -20,4 +20,4 @@ orphan:missing(GAP,tibi-12)
 orphan:missing(GAP,spondimus)
 root(ROOT,GAP)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:59:07 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:04:09 CEST 2022 -->

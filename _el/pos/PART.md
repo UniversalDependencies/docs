@@ -29,3 +29,4 @@ Hint: *όχι" / *ochi* "no/not" should be tagged as [PART]() and <code>Polarity
 Τριανταφυλλίδης, Μανόλης. 1941, Reprinted 2000. *Νεοελληνική Γραμματική. Αθήνα: Οργανισμός Εκδόσεως Διδακτικών Βιβλίων*: 203-205.
          
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
+<!-- Interlanguage links updated So kvě 14 19:01:52 CEST 2022 -->

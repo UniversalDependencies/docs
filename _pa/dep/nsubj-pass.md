@@ -16,3 +16,4 @@ nsubj:pass(seen, patient)
 aux:pass(ਵੇਖਿਆ, ਗਿਆ)
 aux:pass(seen, was)
 ~~~
+<!-- Interlanguage links updated So kvě 14 19:03:55 CEST 2022 -->

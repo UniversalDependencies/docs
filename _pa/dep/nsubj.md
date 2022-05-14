@@ -66,3 +66,4 @@ csubj(right, saying)
 cop(ਠੀਕ, ਸੀ)
 cop(right, was)
 ~~~
+<!-- Interlanguage links updated So kvě 14 19:03:52 CEST 2022 -->

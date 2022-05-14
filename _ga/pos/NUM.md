@@ -33,4 +33,4 @@ Irish numbers are split into three categories: cardinal, ordinal and personal. T
 * _<b>cuig</b> ghlúin_ "five generations"
 * _<b>cúigear</b>_ "five people"
 * _<b>cúigear</b> fear_ "five men"
-<!-- Interlanguage links updated St lis 3 20:58:11 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:51 CEST 2022 -->

@@ -23,4 +23,4 @@ The `csubj` relation is used when the subject of a clause is a clause in itself.
 
 ~~~
 'It is difficult to feed him'.
-<!-- Interlanguage links updated St lis 3 20:58:48 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:21 CEST 2022 -->

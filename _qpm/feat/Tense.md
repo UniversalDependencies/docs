@@ -71,4 +71,4 @@ The present tense denotes actions that are happening right now, that are crossin
 - *da na <b>zabaráviš<b> da mí <b>kúpiš</b> hlǽba* "να μην <b>ξεχάσεις</b> να μού <b>αγοράσεις</b> ψωμί"
 - *še to <b>pópytom</b> annó rábato i íštom <b>kážaš</b> na právo* "θα σε <b>ρωτήσω</b> ένα πράγμα και θέλω να μου <b>πεις</b> στα ίσα"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:41 CEST 2022 -->

@@ -99,4 +99,4 @@ and [Number]() (although plural forms are rarely used).
 - _nesení_ &nbsp;“carrying”
 - _bytí_ &nbsp;“being”
 
-<!-- Interlanguage links updated St lis 3 20:58:31 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:43 CEST 2022 -->

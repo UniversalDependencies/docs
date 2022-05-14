@@ -42,3 +42,4 @@ nsubj(votes, where)
 acl:relcl(ਪਿੰਡ, ਵੋਟਾਂ)
 acl:relcl(village, votes)
 ~~~
+<!-- Interlanguage links updated So kvě 14 19:02:49 CEST 2022 -->

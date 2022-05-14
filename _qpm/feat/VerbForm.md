@@ -128,4 +128,4 @@ A very special type of Pomamk infinitives is related to a small number of imperf
 - *vórttiti vórttiti (vórtem)* "γύρνα και γύρνα"
 - *séktiti séktiti (séčem)* "χτύπα και χτύπα (με το τσεκούρι)"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:44 CEST 2022 -->

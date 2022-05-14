@@ -34,4 +34,4 @@ xcomp(looks, beautiful)
 
 For additional examples and discussion, see the universal [xcomp](../../u/dep/xcomp.html) page.
 
-<!-- Interlanguage links updated St lis 3 20:59:11 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:04:17 CEST 2022 -->

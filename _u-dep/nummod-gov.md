@@ -31,4 +31,4 @@ punct(played, .-11)
 
 See also [det:numgov]() and [det:nummod]().
 
-<!-- Interlanguage links updated St lis 3 20:59:03 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:58 CEST 2022 -->

@@ -17,4 +17,4 @@ nsubj:bfoc(BP-FUT-take.out, child)
 
 “A/the woman will take some rice out of a/the sack for the child.”
 
-<!-- Interlanguage links updated St lis 3 20:59:00 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:52 CEST 2022 -->

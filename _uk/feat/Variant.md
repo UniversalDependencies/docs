@@ -54,4 +54,4 @@ They are separate words (unlike in some other languages) but in the word order t
 
 * _<b>бідная</b>_ (instead of _бідна_) “poor”
 
-<!-- Interlanguage links updated St lis 3 20:58:31 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:43 CEST 2022 -->

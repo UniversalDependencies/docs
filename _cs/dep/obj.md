@@ -60,4 +60,4 @@ then the former is `obj` and the latter `iobj`. But such heuristics do not cover
 and even ditransitive verbs may occur without one of their objects because of ellipsis.
 In future, the valency lexicon <a href="http://ufal.mff.cuni.cz/vallex">Vallex</a>
 could be used to identify the main object.
-<!-- Interlanguage links updated St lis 3 20:59:03 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:58 CEST 2022 -->

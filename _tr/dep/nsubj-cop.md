@@ -19,4 +19,4 @@ advmod(kuiva-4, jo-3)
 punct(kuiva-4, .-5)
 ~~~
 
-<!-- Interlanguage links updated St lis 3 20:59:01 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:53 CEST 2022 -->

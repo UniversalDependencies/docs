@@ -44,3 +44,4 @@ acl(this, will.go)
 mark(ਜਾਵੇਗਾ, ਕਿ)
 mark(will.go, that)
 ~~~
+<!-- Interlanguage links updated So kvě 14 19:03:12 CEST 2022 -->

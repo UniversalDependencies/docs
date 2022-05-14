@@ -62,4 +62,4 @@ The vocative case is typically used to address someone.
 * _kadé si, bre <b>dúšo</b>? - godíny tó som ne vídeval!_ "πού είσαι, βρε <b>ψυχή</b>; - χρόνια δεν σ' έχω δει!" 
 <!--Panagioti, this is too idiomatic and in fact I do not feel happy about any of these translations-->
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:05 CEST 2022 -->

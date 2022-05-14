@@ -75,3 +75,4 @@ Passive voice and past tense forming auxiliaries: _<b>be / beh / béšo, béhme,
 * _na pot béhme kugáta pánna gulǽmyjet dožd_ - "we were on our way, when that heavy rain started" [lit."at the road / street we were , when started the big rain"]
 * _slónceto béšo zaníknalo i tíje si rǽbatæho jéšte_ "the sun had set and [yet] they were still working" 
 
+<!-- Interlanguage links updated So kvě 14 19:01:45 CEST 2022 -->

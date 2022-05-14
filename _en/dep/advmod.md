@@ -17,4 +17,4 @@ advmod(modified, Genetically)
 less often
 advmod(often, less)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:35 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:53 CEST 2022 -->

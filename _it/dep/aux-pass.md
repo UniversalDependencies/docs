@@ -58,4 +58,4 @@ aux:pass(trovato, stato)
 aux(trovato, essere)
 aux(trovato, potrebbe)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:41 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:07 CEST 2022 -->

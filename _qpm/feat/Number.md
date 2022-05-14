@@ -57,4 +57,4 @@ Examples:
 * _tabeļá_ "σωρός / πλήθος ταμπέλες", _teslürjá_ "σωρός / πλήθος σκεπάρνια", _zmijulürjá_ "σωρός / πλήθος φίδια"
 * _dečjá_ "σωρός / πλήθος παιδιά", _lístje_ "σωρός / πλήθος φύλλα", _kotetjá_ "σωρός / πλήθος γάτες"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:35 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:24 CEST 2022 -->

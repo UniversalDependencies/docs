@@ -40,4 +40,4 @@ The quality of the given object is so strong that there is hardly any other obje
 #### Examples
 
 * _якнайвище_, _щонайкраще_ "very high", "the best possible / as good as one can"
-<!-- Interlanguage links updated St lis 3 20:58:20 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->

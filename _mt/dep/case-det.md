@@ -12,4 +12,4 @@ unlike in some other languages (e.g., Romance). They are tagged [ADP]() and atta
 Dan għamlu bil- ħabi . \n They did this by hiding .
 case:det(ħabi, bil-)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:42 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:09 CEST 2022 -->

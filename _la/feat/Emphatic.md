@@ -32,4 +32,4 @@ In Latin, strategies to mark emphasis are often specific to a given word subclas
 * ***semet*** shows an emphatic *-met* suffix, added to personal pronouns (*egomet*, *tibimet*...), often treated as a [clitic](la-feat/Clitic)
 * ***mehercle*** can possibly be seen as an emphatic form of the vocative of *Hercules* (*me-* might correspond to the first-person personal pronoun)
 
-<!-- Interlanguage links updated St lis 3 20:58:20 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:14 CEST 2022 -->

@@ -34,4 +34,4 @@ Dɔ́rɔn can modify the whole clause, in this case, it functions like an [adver
 
 
 
-<!-- Interlanguage links updated St lis 3 20:58:09 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:47 CEST 2022 -->

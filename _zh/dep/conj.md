@@ -211,4 +211,4 @@ Another special case where `conj` is used is in the paired adjacent prepositiona
 5	Wednesday"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated St lis 3 20:58:47 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:19 CEST 2022 -->

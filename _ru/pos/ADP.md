@@ -24,4 +24,4 @@ multiword expressions are accounted for in the syntactic annotation
 - _в;_ “in, at”
 - _к_ “to”
 - _на_ “on, at”
-<!-- Interlanguage links updated St lis 3 20:58:07 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:43 CEST 2022 -->

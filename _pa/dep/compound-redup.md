@@ -14,3 +14,4 @@ det(place, which-9)
 compound:redup(ਕਿਹੜੀ-2, ਕਿਹੜੀ-3)
 compound:redup(which-9, which-10)
 ~~~
+<!-- Interlanguage links updated So kvě 14 19:03:17 CEST 2022 -->

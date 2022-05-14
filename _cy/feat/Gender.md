@@ -26,4 +26,4 @@ The numerals _dau_/_dwy_ "two", _tri_/_tair_ "three" and _pedwar_/_pedair_ "four
 * _y **g*ath w**e**n_ "the white cat"
 * _dwy gath_ "two cats"
 * _amdani_ "aout her"
-<!-- Interlanguage links updated St lis 3 20:58:21 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:16 CEST 2022 -->

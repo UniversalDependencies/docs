@@ -13,4 +13,4 @@ udver: '2'
 * [mdf] _кармай пандома кизоти <b>7</b> трёшнект._ "_is going to pay <b>7</b> Copecks a year._"
 
 
-<!-- Interlanguage links updated St lis 3 20:58:25 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:26 CEST 2022 -->

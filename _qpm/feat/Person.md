@@ -66,4 +66,4 @@ Plural number:
 * _tǽhan_ "δικός τους"
 * _ídot_ "έρχονται"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:37 CEST 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:30 CEST 2022 -->

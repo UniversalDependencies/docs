@@ -66,4 +66,4 @@ set of objects.
 
 * _հզոր&nbsp;_ “powerful”; _<b>գերհզոր</b>&nbsp;_ “<b>indescribably, super powerful</b>”
 * _մարդկային&nbsp;_ “human”; _<b>գերմարդկային</b>&nbsp;_ “<b>super human</b>”
-<!-- Interlanguage links updated St lis 3 20:58:19 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:10 CEST 2022 -->

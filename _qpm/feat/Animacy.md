@@ -54,3 +54,4 @@ As explicitly Animate can be considered the masculine accusative forms of the fo
 * _<u>kalčíšn<b>y</b></u> sakúleve_ "λινά σακιά"
 * _<u>plátnen<b>y</b></u> ameníje_ "πάνινα παπούτσια"
 * _<u>tomofílev<b>y</b></u> nahtáreve_ "κλειδιά αυτοκινήτου"
+<!-- Interlanguage links updated So kvě 14 19:02:03 CEST 2022 -->

@@ -17,4 +17,4 @@ nsubj(ăn, Nam)
 punct(ăn, 。)
 ~~~
 
-<!-- Interlanguage links updated St lis 3 20:58:38 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:01 CEST 2022 -->

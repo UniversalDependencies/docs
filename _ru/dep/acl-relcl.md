@@ -49,4 +49,4 @@ nsubj(опаздывает, Мужчина)
 nsubj(late, man)
 ~~~
 
-<!-- Interlanguage links updated St lis 3 20:58:34 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:02:49 CEST 2022 -->

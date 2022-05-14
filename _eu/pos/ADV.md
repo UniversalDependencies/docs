@@ -12,4 +12,4 @@ Adverbs are words that typically modify adjectives, verbs or other adverbs for s
 * Following the verb: <b>_azkar_</b> _doa_  "fast goes"   
 * Preceding the verb:  _darama_ <b>sarritan</b>  "carries frequently"
 * <b>oso</b> _azkar_  "very fast"
-<!-- Interlanguage links updated St lis 3 20:58:08 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:43 CEST 2022 -->

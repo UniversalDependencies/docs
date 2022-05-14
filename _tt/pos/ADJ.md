@@ -28,4 +28,4 @@ We distinguish between adjectives, [determiners](DET) and [numerals](NUM).
 - _яшел_ "green"
 - _кадерле_ "dear"
 - _милли_ "national"
-<!-- Interlanguage links updated St lis 3 20:58:07 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:01:42 CEST 2022 -->

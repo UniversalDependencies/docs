@@ -12,4 +12,4 @@ Sunt o persoană timidă . \n Am a person shy . (I am a shy person .)
 amod(persoană, timidă)
 ~~~
 
-<!-- Interlanguage links updated St lis 3 20:58:38 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:00 CEST 2022 -->

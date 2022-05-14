@@ -22,4 +22,4 @@ obl:subj(3-3-see, man)
 ~~~
 
 
-<!-- Interlanguage links updated St lis 3 20:59:04 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:04:06 CEST 2022 -->

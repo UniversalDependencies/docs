@@ -12,4 +12,4 @@ subject of a passive clause.
 Dole was defeated by Clinton
 nsubj:pass(defeated, Dole)
 ~~~
-<!-- Interlanguage links updated St lis 3 20:59:01 CET 2021 -->
+<!-- Interlanguage links updated So kvě 14 19:03:55 CEST 2022 -->
