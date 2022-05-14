@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 aux:neg	color:blue
-1	Ванэван	_	AUX	_	_	2	aux:neg	_	Gloss=NEG.NFUT
-2	мычичевнэт	_	VERB	_	_	0	root	_	Gloss=1SG.S/A.SUBJ-понимать-3SG.O-PL|SpaceAfter=No
-3	.	_	PUNCT	_	_	2	punct	_	_
+1	Ванэван	_	AUX	_	_	2	aux:neg	2:aux:neg	Gloss=NEG.NFUT
+2	мычичевнэт	_	VERB	_	_	0	root	0:root	Gloss=1SG.S/A.SUBJ-понимать-3SG.O-PL|SpaceAfter=No
+3	.	_	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

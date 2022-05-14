@@ -61,7 +61,7 @@ The following 6 pairs of parts of speech are connected with `nmod:gobj`: <tt><a 
 5	näissä	tämä	PRON	Pron	Case=Ine|Number=Plur|PronType=Dem	6	det	6:det	_
 6	maissa	maa	NOUN	N	Case=Ine|Number=Plur	8	obl	8:obl	_
 7	jo	jo	ADV	Adv	_	8	advmod	8:advmod	_
-8	alkanut	alkaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
+8	alkanut	alkaa	VERB	V	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 9	.	.	PUNCT	Punct	_	8	punct	8:punct	_
 
 ~~~

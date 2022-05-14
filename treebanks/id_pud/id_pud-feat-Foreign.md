@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="id_pud-pos-X.html">
 
 ### `X`
 
-32 <tt><a href="id_pud-pos-X.html">X</a></tt> tokens (78% of all `X` tokens) have a non-empty value of `Foreign`.
+32 <tt><a href="id_pud-pos-X.html">X</a></tt> tokens (73% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (32; 100% of non-empty `Foreign`): <em>estate, landmark, real, Energies, International, Investors, MultiStrategy, Organization, Renewable, Return</em>
-* `EMPTY` (9): <em>chief, earl, executive, flap, maiorum, massebot, middle, mos, storyboard</em>
+* `EMPTY` (12): <em>suar, chief, earl, executive, flap, maiorum, massebot, middle, mos, pada</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (26) occur only with one value of `Foreign`.
 

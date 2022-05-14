@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `case:loc`: <tt><a h
 3	միջից	մեջ	ADP	_	AdpType=Post|Case=Abl	2	case:loc	_	Translit=miǰic’|LTranslit=meǰ
 4	ճմրթված	ճմրթվել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	5	acl	_	Translit=č̣mrt’vaç|LTranslit=č̣mrt’vel
 5	հազար	հազար	NUM	_	NumForm=Word|NumType=Card	8	obj	_	Translit=hazar|LTranslit=hazar
-6	դրամանոց	դրամանոց	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	goeswith	_	Translit=dramanoc’|LTranslit=dramanoc’
+6	դրամանոց	դրամանոց	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	dep	_	Translit=dramanoc’|LTranslit=dramanoc’
 7	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	Translit=ē|LTranslit=em
 8	հանում	հանել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=hanowm|LTranslit=hanel|SpaceAfter=No
 9	:	:	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.

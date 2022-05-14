@@ -8,31 +8,44 @@ udver: '2'
 
 This relation is universal.
 
-78 nodes (7%) are attached to their parents as `nsubj`.
+113 nodes (8%) are attached to their parents as `nsubj`.
 
-72 instances of `nsubj` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.93589743589744.
+106 instances of `nsubj` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.6283185840708.
 
-The following 12 pairs of parts of speech are connected with `nsubj`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (41; 53% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (9; 12% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (7; 9% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (6; 8% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `nsubj`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (68; 60% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (11; 10% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (8; 7% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (8; 7% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (6; 5% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
+# visual-style 5 3 nsubj	color:blue
+1	Ә	ә	CCONJ	_	_	5	cc	_	LangID=TT
+2	милләтле	милләтле	ADJ	_	_	3	amod	_	LangID=TT
+3	халык	халык	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
+4	телле	телле	NOUN	_	_	5	xcomp	_	LangID=TT
+5	булырга	бул	VERB	_	VerbForm=Inf	0	root	_	LangID=TT
+6	тиеш	тиеш	AUX	_	_	5	aux	_	LangID=TT|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 5 nsubj	color:blue
-1	«	«	PUNCT	_	_	9	punct	_	LangID=OTHER|SpaceAfter=No
-2	Ил	ил	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
-3	күләмендә	күләм	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	6	obl	_	LangID=TT
-4	татарларның	татар	NOUN	_	Case=Gen|Number=Plur	5	nmod	_	LangID=TT
-5	саны	сан	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nsubj	_	LangID=TT
-6	кимемәсен	киме	VERB	_	Mood=Imp|Person=3|Polarity=Neg	9	ccomp	_	LangID=TT
-7	иде	иде	AUX	_	Number=Sing|Person=3	6	aux	_	LangID=TT
-8	дип	дип	SCONJ	_	_	6	cc	_	LangID=TT
-9	теләр	телә	VERB	_	Mood=Irr|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT
-10	идем	иде	AUX	_	Number=Sing|Person=1	9	aux	_	LangID=TT|SpaceAfter=No
-11	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
+# visual-style 6 2 nsubj	color:blue
+1	Яңа	яңа	ADJ	_	_	2	amod	_	LangID=TT
+2	чикләүләр	чиклә	VERB	_	Case=Nom|Number=Plur|VerbForm=Vnoun	6	nsubj	_	LangID=TT
+3	11	11	NUM	_	NumType=Card	6	obl	_	LangID=TT
+4	октябрьдә	октябрь	NOUN	_	Case=Loc|Number=Plur	3	parataxis	_	LangID=TT
+5	гамәлгә	гамәл	NOUN	_	Case=Dat|Number=Plur	6	obl	_	LangID=TT
+6	кертеләчәк	кер	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Part|Voice=CauPass	0	root	_	LangID=TT|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
 
 ~~~
 
@@ -53,23 +66,6 @@ The following 12 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 8	бик	бик	ADV	_	_	9	advmod	_	LangID=TT
 9	яхшы	яхшы	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 nsubj	color:blue
-1	Яңа	яңа	ADJ	_	_	2	amod	_	LangID=TT
-2	чикләүләр	чиклә	VERB	_	Case=Nom|Number=Plur|VerbForm=Vnoun	6	nsubj	_	LangID=TT
-3	11	11	NUM	_	NumType=Card	6	obl	_	LangID=TT
-4	октябрьдә	октябрь	NOUN	_	Case=Loc|Number=Plur	3	parataxis	_	LangID=TT
-5	гамәлгә	гамәл	NOUN	_	Case=Dat|Number=Plur	6	obl	_	LangID=TT
-6	кертеләчәк	кер	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Part|Voice=CauPass	0	root	_	LangID=TT|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
 
 ~~~
 

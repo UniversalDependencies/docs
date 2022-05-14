@@ -9,70 +9,69 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_syntagrus-dep-nummod.html">nummod</a></tt>.
 There are also 1 other language-specific subtypes of `nummod`: <tt><a href="ru_syntagrus-dep-nummod-entity.html">nummod:entity</a></tt>.
 
-6323 nodes (0%) are attached to their parents as `nummod:gov`.
+3573 nodes (0%) are attached to their parents as `nummod:gov`.
 
-5785 instances of `nummod:gov` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44314407717855.
+3415 instances of `nummod:gov` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33725160929191.
 
-The following 17 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (5442; 86% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (207; 3% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (179; 3% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (175; 3% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (127; 2% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (80; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (28; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (24; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (24; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 12 nummod:gov	color:blue
-1	Ее	ее	DET	_	Poss=Yes|PronType=Prs	2	det	2:det	_
-2	уход	уход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	_
-3	под	под	ADP	_	_	4	case	4:case	_
-4	воду	вода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	2:nmod:под:acc	SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	2:punct	_
-6	как	как	SCONJ	_	_	7	mark	7:mark	_
-7	полагал	полагать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	10:parataxis	_
-8	Жиров	Жиров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
-9	,	,	PUNCT	_	_	7	punct	7:punct	_
-10	происходил	происходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-11	в	в	ADP	_	_	13	case	13:case	_
-12	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	13	nummod:gov	13:nummod:gov	_
-13	этапа	этап	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	10:obl:в:acc	SpaceAfter=No
-14	.	.	PUNCT	_	_	10	punct	10:punct	_
-
-~~~
+The following 15 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (3273; 92% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (154; 4% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (61; 2% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (43; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nummod:gov	color:blue
-1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
-2	вообще	вообще	ADV	_	Degree=Pos	5	advmod	5:advmod	_
-3	много	много	NUM	_	NumType=Card	4	nummod:gov	4:nummod:gov	_
-4	чего	что	PRON	_	Case=Gen|PronType=Int,Rel	5	obl	5:obl	_
-5	понимал	понимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	5:punct	_
+# visual-style 3 1 nummod:gov	color:blue
+1	Оба	оба	NUM	_	Case=Nom|Gender=Masc|NumType=Card	3	nummod:gov	3:nummod:gov	_
+2	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	3	det	3:det	_
+3	пути	путь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	_
+4	имели	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	свои	свой	DET	_	Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	6:det	_
+6	преимущества	преимущество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obj	4:obj	_
+7	и	и	CCONJ	_	_	9	cc	9:cc	_
+8	свои	свой	DET	_	Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	9:det	_
+9	недостатки	недостаток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	conj	4:obj|6:conj	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 nummod:gov	color:blue
-1	Азоврыбвод	азоврыбвод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
-2	"	"	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
-3	предъявил	предъявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	иск	иск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	_
-5	ирригаторам	ирригатор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	4	iobj	4:iobj	_
-6	на	на	ADP	_	_	9	case	9:case	_
-7	1,5	1,5	NUM	_	NumType=Card	8	nummod	8:nummod	_
-8	миллиона	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nummod:gov	9:nummod:gov	_
-9	рублей	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	4:nmod:на:gen	SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	3:punct	_
+# visual-style 8 7 nummod:gov	color:blue
+1	И	и	CCONJ	_	_	5	cc	5:cc	_
+2	теперь	теперь	ADV	_	Degree=Pos	5	advmod	5:advmod	_
+3	уже	уже	ADV	_	Degree=Pos	5	advmod	5:advmod	_
+4	счет	счет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
+5	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	на	на	ADP	_	_	8	case	8:case	_
+7	тысячи	тысяча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	nummod:gov	8:nummod:gov	_
+8	долларов	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	5:obl:на:acc	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	5:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nummod:gov	color:blue
+1	Пряный	пряный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	3:amod	_
+2	огуречный	огуречный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	3:amod	_
+3	запах	запах	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	_
+4	больше	много	NUM	_	NumType=Card	5	nummod:gov	5:nummod:gov	_
+5	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	6	obl	6:obl	_
+6	запомнился	запомниться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	0:root	SpaceAfter=No
+7	:	:	PUNCT	_	_	8	punct	6:punct	_
+8	руки	рука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	parataxis	6:parataxis	_
+9	матери	мать	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod:gen	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 10	meädda	meädda	ADV	Adv	_	9	advmod:lmod	_	GTtags=Sem/Plc|SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	_
 12	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	parataxis	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-13	:	:	PUNCT	CLB	_	12	punct	_	_
+13	:	:	PUNCT	CLB	_	21	punct	_	_
 14	”	”	PUNCT	PUNCT	_	21	punct	_	GTtags=RIGHT|SpaceAfter=No
 15	Mõʹnt	mõʹnt	ADV	Adv	_	21	advmod	_	_
 16	jeäʹnn	jeäʹnn	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	21	vocative	_	GTtags=Sem/Kin,Sg,Nom|SpaceAfter=No

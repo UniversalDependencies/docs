@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 5	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	4	case	_	ChunkId=NP2|ChunkType=child|Translit=kā
 6	अंतिम	अंतिम	ADJ	JJ	Case=Nom	7	amod	_	ChunkId=NP3|ChunkType=child|Translit=aṁtima
 7	संस्‍कार	संस्कार	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=saṁskāra
-8	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Vib=या_जा+या1_था|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=kiyā
+8	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=kiyā|Vib=या_जा+या1_था
 9	गया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	8	aux:pass	_	Vib=या1|Tam=yA1|ChunkId=VGF|ChunkType=child|Translit=gayā
 10	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	aux:pass	_	Vib=था|Tam=WA|ChunkId=VGF|ChunkType=child|Translit=thā
 11	।	।	PUNCT	SYM	_	8	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
@@ -72,7 +72,7 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 27	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	26	case	_	ChunkId=NP8|ChunkType=child|Translit=kā
 28	भी	भी	PART	RP	_	26	dep	_	ChunkId=NP8|ChunkType=child|Translit=bhī
 29	जिक्र	जिक्र	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	30	compound	_	Vib=0|Tam=0|ChunkId=NP9|ChunkType=head|Translit=jikra
-30	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=kiyā
+30	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=kiyā|Vib=या
 31	।	।	PUNCT	SYM	_	30	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -105,8 +105,8 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 19	दावा	दावा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	22	nsubj	_	Vib=0|Tam=0|ChunkId=NP6|ChunkType=head|Translit=dāvā
 20	भी	भी	PART	RP	_	19	dep	_	ChunkId=NP6|ChunkType=child|Translit=bhī
 21	पुख्ता	पुख्ता	ADJ	JJ	_	22	compound	_	ChunkId=JJP2|ChunkType=head|Translit=pukhtā
-22	होता	हो	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	23	advcl	_	Vib=ता|Tam=wA|ChunkId=VGNF2|ChunkType=head|Stype=declarative|Translit=hotā
-23	लग	लग	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	Vib=0_रह+या_है|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=laga
+22	होता	हो	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	23	advcl	_	ChunkId=VGNF2|ChunkType=head|Stype=declarative|Tam=wA|Translit=hotā|Vib=ता
+23	लग	लग	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=0|Translit=laga|Vib=0_रह+या_है
 24	रहा	रह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	23	aux	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=child|Translit=rahā
 25	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 26	।	।	PUNCT	SYM	_	23	punct	_	ChunkId=BLK|ChunkType=head|Translit=.

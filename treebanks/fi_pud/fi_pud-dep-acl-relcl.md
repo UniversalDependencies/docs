@@ -31,7 +31,7 @@ The following 19 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 7	joka	joka	PRON	_	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	10:nsubj	_
 8	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	10:aux	_
 9	lähes	lähes	ADV	_	_	10	advmod	10:advmod	_
-10	kuivunut	kuivua	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	acl:relcl	5:acl:relcl	SpaceAfter=No
+10	kuivunut	kuivua	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	acl:relcl	5:acl:relcl	SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~

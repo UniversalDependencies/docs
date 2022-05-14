@@ -13,7 +13,7 @@ This relation is universal.
 43 instances of `iobj` (67%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.609375.
 
-The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (48; 75% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (9; 14% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (47; 73% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (9; 14% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	sich	er|es|sie	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	iobj	_	CSID=DE|Lang=de
 7	da	da	ADV	_	_	5	advmod	_	CSID=DE|Lang=de
 8	gar	gar	ADV	_	_	9	advmod	_	CSID=DE|Lang=de
-9	keine	kein	PRON	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg	5	obj	_	CSID=DE|Lang=de
+9	keine	kein	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg	5	obj	_	CSID=DE|Lang=de
 10	so	so	ADV	_	_	5	discourse	_	CSID=DE|Lang=de|SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	CSID=OTHER
 

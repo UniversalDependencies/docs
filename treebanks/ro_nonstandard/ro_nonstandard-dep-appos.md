@@ -22,11 +22,11 @@ The following 49 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 appos	color:blue
-1	Viia	vie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	ref=MATT21.33.content
-2	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	3	det	_	ref=MATT21.33.content
-3	Dumnedzeu	Dumnedeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	ref=MATT21.33.content
-4	jidovii	jidov	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	1	appos	_	ref=MATT21.33.content|SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT21.33.content
+1	Viia	vie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	Ref=MATT21.33.content
+2	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	3	det	_	Ref=MATT21.33.content
+3	Dumnedzeu	Dumnedeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	Ref=MATT21.33.content
+4	jidovii	jidov	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	1	appos	_	Ref=MATT21.33.content|SpaceAfter=No
+5	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT21.33.content
 
 ~~~
 
@@ -37,11 +37,11 @@ The following 49 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 appos	color:blue
-1	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT20.28.content|SpaceAfter=No
-2	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT20.28.content
-3	sluga	slugă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	appos	_	ref=MATT20.28.content
-4	noastră	meu	DET	Ds1fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	3	det	_	ref=MATT20.28.content|SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT20.28.content
+1	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=MATT20.28.content|SpaceAfter=No
+2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=MATT20.28.content
+3	sluga	slugă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	appos	_	Ref=MATT20.28.content
+4	noastră	meu	DET	Ds1fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	3	det	_	Ref=MATT20.28.content|SpaceAfter=No
+5	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT20.28.content
 
 ~~~
 

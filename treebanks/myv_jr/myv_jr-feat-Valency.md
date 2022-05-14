@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `1`, `2`.
 
-2637 tokens (15%) have a non-empty value of `Valency`.
-1774 types (32%) occur at least once with a non-empty value of `Valency`.
-691 lemmas (26%) occur at least once with a non-empty value of `Valency`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2447; 14% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (190; 1% instances).
+2668 tokens (15%) have a non-empty value of `Valency`.
+1789 types (32%) occur at least once with a non-empty value of `Valency`.
+698 lemmas (26%) occur at least once with a non-empty value of `Valency`.
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2476; 14% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (192; 1% instances).
 
 ### `VERB`
 
-2447 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Valency`.
+2476 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Valency`.
 
-The most frequent other feature values with which `VERB` and `Valency` co-occurred: <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2250; 92%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2121; 87%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (2043; 83%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (2042; 83%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1925; 79%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1672; 68%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1493; 61%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1262; 52%).
+The most frequent other feature values with which `VERB` and `Valency` co-occurred: <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2276; 92%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2144; 87%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (2069; 84%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (2068; 84%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1945; 79%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1688; 68%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1509; 61%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1275; 51%).
 
 `VERB` tokens may have the following values of `Valency`:
 
-* `1` (1162; 47% of non-empty `Valency`): <em>лиссь, совась, неяви, ашти, маряви, шачсь, мольсь, чийсь, мерсь, сась</em>
-* `2` (1285; 53% of non-empty `Valency`): <em>мерсь, ютась, саизе, ваны, путызе, кепедизе, кевкстизе, неизе, сергедсь, сергець</em>
+* `1` (1180; 48% of non-empty `Valency`): <em>лиссь, совась, неяви, ашти, маряви, шачсь, мольсь, чийсь, мерсь, сась</em>
+* `2` (1296; 52% of non-empty `Valency`): <em>мерсь, ютась, саизе, ваны, путызе, кепедизе, кевкстизе, неизе, сергедсь, сергець</em>
 
 <table>
   <tr><th>Paradigm <i>меремс</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
@@ -42,26 +42,26 @@ The most frequent other feature values with which `VERB` and `Valency` co-occurr
   <tr><td><tt><tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>меремс</em></td><td><em>меремс</em></td></tr>
 </table>
 
-`Valency` seems to be **lexical feature** of `VERB`. 93% lemmas (639) occur only with one value of `Valency`.
+`Valency` seems to be **lexical feature** of `VERB`. 93% lemmas (644) occur only with one value of `Valency`.
 
 ### `AUX`
 
-190 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (27% of all `AUX` tokens) have a non-empty value of `Valency`.
+192 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (27% of all `AUX` tokens) have a non-empty value of `Valency`.
 
-The most frequent other feature values with which `AUX` and `Valency` co-occurred: <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (190; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (189; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (164; 86%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (163; 86%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (128; 67%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (104; 55%).
+The most frequent other feature values with which `AUX` and `Valency` co-occurred: <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (192; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (191; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (166; 86%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (165; 86%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (130; 68%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (106; 55%).
 
 `AUX` tokens may have the following values of `Valency`:
 
-* `1` (186; 98% of non-empty `Valency`): <em>кармась, ульнесь, кармасть, ули, эряви, ульнесть, кармить, улить, савсь, карми</em>
+* `1` (188; 98% of non-empty `Valency`): <em>кармась, ульнесь, кармасть, ули, эряви, ульнесть, кармить, улить, савсь, карми</em>
 * `2` (4; 2% of non-empty `Valency`): <em>кадык</em>
 
 ## Relations with Agreement in `Valency`
 
 The 10 most frequent relations where parent and child node agree in `Valency`:
+<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (296; 50%),
+<tt>VERB --[<tt><a href="myv_jr-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (8; 80%),
 <tt>VERB --[<tt><a href="myv_jr-dep-xcomp-ds.html">xcomp:ds</a></tt>]--> VERB</tt> (8; 53%),
-<tt>VERB --[<tt><a href="myv_jr-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (7; 88%),
 <tt>VERB --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> VERB</tt> (5; 71%),
-<tt>VERB --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> VERB</tt> (4; 57%),
 <tt>VERB --[<tt><a href="myv_jr-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="myv_jr-dep-aux.html">aux</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="myv_jr-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),

@@ -62,7 +62,7 @@ The following 27 pairs of parts of speech are connected with `flat:name`: <tt><a
 3	II	II	ADJ	Num	NumType=Ord	2	flat:name	2:flat:name	_
 4	-järjestelmälle	järjestelmä	NOUN	N	Case=All|Number=Sing	6	obl	6:obl	_
 5	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	_
-6	tapahtunut	tapahtua	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
+6	tapahtunut	tapahtua	VERB	V	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 7	?	?	PUNCT	Punct	_	6	punct	6:punct	_
 
 ~~~

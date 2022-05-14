@@ -22,7 +22,7 @@ The following 22 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 orphan	color:blue
-1	Prügi	prügi	NOUN	S	Case=Gen|Number=Sing	3	orphan	2.1:obl	Orphan=Yes
+1	Prügi	prügi	NOUN	S	Case=Gen|Number=Sing	3	orphan	2.1:obl	_
 2	eest	eest	ADP	K	AdpType=Post	1	case	1:case	_
 3	vedajale	vedaja	NOUN	S	Case=All|Number=Sing	0	root	2.1:obl	_
 4	ja	ja	CCONJ	J	_	7	cc	5.1:cc	_

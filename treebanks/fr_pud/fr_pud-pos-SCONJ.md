@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_pud-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 2.000000 (the average of all parts of speech is 1.297529).
+The form / lemma ratio of `SCONJ` is 2.000000 (the average of all parts of speech is 1.298345).
 
 The 1st highest number of forms (3) was observed with the lemma “lorsque”: <em>lorsqu', lorsque, lorsqu’</em>.
 
@@ -47,9 +47,9 @@ The 2nd highest number of forms (3) was observed with the lemma “que”: <em>q
 
 The 3rd highest number of forms (1) was observed with the lemma “puisque”: <em>puisqu'</em>.
 
-`SCONJ` occurs with 2 features: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (1; 0% instances)
+`SCONJ` occurs with 1 features: <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 2 feature-value pairs: `Gender=Fem`, `Number=Plur`
+`SCONJ` occurs with 1 feature-value pairs: `Number=Plur`
 
 `SCONJ` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (218 tokens).

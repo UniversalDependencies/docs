@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `nmod:obj`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt>.
-There are also 6 other language-specific subtypes of `nmod`: <tt><a href="kpv_lattice-dep-nmod-appos.html">nmod:appos</a></tt>, <tt><a href="kpv_lattice-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="kpv_lattice-dep-nmod-lfrom.html">nmod:lfrom</a></tt>, <tt><a href="kpv_lattice-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="kpv_lattice-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_lattice-dep-nmod-subj.html">nmod:subj</a></tt>.
+There are also 5 other language-specific subtypes of `nmod`: <tt><a href="kpv_lattice-dep-nmod-appos.html">nmod:appos</a></tt>, <tt><a href="kpv_lattice-dep-nmod-lfrom.html">nmod:lfrom</a></tt>, <tt><a href="kpv_lattice-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="kpv_lattice-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_lattice-dep-nmod-subj.html">nmod:subj</a></tt>.
 
 44 nodes (1%) are attached to their parents as `nmod:obj`.
 
@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `nmod:obj`: <tt><a h
 # visual-style 3 2 nmod:obj	color:blue
 1	Шондіыс	шонді	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
 2	нем	нем	PRON	Pron	Case=Nom|Number=Sing|Polarity=Neg	3	nmod:obj	_	_
-3	жалиттӧг	жалитны	VERB	V	Derivation=VCar|VerbForm=Conv	4	advcl	_	OrigLang=ru
+3	жалиттӧг	жалитны	VERB	V	Derivation=VAbe|VerbForm=Conv	4	advcl	_	OrigLang=ru
 4	пӧжис	пӧжны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 

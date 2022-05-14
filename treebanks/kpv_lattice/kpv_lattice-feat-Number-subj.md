@@ -14,29 +14,29 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 88 tokens (1%) have a non-empty value of `Number[subj]`.
 78 types (2%) occur at least once with a non-empty value of `Number[subj]`.
 78 lemmas (3%) occur at least once with a non-empty value of `Number[subj]`.
-The feature is used with 7 part-of-speech tags: <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (44; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (21; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (3; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (45; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (20; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 ### `ADJ`
 
-44 <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Number[subj]`.
+45 <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `ADJ` and `Number[subj]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (44; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (39; 89%).
+The most frequent other feature values with which `ADJ` and `Number[subj]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (44; 98%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (39; 87%).
 
 `ADJ` tokens may have the following values of `Number[subj]`:
 
 
-`Number[subj]` seems to be **lexical feature** of `ADJ`. 100% lemmas (38) occur only with one value of `Number[subj]`.
+`Number[subj]` seems to be **lexical feature** of `ADJ`. 100% lemmas (39) occur only with one value of `Number[subj]`.
 
 ### `NOUN`
 
-21 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Number[subj]`.
+20 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `NOUN` and `Number[subj]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 100%), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Ine</tt> (12; 57%).
+The most frequent other feature values with which `NOUN` and `Number[subj]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 100%), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Ine</tt> (12; 60%).
 
 `NOUN` tokens may have the following values of `Number[subj]`:
 
 
-`Number[subj]` seems to be **lexical feature** of `NOUN`. 100% lemmas (19) occur only with one value of `Number[subj]`.
+`Number[subj]` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `Number[subj]`.
 
 ### `VERB`
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `PRON` and `Number[subj]` co-o
 ## Relations with Agreement in `Number[subj]`
 
 The 10 most frequent relations where parent and child node agree in `Number[subj]`:
-<tt>ADJ --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 73%),
+<tt>ADJ --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9; 75%),
 <tt>ADJ --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 60%),
 <tt>ADV --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%),

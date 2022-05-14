@@ -78,7 +78,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 4	на	на	ADP	IN	_	6	case	_	_
 5	одного	один	NUM	CD	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	nummod	_	_
 6	человека	человек	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	_
-7	—	—	PUNCT	-	_	9	punct	_	OrigForm=--
+7	—	—	PUNCT	-	_	9	punct	_	_
 8	5000	5000	NUM	CD	_	9	nummod	_	_
 9	долларов	доллар	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
 10	США	США	PROPN	NNP	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No

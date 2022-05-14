@@ -22,10 +22,10 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
-1	Мэмэй	_	NOUN	_	_	3	vocative	_	Gloss=мама-VOC
-2	аны	_	ADV	_	_	3	advmod	_	Gloss=давай
-3	мыммэмэаʼк	_	VERB	_	_	0	root	_	Gloss=1SG.S/A.SUBJ-сосать.грудь-TH-1SG.S|SpaceAfter=No
-4	.	_	PUNCT	_	_	3	punct	_	_
+1	Мэмэй	_	NOUN	_	_	3	vocative	3:vocative	Gloss=мама-VOC
+2	аны	_	ADV	_	_	3	advmod	3:advmod	Gloss=давай
+3	мыммэмэаʼк	_	VERB	_	_	0	root	0:root	Gloss=1SG.S/A.SUBJ-сосать.грудь-TH-1SG.S|SpaceAfter=No
+4	.	_	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 
@@ -36,11 +36,11 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 vocative	color:blue
-1	Тэлёпкаӄай	_	PROPN	_	_	2	reparandum	_	Gloss=Телёпка-DIM-NOM.SG
-2	Тэлёпкаӄай	_	PROPN	_	_	4	vocative	_	Gloss=Телёпка-DIM-NOM.SG
-3	аны	_	ADV	_	_	4	advmod	_	Gloss=давай
-4	ӄыгывъекви	_	VERB	_	_	0	root	_	Gloss=2.S/A.SUBJ-просыпаться-IRR-2/3SG.S|SpaceAfter=No
-5	.	_	PUNCT	_	_	4	punct	_	_
+1	Тэлёпкаӄай	_	PROPN	_	_	2	reparandum	2:reparandum	Gloss=Телёпка-DIM-NOM.SG
+2	Тэлёпкаӄай	_	PROPN	_	_	4	vocative	4:vocative	Gloss=Телёпка-DIM-NOM.SG
+3	аны	_	ADV	_	_	4	advmod	4:advmod	Gloss=давай
+4	ӄыгывъекви	_	VERB	_	_	0	root	0:root	Gloss=2.S/A.SUBJ-просыпаться-IRR-2/3SG.S|SpaceAfter=No
+5	.	_	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -51,12 +51,12 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
-1	Ыммымэӄэй	_	NOUN	_	_	3	vocative	_	Gloss=мама-DIM-NOM.SG
-2	ыммымэӄэй	_	NOUN	_	_	3	vocative	_	Gloss=мама-DIM-NOM.SG
-3	эʼми	_	ADV	_	_	0	root	_	Gloss=где
-4	гымнин	_	PRON	_	_	5	nmod:poss	_	Gloss=я-AN.GEN
-5	майӈывонны	_	NOUN	_	_	3	nsubj	_	Gloss=большой-ложка-NOM.SG|SpaceAfter=No
-6	.	_	PUNCT	_	_	3	punct	_	_
+1	Ыммымэӄэй	_	NOUN	_	_	3	vocative	3:vocative	Gloss=мама-DIM-NOM.SG
+2	ыммымэӄэй	_	NOUN	_	_	3	vocative	3:vocative	Gloss=мама-DIM-NOM.SG
+3	эʼми	_	ADV	_	_	0	root	0:root	Gloss=где
+4	гымнин	_	PRON	_	_	5	nmod:poss	5:nmod:poss	Gloss=я-AN.GEN
+5	майӈывонны	_	NOUN	_	_	3	nsubj	3:nsubj	Gloss=большой-ложка-NOM.SG|SpaceAfter=No
+6	.	_	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Karo-TuDeT: Features: `Case`
 
-This feature is universal but the values `Disp`, `Ines`, `Sim` are language-specific.
-It occurs with 10 different values: `Abe`, `Abl`, `All`, `Com`, `Dat`, `Disp`, `Ines`, `Ins`, `Loc`, `Sim`.
+This feature is universal but the values `Disp`, `Sim` are language-specific.
+It occurs with 10 different values: `Abe`, `Abl`, `All`, `Com`, `Dat`, `Disp`, `Ine`, `Ins`, `Loc`, `Sim`.
 
 100 tokens (4%) have a non-empty value of `Case`.
 50 types (6%) occur at least once with a non-empty value of `Case`.
-10 lemmas (8%) occur at least once with a non-empty value of `Case`.
+28 lemmas (6%) occur at least once with a non-empty value of `Case`.
 The feature is used with 4 part-of-speech tags: <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> (60; 3% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (19; 1% instances), <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> (16; 1% instances), <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (5; 0% instances).
 
 ### `ADP`
@@ -28,11 +28,20 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Com` (6; 10% of non-empty `Case`): <em>pihmãm, bihmãm, mihmãm, abihmãm, owihmãm</em>
 * `Dat` (20; 33% of non-empty `Case`): <em>kəy, okəy, aʔkəy, ekəy, gəy, (aʔkəy), kokəy, omãmkəy, tomãmkəy</em>
 * `Disp` (3; 5% of non-empty `Case`): <em>ʔerem</em>
-* `Ines` (1; 2% of non-empty `Case`): <em>bət</em>
+* `Ine` (1; 2% of non-empty `Case`): <em>bət</em>
 * `Ins` (2; 3% of non-empty `Case`): <em>mã</em>
 * `Loc` (21; 35% of non-empty `Case`): <em>peʔ</em>
 * `Sim` (3; 5% of non-empty `Case`): <em>ŋõm, kõm</em>
-* `EMPTY` (23): <em>tokõna, okõna, rokõna, kəy, bem, garo=kõna, gõm, mekõm, okəy</em>
+* `EMPTY` (23): <em>tokõna, okõna, rokõna, kəy, bem, garokõna, gõm, mekõm, okəy</em>
+
+<table>
+  <tr><th>Paradigm <i>mãm</i></th><th><tt>Dat</tt></th><th><tt>Com</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>bihmãm</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Corf.html">Corf</a></tt><tt>=Yes</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="arr_tudet-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>tomãmkəy</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="arr_tudet-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>omãmkəy</em></td><td></td></tr>
+</table>
+
+`Case` seems to be **lexical feature** of `ADP`. 92% lemmas (12) occur only with one value of `Case`.
 
 ### `VERB`
 
@@ -42,8 +51,10 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Com` (19; 100% of non-empty `Case`): <em>nakəga, ragahmõm, atati, aʔ=rati, nakõy, natia, orabitẽy, orakət, rabitẽy, raken</em>
+* `Com` (19; 100% of non-empty `Case`): <em>nakəga, ragahmõm, atati, aʔrati, nakõy, natia, orabitẽy, orakət, rabitẽy, raken</em>
 * `EMPTY` (496): <em>aʔtoy, wĩn, aʔwĩn, púŋ, ʔɨy, otoy, wɨy, aʔken, oken, yaʔti</em>
+
+`Case` seems to be **lexical feature** of `VERB`. 100% lemmas (13) occur only with one value of `Case`.
 
 ### `PART`
 
@@ -69,4 +80,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `All` (1; 20% of non-empty `Case`): <em>ŋapik</em>
 * `Dat` (4; 80% of non-empty `Case`): <em>ŋakəy, aʔkəy, ekəy</em>
 * `EMPTY` (293): <em>õn, at, wat, ŋa, ẽn, toat, et, war, ar, yét</em>
+
+<table>
+  <tr><th>Paradigm <i>ŋa</i></th><th><tt>Dat</tt></th><th><tt>All</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>ŋakəy</em></td><td><em>ŋapik</em></td></tr>
+</table>
 

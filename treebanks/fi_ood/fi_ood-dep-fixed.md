@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
 1	Hapetus	hapetus	NOUN	_	Case=Nom|Derivation=U|Number=Sing	2	nsubj	_	_
-2	parantunut	parantua	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	parantunut	parantua	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	jnk	jnk	ADV	_	Abbr=Yes	2	advmod	_	Gen=jonkin
 4	verran	verran	ADV	_	_	3	fixed	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
@@ -39,7 +39,7 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1 2 fixed	color:blue
 1	Jonkin	jokin	PRON	_	Case=Gen|Number=Sing|PronType=Ind	3	advmod	_	_
 2	verran	verran	ADV	_	_	1	fixed	_	_
-3	nukkunut	nukkua	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+3	nukkunut	nukkua	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	pitkiä	pitkä	ADJ	_	Case=Par|Degree=Pos|Number=Plur	6	amod	_	_
 6	toveja	tovi	NOUN	_	Case=Par|Number=Plur	7	obl	_	_

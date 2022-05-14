@@ -24,7 +24,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 * `Card` (4710; 98% of non-empty `NumType`): <em>10, 2, 5, 1, 20, 3, 100, 15, 18, 7</em>
 * `Sets` (80; 2% of non-empty `NumType`): <em>двое, трое, абодва, дваіх, абодвух, пяцёра, абедзьве, траіх, чацвёра, шасьцёра</em>
-* `EMPTY` (1054): <em>некалькі, колькі, 19:00, 20:30, 16:00, 12:00, 20:00, некалькіх, 21:00, 17:00</em>
+* `EMPTY` (1055): <em>некалькі, колькі, 19:00, 20:30, 16:00, 12:00, 20:00, некалькіх, 21:00, 17:00</em>
 
 <table>
   <tr><th>Paradigm <i>абодва</i></th><th><tt>Card</tt></th><th><tt>Sets</tt></th></tr>

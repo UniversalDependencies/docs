@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3 4 cop	color:blue
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	yaracewag	yaracewak	NOUN	n	_	3	obj	_	_
-3	yaʔti	_	VERB	v	_	0	root	_	_
+3	yaʔti	yaʔti	VERB	v	_	0	root	_	_
 4	nãn	nã	AUX	aux	Decl=Assert	3	cop	_	_
 
 ~~~
@@ -37,7 +37,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 1	fgColor:white
 # visual-style 1 3 cop	color:blue
 1	mãygãra	mãygãra	NOUN	n	_	0	root	_	_
-2	cú	_	ADJ	adj	_	1	amod	_	_
+2	cú	cú	ADJ	adj	_	1	amod	_	_
 3	aʔnãn	nã	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	_	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 3 cop	color:blue
 1	tap	tap	PRON	pron	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	táy	_	ADJ	adj	_	0	root	_	_
+2	táy	táy	ADJ	adj	_	0	root	_	_
 3	nãn	nã	AUX	aux	Decl=Assert	2	cop	_	_
 4	iʔke	iʔke	PART	part	Polarity=Neg	2	advmod	_	_
 

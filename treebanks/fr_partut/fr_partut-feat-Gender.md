@@ -9,30 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-11334 tokens (40%) have a non-empty value of `Gender`.
-2591 types (63%) occur at least once with a non-empty value of `Gender`.
-1944 lemmas (66%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 6 part-of-speech tags: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (6002; 21% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (2790; 10% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1279; 4% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (746; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (447; 2% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (70; 0% instances).
+11336 tokens (40%) have a non-empty value of `Gender`.
+2593 types (63%) occur at least once with a non-empty value of `Gender`.
+1918 lemmas (66%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 6 part-of-speech tags: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (6004; 21% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (2790; 10% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1279; 4% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (746; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (447; 2% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (70; 0% instances).
 
 ### `NOUN`
 
-6002 <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
+6004 <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4161; 69%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4160; 69%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (3165; 53% of non-empty `Gender`): <em>commission, oeuvre, sécurité, directive, mesures, protection, exigences, décision, madame, matière</em>
-* `Masc` (2837; 47% of non-empty `Gender`): <em>pays, parlement, programme, membres, droit, états, contrat, rapport, cas, conseil</em>
+* `Masc` (2839; 47% of non-empty `Gender`): <em>pays, parlement, programme, membres, droit, états, contrat, rapport, cas, conseil</em>
 * `EMPTY` (50): <em>commissaire, gens, coopération, responsables, collègue, intermédiaire, adultes, fantômes, intermédiaires, jeunes</em>
 
 <table>
-  <tr><th>Paradigm <i>oeuvre</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>oeuvre</em></td><td><em>oeuvre</em></td></tr>
+  <tr><th>Paradigm <i>œuvre</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>oeuvre</em></td><td><em>oeuvre, œuvre</em></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>oeuvres</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 95% lemmas (1196) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 95% lemmas (1182) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 * `Fem` (1454; 52% of non-empty `Gender`): <em>la, une, cette, des, toute, sa, leur, aucune, toutes, votre</em>
 * `Masc` (1336; 48% of non-empty `Gender`): <em>le, un, ce, des, son, tous, tout, votre, cet, mon</em>
-* `EMPTY` (2002): <em>les, l', le, ces, des, chaque, d', quelques, ce, plusieurs</em>
+* `EMPTY` (1994): <em>les, l', le, ces, des, chaque, d', quelques, ce, plusieurs</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -98,7 +98,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (85; 19% of non-empty `Gender`): <em>elle, elles, laquelle, celle, une, auxquelles, celle-ci, la, aucune, celles</em>
-* `Masc` (362; 81% of non-empty `Gender`): <em>il, on, ils, le, ceux, chacun, tous, -il, Nul, celui</em>
+* `Masc` (362; 81% of non-empty `Gender`): <em>il, on, ils, le, ceux, chacun, tous, l'on, -il, Nul</em>
 * `EMPTY` (1164): <em>qui, nous, je, vous, ce, s', se, c', que, y</em>
 
 <table>
@@ -121,12 +121,12 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="fr_partut-dep-det.html">det</a></tt>]--> DET</tt> (2547; 57%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1011; 50%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (968; 68%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1012; 50%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (969; 68%),
 <tt>NOUN --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (276; 55%),
 <tt>NOUN --[<tt><a href="fr_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (233; 51%),
 <tt>VERB --[<tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (120; 77%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-compound.html">compound</a></tt>]--> NOUN</tt> (64; 91%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-compound.html">compound</a></tt>]--> NOUN</tt> (65; 92%),
 <tt>ADJ --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> ADJ</tt> (42; 55%),
 <tt>ADJ --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (33; 57%),
 <tt>NOUN --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (26; 51%).

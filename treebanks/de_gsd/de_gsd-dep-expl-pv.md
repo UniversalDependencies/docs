@@ -24,10 +24,10 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 9 4 expl:pv	color:blue
 1	Hier	hier	ADV	ADV	_	9	advmod	_	_
 2	kann	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
-3	man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	9	nsubj	_	_
+3	man	man	PRON	PIS	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	_
 4	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 5	in	in	ADP	APPR	_	7	case	_	_
-6	einsamer	einsam	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	7	amod	_	_
+6	einsamer	einsam	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
 7	Natur	Natur	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	_
 8	wunderbar	wunderbar	ADV	ADJD	_	9	advmod	_	_
 9	erholen	erholen	VERB	VVINF	VerbForm=Inf	0	root	_	SpaceAfter=No

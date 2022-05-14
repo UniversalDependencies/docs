@@ -23,15 +23,15 @@ The following 7 pairs of parts of speech are connected with `acl:attr`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 acl:attr	color:blue
-1	Нивигым	_	VERB	_	_	0	root	_	Gloss=ST-сказать-NP.1SG
-2	аԓымы	_	ADV	_	_	3	advmod	_	Gloss=хотя
-3	мэԓнымкыӄин	_	ADJ	_	_	1	parataxis	_	Gloss=SEEM-ST-многий-ST.3SG
-4	э	_	PART	_	_	3	advmod:emph	_	Gloss=PTCL
-5	тытԓытыԓ	_	NOUN	_	_	3	nsubj	_	Gloss=дверь.RDP.NOM
-6	ӈотӄоры	_	ADV	_	_	7	advmod	_	Gloss=тут-ADV.ABL
-7	ӈытогыргын	_	VERB	_	_	5	acl:attr	_	Gloss=выходить-NMLZ-NOM.SG
-8	ваԓьын	_	AUX	_	_	7	cop	_	Gloss=быть-ATTR-NOM.SG|SpaceAfter=No
-9	.	_	PUNCT	_	_	1	punct	_	_
+1	Нивигым	_	VERB	_	_	0	root	0:root	Gloss=ST-сказать-NP.1SG
+2	аԓымы	_	ADV	_	_	3	advmod	3:advmod	Gloss=хотя
+3	мэԓнымкыӄин	_	ADJ	_	_	1	parataxis	1:parataxis	Gloss=SEEM-ST-многий-ST.3SG
+4	э	_	PART	_	_	3	advmod:emph	3:advmod:emph	Gloss=PTCL
+5	тытԓытыԓ	_	NOUN	_	_	3	nsubj	3:nsubj	Gloss=дверь.RDP.NOM
+6	ӈотӄоры	_	ADV	_	_	7	advmod	7:advmod	Gloss=тут-ADV.ABL
+7	ӈытогыргын	_	VERB	_	_	5	acl:attr	5:acl:attr	Gloss=выходить-NMLZ-NOM.SG
+8	ваԓьын	_	AUX	_	_	7	cop	7:cop	Gloss=быть-ATTR-NOM.SG|SpaceAfter=No
+9	.	_	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -42,12 +42,12 @@ The following 7 pairs of parts of speech are connected with `acl:attr`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 acl:attr	color:blue
-1	Ыʼмто	_	ADV	_	_	4	discourse	_	Gloss=ну.как
-2	гынин	_	PRON	_	_	3	nmod:poss	_	Gloss=ты-GEN
-3	ӈэвъэн	_	NOUN	_	_	4	nsubj	_	Gloss=жена-NOM.SG
-4	миӈкэмиԓ	_	ADV	_	_	0	root	_	Gloss=где-OBL-LIKE
-5	ваԓьын	_	AUX	_	_	3	acl:attr	_	Gloss=быть-ATTR-NOM.SG|SpaceAfter=No
-6	.	_	PUNCT	_	_	4	punct	_	_
+1	Ыʼмто	_	ADV	_	_	4	discourse	4:discourse	Gloss=ну.как
+2	гынин	_	PRON	_	_	3	nmod:poss	3:nmod:poss	Gloss=ты-GEN
+3	ӈэвъэн	_	NOUN	_	_	4	nsubj	4:nsubj	Gloss=жена-NOM.SG
+4	миӈкэмиԓ	_	ADV	_	_	0	root	0:root	Gloss=где-OBL-LIKE
+5	ваԓьын	_	AUX	_	_	3	acl:attr	3:acl:attr	Gloss=быть-ATTR-NOM.SG|SpaceAfter=No
+6	.	_	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -58,10 +58,10 @@ The following 7 pairs of parts of speech are connected with `acl:attr`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 acl:attr	color:blue
-1	Тэӈкэԓиԓьы	_	ADJ	_	_	2	acl:attr	_	Gloss=GOOD-писать-ATTR
-2	ӈэԓвыԓ	_	NOUN	_	_	3	obj	_	Gloss=стадо-NOM.SG
-3	мыйыԓгыт	_	VERB	_	_	0	root	_	Gloss=1SG.S/A.SUBJ-давать-2SG.O|SpaceAfter=No
-4	.	_	PUNCT	_	_	3	punct	_	_
+1	Тэӈкэԓиԓьы	_	ADJ	_	_	2	acl:attr	2:acl:attr	Gloss=GOOD-писать-ATTR
+2	ӈэԓвыԓ	_	NOUN	_	_	3	obj	3:obj	Gloss=стадо-NOM.SG
+3	мыйыԓгыт	_	VERB	_	_	0	root	0:root	Gloss=1SG.S/A.SUBJ-давать-2SG.O|SpaceAfter=No
+4	.	_	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

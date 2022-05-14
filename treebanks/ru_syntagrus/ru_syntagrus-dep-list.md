@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `list`: <tt><a href=
 19	Экспериментировать	экспериментировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	csubj:pass	20:csubj:pass	_
 20	подано	подать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	parataxis	6:parataxis	SpaceAfter=No
 21	"	"	PUNCT	_	_	20	punct	20:punct	SpaceAfter=No
-22	!	!	PUNCT	_	_	5	punct	5:punct	_~
+22	!	!	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -81,7 +81,7 @@ The following 9 pairs of parts of speech are connected with `list`: <tt><a href=
 25	х	x	SYM	_	_	22	list	22:list	_
 26	2	2	NUM	_	_	22	list	22:list	_
 27	м	метр	NOUN	_	Abbr=Yes	21	nmod	21:nmod	SpaceAfter=No
-28	?	?	PUNCT	_	_	15	punct	15:punct	_~
+28	?	?	PUNCT	_	_	15	punct	15:punct	_
 
 ~~~
 
@@ -127,7 +127,7 @@ The following 9 pairs of parts of speech are connected with `list`: <tt><a href=
 33	окружающего	окружать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	34	amod	34:amod	_
 34	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	32	nmod	32:nmod:gen	_
 35	человеком	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	32	nmod	32:nmod:ins	SpaceAfter=No
-36	.	.	PUNCT	_	_	26	punct	26:punct	_~
+36	.	.	PUNCT	_	_	26	punct	26:punct	_
 
 ~~~
 

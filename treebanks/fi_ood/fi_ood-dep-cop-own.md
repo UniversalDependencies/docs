@@ -62,9 +62,9 @@ The following 4 pairs of parts of speech are connected with `cop:own`: <tt><a hr
 2	Ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	mullakaan	mulla	ADV	_	Clitic=Kaan	0	root	_	_
 4	ole	olla	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop:own	_	_
-5	mitään	mikään	PRON	_	Case=Par|Number=Sing|PronType=Ind	6	det	_	_
-6	numero	numero	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
-7	tietoa	tieto	NOUN	_	Case=Par|Number=Sing	6	goeswith	_	_
+5	mitään	mikään	PRON	_	Case=Par|Number=Sing|PronType=Ind	7	det	_	_
+6	numero	numero	NOUN	_	Case=Nom|Number=Sing	7	compound:nn	_	_
+7	tietoa	tieto	NOUN	_	Case=Par|Number=Sing	3	nsubj:cop	_	_
 8	heittää	heittää	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp:ds	_	_
 9	tähän	tämä	PRON	_	Case=Ill|Number=Sing|PronType=Dem	8	obl	_	_
 10	enkä	ei	AUX	_	Clitic=Ka|Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	13	aux	_	_

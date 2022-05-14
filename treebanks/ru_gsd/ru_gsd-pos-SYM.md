@@ -6,20 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Russian-GSD: POS Tags: `SYM`
 
-There are 24 `SYM` lemmas (0%), 23 `SYM` types (0%) and 177 `SYM` tokens (0%).
+There are 24 `SYM` lemmas (0%), 23 `SYM` types (0%) and 174 `SYM` tokens (0%).
 Out of 16 observed tags, the rank of `SYM` is: 12 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>процент-знак, /, %, +, *, °, =, \, ×, $</em>
 
 The 10 most frequent `SYM` types:  <em>%, /, +, *, °, =, \, ×, $, ^</em>
 
-The 10 most frequent ambiguous lemmas: <em>/</em> (<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 41, <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 8), <em>\otimes</em> (<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 2, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 1), <em>&#39;&#39;</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 1087, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>.</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 4942, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>\mathbb</em> (<tt><a href="ru_gsd-pos-X.html">X</a></tt> 2, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>−</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 5, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>/</em> (<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 38, <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 8), <em>\otimes</em> (<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 2, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 1), <em>&#39;&#39;</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 1087, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>.</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 4942, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>\mathbb</em> (<tt><a href="ru_gsd-pos-X.html">X</a></tt> 2, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>−</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 5, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 41, <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 8), <em>\otimes</em> (<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 2, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 1), <em>&#39;&#39;</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 1087, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>.</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 4942, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>\mathbb</em> (<tt><a href="ru_gsd-pos-X.html">X</a></tt> 2, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>−</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 5, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 38, <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 8), <em>\otimes</em> (<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 2, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 1), <em>&#39;&#39;</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 1087, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>.</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 4942, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>\mathbb</em> (<tt><a href="ru_gsd-pos-X.html">X</a></tt> 2, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1), <em>−</em> (<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 5, <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 1)
 
 
 * <em>/</em>
-  * <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 41: <em>Уклон реки -- 1,23 м <b>/</b> км .</em>
+  * <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 38: <em>Уклон реки -- 1,23 м <b>/</b> км .</em>
   * <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> 8: <em>Но дивидендов приобретения не принесли : лишь 15-е место в сезоне 1993 <b>/</b> 94 .</em>
 * <em>\otimes</em>
   * <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> 2: <em>Пространство с мерой ( X_1 \times X_2 , \ ; \mathcal ( F ) _1 <b>\otimes</b> \mathcal ( F ) _2 , \ ; \mu_1 <b>\otimes</b> \mu_2 ) называется ( прямым ) произведением исходных пространств . \mathbb ( P ) ^ ( X , \ ; Y ) = \mathbb ( P ) ^ X \otimes \mathbb ( P ) ^ Y .</em>
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="ru_gsd-pos-SYM.h
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 0.958333 (the average of all parts of speech is 1.598094).
+The form / lemma ratio of `SYM` is 0.958333 (the average of all parts of speech is 1.598617).
 
 The 1st highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
 
@@ -52,17 +52,17 @@ The 3rd highest number of forms (1) was observed with the lemma “&#39;&#39;”
 `SYM` occurs with 1 feature-value pairs: `Case=Nom`
 
 `SYM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (176 tokens).
+The most frequent feature combination is `_` (173 tokens).
 Examples: <em>%, /, +, *, °, =, \, ×, ^, $</em>
 
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 17 different relations: <tt><a href="ru_gsd-dep-case.html">case</a></tt> (42; 24% instances), <tt><a href="ru_gsd-dep-obl.html">obl</a></tt> (27; 15% instances), <tt><a href="ru_gsd-dep-dep.html">dep</a></tt> (24; 14% instances), <tt><a href="ru_gsd-dep-conj.html">conj</a></tt> (13; 7% instances), <tt><a href="ru_gsd-dep-cc.html">cc</a></tt> (11; 6% instances), <tt><a href="ru_gsd-dep-appos.html">appos</a></tt> (10; 6% instances), <tt><a href="ru_gsd-dep-nsubj.html">nsubj</a></tt> (10; 6% instances), <tt><a href="ru_gsd-dep-obj.html">obj</a></tt> (10; 6% instances), <tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt> (9; 5% instances), <tt><a href="ru_gsd-dep-parataxis.html">parataxis</a></tt> (9; 5% instances), <tt><a href="ru_gsd-dep-advmod.html">advmod</a></tt> (4; 2% instances), <tt><a href="ru_gsd-dep-goeswith.html">goeswith</a></tt> (2; 1% instances), <tt><a href="ru_gsd-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="ru_gsd-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="ru_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="ru_gsd-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ru_gsd-dep-orphan.html">orphan</a></tt> (1; 1% instances)
+`SYM` nodes are attached to their parents using 16 different relations: <tt><a href="ru_gsd-dep-case.html">case</a></tt> (42; 24% instances), <tt><a href="ru_gsd-dep-obl.html">obl</a></tt> (27; 16% instances), <tt><a href="ru_gsd-dep-dep.html">dep</a></tt> (23; 13% instances), <tt><a href="ru_gsd-dep-conj.html">conj</a></tt> (13; 7% instances), <tt><a href="ru_gsd-dep-cc.html">cc</a></tt> (11; 6% instances), <tt><a href="ru_gsd-dep-appos.html">appos</a></tt> (10; 6% instances), <tt><a href="ru_gsd-dep-nsubj.html">nsubj</a></tt> (10; 6% instances), <tt><a href="ru_gsd-dep-obj.html">obj</a></tt> (10; 6% instances), <tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt> (9; 5% instances), <tt><a href="ru_gsd-dep-parataxis.html">parataxis</a></tt> (9; 5% instances), <tt><a href="ru_gsd-dep-advmod.html">advmod</a></tt> (4; 2% instances), <tt><a href="ru_gsd-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="ru_gsd-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="ru_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="ru_gsd-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ru_gsd-dep-orphan.html">orphan</a></tt> (1; 1% instances)
 
-Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (64; 36% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (48; 27% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (16; 9% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt> (16; 9% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (15; 8% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (7; 4% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances),  (2; 1% instances)
+Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (64; 37% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (48; 28% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (16; 9% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (15; 9% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt> (13; 7% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (7; 4% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances),  (2; 1% instances)
 
-84 (47%) `SYM` nodes are leaves.
+81 (47%) `SYM` nodes are leaves.
 
 23 (13%) `SYM` nodes have one child.
 

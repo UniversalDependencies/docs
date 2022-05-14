@@ -42,12 +42,12 @@ The following 1 pairs of parts of speech are connected with `flat:gov`: <tt><a h
 17	Livius	liuius	PROPN	Sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Sur|Number=Sing	28	nsubj	_	SpaceAfter=No
 18	,	,	PUNCT	Pu	_	17	punct	_	_
 19	non	non	PART	r	Polarity=Neg	22	advmod:neg	_	_
-20	quantum	quantum	SCONJ	r	ConjType=Cmpr|PronType=Rel	22	mark	_	_
+20	quantum	quantum	SCONJ	r	ConjType=Cmpr|NumType=Card|PronType=Rel	22	mark	_	_
 21	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
 22	dignum	dignus	ADJ	ans1n	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	27	advcl:cmpr	_	SpaceAfter=No
 23	,	,	PUNCT	Pu	_	26	punct	_	_
 24	sed	sed	CCONJ	co	_	26	cc	_	_
-25	quantum	quantum	SCONJ	r	ConjType=Cmpr|PronType=Rel	26	mark	_	_
+25	quantum	quantum	SCONJ	r	ConjType=Cmpr|NumType=Card|PronType=Rel	26	mark	_	_
 26	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	_
 27	glorificando	glorifico	VERB	va1fgb	Aspect=Imp|Case=Abl|Compound=Yes|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Ger|Voice=Pass	28	advcl	_	_
 28	renarrat	renarro	VERB	va1ips3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl:cmpr	_	SpaceAfter=No

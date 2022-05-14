@@ -26,7 +26,7 @@ The following 38 pairs of parts of speech are connected with `discourse`: <tt><a
 2	Diureesi	diureesi	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	Gen=Virtsaneritys
 3	niukahkoa	niukahko	ADJ	_	Case=Par|Degree=Pos|Number=Sing	0	root	_	_
 4	->	->	SYM	_	_	5	discourse	_	_
-5	saanut	saada	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	parataxis	_	_
+5	saanut	saada	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	parataxis	_	_
 6	Furesista	Furesis	PROPN	_	Case=Par|Number=Sing	5	obj	_	Gen_desc=lääke|SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 

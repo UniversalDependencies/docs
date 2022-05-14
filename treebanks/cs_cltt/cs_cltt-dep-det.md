@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 3	inventarizace	inventarizace	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	_	_
 4	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	5	obl:arg	_	_
 5	stanoví	stanovit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-6	sama	sám	DET	PLFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	8	xcomp	_	_
+6	sama	samý	DET	PLFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp|Variant=Short	8	xcomp	_	_
 7	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	amod	_	LId=účetní-1
 8	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	5	punct	_	_

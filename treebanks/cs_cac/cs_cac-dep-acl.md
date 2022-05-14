@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="cs_cac-dep-acl-rel
 1697 instances of `acl` (99%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.48951048951049.
 
-The following 24 pairs of parts of speech are connected with `acl`: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (936; 55% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (515; 30% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (79; 5% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (60; 3% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (41; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (29; 2% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 29 pairs of parts of speech are connected with `acl`: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (839; 49% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (490; 29% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (97; 6% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (79; 5% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (60; 3% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (41; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (29; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 24 pairs of parts of speech are connected with `acl`: <tt><a href=
 5	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
 6	aby	aby	SCONJ	J,-------------	_	10	mark	10:mark	_
 7	by	být	AUX	Vc-------------	Mood=Cnd|Person=3|VerbForm=Fin	10	aux	10:aux	_
-8	zapsané	zapsaný	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	9	amod	9:amod	LDeriv=zapsat
+8	zapsané	zapsaný	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	9	amod	9:amod	LDeriv=zapsat
 9	požadavky	požadavek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	10	nsubj	10:nsubj	_
 10	nezůstaly	zůstat	VERB	VpTP---XR-NA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	4	acl	4:acl:aby	_
 11	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	12	case	12:case	LId=na-1
@@ -61,19 +61,20 @@ The following 24 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 acl	color:blue
-1	Nenechte	nechat	VERB	Vi-P---2--N----	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	0	root	0:root	_
-2	heslo	heslo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	1	obj	1:obj	_
-3	Buď	být	AUX	Vi-S---2--A----	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	4	cop	4:cop	_
-4	fit	fit	ADJ	AAXXX----1A----	Degree=Pos|Foreign=Yes|Polarity=Pos	2	acl	2:acl	_
-5	jen	jen	PART	TT-------------	_	7	advmod:emph	7:advmod:emph	LId=jen-1|LGloss=(pouze)
-6	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	7:case	LId=na-1
-7	papíře	papír	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	1	obl	1:obl:na:loc	SpaceAfter=No
-8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
+# visual-style 4 6 acl	color:blue
+1	Pod	pod	ADP	RR--7----------	AdpType=Prep|Case=Ins	2	case	2:case	LId=pod-1
+2	snímkem	snímek	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	3:obl:pod:ins	_
+3	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	text	text	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nsubj	3:nsubj	_
+5	Nepřítel	nepřítel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	nsubj	6:nsubj	_
+6	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	4:acl	_
+7	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	LId=na-1
+8	východě	východ	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	6:obl:na:loc	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
 

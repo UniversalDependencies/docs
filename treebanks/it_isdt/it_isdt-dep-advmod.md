@@ -61,7 +61,7 @@ The following 14 pairs of parts of speech are connected with `advmod`: <tt><a hr
 4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	6:det	_
 5	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	6:det:poss	_
 6	film	film	NOUN	S	Gender=Masc	2	nmod	2:nmod:di	_
-7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+7	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 8	fin	fino	ADV	B	_	9	advmod	9:advmod	_
 9	troppo	troppo	ADV	B	_	10	advmod	10:advmod	_
 10	leggibili	leggibile	ADJ	A	Number=Plur	0	root	0:root	_

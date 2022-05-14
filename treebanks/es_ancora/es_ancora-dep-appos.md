@@ -27,9 +27,9 @@ The following 50 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	-	-	PUNCT	fg	PunctType=Dash	2	punct	2:punct	SpaceAfter=No
 4	,	,	PUNCT	fc	PunctType=Comm	2	punct	2:punct	_
 5	explica	explicar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-6	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	7:det	_
-7	tía	tía	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nsubj	5:nsubj	ClusterId=3LB-CAST-n1-1-s7.sn.13|ClusterType=Spec.person|MentionSpan=6-8
-8	Cristia	Cristia	PROPN	np0000p	_	7	appos	7:appos	SpaceAfter=No|ClusterId=3LB-CAST-n1-1-s7.sn.18|ClusterType=Spec.person|MentionSpan=8
+6	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	7:det	Entity=(3LBCASTn11s7.sn.13-person-2-gstype:spec
+7	tía	tía	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
+8	Cristia	Cristia	PROPN	np0000p	_	7	appos	7:appos	SpaceAfter=No|Entity=(3LBCASTn11s7.sn.18-person-1-gstype:spec)3LBCASTn11s7.sn.13)
 9	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 
 ~~~
@@ -61,13 +61,13 @@ The following 50 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 appos	color:blue
-1	Zarrabeitia	Zarrabeitia	PROPN	np0000p	_	2	nsubj	2:nsubj	ClusterId=3LB-CAST-d2-6-s8.sn.3|ClusterType=Spec.person|MentionSpan=1
+1	Zarrabeitia	Zarrabeitia	PROPN	np0000p	_	2	nsubj	2:nsubj	Entity=(3LBCASTd26s8.sn.3-person-1-gstype:spec)
 2	puso	poner	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	4:det	_
 4	rebeldía	rebeldía	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	2:obj	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	7	punct	7:punct	_
 6	y	y	CCONJ	cc	_	7	cc	7:cc	_
-7	Delgado	Delgado	PROPN	np0000p	_	2	conj	2:conj	ClusterId=3LB-CAST-d2-6-s8.sn.17|ClusterType=Spec.person|MentionSpan=7
+7	Delgado	Delgado	PROPN	np0000p	_	2	conj	2:conj	Entity=(3LBCASTd26s8.sn.17-person-1-gstype:spec)
 8	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	9:det	_
 9	gallardía	gallardía	NOUN	ncfs000	Gender=Fem|Number=Sing	7	appos	7:appos	SpaceAfter=No
 10	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_

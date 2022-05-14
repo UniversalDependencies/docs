@@ -8,72 +8,63 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (1%) are attached to their parents as `appos`.
+29 nodes (0%) are attached to their parents as `appos`.
 
-13 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.53846153846154.
+29 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.06896551724138.
 
-The following 6 pairs of parts of speech are connected with `appos`: <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (5; 38% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (3; 23% instances), <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="gub_tudet-pos-PART.html">PART</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
+The following 9 pairs of parts of speech are connected with `appos`: <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (10; 34% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (6; 21% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (5; 17% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 appos	color:blue
-1	Oho	ho	VERB	vi	Person=3	0	root	_	_
-2	maʔe	maʔe	NOUN	n	_	1	obl	_	_
-3	putɨr	putɨr	NOUN	n	_	2	nmod	_	_
-4	rehe	ehe	ADP	posp	Rel=Cont	2	case	_	_
-5	,	,	PUNCT	punct	_	6	punct	_	_
-6	mururu	mururu	NOUN	n	_	3	appos	_	_
-7	rehe	ehe	ADP	posp	Rel=Cont	6	case	_	_
-8	.	.	PUNCT	punct	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 7 appos	color:blue
-1	Heta	eta	VERB	vi	Person=3	0	root	_	_
-2	ipira	pira	NOUN	n	Rel=Abs	1	nsubj	_	_
-3	teteaʔu	tete	ADV	adv	_	2	advmod	_	_
-4	aʔe	aʔe	PRON	pn	PronType=Dem	1	obl	_	_
-5	pe	pe	ADP	posp	Case=Loc	4	case	_	_
-6	,	,	PUNCT	punct	_	7	punct	_	_
-7	ɨrɨhu	ɨrɨk	NOUN	n	Nomzr=DevPass	4	appos	_	_
-8	pe	pe	ADP	posp	Case=Loc	7	case	_	_
-9	.	.	PUNCT	punct	_	7	punct	_	_
+# visual-style 4 6 appos	color:blue
+1	Tueharupi	tuwe	NOUN	n	Case=Tem|Nomzr=Circ|Rel=Cont	2	obl	_	_
+2	oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+3	arapapa	arapapa	NOUN	n	_	2	obl:subj	_	_
+4	ʔɨpe	ʔɨ	NOUN	n	Case=All	2	obl	_	_
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	ɨrɨhupe	ɨrɨk	NOUN	n	Case=All|Nomzr=DevPass	4	appos	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 appos	color:blue
-1	Uhem	hem	VERB	v	Person=3	0	root	_	_
-2	Kari	Kari	PROPN	pn	_	1	nsubj	_	_
-3	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
-4	no	no	PART	pcl	_	1	discourse	_	_
-5	,	,	PUNCT	punct	_	7	punct	_	_
-6	Mari	Mari	PROPN	pn	_	7	nmod	_	_
-7	memɨraʔi	memɨr	NOUN	n	Dimin=Yes|Rel=Cont	2	appos	_	_
-8	aʔe	aʔe	PART	pcl	Person=3	7	discourse	_	_
-9	no	no	PART	pcl	_	7	discourse	_	_
-10	,	,	PUNCT	punct	_	7	punct	_	_
-11	uhɨ	hɨ	VERB	v	Person=3	1	obl	_	_
-12	rupi	upi	ADP	posp	Rel=Cont	11	case	_	_
-13	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
-14	no	no	PART	pcl	_	1	discourse	_	_
-15	.	.	PUNCT	punct	_	1	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 appos	color:blue
+1	Zumen	zumen	NOUN	n	_	2	obl:subj	_	_
+2	uʔu	ʔu	VERB	vt	Person[subj]=3	5	ccomp	_	_
+3	hemaʔe	maʔe	NOUN	n	Number=Sing|Person=1|Poss=Yes|Rel=Cont	2	obj	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	iʔi	ʔi	NOUN	n	Rel=NCont	0	root	_	_
+6	izupe	upe	ADP	posp	Rel=NCont	5	iobj	_	_
+7	,	,	PUNCT	punct	_	8	punct	_	_
+8	wemirekope	eko	NOUN	n	Case=Dat|Nomzr=DevPass|Rel=Corf	6	appos	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 appos	color:blue
+1	Heta	eta	NOUN	n	Rel=NCont	0	root	_	_
+2	ipira	pira	NOUN	n	Rel=Abs	1	obl:subj	_	_
+3	teteaʔu	tete	ADV	adv	Emph=Yes	2	advmod	_	_
+4	aʔepe	aʔe	PRON	pn	Case=Loc|PronType=Dem	1	obl	_	_
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	ɨrɨhupe	ɨrɨk	NOUN	n	Case=Loc|Nomzr=DevPass	4	appos	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
 
 ~~~
 

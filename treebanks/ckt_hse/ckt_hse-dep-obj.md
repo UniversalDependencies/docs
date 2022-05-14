@@ -22,15 +22,15 @@ The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 obj	color:blue
-1	Ӄоԓе	_	PRON	_	_	2	dep	_	Gloss=некий
-2	итгъэт	_	AUX	_	_	0	root	_	Gloss=2/3.S/A-являться-TH-PL
-3	ӄынвэт	_	ADV	_	_	8	advmod	_	Gloss=наконец
-4	э	_	PART	_	_	3	advmod:emph	_	Gloss=PTCL
-5	ӈиръэ	_	NUM	_	_	6	nummod	_	Gloss=два
-6	ӈэвысӄэтти	_	NOUN	_	_	8	obj	_	Gloss=женщина-NOM.PL
-7	эԓерэты	_	NOUN	_	_	8	obl	_	Gloss=остров-DAT
-8	натанат	_	VERB	_	_	2	parataxis	_	Gloss=LOW.A-приносить-3SG.O-PL|SpaceAfter=No
-9	.	_	PUNCT	_	_	2	punct	_	_
+1	Ӄоԓе	_	PRON	_	_	2	dep	2:dep	Gloss=некий
+2	итгъэт	_	AUX	_	_	0	root	0:root	Gloss=2/3.S/A-являться-TH-PL
+3	ӄынвэт	_	ADV	_	_	8	advmod	8:advmod	Gloss=наконец
+4	э	_	PART	_	_	3	advmod:emph	3:advmod:emph	Gloss=PTCL
+5	ӈиръэ	_	NUM	_	_	6	nummod	6:nummod	Gloss=два
+6	ӈэвысӄэтти	_	NOUN	_	_	8	obj	8:obj	Gloss=женщина-NOM.PL
+7	эԓерэты	_	NOUN	_	_	8	obl	8:obl	Gloss=остров-DAT
+8	натанат	_	VERB	_	_	2	parataxis	2:parataxis	Gloss=LOW.A-приносить-3SG.O-PL|SpaceAfter=No
+9	.	_	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -55,12 +55,12 @@ The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 obj	color:blue
-1	Ныныпчеӈивйивӄин	_	VERB	_	_	0	root	_	Gloss=ST-TR-расспрашивать-CS-DISTR.O-ST.3SG
-2	коԓё	_	ADV	_	_	1	advmod	_	Gloss=очень
-3	нымныма	_	NOUN	_	_	1	nsubj	_	Gloss=посёлок-INS
-4	Медведев	_	PROPN	_	_	1	obj	_	Gloss=Медведев-NOM.SG
-5	ъым	_	PART	_	_	4	advmod:emph	_	Gloss=EMPH
-6	.	_	PUNCT	_	_	1	punct	_	_
+1	Ныныпчеӈивйивӄин	_	VERB	_	_	0	root	0:root	Gloss=ST-TR-расспрашивать-CS-DISTR.O-ST.3SG
+2	коԓё	_	ADV	_	_	1	advmod	1:advmod	Gloss=очень
+3	нымныма	_	NOUN	_	_	1	nsubj	1:nsubj	Gloss=посёлок-INS
+4	Медведев	_	PROPN	_	_	1	obj	1:obj	Gloss=Медведев-NOM.SG
+5	ъым	_	PART	_	_	4	advmod:emph	4:advmod:emph	Gloss=EMPH
+6	.	_	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 

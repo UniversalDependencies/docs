@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `expl`: <tt><a href="pt_bosque-dep-expl-pass.html">expl:pass</a></tt>.
 
-972 nodes (0%) are attached to their parents as `expl`.
+986 nodes (0%) are attached to their parents as `expl`.
 
 577 instances of `expl` (59%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.0462962962963.
+Average distance between parent and child is 1.0446247464503.
 
-The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (968; 100% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (982; 100% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

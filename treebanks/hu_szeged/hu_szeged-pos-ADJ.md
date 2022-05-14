@@ -64,7 +64,7 @@ The 3rd highest number of forms (6) was observed with the lemma “gyors”: <em
 
 `ADJ` occurs with 8 features: <tt><a href="hu_szeged-feat-Case.html">Case</a></tt> (5543; 100% instances), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt> (5543; 100% instances), <tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt> (4708; 85% instances), <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt> (1149; 21% instances), <tt><a href="hu_szeged-feat-NumType.html">NumType</a></tt> (184; 3% instances), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt> (7; 0% instances), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt> (7; 0% instances), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt> (1; 0% instances)
 
-`ADJ` occurs with 27 feature-value pairs: `Case=Abl`, `Case=Abs`, `Case=Acc`, `Case=Ade`, `Case=All`, `Case=Dat`, `Case=Dis`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ins`, `Case=Nom`, `Case=Sub`, `Case=Sup`, `Case=Tra`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psed]=Sing`, `Number[psor]=Sing`, `Person[psor]=3`, `VerbForm=PartFut`, `VerbForm=PartPast`, `VerbForm=PartPres`
+`ADJ` occurs with 27 feature-value pairs: `Case=Abl`, `Case=Abs`, `Case=Acc`, `Case=Ade`, `Case=All`, `Case=Dat`, `Case=Dis`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ins`, `Case=Nom`, `Case=Sbl`, `Case=Sup`, `Case=Tra`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psed]=Sing`, `Number[psor]=Sing`, `Person[psor]=3`, `VerbForm=PartFut`, `VerbForm=PartPast`, `VerbForm=PartPres`
 
 `ADJ` occurs with 74 feature combinations.
 The most frequent feature combination is `Case=Nom|Degree=Pos|Number=Sing` (3568 tokens).

@@ -11,16 +11,16 @@ It occurs with 6 different values: `Ind`, `IndEurA`, `IndEurI`, `IndEurO`, `IndE
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt>, <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt>.
 
-3570 tokens (6%) have a non-empty value of `InflClass[nominal]`.
-2106 types (18%) occur at least once with a non-empty value of `InflClass[nominal]`.
-1071 lemmas (19%) occur at least once with a non-empty value of `InflClass[nominal]`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (3216; 6% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (354; 1% instances).
+3638 tokens (7%) have a non-empty value of `InflClass[nominal]`.
+2116 types (18%) occur at least once with a non-empty value of `InflClass[nominal]`.
+1074 lemmas (19%) occur at least once with a non-empty value of `InflClass[nominal]`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (3284; 6% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (354; 1% instances).
 
 ### `VERB`
 
-3216 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `InflClass[nominal]`.
+3284 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (41% of all `VERB` tokens) have a non-empty value of `InflClass[nominal]`.
 
-The most frequent other feature values with which `VERB` and `InflClass[nominal]` co-occurred: <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3216; 100%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3206; 100%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2205; 69%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1876; 58%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1763; 55%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1659; 52%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1623; 50%).
+The most frequent other feature values with which `VERB` and `InflClass[nominal]` co-occurred: <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3284; 100%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3274; 100%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2269; 69%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1881; 57%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1761; 54%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1692; 52%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1662; 51%).
 
 `VERB` tokens may have the following values of `InflClass[nominal]`:
 
@@ -84,8 +84,8 @@ The most frequent other feature values with which `AUX` and `InflClass[nominal]`
 ## Relations with Agreement in `InflClass[nominal]`
 
 The 10 most frequent relations where parent and child node agree in `InflClass[nominal]`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (173; 56%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (170; 55%),
+<tt>VERB --[<tt><a href="la_udante-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (3; 75%),
 <tt>AUX --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 67%),
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 67%),
-<tt>VERB --[<tt><a href="la_udante-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (2; 67%).
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 67%).
 

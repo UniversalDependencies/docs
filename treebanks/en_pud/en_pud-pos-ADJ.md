@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>more</em> (<tt><a href="en_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.138758).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.138927).
 
 The 1st highest number of forms (1) was observed with the lemma “13th”: <em>13th</em>.
 

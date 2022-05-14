@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1862 tokens (1%) have a non-empty value of `Poss`.
-32 types (0%) occur at least once with a non-empty value of `Poss`.
-12 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (1828; 1% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (33; 0% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+1861 tokens (1%) have a non-empty value of `Poss`.
+31 types (0%) occur at least once with a non-empty value of `Poss`.
+11 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (1828; 1% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (32; 0% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `DET`
 
@@ -23,19 +23,19 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1828; 100% of non-empty `Poss`): <em>sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, nostri</em>
-* `EMPTY` (46813): <em>il, la, i, l', le, un, gli, una, lo, quale</em>
+* `EMPTY` (46814): <em>il, la, i, l', le, un, gli, una, lo, quale</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `Poss`.
 
 ### `PRON`
 
-33 <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
+32 <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="it_isdt-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (33; 100%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (33; 100%), <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (33; 100%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23; 70%), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (22; 67%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="it_isdt-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (32; 100%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (32; 100%), <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (32; 100%), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (22; 69%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 69%).
 
 `PRON` tokens may have the following values of `Poss`:
 
-* `Yes` (33; 100% of non-empty `Poss`): <em>sua, suo, suoi, proprio, tuo, mia, miei, mio, nostro, tua</em>
+* `Yes` (32; 100% of non-empty `Poss`): <em>sua, suo, suoi, proprio, tuo, mia, miei, mio, nostro, tua</em>
 * `EMPTY` (11263): <em>si, che, chi, ci, cui, lo, ne, qual, quanto, c'</em>
 
 ### `ADJ`

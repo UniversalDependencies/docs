@@ -77,7 +77,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 6	присутствуют	присутствовать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	в	в	ADP	IN	_	11	case	_	_
 8	Папуа	Папуа	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
-9	—	—	PUNCT	-	_	11	punct	_	OrigForm=--|Proper=True
+9	—	—	PUNCT	-	_	11	punct	_	Proper=True
 10	Новой	новый	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	Proper=True
 11	Гвинее	Гвинея	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	flat	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_

@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (13704; 58% of non-empty `Aspect`): <em>есть, может, могу, делать, хочу, здравствуйте, стоит, нравится, знаю, работает</em>
 * `Perf` (9920; 42% of non-empty `Aspect`): <em>найти, подскажите, сделать, сказал, купить, понравилось, стал, помогите, сказать, стало</em>
-* `EMPTY` (1122): <em>можно, нет, надо, жаль, нельзя, будет, нету, е., нечего, жалко</em>
+* `EMPTY` (1123): <em>можно, нет, надо, жаль, нельзя, будет, нету, е., нечего, жалко</em>
 
 <table>
   <tr><th>Paradigm <i>сказать</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -58,7 +58,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Imp` (999; 100% of non-empty `Aspect`): <em>было, был, есть, была, были, быть, будучи, бывшая, бывший</em>
-* `EMPTY` (594): <em>бы, будет, будут, буду, будем, б, будете, будь, будешь, будьте</em>
+* `EMPTY` (575): <em>бы, будет, будут, буду, будем, б, будете, будь, будешь, будьте</em>
 
 ## Relations with Agreement in `Aspect`
 

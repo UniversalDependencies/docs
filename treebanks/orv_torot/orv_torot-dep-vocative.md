@@ -39,10 +39,10 @@ The following 37 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 vocative	color:blue
-1	се	се	INTJ	I-	_	2	vocative	_	ref=53.25
-2	посла	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=53.25
-3	ны	мы	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	obj	_	ref=53.25
-4	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=53.25
+1	се	се	INTJ	I-	_	2	vocative	_	Ref=53.25
+2	посла	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=53.25
+3	ны	мы	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	obj	_	Ref=53.25
+4	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=53.25
 
 ~~~
 
@@ -53,12 +53,12 @@ The following 37 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 vocative	color:blue
-1	ших꙽бъ	шихбъ	X	F-	_	0	root	_	ref=9
-2	алѹдинъ	алудинъ	X	F-	_	1	vocative	_	ref=9
-3	пїръ	пиръ	X	F-	_	1	vocative	_	ref=9
-4	атыръ	атыръ	X	F-	_	1	vocative	_	ref=9
-5	бозаръ	базаръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	vocative	_	ref=9
-6	алѧдинандъ	алядинандъ	X	F-	_	1	vocative	_	ref=9
+1	ших꙽бъ	шихбъ	X	F-	_	0	root	_	Ref=9
+2	алѹдинъ	алудинъ	X	F-	_	1	vocative	_	Ref=9
+3	пїръ	пиръ	X	F-	_	1	vocative	_	Ref=9
+4	атыръ	атыръ	X	F-	_	1	vocative	_	Ref=9
+5	бозаръ	базаръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	vocative	_	Ref=9
+6	алѧдинандъ	алядинандъ	X	F-	_	1	vocative	_	Ref=9
 
 ~~~
 

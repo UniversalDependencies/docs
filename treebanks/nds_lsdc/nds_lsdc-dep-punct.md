@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-349 nodes (15%) are attached to their parents as `punct`.
+380 nodes (15%) are attached to their parents as `punct`.
 
-222 instances of `punct` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.60744985673352.
+236 instances of `punct` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.57368421052632.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (249; 71% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (36; 10% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (20; 6% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (15; 4% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (8; 2% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (7; 2% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances).
+The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (268; 71% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (42; 11% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (20; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (16; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (10; 3% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (9; 2% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

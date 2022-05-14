@@ -22,18 +22,18 @@ The following 23 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 vocative	color:blue
-1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	AlignBegin=115746|AlignEnd=115830|Gloss=NOM.SG.1
-2	say	say	VERB	_	_	0	root	_	AlignBegin=115830|AlignEnd=115990|Gloss=say
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	AlignBegin=115746|AlignEnd=115830|Gloss=NOM.SG.1|SyllableCount=1|WordContour=ml
+2	say	say	VERB	_	_	0	root	_	AlignBegin=115830|AlignEnd=115990|Gloss=say|SyllableCount=1|WordContour=lh
 3	[	[	X	_	_	9	dep	_	AlignBegin=115990|AlignEnd=116020|Gloss=PUNCT
-4	toh	toh	INTJ	_	_	9	discourse	_	AlignBegin=116020|AlignEnd=116180|Gloss=alright
-5	but	but	CCONJ	_	_	9	cc	_	AlignBegin=116210|AlignEnd=116330|Gloss=but
-6	uncle	uncle	NOUN	_	_	9	vocative	_	AlignBegin=116330|AlignEnd=116578|Gloss=uncle
+4	toh	toh	INTJ	_	_	9	discourse	_	AlignBegin=116020|AlignEnd=116180|Gloss=alright|SyllableCount=1|WordContour=hm
+5	but	but	CCONJ	_	_	9	cc	_	AlignBegin=116210|AlignEnd=116330|Gloss=but|SyllableCount=1|WordContour=mm
+6	uncle	uncle	NOUN	_	_	9	vocative	_	AlignBegin=116330|AlignEnd=116578|Gloss=uncle|SyllableCount=2|WordContour=mh
 7	<	<	X	_	_	6	dep	_	AlignBegin=116578|AlignEnd=116608|Gloss=PUNCT
-8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	AlignBegin=116608|AlignEnd=116730|Gloss=NOM.SG.1
-9	wan	want	VERB	_	_	2	parataxis	_	AlignBegin=116730|AlignEnd=116940|Gloss=want
-10	go	go	VERB	_	_	9	xcomp	_	AlignBegin=116940|AlignEnd=117140|Gloss=go
-11	school	school	NOUN	_	_	10	iobj	_	AlignBegin=117140|AlignEnd=117370|Gloss=school
-12	o	o	PART	_	PartType=Disc	9	advmod	_	AlignBegin=117370|AlignEnd=117587|Gloss=EMPH
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	AlignBegin=116608|AlignEnd=116730|Gloss=NOM.SG.1|SyllableCount=1|WordContour=mm
+9	wan	want	VERB	_	_	2	parataxis	_	AlignBegin=116730|AlignEnd=116940|Gloss=want|SyllableCount=1|WordContour=mhh3
+10	go	go	VERB	_	_	9	xcomp	_	AlignBegin=116940|AlignEnd=117140|Gloss=go|SyllableCount=1|WordContour=mm
+11	school	school	NOUN	_	_	10	iobj	_	AlignBegin=117140|AlignEnd=117370|Gloss=school|SyllableCount=1|WordContour=mm
+12	o	o	PART	_	PartType=Disc	9	advmod	_	AlignBegin=117370|AlignEnd=117587|Gloss=EMPH|SyllableCount=1|WordContour=ml
 13	//]	//]	X	_	_	9	dep	_	AlignBegin=117587|AlignEnd=117617|Gloss=PUNCT
 14	//	//	X	_	_	2	dep	_	AlignBegin=117587|AlignEnd=117617|Gloss=PUNCT
 
@@ -47,15 +47,15 @@ The following 23 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 8	fgColor:white
 # visual-style 8 2 vocative	color:blue
 1	#	#	X	_	_	8	dep	_	AlignBegin=13254|AlignEnd=14060|Gloss=PUNCT
-2	God	God	PROPN	_	_	8	vocative	_	AlignBegin=14060|AlignEnd=14233|Gloss=God
+2	God	God	PROPN	_	_	8	vocative	_	AlignBegin=14060|AlignEnd=14233|Gloss=God|SyllableCount=1|WordContour=hm
 3	<	<	X	_	_	2	dep	_	AlignBegin=14233|AlignEnd=14263|Gloss=PUNCT
-4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=14263|AlignEnd=14360|Gloss=NOM.SG.1
-5	beg	beg	VERB	_	_	8	parataxis:discourse	_	AlignBegin=14360|AlignEnd=14580|Gloss=beg
+4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=14263|AlignEnd=14360|Gloss=NOM.SG.1|SyllableCount=1|WordContour=X
+5	beg	beg	VERB	_	_	8	parataxis:discourse	_	AlignBegin=14360|AlignEnd=14580|Gloss=beg|SyllableCount=1|WordContour=mm
 6	<	<	X	_	_	8	dep	_	AlignBegin=14580|AlignEnd=14610|Gloss=PUNCT
-7	just	just	ADV	_	_	8	advmod	_	AlignBegin=14610|AlignEnd=14836|Gloss=just
-8	try	try	VERB	_	_	0	root	_	AlignBegin=14836|AlignEnd=15000|Gloss=try
-9	help	help	VERB	_	_	8	xcomp	_	AlignBegin=15000|AlignEnd=15207|Gloss=help
-10	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obj	_	AlignBegin=15207|AlignEnd=15433|Gloss=ACC.SG.1
+7	just	just	ADV	_	_	8	advmod	_	AlignBegin=14610|AlignEnd=14836|Gloss=just|SyllableCount=1|WordContour=mH
+8	try	try	VERB	_	_	0	root	_	AlignBegin=14836|AlignEnd=15000|Gloss=try|SyllableCount=1|WordContour=mH
+9	help	help	VERB	_	_	8	xcomp	_	AlignBegin=15000|AlignEnd=15207|Gloss=help|SyllableCount=1|WordContour=LL
+10	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obj	_	AlignBegin=15207|AlignEnd=15433|Gloss=ACC.SG.1|SyllableCount=1|WordContour=lL
 11	//	//	X	_	_	8	dep	_	AlignBegin=15433|AlignEnd=15463|Gloss=PUNCT
 
 ~~~
@@ -67,12 +67,12 @@ The following 23 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 vocative	color:blue
-1	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	AlignBegin=1540|AlignEnd=1705|Gloss=SG.1.POSS
-2	people	people	NOUN	_	Number=Plur	5	vocative	_	AlignBegin=1705|AlignEnd=2030|Gloss=people.PL
+1	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	AlignBegin=1540|AlignEnd=1705|Gloss=SG.1.POSS|SyllableCount=1|WordContour=hm
+2	people	people	NOUN	_	Number=Plur	5	vocative	_	AlignBegin=1705|AlignEnd=2030|Gloss=people.PL|SyllableCount=2|WordContour=mmh1
 3	<	<	X	_	_	2	dep	_	AlignBegin=2030|AlignEnd=2060|Gloss=PUNCT
-4	good	good	ADJ	_	_	5	amod	_	AlignBegin=2060|AlignEnd=2249|Gloss=good
-5	evening	evening	NOUN	_	_	0	root	_	AlignBegin=2249|AlignEnd=2690|Gloss=evening
-6	o	o	PART	_	PartType=Disc	5	advmod	_	AlignBegin=2690|AlignEnd=2924|Gloss=EMPH
+4	good	good	ADJ	_	_	5	amod	_	AlignBegin=2060|AlignEnd=2249|Gloss=good|SyllableCount=1|WordContour=mh
+5	evening	evening	NOUN	_	_	0	root	_	AlignBegin=2249|AlignEnd=2690|Gloss=evening|SyllableCount=2|WordContour=hm
+6	o	o	PART	_	PartType=Disc	5	advmod	_	AlignBegin=2690|AlignEnd=2924|Gloss=EMPH|SyllableCount=1|WordContour=ll
 7	!//	!//	X	_	_	5	dep	_	AlignBegin=2924|AlignEnd=2954|Gloss=PUNCT
 
 ~~~

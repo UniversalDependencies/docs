@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `det`: <tt><a href="cs_pud-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="cs_pud-dep-det-nummod.html">det:nummod</a></tt>.
 
-413 nodes (2%) are attached to their parents as `det`.
+423 nodes (2%) are attached to their parents as `det`.
 
-410 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.34624697336562.
+420 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.34042553191489.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (397; 96% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (409; 97% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -64,23 +64,30 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 det	color:blue
-1	Vstupenka	vstupenka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	4	nsubj	4:nsubj	_
-2	F	F	PROPN	NNXXX-----A---8	Abbr=Yes|NameType=Giv|Polarity=Pos	1	nmod	1:nmod	SpaceAfter=No|LId=F-0
-3	1	1	NUM	C=-------------	NumForm=Digit|NumType=Card	2	nummod	2:nummod	_
-4	zaručuje	zaručovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-5	vstup	vstup	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	4:obj	_
-6	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	7	case	7:case	LId=na-1
-7	koncert	koncert	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	5:nmod:na:acc	_
-8	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	11:case	LId=v-1
-9	ten	ten	DET	PDIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	11	det	11:det	_
-10	samý	samý	PRON	PLIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	11	det	11:det	_
-11	den	den	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	5:nmod:v:acc	SpaceAfter=No|LGloss=(jednotka_času)
-12	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 det	color:blue
+1	Cuaron	Cuaron	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	17	nsubj	5:nmod|17:nsubj	SpaceAfter=No
+2	,	,	PUNCT	Z:-------------	_	5	punct	5:punct	_
+3	jehož	jenž	PRON	PJZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PrepCase=Npr|PronType=Rel	5	det	1:ref	LGloss=(který_[ve_vedl.větě])
+4	nejnovějším	nový	ADJ	AAIS7----3A----	Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Number=Sing|Polarity=Pos	5	amod	5:amod	_
+5	filmem	film	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	1	acl:relcl	1:acl:relcl	_
+6	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
+7	oskarová	oskarový	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	amod	8:amod	_
+8	Gravitace	gravitace	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj	5:nsubj	SpaceAfter=No
+9	,	,	PUNCT	Z:-------------	_	5	punct	5:punct	_
+10	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	12	case	12:case	LId=podle-2
+11	dostupných	dostupný	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	12	amod	12:amod	_
+12	zpráv	zpráva	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	17	obl	17:obl:podle:gen	_
+13	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	14	case	14:case	LId=v-1
+14	době	doba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	17	obl	17:obl:v:loc	_
+15	incidentu	incident	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	14	nmod	14:nmod:gen	_
+16	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	17	case	17:case	LId=u-1
+17	natáčení	natáčení	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	0	root	0:root	LDeriv=natáčet
+18	nebyl	být	AUX	VpYS---XR-NA---	Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	17	cop	17:cop	SpaceAfter=No
+19	.	.	PUNCT	Z:-------------	_	17	punct	17:punct	_
 
 ~~~
 

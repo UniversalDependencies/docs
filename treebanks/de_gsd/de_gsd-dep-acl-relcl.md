@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_gsd-dep-acl.html">acl</a></tt>.
 
-6 nodes (0%) are attached to their parents as `acl:relcl`.
+8 nodes (0%) are attached to their parents as `acl:relcl`.
 
-6 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.83333333333333.
+8 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.75.
 
-The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (5; 83% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1; 17% instances).
+The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (7; 88% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 3	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Punkt	Punkt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 5	an	an	ADP	APPR	_	6	case	_	_
-6	dem	der	PRON	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	obl	_	_
+6	dem	der	PRON	PRELS	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	9	obl	_	_
 7	wir	wir	PRON	PPER	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
 8	hätten	haben	AUX	VAFIN	Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	9	aux	_	_
 9	gehen	gehen	VERB	VVINF	VerbForm=Inf	4	acl:relcl	_	_
@@ -72,7 +72,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 27	ein	ein	ADV	PTKVZ	_	20	compound:prt	_	SpaceAfter=No
 28	,	,	PUNCT	$,	_	37	punct	_	_
 29	die	der	PRON	PRELS	Case=Nom|Number=Plur|PronType=Rel	37	nsubj	_	_
-30	natürlich	natürlich	ADJ	ADV	_	37	advmod	_	_
+30	natürlich	natürlich	ADJ	ADV	Degree=Pos	37	advmod	_	_
 31	nach	nach	ADV	ADV	_	37	advmod	_	_
 32	wie	wie	ADP	KON	_	31	fixed	_	_
 33	vor	vor	ADV	ADV	_	31	fixed	_	_
@@ -88,11 +88,11 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 43	Bastian	Bastian	PROPN	NN	Case=Acc|Gender=Masc|Number=Sing	52	obj	_	NamedEntity=Yes
 44	zu	zu	ADP	APPR	_	47	case	_	_
 45	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	47	det	_	_
-46	albernen	albern	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	47	amod	_	_
+46	albernen	albern	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	47	amod	_	_
 47	Wunsch	Wunsch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	52	obl	_	_
 48	nach	nach	ADP	APPR	_	50	case	_	_
 49	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	50	det	_	_
-50	nächsten	nah	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	45	nmod	_	_
+50	nächsten	nah	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	45	nmod	_	_
 51	zu	zu	PART	PTKZU	_	52	mark	_	_
 52	überreden	überreden	VERB	VVINF	VerbForm=Inf	41	xcomp	_	SpaceAfter=No
 53	,	,	PUNCT	$,	_	59	punct	_	_

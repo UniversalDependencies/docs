@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (226; 100% of non-empty `Poss`): <em>jeho, jejich, své, její, n, svou, svého, svůj, svých, svým</em>
-* `EMPTY` (601): <em>to, který, které, která, mnoho, toho, kteří, tím, tento, tohoto</em>
+* `EMPTY` (618): <em>to, který, které, která, mnoho, toho, kteří, tím, tento, tohoto</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (39; 100% of non-empty `Poss`): <em>achaimenovské, Achaimenovskou, Achaimenovská, Alexandrově, Bergeronova, Berijovo, Blochových, Caesarovi, Carangiina, Cottonovy</em>
-* `EMPTY` (2245): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `EMPTY` (2231): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
 `Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (37) occur only with one value of `Poss`.
 

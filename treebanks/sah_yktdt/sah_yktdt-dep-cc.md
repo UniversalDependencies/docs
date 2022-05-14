@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (4%) are attached to their parents as `cc`.
+14 nodes (3%) are attached to their parents as `cc`.
 
-10 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3.
+13 instances of `cc` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.42857142857143.
 
-The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (5; 50% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (2; 20% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 10% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 10% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 10% instances).
+The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (6; 43% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (3; 21% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (2; 14% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (2; 14% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -54,23 +54,19 @@ The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="s
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 cc	color:blue
-1	Кинилэр	кинилэр	PRON	pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	ааҕалар	ааҕ	VERB	v	Number=Plur|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	punct	_	2	punct	_	_
-4	суруйаллар	суруй	VERB	v	Number=Plur|Person=3|Tense=Pres	2	conj	_	SpaceAfter=No
-5	,	,	PUNCT	punct	_	2	punct	_	_
-6	кэпсииллэр	кэпсээ	VERB	v	Number=Plur|Person=3|Tense=Pres	2	conj	_	SpaceAfter=No
-7	,	,	PUNCT	punct	_	2	punct	_	_
-8	уонна	уонна	CCONJ	cconj	_	9	cc	_	_
-9	сахалыы	саха	ADV	adv	_	12	advmod	_	SpaceAfter=No
-10	,	,	PUNCT	punct	_	11	punct	_	_
-11	нууччалыы	нуучча	ADV	adv	_	9	conj	_	_
-12	кэпсэтэллэр	кэпсээ	VERB	v	Number=Plur|Person=3|Tense=Pres	2	conj	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 cc	color:blue
+1	Онуоха	ол	DET	det	Case=Dat	8	obj	_	this
+2	кини	кини	PRON	pron	_	8	nsubj	_	_
+3	симиктик	симик	ADV	adv	_	8	advmod	_	shy
+4	эрээри	эрээри	CCONJ	cconj	_	6	cc	_	_
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	оттомноохтук	оттомноох	ADV	adv	_	3	conj	_	reasonable
+7	хат	хат	ADV	adv	_	8	advmod	_	again
+8	көрдөстө	көрдөс	VERB	v	Number=Sing|Person=3|Tense=Past	0	root	_	request
 
 ~~~
 

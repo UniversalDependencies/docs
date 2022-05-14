@@ -6,21 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-PUD: POS Tags: `AUX`
 
-There are 5 `AUX` lemmas (14%), 171 `AUX` types (3%) and 756 `AUX` tokens (3%).
-Out of 15 observed tags, the rank of `AUX` is: 2 in number of lemmas, 6 in number of types and 10 in number of tokens.
+There are 6 `AUX` lemmas (0%), 132 `AUX` types (2%) and 710 `AUX` tokens (3%).
+Out of 15 observed tags, the rank of `AUX` is: 13 in number of lemmas, 7 in number of types and 10 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>_, ser, poder, haber, tener</em>
+The 10 most frequent `AUX` lemmas: <em>ser, haber, estar, _, poder, deber</em>
 
 The 10 most frequent `AUX` types:  <em>es, fue, ha, había, está, era, puede, son, ser, fueron</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 4822, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 3567, <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> 2291, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2125, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1474, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 1234, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 909, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 641, <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> 582, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 553, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 435, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 332, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 258, <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> 21, <tt><a href="es_pud-pos-X.html">X</a></tt> 20), <em>ser</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 70, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 5), <em>poder</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 42, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2), <em>haber</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 2, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1), <em>tener</em> (<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ser</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 320, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 9), <em>haber</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 151, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2), <em>estar</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 81, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 4), <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1335, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1314, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 863, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 307, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 200, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 54, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_pud-pos-X.html">X</a></tt> 1), <em>poder</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 65, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>es</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 85, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 23), <em>fue</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 64, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 4), <em>había</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 39, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2), <em>está</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 28, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 12), <em>era</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 26, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 6, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>puede</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 23, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1), <em>son</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 22, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 3), <em>ser</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 22, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2), <em>fueron</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 20, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1), <em>estaba</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 16, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 4)
+The 10 most frequent ambiguous types:  <em>es</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 86, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 22), <em>fue</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 64, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 4), <em>había</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 39, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2), <em>está</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 28, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 12), <em>era</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 26, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 6, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>puede</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 23, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1), <em>son</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 22, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 3), <em>ser</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 22, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2), <em>fueron</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 20, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1), <em>estaba</em> (<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 16, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 4)
 
 
 * <em>es</em>
-  * <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 85: <em>Tenemos un gran equipo y <b>es</b> nuestra oportunidad para progresar .</em>
-  * <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 23: <em>El máximo permitido <b>es</b> de 5 000 $ por persona .</em>
+  * <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 86: <em>Eso <b>es</b> lo que hace que sigamos volviendo a por más .</em>
+  * <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 22: <em>El máximo permitido <b>es</b> de 5 000 $ por persona .</em>
 * <em>fue</em>
   * <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 64: <em>Hay gente que <b>fue</b> asesinada allí .</em>
   * <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 4: <em>Esto <b>fue</b> en barco desde la Europa continental .</em>
@@ -52,32 +52,32 @@ The 10 most frequent ambiguous types:  <em>es</em> (<tt><a href="es_pud-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 34.200000 (the average of all parts of speech is 167.567568).
+The form / lemma ratio of `AUX` is 22.000000 (the average of all parts of speech is 1.680707).
 
-The 1st highest number of forms (160) was observed with the lemma “_”: <em>Declaro, Didn, Don, Habiendo, Terminas, Voy, acostumbra, aparece, aparecen, apareció, comenzado, comenzó, comienzan, considera, consideradas, consideran, consideró, contendrán, continuaba, continuar, continuaron, continuase, continuó, continúa, debe, debemos, deberán, debería, debía, debían, declaraba, declarada, declarado, declarase, declaró, dejaban, dejado, dejan, dejará, elegido, empezar, empezaron, empezasen, empezó, entregaba, era, eran, es, escrito, estaba, estaban, estado, estamos, estar, estaré, estuvieron, estuviese, está, están, esté, estén, fueran, fueron, fuese, ha, haber, habrían, había, habían, hace, halla, han, has, hay, hayan, he, hecho, hemos, hubiera, hubiese, ido, llama, llamada, llamados, llegar, llegaron, llegue, llevan, llevar, mantener, mantenido, mantuvo, moriría, mostrado, mostraron, nombrado, nombró, parezca, pasar, podemos, poder, podría, proclamado, pudieran, pudiesen, pudo, puedan, puedo, queda, quedaba, quedan, quedó, resulta, resultado, resultaría, resulte, salió, sea, seamos, sean, seguir, seguirá, seguía, ser, será, sería, serían, sido, siendo, siente, siento, siga, sigamos, sigue, solían, somos, son, suele, tendrá, tendría, tendrían, tenemos, tener, tenido, teniendo, tenía, tenían, tiene, tienen, tienes, trabajado, tuvieron, va, van, vieron, volverá, volveríamos, volvió, vuelva, vuelvan</em>.
+The 1st highest number of forms (63) was observed with the lemma “_”: <em>Declaro, Didn, Don, acostumbra, aparece, aparecen, apareció, comenzó, comienzan, consideró, contendrán, declaraba, declarase, declaró, dejaban, dejan, dejará, empezaron, empezasen, empezó, escrito, fuese, hace, halla, hecho, llama, llegaron, llegue, mantenido, mantuvo, moriría, mostraron, nombró, parezca, queda, quedaba, quedan, quedó, resulta, resultaría, resulte, salió, seguía, siento, solían, suele, tendrá, tendría, tendrían, tenemos, tenido, tenía, tenían, tiene, tienen, tuvieron, va, van, vieron, volveríamos, volvió, vuelva, vuelvan</em>.
 
-The 2nd highest number of forms (5) was observed with the lemma “poder”: <em>podrían, podía, puede, pueden, puedes</em>.
+The 2nd highest number of forms (24) was observed with the lemma “ser”: <em>Tienes, considera, consideran, era, eran, es, fue, fuera, fueran, fueron, hubiera, pudieran, sea, seamos, sean, ser, será, serán, sería, serían, sido, siendo, somos, son</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “ser”: <em>fue, fuera, serán</em>.
+The 3rd highest number of forms (15) was observed with the lemma “haber”: <em>Habiendo, ha, haber, habrían, habéis, había, habían, han, has, hay, haya, hayan, he, hemos, hubiese</em>.
 
-`AUX` occurs with 8 features: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt> (756; 100% instances), <tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt> (719; 95% instances), <tt><a href="es_pud-feat-Voice.html">Voice</a></tt> (701; 93% instances), <tt><a href="es_pud-feat-Number.html">Number</a></tt> (680; 90% instances), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt> (668; 88% instances), <tt><a href="es_pud-feat-Person.html">Person</a></tt> (668; 88% instances), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt> (636; 84% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (12; 2% instances)
+`AUX` occurs with 8 features: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt> (710; 100% instances), <tt><a href="es_pud-feat-Number.html">Number</a></tt> (668; 94% instances), <tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt> (648; 91% instances), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt> (648; 91% instances), <tt><a href="es_pud-feat-Person.html">Person</a></tt> (648; 91% instances), <tt><a href="es_pud-feat-Voice.html">Voice</a></tt> (648; 91% instances), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt> (635; 89% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (20; 3% instances)
 
-`AUX` occurs with 19 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `Voice=Act`, `Voice=Pass`
+`AUX` occurs with 21 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
-`AUX` occurs with 50 feature combinations.
-The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (165 tokens).
-Examples: <em>es, está, puede, tiene, continúa, debe, va, acostumbra, aparece, hace</em>
+`AUX` occurs with 45 feature combinations.
+The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (162 tokens).
+Examples: <em>es, está, puede, tiene, debe, va, acostumbra, aparece, hace, halla</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="es_pud-dep-aux.html">aux</a></tt> (373; 49% instances), <tt><a href="es_pud-dep-cop.html">cop</a></tt> (289; 38% instances), <tt><a href="es_pud-dep-aux-pass.html">aux:pass</a></tt> (94; 12% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="es_pud-dep-aux.html">aux</a></tt> (343; 48% instances), <tt><a href="es_pud-dep-cop.html">cop</a></tt> (273; 38% instances), <tt><a href="es_pud-dep-aux-pass.html">aux:pass</a></tt> (94; 13% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (440; 58% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (152; 20% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (147; 19% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (427; 60% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (137; 19% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (132; 19% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-702 (93%) `AUX` nodes are leaves.
+669 (94%) `AUX` nodes are leaves.
 
-53 (7%) `AUX` nodes have one child.
+40 (6%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
@@ -85,7 +85,7 @@ Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="es_pu
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 2 different relations: <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (53; 95% instances), <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (3; 5% instances)
+Children of `AUX` nodes are attached using 2 different relations: <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (41; 95% instances), <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (2; 5% instances)
 
-Children of `AUX` nodes belong to 3 different parts of speech: <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (52; 93% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (3; 5% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 3 different parts of speech: <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (40; 93% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances)
 

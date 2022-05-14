@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>anno</em> (<tt><a href="is_icepahc-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.007432 (the average of all parts of speech is 1.803415).
+The form / lemma ratio of `X` is 1.007432 (the average of all parts of speech is 1.803916).
 
 The 1st highest number of forms (3) was observed with the lemma “darius”: <em>Darii, Dario, Darium</em>.
 

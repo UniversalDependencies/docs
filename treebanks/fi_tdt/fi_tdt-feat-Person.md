@@ -11,24 +11,24 @@ It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt>, <tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt>.
 
-24780 tokens (12%) have a non-empty value of `Person`.
+24779 tokens (12%) have a non-empty value of `Person`.
 4688 types (9%) occur at least once with a non-empty value of `Person`.
 1650 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (11685; 6% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (10306; 5% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (2789; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (11684; 6% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (10306; 5% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (2789; 1% instances).
 
 ### `VERB`
 
-11685 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (43% of all `VERB` tokens) have a non-empty value of `Person`.
+11684 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (43% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11685; 100%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (11685; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (11685; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (11685; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11685; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11685; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10710; 92%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9410; 81%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11684; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (11684; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (11684; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11684; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11684; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10709; 92%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9410; 81%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `0` (407; 3% of non-empty `Person`): <em>on, saa, tulee, tuli, ei, tuntuu, sai, kannattaa, oli, tulisi</em>
 * `1` (1997; 17% of non-empty `Person`): <em>haluaisin, haluan, sain, huomasin, toivon, ajattelin, näin, ostin, sanoin, kävin</em>
 * `2` (576; 5% of non-empty `Person`): <em>lisää, ota, et, haluat, keitä, paista, saat, leikkaa, lue, tee</em>
-* `3` (8705; 74% of non-empty `Person`): <em>sai, tulee, tuli, sanoi, ottaa, on, kertoo, sanoo, kertoi, alkoi</em>
-* `EMPTY` (15683): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, saa, antaa</em>
+* `3` (8704; 74% of non-empty `Person`): <em>sai, tulee, tuli, sanoi, ottaa, on, kertoo, sanoo, kertoi, alkoi</em>
+* `EMPTY` (15658): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, saa, antaa</em>
 
 <table>
   <tr><th>Paradigm <i>saada</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>0</tt></th></tr>
@@ -138,6 +138,5 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="fi_tdt-dep-appos.html">appos</a></tt>]--> VERB</tt> (7; 100%),
 <tt>AUX --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-goeswith.html">goeswith</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="fi_tdt-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (1; 100%).
 

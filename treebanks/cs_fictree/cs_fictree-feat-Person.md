@@ -12,20 +12,20 @@ It occurs with 3 different values: `1`, `2`, `3`.
 19669 tokens (12%) have a non-empty value of `Person`.
 3268 types (12%) occur at least once with a non-empty value of `Person`.
 1529 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (7303; 4% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (5957; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5013; 3% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1396; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (6800; 4% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (5957; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5516; 3% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1396; 1% instances).
 
 ### `VERB`
 
-7303 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Person`.
+6800 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7303; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7303; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7303; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6822; 93%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6822; 93%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6722; 92%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6184; 85%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5733; 79%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6800; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6800; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6800; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6323; 93%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6323; 93%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6280; 92%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5766; 85%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5300; 78%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (1903; 26% of non-empty `Person`): <em>mám, nevím, musím, vím, nemám, chci, nechci, prosím, ptám, mohu</em>
-* `2` (1254; 17% of non-empty `Person`): <em>víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš, dej</em>
-* `3` (4146; 57% of non-empty `Person`): <em>je, má, může, musí, není, mají, stojí, jde, jsou, bude</em>
-* `EMPTY` (17646): <em>řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</em>
+* `1` (1857; 27% of non-empty `Person`): <em>mám, nevím, musím, vím, nemám, chci, nechci, prosím, ptám, mohu</em>
+* `2` (1225; 18% of non-empty `Person`): <em>víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš, dej</em>
+* `3` (3718; 55% of non-empty `Person`): <em>má, může, musí, mají, stojí, jde, nemá, ví, chce, nemůže</em>
+* `EMPTY` (17180): <em>řekl, měl, měla, řekla, mohl, chtěl, chtěla, dělat, stalo, viděl</em>
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -48,20 +48,20 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (2362; 40% of non-empty `Person`): <em>mi, mě, já, nás, mně, nám, mnou, mne, my, námi</em>
 * `2` (658; 11% of non-empty `Person`): <em>ti, ty, tě, vás, vám, vy, tebe, tebou, tobě, vámi</em>
 * `3` (2937; 49% of non-empty `Person`): <em>ho, mu, ji, je, jí, ní, on, něj, nich, jim</em>
-* `EMPTY` (8148): <em>se, si, co, nic, něco, kdo, sebe, nikdo, sobě, někdo</em>
+* `EMPTY` (8130): <em>se, si, co, nic, něco, kdo, sebe, nikdo, sobě, někdo</em>
 
 ### `AUX`
 
-5013 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Person`.
+5516 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (73% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5013; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5013; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4176; 83%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4176; 83%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3999; 80%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3935; 78%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3869; 77%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5516; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5516; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4675; 85%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4675; 85%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4417; 80%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4368; 79%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4311; 78%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (3023; 60% of non-empty `Person`): <em>jsem, bych, jsme, bychom, budu, nebudu, nejsem, budeme, bysme, nejsme</em>
-* `2` (452; 9% of non-empty `Person`): <em>jsi, jste, byste, bys, budeš, budete, nebudeš, si, buď, buďte</em>
-* `3` (1538; 31% of non-empty `Person`): <em>je, by, bude, jsou, není, budou, nebude, nejsou, bývá, bývají</em>
-* `EMPTY` (1552): <em>by, byl, byla, bylo, být, byly, byli, nebyl, nebylo, nebyla</em>
+* `1` (3069; 56% of non-empty `Person`): <em>jsem, bych, jsme, bychom, budu, nebudu, nejsem, budeme, nejsme, bysme</em>
+* `2` (481; 9% of non-empty `Person`): <em>jsi, jste, byste, bys, budeš, budete, nebudeš, nejste, si, buď</em>
+* `3` (1966; 36% of non-empty `Person`): <em>je, by, bude, jsou, není, budou, nebude, nejsou, bývá, bývají</em>
+* `EMPTY` (2018): <em>by, byl, byla, bylo, být, byly, byli, nebyl, nebylo, nebyla</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -95,14 +95,17 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (550; 39% of non-empty `Person`): <em>moje, můj, naše, mého, náš, mé, mých, mým, mojí, moji</em>
 * `2` (138; 10% of non-empty `Person`): <em>vaše, tvůj, tvoje, tvé, váš, vaší, tvou, tvá, tvojí, tvého</em>
 * `3` (708; 51% of non-empty `Person`): <em>jeho, její, jejich, jejím, jejího, jejích, jehož, jejímu, jejichž, jejíž</em>
-* `EMPTY` (7021): <em>to, který, ten, které, která, tom, všechno, toho, své, tím</em>
+* `EMPTY` (7039): <em>to, který, ten, které, která, tom, všechno, toho, své, tím</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (848; 59%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (793; 61%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (14; 58%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (8; 73%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (8; 53%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (5; 100%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> PRON</tt> (1; 100%),
 <tt>DET --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).

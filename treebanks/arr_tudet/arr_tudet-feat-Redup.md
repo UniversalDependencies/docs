@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 16 tokens (1%) have a non-empty value of `Redup`.
 9 types (1%) occur at least once with a non-empty value of `Redup`.
-11 lemmas (9%) occur at least once with a non-empty value of `Redup`.
+11 lemmas (2%) occur at least once with a non-empty value of `Redup`.
 The feature is used with 2 part-of-speech tags: <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (15; 1% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`

@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 
 * `Form` (29; 39% of non-empty `Polite`): <em>vostè, vostès</em>
 * `Infm` (45; 61% of non-empty `Polite`): <em>et, t', 't, tu, te, ti</em>
-* `EMPTY` (23381): <em>que, es, s', hi, se, un, li, tot, on, què</em>
+* `EMPTY` (23380): <em>que, es, s', hi, se, un, li, tot, on, què</em>
 
 <table>
   <tr><th>Paradigm <i>tu</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>

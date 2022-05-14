@@ -25,7 +25,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 1	Tournons	tourner	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	wordform=tournons
 2	dans	dans	ADP	_	_	4	case	_	_
 3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	Morsure	Morsure	PROPN	_	Gender=Fem|Number=Sing	1	obl:mod	_	_
+4	Morsure	morsure	NOUN	_	Gender=Fem|Number=Sing	1	obl:mod	_	wordform=morsure
 5	:	:	PUNCT	_	_	6	punct	_	_
 6	Ah	ah	INTJ	_	_	1	discourse	_	wordform=ah
 7	!	!	PUNCT	_	_	1	punct	_	_
@@ -40,7 +40,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 1 discourse	color:blue
 1	Ô	ô	INTJ	_	_	3	discourse	_	wordform=ô
-2	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	3	det	_	_
+2	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	_
 3	vigne	vigne	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 4	bien	bien	ADV	_	_	5	advmod	_	_
 5	aimée	aimer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	SpaceAfter=No

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Marat M. Yavrumyan.
 
 Repository: [UD_Armenian-ArmTDP](https://github.com/UniversalDependencies/UD_Armenian-ArmTDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhy_armtdp29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhy_armtdp210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -50,13 +50,13 @@ A Universal Dependencies treebank for Eastern Armenian developed for UD original
 
 The UD_Armenian-ArmTDP treebank is based on the Eastern Armenian section of the Հայերենի ծառադարան dataset (ArmTDP V2.0), a broad-coverage corpus of general Modern Standard Armenian covering numerous genres.
 
-The annotation scheme was developed in accordance with the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of glossary-based automatic scripting and manual revision at the YerevaNN research lab (led by Hrant H. Khachatrian). The treebank is so far the largest manually verified corpus of Eastern Armenian supplied with comprehensive morphological and syntactic annotation in the form of a complete dependency tree provided for every sentence.
+The annotation scheme was developed in accordance with the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of glossary-based automatic scripting and manual revision. The treebank is so far the largest manually verified corpus of Eastern Armenian supplied with comprehensive morphological and syntactic annotation in the form of a complete dependency tree provided for every sentence.
 
 ## Acknowledgments
 
 This work became possible through research grants from the Armenian National Science and Education Fund (ANSEF) based in New York, USA, and partially, from ISTC Foundation, Yerevan, Armenia.
 
-The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan, Martin S. Mirakyan.
+The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan, Martin S. Mirakyan, Liana G. Minasyan.
 
 ## References
 
@@ -77,17 +77,17 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
 
 ## Relations
 
-[acl](hy_armtdp-dep-acl.html) – [acl:relcl](hy_armtdp-dep-acl-relcl.html) – [advcl](hy_armtdp-dep-advcl.html) – [advmod](hy_armtdp-dep-advmod.html) – [advmod:emph](hy_armtdp-dep-advmod-emph.html) – [amod](hy_armtdp-dep-amod.html) – [appos](hy_armtdp-dep-appos.html) – [aux](hy_armtdp-dep-aux.html) – [aux:caus](hy_armtdp-dep-aux-caus.html) – [aux:ex](hy_armtdp-dep-aux-ex.html) – [case](hy_armtdp-dep-case.html) – [case:loc](hy_armtdp-dep-case-loc.html) – [cc](hy_armtdp-dep-cc.html) – [ccomp](hy_armtdp-dep-ccomp.html) – [compound](hy_armtdp-dep-compound.html) – [compound:lvc](hy_armtdp-dep-compound-lvc.html) – [compound:redup](hy_armtdp-dep-compound-redup.html) – [compound:svc](hy_armtdp-dep-compound-svc.html) – [conj](hy_armtdp-dep-conj.html) – [cop](hy_armtdp-dep-cop.html) – [csubj](hy_armtdp-dep-csubj.html) – [csubj:pass](hy_armtdp-dep-csubj-pass.html) – [dep](hy_armtdp-dep-dep.html) – [det](hy_armtdp-dep-det.html) – [det:poss](hy_armtdp-dep-det-poss.html) – [discourse](hy_armtdp-dep-discourse.html) – [dislocated](hy_armtdp-dep-dislocated.html) – [expl](hy_armtdp-dep-expl.html) – [fixed](hy_armtdp-dep-fixed.html) – [flat](hy_armtdp-dep-flat.html) – [goeswith](hy_armtdp-dep-goeswith.html) – [iobj](hy_armtdp-dep-iobj.html) – [iobj:agent](hy_armtdp-dep-iobj-agent.html) – [list](hy_armtdp-dep-list.html) – [mark](hy_armtdp-dep-mark.html) – [nmod](hy_armtdp-dep-nmod.html) – [nmod:npmod](hy_armtdp-dep-nmod-npmod.html) – [nmod:poss](hy_armtdp-dep-nmod-poss.html) – [nsubj](hy_armtdp-dep-nsubj.html) – [nsubj:caus](hy_armtdp-dep-nsubj-caus.html) – [nsubj:pass](hy_armtdp-dep-nsubj-pass.html) – [nummod](hy_armtdp-dep-nummod.html) – [obj](hy_armtdp-dep-obj.html) – [obl](hy_armtdp-dep-obl.html) – [obl:agent](hy_armtdp-dep-obl-agent.html) – [orphan](hy_armtdp-dep-orphan.html) – [parataxis](hy_armtdp-dep-parataxis.html) – [punct](hy_armtdp-dep-punct.html) – [root](hy_armtdp-dep-root.html) – [vocative](hy_armtdp-dep-vocative.html) – [xcomp](hy_armtdp-dep-xcomp.html)
+[acl](hy_armtdp-dep-acl.html) – [acl:relcl](hy_armtdp-dep-acl-relcl.html) – [advcl](hy_armtdp-dep-advcl.html) – [advmod](hy_armtdp-dep-advmod.html) – [advmod:emph](hy_armtdp-dep-advmod-emph.html) – [amod](hy_armtdp-dep-amod.html) – [appos](hy_armtdp-dep-appos.html) – [aux](hy_armtdp-dep-aux.html) – [aux:caus](hy_armtdp-dep-aux-caus.html) – [aux:ex](hy_armtdp-dep-aux-ex.html) – [case](hy_armtdp-dep-case.html) – [case:loc](hy_armtdp-dep-case-loc.html) – [cc](hy_armtdp-dep-cc.html) – [ccomp](hy_armtdp-dep-ccomp.html) – [compound](hy_armtdp-dep-compound.html) – [compound:lvc](hy_armtdp-dep-compound-lvc.html) – [compound:redup](hy_armtdp-dep-compound-redup.html) – [compound:svc](hy_armtdp-dep-compound-svc.html) – [conj](hy_armtdp-dep-conj.html) – [cop](hy_armtdp-dep-cop.html) – [csubj](hy_armtdp-dep-csubj.html) – [csubj:pass](hy_armtdp-dep-csubj-pass.html) – [dep](hy_armtdp-dep-dep.html) – [det](hy_armtdp-dep-det.html) – [det:poss](hy_armtdp-dep-det-poss.html) – [discourse](hy_armtdp-dep-discourse.html) – [dislocated](hy_armtdp-dep-dislocated.html) – [expl](hy_armtdp-dep-expl.html) – [fixed](hy_armtdp-dep-fixed.html) – [flat](hy_armtdp-dep-flat.html) – [iobj](hy_armtdp-dep-iobj.html) – [iobj:agent](hy_armtdp-dep-iobj-agent.html) – [list](hy_armtdp-dep-list.html) – [mark](hy_armtdp-dep-mark.html) – [nmod](hy_armtdp-dep-nmod.html) – [nmod:npmod](hy_armtdp-dep-nmod-npmod.html) – [nmod:poss](hy_armtdp-dep-nmod-poss.html) – [nsubj](hy_armtdp-dep-nsubj.html) – [nsubj:caus](hy_armtdp-dep-nsubj-caus.html) – [nsubj:pass](hy_armtdp-dep-nsubj-pass.html) – [nummod](hy_armtdp-dep-nummod.html) – [obj](hy_armtdp-dep-obj.html) – [obl](hy_armtdp-dep-obl.html) – [obl:agent](hy_armtdp-dep-obl-agent.html) – [orphan](hy_armtdp-dep-orphan.html) – [parataxis](hy_armtdp-dep-parataxis.html) – [punct](hy_armtdp-dep-punct.html) – [root](hy_armtdp-dep-root.html) – [vocative](hy_armtdp-dep-vocative.html) – [xcomp](hy_armtdp-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2502 sentences, 52265 tokens and 52630 syntactic words.</li>
+<li>This corpus contains 2500 sentences, 52220 tokens and 52585 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10068 tokens (19%) that are not followed by a space.</li>
+<li>This corpus contains 10066 tokens (19%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -202,7 +202,7 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
 <ul>
   <li>Nhum
     <ul>
-      <li>NOUN: հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, օրը, ծրագրի, թ</li>
+      <li>NOUN: հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, օրը, թ, ծրագրի</li>
       <li>PROPN: Հայաստանի, ՀՀ, Հայաստանում, Իրանի, Ադրբեջանի, Հայաստան, Իրանը, Կաթողիկեի, Էջմիածնի, Հայաստանը</li>
     </ul>
   </li>
@@ -249,7 +249,7 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
     <ul>
       <li>AUX-Fin: է, էր, եմ, չի, ես, չէր, էի, չէ, չեմ, ա</li>
       <li>DET: իր, նրա, իմ, քո, դրա, որի, ում, ձեր, դրանում, յուր</li>
-      <li>NOUN: հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, օրը, ծրագրի</li>
+      <li>NOUN: հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, օրը, թ</li>
       <li>PRON: նա, ես, ինչ, դա, այն, ինձ, նրան, որը, ով, քեզ</li>
       <li>PROPN: Հայաստանի, ՀՀ, Հայաստանում, Լևոն, Իրանի, Ադրբեջանի, Հայաստան, Սիմեոնը, Կարեն, Արմինուսը</li>
       <li>VERB-Fin: չկա, ասաց, կա, լինի, ունի, չունի, կար, նշեց, ասացի, գնա</li>
@@ -355,7 +355,7 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
   <li>Ind
     <ul>
       <li>DET: որից</li>
-      <li>NOUN: հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, ծրագրի, թ</li>
+      <li>NOUN: հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, թ, ծրագրի</li>
       <li>PRON: ինչ, ոչինչ, որի, ուրիշ, ինչի, որում, նրանից, որով, ինչով, որից</li>
       <li>PROPN: Հայաստանի, ՀՀ, Հայաստանում, Լևոն, Իրանի, Ադրբեջանի, Հայաստան, Կարեն, Սարգսյանի, Սերժ</li>
       <li>VERB-Gdv: ընդունելով, լինելու, ասելով, ելնելով, տեսնելու, անելու, լինելով, ապրելու, առնելով, գնալով</li>
@@ -646,7 +646,7 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
       <li>VERB-Fin: կանցկացվի, կներկայացվեն, հանվեց, մատուցվեց, վերահաստատվեց, Կիրականացվի, անվանակոչվեց, առաջադրվի, արձակվեց, արտահայտվեց</li>
       <li>VERB-Gdv: անիծվելուց, գրանցվելու, ընդգրկվելուն, ընտրվելուց, լուսավորվելով, ճանաչվելու, ներգրավվելով, չնորոգվելով, չօտարվելու, փակվելը</li>
       <li>VERB-Inf: տրորվել, դիտարկվել, ընտրվել, լուծվել, լցվել, ներկայացվել</li>
-      <li>VERB-Part: նշված, սահմանված, ուղղված, ստիպված, ավելացված, ստացվել, նախատեսված, նախատեսվում, իրականացվող, չպահանջվող</li>
+      <li>VERB-Part: նշված, սահմանված, ուղղված, ստիպված, ստացվել, ավելացված, նախատեսված, նախատեսվում, իրականացվող, չպահանջվող</li>
     </ul>
   </li>
 </ul>
@@ -965,7 +965,7 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
       </li>
       <li>Post
         <ul>
-          <li>ADP: համար, հետ, մասին, մեջ, հետո, վրա, պես, կողմից, նկատմամբ, ընթացքում</li>
+          <li>ADP: համար, հետ, մասին, մեջ, հետո, վրա, պես, նկատմամբ, կողմից, ընթացքում</li>
         </ul>
       </li>
       <li>Prep
@@ -1351,7 +1351,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Dat (55)</li>
       <li>VERB-Fin--PRON-Nom (33)</li>
       <li>VERB-Gdv--NOUN-Dat (49)</li>
-      <li>VERB-Gdv--NOUN-Nom (268)</li>
+      <li>VERB-Gdv--NOUN-Nom (267)</li>
       <li>VERB-Gdv--PRON (3)</li>
       <li>VERB-Gdv--PRON-Dat (11)</li>
       <li>VERB-Gdv--PRON-Gen (1)</li>
@@ -1399,5 +1399,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:caus</a>, <a>aux:ex</a>, <a>case:loc</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>iobj:agent</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

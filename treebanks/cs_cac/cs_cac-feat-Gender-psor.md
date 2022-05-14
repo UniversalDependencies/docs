@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `Gender[psor]` co-oc
 
 649 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (510; 79%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (373; 57%).
+The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (510; 79%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (373; 57%).
 
 `ADJ` tokens may have the following values of `Gender[psor]`:
 

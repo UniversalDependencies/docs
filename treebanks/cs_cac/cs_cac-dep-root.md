@@ -13,7 +13,7 @@ This relation is universal.
 24709 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.4907118863572.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (17053; 69% instances), -<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (3846; 16% instances), -<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (2687; 11% instances), -<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (432; 2% instances), -<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (257; 1% instances), -<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (174; 1% instances), -<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (114; 0% instances), -<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (53; 0% instances), -<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (45; 0% instances), -<tt><a href="cs_cac-pos-PART.html">PART</a></tt> (24; 0% instances), -<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), -<tt><a href="cs_cac-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), -<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (6; 0% instances), -<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (16181; 65% instances), -<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (3846; 16% instances), -<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (2687; 11% instances), -<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (878; 4% instances), -<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (432; 2% instances), -<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (257; 1% instances), -<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (174; 1% instances), -<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (114; 0% instances), -<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (53; 0% instances), -<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (45; 0% instances), -<tt><a href="cs_cac-pos-PART.html">PART</a></tt> (24; 0% instances), -<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), -<tt><a href="cs_cac-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), -<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,11 +22,11 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Zvýšené	zvýšený	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	amod	2:amod	LDeriv=zvýšit
+1	Zvýšené	zvýšený	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	2	amod	2:amod	LDeriv=zvýšit
 2	úsilí	úsilí	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	4	obj	4:obj	_
 3	budeme	být	AUX	VB-P---1F-AA---	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 4	věnovat	věnovat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	0	root	0:root	_
-5	zavádění	zavádění	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	4	obl:arg	4:obl:arg:dat	LDeriv=zavádět
+5	zavádění	zavádění	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	4	obl:arg	4:obl:arg:dat	LDeriv=zavádět
 6	nových	nový	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	7	amod	7:amod	_
 7	poznatků	poznatek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	nmod	5:nmod:gen	_
 8	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	9:case	LId=do-1
@@ -44,7 +44,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 9 root	color:blue
 1	Stav	stav	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	9	nsubj	9:nsubj	_
 2	a	a	CCONJ	J^-------------	_	3	cc	3:cc	LId=a-1
-3	využívání	využívání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	1	conj	1:conj|9:nsubj	LDeriv=využít
+3	využívání	využívání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	1	conj	1:conj|9:nsubj	LDeriv=využít
 4	půdního	půdní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	5	amod	5:amod	_
 5	fondu	fond	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	1:nmod:gen|3:nmod:gen	_
 6	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
@@ -62,7 +62,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Vypracování	vypracování	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	0	root	0:root	LDeriv=vypracovat
+1	Vypracování	vypracování	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	0	root	0:root	LDeriv=vypracovat
 2	nových	nový	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	3	amod	3:amod	_
 3	principů	princip	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	1	nmod	1:nmod:gen	_
 4	regulace	regulace	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	3	nmod	3:nmod:gen	_

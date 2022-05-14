@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="ru_syntagrus-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>.
 
-1268 nodes (0%) are attached to their parents as `flat`.
+1277 nodes (0%) are attached to their parents as `flat`.
 
-1268 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15378548895899.
+1277 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15505090054816.
 
-The following 21 pairs of parts of speech are connected with `flat`: <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (732; 58% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (368; 29% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (86; 7% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (14; 1% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `flat`: <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (732; 57% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (368; 29% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (86; 7% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (14; 1% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,9 +23,9 @@ The following 21 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	23	23	NUM	_	NumType=Card	6	nummod	6:nummod	_
+1	23	23	NUM	_	NumType=Card	6	obl	6:obl	_
 2	января	январь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	flat	1:flat	_
-3	2002	2002	NUM	_	NumType=Card	4	nummod	4:nummod	_
+3	2002	2002	ADJ	_	Degree=Pos	4	amod	4:amod	_
 4	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod:gen	_
 5	не	не	PART	_	_	6	advmod	6:advmod	_
 6	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -46,9 +46,9 @@ The following 21 pairs of parts of speech are connected with `flat`: <tt><a href
 2	назначил	назначить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	нападение	нападение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	2:obj	_
 4	на	на	ADP	_	_	5	case	5:case	_
-5	15	15	ADJ	_	_	2	obl	2:obl:на	_
+5	15	15	ADJ	_	_	2	obl	2:obl:на:loc	_
 6	мая	май	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	flat	5:flat	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	2:punct	_~
+7	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

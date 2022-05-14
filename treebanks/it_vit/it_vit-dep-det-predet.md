@@ -40,12 +40,12 @@ The following 5 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 18 det:predet	color:blue
-1	-	-	PUNCT	FC	_	2	punct	_	_
+1	-	-	PUNCT	FB	_	2	punct	_	_
 2	afferma	affermare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	parataxis	_	_
 3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	trader	trader	X	SW	Foreign=Yes	2	nsubj	_	_
 5	americano	americano	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
-6	-	-	PUNCT	FC	_	2	punct	_	_
+6	-	-	PUNCT	FB	_	2	punct	_	_
 7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
 8	prospettive	prospettiva	NOUN	S	Gender=Fem|Number=Plur	12	nsubj	_	_
 9	inflazionistiche	inflazionistico	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_

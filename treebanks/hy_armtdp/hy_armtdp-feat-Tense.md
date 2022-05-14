@@ -49,7 +49,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Imp` (190; 11% of non-empty `Tense`): <em>կար, լիներ, ուներ, չկար, գիտեր, չուներ, գիտեինք, կային, չգիտեինք, չգիտեր</em>
 * `Past` (846; 47% of non-empty `Tense`): <em>ասաց, նշեց, ասացի, եկավ, ունեցավ, սկսեց, տեսանք, գնաց, եղավ, տվեց</em>
 * `Pres` (746; 42% of non-empty `Tense`): <em>չկա, կա, լինի, ունի, չունի, կան, ունեն, գիտեմ, կլինի, չգիտես</em>
-* `EMPTY` (4967): <em>ուզում, ասում, գալիս, տալիս, անում, նշված, գնում, նայում, տեսնում, սպասում</em>
+* `EMPTY` (4963): <em>ուզում, ասում, գալիս, տալիս, անում, նշված, գնում, նայում, տեսնում, սպասում</em>
 
 <table>
   <tr><th>Paradigm <i>լինել</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>

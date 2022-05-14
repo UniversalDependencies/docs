@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8111 nodes (2%) are attached to their parents as `cop`.
+8112 nodes (2%) are attached to their parents as `cop`.
 
-7016 instances of `cop` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.16939958081618.
+7017 instances of `cop` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.16925542406312.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (4571; 56% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2538; 31% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (375; 5% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (356; 4% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (158; 2% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (47; 1% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (44; 1% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (4572; 56% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2538; 31% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (375; 5% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (356; 4% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (158; 2% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (47; 1% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (44; 1% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 9 6 cop	color:blue
 1	Stav	stav	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	9	nsubj	9:nsubj	_
 2	a	a	CCONJ	J^-------------	_	3	cc	3:cc	LId=a-1
-3	využívání	využívání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	1	conj	1:conj|9:nsubj	LDeriv=využít
+3	využívání	využívání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	1	conj	1:conj|9:nsubj	LDeriv=využít
 4	půdního	půdní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	5	amod	5:amod	_
 5	fondu	fond	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	1:nmod:gen|3:nmod:gen	_
 6	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_

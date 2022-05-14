@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 3	zakotvili	zakotvit	VERB	VpMP---XR-AA---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	6:case	LId=do-1
 5	všech	všechno	PRON	PLXP2----------	Case=Gen|Number=Plur|PronType=Tot	6	nmod	6:nmod:gen	_
-6	opatření	opatření	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	3	obl	3:obl:do:gen	LDeriv=opatřit
+6	opatření	opatření	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Vnoun	3	obl	3:obl:do:gen	LDeriv=opatřit
 7	týkajících	týkající	ADJ	AGNP2-----A----	Aspect=Imp|Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	6:amod	LDeriv=týkat
 8	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	7	expl:pv	7:expl:pv	LGloss=(zvr._zájmeno/částice)
 9	této	tento	DET	PDFS2----------	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	10	det	10:det	_
@@ -60,14 +60,14 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 expl:pv	color:blue
-1	Učení	učení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	5	nsubj	5:nsubj	LDeriv=učit
+1	Učení	učení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	5	nsubj	5:nsubj	LDeriv=učit
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	1:expl:pv	LGloss=(zvr._zájmeno/částice)
 3	novým	nový	ADJ	AAFP3----1A----	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	4	amod	4:amod	_
 4	odpovědím	odpověď	NOUN	NNFP3-----A----	Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos	1	nmod	1:nmod:dat	_
 5	závisí	záviset	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	_
 7	jejím	jeho	DET	PSZS6FS3-------	Case=Loc|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	8:det	LGloss=(přivlast.)
-8	uplatnění	uplatnění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	5	obl:arg	5:obl:arg:na:loc	SpaceAfter=No|LDeriv=uplatnit
+8	uplatnění	uplatnění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	5	obl:arg	5:obl:arg:na:loc	SpaceAfter=No|LDeriv=uplatnit
 9	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~

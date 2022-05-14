@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `nmod:gobj`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt>.
-There are also 4 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="myv_jr-dep-nmod-gsubj.html">nmod:gsubj</a></tt>, <tt><a href="myv_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="myv_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are also 3 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-gsubj.html">nmod:gsubj</a></tt>, <tt><a href="myv_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="myv_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-11 nodes (0%) are attached to their parents as `nmod:gobj`.
+12 nodes (0%) are attached to their parents as `nmod:gobj`.
 
-11 instances of `nmod:gobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.54545454545455.
+12 instances of `nmod:gobj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5.
 
-The following 2 pairs of parts of speech are connected with `nmod:gobj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 64% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 36% instances).
+The following 2 pairs of parts of speech are connected with `nmod:gobj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (8; 67% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 33% instances).
 
 
 ~~~ conllu

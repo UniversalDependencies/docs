@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="ro_rrt-dep-aux-pass.html">aux:pass</a></tt>.
 
-4731 nodes (2%) are attached to their parents as `aux`.
+4622 nodes (2%) are attached to their parents as `aux`.
 
-4698 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26379201014585.
+4589 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27087840761575.
 
-The following 10 pairs of parts of speech are connected with `aux`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (4499; 95% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (92; 2% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (78; 2% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (35; 1% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `aux`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (4390; 95% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (92; 2% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (78; 2% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (35; 1% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

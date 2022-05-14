@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>lebih</em> (<tt><a href="id_gsd-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.086093 (the average of all parts of speech is 1.119800).
+The form / lemma ratio of `ADV` is 1.086093 (the average of all parts of speech is 1.120254).
 
 The 1st highest number of forms (3) was observed with the lemma “kira”: <em>kira, kira-kira, kira2</em>.
 

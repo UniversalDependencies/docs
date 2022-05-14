@@ -22,13 +22,13 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 punct	color:blue
-1	Ынкъа	_	CCONJ	_	_	5	cc	_	Gloss=и
-2	ԓюут	_	ADV	_	_	5	advmod	_	Gloss=вдруг
-3	ӈыръа	_	NUM	_	_	4	nummod	_	Gloss=четыре
-4	вертолёттэ	_	NOUN	_	_	5	nsubj	_	Gloss=вертолёт-NOM.PL
-5	вакъогъат	_	VERB	_	_	0	root	_	Gloss=2/3.S/A-садиться-TH-PL
-6	ӈа	_	PART	_	_	5	advmod:emph	_	Gloss=PTCL
-7	.	_	PUNCT	_	_	5	punct	_	_
+1	Ынкъа	_	CCONJ	_	_	5	cc	5:cc	Gloss=и
+2	ԓюут	_	ADV	_	_	5	advmod	5:advmod	Gloss=вдруг
+3	ӈыръа	_	NUM	_	_	4	nummod	4:nummod	Gloss=четыре
+4	вертолёттэ	_	NOUN	_	_	5	nsubj	5:nsubj	Gloss=вертолёт-NOM.PL
+5	вакъогъат	_	VERB	_	_	0	root	0:root	Gloss=2/3.S/A-садиться-TH-PL
+6	ӈа	_	PART	_	_	5	advmod:emph	5:advmod:emph	Gloss=PTCL
+7	.	_	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -39,12 +39,12 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 punct	color:blue
-1	Ӄоԓ	_	PRON	_	_	2	nsubj	_	Gloss=некий
-2	вэтгавӈав	_	NOUN	_	_	0	root	_	Gloss=говорить-FEM-NOM.SG
-3	ъым	_	PART	_	_	2	advmod:emph	_	Gloss=EMPH
-4	ӄоԓ	_	PRON	_	_	5	nsubj	_	Gloss=некий
-5	камэԓгыӈав	_	NOUN	_	_	2	parataxis	_	Gloss=преуспевать-FEM-NOM.SG|SpaceAfter=No
-6	.	_	PUNCT	_	_	2	punct	_	_
+1	Ӄоԓ	_	PRON	_	_	2	nsubj	2:nsubj	Gloss=некий
+2	вэтгавӈав	_	NOUN	_	_	0	root	0:root	Gloss=говорить-FEM-NOM.SG
+3	ъым	_	PART	_	_	2	advmod:emph	2:advmod:emph	Gloss=EMPH
+4	ӄоԓ	_	PRON	_	_	5	nsubj	5:nsubj	Gloss=некий
+5	камэԓгыӈав	_	NOUN	_	_	2	parataxis	2:parataxis	Gloss=преуспевать-FEM-NOM.SG|SpaceAfter=No
+6	.	_	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -55,8 +55,8 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 punct	color:blue
-1	Ытръэч	_	ADV	_	_	0	root	_	Gloss=только|SpaceAfter=No
-2	.	_	PUNCT	_	_	1	punct	_	_
+1	Ытръэч	_	ADV	_	_	0	root	0:root	Gloss=только|SpaceAfter=No
+2	.	_	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 

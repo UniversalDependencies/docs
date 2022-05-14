@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Past`, `Pqp`, `Pres`.
 
-10217 tokens (18%) have a non-empty value of `Tense`.
+10214 tokens (18%) have a non-empty value of `Tense`.
 4688 types (39%) occur at least once with a non-empty value of `Tense`.
 1552 lemmas (27%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8020; 14% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2197; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8017; 14% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2197; 4% instances).
 
 ### `VERB`
 
-8020 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Tense`.
+8017 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (6295; 78%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (6139; 77%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5945; 74%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5944; 74%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5059; 63%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (4807; 60%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4802; 60%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4790; 60%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (6293; 78%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (6137; 77%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5943; 74%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5942; 74%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5059; 63%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (4806; 60%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4801; 60%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4788; 60%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (744; 9% of non-empty `Tense`): <em>sciendum, dicendum, patebit, loquendo, canenda, apparebit, advertendum, agendum, dicenda, dicendorum</em>
-* `Past` (1977; 25% of non-empty `Tense`): <em>dictum, fecit, posset, inquit, dixit, dicebatur, factum, potuit, sequeretur, dicta</em>
+* `Past` (1976; 25% of non-empty `Tense`): <em>dictum, fecit, posset, inquit, dixit, dicebatur, factum, potuit, sequeretur, dicta</em>
 * `Pqp` (85; 1% of non-empty `Tense`): <em>elevasset, potuisset, habuisset, dixisset, tribuisset, Dixerat, advenissent, alienate, appellasset, audisset</em>
-* `Pres` (5214; 65% of non-empty `Tense`): <em>potest, patet, habet, dicimus, videtur, dicit, dico, habere, oportet, dicitur</em>
-* `EMPTY` (3): <em>actu, intento, significata</em>
+* `Pres` (5212; 65% of non-empty `Tense`): <em>potest, patet, habet, dicimus, videtur, dicit, dico, habere, oportet, dicitur</em>
+* `EMPTY` (73): <em>consequens, consequentis, antecedentis, antecedens, antecedente, eloquentes, actu, benegenitus, consequente, consequenti</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>
@@ -130,14 +130,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (873; 79%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (570; 61%),
-<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (332; 70%),
-<tt>VERB --[<tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (248; 57%),
-<tt>VERB --[<tt><a href="la_udante-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (143; 68%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmpr.html">advcl:cmpr</a></tt>]--> VERB</tt> (137; 53%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (120; 53%),
-<tt>VERB --[<tt><a href="la_udante-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (51; 58%),
-<tt>VERB --[<tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (32; 65%),
-<tt>VERB --[<tt><a href="la_udante-dep-aux.html">aux</a></tt>]--> AUX</tt> (23; 79%).
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (866; 79%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (554; 60%),
+<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (328; 70%),
+<tt>VERB --[<tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (254; 58%),
+<tt>VERB --[<tt><a href="la_udante-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (145; 68%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmpr.html">advcl:cmpr</a></tt>]--> VERB</tt> (143; 53%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (124; 53%),
+<tt>VERB --[<tt><a href="la_udante-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (50; 58%),
+<tt>VERB --[<tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (28; 64%),
+<tt>VERB --[<tt><a href="la_udante-dep-aux.html">aux</a></tt>]--> AUX</tt> (23; 59%).
 

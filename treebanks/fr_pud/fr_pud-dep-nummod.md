@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 4	manifesté	manifester	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	contre	contre	ADP	IN	_	7	case	_	_
-6	ses	son	DET	DTP$	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+6	ses	son	DET	DTP$	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	ennemis	ennemi	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	méridionaux	méridional	ADJ	JJ	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	4	punct	_	_

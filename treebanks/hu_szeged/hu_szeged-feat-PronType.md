@@ -43,7 +43,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>azzal</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>azokkal</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>az</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sub</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>arra</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sbl</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>arra</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>az, a</em></td><td></td></tr>
 </table>
 
@@ -75,7 +75,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>miből</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>mi</em></td><td></td><td><em>mi</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>mi</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sub</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>mire</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sbl</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>mire</em></td><td></td><td></td></tr>
 </table>
 
 `PronType` seems to be **lexical feature** of `PRON`. 96% lemmas (90) occur only with one value of `PronType`.

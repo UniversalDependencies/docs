@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="es_ancora-dep-aux-pass.html">aux:pass</a></tt>.
 
-7596 nodes (1%) are attached to their parents as `aux`.
+7261 nodes (1%) are attached to their parents as `aux`.
 
-7435 instances of `aux` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36861506055819.
+7103 instances of `aux` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32860487536152.
 
-The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (7091; 93% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (238; 3% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (196; 3% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (27; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (23; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (6793; 94% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (216; 3% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (183; 3% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (23; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,27 +53,19 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 6 aux	color:blue
-1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
-2	rival	rival	NOUN	nccs000	Number=Sing	0	root	0:root	ClusterId=CESS-CAST-A-20001023-18465-c25|ClusterType=Spec|MentionSpan=1-5|MentionMisc=HomoDD
-3	por	por	ADP	sps00	_	5	case	5:case	_
-4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
-5	oro	oro	NOUN	ncms000	Gender=Masc|Number=Sing	2	nmod	2:nmod	ClusterId=CESS-CAST-A-20001023-18465-s18.sn.10|ClusterType=Gen|MentionSpan=4-5|MentionMisc=HomoDD
-6	va	ir	AUX	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	2:aux	_
-7	a	a	ADP	sps00	_	2	case	2:case	_
-8	ser	ser	AUX	vsn0000	VerbForm=Inf	2	cop	2:cop	_
-9	Rusia	Rusia	PROPN	np0000o	_	2	nsubj	2:nsubj	SpaceAfter=No|ClusterId=CESS-CAST-A-20001023-18465-c25|ClusterType=Spec|MentionSpan=9-15|MentionMisc=ClusterTypeMismatch:Spec.organization:Spec,CorefType:pred.definit
-10	,	,	PUNCT	fc	PunctType=Comm	13	punct	13:punct	_
-11	que	que	PRON	pr0cn000	PronType=Int,Rel	13	nsubj	13:nsubj	ClusterId=CESS-CAST-A-20001023-18465-c25|ClusterType=Spec|MentionSpan=11|MentionMisc=CorefType:ident
-12	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pv	13:expl:pv	_
-13	impuso	imponer	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl	9:acl	_
-14	a	a	ADP	sps00	_	15	case	15:case	_
-15	Portugal	Portugal	PROPN	np0000o	_	13	obj	13:obj	SpaceAfter=No|ClusterId=CESS-CAST-A-20001023-18465-s18.sn.34|ClusterType=Spec.organization|MentionSpan=15
-16	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 aux	color:blue
+1	"	"	PUNCT	fe	PunctType=Quot	5	punct	5:punct	SpaceAfter=No
+2	Ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+3	sido	ser	AUX	vsp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	5:cop	_
+4	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
+5	año	año	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	0:root	_
+6	muy	mucho	ADV	rg	_	7	advmod	7:advmod	_
+7	atípico	atípico	ADJ	aq0ms0	Gender=Masc|Number=Sing	5	amod	5:amod	SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 
 ~~~
 

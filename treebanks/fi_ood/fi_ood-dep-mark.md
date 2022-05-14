@@ -26,9 +26,9 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 2	lähteä	lähteä	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
 3	angioon	angio	NOUN	_	Case=Ill|Number=Sing	2	obl	_	Gen=varjoainetutkimukseen
 4	kun	kun	SCONJ	_	_	7	mark	_	_
-5	labra	labra	NOUN	_	Case=Nom|Number=Sing	6	compound	_	Gen=laboratorio
+5	labra	labra	NOUN	_	Case=Nom|Number=Sing	6	compound:nn	_	Gen=laboratorio
 6	vastaukset	vastaus	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	_
-7	tulleet	tulla	VERB	_	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	2	advcl	_	SpaceAfter=No
+7	tulleet	tulla	VERB	_	Case=Nom|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	2	advcl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

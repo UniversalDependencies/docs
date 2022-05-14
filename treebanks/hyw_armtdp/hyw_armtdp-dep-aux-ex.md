@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-aux.html">aux</a></tt>.
 There are also 1 other language-specific subtypes of `aux`: <tt><a href="hyw_armtdp-dep-aux-caus.html">aux:caus</a></tt>.
 
-5 nodes (0%) are attached to their parents as `aux:ex`.
+11 nodes (0%) are attached to their parents as `aux:ex`.
 
-3 instances of `aux:ex` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4.
+9 instances of `aux:ex` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27272727272727.
 
-The following 1 pairs of parts of speech are connected with `aux:ex`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (5; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:ex`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (11; 100% instances).
 
 
 ~~~ conllu

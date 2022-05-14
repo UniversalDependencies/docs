@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>kedua</em> (<tt><a href="id_pud-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.052133 (the average of all parts of speech is 1.137196).
+The form / lemma ratio of `NUM` is 1.052133 (the average of all parts of speech is 1.137428).
 
 The 1st highest number of forms (3) was observed with the lemma “dua”: <em>berdua, dua, kedua</em>.
 

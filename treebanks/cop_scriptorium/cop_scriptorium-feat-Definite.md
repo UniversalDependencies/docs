@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cop_scriptorium-pos
 
 7706 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7706; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4952; 64%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (4873; 63%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7706; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4951; 64%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (4872; 63%).
 
 `PRON` tokens may have the following values of `Definite`:
 
@@ -56,10 +56,10 @@ The most frequent other feature values with which `ADV` and `Definite` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>DET --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> DET</tt> (20; 100%),
-<tt>DET --[<tt><a href="cop_scriptorium-dep-acl.html">acl</a></tt>]--> PRON</tt> (16; 100%),
-<tt>PRON --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (14; 64%),
+<tt>DET --[<tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (16; 100%),
+<tt>PRON --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (14; 67%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (11; 100%),
-<tt>DET --[<tt><a href="cop_scriptorium-dep-acl.html">acl</a></tt>]--> DET</tt> (9; 100%),
+<tt>DET --[<tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>]--> DET</tt> (9; 100%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-appos.html">appos</a></tt>]--> DET</tt> (9; 100%),
 <tt>PRON --[<tt><a href="cop_scriptorium-dep-dislocated.html">dislocated</a></tt>]--> DET</tt> (8; 100%),
 <tt>PRON --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> PRON</tt> (7; 100%),

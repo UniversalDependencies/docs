@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>että</em> (<tt><a href="fi_tdt-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.541667 (the average of all parts of speech is 2.067586).
+The form / lemma ratio of `SCONJ` is 1.541667 (the average of all parts of speech is 2.067974).
 
 The 1st highest number of forms (5) was observed with the lemma “jos”: <em>ell, joll, jos, joskin, josko</em>.
 

@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 8 aux:pass	color:blue
 1	अधिकतम	_	ADJ	JJS	_	2	amod	_	Translit=adhikatama
-2	$5,000	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	compound	_	OrigForm=$5000|Translit=$5,000
+2	$5,000	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	compound	_	Translit=$5,000
 3	प्रति	_	DET	QF	_	4	det	_	Translit=prati
 4	व्यक्ति	_	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	nmod:poss	_	Translit=vyakti
 5	की	_	ADP	IN	Case=Gen|Gender=Fem	4	case	_	Translit=kī

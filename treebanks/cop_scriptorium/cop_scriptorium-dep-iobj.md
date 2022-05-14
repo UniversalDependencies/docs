@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3 4 iobj	color:blue
 1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	dislocated	_	Entity=(person
 2	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	3	mark	_	_
-3	ⲩⲛⲧ	ⲟⲩⲛⲧⲁ	VERB	EXIST	_	1	acl	_	_
+3	ⲩⲛⲧ	ⲟⲩⲛⲧⲁ	VERB	EXIST	_	1	acl:relcl	_	_
 4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 5	ⲙⲁⲁϫⲉ	ⲙⲁⲁϫⲉ	NOUN	N	_	3	nsubj	_	Entity=(object)
 6	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	3	advmod	_	_
@@ -56,10 +56,10 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 11	ⲡⲁⲣⲁ	ⲡⲁⲣⲁ	ADP	PREP	Foreign=Yes	12	case	_	OrigLang=grc
 12	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	obl	_	Entity=(object
 13	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	14	mark	_	_
-14	ⲕⲏ	ⲕⲱ	VERB	VSTAT	VerbForm=Fin	12	acl	_	_
+14	ⲕⲏ	ⲕⲱ	VERB	VSTAT	VerbForm=Fin	12	acl:relcl	_	_
 15	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	14	advmod	_	_
 16	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	17	mark	_	_
-17	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	acl	_	_
+17	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	acl:relcl	_	_
 18	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	17	cop	_	_
 19	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	Foreign=Yes	17	nsubj	_	Entity=(person-Jesus|OrigLang=he
 20	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	ϣⲁⲣⲉ	ϣⲁⲣⲉ	AUX	AAOR	_	6	aux	_	_
 3	ϩⲁϩ	ϩⲁϩ	NOUN	N	_	6	nsubj	_	Entity=(person
 4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲛ̅
-5	ⲣⲉϥⲧⲱϩ	ⲣⲉϥⲧⲱϩ	NOUN	N	_	3	nmod	_	Entity=person)|Morphs=ⲣⲉϥ-ⲧⲱϩ
+5	ⲣⲉϥⲧⲱϩ	ⲣⲉϥⲧⲱϩ	NOUN	N	_	3	nmod	_	Entity=person)|MSeg=ⲣⲉϥ-ⲧⲱϩ
 6	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
 7	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_

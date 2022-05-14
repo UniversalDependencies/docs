@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>ne, non, non-</em>
-* `EMPTY` (9516): <em>mai, ca, când, cum, iar, astfel, nici, decât, numai, mult</em>
+* `EMPTY` (9515): <em>mai, ca, când, cum, iar, astfel, nici, decât, numai, mult</em>
 
 ## Relations with Agreement in `Polarity`
 

@@ -46,7 +46,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 22	hogy	hogy	SCONJ	_	_	26	mark	_	_
 23	most	most	ADV	_	_	27	advmod:tlocy	_	_
 24	is	is	ADV	_	_	23	advmod:mode	_	_
-25	színpadra	színpad	NOUN	_	Case=Sub|Number=Sing	27	obl	_	_
+25	színpadra	színpad	NOUN	_	Case=Sbl|Number=Sing	27	obl	_	_
 26	tudok	tud	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	20	ccomp:obj	_	_
 27	lépni	lép	VERB	_	VerbForm=Inf|Voice=Act	26	xcomp	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	5	punct	_	_

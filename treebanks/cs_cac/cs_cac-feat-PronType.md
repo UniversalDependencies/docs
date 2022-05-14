@@ -12,19 +12,19 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 40821 tokens (8%) have a non-empty value of `PronType`.
 721 types (1%) occur at least once with a non-empty value of `PronType`.
-139 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19762; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (16035; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (5024; 1% instances).
+138 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19811; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (15986; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (5024; 1% instances).
 
 ### `DET`
 
-19762 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+19811 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (17337; 88%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15831; 80%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15831; 80%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14391; 73%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12184; 62%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (17385; 88%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15880; 80%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15880; 80%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14440; 73%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12219; 62%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Dem` (7913; 40% of non-empty `PronType`): <em>to, tím, této, těchto, tyto, tom, toho, tento, tohoto, tomu</em>
-* `Emp` (283; 1% of non-empty `PronType`): <em>sám, sama, sami, samo, samy, samu</em>
+* `Emp` (332; 2% of non-empty `PronType`): <em>sám, sama, sami, samo, samy, samé, samého, samých, samém, samu</em>
 * `Ind` (1468; 7% of non-empty `PronType`): <em>některé, některých, několik, mnoho, několika, mnoha, někteří, nějaké, některá, nějakou</em>
 * `Int,Rel` (3953; 20% of non-empty `PronType`): <em>které, který, která, kteří, kterou, jaké, kterých, kterým, kolik, kterém</em>
 * `Neg` (133; 1% of non-empty `PronType`): <em>žádné, žádný, žádná, žádnou, žádném, žádných, žádným, žádného, žádnému, pražádnou</em>
@@ -36,9 +36,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-16035 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+15986 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13188; 82%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (13178; 82%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12581; 78%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10279; 64%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9781; 61%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (9196; 57%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (9042; 56%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13175; 82%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (13129; 82%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12532; 78%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10279; 64%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9779; 61%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (9196; 58%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (9042; 57%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -47,9 +47,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Neg` (172; 1% of non-empty `PronType`): <em>nic, nikdo, nikoho, ničím, nikomu, ničeho, ničemu, nikým, ničem</em>
 * `Prs` (12496; 78% of non-empty `PronType`): <em>se, si, je, nás, nám, nich, ji, jim, mu, sebe</em>
 * `Rel` (1170; 7% of non-empty `PronType`): <em>jež, nichž, což, níž, němž, jimiž, něhož, čímž, jenž, nimiž</em>
-* `Tot` (1323; 8% of non-empty `PronType`): <em>všech, všechny, všechno, všichni, všem, vše, veškeré, všechna, všemi, všeho</em>
+* `Tot` (1274; 8% of non-empty `PronType`): <em>všech, všechny, všechno, všichni, všem, vše, veškeré, všechna, všemi, všeho</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (36) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (35) occur only with one value of `PronType`.
 
 ### `ADV`
 

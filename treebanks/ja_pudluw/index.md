@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Kaoru Ito, Taishi Chika, Shinsuke Mori, Sumire Uematsu, Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Atsuko Shimada, Anna Trukhina, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Japanese-PUDLUW](https://github.com/UniversalDependencies/UD_Japanese-PUDLUW)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pudluw29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pudluw210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 3.0
 
@@ -107,7 +107,7 @@ Unit Word**; LUW) version of UD_Japanese-PUD.
 </ul>
 
 <ul>
-<li>This corpus does not contain words with spaces.</li>
+<li>This corpus contains 18 types of words with spaces. Examples: A New Earth in North America, Athina Film, Canadian Blood Services, E Micro, KnuckIf You Buck, On a Wing and a Prayer, Over My Head, Shaky Ground, Simple and Select関税, Snap chat, Team Telekom, The Power of Now, Under sea, Wild West, You Tube, mos maiorum, new comers, 作者Günter de Bruyn</li>
 </ul>
 
 <ul>
@@ -142,7 +142,7 @@ Unit Word**; LUW) version of UD_Japanese-PUD.
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): させる, しめる, せる, そう, た, たい, だ, なり, べし, ます, よう, られる, れる</li>
+<li>This corpus contains 48 lemmas tagged as auxiliaries (AUX): かもしれない, ことがある, ことができる, こととなる, ことにする, ことになる, ことはない, こともある, こともない, させる, しめる, ず, せる, そう, た, たい, たらいい, だ, つつある, ていく, ている, ておる, てく, てくる, てくれる, てしまう, てはならない, てもいい, てる, である, です, でない, ではありません, ではない, でもある, ない, なければならない, なり, に過ぎない, のだ, のである, のです, のではない, べし, ます, られる, れる, 様</li>
 </ul>
 
 <ul>
@@ -172,7 +172,7 @@ Unit Word**; LUW) version of UD_Japanese-PUD.
 <ul>
   <li>Neg
     <ul>
-      <li>SCONJ: ない, なかっ, ず, ん, なければならない, なく, なければならなかっ, なければならなく</li>
+      <li>AUX: ない, なかっ, ず, ん, なければならない, なく, なければならなかっ, なければならなく</li>
     </ul>
   </li>
 </ul>
@@ -205,11 +205,11 @@ Unit Word**; LUW) version of UD_Japanese-PUD.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: だ.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: だ, です.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: た, だ, れる, ます, られる, よう, せる, たい, べし, させる, そう, しめる, なり.</li>
+<li>This corpus uses 48 lemmas as auxiliaries (<a>aux</a>). Examples: た, だ, ている, れる, である, ます, ない, られる, 様, せる, ことができる, のだ, ず, ておる, ことになる, ではない, たい, べし, てくる, かもしれない, てしまう, なければならない, こととなる, ことはない, のです, でない, ことがある, です, てはならない, ではありません, のである, こともない, させる, そう, ていく, てくれる, に過ぎない, ことにする, こともある, しめる, たらいい, つつある, てく, てもいい, てる, でもある, なり, のではない.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -236,8 +236,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(など)-ADP(を通じて) (1)</li>
       <li>VERB--NOUN-ADP(を) (723)</li>
       <li>VERB--NOUN-ADP(を)-ADP(も) (1)</li>
-      <li>VERB--NOUN-ADP(を始める) (1)</li>
-      <li>VERB--NOUN-ADP(を持って) (1)</li>
+      <li>VERB--NOUN-ADP(をはじめ) (1)</li>
+      <li>VERB--NOUN-ADP(をもって) (1)</li>
       <li>VERB--NOUN-ADP(を通じて) (1)</li>
       <li>VERB--PRON-ADP(を) (23)</li>
     </ul>

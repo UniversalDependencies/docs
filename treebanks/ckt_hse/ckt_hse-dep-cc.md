@@ -22,13 +22,13 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 cc	color:blue
-1	Ынкъа	_	CCONJ	_	_	5	cc	_	Gloss=и
-2	ԓюут	_	ADV	_	_	5	advmod	_	Gloss=вдруг
-3	ӈыръа	_	NUM	_	_	4	nummod	_	Gloss=четыре
-4	вертолёттэ	_	NOUN	_	_	5	nsubj	_	Gloss=вертолёт-NOM.PL
-5	вакъогъат	_	VERB	_	_	0	root	_	Gloss=2/3.S/A-садиться-TH-PL
-6	ӈа	_	PART	_	_	5	advmod:emph	_	Gloss=PTCL
-7	.	_	PUNCT	_	_	5	punct	_	_
+1	Ынкъа	_	CCONJ	_	_	5	cc	5:cc	Gloss=и
+2	ԓюут	_	ADV	_	_	5	advmod	5:advmod	Gloss=вдруг
+3	ӈыръа	_	NUM	_	_	4	nummod	4:nummod	Gloss=четыре
+4	вертолёттэ	_	NOUN	_	_	5	nsubj	5:nsubj	Gloss=вертолёт-NOM.PL
+5	вакъогъат	_	VERB	_	_	0	root	0:root	Gloss=2/3.S/A-садиться-TH-PL
+6	ӈа	_	PART	_	_	5	advmod:emph	5:advmod:emph	Gloss=PTCL
+7	.	_	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -39,12 +39,12 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
-1	Энмэн	_	ADV	_	_	2	advmod	_	Gloss=итак
-2	гатваԓен	_	AUX	_	_	0	root	_	Gloss=PF-быть-PF.3SG
-3	каԓьайӈын	_	NOUN	_	_	2	nsubj	_	Gloss=злой.дух-AUG-NOM.SG
-4	ынкъам	_	CCONJ	_	_	5	cc	_	Gloss=и
-5	пчеӄаԓгын	_	NOUN	_	_	3	conj	_	Gloss=птичка-SING-NOM.SG|SpaceAfter=No
-6	.	_	PUNCT	_	_	2	punct	_	_
+1	Энмэн	_	ADV	_	_	2	advmod	2:advmod	Gloss=итак
+2	гатваԓен	_	AUX	_	_	0	root	0:root	Gloss=PF-быть-PF.3SG
+3	каԓьайӈын	_	NOUN	_	_	2	nsubj	2:nsubj	Gloss=злой.дух-AUG-NOM.SG
+4	ынкъам	_	CCONJ	_	_	5	cc	5:cc	Gloss=и
+5	пчеӄаԓгын	_	NOUN	_	_	3	conj	3:conj	Gloss=птичка-SING-NOM.SG|SpaceAfter=No
+6	.	_	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -55,14 +55,14 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 cc	color:blue
-1	Ытԓыгыт	_	NOUN	_	_	5	nsubj	_	Gloss=отец-NOM.PL
-2	ытԓьат	_	NOUN	_	_	1	conj	_	Gloss=мать-NOM.PL
-3	ынӄэн	_	PART	_	_	5	discourse	_	Gloss=DET
-4	э	_	PART	_	_	3	advmod:emph	_	Gloss=PTCL
-5	Нутэвги	_	PROPN	_	_	0	root	_	Gloss=Нутевги-NOM.SG
-6	и	_	CCONJ	_	_	7	cc	_	Gloss=
-7	Омрыквытгавыт	_	PROPN	_	_	5	conj	_	Gloss=Омрыквутгавыт-NOM.SG|SpaceAfter=No
-8	.	_	PUNCT	_	_	5	punct	_	_
+1	Ытԓыгыт	_	NOUN	_	_	5	nsubj	5:nsubj	Gloss=отец-NOM.PL
+2	ытԓьат	_	NOUN	_	_	1	conj	1:conj	Gloss=мать-NOM.PL
+3	ынӄэн	_	PART	_	_	5	discourse	5:discourse	Gloss=DET
+4	э	_	PART	_	_	3	advmod:emph	3:advmod:emph	Gloss=PTCL
+5	Нутэвги	_	PROPN	_	_	0	root	0:root	Gloss=Нутевги-NOM.SG
+6	и	_	CCONJ	_	_	7	cc	7:cc	Gloss=
+7	Омрыквытгавыт	_	PROPN	_	_	5	conj	5:conj	Gloss=Омрыквутгавыт-NOM.SG|SpaceAfter=No
+8	.	_	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 

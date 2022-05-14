@@ -13,7 +13,7 @@ The 10 most frequent `PART` lemmas: <em>no</em>
 
 The 10 most frequent `PART` types:  <em>no</em>
 
-The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 2800, <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> 141, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 7)
+The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 2800, <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> 147, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 7)
 
 The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 2620, <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> 88, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 7)
 
@@ -25,11 +25,9 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="ca_ancora-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.415132).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.416268).
 
-The 1st highest number of forms (1) was observed with the lemma “No”: <em>No</em>.
-
-The 2nd highest number of forms (1) was observed with the lemma “no”: <em>no</em>.
+The 1st highest number of forms (1) was observed with the lemma “no”: <em>no</em>.
 
 `PART` does not occur with any features.
 

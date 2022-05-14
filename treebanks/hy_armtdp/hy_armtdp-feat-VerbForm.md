@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Conv`, `Gdv` are language-specific.
 It occurs with 5 different values: `Conv`, `Fin`, `Gdv`, `Inf`, `Part`.
 
-10397 tokens (20%) have a non-empty value of `VerbForm`.
-3455 types (26%) occur at least once with a non-empty value of `VerbForm`.
+10393 tokens (20%) have a non-empty value of `VerbForm`.
+3453 types (26%) occur at least once with a non-empty value of `VerbForm`.
 1222 lemmas (17%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (6749; 13% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (3645; 7% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (3; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (6745; 13% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (3645; 7% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (3; 0% instances).
 
 ### `VERB`
 
-6749 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+6745 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4967; 74%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4824; 71%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4786; 71%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4156; 62%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3698; 55%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (3498; 52%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3492; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4963; 74%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4820; 71%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4782; 71%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4154; 62%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3694; 55%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (3495; 52%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3490; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (9; 0% of non-empty `VerbForm`): <em>գալիս, անցնելիս, գնալիս, ընթանալիս, իջնելիս, խոսելիս, մտնելիս, պատմելիս</em>
 * `Fin` (1962; 29% of non-empty `VerbForm`): <em>չկա, ասաց, կա, լինի, ունի, չունի, կան, կար, մնա, նշեց</em>
-* `Gdv` (671; 10% of non-empty `VerbForm`): <em>ընդունելով, լինելու, ասելով, ելնելով, տեսնելու, անելու, լինելով, ապրելու, առնելով, գնալով</em>
+* `Gdv` (669; 10% of non-empty `VerbForm`): <em>ընդունելով, լինելու, ասելով, ելնելով, տեսնելու, անելու, լինելով, ապրելու, առնելով, գնալով</em>
 * `Inf` (594; 9% of non-empty `VerbForm`): <em>լինել, տալ, անել, ապահովել, գնալ, բերել, իրականացնել, ապրել, դնել, հասկանալ</em>
-* `Part` (3513; 52% of non-empty `VerbForm`): <em>ուզում, ասում, գալիս, տալիս, անում, նշված, գնում, նայում, տեսնում, սպասում</em>
+* `Part` (3511; 52% of non-empty `VerbForm`): <em>ուզում, ասում, գալիս, տալիս, անում, նշված, գնում, նայում, տեսնում, սպասում</em>
 
 <table>
   <tr><th>Paradigm <i>գալ</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th><th><tt>Gdv</tt></th></tr>
@@ -97,7 +97,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (3; 100% of non-empty `VerbForm`): <em>զբաղված</em>
-* `EMPTY` (4195): <em>կարող, նոր, մեծ, պետական, առաջին, ազգային, հայ, պետք, քաղաքական, տնտեսական</em>
+* `EMPTY` (4191): <em>կարող, նոր, մեծ, պետական, առաջին, ազգային, հայ, պետք, քաղաքական, տնտեսական</em>
 
 ## Relations with Agreement in `VerbForm`
 

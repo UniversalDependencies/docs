@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat	color:blue
-1	Tehty	tehdä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+1	Tehty	tehdä	VERB	V	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 2	Brysselissä	Bryssel	PROPN	N	Case=Ine|Number=Sing	1	obl	1:obl	_
 3	17	17	NUM	Num	NumType=Card	1	obl	1:obl	_
 4	päivänä	päivä	NOUN	N	Case=Ess|Number=Sing	3	flat	3:flat	_

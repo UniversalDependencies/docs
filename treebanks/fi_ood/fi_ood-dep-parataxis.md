@@ -49,7 +49,7 @@ The following 44 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	diuresi	diureesi	NOUN	_	Case=Nom|Number=Sing|Typo=Yes	6	nsubj	_	Gen=virtsaneritys
 5	silti	silti	ADV	_	_	6	advmod	_	_
-6	pelannut	pelata	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	parataxis	_	SpaceAfter=No
+6	pelannut	pelata	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	parataxis	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -61,10 +61,10 @@ The following 44 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 parataxis	color:blue
-1	RR	RR	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound	_	Gen=Verenpaine
+1	RR	RR	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound:nn	_	Gen=Verenpaine
 2	taso	taso	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
 3	matala	matala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
-4	aloitettu	aloittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	parataxis	_	_
+4	aloitettu	aloittaa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	parataxis	_	_
 5	abbodop	Abbodop	PROPN	_	Case=Nom|Number=Sing	4	obj	_	Gen_desc=lääke
 6	ja	ja	CCONJ	_	_	7	cc	_	_
 7	noradrenaliini	noradrenaliini	NOUN	_	Case=Nom|Number=Sing	4	conj	_	Gen_desc=vaikuttava-aine|SpaceAfter=No

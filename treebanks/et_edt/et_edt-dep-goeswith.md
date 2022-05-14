@@ -8,72 +8,68 @@ udver: '2'
 
 This relation is universal.
 
-164 nodes (0%) are attached to their parents as `goeswith`.
+172 nodes (0%) are attached to their parents as `goeswith`.
 
-164 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.3109756097561.
+172 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07558139534884.
 
-The following 15 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (94; 57% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (14; 9% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (14; 9% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (11; 7% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (11; 7% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (4; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (147; 85% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (16; 9% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (7; 4% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 5 goeswith	color:blue
-1	Mõõtmed	mõõde	NOUN	S	Case=Nom|Number=Plur	0	root	0:root	SpaceAfter=No
-2	:	:	PUNCT	Z	_	1	punct	1:punct	_
-3	148	148	NUM	N	NumForm=Digit|NumType=Card	1	nummod	1:nummod	_
-4	x	x	X	Y	Abbr=Yes	3	goeswith	3:goeswith	_
-5	59	59	NUM	N	NumForm=Digit|NumType=Card	3	goeswith	3:goeswith	_
-6	x	x	X	Y	Abbr=Yes	3	goeswith	3:goeswith	_
-7	32	32	NUM	N	NumForm=Digit|NumType=Card	3	goeswith	3:goeswith	_
-8	mm	mm	NOUN	Y	Abbr=Yes	3	nmod	3:nmod	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 goeswith	color:blue
+1	Üks	üks	NUM	N	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	7	nummod	7:nummod	_
+2	40	40000	NUM	N	Case=Ela|Number=Sing|NumForm=Digit|NumType=Card|Typo=Yes	7	nummod	7:nummod	CorrectForm=40000st
+3	000st	_	X	_	_	2	goeswith	2:goeswith	_
+4	Shveitsi	Shveits	PROPN	S	Case=Add|Number=Sing	5	obl	5:obl	_
+5	pagenud	page=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	7	acl	7:acl	_
+6	Kosovo	Kosovo	PROPN	S	Case=Gen|Number=Sing	7	nmod	7:nmod	_
+7	albaanlasest	albaanlane	NOUN	S	Case=Ela|Number=Sing	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	Z	_	7	punct	7:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 goeswith	color:blue
-1	Päikesesünkroosed	päikese_sünkroonne	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	amod	2:amod	_
-2	satelliidid	satelliit	NOUN	S	Case=Nom|Number=Plur	4	obj	4:obj	_
-3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	toimetada	toimetama	VERB	V	VerbForm=Inf	3	csubj	3:csubj	_
-5	vastupidise	vastu_pidine	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	10	amod	10:amod	_
-6	s.o.	s.o	ADV	Y	Abbr=Yes	7	nmod	7:nmod	_
-7	i	i	NOUN	Y	Abbr=Yes	10	nmod	10:nmod	_
-8	>	>	SYM	Z	_	7	goeswith	7:goeswith	_
-9	90o	90o	NUM	N	NumType=Card	7	goeswith	7:goeswith	_
-10	kaldega	kalle	NOUN	S	Case=Com|Number=Sing	11	nmod	11:nmod	_
-11	orbiitidele	orbiit	NOUN	S	Case=All|Number=Plur	4	obl	4:obl	SpaceAfter=No
-12	.	.	PUNCT	Z	_	3	punct	3:punct	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 goeswith	color:blue
+1	50	50000_naeleane	ADJ	A	Case=All|Degree=Pos|Number=Sing|Typo=Yes	5	amod	5:amod	CorrectForm=50000-naelasele
+2	000-naelasele	_	X	_	_	1	goeswith	1:goeswith	_
+3	Man	Man	PROPN	S	Case=Nom|Number=Sing	5	nmod	5:nmod	_
+4	Bookeri	Booker	PROPN	S	Case=Gen|Number=Sing	3	flat	3:flat	_
+5	auhinnale	au_hind	NOUN	S	Case=All|Number=Sing	6	obl	6:obl	_
+6	kandideerivad	kandideerima	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+7	:	:	PUNCT	Z	_	6	punct	6:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 goeswith	color:blue
-1	Päikesesünkroosed	päikese_sünkroonne	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	amod	2:amod	_
-2	satelliidid	satelliit	NOUN	S	Case=Nom|Number=Plur	4	obj	4:obj	_
-3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	toimetada	toimetama	VERB	V	VerbForm=Inf	3	csubj	3:csubj	_
-5	vastupidise	vastu_pidine	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	10	amod	10:amod	_
-6	s.o.	s.o	ADV	Y	Abbr=Yes	7	nmod	7:nmod	_
-7	i	i	NOUN	Y	Abbr=Yes	10	nmod	10:nmod	_
-8	>	>	SYM	Z	_	7	goeswith	7:goeswith	_
-9	90o	90o	NUM	N	NumType=Card	7	goeswith	7:goeswith	_
-10	kaldega	kalle	NOUN	S	Case=Com|Number=Sing	11	nmod	11:nmod	_
-11	orbiitidele	orbiit	NOUN	S	Case=All|Number=Plur	4	obl	4:obl	SpaceAfter=No
-12	.	.	PUNCT	Z	_	3	punct	3:punct	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 goeswith	color:blue
+1	Nende	see	PRON	P	Case=Gen|Number=Plur|PronType=Dem	2	nmod	2:nmod	_
+2	filmid	film	NOUN	S	Case=Nom|Number=Plur	3	nsubj	3:nsubj	_
+3	jooksevad	jooksma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	uhketes	uhke	ADJ	A	Case=Ine|Degree=Pos|Number=Plur	6	amod	6:amod	_
+5	peatänavate	pea_tänav	NOUN	S	Case=Gen|Number=Plur	6	nmod	6:nmod	_
+6	kinodes	kino	NOUN	S	Case=Ine|Number=Plur	3	obl	3:obl	_
+7	ja	ja	CCONJ	J	_	8	cc	8:cc	_
+8	võistlevad	võistlema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	0:root|3:conj	_
+9	vaatajate	vaataja	NOUN	S	Case=Gen|Number=Plur	10	nmod	10:nmod	_
+10	top	top	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing	8	obl	8:obl	_
+11	ten	ten	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing|Typo=Yes	10	flat	10:flat	CorrectForm=ten'is
+12	'is	_	X	T	_	11	goeswith	11:goeswith	SpaceAfter=No
+13	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 

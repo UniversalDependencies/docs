@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (657; 100% of non-empty `Abbr`): <em>тц, г., см, мл, кг, с., р, р., км, м</em>
-* `EMPTY` (43605): <em>магазин, цены, день, раз, место, время, лет, выбор, персонал, года</em>
+* `EMPTY` (43599): <em>магазин, цены, день, раз, время, место, лет, выбор, персонал, года</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (229) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (411; 100% of non-empty `Abbr`): <em>сша, ЛДПР, М., СССР, РФ, А., кпрф, спб, В., Н.</em>
-* `EMPTY` (4050): <em>@xxxxxx, Петрович, россии, жириновский, парнас, Россия, сочи, яблоко, Москве, Ирина</em>
+* `EMPTY` (4049): <em>@xxxxxx, Петрович, россии, жириновский, парнас, Россия, сочи, яблоко, Москве, Ирина</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (140) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (171; 100% of non-empty `Abbr`): <em>т., д., оч., к., тд, д, оч, Крч, в/м, к</em>
-* `EMPTY` (10690): <em>очень, так, как, там, уже, где, всегда, еще, сейчас, здесь</em>
+* `EMPTY` (10687): <em>очень, так, как, там, уже, где, всегда, еще, сейчас, здесь</em>
 
 ### `ADJ`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (163; 100% of non-empty `Abbr`): <em>п., ст., жд, мед., Св., ч., англ., гос., дет., ж/д</em>
-* `EMPTY` (16725): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
+* `EMPTY` (16722): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
 
 `Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (81) occur only with one value of `Abbr`.
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (36; 100% of non-empty `Abbr`): <em>т., кот.</em>
-* `EMPTY` (11181): <em>я, это, что, он, мне, все, меня, она, они, всё</em>
+* `EMPTY` (11178): <em>я, это, что, он, мне, все, меня, она, они, всё</em>
 
 ### `VERB`
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (24; 100% of non-empty `Abbr`): <em>е., см., е, и., н., нрав, см, созд</em>
-* `EMPTY` (24722): <em>есть, можно, нет, может, надо, могу, делать, хочу, здравствуйте, нравится</em>
+* `EMPTY` (24723): <em>есть, можно, нет, может, надо, могу, делать, хочу, здравствуйте, нравится</em>
 
 ### `X`
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (20; 100% of non-empty `Abbr`): <em>С, хз, п., с., З., П, Соп., ТТГ, Ы., P.</em>
-* `EMPTY` (1062): <em>RT, http://xxxxxx, https://xxxxxx, *, п, P., P.S, iphone, p.s., эсесесер</em>
+* `EMPTY` (1292): <em>то, RT, бы, http://xxxxxx, нибудь, https://xxxxxx, *, же, либо, п</em>
 
 `Abbr` seems to be **lexical feature** of `X`. 100% lemmas (18) occur only with one value of `Abbr`.
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (19; 100% of non-empty `Abbr`): <em>др., н., т., др, проч</em>
-* `EMPTY` (5681): <em>все, этот, его, такой, мой, этой, сам, эти, их, всех</em>
+* `EMPTY` (5679): <em>все, этот, его, такой, мой, этой, сам, эти, их, всех</em>
 
 ### `SCONJ`
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `SCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (14; 100% of non-empty `Abbr`): <em>тк, к.</em>
-* `EMPTY` (3494): <em>что, как, если, когда, чтобы, то, хотя, чем, чтоб, пока</em>
+* `EMPTY` (3492): <em>что, как, если, когда, чтобы, то, хотя, чем, чтоб, пока</em>
 
 ### `PART`
 
@@ -128,7 +128,7 @@ The most frequent other feature values with which `PART` and `Abbr` co-occurred:
 `PART` tokens may have the following values of `Abbr`:
 
 * `Yes` (6; 100% of non-empty `Abbr`): <em>пж, плз, мб, пжж</em>
-* `EMPTY` (7499): <em>не, и, только, же, ли, вот, просто, даже, то, ну</em>
+* `EMPTY` (7322): <em>не, и, только, же, ли, вот, просто, даже, ну, тоже</em>
 
 ### `NUM`
 
@@ -148,7 +148,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>н, п</em>
-* `EMPTY` (16724): <em>в, на, с, по, у, за, для, к, из, от</em>
+* `EMPTY` (16711): <em>в, на, с, по, у, за, для, к, из, от</em>
 
 ### `INTJ`
 

@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>baik</em> (<tt><a href="id_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.137196).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.137428).
 
 The 1st highest number of forms (2) was observed with the lemma “tetapi”: <em>Tetapi, tapi</em>.
 

@@ -9,32 +9,32 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="hyw_armtdp-dep-det-poss.html">det:poss</a></tt>.
 
-3754 nodes (4%) are attached to their parents as `det`.
+4751 nodes (4%) are attached to their parents as `det`.
 
-2261 instances of `det` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24986680873735.
+2927 instances of `det` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24794780046306.
 
-The following 13 pairs of parts of speech are connected with `det`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (3460; 92% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (132; 4% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (59; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (36; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (24; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (21; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `det`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (4411; 93% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (127; 3% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (82; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (42; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (31; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 5 det	color:blue
-1	Հասկցար	հասկնալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=Haskc’ar|LTranslit=hasknal|SpaceAfter=No
-2	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-3	որ	որ	SCONJ	_	_	8	mark	_	Translit=or|LTranslit=or
-4	օր	օր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	8	obl	_	Translit=òr|LTranslit=òr
-5	մըն	մը	DET	_	PronType=Art	4	det	_	Translit=mën|LTranslit=më
-6	ալ	ալ	ADV	_	_	4	advmod:emph	_	Translit=al|LTranslit=al
-7	պիտի	պիտի	AUX	_	Aspect=Prosp|Mood=Ind|Polarity=Pos	8	aux	_	Translit=piti|LTranslit=piti
-8	մոռնայիր	մոռնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	1	ccomp	_	Translit=moṙnayir|LTranslit=moṙnal
-9	թէ	թէ	SCONJ	_	_	10	mark	_	Translit=t’ē|LTranslit=t’ē
-10	եղած	ըլլալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	8	ccomp	_	Translit=eġaç|LTranslit=ëllal
-11	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	Translit=es|LTranslit=em|SpaceAfter=No
-12	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 det	color:blue
+1	Հակառակի	հակառակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	11	obl	_	Translit=Hakaṙaki|LTranslit=hakaṙak
+2	պէս	պէս	ADP	_	AdpType=Post	1	case	_	Translit=pēs|LTranslit=pēs
+3	ալ	ալ	ADV	_	_	1	advmod:emph	_	Translit=al|LTranslit=al
+4	այս	այս	DET	_	Deixis=Prox|PronType=Dem	5	det	_	Translit=ays|LTranslit=ays
+5	տարի	տարի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	11	obl	_	Translit=tari|LTranslit=tari
+6	շատ	շատ	ADV	_	_	7	advmod	_	Translit=šat|LTranslit=šat
+7	ցուրտ	ցուրտ	ADJ	_	Degree=Pos	8	amod	_	Translit=c’owrt|LTranslit=c’owrt
+8	ձմեռ	ձմեռ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	11	obj	_	Translit=jmeṙ|LTranslit=jmeṙ
+9	մը	մը	DET	_	PronType=Art	8	det	_	Translit=më|LTranslit=më
+10	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	11	aux	_	Translit=kë|LTranslit=kë
+11	դիմագրաւենք	դիմագրաւել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=dimagrawenk’|LTranslit=dimagrawel|SpaceAfter=No
+12	:	:	PUNCT	_	Foreign=Yes	11	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -60,27 +60,22 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 det	color:blue
-1	–	–	PUNCT	_	_	2	punct	_	Translit=–|LTranslit=–
-2	Կրնամ	կրնալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=Krnam|LTranslit=krnal
-3	՞	՞	PUNCT	_	_	2	punct	_	Translit=?|LTranslit=?
-4	քիչիկ	քիչիկ	ADV	_	Style=Expr	9	advmod	_	Translit=k’ičik|LTranslit=k’ičik
-5	մը	մը	DET	_	PronType=Art	4	det	_	Translit=më|LTranslit=më
-6	թի	թի	X	_	_	9	obj	_	Translit=t’i|LTranslit=t’i|SpaceAfter=No
-7	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-8	վի	վի	X	_	_	6	flat	_	Translit=vi|LTranslit=vi
-9	դիտել	դիտել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	2	xcomp	_	Translit=ditel|LTranslit=ditel|SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
-11	–	–	PUNCT	_	_	13	punct	_	Translit=–|LTranslit=–
-12	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	13	aux	_	Translit=kë|LTranslit=kë
-13	հարցնեմ	հարցնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	Translit=harc’nem|LTranslit=harc’nel
-14	մեծ	մեծ	ADJ	_	Degree=Pos	15	amod	_	Translit=meç|LTranslit=meç
-15	մամային	մամա	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	13	obj	_	Translit=mamayin|LTranslit=mama|SpaceAfter=No
-16	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 det	color:blue
+1	Անոնք	անոնք	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Translit=Anonk’|LTranslit=anonk’
+2	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	3	aux	_	Translit=kë|LTranslit=kë
+3	դատէին	դատել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=datēin|LTranslit=datel
+4	զայն	անիկա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	3	obj	_	Translit=zayn|LTranslit=anika|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+6	քիչ	քիչ	ADV	_	_	8	advmod	_	Translit=k’ič|LTranslit=k’ič
+7	մը	մը	DET	_	PronType=Art	6	det	_	Translit=më|LTranslit=më
+8	փոքր	փոքր	ADV	_	_	3	advmod	_	Translit=p’ok’r|LTranslit=p’ok’r
+9	ու	ու	CCONJ	_	_	10	cc	_	Translit=ow|LTranslit=ow
+10	սկեպտիկ	սկեպտիկ	ADV	_	_	8	conj	_	Translit=skeptik|LTranslit=skeptik|SpaceAfter=No
+11	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

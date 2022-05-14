@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
-8918 tokens (5%) have a non-empty value of `Variant`.
-335 types (1%) occur at least once with a non-empty value of `Variant`.
-262 lemmas (2%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (8362; 5% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (556; 0% instances).
+9135 tokens (5%) have a non-empty value of `Variant`.
+344 types (1%) occur at least once with a non-empty value of `Variant`.
+263 lemmas (2%) occur at least once with a non-empty value of `Variant`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (8362; 5% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (556; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (217; 0% instances).
 
 ### `PRON`
 
@@ -36,10 +36,22 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 `Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (257) occur only with one value of `Variant`.
 
+### `DET`
+
+217 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Variant`.
+
+The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (217; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (217; 100%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (217; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (217; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (212; 98%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (186; 86%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (141; 65%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (138; 64%).
+
+`DET` tokens may have the following values of `Variant`:
+
+* `Short` (217; 100% of non-empty `Variant`): <em>sám, sama, sami, samo, samy, samu</em>
+
 ## Relations with Agreement in `Variant`
 
 The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (21; 68%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> DET</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>DET --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
 

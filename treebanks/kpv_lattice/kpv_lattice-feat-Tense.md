@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Fut` (44; 5% of non-empty `Tense`): <em>Локтас, ковмас, петас, мунас, Тӧдмалас, быдмасны, бӧръяс, вермас, веськалас, видзӧдлас</em>
 * `Past` (580; 68% of non-empty `Tense`): <em>воис, идралӧм, лои, идралӧмын, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</em>
 * `Pres` (223; 26% of non-empty `Tense`): <em>мунӧ, аддза, воӧ, думайта, кажитчӧ, локтӧ, пукалӧ, тыдалӧ, Кӧсъян, аддзан</em>
-* `EMPTY` (503): <em>лоны, шуны, мунны, вӧчны, пов, виччысьны, волыны, восьлавны, жалит, нуны</em>
+* `EMPTY` (504): <em>лоны, шуны, мунны, вӧчны, пов, виччысьны, волыны, восьлавны, жалит, нуны</em>
 
 <table>
   <tr><th>Paradigm <i>мунны</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -45,7 +45,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 * `Fut` (11; 5% of non-empty `Tense`): <em>вермас, лоас, кутас, вермасны, позяс, пондасны</em>
 * `Past` (134; 56% of non-empty `Tense`): <em>эз, вӧлі, эг, вӧліны, кутіс, пондіс, эн, вӧлӧма, коліс, лоины</em>
 * `Pres` (95; 40% of non-empty `Tense`): <em>оз, колӧ, он, ог, позьӧ, эм, лоам, оз-ӧ, эмӧсь, Овлывлӧ</em>
-* `EMPTY` (67): <em>абу, вермы, кут, не, лоны, Эн, абуӧсь, вӧв, вӧвны, позь</em>
+* `EMPTY` (68): <em>абу, вермы, кут, не, лоны, Эн, абуӧсь, вӧв, вӧвны, позь</em>
 
 <table>
   <tr><th>Paradigm <i>вермыны</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

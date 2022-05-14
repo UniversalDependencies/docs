@@ -30,11 +30,11 @@ The following 38 pairs of parts of speech are connected with `acl`: <tt><a href=
 5	lluny	lluny	ADV	rg	_	0	root	0:root	_
 6	de	de	ADP	spcmp	_	8	case	8:case	_
 7	els	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	8:det	_
-8	objectius	objectiu	NOUN	ncmp000	Gender=Masc|Number=Plur	5	obl	5:obl	ClusterId=CESS-CAT-A-20010315-27617-c5|ClusterType=Gen|MentionSpan=8-12|MentionMisc=HomoDD
-9	que	que	PRON	pr0cn000	PronType=Rel	12	obj	12:obj	ClusterId=CESS-CAT-A-20010315-27617-c5|ClusterType=Gen|MentionSpan=9|MentionMisc=CorefType:ident
-10	ens	jo	PRON	pp1cp000	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	12	obj	12:obj	ClusterId=CESS-CAT-A-20010315-27617-c3|ClusterType=Gen|MentionSpan=10|MentionMisc=CorefType:ident
+8	objectius	objectiu	NOUN	ncmp000	Gender=Masc|Number=Plur	5	obl	5:obl	Entity=(CESSCATA2001031527617c5--1-gstype:gen,HomoDD
+9	que	que	PRON	pr0cn000	PronType=Rel	12	obj	12:obj	Entity=(CESSCATA2001031527617c5--1-CorefType:ident,gstype:gen)
+10	ens	jo	PRON	pp1cp000	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	12	obj	12:obj	Entity=(CESSCATA2001031527617c3--1-CorefType:ident,gstype:gen)
 11	vam	anar	AUX	vaip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
-12	marcar	marcar	VERB	vmn0000	VerbForm=Inf	8	acl	8:acl	SpaceAfter=No
+12	marcar	marcar	VERB	vmn0000	VerbForm=Inf	8	acl	8:acl	SpaceAfter=No|Entity=CESSCATA2001031527617c5)
 13	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 
 ~~~
@@ -46,18 +46,18 @@ The following 38 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 acl	color:blue
-1	Un	un	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	2	det	2:det	_
-2	Eddie	Eddie	PROPN	np0000p	_	0	root	0:root	MWE=Eddie_Irvine|MWEPOS=PROPN|ClusterId=CESS-CAT-AAP-19990302-131-c19|ClusterType=|MentionSpan=1-12|MentionMisc=ClusterTypeMismatch:Spec.person:,CorefType:ident
+1	Un	un	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	2	det	2:det	Entity=(CESSCATAAP19990302131c19--2-CorefType:ident
+2	Eddie	Eddie	PROPN	np0000p	_	0	root	0:root	MWE=Eddie_Irvine|MWEPOS=PROPN
 3	Irvine	Irvine	PROPN	_	_	2	flat	2:flat	_
 4	disposat	disposat	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	8	xcomp	8:xcomp	_
 5	a	a	ADP	sps00	_	6	case	6:case	_
 6	tot	tot	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Ind	8	obj	8:obj	_
 7	perquè	perquè	SCONJ	cs	_	8	mark	8:mark	_
 8	guanyi	guanyar	VERB	vmsp3s0	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	2:acl	_
-9	el	el	DET	dp3ms0	Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	MWE=el_seu|MWEPOS=DET|ClusterId=CESS-CAT-AAP-19990302-131-c19|ClusterType=|MentionSpan=9-10|MentionMisc=ClusterTypeMismatch:Spec:,CorefType:ident
-10	seu	seu	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	11:det	_
-11	cap	cap	NOUN	nccs000	Number=Sing	8	nsubj	8:nsubj	ClusterId=CESS-CAT-AAP-19990302-131-c1|ClusterType=Spec.person|MentionSpan=9-12|MentionMisc=ClusterTypeMismatch:Spec:Spec.person,CorefType:ident
-12	Schumi	Schumi	PROPN	np0000p	_	11	appos	11:appos	SpaceAfter=No|ClusterId=CESS-CAT-AAP-19990302-131-s24.sn.26|ClusterType=Spec.person|MentionSpan=12
+9	el	el	DET	dp3ms0	Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	MWE=el_seu|MWEPOS=DET|Entity=(CESSCATAAP19990302131c1-person-3-CorefType:ident,gstype:spec(CESSCATAAP19990302131c19--1-CorefType:ident
+10	seu	seu	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	11:det	Entity=CESSCATAAP19990302131c19)
+11	cap	cap	NOUN	nccs000	Number=Sing	8	nsubj	8:nsubj	_
+12	Schumi	Schumi	PROPN	np0000p	_	11	appos	11:appos	SpaceAfter=No|Entity=(CESSCATAAP19990302131s24.sn.26-person-1-gstype:spec)CESSCATAAP19990302131c1)CESSCATAAP19990302131c19)
 13	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
@@ -72,14 +72,14 @@ The following 38 pairs of parts of speech are connected with `acl`: <tt><a href=
 1	Estem	estar	AUX	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	2:aux	_
 2	vivint	viure	VERB	vmg0000	VerbForm=Ger	0	root	0:root	_
 3	en	en	ADP	sps00	_	5	case	5:case	_
-4	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	5	det	5:det	_
-5	societat	societat	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	2:obl	ClusterId=CESS-CAT-AAP-20000201-24_a-c16|ClusterType=Gen|MentionSpan=4-11
-6	que	que	PRON	pr0cn000	PronType=Rel	9	nsubj	9:nsubj	ClusterId=CESS-CAT-AAP-20000201-24_a-c16|ClusterType=Gen|MentionSpan=6|MentionMisc=CorefType:ident
+4	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	5	det	5:det	Entity=(CESSCATAAP2000020124_ac16--2-gstype:gen
+5	societat	societat	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	2:obl	_
+6	que	que	PRON	pr0cn000	PronType=Rel	9	nsubj	9:nsubj	Entity=(CESSCATAAP2000020124_ac16--1-CorefType:ident,gstype:gen)
 7	no	no	ADV	rn	Polarity=Neg	9	advmod	9:advmod	_
 8	és	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 9	capaç	capaç	ADJ	aq0cs0	Number=Sing	5	acl	5:acl	_
 10	de	de	ADP	sps00	_	11	mark	11:mark	_
-11	perdonar	perdonar	VERB	vmn0000	VerbForm=Inf	9	acl	9:acl	SpaceAfter=No
+11	perdonar	perdonar	VERB	vmn0000	VerbForm=Inf	9	acl	9:acl	SpaceAfter=No|Entity=CESSCATAAP2000020124_ac16)
 12	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~

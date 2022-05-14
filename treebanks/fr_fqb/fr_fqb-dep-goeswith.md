@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -24,8 +24,8 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3 4 goeswith	color:blue
 1	Combien	combien	ADV	_	PronType=Int	5	nsubj	_	_
 2	de	de	ADP	_	_	3	case	_	_
-3	Porto	Porto	NOUN	_	_	1	obl:arg	_	_
-4	Ricains	ricain	NOUN	_	Gender=Masc|Number=Plur	3	goeswith	_	_
+3	Porto	Porto	NOUN	_	Typo=Yes	1	obl:arg	_	CorrectForm=Porto-Ricains
+4	Ricains	_	X	_	_	3	goeswith	_	_
 5	habitent	habiter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	dans	dans	ADP	_	_	8	case	_	_
 7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_

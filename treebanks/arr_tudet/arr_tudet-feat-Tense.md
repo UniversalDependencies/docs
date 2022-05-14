@@ -11,7 +11,7 @@ It occurs with 3 different values: `Fut`, `Past`, `RPast`.
 
 74 tokens (3%) have a non-empty value of `Tense`.
 21 types (3%) occur at least once with a non-empty value of `Tense`.
-5 lemmas (4%) occur at least once with a non-empty value of `Tense`.
+5 lemmas (1%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> (45; 2% instances), <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> (29; 1% instances).
 
 ### `PART`
@@ -36,5 +36,5 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (29; 100% of non-empty `Tense`): <em>okay, aʔkay, gay, ikap, kay, okap, ekab, ekap, ekay, iʔkap</em>
-* `EMPTY` (145): <em>ʔet, nãn, wet, toʔwa, at, wep, aʔnãn, aʔwaʔye, wa, ap</em>
+* `EMPTY` (145): <em>ʔet, nãn, wet, toʔwa, at, aʔnãn, wep, aʔwaʔye, wa, ap</em>
 

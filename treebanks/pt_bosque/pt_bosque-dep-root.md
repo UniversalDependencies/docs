@@ -11,9 +11,9 @@ This relation is universal.
 9357 nodes (4%) are attached to their parents as `root`.
 
 9357 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.82879127925617.
+Average distance between parent and child is 7.82889815111681.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (6839; 73% instances), -<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1376; 15% instances), -<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (513; 5% instances), -<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (334; 4% instances), -<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (130; 1% instances), -<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (62; 1% instances), -<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (56; 1% instances), -<tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (23; 0% instances), -<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (12; 0% instances), -<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (6; 0% instances), -<tt><a href="pt_bosque-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (6839; 73% instances), -<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1377; 15% instances), -<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (513; 5% instances), -<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (333; 4% instances), -<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (130; 1% instances), -<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (62; 1% instances), -<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (56; 1% instances), -<tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (23; 0% instances), -<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (12; 0% instances), -<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (6; 0% instances), -<tt><a href="pt_bosque-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

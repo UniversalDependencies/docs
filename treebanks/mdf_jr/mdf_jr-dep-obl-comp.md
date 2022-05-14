@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-obl.html">obl</a></tt>.
 There are also 9 other language-specific subtypes of `obl`: <tt><a href="mdf_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="mdf_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="mdf_jr-dep-obl-freq.html">obl:freq</a></tt>, <tt><a href="mdf_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="mdf_jr-dep-obl-lfrom.html">obl:lfrom</a></tt>, <tt><a href="mdf_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="mdf_jr-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="mdf_jr-dep-obl-lto.html">obl:lto</a></tt>, <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-4 nodes (0%) are attached to their parents as `obl:comp`.
+12 nodes (0%) are attached to their parents as `obl:comp`.
 
-2 instances of `obl:comp` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25.
+10 instances of `obl:comp` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33333333333333.
 
-The following 2 pairs of parts of speech are connected with `obl:comp`: <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 50% instances).
+The following 6 pairs of parts of speech are connected with `obl:comp`: <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (3; 25% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (3; 25% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (2; 17% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -35,16 +35,31 @@ The following 2 pairs of parts of speech are connected with `obl:comp`: <tt><a h
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 obl:comp	color:blue
+1	Синь	сон	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Pl3,Nom
+2	эряйхть	эрямс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScPl3
+3	корязонк	коряс	ADP	Adp	Case=Ill|Number[psor]=Plur|Person[psor]=1	5	obl:comp	_	GTtags=Ill,PxPl1
+4	сяда	сяда	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
+5	цебярьста	цебярьста	ADV	Adv	AdvType=Man	2	advmod:mmod	_	GTtags=Manner|SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 obl:comp	color:blue
-1	Вармась	варма	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	GTtags=Sg,Nom,Def
-2	уфась	уфамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
-3	шобдавать	шобдава	NOUN	N	Case=Gen|Definite=Def|Number=Sing	2	obl:comp	_	GTtags=Sg,Gen,Def
-4	коряс	коряс	ADP	Adp	Case=Ill	3	case	_	GTtags=Ill
-5	сяда	сяда	ADV	Adv	AdvType=Deg	6	advmod:deg	_	GTtags=Deg
-6	вишкста	вишкста	ADV	Adv	_	2	advmod:mmod	_	SpaceAfter=No
-7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+# visual-style 2 1 obl:comp	color:blue
+1	Тяда	тя	PRON	Pron	Case=Abl|Definite=Ind|Number=Sing|PronType=Dem	2	obl:comp	_	GTtags=Dem,Sg,Abl,Indef
+2	инголе	инголе	ADV	Adv	Case=Loc	5	advmod:tmod	_	GTtags=Loc
+3	тага	тага	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
+4	Платон	Платон	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	GTtags=Prop,Sg,Nom,Indef
+5	дивандафтомань	дивандафтомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcSg1|SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 

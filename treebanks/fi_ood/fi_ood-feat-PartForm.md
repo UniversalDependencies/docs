@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Agt`, `Past`, `Pres`.
 
-801 tokens (4%) have a non-empty value of `PartForm`.
-492 types (6%) occur at least once with a non-empty value of `PartForm`.
-335 lemmas (6%) occur at least once with a non-empty value of `PartForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (729; 4% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (71; 0% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+800 tokens (4%) have a non-empty value of `PartForm`.
+491 types (6%) occur at least once with a non-empty value of `PartForm`.
+334 lemmas (6%) occur at least once with a non-empty value of `PartForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (728; 4% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (71; 0% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-729 <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `PartForm`.
+728 <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `PartForm`.
 
-The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="fi_ood-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (729; 100%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (729; 100%), <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (729; 100%), <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (729; 100%), <tt><a href="fi_ood-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (729; 100%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (729; 100%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (647; 89%), <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=Nom</tt> (582; 80%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (420; 58%).
+The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (728; 100%), <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (728; 100%), <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (728; 100%), <tt><a href="fi_ood-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (728; 100%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (728; 100%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (646; 89%), <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=Nom</tt> (581; 80%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (419; 58%).
 
 `VERB` tokens may have the following values of `PartForm`:
 
 * `Agt` (28; 4% of non-empty `PartForm`): <em>jättämäni, kirjoittama, tarvitsema, viemää, esittämä, harjoittama, ideoima, itsetekemä, jättämät, kertomani</em>
-* `Past` (602; 83% of non-empty `PartForm`): <em>saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</em>
+* `Past` (601; 83% of non-empty `PartForm`): <em>saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</em>
 * `Pres` (99; 14% of non-empty `PartForm`): <em>edistäviin, koskevat, liittyvistä, näkyvissä, tapahtuvaa, ymmärtävän, aiheutuvat, alentavaa, arvostavan, auttavan</em>
 
 <table>

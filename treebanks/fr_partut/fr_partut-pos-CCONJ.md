@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>soit</em> (<tt><a href="fr_partut-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.409573).
+The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.431974).
 
 The 1st highest number of forms (2) was observed with the lemma “mais”: <em>Ma, mais</em>.
 

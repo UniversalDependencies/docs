@@ -74,7 +74,7 @@ The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a 
 7	управлял	управлять	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
 8	в	в	ADP	IN	_	12	case	_	_
 9	830	830	ADJ	ORD	_	12	amod	_	SpaceAfter=No
-10	—	—	PUNCT	-	_	11	punct	_	OrigForm=--|SpaceAfter=No
+10	—	—	PUNCT	-	_	11	punct	_	SpaceAfter=No
 11	846	846	ADJ	ORD	_	9	conj	_	_
 12	гг.	год	NOUN	NN	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 13	)	)	PUNCT	)	_	7	punct	_	SpaceAfter=No

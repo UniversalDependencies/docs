@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ini</em> (<tt><a href="id_pud-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.041667 (the average of all parts of speech is 1.137196).
+The form / lemma ratio of `DET` is 1.041667 (the average of all parts of speech is 1.137428).
 
 The 1st highest number of forms (2) was observed with the lemma “banyak”: <em>banyak, kebanyakan</em>.
 

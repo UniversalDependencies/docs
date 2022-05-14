@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 117 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (117; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (113; 97%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (104; 89%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (83; 71%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (80; 68%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (77; 66%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (117; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (116; 99%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (116; 99%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (113; 97%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (104; 89%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (83; 71%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (80; 68%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (77; 66%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>eo, ipso, Tous, er, qua, they</em>
-* `EMPTY` (16027): <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
+* `EMPTY` (15978): <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
 
 ### `VERB`
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>are, formo, movere, savoir, singen, singt, vivre</em>
-* `EMPTY` (40590): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `EMPTY` (38741): <em>má, mají, musí, může, jde, lze, mohou, můžeme, mít, měl</em>
 
 ### `DET`
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>sui, hoc, quem</em>
-* `EMPTY` (19757): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (19806): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ### `CCONJ`
 

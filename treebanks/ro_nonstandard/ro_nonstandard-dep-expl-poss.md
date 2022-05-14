@@ -23,17 +23,17 @@ The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 expl:poss	color:blue
-1	Atuncea	atunci	ADV	Rg	_	3	advmod:tmod	_	ref=MATT25.7
-2	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	3	expl:pv	_	ref=MATT25.7
-3	sculară	scula	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT25.7
-4	vergurele	vergură	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	3	nsubj	_	ref=MATT25.7
-5	acealea	acela	DET	Dd3fpr---o	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|Position=Postnom|PronType=Dem	4	det	_	ref=MATT25.7
-6	și	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT25.7|SpaceAfter=No
-7	-și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	8	expl:poss	_	ref=MATT25.7
-8	gătiră	găti	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	ref=MATT25.7
-9	lămpașele	lămpaș	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	8	obj	_	ref=MATT25.7
-10	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	9	nmod	_	ref=MATT25.7|SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT25.7
+1	Atuncea	atunci	ADV	Rg	_	3	advmod:tmod	_	Ref=MATT25.7
+2	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	3	expl:pv	_	Ref=MATT25.7
+3	sculară	scula	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=MATT25.7
+4	vergurele	vergură	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	3	nsubj	_	Ref=MATT25.7
+5	acealea	acela	DET	Dd3fpr---o	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|Position=Postnom|PronType=Dem	4	det	_	Ref=MATT25.7
+6	și	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	Ref=MATT25.7|SpaceAfter=No
+7	-și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	8	expl:poss	_	Ref=MATT25.7
+8	gătiră	găti	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	Ref=MATT25.7
+9	lămpașele	lămpaș	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	8	obj	_	Ref=MATT25.7
+10	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	9	nmod	_	Ref=MATT25.7|SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	3	punct	_	Ref=MATT25.7
 
 ~~~
 
@@ -44,19 +44,19 @@ The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 expl:poss	color:blue
-1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	4	cc	_	ref=PAVEL_1.CORINT_12.27
-2	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	ref=PAVEL_1.CORINT_12.27
-3	sînteți	fi	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	4	cop	_	ref=PAVEL_1.CORINT_12.27
-4	trupul	trup	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	ref=PAVEL_1.CORINT_12.27
-5	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	ref=PAVEL_1.CORINT_12.27
-6	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	ref=PAVEL_1.CORINT_12.27|SpaceAfter=No
-7	,	,	PUNCT	COMMA	_	9	punct	_	ref=PAVEL_1.CORINT_12.27
-8	și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=PAVEL_1.CORINT_12.27
-9	mădulare	mădular	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	4	conj	_	ref=PAVEL_1.CORINT_12.27
-10	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	11	case	_	ref=PAVEL_1.CORINT_12.27
-11	parte	parte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	nmod	_	ref=PAVEL_1.CORINT_12.27|SpaceAfter=No
-12	-I	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	expl:poss	_	ref=PAVEL_1.CORINT_12.27|SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	4	punct	_	ref=PAVEL_1.CORINT_12.27
+1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	4	cc	_	Ref=PAVEL_1.CORINT_12.27
+2	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	Ref=PAVEL_1.CORINT_12.27
+3	sînteți	fi	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	4	cop	_	Ref=PAVEL_1.CORINT_12.27
+4	trupul	trup	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	Ref=PAVEL_1.CORINT_12.27
+5	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	Ref=PAVEL_1.CORINT_12.27
+6	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	Ref=PAVEL_1.CORINT_12.27|SpaceAfter=No
+7	,	,	PUNCT	COMMA	_	9	punct	_	Ref=PAVEL_1.CORINT_12.27
+8	și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	Ref=PAVEL_1.CORINT_12.27
+9	mădulare	mădular	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	4	conj	_	Ref=PAVEL_1.CORINT_12.27
+10	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	11	case	_	Ref=PAVEL_1.CORINT_12.27
+11	parte	parte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	nmod	_	Ref=PAVEL_1.CORINT_12.27|SpaceAfter=No
+12	-I	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	expl:poss	_	Ref=PAVEL_1.CORINT_12.27|SpaceAfter=No
+13	.	.	PUNCT	PERIOD	_	4	punct	_	Ref=PAVEL_1.CORINT_12.27
 
 ~~~
 

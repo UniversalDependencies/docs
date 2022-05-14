@@ -10,8 +10,8 @@ This feature is language-specific.
 It occurs with 1 different values: `Action`.
 
 1 tokens (0%) have a non-empty value of `Nomzr`.
-1 types (1%) occur at least once with a non-empty value of `Nomzr`.
-1 lemmas (1%) occur at least once with a non-empty value of `Nomzr`.
+1 types (0%) occur at least once with a non-empty value of `Nomzr`.
+1 lemmas (0%) occur at least once with a non-empty value of `Nomzr`.
 The feature is used with 1 part-of-speech tags: <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `NOUN`

@@ -64,7 +64,7 @@ Examples: <em>эзда, фталда, ширде, эздонк, эздост</em
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="mdf_jr-dep-case.html">case</a></tt> (70; 86% instances), <tt><a href="mdf_jr-dep-nmod-comp.html">nmod:comp</a></tt> (3; 4% instances), <tt><a href="mdf_jr-dep-obl.html">obl</a></tt> (3; 4% instances), <tt><a href="mdf_jr-dep-obl-lmod.html">obl:lmod</a></tt> (2; 2% instances), <tt><a href="mdf_jr-dep-obl-lfrom.html">obl:lfrom</a></tt> (1; 1% instances), <tt><a href="mdf_jr-dep-obl-lmp.html">obl:lmp</a></tt> (1; 1% instances), <tt><a href="mdf_jr-dep-obl-lto.html">obl:lto</a></tt> (1; 1% instances)
+`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="mdf_jr-dep-case.html">case</a></tt> (70; 86% instances), <tt><a href="mdf_jr-dep-obl.html">obl</a></tt> (3; 4% instances), <tt><a href="mdf_jr-dep-obl-comp.html">obl:comp</a></tt> (3; 4% instances), <tt><a href="mdf_jr-dep-obl-lmod.html">obl:lmod</a></tt> (2; 2% instances), <tt><a href="mdf_jr-dep-obl-lfrom.html">obl:lfrom</a></tt> (1; 1% instances), <tt><a href="mdf_jr-dep-obl-lmp.html">obl:lmp</a></tt> (1; 1% instances), <tt><a href="mdf_jr-dep-obl-lto.html">obl:lto</a></tt> (1; 1% instances)
 
 Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (55; 68% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (10; 12% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (10; 12% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
 

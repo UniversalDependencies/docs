@@ -11,23 +11,23 @@ It occurs with 4 different values: `Assoc`, `Coll`, `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt>, <tt><a href="hy_armtdp-feat-Number-psor.html">Number[psor]</a></tt>.
 
-23764 tokens (45%) have a non-empty value of `Number`.
-9740 types (73%) occur at least once with a non-empty value of `Number`.
-4505 lemmas (64%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (13326; 25% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (3607; 7% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (2593; 5% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1804; 3% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1746; 3% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (688; 1% instances).
+23741 tokens (45%) have a non-empty value of `Number`.
+9738 types (73%) occur at least once with a non-empty value of `Number`.
+4504 lemmas (64%) occur at least once with a non-empty value of `Number`.
+The feature is used with 6 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (13309; 25% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (3607; 7% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (2591; 5% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1800; 3% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1746; 3% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (688; 1% instances).
 
 ### `NOUN`
 
-13326 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+13309 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (11299; 85%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (9083; 68%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (11282; 85%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (9067; 68%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Assoc` (16; 0% of non-empty `Number`): <em>անձանց, անձինք, անձանցից, տնեցիքին</em>
-* `Coll` (598; 4% of non-empty `Number`): <em>հյուսիս, հարավ, կառավարման, պահպանման, ազատության, ապահովման, երիտասարդության, կաթ, օգտագործման, երիտասարդությունը</em>
-* `Plur` (2575; 19% of non-empty `Number`): <em>մարդկանց, մարդիկ, հայոց, շրջանակներում, հայրերի, տարիների, աչքերը, գործերի, իրավունքների, միջոցների</em>
-* `Sing` (10137; 76% of non-empty `Number`): <em>հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, օրը, ծրագրի</em>
+* `Coll` (597; 4% of non-empty `Number`): <em>հյուսիս, հարավ, կառավարման, պահպանման, ազատության, ապահովման, երիտասարդության, կաթ, օգտագործման, երիտասարդությունը</em>
+* `Plur` (2571; 19% of non-empty `Number`): <em>մարդկանց, մարդիկ, հայոց, շրջանակներում, հայրերի, տարիների, աչքերը, գործերի, իրավունքների, միջոցների</em>
+* `Sing` (10125; 76% of non-empty `Number`): <em>հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, օրը, թ</em>
 * `EMPTY` (3): <em>բոլորինն, խիղճ, մետ</em>
 
 <table>
@@ -68,16 +68,16 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `VERB`
 
-2593 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (38% of all `VERB` tokens) have a non-empty value of `Number`.
+2591 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (38% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2182; 84%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1922; 74%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (1481; 57%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1469; 57%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (1367; 53%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2180; 84%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1922; 74%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (1479; 57%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1467; 57%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (1367; 53%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Coll` (670; 26% of non-empty `Number`): <em>ընդունելով, լինելու, ասելով, ելնելով, տեսնելու, անելու, լինելով, ապրելու, առնելով, գնալով</em>
+* `Coll` (668; 26% of non-empty `Number`): <em>ընդունելով, լինելու, ասելով, ելնելով, տեսնելու, անելու, լինելով, ապրելու, առնելով, գնալով</em>
 * `Plur` (483; 19% of non-empty `Number`): <em>կան, ունեն, տեսանք, ունենք, գիտեինք, չկան, կային, չգիտեինք, չունենք, եկան</em>
 * `Sing` (1440; 56% of non-empty `Number`): <em>չկա, ասաց, կա, լինի, ունի, չունի, կար, նշեց, ասացի, գնա</em>
-* `EMPTY` (4156): <em>ուզում, ասում, գալիս, տալիս, անում, նշված, գնում, նայում, տեսնում, սպասում</em>
+* `EMPTY` (4154): <em>ուզում, ասում, գալիս, տալիս, անում, նշված, գնում, նայում, տեսնում, սպասում</em>
 
 <table>
   <tr><th>Paradigm <i>լինել</i></th><th><tt>Sing</tt></th><th><tt>Coll</tt></th><th><tt>Plur</tt></th></tr>
@@ -106,15 +106,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-1804 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+1800 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1328; 74%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1041; 58%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (1005; 56%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1325; 74%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1038; 58%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (1002; 56%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Coll` (4; 0% of non-empty `Number`): <em>Ասորիք, Ասորիքից, Հայք, Հիսուսն</em>
 * `Plur` (4; 0% of non-empty `Number`): <em>Բալկաններում, Կարապետյանների, իկարները, ձյուներից</em>
-* `Sing` (1796; 100% of non-empty `Number`): <em>Հայաստանի, ՀՀ, Հայաստանում, Լևոն, Իրանի, Ադրբեջանի, Հայաստան, Սիմեոնը, Կարեն, Արմինուսը</em>
+* `Sing` (1792; 100% of non-empty `Number`): <em>Հայաստանի, ՀՀ, Հայաստանում, Լևոն, Իրանի, Ադրբեջանի, Հայաստան, Սիմեոնը, Կարեն, Արմինուսը</em>
 
 <table>
   <tr><th>Paradigm <i>Կարապետյան</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -171,14 +171,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1751; 64%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1747; 65%),
 <tt>NOUN --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (832; 74%),
 <tt>VERB --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (462; 65%),
 <tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (373; 83%),
 <tt>NOUN --[<tt><a href="hy_armtdp-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (364; 56%),
 <tt>NOUN --[<tt><a href="hy_armtdp-dep-cop.html">cop</a></tt>]--> AUX</tt> (363; 87%),
-<tt>PROPN --[<tt><a href="hy_armtdp-dep-flat.html">flat</a></tt>]--> PROPN</tt> (266; 100%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>]--> NOUN</tt> (203; 66%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (182; 89%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (176; 77%).
+<tt>PROPN --[<tt><a href="hy_armtdp-dep-flat.html">flat</a></tt>]--> PROPN</tt> (265; 100%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>]--> NOUN</tt> (202; 66%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (181; 89%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (174; 76%).
 

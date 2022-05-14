@@ -52,7 +52,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (323; 100% of non-empty `NumType`): <em>několik, tolik, kolik, několika, mnoho, hodně, moc, víc, málo, mnoha</em>
-* `EMPTY` (8094): <em>to, jeho, který, ten, které, která, tom, všechno, toho, své</em>
+* `EMPTY` (8112): <em>to, jeho, který, ten, které, která, tom, všechno, toho, své</em>
 
 `NumType` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `NumType`.
 

@@ -6,24 +6,27 @@ udver: '2'
 
 ## Treebank Statistics: UD_Karo-TuDeT: POS Tags: `PART`
 
-There are 23 `PART` lemmas (16%), 50 `PART` types (6%) and 299 `PART` tokens (13%).
-Out of 13 observed tags, the rank of `PART` is: 3 in number of lemmas, 4 in number of types and 3 in number of tokens.
+There are 34 `PART` lemmas (7%), 50 `PART` types (6%) and 299 `PART` tokens (13%).
+Out of 13 observed tags, the rank of `PART` is: 5 in number of lemmas, 4 in number of types and 3 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>_, iʔke, ahyə, mãm, yat, nãnin, menə, at, tə, aket</em>
+The 10 most frequent `PART` lemmas: <em>iʔke, ahyə, yat, tap, mãm, nãnin, yahmãm, co, menə, at</em>
 
 The 10 most frequent `PART` types:  <em>iʔke, ahyə, mãm, nãnin, yat, yahmãm, co, menə, at, iga</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 423, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 392, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 224, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 132, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 82, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 78, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 71, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 57, <tt><a href="arr_tudet-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="arr_tudet-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="arr_tudet-pos-X.html">X</a></tt> 5, <tt><a href="arr_tudet-pos-NUM.html">NUM</a></tt> 4, <tt><a href="arr_tudet-pos-PUNCT.html">PUNCT</a></tt> 3), <em>mãm</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 28, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 6), <em>at</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 60, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 10), <em>tap</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 5, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 2), <em>kəy</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2), <em>memã</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 1), <em>õn</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 77, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>tap</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 18, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 2), <em>mãm</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 15, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 3, <tt><a href="arr_tudet-pos-X.html">X</a></tt> 1), <em>at</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 65, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 10, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 4), <em>kanã</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 9, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 2), <em>koãm</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 3, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 1), <em>kõam</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 1), <em>kəy</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 20, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 1), <em>peʔ</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 21, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>ʔaʔ</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 27, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2), <em>kõna</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 16, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>at</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 53, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 12, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 10), <em>kanã</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 9, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 2), <em>tap</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 5, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 2), <em>gəy</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1), <em>koãm</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 1), <em>ʔaʔ</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2), <em>bap</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>memã</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 1), <em>mã</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>nã</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>mãm</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 15, <tt><a href="arr_tudet-pos-X.html">X</a></tt> 1), <em>at</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 53, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 12, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 10), <em>kanã</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 9, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 2), <em>tap</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 5, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 2), <em>gəy</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1), <em>koãm</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 1), <em>ʔaʔ</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2), <em>bap</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>memã</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 1), <em>mã</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1)
 
 
+* <em>mãm</em>
+  * <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 15: <em>epɑ̃n <b>mãm</b> ahyə</em>
+  * <tt><a href="arr_tudet-pos-X.html">X</a></tt> 1: <em>cĩm ʔoa okay cák <b>mãm</b></em>
 * <em>at</em>
   * <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 53: <em>kɨgomət ĩyá naká mã <b>at</b> yate wĩm</em>
   * <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 12: <em>mãygãra roba <b>at</b> towɨya</em>
   * <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 10: <em>agóaʔpər <b>at</b> kaʔa</em>
 * <em>kanã</em>
-  * <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 9: <em>o=ker-a <b>kanã</b></em>
+  * <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 9: <em>okera <b>kanã</b></em>
   * <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 4: <em>wirik <b>kanã</b></em>
   * <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 2: <em>tɨk tɨk at toat wirik <b>kanã</b> təga tə</em>
 * <em>tap</em>
@@ -47,19 +50,16 @@ The 10 most frequent ambiguous types:  <em>at</em> (<tt><a href="arr_tudet-pos-P
 * <em>mã</em>
   * <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 2: <em>kɨgomət ĩyá naká <b>mã</b> at yate wĩm</em>
   * <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1: <em>nãn <b>mã</b> at aʔwĩm menə</em>
-* <em>nã</em>
-  * <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 2: <em>abegahmõm <b>nã</b></em>
-  * <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1: <em>məy yét maʔpəy ŋa waʔye cán <b>nã</b> makɨra</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 2.173913 (the average of all parts of speech is 5.748252).
+The form / lemma ratio of `PART` is 1.470588 (the average of all parts of speech is 1.579457).
 
-The 1st highest number of forms (26) was observed with the lemma “_”: <em>bap, co, iga, iʔke], iʔkõna, kanã, kokoãm, koãm, kán, kõam, manã, nap, nyat, nã, pe, peʔ, rab, rah, rap, tah, taykir, taykit, to, yar, ŋán, ʔaʔ</em>.
+The 1st highest number of forms (6) was observed with the lemma “tap”: <em>nap, rab, rah, rap, tah, tap</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “mãm”: <em>mãm, nyahmãm, yahmãm</em>.
+The 2nd highest number of forms (4) was observed with the lemma “yat”: <em>nyar, nyat, yar, yat</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “tə”: <em>rə, tə</em>.
+The 3rd highest number of forms (3) was observed with the lemma “kán”: <em>gán, kán, ŋán</em>.
 
 `PART` occurs with 10 features: <tt><a href="arr_tudet-feat-Evident.html">Evident</a></tt> (63; 21% instances), <tt><a href="arr_tudet-feat-Polarity.html">Polarity</a></tt> (59; 20% instances), <tt><a href="arr_tudet-feat-Tense.html">Tense</a></tt> (45; 15% instances), <tt><a href="arr_tudet-feat-Int.html">Int</a></tt> (34; 11% instances), <tt><a href="arr_tudet-feat-Case.html">Case</a></tt> (16; 5% instances), <tt><a href="arr_tudet-feat-Nomzr.html">Nomzr</a></tt> (9; 3% instances), <tt><a href="arr_tudet-feat-Number.html">Number</a></tt> (3; 1% instances), <tt><a href="arr_tudet-feat-PronType.html">PronType</a></tt> (3; 1% instances), <tt><a href="arr_tudet-feat-Person.html">Person</a></tt> (2; 1% instances), <tt><a href="arr_tudet-feat-Clusivity.html">Clusivity</a></tt> (1; 0% instances)
 

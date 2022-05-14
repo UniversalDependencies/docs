@@ -11,7 +11,7 @@ It occurs with 1 different values: `Cmp`.
 
 2556 tokens (0%) have a non-empty value of `Degree`.
 12 types (0%) occur at least once with a non-empty value of `Degree`.
-7 lemmas (0%) occur at least once with a non-empty value of `Degree`.
+6 lemmas (0%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 2 part-of-speech tags: <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (2308; 0% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (248; 0% instances).
 
 ### `ADV`

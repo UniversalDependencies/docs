@@ -57,7 +57,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	-	-	PUNCT	_	_	9	punct	_	_
 2	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	juges	juge	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
-4	Van	Van	X	_	_	3	dep	_	_
+4	Van	Van	X	_	Foreign=Yes	3	dep	_	_
 5	Ruymbeke	Ruymbeke	PROPN	_	_	4	flat:name	_	_
 6	et	et	CCONJ	_	_	7	cc	_	_
 7	Simeoni	Simeoni	PROPN	_	_	4	conj	_	_

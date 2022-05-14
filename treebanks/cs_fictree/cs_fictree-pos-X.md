@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>O</em> (<tt><a href="cs_fictree-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.973368).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.970842).
 
 The 1st highest number of forms (1) was observed with the lemma “Baalšem”: <em>Baalšem</em>.
 
@@ -40,7 +40,7 @@ The 3rd highest number of forms (1) was observed with the lemma “Cutter's”: 
 
 `X` nodes are attached to their parents using 11 different relations: <tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt> (24; 39% instances), <tt><a href="cs_fictree-dep-root.html">root</a></tt> (13; 21% instances), <tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt> (6; 10% instances), <tt><a href="cs_fictree-dep-obj.html">obj</a></tt> (6; 10% instances), <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (4; 6% instances), <tt><a href="cs_fictree-dep-obl.html">obl</a></tt> (3; 5% instances), <tt><a href="cs_fictree-dep-appos.html">appos</a></tt> (2; 3% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="cs_fictree-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt> (1; 2% instances), <tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
 
-Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="cs_fictree-pos-X.html">X</a></tt> (18; 29% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (15; 24% instances),  (13; 21% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (12; 19% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1; 2% instances)
+Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="cs_fictree-pos-X.html">X</a></tt> (18; 29% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (14; 23% instances),  (13; 21% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (12; 19% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1; 2% instances)
 
 27 (44%) `X` nodes are leaves.
 

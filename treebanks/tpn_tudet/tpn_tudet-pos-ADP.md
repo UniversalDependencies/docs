@@ -6,70 +6,80 @@ udver: '2'
 
 ## Treebank Statistics: UD_Tupinamba-TuDeT: POS Tags: `ADP`
 
-There are 28 `ADP` lemmas (5%), 43 `ADP` types (6%) and 145 `ADP` tokens (9%).
-Out of 14 observed tags, the rank of `ADP` is: 4 in number of lemmas, 4 in number of types and 4 in number of tokens.
+There are 40 `ADP` lemmas (3%), 60 `ADP` types (3%) and 253 `ADP` tokens (6%).
+Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 6 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>esé, swi, supé, pupé, sesé, _, janondé, upi, riré, ri</em>
+The 10 most frequent `ADP` lemmas: <em>ese, swi, supe, pupe, _, upi, rire, ri, janone, sese</em>
 
-The 10 most frequent `ADP` types:  <em>resé, swi, supé, pupé, sesé, rupi, iré, janondé, iʃupé, ri</em>
+The 10 most frequent `ADP` types:  <em>rese, swi, supe, pupe, sese, rupi, ire, iʃupe, janone, ri</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 48, <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> 17, <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 6, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 5, <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 3, <tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> 2, <tt><a href="tpn_tudet-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 1), <em>janondé</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 6, <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 1), <em>kotɨ</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 3, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>pɨ</em> (<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>supe</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 31, <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 1), <em>_</em> (<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 63, <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> 31, <tt><a href="tpn_tudet-pos-PUNCT.html">PUNCT</a></tt> 11, <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 10, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 10, <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 6, <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> 1, <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 1), <em>ri</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 8, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 2), <em>janone</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 7, <tt><a href="tpn_tudet-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 1), <em>kotɨ</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 3, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 2), <em>re</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 3, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 1, <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 1), <em>akɨpweri</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>ar</em> (<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1), <em>ja</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> 1), <em>majan</em> (<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>janondé</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 6, <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 1), <em>kotɨ</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 3, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>ipɨ́ri</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>ré</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 1), <em>ʔárɨβo</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>iʃupe</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 9, <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 1), <em>janone</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 7, <tt><a href="tpn_tudet-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 1), <em>ri</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 6, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 2), <em>re</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 4, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 1), <em>kotɨ</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 3, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 2), <em>ipɨ́ri</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>sakɨpweri</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>ʔarɨβo</em> (<tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1)
 
 
-* <em>janondé</em>
-  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 6: <em>Oker <b>janondé</b> , opakawérɨpe , oka swi osema βé</em>
-  * <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 1: <em>Ikó aβá arur iké okárɨpe senosema , tapejkwaβ sekopwera amõ iʃé sekara jepé , ijukaukar <b>janondé</b> wijaβo eʔi</em>
+* <em>iʃupe</em>
+  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 9: <em>Marãnamope ase Tupãete iʔew <b>iʃupe</b> ?</em>
+  * <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 1: <em>jamongwa moʃɨ ruʔuba , <b>iʃupe</b> iaiemoitɨamo</em>
+* <em>janone</em>
+  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 7: <em>Oker <b>janone</b> , opakawerɨpe , oka swi osema βe</em>
+  * <tt><a href="tpn_tudet-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Aβa rokɨpe erekwa , ta , jemimɨ <b>janone</b> ?</em>
+  * <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 1: <em>Ikó aβa arur ike okarɨpe senosema , tapejkwaβ sekopwera amõ iʃe sekara jepe , ijukaukar <b>janone</b> wijaβo eʔi</em>
+* <em>ri</em>
+  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 6: <em>Marã eʔipe janejara ojukasara <b>ri</b> oguβa mongetaβo ?</em>
+  * <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 2: <em>Ju , ajaŋap ikó <b>ri</b> !</em>
+* <em>re</em>
+  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 4: <em>Nojmoasɨipe amõ ojeʔengaiβawera , ijaʔo <b>re</b> ?</em>
+  * <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 1: <em>Marãpe ɨβɨa janejara rerekow , inupãnupã <b>re</b> ?</em>
 * <em>kotɨ</em>
-  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 3: <em>Mokõj mondá iʔekatwaβa <b>kotɨ</b> amõ , aé amõ iasu <b>kotɨ</b></em>
-  * <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1: <em>Opa ko mbo mosapɨr mɨsã ʔara sɨk'eme , apɨaβamo osɨ rɨgé swi Tupã taʔɨra ʔarʔiré , mosapɨr moruβiʃaβa , Reis ʔiaβa , kwarasɨ sembaβa <b>kotɨ</b> swi ourɨβaʔe , jasɨtatá serekoarama resé , Tupã remimoɲanga pɨsasu pe jaramo iʃupé ogueru jetanongaβamo itajuβa , ɨsɨkatã sɨapwanɨβaʔe , mirra , mosanga toʔo swi</em>
+  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 3: <em>Mokõj mona iʔekatwaβa <b>kotɨ</b> amõ , ae amõ iasu <b>kotɨ</b></em>
+  * <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 2: <em>Angari , ajosuβ aβa <b>kotɨ</b> , taʃereroβjar wiʔiaβo . 0u tejẽ ʃepeʔaβo aβare ʔiaβa , kori , Tupã reko momewaβo .</em>
 * <em>ipɨ́ri</em>
-  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1: <em>Aβá aβépe <b>ipɨ́ri</b> itɨmbáramo ?</em>
-  * <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1: <em>Ajpó <b>ipɨ́ri</b> imojarɨpɨrwera aβé</em>
-* <em>ré</em>
-  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1: <em>Nd'ojmoasɨipe amõ oɲeʔengaiβawera , ijaʔo <b>ré</b> ?</em>
-  * <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 1: <em>Marãpe ɨβɨá jandéjara rereków , inupãnupã <b>ré</b> ?</em>
-* <em>ʔárɨβo</em>
-  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1: <em>mbaʔepe oɲonoŋ iakanga <b>ʔárɨβo</b> ?</em>
-  * <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1: <em>Ojpɨsó ɨβɨrajoasaβa <b>ʔárɨβo</b> , itapɨwá pupé ipó kutuka , imojá</em>
+  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1: <em>Aβa aβepe <b>ipɨ́ri</b> itɨmaramo ?</em>
+  * <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1: <em>Ajpo <b>ipɨ́ri</b> imojarɨpɨrwera aβe</em>
+* <em>sakɨpweri</em>
+  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1: <em>Aβa ʔaŋa maraʔara ipupe opweirakatu , <b>sakɨpweri</b> tupãrara .</em>
+  * <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1: <em>Nojkojpe amõ aβa <b>sakɨpweri</b> iporeawsuβerekosaramo ?</em>
+* <em>ʔarɨβo</em>
+  * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 1: <em>maʔepe ojonoŋ iakanga <b>ʔarɨβo</b> ?</em>
+  * <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1: <em>Ojpɨso ɨβɨrajoasaβa <b>ʔarɨβo</b> , itapɨwa pupe ipo kutuka , imoja</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.535714 (the average of all parts of speech is 1.431068).
+The form / lemma ratio of `ADP` is 1.500000 (the average of all parts of speech is 1.435484).
 
-The 1st highest number of forms (7) was observed with the lemma “swi”: <em>iʃuí, iʃwi, iʃwí, ojoswi, swi, swipe, ʃeswi</em>.
+The 1st highest number of forms (8) was observed with the lemma “_”: <em>irũnamo, ojoese, re, rese, rire, roβaβo, rupi, ʃeirunamo</em>.
 
-The 2nd highest number of forms (6) was observed with the lemma “_”: <em>iʔárɨβo, ojoesé, riré, roβáβo, rupi, ré</em>.
+The 2nd highest number of forms (8) was observed with the lemma “ese”: <em>janerese, naʃerese, nerese, orerese, rese, resepe, sese, ʃerese</em>.
 
-The 3rd highest number of forms (5) was observed with the lemma “esé”: <em>naʃeresé, resé, resépe, sesé, ʃeresé</em>.
+The 3rd highest number of forms (7) was observed with the lemma “swi”: <em>iʃui, iʃwi, neswi, ojoswi, swi, swipe, ʃeswi</em>.
 
-`ADP` occurs with 9 features: <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt> (88; 61% instances), <tt><a href="tpn_tudet-feat-Int.html">Int</a></tt> (4; 3% instances), <tt><a href="tpn_tudet-feat-Reflex.html">Reflex</a></tt> (4; 3% instances), <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt> (3; 2% instances), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt> (3; 2% instances), <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-feat-Intens.html">Intens</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-feat-Mood.html">Mood</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-feat-Tense.html">Tense</a></tt> (1; 1% instances)
+`ADP` occurs with 12 features: <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt> (144; 57% instances), <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt> (19; 8% instances), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt> (19; 8% instances), <tt><a href="tpn_tudet-feat-Int.html">Int</a></tt> (7; 3% instances), <tt><a href="tpn_tudet-feat-Clusivity.html">Clusivity</a></tt> (4; 2% instances), <tt><a href="tpn_tudet-feat-Reflex.html">Reflex</a></tt> (4; 2% instances), <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt> (2; 1% instances), <tt><a href="tpn_tudet-feat-Intens.html">Intens</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-feat-Tense.html">Tense</a></tt> (1; 0% instances)
 
-`ADP` occurs with 11 feature-value pairs: `Case=Per`, `Int=Yes`, `Intens=Yes`, `Mood=Cnd`, `Number=Plur`, `Number=Sing`, `Person=1`, `Reflex=Yes`, `Rel=Cont`, `Rel=NCont`, `Tense=Fut`
+`ADP` occurs with 16 feature-value pairs: `Case=Per`, `Clusivity=Ex`, `Clusivity=In`, `Int=Yes`, `Intens=Yes`, `Mood=Cnd`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person[psor]=1`, `Reflex=Yes`, `Rel=Cont`, `Rel=NCont`, `Tense=Fut`
 
-`ADP` occurs with 13 feature combinations.
-The most frequent feature combination is `Rel=Cont` (63 tokens).
-Examples: <em>resé, supé, swi, pupé, rupi, ipupé, iré, naʃeresé, ʔári, ojoupé</em>
+`ADP` occurs with 20 feature combinations.
+The most frequent feature combination is `Rel=Cont` (88 tokens).
+Examples: <em>rese, supe, swi, rupi, pupe, nerese, ipupe, ire, naʃerese, resepe</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="tpn_tudet-dep-case.html">case</a></tt> (127; 88% instances), <tt><a href="tpn_tudet-dep-obl.html">obl</a></tt> (15; 10% instances), <tt><a href="tpn_tudet-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-dep-root.html">root</a></tt> (1; 1% instances)
+`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="tpn_tudet-dep-case.html">case</a></tt> (198; 78% instances), <tt><a href="tpn_tudet-dep-obl.html">obl</a></tt> (47; 19% instances), <tt><a href="tpn_tudet-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="tpn_tudet-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="tpn_tudet-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-dep-obl-subj.html">obl:subj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (118; 81% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (16; 11% instances), <tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> (5; 3% instances), <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (184; 73% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (46; 18% instances), <tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> (6; 2% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> (3; 1% instances),  (3; 1% instances), <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-142 (98%) `ADP` nodes are leaves.
+245 (97%) `ADP` nodes are leaves.
 
-2 (1%) `ADP` nodes have one child.
+6 (2%) `ADP` nodes have one child.
 
 0 (0%) `ADP` nodes have two children.
 
-1 (1%) `ADP` nodes have three or more children.
+2 (1%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 5 different relations: <tt><a href="tpn_tudet-dep-punct.html">punct</a></tt> (2; 33% instances), <tt><a href="tpn_tudet-dep-advmod.html">advmod</a></tt> (1; 17% instances), <tt><a href="tpn_tudet-dep-dep.html">dep</a></tt> (1; 17% instances), <tt><a href="tpn_tudet-dep-nsubj.html">nsubj</a></tt> (1; 17% instances), <tt><a href="tpn_tudet-dep-obl.html">obl</a></tt> (1; 17% instances)
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="tpn_tudet-dep-nmod.html">nmod</a></tt> (4; 31% instances), <tt><a href="tpn_tudet-dep-advmod.html">advmod</a></tt> (3; 23% instances), <tt><a href="tpn_tudet-dep-punct.html">punct</a></tt> (3; 23% instances), <tt><a href="tpn_tudet-dep-dep.html">dep</a></tt> (1; 8% instances), <tt><a href="tpn_tudet-dep-nsubj.html">nsubj</a></tt> (1; 8% instances), <tt><a href="tpn_tudet-dep-obl.html">obl</a></tt> (1; 8% instances)
 
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (2; 33% instances), <tt><a href="tpn_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 33% instances), <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (1; 17% instances)
+Children of `ADP` nodes belong to 5 different parts of speech: <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> (3; 23% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (3; 23% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (3; 23% instances), <tt><a href="tpn_tudet-pos-PUNCT.html">PUNCT</a></tt> (3; 23% instances), <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (1; 8% instances)
 

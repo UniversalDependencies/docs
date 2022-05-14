@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (575; 100% of non-empty `Abbr`): <em>N:o, eaa., a, b, ETY, kpl, oy, cm, g, A:n</em>
-* `EMPTY` (55902): <em>vuonna, vuoden, yhteisön, komission, päivänä, huomioon, mies, yliopiston, prosenttia, aikana</em>
+* `EMPTY` (55879): <em>vuonna, vuoden, yhteisön, komission, päivänä, huomioon, mies, yliopiston, prosenttia, aikana</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (155) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (402; 100% of non-empty `Abbr`): <em>EU:n, EY, EKP:n, A., YK:n, EKP, SDP:n, MTV3, EU, EU:</em>
-* `EMPTY` (11721): <em>euroopan, Turun, suomen, Suomessa, the, Helsingin, Yhdysvaltain, Mithridates, Venäjän, Kiinan</em>
+* `EMPTY` (11719): <em>euroopan, Turun, suomen, Suomessa, the, Helsingin, Yhdysvaltain, Mithridates, Venäjän, Kiinan</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (66) occur only with one value of `Abbr`.
 
@@ -55,12 +55,12 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 47 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (46; 98%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (46; 98%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46; 98%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt> (46; 98%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 98%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (46; 98%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (46; 98%).
+The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (46; 98%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46; 98%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt> (46; 98%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 98%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (46; 98%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (46; 98%).
 
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (47; 100% of non-empty `Abbr`): <em>s., Em., huom, k.</em>
-* `EMPTY` (27321): <em>ottaa, tulee, saa, sai, tuli, on, tehdä, sanoi, antaa, pitää</em>
+* `EMPTY` (27295): <em>ottaa, tulee, saa, sai, tuli, on, tehdä, sanoi, antaa, pitää</em>
 
 ### `ADJ`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (19; 100% of non-empty `Abbr`): <em>ns., nk., ookoo, ev.-lut.</em>
-* `EMPTY` (14240): <em>koko, eri, viime, hyvä, arvoisa, ensimmäinen, uusi, uuden, 1., hyvää</em>
+* `EMPTY` (14270): <em>koko, eri, viime, hyvä, arvoisa, ensimmäinen, uusi, uuden, 1., hyvää</em>
 
 ### `NUM`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>milj., u18</em>
-* `EMPTY` (4978): <em>1, 2, kaksi, 2009, 3, 5, 4, kolme, yksi, 10</em>
+* `EMPTY` (4977): <em>1, 2, kaksi, 2009, 3, 5, 4, kolme, yksi, 10</em>
 
 ### `INTJ`
 

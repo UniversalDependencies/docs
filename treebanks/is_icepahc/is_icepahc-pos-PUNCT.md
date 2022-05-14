@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.937500 (the average of all parts of speech is 1.803415).
+The form / lemma ratio of `PUNCT` is 0.937500 (the average of all parts of speech is 1.803916).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>,, ., ", :, ;, ?, !, -, ..., |</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="is_icepahc-dep-punct.html">punct</a></tt> (113953; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (39118; 34% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (20093; 18% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (13331; 12% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (9659; 8% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (8055; 7% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (6349; 6% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (6294; 6% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (3248; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (2870; 3% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (2770; 2% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (963; 1% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (544; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (523; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (87; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (39; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (39116; 34% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (20093; 18% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (13331; 12% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (9659; 8% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (8055; 7% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (6351; 6% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (6294; 6% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (3248; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (2870; 3% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (2770; 2% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (963; 1% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (544; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (523; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (87; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (39; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances)
 
 105898 (93%) `PUNCT` nodes are leaves.
 

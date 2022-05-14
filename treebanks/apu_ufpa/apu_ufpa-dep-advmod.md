@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `advmod`: <tt><a href="apu_ufpa-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="apu_ufpa-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="apu_ufpa-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-23 nodes (3%) are attached to their parents as `advmod`.
+24 nodes (3%) are attached to their parents as `advmod`.
 
-19 instances of `advmod` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.43478260869565.
+20 instances of `advmod` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41666666666667.
 
-The following 3 pairs of parts of speech are connected with `advmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (17; 74% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (5; 22% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 4% instances).
+The following 3 pairs of parts of speech are connected with `advmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (18; 75% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (5; 21% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

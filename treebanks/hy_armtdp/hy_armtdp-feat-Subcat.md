@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Intr`, `Tran`.
 
-6724 tokens (13%) have a non-empty value of `Subcat`.
-3397 types (26%) occur at least once with a non-empty value of `Subcat`.
+6720 tokens (13%) have a non-empty value of `Subcat`.
+3395 types (26%) occur at least once with a non-empty value of `Subcat`.
 1217 lemmas (17%) occur at least once with a non-empty value of `Subcat`.
-The feature is used with 1 part-of-speech tags: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (6724; 13% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (6720; 13% instances).
 
 ### `VERB`
 
-6724 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Subcat`.
+6720 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Subcat`.
 
-The most frequent other feature values with which `VERB` and `Subcat` co-occurred: <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4946; 74%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4801; 71%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4763; 71%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4132; 61%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3674; 55%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3492; 52%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3472; 52%).
+The most frequent other feature values with which `VERB` and `Subcat` co-occurred: <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4942; 74%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4797; 71%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4759; 71%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4130; 61%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3670; 55%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3490; 52%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3470; 52%).
 
 `VERB` tokens may have the following values of `Subcat`:
 
-* `Intr` (3226; 48% of non-empty `Subcat`): <em>գալիս, չկա, կա, լինի, նշված, գնում, նայում, եղել, կանգնած, լինել</em>
-* `Tran` (3498; 52% of non-empty `Subcat`): <em>ուզում, ասում, տալիս, ասաց, անում, տեսնում, ունի, հիշում, բերել, կարծում</em>
+* `Intr` (3225; 48% of non-empty `Subcat`): <em>գալիս, չկա, կա, լինի, նշված, գնում, նայում, եղել, կանգնած, լինել</em>
+* `Tran` (3495; 52% of non-empty `Subcat`): <em>ուզում, ասում, տալիս, ասաց, անում, տեսնում, ունի, հիշում, բերել, կարծում</em>
 
 <table>
   <tr><th>Paradigm <i>ասել</i></th><th><tt>Intr</tt></th><th><tt>Tran</tt></th></tr>

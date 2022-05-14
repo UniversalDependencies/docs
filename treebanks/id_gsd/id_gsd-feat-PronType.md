@@ -80,7 +80,7 @@ The most frequent other feature values with which `NUM` and `PronType` co-occurr
 `NUM` tokens may have the following values of `PronType`:
 
 * `Tot` (88; 100% of non-empty `PronType`): <em>kedua, ketiga, keempat, Ke-400, ke-2, keenam, kelima, ketujuh</em>
-* `EMPTY` (4182): <em>satu, dua, 1, 2, 3, tiga, 5, 2010, 4, 2006</em>
+* `EMPTY` (4181): <em>satu, dua, 1, 2, 3, tiga, 5, 2010, 4, 2006</em>
 
 ## Relations with Agreement in `PronType`
 

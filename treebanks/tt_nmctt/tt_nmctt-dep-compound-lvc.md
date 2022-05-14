@@ -8,31 +8,29 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="tt_nmctt-dep-compound.html">compound</a></tt>.
 
-13 nodes (1%) are attached to their parents as `compound:lvc`.
+21 nodes (1%) are attached to their parents as `compound:lvc`.
 
-13 instances of `compound:lvc` (100%) are right-to-left (child precedes parent).
+21 instances of `compound:lvc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (12; 92% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (1; 8% instances).
+The following 2 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (20; 95% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 compound:lvc	color:blue
-1	Бу	бу	PRON	_	PronType=Dem	9	obl	_	LangID=TT
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 compound:lvc	color:blue
+1	Бу	бу	PRON	_	_	8	obl	_	LangID=TT
 2	турыда	турыда	ADP	_	_	1	case	_	LangID=TT
-3	Түбән	түбән	ADJ	_	_	4	amod	_	LangID=TT
-4	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=RU
-5	муниципаль	муниципаль	ADJ	_	_	6	amod	_	LangID=RU
-6	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	LangID=TT
-7	рәсми	рәсми	ADJ	_	_	8	amod	_	LangID=TT
-8	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	CSPoint=сайт§ында|LangID=MIXED[RU§TT]
-9	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
-10	ителә	ит	VERB	_	Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+3	«	«	PUNCT	_	_	4	punct	_	LangID=TT|SpaceAfter=No
+4	Маяк	Маяк	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT|SpaceAfter=No
+5	»	»	PUNCT	_	_	4	punct	_	LangID=OTHER
+6	газетасы	газета	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	CSPoint=газета§сы|LangID=MIXED[RU§TT]
+7	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	8	compound:lvc	_	LangID=TT
+8	итә	и	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	LangID=OTHER
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi.
 
 Repository: [UD_Karo-TuDeT](https://github.com/UniversalDependencies/UD_Karo-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udarr_tudet29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udarr_tudet210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,34 +44,24 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-
-UD_Karo-TuDeT is a collection of annotated sentences in [Karo](https://www.endangeredlanguages.com/lang/1368). The project is a work in progress and the treebank is being updated on a regular basis.
-
-</br>
-</br>
-</br>
-</br>
-</br>
+UD_Karo-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/karo1306"> Karo</a>. The sentences stem from the only grammatical description of the language (Gabas, 1999) and from the sentences in the dictionary by the same author (Gabas, 2007). Sentence annotation and documentation by Fabrício Ferraz Gerardi.
 
 
 
-UD_Karo-TuDeT is a collection of annotated sentences in Karo. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources. The sentences are being annotated by Fabrício Ferraz Gerardi.
+UD_Karo-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/karo1306"> Karo</a>. The sentences stem from the only grammatical description of the language (Gabas, 1999) and from the sentences in the dictionary by the same author (Gavião and Gabas, 2007). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources. The project is work-in-progress and the treebank is being updated on a regular basis. Sentence annotation and documentation by Fabrício Ferraz Gerardi.
 
 ## Text sources
 
-* Gabas Jr., Nilson (1999) A Grammar of Karo, Tupi (Brazil). University of California. Unpublished PhD dissertation.
-
+* Gabas Jr., Nilson (1999) A Grammar of Karo, Tupi (Brazil). University of California. Unpublished PhD thesis.
+* Gavião, Sebastião and Gabas Jr., Nilson (2007) Dicionário Karo - Português. Privatly published.
 
 
 ## Acknowledgments
 
-The development of the treebank is supported by the by European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. [834050](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/arbeitsbereiche/allg-sprachwissenschaft/projekte/crosslingference/)).
+The development of this treebank is supported by the by European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. [834050](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/arbeitsbereiche/allg-sprachwissenschaft/projekte/crosslingference/)).
 
 ## References
 
-* Gabas Jr., Nilson (1999) A Grammar of Karo, Tupi (Brazil). University of California. Unpublished PhD dissertation.
-
-* Gavião, Sebastião and Gabas Jr., Nilson (2007) Dicionário Karo-Português. Unpublished.
 
 
 
@@ -93,7 +83,7 @@ The development of the treebank is supported by the by European Research Council
 
 
 <ul>
-<li>This corpus contains 674 sentences and 2318 tokens.</li>
+<li>This corpus contains 674 sentences and 2319 tokens.</li>
 </ul>
 
 <ul>
@@ -105,7 +95,7 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus contains 39 types of words that contain both letters and punctuation. Examples: iʔke], kanãp], [ar, [at, [õn, nãt], (aʔkəy), [agóaʔpət, [amãn, [aʔwéro, [ewpak-a, [ken], [maʔpəy, [maʔwɨt, [mãygãra, [noorawa, [ocaʔyõk, [oken, [okera, [owəy, [péŋ, [towéya, [war, [yét, [yét], [ʔet], [ẽn, cú], i-nãk, o=ker-a, otoy], owẽ], péŋ], rawrem], towewĩ-a, toy], toʔwa], wa], yat]</li>
+<li>This corpus contains 32 types of words that contain both letters and punctuation. Examples: iʔke], kanãp], [ar, [at, [õn, nãt], (aʔkəy), [agóaʔpət, [amãn, [maʔpəy, [maʔwɨt, [mãygãra, [noorawa, [ocaʔyõk, [oken, [okera, [owepaka, [owəy, [péŋ, [towéya, [war, [yét, [yét], [ẽn, cú], otoy], owẽ], péŋ], ráwrem], toʔwa], wa], yat]</li>
 </ul>
 
 <ul>
@@ -125,7 +115,7 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus contains 17 lemmas tagged as pronouns (PRON): _, at, iʔtə, iʔyat, kaʔto, kɨgomət, nãn, nõ, tabat, tap, toat, war, wat, yét, õn, ŋa, ẽn</li>
+<li>This corpus contains 24 lemmas tagged as pronouns (PRON): at, aʔ, er, et, iʔat, iʔtə, iʔyat, karoat, kaʔto, kəy, kɨgomət, nãn, nõ, pagon, tabat, tap, toat, war, wat, yét, õn, ŋa, ŋaat, ẽn</li>
 </ul>
 
 <ul>
@@ -136,11 +126,11 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): _, kap, nã, ʔe</li>
+<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): kap, nã, waʔye, ʔe</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: ʔe</li>
 </ul>
 
 <ul>
@@ -151,7 +141,7 @@ The development of the treebank is supported by the by European Research Council
   <li>Ger
   <ul>
     <li>AUX: toʔwa, wa, ʔa, nã, a, eʔa, karoʔwa, roʔwa, toʔwa], wa]</li>
-    <li>VERB: toba, wĩa, cára, okera, aʔwĩa, roba, taʔwara, tiga, ya, ʔɨya</li>
+    <li>VERB: toba, wĩa, cára, okera, tokera, aʔwĩa, roba, taʔwara, tiga, ya</li>
   </ul>
   </li>
 </ul>
@@ -169,10 +159,10 @@ The development of the treebank is supported by the by European Research Council
   <li>Plur
     <ul>
       <li>ADJ: ʔaʔtoʔ, peroʔ, pɨʔtoʔ</li>
-      <li>ADP: garo=kõna</li>
+      <li>ADP: garokõna</li>
       <li>AUX: iʔkap, iʔkay, karoʔwa, reʔkay, ye</li>
       <li>AUX-Ger: karoʔwa</li>
-      <li>NOUN: piro, cibekonnoʔ, inãwroʔ, karamnoʔ, kaʔaroʔ, naʔwəyroʔ, pɨk=toʔ, tuŋnoʔ, abagon, inakároʔ</li>
+      <li>NOUN: piro, cibekonnoʔ, inãwroʔ, kaʔaroʔ, káramnoʔ, naʔwəyroʔ, pɨk=toʔ, tuŋnoʔ, abagon, inakároʔ</li>
       <li>PART: to, iʔkõna</li>
       <li>PRON: kaʔto, iʔtə, iʔyat, tap, gaʔto, iʔat, iʔnõ, karoat, tabat, wat</li>
       <li>VERB: aʔwĩa, imaterãn, inaʔwara, iʔkəga, iʔpéya, karokéran, karokérara, karorocapét, karowéya, karowɨya</li>
@@ -184,15 +174,15 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: aʔpap, aʔkɨrɨk, aʔtarap, aʔwak, owicorop</li>
+      <li>ADJ: aʔpap, aʔkɨrɨk, aʔtarap, aʔwák, owicorop</li>
       <li>ADP: okõna, okəy, aʔkəy, ekəy, (aʔkəy), abihmãm, apik, omãmkəy, owihmãm, owikop</li>
-      <li>AUX: wet, at, okay, aʔkay, wep, aʔnãn, aʔwaʔye, wa, ap, ʔa</li>
+      <li>AUX: wet, at, okay, aʔnãn, aʔkay, wep, aʔwaʔye, wa, ap, ʔa</li>
       <li>AUX-Ger: wa, ʔa, a, eʔa, wa]</li>
-      <li>NOUN: opábe, oyãy, aʔwero, opá, owirup, acagá, aʔcat, aʔcey, aʔcot, aʔkun</li>
+      <li>NOUN: opábe, oyãy, aʔwero, opá, owirup, acagá, aʔcet, aʔcey, aʔcot, aʔkun</li>
       <li>PART: õn</li>
       <li>PRON: õn, at, wat, ŋa, ẽn, et, war, ar, toat, [ar</li>
-      <li>VERB: aʔtoy, aʔwĩn, otoy, aʔken, oken, oyaʔwan, eken, okera, ekerap, owakán</li>
-      <li>VERB-Ger: okera, ekera, aʔpɨya, aʔwĩa, eyaʔwara, owɨya, oyaʔwara, [ewpak-a, [okera, aʔkera</li>
+      <li>VERB: aʔtoy, aʔwĩn, otoy, aʔken, oken, okera, oyaʔwan, eken, ekerap, owakán</li>
+      <li>VERB-Ger: okera, ekera, aʔpɨya, aʔwĩa, eyaʔwara, owɨya, oyaʔwara, [okera, [owepaka, aʔkera</li>
     </ul>
   </li>
 </ul>
@@ -231,7 +221,7 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>ADP: pihmãm, bihmãm, mihmãm, abihmãm, owihmãm</li>
       <li>PART: rap, tap, nap, rab, rah, tah</li>
-      <li>VERB: nakəga, ragahmõm, atati, aʔ=rati, nakõy, natia, orabitẽy, orakət, rabitẽy, raken</li>
+      <li>VERB: nakəga, ragahmõm, atati, aʔrati, nakõy, natia, orabitẽy, orakət, rabitẽy, raken</li>
       <li>VERB-Ger: nakəga, natia, rakəga, ŋaramãya</li>
     </ul>
   </li>
@@ -256,7 +246,7 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-  <li>Ines
+  <li>Ine
     <ul>
       <li>ADP: bət</li>
     </ul>
@@ -379,8 +369,8 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: abebeʔtɨra, abegahmõm, bekɨga, bemeŋãn, bewĩa, memaʔwaba, towewĩ-a</li>
-      <li>VERB-Ger: abebeʔtɨra, bekɨga, bewĩa, memaʔwaba, towewĩ-a</li>
+      <li>VERB: abebeʔtɨra, abegahmõm, bekɨga, bemeŋãn, bewĩa, memaʔwaba, towewĩa</li>
+      <li>VERB-Ger: abebeʔtɨra, bekɨga, bewĩa, memaʔwaba, towewĩa</li>
     </ul>
   </li>
 </ul>
@@ -423,7 +413,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Emp
     <ul>
-      <li>ADP: tokõna, okõna, garo=kõna, rokõna</li>
+      <li>ADP: tokõna, okõna, garokõna, rokõna</li>
       <li>PRON: at</li>
     </ul>
   </li>
@@ -475,8 +465,8 @@ The development of the treebank is supported by the by European Research Council
       <li>NOUN: opábe, oyãy, opá, owirup, iʔca, iʔwirup, ocagəpto, ocagəptoʔ, ocorah, ocãp</li>
       <li>PART: iʔkõna, õn</li>
       <li>PRON: õn, wat, war, [õn, iʔtə, iʔyat, [war, iʔat, iʔnõ, owagon</li>
-      <li>VERB: oken, otoy, oyaʔwan, okera, owakán, owɨya, oyaʔwara, [ewpak-a, [ocaʔyõk, [oken</li>
-      <li>VERB-Ger: okera, owɨya, oyaʔwara, [ewpak-a, [okera, inaʔwara, iʔkəga, iʔpéya, o=ker-a, o=kera</li>
+      <li>VERB: oken, otoy, okera, oyaʔwan, owakán, owɨya, oyaʔwara, [ocaʔyõk, [oken, [okera</li>
+      <li>VERB-Ger: okera, owɨya, oyaʔwara, [okera, [owepaka, inaʔwara, iʔkəga, iʔpéya, o=kera, ocaʔyõga</li>
     </ul>
   </li>
 </ul>
@@ -484,10 +474,10 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>2
     <ul>
-      <li>ADP: ekəy, garo=kõna</li>
+      <li>ADP: ekəy, garokõna</li>
       <li>AUX: ʔa, a, ap, ekab, ekap, ekay, ep, eʔa, karoʔwa, wet</li>
       <li>AUX-Ger: ʔa, a, eʔa, karoʔwa</li>
-      <li>NOUN: ecap, ekap, enaká, epábeʔ, ewirup</li>
+      <li>NOUN: ecáp, ekap, enaká, epábeʔ, ewirup</li>
       <li>PRON: ẽn, et, kaʔto, er, [ẽn, at, ekəy, gaʔto, karoat</li>
       <li>VERB: eken, ekerap, ekera, epɨy, ewét, eyaʔwara, amaken, ebeʔcɨn, ebiaʔan, ecapét</li>
       <li>VERB-Ger: ekera, eyaʔwara, ekɨga, ewɨya, karokérara, karowéya, karowɨya</li>
@@ -498,11 +488,11 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>3
     <ul>
-      <li>ADJ: aʔpap, aʔkɨrɨk, aʔtarap, aʔwak</li>
+      <li>ADJ: aʔpap, aʔkɨrɨk, aʔtarap, aʔwák</li>
       <li>ADP: tokõna, aʔkəy, rokõna, (aʔkəy), abihmãm, apik, okõna, tomãmkəy</li>
-      <li>AUX: toʔwa, at, aʔkay, aʔnãn, aʔwaʔye, ap, aʔmãn, roʔwa, toʔwa], ŋaap</li>
+      <li>AUX: toʔwa, at, aʔnãn, aʔkay, aʔwaʔye, ap, roʔwa, toʔwa], ŋaap, ŋanãn</li>
       <li>AUX-Ger: toʔwa, roʔwa, toʔwa]</li>
-      <li>NOUN: aʔwero, abagon, acagá, aʔcat, aʔcey, aʔcot, aʔkun, aʔpábe, tanaká, tocit</li>
+      <li>NOUN: aʔwero, abagon, acagá, aʔcet, aʔcey, aʔcot, aʔkun, aʔpábe, tanaká, tocit</li>
       <li>PRON: at, ŋa, toat, ar, [ar, [at, tap, ŋakəy, aʔkəy, tabat</li>
       <li>VERB: aʔtoy, aʔwĩn, aʔken, aʔwĩa, ayaʔwan, aʔtoba, aʔtop, tokera, abakán, aʔpɨya</li>
       <li>VERB-Ger: aʔwĩa, tokera, aʔpɨya, totia, [towéya, abebeʔtɨra, aʔkera, aʔkɨga, aʔpẽya, aʔtoba</li>
@@ -514,7 +504,7 @@ The development of the treebank is supported by the by European Research Council
   <li>3Imp
     <ul>
       <li>AUX: ye, ikap, yet</li>
-      <li>NOUN: ipá, ibeon, iyãy, i-nãk, icagá, icap, icapop, icey, icãp, inãk</li>
+      <li>NOUN: ipá, ibeon, inãk, iyãy, icagá, icapop, icey, icáp, icãp, inakároʔ</li>
       <li>VERB: iket, itop, ikérat, iwĩ, ibaʔpat, ibetõ, icapé, icát, iyaʔwat, ibeʔtɨn</li>
     </ul>
   </li>
@@ -551,7 +541,7 @@ The development of the treebank is supported by the by European Research Council
       </li>
       <li>Cylm
         <ul>
-          <li>ADJ: ʔɨp, ip, ʔip</li>
+          <li>ADJ: ʔɨp, ɨp</li>
         </ul>
       </li>
       <li>Cyls
@@ -570,7 +560,7 @@ The development of the treebank is supported by the by European Research Council
       <li>Flat
         <ul>
           <li>ADJ: beʔ, meʔ, peʔ, peroʔ</li>
-          <li>NOUN: yawbe</li>
+          <li>NOUN: be</li>
         </ul>
       </li>
       <li>Rd
@@ -637,8 +627,8 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>Assert
         <ul>
-          <li>AUX: ʔet, nãn, wet, at, okay, aʔkay, aʔnãn, [ʔet], aʔmãn, gay</li>
-          <li>VERB: wĩn, aʔtoy, ʔɨy, wɨy, aʔwĩn, ken, toy, otoy, aʔken, oken</li>
+          <li>AUX: ʔet, nãn, wet, at, okay, aʔnãn, aʔkay, gay, kay, wer</li>
+          <li>VERB: wĩn, aʔtoy, ʔɨy, wɨy, aʔwĩn, ken, toy, otoy, yaʔwan, aʔken</li>
         </ul>
       </li>
       <li>AssertFoc
@@ -698,11 +688,11 @@ The development of the treebank is supported by the by European Research Council
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: nã, _.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: nã, ʔe.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: _, ʔe, nã, kap.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: ʔe, kap, waʔye, nã.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -712,10 +702,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (76)</li>
-      <li>VERB--NOUN-ADP(_) (3)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--NOUN-ADP(tap) (3)</li>
+      <li>VERB--NOUN-ADP(tap)-ADP(tap) (1)</li>
       <li>VERB--PRON (143)</li>
-      <li>VERB-Ger--NOUN (22)</li>
+      <li>VERB-Ger--NOUN (23)</li>
       <li>VERB-Ger--PRON (6)</li>
     </ul>
   </li>
@@ -725,7 +715,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (90)</li>
-      <li>VERB--NOUN-ADP(_) (3)</li>
+      <li>VERB--NOUN-ADP(kəy) (1)</li>
+      <li>VERB--NOUN-ADP(peʔ) (2)</li>
       <li>VERB--PRON (2)</li>
       <li>VERB--PRON-ADP(tap) (1)</li>
       <li>VERB--PRON-Dat (2)</li>

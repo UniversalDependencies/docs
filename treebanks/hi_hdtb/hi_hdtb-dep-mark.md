@@ -34,7 +34,7 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 10	होने	हो	VERB	VM	Case=Acc|Number=Sing|VerbForm=Inf	12	nmod	_	Vib=ना_का|Tam=nA|ChunkId=VGNN|ChunkType=head|Translit=hone
 11	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	10	mark	_	ChunkId=VGNN|ChunkType=child|Translit=kā
 12	प्रमाण	प्रमाण	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=pramāṇa
-13	मिलता	मिल	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=milatā
+13	मिलता	मिल	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=wA|Translit=milatā|Vib=ता_है
 14	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 15	।	।	PUNCT	SYM	_	13	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
@@ -48,7 +48,7 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 10	fgColor:white
 # visual-style 10 3 mark	color:blue
 1	गौरतलब	गौरतलब	ADJ	JJ	_	0	root	_	ChunkId=JJP|ChunkType=head|Translit=gauratalaba
-2	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
+2	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=hE|Translit=hai|Vib=है
 3	कि	कि	SCONJ	CC	_	10	mark	_	AltTag=SCONJ-CONJ|ChunkId=CCP|ChunkType=head|Translit=ki
 4	लोकल	लोकल	ADJ	JJ	Case=Acc	6	amod	_	ChunkId=NP2|ChunkType=child|Translit=lokala
 5	फिक्सड	फिक्सड	ADJ	JJ	Case=Acc	4	amod	_	ChunkId=NP2|ChunkType=child|Translit=phiksaḍa
@@ -56,7 +56,7 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 7	पर	पर	ADP	PSP	AdpType=Post	6	case	_	ChunkId=NP2|ChunkType=child|Translit=para
 8	एडीसी	एडीसी	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	obj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=eḍīsī
 9	नहीं	नहीं	PART	NEG	Polarity=Neg|PronType=Neg	10	advmod	_	ChunkId=VGF2|ChunkType=child|Translit=nahīṁ
-10	देनी	दे	VERB	VM	Gender=Fem|Number=Sing|Person=3|VerbForm=Inf|Voice=Act	1	nsubj	_	Vib=ना_पड़+ता_है|Tam=nA|ChunkId=VGF2|ChunkType=head|Stype=declarative|Translit=denī
+10	देनी	दे	VERB	VM	Gender=Fem|Number=Sing|Person=3|VerbForm=Inf|Voice=Act	1	nsubj	_	ChunkId=VGF2|ChunkType=head|Stype=declarative|Tam=nA|Translit=denī|Vib=ना_पड़+ता_है
 11	पड़ती	पड़	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|Person=3|VerbForm=Part	10	aux	_	Vib=ता|Tam=wA|ChunkId=VGF2|ChunkType=child|Translit=paṛatī
 12	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF2|ChunkType=child|Translit=hai
 13	।	।	PUNCT	SYM	_	1	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
@@ -71,12 +71,12 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 3 mark	color:blue
 1	उन्होंने	वह	PRON	PRP	Case=Acc,Erg|Number=Sing|Person=3|Polite=Form|PronType=Prs	2	nsubj	_	Vib=ने|Tam=ne|ChunkId=NP|ChunkType=head|Translit=unhoṁne
-2	कहा	कह	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=kahā
+2	कहा	कह	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=kahā|Vib=या
 3	कि	कि	SCONJ	CC	_	6	mark	_	AltTag=SCONJ-CONJ|ChunkId=CCP|ChunkType=head|Translit=ki
 4	यह	यह	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=yaha
 5	सरासर	सरासर	ADV	RB	_	6	advmod	_	ChunkId=RBP|ChunkType=head|Translit=sarāsara
 6	विश्वासघात	विश्वासघात	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	obj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=viśvāsaghāta
-7	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Vib=है|Tam=hE|ChunkId=VGF2|ChunkType=head|Stype=declarative|Translit=hai
+7	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ChunkId=VGF2|ChunkType=head|Stype=declarative|Tam=hE|Translit=hai|Vib=है
 8	।	।	PUNCT	SYM	_	2	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Karo-TuDeT: POS Tags: `PRON`
 
-There are 17 `PRON` lemmas (12%), 35 `PRON` types (4%) and 298 `PRON` tokens (13%).
-Out of 13 observed tags, the rank of `PRON` is: 4 in number of lemmas, 7 in number of types and 4 in number of tokens.
+There are 24 `PRON` lemmas (5%), 35 `PRON` types (4%) and 298 `PRON` tokens (13%).
+Out of 13 observed tags, the rank of `PRON` is: 6 in number of lemmas, 7 in number of types and 4 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>õn, at, _, wat, ŋa, ẽn, yét, kaʔto, nãn, iʔtə</em>
+The 10 most frequent `PRON` lemmas: <em>õn, at, wat, ŋa, ẽn, toat, et, yét, war, kaʔto</em>
 
 The 10 most frequent `PRON` types:  <em>õn, at, wat, ŋa, ẽn, toat, et, war, ar, yét</em>
 
-The 10 most frequent ambiguous lemmas: <em>õn</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 77, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>at</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 60, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 10), <em>_</em> (<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 423, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 392, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 224, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 132, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 82, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 78, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 71, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 57, <tt><a href="arr_tudet-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="arr_tudet-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="arr_tudet-pos-X.html">X</a></tt> 5, <tt><a href="arr_tudet-pos-NUM.html">NUM</a></tt> 4, <tt><a href="arr_tudet-pos-PUNCT.html">PUNCT</a></tt> 3), <em>tap</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 5, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>õn</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 79, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>at</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 65, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 10, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 4), <em>tap</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 18, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 2), <em>aʔ</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 1), <em>kəy</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 20, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 1), <em>nõ</em> (<tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 2, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 1), <em>pagon</em> (<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="arr_tudet-pos-NUM.html">NUM</a></tt> 1, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>õn</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 77, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>at</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 53, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 12, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 10), <em>nãn</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 21, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 3), <em>tap</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 5, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 2), <em>aʔkəy</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 4, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 1), <em>ekəy</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 2, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 1)
 
@@ -40,13 +40,13 @@ The 10 most frequent ambiguous types:  <em>õn</em> (<tt><a href="arr_tudet-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.058824 (the average of all parts of speech is 5.748252).
+The form / lemma ratio of `PRON` is 1.458333 (the average of all parts of speech is 1.579457).
 
-The 1st highest number of forms (22) was observed with the lemma “_”: <em>[ar, [at, [war, [yét, [yét], [õn, [ẽn, aʔkəy, ekəy, er, et, gaʔto, iʔat, iʔyat, karoat, kɨgomət, owagon, toat, war, ŋaat, ŋakəy, ŋapik</em>.
+The 1st highest number of forms (5) was observed with the lemma “at”: <em>[ar, [at, ar, at, toat</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “at”: <em>ar, at</em>.
+The 2nd highest number of forms (3) was observed with the lemma “wat”: <em>[war, war, wat</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “iʔtə”: <em>iʔtə</em>.
+The 3rd highest number of forms (3) was observed with the lemma “yét”: <em>[yét, [yét], yét</em>.
 
 `PRON` occurs with 8 features: <tt><a href="arr_tudet-feat-Person.html">Person</a></tt> (278; 93% instances), <tt><a href="arr_tudet-feat-Number.html">Number</a></tt> (268; 90% instances), <tt><a href="arr_tudet-feat-PronType.html">PronType</a></tt> (254; 85% instances), <tt><a href="arr_tudet-feat-Clas.html">Clas</a></tt> (34; 11% instances), <tt><a href="arr_tudet-feat-Corf.html">Corf</a></tt> (10; 3% instances), <tt><a href="arr_tudet-feat-Case.html">Case</a></tt> (5; 2% instances), <tt><a href="arr_tudet-feat-Clusivity.html">Clusivity</a></tt> (4; 1% instances), <tt><a href="arr_tudet-feat-Int.html">Int</a></tt> (3; 1% instances)
 

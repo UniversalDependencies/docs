@@ -13,7 +13,7 @@ This relation is universal.
 17236 instances of `cop` (84%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.36223721901248.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (11576; 56% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (7526; 37% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (548; 3% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (466; 2% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (207; 1% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (192; 1% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (61; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (11576; 56% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (7526; 37% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (548; 3% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (466; 2% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (207; 1% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (192; 1% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (61; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 5	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
 6	třeba	třeba	ADJ	ACNS------A----	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short	3	conj	0:root|3:conj	LId=třeba-1
-7	je	on	PRON	PPXP4--3-------	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obj	9:obj	LId=on-1|LGloss=(oni/ono)
+7	je	on	PRON	PPXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	9	obj	9:obj	LId=on-1|LGloss=(oni/ono)
 8	lépe	dobře	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	9	advmod	9:advmod	_
 9	prezentovat	prezentovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	6	csubj	6:csubj	_
 
@@ -49,7 +49,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 6	organizace	organizace	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	0	root	0:root	_
 7	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	9	case	9:case	LId=s-1
 8	stejným	stejný	ADJ	AANS7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	9	amod	9:amod	_
-9	posláním	poslání	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	6	nmod	6:nmod:s:ins	SpaceAfter=No|LDeriv=poslat
+9	posláním	poslání	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	6	nmod	6:nmod:s:ins	SpaceAfter=No|LDeriv=poslat
 10	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 
 ~~~
@@ -70,7 +70,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 7	její	jeho	DET	PSZS1FS3-------	Case=Nom|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	8:det	LGloss=(přivlast.)
 8	pohled	pohled	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj	5:nsubj	_
 9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	10:case	LId=na-1
-10	působení	působení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	8	nmod	8:nmod:na:acc	LDeriv=působit
+10	působení	působení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	8	nmod	8:nmod:na:acc	LDeriv=působit
 11	Američanů	Američan	PROPN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Nat|Number=Plur|Polarity=Pos	10	nmod	10:nmod:gen	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 

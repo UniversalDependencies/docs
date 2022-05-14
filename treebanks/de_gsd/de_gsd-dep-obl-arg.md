@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 3	werde	werden	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 4	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	obj	_	_
 5	an	an	ADP	APPR	_	7	case	_	_
-6	weiteren	weit	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	7	amod	_	_
+6	weiteren	weit	ADJ	ADJA	Case=Dat|Degree=Cmp|Gender=Fem|Number=Plur	7	amod	_	_
 7	Verhandlungen	Verhandlung	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	12	obl:arg	_	_
 8	über	über	ADP	APPR	_	10	case	_	_
 9	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_

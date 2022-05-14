@@ -13,9 +13,9 @@ The 10 most frequent `AUX` lemmas: <em>быть, бы</em>
 
 The 10 most frequent `AUX` types:  <em>был, были, была, было, быть, будет, будучи, будут, бы, есть</em>
 
-The 10 most frequent ambiguous lemmas: <em>быть</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 802, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 123), <em>бы</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 6, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>быть</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 802, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 123), <em>бы</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 6, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 4)
 
-The 10 most frequent ambiguous types:  <em>был</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 300, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 13), <em>были</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 133, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 13), <em>была</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 130, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 11), <em>было</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 126, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 31), <em>быть</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 35, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 11), <em>будет</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 28, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 4), <em>будучи</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 8, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 1), <em>бы</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 6, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 5), <em>есть</em> (<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 26, <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 2), <em>бывшего</em> (<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>был</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 300, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 13), <em>были</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 133, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 13), <em>была</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 130, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 11), <em>было</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 126, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 31), <em>быть</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 35, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 11), <em>будет</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 28, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 4), <em>будучи</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 8, <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 1), <em>бы</em> (<tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 6, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 4, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 1), <em>есть</em> (<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 26, <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 2), <em>бывшего</em> (<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 1)
 
 
 * <em>был</em>
@@ -41,7 +41,8 @@ The 10 most frequent ambiguous types:  <em>был</em> (<tt><a href="ru_gsd-pos-
   * <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 1: <em>Сериал Mew Mew Power стал одним из лучших шоу на 4Kids , <b>будучи</b> также раскритикованным за обширный монтаж и удаление многих японских элементов .</em>
 * <em>бы</em>
   * <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 6: <em>Тхай Тонг отправлял его в карательные походы ; где <b>бы</b> ни был , везде побеждал &#39;&#39; .</em>
-  * <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 5: <em>Белок как <b>бы</b> сваривается в процессе воспаления .</em>
+  * <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 4: <em>Белок как <b>бы</b> сваривается в процессе воспаления .</em>
+  * <tt><a href="ru_gsd-pos-X.html">X</a></tt> 1: <em>Цель игры состоит в том , что <b>бы</b> выложить карты на стол определенными комбинациями .</em>
 * <em>есть</em>
   * <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> 26: <em>У Самары <b>есть</b> старший брат -- Гладстоун Фелиппо Сантана ( род. 1974 ) .</em>
   * <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> 2: <em>В мужицком невежестве своём он воображал , что престол церковный <b>есть</b> царское седалище .</em>
@@ -51,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>был</em> (<tt><a href="ru_gsd-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.500000 (the average of all parts of speech is 1.598094).
+The form / lemma ratio of `AUX` is 6.500000 (the average of all parts of speech is 1.598617).
 
 The 1st highest number of forms (12) was observed with the lemma “быть”: <em>будет, будут, будучи, бывшего, бывшие, бывшим, был, была, были, было, быть, есть</em>.
 

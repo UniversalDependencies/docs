@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="en_lines-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.136364 (the average of all parts of speech is 1.241030).
+The form / lemma ratio of `DET` is 1.136364 (the average of all parts of speech is 1.241168).
 
 The 1st highest number of forms (2) was observed with the lemma “that”: <em>that, those</em>.
 
@@ -81,7 +81,7 @@ Examples: <em>the</em>
 
 `DET` nodes are attached to their parents using 6 different relations: <tt><a href="en_lines-dep-det.html">det</a></tt> (8806; 100% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (9; 0% instances), <tt><a href="en_lines-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="en_lines-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="en_lines-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (8278; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (177; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (174; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (75; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (70; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (8277; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (177; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (175; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (75; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (70; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 8770 (99%) `DET` nodes are leaves.
 

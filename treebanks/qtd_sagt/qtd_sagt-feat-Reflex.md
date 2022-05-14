@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (90; 100% of non-empty `Reflex`): <em>mir, mich, sich, dich, dir, uns, euch</em>
-* `EMPTY` (4098): <em>ich, das, es, du, die, ben, o, wir, ondan, man</em>
+* `EMPTY` (4064): <em>ich, das, es, du, die, ben, o, wir, ondan, man</em>
 

@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>dann</em> (<tt><a href="qtd_sagt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.679170).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.678698).
 
 The 1st highest number of forms (2) was observed with the lemma “mi”: <em>mi, mı</em>.
 

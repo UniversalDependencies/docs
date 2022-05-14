@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="fr_gsd-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="fr_gsd-dep-flat-name.html">flat:name</a></tt>.
 
-15 nodes (0%) are attached to their parents as `flat`.
+16 nodes (0%) are attached to their parents as `flat`.
 
-15 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.2.
+16 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1875.
 
-The following 1 pairs of parts of speech are connected with `flat`: <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (15; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat`: <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (16; 100% instances).
 
 
 ~~~ conllu

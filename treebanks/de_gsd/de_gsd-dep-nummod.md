@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2994 nodes (1%) are attached to their parents as `nummod`.
+2991 nodes (1%) are attached to their parents as `nummod`.
 
-2907 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32331329325317.
+2904 instances of `nummod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32230023403544.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (2720; 91% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (126; 4% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (57; 2% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (35; 1% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (25; 1% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (2718; 91% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (126; 4% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (57; 2% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (35; 1% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (25; 1% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -71,7 +71,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	ja	ja	ADV	ADV	_	12	advmod	_	_
 10	nicht	nicht	PART	PTKNEG	Polarity=Neg	12	advmod	_	_
 11	so	so	ADV	ADV	_	12	advmod	_	_
-12	schwer	schwer	ADJ	ADJD	_	0	root	_	SpaceAfter=No
+12	schwer	schwer	ADJ	ADJD	Degree=Pos	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	$.	_	12	punct	_	_
 
 ~~~

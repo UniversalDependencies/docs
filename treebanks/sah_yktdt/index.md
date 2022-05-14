@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Tatiana Merzhevich, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Yakut-YKTDT](https://github.com/UniversalDependencies/UD_Yakut-YKTDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsah_yktdt29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsah_yktdt210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -72,25 +72,25 @@ The development of the treebank is supported by the by European Research Council
 
 ## POS Tags
 
-[ADJ](sah_yktdt-pos-ADJ.html) – [ADV](sah_yktdt-pos-ADV.html) – [AUX](sah_yktdt-pos-AUX.html) – [CCONJ](sah_yktdt-pos-CCONJ.html) – [DET](sah_yktdt-pos-DET.html) – [INTJ](sah_yktdt-pos-INTJ.html) – [NOUN](sah_yktdt-pos-NOUN.html) – [NUM](sah_yktdt-pos-NUM.html) – [PRON](sah_yktdt-pos-PRON.html) – [PROPN](sah_yktdt-pos-PROPN.html) – [PUNCT](sah_yktdt-pos-PUNCT.html) – [VERB](sah_yktdt-pos-VERB.html)
+[ADJ](sah_yktdt-pos-ADJ.html) – [ADP](sah_yktdt-pos-ADP.html) – [ADV](sah_yktdt-pos-ADV.html) – [AUX](sah_yktdt-pos-AUX.html) – [CCONJ](sah_yktdt-pos-CCONJ.html) – [DET](sah_yktdt-pos-DET.html) – [INTJ](sah_yktdt-pos-INTJ.html) – [NOUN](sah_yktdt-pos-NOUN.html) – [NUM](sah_yktdt-pos-NUM.html) – [PART](sah_yktdt-pos-PART.html) – [PRON](sah_yktdt-pos-PRON.html) – [PROPN](sah_yktdt-pos-PROPN.html) – [PUNCT](sah_yktdt-pos-PUNCT.html) – [VERB](sah_yktdt-pos-VERB.html)
 
 ## Features
 
-[Case](sah_yktdt-feat-Case.html) – [Definite](sah_yktdt-feat-Definite.html) – [Int](sah_yktdt-feat-Int.html) – [Mood](sah_yktdt-feat-Mood.html) – [Nomzr](sah_yktdt-feat-Nomzr.html) – [Number](sah_yktdt-feat-Number.html) – [Number[psor]](sah_yktdt-feat-Number-psor.html) – [NumType](sah_yktdt-feat-NumType.html) – [Person](sah_yktdt-feat-Person.html) – [Person[psor]](sah_yktdt-feat-Person-psor.html) – [Polarity](sah_yktdt-feat-Polarity.html) – [PronType](sah_yktdt-feat-PronType.html) – [Tense](sah_yktdt-feat-Tense.html)
+[Case](sah_yktdt-feat-Case.html) – [Definite](sah_yktdt-feat-Definite.html) – [Int](sah_yktdt-feat-Int.html) – [Mood](sah_yktdt-feat-Mood.html) – [Nomzr](sah_yktdt-feat-Nomzr.html) – [Number](sah_yktdt-feat-Number.html) – [Number[psor]](sah_yktdt-feat-Number-psor.html) – [NumType](sah_yktdt-feat-NumType.html) – [Person](sah_yktdt-feat-Person.html) – [Person[psor]](sah_yktdt-feat-Person-psor.html) – [Polarity](sah_yktdt-feat-Polarity.html) – [Poss](sah_yktdt-feat-Poss.html) – [PronType](sah_yktdt-feat-PronType.html) – [Reflex](sah_yktdt-feat-Reflex.html) – [Tense](sah_yktdt-feat-Tense.html) – [VerbForm](sah_yktdt-feat-VerbForm.html) – [Voice](sah_yktdt-feat-Voice.html)
 
 ## Relations
 
-[advmod](sah_yktdt-dep-advmod.html) – [amod](sah_yktdt-dep-amod.html) – [case](sah_yktdt-dep-case.html) – [cc](sah_yktdt-dep-cc.html) – [conj](sah_yktdt-dep-conj.html) – [cop](sah_yktdt-dep-cop.html) – [csubj](sah_yktdt-dep-csubj.html) – [det](sah_yktdt-dep-det.html) – [discourse](sah_yktdt-dep-discourse.html) – [iobj](sah_yktdt-dep-iobj.html) – [nmod](sah_yktdt-dep-nmod.html) – [nsubj](sah_yktdt-dep-nsubj.html) – [nummod](sah_yktdt-dep-nummod.html) – [obj](sah_yktdt-dep-obj.html) – [obl](sah_yktdt-dep-obl.html) – [parataxis](sah_yktdt-dep-parataxis.html) – [punct](sah_yktdt-dep-punct.html) – [root](sah_yktdt-dep-root.html) – [vocative](sah_yktdt-dep-vocative.html) – [xcomp](sah_yktdt-dep-xcomp.html)
+[advmod](sah_yktdt-dep-advmod.html) – [amod](sah_yktdt-dep-amod.html) – [appos](sah_yktdt-dep-appos.html) – [aux](sah_yktdt-dep-aux.html) – [case](sah_yktdt-dep-case.html) – [cc](sah_yktdt-dep-cc.html) – [ccomp](sah_yktdt-dep-ccomp.html) – [compound](sah_yktdt-dep-compound.html) – [conj](sah_yktdt-dep-conj.html) – [cop](sah_yktdt-dep-cop.html) – [csubj](sah_yktdt-dep-csubj.html) – [dep](sah_yktdt-dep-dep.html) – [det](sah_yktdt-dep-det.html) – [discourse](sah_yktdt-dep-discourse.html) – [fixed](sah_yktdt-dep-fixed.html) – [iobj](sah_yktdt-dep-iobj.html) – [nmod](sah_yktdt-dep-nmod.html) – [nsubj](sah_yktdt-dep-nsubj.html) – [nummod](sah_yktdt-dep-nummod.html) – [obj](sah_yktdt-dep-obj.html) – [obl](sah_yktdt-dep-obl.html) – [parataxis](sah_yktdt-dep-parataxis.html) – [punct](sah_yktdt-dep-punct.html) – [root](sah_yktdt-dep-root.html) – [vocative](sah_yktdt-dep-vocative.html) – [xcomp](sah_yktdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 60 sentences and 271 tokens.</li>
+<li>This corpus contains 96 sentences, 495 tokens and 496 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 24 tokens (9%) that are not followed by a space.</li>
+<li>This corpus contains 24 tokens (5%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -102,6 +102,8 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
+<li>This corpus contains 1 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 1 types of multi-word tokens. Examples: уус-уран.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -109,26 +111,28 @@ The development of the treebank is supported by the by European Research Council
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 12 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: ADP, SCONJ, PART, SYM, X</li>
+<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: SCONJ, SYM, X</li>
 </ul>
 
 <ul>
+<li>This corpus contains 1 word types tagged as particles (PART): дуо</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as pronouns (PRON): бары, биhиги, биһиги, ен, кини, кинилэр, мин, ханна, ханнык, эн</li>
+<li>This corpus contains 13 lemmas tagged as pronouns (PRON): бары, биhиги, биһиги, ен, ити, кини, кинилэр, мин, ол, туох, ханна, ханнык, эн</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as determiners (DET): аайы, бу, ити</li>
+<li>This corpus contains 6 lemmas tagged as determiners (DET): аайы, бары, бу, ити, ол, сорох</li>
 </ul>
 
 <ul>
+<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: бары, ити, ол</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): баар, буол</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): баар, буол, суох</li>
 </ul>
 
 <ul>
@@ -136,7 +140,15 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus does not use the VerbForm feature.</li>
+<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Inf
+  <ul>
+    <li>VERB: таларга</li>
+  </ul>
+  </li>
 </ul>
 
 <h3>Nominal Features</h3>
@@ -151,9 +163,9 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: оҕолор, Кинигэлэри, Олоппосторго, доҕотторо, дьоннор, километры, нууччалар</li>
-      <li>PRON: Кинилэр, биһиги, биhиги</li>
-      <li>VERB: олороллор, суруйаллар, туруҥ, үөрэнэллэр, ааҕалар, аһыыллар, баарбыт, бардыбыт, биэрэллэр, истэллэр</li>
+      <li>NOUN: оҕолор, Кинигэлэри, Олоппосторго, ааннары, доҕотторо, дьоннор, километры, көмпүүтэрдэр, нууччалар, ситимнэрэ</li>
+      <li>PRON: биһиги, Кинилэр, Биһиэхэ, биhиги</li>
+      <li>VERB: туруораллар, олороллор, суруйаллар, сууйуҥ, туруҥ, үөрэнэллэр, Кэл, ааҕалар, ааҕыллар, аһыыллар</li>
     </ul>
   </li>
 </ul>
@@ -161,10 +173,10 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: уол, ыалдьар, дьиэҕэ, килиэптэ, киһи, киһини, олоппос, оскуолаҕа, остуол, паарта</li>
-      <li>PRON: Кини, Мин, Эн, бары, киниэхэ, миэхэ</li>
-      <li>PROPN: Дьокуускайга, Германияттан, Москваҕа</li>
-      <li>VERB: аһыыр, кэллэ, үөрэнэрий, ааҕабын, ааҕар, аҕал, аҕалла, аһаа, аһаама, аһаата</li>
+      <li>NOUN: килиэптэ, уол, ыалдьар, айымньыта, дьиэҕэ, дьон, иһити, киһи, киһини, олоппос</li>
+      <li>PRON: Кини, мин, Эн, бары, киниэхэ, миэхэ</li>
+      <li>PROPN: Дьокуускайга, Кэскил, Айаана, Германияттан, Коперник, Кытайы, Кэскилга, Миша, Москваҕа, Петровка</li>
+      <li>VERB: аһыыр, быс, кэллэ, үөрэнэрий, ааҕабын, ааҕар, арыйбытым, аҕал, аҕалла, аһаа</li>
     </ul>
   </li>
 </ul>
@@ -176,8 +188,8 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Abl
     <ul>
-      <li>NOUN: Оскуолаттан, ынахтан</li>
-      <li>PROPN: Германияттан</li>
+      <li>NOUN: Оскуолаттан, буочукаттан, халлаантан, ынахтан</li>
+      <li>PROPN: Германияттан, Өрүсүөнэттэн</li>
     </ul>
   </li>
 </ul>
@@ -185,7 +197,9 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Acc
     <ul>
-      <li>NOUN: киһини, Илиибин, Кинигэлэри, Саахары, арыыны, дьону, карточканы, километры, кинигэни, суругу</li>
+      <li>NOUN: киһини, хойчоонно, Илиибин, Кинигэлэри, Саахары, арыыны, билиидэни, бэйэлэрин, дойдутааҕы, дьону</li>
+      <li>PRON: Кинилэри, миигин</li>
+      <li>PROPN: Кытайы</li>
     </ul>
   </li>
 </ul>
@@ -201,9 +215,10 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Dat
     <ul>
-      <li>NOUN: дьиэҕэ, куоракка, оскуолаҕа, тарбаҕа, ууга, Кылааска, Олоппосторго, аҕалыахха, аҕатыгар, бырааска</li>
-      <li>PRON: киниэхэ, миэхэ</li>
-      <li>PROPN: Дьокуускайга, Кэскилга, Петровка, Москваҕа</li>
+      <li>DET: Онуоха</li>
+      <li>NOUN: дьиэҕэ, куоракка, оскуолаҕа, тарбаҕа, ууга, Кылааска, Олоппосторго, Уҥуоҕа, аҕалыахха, аҕатыгар</li>
+      <li>PRON: миэхэ, Биһиэхэ, киниэхэ</li>
+      <li>PROPN: Дьокуускайга, Кэскилга, Москваҕа, Петровка</li>
     </ul>
   </li>
 </ul>
@@ -211,7 +226,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Ins
     <ul>
-      <li>NOUN: уочаратынан</li>
+      <li>NOUN: көрүүнэн, уочаратынан</li>
     </ul>
   </li>
 </ul>
@@ -219,8 +234,9 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Nom
     <ul>
-      <li>NOUN: ыалдьар, киһи, оҕолор, профессор, Балык, Быраас, Быраатым, Илии, Хахай, атах</li>
-      <li>PRON: Кини, Мин, Кинилэр, Эн, биһиги, бары, биhиги</li>
+      <li>NOUN: ыалдьар, дьон, киһи, оҕолор, профессор, сылабаар, этиҥ, Балык, Быраас, Быраатым</li>
+      <li>PRON: Кини, мин, биһиги, Кинилэр, Эн, бары, биhиги</li>
+      <li>PROPN: Кэскил, Айаана, Коперник, Миша, Сайаана, Сардана, Саша</li>
     </ul>
   </li>
 </ul>
@@ -228,7 +244,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Par
     <ul>
-      <li>NOUN: килиэптэ, буулката, чэйдэ</li>
+      <li>NOUN: килиэптэ, иһити, ааннары, айымньыта, буулката, күөрчэхтэ, муостаны, остуолла, паартата, сүөгэйдэ</li>
     </ul>
   </li>
 </ul>
@@ -241,7 +257,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Def
     <ul>
-      <li>NOUN: Саахары, арыыны, дьону, карточканы, киһини, яблоконы</li>
+      <li>NOUN: Саахары, арыыны, дьону, карточканы, киһини, хамнаһы, яблоконы</li>
     </ul>
   </li>
 </ul>
@@ -266,7 +282,7 @@ The development of the treebank is supported by the by European Research Council
   <li>Neg
     <ul>
       <li>AUX: буолбатах</li>
-      <li>VERB: аһаама, ыалдьыбат</li>
+      <li>VERB: аһаама, быһыма, ыалдьыбат</li>
     </ul>
   </li>
 </ul>
@@ -283,7 +299,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: туруҥ, аҕал, аһаа, аһаама, быс, кут, кэлиҥ</li>
+      <li>VERB: быс, сууйуҥ, туруҥ, Кэл, аҕал, аһаа, аһаама, биэр, быһыма, ис</li>
     </ul>
   </li>
 </ul>
@@ -303,7 +319,15 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>NearPast
     <ul>
-      <li>VERB: кэллэ, атыыласта, аҕалла, аһаата, барда, бардыбыт, быста, киирдэ, кэллилэр, кэллим</li>
+      <li>VERB: кэллэ, ааҕыллар, атыыласта, аҕалла, аһаата, барда, бардыбыт, быста, киирдэ, кэллилэр</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Past
+    <ul>
+      <li>VERB: арыйбытым, билбитим, билсибитим, кутта, күлэ, көппүтүм, көрбүтүм, көрдөстө, олорбутум, олохтоммутунан</li>
     </ul>
   </li>
 </ul>
@@ -320,11 +344,22 @@ The development of the treebank is supported by the by European Research Council
   <li>Pres
     <ul>
       <li>AUX: баар, буолбатах</li>
-      <li>VERB: ааҕар, аһыыр, олороллор, олорор, суруйаллар, турар, тут, ыалдьар, үөрэнэллэр, үөрэнэр</li>
+      <li>VERB: ааҕар, турар, туруораллар, аһыыр, олороллор, олорор, суруйаллар, сууйуҥ, тут, ыалдьар</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Voice</a></li>
+</ul>
+
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB: ааҕыллар</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
@@ -335,9 +370,25 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
+  <li>Dem
+    <ul>
+      <li>DET: бу</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: сорохтор, сорох</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Int
     <ul>
-      <li>PRON: ханна, Ханнык</li>
+      <li>PRON: туох, ханна, Ханнык</li>
     </ul>
   </li>
 </ul>
@@ -345,7 +396,15 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: Кини, Мин, Кинилэр, Эн, биһиги, биhиги, киниэхэ, миэхэ</li>
+      <li>PRON: Кини, мин, биһиги, Кинилэр, Эн, Биһиэхэ, биhиги, киниэхэ, миэхэ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: Ол</li>
     </ul>
   </li>
 </ul>
@@ -370,7 +429,29 @@ The development of the treebank is supported by the by European Research Council
   </li>
 </ul>
 
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
+<ul>
+  <li>Yes
+    <ul>
+      <li>ADJ: ынырыктаах</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>VERB: олохтоммутунан</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person</a></li>
@@ -379,8 +460,9 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>1
     <ul>
-      <li>PRON: Мин, биһиги, биhиги, миэхэ</li>
-      <li>VERB: ааҕабын, баарбыт, бардыбыт, кэллим, сууннум, түспүтүм, ыыттым</li>
+      <li>ADP: Үрдүбэр</li>
+      <li>PRON: Мин, биһиги, Биһиэхэ, биhиги, миэхэ</li>
+      <li>VERB: ааҕабын, арыйбытым, баарбыт, бардыбыт, билбитим, билсибитим, кэллим, көппүтүм, көрбүтүм, олорбутум</li>
     </ul>
   </li>
 </ul>
@@ -389,7 +471,7 @@ The development of the treebank is supported by the by European Research Council
   <li>2
     <ul>
       <li>PRON: Эн</li>
-      <li>VERB: туруҥ, аҕал, аһаа, аһаама, буолуоҥ, быс, кут, кэлиҥ, ылабыт</li>
+      <li>VERB: туруораллар, быс, сууйуҥ, туруҥ, Кэл, аҕал, аһаа, аһаама, биэр, буолуоҥ</li>
     </ul>
   </li>
 </ul>
@@ -398,7 +480,7 @@ The development of the treebank is supported by the by European Research Council
   <li>3
     <ul>
       <li>PRON: Кини, Кинилэр, бары, киниэхэ</li>
-      <li>VERB: ааҕар, аһыыр, кэллэ, олороллор, олорор, суруйаллар, турар, ыалдьар, үөрэнэр, үөрэнэрий</li>
+      <li>VERB: ааҕар, турар, аһыыр, кэллэ, олороллор, олорор, суруйаллар, ыалдьар, үөрэнэр, үөрэнэрий</li>
     </ul>
   </li>
 </ul>
@@ -410,9 +492,17 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
+  <li>Plur
+    <ul>
+      <li>NOUN: Дьонум, буруйум, бэйэлэрин, иһиппит, ситимнэрэ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Sing
     <ul>
-      <li>NOUN: Аҕам, Аҕаҥ, Быраатым, Ийэм, Илиибин, аатым, атаһым, балтым, баһым, доҕотторо</li>
+      <li>NOUN: Аҕам, Аҕаҥ, Быраатым, Доҕорум, Ийэм, Илиибин, аатым, атаһым, балтым, баһым</li>
     </ul>
   </li>
 </ul>
@@ -449,7 +539,7 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>1
         <ul>
-          <li>NOUN: Аҕам, Ийэм, Илиибин, аатым, атаһым, баһым, илиим, кулгааҕым</li>
+          <li>NOUN: Аҕам, Доҕорум, Дьонум, Ийэм, Илиибин, аатым, атаһым, баһым, буруйум, илиим</li>
         </ul>
       </li>
       <li>2
@@ -459,7 +549,7 @@ The development of the treebank is supported by the by European Research Council
       </li>
       <li>3
         <ul>
-          <li>NOUN: Быраатым, балтым, доҕотторо, убайа, эбэтэ</li>
+          <li>NOUN: Быраатым, балтым, бэйэлэрин, доҕотторо, ситимнэрэ, убайа, хамсааһына, эбэтэ, эргимтэлэрин</li>
         </ul>
       </li>
     </ul>
@@ -471,11 +561,11 @@ The development of the treebank is supported by the by European Research Council
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: баар, буол.</li>
+<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: баар, буол, суох.</li>
 </ul>
 
 <ul>
-<li>This corpus does not contain auxiliaries.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: баар.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -484,10 +574,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (7)</li>
-      <li>VERB--NOUN-Nom (15)</li>
-      <li>VERB--PRON (1)</li>
-      <li>VERB--PRON-Nom (14)</li>
+      <li>VERB--NOUN (8)</li>
+      <li>VERB--NOUN-Acc (2)</li>
+      <li>VERB--NOUN-Nom (19)</li>
+      <li>VERB--PRON (4)</li>
+      <li>VERB--PRON-Nom (17)</li>
     </ul>
   </li>
 </ul>
@@ -495,9 +586,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (14)</li>
-      <li>VERB--NOUN-Nom (5)</li>
-      <li>VERB--NOUN-Par (3)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--NOUN-Acc (20)</li>
+      <li>VERB--NOUN-Acc-ADP(кытта) (1)</li>
+      <li>VERB--NOUN-Dat (1)</li>
+      <li>VERB--NOUN-Nom (11)</li>
+      <li>VERB--NOUN-Par (14)</li>
+      <li>VERB--PRON-Acc (2)</li>
+      <li>VERB-Inf--NOUN-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -506,7 +602,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB--PRON-Dat (1)</li>
+      <li>VERB--PRON-Dat (2)</li>
     </ul>
   </li>
 </ul>
@@ -518,5 +614,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 17 relation types are not used in this corpus at all: <a>ccomp</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>aux</a>, <a>mark</a>, <a>appos</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 11 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>mark</a>, <a>acl</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

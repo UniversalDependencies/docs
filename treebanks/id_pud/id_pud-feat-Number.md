@@ -22,7 +22,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="id_pud-pos-NOUN.htm
 
 * `Plur` (143; 3% of non-empty `Number`): <em>orang-orang, negara-negara, anak-anak, batas-batas, 1970-an, bagian-bagian, batu-batu, bertahun-tahun, bulan-bulan, kota-kota</em>
 * `Sing` (4512; 97% of non-empty `Number`): <em>tahun, orang, bulan, bagian, hari, negara, kota, laut, hal, perang</em>
-* `EMPTY` (34): <em>SM, mercu, suar, AIDS, ATM, BC, DFB, GIF, HFC, Kontituensi</em>
+* `EMPTY` (32): <em>SM, mercu, AIDS, ATM, BC, DFB, GIF, HFC, Kontituensi, MLA</em>
 
 <table>
   <tr><th>Paradigm <i>tahun</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

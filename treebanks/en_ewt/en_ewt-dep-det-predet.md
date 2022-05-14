@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-det.html">det</a></tt>.
 
-216 nodes (0%) are attached to their parents as `det:predet`.
+225 nodes (0%) are attached to their parents as `det:predet`.
 
-216 instances of `det:predet` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.43518518518519.
+225 instances of `det:predet` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.44.
 
-The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (198; 92% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (8; 4% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (206; 92% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (8; 4% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

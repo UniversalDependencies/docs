@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2502 nodes (5%) are attached to their parents as `root`.
+2500 nodes (5%) are attached to their parents as `root`.
 
-2502 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.22302158273381.
+2500 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.214.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1813; 72% instances), -<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (335; 13% instances), -<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (230; 9% instances), -<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (45; 2% instances), -<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (23; 1% instances), -<tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt> (15; 1% instances), -<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (14; 1% instances), -<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (6; 0% instances), -<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1811; 72% instances), -<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (335; 13% instances), -<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (230; 9% instances), -<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (45; 2% instances), -<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (23; 1% instances), -<tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt> (15; 1% instances), -<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (14; 1% instances), -<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (6; 0% instances), -<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

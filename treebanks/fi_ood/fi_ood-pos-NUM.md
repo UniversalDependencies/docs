@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>yksi</em> (<tt><a href="fi_ood-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.123656 (the average of all parts of speech is 1.565520).
+The form / lemma ratio of `NUM` is 1.123656 (the average of all parts of speech is 1.566403).
 
 The 1st highest number of forms (5) was observed with the lemma “sata”: <em>sadan, sadasta, sata, satoja, satojen</em>.
 
@@ -48,7 +48,7 @@ Examples: <em>2, 40, 20, 5, 10, 100, 60, 90, 2014, yksi</em>
 
 `NUM` nodes are attached to their parents using 17 different relations: <tt><a href="fi_ood-dep-nummod.html">nummod</a></tt> (216; 57% instances), <tt><a href="fi_ood-dep-obl.html">obl</a></tt> (53; 14% instances), <tt><a href="fi_ood-dep-root.html">root</a></tt> (27; 7% instances), <tt><a href="fi_ood-dep-flat.html">flat</a></tt> (15; 4% instances), <tt><a href="fi_ood-dep-nmod.html">nmod</a></tt> (15; 4% instances), <tt><a href="fi_ood-dep-parataxis.html">parataxis</a></tt> (13; 3% instances), <tt><a href="fi_ood-dep-nmod-poss.html">nmod:poss</a></tt> (10; 3% instances), <tt><a href="fi_ood-dep-conj.html">conj</a></tt> (8; 2% instances), <tt><a href="fi_ood-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="fi_ood-dep-orphan.html">orphan</a></tt> (4; 1% instances), <tt><a href="fi_ood-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="fi_ood-dep-appos.html">appos</a></tt> (3; 1% instances), <tt><a href="fi_ood-dep-flat-foreign.html">flat:foreign</a></tt> (3; 1% instances), <tt><a href="fi_ood-dep-flat-name.html">flat:name</a></tt> (2; 1% instances), <tt><a href="fi_ood-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="fi_ood-dep-nsubj-cop.html">nsubj:cop</a></tt> (2; 1% instances), <tt><a href="fi_ood-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (220; 58% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (57; 15% instances), <tt><a href="fi_ood-pos-SYM.html">SYM</a></tt> (29; 8% instances),  (27; 7% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (16; 4% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (11; 3% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="fi_ood-pos-X.html">X</a></tt> (6; 2% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (223; 59% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (57; 15% instances),  (27; 7% instances), <tt><a href="fi_ood-pos-SYM.html">SYM</a></tt> (26; 7% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (16; 4% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (11; 3% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="fi_ood-pos-X.html">X</a></tt> (6; 2% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 270 (71%) `NUM` nodes are leaves.
 

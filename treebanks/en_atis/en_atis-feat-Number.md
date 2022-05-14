@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 26954 tokens (44%) have a non-empty value of `Number`.
 458 types (49%) occur at least once with a non-empty value of `Number`.
-398 lemmas (51%) occur at least once with a non-empty value of `Number`.
+399 lemmas (51%) occur at least once with a non-empty value of `Number`.
 The feature is used with 4 part-of-speech tags: <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (16372; 26% instances), <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (9333; 15% instances), <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> (914; 1% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (335; 1% instances).
 
 ### `PROPN`

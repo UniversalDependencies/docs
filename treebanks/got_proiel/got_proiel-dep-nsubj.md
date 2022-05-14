@@ -23,12 +23,12 @@ The following 53 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 nsubj	color:blue
-1	niu	niu	ADV	Du	PronType=Int	6	advmod	_	ref=MATT_5.47
-2	jah	jah	ADV	Df	_	3	advmod	_	ref=MATT_5.47
-3	motarjos	motareis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=MATT_5.47
-4	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	5	det	_	ref=MATT_5.47
-5	samo	sama	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	obj	_	ref=MATT_5.47
-6	taujand	taujan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.47
+1	niu	niu	ADV	Du	PronType=Int	6	advmod	_	Ref=MATT_5.47
+2	jah	jah	ADV	Df	_	3	advmod	_	Ref=MATT_5.47
+3	motarjos	motareis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Ref=MATT_5.47
+4	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	5	det	_	Ref=MATT_5.47
+5	samo	sama	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	obj	_	Ref=MATT_5.47
+6	taujand	taujan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.47
 
 ~~~
 
@@ -39,12 +39,12 @@ The following 53 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj	color:blue
-1	iþ	iþ	CCONJ	C-	_	5	cc	_	ref=MATT_5.21
-2	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	ref=MATT_5.21
-3	maurþreiþ	maurþrjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	nsubj	_	ref=MATT_5.21
-4	skula	skula	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	ref=MATT_5.21
-5	wairþiþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.21
-6	stauai	staua	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	ref=MATT_5.21|LId=1
+1	iþ	iþ	CCONJ	C-	_	5	cc	_	Ref=MATT_5.21
+2	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	Ref=MATT_5.21
+3	maurþreiþ	maurþrjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	nsubj	_	Ref=MATT_5.21
+4	skula	skula	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	Ref=MATT_5.21
+5	wairþiþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.21
+6	stauai	staua	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	LId=1|Ref=MATT_5.21
 
 ~~~
 
@@ -55,12 +55,12 @@ The following 53 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 nsubj	color:blue
-1	jah	jah	CCONJ	C-	_	6	cc	_	ref=MATT_5.32
-2	sa	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT_5.32
-3	ize	izei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	ref=MATT_5.32
-4	afsatida	af-satjan	VERB	V-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	obj	_	ref=MATT_5.32
-5	liugaiþ	liugan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=MATT_5.32|LId=1
-6	horinoþ	horinon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.32
+1	jah	jah	CCONJ	C-	_	6	cc	_	Ref=MATT_5.32
+2	sa	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=MATT_5.32
+3	ize	izei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=MATT_5.32
+4	afsatida	af-satjan	VERB	V-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	obj	_	Ref=MATT_5.32
+5	liugaiþ	liugan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	LId=1|Ref=MATT_5.32
+6	horinoþ	horinon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.32
 
 ~~~
 

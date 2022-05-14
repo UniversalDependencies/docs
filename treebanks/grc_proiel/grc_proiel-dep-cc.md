@@ -22,14 +22,14 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 cc	color:blue
-1	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1.10.1
-2	μετὰ	μετά	ADP	R-	_	3	case	_	ref=1.10.1
-3	ταῦτα	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	ref=1.10.1
-4	αὐτίκα	αὐτίκα	ADV	Df	_	5	advmod	_	ref=1.10.1
-5	παρῆν	πάρειμι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.10.1|LId=1
-6	καὶ	καί	ADV	Df	_	8	advmod	_	ref=1.10.1|LId=1
-7	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=1.10.1
-8	γυνή	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=1.10.1
+1	καὶ	καί	CCONJ	C-	_	5	cc	_	Ref=1.10.1
+2	μετὰ	μετά	ADP	R-	_	3	case	_	Ref=1.10.1
+3	ταῦτα	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	Ref=1.10.1
+4	αὐτίκα	αὐτίκα	ADV	Df	_	5	advmod	_	Ref=1.10.1
+5	παρῆν	πάρειμι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=1.10.1
+6	καὶ	καί	ADV	Df	_	8	advmod	_	LId=1|Ref=1.10.1
+7	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	Ref=1.10.1
+8	γυνή	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Ref=1.10.1
 
 ~~~
 
@@ -40,11 +40,11 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 cc	color:blue
-1	ἐγχειρίδια	ἐγχειρίδιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	ref=7.92.1
-2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=7.92.1
-3	καὶ	καί	CCONJ	C-	_	1	cc	_	ref=7.92.1
-4	δρέπανα	δρέπανον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	conj	_	ref=7.92.1
-5	εἶχον	ἔχω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=7.92.1
+1	ἐγχειρίδια	ἐγχειρίδιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	Ref=7.92.1
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	Ref=7.92.1
+3	καὶ	καί	CCONJ	C-	_	1	cc	_	Ref=7.92.1
+4	δρέπανα	δρέπανον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	conj	_	Ref=7.92.1
+5	εἶχον	ἔχω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=7.92.1
 
 ~~~
 
@@ -55,10 +55,10 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cc	color:blue
-1	νῦν	νῦν	ADV	Df	_	3	advmod	_	ref=1.111.5|LId=1
-2	τε	τε	CCONJ	C-	_	3	cc	_	ref=1.111.5
-3	ὅδε	ὅδε	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=1.111.5
-4	ἐστί	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=1.111.5|LId=1
+1	νῦν	νῦν	ADV	Df	_	3	advmod	_	LId=1|Ref=1.111.5
+2	τε	τε	CCONJ	C-	_	3	cc	_	Ref=1.111.5
+3	ὅδε	ὅδε	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=1.111.5
+4	ἐστί	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	LId=1|Ref=1.111.5
 
 ~~~
 

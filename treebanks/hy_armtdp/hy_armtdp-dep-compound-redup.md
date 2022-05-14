@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hy_armtdp-dep-compound.html">compound</a></tt>.
 There are also 2 other language-specific subtypes of `compound`: <tt><a href="hy_armtdp-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="hy_armtdp-dep-compound-svc.html">compound:svc</a></tt>.
 
-67 nodes (0%) are attached to their parents as `compound:redup`.
+69 nodes (0%) are attached to their parents as `compound:redup`.
 
-65 instances of `compound:redup` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.8955223880597.
+67 instances of `compound:redup` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.89855072463768.
 
-The following 10 pairs of parts of speech are connected with `compound:redup`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (32; 48% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (20; 30% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (5; 7% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (4; 6% instances), <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `compound:redup`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (32; 46% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (21; 30% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (6; 9% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (4; 6% instances), <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -63,25 +63,17 @@ The following 10 pairs of parts of speech are connected with `compound:redup`: <
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 10 compound:redup	color:blue
-1	—	—	PUNCT	_	_	2	punct	_	Translit=—|LTranslit=—
-2	Ահա	ահա	PART	_	_	0	root	_	Translit=Aha|LTranslit=aha
-3	աշխարհի	աշխարհ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	9	obl	_	Translit=ašxarhi|LTranslit=ašxarh
-4	ու	ու	CCONJ	_	_	5	cc	_	Translit=ow|LTranslit=ow
-5	մարդու	մարդ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	3	conj	_	Translit=mardow|LTranslit=mard
-6	նկատմամբ	նկատմամբ	ADP	_	AdpType=Post	3	case	_	Translit=nkatmamb|LTranslit=nkatmamb
-7	մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	det:poss	_	Translit=mer|LTranslit=menk’
-8	հայրերի	հայր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	9	obl	_	Translit=hayreri|LTranslit=hayr
-9	ունեցած	ունենալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	13	acl	_	Translit=ownec’aç|LTranslit=ownenal
-10	շիփ	շիփ	ADJ	_	Echo=Ech	12	compound:redup	_	Translit=šip’|LTranslit=šip’|SpaceAfter=No
-11	-	֊	PUNCT	_	_	10	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-12	շիտակ	շիտակ	ADJ	_	Degree=Pos	13	amod	_	Translit=šitak|LTranslit=šitak
-13	հայացքը	հայացք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	obj	_	Translit=hayac’k’ë|LTranslit=hayac’k’|SpaceAfter=No
-14	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 compound:redup	color:blue
+1	Անցան	անցնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=Anc’an|LTranslit=anc’nel
+2	երկար	երկար	ADJ	_	Degree=Pos	5	amod	_	Translit=erkar|LTranslit=erkar
+3	ու	ու	CCONJ	_	_	2	cc	_	Translit=ow|LTranslit=ow
+4	ձիգ	ձիգ	ADJ	_	Degree=Pos	2	compound:redup	_	Translit=jig|LTranslit=jig
+5	ամիսներ	ամիս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	1	nsubj	_	Translit=amisner|LTranslit=amis|SpaceAfter=No
+6	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

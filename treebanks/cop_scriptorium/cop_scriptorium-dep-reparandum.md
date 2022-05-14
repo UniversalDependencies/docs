@@ -48,7 +48,7 @@ The following 10 pairs of parts of speech are connected with `reparandum`: <tt><
 24	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	27	cc	_	_
 25	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	27	aux	_	Orig=ⲙ̅ⲡⲉ
 26	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	27	nsubj	_	Entity=(person)
-27	ⲣⲟⲩⲱ	ⲣⲟⲩⲱ	VERB	V	VerbForm=Fin	11	conj	_	Morphs=ⲣ-ⲟⲩⲱ|Orig=ⲣ̅ⲟⲩⲱ
+27	ⲣⲟⲩⲱ	ⲣⲟⲩⲱ	VERB	V	VerbForm=Fin	11	conj	_	MSeg=ⲣ-ⲟⲩⲱ|Orig=ⲣ̅ⲟⲩⲱ
 28	ⲛⲁ	ⲛⲁ	ADP	PREP	_	29	case	_	_
 29	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	27	obl	_	_
 30	·	·	PUNCT	PUNCT	_	11	punct	_	_
@@ -70,7 +70,7 @@ The following 10 pairs of parts of speech are connected with `reparandum`: <tt><
 6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(person
 7	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	9	nsubj	_	Entity=person)
 8	ⲛⲁ	ⲛⲁ	AUX	FUT	_	9	aux	_	_
-9	ϩⲟϫϩϫ	ϩⲟϫϩϫ	VERB	V	VerbForm=Fin	4	acl	_	Orig=ϩⲟϫ︤ϩ︥ϫ
+9	ϩⲟϫϩϫ	ϩⲟϫϩϫ	VERB	V	VerbForm=Fin	4	acl:relcl	_	Orig=ϩⲟϫ︤ϩ︥ϫ
 10	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	advmod	_	_
 11	ϩⲓⲧⲟⲟⲧ	ϩⲓⲧⲛ	ADP	PREP	_	12	case	_	_
 12	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	obl	_	Entity=person)
@@ -100,7 +100,7 @@ The following 10 pairs of parts of speech are connected with `reparandum`: <tt><
 36	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	39	mark	_	_
 37	ⲁ	ⲁ	AUX	APST	_	39	aux	_	_
 38	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	nsubj	_	_
-39	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	VerbForm=Fin	33	acl	_	Orig=ⲕⲱⲧⲉ`
+39	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	VerbForm=Fin	33	acl:relcl	_	Orig=ⲕⲱⲧⲉ`
 40	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	42	case	_	Orig=ⲛ̄ⲥⲁ
 41	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	Orig=ⲑ
 42	ϩⲉ	ϩⲉ	NOUN	N	_	39	obl	_	Orig=ⲉ
@@ -115,7 +115,7 @@ The following 10 pairs of parts of speech are connected with `reparandum`: <tt><
 51	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	52	det	_	Entity=(abstract
 52	ϩⲃⲏⲩⲉ	ϩⲱⲃ	NOUN	N	_	44	obl	_	_
 53	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	54	mark	_	Orig=ⲉ
-54	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	VerbForm=Fin	52	acl	_	Entity=abstract)|Orig=ⲑⲟⲟⲩ
+54	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	VerbForm=Fin	52	acl:relcl	_	Entity=abstract)|Orig=ⲑⲟⲟⲩ
 55	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	57	case	_	OrigLang=grc
 56	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	57	det	_	Entity=(abstract
 57	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	44	obl	_	_
@@ -140,7 +140,7 @@ The following 10 pairs of parts of speech are connected with `reparandum`: <tt><
 76	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	74	nmod	_	Entity=place)place)|Orig=ϣⲱⲡⲉ`
 77	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	79	mark	_	_
 78	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	79	nsubj	_	_
-79	ⲟⲩⲏⲩ	ⲟⲩⲉ	VERB	VSTAT	VerbForm=Fin	74	acl	_	Orig=ⲟⲩⲏⲩ`
+79	ⲟⲩⲏⲩ	ⲟⲩⲉ	VERB	VSTAT	VerbForm=Fin	74	acl:relcl	_	Orig=ⲟⲩⲏⲩ`
 80	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	82	aux	_	Orig=ⲛ̄
 81	ⲧⲁ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	82	nsubj	_	_
 82	ⲕⲱ	ⲕⲱ	VERB	V	VerbForm=Fin	66	advcl	_	_

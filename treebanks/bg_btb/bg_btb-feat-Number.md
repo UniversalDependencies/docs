@@ -236,19 +236,19 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `ADP` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>сравнение</em>
-* `EMPTY` (22096): <em>на, в, за, от, с, по, до, след, като, през</em>
+* `EMPTY` (22095): <em>на, в, за, от, с, по, до, след, като, през</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="bg_btb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11160; 97%),
-<tt>NOUN --[<tt><a href="bg_btb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5931; 61%),
+<tt>NOUN --[<tt><a href="bg_btb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5930; 61%),
 <tt>VERB --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4234; 93%),
 <tt>VERB --[<tt><a href="bg_btb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2782; 58%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2663; 82%),
 <tt>VERB --[<tt><a href="bg_btb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2632; 58%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-det.html">det</a></tt>]--> DET</tt> (1948; 98%),
 <tt>VERB --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1889; 98%),
-<tt>NOUN --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1719; 78%),
+<tt>NOUN --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1720; 78%),
 <tt>PROPN --[<tt><a href="bg_btb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1539; 96%).
 

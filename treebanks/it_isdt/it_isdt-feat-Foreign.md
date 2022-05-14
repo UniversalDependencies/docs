@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-234 tokens (0%) have a non-empty value of `Foreign`.
-176 types (1%) occur at least once with a non-empty value of `Foreign`.
-178 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-X.html">X</a></tt> (229; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+235 tokens (0%) have a non-empty value of `Foreign`.
+177 types (1%) occur at least once with a non-empty value of `Foreign`.
+179 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-X.html">X</a></tt> (230; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `X`
 
-229 <tt><a href="it_isdt-pos-X.html">X</a></tt> tokens (79% of all `X` tokens) have a non-empty value of `Foreign`.
+230 <tt><a href="it_isdt-pos-X.html">X</a></tt> tokens (79% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (229; 100% of non-empty `Foreign`): <em>de, Illusions, perdues, la, ad, home, the, Come, Damage, Ecce</em>
+* `Yes` (230; 100% of non-empty `Foreign`): <em>de, Illusions, perdues, la, ad, home, the, Come, Damage, Ecce</em>
 * `EMPTY` (62): <em>a, b, c, f, Habemus, h, l, n, s, (!),</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (174) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (175) occur only with one value of `Foreign`.
 
 ### `PROPN`
 
@@ -32,7 +32,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-X.html"
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>Les, Nobody, barbares, knows</em>
-* `EMPTY` (14767): <em>Italia, Shakespeare, Balzac, Europa, Roma, San, Stati, Uniti, Marco, Unione</em>
+* `EMPTY` (14766): <em>Italia, Shakespeare, Balzac, Europa, Roma, San, Stati, Uniti, Marco, Unione</em>
 
 ### `NOUN`
 
@@ -49,8 +49,8 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<tt><a href="it_isdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (134; 100%),
+<tt>X --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> X</tt> (3; 100%),
 <tt>X --[<tt><a href="it_isdt-dep-nmod.html">nmod</a></tt>]--> X</tt> (3; 60%),
 <tt>PROPN --[<tt><a href="it_isdt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2; 67%),
-<tt>X --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> X</tt> (2; 100%),
 <tt>X --[<tt><a href="it_isdt-dep-compound.html">compound</a></tt>]--> X</tt> (1; 100%).
 

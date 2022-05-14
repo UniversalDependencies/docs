@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Tanja Samardžić, Nikola Ljubešić.
 
 Repository: [UD_Serbian-SET](https://github.com/UniversalDependencies/UD_Serbian-SET)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsr_set29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsr_set210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 

@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hungarian-Szeged: Features: `Case`
 
-This feature is universal.
-It occurs with 22 different values: `Abl`, `Abs`, `Acc`, `Ade`, `All`, `Cau`, `Dat`, `Del`, `Dis`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Loc`, `Nom`, `Sub`, `Sup`, `Tem`, `Ter`, `Tra`.
+This feature is universal but the values `Sbl` are language-specific.
+It occurs with 22 different values: `Abl`, `Abs`, `Acc`, `Ade`, `All`, `Cau`, `Dat`, `Del`, `Dis`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Loc`, `Nom`, `Sbl`, `Sup`, `Tem`, `Ter`, `Tra`.
 
 20573 tokens (49%) have a non-empty value of `Case`.
 11050 types (82%) occur at least once with a non-empty value of `Case`.
@@ -39,17 +39,17 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Ins` (453; 5% of non-empty `Case`): <em>százalékkal, évvel, alkalommal, nappal, tavasszal, címmel, hatással, kézzel, sikerrel, szemmel</em>
 * `Loc` (1; 0% of non-empty `Case`): <em>helyütt</em>
 * `Nom` (4783; 49% of non-empty `Case`): <em>kormány, év, cég, forint, elnök, miniszterelnök, évek, elnöke, kormányfő, vezetője</em>
-* `Sub` (443; 5% of non-empty `Case`): <em>élére, dollárra, forintra, színpadra, napirendre, végére, gazdaságra, napra, növelésére, évre</em>
+* `Sbl` (443; 5% of non-empty `Case`): <em>élére, dollárra, forintra, színpadra, napirendre, végére, gazdaságra, napra, növelésére, évre</em>
 * `Sup` (534; 6% of non-empty `Case`): <em>héten, szerdán, elején, végén, alapján, idején, során, úton, kedden, módon</em>
 * `Tem` (13; 0% of non-empty `Case`): <em>órakor, Letartóztatásakor, elrontásakor, előterjesztésekor, készítésekor, lapzártánkkor, megkötésekor, visszatérésekor, záráskor, összekötésekor</em>
 * `Ter` (41; 0% of non-empty `Case`): <em>végéig, napig, évig, 30-áig, ideig, korig, 10-éig, 31-ig, 31-éig, Tetejükig</em>
 * `Tra` (24; 0% of non-empty `Case`): <em>közzé, társasággá, aduvá, autópályává, elnökké, elnökévé, fantommá, gyorsvasúttá, gépezetté, hagyománnyá</em>
 
 <table>
-  <tr><th>Paradigm <i>év</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Abs</tt></th><th><tt>Ins</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Sup</tt></th><th><tt>Sub</tt></th><th><tt>Del</tt></th><th><tt>Ter</tt></th></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>év</em></td><td><em>évet</em></td><td></td><td><em>évvel</em></td><td><em>évben</em></td><td></td><td><em>éven</em></td><td><em>évre</em></td><td><em>évről</em></td><td><em>évig</em></td></tr>
+  <tr><th>Paradigm <i>év</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Abs</tt></th><th><tt>Ins</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Sup</tt></th><th><tt>Del</tt></th><th><tt>Ter</tt></th><th><tt>Sbl</tt></th></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>év</em></td><td><em>évet</em></td><td></td><td><em>évvel</em></td><td><em>évben</em></td><td></td><td><em>éven</em></td><td><em>évről</em></td><td><em>évig</em></td><td><em>évre</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>éve</em></td><td><em>évét</em></td><td><em>éveként</em></td><td></td><td><em>évében</em></td><td><em>évéhez</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>évek</em></td><td></td><td></td><td></td><td><em>években</em></td><td></td><td><em>éveken</em></td><td></td><td></td><td><em>évekig</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>évek</em></td><td></td><td></td><td></td><td><em>években</em></td><td></td><td><em>éveken</em></td><td></td><td><em>évekig</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Gen` (1; 0% of non-empty `Case`): <em>láthatatlannak</em>
 * `Ins` (4; 0% of non-empty `Case`): <em>előzőekkel, hamisítottal, utcaival, újabbakkal</em>
 * `Nom` (5065; 91% of non-empty `Case`): <em>első, magyar, új, orosz, nagy, gazdasági, százalékos, parlamenti, jövő, nemzetközi</em>
-* `Sub` (13; 0% of non-empty `Case`): <em>egyformára, egységesre, elmondottakra, fájdalmasra, fősre, háromszorosára, pontnyira, rendűre, részesülőkre, rövidre</em>
+* `Sbl` (13; 0% of non-empty `Case`): <em>egyformára, egységesre, elmondottakra, fájdalmasra, fősre, háromszorosára, pontnyira, rendűre, részesülőkre, rövidre</em>
 * `Sup` (1; 0% of non-empty `Case`): <em>vastagon</em>
 * `Tra` (29; 1% of non-empty `Case`): <em>lehetővé, boldoggá, Megközelíthetetlenné, elronthatatlanná, elterjedtebbé, felelőssé, feszültebbé, fizetésképtelenné, hamissá, ismertté</em>
 
@@ -108,13 +108,13 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Ine` (131; 5% of non-empty `Case`): <em>Európában, Moszkvában, Németországban, megyében, Dél-Koreában, Koszovóban, Múzeumban, Orahovacban, Államokban, Athénban</em>
 * `Ins` (38; 1% of non-empty `Case`): <em>Andrással, Gáborral, Rt.-vel, Anitával, Antallal, Atatürkkel, Barcelonával, Csabával, Cserkeszfölddel, Daewooval</em>
 * `Nom` (2222; 82% of non-empty `Case`): <em>László, Magyar, Orbán, Gazprom, Viktor, Ferenc, János, Rt., Starbucks, HVG</em>
-* `Sub` (24; 1% of non-empty `Case`): <em>Magyarországra, Budapestre, Nyugatra, Vjahirevre, Bodmérre, Csecsenföldre, Fischerre, Giovannira, Goghra, Koszovóra</em>
+* `Sbl` (24; 1% of non-empty `Case`): <em>Magyarországra, Budapestre, Nyugatra, Vjahirevre, Bodmérre, Csecsenföldre, Fischerre, Giovannira, Goghra, Koszovóra</em>
 * `Sup` (45; 2% of non-empty `Case`): <em>Magyarországon, Budapesten, Bíróságon, Szegeden, Thaiföldön, Zeneakadémián, 2-n, Cserkeszföldön, EU-n, Főiskolán</em>
 * `Ter` (3; 0% of non-empty `Case`): <em>Budapestig, hídig, pályaudvarig</em>
 
 <table>
-  <tr><th>Paradigm <i>Budapest</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Abl</tt></th><th><tt>Sup</tt></th><th><tt>Sub</tt></th><th><tt>Del</tt></th><th><tt>Ter</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>Budapest</em></td><td><em>Budapestet</em></td><td><em>Budapesttől</em></td><td><em>Budapesten</em></td><td><em>Budapestre</em></td><td><em>Budapestről</em></td><td><em>Budapestig</em></td></tr>
+  <tr><th>Paradigm <i>Budapest</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Abl</tt></th><th><tt>Sup</tt></th><th><tt>Del</tt></th><th><tt>Ter</tt></th><th><tt>Sbl</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>Budapest</em></td><td><em>Budapestet</em></td><td><em>Budapesttől</em></td><td><em>Budapesten</em></td><td><em>Budapestről</em></td><td><em>Budapestig</em></td><td><em>Budapestre</em></td></tr>
 </table>
 
 ### `PRON`
@@ -139,14 +139,14 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Ine` (50; 4% of non-empty `Case`): <em>amelyben, abban, benne, ebben, melyben, ezekben, önmagában, amelyekben, amiben, amilyenben</em>
 * `Ins` (64; 5% of non-empty `Case`): <em>ezzel, azzal, vele, egymással, amellyel, velem, velük, akivel, amivel, annyival</em>
 * `Nom` (637; 46% of non-empty `Case`): <em>az, aki, ez, amely, ami, ő, egyik, én, maga, akik</em>
-* `Sub` (72; 5% of non-empty `Case`): <em>arra, erre, rá, magára, rájuk, amire, mire, Rám, akire, amelyre</em>
+* `Sbl` (72; 5% of non-empty `Case`): <em>arra, erre, rá, magára, rájuk, amire, mire, Rám, akire, amelyre</em>
 * `Sup` (21; 2% of non-empty `Case`): <em>azon, amelyen, ezen, rajta, amin, melyen, némelyikén</em>
 * `Ter` (1; 0% of non-empty `Case`): <em>addig</em>
 * `Tra` (1; 0% of non-empty `Case`): <em>magukévá</em>
 
 <table>
-  <tr><th>Paradigm <i>az</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Sup</tt></th><th><tt>Sub</tt></th><th><tt>Del</tt></th><th><tt>Ter</tt></th><th><tt>Cau</tt></th></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>az</em></td><td><em>azt</em></td><td><em>annak</em></td><td><em>annak</em></td><td><em>azzal, avval</em></td><td><em>abban</em></td><td><em>abba</em></td><td><em>abból</em></td><td><em>ahhoz</em></td><td><em>attól</em></td><td><em>azon</em></td><td><em>arra</em></td><td><em>arról</em></td><td><em>addig</em></td><td><em>azért</em></td></tr>
+  <tr><th>Paradigm <i>az</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Sup</tt></th><th><tt>Del</tt></th><th><tt>Ter</tt></th><th><tt>Cau</tt></th><th><tt>Sbl</tt></th></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>az</em></td><td><em>azt</em></td><td><em>annak</em></td><td><em>annak</em></td><td><em>azzal, avval</em></td><td><em>abban</em></td><td><em>abba</em></td><td><em>abból</em></td><td><em>ahhoz</em></td><td><em>attól</em></td><td><em>azon</em></td><td><em>arról</em></td><td><em>addig</em></td><td><em>azért</em></td><td><em>arra</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>azok</em></td><td><em>azokat</em></td><td><em>azoknak</em></td><td></td><td></td><td><em>azokban</em></td><td></td><td><em>azokból</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -169,7 +169,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 * `Ine` (48; 4% of non-empty `Case`): <em>1991-ben, 1997-ben, 1992-ben, 1995-ben, 1998-ban, 1964-ben, 1990-ben, 1996-ban, 1999-ben, 2000-ben</em>
 * `Ins` (8; 1% of non-empty `Case`): <em>milliárddal, 8,9-del, ezerrel, kétharmaddal, millióval, tizeddel, tízmillióval</em>
 * `Nom` (1005; 90% of non-empty `Case`): <em>két, milliárd, millió, egy, három, több, ezer, négy, 30, 10</em>
-* `Sub` (10; 1% of non-empty `Case`): <em>2000-re, 1991-re, 2002-re, 3500-ra, 47-re, 76,8-ra, egyre, tizedére, többre</em>
+* `Sbl` (10; 1% of non-empty `Case`): <em>2000-re, 1991-re, 2002-re, 3500-ra, 47-re, 76,8-ra, egyre, tizedére, többre</em>
 * `Tem` (1; 0% of non-empty `Case`): <em>tízkor</em>
 * `Ter` (7; 1% of non-empty `Case`): <em>1998-ig, 10-ig, 1996-ig, 2007-ig, 5-ig, egyig</em>
 
@@ -197,14 +197,14 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Ine` (13; 10% of non-empty `Case`): <em>ebben, azokban, ezekben</em>
 * `Ins` (4; 3% of non-empty `Case`): <em>azzal, azokkal, ezekkel</em>
 * `Nom` (42; 33% of non-empty `Case`): <em>ez, ilyen, e, az, olyan, ezek, Mindaz, akkora, ezen</em>
-* `Sub` (5; 4% of non-empty `Case`): <em>arra, ezekre</em>
+* `Sbl` (5; 4% of non-empty `Case`): <em>arra, ezekre</em>
 * `Sup` (8; 6% of non-empty `Case`): <em>ezen, ezeken</em>
 * `EMPTY` (5148): <em>a, az, egy, több, minden, egyik, néhány, sok, más, másik</em>
 
 <table>
-  <tr><th>Paradigm <i>ez</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Ine</tt></th><th><tt>Ela</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Sup</tt></th><th><tt>Sub</tt></th><th><tt>Del</tt></th></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ez</em></td><td><em>ezt</em></td><td><em>Ennek</em></td><td></td><td><em>ebben</em></td><td><em>ebből</em></td><td><em>ehhez</em></td><td><em>Ettől</em></td><td><em>ezen</em></td><td></td><td><em>erről</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ezek</em></td><td><em>ezeket</em></td><td></td><td><em>ezekkel</em></td><td><em>ezekben</em></td><td><em>ezekből</em></td><td></td><td></td><td><em>ezeken</em></td><td><em>ezekre</em></td><td></td></tr>
+  <tr><th>Paradigm <i>ez</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Ine</tt></th><th><tt>Ela</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Sup</tt></th><th><tt>Del</tt></th><th><tt>Sbl</tt></th></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ez</em></td><td><em>ezt</em></td><td><em>Ennek</em></td><td></td><td><em>ebben</em></td><td><em>ebből</em></td><td><em>ehhez</em></td><td><em>Ettől</em></td><td><em>ezen</em></td><td><em>erről</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ezek</em></td><td><em>ezeket</em></td><td></td><td><em>ezekkel</em></td><td><em>ezekben</em></td><td><em>ezekből</em></td><td></td><td></td><td><em>ezeken</em></td><td></td><td><em>ezekre</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Case`

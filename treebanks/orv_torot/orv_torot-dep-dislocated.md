@@ -22,14 +22,14 @@ The following 38 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 3 dislocated	color:blue
-1	аще	аще	SCONJ	G-	_	3	mark	_	ref=55.2
-2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=55.2
-3	оубьемъ	убити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	dislocated	_	ref=55.2
-4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	ref=55.3
-5	то	то	ADV	Df	_	8	advmod	_	ref=55.3
-6	все	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	7	det	_	ref=55.3
-7	ны	мы	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	obj	_	ref=55.3
-8	погубить	погубити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=55.3
+1	аще	аще	SCONJ	G-	_	3	mark	_	Ref=55.2
+2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	Ref=55.2
+3	оубьемъ	убити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	dislocated	_	Ref=55.2
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Ref=55.3
+5	то	то	ADV	Df	_	8	advmod	_	Ref=55.3
+6	все	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	7	det	_	Ref=55.3
+7	ны	мы	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	obj	_	Ref=55.3
+8	погубить	погубити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=55.3
 
 ~~~
 
@@ -40,16 +40,16 @@ The following 38 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 dislocated	color:blue
-1	гл҃аахѹ	глаголати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=27
-2	ꙗко	яко	SCONJ	G-	_	6	mark	_	ref=27
-3	въ	въ	ADP	R-	_	4	case	_	ref=27
-4	полатахъ	полата	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	1	dislocated	_	ref=27
-5	цр҃квьныихъ	цьркъвьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	ref=27
-6	тѹ	ту	ADV	Df	_	1	ccomp	_	ref=27
-7	ѥсть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=27
-8	имѣниѥ	имѣние	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=27
-9	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	ref=27
-10	съкръвено	съкръвеныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	amod	_	ref=27
+1	гл҃аахѹ	глаголати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=27
+2	ꙗко	яко	SCONJ	G-	_	6	mark	_	Ref=27
+3	въ	въ	ADP	R-	_	4	case	_	Ref=27
+4	полатахъ	полата	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	1	dislocated	_	Ref=27
+5	цр҃квьныихъ	цьркъвьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	Ref=27
+6	тѹ	ту	ADV	Df	_	1	ccomp	_	Ref=27
+7	ѥсть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Ref=27
+8	имѣниѥ	имѣние	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=27
+9	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	Ref=27
+10	съкръвено	съкръвеныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	amod	_	Ref=27
 
 ~~~
 
@@ -60,15 +60,15 @@ The following 38 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 dislocated	color:blue
-1	въ	въ	ADP	R-	_	4	case	_	ref=3
-2	чьѥи	чии	DET	Px	Case=Loc|Gender=Fem|Number=Sing	4	det	_	ref=3
-3	же	же	ADV	Df	_	2	amod	_	ref=3
-4	верви	вьрвь	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	ref=3
-5	голова	голова	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=3
-6	лежить	лежати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	dislocated	_	ref=3
-7	то	то	ADV	Df	_	0	root	_	ref=3
-8	п҃	осмьдесятъ	NUM	Ma	_	7	obj	_	ref=3
-9	гр҃и	гривьна	NOUN	Nb	_	8	nmod	_	ref=3
+1	въ	въ	ADP	R-	_	4	case	_	Ref=3
+2	чьѥи	чии	DET	Px	Case=Loc|Gender=Fem|Number=Sing	4	det	_	Ref=3
+3	же	же	ADV	Df	_	2	amod	_	Ref=3
+4	верви	вьрвь	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	Ref=3
+5	голова	голова	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Ref=3
+6	лежить	лежати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	dislocated	_	Ref=3
+7	то	то	ADV	Df	_	0	root	_	Ref=3
+8	п҃	осмьдесятъ	NUM	Ma	_	7	obj	_	Ref=3
+9	гр҃и	гривьна	NOUN	Nb	_	8	nmod	_	Ref=3
 
 ~~~
 

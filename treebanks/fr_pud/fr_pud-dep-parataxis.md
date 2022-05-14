@@ -22,7 +22,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 5 parataxis	color:blue
-1	Sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	wordform=sa
+1	Sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	2	det	_	wordform=sa
 2	voix	voix	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	littéralement	littéralement	ADV	RB	_	5	advmod	_	_
@@ -50,7 +50,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	où	où	ADV	WRB	_	3	obl	_	_
 3	vient	venir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	toute	tout	ADJ	PDT	Gender=Fem|Number=Sing	6	amod	_	_
-5	son	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+5	son	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	énergie	énergie	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
 7	?	?	PUNCT	.	_	3	punct	_	_
 8	Et	et	CCONJ	CC	_	10	cc	_	wordform=et

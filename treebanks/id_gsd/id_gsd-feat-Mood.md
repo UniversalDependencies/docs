@@ -9,29 +9,29 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
-10772 tokens (9%) have a non-empty value of `Mood`.
-2395 types (12%) occur at least once with a non-empty value of `Mood`.
-1256 lemmas (8%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 1 part-of-speech tags: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (10772; 9% instances).
+10755 tokens (9%) have a non-empty value of `Mood`.
+2384 types (12%) occur at least once with a non-empty value of `Mood`.
+1255 lemmas (8%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 1 part-of-speech tags: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (10755; 9% instances).
 
 ### `VERB`
 
-10772 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Mood`.
+10755 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="id_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7384; 69%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="id_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7367; 68%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (3; 0% of non-empty `Mood`): <em>Amankan, Ijinkan, Sukseskan</em>
-* `Ind` (10769; 100% of non-empty `Mood`): <em>menjadi, memiliki, terletak, digunakan, berada, menggunakan, dikenal, terjadi, membuat, disebut</em>
-* `EMPTY` (1717): <em>merupakan, ada, termasuk, berhasil, adanya, belajar, di, hidup, tahu, jadi</em>
+* `Ind` (10752; 100% of non-empty `Mood`): <em>menjadi, memiliki, terletak, digunakan, berada, menggunakan, dikenal, terjadi, membuat, disebut</em>
+* `EMPTY` (1716): <em>merupakan, ada, termasuk, berhasil, adanya, belajar, di, hidup, tahu, jadi</em>
 
 <table>
   <tr><th>Paradigm <i>aman</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
   <tr><td><tt></tt></td><td><em>mengamankan</em></td><td><em>Amankan</em></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (1254) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (1253) occur only with one value of `Mood`.
 
 ## Relations with Agreement in `Mood`
 

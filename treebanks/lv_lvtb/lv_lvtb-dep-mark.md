@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5075 nodes (2%) are attached to their parents as `mark`.
+5405 nodes (2%) are attached to their parents as `mark`.
 
-5071 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.64.
+5400 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.66327474560592.
 
-The following 25 pairs of parts of speech are connected with `mark`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (4115; 81% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (279; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (248; 5% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (200; 4% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (109; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (20; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (17; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `mark`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (4348; 80% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (304; 6% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (297; 5% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (201; 4% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (119; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (24; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (23; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (20; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (17; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,27 +33,6 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 9	tikai	tikai	PART	q	_	11	discourse	11:discourse	LvtbNodeId=a-c12-p51s2w9
 10	par	par	ADP	spsa	_	11	case	11:case	LvtbNodeId=a-c12-p51s2w10
 11	labu	labs	ADJ	afmsanp	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	obl	8:obl:par	LvtbNodeId=a-c12-p51s2w11
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 mark	color:blue
-1	Viss	viss	DET	pg0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	2	det	2:det	LvtbNodeId=a-d197-p43s2w1
-2	stāvs	stāvs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	LvtbNodeId=a-d197-p43s2w2
-3	it	it	PART	q	_	6	discourse	6:discourse	LvtbNodeId=a-d197-p43s2w3
-4	kā	kā	PART	q	_	3	fixed	3:fixed	LvtbNodeId=a-d197-p43s2w4
-5	strauji	strauji	ADV	rpm	Degree=Pos	6	advmod	6:advmod	LvtbNodeId=a-d197-p43s2w5
-6	novīta	novīst	VERB	vmnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d197-p43s2w6
-7	-	-	PUNCT	zd	_	9	punct	9:punct	LvtbNodeId=a-d197-p43s2w7
-8	kā	kā	SCONJ	cs	_	9	mark	9:mark	LvtbNodeId=a-d197-p43s2w8
-9	puķe	puķe	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	6	obl	6:obl:nom	LvtbNodeId=a-d197-p43s2w9
-10	vāzē	vāze	NOUN	ncfsl5	Case=Loc|Gender=Fem|Number=Sing	9	nmod	9:nmod:loc	LvtbNodeId=a-d197-p43s2w10|SpaceAfter=No
-11	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-d197-p43s2w11
 
 ~~~
 
@@ -81,6 +60,27 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 15	tik	tik	ADV	r0q	PronType=Dem	16	advmod	16:advmod	LvtbNodeId=a-d197-p89s4w15
 16	sīka	sīks	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	11	advcl	11:advcl	LvtbNodeId=a-d197-p89s4w16|SpaceAfter=No
 17	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d197-p89s4w17
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 mark	color:blue
+1	Viss	viss	DET	pg0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	2	det	2:det	LvtbNodeId=a-d197-p43s2w1
+2	stāvs	stāvs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	LvtbNodeId=a-d197-p43s2w2
+3	it	it	PART	q	_	6	discourse	6:discourse	LvtbNodeId=a-d197-p43s2w3
+4	kā	kā	PART	q	_	3	fixed	3:fixed	LvtbNodeId=a-d197-p43s2w4
+5	strauji	strauji	ADV	rpm	Degree=Pos	6	advmod	6:advmod	LvtbNodeId=a-d197-p43s2w5
+6	novīta	novīst	VERB	vmnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d197-p43s2w6
+7	-	-	PUNCT	zd	_	9	punct	9:punct	LvtbNodeId=a-d197-p43s2w7
+8	kā	kā	SCONJ	cs	_	9	mark	9:mark	LvtbNodeId=a-d197-p43s2w8
+9	puķe	puķe	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	6	obl	6:obl:nom	LvtbNodeId=a-d197-p43s2w9
+10	vāzē	vāze	NOUN	ncfsl5	Case=Loc|Gender=Fem|Number=Sing	9	nmod	9:nmod:loc	LvtbNodeId=a-d197-p43s2w10|SpaceAfter=No
+11	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-d197-p43s2w11
 
 ~~~
 

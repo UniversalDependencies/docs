@@ -22,16 +22,16 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 cop	color:blue
-1	gaudete	gaudeo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.12
-2	et	et	CCONJ	C-	_	1	cc	_	ref=MATT_5.12
-3	exultate	ex(s)ulto	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=MATT_5.12
-4	quoniam	quoniam	SCONJ	G-	_	7	mark	_	ref=MATT_5.12
-5	merces	merces	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=MATT_5.12
-6	vestra	vester	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	5	det	_	ref=MATT_5.12
-7	copiosa	copiosus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	advcl	_	ref=MATT_5.12
-8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=MATT_5.12
-9	in	in	ADP	R-	_	10	case	_	ref=MATT_5.12
-10	caelis	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	5	nmod	_	ref=MATT_5.12
+1	gaudete	gaudeo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.12
+2	et	et	CCONJ	C-	_	1	cc	_	Ref=MATT_5.12
+3	exultate	ex(s)ulto	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Ref=MATT_5.12
+4	quoniam	quoniam	SCONJ	G-	_	7	mark	_	Ref=MATT_5.12
+5	merces	merces	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Ref=MATT_5.12
+6	vestra	vester	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	5	det	_	Ref=MATT_5.12
+7	copiosa	copiosus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	advcl	_	Ref=MATT_5.12
+8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Ref=MATT_5.12
+9	in	in	ADP	R-	_	10	case	_	Ref=MATT_5.12
+10	caelis	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	5	nmod	_	Ref=MATT_5.12
 
 ~~~
 
@@ -42,10 +42,10 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
-1	vos	vos	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	ref=MATT_5.13
-2	estis	sum	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_5.13
-3	sal	sal	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=MATT_5.13
-4	terrae	terra	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	ref=MATT_5.13
+1	vos	vos	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Ref=MATT_5.13
+2	estis	sum	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Ref=MATT_5.13
+3	sal	sal	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Ref=MATT_5.13
+4	terrae	terra	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	Ref=MATT_5.13
 
 ~~~
 
@@ -56,11 +56,11 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cop	color:blue
-1	talitha	talitha	X	F-	_	5	vocative	_	ref=MARK_5.41
-2	cumi	cumi	X	F-	_	5	vocative	_	ref=MARK_5.41
-3	quod	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	_	ref=MARK_5.41
-4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=MARK_5.41
-5	interpretatum	interpretor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=MARK_5.41
+1	talitha	talitha	X	F-	_	5	vocative	_	Ref=MARK_5.41
+2	cumi	cumi	X	F-	_	5	vocative	_	Ref=MARK_5.41
+3	quod	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	_	Ref=MARK_5.41
+4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Ref=MARK_5.41
+5	interpretatum	interpretor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Ref=MARK_5.41
 
 ~~~
 

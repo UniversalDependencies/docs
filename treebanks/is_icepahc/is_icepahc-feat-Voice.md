@@ -11,7 +11,7 @@ It occurs with 2 different values: `Act`, `Mid`.
 
 173726 tokens (18%) have a non-empty value of `Voice`.
 12578 types (19%) occur at least once with a non-empty value of `Voice`.
-4299 lemmas (12%) occur at least once with a non-empty value of `Voice`.
+4297 lemmas (12%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 15 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (117662; 12% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (48983; 5% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (2449; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (1533; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1373; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (558; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (444; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (375; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (203; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (80; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (29; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances).
 
 ### `VERB`
@@ -126,7 +126,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 * `Act` (1465; 96% of non-empty `Voice`): <em>eigi, nær, heldur, snart, fór, aldri, fyr, kann, braut, gjör</em>
 * `Mid` (68; 4% of non-empty `Voice`): <em>helst, næst, einast, minnst, skjótast, snarast, framast, gerst, Geyst, Sicut</em>
-* `EMPTY` (77492): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
+* `EMPTY` (77490): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
 
 <table>
   <tr><th>Paradigm <i>heldur</i></th><th><tt>Act</tt></th><th><tt>Mid</tt></th></tr>
@@ -149,7 +149,7 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 
 * `Act` (1360; 99% of non-empty `Voice`): <em>náð, vilja, synda, votta, greinir, engi, sótt, sakar, búandi, syndir</em>
 * `Mid` (13; 1% of non-empty `Voice`): <em>prófast, bast, brest, drustdrust, finnast, glest, snjókast, veizlan</em>
-* `EMPTY` (144578): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (144574): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>brestur</i></th><th><tt>Act</tt></th><th><tt>Mid</tt></th></tr>
@@ -171,7 +171,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 * `Act` (518; 93% of non-empty `Voice`): <em>verður, var, fær, nær, ríkir, sanna, helga, kunnigt, leitt, átti</em>
 * `Mid` (40; 7% of non-empty `Voice`): <em>vænst, sannast, áminnst, Bezt, auðvíst, beinst, byrst, frægst, hentust, hreinsast</em>
-* `EMPTY` (36597): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36606): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 <table>
   <tr><th>Paradigm <i>góður</i></th><th><tt>Act</tt></th><th><tt>Mid</tt></th></tr>
@@ -246,7 +246,7 @@ The most frequent other feature values with which `PROPN` and `Voice` co-occurre
 
 * `Act` (78; 98% of non-empty `Voice`): <em>Vali, sankti, Refur, Valdi, Georgíus, Maii, Ríkilað, anda, guði, Ótta</em>
 * `Mid` (2; 3% of non-empty `Voice`): <em>Majst</em>
-* `EMPTY` (41327): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41324): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 <table>
   <tr><th>Paradigm <i>majst</i></th><th><tt>Act</tt></th><th><tt>Mid</tt></th></tr>

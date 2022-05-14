@@ -54,7 +54,7 @@ The most frequent other feature values with which `X` and `Polarity` co-occurred
 `X` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>no, so</em>
-* `EMPTY` (1982): <em>ex, hab, 's, etc., ya, C, ², x, i, mm</em>
+* `EMPTY` (1978): <em>ex, hab, 's, etc., ya, C, ², x, i, mm</em>
 
 ### `ADJ`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `orphan`.
+10 nodes (0%) are attached to their parents as `orphan`.
 
-7 instances of `orphan` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.72727272727273.
+6 instances of `orphan` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.9.
 
-The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt> (3; 27% instances), <tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt> (3; 27% instances), <tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt> (2; 18% instances), <tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt> (1; 9% instances), <tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt> (1; 9% instances), <tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="ckt_hse-pos-ADJ.html">ADJ</a></tt> (1; 9% instances).
+The following 5 pairs of parts of speech are connected with `orphan`: <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt> (3; 30% instances), <tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt> (3; 30% instances), <tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt> (2; 20% instances), <tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt> (1; 10% instances), <tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -63,17 +63,17 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 orphan	color:blue
-1	Нэмэ	_	ADV	_	_	2	advmod	_	Gloss=опять
-2	Мачквагты	_	PROPN	_	_	0	root	_	Gloss=Москва-DAT
-3	Мачквайпы	_	PROPN	_	_	4	orphan	_	Gloss=Москва-ABL
-4	Въаӈэты	_	PROPN	_	_	2	conj	_	Gloss=Анадырь-DAT
-5	Въаӈгыпы	_	PROPN	_	_	6	orphan	_	Gloss=Анадырь-ABL
-6	эԓгыӄанъявэты	_	PROPN	_	_	2	conj	_	Gloss=белый-ущелье-DAT
-7	ынкъам	_	CCONJ	_	_	10	cc	_	Gloss=и
-8	ӈутриԓы	_	ADV	_	_	10	advmod	_	Gloss=тут-ADV.ALL.EXH
-9	нэмэ	_	ADV	_	_	10	advmod	_	Gloss=опять
-10	мытрарагтыаʼ	_	VERB	_	_	2	conj	_	Gloss=1PL.S/A-FUT-жилище-GO.TO-TH|SpaceAfter=No
-11	.	_	PUNCT	_	_	2	punct	_	_
+1	Нэмэ	_	ADV	_	_	2	advmod	2:advmod	Gloss=опять
+2	Мачквагты	_	PROPN	_	_	0	root	0:root	Gloss=Москва-DAT
+3	Мачквайпы	_	PROPN	_	_	4	orphan	4.1:obl	Gloss=Москва-ABL
+4	Въаӈэты	_	PROPN	_	_	2	conj	4.1:obl	Gloss=Анадырь-DAT
+5	Въаӈгыпы	_	PROPN	_	_	6	orphan	6.1:obl	Gloss=Анадырь-ABL
+6	эԓгыӄанъявэты	_	PROPN	_	_	2	conj	6.1:obl	Gloss=белый-ущелье-DAT
+7	ынкъам	_	CCONJ	_	_	10	cc	10:cc	Gloss=и
+8	ӈутриԓы	_	ADV	_	_	10	advmod	10:advmod	Gloss=тут-ADV.ALL.EXH
+9	нэмэ	_	ADV	_	_	10	advmod	10:advmod	Gloss=опять
+10	мытрарагтыаʼ	_	VERB	_	_	2	conj	2:conj	Gloss=1PL.S/A-FUT-жилище-GO.TO-TH|SpaceAfter=No
+11	.	_	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

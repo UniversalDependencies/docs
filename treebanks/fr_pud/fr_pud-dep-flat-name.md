@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 2	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	parlé	parler	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	de	de	ADP	IN	_	6	case	_	_
-5	son	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+5	son	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	expérience	expérience	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
 7	à	à	ADP	IN	_	8	case	_	_
 8	CCN	CCN	PROPN	NNP	_	6	nmod	_	_
@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat:name	color:blue
 1	De	de	ADP	IN	_	3	case	_	wordform=de
-2	son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+2	son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	côté	côté	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	Mme	madame	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_

@@ -9,68 +9,60 @@ udver: '2'
 This relation is universal.
 There are 4 language-specific subtypes of `flat`: <tt><a href="hyw_armtdp-dep-flat-dist.html">flat:dist</a></tt>, <tt><a href="hyw_armtdp-dep-flat-frac.html">flat:frac</a></tt>, <tt><a href="hyw_armtdp-dep-flat-name.html">flat:name</a></tt>, <tt><a href="hyw_armtdp-dep-flat-range.html">flat:range</a></tt>.
 
-262 nodes (0%) are attached to their parents as `flat`.
+414 nodes (0%) are attached to their parents as `flat`.
 
-262 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.00763358778626.
+414 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.00966183574879.
 
-The following 29 pairs of parts of speech are connected with `flat`: <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (83; 32% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (63; 24% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (31; 12% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (28; 11% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (8; 3% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 32 pairs of parts of speech are connected with `flat`: <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (138; 33% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (84; 20% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (53; 13% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (50; 12% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (16; 4% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-SYM.html">SYM</a></tt> (8; 2% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (8; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 flat	color:blue
-1	–	–	PUNCT	_	_	2	punct	_	Translit=–|LTranslit=–
-2	Կրնամ	կրնալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=Krnam|LTranslit=krnal
-3	՞	՞	PUNCT	_	_	2	punct	_	Translit=?|LTranslit=?
-4	քիչիկ	քիչիկ	ADV	_	Style=Expr	9	advmod	_	Translit=k’ičik|LTranslit=k’ičik
-5	մը	մը	DET	_	PronType=Art	4	det	_	Translit=më|LTranslit=më
-6	թի	թի	X	_	_	9	obj	_	Translit=t’i|LTranslit=t’i|SpaceAfter=No
-7	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-8	վի	վի	X	_	_	6	flat	_	Translit=vi|LTranslit=vi
-9	դիտել	դիտել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	2	xcomp	_	Translit=ditel|LTranslit=ditel|SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
-11	–	–	PUNCT	_	_	13	punct	_	Translit=–|LTranslit=–
-12	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	13	aux	_	Translit=kë|LTranslit=kë
-13	հարցնեմ	հարցնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	Translit=harc’nem|LTranslit=harc’nel
-14	մեծ	մեծ	ADJ	_	Degree=Pos	15	amod	_	Translit=meç|LTranslit=meç
-15	մամային	մամա	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	13	obj	_	Translit=mamayin|LTranslit=mama|SpaceAfter=No
-16	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 flat	color:blue
+1	Եղբայրութիւնը	եղբայրութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=Eġbayrowt’iwnë|LTranslit=eġbayrowt’iwn
+2	(	(	PUNCT	_	_	3	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
+3	The	the	X	_	Foreign=Yes	1	parataxis	_	Translit=The|LTranslit=the
+4	Brotherhood	Brotherhood	X	_	Foreign=Yes	3	flat	_	Translit=Brotherhood|LTranslit=Brotherhood|SpaceAfter=No
+5	)	)	PUNCT	_	_	3	punct	_	Translit=)|LTranslit=)
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 flat	color:blue
-1	Օգոստոս	Օգոստոս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=Ògostos|LTranslit=Ògostos|SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,
-3	2014	2014	NUM	_	NumForm=Digit|NumType=Card	1	flat	_	Translit=2014|LTranslit=2014
+# visual-style 1 4 flat	color:blue
+1	Մայիս	Մայիս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=Mayis|LTranslit=Mayis|SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+3	Յունիս	Յունիս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	flat	_	Translit=Yownis|LTranslit=Yownis
+4	2021	2021	NUM	_	NumForm=Digit|NumType=Card	1	flat	_	Translit=2021|LTranslit=2021
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 flat	color:blue
-1	Հայոց	Հայ	NOUN	_	Animacy=Hum|Case=Gen|Definite=Ind|Number=Plur|Style=Arch	2	nmod:poss	_	Translit=Hayoc’|LTranslit=Hay
-2	Ցեղասպանութեան	ցեղասպանութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	Translit=C’eġaspanowt’ean|LTranslit=c’eġaspanowt’iwn
-3	106	106	NUM	_	NumForm=Digit|NumType=Card	7	nmod:poss	_	Translit=106|LTranslit=106|SpaceAfter=No
-4	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-5	Ամեակի	ամեակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	flat	_	Translit=Ameaki|LTranslit=ameak
-6	Առցանց	առցանց	ADJ	_	_	7	amod	_	Translit=Aṙc’anc’|LTranslit=aṙc’anc’
-7	Ոգեկոչում	ոգեկոչում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=Ogekočowm|LTranslit=ogekočowm
-8	Այնճարի	Այնճար	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	7	nmod:npmod	_	Translit=Aynč̣ari|LTranslit=Aynč̣ar
-9	Մէջ	մէջ	ADP	_	AdpType=Post	8	case	_	Translit=Mēǰ|LTranslit=mēǰ
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 flat	color:blue
+1	Իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	2	det	_	Translit=Ir|LTranslit=ink’
+2	առաքելութեան	առաքելութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	obj	_	Translit=aṙak’elowt’ean|LTranslit=aṙak’elowt’iwn
+3	ձեռնարկած	ձեռնարկել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=jeṙnarkaç|LTranslit=jeṙnarkel
+4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
+5	՝	՝	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
+6	14	14	NUM	_	NumForm=Digit|NumType=Card	3	obl	_	Translit=14|LTranslit=14
+7	Սեպտեմբեր	Սեպտեմբեր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	flat	_	Translit=September|LTranslit=September
+8	1886	1886	NUM	_	NumForm=Digit|NumType=Card	6	flat	_	Translit=1886|LTranslit=1886|SpaceAfter=No
+9	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+10	ին	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Hyph=Yes|Number=Sing	8	dep	_	Translit=in|LTranslit=ë|SpaceAfter=No
+11	:	:	PUNCT	_	Foreign=Yes	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

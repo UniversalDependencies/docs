@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>Cože</em> (<tt><a href="cs_fictree-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.028571 (the average of all parts of speech is 1.973368).
+The form / lemma ratio of `INTJ` is 1.028571 (the average of all parts of speech is 1.970842).
 
 The 1st highest number of forms (2) was observed with the lemma “cože”: <em>COŽE, Cože</em>.
 
@@ -55,7 +55,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ach”: <em>A
 
 `INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (46; 42% instances), <tt><a href="cs_fictree-dep-root.html">root</a></tt> (44; 40% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (8; 7% instances), <tt><a href="cs_fictree-dep-discourse.html">discourse</a></tt> (7; 6% instances), <tt><a href="cs_fictree-dep-obj.html">obj</a></tt> (3; 3% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (2; 2% instances)
 
-Parents of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (49; 45% instances),  (44; 40% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (3; 3% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
+Parents of `INTJ` nodes belong to 9 different parts of speech:  (44; 40% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (44; 40% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (3; 3% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
 
 46 (42%) `INTJ` nodes are leaves.
 

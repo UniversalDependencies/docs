@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 496 tokens (1%) have a non-empty value of `Poss`.
 60 types (0%) occur at least once with a non-empty value of `Poss`.
-6 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+5 lemmas (0%) occur at least once with a non-empty value of `Poss`.
 The feature is used with 1 part-of-speech tags: <tt><a href="la_udante-pos-DET.html">DET</a></tt> (496; 1% instances).
 
 ### `DET`
@@ -23,5 +23,5 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (496; 100% of non-empty `Poss`): <em>sua, suis, suam, suo, nostra, sue, suum, nostri, sui, nostre</em>
-* `EMPTY` (3030): <em>hoc, illa, illud, hec, ipsum, omnes, aliud, quedam, huius, hiis</em>
+* `EMPTY` (3044): <em>hoc, illa, illud, hec, ipsum, omnes, aliud, quedam, huius, hiis</em>
 

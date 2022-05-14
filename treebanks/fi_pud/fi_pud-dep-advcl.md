@@ -24,7 +24,7 @@ The following 20 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 7 3 advcl	color:blue
 1	Kun	kun	SCONJ	_	_	3	mark	3:mark	_
 2	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	3:aux:pass	_
-3	palattu	palata	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	7	advcl	7:advcl	_
+3	palattu	palata	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	7	advcl	7:advcl	_
 4	junaan	juna	NOUN	_	Case=Ill|Number=Sing	3	obl	3:obl	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	7:punct	_
 6	matka	matka	NOUN	_	Case=Nom|Number=Sing	7	nsubj	7:nsubj	_

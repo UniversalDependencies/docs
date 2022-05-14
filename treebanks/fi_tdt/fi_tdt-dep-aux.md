@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="fi_tdt-dep-aux-pas
 5831 nodes (3%) are attached to their parents as `aux`.
 
 5622 instances of `aux` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.78562853712914.
+Average distance between parent and child is 1.78580003429943.
 
 The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (4879; 84% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (435; 7% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (261; 4% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (129; 2% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (92; 2% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt>-<tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt>-<tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
@@ -44,9 +44,9 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Halvimmat	halpa	ADJ	A	Case=Nom|Degree=Sup|Number=Plur	9	nsubj:cop	9:nsubj:cop	_
 2	mitä	mikä	PRON	Pron	Case=Par|Number=Sing|PronType=Rel	4	obj	4:obj	_
 3	olen	olla	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
-4	nähnyt	nähdä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	1	acl:relcl	1:acl:relcl	_
+4	nähnyt	nähdä	VERB	V	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	1	acl:relcl	1:acl:relcl	_
 5	ovat	olla	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	9:aux	_
-6	olleet	olla	AUX	V	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	9	cop	9:cop	_
+6	olleet	olla	AUX	V	Case=Nom|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	9	cop	9:cop	_
 7	yli	yli	ADV	Adv	_	8	advmod	8:advmod	_
 8	400	400	NUM	Num	NumType=Card	9	nummod	9:nummod	_
 9	euroa	euro	NOUN	N	Case=Par|Number=Sing	0	root	0:root	SpaceAfter=No

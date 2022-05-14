@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>расположен</em>
-* `EMPTY` (12271): <em>второй, 2008, 2010, других, 2004, первый, 2012, 1, 2006, 2011</em>
+* `EMPTY` (12272): <em>второй, 2008, 2010, других, 2004, первый, 2012, 1, 2006, 2011</em>
 
 ## Relations with Agreement in `Voice`
 

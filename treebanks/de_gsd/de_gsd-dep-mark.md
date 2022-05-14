@@ -34,7 +34,7 @@ The following 29 pairs of parts of speech are connected with `mark`: <tt><a href
 10	hier	hier	ADV	ADV	_	13	advmod	_	_
 11	sehr	sehr	ADV	ADV	_	12	advmod	_	_
 12	gut	gut	ADV	ADJD	_	13	advmod	_	_
-13	gefällt	fällen	VERB	VVFIN	VerbForm=Part	3	advcl	_	SpaceAfter=No
+13	gefällt	fällen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
 14	!	!	PUNCT	$.	_	3	punct	_	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 29 pairs of parts of speech are connected with `mark`: <tt><a href
 1	Ich	ich	PRON	PPER	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	hatte	haben	VERB	VAFIN	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	Gelegenheit	Gelegenheit	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
-4	eines	ein	DET	PIS	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	6	det	_	_
+4	eines	ein	DET	PIS	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	6	det	_	_
 5	seiner	sein	DET	PPOSAT	Case=Gen|Gender=Neut|Gender[psor]=Masc,Neut|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det:poss	_	_
 6	Seminare	Seminar	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	8	obj	_	_
 7	zu	zu	PART	PTKZU	_	8	mark	_	_
@@ -70,9 +70,9 @@ The following 29 pairs of parts of speech are connected with `mark`: <tt><a href
 3	nur	nur	ADV	ADV	_	2	advmod	_	_
 4	darauf	darauf	ADV	PAV	_	2	advmod	_	_
 5	aus	aus	ADP	APPR	_	2	mark	_	_
-6	einem	ein	PRON	PIS	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	11	iobj	_	_
+6	einem	ein	PRON	PIS	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	11	iobj	_	_
 7	ein	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
-8	neues	neu	ADJ	ADJA	Case=Acc|Gender=Neut|Number=Sing	9	amod	_	_
+8	neues	neu	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
 9	Haarteil	Haarteil	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
 10	zu	zu	PART	PTKZU	_	11	mark	_	_
 11	verkaufen	verkaufen	VERB	VVINF	VerbForm=Inf	2	xcomp	_	SpaceAfter=No

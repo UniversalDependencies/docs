@@ -28,7 +28,7 @@ The feature is used with 11 part-of-speech tags: <tt><a href="fi_ood-pos-ADV.htm
 
 42 <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (39; 93%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (36; 86%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31; 74%), <tt><a href="fi_ood-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (29; 69%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (29; 69%), <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (25; 60%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23; 55%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (39; 93%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (36; 86%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31; 74%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (29; 69%), <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (25; 60%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23; 55%).
 
 `VERB` tokens may have the following values of `Style`:
 

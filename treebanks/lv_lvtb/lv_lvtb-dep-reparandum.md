@@ -8,29 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `reparandum`.
+12 nodes (0%) are attached to their parents as `reparandum`.
 
-7 instances of `reparandum` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.5.
+10 instances of `reparandum` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.
 
-The following 6 pairs of parts of speech are connected with `reparandum`: <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3; 30% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 20% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (2; 20% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 10% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 10% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 reparandum	color:blue
-1	Tie	tas	PRON	pd3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	3	reparandum	3:reparandum	LvtbNodeId=a-p3447-p33s7w1
-2	pamatā	pamats	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl:loc	LvtbNodeId=a-p3447-p33s7w2
-3	tie	tas	PRON	pd3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	4	nsubj	4:nsubj	LvtbNodeId=a-p3447-p33s7w3
-4	nāk	nākt	VERB	vmnipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p3447-p33s7w4
-5	no	no	ADP	spsg	_	6	case	6:case	LvtbNodeId=a-p3447-p33s7w5
-6	Krievijas	Krievija	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl:no	LvtbNodeId=a-p3447-p33s7w6|SpaceAfter=No
-7	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-p3447-p33s7w7
-
-~~~
+The following 6 pairs of parts of speech are connected with `reparandum`: <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 25% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3; 25% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 25% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 8% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -52,13 +35,30 @@ The following 6 pairs of parts of speech are connected with `reparandum`: <tt><a
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 reparandum	color:blue
+1	Tie	tas	PRON	pd3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	3	reparandum	3:reparandum	LvtbNodeId=a-p3447-p33s7w1
+2	pamatā	pamats	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl:loc	LvtbNodeId=a-p3447-p33s7w2
+3	tie	tas	PRON	pd3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	4	nsubj	4:nsubj	LvtbNodeId=a-p3447-p33s7w3
+4	nāk	nākt	VERB	vmnipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p3447-p33s7w4
+5	no	no	ADP	spsg	_	6	case	6:case	LvtbNodeId=a-p3447-p33s7w5
+6	Krievijas	Krievija	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl:no	LvtbNodeId=a-p3447-p33s7w6|SpaceAfter=No
+7	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-p3447-p33s7w7
+
+~~~
+
+
+~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 reparandum	color:blue
 1	Neviens	neviens	PRON	pi0msny	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind,Neg	2	nsubj	2:nsubj	LvtbNodeId=a-p18885-p3s3w1
-2	nedodas	doties	VERB	vmyipi130ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	14:parataxis	LvtbNodeId=a-p18885-p3s3w2
+2	nedodas	doties	VERB	vmyipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	14:parataxis	LvtbNodeId=a-p18885-p3s3w2
 3	laukumā	laukums	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	2	obl	2:obl:loc	LvtbNodeId=a-p18885-p3s3w3|SpaceAfter=No
 4	,	,	PUNCT	zc	_	5	punct	5:punct	LvtbNodeId=a-p18885-p3s3w4
 5	rēķinoties	rēķināties	VERB	vmypu0000000n	Polarity=Pos|Reflex=Yes|VerbForm=Conv	2	advcl	2:advcl	LvtbNodeId=a-p18885-p3s3w5

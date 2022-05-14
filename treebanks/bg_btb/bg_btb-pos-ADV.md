@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>само</em> (<tt><a href="bg_btb-po
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.141159 (the average of all parts of speech is 1.727371).
+The form / lemma ratio of `ADV` is 1.141159 (the average of all parts of speech is 1.727418).
 
 The 1st highest number of forms (9) was observed with the lemma “там”: <em>По-нататък, дотам, дотук, нататък, оттам, оттук, там, тук, тука</em>.
 

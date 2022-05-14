@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-77 nodes (3%) are attached to their parents as `mark`.
+83 nodes (3%) are attached to their parents as `mark`.
 
-75 instances of `mark` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.01298701298701.
+81 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.97590361445783.
 
-The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (50; 65% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (17; 22% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (4; 5% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (3; 4% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (53; 64% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (20; 24% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (4; 5% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (3; 4% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

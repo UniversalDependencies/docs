@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `ADV`
 
-There are 183 `ADV` lemmas (6%), 184 `ADV` types (4%) and 1001 `ADV` tokens (4%).
+There are 182 `ADV` lemmas (6%), 184 `ADV` types (4%) and 1001 `ADV` tokens (4%).
 Out of 17 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>pas, plus, également, tout, ainsi, très, donc, lors, moins, bien</em>
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>pas</em> (<tt><a href="fr_partut-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.005464 (the average of all parts of speech is 1.409573).
+The form / lemma ratio of `ADV` is 1.010989 (the average of all parts of speech is 1.431974).
 
 The 1st highest number of forms (2) was observed with the lemma “là”: <em>-là, là</em>.
 

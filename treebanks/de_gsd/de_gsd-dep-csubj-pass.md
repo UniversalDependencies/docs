@@ -30,7 +30,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 6	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	10	aux:pass	_	_
 7	sehr	sehr	ADV	ADV	_	8	advmod	_	_
 8	schnell	schnell	ADV	ADJD	_	10	advmod	_	_
-9	passend	passend	ADJ	ADJD	_	10	xcomp	_	_
+9	passend	passend	ADJ	ADJD	Degree=Pos	10	xcomp	_	_
 10	gemacht	machen	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	$.	_	10	punct	_	_
 
@@ -50,7 +50,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 5	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	Juden	Jude	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
 7	seien	sein	AUX	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	betrügerisch	betrügerisch	ADJ	ADJD	_	3	csubj:pass	_	_
+8	betrügerisch	betrügerisch	ADJ	ADJD	Degree=Pos	3	csubj:pass	_	_
 9	und	und	CCONJ	KON	_	15	cc	_	_
 10	würden	werden	AUX	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
 11	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
@@ -80,7 +80,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 9	Tal	Tal	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	7	flat	_	_
 10	Ausgangspunkt	Ausgangspunkt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	csubj:pass	_	_
 11	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-12	deutschen	deutsch	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	13	amod	_	_
+12	deutschen	deutsch	ADJ	ADJA	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
 13	Kolonisation	Kolonisation	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
 14	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	Hostinnér	Hostinnér	PROPN	ADJA	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	NamedEntity=Yes

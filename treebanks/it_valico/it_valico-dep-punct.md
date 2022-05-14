@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-794 nodes (12%) are attached to their parents as `punct`.
+795 nodes (12%) are attached to their parents as `punct`.
 
-648 instances of `punct` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.16876574307305.
+649 instances of `punct` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.20251572327044.
 
-The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (563; 71% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (126; 16% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (57; 7% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (23; 3% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (10; 1% instances), <tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (8; 1% instances), <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (564; 71% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (126; 16% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (57; 7% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (23; 3% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (10; 1% instances), <tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (8; 1% instances), <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt>-<tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -12,7 +12,7 @@ Some words have combined values of the feature; 2 combinations have been observe
 
 529 tokens (2%) have a non-empty value of `Case`.
 34 types (1%) occur at least once with a non-empty value of `Case`.
-4 lemmas (22%) occur at least once with a non-empty value of `Case`.
+6 lemmas (0%) occur at least once with a non-empty value of `Case`.
 The feature is used with 1 part-of-speech tags: <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (529; 2% instances).
 
 ### `PRON`
@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Com` (1; 0% of non-empty `Case`): <em>consigo</em>
 * `Dat` (49; 9% of non-empty `Case`): <em>le, les</em>
 * `Nom` (9; 2% of non-empty `Case`): <em>yo, Ya, You, tú</em>
-* `EMPTY` (529): <em>que, su, sus, cual, cuales, quien, nuestro, cuál, mi, qué</em>
+* `EMPTY` (533): <em>que, su, sus, cual, cuales, quien, nuestro, cuál, mi, qué</em>
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Acc,Dat</tt></th><th><tt>Acc,Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Com</tt></th></tr>

@@ -48,7 +48,7 @@ The following 29 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	nach	nach	ADP	ADV	_	9	advmod	_	_
 7	wie	wie	ADV	KON	_	6	fixed	_	_
 8	vor	vor	ADP	ADV	_	6	fixed	_	_
-9	unklar	unklar	ADJ	ADJD	_	0	root	_	SpaceAfter=No
+9	unklar	unklar	ADJ	ADJD	Degree=Pos	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	$.	_	9	punct	_	_
 
 ~~~
@@ -65,7 +65,7 @@ The following 29 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	Wunsch	Wunsch	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
 4	hin	hin	ADP	ADV	_	3	fixed	_	_
 5	halten	halten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	beide	beide	PRON	PIS	Case=Nom|Definite=Ind|Number=Plur|PronType=Ind	5	nsubj	_	_
+6	beide	beide	PRON	PIS	Case=Nom|Number=Plur|PronType=Ind	5	nsubj	_	_
 7	ihre	ihr	DET	PPOSAT	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det:poss	_	_
 8	Beziehung	Beziehung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
 9	jedoch	jedoch	ADV	ADV	_	5	advmod	_	_

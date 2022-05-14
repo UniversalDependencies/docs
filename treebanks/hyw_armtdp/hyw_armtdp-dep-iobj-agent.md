@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-iobj.html">iobj</a></tt>.
 
-9 nodes (0%) are attached to their parents as `iobj:agent`.
+10 nodes (0%) are attached to their parents as `iobj:agent`.
 
-7 instances of `iobj:agent` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44444444444444.
+7 instances of `iobj:agent` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6.
 
-The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (6; 67% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 11% instances).
+The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (5; 50% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 40% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 # visual-style 48	bgColor:blue
 # visual-style 48	fgColor:white
 # visual-style 48 47 iobj:agent	color:blue
-1	Անոնց	ան	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=Anonc’|LTranslit=an
+1	Անոնց	անոնք	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=Anonc’|LTranslit=anonk’
 2	հեռաստանին	հեռաստան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	4	obl	_	Translit=heṙastanin|LTranslit=heṙastan
 3	կրնամ	կրնալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=krnam|LTranslit=krnal
 4	դնել	դնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	3	xcomp	_	Translit=dnel|LTranslit=dnel
@@ -90,7 +90,7 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 14	յետոյ	յետոյ	ADV	_	_	16	advmod	_	Translit=yetoy|LTranslit=yetoy
 15	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	16	aux	_	Translit=kë|LTranslit=kë
 16	փոխեմ	փոխել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	Translit=p’oxem|LTranslit=p’oxel
-17	անոնց	ան	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det:poss	_	Translit=anonc’|LTranslit=an
+17	անոնց	անոնք	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det:poss	_	Translit=anonc’|LTranslit=anonk’
 18	կարգը	կարգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	16	obj	_	Translit=kargë|LTranslit=karg|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,
 20	մտովին	մտովին	ADV	_	_	22	advmod	_	Translit=mtovin|LTranslit=mtovin
@@ -102,7 +102,7 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 26	ինչպէս	ինչպէս	ADV	_	PronType=Rel	28	advmod	_	Translit=inčpēs|LTranslit=inčpēs
 27	Էլմոն	Էլմոն	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	28	nsubj:caus	_	Translit=Ēlmon|LTranslit=Ēlmon
 28	ընել	ընել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	22	advcl:relcl	_	Translit=ënel|LTranslit=ënel
-29	տուեր	տալ	AUX	_	Aspect=Perf|VerbForm=Part|Voice=Cau	28	aux	_	Translit=tower|LTranslit=tal
+29	տուեր	տալ	AUX	_	Aspect=Perf|VerbForm=Part|Voice=Cau	28	aux:caus	_	Translit=tower|LTranslit=tal
 30	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	28	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 31	,	,	PUNCT	_	_	39	punct	_	Translit=,|LTranslit=,
 32	երբ	երբ	ADV	_	PronType=Rel	39	advmod	_	Translit=erb|LTranslit=erb

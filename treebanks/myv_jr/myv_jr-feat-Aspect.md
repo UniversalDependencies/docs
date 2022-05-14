@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Hab` (28; 70% of non-empty `Aspect`): <em>сыль, абунгалиль, валаськавтылизе, ваныль, витнилить, ильтнильть, кадовиль, кенериль, комиль, ледстниль</em>
 * `Inch` (12; 30% of non-empty `Aspect`): <em>цяхазевсь, арсезевезь, арсезевинь, арьсезевезь, кекшнезевсть, лаказеви, паразевсь, пейдезевсь, тошказевсь, урнозевсь</em>
-* `EMPTY` (3074): <em>мерсь, лиссь, мольсь, ютась, ашти, совась, ваны, неяви, маряви, саизе</em>
+* `EMPTY` (3103): <em>мерсь, лиссь, мольсь, ютась, ашти, совась, ваны, неяви, тейсь, маряви</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (35) occur only with one value of `Aspect`.
 
@@ -37,5 +37,5 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Hab` (1; 100% of non-empty `Aspect`): <em>кармильть</em>
-* `EMPTY` (696): <em>а, аволь, эзь, кармась, апак, ульнесь, арась, кармасть, ули, иля</em>
+* `EMPTY` (702): <em>а, аволь, эзь, кармась, апак, ульнесь, арась, кармасть, ули, иля</em>
 

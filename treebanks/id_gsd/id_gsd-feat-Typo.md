@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-101 tokens (0%) have a non-empty value of `Typo`.
-38 types (0%) occur at least once with a non-empty value of `Typo`.
-36 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 10 part-of-speech tags: <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (18; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+103 tokens (0%) have a non-empty value of `Typo`.
+39 types (0%) occur at least once with a non-empty value of `Typo`.
+37 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 11 part-of-speech tags: <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `ADP`
 
@@ -32,13 +32,13 @@ The feature is used with 10 part-of-speech tags: <tt><a href="id_gsd-pos-ADP.htm
 
 ### `VERB`
 
-18 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
+19 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="id_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="id_gsd-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (15; 83%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="id_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="id_gsd-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (16; 84%).
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (18; 100% of non-empty `Typo`): <em>di, kerje, masukan</em>
+* `Yes` (19; 100% of non-empty `Typo`): <em>di, kerje, dititik</em>
 
 ### `NOUN`
 
@@ -107,4 +107,12 @@ The most frequent other feature values with which `X` and `Typo` co-occurred: <t
 `CCONJ` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>dam</em>
+
+### `PROPN`
+
+1 <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
+
+`PROPN` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>Co</em>
 

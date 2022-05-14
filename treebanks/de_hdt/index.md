@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Emanuel Borges Völker, Felix Hennig, Arne Köhn, Maximilan Wendt.
 
 Repository: [UD_German-HDT](https://github.com/UniversalDependencies/UD_German-HDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -430,9 +430,7 @@ and correct errors in annotated corpora
     <ul>
       <li>ADJ: neue, neuen, deutschen, deutsche, anderen, eigenen, andere, vergangenen, möglich, gut</li>
       <li>ADV: so, sehr, oft, gleich</li>
-      <li>NOUN: Beschäftigten, Angestellten, Befragten, Deutschen, Vorsitzende, Jugendlichen, Vorstandsvorsitzende, Grünen, Vorsitzender, Interessierte</li>
       <li>PRON: viele, viel, wenig, vielen, wenige, wenigen, weniger, soviele, vieler</li>
-      <li>VERB-Inf: überlegen</li>
     </ul>
   </li>
 </ul>

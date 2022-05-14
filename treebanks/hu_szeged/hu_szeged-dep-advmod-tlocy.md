@@ -43,7 +43,7 @@ The following 12 pairs of parts of speech are connected with `advmod:tlocy`: <tt
 2	Ma	ma	ADV	_	_	9	advmod:tlocy	_	_
 3	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
 4	kortárs	kortárs	NOUN	_	Case=Nom|Number=Sing	5	nmod:att	_	_
-5	zenére	zene	NOUN	_	Case=Sub|Number=Sing	9	obl	_	_
+5	zenére	zene	NOUN	_	Case=Sbl|Number=Sing	9	obl	_	_
 6	nagyon	nagyon	ADV	_	_	7	advmod:mode	_	_
 7	szűk	szűk	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod:att	_	_
 8	réteg	réteg	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_

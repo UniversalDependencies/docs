@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Koichi Yasuoka, Christian Wittern, Tomohiko Morioka, Takumi Ikeda, Naoki Yamazaki, Yoshihiro Nikaido, Shingo Suzuki, Shigeki Moro, Yuan Li, Hiroyuki Shirasu, Kazunori Fujita.
 
 Repository: [UD_Classical_Chinese-Kyoto](https://github.com/UniversalDependencies/UD_Classical_Chinese-Kyoto)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlzh_kyoto29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlzh_kyoto210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: PD
 
@@ -48,7 +48,7 @@ Classical Chinese Universal Dependencies Treebank annotated and converted by Ins
 
 
 
-This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1h0004)), 孟子 (Mencius, [14 volumes](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1h0001)), 禮記 (Liji, [50 volumes](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1d0052)), 十八史略 (18shi-lue, [19 eras](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/18shilue)), and 楚辭 (Chuci, [9 poetries](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR4a0001)). In Classical Chinese we had no spaces or punctuations between words or sentences, so we did not include any spaces or punctuations in Treebank files:
+This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1h0004)), 孟子 (Mencius, [14 volumes](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1h0001)), 禮記 (Liji, [50 volumes](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1d0052)), 十八史略 (18shi-lue, [19 eras](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/18shilue)), 楚辭 (Chuci, [9 poetries](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR4a0001)), and others. In Classical Chinese we had no spaces or punctuations between words or sentences, so we did not include any spaces or punctuations in Treebank files:
 
 * lzh_kyoto-ud-test.conllu
 - 學而篇第一 為政篇第二 and 八佾篇第三 from 論語
@@ -56,6 +56,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 - 中庸 from 禮記
 - 春秋戰國 from 十八史略
 - 離騷 from 楚辭
+- [摩訶般若波羅蜜大明呪經](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR6c0127)
 
 * lzh_kyoto-ud-dev.conllu
 - 顏淵篇第十二 子路篇第十三 and 憲問篇第十四 from 論語
@@ -63,6 +64,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 - 大學 from 禮記
 - 唐 from 十八史略
 - 遠遊 from 楚辭
+- [金剛般若波羅蜜經](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR6c0023)
 
 * lzh_kyoto-ud-train.conllu
 - 論語 (except for 學而篇第一 為政篇第二 八佾篇第三 顏淵篇第十二 子路篇第十三 憲問篇第十四)
@@ -70,6 +72,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 - 禮記 (except for 中庸 大學)
 - 十八史略 (except for 春秋戰國 唐)
 - 九歌 天問 九章 卜居 漁父 九辯 and 招魂 from 楚辭
+- [佛說阿彌陀經](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR6c0082)
 
 ## Acknowledgments
 
@@ -85,17 +88,17 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 
 ## Relations
 
-[acl](lzh_kyoto-dep-acl.html) – [advcl](lzh_kyoto-dep-advcl.html) – [advmod](lzh_kyoto-dep-advmod.html) – [amod](lzh_kyoto-dep-amod.html) – [aux](lzh_kyoto-dep-aux.html) – [case](lzh_kyoto-dep-case.html) – [cc](lzh_kyoto-dep-cc.html) – [ccomp](lzh_kyoto-dep-ccomp.html) – [clf](lzh_kyoto-dep-clf.html) – [compound](lzh_kyoto-dep-compound.html) – [compound:redup](lzh_kyoto-dep-compound-redup.html) – [conj](lzh_kyoto-dep-conj.html) – [cop](lzh_kyoto-dep-cop.html) – [csubj](lzh_kyoto-dep-csubj.html) – [csubj:pass](lzh_kyoto-dep-csubj-pass.html) – [det](lzh_kyoto-dep-det.html) – [discourse](lzh_kyoto-dep-discourse.html) – [discourse:sp](lzh_kyoto-dep-discourse-sp.html) – [dislocated](lzh_kyoto-dep-dislocated.html) – [expl](lzh_kyoto-dep-expl.html) – [fixed](lzh_kyoto-dep-fixed.html) – [flat](lzh_kyoto-dep-flat.html) – [flat:vv](lzh_kyoto-dep-flat-vv.html) – [iobj](lzh_kyoto-dep-iobj.html) – [list](lzh_kyoto-dep-list.html) – [mark](lzh_kyoto-dep-mark.html) – [nmod](lzh_kyoto-dep-nmod.html) – [nsubj](lzh_kyoto-dep-nsubj.html) – [nsubj:pass](lzh_kyoto-dep-nsubj-pass.html) – [nummod](lzh_kyoto-dep-nummod.html) – [obj](lzh_kyoto-dep-obj.html) – [obl](lzh_kyoto-dep-obl.html) – [obl:lmod](lzh_kyoto-dep-obl-lmod.html) – [obl:tmod](lzh_kyoto-dep-obl-tmod.html) – [orphan](lzh_kyoto-dep-orphan.html) – [parataxis](lzh_kyoto-dep-parataxis.html) – [root](lzh_kyoto-dep-root.html) – [vocative](lzh_kyoto-dep-vocative.html) – [xcomp](lzh_kyoto-dep-xcomp.html)
+[acl](lzh_kyoto-dep-acl.html) – [advcl](lzh_kyoto-dep-advcl.html) – [advmod](lzh_kyoto-dep-advmod.html) – [amod](lzh_kyoto-dep-amod.html) – [aux](lzh_kyoto-dep-aux.html) – [case](lzh_kyoto-dep-case.html) – [cc](lzh_kyoto-dep-cc.html) – [ccomp](lzh_kyoto-dep-ccomp.html) – [clf](lzh_kyoto-dep-clf.html) – [compound](lzh_kyoto-dep-compound.html) – [compound:redup](lzh_kyoto-dep-compound-redup.html) – [conj](lzh_kyoto-dep-conj.html) – [cop](lzh_kyoto-dep-cop.html) – [csubj](lzh_kyoto-dep-csubj.html) – [csubj:pass](lzh_kyoto-dep-csubj-pass.html) – [det](lzh_kyoto-dep-det.html) – [discourse](lzh_kyoto-dep-discourse.html) – [discourse:sp](lzh_kyoto-dep-discourse-sp.html) – [dislocated](lzh_kyoto-dep-dislocated.html) – [expl](lzh_kyoto-dep-expl.html) – [fixed](lzh_kyoto-dep-fixed.html) – [flat](lzh_kyoto-dep-flat.html) – [flat:foreign](lzh_kyoto-dep-flat-foreign.html) – [flat:vv](lzh_kyoto-dep-flat-vv.html) – [iobj](lzh_kyoto-dep-iobj.html) – [list](lzh_kyoto-dep-list.html) – [mark](lzh_kyoto-dep-mark.html) – [nmod](lzh_kyoto-dep-nmod.html) – [nsubj](lzh_kyoto-dep-nsubj.html) – [nsubj:pass](lzh_kyoto-dep-nsubj-pass.html) – [nummod](lzh_kyoto-dep-nummod.html) – [obj](lzh_kyoto-dep-obj.html) – [obl](lzh_kyoto-dep-obl.html) – [obl:lmod](lzh_kyoto-dep-obl-lmod.html) – [obl:tmod](lzh_kyoto-dep-obl-tmod.html) – [orphan](lzh_kyoto-dep-orphan.html) – [parataxis](lzh_kyoto-dep-parataxis.html) – [root](lzh_kyoto-dep-root.html) – [vocative](lzh_kyoto-dep-vocative.html) – [xcomp](lzh_kyoto-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 58301 sentences and 283166 tokens.</li>
+<li>This corpus contains 59188 sentences and 289365 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 280328 tokens (99%) that are not followed by a space.</li>
+<li>This corpus contains 286417 tokens (99%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -119,7 +122,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 </ul>
 
 <ul>
-<li>This corpus contains 43 word types tagged as particles (PART): 乎, 也, 于, 云, 些, 來, 侯, 兮, 其, 只, 哉, 夫, 如, 子, 寧, 居, 已, 思, 所, 攸, 斯, 歟, 止, 焉, 然, 爾, 甫, 疇, 矣, 者, 而, 耳, 耶, 聿, 與, 若, 蓋, 記, 諸, 載, 逝, 邪, 馨</li>
+<li>This corpus contains 44 word types tagged as particles (PART): 不, 乎, 也, 于, 云, 些, 來, 侯, 兮, 其, 只, 哉, 夫, 如, 子, 寧, 居, 已, 思, 所, 攸, 斯, 歟, 止, 焉, 然, 爾, 甫, 疇, 矣, 者, 而, 耳, 耶, 聿, 與, 若, 蓋, 記, 諸, 載, 逝, 邪, 馨</li>
 </ul>
 
 <ul>
@@ -134,11 +137,11 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 </ul>
 
 <ul>
-<li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): 儀, 可, 宜, 得, 應, 敢, 欲, 爲, 肯, 能, 被, 見, 足, 須</li>
+<li>This corpus contains 15 lemmas tagged as auxiliaries (AUX): 儀, 可, 宜, 得, 應, 敢, 是, 欲, 爲, 肯, 能, 被, 見, 足, 須</li>
 </ul>
 
 <ul>
-<li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: 可, 宜, 得, 應, 敢, 欲, 爲, 肯, 被, 見, 足, 須</li>
+<li>Out of the above, 13 lemmas occurred sometimes as AUX and sometimes as VERB: 可, 宜, 得, 應, 敢, 是, 欲, 爲, 肯, 被, 見, 足, 須</li>
 </ul>
 
 <ul>
@@ -148,7 +151,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 <ul>
   <li>Conv
   <ul>
-    <li>ADV: 以, 大, 始, 然, 無, 親, 凡, 對, 當, 反</li>
+    <li>ADV: 以, 大, 始, 然, 無, 當, 親, 凡, 對, 反</li>
   </ul>
   </li>
 </ul>
@@ -210,8 +213,8 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
     <ul>
       <li>ADP: 如</li>
       <li>ADV-Conv: 如, 若, 猶, 奈, 區, 恰</li>
-      <li>VERB: 如, 若, 猶, 奈, 區, 亞, 柰</li>
-      <li>VERB-Part: 若, 亞, 區, 如, 猶</li>
+      <li>VERB: 如, 若, 猶, 奈, 云, 區, 如來, 亞, 柰</li>
+      <li>VERB-Part: 若, 亞, 如, 區, 猶</li>
     </ul>
   </li>
 </ul>
@@ -221,8 +224,8 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
     <ul>
       <li>ADV: 大, 然, 凡, 獨, 善, 多, 甚, 難, 毎, 小</li>
       <li>ADV-Conv: 大, 然, 凡, 獨, 善, 多, 甚, 難, 毎, 小</li>
-      <li>VERB: 大, 太, 同, 明, 正, 皇, 平, 重, 可, 多</li>
-      <li>VERB-Part: 大, 太, 皇, 小, 庶, 寡, 明, 賢, 仁, 長</li>
+      <li>VERB: 大, 太, 同, 明, 正, 皇, 多, 平, 重, 可</li>
+      <li>VERB-Part: 大, 太, 皇, 小, 庶, 寡, 明, 賢, 善, 仁</li>
     </ul>
   </li>
 </ul>
@@ -242,7 +245,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: 不, 未, 非, 弗, 莫, 毋, 無, 勿, 匪, 微</li>
+      <li>ADV: 不, 非, 未, 弗, 莫, 毋, 無, 勿, 匪, 微</li>
       <li>ADV-Conv: 無, 微, 罔, 末, 靡</li>
       <li>VERB: 無, 微, 末, 靡, 罔</li>
       <li>VERB-Part: 無, 微, 末, 靡</li>
@@ -261,7 +264,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 <ul>
   <li>Perf
     <ul>
-      <li>ADV: 既, 已, 旣</li>
+      <li>ADV: 既, 已, 旣, 訖</li>
     </ul>
   </li>
 </ul>
@@ -281,7 +284,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 <ul>
   <li>Nec
     <ul>
-      <li>AUX: 宜, 須, 儀, 應</li>
+      <li>AUX: 宜, 應, 須, 儀</li>
     </ul>
   </li>
 </ul>
@@ -345,7 +348,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: 是, 此, 斯, 某, 彼, 他, 焉, 夫, 惟, 茲</li>
+      <li>PRON: 是, 此, 斯, 彼, 某, 他, 焉, 夫, 惟, 茲</li>
     </ul>
   </li>
 </ul>
@@ -398,7 +401,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 <ul>
   <li>1
     <ul>
-      <li>PRON: 吾, 我, 予, 余, 朕, 言</li>
+      <li>PRON: 吾, 我, 予, 余, 朕, 言, 僕</li>
     </ul>
   </li>
 </ul>
@@ -457,7 +460,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
       </li>
       <li>Giv
         <ul>
-          <li>PROPN: 舜, 堯, 禹, 光, 湯, 子貢, 子路, 亮, 羽, 信</li>
+          <li>PROPN: 舜, 須菩提, 堯, 禹, 光, 湯, 子貢, 子路, 亮, 羽</li>
         </ul>
       </li>
       <li>Nat
@@ -496,7 +499,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
     <ul>
       <li>Cop
         <ul>
-          <li>AUX: 爲, 為</li>
+          <li>AUX: 爲, 為, 是</li>
         </ul>
       </li>
     </ul>
@@ -508,11 +511,11 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: 爲.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 爲、 是.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: 可、 能、 欲、 敢、 得、 足、 宜、 被、 見、 肯、 須、 儀、 應.</li>
+<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: 可、 能、 欲、 敢、 得、 足、 宜、 被、 應、 見、 肯、 須、 儀.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -521,24 +524,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (14253)</li>
+      <li>VERB--NOUN (14551)</li>
       <li>VERB--NOUN-ADP(之) (842)</li>
       <li>VERB--NOUN-ADP(也) (14)</li>
       <li>VERB--NOUN-ADP(于)-ADP(之) (1)</li>
       <li>VERB--NOUN-ADP(兮) (9)</li>
-      <li>VERB--NOUN-ADP(於) (1)</li>
+      <li>VERB--NOUN-ADP(於) (2)</li>
       <li>VERB--NOUN-ADP(爲) (4)</li>
       <li>VERB--NOUN-ADP(由) (4)</li>
       <li>VERB--NOUN-ADP(者) (1)</li>
       <li>VERB--NOUN-ADP(與) (10)</li>
-      <li>VERB--NOUN-Loc (2062)</li>
+      <li>VERB--NOUN-Loc (2098)</li>
       <li>VERB--NOUN-Loc-ADP(之) (112)</li>
       <li>VERB--NOUN-Loc-ADP(也) (2)</li>
       <li>VERB--NOUN-Loc-ADP(由) (1)</li>
       <li>VERB--NOUN-Loc-ADP(自) (1)</li>
       <li>VERB--NOUN-Tem (250)</li>
       <li>VERB--NOUN-Tem-ADP(之) (28)</li>
-      <li>VERB--PRON (2688)</li>
+      <li>VERB--PRON (2752)</li>
       <li>VERB--PRON-ADP(之) (26)</li>
       <li>VERB--PRON-ADP(乎) (1)</li>
       <li>VERB--PRON-ADP(也) (1)</li>
@@ -550,18 +553,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (19800)</li>
-      <li>VERB--NOUN-ADP(之) (1)</li>
+      <li>VERB--NOUN (20288)</li>
+      <li>VERB--NOUN-ADP(之) (2)</li>
       <li>VERB--NOUN-ADP(乎) (2)</li>
       <li>VERB--NOUN-ADP(于) (1)</li>
       <li>VERB--NOUN-ADP(所) (3)</li>
       <li>VERB--NOUN-ADP(於) (13)</li>
       <li>VERB--NOUN-ADP(與) (3)</li>
-      <li>VERB--NOUN-Loc (4653)</li>
+      <li>VERB--NOUN-Loc (4704)</li>
       <li>VERB--NOUN-Loc-ADP(于) (2)</li>
       <li>VERB--NOUN-Loc-ADP(於) (3)</li>
-      <li>VERB--NOUN-Tem (695)</li>
-      <li>VERB--PRON (5218)</li>
+      <li>VERB--NOUN-Tem (705)</li>
+      <li>VERB--PRON (5336)</li>
       <li>VERB--PRON-ADP(與) (1)</li>
     </ul>
   </li>
@@ -570,12 +573,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (288)</li>
+      <li>VERB--NOUN (292)</li>
       <li>VERB--NOUN-ADP(之) (6)</li>
-      <li>VERB--NOUN-Loc (22)</li>
+      <li>VERB--NOUN-Loc (24)</li>
       <li>VERB--NOUN-Loc-ADP(於) (1)</li>
       <li>VERB--NOUN-Tem (2)</li>
-      <li>VERB--PRON (483)</li>
+      <li>VERB--PRON (486)</li>
     </ul>
   </li>
 </ul>
@@ -594,6 +597,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>compound:redup</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:vv</a>, <a>nsubj:pass</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 8 relation subtypes: <a>compound:redup</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:foreign</a>, <a>flat:vv</a>, <a>nsubj:pass</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>appos</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
 </ul>

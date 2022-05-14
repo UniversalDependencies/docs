@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>adalah</em> (<tt><a href="id_gsd-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 0.947368 (the average of all parts of speech is 1.119800).
+The form / lemma ratio of `AUX` is 0.947368 (the average of all parts of speech is 1.120254).
 
 The 1st highest number of forms (1) was observed with the lemma “adalah”: <em>adalah</em>.
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Özlem Çetinoğlu, Çağrı Çöltekin.
 
 Repository: [UD_Turkish_German-SAGT](https://github.com/UniversalDependencies/UD_Turkish_German-SAGT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -50,8 +50,8 @@ UD Turkish-German SAGT is a Turkish-German code-switching treebank that is devel
 
 The treebank consists of bilingual conversation transcriptions annotated with several
 layers: language IDs, lemmas, POS tags, morphological features, and dependency
-relations. Language IDs employ the tag set of Çetinoğlu (2017).
-The rest of the annotations follow Universal Dependencies annotation scheme, and
+relations. Language IDs are described below.
+The rest of the annotations follow the Universal Dependencies annotation scheme, and
 the conventions used in monolingual Turkish and German treebanks.
 
 There are 48 distinct conversations from 17 participants.
@@ -67,18 +67,68 @@ a separate licence. Please contact ozlem@ims.uni-stuttgart.de for further inform
 The treebank development is funded by DFG via project CE 326/1-1 “Computational Structural Analysis of German-Turkish Code-Switching”. We thank Cansu Turgut, Reha Sakızlı, Semanur Ceylan, and Sevde Ceylan for data collection and annotation.
 
 ## References
+
+For the treebank and speech collection:
+
+Çetinoğlu, Özlem and Çağrı Çöltekin (2022). “Two languages, one treebank: building a Turkish–German code-switching treebank and its challenges”. In: _Language Resources
+and Evaluation_, pp. 1–35. issn: 1574-020X.
+
+https://link.springer.com/content/pdf/10.1007/s10579-021-09573-1.pdf
+
+```
+@article{cetinoglu2022,
+year = {2022},
+title = {% raw %}{{{% endraw %}Two languages, one treebank: building a Turkish–German code-switching treebank and its challenges{% raw %}}}{% endraw %},
+author = {Çetinoğlu, Özlem and Çöltekin, Çağrı},
+journal = {Language Resources and Evaluation},
+issn = {1574-020X},
+doi = {10.1007/s10579-021-09573-1},
+pages = {1--35}
+}
+```
+
 For the treebank:
 * Özlem Çetinoğlu and Çağrı Çöltekin (2019). "Challenges of Annotating a Code-Switching Treebank". In _Proceedings of the 18th International Workshop on Treebanks and Linguistic Theories (TLT, SyntaxFest 2019)_.
+
 <https://www.aclweb.org/anthology/W19-7809.pdf>
 
-For the speech collection (Note that the paper describes a separate speech corpus but the methodology is parallel.)
-* Özlem Çetinoğlu (2017). "A Code-Switching Corpus of Turkish-German Conversations". In _Proceedings of the 11th Linguistic Annotation Workshop_.
-<https://www.aclweb.org/anthology/W17-0804.pdf>
+```
+@inproceedings{cetinoglu2019,
+title = "Challenges of Annotating a Code-Switching Treebank",
+author = {% raw %}{{{% endraw %}\c{C{% raw %}}}{% endraw %}etino{\u{g{% raw %}}}{% endraw %}lu, {\"O}zlem and
+{\c{C{% raw %}}}{% endraw %}{\"o}ltekin, {\c{C{% raw %}}}{% endraw %}a{\u{g{% raw %}}}{% endraw %}r{\i{% raw %}}}{% endraw %},
+booktitle = "Proceedings of the 18th International Workshop on Treebanks and Linguistic Theories (TLT, SyntaxFest 2019)",
+OPTmonth = aug,
+year = "2019",
+address = "Paris, France",
+publisher = "Association for Computational Linguistics",
+url = "https://www.aclweb.org/anthology/W19-7809",
+doi = "10.18653/v1/W19-7809",
+pages = "82--90",
+}
+```
+
 
 For language IDs:
 * Özlem Çetinoğlu (2016). "A Turkish-German Code-Switching Corpus". In _Proceedings of the 10th edition of the Language Resources and Evaluation Conference_.
+
 <http://www.lrec-conf.org/proceedings/lrec2016/pdf/1151_Paper.pdf>
 
+```
+@InProceedings{cetinoglu2016,
+author = {Özlem Çetinoğlu},
+title = {A {Turkish}-German Code-Switching Corpus},
+booktitle = {Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)},
+year = {2016},
+location = {Portorož, Slovenia},
+pages = {23--28},
+editor = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Sara Goggi and Marko Grobelnik and Bente Maegaard and Joseph Mariani and Helene
+Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis},
+publisher = {European Language Resources Association (ELRA)},
+address = {Paris, France},
+isbn = {978-2-9517408-9-1},
+}
+```
 
 
 # Statistics of UD Turkish German SAGT
@@ -234,7 +284,7 @@ For language IDs:
   <li>Neut
     <ul>
       <li>ADJ: nächstes, anderes, eigenes, ganzen, letztes, normales, schönes, vollkommen, Emotionales, allgemeinem</li>
-      <li>DET: dem, das, ein, die, dieses, alles, viele, des, kein, den</li>
+      <li>DET: dem, das, ein, die, dieses, des, alles, viele, kein, den</li>
       <li>NOUN: Beispiel, Buch, Dings, Leute, Semester, Hause, Praktikum, Ding, Jahr, Ende</li>
       <li>PRON: das, es, ich, alles, was, die, allem, du, mein, irgendetwas</li>
       <li>PROPN: Englisch, Deutschland, Stuttgart, Bondorf, Deutsch, Dortmund, Düsseldorf, Wuppertal, Herrenberg, Istanbul</li>
@@ -276,7 +326,7 @@ For language IDs:
       <li>AUX: ist, habe, war, mi, hat, muss, kann, dı, bin, mı</li>
       <li>AUX-Conv: ken</li>
       <li>AUX-Fin: ist, habe, war, hat, muss, kann, bin, würde, kannst, wird</li>
-      <li>DET: dem, der, die, ein, eine, das, einen, keine, den, einem</li>
+      <li>DET: dem, der, die, ein, das, eine, einen, keine, den, einem</li>
       <li>NOUN: şey, şimdi, zaman, Beispiel, sene, şeyi, Buch, Zeit, Dings, hafta</li>
       <li>NUM: bir, iki, altı, on, bin, elli, ikincisi, yirmi, 200, Birincisi</li>
       <li>PRON: ich, das, es, du, ben, o, ondan, man, was, mir</li>
@@ -317,7 +367,7 @@ For language IDs:
       <li>DET: die, eine, ein, das, einen, den, viele, keine, jeden, kein</li>
       <li>NOUN: Buch, şeyi, Sachen, Zeit, şey, Jahr, Pause, Praktikum, Tag, kitabı</li>
       <li>NUM: bir, yirmi</li>
-      <li>PRON: das, es, mich, was, onu, alles, sich, die, beni, dich</li>
+      <li>PRON: es, das, mich, was, onu, alles, sich, beni, dich, die</li>
       <li>PROPN: Türkei, Deutschland, Englisch, Henna, Konstanz, Rap, A2, BK, Groupon, Man'i</li>
       <li>VERB: gitmeyi, istediğimi, zorlaşacağımı, Dediğini, Gidelim'e, anlattığını, bitirmeyi, büyüttüğünü, diyeceğimi, edeceğimi</li>
       <li>VERB-Part: istediğimi, zorlaşacağımı, Dediğini, anlattığını, büyüttüğünü, diyeceğimi, geçtiğini, gittiği, istemediğini, kastettiğini</li>
@@ -398,10 +448,10 @@ For language IDs:
     <ul>
       <li>ADJ: erste, ganze, müde, türkische, fleißige, große, letzte, andere, anderes, deutsche</li>
       <li>ADP: ki, geçen, li, lik, lü, lı, lık, lılar, lığı, kiler</li>
-      <li>DET: die, ein, das, der, eine, keine, viele, dieses, diese, dieser</li>
+      <li>DET: die, das, ein, der, eine, keine, viele, dieses, diese, dieser</li>
       <li>NOUN: şey, şimdi, zaman, sene, şeyler, hafta, saat, kitap, tane, Leute</li>
       <li>NUM: bir, iki, altı, on, bin, elli, ikincisi, 200, Birincisi, beş</li>
-      <li>PRON: ich, das, du, es, ben, die, o, wir, man, sie</li>
+      <li>PRON: ich, du, das, es, ben, o, wir, die, man, sie</li>
       <li>PROPN: Türkçe, Stuttgart, Türk, İngilizce, Alman, Türkler, Allah, BWL, Deutsch, Fransızca</li>
       <li>VERB: dediğim, yapmak, gitmek, geçen, yapmam, demek, konuşmak, okumak, sevdiğim, görmek</li>
       <li>VERB-Part: dediğim, geçen, sevdiğim, istediğin, yaptığın, istediğim, bildiğim, bildiğin, ettiğim, geldiği</li>
@@ -418,8 +468,7 @@ For language IDs:
 <ul>
   <li>Def
     <ul>
-      <li>DET: dem, die, o, der, her, bu, das, den, hangi, şu</li>
-      <li>PRON: das, die, des, dem</li>
+      <li>DET: dem, die, o, der, her, das, bu, den, hangi, şu</li>
     </ul>
   </li>
 </ul>
@@ -427,8 +476,7 @@ For language IDs:
 <ul>
   <li>Ind
     <ul>
-      <li>DET: bir, ein, eine, einen, keine, viele, birkaç, einem, jeden, kein</li>
-      <li>PRON: man, alles, sowas, etwas, allem, paar, alle, jeder, nichts, was</li>
+      <li>DET: bir, ein, eine, einen, keine, birkaç, einem, kein, einer, hiçbir</li>
     </ul>
   </li>
 </ul>
@@ -789,8 +837,7 @@ For language IDs:
 <ul>
   <li>Art
     <ul>
-      <li>DET: dem, die, der, ein, eine, das, den, einen, einem, einer</li>
-      <li>PRON: das, die, des, Einem</li>
+      <li>DET: dem, die, der, ein, das, eine, den, einen, einem, des</li>
     </ul>
   </li>
 </ul>
@@ -1056,7 +1103,7 @@ For language IDs:
           <li>CCONJ: he--</li>
           <li>DET: des, der, han--, die, ein, ein--, einen--</li>
           <li>NOUN: Bei--, Bewerbungs--, De--, Dilleri--, Eingelockte, Erdanziehungs--, Firmenleit--, Halt--, Immobilientechniknen, Kampfpilo--</li>
-          <li>PRON: des, bazileri, bazilerini, be--, n--, o--</li>
+          <li>PRON: bazileri, bazilerini, be--, n--, o--</li>
           <li>PROPN: Es--, Internatz--, John--, Mar--, Marei--, Nizze, Woy--, sam--</li>
           <li>SCONJ: dass</li>
           <li>VERB: ba--, büy--, he--, sp--, tozunuyor, biliyo--, get--, gide--, gidil--, git--</li>
@@ -1096,7 +1143,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Nom-ADP(gibi) (1)</li>
       <li>VERB--NOUN-Nom-ADP(lik) (1)</li>
       <li>VERB--PRON (2)</li>
-      <li>VERB--PRON-Nom (445)</li>
+      <li>VERB--PRON-Nom (444)</li>
       <li>VERB--PRON-Nom-ADP(birlikte) (1)</li>
       <li>VERB--PRON-Nom-ADP(ki) (1)</li>
       <li>VERB-Conv--NOUN (1)</li>
@@ -1108,9 +1155,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (66)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(als) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(aus) (1)</li>
-      <li>VERB-Fin--PRON-Nom (744)</li>
+      <li>VERB-Fin--PRON-Nom (738)</li>
       <li>VERB-Inf--NOUN-Nom (20)</li>
-      <li>VERB-Inf--PRON-Nom (267)</li>
+      <li>VERB-Inf--PRON-Nom (266)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Gen (5)</li>
       <li>VERB-Part--NOUN-Nom (45)</li>
@@ -1137,7 +1184,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc-ADP(için) (1)</li>
       <li>VERB--NOUN-Nom (212)</li>
       <li>VERB--NOUN-Nom-ADP(diye) (1)</li>
-      <li>VERB--PRON-Acc (131)</li>
+      <li>VERB--PRON-Acc (130)</li>
       <li>VERB--PRON-Acc-ADP(kin) (1)</li>
       <li>VERB--PRON-Dat (1)</li>
       <li>VERB--PRON-Dat-ADP(von) (1)</li>
@@ -1163,7 +1210,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom-ADP(für) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(wie) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(über) (2)</li>
-      <li>VERB-Fin--PRON-Acc (94)</li>
+      <li>VERB-Fin--PRON-Acc (93)</li>
       <li>VERB-Fin--PRON-Acc-ADP(an) (1)</li>
       <li>VERB-Fin--PRON-Dat (9)</li>
       <li>VERB-Fin--PRON-Nom (22)</li>
@@ -1175,7 +1222,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Dat-ADP(mit) (2)</li>
       <li>VERB-Inf--NOUN-Nom (14)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(in) (1)</li>
-      <li>VERB-Inf--PRON-Acc (86)</li>
+      <li>VERB-Inf--PRON-Acc (83)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
       <li>VERB-Inf--PRON-Nom (10)</li>
       <li>VERB-Inf--PRON-Nom-ADP(für) (1)</li>
@@ -1185,7 +1232,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc-ADP(von) (2)</li>
       <li>VERB-Part--NOUN-Acc-ADP(über) (1)</li>
       <li>VERB-Part--NOUN-Nom (31)</li>
-      <li>VERB-Part--PRON-Acc (69)</li>
+      <li>VERB-Part--PRON-Acc (65)</li>
       <li>VERB-Part--PRON-Dat (2)</li>
       <li>VERB-Part--PRON-Dat-ADP(mit) (1)</li>
       <li>VERB-Part--PRON-Nom (24)</li>
@@ -1205,7 +1252,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Dat-ADP(von) (1)</li>
       <li>VERB--PRON-Dat (3)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(mit) (1)</li>
-      <li>VERB-Fin--PRON-Dat (21)</li>
+      <li>VERB-Fin--PRON-Dat (20)</li>
       <li>VERB-Fin--PRON-Dat-ADP(mit) (1)</li>
       <li>VERB-Fin--PRON-Dat-ADP(zu) (1)</li>
       <li>VERB-Inf--NOUN-Dat (2)</li>

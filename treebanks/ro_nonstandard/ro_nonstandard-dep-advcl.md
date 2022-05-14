@@ -23,18 +23,18 @@ The following 56 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 8 advcl	color:blue
-1	Că	că	SCONJ	Csssp	Polarity=Pos	3	mark	_	ref=MATT18.11
-2	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	ref=MATT18.11
-3	venit	veni	VERB	Vmp	VerbForm=Part	0	root	_	ref=MATT18.11
-4	Fiiul	fiu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT18.11
-5	omenesc	omenesc	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	ref=MATT18.11
-6	și	și	ADV	Rg	_	8	advmod	_	ref=MATT18.11
-7	să	să	PART	Qs	PartType=Sub	8	mark	_	ref=MATT18.11
-8	mîntuiască	mântui	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	ref=MATT18.11
-9	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	11	nsubj	_	ref=MATT18.11
-10	еrа	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	11	aux	_	ref=MATT18.11
-11	perit	pieri	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	8	ccomp	_	ref=MATT18.11|SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT18.11
+1	Că	că	SCONJ	Csssp	Polarity=Pos	3	mark	_	Ref=MATT18.11
+2	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	Ref=MATT18.11
+3	venit	veni	VERB	Vmp	VerbForm=Part	0	root	_	Ref=MATT18.11
+4	Fiiul	fiu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MATT18.11
+5	omenesc	omenesc	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	Ref=MATT18.11
+6	și	și	ADV	Rg	_	8	advmod	_	Ref=MATT18.11
+7	să	să	PART	Qs	PartType=Sub	8	mark	_	Ref=MATT18.11
+8	mîntuiască	mântui	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	Ref=MATT18.11
+9	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	11	nsubj	_	Ref=MATT18.11
+10	еrа	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	11	aux	_	Ref=MATT18.11
+11	perit	pieri	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	8	ccomp	_	Ref=MATT18.11|SpaceAfter=No
+12	.	.	PUNCT	PERIOD	_	3	punct	_	Ref=MATT18.11
 
 ~~~
 
@@ -45,20 +45,20 @@ The following 56 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 3 advcl	color:blue
-1	Dar	dar	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT22.45
-2	deaca	dacă	SCONJ	Cscsp	Compound=Yes|Polarity=Pos	3	mark	_	ref=MATT22.45
-3	chiamă	chema	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	ref=MATT22.45
-4	David	David	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT22.45
-5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT22.45
-6	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	obl:pmod	_	ref=MATT22.45
-7	Domnu	domn	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	xcomp	_	ref=MATT22.45|SpaceAfter=No
-8	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT22.45
-9	cum	cum	ADV	Rw	PronType=Int,Rel	13	advmod	_	ref=MATT22.45
-10	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	cop	_	ref=MATT22.45
-11	al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	12	det	_	ref=MATT22.45
-12	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	ref=MATT22.45
-13	fiiu	fiu	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT22.45|SpaceAfter=No
-14	?	?	PUNCT	QUEST	_	13	punct	_	ref=MATT22.45
+1	Dar	dar	CCONJ	Ccssp	Polarity=Pos	13	cc	_	Ref=MATT22.45
+2	deaca	dacă	SCONJ	Cscsp	Compound=Yes|Polarity=Pos	3	mark	_	Ref=MATT22.45
+3	chiamă	chema	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	Ref=MATT22.45
+4	David	David	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MATT22.45
+5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	Ref=MATT22.45
+6	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	obl:pmod	_	Ref=MATT22.45
+7	Domnu	domn	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	xcomp	_	Ref=MATT22.45|SpaceAfter=No
+8	,	,	PUNCT	COMMA	_	3	punct	_	Ref=MATT22.45
+9	cum	cum	ADV	Rw	PronType=Int,Rel	13	advmod	_	Ref=MATT22.45
+10	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	cop	_	Ref=MATT22.45
+11	al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	12	det	_	Ref=MATT22.45
+12	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	Ref=MATT22.45
+13	fiiu	fiu	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=MATT22.45|SpaceAfter=No
+14	?	?	PUNCT	QUEST	_	13	punct	_	Ref=MATT22.45
 
 ~~~
 
@@ -69,17 +69,17 @@ The following 56 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 advcl	color:blue
-1	Să	să	SCONJ	Csssp	Polarity=Pos	3	mark	_	ref=MATT27.40
-2	ești	fi	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	cop	_	ref=MATT27.40
-3	Fiiul	fiu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	advcl	_	ref=MATT27.40
-4	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	5	det	_	ref=MATT27.40
-5	Dumnedzău	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	ref=MATT27.40|SpaceAfter=No
-6	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT27.40
-7	pogori	coborî	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	ref=MATT27.40
-8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT27.40
-9	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT27.40
-10	cruce	cruce	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	ref=MATT27.40|SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	7	punct	_	ref=MATT27.40
+1	Să	să	SCONJ	Csssp	Polarity=Pos	3	mark	_	Ref=MATT27.40
+2	ești	fi	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	cop	_	Ref=MATT27.40
+3	Fiiul	fiu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	advcl	_	Ref=MATT27.40
+4	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	5	det	_	Ref=MATT27.40
+5	Dumnedzău	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	Ref=MATT27.40|SpaceAfter=No
+6	,	,	PUNCT	COMMA	_	3	punct	_	Ref=MATT27.40
+7	pogori	coborî	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	Ref=MATT27.40
+8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	Ref=MATT27.40
+9	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	Ref=MATT27.40
+10	cruce	cruce	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	Ref=MATT27.40|SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	7	punct	_	Ref=MATT27.40
 
 ~~~
 

@@ -46,7 +46,7 @@ The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	dass	dass	SCONJ	KOUS	_	8	mark	_	_
 6	sie	sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 7	sehr	sehr	ADV	ADV	_	8	advmod	_	_
-8	günstig	günstig	ADJ	ADJD	_	4	ccomp	_	_
+8	günstig	günstig	ADJ	ADJD	Degree=Pos	4	ccomp	_	_
 9	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No
 10	.	.	PUNCT	$.	_	4	punct	_	_
 

@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-2717 tokens (5%) have a non-empty value of `Degree`.
+2716 tokens (5%) have a non-empty value of `Degree`.
 760 types (6%) occur at least once with a non-empty value of `Degree`.
 632 lemmas (9%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (2444; 5% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (273; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (2443; 5% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (273; 1% instances).
 
 ### `ADJ`
 
-2444 <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (58% of all `ADJ` tokens) have a non-empty value of `Degree`.
+2443 <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (58% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Pos` (2406; 98% of non-empty `Degree`): <em>կարող, նոր, մեծ, պետական, ազգային, հայ, քաղաքական, սահմանադրական, վերջին, նման</em>
+* `Pos` (2405; 98% of non-empty `Degree`): <em>կարող, նոր, մեծ, պետական, ազգային, հայ, քաղաքական, սահմանադրական, վերջին, նման</em>
 * `Sup` (38; 2% of non-empty `Degree`): <em>լավագույն, բարձրագույն, ամենաերկար, Ծայրագույն, ամենալավ, ամենանվիրական, կարևորագույն, Ամենաթեժ, Ամենատարեց, ամենաակտիվ</em>
-* `EMPTY` (1754): <em>պետք, տնտեսական, արտաքին, կարելի, ընտրական, նախընտրական, 1-ին, երկրորդ, 5-րդ, ներդրումային</em>
+* `EMPTY` (1751): <em>պետք, տնտեսական, արտաքին, կարելի, ընտրական, նախընտրական, 1-ին, երկրորդ, 5-րդ, ներդրումային</em>
 
 <table>
   <tr><th>Paradigm <i>նոր</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
@@ -59,6 +59,5 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADV --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> ADV</tt> (6; 75%),
 <tt>ADJ --[<tt><a href="hy_armtdp-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (4; 57%),
 <tt>ADJ --[<tt><a href="hy_armtdp-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (2; 67%),
-<tt>ADJ --[<tt><a href="hy_armtdp-dep-amod.html">amod</a></tt>]--> ADV</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="hy_armtdp-dep-goeswith.html">goeswith</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="hy_armtdp-dep-amod.html">amod</a></tt>]--> ADV</tt> (1; 100%).
 

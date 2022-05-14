@@ -22,15 +22,15 @@ The following 50 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 acl	color:blue
-1	Pilda	pildă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	ref=MATT18.25.content
-2	craiului	crai	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	ref=MATT18.25.content
-3	luînd	lua	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	acl	_	ref=MATT18.25.content
-4	samă	seamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	fixed	_	ref=MATT18.25.content
-5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT18.25.content
-6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	fixed	_	ref=MATT18.25.content
-7	slugile	slugă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	ref=MATT18.25.content
-8	sale	său	DET	Ds3fp-s	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	ref=MATT18.25.content|SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT18.25.content
+1	Pilda	pildă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	Ref=MATT18.25.content
+2	craiului	crai	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	Ref=MATT18.25.content
+3	luînd	lua	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	acl	_	Ref=MATT18.25.content
+4	samă	seamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	fixed	_	Ref=MATT18.25.content
+5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT18.25.content
+6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	fixed	_	Ref=MATT18.25.content
+7	slugile	slugă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	Ref=MATT18.25.content
+8	sale	său	DET	Ds3fp-s	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	Ref=MATT18.25.content|SpaceAfter=No
+9	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT18.25.content
 
 ~~~
 
@@ -41,13 +41,13 @@ The following 50 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 acl	color:blue
-1	Cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	ref=MATT19.12
-2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT19.12
-3	poate	putea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	ref=MATT19.12
-4	cuprinde	cuprinde	VERB	Vmn	VerbForm=Inf	1	acl	_	ref=MATT19.12|SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	1	punct	_	ref=MATT19.12
-6	cuprinză	cuprinde	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT19.12|SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	6	punct	_	ref=MATT19.12
+1	Cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	Ref=MATT19.12
+2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	Ref=MATT19.12
+3	poate	putea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	Ref=MATT19.12
+4	cuprinde	cuprinde	VERB	Vmn	VerbForm=Inf	1	acl	_	Ref=MATT19.12|SpaceAfter=No
+5	,	,	PUNCT	COMMA	_	1	punct	_	Ref=MATT19.12
+6	cuprinză	cuprinde	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=MATT19.12|SpaceAfter=No
+7	.	.	PUNCT	PERIOD	_	6	punct	_	Ref=MATT19.12
 
 ~~~
 
@@ -58,19 +58,19 @@ The following 50 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 9 acl	color:blue
-1	Au	au	INTJ	I	_	11	discourse	_	ref=MATT5.46
-2	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	ref=MATT5.46
-3	și	și	ADV	Rg	_	4	advmod	_	ref=MATT5.46
-4	publicanii	publican	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	11	nsubj	_	ref=MATT5.46
-5	(	(	PUNCT	LPAR	_	9	punct	_	ref=MATT5.46|SpaceAfter=No
-6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	nsubj	_	ref=MATT5.46
-7	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	9	cop	_	ref=MATT5.46
-8	atuncii	atunci	ADV	Rg	_	9	advmod:tmod	_	ref=MATT5.46
-9	vameși	vameș	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	4	acl	_	ref=MATT5.46|SpaceAfter=No
-10	)	)	PUNCT	RPAR	_	9	punct	_	ref=MATT5.46
-11	fac	face	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT5.46
-12	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	obj	_	ref=MATT5.46|SpaceAfter=No
-13	?	?	PUNCT	QUEST	_	11	punct	_	ref=MATT5.46
+1	Au	au	INTJ	I	_	11	discourse	_	Ref=MATT5.46
+2	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	Ref=MATT5.46
+3	și	și	ADV	Rg	_	4	advmod	_	Ref=MATT5.46
+4	publicanii	publican	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	11	nsubj	_	Ref=MATT5.46
+5	(	(	PUNCT	LPAR	_	9	punct	_	Ref=MATT5.46|SpaceAfter=No
+6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	nsubj	_	Ref=MATT5.46
+7	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	9	cop	_	Ref=MATT5.46
+8	atuncii	atunci	ADV	Rg	_	9	advmod:tmod	_	Ref=MATT5.46
+9	vameși	vameș	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	4	acl	_	Ref=MATT5.46|SpaceAfter=No
+10	)	)	PUNCT	RPAR	_	9	punct	_	Ref=MATT5.46
+11	fac	face	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=MATT5.46
+12	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	obj	_	Ref=MATT5.46|SpaceAfter=No
+13	?	?	PUNCT	QUEST	_	11	punct	_	Ref=MATT5.46
 
 ~~~
 

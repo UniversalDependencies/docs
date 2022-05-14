@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 496 tokens (1%) have a non-empty value of `Person[psor]`.
 60 types (0%) occur at least once with a non-empty value of `Person[psor]`.
-6 lemmas (0%) occur at least once with a non-empty value of `Person[psor]`.
+5 lemmas (0%) occur at least once with a non-empty value of `Person[psor]`.
 The feature is used with 1 part-of-speech tags: <tt><a href="la_udante-pos-DET.html">DET</a></tt> (496; 1% instances).
 
 ### `DET`

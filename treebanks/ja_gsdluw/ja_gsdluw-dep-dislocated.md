@@ -22,23 +22,23 @@ The following 17 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 5 dislocated	color:blue
-1	ただし	但し	CCONJ	接続詞	_	14	cc	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-2	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No
-3	50周年ソング	五十周年ソング	NOUN	名詞-普通名詞-一般	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-4	に	に	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-5	変更後	変更後	NOUN	名詞-普通名詞-一般	_	14	dislocated	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-7	、	、	PUNCT	補助記号-読点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No
-8	ED	ED	NOUN	名詞-普通名詞-一般	_	14	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-9	も	も	ADP	助詞-係助詞	_	8	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-10	歌つき	歌付き	NOUN	名詞-普通名詞-一般	_	12	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-11	の	の	ADP	助詞-格助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-12	もの	物	NOUN	名詞-普通名詞-一般	_	14	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-13	が	が	ADP	助詞-格助詞	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-14	使わ	使う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No
-15	れ	れる	AUX	助動詞-助動詞-レル	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-16	た	た	AUX	助動詞-助動詞-タ	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No
-17	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes
+1	ただし	但し	CCONJ	接続詞	_	14	cc	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,但し,ただし,ただし,タダシ,,,タダシ,タダシ,但し
+2	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
+3	50周年ソング	50周年ソング	NOUN	名詞-普通名詞-一般	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;;,五十;周年;ソング,50;周年;ソング,50;周年;ソング,ゴジッ;シューネン;ソング,;;,;;,ゴジュウ;シュウネン;ソング,ゴジッシュウネンソング,50周年ソング
+4	に	に	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,に,に,に,ニ,,,ニ,ニ,に
+5	変更後	変更後	NOUN	名詞-普通名詞-一般	_	14	dislocated	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,変更;後,変更;後,変更;後,ヘンコー;ゴ,;,;,ヘンコウ;ゴ,ヘンコウゴ,変更後
+6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
+7	、	、	PUNCT	補助記号-読点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
+8	ED	ED	NOUN	名詞-普通名詞-一般	_	14	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,ＥＤ,ED,ED,イーディー,,,イーディー,イーディー,ED
+9	も	も	ADP	助詞-係助詞	_	8	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,も,も,も,モ,,,モ,モ,も
+10	歌つき	歌付き	NOUN	名詞-普通名詞-一般	_	12	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,歌;付き,歌;つき,歌;つき,ウタ;ツキ,;,;,ウタ;ツキ,ウタツキ,歌付き
+11	の	の	ADP	助詞-格助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の
+12	もの	物	NOUN	名詞-普通名詞-一般	_	14	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,物,もの,もの,モノ,,,モノ,モノ,物
+13	が	が	ADP	助詞-格助詞	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,が,が,が,ガ,,,ガ,ガ,が
+14	使わ	使う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,使う,使わ,使う,ツカワ,,,ツカウ,ツカウ,使う
+15	れ	れる	AUX	助動詞-助動詞-レル	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,れる,れ,れる,レ,,,レル,レル,れる
+16	た	た	AUX	助動詞-助動詞-タ	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
+17	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -49,20 +49,20 @@ The following 17 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 7 dislocated	color:blue
-1	現在	現在	NOUN	名詞-普通名詞-一般	_	5	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-3	女優	女優	NOUN	名詞-普通名詞-一般	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-4	と	と	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-5	なり	なる	VERB	動詞-一般-五段-ラ行	_	13	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-6	、	、	PUNCT	補助記号-読点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No
-7	最近	最近	NOUN	名詞-普通名詞-一般	_	13	dislocated	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-8	は	は	ADP	助詞-係助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-9	ドラマ	ドラマ	NOUN	名詞-普通名詞-一般	_	13	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-10	で	で	ADP	助詞-格助詞	_	9	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-11	母親役	母親役	NOUN	名詞-普通名詞-一般	_	13	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-12	が	が	ADP	助詞-格助詞	_	11	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-13	多い	多い	ADJ	形容詞-一般-形容詞	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No
-14	。	。	PUNCT	補助記号-句点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes
+1	現在	現在	NOUN	名詞-普通名詞-一般	_	5	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,現在,現在,現在,ゲンザイ,,,ゲンザイ,ゲンザイ,現在
+2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
+3	女優	女優	NOUN	名詞-普通名詞-一般	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,女優,女優,女優,ジョユー,,,ジョユウ,ジョユウ,女優
+4	と	と	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,と,と,と,ト,,,ト,ト,と
+5	なり	成る	VERB	動詞-一般-五段-ラ行	_	13	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|PrevUDLemma=なる|SpaceAfter=No|UnidicInfo=,成る,なり,なる,ナリ,,,ナル,ナル,成る
+6	、	、	PUNCT	補助記号-読点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
+7	最近	最近	NOUN	名詞-普通名詞-一般	_	13	dislocated	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,最近,最近,最近,サイキン,,,サイキン,サイキン,最近
+8	は	は	ADP	助詞-係助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
+9	ドラマ	ドラマ	NOUN	名詞-普通名詞-一般	_	13	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,ドラマ,ドラマ,ドラマ,ドラマ,,,ドラマ,ドラマ,ドラマ
+10	で	で	ADP	助詞-格助詞	_	9	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,で,で,で,デ,,,デ,デ,で
+11	母親役	母親役	NOUN	名詞-普通名詞-一般	_	13	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,母親;役,母親;役,母親;役,ハハオヤ;ヤク,;,;,ハハオヤ;ヤク,ハハオヤヤク,母親役
+12	が	が	ADP	助詞-格助詞	_	11	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,が,が,が,ガ,,,ガ,ガ,が
+13	多い	多い	ADJ	形容詞-一般-形容詞	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,多い,多い,多い,オーイ,,,オオイ,オオイ,多い
+14	。	。	PUNCT	補助記号-句点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -73,17 +73,17 @@ The following 17 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 dislocated	color:blue
-1	治療	治療	NOUN	名詞-普通名詞-一般	_	7	dislocated	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-3	ステロイド	ステロイド	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-5	内服	内服	NOUN	名詞-普通名詞-一般	_	7	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-6	が	が	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-7	中心	中心	NOUN	名詞-普通名詞-一般	_	10	ccomp	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-8	だ	だ	AUX	助動詞-助動詞-ダ	_	7	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-9	と	と	ADP	助詞-格助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No
-10	いう	言う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No
-11	。	。	PUNCT	補助記号-句点	_	10	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes
+1	治療	治療	NOUN	名詞-普通名詞-一般	_	7	dislocated	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,治療,治療,治療,チリョー,,,チリョウ,チリョウ,治療
+2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
+3	ステロイド	ステロイド	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,ステロイド,ステロイド,ステロイド,ステロイド,,,ステロイド,ステロイド,ステロイド
+4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の
+5	内服	内服	NOUN	名詞-普通名詞-一般	_	7	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,内服,内服,内服,ナイフク,,,ナイフク,ナイフク,内服
+6	が	が	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,が,が,が,ガ,,,ガ,ガ,が
+7	中心	中心	NOUN	名詞-普通名詞-一般	_	10	ccomp	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,中心,中心,中心,チューシン,,,チュウシン,チュウシン,中心
+8	だ	だ	AUX	助動詞-助動詞-ダ	_	7	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,だ,だ,だ,ダ,,,ダ,ダ,だ
+9	と	と	ADP	助詞-格助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,と,と,と,ト,,,ト,ト,と
+10	いう	言う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,言う,いう,いう,イウ,,,イウ,イウ,言う
+11	。	。	PUNCT	補助記号-句点	_	10	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

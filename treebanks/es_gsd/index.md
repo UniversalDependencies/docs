@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Miguel Ballesteros, Héctor Martínez Alonso, Ryan McDonald, Elena Pascual, Natalia Silveira, Daniel Zeman, Joakim Nivre.
 
 Repository: [UD_Spanish-GSD](https://github.com/UniversalDependencies/UD_Spanish-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -85,7 +85,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 
 
 <ul>
-<li>This corpus contains 16013 sentences, 423346 tokens and 431587 syntactic words.</li>
+<li>This corpus contains 16013 sentences, 423344 tokens and 431585 syntactic words.</li>
 </ul>
 
 <ul>
@@ -130,11 +130,11 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
-<li>This corpus contains 26 lemmas tagged as auxiliaries (AUX): arrepentir, corresponder, deber, encuentro, esperar, estar, expresar, firebirds, haber, habiér, ir, luchar, morir, negar, noche, poder, querer, saber, salir, seguir, ser, soler, tener, todavía, venir, volver</li>
+<li>This corpus contains 24 lemmas tagged as auxiliaries (AUX): arrepentir, corresponder, deber, encuentro, esperar, estar, expresar, firebirds, haber, habiér, luchar, morir, negar, noche, poder, querer, saber, salir, seguir, ser, soler, todavía, venir, volver</li>
 </ul>
 
 <ul>
-<li>Out of the above, 24 lemmas occurred sometimes as AUX and sometimes as VERB: arrepentir, corresponder, deber, encuentro, esperar, estar, expresar, haber, habiér, ir, luchar, morir, negar, poder, querer, saber, salir, seguir, ser, soler, tener, todavía, venir, volver</li>
+<li>Out of the above, 22 lemmas occurred sometimes as AUX and sometimes as VERB: arrepentir, corresponder, deber, encuentro, esperar, estar, expresar, haber, habiér, luchar, morir, negar, poder, querer, saber, salir, seguir, ser, soler, todavía, venir, volver</li>
 </ul>
 
 <ul>
@@ -145,7 +145,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Fin
   <ul>
     <li>AUX: es, fue, ha, son, eran, era, han, está, puede, fueron</li>
-    <li>VERB: tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, hizo</li>
+    <li>VERB: tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, tuvo</li>
   </ul>
   </li>
 </ul>
@@ -154,7 +154,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Ger
   <ul>
     <li>ADJ: estupendo, normando, agricolas, contendo, inclusive, lindo, paralela</li>
-    <li>AUX: siendo, habiendo, habiéndo, teniendo, estando, negándo, pudiéndo</li>
+    <li>AUX: siendo, habiendo, habiéndo, estando, negándo, pudiéndo</li>
     <li>NOUN: Pese, excandidata</li>
     <li>PROPN: Fernando, Orlando, Absorbiendo, Armando, Buscando, Esperando, Moose, Pompeyo, Sembrando, diciembre</li>
     <li>VERB: residiendo, incluyendo, haciendo, llegando, teniendo, dejando, pasando, recomiendo, trabajando, dando</li>
@@ -167,10 +167,10 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Inf
   <ul>
     <li>ADJ: particular, mártir, SOLIDARIO, Vestibular, aviar, bereber, consular, dispar, glaciar, kandar</li>
-    <li>AUX: ser, haber, poder, estar, ir, tener, puedes, Podeis, Podemos, Podríamos</li>
+    <li>AUX: ser, haber, poder, estar, puedes, Podeis, Podemos, Podríamos, Son, estoy</li>
     <li>NOUN: pesar, cabo, parecer, ser, hacer, azúcar, cover, poder, zar, Lugar</li>
     <li>PROPN: Charles, Sir, Star, vodafone, Aimar, Air, Amir, Balvicar, Bonaparte, Conocer</li>
-    <li>VERB: hacer, ver, decir, tener, dar, partir, llegar, encontrar, ir, volver</li>
+    <li>VERB: hacer, ver, tener, decir, dar, partir, llegar, ir, encontrar, volver</li>
     <li>X: super, per, after, aupair, avant, carrier, d, master, near, online</li>
   </ul>
   </li>
@@ -180,7 +180,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Part
   <ul>
     <li>ADJ: pasado, compuesto, privado, conocidos, conocida, ubicado, privada, abierto, elevada, abierta</li>
-    <li>AUX: sido, estado, podido, ido, tenido, debido</li>
+    <li>AUX: sido, estado, podido, debido</li>
     <li>NOUN: pulgadas, $, llamada, supuesto, mediados, poblados, conocido, lavado, amada, conocida</li>
     <li>PROPN: Unidos, Unido, Alvarado, Quesada, visto, Abiertas, Casado, Hurtado, Puerto, Quemada</li>
     <li>SYM: $, #</li>
@@ -202,7 +202,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
     <ul>
       <li>ADJ: primera, nueva, segunda, buena, francesa, misma, alta, pequeña, propia, nuevas</li>
       <li>ADJ-Part: conocida, privada, elevada, abierta, ubicada, cuadrada, variada, armadas, privadas, abiertas</li>
-      <li>AUX-Fin: esta, estoy, estas, pudieras, estarías, has, podras, vas</li>
+      <li>AUX-Fin: esta, estoy, estas, pudieras, estarías, has, podras</li>
       <li>DET: la, las, una, esta, otras, toda, estas, esa, todas, otra</li>
       <li>NOUN: parte, población, ciudad, personas, familia, vez, forma, vida, agua, región</li>
       <li>NOUN-Part: pulgadas, llamada, amada, conocida, denominada, pasada, situada, bandadas, cebada, discípulo</li>
@@ -224,8 +224,8 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
     <ul>
       <li>ADJ: primer, mismo, nuevo, junto, segundo, español, buen, propio, primeros, único</li>
       <li>ADJ-Part: pasado, compuesto, privado, conocidos, ubicado, abierto, conocido, destacados, parecido, satisfecho</li>
-      <li>AUX-Fin: ser, este, poder, estar, tienes, arrepentiréis, deber, encuentros, habeis, haber</li>
-      <li>AUX-Part: sido, estado, podido, ido, tenido, debido</li>
+      <li>AUX-Fin: ser, este, poder, estar, arrepentiréis, deber, encuentros, habeis, haber, habéis</li>
+      <li>AUX-Part: sido, estado, podido, debido</li>
       <li>DET: el, los, un, este, otros, ese, estos, todo, todos, unos</li>
       <li>NOUN: años, año, municipio, nombre, lugar, equipo, tiempo, estado, grupo, país</li>
       <li>NOUN-Part: $, supuesto, mediados, poblados, conocido, lavado, ocurrido, puesto, respecto, significados</li>
@@ -236,7 +236,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
       <li>SYM: km, cm, $, &, m, #, º, mundo.com, www.delnuevo, www.dgt.es</li>
       <li>SYM-Part: $, #</li>
       <li>VERB-Fin: puesto, debido, nombrado, vuelvo, ver, Acabo, pesar, trabajo, vivo, contraer</li>
-      <li>VERB-Part: ubicado, conocido, debido, llamado, nacido, hecho, dado, compuesto, lanzado, considerado</li>
+      <li>VERB-Part: ubicado, conocido, debido, llamado, nacido, hecho, dado, compuesto, tenido, lanzado</li>
       <li>X: mm, msnm, etc., 's, n., of, the, al, co, cis</li>
       <li>X-Part: co, ledo, lonsanjado, parquizado, semi, sinsentido, sobretodo, tomato, trato</li>
     </ul>
@@ -277,7 +277,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
       <li>ADJ: gran, estadounidense, primera, total, primer, nacional, principal, importante, general, mismo</li>
       <li>ADJ-Part: pasado, compuesto, privado, conocida, ubicado, privada, abierto, elevada, abierta, conocido</li>
       <li>AUX-Fin: es, fue, ha, era, está, puede, había, estaba, he, sea</li>
-      <li>AUX-Part: sido, estado, podido, ido, tenido, debido</li>
+      <li>AUX-Part: sido, estado, podido, debido</li>
       <li>DET: el, la, un, una, su, este, esta, cada, ese, todo</li>
       <li>NOUN: año, parte, población, ciudad, familia, municipio, vez, nombre, lugar, equipo</li>
       <li>NOUN-Part: llamada, supuesto, conocido, lavado, amada, conocida, denominada, ocurrido, pasada, puesto</li>
@@ -287,7 +287,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
       <li>PROPN-Part: Unido, Alvarado, Quesada, visto, Casado, Hurtado, Puerto, Quemada, Quemado, do</li>
       <li>SYM: ², h, $, &, º, #, extremo.com, ª, €, +</li>
       <li>SYM-Part: $</li>
-      <li>VERB-Fin: tiene, es, encuentra, hay, hace, tenía, era, fue, hizo, está</li>
+      <li>VERB-Fin: tiene, es, encuentra, hay, hace, tenía, era, fue, tuvo, hizo</li>
       <li>VERB-Part: ubicado, conocido, debido, llamado, situada, nacido, hecho, dado, conocida, compuesto</li>
       <li>X: 's, etc., the, anti, n., of, and, co, metal, pre</li>
       <li>X-Part: co, ledo, lonsanjado, parquizado, semi, sinsentido, sobretodo, tomato, trato, ubicada</li>
@@ -453,7 +453,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX-Fin: sería, podría, habría, podrían, debería, serían, deberían, habrían, estaría, tendría</li>
+      <li>AUX-Fin: sería, podría, habría, podrían, debería, serían, deberían, habrían, estaría, estarían</li>
       <li>VERB-Fin: tendría, gustaría, haría, volvería, sería, varían, varía, conseguiría, llegaría, serían</li>
     </ul>
   </li>
@@ -471,7 +471,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Ind
     <ul>
       <li>AUX-Fin: es, fue, ha, son, eran, era, han, está, puede, fueron</li>
-      <li>VERB-Fin: tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, hizo</li>
+      <li>VERB-Fin: tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, tuvo</li>
     </ul>
   </li>
 </ul>
@@ -480,7 +480,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Sub
     <ul>
       <li>AUX-Fin: sea, pueda, sean, puedan, haya, fuese, fuera, hubiera, fueran, pudiera</li>
-      <li>VERB-Fin: sea, tenga, crea, haga, haya, tengan, hagan, diera, llegue, quiera</li>
+      <li>VERB-Fin: sea, tenga, crea, haga, haya, tengan, hagan, vaya, diera, llegue</li>
     </ul>
   </li>
 </ul>
@@ -492,8 +492,8 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: será, podrá, podrán, serán, deberá, estará, deberán, estarán, tendrá, irán</li>
-      <li>VERB-Fin: será, tendrá, hará, permitirá, contará, llegará, habrá, celebrará, saldrá, tendrán</li>
+      <li>AUX-Fin: será, podrá, podrán, serán, deberá, estará, deberán, estarán, podremos, Habría</li>
+      <li>VERB-Fin: será, tendrá, hará, permitirá, tendrán, contará, llegará, habrá, celebrará, saldrá</li>
     </ul>
   </li>
 </ul>
@@ -501,7 +501,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: eran, era, había, estaba, habían, podía, estaban, debía, iba, fuese</li>
+      <li>AUX-Fin: eran, era, había, estaba, habían, podía, estaban, debía, fuese, fuera</li>
       <li>VERB-Fin: tenía, era, eran, había, pertenecían, estaba, tenían, encontraba, contaba, estaban</li>
     </ul>
   </li>
@@ -510,10 +510,10 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: fue, fueron, pudo, estuvo, tuvo, pudieron, tuvieron, Son, debió, pude</li>
-      <li>AUX-Part: sido, estado, podido, ido, tenido, debido</li>
-      <li>VERB-Fin: fue, hizo, tuvo, comenzó, nació, dijo, dio, ganó, convirtió, recibió</li>
-      <li>VERB-Part: hecho, dado, tenido, conocido, visto, lanzado, recibido, elegido, pasado, encontrado</li>
+      <li>AUX-Fin: fue, fueron, pudo, estuvo, pudieron, Son, debió, pude, estuve, pudimos</li>
+      <li>AUX-Part: sido, estado, podido, debido</li>
+      <li>VERB-Fin: fue, tuvo, hizo, comenzó, nació, dijo, dio, ganó, convirtió, recibió</li>
+      <li>VERB-Part: hecho, tenido, dado, conocido, visto, lanzado, recibido, elegido, pasado, encontrado</li>
     </ul>
   </li>
 </ul>
@@ -655,10 +655,10 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: he, hemos, estoy, podemos, puedo, somos, vamos, soy, debemos, estamos</li>
+      <li>AUX-Fin: he, hemos, estoy, podemos, puedo, somos, soy, debemos, estamos, pude</li>
       <li>DET: mi, nuestra, nuestros, nuestro, mis, nuestras, vuestra, Dichos, My, vuestras</li>
       <li>PRON: me, nos, yo, nosotros, mí, mi, conmigo, nuestro, nuestros, vos</li>
-      <li>VERB-Fin: tenemos, creo, estamos, pedimos, recomiendo, encontramos, quiero, tengo, estuve, fuimos</li>
+      <li>VERB-Fin: tenemos, creo, vamos, estamos, voy, pedimos, tengo, recomiendo, encontramos, quiero</li>
       <li>X: 's, mi, to, estamos, hoc, li, lobster, ne, of, què</li>
     </ul>
   </li>
@@ -667,7 +667,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: puedes, eres, habéis, tienes, has, hayas, podéis, pudieras, puedas, seréis</li>
+      <li>AUX-Fin: puedes, eres, habéis, has, hayas, podéis, pudieras, puedas, seréis</li>
       <li>DET: tu, tus, L', What</li>
       <li>PRON: te, os, tú, usted, vosotros, ti, ustedes, contigo</li>
       <li>SYM: ², º, m</li>
@@ -685,7 +685,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
       <li>INTJ: sí</li>
       <li>PRON: se, lo, le, la, los, les, él, ellos, ella, las</li>
       <li>SYM: $, ª, º, #, &, ²</li>
-      <li>VERB-Fin: tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, hizo</li>
+      <li>VERB-Fin: tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, tuvo</li>
       <li>X: 's, es, and, be, oa, of, Fauve, Kage, League, Reguleses</li>
     </ul>
   </li>
@@ -713,8 +713,9 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
     <ul>
       <li>Yes
         <ul>
+          <li>NOUN: nɔrsk, nɔʂːk</li>
           <li>PROPN: Γαρμπή, ΖΒΖ, Καίτη, Φόρος, αφέλια, π, τ, τοῦ, φ, χ</li>
-          <li>X: 天下第一, TΔS, ː, Γρηγορᾶς, Μουσείο, Φιλοκαλια, β, ε, ε2, καλóς</li>
+          <li>X: 天下第一, TΔS, Γρηγορᾶς, Μουσείο, Φιλοκαλια, β, ε, ε2, καλóς, μm</li>
         </ul>
       </li>
     </ul>
@@ -730,8 +731,8 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
-<li>This corpus uses 30 lemmas as auxiliaries (<a>aux</a>). Examples: haber, poder, estar, deber, ir, tener, ser, a, empezar, querer, venir, comenzar, soler, aprender, bovino, car, dejar, e, hacer, haer, heian, negar, parte, permitir, saber, salir, seguir, sulo, todavía, volver.</li>
-<li>This corpus uses 8 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, estar, haber, be, deber, ir, poder, was.</li>
+<li>This corpus uses 28 lemmas as auxiliaries (<a>aux</a>). Examples: haber, poder, estar, deber, ser, a, empezar, querer, venir, comenzar, soler, aprender, bovino, car, dejar, e, hacer, haer, heian, negar, parte, permitir, saber, salir, seguir, sulo, todavía, volver.</li>
+<li>This corpus uses 7 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, estar, haber, be, deber, poder, was.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -740,7 +741,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (6373)</li>
+      <li>VERB-Fin--NOUN (6420)</li>
       <li>VERB-Fin--NOUN-ADP(a) (2)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
@@ -748,29 +749,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(más) (1)</li>
       <li>VERB-Fin--NOUN-ADP(que) (1)</li>
       <li>VERB-Fin--NOUN-ADP(yo) (1)</li>
-      <li>VERB-Fin--PRON (689)</li>
+      <li>VERB-Fin--PRON (700)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-Acc (25)</li>
       <li>VERB-Fin--PRON-Acc,Dat (3)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (161)</li>
-      <li>VERB-Fin--PRON-Nom (49)</li>
-      <li>VERB-Ger--NOUN (105)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (163)</li>
+      <li>VERB-Fin--PRON-Nom (50)</li>
+      <li>VERB-Ger--NOUN (90)</li>
       <li>VERB-Ger--PRON (7)</li>
       <li>VERB-Ger--PRON-Acc (2)</li>
-      <li>VERB-Ger--PRON-Acc,Nom (4)</li>
+      <li>VERB-Ger--PRON-Acc,Nom (3)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN (398)</li>
+      <li>VERB-Inf--NOUN (365)</li>
       <li>VERB-Inf--NOUN-ADP(de) (1)</li>
-      <li>VERB-Inf--PRON (47)</li>
+      <li>VERB-Inf--PRON (37)</li>
       <li>VERB-Inf--PRON-Acc (2)</li>
       <li>VERB-Inf--PRON-Acc,Nom (9)</li>
-      <li>VERB-Inf--PRON-Nom (7)</li>
-      <li>VERB-Part--NOUN (680)</li>
+      <li>VERB-Inf--PRON-Nom (5)</li>
+      <li>VERB-Part--NOUN (684)</li>
       <li>VERB-Part--PRON (74)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
       <li>VERB-Part--PRON-Acc,Dat (1)</li>
-      <li>VERB-Part--PRON-Acc,Nom (12)</li>
-      <li>VERB-Part--PRON-Nom (11)</li>
+      <li>VERB-Part--PRON-Acc,Nom (11)</li>
+      <li>VERB-Part--PRON-Nom (12)</li>
     </ul>
   </li>
 </ul>
@@ -808,7 +809,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-ADP(entre) (1)</li>
       <li>VERB-Inf--PRON (74)</li>
       <li>VERB-Inf--PRON-ADP(a) (17)</li>
-      <li>VERB-Inf--PRON-Acc (265)</li>
+      <li>VERB-Inf--PRON-Acc (266)</li>
       <li>VERB-Inf--PRON-Acc,Dat (25)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(a) (1)</li>
       <li>VERB-Inf--PRON-Acc-ADP(a) (1)</li>
@@ -834,7 +835,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-ADP(a) (41)</li>
       <li>VERB-Fin--PRON-Acc (7)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (4490)</li>
+      <li>VERB-Fin--PRON-Acc,Dat (4493)</li>
       <li>VERB-Fin--PRON-Acc,Nom (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (9)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(para) (1)</li>

@@ -100,7 +100,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Fem` (127; 36% of non-empty `Gender`): <em>conhecidas, construída, crescidas, derrotada, destruída, dividida, encontrada, estabelecidas, formada, levantadas</em>
 * `Masc` (230; 64% of non-empty `Gender`): <em>devido, feito, realizado, conhecido, construído, coprotagonizado, dito, usado, utilizado, acusado</em>
-* `EMPTY` (1652): <em>disse, há, tem, diz, fazer, é, está, ter, fez, partir</em>
+* `EMPTY` (1675): <em>disse, há, tem, começou, diz, fazer, é, está, ter, fez</em>
 
 ### `NUM`
 
@@ -132,7 +132,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (4; 36% of non-empty `Gender`): <em>consideradas, deixada, nomeada</em>
 * `Masc` (7; 64% of non-empty `Gender`): <em>declarado, proclamado, chamado, considerados, tornado</em>
-* `EMPTY` (819): <em>é, foi, foram, são, ser, sido, está, pode, tinha, ter</em>
+* `EMPTY` (796): <em>é, foi, foram, são, ser, sido, está, pode, tinha, ter</em>
 
 ## Relations with Agreement in `Gender`
 

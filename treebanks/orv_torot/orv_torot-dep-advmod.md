@@ -58,9 +58,9 @@ The following 20 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod	color:blue
-1	тако	такыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	ref=55.2
-2	и	и	ADV	Df	_	3	advmod	_	ref=55.2
-3	се	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=55.2
+1	тако	такыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	Ref=55.2
+2	и	и	ADV	Df	_	3	advmod	_	Ref=55.2
+3	се	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	Ref=55.2
 
 ~~~
 

@@ -14,7 +14,26 @@ There are 1 language-specific subtypes of `csubj`: <tt><a href="cs_cac-dep-csubj
 2246 instances of `csubj` (95%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.04205607476636.
 
-The following 26 pairs of parts of speech are connected with `csubj`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (871; 37% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (852; 36% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (309; 13% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (153; 6% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (51; 2% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (47; 2% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (13; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 32 pairs of parts of speech are connected with `csubj`: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (840; 36% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (801; 34% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (309; 13% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (152; 6% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (55; 2% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (47; 2% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (47; 2% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 csubj	color:blue
+1	Rozpoznat	rozpoznat	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	8	csubj	8:csubj	_
+2	a	a	CCONJ	J^-------------	_	4	cc	4:cc	LId=a-1
+3	správně	správně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	4:advmod	LGloss=(podle_něj._měřítek;_př._chlap,_míra,...)|LDeriv=správný
+4	zařadit	zařadit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	1	conj	1:conj|8:csubj	_
+5	typy	typ	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	1	obj	1:obj|4:obj	_
+6	pleti	pleť	NOUN	NNFS2-----A---1	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	nmod	5:nmod:gen	_
+7	není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
+8	lehké	lehký	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
+
+~~~
 
 
 ~~~ conllu
@@ -34,25 +53,6 @@ The following 26 pairs of parts of speech are connected with `csubj`: <tt><a hre
 9	hereckých	herecký	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	10	amod	10:amod	_
 10	prostředků	prostředek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	8	nmod	8:nmod:gen	SpaceAfter=No|LId=prostředek-2|LGloss=(způsob,_nástroj)
 11	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 1 csubj	color:blue
-1	Rozpoznat	rozpoznat	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	8	csubj	8:csubj	_
-2	a	a	CCONJ	J^-------------	_	4	cc	4:cc	LId=a-1
-3	správně	správně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	4:advmod	LGloss=(podle_něj._měřítek;_př._chlap,_míra,...)|LDeriv=správný
-4	zařadit	zařadit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	1	conj	1:conj|8:csubj	_
-5	typy	typ	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	1	obj	1:obj|4:obj	_
-6	pleti	pleť	NOUN	NNFS2-----A---1	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	nmod	5:nmod:gen	_
-7	není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
-8	lehké	lehký	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
 
 ~~~
 

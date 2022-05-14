@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>став</em> (<tt><a href="kpv_latti
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.666667 (the average of all parts of speech is 1.467100).
+The form / lemma ratio of `DET` is 1.666667 (the average of all parts of speech is 1.468534).
 
 The 1st highest number of forms (4) was observed with the lemma “став”: <em>став, ставныс, ставсӧ, ставыс</em>.
 

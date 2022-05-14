@@ -54,7 +54,7 @@ The following 15 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	mě	já	PRON	PH-S4--1-------	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obj	5:obj	_
 7	směrem	směr	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	9	case	9:case	_
 8	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	7	fixed	7:fixed	_
-9	ní	on	PRON	P5FS3--3-------	Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	5	obl	5:obl:směr_k:dat	SpaceAfter=No
+9	ní	on	PRON	P5FS3--3-------	Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	5	obl	5:obl:směrem_k:dat	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 15 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	4:case	_
 2	souvislosti	souvislost	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	1	fixed	1:fixed	_
 3	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	1	fixed	1:fixed	_
-4	ním	on	PRON	P5MS7--3-------	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	8	obl	8:obl:v_souvislost_s:ins	_
+4	ním	on	PRON	P5MS7--3-------	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	8	obl	8:obl:v_souvislosti_s:ins	_
 5	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	8	expl:pv	8:expl:pv	_
 6	nic	nic	PRON	PW--1----------	Case=Nom|PronType=Neg	8	nsubj	8:nsubj	_
 7	mimořádného	mimořádný	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	6	amod	6:amod	_

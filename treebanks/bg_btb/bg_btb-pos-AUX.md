@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="bg_btb-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 5.500000 (the average of all parts of speech is 1.727371).
+The form / lemma ratio of `AUX` is 5.500000 (the average of all parts of speech is 1.727418).
 
 The 1st highest number of forms (21) was observed with the lemma “съм”: <em>бе, беше, би, бил, била, били, било, бих, биха, бихме, бихте, бях, бяха, бяхме, бяхте, е, са, си, сме, сте, съм</em>.
 

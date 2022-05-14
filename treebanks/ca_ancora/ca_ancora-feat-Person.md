@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-52874 tokens (10%) have a non-empty value of `Person`.
+52872 tokens (10%) have a non-empty value of `Person`.
 4641 types (14%) occur at least once with a non-empty value of `Person`.
-1357 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (19829; 4% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (18451; 3% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (11454; 2% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (3140; 1% instances).
+1352 lemmas (6%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (19829; 4% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (18451; 3% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (11453; 2% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (3139; 1% instances).
 
 ### `AUX`
 
@@ -77,33 +77,31 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-11454 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Person`.
+11453 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11454; 100%), <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9916; 87%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8290; 72%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt> (7439; 65%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (6790; 59%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (6616; 58%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11453; 100%), <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9916; 87%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8290; 72%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt> (7439; 65%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (6790; 59%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (6616; 58%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (610; 5% of non-empty `Person`): <em>ens, nosaltres, em, jo, m', nos, mi, me, 'ns, 'm</em>
 * `2` (82; 1% of non-empty `Person`): <em>vostè, et, t', 't, vostès, tu, us, te, vosaltres, ti</em>
-* `3` (10762; 94% of non-empty `Person`): <em>es, s', hi, se, li, ho, els, la, el, l'</em>
+* `3` (10761; 94% of non-empty `Person`): <em>es, s', hi, se, li, ho, els, la, el, l'</em>
 * `EMPTY` (12001): <em>que, un, tot, on, què, això, qual, qui, quals, una</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `Person`.
 
 ### `DET`
 
-3140 <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
+3139 <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3140; 100%), <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3140; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2323; 74%), <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1606; 51%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3139; 100%), <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3139; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2322; 74%), <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1606; 51%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `1` (219; 7% of non-empty `Person`): <em>nostra, nostre, nostres, meu, meus, meva</em>
 * `2` (4; 0% of non-empty `Person`): <em>teu, teus, teva</em>
-* `3` (2917; 93% of non-empty `Person`): <em>seva, seu, seus, seves, su, les</em>
+* `3` (2916; 93% of non-empty `Person`): <em>seva, seu, seus, seves, su, les</em>
 * `EMPTY` (84128): <em>el, la, l', els, les, un, una, aquest, aquesta, altres</em>
-
-`Person` seems to be **lexical feature** of `DET`. 100% lemmas (14) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 

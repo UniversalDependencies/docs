@@ -38,7 +38,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 `X` tokens may have the following values of `Case`:
 
 * `Nom` (6; 100% of non-empty `Case`): <em>>+, [, de, {, ||, }</em>
-* `EMPTY` (40225): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40224): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ### `NOUN`
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 `NOUN` tokens may have the following values of `Case`:
 
 * `Gen` (5; 100% of non-empty `Case`): <em>guy's, Champions', childs, people's</em>
-* `EMPTY` (14742): <em>people, one, money, ting, school, time, man, person, house, work</em>
+* `EMPTY` (14740): <em>people, one, money, ting, school, time, man, person, house, work</em>
 
 ### `PROPN`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 `PROPN` tokens may have the following values of `Case`:
 
 * `Gen` (5; 100% of non-empty `Case`): <em>Africa's, God's, John's, Momo's, Zimbabwe's</em>
-* `EMPTY` (2179): <em>God, Nigeria, Jesus, Pidgin, English, Lagos, Alaska, Jos, Abuja, WAEC</em>
+* `EMPTY` (2182): <em>God, Nigeria, Jesus, Pidgin, English, Lagos, Alaska, Jos, Abuja, WAEC</em>
 
 ### `AUX`
 

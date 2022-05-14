@@ -22,14 +22,14 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 mark	color:blue
-1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=MATT_5.26
-2	изидеши	изити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.26
-3	отъ	отътѫдѣ	ADV	Df	_	2	advmod	_	ref=MATT_5.26
-4	тѫдѣ	тѫдѣ	ADV	Df	_	3	fixed	_	ref=MATT_5.26
-5	доньдеже	доньде	SCONJ	G-	_	6	mark	_	ref=MATT_5.26
-6	въздаси	въздати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=MATT_5.26
-7	послѣдьнии	послѣдьнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	ref=MATT_5.26
-8	кодрантъ	кодрантъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	ref=MATT_5.26
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_5.26
+2	изидеши	изити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.26
+3	отъ	отътѫдѣ	ADV	Df	_	2	advmod	_	Ref=MATT_5.26
+4	тѫдѣ	тѫдѣ	ADV	Df	_	3	fixed	_	Ref=MATT_5.26
+5	доньдеже	доньде	SCONJ	G-	_	6	mark	_	Ref=MATT_5.26
+6	въздаси	въздати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Ref=MATT_5.26
+7	послѣдьнии	послѣдьнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	Ref=MATT_5.26
+8	кодрантъ	кодрантъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	Ref=MATT_5.26
 
 ~~~
 
@@ -40,17 +40,17 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 mark	color:blue
-1	аще	аще	SCONJ	G-	_	7	mark	_	ref=MATT_6.23
-2	оубо	оубо	ADV	Df	_	11	discourse	_	ref=MATT_6.23
-3	свѣтъ	свѣтъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=MATT_6.23|LId=1
-4	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	ref=MATT_6.23
-5	въ	въ	ADP	R-	_	6	case	_	ref=MATT_6.23
-6	тебѣ	тꙑ	PRON	Pp	Case=Loc|Number=Sing|Person=2|PronType=Prs	3	det	_	ref=MATT_6.23
-7	тъма	тьма	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	advcl	_	ref=MATT_6.23|LId=1
-8	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=MATT_6.23
-9	тѣ	тѣ	ADV	Df	_	11	discourse	_	ref=MATT_6.23
-10	тъма	тьма	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	ref=MATT_6.23|LId=1
-11	кольми	кольми	ADV	Du	PronType=Int	0	root	_	ref=MATT_6.23
+1	аще	аще	SCONJ	G-	_	7	mark	_	Ref=MATT_6.23
+2	оубо	оубо	ADV	Df	_	11	discourse	_	Ref=MATT_6.23
+3	свѣтъ	свѣтъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	LId=1|Ref=MATT_6.23
+4	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=MATT_6.23
+5	въ	въ	ADP	R-	_	6	case	_	Ref=MATT_6.23
+6	тебѣ	тꙑ	PRON	Pp	Case=Loc|Number=Sing|Person=2|PronType=Prs	3	det	_	Ref=MATT_6.23
+7	тъма	тьма	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	advcl	_	LId=1|Ref=MATT_6.23
+8	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Ref=MATT_6.23
+9	тѣ	тѣ	ADV	Df	_	11	discourse	_	Ref=MATT_6.23
+10	тъма	тьма	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	LId=1|Ref=MATT_6.23
+11	кольми	кольми	ADV	Du	PronType=Int	0	root	_	Ref=MATT_6.23
 
 ~~~
 
@@ -61,17 +61,17 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 mark	color:blue
-1	аще	аще	SCONJ	G-	_	6	mark	_	ref=MATT_6.22
-2	оубо	оубо	ADV	Df	_	10	discourse	_	ref=MATT_6.22
-3	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	ref=MATT_6.22
-4	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_6.22
-5	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	4	nmod	_	ref=MATT_6.22
-6	просто	простъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	10	advcl	_	ref=MATT_6.22
-7	вьсе	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Sing	8	det	_	ref=MATT_6.22
-8	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	ref=MATT_6.22
-9	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	8	nmod	_	ref=MATT_6.22
-10	свѣтъло	свѣтьлъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	ref=MATT_6.22
-11	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	cop	_	ref=MATT_6.22
+1	аще	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_6.22
+2	оубо	оубо	ADV	Df	_	10	discourse	_	Ref=MATT_6.22
+3	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	Ref=MATT_6.22
+4	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=MATT_6.22
+5	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	4	nmod	_	Ref=MATT_6.22
+6	просто	простъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	10	advcl	_	Ref=MATT_6.22
+7	вьсе	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Sing	8	det	_	Ref=MATT_6.22
+8	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	Ref=MATT_6.22
+9	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	8	nmod	_	Ref=MATT_6.22
+10	свѣтъло	свѣтьлъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	Ref=MATT_6.22
+11	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	cop	_	Ref=MATT_6.22
 
 ~~~
 

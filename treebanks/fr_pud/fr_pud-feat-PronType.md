@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`.
 
-4807 tokens (19%) have a non-empty value of `PronType`.
-119 types (2%) occur at least once with a non-empty value of `PronType`.
+4808 tokens (19%) have a non-empty value of `PronType`.
+120 types (2%) occur at least once with a non-empty value of `PronType`.
 28 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3736; 15% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1071; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3737; 15% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1071; 4% instances).
 
 ### `DET`
 
-3736 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `PronType`.
+3737 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2785; 75%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2756; 74%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1951; 52%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2785; 75%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2756; 74%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1952; 52%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (3451; 92% of non-empty `PronType`): <em>le, la, les, l', un, une, des, l’, de, d'</em>
+* `Art` (3452; 92% of non-empty `PronType`): <em>le, la, les, l', un, une, des, l’, de, d'</em>
 * `Int` (2; 0% of non-empty `PronType`): <em>quelle</em>
 * `Neg` (8; 0% of non-empty `PronType`): <em>aucun, aucune</em>
 * `Prs` (275; 7% of non-empty `PronType`): <em>son, sa, ses, leur, leurs, notre, nos, mon, votre, ma</em>
-* `EMPTY` (141): <em>cette, ce, ces, toute, d’, tout, cet, La, L’, e</em>
+* `EMPTY` (140): <em>cette, ce, ces, toute, d’, tout, cet, La, L’, ladite</em>
 
 ### `PRON`
 

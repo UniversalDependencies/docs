@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-116 nodes (2%) are attached to their parents as `nmod`.
+115 nodes (2%) are attached to their parents as `nmod`.
 
-116 instances of `nmod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.97413793103448.
+115 instances of `nmod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.99130434782609.
 
-The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (96; 83% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (11; 9% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (96; 83% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (10; 9% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

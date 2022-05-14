@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Mitchell Abrams, Elizabeth Davidson, Amir Zeldes.
 
 Repository: [UD_Coptic-Scriptorium](https://github.com/UniversalDependencies/UD_Coptic-Scriptorium)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY 4.0
 
@@ -75,13 +75,13 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 ## Relations
 
-[acl](cop_scriptorium-dep-acl.html) – [advcl](cop_scriptorium-dep-advcl.html) – [advmod](cop_scriptorium-dep-advmod.html) – [amod](cop_scriptorium-dep-amod.html) – [appos](cop_scriptorium-dep-appos.html) – [aux](cop_scriptorium-dep-aux.html) – [case](cop_scriptorium-dep-case.html) – [cc](cop_scriptorium-dep-cc.html) – [ccomp](cop_scriptorium-dep-ccomp.html) – [compound](cop_scriptorium-dep-compound.html) – [conj](cop_scriptorium-dep-conj.html) – [cop](cop_scriptorium-dep-cop.html) – [csubj](cop_scriptorium-dep-csubj.html) – [dep](cop_scriptorium-dep-dep.html) – [det](cop_scriptorium-dep-det.html) – [discourse](cop_scriptorium-dep-discourse.html) – [dislocated](cop_scriptorium-dep-dislocated.html) – [fixed](cop_scriptorium-dep-fixed.html) – [flat](cop_scriptorium-dep-flat.html) – [iobj](cop_scriptorium-dep-iobj.html) – [mark](cop_scriptorium-dep-mark.html) – [nmod](cop_scriptorium-dep-nmod.html) – [nsubj](cop_scriptorium-dep-nsubj.html) – [nummod](cop_scriptorium-dep-nummod.html) – [obj](cop_scriptorium-dep-obj.html) – [obl](cop_scriptorium-dep-obl.html) – [obl:npmod](cop_scriptorium-dep-obl-npmod.html) – [orphan](cop_scriptorium-dep-orphan.html) – [parataxis](cop_scriptorium-dep-parataxis.html) – [punct](cop_scriptorium-dep-punct.html) – [reparandum](cop_scriptorium-dep-reparandum.html) – [root](cop_scriptorium-dep-root.html) – [vocative](cop_scriptorium-dep-vocative.html) – [xcomp](cop_scriptorium-dep-xcomp.html)
+[acl](cop_scriptorium-dep-acl.html) – [acl:relcl](cop_scriptorium-dep-acl-relcl.html) – [advcl](cop_scriptorium-dep-advcl.html) – [advmod](cop_scriptorium-dep-advmod.html) – [amod](cop_scriptorium-dep-amod.html) – [appos](cop_scriptorium-dep-appos.html) – [aux](cop_scriptorium-dep-aux.html) – [case](cop_scriptorium-dep-case.html) – [cc](cop_scriptorium-dep-cc.html) – [ccomp](cop_scriptorium-dep-ccomp.html) – [compound](cop_scriptorium-dep-compound.html) – [conj](cop_scriptorium-dep-conj.html) – [cop](cop_scriptorium-dep-cop.html) – [csubj](cop_scriptorium-dep-csubj.html) – [dep](cop_scriptorium-dep-dep.html) – [det](cop_scriptorium-dep-det.html) – [discourse](cop_scriptorium-dep-discourse.html) – [dislocated](cop_scriptorium-dep-dislocated.html) – [fixed](cop_scriptorium-dep-fixed.html) – [flat](cop_scriptorium-dep-flat.html) – [iobj](cop_scriptorium-dep-iobj.html) – [mark](cop_scriptorium-dep-mark.html) – [nmod](cop_scriptorium-dep-nmod.html) – [nsubj](cop_scriptorium-dep-nsubj.html) – [nummod](cop_scriptorium-dep-nummod.html) – [obj](cop_scriptorium-dep-obj.html) – [obl](cop_scriptorium-dep-obl.html) – [obl:npmod](cop_scriptorium-dep-obl-npmod.html) – [orphan](cop_scriptorium-dep-orphan.html) – [parataxis](cop_scriptorium-dep-parataxis.html) – [punct](cop_scriptorium-dep-punct.html) – [reparandum](cop_scriptorium-dep-reparandum.html) – [root](cop_scriptorium-dep-root.html) – [vocative](cop_scriptorium-dep-vocative.html) – [xcomp](cop_scriptorium-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2010 sentences, 24647 tokens and 52169 syntactic words.</li>
+<li>This corpus contains 2011 sentences, 24647 tokens and 52170 syntactic words.</li>
 </ul>
 
 <ul>
@@ -488,10 +488,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(ⲛ) (2)</li>
       <li>VERB--NOUN-ADP(ⲛ)-ADP(ⲛ) (1)</li>
       <li>VERB--PRON (30)</li>
-      <li>VERB-Fin--NOUN (565)</li>
+      <li>VERB-Fin--NOUN (527)</li>
       <li>VERB-Fin--NOUN-ADP(ϩⲓⲣⲛ) (1)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ) (5)</li>
-      <li>VERB-Fin--PRON (4081)</li>
+      <li>VERB-Fin--PRON (3926)</li>
     </ul>
   </li>
 </ul>
@@ -499,14 +499,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
+      <li>VERB--NOUN (39)</li>
       <li>VERB--NOUN-ADP(ⲛ) (10)</li>
-      <li>VERB--PRON (5)</li>
-      <li>VERB-Fin--NOUN (359)</li>
+      <li>VERB--PRON (161)</li>
+      <li>VERB-Fin--NOUN (360)</li>
       <li>VERB-Fin--NOUN-ADP(ⲙ) (3)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ) (443)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ)-ADP(ⲛ) (8)</li>
-      <li>VERB-Fin--PRON (812)</li>
+      <li>VERB-Fin--PRON (811)</li>
       <li>VERB-Fin--PRON-ADP(ⲉ) (1)</li>
       <li>VERB-Fin--PRON-ADP(ⲙⲙⲟ) (5)</li>
       <li>VERB-Fin--PRON-ADP(ⲛ) (341)</li>
@@ -537,6 +537,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 1 relation subtypes: <a>obl:npmod</a></li>
+<li>This corpus uses 2 relation subtypes: <a>acl:relcl</a>, <a>obl:npmod</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

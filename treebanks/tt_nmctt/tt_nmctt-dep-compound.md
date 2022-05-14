@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="tt_nmctt-dep-compound-lvc.html">compound:lvc</a></tt>.
 
-1 nodes (0%) are attached to their parents as `compound`.
+2 nodes (0%) are attached to their parents as `compound`.
 
-1 instances of `compound` (100%) are right-to-left (child precedes parent).
+2 instances of `compound` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 50% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-SYM.html">SYM</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -43,6 +43,37 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 18	буларак	буларак	ADP	_	_	4	case	_	LangID=TT
 19	истә	ис	NOUN	_	Case=Loc|Number=Sing	20	obl	_	LangID=TT
 20	калыр	кал	VERB	_	Mood=Irr|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	LangID=OTHER
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 compound	color:blue
+1	Синоптиклар	синоптик	NOUN	_	Case=Nom|Number=Plur	20	nsubj	_	CSPoint=Синоптик§лар|LangID=MIXED[RU§TT]
+2	сишәмбе	сишәмбе	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+3	һәм	һәм	CCONJ	_	_	4	cc	_	LangID=TT
+4	чәршәмбе	чәршәмбе	NOUN	_	Case=Nom|Number=Sing	2	conj	_	LangID=TT
+5	көннәрендә	көн	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	11	obl	_	LangID=TT
+6	республикада	республика	NOUN	_	Case=Loc|Number=Sing	11	obl	_	CSPoint=республика§да|LangID=MIXED[RU§TT]
+7	+	+	SYM	_	_	8	amod	_	LangID=OTHER|SpaceAfter=No
+8	23	23	NUM	_	NumType=Card	9	nummod	_	LangID=TT|SpaceAfter=No
+9	°С	°С	SYM	_	_	10	compound	_	LangID=OTHER
+10	җылы	җылы	NOUN	_	_	11	nmod	_	LangID=TT
+11	булуын	бул	VERB	_	Case=Acc|Number=Sing|Person[psor]=3|VerbForm=Vnoun	20	obj	_	LangID=TT|SpaceAfter=No
+12	,	,	PUNCT	_	_	17	punct	_	LangID=OTHER
+13	ә	ә	CCONJ	_	_	17	cc	_	LangID=TT
+14	ял	ял	NOUN	_	Case=Nom|Number=Sing	15	nmod	_	LangID=TT
+15	көннәрендә	көн	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	17	obl	_	LangID=TT
+16	салкыннар	салкын	NOUN	_	Case=Nom|Number=Plur	17	nmod	_	LangID=TT
+17	көтелүе	көт	VERB	_	Case=Nom|Number=Sing|Person[psor]=3|VerbForm=Vnoun|Voice=Pass	11	conj	_	LangID=TT
+18	турында	турында	ADP	_	_	17	case	_	LangID=TT
+19	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	20	compound:lvc	_	LangID=TT
+20	итә	ит	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 21	.	.	PUNCT	_	_	20	punct	_	LangID=OTHER
 
 ~~~

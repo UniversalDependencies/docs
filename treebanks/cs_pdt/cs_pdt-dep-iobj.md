@@ -31,7 +31,7 @@ The following 9 pairs of parts of speech are connected with `iobj`: <tt><a href=
 7	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	8	obl:arg	8:obl:arg:dat	LGloss=(zvr._zájmeno/částice)
 8	zajistit	zajistit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	6	xcomp	6:xcomp	_
 9	teplo	teplo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	8	iobj	8:iobj	LId=teplo-1
-10	sám	sám	DET	PLYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	8	xcomp	8:xcomp	SpaceAfter=No|LGloss=(samotný)
+10	sám	samý	DET	PLYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp|Variant=Short	8	xcomp	8:xcomp	SpaceAfter=No|LGloss=(samotný)
 11	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~
@@ -68,7 +68,7 @@ The following 9 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4 3 iobj	color:blue
 1	Jistý	jistý	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	2:amod	_
 2	člověk	člověk	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	4	nsubj	4:nsubj	_
-3	je	on	PRON	PPXP4--3-------	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	iobj	4:iobj	LId=on-1|LGloss=(oni/ono)
+3	je	on	PRON	PPXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	4	iobj	4:iobj	LId=on-1|LGloss=(oni/ono)
 4	obvinil	obvinit	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
 6	že	že	SCONJ	J,-------------	_	8	mark	8:mark	_

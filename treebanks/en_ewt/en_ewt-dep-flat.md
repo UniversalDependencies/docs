@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="en_ewt-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-1966 nodes (1%) are attached to their parents as `flat`.
+2078 nodes (1%) are attached to their parents as `flat`.
 
-1966 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.30671414038657.
+2078 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.40664100096246.
 
-The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1835; 93% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (57; 3% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (51; 3% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1839; 88% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (156; 8% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (57; 3% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,6 +38,23 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat	color:blue
+1	-	-	PUNCT	NFP	_	2	punct	2:punct	_
+2	ENRON-CPS	enron-cps	NOUN	GW	_	0	root	0:root	_
+3	(	(	X	GW	_	2	flat	2:flat	SpaceAfter=No
+4	GISB	gisb	X	GW	_	2	flat	2:flat	_
+5	rev1	rev1	X	GW	_	2	flat	2:flat	SpaceAfter=No
+6	)	)	X	GW	_	2	flat	2:flat	SpaceAfter=No
+7	.doc	.doc	X	NN	Number=Sing	2	flat	2:flat	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
@@ -52,23 +69,6 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	hymn	hymn	NOUN	NN	Number=Sing	6	obj	6:obj	SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	6:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 flat	color:blue
-1	-	-	PUNCT	NFP	_	2	punct	2:punct	_
-2	ENRON-CPS	enron-cps	NOUN	GW	_	0	root	0:root	_
-3	(	(	X	GW	_	2	flat	2:flat	SpaceAfter=No
-4	GISB	gisb	X	GW	_	2	flat	2:flat	_
-5	rev1	rev1	X	GW	_	2	flat	2:flat	SpaceAfter=No
-6	)	)	X	GW	_	2	flat	2:flat	SpaceAfter=No
-7	.doc	.doc	X	NN	Number=Sing	2	flat	2:flat	_
 
 ~~~
 

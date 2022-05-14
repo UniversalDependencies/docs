@@ -48,7 +48,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 6681 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5914; 89%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5301; 79%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4276; 64%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4144; 62%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5914; 89%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5302; 79%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4276; 64%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4144; 62%).
 
 `DET` tokens may have the following values of `PronType`:
 

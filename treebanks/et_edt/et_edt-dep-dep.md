@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `dep`.
+16 nodes (0%) are attached to their parents as `dep`.
 
-7 instances of `dep` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.61538461538462.
+10 instances of `dep` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.5625.
 
-The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (5; 38% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (4; 31% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 8% instances).
+The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 25% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (4; 25% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (4; 25% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -41,6 +41,39 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 11 dep	color:blue
+1	Lõpuks	lõpuks	ADV	D	_	4	advmod	4:advmod	_
+2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
+3	välja	välja	ADV	D	_	4	compound:prt	4:compound	_
+4	toodud	tooma	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+5	kõigi	kõik	DET	P	Case=Gen|Number=Plur|PronType=Tot	7	det	7:det	_
+6	analüüsitud	analüüsi=tud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	7:acl	_
+7	mõjurite	mõjur	NOUN	S	Case=Gen|Number=Plur	8	nmod	8:nmod	_
+8	kogumõju	kogu_mõju	NOUN	S	Case=Nom|Number=Sing	4	obj	4:obj	_
+9	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	10	nmod	10:nmod	_
+10	ebavõrdsusele	eba_võrdsus	NOUN	S	Case=All|Number=Sing	8	nmod	8:nmod	_
+11	ceteris	ceteris	X	T	Foreign=Yes	8	dep	8:dep	_
+12	paribus	paribus	X	T	Foreign=Yes	11	flat	11:flat	_
+13	ka	ka	ADV	D	_	14	advmod	14:advmod	_
+14	graafiliselt	graafilise=lt	ADV	D	_	4	advmod	4:advmod	_
+15	ning	ning	CCONJ	J	_	16	cc	16:cc	_
+16	võrreldud	võrdlema	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	0:root|4:conj	_
+17	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	16	obj	16:obj	_
+18	andmepõhist	andme_põhine	ADJ	A	Case=Par|Degree=Pos|Number=Sing	19	amod	19:amod	_
+19	koguseost	kogu_seos	NOUN	S	Case=Par|Number=Sing	20	obj	20:obj	_
+20	kirjeldava	kirjeldav	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	22	acl	22:acl	_
+21	vaatluste	vaatlus	NOUN	S	Case=Gen|Number=Plur	22	nmod	22:nmod	_
+22	pilvega	pilv	NOUN	S	Case=Com|Number=Sing	16	obl	16:obl	SpaceAfter=No
+23	.	.	PUNCT	Z	_	4	punct	4:punct	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 9	bgColor:blue
@@ -60,22 +93,6 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 12	laia	lai	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	13	amod	13:amod	_
 13	joone	joon	NOUN	S	Case=Gen|Number=Sing	9	obj	9:obj	SpaceAfter=No
 14	.	.	PUNCT	Z	_	9	punct	9:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 dep	color:blue
-1	Tibud	tibu	NOUN	S	Case=Nom|Number=Plur	3	nsubj:cop	3:nsubj	_
-2	olid	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
-3	vangis	vang	NOUN	S	Case=Ine|Number=Sing	0	root	0:root	_
-4	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Rel	5	dep	5:dep	_
-5	vangis	vang	NOUN	S	Case=Ine|Number=Sing	3	conj	3:conj	SpaceAfter=No
-6	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 

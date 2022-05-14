@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>să</em> (<tt><a href="ro_rrt-pos-PAR
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 2.000000 (the average of all parts of speech is 1.814733).
+The form / lemma ratio of `PART` is 2.000000 (the average of all parts of speech is 1.814400).
 
 The 1st highest number of forms (3) was observed with the lemma “a”: <em>-a, a, a-</em>.
 
@@ -65,7 +65,7 @@ Examples: <em>să, s-</em>
 
 `PART` nodes are attached to their parents using 13 different relations: <tt><a href="ro_rrt-dep-mark.html">mark</a></tt> (3223; 66% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (1591; 33% instances), <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (41; 1% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="ro_rrt-dep-root.html">root</a></tt> (7; 0% instances), <tt><a href="ro_rrt-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="ro_rrt-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="ro_rrt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-expl-pv.html">expl:pv</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (4481; 92% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (130; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (110; 2% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (92; 2% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (12; 0% instances),  (7; 0% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (4481; 92% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (130; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (111; 2% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (92; 2% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (12; 0% instances),  (7; 0% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 4854 (99%) `PART` nodes are leaves.
 

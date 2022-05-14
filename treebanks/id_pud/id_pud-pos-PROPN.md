@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Perjanjian</em> (<tt><a href="id_pud-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.137196).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.137428).
 
 The 1st highest number of forms (1) was observed with the lemma “'s”: <em>'s</em>.
 

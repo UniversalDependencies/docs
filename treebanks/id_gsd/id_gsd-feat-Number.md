@@ -22,7 +22,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="id_gsd-pos-NOUN.htm
 
 * `Plur` (682; 3% of non-empty `Number`): <em>orang-orang, anak-anak, negara-negara, undang-undang, lagu-lagu, kata-kata, kitab-kitab, kota-kota, raja-raja, kapal-kapal</em>
 * `Sing` (20508; 97% of non-empty `Number`): <em>tahun, orang, desa, nama, kota, bagian, bahasa, wilayah, saat, film</em>
-* `EMPTY` (5241): <em>tanggal, sepak, luas, band, atas, pusat, gelar, km, serial, sekarang</em>
+* `EMPTY` (5240): <em>tanggal, sepak, luas, band, atas, pusat, gelar, km, serial, sekarang</em>
 
 <table>
   <tr><th>Paradigm <i>tahun</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

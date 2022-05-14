@@ -9,23 +9,23 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Agt`, `Neg`, `Past`, `Pres`.
 
-7825 tokens (4%) have a non-empty value of `PartForm`.
-3862 types (7%) occur at least once with a non-empty value of `PartForm`.
-1257 lemmas (5%) occur at least once with a non-empty value of `PartForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (7301; 4% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (524; 0% instances).
+7800 tokens (4%) have a non-empty value of `PartForm`.
+3843 types (7%) occur at least once with a non-empty value of `PartForm`.
+1250 lemmas (5%) occur at least once with a non-empty value of `PartForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (7276; 4% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (524; 0% instances).
 
 ### `VERB`
 
-7301 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (27% of all `VERB` tokens) have a non-empty value of `PartForm`.
+7276 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (27% of all `VERB` tokens) have a non-empty value of `PartForm`.
 
-The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (7301; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7301; 100%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7301; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7301; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7301; 100%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (7292; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5476; 75%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4586; 63%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3975; 54%).
+The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (7276; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7276; 100%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7276; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7276; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7276; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5462; 75%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4571; 63%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3966; 55%).
 
 `VERB` tokens may have the following values of `PartForm`:
 
 * `Agt` (505; 7% of non-empty `PartForm`): <em>johtama, edellyttämät, esittämä, tekemä, järjestämän, järjestämässä, olemassa, aiheuttamasta, antama, antamaa</em>
 * `Neg` (9; 0% of non-empty `PartForm`): <em>asettelematonta, hallitsemattomissa, kunnioittamattomasta, mainitsemattoman, maksamattomia, palamaton, pesimättömiä, tavoittamattomissa, ulottumattomissa</em>
-* `Past` (4417; 60% of non-empty `PartForm`): <em>tehty, saanut, tullut, s., tehnyt, annettu, annetun, antanut, verrattuna, saatu</em>
-* `Pres` (2370; 32% of non-empty `PartForm`): <em>olevan, koskevan, koskevat, oleva, olevat, vastaava, koskevien, olevien, liittyviä, olevia</em>
+* `Past` (4401; 60% of non-empty `PartForm`): <em>tehty, saanut, tullut, s., tehnyt, annettu, annetun, antanut, verrattuna, saatu</em>
+* `Pres` (2361; 32% of non-empty `PartForm`): <em>olevan, koskevan, koskevat, oleva, olevat, vastaava, koskevien, olevien, liittyviä, olevia</em>
 
 <table>
   <tr><th>Paradigm <i>maksaa</i></th><th><tt>Agt</tt></th><th><tt>Neg</tt></th><th><tt>Past</tt></th><th><tt>Pres</tt></th></tr>

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `det`: <tt><a href="cs_fictree-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="cs_fictree-dep-det-nummod.html">det:nummod</a></tt>.
 
-4233 nodes (3%) are attached to their parents as `det`.
+4251 nodes (3%) are attached to their parents as `det`.
 
-4151 instances of `det` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31537916371368.
+4164 instances of `det` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.31474947071277.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (4096; 97% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (43; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (28; 1% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_fictree-pos-X.html">X</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (4110; 97% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (45; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (28; 1% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_fictree-pos-X.html">X</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 2	smíchem	smích	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	4:obl:ins	_
 3	ale	ale	CCONJ	J^-------------	_	4	cc	4:cc	_
 4	dodávala	dodávat	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-5	každému	každý	DET	PLIS3----1A----	Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Tot	6	det	6:det	_
+5	každému	každý	DET	PLIS3----1A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	6	det	6:det	_
 6	jevu	jev	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	4	obl:arg	4:obl:arg:dat	_
 7	nějaký	nějaký	DET	PZIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	9	det	9:det	_
 8	snesitelnější	snesitelný	ADJ	AAIS4----2A----	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	9	amod	9:amod	_

@@ -22,12 +22,12 @@ The following 16 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 obl	color:blue
-1	Гэчевкы	_	NOUN	_	_	2	obl	_	Gloss=развлечение-LOC
-2	нынтыӄин	_	VERB	_	_	0	root	_	Gloss=ST-иметь-ST.3SG
-3	таӈкоԓё	_	ADV	_	_	5	advmod	_	Gloss=GOOD-очень
-4	ынкы	_	PRON	_	_	5	obl	_	Gloss=тот-LOC
-5	ныгынритӄин	_	VERB	_	_	2	parataxis	_	Gloss=ST-защищать-ST.3SG|SpaceAfter=No
-6	.	_	PUNCT	_	_	5	punct	_	_
+1	Гэчевкы	_	NOUN	_	_	2	obl	2:obl	Gloss=развлечение-LOC
+2	нынтыӄин	_	VERB	_	_	0	root	0:root	Gloss=ST-иметь-ST.3SG
+3	таӈкоԓё	_	ADV	_	_	5	advmod	5:advmod	Gloss=GOOD-очень
+4	ынкы	_	PRON	_	_	5	obl	5:obl	Gloss=тот-LOC
+5	ныгынритӄин	_	VERB	_	_	2	parataxis	2:parataxis	Gloss=ST-защищать-ST.3SG|SpaceAfter=No
+6	.	_	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -38,12 +38,12 @@ The following 16 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 obl	color:blue
-1	Гэчевкы	_	NOUN	_	_	2	obl	_	Gloss=развлечение-LOC
-2	нынтыӄин	_	VERB	_	_	0	root	_	Gloss=ST-иметь-ST.3SG
-3	таӈкоԓё	_	ADV	_	_	5	advmod	_	Gloss=GOOD-очень
-4	ынкы	_	PRON	_	_	5	obl	_	Gloss=тот-LOC
-5	ныгынритӄин	_	VERB	_	_	2	parataxis	_	Gloss=ST-защищать-ST.3SG|SpaceAfter=No
-6	.	_	PUNCT	_	_	5	punct	_	_
+1	Гэчевкы	_	NOUN	_	_	2	obl	2:obl	Gloss=развлечение-LOC
+2	нынтыӄин	_	VERB	_	_	0	root	0:root	Gloss=ST-иметь-ST.3SG
+3	таӈкоԓё	_	ADV	_	_	5	advmod	5:advmod	Gloss=GOOD-очень
+4	ынкы	_	PRON	_	_	5	obl	5:obl	Gloss=тот-LOC
+5	ныгынритӄин	_	VERB	_	_	2	parataxis	2:parataxis	Gloss=ST-защищать-ST.3SG|SpaceAfter=No
+6	.	_	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -54,13 +54,13 @@ The following 16 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 obl	color:blue
-1	Вытку	_	ADV	_	_	2	advmod	_	Gloss=только.что
-2	тыԓьуэʼн	_	VERB	_	_	0	root	_	Gloss=1SG.S/A-видеть-TH-3SG.O
-3	э	_	PART	_	_	2	advmod:emph	_	Gloss=PTCL
-4	гэчеэмык	_	PROPN	_	_	6	obl	_	Gloss=ГСМ-LOC
-5	ӄача	_	ADP	_	_	4	case	_	Gloss=около
-6	тыԓьуэʼн	_	VERB	_	_	2	parataxis	_	Gloss=1SG.S/A-видеть-TH-3SG.O|SpaceAfter=No
-7	.	_	PUNCT	_	_	2	punct	_	_
+1	Вытку	_	ADV	_	_	2	advmod	2:advmod	Gloss=только.что
+2	тыԓьуэʼн	_	VERB	_	_	0	root	0:root	Gloss=1SG.S/A-видеть-TH-3SG.O
+3	э	_	PART	_	_	2	advmod:emph	2:advmod:emph	Gloss=PTCL
+4	гэчеэмык	_	PROPN	_	_	6	obl	6:obl	Gloss=ГСМ-LOC
+5	ӄача	_	ADP	_	_	4	case	4:case	Gloss=около
+6	тыԓьуэʼн	_	VERB	_	_	2	parataxis	2:parataxis	Gloss=1SG.S/A-видеть-TH-3SG.O|SpaceAfter=No
+7	.	_	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

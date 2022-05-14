@@ -76,10 +76,10 @@ The following 49 pairs of parts of speech are connected with `obj`: <tt><a href=
 6	ofrena	ofrena	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
 7	simbòlica	simbòlic	ADJ	aq0fs0	Gender=Fem|Number=Sing	6	amod	6:amod	_
 8	a	a	ADP	sps00	_	11	case	11:case	_
-9	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+9	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=(3LBCAT060103003s4.sn.21-person-3-gstype:spec
 10	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	11:det	_
-11	Moreneta	Moreneta	PROPN	np0000p	_	4	obj	4:obj	SpaceAfter=No|ClusterId=3LB-CAT-06010300-3-s4.sn.21|ClusterType=Spec.person|MentionSpan=9-12
-12	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+11	Moreneta	Moreneta	PROPN	np0000p	_	4	obj	4:obj	SpaceAfter=No
+12	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=3LBCAT060103003s4.sn.21)
 13	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~

@@ -9,33 +9,33 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`.
 
-9418 tokens (5%) have a non-empty value of `PronType`.
+9415 tokens (5%) have a non-empty value of `PronType`.
 265 types (1%) occur at least once with a non-empty value of `PronType`.
 36 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="tr_penn-pos-DET.html">DET</a></tt> (6783; 4% instances), <tt><a href="tr_penn-pos-PRON.html">PRON</a></tt> (2411; 1% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (125; 0% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt> (99; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="tr_penn-pos-DET.html">DET</a></tt> (6781; 4% instances), <tt><a href="tr_penn-pos-PRON.html">PRON</a></tt> (2410; 1% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (125; 0% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt> (99; 0% instances).
 
 ### `DET`
 
-6783 <tt><a href="tr_penn-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+6781 <tt><a href="tr_penn-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="tr_penn-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4169; 61%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (6783; 100% of non-empty `PronType`): <em>bir, bu, birçok, tüm, her, bazı, hiçbir, o, birkaç, şu</em>
+* `Art` (6781; 100% of non-empty `PronType`): <em>bir, bu, birçok, tüm, her, bazı, hiçbir, o, birkaç, şu</em>
 
 `PronType` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `PronType`.
 
 ### `PRON`
 
-2411 <tt><a href="tr_penn-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+2410 <tt><a href="tr_penn-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="tr_penn-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2097; 87%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="tr_penn-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2096; 87%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (980; 41% of non-empty `PronType`): <em>bu, bunu, bunun, buna, bununla, onlar, bunlar, onun, onların, bunların</em>
-* `Ind` (333; 14% of non-empty `PronType`): <em>biri, bazıları, hepsi, çoğu, kimse, herkes, çoğunu, hepimiz, çoğunun, hepsinin</em>
+* `Ind` (332; 14% of non-empty `PronType`): <em>biri, bazıları, hepsi, çoğu, kimse, herkes, çoğunu, hepimiz, çoğunun, hepsinin</em>
 * `Int` (133; 6% of non-empty `PronType`): <em>ne, kim, neden, hangi, kimin, neyin, kimi, neyi, kime, neye</em>
 * `Neg` (29; 1% of non-empty `PronType`): <em>hiçbiri, hiçbirinin, hiçbirine, hiçbirini, hiçbiriyle</em>
 * `Prs` (918; 38% of non-empty `PronType`): <em>onun, kendi, o, ben, onlar, onu, biz, ona, onların, onları</em>
@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Ind` (9; 9% of non-empty `PronType`): <em>hep</em>
 * `Int` (90; 91% of non-empty `PronType`): <em>ne, nasıl, kaçıp, neler</em>
-* `EMPTY` (9868): <em>daha, olarak, en, çok, ancak, ayrıca, sonra, sadece, tarafından, yeniden</em>
+* `EMPTY` (9867): <em>daha, olarak, en, çok, ancak, ayrıca, sonra, sadece, tarafından, yeniden</em>
 
 ## Relations with Agreement in `PronType`
 
@@ -80,6 +80,5 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>DET --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> DET</tt> (3; 100%),
 <tt>DET --[<tt><a href="tr_penn-dep-fixed.html">fixed</a></tt>]--> DET</tt> (3; 100%),
 <tt>PRON --[<tt><a href="tr_penn-dep-appos.html">appos</a></tt>]--> PRON</tt> (2; 100%),
-<tt>DET --[<tt><a href="tr_penn-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
-<tt>DET --[<tt><a href="tr_penn-dep-goeswith.html">goeswith</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="tr_penn-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
 

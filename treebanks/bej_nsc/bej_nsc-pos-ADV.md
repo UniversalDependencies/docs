@@ -6,32 +6,31 @@ udver: '2'
 
 ## Treebank Statistics: UD_Beja-NSC: POS Tags: `ADV`
 
-There are 1 `ADV` lemmas (6%), 12 `ADV` types (4%) and 16 `ADV` tokens (1%).
-Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 9 in number of types and 11 in number of tokens.
+There are 1 `ADV` lemmas (6%), 12 `ADV` types (4%) and 16 `ADV` tokens (2%).
+Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 8 in number of types and 11 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>_</em>
 
 The 10 most frequent `ADV` types:  <em>bak, beːn, kak, amsi, areː, daːjeːb, diːseːt, hallaːn, han, hasara</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 235, <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 187, <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> 169, <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 123, <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 116, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 92, <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 51, <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 37, <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 25, <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 16, <tt><a href="bej_nsc-pos-X.html">X</a></tt> 9, <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="bej_nsc-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 171, <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> 169, <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 132, <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 123, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 79, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 51, <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 28, <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 25, <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 19, <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 16, <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="bej_nsc-pos-X.html">X</a></tt> 3, <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="bej_nsc-pos-NUM.html">NUM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>bak</em> (<tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 2), <em>beːn</em> (<tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 1, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1), <em>areː</em> (<tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 1), <em>han</em> (<tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 4, <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>bak</em> (<tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 2), <em>beːn</em> (<tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 1, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1), <em>areː</em> (<tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> 1), <em>han</em> (<tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 4, <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 1)
 
 
 * <em>bak</em>
-  * <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 3: <em>ontʔa // <b>bak</b> ʔabk -i -n / w= hi i- ni =oː =hoːb // ajwa / a- di =t</em>
-  * <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 2: <em><b>bak</b> ʔabik -a -n ti- ni =oː =hoːb // hoːj sallam -am -an i- ni //</em>
+  * <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 3: <em>ontʔa // <b>bak</b> ʔabkin / w= hi ini =oː =hoːb // ajwa / adi =t</em>
+  * <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 2: <em><b>bak</b> ʔabikan tini =oː =hoːb // hoːj sallamaman ini //</em>
 * <em>beːn</em>
-  * <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 2: <em>mʔ -aːna di -ja waliːk -a =b =u =it / sagi haːʃ =iː // <b>beːn</b> / ʔarjab =wa mariː =b i= dar =iː /</em>
-  * <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 1: <em><b>beːn</b> aː= nda eːjaː -n =eːb oː= doːr / i= kaːm =i jam gʷʔa -s -aː =b =u /</em>
-  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1: <em>ontʔa / <b>beːn</b> / t= ʔoːt -i / i= bhali -jeː =da // i= kaːm -i wanas / dh =eː hadiːd -ja i- ni //</em>
+  * <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 2: <em>mʔaːna dija waliːka =b =u =it / sagi haːʃ =iː // <b>beːn</b> / ʔarjab =wa mariː =b i= dar =iː /</em>
+  * <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 1: <em><b>beːn</b> aː= nda eːjaːn =eːb oː= doːr / i= kaːm =i jam gʷʔasaː =b =u /</em>
+  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1: <em>ontʔa / <b>beːn</b> / t= ʔoːti / i= bhalijeː =da // i= kaːmi wanas / dh =eː hadiːdja ini //</em>
 * <em>areː</em>
-  * <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 1: <em><b>areː</b> / bʔaɖaɖ =wa i= koːlej =wa sallam -ja =ajt =heːb // daːji =t ʔabk -i -n i- ni =oː =hoːb // hoːj sallam -am -an i- ni //</em>
-  * <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> 1: <em>j= halak -a =b =wa / ji= i= tak =iːb <b>areː</b> eːn eː= gaɖʔa =jeː na / ani ti= kina =t =i / ti= sitoːb -oːj ti= a- stoːbi =jeːt a- kteːn =aj // sallam -a =heːb ti- ni =t =heːb /</em>
-  * <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 1: <em>a- s- ganif daːji =t si- ganf -oːj aːn hinin / barijoːk ribi -jaː =b =a / oː= kaːm ni- ʃabb =eːt <b>areː</b> -na =aj / i- diː -n =heːb i- ni //</em>
+  * <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 1: <em><b>areː</b> / bʔaɖaɖ =wa i= koːlej =wa sallamja =ajt =heːb // daːji =t ʔabkin ini =oː =hoːb // hoːj sallamaman ini //</em>
+  * <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> 1: <em>j= halaka =b =wa / ji= i= tak =iːb <b>areː</b> eːn eː= gaɖʔa =jeː na / ani ti= kina =t =i / ti= sitoːboːj ti= astoːbi =jeːt akteːn =aj // sallama =heːb tini =t =heːb /</em>
 * <em>han</em>
-  * <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 4: <em>ʔiːd <b>han</b> jʔ -a =b =u =it / w= ʔiːd arraf -i / a- di =t a- ba i- ni //</em>
-  * <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 1: <em>t= ʔoːr / oː= meːk ti- fidin galeːl -tan =hoːb / doːr <b>han</b> / hoːb =uːn -ej iraːnaj / oː= meːk ʔam -a =b =wa ti- ni =hoːb ? ani i= meːk -i m- ʔam =eː sagi =b =i i- di i- ni //</em>
+  * <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 4: <em>uːn uː= tak / doːr <b>han</b> kanaː =ji ki= iki / ti= takat hiːs =heːb =ajt //</em>
+  * <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 1: <em>t= ʔoːr / oː= meːk tifidin galeːltan =hoːb / doːr <b>han</b> / hoːb-ej =uːn iraːnaj / oː= meːk ʔama =b =wa tini =hoːb ? ani i= meːki mʔam =eː sagi =b =i idi ini //</em>
 
 ## Morphology
 
@@ -44,19 +43,19 @@ The 1st highest number of forms (12) was observed with the lemma “_”: <em>am
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 4 different relations: <tt><a href="bej_nsc-dep-advmod.html">advmod</a></tt> (11; 69% instances), <tt><a href="bej_nsc-dep-discourse.html">discourse</a></tt> (2; 13% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (2; 13% instances), <tt><a href="bej_nsc-dep-iobj.html">iobj</a></tt> (1; 6% instances)
+`ADV` nodes are attached to their parents using 5 different relations: <tt><a href="bej_nsc-dep-advmod.html">advmod</a></tt> (10; 63% instances), <tt><a href="bej_nsc-dep-discourse.html">discourse</a></tt> (2; 13% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (2; 13% instances), <tt><a href="bej_nsc-dep-fixed.html">fixed</a></tt> (1; 6% instances), <tt><a href="bej_nsc-dep-iobj.html">iobj</a></tt> (1; 6% instances)
 
-Parents of `ADV` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (12; 75% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (1; 6% instances)
+Parents of `ADV` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (11; 69% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (3; 19% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (1; 6% instances)
 
-9 (56%) `ADV` nodes are leaves.
+10 (63%) `ADV` nodes are leaves.
 
-4 (25%) `ADV` nodes have one child.
+3 (19%) `ADV` nodes have one child.
 
 3 (19%) `ADV` nodes have two children.
 
 The highest child degree of a `ADV` node is 2.
 
-Children of `ADV` nodes are attached using 3 different relations: <tt><a href="bej_nsc-dep-punct.html">punct</a></tt> (6; 60% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (3; 30% instances), <tt><a href="bej_nsc-dep-det.html">det</a></tt> (1; 10% instances)
+Children of `ADV` nodes are attached using 3 different relations: <tt><a href="bej_nsc-dep-punct.html">punct</a></tt> (5; 56% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (3; 33% instances), <tt><a href="bej_nsc-dep-det.html">det</a></tt> (1; 11% instances)
 
-Children of `ADV` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> (6; 60% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (2; 20% instances), <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (1; 10% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (1; 10% instances)
+Children of `ADV` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> (5; 56% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (2; 22% instances), <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (1; 11% instances)
 

@@ -68,7 +68,7 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 11	programma	programma	NOUN	S	Gender=Masc|Number=Sing	8	nmod	8:nmod:di	_
 12	Pericle	Pericle	PROPN	SP	_	11	nmod	11:nmod	SpaceAfter=No
 13	,	,	PUNCT	FF	_	1	punct	1:punct	_
-14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
+14	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
 15	opportuno	opportuno	ADJ	A	Gender=Masc|Number=Sing	0	root	0:root	_
 16	estendere	estendere	VERB	V	VerbForm=Inf	15	csubj	15:csubj	_
 17	tale	tale	DET	DD	Number=Sing|PronType=Dem	18	det	18:det	_

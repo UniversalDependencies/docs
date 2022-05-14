@@ -9,76 +9,69 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `nmod`: <tt><a href="hy_bsut-dep-nmod-npmod.html">nmod:npmod</a></tt>, <tt><a href="hy_bsut-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-38 nodes (1%) are attached to their parents as `nmod`.
+667 nodes (2%) are attached to their parents as `nmod`.
 
-38 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44736842105263.
+643 instances of `nmod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.20989505247376.
 
-The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (17; 45% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (12; 32% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (6; 16% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-X.html">X</a></tt> (1; 3% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nmod	color:blue
-1	Ռուս	ռուս	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	2	nmod	_	Translit=Ṙows|LTranslit=ṙows
-2	փորձագետներն	փորձագետ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	Translit=p’orjagetnern|LTranslit=p’orjaget
-3	էլ	էլ	ADV	_	_	2	advmod:emph	_	Translit=ēl|LTranslit=ēl
-4	ասում	ասել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=asowm|LTranslit=asel
-5	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=en|LTranslit=em|SpaceAfter=No
-6	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
-7	որ	որ	SCONJ	_	_	11	mark	_	Translit=or|LTranslit=or
-8	Մոսկվան	Մոսկվա	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	11	nsubj	_	Translit=Moskvan|LTranslit=Moskva
-9	նույն	նույն	DET	_	Deixis=Remt|PronType=Dem	10	det	_	Translit=nowyn|LTranslit=nowyn
-10	ձևաչափում	ձևաչափ	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	11	obl	_	Translit=jewačap’owm|LTranslit=jewačap’
-11	կարող	կարող	ADJ	_	Degree=Pos	4	ccomp	_	Translit=karoġ|LTranslit=karoġ
-12	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	cop	_	Translit=ē|LTranslit=em
-13	բարձրացնել	բարձրացնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	11	xcomp	_	Translit=barjrac’nel|LTranslit=barjrac’nel
-14	Ղարաբաղի	Ղարաբաղ	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	15	nmod:poss	_	Translit=Ġarabaġi|LTranslit=Ġarabaġ
-15	կարգավիճակի	կարգավիճակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	16	nmod:poss	_	Translit=kargavič̣aki|LTranslit=kargavič̣ak
-16	հարցը	հարց	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	13	obj	_	Translit=harc’ë|LTranslit=harc’|SpaceAfter=No
-17	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
-
-~~~
+The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (354; 53% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (150; 22% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (118; 18% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (18; 3% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-X.html">X</a></tt> (13; 2% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 nmod	color:blue
-1	Սոչիում	Սոչի	PROPN	_	Animacy=Nhum|Case=Loc|Definite=Ind|NameType=Geo|Number=Sing	5	nmod:npmod	_	Translit=Sočiowm|LTranslit=Soči
-2	Պուտին	Պուտին	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	5	nmod	_	Translit=Powtin|LTranslit=Powtin|SpaceAfter=No
-3	-	-	PUNCT	_	_	4	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-4	Էրդողան	Էրդողան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	2	flat:range	_	Translit=Ērdoġan|LTranslit=Ērdoġan
-5	համաձայնությունները	համաձայնություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	10	nsubj	_	Translit=hamajaynowt’yownnerë|LTranslit=hamajaynowt’yown
-6	Իրանի	Իրան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	10	obl	_	Translit=Irani|LTranslit=Iran
-7	մոտ	մոտ	ADP	_	AdpType=Post	6	case	_	Translit=mot|LTranslit=mot
-8	կասկածներ	կասկած	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	10	obj	_	Translit=kaskaçner|LTranslit=kaskaç
-9	չեն	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	10	aux	_	Translit=čen|LTranslit=em
-10	թողել	թողնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=t’oġel|LTranslit=t’oġnel|SpaceAfter=No
-11	։	։	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 nmod	color:blue
-1	Ռուսաստանի	Ռուսաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	3	nmod:poss	_	Translit=Ṙowsastani|LTranslit=Ṙowsastan
-2	պաշտպանության	պաշտպանություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	Translit=paštpanowt’yan|LTranslit=paštpanowt’yown
-3	փոխնարար	փոխնարար	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	4	nmod	_	Translit=p’oxnarar|LTranslit=p’oxnarar
-4	Բուլգակովը	Բուլգակով	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	5	nsubj	_	Translit=Bowlgakovë|LTranslit=Bowlgakov
-5	այցելել	այցելել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=ayc’elel|LTranslit=ayc’elel
-6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=ē|LTranslit=em
-7	Ղարաբաղ	Ղարաբաղ	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	5	obl	_	Translit=Ġarabaġ|LTranslit=Ġarabaġ|SpaceAfter=No
-8	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 nmod	color:blue
+1	Դա	դա	PRON	_	Case=Nom|Deixis=Med|Number=Sing|PronType=Dem	7	nsubj	_	Translit=Da|LTranslit=da
+2	«	«	PUNCT	_	_	4	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+3	Քնարական	քնարական	ADJ	_	_	4	amod	_	Translit=K’narakan|LTranslit=k’narakan
+4	պոեմ	պոեմ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	7	nmod	_	Translit=poem|LTranslit=poem|SpaceAfter=No
+5	»	»	PUNCT	_	_	4	punct	_	Translit=»|LTranslit=»
+6	սիմֆոնիկ	սիմֆոնիկ	ADJ	_	_	7	amod	_	Translit=simfonik|LTranslit=simfonik
+7	երկն	երկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=erkn|LTranslit=erk
+8	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	7	cop	_	Translit=ēr|LTranslit=em|SpaceAfter=No
+9	:	:	PUNCT	_	Foreign=Yes	7	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 nmod	color:blue
+1	Եվ	և	CCONJ	_	_	2	cc	_	Translit=Ev|LTranslit=ew
+2	այսպես	այսպես	ADV	_	Deixis=Prox|PronType=Dem	7	parataxis	_	Translit=ayspes|LTranslit=ayspes|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
+4	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	7	obj	_	Translit=inč|LTranslit=inč
+5	՞	՞	PUNCT	_	_	4	punct	_	Translit=?|LTranslit=?
+6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=ē|LTranslit=em
+7	ասում	ասել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=asowm|LTranslit=asel
+8	ՀՀ	ՀՀ	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	10	nmod	_	Translit=HH|LTranslit=HH
+9	առաջին	առաջին	ADJ	_	Degree=Pos|NumForm=Word|NumType=Ord	10	amod	_	Translit=aṙaǰin|LTranslit=aṙaǰin
+10	Նախագահը	նախագահ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Translit=Naxagahë|LTranslit=naxagah|SpaceAfter=No
+11	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nmod	color:blue
+1	Նիհարակազմ	նիհարակազմ	ADJ	_	Degree=Pos	4	amod	_	Translit=Niharakazm|LTranslit=niharakazm
+2	ու	ու	CCONJ	_	_	3	cc	_	Translit=ow|LTranslit=ow
+3	գեղեցիկ	գեղեցիկ	ADJ	_	Degree=Pos	1	conj	_	Translit=geġec’ik|LTranslit=geġec’ik
+4	երիտասարդ	երիտասարդ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	5	nmod	_	Translit=eritasard|LTranslit=eritasard
+5	Ջիվան	Ջիվան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	Translit=J̌ivan|LTranslit=J̌ivan
+6	Տեր	տեր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	5	flat:name	_	Translit=Ter|LTranslit=ter|SpaceAfter=No
+7	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+8	Թադևոսյան	Թադևոսյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	5	flat:name	_	Translit=T’adewosyan|LTranslit=T’adewosyan|SpaceAfter=No
+9	…	…	PUNCT	_	_	5	punct	_	Translit=…|LTranslit=…
 
 ~~~
 

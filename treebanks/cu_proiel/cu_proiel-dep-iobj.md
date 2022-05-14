@@ -22,9 +22,9 @@ The following 33 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 iobj	color:blue
-1	аминь	аминъ	INTJ	I-	_	2	vocative	_	ref=MATT_5.26
-2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.26
-3	тебѣ	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	2	iobj	_	ref=MATT_5.26
+1	аминь	аминъ	INTJ	I-	_	2	vocative	_	Ref=MATT_5.26
+2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.26
+3	тебѣ	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	2	iobj	_	Ref=MATT_5.26
 
 ~~~
 
@@ -35,11 +35,11 @@ The following 33 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 iobj	color:blue
-1	въздаси	въздати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.33
-2	же	же	ADV	Df	_	1	discourse	_	ref=MATT_5.33
-3	г҃ви	господь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=MATT_5.33
-4	клѧтвꙑ	клѧтва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	ref=MATT_5.33
-5	твоѩ	твои	ADJ	Ps	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|Poss=Yes	4	nmod	_	ref=MATT_5.33
+1	въздаси	въздати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.33
+2	же	же	ADV	Df	_	1	discourse	_	Ref=MATT_5.33
+3	г҃ви	господь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Ref=MATT_5.33
+4	клѧтвꙑ	клѧтва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	Ref=MATT_5.33
+5	твоѩ	твои	ADJ	Ps	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|Poss=Yes	4	nmod	_	Ref=MATT_5.33
 
 ~~~
 
@@ -50,11 +50,11 @@ The following 33 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 iobj	color:blue
-1	Слꙑшасте	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.27
-2	ѣко	ꙗко	SCONJ	G-	_	3	mark	_	ref=MATT_5.27
-3	речено	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	ccomp	_	ref=MATT_5.27
-4	бꙑⷭ҇	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_5.27
-5	древънимъ	древльнь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	3	iobj	_	ref=MATT_5.27
+1	Слꙑшасте	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.27
+2	ѣко	ꙗко	SCONJ	G-	_	3	mark	_	Ref=MATT_5.27
+3	речено	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	ccomp	_	Ref=MATT_5.27
+4	бꙑⷭ҇	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	Ref=MATT_5.27
+5	древънимъ	древльнь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	3	iobj	_	Ref=MATT_5.27
 
 ~~~
 

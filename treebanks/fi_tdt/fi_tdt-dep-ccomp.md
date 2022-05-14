@@ -28,7 +28,7 @@ The following 35 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 4	,	,	PUNCT	Punct	_	7	punct	7:punct	_
 5	onko	olla	AUX	V	Clitic=Ko|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux:pass	7:aux:pass	_
 6	sinut	sinä	PRON	Pron	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obj	7:obj	_
-7	bannattu	bannata	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	ccomp	3:ccomp	SpaceAfter=No
+7	bannattu	bannata	VERB	V	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	ccomp	3:ccomp	SpaceAfter=No
 8	?	?	PUNCT	Punct	_	3	punct	3:punct	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 35 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 4	miksi	miksi	ADV	Adv	_	7	advmod	7:advmod	_
 5	minut	minä	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	7:obj	_
 6	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux:pass	7:aux:pass	_
-7	suodatettu	suodattaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	ccomp	2:ccomp	SpaceAfter=No
+7	suodatettu	suodattaa	VERB	V	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	ccomp	2:ccomp	SpaceAfter=No
 8	,	,	PUNCT	Punct	_	7	punct	7:punct	_
 9	en	ei	AUX	V	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	10	aux	10:aux	_
 10	tiedä	tietää	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No

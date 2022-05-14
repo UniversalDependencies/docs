@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (212; 100% of non-empty `NumType`): <em>première, premier, dernier, 3e, deuxième, 1er, premiers, troisième, quatrième, 21e</em>
-* `EMPTY` (4194): <em>autres, tous, ancien, indésirables, autre, zolédronique, européenne, rénale, politique, même</em>
+* `EMPTY` (4193): <em>autres, tous, ancien, indésirables, autre, zolédronique, européenne, rénale, politique, même</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (27) occur only with one value of `NumType`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (118; 100% of non-empty `NumType`): <em>millions, milliards, 1/10, 2006-08-07, 1/100, milliard, 1/1000, million, -1,5, -2,5</em>
-* `EMPTY` (15077): <em>patients, affaire, %, bivalirudine, commission, ans, perfusion, traitement, mg, président</em>
+* `EMPTY` (15076): <em>patients, affaire, %, bivalirudine, commission, ans, perfusion, traitement, mg, président</em>
 
 `NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (38) occur only with one value of `NumType`.
 

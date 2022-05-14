@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 9	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	12	case	12:case	LId=k-1
 10	1	1	NUM	C=-------------	NumForm=Digit|NumType=Card	12	compound	12:compound	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	10	punct	10:punct	_
-12	3	3	NUM	C=-------------	NumForm=Digit|NumType=Card	6	obl	6:obl:k	SpaceAfter=No
+12	3	3	NUM	C=-------------	NumForm=Digit|NumType=Card	6	obl	6:obl:k:dat	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	12	punct	12:punct	_
 14	1994	1994	NUM	C=-------------	NumForm=Digit|NumType=Card	12	compound	12:compound	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_

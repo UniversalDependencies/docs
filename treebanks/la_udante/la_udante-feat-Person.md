@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="la_udante-feat-Person.html">Person</a></tt>, <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt>.
 
-7573 tokens (14%) have a non-empty value of `Person`.
-2644 types (22%) occur at least once with a non-empty value of `Person`.
+7572 tokens (14%) have a non-empty value of `Person`.
+2643 types (22%) occur at least once with a non-empty value of `Person`.
 1110 lemmas (20%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (4809; 9% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1843; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (921; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (4808; 9% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1843; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (921; 2% instances).
 
 ### `VERB`
 
-4809 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Person`.
+4808 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4807; 100%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4801; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4801; 100%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (4799; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4799; 100%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4088; 85%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3650; 76%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3513; 73%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3450; 72%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3355; 70%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4806; 100%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4800; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4800; 100%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (4798; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4798; 100%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4088; 85%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3649; 76%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3514; 73%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3450; 72%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3354; 70%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (775; 16% of non-empty `Person`): <em>dicimus, dico, videmus, vocamus, habemus, possumus, diximus, appellamus, intendimus, consideremus</em>
 * `2` (246; 5% of non-empty `Person`): <em>dic, nolite, ades, venite, Vade, Videbitis, age, attendatis, dedisti, dignemini</em>
-* `3` (3788; 79% of non-empty `Person`): <em>potest, patet, habet, videtur, dicit, oportet, dicitur, dicunt, sequitur, possit</em>
-* `EMPTY` (3214): <em>habere, dictum, sciendum, facere, fieri, dici, dicere, existente, posse, dicendum</em>
+* `3` (3787; 79% of non-empty `Person`): <em>potest, patet, habet, videtur, dicit, oportet, dicitur, dicunt, sequitur, possit</em>
+* `EMPTY` (3282): <em>consequens, habere, dictum, sciendum, facere, fieri, dici, dicere, existente, posse</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -95,7 +95,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-921 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (33% of all `PRON` tokens) have a non-empty value of `Person`.
+921 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (35% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (921; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatAnom</tt> (609; 66%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (607; 66%).
 
@@ -104,19 +104,19 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (204; 22% of non-empty `Person`): <em>nobis, me, nos, ego, michi, mi, mihi, nostrum</em>
 * `2` (157; 17% of non-empty `Person`): <em>te, vobis, vos, tibi, tu, tui, vestri, vosipsos</em>
 * `3` (560; 61% of non-empty `Person`): <em>se, eius, sibi, ea, eo, eorum, sui, id, eis, eos</em>
-* `EMPTY` (1865): <em>quod, que, qui, quo, quam, quid, quem, qua, unde, cuius</em>
+* `EMPTY` (1743): <em>quod, que, qui, quo, quam, quid, quem, qua, cuius, nichil</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (705; 77%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (466; 52%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmpr.html">advcl:cmpr</a></tt>]--> VERB</tt> (131; 54%),
-<tt>VERB --[<tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (32; 65%),
-<tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (11; 69%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (699; 77%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (449; 51%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmpr.html">advcl:cmpr</a></tt>]--> VERB</tt> (136; 54%),
+<tt>VERB --[<tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (28; 64%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (11; 61%),
 <tt>PRON --[<tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (5; 83%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (5; 63%),
 <tt>AUX --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),
 <tt>PRON --[<tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt>]--> AUX</tt> (4; 67%),
-<tt>AUX --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 75%).
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (4; 67%),
+<tt>AUX --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 75%).
 

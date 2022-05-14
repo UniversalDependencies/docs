@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>ве</em> (<tt><a href="myv_jr-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.411765 (the average of all parts of speech is 2.044845).
+The form / lemma ratio of `NUM` is 1.411765 (the average of all parts of speech is 2.042397).
 
 The 1st highest number of forms (6) was observed with the lemma “вейке”: <em>вейке, вейкеде, вейкекс, вейкесь, вейкеть, вейкеяк</em>.
 
@@ -52,7 +52,7 @@ Examples: <em>вейке, кавто, колмо, ниле, Комсь, Комс
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 12 different relations: <tt><a href="myv_jr-dep-nummod.html">nummod</a></tt> (125; 78% instances), <tt><a href="myv_jr-dep-nsubj.html">nsubj</a></tt> (14; 9% instances), <tt><a href="myv_jr-dep-obj.html">obj</a></tt> (4; 2% instances), <tt><a href="myv_jr-dep-obl.html">obl</a></tt> (4; 2% instances), <tt><a href="myv_jr-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="myv_jr-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="myv_jr-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="myv_jr-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-nmod-comp.html">nmod:comp</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt> (1; 1% instances)
+`NUM` nodes are attached to their parents using 12 different relations: <tt><a href="myv_jr-dep-nummod.html">nummod</a></tt> (125; 78% instances), <tt><a href="myv_jr-dep-nsubj.html">nsubj</a></tt> (14; 9% instances), <tt><a href="myv_jr-dep-obj.html">obj</a></tt> (4; 2% instances), <tt><a href="myv_jr-dep-obl.html">obl</a></tt> (4; 2% instances), <tt><a href="myv_jr-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="myv_jr-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="myv_jr-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="myv_jr-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-obl-comp.html">obl:comp</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt> (1; 1% instances)
 
 Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (124; 77% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (22; 14% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (4; 2% instances),  (4; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 

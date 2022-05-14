@@ -26,8 +26,8 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 1	Que	que	PRON	_	PronType=Int	2	obj	_	_
 2	signifie	signifier	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-4	kain	kain	X	_	_	2	nsubj	_	_
-5	ayinhore	ayinhore	X	_	_	4	flat:foreign	_	SpaceAfter=No
+4	kain	kain	X	_	Foreign=Yes	2	nsubj	_	_
+5	ayinhore	ayinhore	X	_	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
 6	"	"	PUNCT	_	_	4	punct	_	_
 7	?	?	PUNCT	_	_	2	punct	_	_
 

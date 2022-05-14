@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-2074 tokens (1%) have a non-empty value of `Definite`.
-1290 types (4%) occur at least once with a non-empty value of `Definite`.
-1053 lemmas (6%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2074; 1% instances).
+4096 tokens (2%) have a non-empty value of `Definite`.
+2144 types (4%) occur at least once with a non-empty value of `Definite`.
+1712 lemmas (7%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 1 part-of-speech tags: <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (4096; 2% instances).
 
 ### `ADJ`
 
-2074 <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `Definite`.
+4096 <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sl_ssj-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2074; 100%), <tt><a href="sl_ssj-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2074; 100%), <tt><a href="sl_ssj-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1945; 94%), <tt><a href="sl_ssj-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1710; 82%), <tt><a href="sl_ssj-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1427; 69%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sl_ssj-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4096; 100%), <tt><a href="sl_ssj-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4096; 100%), <tt><a href="sl_ssj-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3833; 94%), <tt><a href="sl_ssj-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3375; 82%), <tt><a href="sl_ssj-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2929; 72%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Def` (1130; 54% of non-empty `Definite`): <em>pravi, državni, novi, slovenski, drugi, veliki, glavni, največji, edini, zadnji</em>
-* `Ind` (944; 46% of non-empty `Definite`): <em>sam, velik, nov, drug, pomemben, prepričan, dober, podoben, pripravljen, sprejet</em>
-* `EMPTY` (12988): <em>prvi, mogoče, druge, drugi, novo, drugih, nove, različnih, veliko, drugo</em>
+* `Def` (2270; 55% of non-empty `Definite`): <em>drugi, novi, pravi, slovenski, državni, veliki, glavni, edini, zadnji, največji</em>
+* `Ind` (1826; 45% of non-empty `Definite`): <em>sam, velik, drug, nov, pomemben, dober, prepričan, podoben, znan, lep</em>
+* `EMPTY` (24330): <em>prvi, drugi, druge, mogoče, drugih, nove, različnih, novo, prva, veliko</em>
 
 <table>
   <tr><th>Paradigm <i>drug</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -32,11 +32,14 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
   <tr><td><tt><tt><a href="sl_ssj-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>drug</em></td><td><em>drugi</em></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `ADJ`. 91% lemmas (956) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `ADJ`. 90% lemmas (1545) occur only with one value of `Definite`.
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>ADJ --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> ADJ</tt> (97; 88%),
-<tt>ADJ --[<tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (2; 100%).
+<tt>ADJ --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> ADJ</tt> (182; 83%),
+<tt>ADJ --[<tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (4; 57%),
+<tt>ADJ --[<tt><a href="sl_ssj-dep-appos.html">appos</a></tt>]--> ADJ</tt> (3; 100%),
+<tt>ADJ --[<tt><a href="sl_ssj-dep-list.html">list</a></tt>]--> ADJ</tt> (3; 100%),
+<tt>ADJ --[<tt><a href="sl_ssj-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2; 67%).
 

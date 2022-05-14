@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `compound`: <tt><a h
 2	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
 3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
 4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
-5	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	1	acl	_	Entity=person)
+5	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	1	acl:relcl	_	Entity=person)
 6	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
 7	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	8	aux	_	_
 8	ⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	_

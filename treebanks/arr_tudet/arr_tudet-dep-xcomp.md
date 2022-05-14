@@ -37,9 +37,9 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 xcomp	color:blue
 1	iyõm	iyõm	NOUN	n	_	2	nsubj	_	_
-2	ikap	_	AUX	aux	Decl=AssertFoc|Person=3Imp|Tense=Fut	0	root	_	_
-3	towenaoba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	2	xcomp	_	_
-4	co	_	PART	part	Tense=Past	3	dep	_	_
+2	ikap	kap	AUX	aux	Decl=AssertFoc|Person=3Imp|Tense=Fut	0	root	_	_
+3	towenaoba	penaop	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	2	xcomp	_	_
+4	co	co	PART	part	Tense=Past	3	dep	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 2 xcomp	color:blue
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	aʔpap	_	ADJ	adj	Number=Sing|Person=3	3	xcomp	_	_
+2	aʔpap	pap	ADJ	adj	Number=Sing|Person=3	3	xcomp	_	_
 3	toy	top	VERB	v	Decl=Assert	0	root	_	_
 
 ~~~

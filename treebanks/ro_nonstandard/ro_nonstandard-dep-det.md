@@ -22,21 +22,21 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	ref=MATT17.15
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.15
-3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	ref=MATT17.15
-4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	ref=MATT17.15
-5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT17.15
-6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT17.15
-7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MATT17.15
-8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.15
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT17.15
-10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	ref=MATT17.15
-11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	ref=MATT17.15|SpaceAfter=No
-12	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT17.15
-13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT17.15
-14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	ref=MATT17.15|SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT17.15
+1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	Ref=MATT17.15
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT17.15
+3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	Ref=MATT17.15
+4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	Ref=MATT17.15
+5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=MATT17.15
+6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT17.15
+7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	Ref=MATT17.15
+8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=MATT17.15
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	Ref=MATT17.15
+10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	Ref=MATT17.15
+11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	Ref=MATT17.15|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	11	punct	_	Ref=MATT17.15
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	Ref=MATT17.15
+14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	Ref=MATT17.15|SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	5	punct	_	Ref=MATT17.15
 
 ~~~
 
@@ -47,13 +47,13 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 det	color:blue
-1	Mai	mai	ADV	Rg	_	2	advmod	_	ref=MATT18.1.content
-2	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	0	root	_	ref=MATT18.1.content
-3	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT18.1.content
-4	Împărățiia	împărăție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	ref=MATT18.1.content
-5	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	ref=MATT18.1.content
-6	Dumnezeu	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	ref=MATT18.1.content|SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT18.1.content
+1	Mai	mai	ADV	Rg	_	2	advmod	_	Ref=MATT18.1.content
+2	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	0	root	_	Ref=MATT18.1.content
+3	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT18.1.content
+4	Împărățiia	împărăție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	Ref=MATT18.1.content
+5	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	Ref=MATT18.1.content
+6	Dumnezeu	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	Ref=MATT18.1.content|SpaceAfter=No
+7	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT18.1.content
 
 ~~~
 
@@ -64,19 +64,19 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 det	color:blue
-1	Şi	și	CCONJ	Ccssp	Polarity=Pos	4	cc:preconj	_	ref=MATT17.23|SpaceAfter=No
-2	-l	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	4	obj	_	ref=MATT17.23
-3	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	ref=MATT17.23
-4	omorî	omorî	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT17.23
-5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT17.23
-6	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	4	obl:pmod	_	ref=MATT17.23
-7	și	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT17.23
-8	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	9	det	_	ref=MATT17.23
-9	treia	trei	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	10	nummod	_	ref=MATT17.23
-10	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	nmod:tmod	_	ref=MATT17.23
-11	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	aux	_	ref=MATT17.23
-12	învie	învia	VERB	Vmn	VerbForm=Inf	4	conj	_	ref=MATT17.23|SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MATT17.23
+1	Şi	și	CCONJ	Ccssp	Polarity=Pos	4	cc:preconj	_	Ref=MATT17.23|SpaceAfter=No
+2	-l	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	4	obj	_	Ref=MATT17.23
+3	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	Ref=MATT17.23
+4	omorî	omorî	VERB	Vmn	VerbForm=Inf	0	root	_	Ref=MATT17.23
+5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	Ref=MATT17.23
+6	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	4	obl:pmod	_	Ref=MATT17.23
+7	și	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	Ref=MATT17.23
+8	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	9	det	_	Ref=MATT17.23
+9	treia	trei	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	10	nummod	_	Ref=MATT17.23
+10	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	nmod:tmod	_	Ref=MATT17.23
+11	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	aux	_	Ref=MATT17.23
+12	învie	învia	VERB	Vmn	VerbForm=Inf	4	conj	_	Ref=MATT17.23|SpaceAfter=No
+13	.	.	PUNCT	PERIOD	_	4	punct	_	Ref=MATT17.23
 
 ~~~
 

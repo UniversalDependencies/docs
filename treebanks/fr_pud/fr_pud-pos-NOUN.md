@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>armée</em> (<tt><a href="fr_pud-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.178902 (the average of all parts of speech is 1.297529).
+The form / lemma ratio of `NOUN` is 1.178902 (the average of all parts of speech is 1.298345).
 
 The 1st highest number of forms (3) was observed with the lemma “chaîne”: <em>chaine, chaîne, chaînes</em>.
 
@@ -61,11 +61,11 @@ The 2nd highest number of forms (3) was observed with the lemma “client”: <e
 
 The 3rd highest number of forms (3) was observed with the lemma “cœur”: <em>coeur, contrecœur, cœur</em>.
 
-`NOUN` occurs with 2 features: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (4672; 100% instances), <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (4672; 100% instances)
+`NOUN` occurs with 3 features: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (4672; 100% instances), <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (4672; 100% instances), <tt><a href="fr_pud-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`NOUN` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`NOUN` occurs with 5 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-`NOUN` occurs with 4 feature combinations.
+`NOUN` occurs with 5 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing` (1741 tokens).
 Examples: <em>nord, état, gouvernement, siècle, jour, monde, sud, cours, nombre, système</em>
 

@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 383 tokens (2%) have a non-empty value of `Abbr`.
 217 types (3%) occur at least once with a non-empty value of `Abbr`.
-172 lemmas (3%) occur at least once with a non-empty value of `Abbr`.
+171 lemmas (3%) occur at least once with a non-empty value of `Abbr`.
 The feature is used with 6 part-of-speech tags: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (275; 1% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (43; 0% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (33; 0% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="fi_ood-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NOUN`
@@ -23,9 +23,9 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (275; 100% of non-empty `Abbr`): <em>co2, RR, sr, klo, mg, kl., mg/vrk, Hb, heng., pot.</em>
-* `EMPTY` (4773): <em>diureesi, hemodynamiikka, hapetus, hengitys, pulssi, aikana, omaiset, Tajunta, yövuoro, aamulla</em>
+* `EMPTY` (4772): <em>diureesi, hemodynamiikka, hapetus, hengitys, pulssi, aikana, omaiset, Tajunta, yövuoro, aamulla</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (107) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (106) occur only with one value of `Abbr`.
 
 ### `ADV`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (33; 100% of non-empty `Abbr`): <em>L., Aller, SDP:n, #WHO, #tvof, #vpk, @MTKry, A., Absojen, CS:n</em>
-* `EMPTY` (934): <em>furesis, Esko, Tymppis, Tymppiksen, the, sp., Eskon, Suomi, suomessa, noradrenalina</em>
+* `EMPTY` (933): <em>furesis, Esko, Tymppis, Tymppiksen, the, sp., Eskon, Suomi, suomessa, noradrenalina</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (29) occur only with one value of `Abbr`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (17; 100% of non-empty `Abbr`): <em>syst., mahd., pass., P.O, Vas., eteisper., oik., psyykk., sis., tas.</em>
-* `EMPTY` (1335): <em>hyvä, koko, pitkä, rauhallinen, korkea, oma, vanha, hyvää, viime, huono</em>
+* `EMPTY` (1339): <em>hyvä, koko, pitkä, rauhallinen, korkea, oma, vanha, hyvää, viime, huono</em>
 
 `Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (10) occur only with one value of `Abbr`.
 
@@ -84,11 +84,10 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>aloit., ks.</em>
-* `EMPTY` (2613): <em>saa, tulee, saanut, aloitettu, hapettuu, laitettu, saada, sai, alkoi, päästy</em>
+* `EMPTY` (2611): <em>saa, tulee, saanut, aloitettu, hapettuu, laitettu, saada, sai, alkoi, päästy</em>
 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>NOUN --[<tt><a href="fi_ood-dep-goeswith.html">goeswith</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="fi_ood-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1; 100%).
 

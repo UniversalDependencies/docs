@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Catalan-AnCora: POS Tags: `ADP`
 
-There are 46 `ADP` lemmas (0%), 46 `ADP` types (0%) and 87976 `ADP` tokens (16%).
+There are 45 `ADP` lemmas (0%), 46 `ADP` types (0%) and 87976 `ADP` tokens (16%).
 Out of 17 observed tags, the rank of `ADP` is: 10 in number of lemmas, 11 in number of types and 2 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>de, a, per, en, amb, d', entre, sobre, segons, des</em>
+The 10 most frequent `ADP` lemmas: <em>de, a, per, en, amb, entre, sobre, segons, des, durant</em>
 
 The 10 most frequent `ADP` types:  <em>de, a, d', per, en, amb, entre, sobre, segons, des</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 16775, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> 1), <em>per</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 7334, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 1), <em>en</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 7093, <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> 354, <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> 8), <em>sobre</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 707, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 8, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 5), <em>segons</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 677, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 244, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 1), <em>durant</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 530, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 1), <em>fins</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 444, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 234), <em>sense</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 343, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 4), <em>contra</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 340, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 54, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 7), <em>davant</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 217, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 78, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 16790, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> 1), <em>per</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 7341, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 1), <em>en</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 7101, <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> 354, <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> 8), <em>sobre</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 707, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 8, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 5), <em>segons</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 677, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 244, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 1), <em>durant</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 530, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 1), <em>fins</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 444, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 234), <em>sense</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 343, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 4), <em>contra</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 340, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 54, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 7), <em>davant</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 217, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 78, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 16118, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> 1), <em>per</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 6882, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 1), <em>en</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 6336, <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> 102, <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> 8), <em>sobre</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 696, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 8, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 5), <em>segons</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 332, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 169, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 1), <em>fins</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 422, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 211, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 4), <em>sense</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 330, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 4), <em>contra</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 337, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 54, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 7), <em>davant</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 199, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 63, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 2), <em>sota</em> (<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> 83, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 27, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 1)
 
@@ -62,13 +62,13 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="ca_ancora-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.415132).
+The form / lemma ratio of `ADP` is 1.022222 (the average of all parts of speech is 1.416268).
 
 The 1st highest number of forms (2) was observed with the lemma “de”: <em>d', de</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “A”: <em>A</em>.
+The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Amb”: <em>Amb</em>.
+The 3rd highest number of forms (1) was observed with the lemma “amb”: <em>amb</em>.
 
 `ADP` occurs with 1 features: <tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt> (6; 0% instances)
 

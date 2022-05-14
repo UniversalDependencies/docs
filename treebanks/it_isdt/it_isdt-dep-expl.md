@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `expl`: <tt><a href="it_isdt-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="it_isdt-dep-expl-pass.html">expl:pass</a></tt>.
 
-2182 nodes (1%) are attached to their parents as `expl`.
+2181 nodes (1%) are attached to their parents as `expl`.
 
-1760 instances of `expl` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22777268560953.
+1759 instances of `expl` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22696011004127.
 
-The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2172; 100% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2171; 100% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4 1 expl	color:blue
 1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	4:expl	_
 2	n'	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	4:iobj	SpaceAfter=No
-3	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	4:cop	_
+3	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	4:cop	_
 4	abbastanza	abbastanza	ADV	B	_	0	root	0:root	_
 5	per	per	ADP	E	_	6	mark	6:mark	_
 6	avvertire	avvertire	VERB	V	VerbForm=Inf	4	advcl	4:advcl:per	_

@@ -8,34 +8,55 @@ udver: '2'
 
 This relation is universal.
 
-1616 nodes (1%) are attached to their parents as `parataxis`.
+3980 nodes (1%) are attached to their parents as `parataxis`.
 
-1414 instances of `parataxis` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.2295792079208.
+3580 instances of `parataxis` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 11.7655778894472.
 
-The following 21 pairs of parts of speech are connected with `parataxis`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (961; 59% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (170; 11% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (104; 6% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (100; 6% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (95; 6% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (65; 4% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (28; 2% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (22; 1% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (18; 1% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 57 pairs of parts of speech are connected with `parataxis`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1967; 49% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (399; 10% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (342; 9% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (270; 7% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (216; 5% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (170; 4% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (116; 3% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (87; 2% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (67; 2% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (43; 1% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (36; 1% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (31; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (26; 1% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (17; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 parataxis	color:blue
+1	Si	biti	VERB	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	NER=O|SpaceAfter=No
+2	,	,	PUNCT	Z	_	3	punct	_	NER=O
+3	bivaš	bivati	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	NER=O
+4	tako	tako	ADV	Rgp	Degree=Pos	8	mark	_	NER=O|SpaceAfter=No
+5	,	,	PUNCT	Z	_	4	punct	_	NER=O
+6	da	da	SCONJ	Cs	_	4	fixed	_	NER=O
+7	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	expl	_	NER=O
+8	razlikuješ	razlikovati	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	NER=O
+9	od	od	ADP	Sg	Case=Gen	10	case	_	NER=O
+10	drugega	drug	ADJ	Mlpmsg	Case=Gen|Gender=Masc|Number=Sing	8	obl	_	NER=O|SpaceAfter=No
+11	,	,	PUNCT	Z	_	13	punct	_	NER=O
+12	od	od	ADP	Sg	Case=Gen	13	case	_	NER=O
+13	drugih	drug	ADJ	Mlpmpg	Case=Gen|Gender=Masc|Number=Plur	8	obl	_	NER=O|SpaceAfter=No
+14	.	.	PUNCT	Z	_	1	punct	_	NER=O
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 5 parataxis	color:blue
-1	Kolikor	kolikor	SCONJ	Cs	_	2	mark	_	Dep=2|Rel=Conj
-2	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
-3	,	,	PUNCT	Z	_	5	punct	_	Dep=0|Rel=Root
-4	pa	pa	CCONJ	Cc	_	5	advmod	_	Dep=0|Rel=Root
-5	imajo	imeti	VERB	Vmpr3p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	parataxis	_	Dep=0|Rel=Root
-6	tudi	tudi	PART	Q	_	5	advmod	_	Dep=0|Rel=Root
-7	v	v	ADP	Sl	Case=Loc	8	case	_	Dep=8|Rel=Atr
-8	EU	EU	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	Dep=5|Rel=AdvO
-9	še	še	PART	Q	_	5	advmod	_	Dep=0|Rel=Root
-10	vedno	vedno	ADV	Rgp	Degree=Pos	5	advmod	_	Dep=5|Rel=AdvO
-11	težave	težava	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	Dep=5|Rel=Obj
-12	z	z	ADP	Si	Case=Ins	13	case	_	Dep=13|Rel=Atr
-13	mikročipi	mikročip	NOUN	Ncmpi	Case=Ins|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No|Dep=11|Rel=Atr
-14	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 parataxis	color:blue
+1	Prvo	prvi	ADJ	Mlonsn	Case=Nom|Gender=Neut|Number=Sing|NumType=Ord	2	amod	_	NER=O
+2	pravilo	pravilo	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	7	parataxis	_	NER=O|SpaceAfter=No
+3	:	:	PUNCT	Z	_	2	punct	_	NER=O
+4	Za	za	ADP	Sa	Case=Acc	5	case	_	NER=O
+5	nakup	nakup	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	NER=O
+6	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	9	expl	_	NER=O
+7	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	NER=O
+8	treba	treba	ADV	Rgp	Degree=Pos	7	advmod	_	NER=O
+9	vzeti	vzeti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	7	csubj	_	NER=O
+10	čas	čas	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	NER=O|SpaceAfter=No
+11	.	.	PUNCT	Z	_	7	punct	_	NER=O
 
 ~~~
 
@@ -46,39 +67,19 @@ The following 21 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 11 parataxis	color:blue
-1	Toda	toda	CCONJ	Cc	_	4	cc	_	Dep=2|Rel=Conj
-2	bil	biti	AUX	Va-p-sm	Gender=Masc|Number=Sing|VerbForm=Part	4	cop	_	Dep=0|Rel=Root
-3	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	Dep=2|Rel=PPart
-4	suh	suh	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No|Dep=2|Rel=Atr
-5	,	,	PUNCT	Z	_	11	punct	_	Dep=0|Rel=Root
-6	poleg	poleg	ADP	Sg	Case=Gen	7	case	_	Dep=7|Rel=Atr
-7	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	11	obl	_	Dep=11|Rel=AdvO
-8	pa	pa	CCONJ	Cc	_	11	advmod	_	Dep=0|Rel=Root
-9	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	11	expl	_	Dep=11|Rel=PPart
-10	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	Dep=11|Rel=PPart
-11	poročila	poročiti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	4	parataxis	_	Dep=0|Rel=Root
-12	sestrična	sestrična	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No|Dep=11|Rel=Sb
-13	.	.	PUNCT	Z	_	4	punct	_	Dep=0|Rel=Root
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 parataxis	color:blue
-1	Svetujemo	svetovati	VERB	Vmbr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
-2	:	:	PUNCT	Z	_	4	punct	_	Dep=0|Rel=Root
-3	Bodite	biti	AUX	Va-m2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	4	cop	_	Dep=0|Rel=Root
-4	pozitivni	pozitiven	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	parataxis	_	Dep=3|Rel=Atr
-5	do	do	ADP	Sg	Case=Gen	6	case	_	Dep=6|Rel=Atr
-6	sebe	se	PRON	Px---g	Case=Gen|PronType=Prs|Reflex=Yes	4	obl	_	Dep=3|Rel=AdvO
-7	in	in	CCONJ	Cc	_	9	cc	_	Dep=9|Rel=Conj
-8	svoje	svoj	DET	Px-fsg	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	Dep=9|Rel=Atr
-9	okolice	okolica	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No|Dep=6|Rel=Coord
-10	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
+1	Toda	toda	CCONJ	Cc	_	4	cc	_	NER=O
+2	bil	biti	AUX	Va-p-sm	Gender=Masc|Number=Sing|VerbForm=Part	4	cop	_	NER=O
+3	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	NER=O
+4	suh	suh	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	NER=O|SpaceAfter=No
+5	,	,	PUNCT	Z	_	11	punct	_	NER=O
+6	poleg	poleg	ADP	Sg	Case=Gen	7	case	_	NER=O
+7	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	11	obl	_	NER=O
+8	pa	pa	CCONJ	Cc	_	11	advmod	_	NER=O
+9	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	11	expl	_	NER=O
+10	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	NER=O
+11	poročila	poročiti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	4	parataxis	_	NER=O
+12	sestrična	sestrična	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	NER=O|SpaceAfter=No
+13	.	.	PUNCT	Z	_	4	punct	_	NER=O
 
 ~~~
 

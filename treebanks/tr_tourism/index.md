@@ -16,11 +16,11 @@ Family: Turkic, Southwestern
 
 This treebank has been part of Universal Dependencies since the UD v2.8 release.
 
-The following people have contributed to making this treebank part of UD: Aslı Kuzgun, Neslihan Cesur, Olcay Taner Yıldız, Oğuzhan Kuyrukçu, Büşra Marşan, Bilge Nas Arıcan, Neslihan Kara, Deniz Baran Aslan, Ezgi Sanıyar.
+The following people have contributed to making this treebank part of UD: Aslı Kuzgun, Neslihan Cesur, Olcay Taner Yıldız, Oğuzhan Kuyrukçu, Büşra Marşan, Bilge Nas Arıcan, Neslihan Kara, Deniz Baran Aslan, Ezgi Sanıyar, Cengiz Asmazoğlu.
 
 Repository: [UD_Turkish-Tourism](https://github.com/UniversalDependencies/UD_Turkish-Tourism)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_tourism29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_tourism210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: reviews
 Questions, comments?
 General annotation questions (either Turkish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Turkish-Tourism/issues).
-If you want to collaborate, please contact [asli&nbsp;(æt)&nbsp;starlangyazilim&nbsp;•&nbsp;com / olcay&nbsp;•&nbsp;yildiz&nbsp;(æt)&nbsp;ozyegin&nbsp;•&nbsp;edu&nbsp;•&nbsp;tr].
+If you want to collaborate, please contact [kuzgunasli&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com / olcay&nbsp;•&nbsp;yildiz&nbsp;(æt)&nbsp;ozyegin&nbsp;•&nbsp;edu&nbsp;•&nbsp;tr].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -65,7 +65,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 
 ## Features
 
-[Aspect](tr_tourism-feat-Aspect.html) – [Case](tr_tourism-feat-Case.html) – [Definite](tr_tourism-feat-Definite.html) – [Degree](tr_tourism-feat-Degree.html) – [Mood](tr_tourism-feat-Mood.html) – [Number](tr_tourism-feat-Number.html) – [Number[psor]](tr_tourism-feat-Number-psor.html) – [NumType](tr_tourism-feat-NumType.html) – [Person](tr_tourism-feat-Person.html) – [Person[psor]](tr_tourism-feat-Person-psor.html) – [Polarity](tr_tourism-feat-Polarity.html) – [PronType](tr_tourism-feat-PronType.html) – [Reflex](tr_tourism-feat-Reflex.html) – [Tense](tr_tourism-feat-Tense.html) – [VerbForm](tr_tourism-feat-VerbForm.html) – [Voice](tr_tourism-feat-Voice.html)
+[Aspect](tr_tourism-feat-Aspect.html) – [Case](tr_tourism-feat-Case.html) – [Definite](tr_tourism-feat-Definite.html) – [Degree](tr_tourism-feat-Degree.html) – [Mood](tr_tourism-feat-Mood.html) – [Number](tr_tourism-feat-Number.html) – [Number[psor]](tr_tourism-feat-Number-psor.html) – [NumType](tr_tourism-feat-NumType.html) – [Person](tr_tourism-feat-Person.html) – [Person[psor]](tr_tourism-feat-Person-psor.html) – [Polarity](tr_tourism-feat-Polarity.html) – [PronType](tr_tourism-feat-PronType.html) – [Reflex](tr_tourism-feat-Reflex.html) – [Tense](tr_tourism-feat-Tense.html) – [Typo](tr_tourism-feat-Typo.html) – [VerbForm](tr_tourism-feat-VerbForm.html) – [Voice](tr_tourism-feat-Voice.html)
 
 ## Relations
 
@@ -75,7 +75,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 
 
 <ul>
-<li>This corpus contains 19725 sentences and 91733 tokens.</li>
+<li>This corpus contains 19833 sentences and 91469 tokens.</li>
 </ul>
 
 <ul>
@@ -87,7 +87,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 </ul>
 
 <ul>
-<li>This corpus contains 26 types of words that contain both letters and punctuation. Examples: 7'DEN, 70'E, ANTALYA'NIN, ATLANTİS'TE, ETSTUR'U, İSTANBUL'A, BODRUM'A, HİLTON'A, M., V., 5'TEN, 5'İN, 7'DE, ALLAH'A, ARTEMiS'TEN, ARTEMİS'TEN, ATLANTİS'DE, ATİNA'YA, BODRUM'UN, ETS'DEN, ETSTUR'DAN, ETSTUR'LA, KAYA'YA, SANTORİNİ'YE, SİVAS'IN, THERMAL'DE</li>
+<li>This corpus contains 25 types of words that contain both letters and punctuation. Examples: 7'DEN, 70'E, ANTALYA'NIN, ATLANTİS'TE, ETSTUR'U, İSTANBUL'A, BODRUM'A, HİLTON'A, M., V., 5'TEN, 5'İN, 7'DE, ALLAH'A, ARTEMiS'TEN, ARTEMİS'TEN, ATLANTİS'DE, ATİNA'YA, ETS'DEN, ETSTUR'DAN, ETSTUR'LA, KAYA'YA, SANTORİNİ'YE, SİVAS'IN, THERMAL'DE</li>
 </ul>
 
 <ul>
@@ -106,7 +106,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as pronouns (PRON): bazı, ben, birbiri, biri, biz, bu, hangi, hep, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, o, sen, siz, çoğu, şu</li>
+<li>This corpus contains 19 lemmas tagged as pronouns (PRON): bazı, ben, birbiri, biri, biz, bu, hep, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, o, sen, siz, çoğu, şu</li>
 </ul>
 
 <ul>
@@ -175,7 +175,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
     <ul>
       <li>AUX: DEĞİLLER, DEĞİLDİK, DEĞİLDİLER</li>
       <li>AUX-Fin: DEĞİLDİK, DEĞİLDİLER</li>
-      <li>NOUN: YEMEKLER, YEMEKLERİ, PERSONELLER, PERSONELLERİ, AİLELER, ODALAR, OLANAKLARI, İMKANLARI, TEŞEKKÜRLER, AİLELERE</li>
+      <li>NOUN: YEMEKLER, YEMEKLERİ, PERSONELLERİ, PERSONELLER, AİLELER, ODALAR, OLANAKLARI, İMKANLARI, TEŞEKKÜRLER, AİLELERE</li>
       <li>PROPN: KİMLER</li>
       <li>VERB: KALDIK, İLGİLENDİLER, EDERİZ, EDİYORUZ, MEMNUNUZ, BEĞENDİK, OLDULAR, GÖRÜŞTÜK, YAŞAMADIK, KALMADIK</li>
       <li>VERB-Fin: KALDIK, İLGİLENDİLER, EDERİZ, EDİYORUZ, MEMNUNUZ, BEĞENDİK, OLDULAR, GÖRÜŞTÜK, YAŞAMADIK, KALMADIK</li>
@@ -233,7 +233,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Gen
     <ul>
-      <li>NOUN: OTELİN, TESİSİN, PERSONELLERİN, PERSONELİN, ÜCRETİN, YEMEKLERİN, PARANIN, ODANIN, ÇALIŞANLARIN, ODALARIN</li>
+      <li>NOUN: OTELİN, TESİSİN, PERSONELLERİN, ÜCRETİN, PERSONELİN, YEMEKLERİN, PARANIN, ODANIN, ÇALIŞANLARIN, ODALARIN</li>
       <li>PROPN: SİVAS'IN</li>
     </ul>
   </li>
@@ -251,7 +251,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Loc
     <ul>
-      <li>NOUN: GİRİŞTE, GENELDE, ANLAMDA, OTELDE, YEMEKLERDE, ANDA, KONUSUNDA, ODADA, DIŞINDA, ÇIKIŞTA</li>
+      <li>NOUN: GİRİŞTE, GENELDE, ANLAMDA, OTELDE, YEMEKLERDE, KONUSUNDA, ANDA, ODADA, ÇIKIŞTA, DIŞINDA</li>
       <li>PROPN: ATLANTİS'TE</li>
     </ul>
   </li>
@@ -346,7 +346,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Hab
     <ul>
-      <li>VERB-Fin: EDERİM, VERİRİM, ETMEM, EDERİZ, DEĞERLENDİRİRİM, BAHSEDERİM, OLABİLİR, OLURSA, VEREBİLİRİM, İSTERİM</li>
+      <li>VERB-Fin: EDERİM, VERİRİM, ETMEM, EDERİZ, BAHSEDERİM, DEĞERLENDİRİRİM, OLABİLİR, OLURSA, VEREBİLİRİM, İSTERİM</li>
     </ul>
   </li>
 </ul>
@@ -401,7 +401,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Des
     <ul>
-      <li>VERB-Fin: OLSA, BİTSE, KURTULSAK, OLMASA, VARSA, KALKSAM, OLMASAM, OLSAK, OLSAYDI, İSE</li>
+      <li>VERB-Fin: OLSA, BİTSE, KURTULSAK, OLMASA, VARSA, KALKSAM, OLSAK, OLSAYDI, İSE</li>
     </ul>
   </li>
 </ul>
@@ -410,7 +410,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Gen
     <ul>
       <li>AUX-Fin: DEĞİLİM, DEĞİLDİR</li>
-      <li>VERB-Fin: EDERİM, VERİRİM, ETMEM, EDERİZ, DEĞERLENDİRİRİM, MEMNUNUM, BAHSEDERİM, MEMNUNUZ, KARARSIZIM, İSTERİM</li>
+      <li>VERB-Fin: EDERİM, VERİRİM, ETMEM, EDERİZ, MEMNUNUM, BAHSEDERİM, DEĞERLENDİRİRİM, MEMNUNUZ, KARARSIZIM, İSTERİM</li>
       <li>VERB-Part: VERDİĞİNİZ</li>
       <li>VERB-Vnoun: DÜŞÜNMEMEKTEDİR</li>
     </ul>
@@ -428,7 +428,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: OLSUN, ARAMAYIN, GELSİN, OLSUNLAR, GİDİN, SAĞOLUN, VAR, ALINIZ, ANIL, CHECK</li>
+      <li>VERB-Fin: OLSUN, ARAMAYIN, GELSİN, OLSUNLAR, GİDİN, SAĞOLUN, VAR, ANIL, CHECK, KALSIN</li>
     </ul>
   </li>
 </ul>
@@ -455,7 +455,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Opt
     <ul>
-      <li>VERB-Fin: VERMEYEYİM, DÖNE, GECE, SIRITA, BELİRTEYİM, GELELİM, GÖNDERELİM, GÖRÜŞELİM</li>
+      <li>VERB-Fin: VERMEYEYİM, DÖNE, GECE, SIRITA, BELİRTEYİM, GELELİM, GÖRÜŞELİM</li>
     </ul>
   </li>
 </ul>
@@ -496,8 +496,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
     <ul>
       <li>AUX: DEĞİLİM, DEĞİLLER, DEĞİLDİR</li>
       <li>AUX-Fin: DEĞİLİM, DEĞİLDİR</li>
-      <li>VERB: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, DEĞERLENDİRİRİM, MEMNUNUM</li>
-      <li>VERB-Fin: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, DEĞERLENDİRİRİM, MEMNUNUM</li>
+      <li>VERB: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, MEMNUNUM, BAHSEDERİM</li>
+      <li>VERB-Fin: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, MEMNUNUM, BAHSEDERİM</li>
       <li>VERB-Part: VERDİĞİNİZ</li>
       <li>VERB-Vnoun: DÜŞÜNMEMEKTEDİR</li>
     </ul>
@@ -543,7 +543,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Rfl
     <ul>
-      <li>VERB-Fin: TEMİZLENDİ, TEMİZLENMİYORDU, DEN, TEMİZLENMEDİ, TEMİZLENİYORDU, DENECEK, DENMEDİ, TEMİZLENMEMİŞ, TEMİZLENİYOR</li>
+      <li>VERB-Fin: TEMİZLENDİ, TEMİZLENMİYORDU, TEMİZLENMEDİ, TEMİZLENİYORDU, DEN, DENECEK, DENMEDİ, TEMİZLENMEMİŞ, TEMİZLENİYOR</li>
     </ul>
   </li>
 </ul>
@@ -559,7 +559,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Art
     <ul>
-      <li>DET: BİR, HER, BU, O, ŞU, HİÇBİR, TÜM, BAZI, ÇOK, DÖRTLÜK</li>
+      <li>DET: BİR, HER, BU, O, HİÇBİR, ŞU, TÜM, BAZI, ÇOK, DÖRTLÜK</li>
     </ul>
   </li>
 </ul>
@@ -585,8 +585,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Int
     <ul>
       <li>ADV: NE, NASIL</li>
-      <li>AUX: Mİ, MİYİM, MU, MİYDİ</li>
-      <li>PRON: KİM, HANGİ, NE</li>
+      <li>AUX: MİYİM, MU, MİYDİ</li>
+      <li>PRON: KİM, NE</li>
     </ul>
   </li>
 </ul>
@@ -668,8 +668,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>2
     <ul>
-      <li>VERB: ARAMAYIN, GİDİN, SAĞOLUN, VAR, İSTİYORSANIZ, ALINIZ, ANIL, CHECK, İLETİN, AL</li>
-      <li>VERB-Fin: ARAMAYIN, GİDİN, SAĞOLUN, VAR, İSTİYORSANIZ, ALINIZ, ANIL, CHECK, İLETİN, AL</li>
+      <li>VERB-Fin: ARAMAYIN, GİDİN, SAĞOLUN, VAR, İSTİYORSANIZ, ANIL, CHECK, İLETİN, AL, ALINIZ</li>
     </ul>
   </li>
 </ul>
@@ -697,7 +696,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Plur
     <ul>
       <li>NOUN: MİSAFİRİMİZ, ODAMIZ, YEMEKLERİNDEN, REHBERİMİZ, PERSONELLERİNDEN, TADIMIZA, PLANIMIZ, YEMEKLERİNİ, PERSONELLERİ, ACENTAMIZA</li>
-      <li>VERB-Fin: REHBERİMİZDİ, EVİMİZDEYMİŞİZ, YANIMIZDAYDI</li>
+      <li>VERB-Fin: REHBERİMİZDİ, YANIMIZDAYDI</li>
     </ul>
   </li>
 </ul>
@@ -723,7 +722,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
         <ul>
           <li>AUX: DEĞİLİM</li>
           <li>NOUN: FATURAM, MİSAFİRİMİZ, ODAMIZ, EŞİM, REHBERİMİZ, ODAM, ARKADAŞIM, TADIMIZA, HOŞUMA, ODAMDAN</li>
-          <li>VERB-Fin: REHBERİMİZDİ, ALMADIM, ARKADAŞIMDI, EVİMİZDEYMİŞİZ, TAVSİYEMDİR, YANIMIZDAYDI</li>
+          <li>VERB-Fin: REHBERİMİZDİ, ALMADIM, ARKADAŞIMDI, TAVSİYEMDİR, YANIMIZDAYDI</li>
         </ul>
       </li>
       <li>2
@@ -737,6 +736,22 @@ We wish to thank the Starlang Software for funding and supporting this work.
         <ul>
           <li>NOUN: KONUMU, KALİTESİ, YEMEKLERİ, PERSONELLERİ, DENİZİ, TEMİZLİĞİ, HAVUZU, OLMASI, KARŞILIĞINI, HİZMETİ</li>
           <li>VERB-Fin: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ, İÇERİSİNDEYİZ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: GİTTİĞİMİZ</li>
+          <li>DET: HER</li>
+          <li>NOUN: HOTELDE, TEMMUZ, YEMEKLER, DERECE, ODA, RESTORAN, AN, ELEŞTİRİ, KAHVALTI, KARACA</li>
+          <li>NUM: 11, 5, 50</li>
+          <li>PROPN: ETS, ALLAH, BODRUM, GÖKMEN, HİLTON, YUNANİSTAN</li>
         </ul>
       </li>
     </ul>
@@ -762,13 +777,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN-Nom (1)</li>
-      <li>VERB--PRON (1)</li>
       <li>VERB-Fin--NOUN-Abl (4)</li>
-      <li>VERB-Fin--NOUN-Acc (594)</li>
+      <li>VERB-Fin--NOUN-Acc (593)</li>
       <li>VERB-Fin--NOUN-Dat (6)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
       <li>VERB-Fin--NOUN-Ins (131)</li>
-      <li>VERB-Fin--NOUN-Nom (5805)</li>
+      <li>VERB-Fin--NOUN-Nom (5793)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(da) (3)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(dahi) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(de) (6)</li>
@@ -776,7 +790,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom-ADP(diye) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ile) (332)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ol) (6)</li>
-      <li>VERB-Fin--PRON (317)</li>
+      <li>VERB-Fin--PRON (316)</li>
       <li>VERB-Fin--PRON-ADP(da) (1)</li>
       <li>VERB-Fin--PRON-ADP(de) (3)</li>
       <li>VERB-Vnoun--NOUN-Nom (2)</li>
@@ -788,7 +802,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN-Abl (474)</li>
-      <li>VERB-Fin--NOUN-Acc (581)</li>
+      <li>VERB-Fin--NOUN-Acc (575)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(da) (1)</li>
       <li>VERB-Fin--NOUN-Dat (197)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(da) (1)</li>
@@ -796,7 +810,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (6)</li>
       <li>VERB-Fin--NOUN-Ins (14)</li>
       <li>VERB-Fin--NOUN-Loc (9)</li>
-      <li>VERB-Fin--NOUN-Nom (786)</li>
+      <li>VERB-Fin--NOUN-Nom (783)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(hakkında) (3)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ile) (10)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ol) (1)</li>

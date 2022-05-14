@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>մի</em> (<tt><a href="hy_armtdp-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.500000 (the average of all parts of speech is 1.814529).
+The form / lemma ratio of `DET` is 1.500000 (the average of all parts of speech is 1.814455).
 
 The 1st highest number of forms (5) was observed with the lemma “որ”: <em>որ, որի, որից, որոնց, որոնցից</em>.
 

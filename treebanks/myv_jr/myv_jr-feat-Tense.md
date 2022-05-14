@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-2510 tokens (15%) have a non-empty value of `Tense`.
-1507 types (27%) occur at least once with a non-empty value of `Tense`.
-736 lemmas (28%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2095; 12% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (314; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (60; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (24; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (6; 0% instances).
+2529 tokens (15%) have a non-empty value of `Tense`.
+1515 types (27%) occur at least once with a non-empty value of `Tense`.
+739 lemmas (27%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2111; 12% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (317; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (60; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (24; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (6; 0% instances).
 
 ### `VERB`
 
-2095 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Tense`.
+2111 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2067; 99%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2055; 98%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2029; 97%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2012; 96%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1800; 86%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1689; 81%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1685; 80%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1474; 70%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2083; 99%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2071; 98%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2045; 97%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2028; 96%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1815; 86%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1703; 81%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1699; 80%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1486; 70%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (1293; 62% of non-empty `Tense`): <em>мерсь, лиссь, мольсь, совась, ютась, саизе, тейсь, шачсь, тусь, чийсь</em>
-* `Pres` (802; 38% of non-empty `Tense`): <em>ашти, ваны, неяви, маряви, мерят, моли, арьси, содави, корты, мерить</em>
-* `EMPTY` (1019): <em>кортамо, молемс, оймсеме, тееме, теемс, чиезь, вант, пелезь, сёрмадомо, учо</em>
+* `Past` (1306; 62% of non-empty `Tense`): <em>мерсь, лиссь, мольсь, совась, ютась, тейсь, саизе, шачсь, лоткась, тусь</em>
+* `Pres` (805; 38% of non-empty `Tense`): <em>ашти, ваны, неяви, маряви, мерят, моли, арьси, содави, корты, мерить</em>
+* `EMPTY` (1032): <em>кортамо, молемс, оймсеме, тееме, теемс, учо, чиезь, вант, пелезь, сёрмадомо</em>
 
 <table>
   <tr><th>Paradigm <i>молемс</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -40,15 +40,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-314 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (45% of all `AUX` tokens) have a non-empty value of `Tense`.
+317 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (45% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (293; 93%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (289; 92%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (248; 79%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (232; 74%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (187; 60%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (164; 52%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (296; 93%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (292; 92%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (250; 79%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (235; 74%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (189; 60%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (166; 52%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (218; 69% of non-empty `Tense`): <em>эзь, кармась, ульнесь, кармасть, ульнесть, эзть, савсь, эзинь, эсть, эзизе</em>
-* `Pres` (96; 31% of non-empty `Tense`): <em>арась, ули, эряви, кармить, карми, улить, арасть, сави, араськак, савкшны</em>
-* `EMPTY` (383): <em>а, аволь, апак, иля, ли, кадык, бу, улезэ, давайте, илязо</em>
+* `Past` (221; 70% of non-empty `Tense`): <em>эзь, кармась, ульнесь, кармасть, ульнесть, эзть, савсь, эзинь, эсть, эзизе</em>
+* `Pres` (96; 30% of non-empty `Tense`): <em>арась, ули, эряви, кармить, карми, улить, арасть, сави, араськак, савкшны</em>
+* `EMPTY` (386): <em>а, аволь, апак, иля, ли, кадык, бу, улезэ, давайте, илязо</em>
 
 <table>
   <tr><th>Paradigm <i>кармамс</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (12; 20% of non-empty `Tense`): <em>аноколь, Вадряльть, Превеельгак, кондямоль, кувакаль, лиятальть, мазыль, покшоль, стакаль, шождынель</em>
 * `Pres` (48; 80% of non-empty `Tense`): <em>сэрей, берянь, мазый, шумбрат, вадря, паро, рижой, шумбра, ён, Превтемеят</em>
-* `EMPTY` (610): <em>од, покш, паро, кодамо, якстере, омбоце, пиже, мазый, васень, тусто</em>
+* `EMPTY` (611): <em>од, покш, паро, кодамо, якстере, омбоце, пиже, мазый, васень, тусто</em>
 
 <table>
   <tr><th>Paradigm <i>мазы</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -96,7 +96,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 
 * `Past` (2; 8% of non-empty `Tense`): <em>вирьсэлить, чоподаль</em>
 * `Pres` (22; 92% of non-empty `Tense`): <em>чумо, бандит, коммунистан, пежеть, Велькссэнзэ, Превсат, аванть, бандитан, большевикат, кирьгакссонзо</em>
-* `EMPTY` (4262): <em>лангс, ёнов, бандитэсь, лангсо, партизантнэ, ялгат, кедензэ, ланга, ёндо, прянзо</em>
+* `EMPTY` (4295): <em>лангс, ёнов, бандитэсь, лангсо, партизантнэ, ялгат, кедензэ, ланга, ёндо, прянзо</em>
 
 `Tense` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `Tense`.
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `ADV` and `Tense` co-occurred:
 
 * `Past` (4; 36% of non-empty `Tense`): <em>Аконашканель, Зярошкаль, Кодашкаль, ламоль</em>
 * `Pres` (7; 64% of non-empty `Tense`): <em>тескеть, Алкукс, Истя, Кодашка, косот, пешксе</em>
-* `EMPTY` (1452): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
+* `EMPTY` (1467): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
 
 <table>
   <tr><th>Paradigm <i>кодашка</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -128,12 +128,12 @@ The most frequent other feature values with which `PRON` and `Tense` co-occurred
 
 * `Past` (2; 33% of non-empty `Tense`): <em>мезель, мейсэль</em>
 * `Pres` (4; 67% of non-empty `Tense`): <em>киян, кият</em>
-* `EMPTY` (944): <em>сон, весе, те, мон, сонзэ, сонсь, мезе, минь, тензэ, сынь</em>
+* `EMPTY` (950): <em>сон, весе, те, мон, сонзэ, сонсь, мезе, минь, тензэ, сынь</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (450; 72%),
+<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (453; 72%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 89%),
 <tt>VERB --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> VERB</tt> (4; 80%),
 <tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),

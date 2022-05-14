@@ -8,30 +8,30 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-case.html">case</a></tt>.
 
-70 nodes (0%) are attached to their parents as `case:loc`.
+84 nodes (0%) are attached to their parents as `case:loc`.
 
-69 instances of `case:loc` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.28571428571429.
+83 instances of `case:loc` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.46428571428571.
 
-The following 5 pairs of parts of speech are connected with `case:loc`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (52; 74% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (9; 13% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (7; 10% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `case:loc`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (64; 76% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (10; 12% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (6; 7% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 case:loc	color:blue
-1	Ապա	ապա	ADV	_	_	7	advmod	_	Translit=Apa|LTranslit=apa
-2	Աշոտ	Աշոտ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	7	nsubj	_	Translit=Ašot|LTranslit=Ašot
-3	արքան	արքայ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	2	nmod	_	Translit=ark’an|LTranslit=ark’ay
-4	ծանր	ծանր	ADJ	_	Degree=Pos	5	amod	_	Translit=çanr|LTranslit=çanr
-5	քայլերով	քայլ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	7	obl	_	Translit=k’aylerov|LTranslit=k’ayl
-6	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	7	aux	_	Translit=kë|LTranslit=kë
-7	հեռանայ	հեռանալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=heṙanay|LTranslit=heṙanal
-8	վարագոյրի	վարագոյր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	7	obl	_	Translit=varagoyri|LTranslit=varagoyr
-9	առջեւէն	առջեւ	ADP	_	AdpType=Post|Case=Abl|Definite=Def	8	case:loc	_	Translit=aṙǰewēn|LTranslit=aṙǰew|SpaceAfter=No
-10	:	:	PUNCT	_	Foreign=Yes	7	punct	_	Translit=.|LTranslit=.
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 case:loc	color:blue
+1	Կաւի	կաւ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	2	nmod:poss	_	Translit=Kawi|LTranslit=kaw
+2	տեղերուն	տեղ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	4	nmod:poss	_	Translit=teġerown|LTranslit=teġ
+3	կապոյտ	կապոյտ	ADJ	_	Degree=Pos	4	amod	_	Translit=kapoyt|LTranslit=kapoyt
+4	հողերուն	հող	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	8	obl	_	Translit=hoġerown|LTranslit=hoġ
+5	վրայէն	վրայ	ADP	_	AdpType=Post|Case=Abl|Definite=Def	4	case:loc	_	Translit=vrayēn|LTranslit=vray
+6	մէկը	մէկ	PRON	_	Case=Nom|Definite=Def|PronType=Ind	8	nsubj	_	Translit=mēkë|LTranslit=mēk
+7	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	8	aux	_	Translit=kë|LTranslit=kë
+8	վազէր	վազել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	Translit=vazēr|LTranslit=vazel
+9	դարվեր	դարվեր	ADV	_	_	8	advmod	_	Translit=darver|LTranslit=darver|SpaceAfter=No
+10	:	:	PUNCT	_	Foreign=Yes	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

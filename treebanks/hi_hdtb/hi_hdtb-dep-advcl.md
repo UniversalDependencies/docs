@@ -34,7 +34,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 10	पुल	पुल	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	nmod	_	Vib=0_का|Tam=0|ChunkId=NP3|ChunkType=head|Translit=pula
 11	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	10	case	_	ChunkId=NP3|ChunkType=child|Translit=kā
 12	निर्माण	निर्माण	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=nirmāṇa
-13	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass	0	root	_	Vib=या_जा+या1_है|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=kiyā
+13	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=kiyā|Vib=या_जा+या1_है
 14	गया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	13	aux:pass	_	Vib=या1|Tam=yA1|ChunkId=VGF|ChunkType=child|Translit=gayā
 15	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 16	।	।	PUNCT	SYM	_	13	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
@@ -56,7 +56,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 6	दिसंबर	दिसंबर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Vib=0_से|Tam=0|ChunkId=NP2|ChunkType=head|Translit=disaṁbara
 7	से	से	ADP	PSP	AdpType=Post	6	case	_	ChunkId=NP2|ChunkType=child|Translit=se
 8	अटकलें	अटकल	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	0	root	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=aṭakaleṁ
-9	हैं	है	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=haiṁ
+9	हैं	है	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=hE|Translit=haiṁ|Vib=है
 10	।	।	PUNCT	SYM	_	8	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -80,7 +80,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 10	लेकर	ले	VERB	VM	VerbForm=Conv	12	advcl	_	Vib=कर|Tam=kara|ChunkId=VGNF|ChunkType=head|Translit=lekara
 11	रहस्य	रहस्य	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=rahasya
 12	बरकरार	बरकरार	ADJ	JJ	_	0	root	_	ChunkId=JJP|ChunkType=head|Translit=barakarāra
-13	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
+13	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=hE|Translit=hai|Vib=है
 14	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~

@@ -100,7 +100,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (478; 39% of non-empty `Number`): <em>have, are, know, need, see, include, remain, like, believe, create</em>
 * `Sing` (760; 61% of non-empty `Number`): <em>is, has, including, makes, believe, provides, emerging, regarding, think, appears</em>
-* `EMPTY` (3490): <em>like, make, made, given, wrote, based, take, have, taken, had</em>
+* `EMPTY` (3489): <em>like, make, made, given, wrote, based, take, had, have, taken</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

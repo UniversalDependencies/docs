@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Djamé Seddah, Marie Candito, Bruno Guillaume.
 
 Repository: [UD_French-FQB](https://github.com/UniversalDependencies/UD_French-FQB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: LGPL-LR
 
@@ -76,7 +76,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 
 ## Features
 
-[Definite](fr_fqb-feat-Definite.html) – [Gender](fr_fqb-feat-Gender.html) – [Mood](fr_fqb-feat-Mood.html) – [Number](fr_fqb-feat-Number.html) – [NumType](fr_fqb-feat-NumType.html) – [Person](fr_fqb-feat-Person.html) – [Polarity](fr_fqb-feat-Polarity.html) – [Poss](fr_fqb-feat-Poss.html) – [PronType](fr_fqb-feat-PronType.html) – [Reflex](fr_fqb-feat-Reflex.html) – [Tense](fr_fqb-feat-Tense.html) – [VerbForm](fr_fqb-feat-VerbForm.html) – [Voice](fr_fqb-feat-Voice.html)
+[Definite](fr_fqb-feat-Definite.html) – [Foreign](fr_fqb-feat-Foreign.html) – [Gender](fr_fqb-feat-Gender.html) – [Mood](fr_fqb-feat-Mood.html) – [Number](fr_fqb-feat-Number.html) – [NumType](fr_fqb-feat-NumType.html) – [Person](fr_fqb-feat-Person.html) – [Polarity](fr_fqb-feat-Polarity.html) – [Poss](fr_fqb-feat-Poss.html) – [PronType](fr_fqb-feat-PronType.html) – [Reflex](fr_fqb-feat-Reflex.html) – [Tense](fr_fqb-feat-Tense.html) – [Typo](fr_fqb-feat-Typo.html) – [VerbForm](fr_fqb-feat-VerbForm.html) – [Voice](fr_fqb-feat-Voice.html)
 
 ## Relations
 
@@ -516,6 +516,31 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NUM: 1</li>
+          <li>X: the, of, 's, and, caliente, is, west, hazmat, in, to</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: Porto</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

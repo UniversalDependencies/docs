@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (151; 100% of non-empty `Abbr`): <em>ՀՀ, ԱՄՆ, ԱՄՆ-ի, Արմենպրես, ՀՀԿ, ՊԲ, ԱԺ, Հ, ՀՀԿ-ի, Գ</em>
-* `EMPTY` (1653): <em>Հայաստանի, Հայաստանում, Լևոն, Իրանի, Ադրբեջանի, Հայաստան, Սիմեոնը, Կարեն, Արմինուսը, Սարգսյանի</em>
+* `EMPTY` (1649): <em>Հայաստանի, Հայաստանում, Լևոն, Իրանի, Ադրբեջանի, Հայաստան, Սիմեոնը, Կարեն, Արմինուսը, Սարգսյանի</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (29) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (114; 100% of non-empty `Abbr`): <em>թ, Տ, ՀԷԿ-երի, ՀՎՀՀ, խմ, ՍՊԸ-ի, Օ, գյուղմասին, թթ, կոլխոզի</em>
-* `EMPTY` (13215): <em>հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, օրը, ծրագրի</em>
+* `EMPTY` (13198): <em>հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, օրը, ծրագրի</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (37) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (38; 100% of non-empty `Abbr`): <em>մլն, մլրդ, հազ</em>
-* `EMPTY` (676): <em>մի, երկու, մեկ, 2, 1, 2019, հազար, երեք, 2017, 2018</em>
+* `EMPTY` (675): <em>մի, երկու, մեկ, 2, 1, 2019, հազար, երեք, 2017, 2018</em>
 
 ### `ADJ`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (25; 100% of non-empty `Abbr`): <em>Ն, Ա, Ս, Լ</em>
-* `EMPTY` (4173): <em>կարող, նոր, մեծ, պետական, առաջին, ազգային, հայ, պետք, քաղաքական, տնտեսական</em>
+* `EMPTY` (4169): <em>կարող, նոր, մեծ, պետական, առաջին, ազգային, հայ, պետք, քաղաքական, տնտեսական</em>
 
 ### `X`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (6; 100% of non-empty `Abbr`): <em>AGBU, CBC, FLEX, IVLP, UCLA, Պլաստ</em>
-* `EMPTY` (195): <em>ո, մ, ր, շ, թույլ, նկատի, ու, Յելլ, ա, կոյունլու</em>
+* `EMPTY` (185): <em>ո, ր, շ, թույլ, մ, նկատի, ու, Յելլ, կոյունլու, ւ</em>
 
 ### `VERB`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>ծնվ</em>
-* `EMPTY` (6746): <em>ուզում, ասում, գալիս, տալիս, չկա, ասաց, կա, լինի, անում, նշված</em>
+* `EMPTY` (6742): <em>ուզում, ասում, գալիս, տալիս, չկա, ասաց, կա, լինի, անում, նշված</em>
 
 ### `DET`
 

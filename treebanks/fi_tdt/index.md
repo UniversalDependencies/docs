@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Filip Ginter, Jenna Kanerva, Veronika Laippala, Niko Miekka, Anna Missilä, Stina Ojala, Sampo Pyysalo.
 
 Repository: [UD_Finnish-TDT](https://github.com/UniversalDependencies/UD_Finnish-TDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_tdt29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_tdt210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -83,11 +83,11 @@ We thank all the authors who kindly allowed us to include their texts into the t
 
 
 <ul>
-<li>This corpus contains 15136 sentences, 201950 tokens and 202194 syntactic words.</li>
+<li>This corpus contains 15136 sentences, 201948 tokens and 202192 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 28666 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 28664 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -95,7 +95,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
 </ul>
 
 <ul>
-<li>This corpus contains 2272 types of words that contain both letters and punctuation. Examples: EU:n, N:o, s., mm., eaa., :D, 5(n), EKP:n, talous-, A., esim., sdp:n, EMN:n, YK:n, n., ns., A:n, -yhtye, oy:n, 2003/634/EY, II:n, huhti-kesäkuussa, ja/tai, EU:, UPM:n, Varsinais-Suomen, var., -yhtyeen, 19/65/ETY, 1980-luvun, 3.Rf3, ETA:n, I:n, kuorma-auto, pinta-ala, 1800-luvun, 1999/730/YUTP, 2.f4, 90/642/ETY, Isossa-Britanniassa, J., SDP:tä, Valko-Venäjä, koulutus-, maahanmuutto-, tutkimus-, ven., 1900-luvun, 1970-luvulla, 1990-luvun</li>
+<li>This corpus contains 2273 types of words that contain both letters and punctuation. Examples: EU:n, N:o, s., mm., eaa., :D, 5(n), EKP:n, talous-, A., esim., sdp:n, EMN:n, YK:n, n., ns., A:n, -yhtye, oy:n, 2003/634/EY, II:n, huhti-kesäkuussa, ja/tai, EU:, UPM:n, Varsinais-Suomen, var., -yhtyeen, 19/65/ETY, 1980-luvun, 3.Rf3, ETA:n, I:n, kuorma-auto, pinta-ala, 1800-luvun, 1999/730/YUTP, 2.f4, 90/642/ETY, Isossa-Britanniassa, J., SDP:tä, Valko-Venäjä, koulutus-, maahanmuutto-, tutkimus-, ven., 1900-luvun, 1970-luvulla, 1990-luvun</li>
 </ul>
 
 <ul>
@@ -231,7 +231,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>NUM: kahdeksalta, kuudelta, 581:ltä, neljältä, 955:ltä, aamuviideltä, kahdelta, kolmelta, kymmeneltä, miljoonalta</li>
       <li>PRON: siltä, kaikilta, minulta, tältä, joltain, häneltä, itseltään, meiltä, niiltä, samalta</li>
       <li>PROPN: Tampereelta, Accenturelta, Arnazilta, Atrialta, Bahamalta, Bikbokilta, Danskelta, Granfeltilta, H&M:lta, Harrilta</li>
-      <li>VERB-Part: tapahtuvalta, aiheuttamilta, ei-hyväksytyiltä, johtavalta, julkaistulta, kuolaavalta, käyvältä, loukkaantuneelta, mainitulta, myönnetyiltä</li>
+      <li>VERB-Part: tapahtuvalta, aiheuttamilta, johtavalta, julkaistulta, kuolaavalta, käyvältä, loukkaantuneelta, mainitulta, myönnetyiltä, olevilta</li>
     </ul>
   </li>
 </ul>
@@ -255,7 +255,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>PRON: tällä, sillä, jolla, joilla, meillä, minulla, hänellä, samalla, niillä, näillä</li>
       <li>PROPN: venäjällä, Mikkelinsaarilla, Accenturella, Tampereella, Arduinolla, Yliopistonmäellä, Balilla, Balkanilla, Boskärillä, Islandilla</li>
       <li>VERB-Inf: tekemällä, ottamalla, painamalla, analysoimalla, auttamalla, keräämällä, lisäämällä, muuttamalla, pelaamalla, poistamalla</li>
-      <li>VERB-Part: saatavilla, olevalla, nähtävillä, olevilla, tehdyllä, ei-hyväksytyllä, haluamallasi, johtamalla, järjestämällä, koskevalla</li>
+      <li>VERB-Part: saatavilla, olevalla, nähtävillä, olevilla, tehdyllä, haluamallasi, johtamalla, järjestämällä, koskevalla, luetelluilla</li>
     </ul>
   </li>
 </ul>
@@ -369,7 +369,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>PRON: monin, samoin, kaikin, molemmin, minkä</li>
       <li>PROPN: Helmin</li>
       <li>VERB-Inf: ottaen, lukien, johtuen, noudattaen, liittyen, käyttäen, pitäen, riippuen, katsoen, poiketen</li>
-      <li>VERB-Part: edellytetyin, soveltuvin, säädetyin</li>
+      <li>VERB-Part: edellytetyin, säädetyin</li>
     </ul>
   </li>
 </ul>
@@ -432,7 +432,6 @@ We thank all the authors who kindly allowed us to include their texts into the t
     <ul>
       <li>ADJ: parempi, parempaa, suurempi, pienempi, useamman, alhaisempi, nuorempi, pienempiä, vanhempi, helpompaa</li>
       <li>ADV: paremmin, useammin, nopeammin, laajemmin, enemmän, pidemmälle, pidempään, huonommin, alempana, etäämmällä</li>
-      <li>VERB-Part: hyväksytympi</li>
     </ul>
   </li>
 </ul>
@@ -441,11 +440,6 @@ We thank all the authors who kindly allowed us to include their texts into the t
   <li>Pos
     <ul>
       <li>ADJ: hyvä, arvoisa, uusi, uuden, hyvää, oman, uutta, pieni, oma, tärkeää</li>
-      <li>AUX-Part: ollut, olevan, olleet, voinut, oltava, ollu, olleen, pitänyt, olevansa, oltu</li>
-      <li>NOUN: alaisena, hyvähän, rakkaille, tuntemattomille, tuttujen, tutuille</li>
-      <li>PRON: muita, muiden, muidenkin, muittenkin</li>
-      <li>PROPN: Yhtenäinen</li>
-      <li>VERB-Part: tehty, saanut, olevan, tullut, s., tehnyt, koskevan, annettu, koskevat, annetun</li>
     </ul>
   </li>
 </ul>
@@ -455,7 +449,6 @@ We thank all the authors who kindly allowed us to include their texts into the t
     <ul>
       <li>ADJ: suurin, paras, suurimmat, korkein, suurimman, parasta, vanhin, tärkein, useimmat, parhaan</li>
       <li>ADV: parhaiten, helpoimmin, nopeimmin, yleisimmin, ahkerimmin, ilmeisimmin, keskeisimmin, taitavimmin, todennäköisimmin, vaikeimmin</li>
-      <li>VERB-Part: menestynein, myydyin, saastuneimpia</li>
     </ul>
   </li>
 </ul>
@@ -787,7 +780,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     <ul>
       <li>Han
         <ul>
-          <li>ADJ: mukavahan, näköistähän</li>
+          <li>ADJ: hyvähän, mukavahan, näköistähän</li>
           <li>ADV: kyllähän, niinhän, ainahan, johan, silloinhan, Hyvinhän, Miksihän, Samallahan, Yleensähän, sinnehän</li>
           <li>AUX-Fin: eihän, onhan, olihan, pitihän, ovathan, pitäähän, täytyyhän, Eiväthän, Enhän, Ethän</li>
           <li>NOUN: Pakkohan, työllähän, Kyseessähän, Käytännössähän, Ongelmahan, Pojallehan, helpotushan, herkkuahan, herkkuhan, hinnathan</li>
@@ -933,7 +926,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>Ja
         <ul>
           <li>ADJ: aiemmilta</li>
-          <li>NOUN: puheenjohtaja, opiskelijoiden, johtaja, toimitusjohtaja, tutkijat, puheenjohtajana, matkustajien, harjoittajan, harjoittajien, isännöitsijä</li>
+          <li>NOUN: puheenjohtaja, opiskelijoiden, johtaja, toimitusjohtaja, tutkijat, puheenjohtajana, matkustajien, harjoittajan, harjoittajien, maahanmuuttajien</li>
         </ul>
       </li>
       <li>Ja,Tar
@@ -983,7 +976,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>Ton
         <ul>
           <li>ADJ: välttämätöntä, mahdotonta, tavattoman, uskomatonta, vaivatonta, ehdottomaan, erottamaton, laittoman, maksuton, riippumaton</li>
-          <li>NOUN: pitkäaikaistyöttömien, syyttömiä, tuntemattomille, työttömien, työttömät</li>
+          <li>NOUN: pitkäaikaistyöttömien, syyttömiä, työttömien, työttömät</li>
           <li>VERB-Part: asettelematonta, palamaton</li>
         </ul>
       </li>
@@ -1167,16 +1160,16 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <ul>
           <li>ADJ: ei, musta, Kolmanenta, Suositeltaava, Uusseelantilaisen, asiaankuluvaa, brasílialaisessa, englantilaisella, erilaista, erillaisia</li>
           <li>ADP: sekaan.</li>
-          <li>ADV: Tällöinen, Vai, Yht’, eihan, ellä, enmmän, ensi, imi, kiinnit, kokonaan.</li>
+          <li>ADV: Tällöinen, Vai, eihan, ellä, enmmän, ensi, imi, kiinnit, kokonaan., koomin</li>
           <li>AUX-Fin: ai, eivat, eivät, lie, olisi, ovat, voisivat</li>
           <li>AUX-Inf: olleessa</li>
           <li>AUX-Part: olevaan, olut</li>
           <li>CCONJ: jokö, van</li>
           <li>INTJ: joo.</li>
-          <li>NOUN: n, version, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 11.krenatöörirykmentin, 1kpl, 2.5mm</li>
-          <li>NUM: kahden, miljoona</li>
+          <li>NOUN: version, %:, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 11.krenatöörirykmentin, 1kpl, 2.5mm</li>
+          <li>NUM: 2006/C, 6 000:, kahden, miljoona</li>
           <li>PRON: minun, sen, Hedän, Kumpikin, Saman, Tosilla, Tämä, erääseen, johon, jonka</li>
-          <li>PROPN: Pekkka, Begia, Carnegiein, EMN, Guinnesiin, Guinnesin, Hohenstaufen, Isoa-Britanniaan, Japani, Jonna</li>
+          <li>PROPN: EU:, EY:, Pekkka, Begia, Carnegiein, EMN, Guinnesiin, Guinnesin, Heathrow, Hohenstaufen</li>
           <li>VERB-Fin: Lisä, Leikkkaa, Tidän, ajautuu, asun, eroittui, halun, häiritsevän, irroittaa, karkoitettiin</li>
           <li>VERB-Inf: arvoimaan, epälläkseni, irroittautumaan, kaahamaan, kulkeman, kuumenemaaan, kuunnellessa, laittamalle, läsnäollessa, nousteessa</li>
           <li>VERB-Part: Itsetehdyt, Paistetu, Viimeksimainittu, ajatunut, hallinoiman, hallisemalle, haluamallasi, herättäva, hyökkäävään, järjestämään</li>
@@ -1239,10 +1232,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--NOUN-Ela (2)</li>
-      <li>VERB-Fin--NOUN-Gen (1205)</li>
+      <li>VERB-Fin--NOUN-Gen (1206)</li>
       <li>VERB-Fin--NOUN-Ill (3)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1079)</li>
+      <li>VERB-Fin--NOUN-Nom (1078)</li>
       <li>VERB-Fin--NOUN-Par (2459)</li>
       <li>VERB-Fin--PRON-Acc (91)</li>
       <li>VERB-Fin--PRON-All (1)</li>
@@ -1260,9 +1253,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Par (285)</li>
       <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Ela (1)</li>
-      <li>VERB-Part--NOUN-Gen (339)</li>
+      <li>VERB-Part--NOUN-Gen (338)</li>
       <li>VERB-Part--NOUN-Nom (498)</li>
-      <li>VERB-Part--NOUN-Par (1119)</li>
+      <li>VERB-Part--NOUN-Par (1120)</li>
       <li>VERB-Part--PRON-Acc (17)</li>
       <li>VERB-Part--PRON-Gen (46)</li>
       <li>VERB-Part--PRON-Nom (82)</li>

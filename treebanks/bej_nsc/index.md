@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Martine Vanhove, Rayan Ziane, Sylvain Kahane, Bruno Guillaume.
 
 Repository: [UD_Beja-NSC](https://github.com/UniversalDependencies/UD_Beja-NSC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_nsc29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_nsc210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -49,14 +49,13 @@ A Universal Dependencies corpus for Beja, North-Cushitic branch of the Afro-Asia
 
 
 
-The treebank is an automatic conversion of the SUD_beja-NSC, which was extracted from Martine Vanhove's corpus in Elan format (https://corpafroas.huma-num.fr/Archives/corpus.php).
+The treebank is an automatic conversion of the [SUD_beja-NSC](https://github.com/surfacesyntacticud/SUD_Beja-NSC), which was extracted from Martine Vanhove's corpus in Elan format (https://corpafroas.huma-num.fr/Archives/corpus.php).
 
 Sentences are annotated with the following metadata :
-+ sent_id (which indicates the source file and the segmentation identifier in the source file)
-+ text (lexical tokenization)
-+ text_en (english interpretation)
-+ text_tokenized (morphological tokenization)
-
++ `sent_id` (which indicates the source file and the segmentation identifier in the source file)
++ `text` (lexical tokenization)
++ `text_en` (english interpretation)
++ `text_tokenized` (morphological tokenization)
 
 ## Acknowledgments
 
@@ -72,17 +71,17 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 
 ## Features
 
-[Aspect](bej_nsc-feat-Aspect.html) – [Case](bej_nsc-feat-Case.html) – [Definite](bej_nsc-feat-Definite.html) – [Deixis](bej_nsc-feat-Deixis.html) – [Foreign](bej_nsc-feat-Foreign.html) – [Gender](bej_nsc-feat-Gender.html) – [Mood](bej_nsc-feat-Mood.html) – [Number](bej_nsc-feat-Number.html) – [Person](bej_nsc-feat-Person.html) – [Polarity](bej_nsc-feat-Polarity.html) – [Polite](bej_nsc-feat-Polite.html) – [Poss](bej_nsc-feat-Poss.html) – [PronType](bej_nsc-feat-PronType.html) – [Reflex](bej_nsc-feat-Reflex.html) – [VerbClass](bej_nsc-feat-VerbClass.html) – [VerbForm](bej_nsc-feat-VerbForm.html) – [VerbType](bej_nsc-feat-VerbType.html) – [Voice](bej_nsc-feat-Voice.html)
+[Aspect](bej_nsc-feat-Aspect.html) – [Case](bej_nsc-feat-Case.html) – [Definite](bej_nsc-feat-Definite.html) – [Deixis](bej_nsc-feat-Deixis.html) – [Foreign](bej_nsc-feat-Foreign.html) – [Gender](bej_nsc-feat-Gender.html) – [Mood](bej_nsc-feat-Mood.html) – [Number](bej_nsc-feat-Number.html) – [Person](bej_nsc-feat-Person.html) – [Polarity](bej_nsc-feat-Polarity.html) – [Polite](bej_nsc-feat-Polite.html) – [Poss](bej_nsc-feat-Poss.html) – [PronType](bej_nsc-feat-PronType.html) – [Reflex](bej_nsc-feat-Reflex.html) – [VerbClass](bej_nsc-feat-VerbClass.html) – [VerbType](bej_nsc-feat-VerbType.html) – [Voice](bej_nsc-feat-Voice.html)
 
 ## Relations
 
-[acl](bej_nsc-dep-acl.html) – [acl:relcl](bej_nsc-dep-acl-relcl.html) – [advcl](bej_nsc-dep-advcl.html) – [advmod](bej_nsc-dep-advmod.html) – [amod](bej_nsc-dep-amod.html) – [appos](bej_nsc-dep-appos.html) – [aux](bej_nsc-dep-aux.html) – [aux:aff](bej_nsc-dep-aux-aff.html) – [case](bej_nsc-dep-case.html) – [case:aff](bej_nsc-dep-case-aff.html) – [cc](bej_nsc-dep-cc.html) – [ccomp](bej_nsc-dep-ccomp.html) – [compound](bej_nsc-dep-compound.html) – [compound:svc](bej_nsc-dep-compound-svc.html) – [cop](bej_nsc-dep-cop.html) – [csubj](bej_nsc-dep-csubj.html) – [dep](bej_nsc-dep-dep.html) – [dep:aff](bej_nsc-dep-dep-aff.html) – [dep:comp](bej_nsc-dep-dep-comp.html) – [dep:conj](bej_nsc-dep-dep-conj.html) – [dep:redup](bej_nsc-dep-dep-redup.html) – [det](bej_nsc-dep-det.html) – [discourse](bej_nsc-dep-discourse.html) – [dislocated](bej_nsc-dep-dislocated.html) – [dislocated:subj](bej_nsc-dep-dislocated-subj.html) – [fixed](bej_nsc-dep-fixed.html) – [iobj](bej_nsc-dep-iobj.html) – [mark](bej_nsc-dep-mark.html) – [mark:aff](bej_nsc-dep-mark-aff.html) – [nmod](bej_nsc-dep-nmod.html) – [nmod:poss](bej_nsc-dep-nmod-poss.html) – [nsubj](bej_nsc-dep-nsubj.html) – [nsubj:aff](bej_nsc-dep-nsubj-aff.html) – [nummod:det](bej_nsc-dep-nummod-det.html) – [obj](bej_nsc-dep-obj.html) – [obl:arg](bej_nsc-dep-obl-arg.html) – [obl:mod](bej_nsc-dep-obl-mod.html) – [parataxis](bej_nsc-dep-parataxis.html) – [parataxis:coord](bej_nsc-dep-parataxis-coord.html) – [parataxis:mod](bej_nsc-dep-parataxis-mod.html) – [punct](bej_nsc-dep-punct.html) – [reparandum](bej_nsc-dep-reparandum.html) – [root](bej_nsc-dep-root.html) – [vocative](bej_nsc-dep-vocative.html)
+[acl](bej_nsc-dep-acl.html) – [acl:relcl](bej_nsc-dep-acl-relcl.html) – [advcl](bej_nsc-dep-advcl.html) – [advmod](bej_nsc-dep-advmod.html) – [amod](bej_nsc-dep-amod.html) – [appos](bej_nsc-dep-appos.html) – [aux](bej_nsc-dep-aux.html) – [case](bej_nsc-dep-case.html) – [cc](bej_nsc-dep-cc.html) – [ccomp](bej_nsc-dep-ccomp.html) – [compound](bej_nsc-dep-compound.html) – [compound:svc](bej_nsc-dep-compound-svc.html) – [cop](bej_nsc-dep-cop.html) – [dep](bej_nsc-dep-dep.html) – [dep:comp](bej_nsc-dep-dep-comp.html) – [dep:conj](bej_nsc-dep-dep-conj.html) – [dep:redup](bej_nsc-dep-dep-redup.html) – [det](bej_nsc-dep-det.html) – [discourse](bej_nsc-dep-discourse.html) – [dislocated](bej_nsc-dep-dislocated.html) – [dislocated:subj](bej_nsc-dep-dislocated-subj.html) – [fixed](bej_nsc-dep-fixed.html) – [iobj](bej_nsc-dep-iobj.html) – [mark](bej_nsc-dep-mark.html) – [nmod](bej_nsc-dep-nmod.html) – [nmod:poss](bej_nsc-dep-nmod-poss.html) – [nsubj](bej_nsc-dep-nsubj.html) – [nummod:det](bej_nsc-dep-nummod-det.html) – [obj](bej_nsc-dep-obj.html) – [obl:arg](bej_nsc-dep-obl-arg.html) – [obl:mod](bej_nsc-dep-obl-mod.html) – [parataxis](bej_nsc-dep-parataxis.html) – [parataxis:coord](bej_nsc-dep-parataxis-coord.html) – [parataxis:mod](bej_nsc-dep-parataxis-mod.html) – [punct](bej_nsc-dep-punct.html) – [reparandum](bej_nsc-dep-reparandum.html) – [root](bej_nsc-dep-root.html) – [vocative](bej_nsc-dep-vocative.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 56 sentences and 1101 tokens.</li>
+<li>This corpus contains 56 sentences, 856 tokens and 857 syntactic words.</li>
 </ul>
 
 <ul>
@@ -94,10 +93,12 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 </ul>
 
 <ul>
-<li>This corpus contains 36 types of words that contain both letters and punctuation. Examples: i-, a-, -i, -n, -a, -an, -aː, iː-, -ja, -eː, ti-, -am, -ta, -na, -jaː, -jeː, -oːj, ameː-, -ej, ni-, t-, -aːna, -is, -it, -iːni, -s, -tan, -teːn, -ti, am-, aː#, dh#, m-, s-, si-, tiː-</li>
+<li>This corpus contains 3 types of words that contain both letters and punctuation. Examples: aː#, dh#, hoːb-ej</li>
 </ul>
 
 <ul>
+<li>This corpus contains 1 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 1 types of multi-word tokens. Examples: hoːb=uːn-ej.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -110,7 +111,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 </ul>
 
 <ul>
-<li>This corpus contains 14 word types tagged as particles (PART): -a, -ej, -eː, -i, -jeː, =ja, ajwa, bak, han, ja, ki=, na, nuːn, ontʔa</li>
+<li>This corpus contains 9 word types tagged as particles (PART): =ja, ajwa, bak, han, ja, ki=, na, nuːn, ontʔa</li>
 </ul>
 
 <ul>
@@ -134,15 +135,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 </ul>
 
 <ul>
-<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
-</ul>
-
-<ul>
-  <li>Conv
-  <ul>
-    <li>SCONJ: -eː, -aː, -a, -jeː, -jaː, -ja</li>
-  </ul>
-  </li>
+<li>This corpus does not use the VerbForm feature.</li>
 </ul>
 
 <h3>Nominal Features</h3>
@@ -156,9 +149,9 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
   <li>Fem
     <ul>
       <li>DET: =t, toː=, ti=, t=, toːt</li>
-      <li>NOUN: ʔoːt, biri, hawat, iːjʔaː, koːba, naː, suːfa, takat, ʃa, ʃaː</li>
-      <li>PRON: ti-, -i, -ta, t-, -tan, -ti, tiː-</li>
+      <li>NOUN: biri, hawat, iːjʔaː, koːba, naː, suːfa, takat, ʃa, ʃaː, ʔabaː</li>
       <li>SCONJ: =eːt, =jeːt, =t, ti=</li>
+      <li>VERB: tini, ʔabkin, sallamta, fidini, galeːlin, galeːltan, sallamamta, theː, tidi, tifidin</li>
     </ul>
   </li>
 </ul>
@@ -166,12 +159,12 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Masc
     <ul>
-      <li>AUX: =wa</li>
+      <li>AUX: =wa, iːha, iːkti, bʔijan, iki</li>
       <li>DET: =b, i=, oː=, uː=, w=, uːn, eː=, oːn, aːn, eːn</li>
-      <li>NOUN: tak, doːr, biri, gaw, mhiːn, halak, hanʤar, mbʔaɖ, ʔiːd, bʔaɖ</li>
-      <li>PRON: i-, -ja, iː-, -a, -i, -ta, -iːni, beːn, oːn, ti-</li>
+      <li>NOUN: tak, biri, doːr, gaw, mhiːn, hanʤar, ʔiːd, bʔaɖ, bʔaɖaɖ, bʔeː</li>
+      <li>PRON: beːn, oːn</li>
       <li>SCONJ: =eːb, ji=, =jeːb</li>
-      <li>VERB: eːja</li>
+      <li>VERB: ini, idi, iːfi, sallamja, eːja, ikan, ɖaːbjai, ʔabikan, ammar~rija, giːgista</li>
     </ul>
   </li>
 </ul>
@@ -185,13 +178,12 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
   <li>Plur
     <ul>
       <li>ADP: =eːb</li>
-      <li>AUX: =a</li>
+      <li>AUX: =a, iːktiːna, niki</li>
       <li>DET: eː=, aːn, eːn, aː=</li>
-      <li>NOUN: hamoː, iːjʔaː, jam, kam, nda, bhali, da, gaɖʔa, i̠ːjʔaː</li>
-      <li>PART: -a, -eː, -jeː</li>
-      <li>PRON: -n, -na, =uːn, hinin, ni-, -aːna, -teːn, =aː, =jeː, =oːn</li>
+      <li>NOUN: halaka, hamoː, iːjʔaː, jam, kam, mittia, nda, bhalijeː, da, gaɖʔa</li>
+      <li>PRON: =uːn, hinin, =aː, =jeː, =oːn</li>
       <li>SCONJ: ji=</li>
-      <li>VERB: eːn</li>
+      <li>VERB: eːjaːn, eːn, areːna, gʷʔana, hiːn, idiːn, iktiːnn, iːbirin, iːfin, iːjheːn</li>
     </ul>
   </li>
 </ul>
@@ -200,11 +192,11 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
   <li>Sing
     <ul>
       <li>ADP: =iːb, =iː</li>
-      <li>AUX: =u, =i, =wa</li>
+      <li>AUX: =u, =i, =wa, iːha, iːkti, bʔijan, iki</li>
       <li>DET: oː=, uː=, toː=, w=, uːn, oːn, beːn, toːt</li>
-      <li>PRON: i-, a-, =heːb, -an, -ja, -i, =i, ti-, =oː, iː-</li>
+      <li>PRON: =heːb, =i, =oː, ani, =eː, =isi, hoː, =iji, =ji, =joː</li>
       <li>SCONJ: =eːb, =jeːb</li>
-      <li>VERB: eːja</li>
+      <li>VERB: ini, sallamaman, tini, ʔabkin, idi, iːfi, sallamja, aakaj, adi, ani</li>
     </ul>
   </li>
 </ul>
@@ -258,7 +250,6 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Gen
     <ul>
-      <li>PART: -i, -eː, -jeː</li>
       <li>PRON: =iji</li>
     </ul>
   </li>
@@ -277,14 +268,6 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
     <ul>
       <li>DET: uː=, uːn, aːn, aː=, beːn</li>
       <li>PRON: =i, ani, =uːn, hinin, =aː, beːn</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Voc
-    <ul>
-      <li>PART: -ej</li>
     </ul>
   </li>
 </ul>
@@ -324,7 +307,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
   <li>Neg
     <ul>
       <li>PART: ki=</li>
-      <li>VERB: akaj, ʔam</li>
+      <li>VERB: aakaj, tʔam</li>
     </ul>
   </li>
 </ul>
@@ -340,9 +323,8 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Aor
     <ul>
-      <li>AUX: ha</li>
-      <li>PRON: -i</li>
-      <li>VERB: fi, kti, biri, hiː, muːki</li>
+      <li>AUX: iːha</li>
+      <li>VERB: iːfi, iːkti, hiːn, imuːki, iːbirin, iːfin, tiːfi</li>
     </ul>
   </li>
 </ul>
@@ -351,8 +333,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
   <li>Imp
     <ul>
       <li>PART: ki=</li>
-      <li>PRON: -iːni, -teːn</li>
-      <li>VERB: kati, bari, heː, kteːn, ktiːn, stoːbi</li>
+      <li>VERB: akati, akteːn, astoːbi, ibari, iktiːnn, theː</li>
     </ul>
   </li>
 </ul>
@@ -360,10 +341,8 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: ki, kti, ktiː</li>
-      <li>PRON: -an, -ja</li>
-      <li>SCONJ-Conv: -aː, -a, -jaː</li>
-      <li>VERB: ni, kan, di, ki, skʷi, dif, eːja, firʔa, gar, gʷoːj</li>
+      <li>AUX: iːkti, iki, iːktiːna, niki</li>
+      <li>VERB: ini, tini, ikan, adi, adif, agar, agʷoːj, ahagit, akan, amaːsiw</li>
     </ul>
   </li>
 </ul>
@@ -371,8 +350,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Pfv
     <ul>
-      <li>PRON: -an, -ja, -ta, -na, -tan, -ti</li>
-      <li>VERB: ni, di, eːjaː, eːn, ba, diː, eːja, fidin, ganif, jheː</li>
+      <li>VERB: ini, eːjaːn, eːn, idi, aba, adi, ani, asganif, eːja, idiːn</li>
     </ul>
   </li>
 </ul>
@@ -382,18 +360,10 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 </ul>
 
 <ul>
-  <li>Imp
-    <ul>
-      <li>PRON: -i, -a, -aːna</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Opt
     <ul>
       <li>AUX: ba=, bi=</li>
-      <li>VERB: akaj, ʔam</li>
+      <li>VERB: aakaj, tʔam</li>
     </ul>
   </li>
 </ul>
@@ -404,34 +374,9 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 </ul>
 
 <ul>
-  <li>Cau
-    <ul>
-      <li>AUX: -is, -s, s-, si-</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Mid
     <ul>
-      <li>AUX: -am</li>
-      <li>VERB: kan, ʔam, sa~sʔ, gar, kteːn, ktiːn, sar, sʔ, sʔa</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Pass
-    <ul>
-      <li>AUX: ameː-</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Rcp
-    <ul>
-      <li>AUX: am-</li>
+      <li>VERB: ikan, agar, akan, akteːn, asʔa, iktiːnn, tikan, tʔam</li>
     </ul>
   </li>
 </ul>
@@ -486,7 +431,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
   <li>1
     <ul>
       <li>AUX: =u, =i, =a</li>
-      <li>PRON: a-, =heːb, -an, =i, =oː, ani, -na, =eː, =uːn, hinin</li>
+      <li>PRON: =heːb, =i, =oː, ani, =eː, =uːn, hinin, hoː, =iji, =ji</li>
     </ul>
   </li>
 </ul>
@@ -495,7 +440,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
   <li>2
     <ul>
       <li>AUX: =wa</li>
-      <li>PRON: -ta, ti-, -teːn, =oːk, barijoːk</li>
+      <li>PRON: =oːk, barijoːk</li>
     </ul>
   </li>
 </ul>
@@ -504,7 +449,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
   <li>3
     <ul>
       <li>AUX: =u</li>
-      <li>PRON: i-, -ja, iː-, ti-, -n, -ta, -i, =isi, t-, -iːni</li>
+      <li>PRON: =isi, =aː, =jeː, =oː</li>
       <li>VERB: eːja, eːn</li>
     </ul>
   </li>
@@ -551,7 +496,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: nafar</li>
+          <li>NOUN: nafara</li>
           <li>PART: nuːn</li>
         </ul>
       </li>
@@ -564,14 +509,12 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
     <ul>
       <li>1
         <ul>
-          <li>AUX: ameː-, am-, s-, si-</li>
-          <li>VERB: ni, di, ʔabk, moːk, haraw, fi, kan, ʔabik, ʔam, fidin</li>
+          <li>VERB: ini, tini, harawaː, ʔabkin, idi, iːfi, aakaj, adi, akajeː, ani</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>AUX: -am, -is, -s</li>
-          <li>VERB: sallam, jʔ, rh, ɖaːb, tam, galeːl, gʷʔa, ʃamat, eːjaː, areː</li>
+          <li>VERB: sallamaman, jʔaː, eːjaːn, sallamja, eːja, hamilaː, hiːreːreː, jʔa, jʔan, naːjeː</li>
         </ul>
       </li>
     </ul>
@@ -608,7 +551,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (30)</li>
+      <li>VERB--NOUN (29)</li>
+      <li>VERB--NOUN-ADP(_) (1)</li>
       <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Nom (4)</li>
     </ul>
@@ -618,9 +562,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (37)</li>
-      <li>VERB--PRON (26)</li>
-      <li>VERB--PRON-Acc (2)</li>
+      <li>VERB--NOUN (36)</li>
+      <li>VERB--PRON (27)</li>
+      <li>VERB--PRON-Acc (1)</li>
       <li>VERB--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -642,7 +586,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 17 relation subtypes: <a>acl:relcl</a>, <a>aux:aff</a>, <a>case:aff</a>, <a>compound:svc</a>, <a>dep:aff</a>, <a>dep:comp</a>, <a>dep:conj</a>, <a>dep:redup</a>, <a>dislocated:subj</a>, <a>mark:aff</a>, <a>nmod:poss</a>, <a>nsubj:aff</a>, <a>nummod:det</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:coord</a>, <a>parataxis:mod</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>compound:svc</a>, <a>dep:comp</a>, <a>dep:conj</a>, <a>dep:redup</a>, <a>dislocated:subj</a>, <a>nmod:poss</a>, <a>nummod:det</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:coord</a>, <a>parataxis:mod</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>nummod</a>, <a>obl</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>xcomp</a>, <a>expl</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
+<li>The following 9 relation types are not used in this corpus at all: <a>csubj</a>, <a>xcomp</a>, <a>expl</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

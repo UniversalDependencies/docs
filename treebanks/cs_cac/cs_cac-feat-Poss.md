@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (5371; 100% of non-empty `Poss`): <em>jejich, jeho, své, její, naší, svou, naše, našeho, svých, našich</em>
-* `EMPTY` (14391): <em>to, které, který, která, tím, této, těchto, tyto, tom, kteří</em>
+* `EMPTY` (14440): <em>to, které, který, která, tím, této, těchto, tyto, tom, kteří</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Poss`.
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 649 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (510; 79%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (373; 57%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (510; 79%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (373; 57%).
 
 `ADJ` tokens may have the following values of `Poss`:
 

@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>erken</em> (<tt><a href="tr_atis-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.141026 (the average of all parts of speech is 1.735126).
+The form / lemma ratio of `ADV` is 1.141026 (the average of all parts of speech is 1.748764).
 
 The 1st highest number of forms (3) was observed with the lemma “uç”: <em>uçarken, uçup, uçuştur</em>.
 

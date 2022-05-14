@@ -22,16 +22,16 @@ The following 50 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 8 parataxis	color:blue
-1	Dară	dar	CCONJ	Cccsp	Compound=Yes|Polarity=Pos	3	cc	_	ref=MATT19.17
-2	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	ref=MATT19.17
-3	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT19.17
-4	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	iobj	_	ref=MATT19.17|SpaceAfter=No
-5	:	:	PUNCT	COLON	_	8	punct	_	ref=MATT19.17
-6	Ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	obl	_	ref=MATT19.17
-7	Mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	8	obj	_	ref=MATT19.17
-8	grăești	grăi	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	ref=MATT19.17
-9	bun	bun	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	xcomp	_	ref=MATT19.17|SpaceAfter=No
-10	?	?	PUNCT	QUEST	_	8	punct	_	ref=MATT19.17
+1	Dară	dar	CCONJ	Cccsp	Compound=Yes|Polarity=Pos	3	cc	_	Ref=MATT19.17
+2	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Ref=MATT19.17
+3	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=MATT19.17
+4	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	iobj	_	Ref=MATT19.17|SpaceAfter=No
+5	:	:	PUNCT	COLON	_	8	punct	_	Ref=MATT19.17
+6	Ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	obl	_	Ref=MATT19.17
+7	Mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	8	obj	_	Ref=MATT19.17
+8	grăești	grăi	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	Ref=MATT19.17
+9	bun	bun	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	xcomp	_	Ref=MATT19.17|SpaceAfter=No
+10	?	?	PUNCT	QUEST	_	8	punct	_	Ref=MATT19.17
 
 ~~~
 
@@ -42,14 +42,14 @@ The following 50 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 parataxis	color:blue
-1	Zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT17.26
-2	Pătru	Petru	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	ref=MATT17.26
-3	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	iobj	_	ref=MATT17.26|SpaceAfter=No
-4	:	:	PUNCT	COLON	_	7	punct	_	ref=MATT17.26
-5	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT17.26
-6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	fixed	_	ref=MATT17.26
-7	streini	străin	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	1	parataxis	_	ref=MATT17.26|SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT17.26
+1	Zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=MATT17.26
+2	Pătru	Petru	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	Ref=MATT17.26
+3	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	iobj	_	Ref=MATT17.26|SpaceAfter=No
+4	:	:	PUNCT	COLON	_	7	punct	_	Ref=MATT17.26
+5	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT17.26
+6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	fixed	_	Ref=MATT17.26
+7	streini	străin	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	1	parataxis	_	Ref=MATT17.26|SpaceAfter=No
+8	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT17.26
 
 ~~~
 

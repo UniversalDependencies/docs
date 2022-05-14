@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="it_vit-pos-INTJ
   * <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 2: <em>Rolo verso l' <b>addio</b> a Caer .</em>
 * <em>avanti</em>
   * <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> 26: <em>Io credo che si andrà molto più <b>avanti</b> " .</em>
-  * <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> 3: <em>Si tratta di una statua di il iv secolo <b>avanti</b> Cristo .</em>
+  * <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> 3: <em>Si tratta di una statua di il IV secolo <b>avanti</b> Cristo .</em>
   * <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> 1: <em>L' edizione < Casa > ( distribuita a 20 milioni di famiglie ) avrà un < <b>avanti</b> elenco > con una guida pratica per il cittadino , informazioni su la grande distribuzione e cartine urbane .</em>
   * <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> 1: <em>Avanti , <b>avanti</b> !</em>
 * <em>attenzione</em>
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="it_vit-pos-INTJ
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.499345).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.498179).
 
 The 1st highest number of forms (1) was observed with the lemma “addio”: <em>addio</em>.
 

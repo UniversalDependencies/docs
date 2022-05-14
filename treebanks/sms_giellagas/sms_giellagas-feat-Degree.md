@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sms_giellagas-pos-A
 
 ### `ADJ`
 
-2 <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Degree`.
+2 <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 100%), <tt><a href="sms_giellagas-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (2; 100% of non-empty `Degree`): <em>lääʹđesmiõllsab, šuurab</em>
-* `EMPTY` (24): <em>jõnn, kuälmad, šiõǥǥ, nuʹbb, tiõrvâs, ekksaž, jåʹttel, kaađâš, kuuʹǩǩ, muʹvddem</em>
+* `EMPTY` (26): <em>jõnn, kuälmad, šiõǥǥ, nuʹbb, tiõrvâs, ekksaž, jåʹttel, kaađâš, kuuʹǩǩ, muʹvddem</em>
 

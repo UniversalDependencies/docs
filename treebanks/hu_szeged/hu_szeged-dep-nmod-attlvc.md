@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `nmod:attlvc`: <tt><
 8	lezárását	lezárás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	13	punct	_	_
 10	és	és	CCONJ	_	_	13	cc	_	_
-11	arra	az	PRON	_	Case=Sub|Number=Sing|Person=3|PronType=Dem	13	obl	_	_
+11	arra	az	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	13	obl	_	_
 12	is	is	CCONJ	_	_	11	cc	_	ToDo=cc-without-conj
 13	számíthattak	számít	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
 14	:	:	PUNCT	_	_	22	punct	_	_

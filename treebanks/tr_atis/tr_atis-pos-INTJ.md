@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ya</em> (<tt><a href="tr_atis-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.735126).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.748764).
 
 The 1st highest number of forms (1) was observed with the lemma “ya”: <em>ya</em>.
 

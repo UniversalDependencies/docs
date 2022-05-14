@@ -22,14 +22,14 @@ The following 21 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 discourse	color:blue
-1	Iată	iată	INTJ	I	_	2	discourse	_	ref=MATT23.38
-2	lăsa	lăsa	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT23.38|SpaceAfter=No
-3	-să	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Strength=Strong	2	expl:pass	_	ref=MATT23.38|SpaceAfter=No
-4	-vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	aux	_	ref=MATT23.38
-5	casele	casă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	2	nsubj:pass	_	ref=MATT23.38
-6	voastre	tău	DET	Ds2fp-p	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|PronType=Prs	5	det	_	ref=MATT23.38
-7	pustii	pustiu	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	2	xcomp	_	ref=MATT23.38|SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT23.38
+1	Iată	iată	INTJ	I	_	2	discourse	_	Ref=MATT23.38
+2	lăsa	lăsa	VERB	Vmn	VerbForm=Inf	0	root	_	Ref=MATT23.38|SpaceAfter=No
+3	-să	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Strength=Strong	2	expl:pass	_	Ref=MATT23.38|SpaceAfter=No
+4	-vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	aux	_	Ref=MATT23.38
+5	casele	casă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	2	nsubj:pass	_	Ref=MATT23.38
+6	voastre	tău	DET	Ds2fp-p	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|PronType=Prs	5	det	_	Ref=MATT23.38
+7	pustii	pustiu	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	2	xcomp	_	Ref=MATT23.38|SpaceAfter=No
+8	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT23.38
 
 ~~~
 
@@ -40,13 +40,13 @@ The following 21 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 discourse	color:blue
-1	Au	au	INTJ	I	_	2	discourse	_	ref=MATT11.8
-2	om	om	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT11.8
-3	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT11.8
-4	veșminte	veșmânt	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	6	obl	_	ref=MATT11.8
-5	moi	moale	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	ref=MATT11.8
-6	îmbrăcat	îmbrăca	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	2	amod	_	ref=MATT11.8|SpaceAfter=No
-7	?	?	PUNCT	QUEST	_	2	punct	_	ref=MATT11.8
+1	Au	au	INTJ	I	_	2	discourse	_	Ref=MATT11.8
+2	om	om	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=MATT11.8
+3	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT11.8
+4	veșminte	veșmânt	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	6	obl	_	Ref=MATT11.8
+5	moi	moale	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	Ref=MATT11.8
+6	îmbrăcat	îmbrăca	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	2	amod	_	Ref=MATT11.8|SpaceAfter=No
+7	?	?	PUNCT	QUEST	_	2	punct	_	Ref=MATT11.8
 
 ~~~
 

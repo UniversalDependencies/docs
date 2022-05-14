@@ -44,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `aux:q`: <tt><a href
 # visual-style 8	fgColor:white
 # visual-style 8 9 aux:q	color:blue
 1	Vor	vor	ADP	_	_	2	case	_	CSID=DE|Lang=de
-2	allem	alle	PRON	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	5	obl	_	CSID=DE|Lang=de
+2	allem	alle	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	5	obl	_	CSID=DE|Lang=de
 3	so	so	ADV	_	_	5	advmod	_	CSID=DE|Lang=de
 4	mega	mega	ADJ	_	_	5	advmod	_	CSID=DE|Lang=de
 5	perfektionistisch	perfektionistisch	ADJ	_	_	0	root	_	CSID=DE|Lang=de

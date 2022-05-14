@@ -9,7 +9,7 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 2 different values: `Conv`, `Vnoun`.
 
-11 tokens (2%) have a non-empty value of `VerbForm`.
+11 tokens (1%) have a non-empty value of `VerbForm`.
 10 types (4%) occur at least once with a non-empty value of `VerbForm`.
 11 lemmas (5%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 * `Conv` (2; 22% of non-empty `VerbForm`): <em>sikasaaky, Ĩkanapyryãkasaaky</em>
 * `Vnoun` (7; 78% of non-empty `VerbForm`): <em>makinhi, faltatinhi, fawtatinhi, iatinhi, ivinitinhi, mitekatinhi</em>
-* `EMPTY` (160): <em>awa, awary, amutary, kaiãapuku, sary, apukary, awama, kaiãapukury, sããputa, 'awary</em>
+* `EMPTY` (167): <em>awa, awary, amutary, kaiãapuku, sary, apukary, awama, kaiãapukury, sããputa, 'awary</em>
 
 ### `NOUN`
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (2; 100% of non-empty `VerbForm`): <em>iũkatsupatinhi, ysãkirawatinhi</em>
-* `EMPTY` (223): <em>iãtã, awinhi, aapuku, maky, ywãtãa, kyky, sytu, ximaky, ũimiakury, aapukutxi</em>
+* `EMPTY` (238): <em>iãtã, awinhi, aapuku, maky, ywãtãa, awiri, kyky, sytu, ximaky, ũimiakury</em>
 
 ## Relations with Agreement in `VerbForm`
 

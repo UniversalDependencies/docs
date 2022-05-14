@@ -45,7 +45,7 @@ The following 26 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	joka	joka	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	8	nsubj	8:nsubj	_
 6	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	8	aux	8:aux	_
 7	ole	olla	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
-8	rohjennut	rohjeta	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	acl:relcl	2:acl:relcl	_
+8	rohjennut	rohjeta	VERB	V	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	acl:relcl	2:acl:relcl	_
 9	´	´	PUNCT	Punct	_	2	punct	2:punct	_
 
 ~~~

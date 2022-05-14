@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON
 
 ### `PRON`
 
-916 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (6% of all `PRON` tokens) have a non-empty value of `PrepCase`.
+916 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
 The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (916; 100%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (916; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (793; 87%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (793; 87%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (694; 76%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (536; 59%).
 

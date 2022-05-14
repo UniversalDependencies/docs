@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 4	kuitenkaan	kuitenkaan	ADV	_	_	7	advmod	7:advmod	_
 5	vielä	vielä	ADV	_	_	7	advmod	7:advmod	_
 6	ole	olla	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	7:aux:pass	_
-7	vastattu	vastata	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
+7	vastattu	vastata	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~

@@ -21,7 +21,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ja_bccwjluw-pos-NOU
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (218; 100% of non-empty `Foreign`): _
-* `EMPTY` (225365): _
+* `EMPTY` (225366): _
 
 ## Relations with Agreement in `Foreign`
 

@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-X.html">X</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -22,8 +22,8 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 goeswith	color:blue
-1	Tuõddâr	tuõddâr	NOUN	N	Case=Gen|Number=Sing	3	nsubj	_	GTtags=Sg,Gen
-2	jânnam	jânnam	NOUN	N	Case=Nom|Number=Sing	1	goeswith	_	GTtags=Sg,Nom
+1	Tuõddâr	tuõddâr	NOUN	N	Case=Nom|Number=Sing|Typo=Yes	3	nsubj	_	GTtags=Sg,Gen
+2	jânnam	_	X	N	_	1	goeswith	_	GTtags=Sg,Nom
 3	šõllneškuõʹđež	šõllned	VERB	V	Derivation=InchL|Mood=Pot|Number=Sing|Person=3	0	root	_	GTtags=Der/InchL,Pot,Sg3
 4	di	di	CCONJ	CC	_	6	cc	_	_
 5	reiʹǧǧruʹvdd	reiʹǧǧruʹvdd	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom

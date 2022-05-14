@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-17480 tokens (8%) have a non-empty value of `Mood`.
-3945 types (13%) occur at least once with a non-empty value of `Mood`.
+17473 tokens (8%) have a non-empty value of `Mood`.
+3940 types (12%) occur at least once with a non-empty value of `Mood`.
 1413 lemmas (8%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (12294; 6% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (2777; 1% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (2409; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (12283; 6% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (2781; 1% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (2409; 1% instances).
 
 ### `VERB`
 
-12294 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Mood`.
+12283 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12294; 100%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12294; 100%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10811; 88%), <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8964; 73%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12283; 100%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12283; 100%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10806; 88%), <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8959; 73%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (110; 1% of non-empty `Mood`): <em>lasă, luați, lăsați, Uite, adresați, spuneți, citește, spălați, agitați, ascultă</em>
-* `Ind` (10474; 85% of non-empty `Mood`): <em>poate, trebuie, pot, are, avea, era, putea, există, au, face</em>
-* `Sub` (1710; 14% of non-empty `Mood`): <em>facă, aibă, ia, dea, poată, aplice, vadă, spună, stabilească, prevadă</em>
-* `EMPTY` (10720): <em>avut, prevăzute, putea, făcut, trebui, având, avea, face, spus, putut</em>
+* `Imp` (109; 1% of non-empty `Mood`): <em>lasă, luați, lăsați, adresați, spuneți, Uite, citește, spălați, agitați, ascultă</em>
+* `Ind` (10465; 85% of non-empty `Mood`): <em>poate, trebuie, pot, are, avea, era, putea, există, au, face</em>
+* `Sub` (1709; 14% of non-empty `Mood`): <em>facă, aibă, ia, dea, poată, aplice, vadă, spună, stabilească, prevadă</em>
+* `EMPTY` (10716): <em>avut, prevăzute, putea, făcut, trebui, având, avea, face, spus, putut</em>
 
 <table>
   <tr><th>Paradigm <i>putea</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -48,14 +48,14 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-2777 <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> tokens (32% of all `AUX` tokens) have a non-empty value of `Mood`.
+2781 <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> tokens (32% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2777; 100%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (2694; 97%), <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2276; 82%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1827; 66%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2781; 100%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (2698; 97%), <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2277; 82%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1831; 66%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (2; 0% of non-empty `Mood`): <em>fi, fii</em>
-* `Ind` (2560; 92% of non-empty `Mood`): <em>este, sunt, era, e, erau, fusese, -i, avea, sunteți, eram</em>
+* `Ind` (2564; 92% of non-empty `Mood`): <em>este, sunt, era, e, erau, fusese, avea, -i, sunteți, eram</em>
 * `Sub` (215; 8% of non-empty `Mood`): <em>fie, fii, fiu, fim, fiți</em>
 * `EMPTY` (5782): <em>a, au, fi, fost, va, ar, am, fiind, vor, ai</em>
 
@@ -98,6 +98,6 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="ro_rrt-dep-mark.html">mark</a></tt>]--> PART</tt> (1673; 73%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1331; 79%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (35; 51%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> VERB</tt> (9; 69%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> VERB</tt> (8; 67%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-case.html">case</a></tt>]--> PART</tt> (1; 100%).
 

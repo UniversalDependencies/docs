@@ -32,7 +32,7 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 7	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	6	case	_	ChunkId=NP2|ChunkType=child|Translit=ke
 8	दो	दो	NUM	QC	NumType=Card	9	nummod	_	ChunkId=NP3|ChunkType=child|Translit=do
 9	तल	तल	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	0	root	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=tala
-10	हैं	है	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=haiṁ
+10	हैं	है	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=hE|Translit=haiṁ|Vib=है
 11	।	।	PUNCT	SYM	_	9	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -49,13 +49,13 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	पहचान	पहचान	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=pahacāna
 4	करना	कर	VERB	VM	Case=Nom|VerbForm=Inf	6	nsubj	_	Vib=ना|Tam=nA|ChunkId=VGNN|ChunkType=head|Translit=karanā
 5	मुश्किल	मुश्किल	ADJ	JJ	_	6	obj	_	ChunkId=JJP|ChunkType=head|Translit=muśkila
-6	था	था	VERB	VM	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Vib=था|Tam=WA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=thā
+6	था	था	VERB	VM	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=WA|Translit=thā|Vib=था
 7	कि	कि	SCONJ	CC	_	12	mark	_	AltTag=SCONJ-CONJ|ChunkId=CCP|ChunkType=head|Translit=ki
 8	किसने	कौन	PRON	WQ	Case=Acc,Erg|Number=Sing|Person=3|PronType=Int	12	nsubj	_	Vib=ने|Tam=ne|ChunkId=NP4|ChunkType=head|Translit=kisane
 9	पत्रकारों	पत्रकार	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	11	nmod	_	Vib=0_का|Tam=0|ChunkId=NP5|ChunkType=head|Translit=patrakāroṁ
 10	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	9	case	_	ChunkId=NP5|ChunkType=child|Translit=kī
 11	पिटाई	पिटाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	compound	_	Vib=0|Tam=0|ChunkId=NP6|ChunkType=head|Translit=piṭāī
-12	की	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	2	acl	_	Vib=या|Tam=yA|ChunkId=VGF2|ChunkType=head|Stype=declarative|Translit=kī
+12	की	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	2	acl	_	ChunkId=VGF2|ChunkType=head|Stype=declarative|Tam=yA|Translit=kī|Vib=या
 13	।	।	PUNCT	SYM	_	6	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -78,7 +78,7 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 9	'	'	PUNCT	SYM	_	10	punct	_	SpaceAfter=No|ChunkId=NP5|ChunkType=child|Translit='
 10	आजादी	आजादी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	acl	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=ājādī
 11	'	'	PUNCT	SYM	_	10	punct	_	ChunkId=NP5|ChunkType=child|Translit='
-12	बख्श	बख्श	VERB	VM	Number=Sing|Voice=Act	0	root	_	Vib=0_दे+या|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=bakhśa
+12	बख्श	बख्श	VERB	VM	Number=Sing|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=0|Translit=bakhśa|Vib=0_दे+या
 13	दी	दे	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	12	aux	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=child|Translit=dī
 14	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 

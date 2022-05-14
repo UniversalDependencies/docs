@@ -22,14 +22,14 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nummod	color:blue
-1	νῦν	νῦν	ADV	Df	_	7	advmod	_	ref=1.11.2|LId=1
-2	τοί	σύ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	iobj	_	ref=1.11.2
-3	δυῶν	δύο	NUM	Ma	Case=Gen|Number=Plur	4	nummod	_	ref=1.11.2
-4	ὁδῶν	ὁδός	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	ref=1.11.2
-5	παρεουσέων	πάρειμι	VERB	V-	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	ref=1.11.2|LId=1
-6	Γύγη	Γύγης	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	ref=1.11.2
-7	δίδωμί	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.2
-8	αἵρεσιν	αἵρεσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	ref=1.11.2
+1	νῦν	νῦν	ADV	Df	_	7	advmod	_	LId=1|Ref=1.11.2
+2	τοί	σύ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	iobj	_	Ref=1.11.2
+3	δυῶν	δύο	NUM	Ma	Case=Gen|Number=Plur	4	nummod	_	Ref=1.11.2
+4	ὁδῶν	ὁδός	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	Ref=1.11.2
+5	παρεουσέων	πάρειμι	VERB	V-	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	LId=1|Ref=1.11.2
+6	Γύγη	Γύγης	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	Ref=1.11.2
+7	δίδωμί	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.11.2
+8	αἵρεσιν	αἵρεσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Ref=1.11.2
 
 ~~~
 
@@ -40,15 +40,15 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 nummod	color:blue
-1	οὗτοι	οὗτος	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=7.83.1
-2	ἦσαν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	ref=7.83.1|LId=1
-3	στρατηγοὶ	στρατηγός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=7.83.1
-4	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=7.83.1
-5	σύμπαντος	σύμπας	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	ref=7.83.1
-6	πεζοῦ	πεζός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	nmod	_	ref=7.83.1
-7	χωρὶς	χωρίς	ADP	R-	_	9	case	_	ref=7.83.1
-8	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	ref=7.83.1
-9	μυρίων	μύριοι	NUM	Ma	Case=Gen|Gender=Neut|Number=Plur	5	nummod	_	ref=7.83.1
+1	οὗτοι	οὗτος	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Ref=7.83.1
+2	ἦσαν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	LId=1|Ref=7.83.1
+3	στρατηγοὶ	στρατηγός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=7.83.1
+4	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Ref=7.83.1
+5	σύμπαντος	σύμπας	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	Ref=7.83.1
+6	πεζοῦ	πεζός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	nmod	_	Ref=7.83.1
+7	χωρὶς	χωρίς	ADP	R-	_	9	case	_	Ref=7.83.1
+8	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	Ref=7.83.1
+9	μυρίων	μύριοι	NUM	Ma	Case=Gen|Gender=Neut|Number=Plur	5	nummod	_	Ref=7.83.1
 
 ~~~
 
@@ -59,14 +59,14 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 nummod	color:blue
-1	καὶ	καί	CCONJ	C-	_	0	root	_	ref=ROM_5.16
-2	οὐχ	οὐ	ADV	Df	Polarity=Neg	1	advmod	_	ref=ROM_5.16
-3	ὡς	ὡς	ADV	Df	_	1	advmod	_	ref=ROM_5.16
-4	δι’	διά	ADP	R-	_	6	case	_	ref=ROM_5.16
-5	ἑνὸς	εἷς	NUM	Ma	Case=Gen|Gender=Masc,Neut|Number=Sing	6	nummod	_	ref=ROM_5.16
-6	ἁμαρτήσαντος	ἁμαρτάνω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	ref=ROM_5.16
-7	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	ref=ROM_5.16
-8	δώρημα	δώρημα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=ROM_5.16
+1	καὶ	καί	CCONJ	C-	_	0	root	_	Ref=ROM_5.16
+2	οὐχ	οὐ	ADV	Df	Polarity=Neg	1	advmod	_	Ref=ROM_5.16
+3	ὡς	ὡς	ADV	Df	_	1	advmod	_	Ref=ROM_5.16
+4	δι’	διά	ADP	R-	_	6	case	_	Ref=ROM_5.16
+5	ἑνὸς	εἷς	NUM	Ma	Case=Gen|Gender=Masc,Neut|Number=Sing	6	nummod	_	Ref=ROM_5.16
+6	ἁμαρτήσαντος	ἁμαρτάνω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	Ref=ROM_5.16
+7	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	Ref=ROM_5.16
+8	δώρημα	δώρημα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	Ref=ROM_5.16
 
 ~~~
 

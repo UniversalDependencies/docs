@@ -129,7 +129,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem,Neut` (51; 44% of non-empty `Gender`): <em>nabyla, určila, překročila, sestavila, stanovila, podávala, provedla, dospěla, mohla, měla</em>
 * `Masc` (11; 9% of non-empty `Gender`): <em>Dal, dozvěděl, mohl, nepožádali, nezahájil, počínaje, přesáhl, rovnal, schválili, stal</em>
 * `Neut` (19; 16% of non-empty `Gender`): <em>došlo, trvalo, započalo, mohlo, přešlo, uzavřelo</em>
-* `EMPTY` (1741): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, vést, musí, účtuje</em>
+* `EMPTY` (1725): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, vést, musí, účtuje</em>
 
 <table>
   <tr><th>Paradigm <i>moci</i></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
@@ -162,7 +162,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `AUX`
 
-59 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (10% of all `AUX` tokens) have a non-empty value of `Gender`.
+59 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (9% of all `AUX` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (59; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (59; 100%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (59; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (47; 80%).
 
@@ -172,7 +172,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Fem,Neut` (9; 15% of non-empty `Gender`): <em>byla, nebyla</em>
 * `Masc` (14; 24% of non-empty `Gender`): <em>byl, nebyl</em>
 * `Neut` (10; 17% of non-empty `Gender`): <em>bylo</em>
-* `EMPTY` (557): <em>je, jsou, není, nejsou, být, by, bude, budou</em>
+* `EMPTY` (573): <em>je, jsou, není, nejsou, být, by, bude, budou</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>

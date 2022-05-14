@@ -22,13 +22,13 @@ The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 dep	color:blue
-1	видѧше	видѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=88.17
-2	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	dep	_	ref=88.17
-3	и	и	CCONJ	C-	_	1	cc	_	ref=88.17
-4	славѧше	славити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=88.17
-5	егда	егда	ADV	Dq	PronType=Rel	7	advmod	_	ref=88.17
-6	ан҃гли	ангелъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=88.17
-7	славѧх	славити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	ref=88.17
+1	видѧше	видѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=88.17
+2	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	dep	_	Ref=88.17
+3	и	и	CCONJ	C-	_	1	cc	_	Ref=88.17
+4	славѧше	славити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Ref=88.17
+5	егда	егда	ADV	Dq	PronType=Rel	7	advmod	_	Ref=88.17
+6	ан҃гли	ангелъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	Ref=88.17
+7	славѧх	славити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	Ref=88.17
 
 ~~~
 
@@ -39,11 +39,11 @@ The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 dep	color:blue
-1	и	и	CCONJ	C-	_	3	cc	_	ref=94.19
-2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=94.19
-3	послуша	послушати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=94.19
-4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	dep	_	ref=94.19
-5	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=94.19
+1	и	и	CCONJ	C-	_	3	cc	_	Ref=94.19
+2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	Ref=94.19
+3	послуша	послушати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=94.19
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	dep	_	Ref=94.19
+5	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=94.19
 
 ~~~
 
@@ -54,10 +54,10 @@ The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 dep	color:blue
-1	и	и	CCONJ	C-	_	3	cc	_	ref=25
-2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=25
-3	видах	видати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25
-4	ничево	ничьто	ADJ	Px	Case=Gen|Gender=Neut|Number=Sing	3	dep	_	ref=25
+1	и	и	CCONJ	C-	_	3	cc	_	Ref=25
+2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	Ref=25
+3	видах	видати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=25
+4	ничево	ничьто	ADJ	Px	Case=Gen|Gender=Neut|Number=Sing	3	dep	_	Ref=25
 
 ~~~
 

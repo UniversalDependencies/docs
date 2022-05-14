@@ -63,7 +63,7 @@ The following 6 pairs of parts of speech are connected with `advmod:foc`: <tt><a
 # visual-style 9 8 advmod:foc	color:blue
 1	Секе	секе	DET	Det	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
 2	берянесь	берянь	NOUN	N	Case=Nom|Definite=Def|Number=Sing	1	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
-3	:	:	PUNCT	CLB	_	1	punct	_	_
+3	:	:	PUNCT	CLB	_	7	punct	_	_
 4	сёвонень	сёвонень	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod	_	GTtags=SP,Gen,Indef
 5	истямо	истямо	DET	Det	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Nom,Indef
 6	парцунс	парцун	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	7	obl	_	GTtags=Sem/Inanim_Cnt,SP,Ill,Indef

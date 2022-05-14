@@ -58,9 +58,9 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 6 case	color:blue
 1	Sisko	sisko	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	käynyt	käydä	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	käynyt	käydä	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	ja	ja	CCONJ	_	_	4	cc	_	_
-4	jutellut	jutella	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	_
+4	jutellut	jutella	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	_
 5	Virtasen	Virtanen	PROPN	_	Case=Gen|Number=Sing	4	obl	_	_
 6	kanssa	kanssa	ADP	_	AdpType=Post	5	case	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_

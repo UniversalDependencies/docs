@@ -22,14 +22,14 @@ The following 28 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 vocative	color:blue
-1	atta	atta	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	ref=MATT_6.9
-2	unsar	unsar	ADJ	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	nmod	_	ref=MATT_6.9
-3	þu	þu	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	appos	_	ref=MATT_6.9
-4	in	in	ADP	R-	_	5	case	_	ref=MATT_6.9
-5	himinam	himins	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	nmod	_	ref=MATT_6.9
-6	weihnai	weihnan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.9
-7	namo	namo	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_6.9
-8	þein	þeins	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	7	nmod	_	ref=MATT_6.9
+1	atta	atta	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	Ref=MATT_6.9
+2	unsar	unsar	ADJ	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	nmod	_	Ref=MATT_6.9
+3	þu	þu	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	appos	_	Ref=MATT_6.9
+4	in	in	ADP	R-	_	5	case	_	Ref=MATT_6.9
+5	himinam	himins	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	nmod	_	Ref=MATT_6.9
+6	weihnai	weihnan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.9
+7	namo	namo	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=MATT_6.9
+8	þein	þeins	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	7	nmod	_	Ref=MATT_6.9
 
 ~~~
 
@@ -40,10 +40,10 @@ The following 28 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
-1	amen	amen	INTJ	I-	_	3	vocative	_	ref=MATT_5.18
-2	auk	auk	ADV	Df	_	3	discourse	_	ref=MATT_5.18
-3	qiþa	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.18
-4	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=MATT_5.18
+1	amen	amen	INTJ	I-	_	3	vocative	_	Ref=MATT_5.18
+2	auk	auk	ADV	Df	_	3	discourse	_	Ref=MATT_5.18
+3	qiþa	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.18
+4	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	Ref=MATT_5.18
 
 ~~~
 
@@ -54,11 +54,11 @@ The following 28 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 vocative	color:blue
-1	Seimon	Seimon	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=LUKE_7.40
-2	skal	skulan*	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.40
-3	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	iobj	_	ref=LUKE_7.40
-4	ƕa	ƕas	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	ref=LUKE_7.40
-5	qiþan	qiþan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=LUKE_7.40
+1	Seimon	Seimon	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Ref=LUKE_7.40
+2	skal	skulan*	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_7.40
+3	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	iobj	_	Ref=LUKE_7.40
+4	ƕa	ƕas	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=LUKE_7.40
+5	qiþan	qiþan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	Ref=LUKE_7.40
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (1%) are attached to their parents as `xcomp`.
+17 nodes (1%) are attached to their parents as `xcomp`.
 
-14 instances of `xcomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57142857142857.
+17 instances of `xcomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.47058823529412.
 
-The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (9; 64% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (5; 36% instances).
+The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (11; 65% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (6; 35% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 xcomp	color:blue
-1	Ә	ә	CCONJ	_	_	6	cc	_	LangID=TT
+1	Ә	ә	CCONJ	_	_	5	cc	_	LangID=TT
 2	милләтле	милләтле	ADJ	_	_	3	amod	_	LangID=TT
-3	халык	халык	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	LangID=TT
+3	халык	халык	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
 4	телле	телле	NOUN	_	_	5	xcomp	_	LangID=TT
-5	булырга	бул	VERB	_	VerbForm=Inf	6	advcl	_	LangID=TT
-6	тиеш	тиеш	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
+5	булырга	бул	VERB	_	VerbForm=Inf	0	root	_	LangID=TT
+6	тиеш	тиеш	AUX	_	_	5	aux	_	LangID=TT|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
 
 ~~~
 

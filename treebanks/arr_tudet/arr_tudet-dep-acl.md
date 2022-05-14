@@ -23,9 +23,9 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 1	fgColor:white
 # visual-style 1 4 acl	color:blue
 1	mãygãra	mãygãra	NOUN	n	_	0	root	_	_
-2	cú	_	ADJ	adj	_	1	amod	_	_
+2	cú	cú	ADJ	adj	_	1	amod	_	_
 3	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
-4	iwĩm	_	VERB	v	Decl=AssertFoc|Person=3Imp	1	acl	_	_
+4	iwĩm	wĩ	VERB	v	Decl=AssertFoc|Person=3Imp	1	acl	_	_
 5	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
 
 ~~~
@@ -37,11 +37,11 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 acl	color:blue
-1	mekõm	_	ADP	adp	_	0	root	_	_
+1	mekõm	mekõm	ADP	adp	_	0	root	_	_
 2	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	_	_
-3	iʔyat	_	PRON	pron	Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
-4	kotigap	_	VERB	v	Decl=AssertFoc	1	acl	_	_
-5	mɨy	_	ADV	adv	_	4	advmod	_	_
+3	iʔyat	iʔyat	PRON	pron	Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
+4	kotigap	kotiga	VERB	v	Decl=AssertFoc	1	acl	_	_
+5	mɨy	mɨy	ADV	adv	_	4	advmod	_	_
 6	mãm	mãm	PART	part	_	1	discourse	_	_
 
 ~~~

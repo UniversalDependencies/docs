@@ -13,7 +13,7 @@ Some words have combined values of the feature; 5 combinations have been observe
 1859 tokens (1%) have a non-empty value of `Clitic`.
 1076 types (2%) occur at least once with a non-empty value of `Clitic`.
 576 lemmas (2%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 11 part-of-speech tags: <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (595; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (406; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (260; 0% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (248; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (210; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (79; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="fi_tdt-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (595; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (406; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (260; 0% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (247; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (210; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (80; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="fi_tdt-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 ### `AUX`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `AUX` and `Clitic` co-occurred
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Han</tt></th><th><tt>Kaan</tt></th><th><tt>Kin</tt></th><th><tt>Ko</tt></th><th><tt>Ko,S</tt></th><th><tt>Pa</tt></th><th><tt>Pa,S</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>ollutkaan</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>ollutkaan</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>olisikaan</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>olekkaan</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>olekaan</em></td><td><em>olekin</em></td><td></td><td></td><td></td><td></td></tr>
@@ -68,7 +68,7 @@ The most frequent other feature values with which `AUX` and `Clitic` co-occurred
 
 406 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (379; 93%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (376; 93%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (376; 93%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (365; 90%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (358; 88%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (349; 86%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (286; 70%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (279; 69%).
+The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (379; 93%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (376; 93%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (365; 90%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (358; 88%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (349; 86%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (286; 70%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (279; 69%).
 
 `VERB` tokens may have the following values of `Clitic`:
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `VERB` and `Clitic` co-occurre
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Han</tt></th><th><tt>Han,Ko</tt></th><th><tt>Kaan</tt></th><th><tt>Kin</tt></th><th><tt>Ko</tt></th><th><tt>Ko,S</tt></th><th><tt>Pa</tt></th><th><tt>Pa,S</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>ollutkaan</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>ollutkaan</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>Olisikohan</em></td><td></td><td></td><td><em>Olisiko</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=0</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td></td><td></td><td><em>Onko</em></td><td></td><td></td><td><em>Onpas</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td></td><td><em>olenkin</em></td><td></td><td></td><td></td><td></td></tr>
@@ -121,15 +121,15 @@ The most frequent other feature values with which `ADV` and `Clitic` co-occurred
 
 ### `NOUN`
 
-248 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Clitic`.
+247 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `NOUN` and `Clitic` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (218; 88%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (174; 70%).
+The most frequent other feature values with which `NOUN` and `Clitic` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (217; 88%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (173; 70%).
 
 `NOUN` tokens may have the following values of `Clitic`:
 
-* `Han` (23; 9% of non-empty `Clitic`): <em>Pakkohan, työllähän, Kyseessähän, Käytännössähän, Ongelmahan, Pojallehan, helpotushan, herkkuahan, herkkuhan, hinnathan</em>
+* `Han` (22; 9% of non-empty `Clitic`): <em>Pakkohan, työllähän, Kyseessähän, Käytännössähän, Ongelmahan, Pojallehan, helpotushan, herkkuahan, herkkuhan, hinnathan</em>
 * `Kaan` (45; 18% of non-empty `Clitic`): <em>epäilystäkään, hetkeksikään, kertaakaan, Internet-myyntikään, Kilpailijoillekaan, Päivääkään, aavistustakaan, aikaakaan, alentamiseenkaan, askeleenkaan</em>
-* `Kin` (177; 71% of non-empty `Clitic`): <em>jatkossakin, roskiksetki, tekstikin, vuosienkin, -nauhakin, 1970-luvullakin, Ajatuskin, CD-soitinkin, Jussikin, Juustokin</em>
+* `Kin` (177; 72% of non-empty `Clitic`): <em>jatkossakin, roskiksetki, tekstikin, vuosienkin, -nauhakin, 1970-luvullakin, Ajatuskin, CD-soitinkin, Jussikin, Juustokin</em>
 * `Ko` (3; 1% of non-empty `Clitic`): <em>Taruako, pulujako, talkkunapäätäkö</em>
 
 <table>
@@ -140,7 +140,7 @@ The most frequent other feature values with which `NOUN` and `Clitic` co-occurre
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>miehensäkään</em></td><td></td></tr>
 </table>
 
-`Clitic` seems to be **lexical feature** of `NOUN`. 95% lemmas (203) occur only with one value of `Clitic`.
+`Clitic` seems to be **lexical feature** of `NOUN`. 95% lemmas (202) occur only with one value of `Clitic`.
 
 ### `PRON`
 
@@ -178,23 +178,24 @@ The most frequent other feature values with which `PRON` and `Clitic` co-occurre
 
 ### `ADJ`
 
-79 <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Clitic`.
+80 <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `ADJ` and `Clitic` co-occurred: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (60; 76%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (57; 72%), <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (52; 66%).
+The most frequent other feature values with which `ADJ` and `Clitic` co-occurred: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61; 76%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (58; 73%), <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (53; 66%).
 
 `ADJ` tokens may have the following values of `Clitic`:
 
-* `Han` (2; 3% of non-empty `Clitic`): <em>mukavahan, näköistähän</em>
+* `Han` (3; 4% of non-empty `Clitic`): <em>hyvähän, mukavahan, näköistähän</em>
 * `Kaan` (12; 15% of non-empty `Clitic`): <em>edellisestäkään, nykyisissäkään, parempaakaan, parempiakaan, pienelläkään, pienintäkään, ruskeakaan, seuraavallakaan, suurtakaan, valmiskaan</em>
 * `Kin` (62; 78% of non-empty `Clitic`): <em>entistäkin, viimeisetkin, Nerokkainkin, Normaalimmankin, Pelottavakin, Pienenkin, Seuraavallakin, Tällaistakin, aikaisempaakin, alakohtaisiakin</em>
 * `Ko` (2; 3% of non-empty `Clitic`): <em>Vanhako, paperisenko</em>
 * `Pa` (1; 1% of non-empty `Clitic`): <em>korkeallepa</em>
 
 <table>
-  <tr><th>Paradigm <i>hyvä</i></th><th><tt>Kaan</tt></th><th><tt>Kin</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>hyvääkin</em></td></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>parempaakaan</em></td><td><em>parempaakin</em></td></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>parempiakaan</em></td><td></td></tr>
+  <tr><th>Paradigm <i>hyvä</i></th><th><tt>Han</tt></th><th><tt>Kaan</tt></th><th><tt>Kin</tt></th></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>hyvähän</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>hyvääkin</em></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>parempaakaan</em></td><td><em>parempaakin</em></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>parempiakaan</em></td><td></td></tr>
 </table>
 
 ### `PROPN`

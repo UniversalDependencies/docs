@@ -18,13 +18,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.htm
 
 1158 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1158; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1158; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1158; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1158; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1158; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1158; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (944; 82%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (899; 78%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (721; 62%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1158; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1158; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1158; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1158; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1158; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (944; 82%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (899; 78%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (721; 62%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (717; 62% of non-empty `Tense`): <em>sanoi, tuli, kertoi, alkoi, johti, sai, syntyi, teki, rakennettiin, käytettiin</em>
 * `Pres` (441; 38% of non-empty `Tense`): <em>tulee, sanoo, auttaa, pidetään, kuuluvat, toimii, alkaa, haluaa, kuuluu, liittyy</em>
-* `EMPTY` (859): <em>tehdä, liittyen, lukien, olemassa, tullut, johtaa, johtuen, käytetty, käyttämällä, nähdä</em>
+* `EMPTY` (857): <em>tehdä, liittyen, lukien, olemassa, tullut, johtaa, johtuen, käytetty, käyttämällä, nähdä</em>
 
 <table>
   <tr><th>Paradigm <i>tulla</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

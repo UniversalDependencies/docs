@@ -49,7 +49,7 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 5	гӧг	гӧг	NOUN	N	Case=Nom|Number=Sing	6	compound	_	_
 6	баб	баб	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
 7	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	SpaceAfter=No
-8	:	:	PUNCT	CLB	_	6	punct	_	_
+8	:	:	PUNCT	CLB	_	12	punct	_	_
 9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 10	зэй	зэй	ADV	Adv	_	12	advmod:deg	_	_
 11	уна	уна	ADV	Adv	_	12	advmod	_	_

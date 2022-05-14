@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Arch`, `Coll`.
 
-1593 tokens (1%) have a non-empty value of `Style`.
-771 types (1%) occur at least once with a non-empty value of `Style`.
-457 lemmas (2%) occur at least once with a non-empty value of `Style`.
-The feature is used with 12 part-of-speech tags: <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (378; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (353; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (273; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (177; 0% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (157; 0% instances), <tt><a href="fi_tdt-pos-SCONJ.html">SCONJ</a></tt> (117; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (63; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="fi_tdt-pos-INTJ.html">INTJ</a></tt> (7; 0% instances).
+1592 tokens (1%) have a non-empty value of `Style`.
+770 types (1%) occur at least once with a non-empty value of `Style`.
+456 lemmas (2%) occur at least once with a non-empty value of `Style`.
+The feature is used with 12 part-of-speech tags: <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (378; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (353; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (273; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (177; 0% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (156; 0% instances), <tt><a href="fi_tdt-pos-SCONJ.html">SCONJ</a></tt> (117; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (63; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="fi_tdt-pos-INTJ.html">INTJ</a></tt> (7; 0% instances).
 
 ### `PRON`
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `PRON` and `Style` co-occurred
 
 353 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (326; 92%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (309; 88%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (286; 81%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (286; 81%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (267; 76%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (242; 69%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (200; 57%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (196; 56%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (326; 92%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (309; 88%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (286; 81%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (267; 76%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (242; 69%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (200; 57%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (196; 56%).
 
 `VERB` tokens may have the following values of `Style`:
 
@@ -63,16 +63,16 @@ The most frequent other feature values with which `AUX` and `Style` co-occurred:
 
 ### `NOUN`
 
-157 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Style`.
+156 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (148; 94%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125; 80%).
+The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (147; 94%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (124; 79%).
 
 `NOUN` tokens may have the following values of `Style`:
 
 * `Arch` (1; 1% of non-empty `Style`): <em>pääskysein</em>
-* `Coll` (156; 99% of non-empty `Style`): <em>ajas, alakerras, daideilijaa, kauppaa, kelloo, nurtsi, roskiksetki, stevarin, tilan, veres</em>
+* `Coll` (155; 99% of non-empty `Style`): <em>ajas, alakerras, daideilijaa, kauppaa, kelloo, nurtsi, roskiksetki, stevarin, tilan, veres</em>
 
-`Style` seems to be **lexical feature** of `NOUN`. 100% lemmas (129) occur only with one value of `Style`.
+`Style` seems to be **lexical feature** of `NOUN`. 100% lemmas (128) occur only with one value of `Style`.
 
 ### `SCONJ`
 

@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 appos	color:blue
-1	taptoba	_	VERB	v	Number=Plur|Person=3|VerbForm=Ger	0	root	_	_
+1	taptoba	top	VERB	v	Number=Plur|Person=3|VerbForm=Ger	0	root	_	_
 2	kaʔto	kaʔto	PRON	pron	Number=Plur|Person=2	1	appos	_	_
 
 ~~~
@@ -36,11 +36,11 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 3 6 appos	color:blue
 1	maʔwɨr	maʔwɨt	NOUN	n	_	3	nmod	_	_
 2	at	at	PART	part	_	1	case	_	_
-3	pewit	_	NOUN	n	_	0	root	_	_
-4	,	_	PUNCT	punct	_	3	punct	_	_
-5	ŋaat	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
-6	pewit	_	NOUN	n	_	3	appos	_	_
-7	koãm	_	PART	part	_	6	mark	_	_
+3	pewit	pewit	NOUN	n	_	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	ŋaat	ŋaat	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+6	pewit	pewit	NOUN	n	_	3	appos	_	_
+7	koãm	koãm	PART	part	_	6	mark	_	_
 
 ~~~
 

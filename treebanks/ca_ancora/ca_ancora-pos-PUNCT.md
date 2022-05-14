@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="ca_ancora-pos-PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.415132).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.416268).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -45,7 +45,7 @@ Examples: <em>,, ..., [, ], .</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ca_ancora-dep-punct.html">punct</a></tt> (57270; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (24837; 43% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (14289; 25% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (8648; 15% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (3857; 7% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1806; 3% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (840; 1% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (817; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (715; 1% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (570; 1% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (271; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (201; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (187; 0% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (110; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (87; 0% instances), <tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (15; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (24837; 43% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (14289; 25% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (8649; 15% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (3857; 7% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1806; 3% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (840; 1% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (817; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (714; 1% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (570; 1% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (271; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (201; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (187; 0% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (110; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (87; 0% instances), <tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (15; 0% instances)
 
 57260 (100%) `PUNCT` nodes are leaves.
 

@@ -12,8 +12,8 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 193935 tokens (35%) have a non-empty value of `Gender`.
 14346 types (44%) occur at least once with a non-empty value of `Gender`.
-9860 lemmas (42%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (85297; 16% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (75858; 14% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (20208; 4% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (6815; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (3743; 1% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1357; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (650; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+9829 lemmas (42%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (85297; 16% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (75857; 14% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (20208; 4% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (6815; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (3742; 1% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1357; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (650; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -33,18 +33,18 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>casos</em></td><td><em>cas</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (6533) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (6523) occur only with one value of `Gender`.
 
 ### `DET`
 
-75858 <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Gender`.
+75857 <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (58300; 77%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57984; 76%), <tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (53933; 71%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (58300; 77%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57983; 76%), <tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (53933; 71%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (33547; 44% of non-empty `Gender`): <em>la, les, una, seva, aquesta, seves, aquestes, totes, altra, tota</em>
-* `Masc` (42311; 56% of non-empty `Gender`): <em>el, els, un, aquest, seu, seus, aquests, tots, tot, mateix</em>
+* `Masc` (42310; 56% of non-empty `Gender`): <em>el, els, un, aquest, seu, seus, aquests, tots, tot, mateix</em>
 * `EMPTY` (11410): <em>l', altres, cap, cada, diferents, qualsevol, qual, nostres, meva, prou</em>
 
 <table>
@@ -96,21 +96,21 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `PRON`
 
-3743 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (16% of all `PRON` tokens) have a non-empty value of `Gender`.
+3742 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (16% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (3743; 100%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3743; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2966; 79%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2546; 68%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2205; 59%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (3742; 100%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3742; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2965; 79%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2545; 68%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2205; 59%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (909; 24% of non-empty `Gender`): <em>la, una, les, aquesta, altra, unes, ella, algunes, totes, elles</em>
 * `Fem,Masc` (176; 5% of non-empty `Gender`): <em>l'</em>
-* `Masc` (2325; 62% of non-empty `Gender`): <em>un, tot, el, ell, uns, lo, ells, alguns, aquest, tots</em>
+* `Masc` (2324; 62% of non-empty `Gender`): <em>un, tot, el, ell, uns, lo, ells, alguns, aquest, tots</em>
 * `Neut` (333; 9% of non-empty `Gender`): <em>ho, -ho</em>
 * `EMPTY` (19712): <em>que, es, s', hi, se, li, on, què, això, qual</em>
 
 <table>
   <tr><th>Paradigm <i>ell</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>l'</em></td><td><em>el, lo, 'l, -lo</em></td><td><em>la, -la</em></td><td><em>ho, -ho</em></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>l'</em></td><td><em>el, lo, 'l, -lo, l</em></td><td><em>la, -la</em></td><td><em>ho, -ho</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>les</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ell</em></td><td><em>ella</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ells</em></td><td><em>elles</em></td><td></td></tr>
@@ -132,7 +132,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
   <tr><th>Paradigm <i>dos</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>dos</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>dos</em></td><td><em>dues</em></td></tr>
-  <tr><td><tt></tt></td><td><em>dos</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>dos</em></td><td><em>dues</em></td></tr>
 </table>
 
 ### `AUX`
@@ -148,12 +148,12 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 ### `PROPN`
 
-6 <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Gender`.
+8 <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (2; 33% of non-empty `Gender`): <em>Companyia, Font</em>
-* `Masc` (4; 67% of non-empty `Gender`): <em>Cobain, Justícia, Kurt, Pla</em>
+* `Fem` (4; 50% of non-empty `Gender`): <em>Seu, Companyia, Font</em>
+* `Masc` (4; 50% of non-empty `Gender`): <em>Cobain, Justícia, Kurt, Pla</em>
 * `EMPTY` (46655): <em>Catalunya, Barcelona, Generalitat, Govern, sant, Ajuntament, Girona, Josep, CiU, PP</em>
 
 ### `SYM`

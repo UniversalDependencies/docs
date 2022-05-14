@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-76 nodes (3%) are attached to their parents as `root`.
+83 nodes (3%) are attached to their parents as `root`.
 
-76 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.38157894736842.
+83 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.46987951807229.
 
-The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (63; 83% instances), -<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), -<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (5; 7% instances), -<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 1% instances), -<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (66; 80% instances), -<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (8; 10% instances), -<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (6; 7% instances), -<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 1% instances), -<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), -<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

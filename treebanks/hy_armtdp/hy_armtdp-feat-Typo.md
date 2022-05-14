@@ -90,7 +90,7 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 ### `X`
 
-1 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Typo`.
+1 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Typo`.
 
 The most frequent other feature values with which `X` and `Typo` co-occurred: <tt><a href="hy_armtdp-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (1; 100%).
 

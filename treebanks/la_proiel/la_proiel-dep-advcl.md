@@ -22,14 +22,14 @@ The following 68 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 advcl	color:blue
-1	nolite	nolo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.17
-2	putare	puto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=MATT_5.17
-3	quoniam	quoniam	SCONJ	G-	_	4	mark	_	ref=MATT_5.17
-4	veni	venio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=MATT_5.17
-5	solvere	solvo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	ref=MATT_5.17
-6	legem	lex	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=MATT_5.17
-7	aut	aut	CCONJ	C-	_	6	cc	_	ref=MATT_5.17
-8	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	ref=MATT_5.17
+1	nolite	nolo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.17
+2	putare	puto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	Ref=MATT_5.17
+3	quoniam	quoniam	SCONJ	G-	_	4	mark	_	Ref=MATT_5.17
+4	veni	venio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	Ref=MATT_5.17
+5	solvere	solvo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	Ref=MATT_5.17
+6	legem	lex	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Ref=MATT_5.17
+7	aut	aut	CCONJ	C-	_	6	cc	_	Ref=MATT_5.17
+8	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	Ref=MATT_5.17
 
 ~~~
 
@@ -40,15 +40,15 @@ The following 68 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 advcl	color:blue
-1	et	et	CCONJ	C-	_	2	cc	_	ref=LUKE_5.7
-2	venerunt	venio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_5.7
-3	et	et	CCONJ	C-	_	2	cc	_	ref=LUKE_5.7
-4	impleverunt	impleo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=LUKE_5.7
-5	ambas	ambo	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	ref=LUKE_5.7
-6	naviculas	navicula	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	ref=LUKE_5.7
-7	ita	ita	ADV	Df	_	4	advmod	_	ref=LUKE_5.7
-8	ut	ut	SCONJ	G-	_	9	mark	_	ref=LUKE_5.7
-9	mergerentur	mergo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	advcl	_	ref=LUKE_5.7
+1	et	et	CCONJ	C-	_	2	cc	_	Ref=LUKE_5.7
+2	venerunt	venio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_5.7
+3	et	et	CCONJ	C-	_	2	cc	_	Ref=LUKE_5.7
+4	impleverunt	impleo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Ref=LUKE_5.7
+5	ambas	ambo	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	Ref=LUKE_5.7
+6	naviculas	navicula	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	Ref=LUKE_5.7
+7	ita	ita	ADV	Df	_	4	advmod	_	Ref=LUKE_5.7
+8	ut	ut	SCONJ	G-	_	9	mark	_	Ref=LUKE_5.7
+9	mergerentur	mergo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	advcl	_	Ref=LUKE_5.7
 
 ~~~
 
@@ -59,12 +59,12 @@ The following 68 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 advcl	color:blue
-1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=MATT_5.4
-2	mites	mitis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	ref=MATT_5.4
-3	quoniam	quoniam	SCONJ	G-	_	5	mark	_	ref=MATT_5.4
-4	ipsi	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	ref=MATT_5.4
-5	possidebunt	possideo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	ref=MATT_5.4
-6	terram	terra	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=MATT_5.4
+1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	Ref=MATT_5.4
+2	mites	mitis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	Ref=MATT_5.4
+3	quoniam	quoniam	SCONJ	G-	_	5	mark	_	Ref=MATT_5.4
+4	ipsi	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Ref=MATT_5.4
+5	possidebunt	possideo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	Ref=MATT_5.4
+6	terram	terra	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Ref=MATT_5.4
 
 ~~~
 

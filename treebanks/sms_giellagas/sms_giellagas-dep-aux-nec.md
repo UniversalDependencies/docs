@@ -9,7 +9,7 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="sms_giellagas-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="sms_giellagas-dep-aux-tense.html">aux:tense</a></tt>.
 
-13 nodes (1%) are attached to their parents as `aux:nec`.
+13 nodes (0%) are attached to their parents as `aux:nec`.
 
 11 instances of `aux:nec` (85%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.07692307692308.

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `NUM`
 
 There are 6 `NUM` lemmas (1%), 8 `NUM` types (1%) and 17 `NUM` tokens (1%).
-Out of 15 observed tags, the rank of `NUM` is: 14 in number of lemmas, 13 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 14 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>kueʹhtt, koumm, õhtt, čiččâm, kuâhttlovitt, vitmlo</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.333333 (the average of all parts of speech is 1.444906).
+The form / lemma ratio of `NUM` is 1.333333 (the average of all parts of speech is 1.453465).
 
 The 1st highest number of forms (3) was observed with the lemma “koumm”: <em>kooum, kooumâst, koummân</em>.
 

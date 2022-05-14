@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (5; 100% of non-empty `Abbr`): <em>ET, N, S, Sp, U</em>
-* `EMPTY` (52217): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52197): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 ### `CCONJ`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>GT, P, TD, FK</em>
-* `EMPTY` (30770): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
+* `EMPTY` (30676): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
 
 ### `ADP`
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>usw</em>
-* `EMPTY` (14855): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14843): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ### `NUM`
 
@@ -72,18 +72,18 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>T</em>
-* `EMPTY` (7452): <em>zwei, drei, vier, 2007, fünf, 2006, 2009, sechs, 2010, 1</em>
+* `EMPTY` (7406): <em>zwei, drei, vier, 2007, fünf, 2006, 2009, sechs, 2010, 2008</em>
 
 ### `PRON`
 
 1 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>Mrd</em>
-* `EMPTY` (14469): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
+* `EMPTY` (14202): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
 
 ### `VERB`
 

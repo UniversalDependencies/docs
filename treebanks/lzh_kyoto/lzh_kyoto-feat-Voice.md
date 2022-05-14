@@ -23,5 +23,5 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 `AUX` tokens may have the following values of `Voice`:
 
 * `Pass` (70; 100% of non-empty `Voice`): 被、 見
-* `EMPTY` (4825): 爲、 可、 能、 為、 欲、 敢、 得、 足、 宜、 肯
+* `EMPTY` (4951): 爲、 可、 為、 能、 欲、 敢、 得、 足、 宜、 應
 

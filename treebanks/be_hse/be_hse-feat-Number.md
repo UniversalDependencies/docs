@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-157202 tokens (52%) have a non-empty value of `Number`.
+157204 tokens (52%) have a non-empty value of `Number`.
 46238 types (90%) occur at least once with a non-empty value of `Number`.
-20687 lemmas (71%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (71319; 23% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (25159; 8% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (23493; 8% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (18878; 6% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (10093; 3% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (6218; 2% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1784; 1% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (217; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+20682 lemmas (71%) occur at least once with a non-empty value of `Number`.
+The feature is used with 11 part-of-speech tags: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (71319; 23% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (25159; 8% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (23493; 8% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (18880; 6% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (10093; 3% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (6218; 2% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1784; 1% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (217; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -22,17 +22,18 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (20396; 29% of non-empty `Number`): <em>людзей, гадоў, людзі, чалавек, беларусаў, сябры, гады, беларусы, тысяч, рублёў</em>
-* `Sing` (50923; 71% of non-empty `Number`): <em>дзень, годзе, час, года, году, відэа, год, сакавіка, красавіка, сядзіба</em>
-* `EMPTY` (1233): <em>Арт, г., вул., км, смі, ст., BYN, АМАП, рэж., в.</em>
+* `Plur` (20369; 29% of non-empty `Number`): <em>людзей, гадоў, людзі, чалавек, беларусаў, сябры, гады, беларусы, тысяч, рублёў</em>
+* `Sing` (50950; 71% of non-empty `Number`): <em>дзень, годзе, час, года, году, відэа, год, сакавіка, красавіка, сядзіба</em>
+* `EMPTY` (1234): <em>Арт, г., вул., км, смі, ст., BYN, АМАП, рэж., в.</em>
 
 <table>
   <tr><th>Paradigm <i>год</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>год</em></td><td><em>гады, гадоў, годы</em></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="be_hse-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>гады</em></td></tr>
   <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>года, году, гадоу</em></td><td><em>гадоў, год</em></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="be_hse-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>гады, годзе</em></td><td></td></tr>
   <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>годам</em></td><td><em>гадамі</em></td></tr>
   <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>годзе, го, годдзе</em></td><td><em>гадах, гадох</em></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="be_hse-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>году</em></td><td></td></tr>
   <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>год</em></td><td><em>гады, годы</em></td></tr>
 </table>
 
@@ -40,13 +41,13 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 25159 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22903; 91%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21338; 85%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (18423; 73%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16982; 67%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13394; 53%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13350; 53%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (12730; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22903; 91%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21338; 85%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (18423; 73%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16981; 67%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13395; 53%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13351; 53%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (12730; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (10452; 42% of non-empty `Number`): <em>затрымалі, пачалі, кажуць, могуць, далучайцеся, маюць, паглядзіце, зрабілі, знайшлі, сабралі</em>
 * `Sing` (14707; 58% of non-empty `Number`): <em>можа, жыве, стала, мае, адбудзецца, сказаў, кажа, стаў, пройдзе, адбываецца</em>
-* `EMPTY` (5934): <em>можна, трэба, няма, падтрымаць, зрабіць, варта, рабіць, паглядзець, слухаць, стаць</em>
+* `EMPTY` (5933): <em>можна, трэба, няма, падтрымаць, зрабіць, варта, рабіць, паглядзець, слухаць, стаць</em>
 
 <table>
   <tr><th>Paradigm <i>магчы</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -64,7 +65,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 23493 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (88% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (23248; 99%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20458; 87%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (23248; 99%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20457; 87%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -105,15 +106,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PROPN`
 
-18878 <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> tokens (92% of all `PROPN` tokens) have a non-empty value of `Number`.
+18880 <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> tokens (92% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11334; 60%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (10698; 57%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11335; 60%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (10699; 57%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (1132; 6% of non-empty `Number`): <em>курапатах, Курапатаў, Курапаты, Стоўпцах, Баранавічах, Каляды, Курапат, Печах, Радзівілаў, Докшыцах</em>
-* `Sing` (17746; 94% of non-empty `Number`): <em>Беларусі, Менску, Беларусь, Лукашэнка, Лукашэнкі, Менск, Расеі, Горадні, Лукашэнку, Ціханоўскай</em>
-* `EMPTY` (1635): <em>ЗША, COVID, БНР, БССР, БНФ, КДБ, ЦВК, ссср, БРСМ, А.</em>
+* `Plur` (1133; 6% of non-empty `Number`): <em>курапатах, Курапатаў, Курапаты, Стоўпцах, Баранавічах, Каляды, Курапат, Печах, Радзівілаў, Докшыцах</em>
+* `Sing` (17747; 94% of non-empty `Number`): <em>Беларусі, Менску, Беларусь, Лукашэнка, Лукашэнкі, Менск, Расеі, Горадні, Лукашэнку, Ціханоўскай</em>
+* `EMPTY` (1632): <em>ЗША, COVID, БНР, БССР, БНФ, КДБ, ЦВК, ссср, БРСМ, А.</em>
 
 <table>
   <tr><th>Paradigm <i>Курапаты</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -127,7 +128,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>Курапаты, КУРАПАТЫ</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (3714) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (3712) occur only with one value of `Number`.
 
 ### `PRON`
 
@@ -181,7 +182,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 6218 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5451; 88%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4832; 78%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4161; 67%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5451; 88%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4833; 78%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4161; 67%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -223,7 +224,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 1784 <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1781; 100%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1781; 100%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1778; 100%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1556; 87%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1064; 60%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1061; 59%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (935; 52%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1781; 100%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1781; 100%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1778; 100%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1556; 87%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1063; 60%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1060; 59%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (936; 52%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -265,7 +266,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (10; 5% of non-empty `Number`): <em>некалькіх, адны</em>
 * `Sing` (207; 95% of non-empty `Number`): <em>адзін, адна, аднаго, адну, адно, адным, адной, Один, ніводзін, аніводзін</em>
-* `EMPTY` (5627): <em>10, 2, 5, некалькі, два, 1, тры, 20, 3, 100</em>
+* `EMPTY` (5628): <em>10, 2, 5, некалькі, два, 1, тры, 20, 3, 100</em>
 
 <table>
   <tr><th>Paradigm <i>адзін</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -274,7 +275,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>адну</em></td><td></td></tr>
   <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>адно</em></td><td></td></tr>
   <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>адны</em></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>Адзін</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>адзін</em></td><td></td></tr>
   <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>адну</em></td><td></td></tr>
   <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>аднаго</em></td><td></td></tr>
   <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>адной</em></td><td></td></tr>
@@ -297,7 +298,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `ADV` tokens may have the following values of `Number`:
 
 * `Sing` (32; 100% of non-empty `Number`): <em>годна, канчаткова, Абавязкова, палітычна, цікава, эмацыйна, ўрачыста, абавязковы, крута, незвычаяна</em>
-* `EMPTY` (11014): <em>як, яшчэ, больш, тут, таксама, так, дзе, таму, ўжо, цяпер</em>
+* `EMPTY` (11012): <em>як, яшчэ, больш, тут, таксама, так, дзе, таму, ўжо, цяпер</em>
 
 `Number` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Number`.
 
@@ -308,7 +309,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `SYM` tokens may have the following values of `Number`:
 
 * `Sing` (8; 100% of non-empty `Number`): <em>°С</em>
-* `EMPTY` (2598): <em>%, 📌, >, </a>, ⚡, +, 🔥, ⚡️, №, 👉</em>
+* `EMPTY` (2597): <em>%, 📌, >, </a>, ⚡, +, 🔥, ⚡️, №, 👉</em>
 
 ### `CCONJ`
 
@@ -317,19 +318,19 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `CCONJ` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>i</em>
-* `EMPTY` (8997): <em>і, а, але, ці, ды, або, й, ні, Таксама, аднак</em>
+* `EMPTY` (8998): <em>і, а, але, ці, ды, або, й, ні, Таксама, аднак</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (18783; 94%),
-<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11829; 63%),
-<tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7606; 91%),
-<tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (4536; 91%),
+<tt>NOUN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (18782; 94%),
+<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11831; 63%),
+<tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7609; 91%),
+<tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (4535; 91%),
 <tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3981; 95%),
-<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3769; 78%),
-<tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3624; 97%),
-<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (3226; 61%),
-<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (2484; 75%),
+<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3770; 78%),
+<tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3625; 97%),
+<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (3228; 61%),
+<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (2486; 75%),
 <tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1891; 80%).
 

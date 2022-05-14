@@ -63,7 +63,7 @@ The following 9 pairs of parts of speech are connected with `ccomp:obj`: <tt><a 
 3	vélem	vél	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	10	punct	_	_
 5	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	7	nsubj	_	_
-6	színpadra	színpad	NOUN	_	Case=Sub|Number=Sing	7	obl	_	_
+6	színpadra	színpad	NOUN	_	Case=Sbl|Number=Sing	7	obl	_	_
 7	lép	lép	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp:obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	annak	az	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Dem	10	nmod:att	_	_

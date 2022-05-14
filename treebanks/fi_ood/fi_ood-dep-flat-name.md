@@ -24,11 +24,11 @@ The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat:name	color:blue
 1	sisar	sisar	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	soittanut	soittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	soittanut	soittaa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	ja	ja	CCONJ	_	_	4	cc	_	_
-4	käynyt	käydä	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	SpaceAfter=No
+4	käynyt	käydä	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	SpaceAfter=No
 5	;	;	PUNCT	_	_	6	punct	_	_
-6	jutellut	jutella	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	_
+6	jutellut	jutella	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	_
 7	S.	S.	PROPN	_	Abbr=Yes|Case=Nom|Number=Sing	6	obl	_	_
 8	Timosen	Timonen	PROPN	_	Case=Gen|Number=Sing	7	flat:name	_	_
 9	kanssa	kanssa	ADP	_	AdpType=Post	7	case	_	SpaceAfter=No
@@ -59,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat:name	color:blue
-1	Msp	Msp	PROPN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound	_	Note=MovieStarPlanet
+1	Msp	Msp	PROPN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound:nn	_	Note=MovieStarPlanet
 2	käyttäjä	käyttäjä	NOUN	_	Case=Nom|Derivation=Ja|Number=Sing	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	4	punct	_	_
 4	Tikru	Tikru	PROPN	_	Case=Nom|Number=Sing	2	appos	_	_

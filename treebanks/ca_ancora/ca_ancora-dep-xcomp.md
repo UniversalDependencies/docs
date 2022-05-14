@@ -22,13 +22,13 @@ The following 18 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 xcomp	color:blue
-1	Bargués	Bargués	PROPN	np0000p	_	2	nsubj	2:nsubj	ClusterId=CESS-CAT-AAP-19991002-94_f-c1|ClusterType=Spec.person|MentionSpan=1
+1	Bargués	Bargués	PROPN	np0000p	_	2	nsubj	2:nsubj	Entity=(CESSCATAAP1999100294_fc1-person-1-gstype:spec)
 2	segueix	seguir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	escalant	escalar	VERB	vmg0000	VerbForm=Ger	2	xcomp	2:xcomp	_
-4	llocs	lloc	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obj	3:obj	ClusterId=CESS-CAT-AAP-19991002-94_f-s1.sn.9|ClusterType=Gen|MentionSpan=4
+4	llocs	lloc	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obj	3:obj	Entity=(CESSCATAAP1999100294_fs1.sn.9--1-gstype:gen)
 5	a	a	ADP	sps00	_	7	case	7:case	_
-6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	7:det	_
-7	Mini-Transat	Mini-Transat	PROPN	np0000a	_	2	obl	2:obl	SpaceAfter=No|ClusterId=CESS-CAT-AAP-19991002-94_f-c2|ClusterType=Spec.other|MentionSpan=6-7
+6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	7:det	Entity=(CESSCATAAP1999100294_fc2-other-2-gstype:spec
+7	Mini-Transat	Mini-Transat	PROPN	np0000a	_	2	obl	2:obl	SpaceAfter=No|Entity=CESSCATAAP1999100294_fc2)
 8	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
@@ -41,7 +41,7 @@ The following 18 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 4 xcomp	color:blue
 1	No	no	ADV	rn	Polarity=Neg	3	advmod	3:advmod	_
-2	ens	jo	PRON	pp1cp000	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	3	obj	3:obj	ClusterId=CESS-CAT-AAP-19981201-18_d-s2.sn.5|ClusterType=Gen|MentionSpan=2
+2	ens	jo	PRON	pp1cp000	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	3	obj	3:obj	Entity=(CESSCATAAP1998120118_ds2.sn.5--1-gstype:gen)
 3	sembla	semblar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	just	just	ADJ	aq0ms0	Gender=Masc|Number=Sing	3	xcomp	3:xcomp	SpaceAfter=No
 5	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
@@ -55,7 +55,7 @@ The following 18 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 xcomp	color:blue
-1	Rivaldo	Rivaldo	PROPN	np0000p	_	2	nsubj	2:nsubj	ClusterId=CESS-CAT-AAP-20000102-106-c1|ClusterType=Spec|MentionSpan=1|MentionMisc=ClusterTypeMismatch:Spec.person:Spec,CorefType:ident
+1	Rivaldo	Rivaldo	PROPN	np0000p	_	2	nsubj	2:nsubj	Entity=(CESSCATAAP20000102106c1-person-1-CorefType:ident,gstype:spec)
 2	segueix	seguir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	decidit	decidit	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	2	obj	2:obj	_
 4	a	a	ADP	sps00	_	6	mark	6:mark	_

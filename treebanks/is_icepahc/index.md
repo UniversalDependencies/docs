@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Þórunn Arnardóttir, Hinrik Hafsteinsson, Einar Freyr Sigurðsson, Hildur Jónsdóttir, Kristín Bjarnadóttir, Anton Karl Ingason, Kristján Rúnarsson, Steinþór Steingrímsson, Joel C. Wallenberg, Eiríkur Rögnvaldsson.
 
 Repository: [UD_Icelandic-IcePaHC](https://github.com/UniversalDependencies/UD_Icelandic-IcePaHC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_icepahc29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_icepahc210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -232,7 +232,7 @@ abstract = "The topic of this paper is a rule-based pipeline for converting cons
 </ul>
 
 <ul>
-<li>This corpus contains 147 lemmas tagged as pronouns (PRON): _, allur, annar, annarr, annars, annarstaðar, annaðhvor, annaðhvort, annur, arkimagus, austfjörður, aðrur, báðir, eg, einar, einn, einnhver, eitthvað, ekkert, enginn, finnbogi, flestallur, grikki, hann, hans, henni, hinn, honum, hva-að, hvat, hvatki, hvað, hvaða, hver, hver-hver, hvergi, hverigu, hvern, hvert, hverur, hveða, hvor, hvorja, hvort, hvorttveggja, hvorugur, hví, hvílíkur, hvívetna, hvörri, hún, leyfi, lítill, maður, mer, mig, minn, minna, mit, miður, mér, món, neinn, nokkur, okkar, okkur, samur, sek, sig, sinn, sjá, sjálfaur, sjálfur, slíkur, sodan, sodda, soddan, soddann, soddur, sumur, svoddan, svoddann, sá, sér, sérhver, söðull, sýn, vera, vettugi, við, viðlíka, viðlíkur, vor, vora, vorra, vorrar, vorrur, vorur, vv, vá, vær, vér, ykkar, ykkra, ykkri, ykkrur, yðar, yðarri, yður, yðvar, yðvarn, álíka, ég, ér, ófeigur, öll, öllir, öðrumegin, ýmis, ýmiss, þ, þ., þann, þar, þat, þau, þaug, það, þeim, þeir, þeirra, þes, þess, þessi, þetta, þig, þinn, því, þvílíka, þvílíkur, þá, þær, þér, þín, þínn, þórólfur, þú</li>
+<li>This corpus contains 146 lemmas tagged as pronouns (PRON): _, allur, annar, annarr, annars, annarstaðar, annaðhvor, annaðhvort, annur, arkimagus, austfjörður, aðrur, báðir, eg, einar, einn, einnhver, eitthvað, ekkert, enginn, finnbogi, flestallur, grikki, hann, hans, henni, hinn, honum, hva-að, hvat, hvatki, hvað, hvaða, hver, hver-hver, hvergi, hverigu, hvern, hvert, hverur, hveða, hvor, hvorja, hvort, hvorttveggja, hvorugur, hví, hvílíkur, hvívetna, hvörri, hún, leyfi, lítill, maður, mer, mig, minn, minna, mit, miður, mér, món, neinn, nokkur, okkar, okkur, samur, sek, sig, sinn, sjá, sjálfaur, sjálfur, slíkur, sodan, sodda, soddan, soddann, soddur, sumur, svoddan, svoddann, sá, sér, sérhver, söðull, sýn, vera, vettugi, við, viðlíka, viðlíkur, vor, vora, vorrar, vorrur, vorur, vv, vá, vær, vér, ykkar, ykkra, ykkri, ykkrur, yðar, yðarri, yður, yðvar, yðvarn, álíka, ég, ér, ófeigur, öll, öllir, öðrumegin, ýmis, ýmiss, þ, þ., þann, þar, þat, þau, þaug, það, þeim, þeir, þeirra, þes, þess, þessi, þetta, þig, þinn, því, þvílíka, þvílíkur, þá, þær, þér, þín, þínn, þórólfur, þú</li>
 </ul>
 
 <ul>
@@ -1242,7 +1242,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Gen (11)</li>
       <li>VERB--PRON-Nom (1993)</li>
       <li>VERB-Fin--NOUN (121)</li>
-      <li>VERB-Fin--NOUN-Acc (651)</li>
+      <li>VERB-Fin--NOUN-Acc (650)</li>
       <li>VERB-Fin--NOUN-Dat (553)</li>
       <li>VERB-Fin--NOUN-Gen (78)</li>
       <li>VERB-Fin--NOUN-Nom (11848)</li>
@@ -1257,7 +1257,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc (463)</li>
       <li>VERB-Inf--NOUN-Dat (34)</li>
       <li>VERB-Inf--NOUN-Gen (26)</li>
-      <li>VERB-Inf--NOUN-Nom (1043)</li>
+      <li>VERB-Inf--NOUN-Nom (1042)</li>
       <li>VERB-Inf--PRON (455)</li>
       <li>VERB-Inf--PRON-Acc (486)</li>
       <li>VERB-Inf--PRON-Dat (330)</li>

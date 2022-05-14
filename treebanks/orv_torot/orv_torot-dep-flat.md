@@ -57,16 +57,16 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat	color:blue
-1	а	а	CCONJ	C-	_	4	cc	_	ref=5
-2	еже	ежедьнь	ADV	Df	_	4	advmod	_	ref=5
-3	днь	днь	ADV	Df	_	2	flat	_	ref=5
-4	поимаеть	поимати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=5
-5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	ref=5
-6	море	море	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	ref=5
-7	по	по	ADV	Df	_	8	advmod	_	ref=5
-8	двожды	дъвашьды	ADV	Df	_	4	advmod	_	ref=5
-9	на	на	ADP	R-	_	10	case	_	ref=5
-10	днь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=5
+1	а	а	CCONJ	C-	_	4	cc	_	Ref=5
+2	еже	ежедьнь	ADV	Df	_	4	advmod	_	Ref=5
+3	днь	днь	ADV	Df	_	2	flat	_	Ref=5
+4	поимаеть	поимати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=5
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Ref=5
+6	море	море	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	Ref=5
+7	по	по	ADV	Df	_	8	advmod	_	Ref=5
+8	двожды	дъвашьды	ADV	Df	_	4	advmod	_	Ref=5
+9	на	на	ADP	R-	_	10	case	_	Ref=5
+10	днь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	Ref=5
 
 ~~~
 

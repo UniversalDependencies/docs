@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-271791 tokens (8%) have a non-empty value of `Degree`.
-21259 types (11%) occur at least once with a non-empty value of `Degree`.
-8840 lemmas (13%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 6 part-of-speech tags: <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (251093; 7% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (12933; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (4342; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1898; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1524; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+267448 tokens (8%) have a non-empty value of `Degree`.
+20570 types (11%) occur at least once with a non-empty value of `Degree`.
+8671 lemmas (12%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 4 part-of-speech tags: <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (251093; 7% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (12933; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1898; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1524; 0% instances).
 
 ### `ADJ`
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="de_hdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>neu</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (8241) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (8240) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -75,19 +75,6 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `EMPTY` (181415): <em>auch, noch, nur, aber, bereits, allerdings, damit, schon, rund, nun</em>
 
 `Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (22) occur only with one value of `Degree`.
-
-### `NOUN`
-
-4342 <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4342; 100%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3076; 71%), <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2853; 66%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2331; 54%).
-
-`NOUN` tokens may have the following values of `Degree`:
-
-* `Pos` (4342; 100% of non-empty `Degree`): <em>Beschäftigten, Angestellten, Befragten, Deutschen, Vorsitzende, Jugendlichen, Vorstandsvorsitzende, Grünen, Vorsitzender, Interessierte</em>
-* `EMPTY` (724762): <em>Prozent, Millionen, Internet, Unternehmen, Mark, US-Dollar, Milliarden, Jahr, Kunden, Firma</em>
-
-`Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (188) occur only with one value of `Degree`.
 
 ### `PRON`
 
@@ -124,17 +111,6 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 * `Cmp` (1522; 100% of non-empty `Degree`): <em>mehr, weniger</em>
 * `Sup` (2; 0% of non-empty `Degree`): <em>meisten</em>
 * `EMPTY` (458450): <em>der, die, dem, den, das, des, eine, ein, einen, einem</em>
-
-### `VERB`
-
-1 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (1; 100%).
-
-`VERB` tokens may have the following values of `Degree`:
-
-* `Pos` (1; 100% of non-empty `Degree`): <em>überlegen</em>
-* `EMPTY` (263584): <em>sagte, gibt, lassen, machen, kommen, geht, steht, bietet, erklärte, kommt</em>
 
 ## Relations with Agreement in `Degree`
 

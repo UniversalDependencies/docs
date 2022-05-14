@@ -39,12 +39,12 @@ The following 68 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 conj	color:blue
-1	а	а	CCONJ	C-	_	6	cc	_	ref=6
-2	мѹжы	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=6
-3	и	и	CCONJ	C-	_	2	cc	_	ref=6
-4	жены	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	ref=6
-5	всѣ	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	4	det	_	ref=6
-6	черны	чьрныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	ref=6
+1	а	а	CCONJ	C-	_	6	cc	_	Ref=6
+2	мѹжы	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Ref=6
+3	и	и	CCONJ	C-	_	2	cc	_	Ref=6
+4	жены	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	Ref=6
+5	всѣ	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	4	det	_	Ref=6
+6	черны	чьрныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	Ref=6
 
 ~~~
 

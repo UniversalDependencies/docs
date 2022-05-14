@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `cop`: <tt><a href="fi_ood-dep-cop-own
 403 nodes (2%) are attached to their parents as `cop`.
 
 319 instances of `cop` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.01736972704715.
+Average distance between parent and child is 2.01985111662531.
 
 The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (184; 46% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (121; 30% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (43; 11% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (25; 6% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (13; 3% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (9; 2% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="fi_ood-pos-X.html">X</a></tt>-<tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
@@ -55,7 +55,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 4 cop	color:blue
 1	virtsakatetria	virtsa#katetri	NOUN	_	Case=Par|Number=Sing	2	obj	_	_
-2	huuhdeltu	huuhdella	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+2	huuhdeltu	huuhdella	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	oli	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
 5	auki	auki	ADV	_	_	2	conj	_	_

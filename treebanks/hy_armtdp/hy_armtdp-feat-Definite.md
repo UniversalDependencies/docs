@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-15974 tokens (30%) have a non-empty value of `Definite`.
-8294 types (63%) occur at least once with a non-empty value of `Definite`.
-4147 lemmas (59%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 6 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (13092; 25% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1804; 3% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (667; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (409; 1% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances).
+15951 tokens (30%) have a non-empty value of `Definite`.
+8292 types (63%) occur at least once with a non-empty value of `Definite`.
+4146 lemmas (59%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 6 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (13075; 25% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1800; 3% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (665; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (409; 1% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-13092 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Definite`.
+13075 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (11149; 85%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9970; 76%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (11132; 85%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9958; 76%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Def` (4007; 31% of non-empty `Definite`): <em>օրը, կինը, պահին, կառավարությունը, հունվարին, մասը, տունը, աշխարհը, երկիրը, թվականին</em>
-* `Ind` (9085; 69% of non-empty `Definite`): <em>հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, ծրագրի, թ</em>
+* `Def` (4006; 31% of non-empty `Definite`): <em>օրը, կինը, պահին, կառավարությունը, հունվարին, մասը, տունը, աշխարհը, երկիրը, թվականին</em>
+* `Ind` (9069; 69% of non-empty `Definite`): <em>հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, թ, ծրագրի</em>
 * `EMPTY` (237): <em>հայրս, հորս, մորս, ձիս, մայրս, ներկայիս, պապս, քեռիս, ներկայումս, անունս</em>
 
 <table>
@@ -36,14 +36,14 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 ### `PROPN`
 
-1804 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Definite`.
+1800 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1796; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1041; 58%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (1005; 56%).
+The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1792; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1038; 58%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (1002; 56%).
 
 `PROPN` tokens may have the following values of `Definite`:
 
-* `Def` (476; 26% of non-empty `Definite`): <em>Սիմեոնը, Արմինուսը, Իրանը, Կարապետյանը, Լուկրեցիան, Հարութը, Հայաստանը, Սարգսյանը, Մարտինը, Մարտինին</em>
-* `Ind` (1328; 74% of non-empty `Definite`): <em>Հայաստանի, ՀՀ, Հայաստանում, Լևոն, Իրանի, Ադրբեջանի, Հայաստան, Կարեն, Սարգսյանի, Սերժ</em>
+* `Def` (475; 26% of non-empty `Definite`): <em>Սիմեոնը, Արմինուսը, Իրանը, Կարապետյանը, Լուկրեցիան, Հարութը, Հայաստանը, Սարգսյանը, Մարտինը, Մարտինին</em>
+* `Ind` (1325; 74% of non-empty `Definite`): <em>Հայաստանի, ՀՀ, Հայաստանում, Լևոն, Իրանի, Ադրբեջանի, Հայաստան, Կարեն, Սարգսյանի, Սերժ</em>
 
 <table>
   <tr><th>Paradigm <i>Հայաստան</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -55,15 +55,15 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 
 ### `VERB`
 
-667 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Definite`.
+665 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (667; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (667; 100%), <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (667; 100%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Gdv</tt> (667; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Coll</tt> (666; 100%), <tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (661; 99%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (633; 95%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (419; 63%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (418; 63%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (665; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (665; 100%), <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (665; 100%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Gdv</tt> (665; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Coll</tt> (664; 100%), <tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (659; 99%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (631; 95%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (417; 63%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (416; 63%).
 
 `VERB` tokens may have the following values of `Definite`:
 
 * `Def` (71; 11% of non-empty `Definite`): <em>բռնելը, հայտարարելը, հայտնվելն, Նեղանալը, Նստելուն, ածելը, ամրացնելն, ամրացնելուն, անելը, անհայտանալը</em>
-* `Ind` (596; 89% of non-empty `Definite`): <em>ընդունելով, լինելու, ասելով, ելնելով, տեսնելու, անելու, լինելով, ապրելու, առնելով, գնալով</em>
-* `EMPTY` (6082): <em>ուզում, ասում, գալիս, տալիս, չկա, ասաց, կա, լինի, անում, նշված</em>
+* `Ind` (594; 89% of non-empty `Definite`): <em>ընդունելով, լինելու, ասելով, ելնելով, տեսնելու, անելու, լինելով, ապրելու, առնելով, գնալով</em>
+* `EMPTY` (6080): <em>ուզում, ասում, գալիս, տալիս, չկա, ասաց, կա, լինի, անում, նշված</em>
 
 <table>
   <tr><th>Paradigm <i>լինել</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -73,7 +73,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
   <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>լինելը, լինելն</em></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `VERB`. 90% lemmas (308) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `VERB`. 90% lemmas (307) occur only with one value of `Definite`.
 
 ### `PRON`
 
@@ -103,7 +103,7 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 `ADP` tokens may have the following values of `Definite`:
 
 * `Def` (1; 100% of non-empty `Definite`): <em>դիմացը</em>
-* `EMPTY` (1634): <em>համար, հետ, մեջ, մասին, վրա, հետո, առաջ, որպես, տակ, մինչև</em>
+* `EMPTY` (1632): <em>համար, հետ, մեջ, մասին, վրա, հետո, առաջ, որպես, տակ, մինչև</em>
 
 ### `DET`
 
@@ -119,12 +119,12 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1729; 64%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1722; 64%),
 <tt>NOUN --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1048; 93%),
 <tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (304; 67%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>]--> NOUN</tt> (177; 58%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (164; 71%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (159; 78%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>]--> NOUN</tt> (174; 57%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (162; 71%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (158; 77%),
 <tt>PROPN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (110; 89%),
 <tt>PROPN --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> PROPN</tt> (100; 100%),
 <tt>NOUN --[<tt><a href="hy_armtdp-dep-appos.html">appos</a></tt>]--> NOUN</tt> (73; 77%),

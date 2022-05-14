@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-86814 nodes (16%) are attached to their parents as `det`.
+86813 nodes (16%) are attached to their parents as `det`.
 
-85537 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16031976409335.
+85536 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16028705378227.
 
-The following 14 pairs of parts of speech are connected with `det`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (68374; 79% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (12465; 14% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1516; 2% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1350; 2% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (987; 1% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (844; 1% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (782; 1% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (350; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (109; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `det`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (68374; 79% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (12465; 14% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1516; 2% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1350; 2% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (986; 1% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (844; 1% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (782; 1% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (350; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (109; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,10 +53,10 @@ The following 14 pairs of parts of speech are connected with `det`: <tt><a href=
 6	ofrena	ofrena	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
 7	simbòlica	simbòlic	ADJ	aq0fs0	Gender=Fem|Number=Sing	6	amod	6:amod	_
 8	a	a	ADP	sps00	_	11	case	11:case	_
-9	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+9	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=(3LBCAT060103003s4.sn.21-person-3-gstype:spec
 10	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	11:det	_
-11	Moreneta	Moreneta	PROPN	np0000p	_	4	obj	4:obj	SpaceAfter=No|ClusterId=3LB-CAT-06010300-3-s4.sn.21|ClusterType=Spec.person|MentionSpan=9-12
-12	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+11	Moreneta	Moreneta	PROPN	np0000p	_	4	obj	4:obj	SpaceAfter=No
+12	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=3LBCAT060103003s4.sn.21)
 13	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
@@ -68,12 +68,12 @@ The following 14 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 det	color:blue
-1	Dues	dos	NUM	dn0fp0	Gender=Fem|Number=Plur|NumType=Card	2	nummod	2:nummod	_
-2	vegades	vegada	NOUN	ncfp000	Gender=Fem|Number=Plur	0	root	0:root	ClusterId=CESS-CAT-A-20010315-27617-s94.sn.2|ClusterType=Gen|MentionSpan=1-6|MentionMisc=Title
+1	Dues	dos	NUM	dn0fp0	Gender=Fem|Number=Plur|NumType=Card	2	nummod	2:nummod	Entity=(CESSCATA2001031527617s94.sn.2--2-gstype:gen,Title
+2	vegades	vegada	NOUN	ncfp000	Gender=Fem|Number=Plur	0	root	0:root	_
 3	en	en	ADP	sps00	_	6	case	6:case	_
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
 5	mateixa	mateix	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	4	det	4:det	_
-6	roca	roca	NOUN	ncfs000	Gender=Fem|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
+6	roca	roca	NOUN	ncfs000	Gender=Fem|Number=Sing	2	nmod	2:nmod	SpaceAfter=No|Entity=CESSCATA2001031527617s94.sn.2)
 7	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~

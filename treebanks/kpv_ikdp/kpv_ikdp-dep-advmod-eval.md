@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt>.
 There are also 6 other language-specific subtypes of `advmod`: <tt><a href="kpv_ikdp-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-lfrom.html">advmod:lfrom</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-lto.html">advmod:lto</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-7 nodes (0%) are attached to their parents as `advmod:eval`.
+8 nodes (0%) are attached to their parents as `advmod:eval`.
 
-6 instances of `advmod:eval` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+6 instances of `advmod:eval` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.875.
 
-The following 4 pairs of parts of speech are connected with `advmod:eval`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (3; 43% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (2; 29% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (1; 14% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 14% instances).
+The following 4 pairs of parts of speech are connected with `advmod:eval`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (3; 38% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (2; 25% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (2; 25% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -30,6 +30,23 @@ The following 4 pairs of parts of speech are connected with `advmod:eval`: <tt><
 5	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	aux:neg	_	GTtags=V,Neg,Ind,Prt1,Sg3
 6	юныс	юны	VERB	V	Connegative=Yes|Number=Plur	0	root	_	GTtags=V,TV,ConNeg|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 advmod:eval	color:blue
+1	И	и	CCONJ	CC	_	5	cc	_	OrigLang=ru
+2	ӧні	ӧні	ADV	Adv	_	5	advmod:tmod	_	_
+3	бара	бара	ADV	Adv	_	5	advmod:tmod	_	_
+4	же	жӧ	ADV	Adv	_	3	advmod:eval	_	OrigLang=ru
+5	мӧдісныс	мӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+6	вӧрзёоны	вӧрзьыны	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 
@@ -51,23 +68,6 @@ The following 4 pairs of parts of speech are connected with `advmod:eval`: <tt><
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
 10	ветлалэ	ветлыны	VERB	V	Derivation=Al|Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	GTtags=Der/ал,Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
 11	!	!	PUNCT	PUNCT	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 advmod:eval	color:blue
-1	Коймедсэ	коймӧд	ADJ	A	Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Ord|Person[psor]=3	2	obj	_	GTtags=Err/Dial,Ord,Sg,Acc,PxSg3
-2	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
-3	да	да	CCONJ	CC	_	6	cc	_	_
-4	бара	бара	ADV	Adv	_	6	advmod:eval	_	GTtags=Parenthetic
-5	же	жӧ	PART	Pcle	_	6	advmod:eval	_	GTtags=Err/Dial
-6	сідз	сідзи	ADV	Adv	AdvType=Man	2	conj	_	GTtags=Manner|SpaceAfter=No
-7	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

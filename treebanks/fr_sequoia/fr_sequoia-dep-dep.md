@@ -26,8 +26,8 @@ The following 34 pairs of parts of speech are connected with `dep`: <tt><a href=
 2	^	^	PUNCT	_	_	4	punct	_	_
 3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
 4	Reuters	Reuters	PROPN	_	_	0	root	_	_
-5	admits	admits	X	_	_	4	dep	_	_
-6	altering	altering	X	_	_	4	dep	_	_
+5	admits	admits	X	_	Foreign=Yes	4	dep	_	_
+6	altering	altering	X	_	Foreign=Yes	4	dep	_	_
 7	Beirut	Beirut	PROPN	_	_	4	flat:name	_	_
 8	photo	photo	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 9	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No

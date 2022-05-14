@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-10829 tokens (9%) have a non-empty value of `Voice`.
-2406 types (12%) occur at least once with a non-empty value of `Voice`.
-1263 lemmas (8%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (10829; 9% instances).
+10812 tokens (9%) have a non-empty value of `Voice`.
+2395 types (12%) occur at least once with a non-empty value of `Voice`.
+1262 lemmas (8%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 1 part-of-speech tags: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (10812; 9% instances).
 
 ### `VERB`
 
-10829 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (87% of all `VERB` tokens) have a non-empty value of `Voice`.
+10812 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (87% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10769; 99%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10752; 99%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (7421; 69% of non-empty `Voice`): <em>menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, melakukan, kembali, adanya</em>
-* `Pass` (3408; 31% of non-empty `Voice`): <em>terletak, digunakan, dikenal, terjadi, disebut, terdapat, terdiri, dilakukan, ditemukan, dirilis</em>
-* `EMPTY` (1660): <em>merupakan, ada, termasuk, berhasil, belajar, hidup, tahu, gagal, jadi, selesai</em>
+* `Act` (7404; 68% of non-empty `Voice`): <em>menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, melakukan, kembali, adanya</em>
+* `Pass` (3408; 32% of non-empty `Voice`): <em>terletak, digunakan, dikenal, terjadi, disebut, terdapat, terdiri, dilakukan, ditemukan, dirilis</em>
+* `EMPTY` (1659): <em>merupakan, ada, termasuk, berhasil, belajar, hidup, tahu, gagal, jadi, selesai</em>
 
 <table>
   <tr><th>Paradigm <i>jadi</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>

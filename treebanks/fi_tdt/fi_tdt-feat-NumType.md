@@ -23,7 +23,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (4684; 100% of non-empty `NumType`): <em>1, 2, 2009, 3, 5, 4, kaksi, 10, 2006, 6</em>
-* `EMPTY` (296): <em>5(n), puoli, 2003/634/EY, 19/65/ETY, 1999/730/YUTP, 90/642/ETY, 90/426/ETY, 91/628/ETY, 91/67/ETY, 66/401/ETY</em>
+* `EMPTY` (295): <em>5(n), puoli, 2003/634/EY, 19/65/ETY, 1999/730/YUTP, 90/642/ETY, 90/426/ETY, 91/628/ETY, 91/67/ETY, 66/401/ETY</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1043) occur only with one value of `NumType`.
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (1; 0% of non-empty `NumType`): <em>25:ttä</em>
 * `Ord` (1153; 100% of non-empty `NumType`): <em>1., 2., 3., II, ensimmäinen, I, ensimmäisen, 7., 4., toisen</em>
-* `EMPTY` (13105): <em>koko, eri, viime, hyvä, arvoisa, uusi, uuden, hyvää, oman, uutta</em>
+* `EMPTY` (13135): <em>koko, eri, viime, hyvä, arvoisa, uusi, uuden, hyvää, oman, uutta</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (74) occur only with one value of `NumType`.
 

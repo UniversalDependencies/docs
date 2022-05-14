@@ -32,7 +32,7 @@ The following 17 pairs of parts of speech are connected with `vocative`: <tt><a 
 8	,	,	PUNCT	_	_	10	punct	10:punct	_
 9	как	как	SCONJ	_	_	10	case	10:case	_
 10	негры	негр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	xcomp	6:xcomp	SpaceAfter=No
-11	!	!	PUNCT	_	_	6	punct	6:punct	_~
+11	!	!	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 
@@ -46,7 +46,7 @@ The following 17 pairs of parts of speech are connected with `vocative`: <tt><a 
 1	Здравствуй	здравствовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	Сезанн	Сезанн	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	vocative	1:vocative	SpaceAfter=No
-4	!	!	PUNCT	_	_	1	punct	1:punct	_~
+4	!	!	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 17 pairs of parts of speech are connected with `vocative`: <tt><a 
 9	годуновско	годуновско	ADJ	_	Degree=Pos	11	compound	11:compound	SpaceAfter=No
 10	-	-	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
 11	татарское	татарский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	3:punct	_~
+12	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

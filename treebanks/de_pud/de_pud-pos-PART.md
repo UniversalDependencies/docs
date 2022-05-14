@@ -37,9 +37,9 @@ The 2nd highest number of forms (1) was observed with the lemma “wohl”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “zu”: <em>zu</em>.
 
-`PART` occurs with 2 features: <tt><a href="de_pud-feat-Degree.html">Degree</a></tt> (1; 1% instances), <tt><a href="de_pud-feat-Polarity.html">Polarity</a></tt> (1; 1% instances)
+`PART` occurs with 1 features: <tt><a href="de_pud-feat-Polarity.html">Polarity</a></tt> (1; 1% instances)
 
-`PART` occurs with 2 feature-value pairs: `Degree=Pos`, `Polarity=Neg`
+`PART` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `PART` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (144 tokens).

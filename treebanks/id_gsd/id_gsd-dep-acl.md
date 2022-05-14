@@ -23,17 +23,17 @@ The following 30 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 acl	color:blue
-1	Fibrinase	fibrinase	PROPN	X--	_	2	nsubj	_	MorphInd=^fibrinase<x>_X--$
-2	mempunyai	punya	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	MorphInd=^meN+punya<v>+i_VSA$
-3	waktu	waktu	NOUN	NSD	Number=Sing	2	obj	_	MorphInd=^waktu<n>_NSD$
-4	paruh	paruh	NOUN	NSD	Number=Sing	3	compound	_	MorphInd=^paruh<n>_NSD$
-5	berkisar	kisar	VERB	VSA	Mood=Ind|Voice=Act	3	acl	_	MorphInd=^ber+kisar<v>_VSA$
-6	antara	antara	ADP	R--	_	10	case	_	MorphInd=^antara<r>_R--$
-7	9	9	NUM	CC-	NumType=Card	10	nummod	_	MorphInd=^9<c>_CC-$
-8	-	-	PUNCT	Z--	_	7	punct	_	MorphInd=^-<z>_Z--$
-9	14	14	NUM	CC-	NumType=Card	10	nummod	_	MorphInd=^14<c>_CC-$
-10	hari	hari	NOUN	NSD	Number=Sing	5	obl	_	SpaceAfter=No|MorphInd=^hari<n>_NSD$
-11	.	.	PUNCT	Z--	_	2	punct	_	MorphInd=^.<z>_Z--$
+1	Fibrinase	fibrinase	PROPN	X--	_	2	nsubj	_	Morf=^fibrinase<x>_X--$
+2	mempunyai	punya	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+punya<v>+i_VSA$
+3	waktu	waktu	NOUN	NSD	Number=Sing	2	obj	_	Morf=^waktu<n>_NSD$
+4	paruh	paruh	NOUN	NSD	Number=Sing	3	compound	_	Morf=^paruh<n>_NSD$
+5	berkisar	kisar	VERB	VSA	Mood=Ind|Voice=Act	3	acl	_	Morf=^ber+kisar<v>_VSA$
+6	antara	antara	ADP	R--	_	10	case	_	Morf=^antara<r>_R--$
+7	9	9	NUM	CC-	NumType=Card	10	nummod	_	Morf=^9<c>_CC-$
+8	-	-	PUNCT	Z--	_	7	punct	_	Morf=^-<z>_Z--$
+9	14	14	NUM	CC-	NumType=Card	10	nummod	_	Morf=^14<c>_CC-$
+10	hari	hari	NOUN	NSD	Number=Sing	5	obl	_	SpaceAfter=No|Morf=^hari<n>_NSD$
+11	.	.	PUNCT	Z--	_	2	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -44,15 +44,15 @@ The following 30 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 acl	color:blue
-1	Perone	perone	PROPN	X--	_	2	nsubj	_	MorphInd=^perone<x>_X--$
-2	meninggalkan	tinggal	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	MorphInd=^meN+tinggal<v>+kan_VSA$
-3	QPR	qpr	PROPN	F--	_	2	obj	_	MorphInd=^qpr<f>_F--$
-4	karena	karena	SCONJ	S--	_	8	mark	_	MorphInd=^karena<s>_S--$
-5	kontrak	kontrak	NOUN	NSD	Number=Sing	8	nsubj:pass	_	MorphInd=^kontrak<n>_NSD$
-6	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	MorphInd=^dia<p>_PS3$
-7	tidak	tidak	PART	G--	Polarity=Neg	8	advmod	_	MorphInd=^tidak<g>_G--$
-8	diperpanjang	panjang	VERB	VSP	Mood=Ind|Voice=Pass	2	acl	_	SpaceAfter=No|MorphInd=^di+per+panjang<a>_VSP$
-9	.	.	PUNCT	Z--	_	2	punct	_	MorphInd=^.<z>_Z--$
+1	Perone	perone	PROPN	X--	_	2	nsubj	_	Morf=^perone<x>_X--$
+2	meninggalkan	tinggal	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+tinggal<v>+kan_VSA$
+3	QPR	qpr	PROPN	F--	_	2	obj	_	Morf=^qpr<f>_F--$
+4	karena	karena	SCONJ	S--	_	8	mark	_	Morf=^karena<s>_S--$
+5	kontrak	kontrak	NOUN	NSD	Number=Sing	8	nsubj:pass	_	Morf=^kontrak<n>_NSD$
+6	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Morf=^dia<p>_PS3$
+7	tidak	tidak	PART	G--	Polarity=Neg	8	advmod	_	Morf=^tidak<g>_G--$
+8	diperpanjang	panjang	VERB	VSP	Mood=Ind|Voice=Pass	2	acl	_	SpaceAfter=No|Morf=^di+per+panjang<a>_VSP$
+9	.	.	PUNCT	Z--	_	2	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -63,17 +63,17 @@ The following 30 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 acl	color:blue
-1	Stoke	stoke	PROPN	X--	_	6	nsubj	_	MorphInd=^stoke<x>_X--$
-2	-	-	PUNCT	Z--	_	3	punct	_	MorphInd=^-<z>_Z--$
-3	on	on	PROPN	F--	_	1	flat:name	_	MorphInd=^on<f>_F--$
-4	-	-	PUNCT	Z--	_	5	punct	_	MorphInd=^-<z>_Z--$
-5	Trent	trent	PROPN	X--	_	3	flat:name	_	MorphInd=^trent<x>_X--$
-6	merupakan	merupakan	VERB	O--	_	0	root	_	MorphInd=^merupakan<o>_O--$
-7	nama	nama	NOUN	NSD	Number=Sing	6	acl	_	MorphInd=^nama<n>_NSD$
-8	kota	kota	NOUN	NSD	Number=Sing	7	compound	_	MorphInd=^kota<n>_NSD$
-9	di	di	ADP	R--	_	10	case	_	MorphInd=^di<r>_R--$
-10	Inggris	inggris	PROPN	NSD	_	8	nmod	_	SpaceAfter=No|MorphInd=^inggris<n>_NSD$
-11	.	.	PUNCT	Z--	_	6	punct	_	MorphInd=^.<z>_Z--$
+1	Stoke	stoke	PROPN	X--	_	6	nsubj	_	Morf=^stoke<x>_X--$
+2	-	-	PUNCT	Z--	_	3	punct	_	Morf=^-<z>_Z--$
+3	on	on	PROPN	F--	_	1	flat:name	_	Morf=^on<f>_F--$
+4	-	-	PUNCT	Z--	_	5	punct	_	Morf=^-<z>_Z--$
+5	Trent	trent	PROPN	X--	_	3	flat:name	_	Morf=^trent<x>_X--$
+6	merupakan	merupakan	VERB	O--	_	0	root	_	Morf=^merupakan<o>_O--$
+7	nama	nama	NOUN	NSD	Number=Sing	6	acl	_	Morf=^nama<n>_NSD$
+8	kota	kota	NOUN	NSD	Number=Sing	7	compound	_	Morf=^kota<n>_NSD$
+9	di	di	ADP	R--	_	10	case	_	Morf=^di<r>_R--$
+10	Inggris	inggris	PROPN	NSD	_	8	nmod	_	SpaceAfter=No|Morf=^inggris<n>_NSD$
+11	.	.	PUNCT	Z--	_	6	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 

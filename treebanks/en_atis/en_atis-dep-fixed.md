@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (0%) are attached to their parents as `fixed`.
+32 nodes (0%) are attached to their parents as `fixed`.
 
-28 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25.
+32 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.21875.
 
-The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (6; 21% instances), <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (6; 21% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (3; 11% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt>-<tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (1; 4% instances).
+The following 12 pairs of parts of speech are connected with `fixed`: <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (6; 19% instances), <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (6; 19% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt>-<tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (4; 13% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (3; 9% instances), <tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (2; 6% instances), <tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt>-<tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (2; 6% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -60,26 +60,17 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	instead	instead	ADV	_	Degree=Pos	3	case	_	_
-2	of	of	ADP	_	_	1	fixed	_	_
-3	denver	denver	PROPN	_	Number=Sing	6	obl	_	_
-4	can	can	AUX	_	_	6	aux	_	_
-5	i	i	PRON	_	PronType=Prs	6	nsubj	_	_
-6	have	have	VERB	_	VerbForm=Inf	0	root	_	_
-7	the	the	DET	_	PronType=Art	9	det	_	_
-8	same	same	ADJ	_	Degree=Pos	9	amod	_	_
-9	flight	flight	NOUN	_	Number=Sing	6	obj	_	_
-10	from	from	ADP	_	_	11	case	_	_
-11	toronto	toronto	PROPN	_	Number=Sing	9	nmod	_	_
-12	to	to	ADP	_	_	13	case	_	_
-13	san	san	PROPN	_	Number=Sing	9	nmod	_	_
-14	diego	diego	PROPN	_	Number=Sing	13	flat	_	_
-15	but	but	CCONJ	_	_	16	cc	_	_
-16	stopping	stop	VERB	_	Tense=Pres|VerbForm=Part	9	nmod	_	_
-17	in	in	ADP	_	_	18	case	_	_
-18	dallas	dallas	PROPN	_	Number=Sing	16	obl	_	_
-19	fort	fort	PROPN	_	Number=Sing	18	flat	_	_
-20	worth	worth	PROPN	_	Number=Sing	18	flat	_	_
+1	all	all	DET	_	PronType=Art	5	discourse	_	_
+2	right	right	NOUN	_	Number=Sing	1	fixed	_	_
+3	do	do	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	you	you	PRON	_	PronType=Prs	5	nsubj	_	_
+5	have	have	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	DET	_	PronType=Art	7	det	_	_
+7	flight	flight	NOUN	_	Number=Sing	5	obj	_	_
+8	from	from	ADP	_	_	9	case	_	_
+9	atlanta	atlanta	PROPN	_	Number=Sing	7	nmod	_	_
+10	to	to	ADP	_	_	11	case	_	_
+11	boston	boston	PROPN	_	Number=Sing	7	nmod	_	_
 
 ~~~
 

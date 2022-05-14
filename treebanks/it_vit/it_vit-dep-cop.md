@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 5	ammazzar	ammazzare	VERB	V	VerbForm=Inf	3	ccomp	_	_
 6	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 7	,	,	PUNCT	FF	_	10	punct	_	_
-8	ne	ne	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+8	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	iobj	_	_
 9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	sputata	sputare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
 11	fuori	fuori	ADV	B	_	10	advmod	_	_

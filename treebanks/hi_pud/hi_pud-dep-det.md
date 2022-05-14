@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
 1	अधिकतम	_	ADJ	JJS	_	2	amod	_	Translit=adhikatama
-2	$5,000	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	compound	_	OrigForm=$5000|Translit=$5,000
+2	$5,000	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	compound	_	Translit=$5,000
 3	प्रति	_	DET	QF	_	4	det	_	Translit=prati
 4	व्यक्ति	_	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	nmod:poss	_	Translit=vyakti
 5	की	_	ADP	IN	Case=Gen|Gender=Fem	4	case	_	Translit=kī
@@ -51,7 +51,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 7	आबादी	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	obj	_	Translit=ābādī
 8	गिरकर	_	VERB	VB	_	10	acl	_	Translit=girakara
 9	लगभग	_	DET	QF	_	10	det	_	Translit=lagabhaga
-10	168,000	_	NUM	CD	NumType=Card	0	root	_	OrigForm=168000|Translit=168,000
+10	168,000	_	NUM	CD	NumType=Card	0	root	_	Translit=168,000
 11	हो	_	AUX	VB	_	10	cop	_	Translit=ho
 12	गयी	_	AUX	VXH	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	10	aux	_	SpaceAfter=No|Translit=gayī
 13	।	_	PUNCT	.	_	10	punct	_	Translit=.

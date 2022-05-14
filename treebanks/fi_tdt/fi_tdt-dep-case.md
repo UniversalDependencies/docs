@@ -59,7 +59,7 @@ The following 14 pairs of parts of speech are connected with `case`: <tt><a href
 1	Sallan	Salla	PROPN	N	Case=Gen|Number=Sing	3	obl	3:obl	_
 2	kanssa	kanssa	ADP	Adp	AdpType=Post	1	case	1:case	_
 3	tuli	tulla	VERB	V	Mood=Ind|Number=Sing|Person=0|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	iskettyä	iskeä	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	xcomp	3:xcomp	_
+4	iskettyä	iskeä	VERB	V	Case=Par|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	xcomp	3:xcomp	_
 5	silmät	silmä	NOUN	N	Case=Nom|Number=Plur	4	obj	4:obj	_
 6	samaan	sama	PRON	Pron	Case=Ill|Number=Sing|PronType=Ind	7	det	7:det	_
 7	turboneuleeseen	turbo#neule	NOUN	N	Case=Ill|Number=Sing	4	obl	4:obl	SpaceAfter=No

@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 12	who	who	PRON	WP	PronType=Rel	13	nsubj	11:ref	_
 13	CARE	care	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	_
 14	,	,	PUNCT	,	_	17	punct	17:punct	_
-15	Not	not	ADV	RB	_	17	advmod	17:advmod	_
+15	Not	not	PART	RB	_	17	advmod	17:advmod	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 17	kind	kind	NOUN	NN	Number=Sing	11	conj	11:conj	_
 18	of	of	ADP	IN	_	17	dep	17:dep	_

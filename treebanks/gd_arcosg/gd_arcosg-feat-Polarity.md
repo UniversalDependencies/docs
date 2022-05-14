@@ -9,33 +9,33 @@ udver: '2'
 This feature is universal but the values `Aff` are language-specific.
 It occurs with 2 different values: `Aff`, `Neg`.
 
-1274 tokens (2%) have a non-empty value of `Polarity`.
+1345 tokens (1%) have a non-empty value of `Polarity`.
 11 types (0%) occur at least once with a non-empty value of `Polarity`.
 5 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (991; 1% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (283; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1044; 1% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (301; 0% instances).
 
 ### `PART`
 
-991 <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> tokens (12% of all `PART` tokens) have a non-empty value of `Polarity`.
+1044 <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> tokens (12% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (917; 93%), <tt><a href="gd_arcosg-feat-PartType.html">PartType</a></tt><tt>=Cmpl</tt> (909; 92%).
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (970; 93%), <tt><a href="gd_arcosg-feat-PartType.html">PartType</a></tt><tt>=Cmpl</tt> (962; 92%).
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (991; 100% of non-empty `Polarity`): <em>cha, nach, chan, na</em>
-* `EMPTY` (7300): <em>a, a', gu, ag, air, gun, an, do, gum, a’</em>
+* `Neg` (1044; 100% of non-empty `Polarity`): <em>cha, nach, chan, na</em>
+* `EMPTY` (7767): <em>a, a', gu, ag, air, gun, an, do, gum, a’</em>
 
 ### `AUX`
 
-283 <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> tokens (26% of all `AUX` tokens) have a non-empty value of `Polarity`.
+301 <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> tokens (26% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (283; 100%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (301; 100%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Aff` (166; 59% of non-empty `Polarity`): <em>gur, an, gun</em>
-* `Neg` (117; 41% of non-empty `Polarity`): <em>chan, nach, cha</em>
-* `EMPTY` (796): <em>'s, is, b', bu, as, b’, ‘s, s, ’s, nach</em>
+* `Aff` (173; 57% of non-empty `Polarity`): <em>gur, an, gun</em>
+* `Neg` (128; 43% of non-empty `Polarity`): <em>chan, nach, cha</em>
+* `EMPTY` (865): <em>'s, is, b', bu, as, b’, ‘s, s, ’s, nach</em>
 
 <table>
   <tr><th>Paradigm <i>is</i></th><th><tt>Neg</tt></th><th><tt>Aff</tt></th></tr>

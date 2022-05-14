@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Part`, `Vnoun`.
 
-18048 tokens (20%) have a non-empty value of `VerbForm`.
-1321 types (26%) occur at least once with a non-empty value of `VerbForm`.
-515 lemmas (24%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (16885; 18% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1163; 1% instances).
+17999 tokens (20%) have a non-empty value of `VerbForm`.
+1298 types (26%) occur at least once with a non-empty value of `VerbForm`.
+510 lemmas (24%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (16836; 18% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1163; 1% instances).
 
 ### `VERB`
 
-16885 <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+16836 <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15063; 89%), <tt><a href="tr_tourism-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14756; 87%), <tt><a href="tr_tourism-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (14042; 83%), <tt><a href="tr_tourism-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13779; 82%), <tt><a href="tr_tourism-feat-Person.html">Person</a></tt><tt>=3</tt> (11705; 69%), <tt><a href="tr_tourism-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8483; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15024; 89%), <tt><a href="tr_tourism-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14729; 87%), <tt><a href="tr_tourism-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (14015; 83%), <tt><a href="tr_tourism-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13756; 82%), <tt><a href="tr_tourism-feat-Person.html">Person</a></tt><tt>=3</tt> (11675; 69%), <tt><a href="tr_tourism-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8473; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (1; 0% of non-empty `VerbForm`): <em>GÖRÜŞTÜK</em>
-* `Fin` (16873; 100% of non-empty `VerbForm`): <em>GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, EDERİM, İLGİLİYDİ, İLGİLENDİ</em>
+* `Fin` (16824; 100% of non-empty `VerbForm`): <em>GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, EDERİM, İLGİLİYDİ, İLGİLENDİ</em>
 * `Part` (1; 0% of non-empty `VerbForm`): <em>VERDİĞİNİZ</em>
 * `Vnoun` (10; 0% of non-empty `VerbForm`): <em>ORTALAMAYDI, KARŞILAMAYDI, DÜŞÜNMEMEKTEDİR</em>
-* `EMPTY` (24): <em>İLGİLİLER, GÜLERYÜZLÜLER, İYİLER, PİSLER, ALAKALILAR, GİBİLER, HARİKALAR, KİMLER, SAYGILILAR, SICAKLAR</em>
+* `EMPTY` (23): <em>İLGİLİLER, GÜLERYÜZLÜLER, İYİLER, PİSLER, ALAKALILAR, GİBİLER, HARİKALAR, KİMLER, SAYGILILAR, SICAKLAR</em>
 
 <table>
   <tr><th>Paradigm <i>ver</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
@@ -62,7 +62,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="tr_tourism-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_tourism-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_tourism-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_tourism-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>VERMEYEYİM</em></td><td></td></tr>
 </table>
 
-`VerbForm` seems to be **lexical feature** of `VERB`. 99% lemmas (510) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `VERB`. 99% lemmas (505) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
@@ -73,19 +73,19 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1163; 100% of non-empty `VerbForm`): <em>DEĞİLDİ, DEĞİLİM, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER, DEĞİLDİR</em>
-* `EMPTY` (146): <em>DEĞİL, DEĞİLİM, DEĞİLLER, Mİ, MİYİM, MU, MİYDİ</em>
+* `EMPTY` (142): <em>DEĞİL, DEĞİLİM, DEĞİLLER, MİYİM, MU, MİYDİ</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1578; 100%),
-<tt>VERB --[<tt><a href="tr_tourism-dep-conj.html">conj</a></tt>]--> VERB</tt> (202; 100%),
-<tt>VERB --[<tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (100; 100%),
-<tt>VERB --[<tt><a href="tr_tourism-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (17; 100%),
+<tt>VERB --[<tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1510; 100%),
+<tt>VERB --[<tt><a href="tr_tourism-dep-conj.html">conj</a></tt>]--> VERB</tt> (198; 99%),
+<tt>VERB --[<tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (97; 100%),
+<tt>VERB --[<tt><a href="tr_tourism-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (16; 100%),
 <tt>VERB --[<tt><a href="tr_tourism-dep-compound.html">compound</a></tt>]--> VERB</tt> (16; 100%),
 <tt>VERB --[<tt><a href="tr_tourism-dep-obl.html">obl</a></tt>]--> VERB</tt> (10; 100%),
 <tt>VERB --[<tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (5; 100%),
-<tt>VERB --[<tt><a href="tr_tourism-dep-obj.html">obj</a></tt>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (4; 100%),
+<tt>VERB --[<tt><a href="tr_tourism-dep-obj.html">obj</a></tt>]--> VERB</tt> (4; 100%),
 <tt>VERB --[<tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (3; 75%).
 

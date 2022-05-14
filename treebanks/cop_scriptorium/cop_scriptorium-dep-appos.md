@@ -26,7 +26,7 @@ The following 16 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	ⲉ	ⲉⲣⲉ	PART	CFOC	_	5	mark	_	_
 3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 4	ⲛⲁ	ⲛⲁ	AUX	FUT	_	5	aux	_	_
-5	ⲣϩⲱⲃ	ⲣϩⲱⲃ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ⲣ-ϩⲱⲃ|Orig=ⲣ̄ϩⲱⲃ
+5	ⲣϩⲱⲃ	ⲣϩⲱⲃ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ⲣ-ϩⲱⲃ|Orig=ⲣ̄ϩⲱⲃ
 6	ⲙ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲙ̄
 7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(person
 8	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	5	obl	_	_

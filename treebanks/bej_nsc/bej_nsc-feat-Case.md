@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Beja-NSC: Features: `Case`
 
 This feature is universal.
-It occurs with 9 different values: `Abl`, `Acc`, `Com`, `Dat`, `Dis`, `Gen`, `Loc`, `Nom`, `Voc`.
+It occurs with 8 different values: `Abl`, `Acc`, `Com`, `Dat`, `Dis`, `Gen`, `Loc`, `Nom`.
 
-144 tokens (13%) have a non-empty value of `Case`.
-38 types (14%) occur at least once with a non-empty value of `Case`.
+131 tokens (15%) have a non-empty value of `Case`.
+34 types (12%) occur at least once with a non-empty value of `Case`.
 1 lemmas (0) occur at least once with a non-empty value of `Case`.
-The feature is used with 4 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (70; 6% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (48; 4% instances), <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> (13; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (70; 8% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (48; 6% instances), <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (13; 2% instances).
 
 ### `DET`
 
@@ -28,9 +28,9 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PRON`
 
-48 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (20% of all `PRON` tokens) have a non-empty value of `Case`.
+48 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (61% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="bej_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (46; 96%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 56%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 56%), <tt><a href="bej_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (25; 52%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Dat` (2; 4% of non-empty `Case`): <em>hoː</em>
 * `Gen` (1; 2% of non-empty `Case`): <em>=iji</em>
 * `Nom` (14; 29% of non-empty `Case`): <em>=i, ani, =uːn, hinin, =aː, beːn</em>
-* `EMPTY` (187): <em>i-, a-, =heːb, -an, iː-, -ja, -i, ti-, -n, =oː</em>
+* `EMPTY` (31): <em>=heːb, =oː, kina, =joː, naːn</em>
 
 ### `ADP`
 
@@ -54,16 +54,4 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Dis` (3; 23% of non-empty `Case`): <em>=ka</em>
 * `Loc` (7; 54% of non-empty `Case`): <em>=iːb, =eːb</em>
 * `EMPTY` (12): <em>dh, geːb, =da, baːji, dh#, dhaːj, harʔiː, suːr, whiː</em>
-
-### `PART`
-
-13 <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> tokens (35% of all `PART` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 85%).
-
-`PART` tokens may have the following values of `Case`:
-
-* `Gen` (11; 85% of non-empty `Case`): <em>-i, -eː, -jeː</em>
-* `Voc` (2; 15% of non-empty `Case`): <em>-ej</em>
-* `EMPTY` (24): <em>ontʔa, -a, han, bak, nuːn, =ja, ajwa, ja, ki=, na</em>
 

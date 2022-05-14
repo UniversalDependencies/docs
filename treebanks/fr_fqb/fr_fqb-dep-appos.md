@@ -51,9 +51,9 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 6	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes	7	det	_	_
 7	réplique	réplique	NOUN	_	Gender=Fem|Number=Sing	4	obl:arg	_	_
 8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	Can	Can	X	_	_	7	appos	_	_
-10	we	we	X	_	_	9	flat:foreign	_	_
-11	talk	talk	X	_	_	9	flat:foreign	_	SpaceAfter=No
+9	Can	Can	X	_	Foreign=Yes	7	appos	_	_
+10	we	we	X	_	Foreign=Yes	9	flat:foreign	_	_
+11	talk	talk	X	_	Foreign=Yes	9	flat:foreign	_	SpaceAfter=No
 12	"	"	PUNCT	_	_	9	punct	_	_
 13	?	?	PUNCT	_	_	4	punct	_	_
 

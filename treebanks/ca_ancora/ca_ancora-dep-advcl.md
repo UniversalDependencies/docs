@@ -31,9 +31,9 @@ The following 54 pairs of parts of speech are connected with `advcl`: <tt><a hre
 7	ser	ser	AUX	vsn0000	VerbForm=Inf	8	aux	8:aux	_
 8	preguntat	preguntar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	3:advcl	_
 9	sobre	sobre	ADP	sps00	_	12	case	12:case	_
-10	els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	12:det	_
+10	els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	12:det	Entity=(CESSCATAAP1998120167c8--3-CorefType:ident,gstype:gen
 11	futurs	futur	ADJ	aq0mp0	Gender=Masc|Number=Plur	12	amod	12:amod	_
-12	sortejos	sorteig	NOUN	ncmp000	Gender=Masc|Number=Plur	8	obj	8:obj	SpaceAfter=No|ClusterId=CESS-CAT-AAP-19981201-67-c8|ClusterType=Gen|MentionSpan=10-12|MentionMisc=CorefType:ident
+12	sortejos	sorteig	NOUN	ncmp000	Gender=Masc|Number=Plur	8	obj	8:obj	SpaceAfter=No|Entity=CESSCATAAP1998120167c8)
 13	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 
 ~~~
@@ -47,15 +47,15 @@ The following 54 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 9 11 advcl	color:blue
 1	Ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	2:aux	_
 2	fet	fer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
-3	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	4	det	4:det	_
-4	cosa	cosa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	2:obj	ClusterId=CESS-CAT-AAP-19990702-12-s7.sn.6|ClusterType=Gen|MentionSpan=3-11
+3	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	4	det	4:det	Entity=(CESSCATAAP1999070212s7.sn.6--2-gstype:gen
+4	cosa	cosa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	2:obj	_
 5	molt	molt	ADV	rg	_	6	advmod	6:advmod	_
 6	greu	greu	ADJ	aq0cs0	Number=Sing	4	amod	4:amod	SpaceAfter=No
 7	,	,	PUNCT	fc	PunctType=Comm	9	punct	9:punct	_
 8	molt	molt	ADV	rg	_	9	advmod	9:advmod	_
 9	pitjor	pitjor	ADJ	aq0cs0	Degree=Cmp|Number=Sing	4	amod	4:amod	_
 10	que	que	SCONJ	cs	_	11	mark	11:mark	_
-11	mentir	mentir	VERB	vmn0000	VerbForm=Inf	9	advcl	9:advcl	SpaceAfter=No
+11	mentir	mentir	VERB	vmn0000	VerbForm=Inf	9	advcl	9:advcl	SpaceAfter=No|Entity=CESSCATAAP1999070212s7.sn.6)
 12	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
@@ -80,8 +80,8 @@ The following 54 pairs of parts of speech are connected with `advcl`: <tt><a hre
 11	"	"	PUNCT	fe	PunctType=Quot	2	punct	2:punct	SpaceAfter=No
 12	,	,	PUNCT	fc	PunctType=Comm	2	punct	2:punct	_
 13	deia	dir	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	0:root	_
-14	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	15	det	15:det	SpaceAfter=No
-15	administrativa	administrativa	NOUN	ncfs000	Gender=Fem|Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No|ClusterId=CESS-CAT-A-20010102-75-c6|ClusterType=Gen|MentionSpan=14-15|MentionMisc=CorefType:ident
+14	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	15	det	15:det	SpaceAfter=No|Entity=(CESSCATA2001010275c6--2-CorefType:ident,gstype:gen
+15	administrativa	administrativa	NOUN	ncfs000	Gender=Fem|Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No|Entity=CESSCATA2001010275c6)
 16	.	.	PUNCT	fp	PunctType=Peri	13	punct	13:punct	_
 
 ~~~

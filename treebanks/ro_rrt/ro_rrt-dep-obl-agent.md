@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="ro_rrt-dep-obl-pmod.html">obl:pmod</a></tt>, <tt><a href="ro_rrt-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-844 nodes (0%) are attached to their parents as `obl:agent`.
+852 nodes (0%) are attached to their parents as `obl:agent`.
 
-843 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.79502369668246.
+851 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.79342723004695.
 
-The following 10 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (667; 79% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (83; 10% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (36; 4% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (25; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (22; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (675; 79% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (83; 10% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (36; 4% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (25; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (22; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -66,7 +66,7 @@ The following 10 pairs of parts of speech are connected with `obl:agent`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 obl:agent	color:blue
-1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pv	_	_
+1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pass	_	_
 2	găseau	găsi	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	întotdeauna	întotdeauna	ADV	Rgp	Degree=Pos	2	advmod	_	_
 4	alți	alt	DET	Di3mpr---e	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|Position=Prenom|PronType=Ind	7	det	_	_

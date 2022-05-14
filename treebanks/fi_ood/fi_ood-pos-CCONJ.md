@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>vaan</em> (<tt><a href="fi_ood-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.565520).
+The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.566403).
 
 The 1st highest number of forms (2) was observed with the lemma “mutta”: <em>mut, mutta</em>.
 

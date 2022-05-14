@@ -22,21 +22,21 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 15 punct	color:blue
-1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	ref=MATT17.15
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.15
-3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	ref=MATT17.15
-4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	ref=MATT17.15
-5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT17.15
-6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT17.15
-7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MATT17.15
-8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.15
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT17.15
-10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	ref=MATT17.15
-11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	ref=MATT17.15|SpaceAfter=No
-12	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT17.15
-13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT17.15
-14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	ref=MATT17.15|SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT17.15
+1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	Ref=MATT17.15
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT17.15
+3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	Ref=MATT17.15
+4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	Ref=MATT17.15
+5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=MATT17.15
+6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT17.15
+7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	Ref=MATT17.15
+8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=MATT17.15
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	Ref=MATT17.15
+10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	Ref=MATT17.15
+11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	Ref=MATT17.15|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	11	punct	_	Ref=MATT17.15
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	Ref=MATT17.15
+14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	Ref=MATT17.15|SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	5	punct	_	Ref=MATT17.15
 
 ~~~
 
@@ -47,21 +47,21 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 punct	color:blue
-1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	ref=MATT17.15
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.15
-3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	ref=MATT17.15
-4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	ref=MATT17.15
-5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT17.15
-6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT17.15
-7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MATT17.15
-8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.15
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT17.15
-10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	ref=MATT17.15
-11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	ref=MATT17.15|SpaceAfter=No
-12	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT17.15
-13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT17.15
-14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	ref=MATT17.15|SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT17.15
+1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	Ref=MATT17.15
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT17.15
+3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	Ref=MATT17.15
+4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	Ref=MATT17.15
+5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=MATT17.15
+6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT17.15
+7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	Ref=MATT17.15
+8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=MATT17.15
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	Ref=MATT17.15
+10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	Ref=MATT17.15
+11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	Ref=MATT17.15|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	11	punct	_	Ref=MATT17.15
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	Ref=MATT17.15
+14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	Ref=MATT17.15|SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	5	punct	_	Ref=MATT17.15
 
 ~~~
 
@@ -72,11 +72,11 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 punct	color:blue
-1	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT20.28.content|SpaceAfter=No
-2	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT20.28.content
-3	sluga	slugă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	appos	_	ref=MATT20.28.content
-4	noastră	meu	DET	Ds1fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	3	det	_	ref=MATT20.28.content|SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT20.28.content
+1	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=MATT20.28.content|SpaceAfter=No
+2	,	,	PUNCT	COMMA	_	3	punct	_	Ref=MATT20.28.content
+3	sluga	slugă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	appos	_	Ref=MATT20.28.content
+4	noastră	meu	DET	Ds1fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	3	det	_	Ref=MATT20.28.content|SpaceAfter=No
+5	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT20.28.content
 
 ~~~
 

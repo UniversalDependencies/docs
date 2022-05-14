@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Alessandro Lenci, Simonetta Montemagni, Maria Simi.
 
 Repository: [UD_Italian-ISDT](https://github.com/UniversalDependencies/UD_Italian-ISDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -227,7 +227,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
       <li>DET: i, le, gli, tutti, suoi, alcuni, quanti, sue, questi, queste</li>
       <li>NOUN: anni, persone, paesi, opere, cittadini, diritti, giorni, membri, donne, condizioni</li>
       <li>NOUN-Part: partiti</li>
-      <li>PRON: ci, li, noi, tutti, altri, loro, quelli, quelle, quali, vi</li>
+      <li>PRON: ci, li, noi, tutti, altri, loro, quelli, quelle, quali, le</li>
       <li>PROPN: hye</li>
       <li>VERB: hanno, sono, fanno, fatti, stabilite, trovano, stabiliti, applicano, partecipano, vivono</li>
       <li>VERB-Fin: hanno, sono, fanno, trovano, applicano, partecipano, vivono, abbiamo, esistono, lavorano</li>
@@ -554,7 +554,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   <li>1
     <ul>
       <li>AUX-Fin: ho, abbiamo, possiamo, siamo, sono, vorrei, dobbiamo, devo, stiamo, posso</li>
-      <li>PRON: ci, mi, noi, io, me, I, ce, m', ve</li>
+      <li>PRON: ci, mi, noi, io, me, ce, I, m'</li>
       <li>VERB-Fin: credo, abbiamo, vediamo, so, ho, faccio, mettiamo, facciamo, metto, sappiamo</li>
     </ul>
   </li>
@@ -564,7 +564,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   <li>2
     <ul>
       <li>AUX-Fin: puoi, devi, sei, hai, avete, siete, vuoi, volete, Dovevi, abbiate</li>
-      <li>PRON: ti, vi, te, tu, voi</li>
+      <li>PRON: ti, vi, te, tu, voi, ve</li>
       <li>VERB: v., Nomina, Dimmi, vedi, fai, Elenca, hai, ricevi, Dammi, crei</li>
       <li>VERB-Fin: v., Nomina, Dimmi, vedi, fai, Elenca, hai, ricevi, Dammi, crei</li>
     </ul>
@@ -652,9 +652,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (767)</li>
       <li>VERB-Ger--NOUN (360)</li>
       <li>VERB-Ger--PRON (53)</li>
-      <li>VERB-Inf--NOUN (2882)</li>
+      <li>VERB-Inf--NOUN (2883)</li>
       <li>VERB-Inf--NOUN-ADP(in) (1)</li>
-      <li>VERB-Inf--PRON (447)</li>
+      <li>VERB-Inf--PRON (446)</li>
       <li>VERB-Part--NOUN (1334)</li>
       <li>VERB-Part--PRON (317)</li>
     </ul>
@@ -664,7 +664,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (315)</li>
+      <li>VERB-Fin--PRON (316)</li>
       <li>VERB-Ger--PRON (26)</li>
       <li>VERB-Inf--PRON (172)</li>
       <li>VERB-Part--PRON (159)</li>

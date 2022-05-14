@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (1%) are attached to their parents as `xcomp`.
+30 nodes (1%) are attached to their parents as `xcomp`.
 
-22 instances of `xcomp` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.67857142857143.
+24 instances of `xcomp` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (15; 54% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (8; 29% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (17; 57% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (8; 27% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

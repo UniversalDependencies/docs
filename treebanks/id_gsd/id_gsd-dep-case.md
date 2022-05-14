@@ -23,17 +23,17 @@ The following 14 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 case	color:blue
-1	Dibawah	dibawah	ADP	VSP	Typo=Yes	2	case	_	MorphInd=^di+bawah<n>_VSP$
-2	Pimpinan	pimpin	NOUN	NSD	Number=Sing	10	obl	_	MorphInd=^pimpin<v>+an_NSD$
-3	beliau	beliau	PRON	PS3	Number=Sing|Person=3|Polite=Form|PronType=Prs	2	nmod:poss	_	MorphInd=^beliau<p>_PS3$
-4	pun	pun	PART	T--	_	2	advmod:emph	_	MorphInd=^pun<t>_T--$
-5	SMA	sma	PROPN	NSD	_	10	nsubj	_	MorphInd=^sma<n>_NSD$
-6	Negeri	negeri	PROPN	NSD	_	5	flat:name	_	MorphInd=^negeri<n>_NSD$
-7	3	3	NUM	CC-	NumType=Card	8	nummod	_	MorphInd=^3<c>_CC-$
-8	Madiun	madiun	PROPN	X--	_	6	flat:name	_	MorphInd=^madiun<x>_X--$
-9	terus	terus	ADV	ASP	_	10	advmod	_	MorphInd=^terus<a>_ASP$
-10	berkembang	kembang	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No|MorphInd=^ber+kembang<v>_VSA$
-11	.	.	PUNCT	Z--	_	10	punct	_	MorphInd=^.<z>_Z--$
+1	Dibawah	dibawah	ADP	VSP	Typo=Yes	2	case	_	Morf=^di+bawah<n>_VSP$
+2	Pimpinan	pimpin	NOUN	NSD	Number=Sing	10	obl	_	Morf=^pimpin<v>+an_NSD$
+3	beliau	beliau	PRON	PS3	Number=Sing|Person=3|Polite=Form|PronType=Prs	2	nmod:poss	_	Morf=^beliau<p>_PS3$
+4	pun	pun	PART	T--	_	2	advmod:emph	_	Morf=^pun<t>_T--$
+5	SMA	sma	PROPN	NSD	_	10	nsubj	_	Morf=^sma<n>_NSD$
+6	Negeri	negeri	PROPN	NSD	_	5	flat:name	_	Morf=^negeri<n>_NSD$
+7	3	3	NUM	CC-	NumType=Card	8	nummod	_	Morf=^3<c>_CC-$
+8	Madiun	madiun	PROPN	X--	_	6	flat:name	_	Morf=^madiun<x>_X--$
+9	terus	terus	ADV	ASP	_	10	advmod	_	Morf=^terus<a>_ASP$
+10	berkembang	kembang	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No|Morf=^ber+kembang<v>_VSA$
+11	.	.	PUNCT	Z--	_	10	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -44,17 +44,17 @@ The following 14 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 case	color:blue
-1	Bagaimana	bagaimana	ADV	W--	PronType=Int	8	advmod	_	MorphInd=^bagaimana<w>_W--$
-2	dengan	dengan	ADP	R--	_	3	case	_	MorphInd=^dengan<r>_R--$
-3	Bu	bu	PROPN	X--	_	8	obl	_	MorphInd=^bu<x>_X--$
-4	Acih	acih	PROPN	X--	_	3	flat:name	_	MorphInd=^acih<x>_X--$
-5	yang	yang	PRON	S--	PronType=Rel	7	nsubj	_	MorphInd=^yang<s>_S--$
-6	juga	juga	ADV	D--	_	7	advmod	_	MorphInd=^juga<d>_D--$
-7	telanjur	telanjur	ADJ	X--	_	3	acl:relcl	_	MorphInd=^telanjur<x>_X--$
-8	sayang	sayang	VERB	NSD	_	0	root	_	MorphInd=^sayang<n>_NSD$
-9	kepada	kepada	ADP	R--	_	10	case	_	MorphInd=^kepada<r>_R--$
-10	Sinar	sinar	PROPN	NSD	_	8	obl	_	SpaceAfter=No|MorphInd=^sinar<n>_NSD$
-11	?	?	PUNCT	Z--	_	8	punct	_	MorphInd=^?<z>_Z--$
+1	Bagaimana	bagaimana	ADV	W--	PronType=Int	8	advmod	_	Morf=^bagaimana<w>_W--$
+2	dengan	dengan	ADP	R--	_	3	case	_	Morf=^dengan<r>_R--$
+3	Bu	bu	PROPN	X--	_	8	obl	_	Morf=^bu<x>_X--$
+4	Acih	acih	PROPN	X--	_	3	flat:name	_	Morf=^acih<x>_X--$
+5	yang	yang	PRON	S--	PronType=Rel	7	nsubj	_	Morf=^yang<s>_S--$
+6	juga	juga	ADV	D--	_	7	advmod	_	Morf=^juga<d>_D--$
+7	telanjur	telanjur	ADJ	X--	_	3	acl:relcl	_	Morf=^telanjur<x>_X--$
+8	sayang	sayang	VERB	NSD	_	0	root	_	Morf=^sayang<n>_NSD$
+9	kepada	kepada	ADP	R--	_	10	case	_	Morf=^kepada<r>_R--$
+10	Sinar	sinar	PROPN	NSD	_	8	obl	_	SpaceAfter=No|Morf=^sinar<n>_NSD$
+11	?	?	PUNCT	Z--	_	8	punct	_	Morf=^?<z>_Z--$
 
 ~~~
 
@@ -65,17 +65,17 @@ The following 14 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 case	color:blue
-1	Setelah	setelah	ADP	R--	_	4	case	_	MorphInd=^setelah<r>_R--$
-2	itu	itu	DET	B--	PronType=Dem	4	det	_	MorphInd=^itu<b>_B--$
-3	Rianti	rianti	PROPN	X--	_	4	nsubj	_	MorphInd=^rianti<x>_X--$
-4	bermain	main	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	MorphInd=^ber+main<v>_VSA$
-5	dalam	dalam	ADP	ASP	_	6	case	_	MorphInd=^dalam<a>_ASP$
-6	Ini	ini	PRON	B--	PronType=Dem	4	obl	_	MorphInd=^ini<b>_B--$
-7	kah	kah	PART	T--	_	6	advmod:emph	_	MorphInd=^kah<t>_T--$
-8	Rasa	rasa	PROPN	NSD	_	6	nmod	_	MorphInd=^rasa<n>_NSD$
-9	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	8	nmod:poss	_	MorphInd=^dia<p>_PS3$
-10	Cinta	cinta	PROPN	NSD	_	8	flat:name	_	SpaceAfter=No|MorphInd=^cinta<n>_NSD$
-11	?	?	PUNCT	Z--	_	4	punct	_	MorphInd=^?<z>_Z--$
+1	Setelah	setelah	ADP	R--	_	4	case	_	Morf=^setelah<r>_R--$
+2	itu	itu	DET	B--	PronType=Dem	4	det	_	Morf=^itu<b>_B--$
+3	Rianti	rianti	PROPN	X--	_	4	nsubj	_	Morf=^rianti<x>_X--$
+4	bermain	main	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^ber+main<v>_VSA$
+5	dalam	dalam	ADP	ASP	_	6	case	_	Morf=^dalam<a>_ASP$
+6	Ini	ini	PRON	B--	PronType=Dem	4	obl	_	Morf=^ini<b>_B--$
+7	kah	kah	PART	T--	_	6	advmod:emph	_	Morf=^kah<t>_T--$
+8	Rasa	rasa	PROPN	NSD	_	6	nmod	_	Morf=^rasa<n>_NSD$
+9	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	8	nmod:poss	_	Morf=^dia<p>_PS3$
+10	Cinta	cinta	PROPN	NSD	_	8	flat:name	_	SpaceAfter=No|Morf=^cinta<n>_NSD$
+11	?	?	PUNCT	Z--	_	4	punct	_	Morf=^?<z>_Z--$
 
 ~~~
 

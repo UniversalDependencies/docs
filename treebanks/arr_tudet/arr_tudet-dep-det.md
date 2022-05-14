@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	kɨgomət	_	PRON	pron	Int=Yes	2	det	_	_
-2	ip	_	NOUN	n	_	3	nsubj	_	_
-3	pay	_	VERB	v	Decl=Assert	0	root	_	_
+1	kɨgomət	kɨgomət	PRON	pron	Int=Yes	2	det	_	_
+2	ip	ip	NOUN	n	_	3	nsubj	_	_
+3	pay	pap	VERB	v	Decl=Assert	0	root	_	_
 
 ~~~
 

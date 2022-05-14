@@ -23,15 +23,15 @@ The following 49 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 nmod	color:blue
-1	Lalu	lalu	SCONJ	ASP	_	3	mark	_	MorphInd=^lalu<a>_ASP$
-2	bagaimana	bagaimana	ADV	W--	PronType=Int	3	advmod	_	MorphInd=^bagaimana<w>_W--$
-3	dengan	dengan	ADP	R--	_	0	root	_	MorphInd=^dengan<r>_R--$
-4	kisah	kisah	NOUN	NSD	Number=Sing	3	nmod	_	MorphInd=^kisah<n>_NSD$
-5	cinta	cinta	NOUN	NSD	Number=Sing	4	compound	_	MorphInd=^cinta<n>_NSD$
-6	Mutia	mutia	PROPN	X--	_	5	nmod	_	MorphInd=^mutia<x>_X--$
-7	dan	dan	CCONJ	H--	_	8	cc	_	MorphInd=^dan<h>_H--$
-8	Fadel	fadel	PROPN	F--	_	6	conj	_	SpaceAfter=No|MorphInd=^fadel<f>_F--$
-9	?	?	PUNCT	Z--	_	3	punct	_	MorphInd=^?<z>_Z--$
+1	Lalu	lalu	SCONJ	ASP	_	3	mark	_	Morf=^lalu<a>_ASP$
+2	bagaimana	bagaimana	ADV	W--	PronType=Int	3	advmod	_	Morf=^bagaimana<w>_W--$
+3	dengan	dengan	ADP	R--	_	0	root	_	Morf=^dengan<r>_R--$
+4	kisah	kisah	NOUN	NSD	Number=Sing	3	nmod	_	Morf=^kisah<n>_NSD$
+5	cinta	cinta	NOUN	NSD	Number=Sing	4	compound	_	Morf=^cinta<n>_NSD$
+6	Mutia	mutia	PROPN	X--	_	5	nmod	_	Morf=^mutia<x>_X--$
+7	dan	dan	CCONJ	H--	_	8	cc	_	Morf=^dan<h>_H--$
+8	Fadel	fadel	PROPN	F--	_	6	conj	_	SpaceAfter=No|Morf=^fadel<f>_F--$
+9	?	?	PUNCT	Z--	_	3	punct	_	Morf=^?<z>_Z--$
 
 ~~~
 
@@ -42,16 +42,16 @@ The following 49 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 9 nmod	color:blue
-1	Film	film	NOUN	NSD	Number=Sing	3	nsubj:pass	_	MorphInd=^film<n>_NSD$
-2	ini	ini	DET	B--	PronType=Dem	1	det	_	MorphInd=^ini<b>_B--$
-3	terdiri	diri	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	MorphInd=^ter+diri<n>_VSP$
-4	dari	dari	ADP	R--	_	6	case	_	MorphInd=^dari<r>_R--$
-5	6	6	NUM	CC-	NumType=Card	6	nummod	_	MorphInd=^6<c>_CC-$
-6	musim	musim	NOUN	NSD	Number=Sing	3	obl	_	MorphInd=^musim<n>_NSD$
-7	dengan	dengan	ADP	R--	_	9	case	_	MorphInd=^dengan<r>_R--$
-8	137	137	NUM	CC-	NumType=Card	9	nummod	_	MorphInd=^137<c>_CC-$
-9	episiode	episiode	NOUN	X--	_	6	nmod	_	SpaceAfter=No|MorphInd=^episiode<x>_X--$
-10	.	.	PUNCT	Z--	_	3	punct	_	MorphInd=^.<z>_Z--$
+1	Film	film	NOUN	NSD	Number=Sing	3	nsubj:pass	_	Morf=^film<n>_NSD$
+2	ini	ini	DET	B--	PronType=Dem	1	det	_	Morf=^ini<b>_B--$
+3	terdiri	diri	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^ter+diri<n>_VSP$
+4	dari	dari	ADP	R--	_	6	case	_	Morf=^dari<r>_R--$
+5	6	6	NUM	CC-	NumType=Card	6	nummod	_	Morf=^6<c>_CC-$
+6	musim	musim	NOUN	NSD	Number=Sing	3	obl	_	Morf=^musim<n>_NSD$
+7	dengan	dengan	ADP	R--	_	9	case	_	Morf=^dengan<r>_R--$
+8	137	137	NUM	CC-	NumType=Card	9	nummod	_	Morf=^137<c>_CC-$
+9	episiode	episiode	NOUN	X--	_	6	nmod	_	SpaceAfter=No|Morf=^episiode<x>_X--$
+10	.	.	PUNCT	Z--	_	3	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -62,17 +62,17 @@ The following 49 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nmod	color:blue
-1	The	the	PROPN	F--	_	3	nmod	_	MorphInd=^the<f>_F--$
-2	Deadly	deadly	PROPN	X--	_	3	amod	_	MorphInd=^deadly<x>_X--$
-3	Disciple	disciple	PROPN	X--	_	5	nsubj	_	MorphInd=^disciple<x>_X--$
-4	adalah	adalah	AUX	O--	_	5	cop	_	MorphInd=^adalah<o>_O--$
-5	film	film	NOUN	NSD	Number=Sing	0	root	_	MorphInd=^film<n>_NSD$
-6	laga	laga	NOUN	NSD	Number=Sing	5	compound	_	MorphInd=^laga<n>_NSD$
-7	komedi	komedi	NOUN	NSD	Number=Sing	6	compound	_	MorphInd=^komedi<n>_NSD$
-8	Malaysia	malaysia	PROPN	F--	_	6	nmod	_	MorphInd=^malaysia<f>_F--$
-9	tahun	tahun	NOUN	NSD	Number=Sing	5	compound	_	MorphInd=^tahun<n>_NSD$
-10	2001	2001	NUM	CC-	NumType=Card	9	nummod	_	SpaceAfter=No|MorphInd=^2001<c>_CC-$
-11	.	.	PUNCT	Z--	_	5	punct	_	MorphInd=^.<z>_Z--$
+1	The	the	PROPN	F--	_	3	nmod	_	Morf=^the<f>_F--$
+2	Deadly	deadly	PROPN	X--	_	3	amod	_	Morf=^deadly<x>_X--$
+3	Disciple	disciple	PROPN	X--	_	5	nsubj	_	Morf=^disciple<x>_X--$
+4	adalah	adalah	AUX	O--	_	5	cop	_	Morf=^adalah<o>_O--$
+5	film	film	NOUN	NSD	Number=Sing	0	root	_	Morf=^film<n>_NSD$
+6	laga	laga	NOUN	NSD	Number=Sing	5	compound	_	Morf=^laga<n>_NSD$
+7	komedi	komedi	NOUN	NSD	Number=Sing	6	compound	_	Morf=^komedi<n>_NSD$
+8	Malaysia	malaysia	PROPN	F--	_	6	nmod	_	Morf=^malaysia<f>_F--$
+9	tahun	tahun	NOUN	NSD	Number=Sing	5	compound	_	Morf=^tahun<n>_NSD$
+10	2001	2001	NUM	CC-	NumType=Card	9	nummod	_	SpaceAfter=No|Morf=^2001<c>_CC-$
+11	.	.	PUNCT	Z--	_	5	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 

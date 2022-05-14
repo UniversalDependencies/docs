@@ -30,7 +30,7 @@ The following 39 pairs of parts of speech are connected with `appos`: <tt><a hre
 6	,	,	PUNCT	Punct	_	7	punct	7:punct	_
 7	konstaapeli	konstaapeli	NOUN	N	Case=Nom|Number=Sing	5	appos	5:appos	_
 8	kaiken	kaikki	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	9	obj	9:obj	_
-9	nähnyt	nähdä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	7	acl	7:acl	SpaceAfter=No
+9	nähnyt	nähdä	VERB	V	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	7	acl	7:acl	SpaceAfter=No
 10	?	?	PUNCT	Punct	_	1	punct	1:punct	_
 
 ~~~

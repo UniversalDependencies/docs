@@ -12,7 +12,7 @@ It occurs with 15 different values: `Abe`, `Abl`, `Acc`, `Ade`, `All`, `Com`, `E
 8765 tokens (55%) have a non-empty value of `Case`.
 6237 types (82%) occur at least once with a non-empty value of `Case`.
 4086 lemmas (83%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (4207; 27% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (1505; 10% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (1160; 7% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (1080; 7% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (631; 4% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (124; 1% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (52; 0% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fi_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (4207; 27% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (1504; 10% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (1160; 7% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (1083; 7% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (629; 4% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (124; 1% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (52; 0% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fi_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -46,9 +46,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-1505 <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+1504 <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1459; 97%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1458; 97%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `All` (30; 2% of non-empty `Case`): <em>Disneylle, Yhdysvalloille, Angelille, BBC:lle, Britannialle, CNN:lle, Caesarille, Clubille, Companylle, DFB:lle</em>
 * `Ela` (38; 3% of non-empty `Case`): <em>Trumpista, Amazonista, Averysta, Brexitistä, Clintonista, Coloradosta, Denveristä, Douglasista, EU:sta, Espanjasta</em>
 * `Ess` (3; 0% of non-empty `Case`): <em>Etelä-Kaukasiana, Pohjois-Carolina, Pohjois-Kaukasiana</em>
-* `Gen` (470; 31% of non-empty `Case`): <em>Ranskan, Australian, Kiinan, Venäjän, Yhdysvaltain, Euroopan, Britannian, Kongin, Makedonian, Välimeren</em>
+* `Gen` (469; 31% of non-empty `Case`): <em>Ranskan, Australian, Kiinan, Venäjän, Yhdysvaltain, Euroopan, Britannian, Kongin, Makedonian, Välimeren</em>
 * `Ill` (43; 3% of non-empty `Case`): <em>Aasiaan, Adrianmereen, Agoraan, Albaniaan, Albanyyn, Amerikkoihin, Amurruun, Angelesiin, Belgradiin, Britanniaan</em>
 * `Ine` (67; 4% of non-empty `Case`): <em>Isossa-Britanniassa, Saksassa, Ukrainassa, Aasiassa, Abbotsfordissa, Afrikassa, Alankomaissa, Alaskassa, Australiassa, Badarpurissa</em>
 * `Nom` (792; 53% of non-empty `Case`): <em>of, Hong, de, the, Donald, Joseph, Kiina, Qing, North, Trump</em>
@@ -97,22 +97,22 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `ADJ`
 
-1080 <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Case`.
+1083 <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (928; 86%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (739; 68%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (929; 86%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (741; 68%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Abl` (10; 1% of non-empty `Case`): <em>suurelta, epäasialliselta, erilaiselta, todelliselta, tyyneltä, varhaiselta, yllättävältä</em>
 * `Ade` (28; 3% of non-empty `Case`): <em>suurimmalla, kansallisella, Jälkiklassisella, Suuremmilla, Toisella, Tyynellä, Viidennellä, institutionaalisella, kannettavalla, kansainvälisillä</em>
 * `All` (16; 1% of non-empty `Case`): <em>alaville, amerikkalaisille, itäiselle, kansainväliselle, kolmannelle, kuiville, laajemmalle, meksikolaisille, poliittisille, rikkaille</em>
-* `Ela` (46; 4% of non-empty `Case`): <em>omasta, tarkasta, Demografisesta, Rutiininomaisesta, aiemmasta, alituisesta, ankarista, avoimesta, espanjalaisista, etnisistä</em>
+* `Ela` (47; 4% of non-empty `Case`): <em>omasta, tarkasta, Demografisesta, Rutiininomaisesta, aiemmasta, alituisesta, ankarista, avoimesta, espanjalaisista, etnisistä</em>
 * `Ess` (36; 3% of non-empty `Case`): <em>ensimmäisenä, seuraavana, vaatimattomana, Innokkaana, Kolmantena, Myöhempinä, alaisena, alastomana, alueellisena, avoimena</em>
-* `Gen` (220; 20% of non-empty `Case`): <em>uuden, ensimmäisen, pienen, korkean, poliittisen, suuren, suurimman, uusien, viimeisen, Yhdistyneen</em>
+* `Gen` (221; 20% of non-empty `Case`): <em>uuden, ensimmäisen, pienen, korkean, poliittisen, suuren, suurimman, uusien, viimeisen, Yhdistyneen</em>
 * `Ill` (52; 5% of non-empty `Case`): <em>useisiin, kansallisiin, pieniin, Kolmanteen, Thaimaalaisiin, Tämänhetkisiin, aseelliseen, digitaaliseen, epätavallisempiin, epätavanomaisiin</em>
 * `Ine` (42; 4% of non-empty `Case`): <em>kansainvälisessä, korkeimmassa, parhaassa, suuressa, Alemmassa, Kaukaisimmassa, Monikansallisessa, Ruotsalaisessa, Tammikuullisessa, Toisessa</em>
 * `Ins` (3; 0% of non-empty `Case`): <em>avoimin, kevyin, selkein</em>
-* `Nom` (349; 32% of non-empty `Case`): <em>suurin, ensimmäinen, suuri, suuret, viimeinen, Jälkimmäinen, kansallinen, kreikkalaiset, merkittävä, omat</em>
+* `Nom` (350; 32% of non-empty `Case`): <em>suurin, ensimmäinen, suuri, suuret, viimeinen, Jälkimmäinen, kansallinen, kreikkalaiset, merkittävä, omat</em>
 * `Par` (247; 23% of non-empty `Case`): <em>uusia, useita, ensimmäistä, lukuisia, erilaisia, mahdollista, suuria, uutta, mahtavaa, aikaista</em>
 * `Tra` (31; 3% of non-empty `Case`): <em>selväksi, merkittäväksi, valmiiksi, aktiiviseksi, harmonisemmaksi, hämmentyneiksi, itsenäiseksi, järkevämmäksi, kansalliseksi, lyhyeksi</em>
 * `EMPTY` (59): <em>viime, koko, eri, 1., 30., I, 10., 21., 3., 31.</em>
@@ -126,9 +126,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `VERB`
 
-631 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Case`.
+629 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (631; 100%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (631; 100%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (631; 100%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (503; 80%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (490; 78%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (451; 71%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (451; 71%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (449; 71%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt> (320; 51%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (629; 100%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (629; 100%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (629; 100%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (502; 80%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (489; 78%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (449; 71%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (449; 71%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt> (318; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -136,25 +136,25 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Abl` (2; 0% of non-empty `Case`): <em>osallistuneilta, räätälöidyltä</em>
 * `Ade` (20; 3% of non-empty `Case`): <em>käyttämällä, ampumalla, antamalla, auttamalla, keskittyneillä, kovettamalla, liittoutuneilla, lukemalla, luomalla, lähettämällä</em>
 * `All` (6; 1% of non-empty `Case`): <em>kerääntyneelle, kohdistetuille, käytettäville, sidotuille, sijaitsevalle, valituille</em>
-* `Ela` (30; 5% of non-empty `Case`): <em>kasvaneista, osoittamasta, pitämästä, uskomasta, jaetusta, johtavasta, julkaistusta, jääneistä, kestäneestä, kilpailemasta</em>
+* `Ela` (29; 5% of non-empty `Case`): <em>kasvaneista, osoittamasta, pitämästä, uskomasta, jaetusta, johtavasta, julkaistusta, jääneistä, kestäneestä, kilpailemasta</em>
 * `Ess` (11; 2% of non-empty `Case`): <em>katsottuna, edustettuina, johtamina, kiinnitettynä, lämmittävänä, muotoiltuna, sanottuna, vaikuttavana, verrattuna, vierailevana</em>
 * `Gen` (68; 11% of non-empty `Case`): <em>olevan, sijaitsevan, tulleen, ympäröivän, Luodun, alkavan, edustavan, epäiltyjen, erottavan, esittämien</em>
 * `Ill` (76; 12% of non-empty `Case`): <em>havaitsemaan, hoitamaan, kilpailemaan, laittamaan, ottamaan, pitämään, toimimaan, tuottamaan, ylittämään, ajattelemaan</em>
 * `Ine` (47; 7% of non-empty `Case`): <em>olemassa, allekirjoitetussa, liittyvissä, tulossa, Puhuessaan, Viettäessään, antaessaan, eläessään, etsiessään, hallittavissa</em>
-* `Ins` (41; 6% of non-empty `Case`): <em>liittyen, lukien, johtuen, muodostaen, Ohittaen, Poiketen, antaen, ehdottaen, helpottaen, jättäen</em>
-* `Nom` (266; 42% of non-empty `Case`): <em>tullut, käytetty, oleva, olevat, saanut, tehty, halunnut, ollut, päättänyt, tehnyt</em>
+* `Ins` (41; 7% of non-empty `Case`): <em>liittyen, lukien, johtuen, muodostaen, Ohittaen, Poiketen, antaen, ehdottaen, helpottaen, jättäen</em>
+* `Nom` (265; 42% of non-empty `Case`): <em>tullut, käytetty, oleva, olevat, saanut, tehty, halunnut, ollut, päättänyt, tehnyt</em>
 * `Par` (38; 6% of non-empty `Case`): <em>olevaa, Palattuaan, Päätettyään, altistuneita, aseistettuja, asuttuaan, asuvaa, ehdotettuja, estettyä, hermostunutta</em>
 * `Tra` (24; 4% of non-empty `Case`): <em>saadakseen, keskittyäkseen, Päästäkseen, alkavaksi, arvioitavaksi, edistääkseen, hyötyäkseen, keskustellakseen, käyttääkseen, löytääkseni</em>
 * `EMPTY` (1386): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, auttaa, johti, sai, syntyi</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Par</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ollut</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oleva</em></td><td><em>olevan</em></td><td><em>olevaa</em></td><td></td><td><em>olevaan</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olleet</em></td><td></td><td></td><td></td><td></td><td><em>olleista</em></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ollut</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olevat</em></td><td><em>olevien</em></td><td><em>olevia</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td><em>olemassa</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ollut</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oleva</em></td><td><em>olevan</em></td><td><em>olevaa</em></td><td></td><td><em>olevaan</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olleet</em></td><td></td><td></td><td></td><td></td><td><em>olleista</em></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ollut</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olevat</em></td><td><em>olevien</em></td><td><em>olevia</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `NUM`
@@ -199,14 +199,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ollut</em></td><td><em>olleen</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>oltu</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevansa</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevan</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olleet</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ollut</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=2</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ollessa</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td><em>olemaan</em></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ollut</em></td><td><em>olleen</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>oltu</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevansa</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevan</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olleet</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ollut</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `SYM`
@@ -238,11 +238,11 @@ The most frequent other feature values with which `SYM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="fi_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (817; 95%),
+<tt>NOUN --[<tt><a href="fi_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (818; 95%),
 <tt>PROPN --[<tt><a href="fi_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (253; 69%),
 <tt>NOUN --[<tt><a href="fi_pud-dep-det.html">det</a></tt>]--> PRON</tt> (219; 95%),
 <tt>NOUN --[<tt><a href="fi_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (218; 87%),
-<tt>NOUN --[<tt><a href="fi_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (178; 88%),
+<tt>NOUN --[<tt><a href="fi_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (177; 88%),
 <tt>PROPN --[<tt><a href="fi_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (71; 91%),
 <tt>PROPN --[<tt><a href="fi_pud-dep-compound-nn.html">compound:nn</a></tt>]--> NOUN</tt> (59; 84%),
 <tt>ADJ --[<tt><a href="fi_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (23; 100%),

@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 4	Steven	steven	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nmod	5:nmod:nom	_
 5	Austad	austad	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 6	z	z	ADP	Eu2	AdpType=Prep|Case=Gen	7	case	7:case	_
-7	University	university	X	%	Foreign=Yes	5	nmod	5:nmod:z	_
+7	University	university	X	%	Foreign=Yes	5	nmod	5:nmod:z:gen	_
 8	of	of	X	%	Foreign=Yes	9	case	9:case	_
 9	Idaho	idaho	X	%	Foreign=Yes	7	flat:foreign	7:flat:foreign	SpaceAfter=No
 10	.	.	PUNCT	ZIP	_	1	punct	1:punct	_

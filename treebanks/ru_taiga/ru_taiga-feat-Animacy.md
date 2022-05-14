@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-53856 tokens (27%) have a non-empty value of `Animacy`.
-20214 types (53%) occur at least once with a non-empty value of `Animacy`.
-10515 lemmas (52%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (43560; 22% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (4116; 2% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (3794; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (1187; 1% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (906; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (177; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (116; 0% instances).
+53847 tokens (27%) have a non-empty value of `Animacy`.
+20215 types (53%) occur at least once with a non-empty value of `Animacy`.
+10513 lemmas (52%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (43554; 22% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (4114; 2% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (3793; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (1187; 1% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (906; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (177; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (116; 0% instances).
 
 ### `NOUN`
 
-43560 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+43554 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31851; 73%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31845; 73%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Anim` (6448; 15% of non-empty `Animacy`): <em>люди, человек, сотрудники, людей, детей, продавцы, человека, дети, девушка, парень</em>
-* `Inan` (37112; 85% of non-empty `Animacy`): <em>магазин, цены, день, раз, место, время, лет, выбор, персонал, года</em>
+* `Inan` (37106; 85% of non-empty `Animacy`): <em>магазин, цены, день, раз, время, место, лет, выбор, персонал, года</em>
 * `EMPTY` (702): <em>тц, г., см, мл, кг, с., р, р., км, м</em>
 
 <table>
@@ -35,19 +35,19 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>персонал</em></td><td><em>персонал</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (7781) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (7780) occur only with one value of `Animacy`.
 
 ### `PRON`
 
-4116 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (37% of all `PRON` tokens) have a non-empty value of `Animacy`.
+4114 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (37% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4116; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3875; 94%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (3372; 82%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4114; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3873; 94%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (3370; 82%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Anim` (702; 17% of non-empty `Animacy`): <em>кто, всем, все, никто, всех, кого, кому, кто-то, кем, никому</em>
-* `Inan` (3414; 83% of non-empty `Animacy`): <em>это, что, все, всё, то, ничего, этого, чем, того, что-то</em>
-* `EMPTY` (7101): <em>я, он, мне, меня, она, они, мы, его, вы, ты</em>
+* `Inan` (3412; 83% of non-empty `Animacy`): <em>это, что, все, всё, то, ничего, этого, чем, того, что-то</em>
+* `EMPTY` (7100): <em>я, он, мне, меня, она, они, мы, его, вы, ты</em>
 
 <table>
   <tr><th>Paradigm <i>то</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -63,14 +63,14 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 ### `PROPN`
 
-3794 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (85% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+3793 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (85% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3727; 98%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2412; 64%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3726; 98%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2411; 64%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
 * `Anim` (1986; 52% of non-empty `Animacy`): <em>Петрович, жириновский, Ирина, Генрих, Петровича, Катя, Петя, александр, Елена, Женя</em>
-* `Inan` (1808; 48% of non-empty `Animacy`): <em>россии, парнас, Россия, сочи, яблоко, Москве, Убейд, москвы, крым, Русь</em>
+* `Inan` (1807; 48% of non-empty `Animacy`): <em>россии, парнас, Россия, сочи, яблоко, Москве, Убейд, москвы, крым, Русь</em>
 * `EMPTY` (667): <em>@xxxxxx, сша, ЛДПР, М., СССР, РФ, @yabloko, А., кпрф, спб</em>
 
 <table>
@@ -84,7 +84,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
   <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Prs</tt></tt></td><td><em>Петрович</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (1818) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (1817) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 * `Anim` (96; 8% of non-empty `Animacy`): <em>второго, младшего, главного, маленьких, мелкого, нового, остальных, прекрасных, 19-летнего, Будущих</em>
 * `Inan` (1091; 92% of non-empty `Animacy`): <em>первый, последний, данный, последние, следующий, новый, второй, хорошие, большой, целый</em>
-* `EMPTY` (15701): <em>хороший, большой, нужно, отличный, лучше, хорошая, неплохой, хорошо, хорошее, вежливый</em>
+* `EMPTY` (15698): <em>хороший, большой, нужно, отличный, лучше, хорошая, неплохой, хорошо, хорошее, вежливый</em>
 
 <table>
   <tr><th>Paradigm <i>хороший</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -117,7 +117,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 * `Anim` (116; 13% of non-empty `Animacy`): <em>всех, своих, тех, своего, других, этого, другого, этих, моего, того</em>
 * `Inan` (790; 87% of non-empty `Animacy`): <em>этот, все, каждый, эти, свои, свой, любой, мой, такие, весь</em>
-* `EMPTY` (4794): <em>все, его, этой, такой, сам, их, это, такое, этом, этот</em>
+* `EMPTY` (4792): <em>все, его, этой, такой, сам, их, это, такое, этом, этот</em>
 
 <table>
   <tr><th>Paradigm <i>этот</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -153,7 +153,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (22; 19% of non-empty `Animacy`): <em>желающих, имеющих, вылетающих, жертвующего, живущих, звавшего, курящих, наблюдающий, обвиняемого, обвисшего</em>
 * `Inan` (94; 81% of non-empty `Animacy`): <em>интересующие, просроченные, связанные, собранные, улучшенный, Заглохший, активированый, асфальтированные, бегущий, вложеный</em>
-* `EMPTY` (24630): <em>есть, можно, нет, может, надо, могу, делать, хочу, здравствуйте, нравится</em>
+* `EMPTY` (24631): <em>есть, можно, нет, может, надо, могу, делать, хочу, здравствуйте, нравится</em>
 
 <table>
   <tr><th>Paradigm <i>стоять</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

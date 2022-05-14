@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-49 tokens (0%) have a non-empty value of `Typo`.
-41 types (0%) occur at least once with a non-empty value of `Typo`.
-36 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 7 part-of-speech tags: <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+53 tokens (0%) have a non-empty value of `Typo`.
+45 types (0%) occur at least once with a non-empty value of `Typo`.
+40 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 8 part-of-speech tags: <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `DET`
 
@@ -38,35 +38,35 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 ### `NOUN`
 
-11 <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+10 <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 64%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6; 55%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6; 60%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 60%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (11; 100% of non-empty `Typo`): <em>anos2, campanha, cidades, mãos, pais, prazo, presidenta, produtividades, propietários, queixa</em>
+* `Yes` (10; 100% of non-empty `Typo`): <em>campanha, cidades, mãos, pais, prazo, presidenta, produtividades, propietários, queixa, setença</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (11) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Typo`.
 
 ### `VERB`
 
-5 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
+8 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 60%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 60%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5; 63%).
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (5; 100% of non-empty `Typo`): <em>deveria, encarregue, pasando, produzí, saiem</em>
+* `Yes` (8; 100% of non-empty `Typo`): <em>cumprimimos, deveria, disfrutam, encarregue, faconteceu, pasando, produzí, saiem</em>
 
 ### `ADV`
 
-1 <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+2 <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="pt_bosque-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="pt_bosque-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>asim</em>
+* `Yes` (2; 100% of non-empty `Typo`): <em>asim, inteligente-</em>
 
 ### `PRON`
 
@@ -87,4 +87,12 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 `PROPN` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>datafolha</em>
+
+### `SCONJ`
+
+1 <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Typo`.
+
+`SCONJ` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>uns</em>
 

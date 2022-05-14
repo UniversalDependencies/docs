@@ -23,9 +23,9 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat:foreign	color:blue
-1	Drinking	Drinking	X	_	_	0	root	_	_
-2	From	From	X	_	_	1	flat:foreign	_	_
-3	Home	Home	X	_	_	1	flat:foreign	_	SpaceAfter=No
+1	Drinking	Drinking	X	_	Foreign=Yes	0	root	_	_
+2	From	From	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	Home	Home	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

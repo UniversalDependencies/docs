@@ -11,21 +11,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_penn-feat-Number.html">Number</a></tt>, <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt>.
 
-98209 tokens (54%) have a non-empty value of `Number`.
-31257 types (89%) occur at least once with a non-empty value of `Number`.
-11825 lemmas (81%) occur at least once with a non-empty value of `Number`.
-The feature is used with 4 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (66734; 36% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (16009; 9% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> (15296; 8% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (170; 0% instances).
+98178 tokens (53%) have a non-empty value of `Number`.
+31240 types (89%) occur at least once with a non-empty value of `Number`.
+11811 lemmas (81%) occur at least once with a non-empty value of `Number`.
+The feature is used with 4 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (66725; 36% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15988; 9% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> (15295; 8% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (170; 0% instances).
 
 ### `NOUN`
 
-66734 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+66725 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (66734; 100%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44969; 67%), <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (44969; 67%), <tt><a href="tr_penn-feat-Case.html">Case</a></tt><tt>=Nom</tt> (41437; 62%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (66725; 100%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44965; 67%), <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (44965; 67%), <tt><a href="tr_penn-feat-Case.html">Case</a></tt><tt>=Nom</tt> (41429; 62%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (11756; 18% of non-empty `Number`): <em>fiyatları, hisseleri, satışlar, kıymetler, yatırımcılar, analistler, tahviller, şirketler, satışları, tahvilleri</em>
-* `Sing` (54978; 82% of non-empty `Number`): <em>bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</em>
+* `Plur` (11775; 18% of non-empty `Number`): <em>fiyatları, hisseleri, kıymetler, satışlar, yatırımcılar, analistler, tahviller, şirketler, satışları, tahvilleri</em>
+* `Sing` (54950; 82% of non-empty `Number`): <em>bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</em>
 
 <table>
   <tr><th>Paradigm <i>dolar</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -46,14 +46,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-16009 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Number`.
+15988 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15809; 99%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (14872; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13891; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13056; 82%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 80%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 57%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 50%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15807; 99%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (14853; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13872; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13054; 82%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 80%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 57%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 50%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (1187; 7% of non-empty `Number`): <em>söylediler, ediyorlar, istiyorlar, istiyoruz, söylüyorlar, ettiler, aldılar, verdiler, ediyoruz, yaptık</em>
-* `Sing` (14822; 93% of non-empty `Number`): <em>söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</em>
+* `Plur` (1183; 7% of non-empty `Number`): <em>söylediler, ediyorlar, istiyorlar, istiyoruz, söylüyorlar, ettiler, aldılar, verdiler, ediyoruz, yaptık</em>
+* `Sing` (14805; 93% of non-empty `Number`): <em>söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -138,14 +138,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-15296 <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Number`.
+15295 <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="tr_penn-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12896; 84%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="tr_penn-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12895; 84%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (83; 1% of non-empty `Number`): <em>Kıymetler, CD'ler, Bolar, CD'lerde, A'lar, Avustralyalılar, Blanding'ler, Borsalar, CD'lerin, CFC'ler</em>
-* `Sing` (15213; 99% of non-empty `Number`): <em>New, ABD, York, Corp., Dow, Jones, Wall, Cuma, Co., Inc.</em>
+* `Sing` (15212; 99% of non-empty `Number`): <em>New, ABD, York, Corp., Dow, Jones, Wall, Cuma, Co., Inc.</em>
 * `EMPTY` (263): <em>ABD'deki, ABD'li, Tokyo'daki, Kong'daki, York'taki, Avrupa'daki, Japonya'daki, Francisco'daki, Senato'daki, Londra'daki</em>
 
 <table>
@@ -156,7 +156,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="tr_penn-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>A</em></td><td><em>A'lar</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (5383) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (5381) occur only with one value of `Number`.
 
 ### `AUX`
 
@@ -188,13 +188,13 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="tr_penn-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9877; 67%),
-<tt>VERB --[<tt><a href="tr_penn-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5277; 67%),
-<tt>VERB --[<tt><a href="tr_penn-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4650; 80%),
-<tt>PROPN --[<tt><a href="tr_penn-dep-flat.html">flat</a></tt>]--> PROPN</tt> (3398; 99%),
-<tt>VERB --[<tt><a href="tr_penn-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3210; 70%),
+<tt>VERB --[<tt><a href="tr_penn-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5281; 67%),
+<tt>VERB --[<tt><a href="tr_penn-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4666; 80%),
+<tt>PROPN --[<tt><a href="tr_penn-dep-flat.html">flat</a></tt>]--> PROPN</tt> (3399; 99%),
+<tt>VERB --[<tt><a href="tr_penn-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3211; 70%),
 <tt>NOUN --[<tt><a href="tr_penn-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2820; 78%),
-<tt>VERB --[<tt><a href="tr_penn-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (2746; 98%),
-<tt>VERB --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2509; 90%),
-<tt>VERB --[<tt><a href="tr_penn-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2212; 84%),
-<tt>NOUN --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2058; 89%).
+<tt>VERB --[<tt><a href="tr_penn-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (2747; 98%),
+<tt>VERB --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2508; 90%),
+<tt>VERB --[<tt><a href="tr_penn-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2211; 84%),
+<tt>NOUN --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2059; 89%).
 

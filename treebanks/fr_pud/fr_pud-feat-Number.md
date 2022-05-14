@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 14869 tokens (60%) have a non-empty value of `Number`.
 5151 types (86%) occur at least once with a non-empty value of `Number`.
-3904 lemmas (85%) occur at least once with a non-empty value of `Number`.
+3903 lemmas (85%) occur at least once with a non-empty value of `Number`.
 The feature is used with 11 part-of-speech tags: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4672; 19% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3874; 16% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1739; 7% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1623; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1221; 5% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (974; 4% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (725; 3% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 3874 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3448; 89%), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2783; 72%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2018; 52%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3449; 89%), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2783; 72%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2018; 52%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -46,9 +46,10 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>le, l', l’, les, l‘</em></td><td><em>les, le</em></td></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la, l', l’, l‘</em></td><td><em>les</em></td></tr>
-  <tr><td><tt></tt></td><td><em>l'</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>le, l', l’, les, l‘</em></td><td><em>les, le</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la, l', l’, l‘</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>l'</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>L’</em></td><td></td></tr>
 </table>
 
 ### `VERB`

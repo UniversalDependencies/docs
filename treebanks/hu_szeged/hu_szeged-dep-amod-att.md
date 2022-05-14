@@ -50,7 +50,7 @@ The following 28 pairs of parts of speech are connected with `amod:att`: <tt><a 
 4	állása	állás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obl	_	_
 5	szerint	szerint	ADP	_	_	4	case	_	_
 6	az	az	DET	_	Definite=Def|PronType=Art	7	det	_	_
-7	utóbbira	utóbbi	NOUN	_	Case=Sub|Number=Sing	8	obl	_	_
+7	utóbbira	utóbbi	NOUN	_	Case=Sbl|Number=Sing	8	obl	_	_
 8	mutatkozik	mutatkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	10	amod:att	_	_
 10	esély	esély	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	SpaceAfter=No
@@ -68,7 +68,7 @@ The following 28 pairs of parts of speech are connected with `amod:att`: <tt><a 
 1	Ha	ha	SCONJ	_	_	5	mark	_	_
 2	a	a	DET	_	Definite=Def|PronType=Art	4	det	_	_
 3	magasabb	magas	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	4	amod:att	_	_
-4	rendűre	rendű	ADJ	_	Case=Sub|Degree=Pos|Number=Sing	5	obl	_	_
+4	rendűre	rendű	ADJ	_	Case=Sbl|Degree=Pos|Number=Sing	5	obl	_	_
 5	irányul	irányul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
 6	a	a	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	figyelmünk	figyelem	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	5	nsubj	_	SpaceAfter=No

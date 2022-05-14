@@ -65,7 +65,7 @@ The following 19 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	3:iobj	_
 3	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	che	che	SCONJ	CS	_	6	mark	6:mark	_
-5	siano	essere	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 6	proposte	proposta	NOUN	S	Gender=Fem|Number=Plur	3	csubj	3:csubj	_
 7	serie	serio	ADJ	A	Gender=Fem|Number=Plur	6	amod	6:amod	_
 8	e	e	CCONJ	CC	_	9	cc	9:cc	_

@@ -22,18 +22,18 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 iobj	color:blue
-1	Bandar	bandar	NOUN	NSD	Number=Sing	4	nsubj:pass	_	MorphInd=^bandar<n>_NSD$
-2	udara	udara	NOUN	NSD	Number=Sing	1	compound	_	MorphInd=^udara<n>_NSD$
-3	ini	ini	DET	B--	PronType=Dem	1	det	_	MorphInd=^ini<b>_B--$
-4	diberi	beri	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	MorphInd=^di+beri<v>_VSP$
-5	nama	nama	NOUN	NSD	Number=Sing	4	obj	_	MorphInd=^nama<n>_NSD$
-6	Venustiano	venustiano	PROPN	X--	_	4	iobj	_	MorphInd=^venustiano<x>_X--$
-7	Carranza	carranza	PROPN	X--	_	6	flat:name	_	SpaceAfter=No|MorphInd=^carranza<x>_X--$
-8	,	,	PUNCT	Z--	_	10	punct	_	MorphInd=^,<z>_Z--$
-9	seorang	orang	DET	B--	Definite=Ind|PronType=Art	10	det	_	MorphInd=^seorang<b>_B--$
-10	presiden	presiden	NOUN	NSD	Number=Sing	6	appos	_	MorphInd=^presiden<n>_NSD$
-11	Meksiko	meksiko	PROPN	NSD	_	10	nmod	_	SpaceAfter=No|MorphInd=^meksiko<n>_NSD$
-12	.	.	PUNCT	Z--	_	4	punct	_	MorphInd=^.<z>_Z--$
+1	Bandar	bandar	NOUN	NSD	Number=Sing	4	nsubj:pass	_	Morf=^bandar<n>_NSD$
+2	udara	udara	NOUN	NSD	Number=Sing	1	compound	_	Morf=^udara<n>_NSD$
+3	ini	ini	DET	B--	PronType=Dem	1	det	_	Morf=^ini<b>_B--$
+4	diberi	beri	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+beri<v>_VSP$
+5	nama	nama	NOUN	NSD	Number=Sing	4	obj	_	Morf=^nama<n>_NSD$
+6	Venustiano	venustiano	PROPN	X--	_	4	iobj	_	Morf=^venustiano<x>_X--$
+7	Carranza	carranza	PROPN	X--	_	6	flat:name	_	SpaceAfter=No|Morf=^carranza<x>_X--$
+8	,	,	PUNCT	Z--	_	10	punct	_	Morf=^,<z>_Z--$
+9	seorang	orang	DET	B--	Definite=Ind|PronType=Art	10	det	_	Morf=^seorang<b>_B--$
+10	presiden	presiden	NOUN	NSD	Number=Sing	6	appos	_	Morf=^presiden<n>_NSD$
+11	Meksiko	meksiko	PROPN	NSD	_	10	nmod	_	SpaceAfter=No|Morf=^meksiko<n>_NSD$
+12	.	.	PUNCT	Z--	_	4	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -44,22 +44,22 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 11 iobj	color:blue
-1	Kapal	kapal	NOUN	NSD	Number=Sing	4	nsubj	_	MorphInd=^kapal<n>_NSD$
-2	ini	ini	DET	B--	PronType=Dem	1	det	_	MorphInd=^ini<b>_B--$
-3	adalah	adalah	AUX	O--	_	4	cop	_	MorphInd=^adalah<o>_O--$
-4	kapal	kapal	NOUN	NSD	Number=Sing	0	root	_	MorphInd=^kapal<n>_NSD$
-5	pukat	pukat	NOUN	X--	_	4	compound	_	MorphInd=^pukat<x>_X--$
-6	ikan	ikan	NOUN	NSD	Number=Sing	5	compound	_	MorphInd=^ikan<n>_NSD$
-7	yang	yang	PRON	S--	PronType=Rel	8	obj	_	MorphInd=^yang<s>_S--$
-8	dibeli	beli	VERB	VSP	Mood=Ind|Voice=Pass	4	acl:relcl	_	MorphInd=^di+beli<v>_VSP$
-9	Greenpeace	greenpeace	PROPN	X--	_	8	obj	_	MorphInd=^greenpeace<x>_X--$
-10	empat	empat	NUM	CC-	NumType=Card	11	nummod	_	MorphInd=^empat<c>_CC-$
-11	tahun	tahun	NOUN	NSD	Number=Sing	8	iobj	_	MorphInd=^tahun<n>_NSD$
-12	setelah	setelah	ADP	R--	_	13	case	_	MorphInd=^setelah<r>_R--$
-13	kapal	kapal	NOUN	NSD	Number=Sing	8	obl	_	MorphInd=^kapal<n>_NSD$
-14	pertama	pertama	ADJ	CO-	NumType=Ord	13	amod	_	MorphInd=^pertama<c>_CO-$
-15	tenggelam	tenggelam	VERB	ASP	_	13	acl	_	SpaceAfter=No|MorphInd=^tenggelam<a>_ASP$
-16	.	.	PUNCT	Z--	_	4	punct	_	MorphInd=^.<z>_Z--$
+1	Kapal	kapal	NOUN	NSD	Number=Sing	4	nsubj	_	Morf=^kapal<n>_NSD$
+2	ini	ini	DET	B--	PronType=Dem	1	det	_	Morf=^ini<b>_B--$
+3	adalah	adalah	AUX	O--	_	4	cop	_	Morf=^adalah<o>_O--$
+4	kapal	kapal	NOUN	NSD	Number=Sing	0	root	_	Morf=^kapal<n>_NSD$
+5	pukat	pukat	NOUN	X--	_	4	compound	_	Morf=^pukat<x>_X--$
+6	ikan	ikan	NOUN	NSD	Number=Sing	5	compound	_	Morf=^ikan<n>_NSD$
+7	yang	yang	PRON	S--	PronType=Rel	8	obj	_	Morf=^yang<s>_S--$
+8	dibeli	beli	VERB	VSP	Mood=Ind|Voice=Pass	4	acl:relcl	_	Morf=^di+beli<v>_VSP$
+9	Greenpeace	greenpeace	PROPN	X--	_	8	obj	_	Morf=^greenpeace<x>_X--$
+10	empat	empat	NUM	CC-	NumType=Card	11	nummod	_	Morf=^empat<c>_CC-$
+11	tahun	tahun	NOUN	NSD	Number=Sing	8	iobj	_	Morf=^tahun<n>_NSD$
+12	setelah	setelah	ADP	R--	_	13	case	_	Morf=^setelah<r>_R--$
+13	kapal	kapal	NOUN	NSD	Number=Sing	8	obl	_	Morf=^kapal<n>_NSD$
+14	pertama	pertama	ADJ	CO-	NumType=Ord	13	amod	_	Morf=^pertama<c>_CO-$
+15	tenggelam	tenggelam	VERB	ASP	_	13	acl	_	SpaceAfter=No|Morf=^tenggelam<a>_ASP$
+16	.	.	PUNCT	Z--	_	4	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -70,13 +70,13 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 iobj	color:blue
-1	Kota	kota	NOUN	NSD	Number=Sing	3	nsubj	_	MorphInd=^kota<n>_NSD$
-2	ini	ini	DET	B--	PronType=Dem	1	det	_	MorphInd=^ini<b>_B--$
-3	memiliki	milik	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	MorphInd=^meN+milik<v>+i_VSA$
-4	kode	kode	NOUN	NSD	Number=Sing	3	obj	_	MorphInd=^kode<n>_NSD$
-5	pos	pos	NOUN	VSA	_	4	compound	_	MorphInd=^pos<v>_VSA$
-6	38019	38019	NUM	CC-	NumType=Card	3	iobj	_	SpaceAfter=No|MorphInd=^38019<c>_CC-$
-7	.	.	PUNCT	Z--	_	3	punct	_	MorphInd=^.<z>_Z--$
+1	Kota	kota	NOUN	NSD	Number=Sing	3	nsubj	_	Morf=^kota<n>_NSD$
+2	ini	ini	DET	B--	PronType=Dem	1	det	_	Morf=^ini<b>_B--$
+3	memiliki	milik	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+milik<v>+i_VSA$
+4	kode	kode	NOUN	NSD	Number=Sing	3	obj	_	Morf=^kode<n>_NSD$
+5	pos	pos	NOUN	VSA	_	4	compound	_	Morf=^pos<v>_VSA$
+6	38019	38019	NUM	CC-	NumType=Card	3	iobj	_	SpaceAfter=No|Morf=^38019<c>_CC-$
+7	.	.	PUNCT	Z--	_	3	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 

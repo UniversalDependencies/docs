@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-414 tokens (1%) have a non-empty value of `Polarity`.
+415 tokens (1%) have a non-empty value of `Polarity`.
 17 types (0%) occur at least once with a non-empty value of `Polarity`.
 14 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (380; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (29; 0% instances), <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (381; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (29; 0% instances), <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `PART`
 
-380 <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> tokens (43% of all `PART` tokens) have a non-empty value of `Polarity`.
+381 <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> tokens (43% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (380; 100% of non-empty `Polarity`): <em>не, ни, ниже, нѣ</em>
-* `EMPTY` (495): <em>же, де, и, ж, ли, токмо, бо, се, да, жъ</em>
+* `Neg` (381; 100% of non-empty `Polarity`): <em>не, ни, ниже, нѣ</em>
+* `EMPTY` (500): <em>же, де, и, ж, ли, жъ, се, токмо, бо, да</em>
 
 ### `VERB`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (29; 100% of non-empty `Polarity`): <em>нет, нѣтъ, нетъ, нельзя, не, негде, нелѕа, неноково, нѣт, нету</em>
-* `EMPTY` (3238): <em>велѣно, велѣлъ, бьет, имати, есть, написано, платить, пожалуй, пожалꙋи, послал</em>
+* `EMPTY` (3280): <em>велѣно, велѣлъ, бьет, имати, есть, написано, платить, пожалуй, пожалꙋи, послал</em>
 
 ### `CCONJ`
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>ни</em>
-* `EMPTY` (3138): <em>и, а, да, или, но, ни, і, же, ино, али</em>
+* `EMPTY` (3189): <em>и, а, да, или, но, ни, і, же, ино, али</em>
 
 ### `ADV`
 
@@ -52,5 +52,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>никако</em>
-* `EMPTY` (688): <em>тако, как, гдѣ, нн҃ѣ, какъ, тогда, здѣ, нынѣ, всегда, ныне</em>
+* `EMPTY` (693): <em>тако, как, гдѣ, какъ, нн҃ѣ, тогда, здѣ, нынѣ, всегда, ныне</em>
 

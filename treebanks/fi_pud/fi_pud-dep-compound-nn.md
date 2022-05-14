@@ -72,7 +72,7 @@ The following 5 pairs of parts of speech are connected with `compound:nn`: <tt><
 5	kanssa	kanssa	ADP	_	AdpType=Post	4	case	4:case	_
 6	oli	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
 7	nyt	nyt	ADV	_	_	8	advmod	8:advmod	_
-8	turvattu	turvata	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+8	turvattu	turvata	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 9	Néstos-	Néstos	NOUN	_	Case=Nom|Number=Sing	12	compound:nn	12:compound:nn	_
 10	eli	eli	CCONJ	_	_	11	cc	11:cc	_
 11	Mesta	Mesta	PROPN	_	Case=Nom|Number=Sing	9	conj	9:conj	SpaceAfter=No

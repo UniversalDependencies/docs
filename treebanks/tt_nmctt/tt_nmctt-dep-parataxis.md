@@ -8,12 +8,67 @@ udver: '2'
 
 This relation is universal.
 
-22 nodes (2%) are attached to their parents as `parataxis`.
+24 nodes (2%) are attached to their parents as `parataxis`.
 
-21 instances of `parataxis` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.63636363636364.
+23 instances of `parataxis` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.08333333333333.
 
-The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (5; 23% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (5; 23% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (4; 18% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (2; 9% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (7; 29% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (5; 21% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (4; 17% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 13 parataxis	color:blue
+1	Көчле	көчле	ADJ	_	_	2	amod	_	LangID=TT
+2	җил	җил	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	LangID=TT
+3	саклана	сакла	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	LangID=TT|SpaceAfter=No
+4	,	,	PUNCT	_	_	13	punct	_	LangID=OTHER
+5	аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	LangID=TT
+6	тизлеге	тизлек	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	13	nsubj	_	LangID=TT
+7	секундына	секунд	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	11	nmod	_	CSPoint=секунд§ына|LangID=MIXED[RU§TT]
+8	15	15	NUM	_	_	11	nummod	_	LangID=TT
+9	-	-	PUNCT	_	_	8	punct	_	LangID=OTHER
+10	20	20	NUM	_	_	8	flat	_	LangID=TT
+11	метрга	метр	NOUN	_	Case=Dat|Number=Sing	13	obl	_	CSPoint=метр§га|LangID=MIXED[RU§TT]
+12	кадәр	кадәр	ADP	_	_	11	case	_	LangID=TT
+13	җитәчәк	җит	VERB	_	Tense=Fut|VerbForm=Part	3	parataxis	_	LangID=TT|SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	LangID=OTHER
+
+~~~
+
+
+~~~ conllu
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 17 parataxis	color:blue
+1	Антон	Антон	PROPN	_	Case=Nom|Number=Sing	20	nsubj	_	LangID=RU
+2	шат	шат	ADJ	_	_	3	compound	_	LangID=TT
+3	күңелле	күңелле	ADJ	_	_	4	amod	_	LangID=TT
+4	дус	дус	NOUN	_	Case=Nom|Number=Sing	20	obl	_	LangID=TT
+5	һәм	һәм	CCONJ	_	_	6	cc	_	LangID=TT
+6	иптәш	иптәш	NOUN	_	Case=Nom|Number=Sing	4	conj	_	LangID=TT|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	LangID=OTHER
+8	ышанычлы	ышанычлы	ADJ	_	_	9	amod	_	LangID=TT
+9	көрәштәш	көрәштәш	NOUN	_	Case=Nom|Number=Sing	4	parataxis	_	LangID=TT|SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+11	намуслы	намуслы	ADJ	_	_	12	amod	_	LangID=TT
+12	хезмәттәш	хезмәттәш	NOUN	_	Case=Nom|Number=Sing	4	parataxis	_	LangID=TT|SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	LangID=OTHER
+14	гадел	гадел	ADJ	_	_	17	amod	_	LangID=TT
+15	һәм	һәм	CCONJ	_	_	16	cc	_	LangID=TT
+16	яхшы	яхшы	ADJ	_	_	14	conj	_	LangID=TT
+17	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	4	parataxis	_	LangID=TT
+18	буларак	буларак	ADP	_	_	4	case	_	LangID=TT
+19	истә	ис	NOUN	_	Case=Loc|Number=Sing	20	obl	_	LangID=TT
+20	калыр	кал	VERB	_	Mood=Irr|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	LangID=OTHER
+
+~~~
 
 
 ~~~ conllu
@@ -51,60 +106,6 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 27	белдерде	бел	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	16	parataxis	_	LangID=TT
 28	ул	ул	PRON	_	_	27	nsubj	_	LangID=TT|SpaceAfter=No
 29	.	.	PUNCT	_	_	27	punct	_	LangID=OTHER
-
-~~~
-
-
-~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 17 parataxis	color:blue
-1	Антон	Антон	PROPN	_	Case=Nom|Number=Sing	20	nsubj	_	LangID=RU
-2	шат	шат	ADJ	_	_	3	compound	_	LangID=TT
-3	күңелле	күңелле	ADJ	_	_	4	amod	_	LangID=TT
-4	дус	дус	NOUN	_	Case=Nom|Number=Sing	20	obl	_	LangID=TT
-5	һәм	һәм	CCONJ	_	_	6	cc	_	LangID=TT
-6	иптәш	иптәш	NOUN	_	Case=Nom|Number=Sing	4	conj	_	LangID=TT|SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	LangID=OTHER
-8	ышанычлы	ышанычлы	ADJ	_	_	9	amod	_	LangID=TT
-9	көрәштәш	көрәштәш	NOUN	_	Case=Nom|Number=Sing	4	parataxis	_	LangID=TT|SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
-11	намуслы	намуслы	ADJ	_	_	12	amod	_	LangID=TT
-12	хезмәттәш	хезмәттәш	NOUN	_	Case=Nom|Number=Sing	4	parataxis	_	LangID=TT|SpaceAfter=No
-13	,	,	PUNCT	_	_	17	punct	_	LangID=OTHER
-14	гадел	гадел	ADJ	_	_	17	amod	_	LangID=TT
-15	һәм	һәм	CCONJ	_	_	16	cc	_	LangID=TT
-16	яхшы	яхшы	ADJ	_	_	14	conj	_	LangID=TT
-17	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	4	parataxis	_	LangID=TT
-18	буларак	буларак	ADP	_	_	4	case	_	LangID=TT
-19	истә	ис	NOUN	_	Case=Loc|Number=Sing	20	obl	_	LangID=TT
-20	калыр	кал	VERB	_	Mood=Irr|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
-21	.	.	PUNCT	_	_	20	punct	_	LangID=OTHER
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 12 parataxis	color:blue
-1	Президентыбызга	президент	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=1	2	obl	_	CSPoint=Президент§ыбызга|LangID=MIXED[RU§TT]
-2	рәхмәт	рәхмәт	NOUN	_	Case=Nom|Number=Sing	7	parataxis	_	LangID=TT|SpaceAfter=No
-3	,	,	PUNCT	_	_	7	punct	_	LangID=OTHER
-4	һәр	һәр	DET	_	_	5	det	_	LangID=TT
-5	мөрәҗәгать	мөрәҗәгать	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	LangID=TT
-6	яклау	якла	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	7	obj	_	LangID=TT
-7	табып	тап	VERB	_	VerbForm=Conv	0	root	_	LangID=TT
-8	килә	кил	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	LangID=TT|SpaceAfter=No
-9	»	»	PUNCT	_	_	7	punct	_	LangID=OTHER|SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
-11	—	—	PUNCT	_	_	12	punct	_	LangID=OTHER
-12	диде	ди	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	LangID=TT|SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
 
 ~~~
 

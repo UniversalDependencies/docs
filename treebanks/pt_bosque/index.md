@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Cláudia Freitas, Elvis de Souza, Aline Silveira, Tatiana Cavalcanti, Wograine Evelyn, Luisa Rocha, Isabela Soares-Bastos, Eckhard Bick, Fabricio Chalub, Guilherme Paulino-Passos, Livy Real, Valeria de Paiva, Daniel Zeman, Martin Popel, David Mareček, Natalia Silveira, André Martins.
 
 Repository: [UD_Portuguese-Bosque](https://github.com/UniversalDependencies/UD_Portuguese-Bosque)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_bosque29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_bosque210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -127,34 +127,34 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 
 ## Features
 
-[Abbr](pt_bosque-feat-Abbr.html) – [Case](pt_bosque-feat-Case.html) – [Definite](pt_bosque-feat-Definite.html) – [Degree](pt_bosque-feat-Degree.html) – [ExtPos](pt_bosque-feat-ExtPos.html) – [Foreign](pt_bosque-feat-Foreign.html) – [Gender](pt_bosque-feat-Gender.html) – [Mood](pt_bosque-feat-Mood.html) – [Number](pt_bosque-feat-Number.html) – [NumType](pt_bosque-feat-NumType.html) – [Person](pt_bosque-feat-Person.html) – [Polarity](pt_bosque-feat-Polarity.html) – [PronType](pt_bosque-feat-PronType.html) – [Reflex](pt_bosque-feat-Reflex.html) – [Tense](pt_bosque-feat-Tense.html) – [Typo](pt_bosque-feat-Typo.html) – [VerbForm](pt_bosque-feat-VerbForm.html) – [Voice](pt_bosque-feat-Voice.html)
+[Abbr](pt_bosque-feat-Abbr.html) – [Case](pt_bosque-feat-Case.html) – [Definite](pt_bosque-feat-Definite.html) – [Degree](pt_bosque-feat-Degree.html) – [ExtPos](pt_bosque-feat-ExtPos.html) – [Foreign](pt_bosque-feat-Foreign.html) – [Gender](pt_bosque-feat-Gender.html) – [Mood](pt_bosque-feat-Mood.html) – [Number](pt_bosque-feat-Number.html) – [NumType](pt_bosque-feat-NumType.html) – [Person](pt_bosque-feat-Person.html) – [Polarity](pt_bosque-feat-Polarity.html) – [Poss](pt_bosque-feat-Poss.html) – [PronType](pt_bosque-feat-PronType.html) – [Reflex](pt_bosque-feat-Reflex.html) – [Tense](pt_bosque-feat-Tense.html) – [Typo](pt_bosque-feat-Typo.html) – [VerbForm](pt_bosque-feat-VerbForm.html) – [Voice](pt_bosque-feat-Voice.html)
 
 ## Relations
 
-[acl](pt_bosque-dep-acl.html) – [acl:relcl](pt_bosque-dep-acl-relcl.html) – [advcl](pt_bosque-dep-advcl.html) – [advmod](pt_bosque-dep-advmod.html) – [amod](pt_bosque-dep-amod.html) – [appos](pt_bosque-dep-appos.html) – [aux](pt_bosque-dep-aux.html) – [aux:pass](pt_bosque-dep-aux-pass.html) – [case](pt_bosque-dep-case.html) – [cc](pt_bosque-dep-cc.html) – [ccomp](pt_bosque-dep-ccomp.html) – [compound](pt_bosque-dep-compound.html) – [conj](pt_bosque-dep-conj.html) – [cop](pt_bosque-dep-cop.html) – [csubj](pt_bosque-dep-csubj.html) – [det](pt_bosque-dep-det.html) – [discourse](pt_bosque-dep-discourse.html) – [dislocated](pt_bosque-dep-dislocated.html) – [expl](pt_bosque-dep-expl.html) – [expl:pass](pt_bosque-dep-expl-pass.html) – [fixed](pt_bosque-dep-fixed.html) – [flat](pt_bosque-dep-flat.html) – [flat:foreign](pt_bosque-dep-flat-foreign.html) – [flat:name](pt_bosque-dep-flat-name.html) – [goeswith](pt_bosque-dep-goeswith.html) – [iobj](pt_bosque-dep-iobj.html) – [list](pt_bosque-dep-list.html) – [mark](pt_bosque-dep-mark.html) – [nmod](pt_bosque-dep-nmod.html) – [nsubj](pt_bosque-dep-nsubj.html) – [nsubj:pass](pt_bosque-dep-nsubj-pass.html) – [nummod](pt_bosque-dep-nummod.html) – [obj](pt_bosque-dep-obj.html) – [obl](pt_bosque-dep-obl.html) – [obl:agent](pt_bosque-dep-obl-agent.html) – [orphan](pt_bosque-dep-orphan.html) – [parataxis](pt_bosque-dep-parataxis.html) – [punct](pt_bosque-dep-punct.html) – [reparandum](pt_bosque-dep-reparandum.html) – [root](pt_bosque-dep-root.html) – [vocative](pt_bosque-dep-vocative.html) – [xcomp](pt_bosque-dep-xcomp.html)
+[acl](pt_bosque-dep-acl.html) – [acl:relcl](pt_bosque-dep-acl-relcl.html) – [advcl](pt_bosque-dep-advcl.html) – [advmod](pt_bosque-dep-advmod.html) – [amod](pt_bosque-dep-amod.html) – [appos](pt_bosque-dep-appos.html) – [aux](pt_bosque-dep-aux.html) – [aux:pass](pt_bosque-dep-aux-pass.html) – [case](pt_bosque-dep-case.html) – [cc](pt_bosque-dep-cc.html) – [ccomp](pt_bosque-dep-ccomp.html) – [compound](pt_bosque-dep-compound.html) – [conj](pt_bosque-dep-conj.html) – [cop](pt_bosque-dep-cop.html) – [csubj](pt_bosque-dep-csubj.html) – [det](pt_bosque-dep-det.html) – [det:poss](pt_bosque-dep-det-poss.html) – [discourse](pt_bosque-dep-discourse.html) – [dislocated](pt_bosque-dep-dislocated.html) – [expl](pt_bosque-dep-expl.html) – [expl:pass](pt_bosque-dep-expl-pass.html) – [fixed](pt_bosque-dep-fixed.html) – [flat](pt_bosque-dep-flat.html) – [flat:foreign](pt_bosque-dep-flat-foreign.html) – [flat:name](pt_bosque-dep-flat-name.html) – [goeswith](pt_bosque-dep-goeswith.html) – [iobj](pt_bosque-dep-iobj.html) – [list](pt_bosque-dep-list.html) – [mark](pt_bosque-dep-mark.html) – [nmod](pt_bosque-dep-nmod.html) – [nsubj](pt_bosque-dep-nsubj.html) – [nsubj:pass](pt_bosque-dep-nsubj-pass.html) – [nummod](pt_bosque-dep-nummod.html) – [obj](pt_bosque-dep-obj.html) – [obl](pt_bosque-dep-obl.html) – [obl:agent](pt_bosque-dep-obl-agent.html) – [orphan](pt_bosque-dep-orphan.html) – [parataxis](pt_bosque-dep-parataxis.html) – [punct](pt_bosque-dep-punct.html) – [reparandum](pt_bosque-dep-reparandum.html) – [root](pt_bosque-dep-root.html) – [vocative](pt_bosque-dep-vocative.html) – [xcomp](pt_bosque-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 9357 sentences, 210963 tokens and 227829 syntactic words.</li>
+<li>This corpus contains 9357 sentences, 210959 tokens and 227828 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29566 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 29560 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
-<li>This corpus does not contain words with spaces.</li>
+<li>This corpus contains 1 types of words with spaces. Examples: 34 470</li>
 </ul>
 
 <ul>
-<li>This corpus contains 772 types of words that contain both letters and punctuation. Examples: sexta-feira, norte-americano, p., segunda-feira, R., primeiro-ministro, norte-americana, terça-feira, quarta-feira, quinta-feira, S., ex-presidente, vice-presidente, porta-voz, Grã-Bretanha, cessar-fogo, ex-ministro, fim-de-semana, norte-americanos, secretário-geral, d., etc., art., dr., meio-campo, tel., av., director-geral, mão-de-obra, pára-quedas, sr., Guiné-Bissau, Jr., dia-a-dia, ex-jogador, pág., social-democrata, A., CD-ROM, Timor-Leste, co-produção, d', ex-governador, IPC-r, Jean-Pierre, auto-estrada, dom., ed., ex-secretário, infra-estrutura</li>
+<li>This corpus contains 769 types of words that contain both letters and punctuation. Examples: sexta-feira, norte-americano, p., segunda-feira, R., primeiro-ministro, norte-americana, terça-feira, quarta-feira, quinta-feira, S., ex-presidente, vice-presidente, porta-voz, Grã-Bretanha, cessar-fogo, ex-ministro, fim-de-semana, norte-americanos, secretário-geral, d., etc., art., dr., meio-campo, tel., av., director-geral, mão-de-obra, pára-quedas, sr., Guiné-Bissau, Jr., dia-a-dia, ex-jogador, pág., social-democrata, A., CD-ROM, Timor-Leste, co-produção, d', ex-governador, IPC-r, Jean-Pierre, auto-estrada, dom., ed., ex-secretário, infra-estrutura</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16866 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 746 types of multi-word tokens. Examples: do, da, no, na, dos, ao, à, das, pelo, pela, nos, às, aos, nas, num, numa, pelos, deste, pelas, desta, neste, nesta, nesse, disso, trata-se, desse, deles, destes, dele, daí, dessa, encontra-se, nessa, dela, daquela, delas, nestes, desses, nela, nestas, daqueles, dessas, destas, deve-se, naquele, recorde-se, daquele, encontram-se, naquela, nele.</li>
+<li>This corpus contains 16868 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 748 types of multi-word tokens. Examples: do, da, no, na, dos, ao, à, das, pelo, pela, nos, às, aos, nas, num, numa, pelos, deste, pelas, desta, neste, nesta, nesse, disso, trata-se, desse, deles, destes, dele, daí, dessa, encontra-se, nessa, dela, daquela, delas, nestes, desses, nela, nestas, daqueles, dessas, destas, deve-se, naquele, recorde-se, daquele, encontram-se, naquela, nele.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -166,7 +166,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 </ul>
 
 <ul>
-<li>This corpus contains 3 word types tagged as particles (PART): anti, pré-, pós</li>
+<li>This corpus contains 3 word types tagged as particles (PART): anti, pré, pós</li>
 </ul>
 
 <ul>
@@ -174,7 +174,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 </ul>
 
 <ul>
-<li>This corpus contains 51 lemmas tagged as determiners (DET): The, a, algum, ambos, aquele, bastante, cada, certo, certos, cujo, demais, dezena, dezenas, diversos, esse, este, la, mais, menos, meu, muita, muito, muitíssimo, nada, nenhum, nosso, o, os, outro, pouco, próprio, qual, qualquer, qualquier, quanto, que, semelhante, seu, tal, tanto, teu, toda, todo, tudo, tão, um, uma, umo, vosso, várias, vários</li>
+<li>This corpus contains 50 lemmas tagged as determiners (DET): The, a, algum, ambos, aquele, bastante, cada, certo, certos, cujo, demais, dezena, dezenas, diversos, esse, este, la, mais, menos, meu, muita, muito, muitíssimo, nada, nenhum, nosso, o, os, outro, pouco, próprio, qual, qualquer, qualquier, quanto, que, semelhante, seu, tal, tanto, teu, toda, todo, tudo, tão, um, uma, vosso, várias, vários</li>
 </ul>
 
 <ul>
@@ -182,11 +182,11 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): continuar, estar, haver, ir, poder, ser, ter, vir</li>
+<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): estar, haver, ir, poder, ser, ter, vir</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: continuar, estar, haver, ir, poder, ser, ter, vir</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: estar, haver, ir, poder, ser, ter, vir</li>
 </ul>
 
 <ul>
@@ -260,11 +260,11 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
     <ul>
       <li>ADJ: primeiro, novo, mesmo, passado, último, segundo, últimos, bom, maior, grande</li>
       <li>ADP: de, que</li>
-      <li>ADV: quanto, entanto, menos, não, ontem, teatral, um</li>
+      <li>ADV: quanto, entanto, inteligente-, menos, não, ontem, teatral, um</li>
       <li>AUX-Part: sido</li>
       <li>DET: o, os, um, seu, este, seus, esse, todos, outros, outro</li>
       <li>NOUN: anos, presidente, ano, dia, país, estado, tempo, contos, grupo, governo</li>
-      <li>NUM: cento, milhões, meia, dúzia, milhares, 1, 1., 14,667, 185/60, Um</li>
+      <li>NUM: cento, milhões, meia, dúzia, milhares, 1, 1., 14,667, 185/60, Mil</li>
       <li>PART: pós</li>
       <li>PRON: que, se, o, ele, isso, tudo, eles, os, lhe, onde</li>
       <li>PROPN: São, Portugal, Brasil, José, Governo, EUA, Rio, Estados, João, PÚBLICO</li>
@@ -308,14 +308,14 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
     <ul>
       <li>ADJ: maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, melhor, passado</li>
       <li>ADP: de, Primeira, que</li>
-      <li>ADV: quanto, entanto, não, ontem, tal, teatral, um</li>
+      <li>ADV: quanto, entanto, inteligente-, não, ontem, tal, teatral, um</li>
       <li>AUX-Fin: é, foi, está, vai, era, será, tem, seria, estava, seja</li>
       <li>AUX-Inf: ser, ter, estar, ir, haver</li>
       <li>AUX-Part: sido</li>
       <li>CCONJ: e</li>
       <li>DET: o, a, um, uma, sua, seu, este, esta, esse, qualquer</li>
       <li>NOUN: presidente, ano, dia, país, estado, parte, tempo, grupo, governo, vez</li>
-      <li>NUM: cento, meia, dúzia, 2, 97, 1, 1., 14, 14,667, 185/60</li>
+      <li>NUM: cento, meio, meia, sete, dúzia, 2, 7,5, 97, Uma, 1</li>
       <li>PART: pós</li>
       <li>PRON: que, se, o, ele, isso, lhe, onde, quem, tudo, a</li>
       <li>PROPN: Paulo, Portugal, Nacional, São, Porto, Unidos, José, Brasil, Lisboa, Silva</li>
@@ -323,7 +323,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
       <li>VERB-Fin: tem, há, disse, pode, diz, é, deve, está, fez, afirmou</li>
       <li>VERB-Inf: ter, dar, começar, dizer, haver, retirar, saber, ver, aprovar, atingir</li>
       <li>VERB-Part: feita, feito, eleito, aberto, considerado, considerada, realizado, acusado, criada, divulgado</li>
-      <li>X: for, ski, Burgos, Children, Dictionary, Manager, Sure, Team, jet, Body</li>
+      <li>X: for, ski, Burgos, Children, Dictionary, Manager, Solution, Sure, Team, cent</li>
     </ul>
   </li>
 </ul>
@@ -364,7 +364,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Def
     <ul>
-      <li>DET: o, a, os, as, esta, o(s), um, uma</li>
+      <li>DET: o, a, os, as, esta, Uma, o(s), um</li>
       <li>PRON: o, os, a, as, que</li>
     </ul>
   </li>
@@ -681,6 +681,17 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   </li>
 </ul>
 
+<ul>
+  <li><a>Poss</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: seus, sua</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Reflex</a></li>
@@ -776,7 +787,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
           <li>ADJ: bom</li>
           <li>ADP: por, em, a, de, eis, já</li>
           <li>ADV: cerca, hoje, mesmo, mais, ontem, dentro, devido, in, À</li>
-          <li>PRON: nada</li>
+          <li>PRON: isso, nada</li>
           <li>X: on</li>
         </ul>
       </li>
@@ -812,8 +823,8 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
           <li>ADV: bem, sem, mal</li>
           <li>NOUN: ponto, mercado, guerra, ser, campanha, ensino, opinião, pano, fim, luz</li>
           <li>NUM: meia, quinta</li>
-          <li>PART: pré-</li>
-          <li>PROPN: Câmara, Dívida, Estados, Meio, Assembleia, Direcção, Ensino, Guerra, Lei, Pacto</li>
+          <li>PART: pré</li>
+          <li>PROPN: Câmara, Dívida, Estados, Meio, por, Assembleia, Direcção, Ensino, Guerra, Lei</li>
           <li>X: pole, body, drag, jet, market, network, dream, best, big, black</li>
         </ul>
       </li>
@@ -828,10 +839,10 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
           <li>ADP: Em, Por</li>
           <li>ADV: Hoje, logo</li>
           <li>DET: The, As, O, Os</li>
-          <li>NOUN: Assembléia, Associação, Comissão, Conselho, Volta, Álcool, Assembleia, Avenida, Biblioteca, Bonequinha</li>
-          <li>NUM: VIII, X</li>
+          <li>NOUN: Assembléia, Associação, Comissão, Conselho, Força, Volta, Álcool, Assembleia, Avenida, Biblioteca</li>
+          <li>NUM: Mil, VIII, X</li>
           <li>PROPN: São, José, João, Fernando, Pedro, Carlos, Manuel, Nova, Banco, Paulo</li>
-          <li>X: Adventure, Journey, So, Body, Insight, MacMillan</li>
+          <li>X: Adventure, Journey, So, The, Body, Insight, MacMillan</li>
         </ul>
       </li>
       <li>SCONJ
@@ -840,7 +851,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
           <li>ADV: depois, apesar, antes, tal, ainda, já, além, mesmo, quanto, Agora</li>
           <li>CCONJ: Ou</li>
           <li>DET: uma</li>
-          <li>SCONJ: se, em, por, visto</li>
+          <li>SCONJ: se, de, em, por, visto</li>
           <li>VERB-Fin: dado</li>
           <li>VERB-Part: Dado, Visto</li>
         </ul>
@@ -867,12 +878,13 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
       <li>Yes
         <ul>
           <li>ADJ: Sózinhos, acompanhados, brasileira, contíguas, domésticos, europeu, grande, pardo-suíço, permanente, poluidores</li>
-          <li>ADV: asim</li>
+          <li>ADV: asim, inteligente-</li>
           <li>DET: a, o, um, As, Outra, os, uma</li>
-          <li>NOUN: anos2, campanha, cidades, mãos, pais, prazo, presidenta, produtividades, propietários, queixa</li>
+          <li>NOUN: campanha, cidades, mãos, pais, prazo, presidenta, produtividades, propietários, queixa, setença</li>
           <li>PRON: qu</li>
           <li>PROPN: datafolha</li>
-          <li>VERB-Fin: deveria, saiem</li>
+          <li>SCONJ: uns</li>
+          <li>VERB-Fin: cumprimimos, deveria, disfrutam, faconteceu, saiem</li>
           <li>VERB-Ger: pasando</li>
           <li>VERB-Inf: produzí</li>
           <li>VERB-Part: encarregue</li>
@@ -891,7 +903,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 </ul>
 
 <ul>
-<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: ter, ir, estar, haver, vir, continuar, poder.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: ter, ir, estar, haver, vir, poder.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, estar.</li>
 </ul>
 
@@ -901,25 +913,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3865)</li>
+      <li>VERB-Fin--NOUN (3868)</li>
       <li>VERB-Fin--NOUN-ADP(de) (2)</li>
       <li>VERB-Fin--NOUN-ADP(sem) (1)</li>
-      <li>VERB-Fin--PRON (1862)</li>
+      <li>VERB-Fin--PRON (1865)</li>
       <li>VERB-Fin--PRON-ADP(além) (1)</li>
       <li>VERB-Fin--PRON-ADP(em) (1)</li>
-      <li>VERB-Fin--PRON-Acc (227)</li>
+      <li>VERB-Fin--PRON-Acc (225)</li>
       <li>VERB-Fin--PRON-Nom (362)</li>
       <li>VERB-Ger--NOUN (66)</li>
       <li>VERB-Ger--PRON (20)</li>
       <li>VERB-Ger--PRON-Acc (16)</li>
       <li>VERB-Ger--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN (252)</li>
-      <li>VERB-Inf--PRON (66)</li>
-      <li>VERB-Inf--PRON-Acc (60)</li>
+      <li>VERB-Inf--PRON (65)</li>
+      <li>VERB-Inf--PRON-Acc (57)</li>
       <li>VERB-Inf--PRON-Nom (30)</li>
-      <li>VERB-Part--NOUN (195)</li>
+      <li>VERB-Part--NOUN (184)</li>
       <li>VERB-Part--NOUN-ADP(de) (4)</li>
-      <li>VERB-Part--PRON (56)</li>
+      <li>VERB-Part--PRON (55)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
       <li>VERB-Part--PRON-Nom (12)</li>
       <li>VERB-Part--PRON-Nom-ADP(de) (1)</li>
@@ -931,16 +943,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB-Fin--NOUN (3726)</li>
+      <li>VERB-Fin--NOUN (3724)</li>
       <li>VERB-Fin--NOUN-ADP(a) (210)</li>
       <li>VERB-Fin--NOUN-ADP(com) (92)</li>
       <li>VERB-Fin--NOUN-ADP(contra) (2)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (220)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (221)</li>
       <li>VERB-Fin--NOUN-ADP(em) (105)</li>
       <li>VERB-Fin--NOUN-ADP(para) (31)</li>
       <li>VERB-Fin--NOUN-ADP(por) (29)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (8)</li>
-      <li>VERB-Fin--PRON (479)</li>
+      <li>VERB-Fin--PRON (478)</li>
       <li>VERB-Fin--PRON-ADP(a) (22)</li>
       <li>VERB-Fin--PRON-ADP(com) (4)</li>
       <li>VERB-Fin--PRON-ADP(de) (23)</li>
@@ -948,7 +960,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-ADP(para) (3)</li>
       <li>VERB-Fin--PRON-ADP(por) (2)</li>
       <li>VERB-Fin--PRON-ADP(sobre) (3)</li>
-      <li>VERB-Fin--PRON-Acc (328)</li>
+      <li>VERB-Fin--PRON-Acc (324)</li>
       <li>VERB-Fin--PRON-Dat (3)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Ger--NOUN (381)</li>
@@ -961,9 +973,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN-ADP(por) (5)</li>
       <li>VERB-Ger--PRON (15)</li>
       <li>VERB-Ger--PRON-ADP(por) (1)</li>
-      <li>VERB-Ger--PRON-Acc (23)</li>
+      <li>VERB-Ger--PRON-Acc (22)</li>
       <li>VERB-Ger--PRON-Dat (1)</li>
-      <li>VERB-Inf--NOUN (2110)</li>
+      <li>VERB-Inf--NOUN (2111)</li>
       <li>VERB-Inf--NOUN-ADP(a) (65)</li>
       <li>VERB-Inf--NOUN-ADP(com) (39)</li>
       <li>VERB-Inf--NOUN-ADP(como) (1)</li>
@@ -1017,7 +1029,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-ADP(para) (2)</li>
       <li>VERB-Fin--PRON-ADP(por) (2)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
-      <li>VERB-Fin--PRON-Dat (158)</li>
+      <li>VERB-Fin--PRON-Dat (154)</li>
       <li>VERB-Ger--NOUN-ADP(a) (11)</li>
       <li>VERB-Ger--NOUN-ADP(de) (3)</li>
       <li>VERB-Ger--NOUN-ADP(em) (4)</li>
@@ -1030,7 +1042,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-ADP(com) (3)</li>
       <li>VERB-Inf--NOUN-ADP(de) (16)</li>
       <li>VERB-Inf--NOUN-ADP(em) (11)</li>
-      <li>VERB-Inf--NOUN-ADP(para) (6)</li>
+      <li>VERB-Inf--NOUN-ADP(para) (7)</li>
       <li>VERB-Inf--NOUN-ADP(por) (2)</li>
       <li>VERB-Inf--NOUN-ADP(sobre) (3)</li>
       <li>VERB-Inf--PRON-ADP(a) (5)</li>
@@ -1063,6 +1075,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>dep</a></li>
 </ul>

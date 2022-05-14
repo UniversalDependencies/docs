@@ -47,7 +47,7 @@ The following 2 pairs of parts of speech are connected with `advmod:lto`: <tt><a
 # visual-style 7 6 advmod:lto	color:blue
 1	Палько	Палько	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	2	nsubj	_	GTtags=Sem/Sur,Prop,Sg,Nom,Indef
 2	варшты	варштамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScSg3
-3	лангозост	ланго	NOUN	N	Case=Ill|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	2	obl	_	GTtags=Relator,SP,Ill,PxPl3
+3	лангозост	ланго	NOUN	N	Case=Ill|NounType=Relat|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	2	obl	_	GTtags=Relator,SP,Ill,PxPl3
 4	кашланксто	кашланго	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	2	obl	_	GTtags=SP,Ela,Indef|ModernForm=каштлангсто
 5	ды	ды	CCONJ	CC	_	8	cc	_	_
 6	мекев	мекев	ADV	Adv	AdvType=Loc	7	advmod:lto	_	GTtags=Spat

@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	baltimore	baltimore	PROPN	_	Number=Sing	1	nmod	_	_
 6	between	between	ADP	_	_	8	case	_	_
 7	10	10	NUM	_	NumType=Card	8	nummod	_	_
-8	am	be	NOUN	_	Number=Sing	1	nmod:tmod	_	_
+8	am	am	NOUN	_	Number=Sing	1	nmod:tmod	_	_
 9	and	and	CCONJ	_	_	11	cc	_	_
 10	2	2	NUM	_	NumType=Card	11	nummod	_	_
 11	pm	pm	NOUN	_	Number=Sing	8	conj	_	_

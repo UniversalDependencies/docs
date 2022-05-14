@@ -8,52 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-1610 nodes (1%) are attached to their parents as `nummod`.
+4315 nodes (2%) are attached to their parents as `nummod`.
 
-1286 instances of `nummod` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39565217391304.
+2950 instances of `nummod` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4342989571263.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (1495; 93% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (59; 4% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (47; 3% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (2; 0% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 nummod	color:blue
-1	Stala	stati	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Dep=0|Rel=Root
-2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Dep=1|Rel=PPart
-3	milijardo	milijarda	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	Dep=1|Rel=AdvM
-4	tolarjev	tolar	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	Dep=3|Rel=Atr
-5	in	in	CCONJ	Cc	_	8	cc	_	Dep=8|Rel=Conj
-6	dvesto	dvesto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
-7	petdeset	petdeset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
-8	milijonov	milijon	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No|Dep=3|Rel=Coord
-9	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
-
-~~~
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (3410; 79% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (547; 13% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (136; 3% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (99; 2% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (92; 2% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 nummod	color:blue
-1	Danes	danes	ADV	Rgp	Degree=Pos	2	advmod	_	Dep=2|Rel=AdvO
-2	ima	imeti	VERB	Vmpr3s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	Dep=0|Rel=Root
-3	Primorje	Primorje	PROPN	Npnsn	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	Dep=2|Rel=Sb
-4	že	že	PART	Q	_	2	advmod	_	Dep=0|Rel=Root
-5	več	več	DET	Rgc	PronType=Ind	9	advmod	_	Dep=9|Rel=Atr
-6	kot	kot	SCONJ	Cs	_	5	fixed	_	Dep=9|Rel=Atr
-7	91	91	NUM	Mdc	NumForm=Digit|NumType=Card	9	nummod	_	SpaceAfter=No|Dep=9|Rel=Atr
-8	-	-	PUNCT	Z	_	9	punct	_	SpaceAfter=No|Dep=0|Rel=Root
-9	odstotni	odstoten	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	Dep=10|Rel=Atr
-10	delež	delež	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	Dep=2|Rel=Obj
-11	Gradisa	Gradis	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	Dep=10|Rel=Atr
-12	GPL	GPL	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No|Dep=11|Rel=Atr
-13	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 nummod	color:blue
+1	(	(	PUNCT	Z	_	2	punct	_	NER=O|SpaceAfter=No
+2	Družina	družina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	NER=B-org|SpaceAfter=No
+3	,	,	PUNCT	Z	_	4	punct	_	NER=O
+4	15.	15.	NUM	Mdo	NumForm=Digit|NumType=Ord	2	nummod	_	NER=O
+5	7.	7.	NUM	Mdo	NumForm=Digit|NumType=Ord	4	flat	_	NER=O
+6	1990	1990	NUM	Mdc	NumForm=Digit|NumType=Card	4	flat	_	NER=O|SpaceAfter=No
+7	,	,	PUNCT	Z	_	8	punct	_	NER=O
+8	1	1	NUM	Mdc	NumForm=Digit|NumType=Card	2	nummod	_	NER=O|SpaceAfter=No
+9	)	)	PUNCT	Z	_	2	punct	_	NER=O
 
 ~~~
 
@@ -61,20 +38,42 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 nummod	color:blue
-1	Od	od	ADP	Sg	Case=Gen	2	case	_	Dep=2|Rel=Atr
-2	izstrelitve	izstrelitev	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	Dep=7|Rel=AdvO
-3	sonde	sonda	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	Dep=2|Rel=Atr
-4	Pioneer	Pioneer	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	Dep=3|Rel=Atr
-5	VI	VI	NUM	Mrc	NumForm=Roman|NumType=Card	4	nummod	_	Dep=4|Rel=Atr
-6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Dep=7|Rel=PPart
-7	minilo	miniti	VERB	Vmep-sn	Aspect=Perf|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	Dep=0|Rel=Root
-8	že	že	PART	Q	_	7	advmod	_	Dep=0|Rel=Root
-9	35	35	NUM	Mdc	NumForm=Digit|NumType=Card	10	nummod	_	Dep=10|Rel=Atr
-10	let	leto	NOUN	Ncnpg	Case=Gen|Gender=Neut|Number=Plur	7	nsubj	_	SpaceAfter=No|Dep=7|Rel=Sb
-11	.	.	PUNCT	Z	_	7	punct	_	Dep=0|Rel=Root
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 nummod	color:blue
+1	Caplan	Caplan	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	NER=B-per|SpaceAfter=No
+2	,	,	PUNCT	Z	_	1	punct	_	NER=I-per
+3	R.	R.	X	Y	Abbr=Yes	1	flat:name	_	NER=I-per
+4	(	(	PUNCT	Z	_	5	punct	_	NER=O|SpaceAfter=No
+5	1996	1996	NUM	Mdc	NumForm=Digit|NumType=Card	1	nummod	_	NER=O|SpaceAfter=No
+6	)	)	PUNCT	Z	_	5	punct	_	NER=O|SpaceAfter=No
+7	:	:	PUNCT	Z	_	8	punct	_	NER=O
+8	Post	post	X	Xf	Foreign=Yes	1	appos	_	NER=B-misc|SpaceAfter=No
+9	-	-	PUNCT	Z	_	8	punct	_	NER=I-misc|SpaceAfter=No
+10	Mortem	mortem	X	Xf	Foreign=Yes	8	flat:foreign	_	NER=I-misc
+11	on	on	X	Xf	Foreign=Yes	8	flat:foreign	_	NER=I-misc
+12	UNPROFOR	Unprofor	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	8	flat:foreign	_	NER=I-misc|SpaceAfter=No
+13	.	.	PUNCT	Z	_	1	punct	_	NER=O
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 nummod	color:blue
+1	Vsakič	vsakič	ADV	Rgp	Degree=Pos	7	advmod	_	_
+2	ko	ko	SCONJ	Cs	_	4	mark	_	_
+3	ji	on	PRON	Pp3fsd--y	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	4	iobj	_	_
+4	odrežejo	odrezati	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+5	glavo	glava	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Z	_	4	punct	_	_
+7	zrasteta	zrasti	VERB	Vmer3d	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	dve	dva	NUM	Mlcfdn	Case=Nom|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card	9	nummod	_	_
+9	novi	nov	ADJ	Agpfdn	Case=Nom|Degree=Pos|Gender=Fem|Number=Dual	7	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	7	punct	_	_
 
 ~~~
 

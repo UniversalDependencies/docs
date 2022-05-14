@@ -10,8 +10,8 @@ This feature is language-specific.
 It occurs with 11 different values: `Bds`, `Bss`, `Ccv`, `Cylb`, `Cylm`, `Cyls`, `Fem`, `Flat`, `Rd`, `Tflat`, `X`.
 
 166 tokens (7%) have a non-empty value of `Clas`.
-40 types (5%) occur at least once with a non-empty value of `Clas`.
-4 lemmas (3%) occur at least once with a non-empty value of `Clas`.
+39 types (5%) occur at least once with a non-empty value of `Clas`.
+22 lemmas (5%) occur at least once with a non-empty value of `Clas`.
 The feature is used with 5 part-of-speech tags: <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> (124; 5% instances), <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (34; 1% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `ADJ`
@@ -24,12 +24,20 @@ The feature is used with 5 part-of-speech tags: <tt><a href="arr_tudet-pos-ADJ.h
 * `Bss` (12; 10% of non-empty `Clas`): <em>gap, kap</em>
 * `Ccv` (15; 12% of non-empty `Clas`): <em>káʔ, gáʔ, ká</em>
 * `Cylb` (19; 15% of non-empty `Clas`): <em>bap, pap, map, pab, bab, bah</em>
-* `Cylm` (4; 3% of non-empty `Clas`): <em>ʔɨp, ip, ʔip</em>
+* `Cylm` (4; 3% of non-empty `Clas`): <em>ʔɨp, ɨp</em>
 * `Cyls` (11; 9% of non-empty `Clas`): <em>pɨʔ, bɨʔ, pɨʔtoʔ</em>
 * `Flat` (12; 10% of non-empty `Clas`): <em>beʔ, meʔ, peʔ, peroʔ</em>
 * `Rd` (36; 29% of non-empty `Clas`): <em>ʔa, ʔaʔ, aʔ, ʔaʔtoʔ</em>
 * `Tflat` (7; 6% of non-empty `Clas`): <em>cɨʔ, beʔ, meʔ</em>
 * `X` (4; 3% of non-empty `Clas`): <em>nãʔ</em>
+
+<table>
+  <tr><th>Paradigm <i>peʔ</i></th><th><tt>Flat</tt></th><th><tt>Tflat</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>beʔ, meʔ, peʔ</em></td><td><em>beʔ, meʔ</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>peroʔ</em></td><td></td></tr>
+</table>
+
+`Clas` seems to be **lexical feature** of `ADJ`. 93% lemmas (13) occur only with one value of `Clas`.
 
 ### `PRON`
 
@@ -69,5 +77,5 @@ The most frequent other feature values with which `NOUN` and `Clas` co-occurred:
 
 `NOUN` tokens may have the following values of `Clas`:
 
-* `Flat` (1; 100% of non-empty `Clas`): <em>yawbe</em>
+* `Flat` (1; 100% of non-empty `Clas`): <em>be</em>
 

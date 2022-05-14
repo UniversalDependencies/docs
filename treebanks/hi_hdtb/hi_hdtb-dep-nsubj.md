@@ -35,7 +35,7 @@ The following 49 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 10	होने	हो	VERB	VM	Case=Acc|Number=Sing|VerbForm=Inf	12	nmod	_	Vib=ना_का|Tam=nA|ChunkId=VGNN|ChunkType=head|Translit=hone
 11	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	10	mark	_	ChunkId=VGNN|ChunkType=child|Translit=kā
 12	प्रमाण	प्रमाण	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=pramāṇa
-13	मिलता	मिल	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=milatā
+13	मिलता	मिल	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=wA|Translit=milatā|Vib=ता_है
 14	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 15	।	।	PUNCT	SYM	_	13	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
@@ -53,14 +53,14 @@ The following 49 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 3	मुशर्रफ	मुशर्रफ	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=muśarrapha
 4	एक	एक	NUM	QC	NumType=Card	5	nummod	_	ChunkId=NP3|ChunkType=child|Translit=eka
 5	बयान	बयान	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=bayāna
-6	देते	दे	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=dete
+6	देते	दे	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=wA|Translit=dete|Vib=ता_है
 7	हैं	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin	6	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=haiṁ
 8	और	और	CCONJ	CC	_	13	cc	_	ChunkId=CCP|ChunkType=head|Translit=aura
 9	अगले	अगला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	ChunkId=NP4|ChunkType=child|Translit=agale
 10	दिन	दिन	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	obl	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=dina
 11	उस	वह	PRON	PRP	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	obl	_	Vib=0_पर|Tam=0|ChunkId=NP5|ChunkType=head|Translit=usa
 12	पर	पर	ADP	PSP	AdpType=Post	11	case	_	ChunkId=NP5|ChunkType=child|Translit=para
-13	पलट	पलट	VERB	VM	Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act	6	conj	_	Vib=0_जा+ता_है|Tam=0|ChunkId=VGF2|ChunkType=head|Stype=declarative|Translit=palaṭa
+13	पलट	पलट	VERB	VM	Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act	6	conj	_	ChunkId=VGF2|ChunkType=head|Stype=declarative|Tam=0|Translit=palaṭa|Vib=0_जा+ता_है
 14	जाते	जा	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part	13	aux	_	Vib=ता|Tam=wA|ChunkId=VGF2|ChunkType=child|Translit=jāte
 15	हैं	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin	13	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF2|ChunkType=child|Translit=haiṁ
 16	।	।	PUNCT	SYM	_	6	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
@@ -83,7 +83,7 @@ The following 49 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 7	'	'	PUNCT	SYM	_	8	punct	_	SpaceAfter=No|ChunkId=NP3|ChunkType=child|Translit='
 8	दूब	दूब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=dūba
 9	'	'	PUNCT	SYM	_	8	punct	_	ChunkId=NP3|ChunkType=child|Translit='
-10	मिलती	मिल	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=milatī
+10	मिलती	मिल	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=wA|Translit=milatī|Vib=ता_है
 11	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 12	।	।	PUNCT	SYM	_	10	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 

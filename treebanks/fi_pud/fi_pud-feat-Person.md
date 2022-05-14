@@ -20,7 +20,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.htm
 
 971 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (48% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (971; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (971; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (971; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (971; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (971; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (971; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (944; 97%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (745; 77%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (598; 62%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (971; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (971; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (971; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (971; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (971; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (944; 97%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (745; 77%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (598; 62%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (36; 4% of non-empty `Person`): <em>Luulen, Arvioimme, Halusin, Huomasin, Joudun, Julistan, Katselin, Kokeilin, Kysyin, Käyn</em>
 * `2` (7; 1% of non-empty `Person`): <em>Kiisteletkö, Päädyt, Sano, huomasitteko, kiertele, räjähdä, vaikuta</em>
 * `3` (921; 95% of non-empty `Person`): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, johti, sai, syntyi, auttaa</em>
-* `EMPTY` (1046): <em>rakennettiin, tehdä, käytettiin, pidetään, julkaistiin, liittyen, lukien, olemassa, tullut, johtaa</em>
+* `EMPTY` (1044): <em>rakennettiin, tehdä, käytettiin, pidetään, julkaistiin, liittyen, lukien, olemassa, tullut, johtaa</em>
 
 <table>
   <tr><th>Paradigm <i>haluta</i></th><th><tt>1</tt></th><th><tt>3</tt></th><th><tt>0</tt></th></tr>

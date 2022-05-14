@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `X`
 
-There are 107 `X` lemmas (2%), 107 `X` types (1%) and 179 `X` tokens (0%).
+There are 108 `X` lemmas (2%), 109 `X` types (1%) and 181 `X` tokens (0%).
 Out of 16 observed tags, the rank of `X` is: 7 in number of lemmas, 8 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>the, van, en, in, Medicines, and, Company, UK, a, devils</em>
@@ -55,24 +55,30 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="fr_sequoia-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.405809).
+The form / lemma ratio of `X` is 1.009259 (the average of all parts of speech is 1.406068).
 
-The 1st highest number of forms (1) was observed with the lemma “115L”: <em>115L</em>.
+The 1st highest number of forms (2) was observed with the lemma “_”: <em>décalage, squelettiques</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “4SA”: <em>4SA</em>.
+The 2nd highest number of forms (1) was observed with the lemma “115L”: <em>115L</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Abingdon”: <em>Abingdon</em>.
+The 3rd highest number of forms (1) was observed with the lemma “4SA”: <em>4SA</em>.
 
-`X` does not occur with any features.
+`X` occurs with 1 features: <tt><a href="fr_sequoia-feat-Foreign.html">Foreign</a></tt> (179; 99% instances)
+
+`X` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`X` occurs with 2 feature combinations.
+The most frequent feature combination is `Foreign=Yes` (179 tokens).
+Examples: <em>the, van, en, in, Medicines, and, Company, UK, a, devils</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 9 different relations: <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (77; 43% instances), <tt><a href="fr_sequoia-dep-flat-foreign.html">flat:foreign</a></tt> (76; 42% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (10; 6% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (6; 3% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt> (3; 2% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="fr_sequoia-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 10 different relations: <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (77; 43% instances), <tt><a href="fr_sequoia-dep-flat-foreign.html">flat:foreign</a></tt> (76; 42% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (10; 6% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (6; 3% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt> (3; 2% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="fr_sequoia-dep-goeswith.html">goeswith</a></tt> (2; 1% instances), <tt><a href="fr_sequoia-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (89; 50% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (51; 28% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (25; 14% instances),  (10; 6% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (89; 49% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (51; 28% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (26; 14% instances),  (10; 6% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 
-146 (82%) `X` nodes are leaves.
+148 (82%) `X` nodes are leaves.
 
 10 (6%) `X` nodes have one child.
 

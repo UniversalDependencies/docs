@@ -26,7 +26,7 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Lopulta	lopulta	ADV	Adv	_	2	advmod	2:advmod	_
 2	saatiin	saada	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 3	halikuva	hali#kuva	NOUN	N	Case=Nom|Number=Sing	4	obj	4:obj	_
-4	otettua	ottaa	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	xcomp	2:xcomp	SpaceAfter=No
+4	otettua	ottaa	VERB	V	Case=Par|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	xcomp	2:xcomp	SpaceAfter=No
 5	.	.	PUNCT	Punct	_	2	punct	2:punct	_
 
 ~~~

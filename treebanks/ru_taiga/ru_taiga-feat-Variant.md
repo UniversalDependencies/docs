@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
 3013 tokens (2%) have a non-empty value of `Variant`.
-1199 types (3%) occur at least once with a non-empty value of `Variant`.
+1200 types (3%) occur at least once with a non-empty value of `Variant`.
 764 lemmas (4%) occur at least once with a non-empty value of `Variant`.
 The feature is used with 4 part-of-speech tags: <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2362; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (641; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-2557 tokens (7%) have a non-empty value of `Tense`.
-1599 types (17%) occur at least once with a non-empty value of `Tense`.
-827 lemmas (17%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2338; 7% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (219; 1% instances).
+2595 tokens (7%) have a non-empty value of `Tense`.
+1623 types (17%) occur at least once with a non-empty value of `Tense`.
+836 lemmas (17%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2374; 7% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (221; 1% instances).
 
 ### `VERB`
 
-2338 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (72% of all `VERB` tokens) have a non-empty value of `Tense`.
+2374 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (72% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1900; 81%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1768; 76%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1476; 63%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1411; 60%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1372; 59%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1288; 55%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1276; 55%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1931; 81%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1797; 76%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1484; 63%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1438; 61%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1372; 58%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1319; 56%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1307; 55%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (257; 11% of non-empty `Tense`): <em>учнутъ, бꙋдет, придет, укажешь, ꙋвидиши, будеть, доведется, пошлю, сотворит, станет</em>
-* `Past` (1434; 61% of non-empty `Tense`): <em>велѣно, велѣлъ, написано, писал, поколол, послал, приложил, было, велел, послалъ</em>
-* `Pres` (647; 28% of non-empty `Tense`): <em>бьет, есть, бьетъ, бью, нет, нетъ, родитца, ходят, бию, бьемъ</em>
-* `EMPTY` (929): <em>имати, пожалуй, пожалꙋи, платить, сбирать, велеть, вели, взять, чинить, быть</em>
+* `Past` (1461; 62% of non-empty `Tense`): <em>велѣно, велѣлъ, написано, писал, поколол, послал, приложил, было, послалъ, велел</em>
+* `Pres` (656; 28% of non-empty `Tense`): <em>бьет, есть, бьетъ, бью, нет, нетъ, родитца, ходят, бию, бьемъ</em>
+* `EMPTY` (935): <em>имати, пожалуй, пожалꙋи, платить, сбирать, велеть, вели, взять, чинить, быть</em>
 
 <table>
   <tr><th>Paradigm <i>велѣти</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -39,17 +39,17 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-219 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `Tense`.
+221 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (201; 92%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (170; 78%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (160; 73%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (153; 70%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (151; 69%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (150; 68%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt> (115; 53%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (203; 92%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (172; 78%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (160; 72%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (153; 69%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (152; 69%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (151; 68%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt> (115; 52%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (37; 17% of non-empty `Tense`): <em>будет, будутъ, бꙋдетъ, будетъ, будучи, бꙋдет, бꙋдеш[ь], будеть, бꙋдꙋт</em>
 * `Imp` (2; 1% of non-empty `Tense`): <em>бяху, бяше</em>
-* `Past` (101; 46% of non-empty `Tense`): <em>было, бы, былъ, были, бысть, была, бы(ст), был, бꙗше, бѣ</em>
+* `Past` (103; 47% of non-empty `Tense`): <em>было, бы, были, былъ, бысть, была, бы(ст), был, бꙗше, бѣ</em>
 * `Pres` (79; 36% of non-empty `Tense`): <em>есть, еси, есте, суть, е., есмя, будучи, е(ст), есми, есмь</em>
-* `EMPTY` (88): <em>бы, б, буди, быть, быти, бъ, будучи, быт[и], бꙋд, бꙋдь</em>
+* `EMPTY` (91): <em>бы, б, буди, быть, бъ, быти, будучи, быт[и], бꙋд, бꙋдь</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -92,8 +92,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (580; 72%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (591; 72%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (58; 58%),
-<tt>VERB --[<tt><a href="orv_rnc-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (8; 89%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (9; 90%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

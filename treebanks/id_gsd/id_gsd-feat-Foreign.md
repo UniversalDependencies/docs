@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="id_gsd-pos-X.html">
 
 ### `X`
 
-89 <tt><a href="id_gsd-pos-X.html">X</a></tt> tokens (79% of all `X` tokens) have a non-empty value of `Foreign`.
+89 <tt><a href="id_gsd-pos-X.html">X</a></tt> tokens (67% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (89; 100% of non-empty `Foreign`): <em>and, Image, in, kok, loh, x, assistent, b, resident, s</em>
-* `EMPTY` (24): <em>I, a, an, baby, block, competing, do, is, it, kan</em>
+* `EMPTY` (44): <em>I, a, akhiri, an, aplikasikan, baby, beratkan, beri, block, buang</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (61) occur only with one value of `Foreign`.
 

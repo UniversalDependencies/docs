@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (3%) are attached to their parents as `flat`.
+35 nodes (2%) are attached to their parents as `flat`.
 
-28 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.85714285714286.
+35 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.91428571428571.
 
-The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (13; 46% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (9; 32% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `flat`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (13; 37% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (11; 31% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (4; 11% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -63,31 +63,22 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 flat	color:blue
-1	Мөфти	мөфти	NOUN	_	Case=Nom|Number=Sing	19	nsubj	_	LangID=TT
-2	Зиннәт	Зиннәт	PROPN	_	Case=Nom|Number=Sing	1	flat	_	LangID=TT
-3	хәзрәт	хәзрәт	NOUN	_	Case=Nom|Number=Sing	1	flat	_	LangID=TT
-4	Садыйков	Садыйков	PROPN	_	Case=Nom|Number=Sing	1	flat	_	CSPoint=Садыйк§ов|LangID=MIXED[TT&RU]
-5	Төмән	Төмән	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT
-6	өлкәсенең	өлкә	NOUN	_	Case=Gen|Number=Sing|Person[psor]=3	9	nmod	_	LangID=TT
-7	мөселман	мөселман	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	LangID=TT
-8	дини	дини	ADJ	_	_	9	amod	_	LangID=TT
-9	берләшмәләре	берләшмә	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	19	obl	_	LangID=TT
-10	турында	турында	ADP	_	_	9	case	_	LangID=TT
-11	белешмәлек	белешмәлек	NOUN	_	Case=Nom|Number=Sing	12	obj	_	LangID=TT
-12	чыгаруга	чык	VERB	_	Case=Dat|Number=Sing|VerbForm=Vnoun|Voice=Cau	14	obl	_	LangID=TT
-13	көч	көч	NOUN	_	Case=Nom|Number=Sing	14	obj	_	LangID=TT
-14	куйган	куй	VERB	_	Tense=Past|VerbForm=Part	17	amod	_	LangID=TT
-15	редакция	редакция	NOUN	_	Case=Nom|Number=Sing	16	nmod	_	LangID=RU
-16	коллегиясе	коллегия	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	17	nmod	_	CSPoint=коллегия§се|LangID=MIXED[RU§TT]
-17	әгъзаларына	әгъза	NOUN	_	Case=Dat|Number=Plur|Person[psor]=3	19	obl	_	LangID=TT
-18	рәхмәт	рәхмәт	NOUN	_	Case=Nom|Number=Sing	19	obj	_	LangID=TT
-19	белдерде	бел	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	LangID=TT|SpaceAfter=No
-20	.	.	PUNCT	_	_	19	punct	_	LangID=OTHER
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 flat	color:blue
+1	Җилнең	җил	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	LangID=TT
+2	көче	көч	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
+3	секундына	секунд	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	7	nmod	_	CSPoint=секунд§ына|LangID=MIXED[RU§TT]
+4	15	15	NUM	_	_	7	nummod	_	LangID=TT
+5	-	-	PUNCT	_	_	4	punct	_	LangID=OTHER
+6	20	20	NUM	_	_	4	flat	_	LangID=TT
+7	метр	метр	NOUN	_	Case=Nom|Number=Sing	8	xcomp	_	LangID=RU
+8	булыр	бул	VERB	_	Mood=Irr|Tense=Fut|VerbForm=Part	10	advcl	_	LangID=TT
+9	дип	ди	VERB	_	VerbForm=Conv	8	mark	_	LangID=TT
+10	фаразлана	фаразла	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
 
 ~~~
 

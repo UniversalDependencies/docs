@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 154121 tokens (16%) have a non-empty value of `Person`.
 8677 types (13%) occur at least once with a non-empty value of `Person`.
-3193 lemmas (9%) occur at least once with a non-empty value of `Person`.
+3192 lemmas (9%) occur at least once with a non-empty value of `Person`.
 The feature is used with 15 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (77088; 8% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (43817; 4% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (27468; 3% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (2446; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (1421; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (811; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (301; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (295; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (283; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (139; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (21; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
 
 ### `VERB`
@@ -131,7 +131,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (95; 7% of non-empty `Person`): <em>eigi, forðum, fer, fór, Nær, aldri, dvel, helst, kann, kem</em>
 * `2` (24; 2% of non-empty `Person`): <em>nær, þú, eigi, heldur, hvört, gerr, hvörsu, kemur, mætir, starfar</em>
 * `3` (1302; 92% of non-empty `Person`): <em>eigi, nær, heldur, snart, helst, fór, braut, fyr, kann, mátti</em>
-* `EMPTY` (77604): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
+* `EMPTY` (77602): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
 
 <table>
   <tr><th>Paradigm <i>ekki</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -152,7 +152,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 * `1` (138; 17% of non-empty `Person`): <em>ég, mér, eg, klæðum, sóttum, Vér, borðum, klæði, lyktum, syndum</em>
 * `2` (37; 5% of non-empty `Person`): <em>Þú, þér, sverð, hurðu, Furðu, Grið, Stundu, Sverðið, búið, dirfzku</em>
 * `3` (636; 78% of non-empty `Person`): <em>vilja, greinir, sakar, synda, syndir, engi, leið, mun, hóf, mætti</em>
-* `EMPTY` (145140): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145136): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>biskup</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -213,7 +213,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 * `1` (30; 11% of non-empty `Person`): <em>syndgum, göfgum, Vei, auðgum, blessuðum, fríum, fáum, heilum, helgum, kæri</em>
 * `2` (17; 6% of non-empty `Person`): <em>verðir, Heill, Hásu, Nakið, Skamt, Skjót, heilagrar, hlýðið, löstu, mildi</em>
 * `3` (236; 83% of non-empty `Person`): <em>verður, var, fær, nær, ríkir, sannast, átti, syndgir, varir, fegri</em>
-* `EMPTY` (36872): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36881): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 <table>
   <tr><th>Paradigm <i>sannur</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -236,7 +236,7 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 * `1` (52; 37% of non-empty `Person`): <em>Eg, Ég, Vér, Georgíus, Mér, Vali</em>
 * `2` (34; 24% of non-empty `Person`): <em>Þú, Þér, Yxu, Þig</em>
 * `3` (53; 38% of non-empty `Person`): <em>Vali, sankti, Valdi, Maii, Majst, guði, Beljus, Belíus, Brúni, Guddu</em>
-* `EMPTY` (41268): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41265): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 <table>
   <tr><th>Paradigm <i>vali</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>

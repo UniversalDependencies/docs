@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>için</em> (<tt><a href="tr_penn-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.179487 (the average of all parts of speech is 2.009514).
+The form / lemma ratio of `ADP` is 1.179487 (the average of all parts of speech is 2.011905).
 
 The 1st highest number of forms (5) was observed with the lemma “için”: <em>edilmesi, için, olan, üzerine, İçin</em>.
 

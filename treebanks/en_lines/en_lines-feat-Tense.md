@@ -11,7 +11,7 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 11802 tokens (13%) have a non-empty value of `Tense`.
 2203 types (22%) occur at least once with a non-empty value of `Tense`.
-1386 lemmas (18%) occur at least once with a non-empty value of `Tense`.
+1385 lemmas (18%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (8148; 9% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (3653; 4% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (993; 78%),
+<tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (994; 78%),
 <tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> AUX</tt> (7; 58%),
 <tt>VERB --[<tt><a href="en_lines-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="en_lines-dep-csubj.html">csubj</a></tt>]--> AUX</tt> (2; 100%),

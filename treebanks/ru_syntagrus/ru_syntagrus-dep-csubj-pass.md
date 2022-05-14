@@ -56,7 +56,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 13	квартире	квартира	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	10:obl:в:loc	_
 14	еще	еще	PART	_	_	15	advmod	15:advmod	_
 15	хуже	плохой	ADJ	_	Degree=Cmp	3	advcl	3:advcl:поскольку	SpaceAfter=No
-16	.	.	PUNCT	_	_	2	punct	2:punct	_~
+16	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

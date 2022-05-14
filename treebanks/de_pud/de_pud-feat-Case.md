@@ -18,7 +18,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.htm
 
 4225 <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (4225; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2977; 70%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (4223; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2977; 70%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 2843 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2839; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2272; 80%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2245; 79%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2837; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2272; 80%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2245; 79%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -88,7 +88,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 1193 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (85% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1178; 99%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1127; 94%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (814; 68%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1177; 99%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1127; 94%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (814; 68%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -148,7 +148,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 1 <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Case`:
 

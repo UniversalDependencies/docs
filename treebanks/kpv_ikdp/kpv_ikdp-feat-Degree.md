@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Cmp` (1; 33% of non-empty `Degree`): <em>зэйджык</em>
 * `Sup` (2; 67% of non-empty `Degree`): <em>Медбӧрын, Медводзсэ</em>
-* `EMPTY` (204): <em>зэй, вот, и, нин, сэн, эні, вӧдзӧ, кудз, сідз, ӧні</em>
+* `EMPTY` (205): <em>зэй, вот, и, нин, сэн, эні, вӧдзӧ, кудз, сідз, ӧні</em>
 
 ### `ADJ`
 

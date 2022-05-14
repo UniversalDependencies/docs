@@ -59,11 +59,11 @@ The 2nd highest number of forms (8) was observed with the lemma “hoch”: <em>
 
 The 3rd highest number of forms (7) was observed with the lemma “gut”: <em>besser, besten, gute, gutem, guten, guter, gutes</em>.
 
-`ADJ` occurs with 6 features: <tt><a href="de_pud-feat-Degree.html">Degree</a></tt> (1385; 99% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (1194; 85% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (1193; 85% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (1182; 84% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (1176; 84% instances), <tt><a href="de_pud-feat-NumType.html">NumType</a></tt> (15; 1% instances)
+`ADJ` occurs with 6 features: <tt><a href="de_pud-feat-Degree.html">Degree</a></tt> (1385; 99% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (1194; 85% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (1193; 85% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (1181; 84% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (1176; 84% instances), <tt><a href="de_pud-feat-NumType.html">NumType</a></tt> (15; 1% instances)
 
 `ADJ` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Person=3`
 
-`ADJ` occurs with 75 feature combinations.
+`ADJ` occurs with 76 feature combinations.
 The most frequent feature combination is `Degree=Pos` (193 tokens).
 Examples: <em>ersten, neue, letzten, bekannt, möglich, neuen, groß, große, politischen, Vereinigten</em>
 

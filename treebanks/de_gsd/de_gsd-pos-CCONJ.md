@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German-GSD: POS Tags: `CCONJ`
 
 There are 67 `CCONJ` lemmas (0%), 69 `CCONJ` types (0%) and 8843 `CCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 12 in number of types and 11 in number of tokens.
+Out of 17 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 12 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>und, oder, sowie, aber, sondern, als, wie, sowohl, doch, and</em>
 
@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>sowie</em> (<tt><a href="de_gsd-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.029851 (the average of all parts of speech is 1.185816).
+The form / lemma ratio of `CCONJ` is 1.029851 (the average of all parts of speech is 1.187208).
 
 The 1st highest number of forms (3) was observed with the lemma “und”: <em>u, und, uns</em>.
 
@@ -84,7 +84,7 @@ Examples: <em>und, oder, sowie, aber, sondern, als, wie, sowohl, doch, noch</em>
 
 `CCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="de_gsd-dep-cc.html">cc</a></tt> (8672; 98% instances), <tt><a href="de_gsd-dep-case.html">case</a></tt> (86; 1% instances), <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (25; 0% instances), <tt><a href="de_gsd-dep-fixed.html">fixed</a></tt> (19; 0% instances), <tt><a href="de_gsd-dep-conj.html">conj</a></tt> (15; 0% instances), <tt><a href="de_gsd-dep-advmod.html">advmod</a></tt> (8; 0% instances), <tt><a href="de_gsd-dep-compound.html">compound</a></tt> (4; 0% instances), <tt><a href="de_gsd-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="de_gsd-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="de_gsd-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-reparandum.html">reparandum</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 16 different parts of speech: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (3643; 41% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (2447; 28% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (1436; 16% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (886; 10% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (180; 2% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (105; 1% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (70; 1% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (6; 0% instances),  (3; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 16 different parts of speech: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (3642; 41% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (2447; 28% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (1434; 16% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (888; 10% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (180; 2% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (106; 1% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (70; 1% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (6; 0% instances),  (3; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (1; 0% instances)
 
 8778 (99%) `CCONJ` nodes are leaves.
 

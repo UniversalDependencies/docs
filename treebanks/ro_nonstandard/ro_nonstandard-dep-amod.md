@@ -22,18 +22,18 @@ The following 24 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 amod	color:blue
-1	Că	că	SCONJ	Csssp	Polarity=Pos	3	mark	_	ref=MATT18.11
-2	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	ref=MATT18.11
-3	venit	veni	VERB	Vmp	VerbForm=Part	0	root	_	ref=MATT18.11
-4	Fiiul	fiu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT18.11
-5	omenesc	omenesc	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	ref=MATT18.11
-6	și	și	ADV	Rg	_	8	advmod	_	ref=MATT18.11
-7	să	să	PART	Qs	PartType=Sub	8	mark	_	ref=MATT18.11
-8	mîntuiască	mântui	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	ref=MATT18.11
-9	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	11	nsubj	_	ref=MATT18.11
-10	еrа	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	11	aux	_	ref=MATT18.11
-11	perit	pieri	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	8	ccomp	_	ref=MATT18.11|SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT18.11
+1	Că	că	SCONJ	Csssp	Polarity=Pos	3	mark	_	Ref=MATT18.11
+2	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	Ref=MATT18.11
+3	venit	veni	VERB	Vmp	VerbForm=Part	0	root	_	Ref=MATT18.11
+4	Fiiul	fiu	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MATT18.11
+5	omenesc	omenesc	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	Ref=MATT18.11
+6	și	și	ADV	Rg	_	8	advmod	_	Ref=MATT18.11
+7	să	să	PART	Qs	PartType=Sub	8	mark	_	Ref=MATT18.11
+8	mîntuiască	mântui	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	Ref=MATT18.11
+9	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	11	nsubj	_	Ref=MATT18.11
+10	еrа	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	11	aux	_	Ref=MATT18.11
+11	perit	pieri	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	8	ccomp	_	Ref=MATT18.11|SpaceAfter=No
+12	.	.	PUNCT	PERIOD	_	3	punct	_	Ref=MATT18.11
 
 ~~~
 
@@ -44,9 +44,9 @@ The following 24 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 amod	color:blue
-1	Oaia	oaie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	ref=MATT18.12.content
-2	pierdută	pierde	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	1	amod	_	ref=MATT18.12.content|SpaceAfter=No
-3	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT18.12.content
+1	Oaia	oaie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	Ref=MATT18.12.content
+2	pierdută	pierde	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	1	amod	_	Ref=MATT18.12.content|SpaceAfter=No
+3	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT18.12.content
 
 ~~~
 
@@ -57,9 +57,9 @@ The following 24 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 amod	color:blue
-1	Hristoși	Hristos	PROPN	Npmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	ref=MATT24.23.content
-2	strîmbi	strâmb	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	ref=MATT24.23.content|SpaceAfter=No
-3	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT24.23.content
+1	Hristoși	Hristos	PROPN	Npmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	Ref=MATT24.23.content
+2	strîmbi	strâmb	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	Ref=MATT24.23.content|SpaceAfter=No
+3	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT24.23.content
 
 ~~~
 

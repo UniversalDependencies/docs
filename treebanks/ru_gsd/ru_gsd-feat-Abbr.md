@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (5; 100% of non-empty `Abbr`): <em>д</em>
-* `EMPTY` (2262): <em>где, более, как, так, уже, ещё, когда, вместе, затем, впервые</em>
+* `EMPTY` (2260): <em>где, более, как, так, уже, ещё, когда, вместе, затем, впервые</em>
 
 ### `X`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>АКВА, РИУ</em>
-* `EMPTY` (1496): <em>the, of, a, and, Airlines, Music, Records, company, de, to</em>
+* `EMPTY` (1503): <em>the, of, a, and, Airlines, Music, Records, company, de, to</em>
 
 ### `DET`
 

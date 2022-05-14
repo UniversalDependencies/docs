@@ -70,7 +70,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> NUM</tt> (353; 100%),
 <tt>NUM --[<tt><a href="es_gsd-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (113; 100%),
-<tt>NUM --[<tt><a href="es_gsd-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (101; 100%),
+<tt>NUM --[<tt><a href="es_gsd-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (100; 100%),
 <tt>NUM --[<tt><a href="es_gsd-dep-dep.html">dep</a></tt>]--> NUM</tt> (49; 100%),
 <tt>NUM --[<tt><a href="es_gsd-dep-appos.html">appos</a></tt>]--> NUM</tt> (16; 100%),
 <tt>ADJ --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> ADJ</tt> (7; 64%),

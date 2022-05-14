@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `expl`: <tt><a href="it_vit-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="it_vit-dep-expl-pass.html">expl:pass</a></tt>.
 
-2780 nodes (1%) are attached to their parents as `expl`.
+2528 nodes (1%) are attached to their parents as `expl`.
 
-2263 instances of `expl` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33992805755396.
+2082 instances of `expl` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33623417721519.
 
-The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2748; 99% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2502; 99% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,12 +44,16 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 expl	color:blue
-1	Spigole	spigola	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
-2	ce	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	_
-3	n'	ne	PRON	PC	Clitic=Yes|Number=Plur|Person=3|PronType=Prs	5	expl	_	SpaceAfter=No
-4	erano	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
-5	poche	poco	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	FS	_	5	punct	_	_
+1	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+2	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	SpaceAfter=No
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	dunque	dunque	ADV	B	_	5	advmod	_	_
+5	dubbio	dubbio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	che	che	SCONJ	CS	_	9	mark	_	_
+7	Marley	Marley	PROPN	SP	_	9	nsubj	_	_
+8	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	morto	morire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~
 
@@ -60,16 +64,12 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 expl	color:blue
-1	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
-2	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	SpaceAfter=No
-3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	dunque	dunque	ADV	B	_	5	advmod	_	_
-5	dubbio	dubbio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
-6	che	che	SCONJ	CS	_	9	mark	_	_
-7	Marley	Marley	PROPN	SP	_	9	nsubj	_	_
-8	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
-9	morto	morire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	SpaceAfter=No
-10	.	.	PUNCT	FS	_	5	punct	_	_
+1	Spigole	spigola	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+2	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+3	n'	ne	PRON	PC	Clitic=Yes|Number=Plur|Person=3|PronType=Prs	5	expl	_	SpaceAfter=No
+4	erano	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	poche	poco	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~
 

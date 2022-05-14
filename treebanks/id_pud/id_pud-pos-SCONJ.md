@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>untuk</em> (<tt><a href="id_pud-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.137196).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.137428).
 
 The 1st highest number of forms (1) was observed with the lemma “agar”: <em>agar</em>.
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="la_udante-dep-aux-pass.html">aux:pass</a></tt>.
 
-42 nodes (0%) are attached to their parents as `aux`.
+46 nodes (0%) are attached to their parents as `aux`.
 
-26 instances of `aux` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5952380952381.
+30 instances of `aux` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.56521739130435.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (29; 69% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (12; 29% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (39; 85% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (6; 13% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

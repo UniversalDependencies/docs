@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-773 tokens (0%) have a non-empty value of `Hyph`.
-412 types (1%) occur at least once with a non-empty value of `Hyph`.
-405 lemmas (1%) occur at least once with a non-empty value of `Hyph`.
-The feature is used with 9 part-of-speech tags: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (447; 0% instances), <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (167; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (65; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (48; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (34; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+763 tokens (0%) have a non-empty value of `Hyph`.
+406 types (1%) occur at least once with a non-empty value of `Hyph`.
+399 lemmas (1%) occur at least once with a non-empty value of `Hyph`.
+The feature is used with 9 part-of-speech tags: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (446; 0% instances), <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (167; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (55; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (48; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (34; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-447 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Hyph`.
+446 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `NOUN` and `Hyph` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (378; 85%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (268; 60%).
+The most frequent other feature values with which `NOUN` and `Hyph` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (377; 85%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (269; 60%).
 
 `NOUN` tokens may have the following values of `Hyph`:
 
-* `Yes` (447; 100% of non-empty `Hyph`): <em>teadus-, kesk-, haigus-, alg-, kodu-, laade-, majandus-, uurimis-, andme-, haridus-</em>
+* `Yes` (446; 100% of non-empty `Hyph`): <em>teadus-, kesk-, haigus-, alg-, kodu-, laade-, majandus-, uurimis-, andme-, haridus-</em>
 
-`Hyph` seems to be **lexical feature** of `NOUN`. 100% lemmas (307) occur only with one value of `Hyph`.
+`Hyph` seems to be **lexical feature** of `NOUN`. 100% lemmas (306) occur only with one value of `Hyph`.
 
 ### `PUNCT`
 
@@ -36,15 +36,15 @@ The most frequent other feature values with which `NOUN` and `Hyph` co-occurred:
 
 ### `NUM`
 
-65 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Hyph`.
+55 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `NUM` and `Hyph` co-occurred: <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (65; 100%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (60; 92%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (52; 80%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (52; 80%).
+The most frequent other feature values with which `NUM` and `Hyph` co-occurred: <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (55; 100%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (51; 93%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (45; 82%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (45; 82%).
 
 `NUM` tokens may have the following values of `Hyph`:
 
-* `Yes` (65; 100% of non-empty `Hyph`): <em>ω-3-, 1-, 2-, 10-, 3-, 5-, 6-, 7-, ω-6-, 128-</em>
+* `Yes` (55; 100% of non-empty `Hyph`): <em>ω-3-, 1-, 2-, 3-, 5-, 7-, 128-, 6-, 8-, ω-6-</em>
 
-`Hyph` seems to be **lexical feature** of `NUM`. 100% lemmas (30) occur only with one value of `Hyph`.
+`Hyph` seems to be **lexical feature** of `NUM`. 100% lemmas (25) occur only with one value of `Hyph`.
 
 ### `PROPN`
 
@@ -80,13 +80,13 @@ The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: 
 
 ### `SYM`
 
-3 <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> tokens (0% of all `SYM` tokens) have a non-empty value of `Hyph`.
+4 <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> tokens (1% of all `SYM` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `SYM` and `Hyph` co-occurred: <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (3; 100%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `SYM` and `Hyph` co-occurred: <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (3; 75%).
 
 `SYM` tokens may have the following values of `Hyph`:
 
-* `Yes` (3; 100% of non-empty `Hyph`): <em>A-, B-</em>
+* `Yes` (4; 100% of non-empty `Hyph`): <em>A-, B-, ω-6-</em>
 
 ### `ADP`
 

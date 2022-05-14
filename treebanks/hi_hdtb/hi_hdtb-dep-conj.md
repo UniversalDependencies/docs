@@ -32,7 +32,7 @@ The following 53 pairs of parts of speech are connected with `conj`: <tt><a href
 8	माकपा	माकपा	PROPN	NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	conj	_	Vib=0_का|Tam=0|ChunkId=NP3|ChunkType=head|Translit=mākapā
 9	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Plur	8	case	_	ChunkId=NP3|ChunkType=child|Translit=kī
 10	भवें	भौं	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	11	nsubj	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=bhaveṁ
-11	तन	तन	VERB	VM	Gender=Fem|Number=Plur|Person=3|Voice=Act	0	root	_	Vib=0_जा+या१_है|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=tana
+11	तन	तन	VERB	VM	Gender=Fem|Number=Plur|Person=3|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=0|Translit=tana|Vib=0_जा+या१_है
 12	गई	जा	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	11	aux	_	Vib=या१|Tam=yA1|ChunkId=VGF|ChunkType=child|Translit=gaī
 13	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=haiṁ
 14	।	।	PUNCT	SYM	_	11	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
@@ -57,7 +57,7 @@ The following 53 pairs of parts of speech are connected with `conj`: <tt><a href
 9	के	के	ADP	PSP	AdpType=Post	8	case	_	ChunkId=NP3|ChunkType=child|Translit=ke
 10	ऊपर	ऊपर	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	8	case	_	AltTag=ADP-NOUN|ChunkId=NP3|ChunkType=child|Translit=ūpara
 11	स्‍तूप	स्‍तूप	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	obj	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=stūpa
-12	बनाए	बना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Vib=या_जा+या1|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=banāe
+12	बनाए	बना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=banāe|Vib=या_जा+या1
 13	गए	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	12	aux:pass	_	Vib=या1|Tam=yA1|ChunkId=VGF|ChunkType=child|Translit=gae
 14	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
@@ -81,7 +81,7 @@ The following 53 pairs of parts of speech are connected with `conj`: <tt><a href
 9	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	8	mark	_	ChunkId=VGNN2|ChunkType=child|Translit=kā
 10	आरोप	आरोप	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=āropa
 11	भी	भी	PART	RP	_	10	dep	_	ChunkId=NP5|ChunkType=child|Translit=bhī
-12	लगाया	लगा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=lagāyā
+12	लगाया	लगा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=lagāyā|Vib=या
 13	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~

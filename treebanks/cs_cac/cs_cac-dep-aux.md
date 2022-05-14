@@ -11,10 +11,10 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="cs_cac-dep-aux-pas
 
 3623 nodes (1%) are attached to their parents as `aux`.
 
-3231 instances of `aux` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.54181617444107.
+3214 instances of `aux` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.57493789677063.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (3090; 85% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (449; 12% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (55; 2% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (3036; 84% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (450; 12% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (58; 2% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (49; 1% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -23,11 +23,11 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux	color:blue
-1	Zvýšené	zvýšený	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	amod	2:amod	LDeriv=zvýšit
+1	Zvýšené	zvýšený	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	2	amod	2:amod	LDeriv=zvýšit
 2	úsilí	úsilí	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	4	obj	4:obj	_
 3	budeme	být	AUX	VB-P---1F-AA---	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 4	věnovat	věnovat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	0	root	0:root	_
-5	zavádění	zavádění	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	4	obl:arg	4:obl:arg:dat	LDeriv=zavádět
+5	zavádění	zavádění	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	4	obl:arg	4:obl:arg:dat	LDeriv=zavádět
 6	nových	nový	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	7	amod	7:amod	_
 7	poznatků	poznatek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	nmod	5:nmod:gen	_
 8	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	9:case	LId=do-1
@@ -52,7 +52,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	byla	být	AUX	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	8	aux:pass	8:aux:pass	_
 8	splněna	splněný	ADJ	VsQW---XX-AP---	Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	csubj	3:csubj	LDeriv=splnit
 9	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	11	case	11:case	LId=v-1
-10	každém	každý	DET	AAIS6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Tot	11	det	11:det	_
+10	každém	každý	DET	AAIS6----1A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	11	det	11:det	_
 11	roce	rok	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	8	obl	8:obl:v:loc	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 

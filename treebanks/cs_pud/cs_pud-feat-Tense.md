@@ -12,43 +12,41 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 2051 tokens (11%) have a non-empty value of `Tense`.
 1109 types (15%) occur at least once with a non-empty value of `Tense`.
 674 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1458; 8% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (530; 3% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (63; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1425; 8% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (563; 3% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (63; 0% instances).
 
 ### `VERB`
 
-1458 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Tense`.
+1425 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1458; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1365; 94%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1270; 87%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (888; 61%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (888; 61%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (885; 61%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (883; 61%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1425; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1336; 94%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1238; 87%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (880; 62%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (880; 62%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (877; 62%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (857; 60%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (6; 0% of non-empty `Tense`): <em>nebude, půjde, bude, neporoste</em>
-* `Past` (886; 61% of non-empty `Tense`): <em>řekl, mohl, měl, stal, stala, uvedla, vedl, mohla, pracoval, rozhodl</em>
-* `Pres` (566; 39% of non-empty `Tense`): <em>má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</em>
-* `EMPTY` (294): <em>mít, vidět, získat, najít, opustit, pokračovat, stát, vést, dělat, muset</em>
+* `Fut` (3; 0% of non-empty `Tense`): <em>půjde, neporoste</em>
+* `Past` (878; 62% of non-empty `Tense`): <em>řekl, mohl, měl, stal, stala, uvedla, vedl, mohla, pracoval, rozhodl</em>
+* `Pres` (544; 38% of non-empty `Tense`): <em>má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</em>
+* `EMPTY` (293): <em>mít, vidět, získat, najít, opustit, pokračovat, stát, vést, dělat, muset</em>
 
 <table>
-  <tr><th>Paradigm <i>být</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byli</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byla</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>bylo</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>není</em></td><td><em>nebude</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>je, nese</em></td><td><em>bude</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jsou</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>jít</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>šlo</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jdu</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jde</em></td><td><em>půjde</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Jdeme</em></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-530 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Tense`.
+563 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (530; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (488; 92%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (367; 69%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (278; 52%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (278; 52%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (278; 52%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (563; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (517; 92%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (393; 70%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (303; 54%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (303; 54%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (303; 54%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (43; 8% of non-empty `Tense`): <em>bude, budou, nebude, budeme, budu, nebudou, nebudu</em>
-* `Past` (252; 48% of non-empty `Tense`): <em>byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</em>
-* `Pres` (235; 44% of non-empty `Tense`): <em>je, jsou, jsem, není, jsme, jste, nejsou, Nejsme, bývají, bývá</em>
-* `EMPTY` (120): <em>by, být, bych, bychom, byste</em>
+* `Fut` (46; 8% of non-empty `Tense`): <em>bude, budou, nebude, budeme, budu, nebudou, nebudu</em>
+* `Past` (260; 46% of non-empty `Tense`): <em>byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</em>
+* `Pres` (257; 46% of non-empty `Tense`): <em>je, jsou, jsem, není, jsme, jste, nejsou, Nejsme, bývají, bývá</em>
+* `EMPTY` (121): <em>by, být, bych, bychom, byste</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -66,7 +64,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>nebudu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jsem</em></td><td><em>budu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>není</em></td><td><em>nebude</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>je</em></td><td><em>bude</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>je, nese</em></td><td><em>bude</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Nejsme</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jsme</em></td><td><em>budeme</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jste</em></td><td></td><td></td></tr>
@@ -83,16 +81,18 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Pres` (63; 100% of non-empty `Tense`): <em>vedoucí, následující, probíhající, sestávající, studujících, dosluhující, dospívající, dospívajícího, dívající, hanobící</em>
-* `EMPTY` (2221): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `EMPTY` (2207): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (50) occur only with one value of `Tense`.
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (147; 86%),
-<tt>VERB --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (64; 72%),
+<tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (144; 86%),
+<tt>VERB --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (62; 71%),
 <tt>VERB --[<tt><a href="cs_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (4; 80%),
-<tt>AUX --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_pud-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 100%),
+<tt>AUX --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="cs_pud-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

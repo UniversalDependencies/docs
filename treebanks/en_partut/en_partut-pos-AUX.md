@@ -13,7 +13,7 @@ The 10 most frequent `AUX` lemmas: <em>be, have, will, shall, can, may, do, must
 
 The 10 most frequent `AUX` types:  <em>is, be, are, was, have, has, would, should, been, can</em>
 
-The 10 most frequent ambiguous lemmas: <em>be</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 1350, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 108), <em>have</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 323, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 130), <em>will</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 219, <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 1), <em>can</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 144, <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> 1), <em>do</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 70, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 48)
+The 10 most frequent ambiguous lemmas: <em>be</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 1350, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 108), <em>have</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 323, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 129), <em>will</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 219, <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 1), <em>can</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 144, <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> 1), <em>do</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 70, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 48)
 
 The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 437, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 56), <em>be</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 271, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 16), <em>are</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 208, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 17), <em>was</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 175, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 6), <em>have</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 147, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 59), <em>has</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 123, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 40), <em>been</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 103, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 8), <em>can</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 102, <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> 1), <em>will</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 99, <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> 6), <em>were</em> (<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 84, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 4)
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="en_partut-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.333333 (the average of all parts of speech is 1.199242).
+The form / lemma ratio of `AUX` is 3.333333 (the average of all parts of speech is 1.198926).
 
 The 1st highest number of forms (11) was observed with the lemma “be”: <em>'m, 're, 's, am, are, be, been, being, is, was, were</em>.
 

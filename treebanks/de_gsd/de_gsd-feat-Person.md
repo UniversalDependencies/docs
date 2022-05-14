@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-32316 tokens (11%) have a non-empty value of `Person`.
-3003 types (6%) occur at least once with a non-empty value of `Person`.
-1568 lemmas (4%) occur at least once with a non-empty value of `Person`.
-The feature is used with 14 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12379; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9822; 3% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (7600; 3% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (2301; 1% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (78; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (50; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (45; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (20; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+32386 tokens (11%) have a non-empty value of `Person`.
+3028 types (6%) occur at least once with a non-empty value of `Person`.
+1574 lemmas (4%) occur at least once with a non-empty value of `Person`.
+The feature is used with 14 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12447; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9824; 3% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (7601; 3% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (2302; 1% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (78; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (49; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (45; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (20; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-12379 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Person`.
+12447 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12379; 100%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12187; 98%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9784; 79%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6452; 52%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12447; 100%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12256; 98%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9784; 79%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6460; 52%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (371; 3% of non-empty `Person`): <em>war, bin, hatte, haben, kommen, finde, waren, gehe, fühle, habe</em>
+* `1` (374; 3% of non-empty `Person`): <em>war, bin, hatte, haben, kommen, finde, waren, gehe, fühle, habe</em>
 * `2` (27; 0% of non-empty `Person`): <em>Siehe, gebt, gehst, kommst, laßt, machst, weißt, Brecht, DENKST, Hast</em>
-* `3` (11981; 97% of non-empty `Person`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, befindet, erhielt, ist</em>
-* `EMPTY` (8277): <em>lassen, empfehlen, gegründet, genannt, machen, verwendet, eingesetzt, bezeichnet, genutzt, gebaut</em>
+* `3` (12046; 97% of non-empty `Person`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, befindet, erhielt, ist</em>
+* `EMPTY` (8209): <em>empfehlen, lassen, gegründet, genannt, machen, verwendet, eingesetzt, genutzt, bezeichnet, gebaut</em>
 
 <table>
   <tr><th>Paradigm <i>haben</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -38,20 +38,20 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>hätten</em></td><td></td><td><em>hätten</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (1351) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (1358) occur only with one value of `Person`.
 
 ### `AUX`
 
-9822 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
+9824 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9822; 100%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9245; 94%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7334; 75%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7281; 74%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5577; 57%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9824; 100%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9247; 94%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7336; 75%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7282; 74%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5579; 57%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (500; 5% of non-empty `Person`): <em>habe, bin, haben, kann, sind, war, werden, werde, hatte, waren</em>
 * `2` (11; 0% of non-empty `Person`): <em>bist, habt, hast, kannst, müsst, seid, sollst, werdet, wirst</em>
-* `3` (9311; 95% of non-empty `Person`): <em>ist, wurde, war, sind, wird, wurden, hat, werden, kann, waren</em>
-* `EMPTY` (770): <em>werden, sein, worden, können, gewesen, haben, müssen, wollen, dürfen, geworden</em>
+* `3` (9313; 95% of non-empty `Person`): <em>ist, wurde, war, sind, wird, wurden, hat, werden, kann, waren</em>
+* `EMPTY` (769): <em>werden, sein, worden, können, gewesen, haben, müssen, wollen, dürfen, geworden</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -67,16 +67,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-7600 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (53% of all `PRON` tokens) have a non-empty value of `Person`.
+7601 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (7600; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7600; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6198; 82%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5903; 78%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5034; 66%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7601; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6199; 82%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5904; 78%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5035; 66%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1264; 17% of non-empty `Person`): <em>ich, wir, uns, mir, mich, dBm, i</em>
 * `2` (44; 1% of non-empty `Person`): <em>du, ihr, euch, Dir, dich</em>
-* `3` (6292; 83% of non-empty `Person`): <em>er, sich, sie, es, ihm, ihn, ihnen, ihr, 's, s</em>
-* `EMPTY` (6870): <em>die, der, man, diese, das, dieser, was, diesem, dem, alle</em>
+* `3` (6293; 83% of non-empty `Person`): <em>er, sich, sie, es, ihm, ihn, ihnen, ihr, 's, s</em>
+* `EMPTY` (6602): <em>die, der, man, diese, das, dieser, was, diesem, dem, alle</em>
 
 <table>
   <tr><th>Paradigm <i>ihr</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -91,16 +91,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `DET`
 
-2301 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Person`.
+2302 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2301; 100%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2300; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1789; 78%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2302; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2302; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1790; 78%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `1` (318; 14% of non-empty `Person`): <em>meine, unsere, mein, meiner, meinem, unser, meinen, unserer, unserem, unseren</em>
 * `2` (6; 0% of non-empty `Person`): <em>deinen, dein, ihr</em>
-* `3` (1977; 86% of non-empty `Person`): <em>seine, seiner, sein, ihre, seinen, seinem, ihren, ihrer, ihrem, seines</em>
-* `EMPTY` (35090): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
+* `3` (1978; 86% of non-empty `Person`): <em>seine, seiner, sein, ihre, seinen, seinem, ihren, ihrer, ihrem, seines</em>
+* `EMPTY` (35359): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 
 <table>
   <tr><th>Paradigm <i>ihr</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -138,29 +138,29 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 78 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (55; 71%).
+The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="de_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (78; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (55; 71%).
 
 `ADJ` tokens may have the following values of `Person`:
 
 * `1` (1; 1% of non-empty `Person`): <em>probleme</em>
 * `3` (77; 99% of non-empty `Person`): <em>weiß, bezeichneten, entwickelte, verwandte, ambitionierte, aufbewahrte, ausgelobten, ausgerichtete, automatisiert, beanspruchten</em>
-* `EMPTY` (20525): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
+* `EMPTY` (20697): <em>ersten, später, erste, weitere, anderen, neue, zweiten, bekannt, neuen, großen</em>
 
 `Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (71) occur only with one value of `Person`.
 
 ### `NOUN`
 
-50 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Person`.
+49 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33; 66%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 65%).
 
 `NOUN` tokens may have the following values of `Person`:
 
 * `1` (1; 2% of non-empty `Person`): <em>ha</em>
-* `3` (49; 98% of non-empty `Person`): <em>mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</em>
-* `EMPTY` (52172): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `3` (48; 98% of non-empty `Person`): <em>mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</em>
+* `EMPTY` (52153): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
-`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (40) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (39) occur only with one value of `Person`.
 
 ### `PROPN`
 
@@ -172,7 +172,7 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 
 * `1` (5; 11% of non-empty `Person`): <em>Glaube, Verden, ficken, kommen, rike</em>
 * `3` (40; 89% of non-empty `Person`): <em>ist, sind, 1st, Gibt, Kemble, Leuchten, Roden, Sankt, ausnutzen, bru</em>
-* `EMPTY` (30729): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
+* `EMPTY` (30635): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
 
 `Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (37) occur only with one value of `Person`.
 
@@ -197,19 +197,19 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 `ADV` tokens may have the following values of `Person`:
 
 * `3` (8; 100% of non-empty `Person`): <em>kennen, aussen, bevorzugt, herausstellte, scheint, ﻿Auch</em>
-* `EMPTY` (14848): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14836): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ### `PART`
 
-5 <tt><a href="de_gsd-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Person`.
+4 <tt><a href="de_gsd-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="de_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="de_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `PART` tokens may have the following values of `Person`:
 
-* `1` (1; 20% of non-empty `Person`): <em>wehe</em>
-* `3` (4; 80% of non-empty `Person`): <em>einnahm, 's, auflief</em>
-* `EMPTY` (2142): <em>nicht, zu, aus, ja, nein, an, hin, her, preis, wie</em>
+* `1` (1; 25% of non-empty `Person`): <em>wehe</em>
+* `3` (3; 75% of non-empty `Person`): <em>einnahm, auflief</em>
+* `EMPTY` (2138): <em>nicht, zu, aus, ja, nein, an, hin, her, wie, Bitte</em>
 
 ### `ADP`
 
@@ -238,7 +238,7 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 `PUNCT` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>wurde</em>
-* `EMPTY` (38511): <em>., ,, -, ", ), (, !, :, ``, ''</em>
+* `EMPTY` (38496): <em>., ,, -, ", ), (, !, :, ``, ''</em>
 
 ### `SCONJ`
 
@@ -252,10 +252,10 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2787; 56%),
-<tt>VERB --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1047; 63%),
-<tt>VERB --[<tt><a href="de_gsd-dep-obj.html">obj</a></tt>]--> PRON</tt> (1030; 58%),
-<tt>VERB --[<tt><a href="de_gsd-dep-expl.html">expl</a></tt>]--> PRON</tt> (247; 75%),
+<tt>VERB --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2803; 55%),
+<tt>VERB --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1060; 63%),
+<tt>VERB --[<tt><a href="de_gsd-dep-obj.html">obj</a></tt>]--> PRON</tt> (1051; 59%),
+<tt>VERB --[<tt><a href="de_gsd-dep-expl.html">expl</a></tt>]--> PRON</tt> (245; 74%),
 <tt>VERB --[<tt><a href="de_gsd-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (188; 89%),
 <tt>VERB --[<tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (120; 51%),
 <tt>AUX --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (10; 100%),

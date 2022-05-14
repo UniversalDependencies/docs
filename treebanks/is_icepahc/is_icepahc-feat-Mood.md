@@ -11,7 +11,7 @@ It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
 126731 tokens (13%) have a non-empty value of `Mood`.
 8640 types (13%) occur at least once with a non-empty value of `Mood`.
-3184 lemmas (9%) occur at least once with a non-empty value of `Mood`.
+3183 lemmas (9%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 15 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (77087; 8% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (43817; 4% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (2446; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (1417; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (762; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (326; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (292; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (283; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (196; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (57; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (20; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -102,7 +102,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Imp` (3; 0% of non-empty `Mood`): <em>hvörsu, hvört, takið</em>
 * `Ind` (320; 23% of non-empty `Mood`): <em>nær, heldur, snart, helst, fór, eigi, kann, braut, fyr, mátti</em>
 * `Sub` (1094; 77% of non-empty `Mood`): <em>eigi, aldri, Forðum, kynni, byrji, ei, fyndust, geysi, liggi, liði</em>
-* `EMPTY` (77608): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
+* `EMPTY` (77606): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
 
 <table>
   <tr><th>Paradigm <i>ekki</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
@@ -124,7 +124,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 * `Imp` (12; 2% of non-empty `Mood`): <em>hurðu, Furðu, Grið, Stundu, Sverð, Sverðið, dirfzku, eig, far, gæðsku</em>
 * `Ind` (565; 74% of non-empty `Mood`): <em>vilja, greinir, sakar, synda, syndir, leið, hóf, mun, engi, getur</em>
 * `Sub` (185; 24% of non-empty `Mood`): <em>færi, kosti, liði, mætti, verði, vilji, viti, hafi, mildi, skyldu</em>
-* `EMPTY` (145189): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145185): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>stund</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -194,7 +194,7 @@ The most frequent other feature values with which `ADJ` and `Mood` co-occurred: 
 * `Imp` (9; 3% of non-empty `Mood`): <em>Heill, Hásu, Nakið, Skamt, Skjót, löstu, mildi, ofgóð, upprisu</em>
 * `Ind` (246; 87% of non-empty `Mood`): <em>verður, var, fær, nær, ríkir, sannast, átti, sanna, syndgir, varir</em>
 * `Sub` (28; 10% of non-empty `Mood`): <em>fegri, svarti, verðir, frómi, glaði, sæti, Elsti, fáum, hæsti, lítilsvirði</em>
-* `EMPTY` (36872): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36881): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 <table>
   <tr><th>Paradigm <i>heill</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -237,7 +237,7 @@ The most frequent other feature values with which `PROPN` and `Mood` co-occurred
 * `Imp` (1; 2% of non-empty `Mood`): <em>Yxu</em>
 * `Ind` (32; 56% of non-empty `Mood`): <em>Georgíus, Majst, Beljus, Belíus, Brúni, Guði, Gálu, Hrímgerður, Karatti, Kórmaks</em>
 * `Sub` (24; 42% of non-empty `Mood`): <em>Vali, Valdi, sankti, Maii, Guddu, Julii, Martii, Stefni, bausti, dragi</em>
-* `EMPTY` (41350): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41347): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 <table>
   <tr><th>Paradigm <i>guð</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>

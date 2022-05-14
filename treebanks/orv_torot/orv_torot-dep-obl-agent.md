@@ -22,15 +22,15 @@ The following 15 pairs of parts of speech are connected with `obl:agent`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 8 obl:agent	color:blue
-1	да	да	ADV	Df	_	3	advmod	_	ref=48.19|LId=1
-2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=48.19
-3	изищет	изискати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=48.19
-4	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	expl	_	ref=48.19
-5	смр҃ть	съмьрть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=48.19
-6	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	ref=48.19
-7	ѿ	отъ	ADP	R-	_	8	case	_	ref=48.19
-8	кнѧзѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl:agent	_	ref=48.19
-9	вашего	вашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes	8	nmod	_	ref=48.19
+1	да	да	ADV	Df	_	3	advmod	_	LId=1|Ref=48.19
+2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	Ref=48.19
+3	изищет	изискати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=48.19
+4	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	expl	_	Ref=48.19
+5	смр҃ть	съмьрть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Ref=48.19
+6	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	Ref=48.19
+7	ѿ	отъ	ADP	R-	_	8	case	_	Ref=48.19
+8	кнѧзѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl:agent	_	Ref=48.19
+9	вашего	вашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes	8	nmod	_	Ref=48.19
 
 ~~~
 
@@ -41,13 +41,13 @@ The following 15 pairs of parts of speech are connected with `obl:agent`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 obl:agent	color:blue
-1	и	и	CCONJ	C-	_	2	cc	_	ref=103.9
-2	крстити	крьстити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=103.10
-3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl	_	ref=103.10
-4	въ	въ	ADP	R-	_	5	case	_	ref=103.10
-5	ерданѣ	иерданъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=103.10
-6	ѿ	отъ	ADP	R-	_	7	case	_	ref=103.10
-7	іѡ҃а	иоанъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obl:agent	_	ref=103.10
+1	и	и	CCONJ	C-	_	2	cc	_	Ref=103.9
+2	крстити	крьстити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	Ref=103.10
+3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl	_	Ref=103.10
+4	въ	въ	ADP	R-	_	5	case	_	Ref=103.10
+5	ерданѣ	иерданъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	Ref=103.10
+6	ѿ	отъ	ADP	R-	_	7	case	_	Ref=103.10
+7	іѡ҃а	иоанъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obl:agent	_	Ref=103.10
 
 ~~~
 
@@ -58,14 +58,14 @@ The following 15 pairs of parts of speech are connected with `obl:agent`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 obl:agent	color:blue
-1	ѡни	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=98.2
-2	же	же	ADV	Df	_	3	discourse	_	ref=98.2
-3	начаша	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=98.3
-4	пр҃рки	пророкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	ref=98.3
-5	избивати	избивати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=98.3
-6	ѡбличаеми	обличати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	3	advcl	_	ref=98.3
-7	ѿ	отъ	ADP	R-	_	8	case	_	ref=98.3
-8	них	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obl:agent	_	ref=98.3
+1	ѡни	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Ref=98.2
+2	же	же	ADV	Df	_	3	discourse	_	Ref=98.2
+3	начаша	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=98.3
+4	пр҃рки	пророкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	Ref=98.3
+5	избивати	избивати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	Ref=98.3
+6	ѡбличаеми	обличати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	3	advcl	_	Ref=98.3
+7	ѿ	отъ	ADP	R-	_	8	case	_	Ref=98.3
+8	них	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obl:agent	_	Ref=98.3
 
 ~~~
 

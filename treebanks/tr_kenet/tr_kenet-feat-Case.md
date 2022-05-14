@@ -82,7 +82,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2397; 85%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2398; 85%),
 <tt>NOUN --[<tt><a href="tr_kenet-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1199; 55%),
 <tt>NOUN --[<tt><a href="tr_kenet-dep-amod.html">amod</a></tt>]--> NOUN</tt> (509; 55%),
 <tt>NOUN --[<tt><a href="tr_kenet-dep-acl.html">acl</a></tt>]--> NOUN</tt> (179; 52%),

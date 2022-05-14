@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>kuten</em> (<tt><a href="fi_pud-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.036066 (the average of all parts of speech is 1.526379).
+The form / lemma ratio of `ADV` is 1.036066 (the average of all parts of speech is 1.526180).
 
 The 1st highest number of forms (2) was observed with the lemma “aiemmin”: <em>aiemmin, aiemminkin</em>.
 

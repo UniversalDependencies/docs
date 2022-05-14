@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Vitaly Nikolaev, Olga Lyashevskaya.
 
 Repository: [UD_Russian-GSD](https://github.com/UniversalDependencies/UD_Russian-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -56,7 +56,7 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 
 ## Features
 
-[Abbr](ru_gsd-feat-Abbr.html) – [Animacy](ru_gsd-feat-Animacy.html) – [Aspect](ru_gsd-feat-Aspect.html) – [Case](ru_gsd-feat-Case.html) – [Degree](ru_gsd-feat-Degree.html) – [Foreign](ru_gsd-feat-Foreign.html) – [Gender](ru_gsd-feat-Gender.html) – [Mood](ru_gsd-feat-Mood.html) – [Number](ru_gsd-feat-Number.html) – [NumType](ru_gsd-feat-NumType.html) – [Person](ru_gsd-feat-Person.html) – [Polarity](ru_gsd-feat-Polarity.html) – [Reflex](ru_gsd-feat-Reflex.html) – [Tense](ru_gsd-feat-Tense.html) – [Variant](ru_gsd-feat-Variant.html) – [VerbForm](ru_gsd-feat-VerbForm.html) – [Voice](ru_gsd-feat-Voice.html)
+[Abbr](ru_gsd-feat-Abbr.html) – [Animacy](ru_gsd-feat-Animacy.html) – [Aspect](ru_gsd-feat-Aspect.html) – [Case](ru_gsd-feat-Case.html) – [Degree](ru_gsd-feat-Degree.html) – [Foreign](ru_gsd-feat-Foreign.html) – [Gender](ru_gsd-feat-Gender.html) – [Mood](ru_gsd-feat-Mood.html) – [Number](ru_gsd-feat-Number.html) – [NumType](ru_gsd-feat-NumType.html) – [Person](ru_gsd-feat-Person.html) – [Polarity](ru_gsd-feat-Polarity.html) – [Reflex](ru_gsd-feat-Reflex.html) – [Tense](ru_gsd-feat-Tense.html) – [Typo](ru_gsd-feat-Typo.html) – [Variant](ru_gsd-feat-Variant.html) – [VerbForm](ru_gsd-feat-VerbForm.html) – [Voice](ru_gsd-feat-Voice.html)
 
 ## Relations
 
@@ -66,7 +66,7 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 
 
 <ul>
-<li>This corpus contains 5030 sentences and 98000 tokens.</li>
+<li>This corpus contains 5030 sentences and 97994 tokens.</li>
 </ul>
 
 <ul>
@@ -102,7 +102,7 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 </ul>
 
 <ul>
-<li>This corpus contains 30 lemmas tagged as determiners (DET): весь, всякий, его, ее, их, каждый, какая-то, какие-то, каких-либо, какое-либо, какое-то, какой, какой-либо, какой-то, какому-то, любой, мой, наш, некий, некоторый, никакой, один, свой, сей, такой, твой, тот, чей, что, этот</li>
+<li>This corpus contains 31 lemmas tagged as determiners (DET): весь, всякий, его, ее, их, каждый, какая-то, какие-то, каких-либо, какое-либо, какое-то, какой, какой-либо, какой-нибудь, какой-то, какому-то, любой, мой, наш, некий, некоторый, никакой, один, свой, сей, такой, твой, тот, чей, что, этот</li>
 </ul>
 
 <ul>
@@ -499,6 +499,14 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 </ul>
 
 <ul>
+  <li>Cnd
+    <ul>
+      <li>SCONJ: что</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Imp
     <ul>
       <li>VERB-Fin: см., Будь, Откроем, ПРосыпайся, Пощадите, Создай, Ср., балуйтесь, введи, выходите</li>
@@ -606,6 +614,14 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
   </li>
 </ul>
 
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: 489</li>
+    </ul>
+  </li>
+</ul>
+
 
 <ul>
   <li><a>Reflex</a></li>
@@ -682,6 +698,25 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
           <li>NOUN: Сити, ага, ретрит</li>
           <li>PROPN: Konquest&#39;&#39;а, Высока</li>
           <li>X: the, of, a, and, Airlines, Music, Records, company, de, to</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADV: так</li>
+          <li>CCONJ: так</li>
+          <li>DET: какого</li>
+          <li>NOUN: Агентура., юго</li>
+          <li>NUM: 12</li>
+          <li>PART: все</li>
+          <li>SCONJ: что</li>
+          <li>X: pweination.</li>
         </ul>
       </li>
     </ul>

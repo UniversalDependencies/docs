@@ -23,5 +23,5 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>y</em>
-* `EMPTY` (39): <em>~, xxx, X, s~, xx, &, PSG, b~, comple~, dans</em>
+* `EMPTY` (35): <em>xxx, ~, X, s~, xx, &, PSG, b~, comple~, dans</em>
 

@@ -22,15 +22,15 @@ The following 1 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 clf	color:blue
-1	Ia	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	MorphInd=^ia<p>_PS3$
-2	mempunyai	punya	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	MorphInd=^meN+punya<v>+i_VSA$
-3	seorang	orang	DET	B--	Definite=Ind|PronType=Art	4	det	_	MorphInd=^seorang<b>_B--$
-4	istri	istri	NOUN	NSD	Number=Sing	2	obj	_	MorphInd=^istri<n>_NSD$
-5	dan	dan	CCONJ	H--	_	8	cc	_	MorphInd=^dan<h>_H--$
-6	empat	empat	NUM	CC-	NumType=Card	8	nummod	_	MorphInd=^empat<c>_CC-$
-7	orang	orang	NOUN	NSD	Number=Sing	8	clf	_	MorphInd=^orang<n>_NSD$
-8	anak	anak	NOUN	NSD	Number=Sing	4	conj	_	SpaceAfter=No|MorphInd=^anak<n>_NSD$
-9	.	.	PUNCT	Z--	_	2	punct	_	MorphInd=^.<z>_Z--$
+1	Ia	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Morf=^ia<p>_PS3$
+2	mempunyai	punya	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+punya<v>+i_VSA$
+3	seorang	orang	DET	B--	Definite=Ind|PronType=Art	4	det	_	Morf=^seorang<b>_B--$
+4	istri	istri	NOUN	NSD	Number=Sing	2	obj	_	Morf=^istri<n>_NSD$
+5	dan	dan	CCONJ	H--	_	8	cc	_	Morf=^dan<h>_H--$
+6	empat	empat	NUM	CC-	NumType=Card	8	nummod	_	Morf=^empat<c>_CC-$
+7	orang	orang	NOUN	NSD	Number=Sing	8	clf	_	Morf=^orang<n>_NSD$
+8	anak	anak	NOUN	NSD	Number=Sing	4	conj	_	SpaceAfter=No|Morf=^anak<n>_NSD$
+9	.	.	PUNCT	Z--	_	2	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 

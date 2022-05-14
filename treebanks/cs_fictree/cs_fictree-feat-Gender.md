@@ -13,8 +13,8 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 68808 tokens (41%) have a non-empty value of `Gender`.
 23538 types (87%) occur at least once with a non-empty value of `Gender`.
-11560 lemmas (84%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (27596; 17% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (14515; 9% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10889; 7% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8094; 5% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (3609; 2% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2255; 1% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1011; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (839; 1% instances).
+11559 lemmas (84%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (27596; 17% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (14103; 8% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10889; 7% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8112; 5% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (3591; 2% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2255; 1% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1423; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (839; 1% instances).
 
 ### `NOUN`
 
@@ -48,16 +48,16 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `VERB`
 
-14515 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Gender`.
+14103 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14515; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14515; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (14515; 100%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14466; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14463; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13012; 90%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12520; 86%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (7753; 53%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14103; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14103; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (14103; 100%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14054; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14051; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12672; 90%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12157; 86%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (7651; 54%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (4551; 31% of non-empty `Gender`): <em>měla, řekla, byla, chtěla, mohla, vzala, přišla, začala, dala, neměla</em>
-* `Masc` (8586; 59% of non-empty `Gender`): <em>řekl, měl, mohl, chtěl, byl, viděl, začal, přišel, vzal, zeptal</em>
-* `Neut` (1378; 9% of non-empty `Gender`): <em>bylo, stalo, zdálo, napadlo, nebylo, mělo, začalo, šlo, mohlo, podařilo</em>
-* `EMPTY` (10434): <em>je, má, mám, může, nevím, dělat, musí, není, mají, mít</em>
+* `Fem` (4453; 32% of non-empty `Gender`): <em>měla, řekla, chtěla, mohla, vzala, přišla, začala, dala, neměla, stála</em>
+* `Masc` (8437; 60% of non-empty `Gender`): <em>řekl, měl, mohl, chtěl, viděl, začal, přišel, vzal, zeptal, měli</em>
+* `Neut` (1213; 9% of non-empty `Gender`): <em>stalo, zdálo, napadlo, mělo, začalo, šlo, mohlo, podařilo, nenapadlo, nešlo</em>
+* `EMPTY` (9877): <em>má, mám, může, nevím, dělat, musí, mají, mít, musím, říct</em>
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -114,15 +114,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `DET`
 
-8094 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Gender`.
+8112 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6698; 83%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6698; 83%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6640; 82%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5950; 74%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5406; 67%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6716; 83%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6716; 83%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6651; 82%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5968; 74%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5419; 67%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (2339; 29% of non-empty `Gender`): <em>která, jeho, té, které, tu, ta, své, svou, kterou, její</em>
-* `Masc` (2688; 33% of non-empty `Gender`): <em>který, ten, jeho, sám, každý, můj, svého, všichni, kteří, svůj</em>
-* `Neut` (3067; 38% of non-empty `Gender`): <em>to, všechno, tom, tím, toho, tomu, tohle, které, jeho, své</em>
+* `Fem` (2346; 29% of non-empty `Gender`): <em>která, jeho, té, které, tu, ta, své, svou, kterou, její</em>
+* `Masc` (2693; 33% of non-empty `Gender`): <em>který, ten, jeho, sám, každý, můj, svého, všichni, kteří, svůj</em>
+* `Neut` (3073; 38% of non-empty `Gender`): <em>to, všechno, tom, tím, toho, tomu, tohle, které, jeho, své</em>
 * `EMPTY` (323): <em>několik, tolik, kolik, několika, mnoho, hodně, moc, víc, málo, mnoha</em>
 
 <table>
@@ -168,15 +168,15 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `PRON`
 
-3609 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (26% of all `PRON` tokens) have a non-empty value of `Gender`.
+3591 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3609; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (2937; 81%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2937; 81%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2619; 73%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2523; 70%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (2036; 56%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3591; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (2937; 82%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2937; 82%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2601; 72%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2512; 70%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (2035; 57%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (1058; 29% of non-empty `Gender`): <em>ji, jí, ní, ona, je, ni, nich, níž, ně, jich</em>
-* `Masc` (2379; 66% of non-empty `Gender`): <em>ho, mu, kdo, je, on, nikdo, něj, někdo, ním, jim</em>
-* `Neut` (172; 5% of non-empty `Gender`): <em>je, ho, všecko, ně, něj, něm, co, jež, mu, ono</em>
+* `Fem` (1051; 29% of non-empty `Gender`): <em>ji, jí, ní, ona, je, ni, nich, níž, ně, jich</em>
+* `Masc` (2374; 66% of non-empty `Gender`): <em>ho, mu, kdo, je, on, nikdo, něj, někdo, ním, jim</em>
+* `Neut` (166; 5% of non-empty `Gender`): <em>je, ho, všecko, ně, něj, něm, co, jež, mu, ono</em>
 * `EMPTY` (10496): <em>se, si, mi, co, mě, já, nic, něco, nás, ti</em>
 
 <table>
@@ -271,16 +271,16 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `AUX`
 
-1011 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (15% of all `AUX` tokens) have a non-empty value of `Gender`.
+1423 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (19% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1011; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1011; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1011; 100%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1010; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1010; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (926; 92%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (866; 86%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1423; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1423; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1423; 100%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1422; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1422; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1266; 89%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1229; 86%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (322; 32% of non-empty `Gender`): <em>byla, byly, nebyla, bývala, jsouc</em>
-* `Masc` (475; 47% of non-empty `Gender`): <em>byl, byli, nebyl, byly, býval, nebyly, nebyli, bývali</em>
-* `Neut` (214; 21% of non-empty `Gender`): <em>bylo, nebylo, byla, bývalo, nebyla, nebývalo</em>
-* `EMPTY` (5554): <em>jsem, by, je, bych, jsme, jsi, bude, jsou, jste, být</em>
+* `Fem` (420; 30% of non-empty `Gender`): <em>byla, byly, nebyla, bývala, nebyly, jsouc, nebývala</em>
+* `Masc` (624; 44% of non-empty `Gender`): <em>byl, byli, nebyl, byly, býval, nebyli, nebyly, bývali, nebýval</em>
+* `Neut` (379; 27% of non-empty `Gender`): <em>bylo, nebylo, byla, bývalo, nebývalo, nebyla</em>
+* `EMPTY` (6111): <em>jsem, je, by, bych, jsme, bude, jsou, jsi, není, být</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -295,7 +295,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
   <tr><td><tt><tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td><em>jsouc</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>nebyla</em></td><td><em>nebylo</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>byla</em></td><td><em>bylo</em></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>nebyla</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>nebyly</em></td><td><em>nebyla</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>byly</em></td><td><em>byla</em></td></tr>
 </table>
 
@@ -338,11 +338,11 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7659; 100%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4069; 99%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3209; 69%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (2881; 72%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (683; 60%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (613; 74%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4083; 99%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3066; 72%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (2806; 74%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (646; 62%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (602; 75%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (534; 85%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (518; 97%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (350; 98%),

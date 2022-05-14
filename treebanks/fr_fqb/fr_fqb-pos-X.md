@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-FQB: POS Tags: `X`
 
-There are 173 `X` lemmas (5%), 173 `X` types (4%) and 243 `X` tokens (1%).
+There are 174 `X` lemmas (5%), 174 `X` types (4%) and 244 `X` tokens (1%).
 Out of 16 observed tags, the rank of `X` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>the, of, 's, and, caliente, is, west, hazmat, in, to</em>
@@ -60,16 +60,22 @@ The 2nd highest number of forms (1) was observed with the lemma “'n”: <em>'n
 
 The 3rd highest number of forms (1) was observed with the lemma “'s”: <em>'s</em>.
 
-`X` does not occur with any features.
+`X` occurs with 1 features: <tt><a href="fr_fqb-feat-Foreign.html">Foreign</a></tt> (243; 100% instances)
+
+`X` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`X` occurs with 2 feature combinations.
+The most frequent feature combination is `Foreign=Yes` (243 tokens).
+Examples: <em>the, of, 's, and, caliente, is, west, hazmat, in, to</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 10 different relations: <tt><a href="fr_fqb-dep-flat-foreign.html">flat:foreign</a></tt> (131; 54% instances), <tt><a href="fr_fqb-dep-dep.html">dep</a></tt> (73; 30% instances), <tt><a href="fr_fqb-dep-obj.html">obj</a></tt> (16; 7% instances), <tt><a href="fr_fqb-dep-obl-mod.html">obl:mod</a></tt> (7; 3% instances), <tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt> (6; 2% instances), <tt><a href="fr_fqb-dep-xcomp.html">xcomp</a></tt> (5; 2% instances), <tt><a href="fr_fqb-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="fr_fqb-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 11 different relations: <tt><a href="fr_fqb-dep-flat-foreign.html">flat:foreign</a></tt> (131; 54% instances), <tt><a href="fr_fqb-dep-dep.html">dep</a></tt> (73; 30% instances), <tt><a href="fr_fqb-dep-obj.html">obj</a></tt> (16; 7% instances), <tt><a href="fr_fqb-dep-obl-mod.html">obl:mod</a></tt> (7; 3% instances), <tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt> (6; 2% instances), <tt><a href="fr_fqb-dep-xcomp.html">xcomp</a></tt> (5; 2% instances), <tt><a href="fr_fqb-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="fr_fqb-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-goeswith.html">goeswith</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="fr_fqb-pos-X.html">X</a></tt> (131; 54% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (41; 17% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (34; 14% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (32; 13% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="fr_fqb-pos-X.html">X</a></tt> (131; 54% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (42; 17% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (34; 14% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (32; 13% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-179 (74%) `X` nodes are leaves.
+180 (74%) `X` nodes are leaves.
 
 3 (1%) `X` nodes have one child.
 

@@ -11,7 +11,7 @@ This relation is universal.
 2653 nodes (5%) are attached to their parents as `advmod`.
 
 1623 instances of `advmod` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.67282321899736.
+Average distance between parent and child is 2.67320015077271.
 
 The following 23 pairs of parts of speech are connected with `advmod`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1375; 52% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (702; 26% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (272; 10% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (98; 4% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (49; 2% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (39; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (35; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (31; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (21; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances).
 
@@ -26,14 +26,14 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
 3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
 4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-5	ϫⲡⲟ	ϫⲡⲟ	VERB	V	VerbForm=Fin	1	acl	_	_
+5	ϫⲡⲟ	ϫⲡⲟ	VERB	V	VerbForm=Fin	1	acl:relcl	_	_
 6	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
 7	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	5	advmod	_	Orig=ϩⲣⲁⲓ̈
 8	ϩⲙ	ϩⲛ	ADP	PREP	_	10	case	_	Orig=ϩ︤ⲙ︥
 9	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	Entity=(substance
 10	ⲥⲛⲟϥ	ⲥⲛⲟϥ	NOUN	N	_	5	obl	_	_
 11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
-12	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	10	acl	_	Entity=substance)person)
+12	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	10	acl:relcl	_	Entity=substance)person)
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 8	ϣⲧⲏⲛ	ϣⲧⲏⲛ	NOUN	N	_	5	obj	_	Orig=ϣ̇ⲧⲏⲛ
 9	ⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	Orig=ⲉ̇
 10	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
-11	ⲧⲁⲉⲓⲏⲩ	ⲧⲁⲉⲓⲟ	VERB	VSTAT	VerbForm=Fin	8	acl	_	Entity=object)|Orig=ⲧⲁⲉⲓ̇ⲏⲩ
+11	ⲧⲁⲉⲓⲏⲩ	ⲧⲁⲉⲓⲟ	VERB	VSTAT	VerbForm=Fin	8	acl:relcl	_	Entity=object)|Orig=ⲧⲁⲉⲓ̇ⲏⲩ
 12	.	.	PUNCT	PUNCT	_	5	punct	_	Orig=·
 
 ~~~

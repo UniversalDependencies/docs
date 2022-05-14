@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Ord`, `Sets`.
 
 3707 tokens (2%) have a non-empty value of `NumType`.
-598 types (2%) occur at least once with a non-empty value of `NumType`.
+599 types (2%) occur at least once with a non-empty value of `NumType`.
 439 lemmas (2%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2990; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (717; 0% instances).
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Frac` (1; 0% of non-empty `NumType`): <em>1\5</em>
 * `Ord` (716; 100% of non-empty `NumType`): <em>первый, второй, первого, 2, первые, 1, первых, первая, вторая, второго</em>
-* `EMPTY` (16171): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
+* `EMPTY` (16168): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (189) occur only with one value of `NumType`.
 

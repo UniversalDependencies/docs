@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 aux	color:blue
-1	Jouduttu	joutua	AUX	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	aux	_	_
+1	Jouduttu	joutua	AUX	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	aux	_	_
 2	intuboimaan	intuboida	VERB	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
 3	potilas	potilas	NOUN	_	Case=Nom|Number=Sing	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_

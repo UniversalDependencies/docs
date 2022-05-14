@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (80; 10% of non-empty `Person`): <em>аддза, думайта, гӧгӧрволім, мӧдӧдчи, пукси, сувті, шуам, юалі, Арендуйтам, Ветла</em>
 * `2` (52; 7% of non-empty `Person`): <em>Кӧсъян, аддзан, бӧрйы, Аддзывлан, Вайӧ, Водінныд, Идралін, Кутчысь, Кывзы, Локтін</em>
 * `3` (662; 83% of non-empty `Person`): <em>воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</em>
-* `EMPTY` (556): <em>идралӧм, лоны, шуны, идралӧмын, мунны, вӧчны, пов, восьлавны, жалит, кольӧм</em>
+* `EMPTY` (557): <em>идралӧм, лоны, шуны, идралӧмын, мунны, вӧчны, пов, восьлавны, жалит, кольӧм</em>
 
 <table>
   <tr><th>Paradigm <i>шуны</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -52,7 +52,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (109; 35% of non-empty `Person`): <em>ме, ми, миян, менам, меным, менӧ, ачым, миянлысь, асланым, ачымӧс</em>
 * `2` (38; 12% of non-empty `Person`): <em>тэ, ті, тэнад, тэкӧд, тэныд, тіян, Асьныд, Ставныд, аскӧдныд, аслад</em>
 * `3` (168; 53% of non-empty `Person`): <em>сійӧ, сы, сійӧс, найӧ, сылӧн, сылы, найӧс, аслас, ачыс, асьсӧ</em>
-* `EMPTY` (220): <em>тайӧ, мый, быд, кодъяс, коді, ас, мыйкӧ, став, мукӧд, ставыс</em>
+* `EMPTY` (222): <em>тайӧ, мый, быд, кодъяс, коді, ас, мыйкӧ, став, мукӧд, ставыс</em>
 
 <table>
   <tr><th>Paradigm <i>ас</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -87,7 +87,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (27; 11% of non-empty `Person`): <em>эг, ог, лоам, Огыд, верми, вӧлі, вӧлім, кута, огӧ, эз</em>
 * `2` (20; 8% of non-empty `Person`): <em>он, эн, вай, верман, кутан</em>
 * `3` (200; 81% of non-empty `Person`): <em>эз, оз, вӧлі, колӧ, вӧліны, кутіс, позьӧ, вермас, лоас, пондіс</em>
-* `EMPTY` (60): <em>абу, вермы, кут, не, лоны, абуӧсь, вӧв, позь, должен, ни</em>
+* `EMPTY` (61): <em>абу, вермы, кут, не, лоны, абуӧсь, вӧв, позь, должен, ни</em>
 
 <table>
   <tr><th>Paradigm <i>оз</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

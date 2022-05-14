@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 2	IABP	IABP	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	5	obj	_	Gen=kontrapulsaattori
 3	että	että	CCONJ	_	_	4	cc	_	_
 4	dreenit	dreeni	NOUN	_	Case=Nom|Number=Plur	2	conj	_	Gen=laskuputket
-5	poistettu	poistaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	SENSE=0
+5	poistettu	poistaa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	SENSE=0
 6	potilaalta	potilas	NOUN	_	Case=Abl|Number=Sing	5	obl	_	_
 7	tänään	tänään	ADV	_	_	5	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 6 cc:preconj	color:blue
-1	Käännetty	kääntää	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	SENSE=0
+1	Käännetty	kääntää	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	SENSE=0
 2	usein	usein	ADV	_	_	1	advmod	_	_
 3	asentoa	asento	NOUN	_	Case=Par|Number=Sing	1	obj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	10	punct	_	_
@@ -48,11 +48,11 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 6	milloin	milloin	ADV	_	_	10	cc:preconj	_	_
 7	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
 8	tyynyt	tyyny	NOUN	_	Case=Nom|Number=Plur	10	nsubj:cop	_	_
-9	olleet	olla	AUX	_	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	10	cop	_	SENSE=0
+9	olleet	olla	AUX	_	Case=Nom|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	10	cop	_	SENSE=0
 10	huonosti	huonosti	ADV	_	Derivation=Sti	1	parataxis	_	_
 11	-	-	PUNCT	_	_	13	punct	_	SpaceAfter=No
 12	milloin	milloin	ADV	_	_	13	cc	_	_
-13	polttanut	polttaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	10	conj	_	_
+13	polttanut	polttaa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	10	conj	_	_
 14	selkää	selkä	NOUN	_	Case=Par|Number=Sing	13	obj	_	_
 15	tai	tai	CCONJ	_	_	17	cc	_	_
 16	polvet	polvi	NOUN	_	Case=Nom|Number=Plur	17	nsubj:cop	_	_

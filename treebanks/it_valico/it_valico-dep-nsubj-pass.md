@@ -40,7 +40,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 16	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	bat	bat	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	Foreign=Yes
 18	di	di	ADP	E	_	19	case	_	_
-19	base	baseball	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+19	base	baseball	NOUN	S	Gender=Fem|Number=Sing|Typo=Yes	17	nmod	_	_
 20	ball	_	X	_	_	19	goeswith	_	_
 21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	quale	quale	PRON	PR	Number=Sing|PronType=Rel	24	nsubj:pass	_	_
@@ -61,14 +61,14 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 37	e	e	CCONJ	CC	_	40	cc	_	_
 38	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	obj	_	SpaceAfter=No
 39	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	aux	_	_
-40	rubato	rubare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+40	rubato	rubare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	33	conj	_	_
 41	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
 42	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	43	det:poss	_	_
 43	bat	bat	NOUN	S	Gender=Masc|Number=Sing	40	dislocated	_	Foreign=Yes|SpaceAfter=No
 44	,	,	PUNCT	FF	_	47	punct	_	_
 45	povero	povero	ADJ	A	Gender=Masc|Number=Sing	46	amod	_	_
 46	bambino	bambino	NOUN	S	Gender=Masc|Number=Sing	47	vocative	_	_
-47	pianggiava	pianggiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	conj	_	_
+47	pianggiava	pianggiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
 48	molto	molto	ADV	B	_	47	advmod	_	SpaceAfter=No
 49	,	,	PUNCT	FF	_	47	punct	_	_
 50	non	non	ADV	BN	PronType=Neg	52	advmod	_	_

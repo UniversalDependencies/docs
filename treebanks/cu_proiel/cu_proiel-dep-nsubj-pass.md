@@ -22,16 +22,16 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 nsubj:pass	color:blue
-1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=MARK_6.52
-2	разоумѣшѧ	разоумѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_6.52
-3	бо	бо	ADV	Df	_	2	discourse	_	ref=MARK_6.52
-4	о	о	ADP	R-	_	5	case	_	ref=MARK_6.52
-5	хлѣбѣхъ	хлѣбъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	2	obl	_	ref=MARK_6.52
-6	нъ	нъ	CCONJ	C-	_	2	cc	_	ref=MARK_6.52
-7	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	ref=MARK_6.52
-8	сръдъце	срьдьце	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj:pass	_	ref=MARK_6.52
-9	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	ref=MARK_6.52
-10	окаменено	окаменити	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	conj	_	ref=MARK_6.52
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MARK_6.52
+2	разоумѣшѧ	разоумѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_6.52
+3	бо	бо	ADV	Df	_	2	discourse	_	Ref=MARK_6.52
+4	о	о	ADP	R-	_	5	case	_	Ref=MARK_6.52
+5	хлѣбѣхъ	хлѣбъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	2	obl	_	Ref=MARK_6.52
+6	нъ	нъ	CCONJ	C-	_	2	cc	_	Ref=MARK_6.52
+7	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	Ref=MARK_6.52
+8	сръдъце	срьдьце	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj:pass	_	Ref=MARK_6.52
+9	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	Ref=MARK_6.52
+10	окаменено	окаменити	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	conj	_	Ref=MARK_6.52
 
 ~~~
 
@@ -42,12 +42,12 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj:pass	color:blue
-1	сь	сь	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	ref=LUKE_7.27
-2	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_7.27
-3	о	о	ADP	R-	_	4	case	_	ref=LUKE_7.27
-4	немьже	иже	PRON	Pr	Case=Loc|Gender=Masc|Number=Sing|PronType=Rel	5	obl	_	ref=LUKE_7.27
-5	писано	пьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=LUKE_7.27
-6	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_7.27
+1	сь	сь	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	Ref=LUKE_7.27
+2	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Ref=LUKE_7.27
+3	о	о	ADP	R-	_	4	case	_	Ref=LUKE_7.27
+4	немьже	иже	PRON	Pr	Case=Loc|Gender=Masc|Number=Sing|PronType=Rel	5	obl	_	Ref=LUKE_7.27
+5	писано	пьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Ref=LUKE_7.27
+6	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Ref=LUKE_7.27
 
 ~~~
 
@@ -58,10 +58,10 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nsubj:pass	color:blue
-1	талитакоумъ	талиѳакоумъ	X	F-	_	0	root	_	ref=MARK_5.41
-2	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	nsubj:pass	_	ref=MARK_5.41
-3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=MARK_5.41
-4	съказаемое	съказати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	1	advcl	_	ref=MARK_5.41
+1	талитакоумъ	талиѳакоумъ	X	F-	_	0	root	_	Ref=MARK_5.41
+2	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	nsubj:pass	_	Ref=MARK_5.41
+3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MARK_5.41
+4	съказаемое	съказати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	1	advcl	_	Ref=MARK_5.41
 
 ~~~
 

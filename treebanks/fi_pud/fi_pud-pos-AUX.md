@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>on</em> (<tt><a href="fi_pud-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 7.857143 (the average of all parts of speech is 1.526379).
+The form / lemma ratio of `AUX` is 7.857143 (the average of all parts of speech is 1.526180).
 
 The 1st highest number of forms (25) was observed with the lemma “olla”: <em>ole, olemaan, olemme, olen, olevan, olevansa, oli, oliko, olin, olisi, olisivat, olivat, olivatkaan, olla, ollakin, olleen, olleet, ollessa, ollut, oltu, on, onkaan, onkin, onko, ovat</em>.
 
@@ -59,9 +59,9 @@ The 2nd highest number of forms (12) was observed with the lemma “voida”: <e
 
 The 3rd highest number of forms (6) was observed with the lemma “ei”: <em>Eikö, ei, eikä, eivät, emme, en</em>.
 
-`AUX` occurs with 14 features: <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt> (826; 100% instances), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt> (788; 95% instances), <tt><a href="fi_pud-feat-Number.html">Number</a></tt> (783; 95% instances), <tt><a href="fi_pud-feat-Person.html">Person</a></tt> (723; 88% instances), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt> (644; 78% instances), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt> (608; 74% instances), <tt><a href="fi_pud-feat-Polarity.html">Polarity</a></tt> (122; 15% instances), <tt><a href="fi_pud-feat-Case.html">Case</a></tt> (52; 6% instances), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt> (47; 6% instances), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt> (47; 6% instances), <tt><a href="fi_pud-feat-Connegative.html">Connegative</a></tt> (38; 5% instances), <tt><a href="fi_pud-feat-Clitic.html">Clitic</a></tt> (21; 3% instances), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt> (13; 2% instances), <tt><a href="fi_pud-feat-Person-psor.html">Person[psor]</a></tt> (3; 0% instances)
+`AUX` occurs with 13 features: <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt> (826; 100% instances), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt> (788; 95% instances), <tt><a href="fi_pud-feat-Number.html">Number</a></tt> (783; 95% instances), <tt><a href="fi_pud-feat-Person.html">Person</a></tt> (723; 88% instances), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt> (644; 78% instances), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt> (608; 74% instances), <tt><a href="fi_pud-feat-Polarity.html">Polarity</a></tt> (122; 15% instances), <tt><a href="fi_pud-feat-Case.html">Case</a></tt> (52; 6% instances), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt> (47; 6% instances), <tt><a href="fi_pud-feat-Connegative.html">Connegative</a></tt> (38; 5% instances), <tt><a href="fi_pud-feat-Clitic.html">Clitic</a></tt> (21; 3% instances), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt> (13; 2% instances), <tt><a href="fi_pud-feat-Person-psor.html">Person[psor]</a></tt> (3; 0% instances)
 
-`AUX` occurs with 32 feature-value pairs: `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Tra`, `Clitic=Ka`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Connegative=Yes`, `Degree=Pos`, `InfForm=1`, `InfForm=2`, `InfForm=3`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `PartForm=Past`, `PartForm=Pres`, `Person=0`, `Person=1`, `Person=3`, `Person[psor]=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
+`AUX` occurs with 31 feature-value pairs: `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Tra`, `Clitic=Ka`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Connegative=Yes`, `InfForm=1`, `InfForm=2`, `InfForm=3`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `PartForm=Past`, `PartForm=Pres`, `Person=0`, `Person=1`, `Person=3`, `Person[psor]=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
 `AUX` occurs with 38 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (311 tokens).

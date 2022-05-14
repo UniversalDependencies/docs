@@ -40,14 +40,14 @@ The following 47 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 advcl	color:blue
-1	моисѣеви	моисеи	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	nsubj	_	ref=94.20
-2	же	же	ADV	Df	_	5	discourse	_	ref=94.20
-3	възмогъшю	възмощи	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	ref=94.21
-4	быс	быти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	ref=94.21
-5	великъ	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	ref=94.21
-6	в	въ	ADP	R-	_	7	case	_	ref=94.21
-7	дому	домъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=94.21
-8	фараѡни	фараонь	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	amod	_	ref=94.21
+1	моисѣеви	моисеи	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	nsubj	_	Ref=94.20
+2	же	же	ADV	Df	_	5	discourse	_	Ref=94.20
+3	възмогъшю	възмощи	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	Ref=94.21
+4	быс	быти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	Ref=94.21
+5	великъ	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	Ref=94.21
+6	в	въ	ADP	R-	_	7	case	_	Ref=94.21
+7	дому	домъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	Ref=94.21
+8	фараѡни	фараонь	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	amod	_	Ref=94.21
 
 ~~~
 
@@ -58,15 +58,15 @@ The following 47 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 advcl	color:blue
-1	бѧше	быти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	ref=56.2
-2	бо	бо	ADV	Df	_	5	discourse	_	ref=56.2
-3	мужь	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=56.2
-4	твои	твои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=56.3
-5	аки	акы	ADV	Df	_	0	root	_	ref=56.3
-6	волкъ	вълкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=56.3
-7	восхищая	въсхыщати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	ref=56.3
-8	и	и	CCONJ	C-	_	7	cc	_	ref=56.3
-9	грабѧ	грабити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	conj	_	ref=56.3
+1	бѧше	быти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	Ref=56.2
+2	бо	бо	ADV	Df	_	5	discourse	_	Ref=56.2
+3	мужь	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=56.2
+4	твои	твои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	3	nmod	_	Ref=56.3
+5	аки	акы	ADV	Df	_	0	root	_	Ref=56.3
+6	волкъ	вълкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=56.3
+7	восхищая	въсхыщати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	Ref=56.3
+8	и	и	CCONJ	C-	_	7	cc	_	Ref=56.3
+9	грабѧ	грабити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	conj	_	Ref=56.3
 
 ~~~
 

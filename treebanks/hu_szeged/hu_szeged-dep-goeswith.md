@@ -90,7 +90,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 39	internetes	internetes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	37	conj	_	_
 40	vállalkozással	vállalkozás	NOUN	_	Case=Ins|Number=Sing	43	obl	_	_
 41	is	is	CCONJ	_	_	40	cc	_	ToDo=cc-without-conj
-42	szövetségre	szövetség	NOUN	_	Case=Sub|Number=Sing	43	obl	_	_
+42	szövetségre	szövetség	NOUN	_	Case=Sbl|Number=Sing	43	obl	_	_
 43	lépett	lép	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	conj	_	SpaceAfter=No
 44	.	.	PUNCT	_	_	21	punct	_	_
 

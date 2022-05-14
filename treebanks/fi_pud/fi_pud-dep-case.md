@@ -43,7 +43,7 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 1	Kaikki	kaikki	PRON	_	Case=Nom|Number=Sing|PronType=Ind	2	det	2:det	_
 2	lääkintämiehet	lääkintä#mies	NOUN	_	Case=Nom|Number=Plur	4	nsubj:cop	4:nsubj:cop	_
 3	olivat	olla	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
-4	aseistettuja	aseistaa	VERB	_	Case=Par|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
+4	aseistettuja	aseistaa	VERB	_	Case=Par|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	7:punct	_
 6	paitsi	paitsi	ADP	_	AdpType=Prep	7	case	7:case	_
 7	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	conj	4:conj	SpaceAfter=No
@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 1	Kolmantena	kolmas	ADJ	_	Case=Ess|Number=Sing|NumType=Ord	2	amod	2:amod	_
 2	päivänä	päivä	NOUN	_	Case=Ess|Number=Sing	4	obl	4:obl	_
 3	olin	olla	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
-4	palannut	palata	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+4	palannut	palata	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 5	EMicron	EMicro	PROPN	_	Case=Gen|Number=Sing	4	obl	4:obl	_
 6	pariin	pariin	ADP	_	AdpType=Post	5	case	5:case	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	4:punct	_

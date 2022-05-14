@@ -36,5 +36,5 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Imp` (1; 100% of non-empty `Aspect`): <em>počínaje</em>
-* `EMPTY` (1856): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, vést, musí, účtuje</em>
+* `EMPTY` (1840): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, vést, musí, účtuje</em>
 

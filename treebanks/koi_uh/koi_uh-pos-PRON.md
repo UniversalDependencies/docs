@@ -51,13 +51,13 @@ Parents of `PRON` nodes belong to 6 different parts of speech: <tt><a href="koi_
 
 10 (12%) `PRON` nodes have one child.
 
-0 (0%) `PRON` nodes have two children.
+1 (1%) `PRON` nodes have two children.
 
-3 (4%) `PRON` nodes have three or more children.
+2 (2%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 6.
 
-Children of `PRON` nodes are attached using 12 different relations: <tt><a href="koi_uh-dep-punct.html">punct</a></tt> (8; 31% instances), <tt><a href="koi_uh-dep-case.html">case</a></tt> (5; 19% instances), <tt><a href="koi_uh-dep-conj.html">conj</a></tt> (3; 12% instances), <tt><a href="koi_uh-dep-discourse.html">discourse</a></tt> (2; 8% instances), <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt> (1; 4% instances), <tt><a href="koi_uh-dep-advmod-deg.html">advmod:deg</a></tt> (1; 4% instances), <tt><a href="koi_uh-dep-advmod-tmod.html">advmod:tmod</a></tt> (1; 4% instances), <tt><a href="koi_uh-dep-amod.html">amod</a></tt> (1; 4% instances), <tt><a href="koi_uh-dep-fixed.html">fixed</a></tt> (1; 4% instances), <tt><a href="koi_uh-dep-mark.html">mark</a></tt> (1; 4% instances), <tt><a href="koi_uh-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 4% instances), <tt><a href="koi_uh-dep-parataxis.html">parataxis</a></tt> (1; 4% instances)
+Children of `PRON` nodes are attached using 11 different relations: <tt><a href="koi_uh-dep-punct.html">punct</a></tt> (7; 32% instances), <tt><a href="koi_uh-dep-case.html">case</a></tt> (5; 23% instances), <tt><a href="koi_uh-dep-discourse.html">discourse</a></tt> (2; 9% instances), <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="koi_uh-dep-advmod-deg.html">advmod:deg</a></tt> (1; 5% instances), <tt><a href="koi_uh-dep-advmod-tmod.html">advmod:tmod</a></tt> (1; 5% instances), <tt><a href="koi_uh-dep-amod.html">amod</a></tt> (1; 5% instances), <tt><a href="koi_uh-dep-fixed.html">fixed</a></tt> (1; 5% instances), <tt><a href="koi_uh-dep-mark.html">mark</a></tt> (1; 5% instances), <tt><a href="koi_uh-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 5% instances), <tt><a href="koi_uh-dep-parataxis.html">parataxis</a></tt> (1; 5% instances)
 
-Children of `PRON` nodes belong to 7 different parts of speech: <tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (8; 31% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (5; 19% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (4; 15% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (4; 15% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 12% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-PART.html">PART</a></tt> (1; 4% instances)
+Children of `PRON` nodes belong to 7 different parts of speech: <tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (7; 32% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (5; 23% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (4; 18% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 14% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="koi_uh-pos-PART.html">PART</a></tt> (1; 5% instances)
 

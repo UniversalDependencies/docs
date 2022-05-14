@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-441 tokens (3%) have a non-empty value of `Polarity`.
-43 types (1%) occur at least once with a non-empty value of `Polarity`.
+445 tokens (3%) have a non-empty value of `Polarity`.
+44 types (1%) occur at least once with a non-empty value of `Polarity`.
 4 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (433; 3% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (437; 3% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `AUX`
 
-433 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (62% of all `AUX` tokens) have a non-empty value of `Polarity`.
+437 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (62% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (432; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (361; 83%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (306; 71%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (306; 71%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (288; 67%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (288; 67%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (436; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (361; 83%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (309; 71%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (308; 70%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (290; 66%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (290; 66%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (433; 100% of non-empty `Polarity`): <em>а, аволь, эзь, апак, арась, эзть, эзинь, эсть, эзизе, арасель</em>
-* `EMPTY` (264): <em>кармась, ульнесь, кармасть, ули, иля, эряви, ли, ульнесть, кадык, кармить</em>
+* `Neg` (437; 100% of non-empty `Polarity`): <em>а, аволь, эзь, апак, арась, эзть, эзинь, эсть, эзизе, арасель</em>
+* `EMPTY` (266): <em>кармась, ульнесь, кармасть, ули, иля, эряви, ли, ульнесть, кадык, кармить</em>
 
 ### `INTJ`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>арасельть, арась</em>
-* `EMPTY` (3112): <em>мерсь, лиссь, мольсь, ютась, ашти, совась, ваны, неяви, маряви, саизе</em>
+* `EMPTY` (3141): <em>мерсь, лиссь, мольсь, ютась, ашти, совась, ваны, неяви, тейсь, маряви</em>
 
 ### `PRON`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>аместь</em>
-* `EMPTY` (949): <em>сон, весе, те, мон, сонзэ, сонсь, мезе, минь, тензэ, сынь</em>
+* `EMPTY` (955): <em>сон, весе, те, мон, сонзэ, сонсь, мезе, минь, тензэ, сынь</em>
 
 ## Relations with Agreement in `Polarity`
 

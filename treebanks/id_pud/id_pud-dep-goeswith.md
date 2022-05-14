@@ -13,7 +13,7 @@ This relation is universal.
 3 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (2; 67% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -39,16 +39,16 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 15	yang	yang	PRON	_	PronType=Rel	16	nsubj	_	_
 16	menghubungkan	hubung	VERB	_	Mood=Ind|Voice=Act	13	acl:relcl	_	_
 17	landmark	landmark	X	_	Foreign=Yes	16	obj	_	_
-18	mercu	mercu	NOUN	_	Typo=Yes	17	nmod	_	_
-19	suar	suar	NOUN	_	Typo=Yes	18	goeswith	_	_
+18	mercu	mercu	NOUN	_	Typo=Yes	17	nmod	_	CorrectForm=mercusuar
+19	suar	_	X	_	_	18	goeswith	_	_
 20	di	di	ADP	_	_	21	case	_	_
 21	Punta	Punta	PROPN	_	_	17	nmod	_	_
 22	del	del	PROPN	_	_	21	flat:name	_	_
 23	Este	Este	PROPN	_	_	21	flat:name	_	_
 24	ke	ke	ADP	_	_	25	case	_	_
 25	landmark	landmark	X	_	Foreign=Yes	16	obl	_	_
-26	mercu	mercu	NOUN	_	Typo=Yes	25	nmod	_	_
-27	suar	suar	NOUN	_	Typo=Yes	26	goeswith	_	_
+26	mercu	mercu	NOUN	_	Typo=Yes	25	nmod	_	CorrectForm=mercusuar
+27	suar	_	X	_	_	26	goeswith	_	_
 28	di	di	ADP	_	_	29	case	_	_
 29	Punta	Punta	PROPN	_	_	25	nmod	_	_
 30	Rasa	Rasa	PROPN	_	_	29	flat:name	_	SpaceAfter=No
@@ -73,8 +73,8 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 8	untuk	untuk	SCONJ	_	_	9	mark	_	_
 9	mengumpulkan	kumpul	VERB	_	Mood=Ind|Voice=Act	7	ccomp	_	_
 10	respons	respons	NOUN	_	Number=Sing	9	obj	_	_
-11	dari	dari	ADP	_	_	13	case	_	_
-12	pada	pada	ADP	_	_	11	goeswith	_	_
+11	dari	dari	ADP	_	Typo=Yes	13	case	_	CorrectForm=daripada
+12	pada	_	X	_	_	11	goeswith	_	_
 13	pemangku	pangku	NOUN	_	Number=Sing	10	nmod	_	_
 14	kepentingan	penting	NOUN	_	Number=Sing	13	nmod	_	_
 15	industri	industri	NOUN	_	Number=Sing	13	nmod	_	_

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Relations: `obl`
 
 This relation is universal.
-There are 5 language-specific subtypes of `obl`: <tt><a href="kpv_ikdp-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lto.html">obl:lto</a></tt>, <tt><a href="kpv_ikdp-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are 6 language-specific subtypes of `obl`: <tt><a href="kpv_ikdp-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="kpv_ikdp-dep-obl-comp.html">obl:comp</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lto.html">obl:lto</a></tt>, <tt><a href="kpv_ikdp-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 158 nodes (7%) are attached to their parents as `obl`.
 

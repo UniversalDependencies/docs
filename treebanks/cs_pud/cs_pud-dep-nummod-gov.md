@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 15	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	16	case	16:case	LId=pro-1
 16	odchod	odchod	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	14	obl:arg	14:obl:arg:pro:acc	_
 17	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	18	case	18:case	LId=z-1
-18	EU	EU	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	16	nmod	16:nmod:z	SpaceAfter=No|LId=EU-1|LGloss=(Evropská_Unie)
+18	EU	EU	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	16	nmod	16:nmod:z:gen	SpaceAfter=No|LId=EU-1|LGloss=(Evropská_Unie)
 19	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~

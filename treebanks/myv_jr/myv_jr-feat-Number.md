@@ -12,22 +12,22 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Number.html">Number</a></tt>, <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt>.
 
-6460 tokens (37%) have a non-empty value of `Number`.
-3344 types (59%) occur at least once with a non-empty value of `Number`.
-1534 lemmas (57%) occur at least once with a non-empty value of `Number`.
-The feature is used with 13 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4245; 25% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (906; 5% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (578; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (232; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (175; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (156; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (116; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (28; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+6507 tokens (37%) have a non-empty value of `Number`.
+3369 types (60%) occur at least once with a non-empty value of `Number`.
+1546 lemmas (57%) occur at least once with a non-empty value of `Number`.
+The feature is used with 13 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4278; 25% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (912; 5% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (580; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (233; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (176; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (158; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (116; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (30; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-4245 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+4278 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3575; 84%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3575; 84%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2273; 54%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3600; 84%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3600; 84%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2288; 53%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (842; 20% of non-empty `Number`): <em>партизантнэ, ялгат, бандитнэ, бандитнэнь, сельмензэ, роштятнень, цёрат, ломантне, кедензэ, ломать</em>
-* `Plur,Sing` (1367; 32% of non-empty `Number`): <em>лангс, ёнов, лангсо, ёндо, кудов, ланга, велень, каськас, кудос, ланкс</em>
-* `Sing` (2036; 48% of non-empty `Number`): <em>бандитэсь, прянзо, авазо, кенкшенть, ломань, тол, ведь, тайганть, тев, веленть</em>
+* `Plur` (847; 20% of non-empty `Number`): <em>партизантнэ, ялгат, бандитнэ, бандитнэнь, сельмензэ, роштятнень, цёрат, ломантне, кедензэ, ломать</em>
+* `Plur,Sing` (1379; 32% of non-empty `Number`): <em>лангс, ёнов, лангсо, ёндо, кудов, ланга, велень, каськас, кудос, ланкс</em>
+* `Sing` (2052; 48% of non-empty `Number`): <em>бандитэсь, прянзо, авазо, кенкшенть, ломань, тол, ведь, тайганть, тев, веленть</em>
 * `EMPTY` (41): <em>ялгай, Пазось, тетяй, А., ланга, Ваксканзо, Валскень, Д., И., Икелензэ</em>
 
 <table>
@@ -57,15 +57,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PRON`
 
-906 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
+912 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (805; 89%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (553; 61%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (546; 60%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (455; 50%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (810; 89%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (556; 61%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (551; 60%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (460; 50%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (218; 24% of non-empty `Number`): <em>минь, сынь, минек, сынст, конат, неть, кавонест, месть, тенст, тынк</em>
+* `Plur` (219; 24% of non-empty `Number`): <em>минь, сынь, минек, сынст, конат, неть, кавонест, месть, тенст, тынк</em>
 * `Plur,Sing` (66; 7% of non-empty `Number`): <em>конань, мезень, весемень, мезде, киненьгак, киньгак, мезес, мень-бути, весеменень, кинень</em>
-* `Sing` (622; 69% of non-empty `Number`): <em>сон, весе, те, мон, сонзэ, сонсь, мезе, тензэ, тон, тень</em>
+* `Sing` (627; 69% of non-empty `Number`): <em>сон, весе, те, мон, сонзэ, сонсь, мезе, тензэ, тон, тень</em>
 * `EMPTY` (44): <em>кинь, тень, весенень, весень, мельганзо, сень, вейкест-вейкест, кият, мельгаст, вейке-вейке</em>
 
 <table>
@@ -93,15 +93,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `PROPN`
 
-578 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+580 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (572; 99%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (463; 80%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (451; 78%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (402; 70%), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (362; 63%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (574; 99%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (464; 80%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (452; 78%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (404; 70%), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (362; 62%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (2; 0% of non-empty `Number`): <em>Кучаевтнень, Миколт</em>
 * `Plur,Sing` (175; 30% of non-empty `Number`): <em>Любань, Миколонь, Дуняшинэнь, Пальконень, Рамконь, Цярданев, Елеськань, Пальконь, Улянь, Федоровонь</em>
-* `Sing` (401; 69% of non-empty `Number`): <em>Микол, Ястребов, Палько, Люба, Федоров, Маря, Кирё, Кечай, Лапшов, Уля</em>
+* `Sing` (403; 69% of non-empty `Number`): <em>Микол, Ястребов, Палько, Люба, Федоров, Маря, Кирё, Кечай, Лапшов, Уля</em>
 
 <table>
   <tr><th>Paradigm <i>Микол</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -113,15 +113,15 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `ADJ`
 
-232 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (35% of all `ADJ` tokens) have a non-empty value of `Number`.
+233 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (35% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (194; 84%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (183; 79%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (195; 84%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (184; 79%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (40; 17% of non-empty `Number`): <em>кодат, вишкинетне, покшт, сэрейть, беднойтне, берятнень, вадрят, келейть, кеметь, кодаткак</em>
 * `Plur,Sing` (16; 7% of non-empty `Number`): <em>беднойстэ, виде-паронь, виевстэ, кежейстэ, кондямокс, мазыйкс, манейдеяк, марявиксстэ, меельцекс, омбоцес</em>
-* `Sing` (176; 76% of non-empty `Number`): <em>кодамо, омбоце, од, мазый, пешксе, васень, васенце, виев, омбоцесь, рижой</em>
+* `Sing` (177; 76% of non-empty `Number`): <em>кодамо, омбоце, од, мазый, пешксе, васень, васенце, виев, омбоцесь, рижой</em>
 * `EMPTY` (438): <em>од, паро, покш, якстере, пиже, сэрей, кедровой, тусто, берянь, мазы</em>
 
 <table>
@@ -134,16 +134,16 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-175 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Number`.
+176 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (175; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (175; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (175; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (175; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (175; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (147; 84%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (114; 65%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (103; 59%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (148; 84%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (115; 65%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (103; 59%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (23; 13% of non-empty `Number`): <em>молицятнень, сыцятнень, ардыцят, ванстомкатне, вастнематне, видематнень, дивсематнень, изнямот, каразтне, ледицятнень</em>
 * `Plur,Sing` (35; 20% of non-empty `Number`): <em>Мадемадо, Мелявтыцякс, Ютазде, Ярсамодо, валаськавтомадо, ваныцякс, гайгицякс, жалямонь, кандомадо, каявомадо</em>
-* `Sing` (117; 67% of non-empty `Number`): <em>сэредиця, молиця, аштиця, вечкема, кадовозь, касыця, солавтозь, Ёртозь, Ацирьгадоманть, Мизолдыця</em>
-* `EMPTY` (2939): <em>мерсь, лиссь, мольсь, ютась, ашти, совась, ваны, неяви, маряви, саизе</em>
+* `Sing` (118; 67% of non-empty `Number`): <em>сэредиця, молиця, аштиця, вечкема, кадовозь, касыця, солавтозь, Ёртозь, Ацирьгадоманть, Колазь</em>
+* `EMPTY` (2967): <em>мерсь, лиссь, мольсь, ютась, ашти, совась, ваны, неяви, тейсь, маряви</em>
 
 <table>
   <tr><th>Paradigm <i>молемс</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -157,15 +157,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `DET`
 
-156 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Number`.
+158 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (79% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (116; 74%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (113; 72%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (84; 54%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (118; 75%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (115; 73%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (84; 53%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (11; 7% of non-empty `Number`): <em>ламотне, лиятне, неть, конат, лият, лиятнень, некень</em>
+* `Plur` (12; 8% of non-empty `Number`): <em>ламотне, конат, лиятне, неть, лият, лиятнень, некень</em>
 * `Plur,Sing` (7; 4% of non-empty `Number`): <em>конань, ламонь, аламнеде, лиянь</em>
-* `Sing` (138; 88% of non-empty `Number`): <em>те, эрьва, се, лия, ламо, кона, истямо, зяро, аламо, зярыя</em>
+* `Sing` (139; 88% of non-empty `Number`): <em>те, эрьва, се, лия, ламо, кона, истямо, зяро, аламо, зярыя</em>
 * `EMPTY` (43): <em>эсь, ве, не, ламо, эрьва, Зяро, Нона, вейте-вейте, весе, секе</em>
 
 <table>
@@ -201,15 +201,15 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ### `ADV`
 
-28 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Number`.
+30 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (22; 79%).
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (26; 87%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (24; 80%).
 
 `ADV` tokens may have the following values of `Number`:
 
-* `Plur,Sing` (8; 29% of non-empty `Number`): <em>аламодо, алкуксонь, вакска, колмоцеде, ламос, мейлес, омбоцеде, парынестэ</em>
-* `Sing` (20; 71% of non-empty `Number`): <em>истямо, ламо, мекев, Кодамо, Кодашка, аламо, алкукскак, байтяк, истякак, теке</em>
-* `EMPTY` (1435): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
+* `Plur,Sing` (10; 33% of non-empty `Number`): <em>аламодо, алкуксонь, вакска, колмоцеде, ламос, лиякс, мейлес, омбоцеде, парынестэ</em>
+* `Sing` (20; 67% of non-empty `Number`): <em>истямо, ламо, мекев, Кодамо, Кодашка, аламо, алкукскак, байтяк, истякак, теке</em>
+* `EMPTY` (1448): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
 
 <table>
   <tr><th>Paradigm <i>алкукс</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th></tr>
@@ -227,7 +227,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 * `Plur,Sing` (5; 56% of non-empty `Number`): <em>ваксс, вакссо, вакска</em>
 * `Sing` (4; 44% of non-empty `Number`): <em>перька</em>
-* `EMPTY` (399): <em>марто, мельга, кис, эйстэ, мартонзо, эйсэ, пачк, эйсэнзэ, ваксс, перька</em>
+* `EMPTY` (402): <em>марто, мельга, кис, эйстэ, мартонзо, эйсэ, пачк, эйсэнзэ, ваксс, перька</em>
 
 ### `PART`
 
@@ -236,7 +236,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 `PART` tokens may have the following values of `Number`:
 
 * `Sing` (9; 100% of non-empty `Number`): <em>ялатеке, допрок, тыц, Эрь</em>
-* `EMPTY` (104): <em>жо, бути, прок, вана, эно, буто, весемеде, сехте, Бульчом, Ведь</em>
+* `EMPTY` (105): <em>жо, бути, прок, буто, вана, эно, весемеде, сехте, Бульчом, Ведь</em>
 
 ### `AUX`
 
@@ -247,7 +247,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 `AUX` tokens may have the following values of `Number`:
 
 * `Sing` (4; 100% of non-empty `Number`): <em>бу</em>
-* `EMPTY` (693): <em>а, аволь, эзь, кармась, апак, ульнесь, арась, кармасть, ули, иля</em>
+* `EMPTY` (699): <em>а, аволь, эзь, кармась, апак, ульнесь, арась, кармасть, ули, иля</em>
 
 ### `INTJ`
 
@@ -267,19 +267,19 @@ The most frequent other feature values with which `SCONJ` and `Number` co-occurr
 `SCONJ` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>теке</em>
-* `EMPTY` (61): <em>зярдо, бути, теке, кода, што, штобу, куш, прок, хоть, Коли</em>
+* `EMPTY` (62): <em>зярдо, бути, теке, што, кода, штобу, куш, прок, хоть, Коли</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (119; 79%),
+<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (120; 79%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> NOUN</tt> (106; 62%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-det.html">det</a></tt>]--> PRON</tt> (75; 53%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> NOUN</tt> (18; 69%),
 <tt>PRON --[<tt><a href="myv_jr-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (18; 62%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (13; 93%),
+<tt>NOUN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> PROPN</tt> (12; 75%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> PROPN</tt> (12; 100%),
-<tt>NOUN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> PROPN</tt> (11; 73%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (10; 56%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (9; 100%).
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-GSD: POS Tags: `X`
 
-There are 85 `X` lemmas (0%), 85 `X` types (0%) and 113 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 9 in number of lemmas, 9 in number of types and 16 in number of tokens.
+There are 86 `X` lemmas (0%), 105 `X` types (0%) and 133 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 9 in number of lemmas, 8 in number of types and 16 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>and, image, in, kok, loh, x, assistent, b, resident, s</em>
+The 10 most frequent `X` lemmas: <em>_, and, image, in, kok, loh, x, assistent, b, resident</em>
 
 The 10 most frequent `X` types:  <em>and, Image, in, kok, loh, x, assistent, b, resident, s</em>
 
-The 10 most frequent ambiguous lemmas: <em>and</em> (<tt><a href="id_gsd-pos-X.html">X</a></tt> 13, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 11), <em>image</em> (<tt><a href="id_gsd-pos-X.html">X</a></tt> 3, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>in</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 14, <tt><a href="id_gsd-pos-X.html">X</a></tt> 3), <em>x</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 12, <tt><a href="id_gsd-pos-X.html">X</a></tt> 3, <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 1), <em>b</em> (<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="id_gsd-pos-X.html">X</a></tt> 2), <em>s</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> 2, <tt><a href="id_gsd-pos-X.html">X</a></tt> 2, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>te</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="id_gsd-pos-X.html">X</a></tt> 2), <em>y</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="id_gsd-pos-X.html">X</a></tt> 2), <em>a</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 34, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="id_gsd-pos-X.html">X</a></tt> 1), <em>an</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="id_gsd-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 24, <tt><a href="id_gsd-pos-X.html">X</a></tt> 20, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>and</em> (<tt><a href="id_gsd-pos-X.html">X</a></tt> 13, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 11), <em>image</em> (<tt><a href="id_gsd-pos-X.html">X</a></tt> 3, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>in</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 14, <tt><a href="id_gsd-pos-X.html">X</a></tt> 3), <em>x</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 12, <tt><a href="id_gsd-pos-X.html">X</a></tt> 3, <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 1), <em>b</em> (<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="id_gsd-pos-X.html">X</a></tt> 2), <em>s</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> 2, <tt><a href="id_gsd-pos-X.html">X</a></tt> 2, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>te</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="id_gsd-pos-X.html">X</a></tt> 2), <em>y</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="id_gsd-pos-X.html">X</a></tt> 2), <em>a</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 34, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="id_gsd-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="id_gsd-pos-X.html">X</a></tt> 13, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 11), <em>Image</em> (<tt><a href="id_gsd-pos-X.html">X</a></tt> 3, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>in</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="id_gsd-pos-X.html">X</a></tt> 3), <em>x</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="id_gsd-pos-X.html">X</a></tt> 3), <em>b</em> (<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="id_gsd-pos-X.html">X</a></tt> 2, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>s</em> (<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> 2, <tt><a href="id_gsd-pos-X.html">X</a></tt> 2, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>te</em> (<tt><a href="id_gsd-pos-X.html">X</a></tt> 2, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>Domain</em> (<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id_gsd-pos-X.html">X</a></tt> 1), <em>General</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="id_gsd-pos-X.html">X</a></tt> 1), <em>Gimana</em> (<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id_gsd-pos-X.html">X</a></tt> 1)
 
@@ -53,15 +53,15 @@ The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="id_gsd-pos-X.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.119800).
+The form / lemma ratio of `X` is 1.220930 (the average of all parts of speech is 1.120254).
 
-The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
+The 1st highest number of forms (20) was observed with the lemma “_”: <em>akhiri, aplikasikan, beratkan, beri, buang, dampingi, editor, identifikasikan, laksanakan, lakukan, masukan, mulai, pimpin, sahkan, sajikan, satu, tambah, teruskan, tugaskan, turut</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “an”: <em>an</em>.
+The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “and”: <em>and</em>.
+The 3rd highest number of forms (1) was observed with the lemma “an”: <em>an</em>.
 
-`X` occurs with 2 features: <tt><a href="id_gsd-feat-Foreign.html">Foreign</a></tt> (89; 79% instances), <tt><a href="id_gsd-feat-Typo.html">Typo</a></tt> (2; 2% instances)
+`X` occurs with 2 features: <tt><a href="id_gsd-feat-Foreign.html">Foreign</a></tt> (89; 67% instances), <tt><a href="id_gsd-feat-Typo.html">Typo</a></tt> (2; 2% instances)
 
 `X` occurs with 2 feature-value pairs: `Foreign=Yes`, `Typo=Yes`
 
@@ -72,17 +72,17 @@ Examples: <em>and, Image, in, kok, loh, x, assistent, b, resident, s</em>
 
 ## Relations
 
-`X` nodes are attached to their parents using 12 different relations: <tt><a href="id_gsd-dep-flat-foreign.html">flat:foreign</a></tt> (43; 38% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (42; 37% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (10; 9% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (5; 4% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (3; 3% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-list.html">list</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-obl.html">obl</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 13 different relations: <tt><a href="id_gsd-dep-flat-foreign.html">flat:foreign</a></tt> (43; 32% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (42; 32% instances), <tt><a href="id_gsd-dep-goeswith.html">goeswith</a></tt> (20; 15% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (10; 8% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (5; 4% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (3; 2% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-list.html">list</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-obl.html">obl</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="id_gsd-pos-X.html">X</a></tt> (47; 42% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (25; 22% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (23; 20% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (9; 8% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="id_gsd-pos-X.html">X</a></tt> (47; 35% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (27; 20% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (25; 19% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (24; 18% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (1; 1% instances),  (1; 1% instances)
 
-72 (64%) `X` nodes are leaves.
+92 (69%) `X` nodes are leaves.
 
-21 (19%) `X` nodes have one child.
+21 (16%) `X` nodes have one child.
 
 5 (4%) `X` nodes have two children.
 
-15 (13%) `X` nodes have three or more children.
+15 (11%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 9.
 

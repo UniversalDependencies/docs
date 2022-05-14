@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-PUD: POS Tags: `ADV`
 
-There are 182 `ADV` lemmas (4%), 187 `ADV` types (3%) and 1029 `ADV` tokens (4%).
+There are 181 `ADV` lemmas (4%), 187 `ADV` types (3%) and 1029 `ADV` tokens (4%).
 Out of 15 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>ne, plus, pas, également, bien, où, très, aussi, encore, ainsi</em>
@@ -56,20 +56,20 @@ The 10 most frequent ambiguous types:  <em>pas</em> (<tt><a href="fr_pud-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.027473 (the average of all parts of speech is 1.297529).
+The form / lemma ratio of `ADV` is 1.033149 (the average of all parts of speech is 1.298345).
 
 The 1st highest number of forms (3) was observed with the lemma “ne”: <em>n', ne, n’</em>.
 
 The 2nd highest number of forms (3) was observed with the lemma “que”: <em>qu', que, qu’</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “là”: <em>-là, là</em>.
+The 3rd highest number of forms (2) was observed with the lemma “aujourd'hui”: <em>aujourd, aujourd'hui</em>.
 
-`ADV` occurs with 1 features: <tt><a href="fr_pud-feat-Polarity.html">Polarity</a></tt> (221; 21% instances)
+`ADV` occurs with 2 features: <tt><a href="fr_pud-feat-Polarity.html">Polarity</a></tt> (221; 21% instances), <tt><a href="fr_pud-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`ADV` occurs with 1 feature-value pairs: `Polarity=Neg`
+`ADV` occurs with 2 feature-value pairs: `Polarity=Neg`, `Typo=Yes`
 
-`ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (808 tokens).
+`ADV` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (807 tokens).
 Examples: <em>plus, également, bien, où, très, aussi, encore, ainsi, cependant, que</em>
 
 

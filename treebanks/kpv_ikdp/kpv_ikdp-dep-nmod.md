@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Relations: `nmod`
 
 This relation is universal.
-There are 4 language-specific subtypes of `nmod`: <tt><a href="kpv_ikdp-dep-nmod-appos.html">nmod:appos</a></tt>, <tt><a href="kpv_ikdp-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="kpv_ikdp-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_ikdp-dep-nmod-prp.html">nmod:prp</a></tt>.
+There are 3 language-specific subtypes of `nmod`: <tt><a href="kpv_ikdp-dep-nmod-appos.html">nmod:appos</a></tt>, <tt><a href="kpv_ikdp-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_ikdp-dep-nmod-prp.html">nmod:prp</a></tt>.
 
 91 nodes (4%) are attached to their parents as `nmod`.
 

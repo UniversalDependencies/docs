@@ -23,14 +23,14 @@ The following 66 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 nsubj	color:blue
-1	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1.10.1
-2	μετὰ	μετά	ADP	R-	_	3	case	_	ref=1.10.1
-3	ταῦτα	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	ref=1.10.1
-4	αὐτίκα	αὐτίκα	ADV	Df	_	5	advmod	_	ref=1.10.1
-5	παρῆν	πάρειμι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.10.1|LId=1
-6	καὶ	καί	ADV	Df	_	8	advmod	_	ref=1.10.1|LId=1
-7	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=1.10.1
-8	γυνή	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=1.10.1
+1	καὶ	καί	CCONJ	C-	_	5	cc	_	Ref=1.10.1
+2	μετὰ	μετά	ADP	R-	_	3	case	_	Ref=1.10.1
+3	ταῦτα	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	Ref=1.10.1
+4	αὐτίκα	αὐτίκα	ADV	Df	_	5	advmod	_	Ref=1.10.1
+5	παρῆν	πάρειμι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=1.10.1
+6	καὶ	καί	ADV	Df	_	8	advmod	_	LId=1|Ref=1.10.1
+7	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	Ref=1.10.1
+8	γυνή	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Ref=1.10.1
 
 ~~~
 
@@ -41,16 +41,16 @@ The following 66 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 1 nsubj	color:blue
-1	ὁ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	ref=1.11.1
-2	δὲ	δέ	ADV	Df	_	9	discourse	_	ref=1.11.1
-3	οὐδὲν	οὐδείς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	ref=1.11.1
-4	δοκέων	δοκέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	ref=1.11.1
-5	αὐτήν	αὐτός	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	ref=1.11.1
-6	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	7	det	_	ref=1.11.1
-7	πρηχθέντων	πράσσω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	nmod	_	ref=1.11.1
-8	ἐπίστασθαι	ἐπίσταμαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	4	ccomp	_	ref=1.11.1
-9	ἦλθε	ἔρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.1
-10	καλεόμενος	καλέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	9	advcl	_	ref=1.11.1
+1	ὁ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Ref=1.11.1
+2	δὲ	δέ	ADV	Df	_	9	discourse	_	Ref=1.11.1
+3	οὐδὲν	οὐδείς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Ref=1.11.1
+4	δοκέων	δοκέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	Ref=1.11.1
+5	αὐτήν	αὐτός	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Ref=1.11.1
+6	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	7	det	_	Ref=1.11.1
+7	πρηχθέντων	πράσσω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	nmod	_	Ref=1.11.1
+8	ἐπίστασθαι	ἐπίσταμαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	4	ccomp	_	Ref=1.11.1
+9	ἦλθε	ἔρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.11.1
+10	καλεόμενος	καλέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	9	advcl	_	Ref=1.11.1
 
 ~~~
 
@@ -61,9 +61,9 @@ The following 66 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 nsubj	color:blue
-1	αἱρέεται	αἱρέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1.11.4
-2	αὐτὸς	αὐτός	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=1.11.4
-3	περιεῖναι	περίειμι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=1.11.4|LId=1
+1	αἱρέεται	αἱρέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=1.11.4
+2	αὐτὸς	αὐτός	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=1.11.4
+3	περιεῖναι	περίειμι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	LId=1|Ref=1.11.4
 
 ~~~
 

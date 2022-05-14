@@ -13,7 +13,7 @@ This relation is universal.
 2377 instances of `nummod` (72%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.18928788800974.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (3168; 96% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (58; 2% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (26; 1% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (25; 1% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (3170; 96% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (56; 2% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (26; 1% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (25; 1% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,21 +32,19 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nummod	color:blue
-1	Komissio	komissio	NOUN	N	Case=Nom|Number=Sing	2	nsubj	2:nsubj|3:nsubj	_
-2	halusi	haluta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	korvata	korvata	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	2	xcomp	2:xcomp	_
-4	hintojen	hinta	NOUN	N	Case=Gen|Number=Plur	5	nmod:poss	5:nmod:poss	_
-5	laskun	lasku	NOUN	N	Case=Gen|Derivation=U|Number=Sing	3	obj	3:obj	_
-6	vain	vain	ADV	Adv	_	7	advmod	7:advmod	_
-7	44	44	NUM	Num	NumType=Card	8	nummod	8:nummod	_
-8	%:	%	SYM	Punct	_	3	obl	3:obl	_
-9	lla	lla	NOUN	N	Case=Ade|Number=Sing|Typo=Yes	8	goeswith	8:goeswith	SpaceAfter=No
-10	.	.	PUNCT	Punct	_	2	punct	2:punct	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 nummod	color:blue
+1	Äänestysaktiivisuus	äänestys#aktiivisuus	NOUN	N	Case=Nom|Derivation=Vs|Number=Sing	3	nsubj:cop	3:nsubj:cop	_
+2	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
+3	alhainen	alhainen	ADJ	A	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	0	root	0:root	_
+4	(	(	PUNCT	Punct	_	6	punct	6:punct	SpaceAfter=No
+5	40,3	40,3	NUM	Num	NumType=Card	6	nummod	6:nummod	_
+6	%	%	SYM	Punct	_	3	appos	3:appos	SpaceAfter=No
+7	)	)	PUNCT	Punct	_	6	punct	6:punct	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	3	punct	3:punct	_
 
 ~~~
 

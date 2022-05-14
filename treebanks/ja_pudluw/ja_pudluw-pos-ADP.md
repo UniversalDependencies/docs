@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-PUDLUW: POS Tags: `ADP`
 
-There are 50 `ADP` lemmas (1%), 55 `ADP` types (1%) and 6502 `ADP` tokens (28%).
+There are 53 `ADP` lemmas (1%), 55 `ADP` types (1%) and 6502 `ADP` tokens (28%).
 Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 1 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: の, は, を, に, が, と, で, も, から, や
 
 The 10 most frequent `ADP` types:  の, は, を, に, が, と, で, も, から, や
 
-The 10 most frequent ambiguous lemmas: の (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 1663, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 41), が (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 562, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 84), と (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 453, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 24), から (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 96, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 5), まで (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 42, <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 7), か (<tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 49, <tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 27), より (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 21, <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> 12), だけ (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 9, <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 2), ほど (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 6, <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 4)
+The 10 most frequent ambiguous lemmas: の (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 1663, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 41), が (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 562, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 84), と (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 453, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 24), で (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 309, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 5), から (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 96, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="ja_pudluw-pos-SYM.html">SYM</a></tt> 1), まで (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 42, <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 7), か (<tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 49, <tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 27), より (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 21, <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> 12), だけ (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 9, <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 2), ほど (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 6, <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 4)
 
 The 10 most frequent ambiguous types:  の (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 1663, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 41), に (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 755, <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> 152), が (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 562, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 84), と (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 453, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 24), で (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 309, <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> 38, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 5), から (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 96, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 5), まで (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 42, <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 7), か (<tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 49, <tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 27), より (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 21, <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> 12), だけ (<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> 9, <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 2)
 
@@ -52,13 +52,13 @@ The 10 most frequent ambiguous types:  の (<tt><a href="ja_pudluw-pos-ADP.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.100000 (the average of all parts of speech is 1.085751).
+The form / lemma ratio of `ADP` is 1.037736 (the average of all parts of speech is 1.079803).
 
-The 1st highest number of forms (3) was observed with the lemma “に渡る”: にわたり, にわたる, に渡り.
+The 1st highest number of forms (2) was observed with the lemma “にわたり”: にわたり, に渡り.
 
-The 2nd highest number of forms (2) was observed with the lemma “に因る”: により, による.
+The 2nd highest number of forms (2) was observed with the lemma “をはじめ”: をはじめ, を始め.
 
-The 3rd highest number of forms (2) was observed with the lemma “に対する”: に対し, に対する.
+The 3rd highest number of forms (1) was observed with the lemma “か”: か.
 
 `ADP` does not occur with any features.
 

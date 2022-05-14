@@ -22,12 +22,12 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
-1	А	_	CCONJ	_	_	5	cc	_	Gloss=
-2	ынӄэн	_	DET	_	_	3	det	_	Gloss=DET
-3	вэԓыткоран	_	NOUN	_	_	5	nsubj	_	Gloss=товар-ITER-жилище-NOM.SG
-4	плиска	_	X	_	_	5	reparandum	_	Gloss=близко
-5	блиска	_	X	_	_	0	root	_	Gloss=близко|SpaceAfter=No
-6	.	_	PUNCT	_	_	5	punct	_	_
+1	А	_	CCONJ	_	_	5	cc	5:cc	Gloss=
+2	ынӄэн	_	DET	_	_	3	det	3:det	Gloss=DET
+3	вэԓыткоран	_	NOUN	_	_	5	nsubj	5:nsubj	Gloss=товар-ITER-жилище-NOM.SG
+4	плиска	_	X	_	_	5	reparandum	5:reparandum	Gloss=близко
+5	блиска	_	X	_	_	0	root	0:root	Gloss=близко|SpaceAfter=No
+6	.	_	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -38,12 +38,12 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 det	color:blue
-1	Ӈинӄэйӄэгти	_	NOUN	_	_	4	nsubj	_	Gloss=молодой-DIM-DIM-NOM.PL
-2	ӈээккэӄэгти	_	NOUN	_	_	1	conj	_	Gloss=FEM-сын-DIM-NOM.PL
-3	ымыԓьо	_	PRON	_	_	1	det	_	Gloss=весь
-4	нывакъотваӄэнат	_	VERB	_	_	0	root	_	Gloss=ST-садиться-RES-ST.3SG-PL
-5	ъым	_	PART	_	_	4	advmod:emph	_	Gloss=EMPH
-6	.	_	PUNCT	_	_	4	punct	_	_
+1	Ӈинӄэйӄэгти	_	NOUN	_	_	4	nsubj	4:nsubj	Gloss=молодой-DIM-DIM-NOM.PL
+2	ӈээккэӄэгти	_	NOUN	_	_	1	conj	1:conj	Gloss=FEM-сын-DIM-NOM.PL
+3	ымыԓьо	_	PRON	_	_	1	det	1:det	Gloss=весь
+4	нывакъотваӄэнат	_	VERB	_	_	0	root	0:root	Gloss=ST-садиться-RES-ST.3SG-PL
+5	ъым	_	PART	_	_	4	advmod:emph	4:advmod:emph	Gloss=EMPH
+6	.	_	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -54,13 +54,13 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 det	color:blue
-1	Кэԓеӈынэ	_	PROPN	_	_	6	obj	_	Gloss=Келенгыне-NOM.SG
-2	ынӄэн	_	DET	_	_	1	det	_	Gloss=DET
-3	ынпыӈэвӄэй	_	NOUN	_	_	1	acl	_	Gloss=старый-FEM-DIM-NOM.SG
-4	гымнин	_	PRON	_	_	3	nmod:poss	_	Gloss=я-AN.GEN
-5	Кэԓеӈынэ	_	PROPN	_	_	1	reparandum	_	Gloss=Келенгыне-NOM.SG
-6	нэнамӈыԓёйгым	_	VERB	_	_	0	root	_	Gloss=ST-INV-спрашивать-NP.1SG|SpaceAfter=No
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	Кэԓеӈынэ	_	PROPN	_	_	6	obj	6:obj	Gloss=Келенгыне-NOM.SG
+2	ынӄэн	_	DET	_	_	1	det	1:det	Gloss=DET
+3	ынпыӈэвӄэй	_	NOUN	_	_	1	acl	1:acl	Gloss=старый-FEM-DIM-NOM.SG
+4	гымнин	_	PRON	_	_	3	nmod:poss	3:nmod:poss	Gloss=я-AN.GEN
+5	Кэԓеӈынэ	_	PROPN	_	_	1	reparandum	1:reparandum	Gloss=Келенгыне-NOM.SG
+6	нэнамӈыԓёйгым	_	VERB	_	_	0	root	0:root	Gloss=ST-INV-спрашивать-NP.1SG|SpaceAfter=No
+7	.	_	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

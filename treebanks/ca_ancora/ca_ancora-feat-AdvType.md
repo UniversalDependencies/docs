@@ -11,7 +11,7 @@ It occurs with 1 different values: `Tim`.
 
 1689 tokens (0%) have a non-empty value of `AdvType`.
 302 types (1%) occur at least once with a non-empty value of `AdvType`.
-302 lemmas (1%) occur at least once with a non-empty value of `AdvType`.
+295 lemmas (1%) occur at least once with a non-empty value of `AdvType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1687; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `AdvType` co-occurr
 
 * `Tim` (1687; 100% of non-empty `AdvType`): <em>1999, divendres, 1998, dilluns, diumenge, dimecres, dissabte, 2001, dijous, 2000</em>
 
-`AdvType` seems to be **lexical feature** of `NOUN`. 100% lemmas (300) occur only with one value of `AdvType`.
+`AdvType` seems to be **lexical feature** of `NOUN`. 100% lemmas (293) occur only with one value of `AdvType`.
 
 ### `ADV`
 

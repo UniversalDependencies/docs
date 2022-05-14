@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-13840 tokens (58%) have a non-empty value of `Number`.
-2982 types (71%) occur at least once with a non-empty value of `Number`.
-2418 lemmas (66%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3815; 16% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3735; 16% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1603; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1584; 7% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1444; 6% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (986; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (670; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+13839 tokens (58%) have a non-empty value of `Number`.
+2981 types (71%) occur at least once with a non-empty value of `Number`.
+2417 lemmas (66%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3815; 16% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3734; 16% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1603; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1584; 7% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1444; 6% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (986; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (670; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances).
 
 ### `DET`
 
@@ -35,13 +35,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `NOUN`
 
-3735 <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> tokens (92% of all `NOUN` tokens) have a non-empty value of `Number`.
+3734 <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> tokens (92% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1970; 53%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1969; 53%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (516; 14% of non-empty `Number`): <em>enfants, gens, habitants, impôts, lettres, pièces, revenus, Nations, années, automobiles</em>
+* `Plur` (515; 14% of non-empty `Number`): <em>enfants, gens, habitants, impôts, lettres, pièces, revenus, Nations, années, automobiles</em>
 * `Sing` (3219; 86% of non-empty `Number`): <em>nom, année, ville, aide, président, état, lieu, espace, logement, film</em>
 * `EMPTY` (317): <em>pays, prix, corps, temps, CNN, taux, avis, CPR, mois, fois</em>
 

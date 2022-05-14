@@ -22,10 +22,10 @@ The following 36 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 iobj	color:blue
-1	amen	amen	INTJ	I-	_	3	vocative	_	ref=MATT_5.18
-2	auk	auk	ADV	Df	_	3	discourse	_	ref=MATT_5.18
-3	qiþa	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.18
-4	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=MATT_5.18
+1	amen	amen	INTJ	I-	_	3	vocative	_	Ref=MATT_5.18
+2	auk	auk	ADV	Df	_	3	discourse	_	Ref=MATT_5.18
+3	qiþa	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.18
+4	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	Ref=MATT_5.18
 
 ~~~
 
@@ -36,15 +36,15 @@ The following 36 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 iobj	color:blue
-1	iþ	iþ	CCONJ	C-	_	8	cc	_	ref=MATT_5.22
-2	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	ref=MATT_5.22
-3	qiþiþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	ref=MATT_5.22
-4	broþr	broþar	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=MATT_5.22
-5	seinamma	*seins	ADJ	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=MATT_5.22
-6	raka	raka	X	F-	_	3	obj	_	ref=MATT_5.22
-7	skula	skula	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	ref=MATT_5.22
-8	wairþiþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.22
-9	gaqumþai	gaqumþs	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	ref=MATT_5.22
+1	iþ	iþ	CCONJ	C-	_	8	cc	_	Ref=MATT_5.22
+2	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	Ref=MATT_5.22
+3	qiþiþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	Ref=MATT_5.22
+4	broþr	broþar	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	Ref=MATT_5.22
+5	seinamma	*seins	ADJ	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	Ref=MATT_5.22
+6	raka	raka	X	F-	_	3	obj	_	Ref=MATT_5.22
+7	skula	skula	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	Ref=MATT_5.22
+8	wairþiþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.22
+9	gaqumþai	gaqumþs	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	Ref=MATT_5.22
 
 ~~~
 
@@ -55,12 +55,12 @@ The following 36 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 iobj	color:blue
-1	hausideduþ	hausjan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.21
-2	þatei	þatei	SCONJ	G-	_	3	mark	_	ref=MATT_5.21
-3	qiþan	qiþan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	1	ccomp	_	ref=MATT_5.21
-4	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_5.21|LId=1
-5	þaim	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	6	det	_	ref=MATT_5.21
-6	airizam	airizans	ADJ	A-	Case=Dat|Degree=Cmp|Gender=Masc|Number=Plur|Strength=Weak	3	iobj	_	ref=MATT_5.21
+1	hausideduþ	hausjan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.21
+2	þatei	þatei	SCONJ	G-	_	3	mark	_	Ref=MATT_5.21
+3	qiþan	qiþan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	1	ccomp	_	Ref=MATT_5.21
+4	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	LId=1|Ref=MATT_5.21
+5	þaim	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	6	det	_	Ref=MATT_5.21
+6	airizam	airizans	ADJ	A-	Case=Dat|Degree=Cmp|Gender=Masc|Number=Plur|Strength=Weak	3	iobj	_	Ref=MATT_5.21
 
 ~~~
 

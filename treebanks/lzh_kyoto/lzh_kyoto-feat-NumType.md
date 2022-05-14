@@ -21,7 +21,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-NUM.h
 `NUM` tokens may have the following values of `NumType`:
 
 * `Ord` (139; 100% of non-empty `NumType`): 丁、 己、 庚申、 戊、 甲、 己卯、 戊寅、 甲子、 辛、 丁丑
-* `EMPTY` (5438): 三、 一、 五、 二、 四、 百、 六、 九、 十、 萬
+* `EMPTY` (5600): 三、 一、 五、 二、 四、 百、 六、 九、 十、 七
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (65) occur only with one value of `NumType`.
 

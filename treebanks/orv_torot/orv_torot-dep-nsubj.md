@@ -23,11 +23,11 @@ The following 59 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj	color:blue
-1	и	и	CCONJ	C-	_	3	cc	_	ref=6
-2	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=6
-3	ходѧть	ходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-4	нагы	нагыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	3	advmod	_	ref=6
-5	всѣ	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	2	det	_	ref=6
+1	и	и	CCONJ	C-	_	3	cc	_	Ref=6
+2	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Ref=6
+3	ходѧть	ходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=6
+4	нагы	нагыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	3	advmod	_	Ref=6
+5	всѣ	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	2	det	_	Ref=6
 
 ~~~
 
@@ -38,17 +38,17 @@ The following 59 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj	color:blue
-1	а	а	CCONJ	C-	_	3	cc	_	ref=6
-2	меликтѹчаръ	меликътучаръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=6
-3	сѣдит	сѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-4	на	на	ADP	R-	_	6	case	_	ref=6
-5	к҃	дъвадесяти	NUM	Ma	_	6	nummod	_	ref=6
-6	тмах	тьма	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	3	obl	_	ref=6
-7	а	а	CCONJ	C-	_	3	cc	_	ref=6
-8	бьет	бити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=6
-9	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	expl	_	ref=6
-10	с	съ	ADP	R-	_	11	case	_	ref=6
-11	кафары	кафаръ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	8	obl	_	ref=6
+1	а	а	CCONJ	C-	_	3	cc	_	Ref=6
+2	меликтѹчаръ	меликътучаръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=6
+3	сѣдит	сѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=6
+4	на	на	ADP	R-	_	6	case	_	Ref=6
+5	к҃	дъвадесяти	NUM	Ma	_	6	nummod	_	Ref=6
+6	тмах	тьма	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	3	obl	_	Ref=6
+7	а	а	CCONJ	C-	_	3	cc	_	Ref=6
+8	бьет	бити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	Ref=6
+9	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	expl	_	Ref=6
+10	с	съ	ADP	R-	_	11	case	_	Ref=6
+11	кафары	кафаръ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	8	obl	_	Ref=6
 
 ~~~
 
@@ -59,10 +59,10 @@ The following 59 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj	color:blue
-1	а	а	CCONJ	C-	_	3	cc	_	ref=6
-2	всѣ	вьсь	ADJ	Px	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	ref=6
-3	ходѧт	ходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-4	брюхаты	брюхатыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	3	advmod	_	ref=6
+1	а	а	CCONJ	C-	_	3	cc	_	Ref=6
+2	всѣ	вьсь	ADJ	Px	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	Ref=6
+3	ходѧт	ходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=6
+4	брюхаты	брюхатыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	3	advmod	_	Ref=6
 
 ~~~
 

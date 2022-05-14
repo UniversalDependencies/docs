@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 aux	color:blue
-1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
 2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	2:punct	_
 4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nsubj:pass	7:nsubj:pass	_
@@ -46,7 +46,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	di	di	ADP	E	_	4	case	4:case	_
 4	Goteborg	Goteborg	PROPN	SP	_	2	nmod	2:nmod:di	_
 5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
-6	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	cop	8:cop	_
+6	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	cop	8:cop	_
 7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	_
 8	passaggio	passaggio	NOUN	S	Gender=Masc|Number=Sing	0	root	0:root	_
 9	di	di	ADP	E	_	10	case	10:case	_
@@ -62,13 +62,13 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 aux	color:blue
-1	Erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	cop	2:cop	_
+1	Erano	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	cop	2:cop	_
 2	slegati	slegare	ADJ	A	Gender=Masc|Number=Plur	0	root	0:root	_
 3	e	e	CCONJ	CC	_	9	cc	9:cc	_
 4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	5:det	_
 5	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	9:nsubj	_
 6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
-7	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	cop	9:cop	_
+7	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	cop	9:cop	_
 8	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	9	iobj	9:iobj	_
 9	fatale	fatale	ADJ	A	Number=Sing	2	conj	2:conj:e	SpaceAfter=No
 10	.	.	PUNCT	FS	_	2	punct	2:punct	_

@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Agt`, `Past`, `Pres`.
 
-498 tokens (3%) have a non-empty value of `PartForm`.
-405 types (5%) occur at least once with a non-empty value of `PartForm`.
-266 lemmas (5%) occur at least once with a non-empty value of `PartForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (451; 3% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (47; 0% instances).
+496 tokens (3%) have a non-empty value of `PartForm`.
+403 types (5%) occur at least once with a non-empty value of `PartForm`.
+265 lemmas (5%) occur at least once with a non-empty value of `PartForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (449; 3% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (47; 0% instances).
 
 ### `VERB`
 
-451 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `PartForm`.
+449 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `PartForm`.
 
-The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (451; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (451; 100%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (451; 100%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (451; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (451; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (449; 100%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (325; 72%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (312; 69%), <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (266; 59%).
+The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (449; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (449; 100%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (449; 100%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (449; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (449; 100%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (324; 72%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (311; 69%), <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (265; 59%).
 
 `VERB` tokens may have the following values of `PartForm`:
 
 * `Agt` (30; 7% of non-empty `PartForm`): <em>havaitsemaan, esittämien, esittämä, hallitsema, hallitseman, ihailemansa, johtama, johtaman, johtamat, johtamien</em>
-* `Past` (320; 71% of non-empty `PartForm`): <em>tullut, käytetty, saanut, tehty, halunnut, ollut, päättänyt, tehnyt, alkanut, allekirjoitetussa</em>
+* `Past` (318; 71% of non-empty `PartForm`): <em>tullut, käytetty, saanut, tehty, halunnut, ollut, päättänyt, tehnyt, alkanut, allekirjoitetussa</em>
 * `Pres` (101; 22% of non-empty `PartForm`): <em>oleva, olevat, olevaa, liittyvissä, olevan, sijaitsevan, ympäröivän, alkavaksi, alkavan, arvioitavaksi</em>
 
 <table>

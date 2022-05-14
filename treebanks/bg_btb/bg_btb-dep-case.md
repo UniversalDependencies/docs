@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21618 nodes (14%) are attached to their parents as `case`.
+21617 nodes (14%) are attached to their parents as `case`.
 
-21618 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4644277916551.
+21617 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46444927603275.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (17431; 81% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (2554; 12% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (948; 4% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (275; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (154; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (121; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (93; 0% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (42; 0% instances).
+The following 8 pairs of parts of speech are connected with `case`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (17430; 81% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (2554; 12% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (948; 4% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (275; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (154; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (121; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (93; 0% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (42; 0% instances).
 
 
 ~~~ conllu

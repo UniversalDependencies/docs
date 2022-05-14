@@ -26,7 +26,7 @@ The following 22 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	Hb	Hb	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	nsubj:cop	_	Gen=Hemoglobiini|Gen_desc=rautapitoisuus
 2	matala	matala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	saanut	saada	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	_
+4	saanut	saada	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	_
 5	punasoluja	puna#solu	NOUN	_	Case=Par|Number=Plur	8	nmod	_	_
 6	paineella	paine	NOUN	_	Case=Ade|Number=Sing	8	obl	_	_
 7	8	8	NUM	_	NumType=Card	8	nummod	_	_
@@ -50,7 +50,7 @@ The following 22 pairs of parts of speech are connected with `nmod`: <tt><a href
 4	mg	mg	NOUN	_	Abbr=Yes|Case=Par|Number=Sing	1	obj	_	_
 5	illalla	ilta	NOUN	_	Case=Ade|Number=Sing	1	obl	_	_
 6	ja	ja	CCONJ	_	_	7	cc	_	_
-7	nukkunut	nukkua	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	1	conj	_	_
+7	nukkunut	nukkua	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	1	conj	_	_
 8	yön	yö	NOUN	_	Case=Gen|Number=Sing	7	obl	_	_
 9	erittäin	erittäin	ADV	_	_	10	advmod	_	_
 10	hyvin	hyvin	ADV	_	_	7	advmod	_	SpaceAfter=No

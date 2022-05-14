@@ -53,7 +53,7 @@ The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 7	in	in	ADP	E	_	8	case	8:case	_
 8	pista	pista	NOUN	S	Gender=Fem|Number=Sing	2	obl	2:obl:in	SpaceAfter=No
 9	,	,	PUNCT	FF	_	11	punct	11:punct	_
-10	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	11:obj	_
+10	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	11:obj	_
 11	copre	coprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	2:conj	_
 12	veloce	veloce	ADJ	A	Number=Sing	11	xcomp	11:xcomp	SpaceAfter=No
 13	:	:	PUNCT	FC	_	2	punct	2:punct	_

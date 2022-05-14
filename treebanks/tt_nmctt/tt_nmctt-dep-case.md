@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (3%) are attached to their parents as `case`.
+47 nodes (3%) are attached to their parents as `case`.
 
-36 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.83333333333333.
+47 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.70212765957447.
 
-The following 6 pairs of parts of speech are connected with `case`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADP.html">ADP</a></tt> (22; 61% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADP.html">ADP</a></tt> (8; 22% instances), <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt>-<tt><a href="tt_nmctt-pos-ADP.html">ADP</a></tt> (3; 8% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-ADP.html">ADP</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `case`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADP.html">ADP</a></tt> (27; 57% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADP.html">ADP</a></tt> (11; 23% instances), <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt>-<tt><a href="tt_nmctt-pos-ADP.html">ADP</a></tt> (6; 13% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-ADP.html">ADP</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -64,17 +64,15 @@ The following 6 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	Бу	бу	PRON	_	PronType=Dem	9	obl	_	LangID=TT
+1	Бу	бу	PRON	_	_	8	obl	_	LangID=TT
 2	турыда	турыда	ADP	_	_	1	case	_	LangID=TT
-3	Түбән	түбән	ADJ	_	_	4	amod	_	LangID=TT
-4	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=RU
-5	муниципаль	муниципаль	ADJ	_	_	6	amod	_	LangID=RU
-6	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	LangID=TT
-7	рәсми	рәсми	ADJ	_	_	8	amod	_	LangID=TT
-8	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	CSPoint=сайт§ында|LangID=MIXED[RU§TT]
-9	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
-10	ителә	ит	VERB	_	Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+3	«	«	PUNCT	_	_	4	punct	_	LangID=TT|SpaceAfter=No
+4	Маяк	Маяк	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT|SpaceAfter=No
+5	»	»	PUNCT	_	_	4	punct	_	LangID=OTHER
+6	газетасы	газета	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	CSPoint=газета§сы|LangID=MIXED[RU§TT]
+7	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	8	compound:lvc	_	LangID=TT
+8	итә	и	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	LangID=OTHER
 
 ~~~
 

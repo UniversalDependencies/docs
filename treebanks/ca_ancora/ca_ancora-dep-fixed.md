@@ -70,7 +70,7 @@ The following 47 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 fixed	color:blue
-1	Rivaldo	Rivaldo	PROPN	np0000p	_	2	nsubj	2:nsubj	ClusterId=CESS-CAT-AAP-20000102-106-c1|ClusterType=Spec|MentionSpan=1|MentionMisc=ClusterTypeMismatch:Spec.person:Spec,CorefType:ident
+1	Rivaldo	Rivaldo	PROPN	np0000p	_	2	nsubj	2:nsubj	Entity=(CESSCATAAP20000102106c1-person-1-CorefType:ident,gstype:spec)
 2	segueix	seguir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	decidit	decidit	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	2	obj	2:obj	_
 4	a	a	ADP	sps00	_	6	mark	6:mark	_

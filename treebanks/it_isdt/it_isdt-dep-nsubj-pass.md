@@ -44,7 +44,7 @@ The following 14 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 nsubj:pass	color:blue
-1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
 2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	2:punct	_
 4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nsubj:pass	7:nsubj:pass	_

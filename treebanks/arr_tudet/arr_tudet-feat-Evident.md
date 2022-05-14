@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fh`, `Nfh`.
 
 63 tokens (3%) have a non-empty value of `Evident`.
 12 types (2%) occur at least once with a non-empty value of `Evident`.
-11 lemmas (9%) occur at least once with a non-empty value of `Evident`.
+11 lemmas (2%) occur at least once with a non-empty value of `Evident`.
 The feature is used with 1 part-of-speech tags: <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> (63; 3% instances).
 
 ### `PART`

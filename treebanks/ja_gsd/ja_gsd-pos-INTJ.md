@@ -9,11 +9,11 @@ udver: '2'
 There are 11 `INTJ` lemmas (0%), 12 `INTJ` types (0%) and 13 `INTJ` tokens (0%).
 Out of 16 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: _, あっ, OH, ありがとう, いえ, いや, いやいや, アラ, イエィ, ヤッター
+The 10 most frequent `INTJ` lemmas: _, あっ, OH, あら, いえ, やった, わお, イエイ, 否, 否々
 
 The 10 most frequent `INTJ` types:  あっ, OH, ありがとう, いえ, いや, いやいや, アラ, イエィ, チョーサンヤ, ヤッター
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> 1), いや (<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> 1), 否 (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  あっ (<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 251, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 2), ありがとう (<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1), いえ (<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 9, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1), いや (<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  あっ (<tt><a href="ja_gsd-pos-VERB.html
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.090909 (the average of all parts of speech is 1.059603).
+The form / lemma ratio of `INTJ` is 1.090909 (the average of all parts of speech is 1.115220).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: チョーサンヤ, ヨーイトナ.
 

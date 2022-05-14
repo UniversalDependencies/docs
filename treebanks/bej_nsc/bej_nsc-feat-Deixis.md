@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Prox`, `Remt`.
 
-16 tokens (1%) have a non-empty value of `Deixis`.
+16 tokens (2%) have a non-empty value of `Deixis`.
 6 types (2%) occur at least once with a non-empty value of `Deixis`.
 1 lemmas (0) occur at least once with a non-empty value of `Deixis`.
-The feature is used with 2 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (14; 2% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `DET`
 
@@ -27,9 +27,9 @@ The most frequent other feature values with which `DET` and `Deixis` co-occurred
 
 ### `PRON`
 
-2 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Deixis`.
+2 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="bej_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="bej_nsc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="bej_nsc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bej_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Deixis`:
 

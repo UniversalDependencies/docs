@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	fgColor:white
 # visual-style 7 8 aux	color:blue
 1	San	san	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	_
-2	Francisco’dan	Francisco’dan	PROPN	_	Case=Nom|Number=Sing	1	flat	_	_
+2	Francisco’dan	francisco	PROPN	_	Case=Abl|Number=Sing	1	flat	_	_
 3	Baltimore'ye	baltimore	PROPN	_	Case=Dat|Number=Sing	7	obl	_	_
 4	747	747	NUM	_	NumType=Card	6	nmod	_	_
 5	ile	ile	ADP	_	_	4	case	_	_

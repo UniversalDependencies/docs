@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-158 nodes (6%) are attached to their parents as `cc`.
+161 nodes (6%) are attached to their parents as `cc`.
 
-158 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.46835443037975.
+160 instances of `cc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.49068322981366.
 
-The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (131; 83% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (11; 7% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (5; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (134; 83% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (11; 7% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (5; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

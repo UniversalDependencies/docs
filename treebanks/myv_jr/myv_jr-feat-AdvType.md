@@ -9,26 +9,26 @@ udver: '2'
 This feature is language-specific.
 It occurs with 7 different values: `Deg`, `Ideoph`, `Loc`, `Man`, `Mod`, `Sta`, `Tim`.
 
-953 tokens (6%) have a non-empty value of `AdvType`.
-246 types (4%) occur at least once with a non-empty value of `AdvType`.
-173 lemmas (6%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (808; 5% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (116; 1% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
+957 tokens (5%) have a non-empty value of `AdvType`.
+248 types (4%) occur at least once with a non-empty value of `AdvType`.
+175 lemmas (6%) occur at least once with a non-empty value of `AdvType`.
+The feature is used with 5 part-of-speech tags: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (812; 5% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (116; 1% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
 
 ### `ADV`
 
-808 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (55% of all `ADV` tokens) have a non-empty value of `AdvType`.
+812 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (55% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (704; 87%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (666; 82%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (708; 87%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (670; 83%).
 
 `ADV` tokens may have the following values of `AdvType`:
 
-* `Deg` (67; 8% of non-empty `AdvType`): <em>пек, вельть, тунь, кода, самай, байтяк</em>
-* `Ideoph` (6; 1% of non-empty `AdvType`): <em>тяп-ляп, дубушки, жой, општ, дуборсо</em>
+* `Deg` (68; 8% of non-empty `AdvType`): <em>пек, вельть, тунь, кода, самай, байтяк</em>
+* `Ideoph` (8; 1% of non-empty `AdvType`): <em>тяп-ляп, дубушки, жой, лоцьк, општ, тарск, дуборсо</em>
 * `Loc` (122; 15% of non-empty `AdvType`): <em>икелев, мекев, васоло, васов, пелев, тесэ, потс, тов, алов, верев</em>
 * `Man` (146; 18% of non-empty `AdvType`): <em>истя, кода, парсте, кодаяк, нусманясто, стамбарнэ, Видестэ, Парсте-беряньстэ, бойкасто, истяяк</em>
 * `Mod` (17; 2% of non-empty `AdvType`): <em>паряк, нама</em>
 * `Sta` (17; 2% of non-empty `AdvType`): <em>ласте, озадо, нусманясто, панжадо, пульзядо</em>
-* `Tim` (433; 54% of non-empty `AdvType`): <em>мейле, ней, уш, яла, курок, эщо, таго, течи, зярдо, умок</em>
+* `Tim` (434; 53% of non-empty `AdvType`): <em>мейле, ней, уш, яла, курок, эщо, таго, течи, зярдо, умок</em>
 
 <table>
   <tr><th>Paradigm <i>кода</i></th><th><tt>Deg</tt></th><th><tt>Man</tt></th><th><tt>Tim</tt></th></tr>
@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
   <tr><td><tt><tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>кода</em></td><td></td></tr>
 </table>
 
-`AdvType` seems to be **lexical feature** of `ADV`. 97% lemmas (151) occur only with one value of `AdvType`.
+`AdvType` seems to be **lexical feature** of `ADV`. 97% lemmas (153) occur only with one value of `AdvType`.
 
 ### `ADP`
 

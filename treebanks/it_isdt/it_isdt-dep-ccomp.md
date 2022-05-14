@@ -46,7 +46,7 @@ The following 20 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 3 ccomp	color:blue
 1	Bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-2	essere	essere	AUX	V	VerbForm=Inf	3	cop	3:cop	_
+2	essere	essere	AUX	VA	VerbForm=Inf	3	cop	3:cop	_
 3	corretti	corretto	ADJ	A	Gender=Masc|Number=Plur	1	ccomp	1:ccomp	_
 4	con	con	ADP	E	_	6	case	6:case	_
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_

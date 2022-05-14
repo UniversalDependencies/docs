@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="kpv_ikdp-pos-ADV.ht
 `ADV` tokens may have the following values of `Definite`:
 
 * `Ind` (8; 100% of non-empty `Definite`): <em>корке, кудзке, кытэнке, кычеге</em>
-* `EMPTY` (199): <em>зэй, вот, и, нин, сэн, эні, вӧдзӧ, кудз, сідз, ӧні</em>
+* `EMPTY` (200): <em>зэй, вот, и, нин, сэн, эні, вӧдзӧ, кудз, сідз, ӧні</em>
 
 ### `PRON`
 

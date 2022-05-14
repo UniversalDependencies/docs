@@ -6,23 +6,23 @@ udver: '2'
 
 ## Treebank Statistics: UD_Low_Saxon-LSDC: POS Tags: `CCONJ`
 
-There are 10 `CCONJ` lemmas (1%), 16 `CCONJ` types (2%) and 103 `CCONJ` tokens (4%).
+There are 14 `CCONJ` lemmas (2%), 20 `CCONJ` types (2%) and 116 `CCONJ` tokens (5%).
 Out of 16 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 11 in number of types and 9 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>un, men, as, of, avers, bolde, noch, en, oader, sunderen</em>
+The 10 most frequent `CCONJ` lemmas: <em>un, men, as, of, avers, bolde, noch, dat, dän, en</em>
 
-The 10 most frequent `CCONJ` types:  <em>un, en, as, mor, of, bolde, man, mer, noch, aver</em>
+The 10 most frequent `CCONJ` types:  <em>un, en, as, mor, of, bolde, man, mer, noch, Dän</em>
 
-The 10 most frequent ambiguous lemmas: <em>un</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 77, <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 2), <em>men</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 7), <em>as</em> (<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 4), <em>of</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>avers</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 5, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2), <em>bolde</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>noch</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 8, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2), <em>en</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 34, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>un</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 86, <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 2), <em>men</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 7), <em>as</em> (<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 4), <em>of</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>avers</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 5, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2), <em>bolde</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>noch</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 8, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2), <em>dat</em> (<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 23, <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 14, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 1), <em>dän</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 1), <em>en</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 35, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 52, <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 2), <em>en</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 27, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 1), <em>as</em> (<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 4, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 4), <em>mor</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>of</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>bolde</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>man</em> (<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 3, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>mer</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 4, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2), <em>noch</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 8, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2), <em>aver</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 61, <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 2), <em>en</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 28, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 1), <em>as</em> (<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 4, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 4), <em>mor</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>of</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>bolde</em> (<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>man</em> (<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 6, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>mer</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 4, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2), <em>noch</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 8, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2), <em>aver</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>un</em>
-  * <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 52: <em>Hee vorwündert sik <b>un</b> vrågt den waerd , hwat dat bedüdde .</em>
+  * <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 61: <em>Hee vorwündert sik <b>un</b> vrågt den waerd , hwat dat bedüdde .</em>
   * <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 2: <em>Alle lachen harde up , <b>un</b> Wiesken ward roud as vüür .</em>
 * <em>en</em>
-  * <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 27: <em>Up eynmål höyrde hee sou <b>en</b> knisteren , äs wän et uut de küäke kaem .</em>
+  * <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 28: <em>Up eynmål höyrde hee sou <b>en</b> knisteren , äs wän et uut de küäke kaem .</em>
   * <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 25: <em>Hard werken <b>en</b> dan noch halv hungerlyden , dår bedanke ik vöär , dat do ik !</em>
   * <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 1: <em>Mor der woanet sou unbesuusd völle ströypers in myn nåberskop , dat der vöär en unnöäse menske neet byster völle oaver <b>en</b> blivt .</em>
 * <em>as</em>
@@ -40,8 +40,8 @@ The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="nds_lsdc-pos-CC
   * <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2: <em>See saeten alle vergenööglik to houpe un de lüdens traeden <b>bolde</b> mid den rechten , <b>bolde</b> mid den linken voot dat rad un de vinger tüägen uut den dysen de fynen spyrs vlas , dee mid spye nat maked wörden un dan düär de sluken as en vuagel up de spole lepen .</em>
   * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>See weren uut der nåberskop un döär den hougen sney klabasterd , üm by der goden Marigge in selskop to sitten , dän dan geit de arbeid swanke van der hand , de tyd werdt eynen nich lang , un de slåp kümt ouk nich sou <b>bolde</b> .</em>
 * <em>man</em>
-  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 4: <em>Dat weren alle wakkere un fyne lüdens , dee kort vöär wynachten åvends by der olden Marigge un Janhiarm , iaren <b>man</b> , in der stuaven saeten un spünnen .</em>
-  * <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 3: <em>De beiden vinsteren to westen hadde <b>man</b> mid witte lakens vorhungen , to noorden weer man eyn , un dat stund oapen .</em>
+  * <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 6: <em>De beiden vinsteren to westen hadde <b>man</b> mid witte lakens vorhungen , to noorden weer man eyn , un dat stund oapen .</em>
+  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 5: <em>Dat weren alle wakkere un fyne lüdens , dee kort vöär wynachten åvends by der olden Marigge un Janhiarm , iaren <b>man</b> , in der stuaven saeten un spünnen .</em>
   * <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Süg , dår koamet dree jungs an up klumpen , <b>man</b> eyne hevt twey steavels up de nakke hangen .</em>
   * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>De beiden vinsteren to westen hadde man mid witte lakens vorhungen , to noorden weer <b>man</b> eyn , un dat stund oapen .</em>
 * <em>mer</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="nds_lsdc-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.600000 (the average of all parts of speech is 1.346377).
+The form / lemma ratio of `CCONJ` is 1.428571 (the average of all parts of speech is 1.319588).
 
 The 1st highest number of forms (4) was observed with the lemma “men”: <em>man, men, mer, mor</em>.
 
@@ -69,11 +69,17 @@ The 3rd highest number of forms (2) was observed with the lemma “avers”: <em
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="nds_lsdc-dep-cc.html">cc</a></tt> (99; 96% instances), <tt><a href="nds_lsdc-dep-case.html">case</a></tt> (3; 3% instances), <tt><a href="nds_lsdc-dep-mark.html">mark</a></tt> (1; 1% instances)
+`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="nds_lsdc-dep-cc.html">cc</a></tt> (112; 97% instances), <tt><a href="nds_lsdc-dep-case.html">case</a></tt> (3; 3% instances), <tt><a href="nds_lsdc-dep-mark.html">mark</a></tt> (1; 1% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (70; 68% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (12; 12% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (8; 8% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt> (5; 5% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (75; 65% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (15; 13% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (11; 9% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt> (5; 4% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-103 (100%) `CCONJ` nodes are leaves.
+115 (99%) `CCONJ` nodes are leaves.
 
-The highest child degree of a `CCONJ` node is 0.
+1 (1%) `CCONJ` nodes have one child.
+
+The highest child degree of a `CCONJ` node is 1.
+
+Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="nds_lsdc-dep-punct.html">punct</a></tt> (1; 100% instances)
+
+Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
 

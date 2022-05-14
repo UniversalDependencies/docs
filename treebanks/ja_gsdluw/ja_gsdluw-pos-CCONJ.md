@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSDLUW: POS Tags: `CCONJ`
 
-There are 42 `CCONJ` lemmas (0%), 51 `CCONJ` types (0%) and 819 `CCONJ` tokens (1%).
-Out of 17 observed tags, the rank of `CCONJ` is: 9 in number of lemmas, 11 in number of types and 13 in number of tokens.
+There are 43 `CCONJ` lemmas (0%), 51 `CCONJ` types (0%) and 819 `CCONJ` tokens (1%).
+Out of 17 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 10 in number of types and 13 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: 又, 然し, 及び, そして, 更に, 猶, 但し, 一方, 唯, 或いは
 
 The 10 most frequent `CCONJ` types:  また, しかし, そして, および, なお, ただし, さらに, 一方, ただ, あるいは
 
-The 10 most frequent ambiguous lemmas: 又 (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 213, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 41), 更に (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 43, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 28), 猶 (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 41, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 11), 一方 (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 28), 唯 (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 27, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 10), 然も (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 1), で (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2584, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 3), にも関わらず (<tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 3), が (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4008, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 761, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: 又 (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 213, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 41), 更に (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 43, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 28), 猶 (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 41, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 11), 一方 (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 28), 唯 (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 27, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 7), 然も (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 1), にも関わらず (<tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 3), が (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4008, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 761, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 2), で (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2584, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 62, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  また (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 213, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 41), なお (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 37, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 11), さらに (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 23), 一方 (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 28), ただ (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 27, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 1), 及び (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 2), 更に (<tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 5), にもかかわらず (<tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 3), もっとも (<tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 3), が (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4008, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 761, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 2)
 
@@ -53,13 +53,13 @@ The 10 most frequent ambiguous types:  また (<tt><a href="ja_gsdluw-pos-CCONJ.
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.214286 (the average of all parts of speech is 1.102729).
+The form / lemma ratio of `CCONJ` is 1.186047 (the average of all parts of speech is 1.095294).
 
-The 1st highest number of forms (2) was observed with the lemma “で”: じゃあ, で.
+The 1st highest number of forms (2) was observed with the lemma “且つ”: かつ, 且つ.
 
-The 2nd highest number of forms (2) was observed with the lemma “且つ”: かつ, 且つ.
+The 2nd highest number of forms (2) was observed with the lemma “但し”: ただし, 但し.
 
-The 3rd highest number of forms (2) was observed with the lemma “但し”: ただし, 但し.
+The 3rd highest number of forms (2) was observed with the lemma “即ち”: すなわち, 即ち.
 
 `CCONJ` does not occur with any features.
 

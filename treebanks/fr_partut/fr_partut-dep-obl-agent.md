@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 5	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	commission	commission	NOUN	S	Gender=Fem|Number=Sing	8	nsubj:pass	_	_
 7	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
-8	assistée	assistée	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	assistée	assister	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	par	par	ADP	E	_	11	case	_	_
 10	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	comité	comité	NOUN	S	Gender=Masc|Number=Sing	8	obl:agent	_	SpaceAfter=No

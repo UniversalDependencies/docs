@@ -16,11 +16,11 @@ Family: Tupian, Munduruku
 
 This treebank has been part of Universal Dependencies since the UD v2.7 release.
 
-The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi, Eva Huber.
+The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi.
 
 Repository: [UD_Munduruku-TuDeT](https://github.com/UniversalDependencies/UD_Munduruku-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmyu_tudet29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmyu_tudet210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -55,7 +55,7 @@ UD_Munduruku-TuDeT is a collection of annotated sentences in [Mundurukú](http:/
 
 
 
-UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The sentences are being annotated by Fabrício Ferraz Gerardi and Eva Huber.
+UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The sentences are being annotated by Fabrício Ferraz Gerardi.
 
 ## Text sources
 
@@ -90,21 +90,21 @@ The development of the treebank is supported by the by European Research Council
 
 ## Features
 
-[Aspect](myu_tudet-feat-Aspect.html) – [Class](myu_tudet-feat-Class.html) – [Clusivity](myu_tudet-feat-Clusivity.html) – [Evident](myu_tudet-feat-Evident.html) – [Incorp](myu_tudet-feat-Incorp.html) – [Mood](myu_tudet-feat-Mood.html) – [Nomzr](myu_tudet-feat-Nomzr.html) – [Noun](myu_tudet-feat-Noun.html) – [Number](myu_tudet-feat-Number.html) – [NumType](myu_tudet-feat-NumType.html) – [Person](myu_tudet-feat-Person.html) – [Polarity](myu_tudet-feat-Polarity.html) – [Poss](myu_tudet-feat-Poss.html) – [PronType](myu_tudet-feat-PronType.html) – [Red](myu_tudet-feat-Red.html) – [Reflex](myu_tudet-feat-Reflex.html) – [Rel](myu_tudet-feat-Rel.html) – [Tense](myu_tudet-feat-Tense.html) – [Trans](myu_tudet-feat-Trans.html) – [Voice](myu_tudet-feat-Voice.html)
+[Aspect](myu_tudet-feat-Aspect.html) – [Case](myu_tudet-feat-Case.html) – [Class](myu_tudet-feat-Class.html) – [Clusivity](myu_tudet-feat-Clusivity.html) – [Contv](myu_tudet-feat-Contv.html) – [Evident](myu_tudet-feat-Evident.html) – [Incorp](myu_tudet-feat-Incorp.html) – [Mood](myu_tudet-feat-Mood.html) – [Nomzr](myu_tudet-feat-Nomzr.html) – [Number](myu_tudet-feat-Number.html) – [Number[obj]](myu_tudet-feat-Number-obj.html) – [Number[subj]](myu_tudet-feat-Number-subj.html) – [NumType](myu_tudet-feat-NumType.html) – [Person](myu_tudet-feat-Person.html) – [Person[obj]](myu_tudet-feat-Person-obj.html) – [Person[subj]](myu_tudet-feat-Person-subj.html) – [Polarity](myu_tudet-feat-Polarity.html) – [Poss](myu_tudet-feat-Poss.html) – [PronType](myu_tudet-feat-PronType.html) – [Red](myu_tudet-feat-Red.html) – [Reflex](myu_tudet-feat-Reflex.html) – [Rel](myu_tudet-feat-Rel.html) – [Tense](myu_tudet-feat-Tense.html) – [Trans](myu_tudet-feat-Trans.html) – [Voice](myu_tudet-feat-Voice.html)
 
 ## Relations
 
-[advcl](myu_tudet-dep-advcl.html) – [advmod](myu_tudet-dep-advmod.html) – [amod](myu_tudet-dep-amod.html) – [appos](myu_tudet-dep-appos.html) – [aux](myu_tudet-dep-aux.html) – [case](myu_tudet-dep-case.html) – [cc](myu_tudet-dep-cc.html) – [ccomp](myu_tudet-dep-ccomp.html) – [clf](myu_tudet-dep-clf.html) – [conj](myu_tudet-dep-conj.html) – [cop](myu_tudet-dep-cop.html) – [dep](myu_tudet-dep-dep.html) – [discourse](myu_tudet-dep-discourse.html) – [flat](myu_tudet-dep-flat.html) – [mark](myu_tudet-dep-mark.html) – [nmod](myu_tudet-dep-nmod.html) – [nsubj](myu_tudet-dep-nsubj.html) – [nummod](myu_tudet-dep-nummod.html) – [obj](myu_tudet-dep-obj.html) – [obl](myu_tudet-dep-obl.html) – [parataxis](myu_tudet-dep-parataxis.html) – [punct](myu_tudet-dep-punct.html) – [root](myu_tudet-dep-root.html) – [xcomp](myu_tudet-dep-xcomp.html)
+[acl](myu_tudet-dep-acl.html) – [advcl](myu_tudet-dep-advcl.html) – [advmod](myu_tudet-dep-advmod.html) – [amod](myu_tudet-dep-amod.html) – [appos](myu_tudet-dep-appos.html) – [aux](myu_tudet-dep-aux.html) – [case](myu_tudet-dep-case.html) – [cc](myu_tudet-dep-cc.html) – [ccomp](myu_tudet-dep-ccomp.html) – [clf](myu_tudet-dep-clf.html) – [conj](myu_tudet-dep-conj.html) – [cop](myu_tudet-dep-cop.html) – [dep](myu_tudet-dep-dep.html) – [det](myu_tudet-dep-det.html) – [discourse](myu_tudet-dep-discourse.html) – [dislocated](myu_tudet-dep-dislocated.html) – [flat](myu_tudet-dep-flat.html) – [mark](myu_tudet-dep-mark.html) – [nmod](myu_tudet-dep-nmod.html) – [nsubj](myu_tudet-dep-nsubj.html) – [nummod](myu_tudet-dep-nummod.html) – [obj](myu_tudet-dep-obj.html) – [obl](myu_tudet-dep-obl.html) – [parataxis](myu_tudet-dep-parataxis.html) – [punct](myu_tudet-dep-punct.html) – [root](myu_tudet-dep-root.html) – [xcomp](myu_tudet-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 109 sentences, 507 tokens and 515 syntactic words.</li>
+<li>This corpus contains 158 sentences, 1016 tokens and 1022 syntactic words.</li>
 </ul>
 
 <ul>
-<li>All tokens in this corpus are followed by a space.</li>
+<li>This corpus contains 19 tokens (2%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -112,12 +112,12 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus contains 45 types of words that contain both letters and punctuation. Examples: o'tobuxik, 'a, o'e, wa'e, i'it, o'yaoka, o'ju, uk'a, Ka'ũma, duk'a, o'titobuxik, o'xet, o'yaokaiat, 'o'om, Wuy'adapmude'o'onapti, ajojoyũ'ũm'ũm, aoka'ũm, ayacat'ũm, cũg̃'i, ey'at, i'e'em, iba'orere, ikukpin'ũm, io'e, ka'ũmg̃u, muto'o, o'akõm, o'at, o'g̃u'ũm, o'g̃uju, o'jeaokaat, o'jebuk, o'jenapõn, o'jetayxidaat, o'joa, o'suba'o, o'subumõg̃mõg̃, o'sutayxida, o'sutayxidaat, o'suẽn'o, o'taxadig̃curug̃, o'yanuy, o’yaoka, wexik'a, ‘a</li>
+<li>This corpus contains 66 types of words that contain both letters and punctuation. Examples: o'tobuxik, o'e, o'ju, 'a, io'e, e'em, wa'e, i'it, o'yaoka, uk'a, uk'ug̃, da'o, i'e'em, i'uk'ug̃, duk'a, ma'g̃u, o'g̃ukorẽm, o'jo'o'o, o'titobuxik, o'xet, o'yaokaiat, wara'at, 'o'om, Aypapa'ũm'ũm, I'o'o, Ka'ũma, Wuy'adapmude'o'onapti, ajojoyt'ũm'ũm, ajojoyũ'ũm'ũm, aoka'ũm, ayacat'ũm, aypapa'um'um, baseya'a, cũg̃'i, etaxi'ũm, ey'at, iba'orere, ikukpin'ũm, ka'ũmg̃u, muto'o, o'akõm, o'at, o'g̃u'ũm, o'g̃uju, o'jeaokaat, o'jebuk, o'jekõn, o'jenapõn, o'jetayxidaat, o'joa</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 5 types of multi-word tokens. Examples: uk'a, Ixat'a, Wexik'a, kapedi, uk‘a.</li>
+<li>This corpus contains 6 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 4 types of multi-word tokens. Examples: uk'a, Ixat'a, Wexik'a, uk‘a.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -130,26 +130,27 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus contains 7 word types tagged as particles (PART): cuy, du, g̃u, ip, juy, ma, tu</li>
+<li>This corpus contains 11 word types tagged as particles (PART): am, bit, cuy, du, g̃u, ip, juy, ma, ma'g̃u, pit, tu</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as pronouns (PRON): abu, ade, ip, ite, ixe, soat, õn, ẽn</li>
+<li>This corpus contains 11 lemmas tagged as pronouns (PRON): _, abu, ade, ip, ite, ixe, pũg̃, soat, wara'at, õn, ẽn</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): g̃oku</li>
+<li>This corpus contains 4 lemmas tagged as determiners (DET): boku, g̃oku, iex, soat</li>
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: soat</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): kake, nuy, o'e, osunuy, pop</li>
+<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): e'em, kake, nuy, o'e, osunuy, pop</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: kake</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: e'em, kake, o'e</li>
 </ul>
 
 <ul>
@@ -168,9 +169,10 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: Wuy'adapmude'o'onapti, ajojoyũ'ũm'ũm, ebubut</li>
+      <li>NOUN: Ag̃okatkayũ, Wuyjuyũ, ayacayũ, ip, wuyjuyũm, yobog̃ayũ, ãõyũ, Aypapa'ũm'ũm, Wuy'adapmude'o'onapti, ajojoyt'ũm'ũm</li>
       <li>PART: ip</li>
-      <li>VERB: epesot, io'e, jeedop, kukug̃, o'ju, oexexe</li>
+      <li>PRON: ip</li>
+      <li>VERB: epesot, io'e, jeedop, kukug̃, o'ju, oexexe, yobog̃ayũ</li>
     </ul>
   </li>
 </ul>
@@ -178,12 +180,25 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Sing
     <ul>
+      <li>ADP: cebe</li>
+      <li>AUX: o'e</li>
       <li>NOUN: Eg̃uycũg̃, ayacat'ũm, ceebay, eg̃rũ, o'yaokaiat, owag̃o, oxi</li>
-      <li>VERB: oajẽm, ecepe, eg̃ũm, o'at, o'g̃uju, o'jebuk, o'joa, o'titobuxik, o'tobuxik, ojoaat</li>
+      <li>VERB: oajẽm, ecepe, eg̃ũm, o'at, o'e, o'g̃uju, o'jebuk, o'joa, o'titobuxik, o'tobuxik</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Ins
+    <ul>
+      <li>NOUN: pig̃am, Pig̃ãm</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -198,8 +213,9 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Neg
     <ul>
+      <li>ADV: g̃u</li>
       <li>NOUN: ikukpin'ũm</li>
-      <li>PART: g̃u</li>
+      <li>PART: g̃u, ma'g̃u</li>
       <li>VERB: aoka'ũm</li>
     </ul>
   </li>
@@ -224,7 +240,15 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Dec
     <ul>
-      <li>NOUN: ayacat'ũm</li>
+      <li>NOUN: Aypapa'ũm'ũm, ajojoyt'ũm'ũm, ayacat'ũm, aypapa'um'um</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dur
+    <ul>
+      <li>VERB: jekõnkon, konkõn, imug̃ẽg̃ẽ</li>
     </ul>
   </li>
 </ul>
@@ -232,7 +256,8 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>DurIprf
     <ul>
-      <li>VERB: mug̃ẽg̃ẽm</li>
+      <li>AUX: e'em</li>
+      <li>VERB: uk'ug̃, imõg̃mõg̃, kakam, tatam, i'uk'ug̃, cukcug̃, i'e'em, mug̃ẽg̃ẽm, riprim, Jekõnkon</li>
     </ul>
   </li>
 </ul>
@@ -240,7 +265,15 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: cum, 'o'om, pupum, Jeorog̃, aokam, ejot, i'e'em, kukug̃, oajẽm, wetaybit</li>
+      <li>VERB: cum, muyuhum, 'o'om, o'g̃ukorẽm, o'om, pupum, Jeorog̃, aokam, ejot, i'e'em</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Iter
+    <ul>
+      <li>VERB: wuywuy</li>
     </ul>
   </li>
 </ul>
@@ -248,7 +281,9 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Perf
     <ul>
-      <li>VERB: o'tobuxik, oajẽm, o'yaoka, ajẽm, aoka, o'e, o'ju, o'titobuxik, o'xet, oexe</li>
+      <li>AUX: o'e</li>
+      <li>NOUN: cuk, o'jo'o'o</li>
+      <li>VERB: o'tobuxik, o'e, o'ju, oajẽm, o'yaoka, ajẽm, aoka, o'titobuxik, o'xet, oexe</li>
     </ul>
   </li>
 </ul>
@@ -260,7 +295,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: ecepe, ejomõg̃</li>
+      <li>VERB: Yopõg̃, ecepe, ejomõg̃</li>
     </ul>
   </li>
 </ul>
@@ -285,7 +320,7 @@ The development of the treebank is supported by the by European Research Council
   <li>Cau
     <ul>
       <li>NOUN: Wuy'adapmude'o'onapti</li>
-      <li>VERB: o'g̃u'ũm, o'g̃uju, o'sutayxidaat, ocemudirem, og̃uyjayjay</li>
+      <li>VERB: muekabekbeg̃, muyuhum, mudaxip, mukaraw, mupuruk, mupurukpurug̃, o'g̃ukorẽm, imupurukpurug̃, muyhum, o'g̃u'ũm</li>
     </ul>
   </li>
 </ul>
@@ -293,7 +328,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Mid
     <ul>
-      <li>VERB: Jeorog̃, o'jebuk, o'jenapõn, ocewayway</li>
+      <li>VERB: jekõnkon, Jeorog̃, jekukum, o'jebuk, o'jekõn, o'jenapõn, ocewayway</li>
     </ul>
   </li>
 </ul>
@@ -313,7 +348,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Nfh
     <ul>
-      <li>VERB: o'e, io'e</li>
+      <li>VERB: io'e, o'e</li>
     </ul>
   </li>
 </ul>
@@ -336,7 +371,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: Soat</li>
+      <li>PRON: wara'at, Pũg̃pũg̃, Soat</li>
     </ul>
   </li>
 </ul>
@@ -344,7 +379,15 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: õn</li>
+      <li>PRON: ip, õn</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>PRON: Soan, soat</li>
     </ul>
   </li>
 </ul>
@@ -388,7 +431,8 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Yes
     <ul>
-      <li>NOUN: jeku</li>
+      <li>NOUN: jedarug̃, jeku</li>
+      <li>VERB: oeku</li>
     </ul>
   </li>
 </ul>
@@ -426,9 +470,12 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>3
     <ul>
-      <li>AUX: o'yanuy</li>
+      <li>ADP: cebe</li>
+      <li>AUX: o'e, o'yanuy</li>
       <li>NOUN: ceebay, oajẽmiat, okapap</li>
-      <li>VERB: o'tobuxik, oajẽm, itakomã, o'e, o'ju, o'xet, oexe, aokam, io'e, kukug̃</li>
+      <li>PART: ip</li>
+      <li>PRON: ip</li>
+      <li>VERB: o'tobuxik, oajẽm, o'e, o'ju, itakomã, o'xet, oexe, aokam, io'e, kukug̃</li>
     </ul>
   </li>
 </ul>
@@ -453,7 +500,7 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>CilFlx
         <ul>
-          <li>NOUN: 'a, pu</li>
+          <li>NOUN: wasũbu, 'a, pu</li>
           <li>VERB: o'subumõg̃mõg̃</li>
         </ul>
       </li>
@@ -465,14 +512,14 @@ The development of the treebank is supported by the by European Research Council
       </li>
       <li>Liquid
         <ul>
-          <li>NOUN: di, tidaxip, Wuy'adapmude'o'onapti</li>
-          <li>VERB: otibu</li>
+          <li>NOUN: kapedi, tidaxip, Wuy'adapmude'o'onapti</li>
+          <li>VERB: o'tikõn, otibu</li>
         </ul>
       </li>
       <li>Round
         <ul>
           <li>AUX: o'yanuy</li>
-          <li>NOUN: 'a, duk'a, yadip</li>
+          <li>NOUN: 'a, Uk'a, baseya'a, pag̃eiro'a, pag̃eiro’a, tuk'a, uk’a, duk'a, yadip</li>
         </ul>
       </li>
       <li>Seed
@@ -490,6 +537,18 @@ The development of the treebank is supported by the by European Research Council
       <li>Ex
         <ul>
           <li>NOUN: Wuy'adapmude'o'onapti</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Contv</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>PART: pit, bit</li>
         </ul>
       </li>
     </ul>
@@ -518,7 +577,7 @@ The development of the treebank is supported by the by European Research Council
       </li>
       <li>Pa
         <ul>
-          <li>NOUN: ojuyiap, Wuy'adapmude'o'onapti, okapap</li>
+          <li>NOUN: juap, ojuyiap, Wuy'adapmude'o'onapti, okapap</li>
         </ul>
       </li>
     </ul>
@@ -526,11 +585,54 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-  <li><a>Noun</a>
+  <li><a>Number[obj]</a>
     <ul>
-      <li>Clf
+      <li>Sing
         <ul>
-          <li>NOUN: wexik'a, duk'a</li>
+          <li>VERB: o'jo'o'o</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Number[subj]</a>
+    <ul>
+      <li>Plur
+        <ul>
+          <li>NOUN: o'jo'o'o</li>
+        </ul>
+      </li>
+      <li>Sing
+        <ul>
+          <li>AUX: o'e</li>
+          <li>VERB: o'ju, io'e, o'e, o'g̃ukorẽm, o'jekõn, o'jo'o'o, o'tikõn, o'tobuxik, oexe</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Person[obj]</a>
+    <ul>
+      <li>3
+        <ul>
+          <li>VERB: o'jo'o'o, o'tobuxik</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Person[subj]</a>
+    <ul>
+      <li>3
+        <ul>
+          <li>NOUN: o'jo'o'o</li>
+          <li>VERB: o'ju, io'e, o'g̃ukorẽm, o'jekõn, o'jo'o'o, o'tikõn, o'tobuxik, oexe</li>
         </ul>
       </li>
     </ul>
@@ -554,16 +656,16 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>Cont
         <ul>
-          <li>ADP: kug̃, be, kay, puje, tag̃, tẽg̃, xe</li>
-          <li>NOUN: duk'a, Wuy'adapmude'o'onapti, eg̃ru, ikukpin'ũm</li>
+          <li>ADP: dag̃, kug̃, be, kay, tag̃, puje, tẽg̃, xe</li>
+          <li>NOUN: da'o, duk'a, dao, daxa, Wuy'adapmude'o'onapti, eg̃ru, ikukpin'ũm</li>
         </ul>
       </li>
       <li>NCont
         <ul>
-          <li>ADP: eju</li>
+          <li>ADP: eju, tag̃, tẽg̃</li>
           <li>AUX: o'yanuy</li>
-          <li>NOUN: Tit, icokcok, idip, ipi, irere, ixi, iẽn, taxit, yadappek, iwipat</li>
-          <li>VERB: i'e'em, o'suba'o, o'subumõg̃mõg̃, o'taxadig̃curug̃</li>
+          <li>NOUN: iwi, tao, iixĩt, yopit, ixep, I'o'o, Ibuybitopi, Ipoxi, Tit, daxa</li>
+          <li>VERB: i'e'em, i'uk'ug̃, imõg̃mõg̃, io'e, Ibu, imug̃ẽg̃ẽ, muyuhum, tujuxexem, yobog̃, yobog̃bug̃</li>
         </ul>
       </li>
     </ul>
@@ -587,11 +689,11 @@ The development of the treebank is supported by the by European Research Council
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: nuy.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: osunuy, nuy.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: kake, o'e.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: e'em, o'e, kake.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -600,8 +702,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (18)</li>
-      <li>VERB--PRON (2)</li>
+      <li>VERB--NOUN (38)</li>
+      <li>VERB--PRON (26)</li>
+      <li>VERB--PRON-ADP(be) (1)</li>
     </ul>
   </li>
 </ul>
@@ -609,10 +712,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (11)</li>
-      <li>VERB--NOUN-ADP(be) (1)</li>
+      <li>VERB--NOUN (44)</li>
+      <li>VERB--NOUN-ADP(be) (2)</li>
+      <li>VERB--NOUN-ADP(dag̃) (1)</li>
       <li>VERB--NOUN-ADP(xe) (1)</li>
-      <li>VERB--PRON (2)</li>
+      <li>VERB--NOUN-Ins (1)</li>
+      <li>VERB--PRON (3)</li>
     </ul>
   </li>
 </ul>
@@ -626,10 +731,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 
 
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: jeku jedarug̃</li>
+</ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 13 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>acl</a>, <a>det</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

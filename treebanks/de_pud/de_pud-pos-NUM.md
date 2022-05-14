@@ -54,9 +54,9 @@ The 2nd highest number of forms (1) was observed with the lemma “1”: <em>1</
 
 The 3rd highest number of forms (1) was observed with the lemma “1,165”: <em>1,165</em>.
 
-`NUM` occurs with 6 features: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt> (352; 100% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt> (1; 0% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (1; 0% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (1; 0% instances)
+`NUM` occurs with 4 features: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt> (353; 100% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (1; 0% instances)
 
-`NUM` occurs with 6 feature-value pairs: `Case=Acc`, `Degree=Pos`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Person=3`
+`NUM` occurs with 4 feature-value pairs: `Case=Acc`, `Gender=Masc`, `NumType=Card`, `Number=Plur`
 
 `NUM` occurs with 2 feature combinations.
 The most frequent feature combination is `NumType=Card` (352 tokens).

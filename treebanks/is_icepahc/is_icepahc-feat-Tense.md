@@ -11,7 +11,7 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 126731 tokens (13%) have a non-empty value of `Tense`.
 8640 types (13%) occur at least once with a non-empty value of `Tense`.
-3184 lemmas (9%) occur at least once with a non-empty value of `Tense`.
+3183 lemmas (9%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 15 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (77087; 8% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (43817; 4% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (2446; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (1417; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (762; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (326; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (292; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (283; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (196; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (57; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (20; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -96,7 +96,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Past` (96; 7% of non-empty `Tense`): <em>snart, fór, braut, mátti, eigi, kunni, fóru, hvörsu, kynni, vildi</em>
 * `Pres` (1321; 93% of non-empty `Tense`): <em>eigi, nær, heldur, helst, kann, aldri, fyr, næst, fer, kemur</em>
-* `EMPTY` (77608): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
+* `EMPTY` (77606): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
 
 <table>
   <tr><th>Paradigm <i>ekki</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -118,7 +118,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 
 * `Past` (199; 26% of non-empty `Tense`): <em>leið, engi, hóf, mætti, komu, færi, lifnaði, liði, skildi, birti</em>
 * `Pres` (563; 74% of non-empty `Tense`): <em>vilja, greinir, sakar, synda, syndir, mun, klæði, getur, friðar, hjálpar</em>
-* `EMPTY` (145189): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145185): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>jörð</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -180,7 +180,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (62; 22% of non-empty `Tense`): <em>var, átti, sétti, blessuðu, laust, réttu, sæti, volaði, útvöldu, Elsti</em>
 * `Pres` (221; 78% of non-empty `Tense`): <em>verður, fær, nær, ríkir, sannast, sanna, syndgir, varir, fegri, göfgir</em>
-* `EMPTY` (36872): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36881): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 <table>
   <tr><th>Paradigm <i>sannur</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -223,7 +223,7 @@ The most frequent other feature values with which `PROPN` and `Tense` co-occurre
 
 * `Past` (15; 26% of non-empty `Tense`): <em>Brúni, Guddu, Guði, Gálu, Hrímgerður, Karatti, Pjatti, Skafti, Trankival, Vali</em>
 * `Pres` (42; 74% of non-empty `Tense`): <em>Vali, Valdi, sankti, Georgíus, Maii, Majst, Beljus, Belíus, Julii, Kórmaks</em>
-* `EMPTY` (41350): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41347): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 <table>
   <tr><th>Paradigm <i>guð</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

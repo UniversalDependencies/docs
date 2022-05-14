@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-999 nodes (5%) are attached to their parents as `obj`.
+1000 nodes (5%) are attached to their parents as `obj`.
 
 664 instances of `obj` (66%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.97597597597598.
+Average distance between parent and child is 1.977.
 
-The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (761; 76% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (139; 14% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (67; 7% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt>-<tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (762; 76% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (140; 14% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (66; 7% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt>-<tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 4 6 obj	color:blue
 1	Päivystävä	päivystävä	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
 2	kirurgi	kirurgi	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
-3	käynyt	käydä	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+3	käynyt	käydä	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 4	katsomassa	katsoa	VERB	_	Case=Ine|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp	_	_
 5	kaulan	kaula	NOUN	_	Case=Gen|Number=Sing	6	nmod:poss	_	_
 6	pattia	patti	NOUN	_	Case=Par|Number=Sing	4	obj	_	SpaceAfter=No
@@ -57,10 +57,10 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 obj	color:blue
-1	RR	RR	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound	_	Gen=Verenpaine
+1	RR	RR	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	compound:nn	_	Gen=Verenpaine
 2	taso	taso	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
 3	matala	matala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
-4	aloitettu	aloittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	parataxis	_	_
+4	aloitettu	aloittaa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	parataxis	_	_
 5	abbodop	Abbodop	PROPN	_	Case=Nom|Number=Sing	4	obj	_	Gen_desc=lääke
 6	ja	ja	CCONJ	_	_	7	cc	_	_
 7	noradrenaliini	noradrenaliini	NOUN	_	Case=Nom|Number=Sing	4	conj	_	Gen_desc=vaikuttava-aine|SpaceAfter=No

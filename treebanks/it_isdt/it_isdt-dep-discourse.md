@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 3	non	non	ADV	BN	PronType=Neg	9	advmod	9:advmod	_
 4	che	che	SCONJ	CS	_	5	mark	5:mark	_
 5	Berlusconi	Berlusconi	PROPN	SP	_	9	csubj	9:csubj	_
-6	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
+6	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	_
 8	gran	grande	ADJ	A	Number=Sing	9	amod	9:amod	_
 9	femminista	femminista	NOUN	S	Number=Sing	0	root	0:root	SpaceAfter=No
@@ -68,7 +68,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 3	no	no	INTJ	I	Polarity=Neg	7	discourse	7:discourse	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	3:punct	_
 5	non	non	ADV	BN	PronType=Neg	7	advmod	7:advmod	_
-6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 7	così	così	ADV	B	_	0	root	0:root	_
 8	-	-	PUNCT	FB	_	9	punct	9:punct	_
 9	replica	replicare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	7:parataxis	_

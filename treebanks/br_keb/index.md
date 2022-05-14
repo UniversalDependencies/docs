@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Francis Tyers.
 
 Repository: [UD_Breton-KEB](https://github.com/UniversalDependencies/UD_Breton-KEB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 

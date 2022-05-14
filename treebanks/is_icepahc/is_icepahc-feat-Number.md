@@ -10,20 +10,20 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 526313 tokens (53%) have a non-empty value of `Number`.
-63679 types (97%) occur at least once with a non-empty value of `Number`.
-32339 lemmas (89%) occur at least once with a non-empty value of `Number`.
-The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (142310; 14% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (116584; 12% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (94390; 10% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (44818; 5% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (42406; 4% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (38156; 4% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (35491; 4% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (5457; 1% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (2708; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (2628; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (634; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (534; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (129; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (31; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (27; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances).
+63674 types (97%) occur at least once with a non-empty value of `Number`.
+32321 lemmas (89%) occur at least once with a non-empty value of `Number`.
+The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (142306; 14% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (116584; 12% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (94390; 10% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (44818; 5% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (42406; 4% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (38153; 4% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (35500; 4% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (5455; 1% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (2708; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (2628; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (634; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (534; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (129; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (31; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (27; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances).
 
 ### `NOUN`
 
-142310 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+142306 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (112295; 79%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (112291; 79%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (36829; 26% of non-empty `Number`): <em>menn, manna, mönnum, orð, bræður, orðum, hendur, hluti, höndum, daga</em>
-* `Sing` (105481; 74% of non-empty `Number`): <em>maður, konungur, biskup, dag, mann, stað, kóngur, tíma, herra, föður</em>
+* `Sing` (105477; 74% of non-empty `Number`): <em>maður, konungur, biskup, dag, mann, stað, kóngur, tíma, herra, föður</em>
 * `EMPTY` (3641): <em>móti, stundum, mót, megin, sökum, náð, föðurs, kap., heima, votta</em>
 
 <table>
@@ -282,14 +282,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PROPN`
 
-38156 <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> tokens (92% of all `PROPN` tokens) have a non-empty value of `Number`.
+38153 <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> tokens (92% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (36567; 96%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (29303; 77%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (19907; 52%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (36568; 96%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (29301; 77%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (19905; 52%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (2190; 6% of non-empty `Number`): <em>gyðinga, gyðingar, Hólum, gyðingum, Hellismenn, grikkir, Georgíum, júðar, himnum, Bessastöðum</em>
-* `Sing` (35966; 94% of non-empty `Number`): <em>guð, guðs, jesús, herra, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `Sing` (35963; 94% of non-empty `Number`): <em>guð, guðs, jesús, herra, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 * `EMPTY` (3251): <em>Erasmus, Metternich, Darius, Vali, Dominus, Pelissier, síra, Moyses, Menon, Petrus</em>
 
 <table>
@@ -306,18 +306,18 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>guði</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 94% lemmas (4552) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 94% lemmas (4551) occur only with one value of `Number`.
 
 ### `ADJ`
 
-35491 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Number`.
+35500 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27620; 78%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (26120; 74%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (19062; 54%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27626; 78%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (26125; 74%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (19068; 54%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (8097; 23% of non-empty `Number`): <em>góðum, góðir, góðar, góð, sömu, bestu, stór, góðra, heilagra, fyrstu</em>
-* `Sing` (27394; 77% of non-empty `Number`): <em>sama, gott, satt, góða, góður, fyrsta, þriðja, heilaga, sæla, gamall</em>
+* `Sing` (27403; 77% of non-empty `Number`): <em>sama, gott, satt, góða, góður, fyrsta, þriðja, heilaga, sæla, gamall</em>
 * `EMPTY` (1664): <em>nær, 1., langt, víst, lengi, kongl., skammt, illa, lengra, næst</em>
 
 <table>
@@ -390,12 +390,12 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `ADV`
 
-5457 <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `Number`.
+5455 <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `Number`.
 
 `ADV` tokens may have the following values of `Number`:
 
 * `Plur` (1231; 23% of non-empty `Number`): <em>þá, eigi, allir, fyrri, einnin, marga, margar, aldregi, fleiri, einir</em>
-* `Sing` (4226; 77% of non-empty `Number`): <em>eigi, hvað, aldri, þá, nær, einn, einnin, heldur, hverninn, einasta</em>
+* `Sing` (4224; 77% of non-empty `Number`): <em>eigi, hvað, aldri, þá, nær, einn, einnin, heldur, hverninn, einasta</em>
 * `EMPTY` (73568): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
 
 <table>
@@ -584,12 +584,12 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (32657; 75%),
 <tt>VERB --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> VERB</tt> (17122; 68%),
-<tt>VERB --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (15390; 79%),
+<tt>VERB --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (15389; 79%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (15033; 82%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14771; 92%),
-<tt>NOUN --[<tt><a href="is_icepahc-dep-det.html">det</a></tt>]--> DET</tt> (13402; 91%),
-<tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> DET</tt> (9972; 93%),
-<tt>VERB --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (9906; 83%),
+<tt>NOUN --[<tt><a href="is_icepahc-dep-det.html">det</a></tt>]--> DET</tt> (13399; 91%),
+<tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> DET</tt> (9971; 93%),
+<tt>VERB --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (9903; 83%),
 <tt>VERB --[<tt><a href="is_icepahc-dep-obl.html">obl</a></tt>]--> PRON</tt> (7825; 50%),
 <tt>VERB --[<tt><a href="is_icepahc-dep-cop.html">cop</a></tt>]--> AUX</tt> (7590; 80%).
 

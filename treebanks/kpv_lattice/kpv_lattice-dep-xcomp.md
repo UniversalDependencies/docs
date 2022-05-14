@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-93 nodes (1%) are attached to their parents as `xcomp`.
+94 nodes (1%) are attached to their parents as `xcomp`.
 
-69 instances of `xcomp` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.73118279569892.
+69 instances of `xcomp` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.76595744680851.
 
-The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (60; 65% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (17; 18% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (10; 11% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (60; 64% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (17; 18% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (11; 12% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	1	case	_	_
 3	видзӧдігмоз	видзӧдны	VERB	V	Derivation=Igmoz|VerbForm=Conv	6	advcl	_	_
 4	весиг	весиг	PART	Pcle	_	6	advmod	_	_
-5	шуштӧм	шуштӧм	NOUN	N	Case=Abe|Number=Sing	6	xcomp	_	_
+5	шуштӧм	шуштӧм	NOUN	N	Case=Abe|Number=Sing|Variant=Nomin	6	xcomp	_	_
 6	лолі	лолыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 7	сьӧлӧм	сьӧлӧм	NOUN	N	Case=Nom|Number=Sing	6	obl:lmod	_	_
 8	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	7	case	_	SpaceAfter=No

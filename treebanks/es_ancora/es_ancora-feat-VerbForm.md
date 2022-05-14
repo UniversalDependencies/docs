@@ -12,20 +12,20 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 68260 tokens (12%) have a non-empty value of `VerbForm`.
 13005 types (33%) occur at least once with a non-empty value of `VerbForm`.
 3749 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (47163; 8% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (14585; 3% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (6501; 1% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (11; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (47499; 8% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (14249; 3% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (6501; 1% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (11; 0% instances).
 
 ### `VERB`
 
-47163 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+47499 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (28379; 60%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27378; 58%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27007; 57%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (28610; 60%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27655; 58%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27211; 57%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (30189; 64% of non-empty `VerbForm`): <em>tiene, dijo, hace, tienen, aseguró, explicó, afirmó, hizo, señaló, anunció</em>
-* `Ger` (1317; 3% of non-empty `VerbForm`): <em>haciendo, dando, teniendo, diciendo, pensando, trabajando, hablando, intentando, jugando, dejando</em>
-* `Inf` (10951; 23% of non-empty `VerbForm`): <em>hacer, dar, tener, ganar, ver, poner, decir, evitar, conseguir, llegar</em>
-* `Part` (4706; 10% of non-empty `VerbForm`): <em>hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</em>
+* `Fin` (30483; 64% of non-empty `VerbForm`): <em>tiene, dijo, hace, tienen, aseguró, explicó, va, afirmó, hizo, señaló</em>
+* `Ger` (1319; 3% of non-empty `VerbForm`): <em>haciendo, dando, teniendo, diciendo, pensando, trabajando, hablando, intentando, jugando, dejando</em>
+* `Inf` (10973; 23% of non-empty `VerbForm`): <em>hacer, dar, tener, ganar, ver, poner, decir, evitar, conseguir, llegar</em>
+* `Part` (4724; 10% of non-empty `VerbForm`): <em>hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -63,16 +63,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-14585 <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+14249 <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (12217; 84%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (11723; 80%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10373; 71%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9159; 63%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (11986; 84%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (11446; 80%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10169; 71%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8946; 63%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (12949; 89% of non-empty `VerbForm`): <em>es, ha, han, fue, son, está, había, hay, puede, era</em>
-* `Ger` (88; 1% of non-empty `VerbForm`): <em>siendo, habiendo, estando, pudiendo, sabiendo, teniendo, queriendo</em>
-* `Inf` (1021; 7% of non-empty `VerbForm`): <em>ser, haber, estar, poder, saber, ir, querer, tener, deber</em>
-* `Part` (527; 4% of non-empty `VerbForm`): <em>sido, podido, estado, habido, ido, debido</em>
+* `Fin` (12655; 89% of non-empty `VerbForm`): <em>es, ha, han, fue, son, está, había, hay, puede, era</em>
+* `Ger` (86; 1% of non-empty `VerbForm`): <em>siendo, habiendo, estando, pudiendo, sabiendo, queriendo</em>
+* `Inf` (999; 7% of non-empty `VerbForm`): <em>ser, haber, estar, poder, saber, querer, deber</em>
+* `Part` (509; 4% of non-empty `VerbForm`): <em>sido, podido, estado, habido, debido</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -141,14 +141,14 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (3384; 78%),
-<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2581; 64%),
-<tt>AUX --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (312; 59%),
-<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (251; 86%),
-<tt>VERB --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (119; 63%),
-<tt>AUX --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (97; 62%),
-<tt>VERB --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (80; 62%),
+<tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (3400; 78%),
+<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2594; 64%),
+<tt>AUX --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (316; 60%),
+<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (250; 86%),
+<tt>VERB --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (124; 66%),
+<tt>AUX --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (99; 63%),
+<tt>VERB --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (82; 64%),
 <tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> AUX</tt> (67; 76%),
-<tt>AUX --[<tt><a href="es_ancora-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (65; 63%),
+<tt>AUX --[<tt><a href="es_ancora-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (66; 63%),
 <tt>AUX --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> AUX</tt> (24; 86%).
 

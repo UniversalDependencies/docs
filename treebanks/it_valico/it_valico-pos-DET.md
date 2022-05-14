@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="it_valico-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.727273 (the average of all parts of speech is 1.389423).
+The form / lemma ratio of `DET` is 1.727273 (the average of all parts of speech is 1.389210).
 
 The 1st highest number of forms (6) was observed with the lemma “suo”: <em>sua, sue, sui, suo, suoe, suoi</em>.
 

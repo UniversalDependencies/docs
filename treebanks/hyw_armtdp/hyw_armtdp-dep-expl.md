@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `expl`.
+11 nodes (0%) are attached to their parents as `expl`.
 
-12 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.16666666666667.
+11 instances of `expl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.18181818181818.
 
-The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (5; 42% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 25% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (2; 17% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 8% instances).
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (5; 45% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 27% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (2; 18% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 2 expl	color:blue
 1	«	«	PUNCT	_	_	5	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-2	Էն	էն	PRON	_	Deixis=Remt|PronType=Dem	5	expl	_	Translit=Ēn|LTranslit=ēn
+2	Էն	էն	PRON	_	Deixis=Remt|PronType=Dem|Style=Coll	5	expl	_	Translit=Ēn|LTranslit=ēn
 3	ինչ	ինչ	DET	_	PronType=Exc	5	det	_	Translit=inč|LTranslit=inč
 4	՜	՜	PUNCT	_	_	3	punct	_	Translit=!|LTranslit=!
 5	շունչ	շունչ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=šownč|LTranslit=šownč

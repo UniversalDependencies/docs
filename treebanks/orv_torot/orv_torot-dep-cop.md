@@ -22,10 +22,10 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
-1	то	тыи	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=6
-2	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=6
-3	городъ	городъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=6
-4	индѣискыи	индѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	advmod	_	ref=6
+1	то	тыи	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Ref=6
+2	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Ref=6
+3	городъ	городъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=6
+4	индѣискыи	индѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	advmod	_	Ref=6
 
 ~~~
 
@@ -53,21 +53,21 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 cop	color:blue
-1	и	и	CCONJ	C-	_	9	cc	_	ref=47.27
-2	елико	елико	PRON	Pr	PronType=Rel	6	nsubj:pass	_	ref=47.27
-3	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nmod	_	ref=47.27
-4	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=47.27
-5	не	не	ADV	Df	Polarity=Neg	6	advmod	_	ref=47.28
-6	хрщ҃но	хрьщати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	nsubj	_	ref=47.28
-7	да	да	ADV	Df	_	9	advmod	_	ref=47.28|LId=1
-8	не	не	ADV	Df	Polarity=Neg	9	advmod	_	ref=47.28
-9	имуть	яти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=47.28
-10	помощи	помощь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	obj	_	ref=47.28
-11	ѿ	отъ	ADP	R-	_	12	case	_	ref=47.28
-12	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	ref=47.28
-13	ни	ни	CCONJ	C-	_	12	cc	_	ref=47.28
-14	ѡт	отъ	ADP	R-	_	15	case	_	ref=47.28
-15	перуна	перунъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	conj	_	ref=47.28
+1	и	и	CCONJ	C-	_	9	cc	_	Ref=47.27
+2	елико	елико	PRON	Pr	PronType=Rel	6	nsubj:pass	_	Ref=47.27
+3	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nmod	_	Ref=47.27
+4	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Ref=47.27
+5	не	не	ADV	Df	Polarity=Neg	6	advmod	_	Ref=47.28
+6	хрщ҃но	хрьщати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	nsubj	_	Ref=47.28
+7	да	да	ADV	Df	_	9	advmod	_	LId=1|Ref=47.28
+8	не	не	ADV	Df	Polarity=Neg	9	advmod	_	Ref=47.28
+9	имуть	яти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=47.28
+10	помощи	помощь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	obj	_	Ref=47.28
+11	ѿ	отъ	ADP	R-	_	12	case	_	Ref=47.28
+12	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	Ref=47.28
+13	ни	ни	CCONJ	C-	_	12	cc	_	Ref=47.28
+14	ѡт	отъ	ADP	R-	_	15	case	_	Ref=47.28
+15	перуна	перунъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	conj	_	Ref=47.28
 
 ~~~
 

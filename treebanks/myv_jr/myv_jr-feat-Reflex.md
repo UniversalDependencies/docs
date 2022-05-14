@@ -23,16 +23,16 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (71; 100% of non-empty `Reflex`): <em>сонсь, эсензэ, эстензэ, сонськак, эсест, миньсинек, минсенек, монсь, сынсь, тонсь</em>
-* `EMPTY` (879): <em>сон, весе, те, мон, сонзэ, мезе, минь, тензэ, сынь, минек</em>
+* `EMPTY` (885): <em>сон, весе, те, мон, сонзэ, мезе, минь, тензэ, сынь, минек</em>
 
 ### `DET`
 
-17 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Reflex`.
+17 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Reflex`.
 
 The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (14; 82%).
 
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (17; 100% of non-empty `Reflex`): <em>эсь</em>
-* `EMPTY` (182): <em>те, эрьва, се, ве, ламо, лия, кона, истямо, не, зяро</em>
+* `EMPTY` (184): <em>те, эрьва, се, ве, ламо, лия, кона, истямо, не, зяро</em>
 

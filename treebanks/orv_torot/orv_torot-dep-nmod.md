@@ -38,15 +38,15 @@ The following 40 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 nmod	color:blue
-1	а	а	CCONJ	C-	_	2	cc	_	ref=6
-2	привозѧть	привозити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-3	все	вьсь	ADJ	Px	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	ref=6
-4	моремъ	море	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	2	obl	_	ref=6
-5	в	въ	ADP	R-	_	6	case	_	ref=6
-6	тавах	тава	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	2	obl	_	ref=6
-7	индѣискыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	ref=6
-8	земли	земля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	ref=6
-9	корабли	корабль	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	appos	_	ref=6
+1	а	а	CCONJ	C-	_	2	cc	_	Ref=6
+2	привозѧть	привозити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=6
+3	все	вьсь	ADJ	Px	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	Ref=6
+4	моремъ	море	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	2	obl	_	Ref=6
+5	в	въ	ADP	R-	_	6	case	_	Ref=6
+6	тавах	тава	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	2	obl	_	Ref=6
+7	индѣискыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	Ref=6
+8	земли	земля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	Ref=6
+9	корабли	корабль	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	appos	_	Ref=6
 
 ~~~
 
@@ -57,15 +57,15 @@ The following 40 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 nmod	color:blue
-1	а	а	CCONJ	C-	_	5	cc	_	ref=6
-2	паропкы	паробъкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	ref=6
-3	да	да	CCONJ	C-	_	2	cc	_	ref=6
-4	девочкы	дѣвочька	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	ref=6
-5	ходѧт	ходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-6	нагы	нагыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	5	advmod	_	ref=6
-7	до	до	ADP	R-	_	8	case	_	ref=6
-8	з҃	седмь	NUM	Ma	_	5	obl	_	ref=6
-9	лѣт	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	ref=6
+1	а	а	CCONJ	C-	_	5	cc	_	Ref=6
+2	паропкы	паробъкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Ref=6
+3	да	да	CCONJ	C-	_	2	cc	_	Ref=6
+4	девочкы	дѣвочька	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	Ref=6
+5	ходѧт	ходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=6
+6	нагы	нагыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	5	advmod	_	Ref=6
+7	до	до	ADP	R-	_	8	case	_	Ref=6
+8	з҃	седмь	NUM	Ma	_	5	obl	_	Ref=6
+9	лѣт	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	Ref=6
 
 ~~~
 

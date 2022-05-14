@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 4	Wirtschaftsreferent	Referent	NOUN	NN	Gender=Masc|Number=Sing|Person=3	1	appos	_	_
 5	bei	bei	ADP	APPR	AdpType=Prep|Case=Dat	7	case	_	_
 6	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	7	det	_	_
-7	Bundesbeauftragten	Beauftragt	NOUN	NN	Degree=Pos|Number=Sing|Person=3	4	nmod	_	_
+7	Bundesbeauftragten	Beauftragt	NOUN	NN	Number=Sing|Person=3	4	nmod	_	_
 8	für	für	ADP	APPR	AdpType=Prep|Case=Acc	9	case	_	_
 9	Datenschutz	Schutz	NOUN	NN	Gender=Masc|Number=Sing|Person=3	7	nmod	_	_
 10	,	,	PUNCT	$,	PunctType=Comm	4	punct	_	_

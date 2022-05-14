@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (3%) are attached to their parents as `advcl`.
+36 nodes (4%) are attached to their parents as `advcl`.
 
-9 instances of `advcl` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.88235294117647.
+21 instances of `advcl` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.41666666666667.
 
-The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (7; 41% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="myu_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (17; 47% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (8; 22% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (6; 17% instances), <tt><a href="myu_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -22,14 +22,14 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 advcl	color:blue
-1	Karosakaybu	Karosakaybu	PROPN	pn	_	3	obl	3:obl	_
-2	daje	daje	NOUN	n	_	3	obl	3:obl	_
-3	o'g̃uju	ju	VERB	vt	Aspect=Perf|Number=Sing|Person=33|Voice=Cau	0	root	0:root	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	punct
-5	tacup	tacup	VERB	v	_	3	advcl	3:advcl	_
-6	puye	puye	SCONJ	sc	_	5	mark	5:mark	_
-7	ip	ip	PART	pcl	_	5	nsubj	5:nsubj	_
-8	.	.	PUNCT	punct	_	5	punct	5:punct	punct
+1	Karosakaybu	Karosakaybu	PROPN	pn	_	3	obl	_	_
+2	daje	daje	NOUN	n	_	3	obl	_	_
+3	o'g̃uju	ju	VERB	vt	Aspect=Perf|Number=Sing|Person=33|Voice=Cau	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	punct
+5	tacup	tacup	VERB	v	_	3	advcl	_	_
+6	puye	puye	SCONJ	sc	_	5	mark	_	_
+7	ip	ip	PART	pcl	_	5	nsubj	_	_
+8	.	.	PUNCT	punct	_	5	punct	_	punct
 
 ~~~
 
@@ -40,15 +40,15 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 advcl	color:blue
-1	ejot	jot	VERB	vi	Aspect=Imp|Person=2	0	root	0:root	_
-2	cuy	cuy	PART	imppart	_	1	discourse	1:discourse	_
-3	,	,	PUNCT	punct	_	4	punct	4:punct	_
-4	muto'o	muto'o	NOUN	n	_	1	advcl	1:advcl	_
-5	bima	bima	ADP	pp	_	4	case	4:case	_
-6	,	,	PUNCT	punct	_	7	punct	7:punct	_
-7	kaxi	kaxi	NOUN	n	_	4	nmod	4:nmod	_
-8	wuyase	ase	ADP	pp	_	7	case	7:case	_
-9	bima	bima	ADP	pp	_	7	case	7:case	_
+1	ejot	jot	VERB	vi	Aspect=Imp|Person=2	0	root	_	_
+2	cuy	cuy	PART	imppart	_	1	discourse	_	_
+3	,	,	PUNCT	punct	_	4	punct	_	_
+4	muto'o	muto'o	NOUN	n	_	1	advcl	_	_
+5	bima	bima	ADP	pp	_	4	case	_	_
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	kaxi	kaxi	NOUN	n	_	4	nmod	_	_
+8	wuyase	ase	ADP	pp	_	7	case	_	_
+9	bima	bima	ADP	pp	_	7	case	_	_
 
 ~~~
 

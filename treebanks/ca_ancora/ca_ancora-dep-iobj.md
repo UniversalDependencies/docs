@@ -29,10 +29,10 @@ The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href
 5	es	ell	PRON	p0300000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	iobj	6:iobj	_
 6	proposa	proposar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	augmentar	augmentar	VERB	vmn0000	VerbForm=Inf	6	xcomp	6:xcomp	_
-8	ne	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	7	obj	7:obj	ClusterId=CESS-CAT-A-20030507-86093-c7|ClusterType=|MentionSpan=8|MentionMisc=ClusterTypeMismatch:Spec:,CorefType:ident
-9	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	10	det	10:det	SpaceAfter=No
-10	ús	ús	NOUN	ncms000	Gender=Masc|Number=Sing	7	obj	7:obj	ClusterId=CESS-CAT-A-20030507-86093-c43|ClusterType=Gen|MentionSpan=9-11|MentionMisc=CorefType:ident
-11	social	social	ADJ	aq0cs0	Number=Sing	10	amod	10:amod	SpaceAfter=No
+8	ne	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	7	obj	7:obj	Entity=(CESSCATA2003050786093c7--1-CorefType:ident)
+9	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	10	det	10:det	SpaceAfter=No|Entity=(CESSCATA2003050786093c43--2-CorefType:ident,gstype:gen
+10	ús	ús	NOUN	ncms000	Gender=Masc|Number=Sing	7	obj	7:obj	_
+11	social	social	ADJ	aq0cs0	Number=Sing	10	amod	10:amod	SpaceAfter=No|Entity=CESSCATA2003050786093c43)
 12	.	.	PUNCT	fp	PunctType=Peri	6	punct	6:punct	_
 
 ~~~
@@ -49,11 +49,11 @@ The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href
 3	l'	ell	PRON	pp3csa00	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	5	obj	5:obj	SpaceAfter=No
 4	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 5	organitzat	organitzar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
-6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	7:det	_
-7	sindicat	sindicat	NOUN	ncms000	Gender=Masc|Number=Sing	5	nsubj	5:nsubj	ClusterId=3LB-CAT-06010300-3-s3.sn.13|ClusterType=Spec.organization|MentionSpan=6-10
-8	Unió	Unió	PROPN	np0000o	_	7	appos	7:appos	MWE=Unió_de_Pagesos|MWEPOS=PROPN|ClusterId=3LB-CAT-06010300-3-s3.sn.18|ClusterType=Spec.organization|MentionSpan=8-10
+6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	7:det	Entity=(3LBCAT060103003s3.sn.13-organization-2-gstype:spec
+7	sindicat	sindicat	NOUN	ncms000	Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
+8	Unió	Unió	PROPN	np0000o	_	7	appos	7:appos	MWE=Unió_de_Pagesos|MWEPOS=PROPN|Entity=(3LBCAT060103003s3.sn.18-organization-1-gstype:spec
 9	de	de	ADP	_	_	10	case	10:case	_
-10	Pagesos	Pagesos	PROPN	_	_	8	flat	8:flat	SpaceAfter=No
+10	Pagesos	Pagesos	PROPN	_	_	8	flat	8:flat	SpaceAfter=No|Entity=3LBCAT060103003s3.sn.18)3LBCAT060103003s3.sn.13)
 11	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 
 ~~~
@@ -67,12 +67,12 @@ The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 6 3 iobj	color:blue
 1	"	"	PUNCT	fe	PunctType=Quot	6	punct	6:punct	SpaceAfter=No
 2	A	a	ADP	sps00	_	3	case	3:case	_
-3	Dutruel	Dutruel	PROPN	np0000p	_	6	iobj	6:iobj	ClusterId=CESS-CAT-AAP-20001202-139-c1|ClusterType=Spec.person|MentionSpan=3|MentionMisc=CorefType:ident
+3	Dutruel	Dutruel	PROPN	np0000p	_	6	iobj	6:iobj	Entity=(CESSCATAAP20001202139c1-person-1-CorefType:ident,gstype:spec)
 4	no	no	ADV	rn	Polarity=Neg	6	advmod	6:advmod	_
-5	el	ell	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	6:obj	ClusterId=CESS-CAT-AAP-20001202-139-c1|ClusterType=Spec.person|MentionSpan=5|MentionMisc=ClusterTypeMismatch:Spec:Spec.person,CorefType:ident
+5	el	ell	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	6:obj	Entity=(CESSCATAAP20001202139c1-person-1-CorefType:ident,gstype:spec)
 6	rebran	rebre	VERB	vmif3p0	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	0:root	_
 7	amb	amb	ADP	sps00	_	8	case	8:case	_
-8	aplaudiments	aplaudiment	NOUN	ncmp000	Gender=Masc|Number=Plur	6	obl	6:obl	SpaceAfter=No|ClusterId=CESS-CAT-AAP-20001202-139-s14.sn.22|ClusterType=Gen|MentionSpan=8
+8	aplaudiments	aplaudiment	NOUN	ncmp000	Gender=Masc|Number=Plur	6	obl	6:obl	SpaceAfter=No|Entity=(CESSCATAAP20001202139s14.sn.22--1-gstype:gen)
 9	.	.	PUNCT	fp	PunctType=Peri	6	punct	6:punct	_
 
 ~~~

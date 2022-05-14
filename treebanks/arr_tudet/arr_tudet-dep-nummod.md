@@ -24,11 +24,11 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3 6 nummod	color:blue
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
-3	kaʔa	_	NOUN	n	_	5	obj	_	_
-4	ʔa	_	ADJ	adj	Clas=Rd	3	clf	_	_
-5	kət	_	VERB	v	Decl=Assert	0	root	_	_
-6	cagáro	_	NUM	num	_	3	nummod	_	_
-7	kõmnem	_	X	x	_	5	dep	_	_
+3	kaʔa	kaʔa	NOUN	n	_	5	obj	_	_
+4	ʔa	ʔa	ADJ	adj	Clas=Rd	3	clf	_	_
+5	kət	kə	VERB	v	Decl=Assert	0	root	_	_
+6	cagáro	cagáro	NUM	num	_	3	nummod	_	_
+7	kõmnem	kõm	X	x	_	5	dep	_	_
 
 ~~~
 

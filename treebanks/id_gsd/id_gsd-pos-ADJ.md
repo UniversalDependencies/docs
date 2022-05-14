@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>salah</em> (<tt><a href="id_gsd-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.035543 (the average of all parts of speech is 1.119800).
+The form / lemma ratio of `ADJ` is 1.035543 (the average of all parts of speech is 1.120254).
 
 The 1st highest number of forms (3) was observed with the lemma “baru”: <em>Baru-baru, baru, terbaru</em>.
 

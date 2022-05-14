@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-10338 tokens (56%) have a non-empty value of `Polarity`.
-7046 types (93%) occur at least once with a non-empty value of `Polarity`.
-4767 lemmas (90%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 7 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (4482; 24% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2168; 12% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1752; 9% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (1091; 6% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (547; 3% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (283; 2% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (15; 0% instances).
+10324 tokens (55%) have a non-empty value of `Polarity`.
+7040 types (93%) occur at least once with a non-empty value of `Polarity`.
+4766 lemmas (90%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 7 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (4482; 24% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2154; 12% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1718; 9% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (1091; 6% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (581; 3% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (283; 2% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (15; 0% instances).
 
 ### `NOUN`
 
@@ -36,14 +36,14 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 
 ### `ADJ`
 
-2168 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Polarity`.
+2154 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1900; 88%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1900; 88%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1799; 83%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1387; 64%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1327; 61%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1785; 83%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1740; 81%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1740; 81%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1373; 64%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1321; 61%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (53; 2% of non-empty `Polarity`): <em>neuvěřitelný, nevhodné, nezávislé, Nedávným, Nedávnými, Nezávislého, nedobrovolnými, nedobytné, nedávná, nedávného</em>
-* `Pos` (2115; 98% of non-empty `Polarity`): <em>další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</em>
+* `Pos` (2101; 98% of non-empty `Polarity`): <em>další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</em>
 * `EMPTY` (116): <em>první, druhé, prvního, třetí, druhou, šedesátých, achaimenovské, druhý, dvacátého, padesátých</em>
 
 <table>
@@ -61,18 +61,18 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
   <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>poslední</em></td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `ADJ`. 98% lemmas (1102) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `ADJ`. 98% lemmas (1101) occur only with one value of `Polarity`.
 
 ### `VERB`
 
-1752 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
+1718 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1564; 89%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1459; 83%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1180; 67%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1180; 67%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (886; 51%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (885; 51%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (884; 50%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1531; 89%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1426; 83%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1171; 68%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1171; 68%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (878; 51%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (877; 51%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (94; 5% of non-empty `Polarity`): <em>nelze, nemá, Nevím, nebude, nechce, nemají, nemusí, neměl, neměla, neměli</em>
-* `Pos` (1658; 95% of non-empty `Polarity`): <em>řekl, má, je, může, říká, mohou, mají, mohl, měl, stal</em>
+* `Neg` (90; 5% of non-empty `Polarity`): <em>nelze, nemá, Nevím, nechce, nemají, nemusí, neměl, neměla, neměli, nemůžeme</em>
+* `Pos` (1628; 95% of non-empty `Polarity`): <em>řekl, má, může, říká, mohou, mají, mohl, měl, stal, lze</em>
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -88,7 +88,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
   <tr><td><tt><tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>mít</em></td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `VERB`. 94% lemmas (694) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `VERB`. 95% lemmas (694) occur only with one value of `Polarity`.
 
 ### `PROPN`
 
@@ -104,14 +104,14 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 
 ### `AUX`
 
-547 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `Polarity`.
+581 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (530; 97%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (367; 67%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (295; 54%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (278; 51%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (278; 51%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (563; 97%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (393; 68%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (321; 55%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (303; 52%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (303; 52%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (42; 8% of non-empty `Polarity`): <em>není, nebyly, nebude, nebyla, nebyl, nebudou, nebylo, nejsou, Nejsme, byl</em>
-* `Pos` (505; 92% of non-empty `Polarity`): <em>je, byl, bylo, byla, jsou, byly, bude, jsem, být, byli</em>
+* `Neg` (46; 8% of non-empty `Polarity`): <em>není, nebude, nebyly, nebyla, nebyl, nebudou, nebylo, nejsou, Nejsme, byl</em>
+* `Pos` (535; 92% of non-empty `Polarity`): <em>je, byl, bylo, byla, jsou, byly, bude, být, jsem, byli</em>
 * `EMPTY` (103): <em>by, bych, bychom, byste</em>
 
 <table>
@@ -126,7 +126,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budu</em></td><td><em>nebudu</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jsem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>bude</em></td><td><em>nebude</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>je</em></td><td><em>není</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>je, nese</em></td><td><em>není</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budeme</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jsme</em></td><td><em>Nejsme</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jste</em></td><td></td></tr>
@@ -164,19 +164,19 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Pos` (15; 100% of non-empty `Polarity`): <em>více, víc, méně, tohoto</em>
-* `EMPTY` (812): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
+* `EMPTY` (829): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>NOUN --[<tt><a href="cs_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1589; 92%),
+<tt>NOUN --[<tt><a href="cs_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1579; 92%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1105; 100%),
-<tt>VERB --[<tt><a href="cs_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (616; 96%),
-<tt>VERB --[<tt><a href="cs_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (547; 94%),
-<tt>VERB --[<tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (512; 94%),
+<tt>VERB --[<tt><a href="cs_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (608; 96%),
+<tt>VERB --[<tt><a href="cs_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (545; 94%),
+<tt>VERB --[<tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (494; 94%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (305; 100%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (258; 100%),
-<tt>VERB --[<tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (216; 97%),
+<tt>VERB --[<tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (211; 97%),
 <tt>PROPN --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (166; 100%),
-<tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (166; 91%).
+<tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (164; 91%).
 

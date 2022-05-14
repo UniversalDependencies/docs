@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>расположен</em>
-* `EMPTY` (12271): <em>второй, 2008, 2010, других, 2004, первый, 2012, 1, 2006, 2011</em>
+* `EMPTY` (12272): <em>второй, 2008, 2010, других, 2004, первый, 2012, 1, 2006, 2011</em>
 
 ## Relations with Agreement in `VerbForm`
 

@@ -12,14 +12,14 @@ Some words have combined values of the feature; 2 combinations have been observe
 
 25191 tokens (15%) have a non-empty value of `PronType`.
 656 types (2%) occur at least once with a non-empty value of `PronType`.
-139 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (14105; 8% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8417; 5% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (2669; 2% instances).
+138 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (14087; 8% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8435; 5% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (2669; 2% instances).
 
 ### `PRON`
 
-14105 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+14087 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10979; 78%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10496; 74%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (8362; 59%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8148; 58%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7994; 57%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7913; 56%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7469; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10966; 78%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10496; 75%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (8362; 59%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8130; 58%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7976; 57%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7913; 56%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7466; 53%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -28,20 +28,20 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Neg` (414; 3% of non-empty `PronType`): <em>nic, nikdo, nikoho, nikomu, ničeho, ničemu, nikým, ničím, ničem</em>
 * `Prs` (12068; 86% of non-empty `PronType`): <em>se, si, mi, mě, ho, já, mu, ji, je, jí</em>
 * `Rel` (165; 1% of non-empty `PronType`): <em>což, níž, jež, nichž, němž, jenž, nímž, nimiž, něhož, jehož</em>
-* `Tot` (62; 0% of non-empty `PronType`): <em>všecko, samé, veškeré, samá, veškerá, samého, samých, samým, veškeru, veškerý</em>
+* `Tot` (44; 0% of non-empty `PronType`): <em>všecko, veškeré, veškerá, veškeru, veškerý, všecky, samy, veškerou, všecku</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (32) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (31) occur only with one value of `PronType`.
 
 ### `DET`
 
-8417 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+8435 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7021; 83%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7021; 83%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6640; 79%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6273; 75%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5729; 68%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7039; 83%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7039; 83%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6651; 79%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6291; 75%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5742; 68%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Dem` (3688; 44% of non-empty `PronType`): <em>to, ten, tom, toho, tím, té, ta, tu, tomu, tohle</em>
-* `Emp` (217; 3% of non-empty `PronType`): <em>sám, sama, sami, samo, samy, samu</em>
+* `Emp` (235; 3% of non-empty `PronType`): <em>sám, sama, sami, samo, samy, samé, samá, samého, samu, samých</em>
 * `Ind` (476; 6% of non-empty `PronType`): <em>několik, nějaký, nějaké, nějakou, několika, mnoho, hodně, moc, víc, málo</em>
 * `Int,Rel` (1117; 13% of non-empty `PronType`): <em>který, které, která, kterou, kteří, kolik, jaké, kterého, kterým, jakou</em>
 * `Neg` (98; 1% of non-empty `PronType`): <em>žádný, žádné, žádnou, žádná, žádném, žádného, žádnej, nijaké, pražádný, žádnému</em>

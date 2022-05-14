@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  ⲛ (<tt><a href="cop_scriptorium-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.124000).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.124045).
 
 The 1st highest number of forms (3) was observed with the lemma “ϩⲱⲱ”: ϩⲱ, ϩⲱⲧ, ϩⲱⲱ.
 
@@ -82,7 +82,7 @@ Examples: ⲉⲃⲟⲗ, ⲉϩⲟⲩⲛ, ⲟⲛ, ⲉϩⲣⲁⲓ, ⲙⲙⲁⲩ, ϩ
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 14 different relations: <tt><a href="cop_scriptorium-dep-advmod.html">advmod</a></tt> (1740; 83% instances), <tt><a href="cop_scriptorium-dep-case.html">case</a></tt> (222; 11% instances), <tt><a href="cop_scriptorium-dep-acl.html">acl</a></tt> (73; 3% instances), <tt><a href="cop_scriptorium-dep-mark.html">mark</a></tt> (30; 1% instances), <tt><a href="cop_scriptorium-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-obl-npmod.html">obl:npmod</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 14 different relations: <tt><a href="cop_scriptorium-dep-advmod.html">advmod</a></tt> (1740; 83% instances), <tt><a href="cop_scriptorium-dep-case.html">case</a></tt> (222; 11% instances), <tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt> (73; 3% instances), <tt><a href="cop_scriptorium-dep-mark.html">mark</a></tt> (30; 1% instances), <tt><a href="cop_scriptorium-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-obl-npmod.html">obl:npmod</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
 Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1411; 67% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (466; 22% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (91; 4% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (84; 4% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (22; 1% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (5; 0% instances),  (3; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

@@ -7,24 +7,32 @@ udver: '2'
 ## Treebank Statistics: UD_Akuntsu-TuDeT: Features: `PronType`
 
 This feature is universal but the values `Emp` are language-specific.
-It occurs with 2 different values: `Emp`, `Prs`.
+It occurs with 3 different values: `Emp`, `Ind`, `Prs`.
 
-30 tokens (7%) have a non-empty value of `PronType`.
-7 types (3%) occur at least once with a non-empty value of `PronType`.
-6 lemmas (4%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (30; 7% instances).
+57 tokens (5%) have a non-empty value of `PronType`.
+10 types (2%) occur at least once with a non-empty value of `PronType`.
+8 lemmas (3%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (57; 5% instances).
 
 ### `PRON`
 
-30 <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `PronType`.
+57 <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="aqz_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 87%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="aqz_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (52; 91%), <tt><a href="aqz_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (43; 75%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Emp` (5; 17% of non-empty `PronType`): <em>erẽ, orẽ</em>
-* `Prs` (25; 83% of non-empty `PronType`): <em>en, on, kitʃe, te, enõ</em>
-* `EMPTY` (2): <em>en, tebõ</em>
+* `Emp` (6; 11% of non-empty `PronType`): <em>erẽ, orẽ</em>
+* `Ind` (7; 12% of non-empty `PronType`): <em>no</em>
+* `Prs` (44; 77% of non-empty `PronType`): <em>en, on, kitʃe, erẽbõ, orẽbõ, te, enõ</em>
+* `EMPTY` (18): <em>tara, arop, i, aroperi, ebõ, en, tebõ, ẽromri</em>
+
+<table>
+  <tr><th>Paradigm <i>erẽ</i></th><th><tt>Prs</tt></th><th><tt>Emp</tt></th></tr>
+  <tr><td><tt><tt><a href="aqz_tudet-feat-Case.html">Case</a></tt><tt>=All</tt>|<tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>erẽbõ</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>erẽ</em></td></tr>
+  <tr><td><tt><tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>erẽ</em></td></tr>
+</table>
 
 ## Relations with Agreement in `PronType`
 

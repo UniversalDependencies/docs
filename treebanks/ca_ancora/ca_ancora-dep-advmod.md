@@ -46,14 +46,14 @@ The following 67 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 advmod	color:blue
-1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
-2	projecte	projecte	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	4:nsubj	ClusterId=CESS-CAT-A-20010315-27617-c109|ClusterType=Gen|MentionSpan=1-2|MentionMisc=CorefType:ident
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Entity=(CESSCATA2001031527617c109--2-CorefType:ident,gstype:gen
+2	projecte	projecte	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	4:nsubj	Entity=CESSCATA2001031527617c109)
 3	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	rebre	rebre	VERB	vmn0000	VerbForm=Inf	0	root	0:root	_
-5	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	6	det	6:det	_
-6	acollida	acollida	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	4:obj	ClusterId=CESS-CAT-A-20010315-27617-s84.sn.10|ClusterType=Gen|MentionSpan=5-8
+5	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	6	det	6:det	Entity=(CESSCATA2001031527617s84.sn.10--2-gstype:gen
+6	acollida	acollida	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	4:obj	_
 7	francament	francament	ADV	rg	_	8	advmod	8:advmod	_
-8	entusiasta	entusiasta	ADJ	aq0cs0	Number=Sing	6	amod	6:amod	SpaceAfter=No
+8	entusiasta	entusiasta	ADJ	aq0cs0	Number=Sing	6	amod	6:amod	SpaceAfter=No|Entity=CESSCATA2001031527617s84.sn.10)
 9	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
@@ -66,18 +66,18 @@ The following 67 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 9	fgColor:white
 # visual-style 9 10 advmod	color:blue
 1	Conté	contenir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-2	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
-3	relació	relació	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obj	1:obj	ClusterId=CESS-CAT-A-20000202-73-s7.sn.5|ClusterType=Gen|MentionSpan=2-13|MentionMisc=HomoDD
+2	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	Entity=(CESSCATA2000020273s7.sn.5--2-gstype:gen,HomoDD
+3	relació	relació	NOUN	ncfs000	Gender=Fem|Number=Sing	1	obj	1:obj	_
 4	de	de	ADP	sps00	_	9	case	9:case	_
-5	28	28	NUM	_	NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
+5	28	28	NUM	_	NumForm=Digit|NumType=Card	9	nummod	9:nummod	Entity=(CESSCATA2000020273c8--5-gstype:gen
 6	"	"	PUNCT	fe	PunctType=Quot	7	punct	7:punct	SpaceAfter=No
 7	probables	probable	ADJ	aq0cp0	Number=Plur	9	amod	9:amod	SpaceAfter=No
 8	"	"	PUNCT	fe	PunctType=Quot	7	punct	7:punct	_
-9	víctimes	víctima	NOUN	ncfp000	Gender=Fem|Number=Plur	3	nmod	3:nmod	ClusterId=CESS-CAT-A-20000202-73-c8|ClusterType=Gen|MentionSpan=5-13
+9	víctimes	víctima	NOUN	ncfp000	Gender=Fem|Number=Plur	3	nmod	3:nmod	_
 10	més	més	ADV	rg	Degree=Cmp	9	advmod	9:advmod	_
 11	de	de	ADP	spcms	_	13	case	13:case	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	_
-13	metge	metge	NOUN	ncms000	Gender=Masc|Number=Sing	9	nmod	9:nmod	SpaceAfter=No|ClusterId=CESS-CAT-A-20000202-73-c2|ClusterType=Spec.person|MentionSpan=13|MentionMisc=ClusterTypeMismatch:Spec:Spec.person,CorefType:ident
+13	metge	metge	NOUN	ncms000	Gender=Masc|Number=Sing	9	nmod	9:nmod	SpaceAfter=No|Entity=(CESSCATA2000020273c2-person-1-CorefType:ident,gstype:spec)CESSCATA2000020273c8)CESSCATA2000020273s7.sn.5)
 14	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~

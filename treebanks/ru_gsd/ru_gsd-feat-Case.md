@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 8 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Par`, `Voc`.
 
-52549 tokens (54%) have a non-empty value of `Case`.
+52548 tokens (54%) have a non-empty value of `Case`.
 26183 types (87%) occur at least once with a non-empty value of `Case`.
-15806 lemmas (84%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26755; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12024; 12% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2042; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (2027; 2% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1918; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1194; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+15807 lemmas (84%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26755; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12025; 12% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2042; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (2025; 2% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1918; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1194; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-12024 <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Case`.
+12025 <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ru_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (11950; 99%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9384; 78%).
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Gen` (4458; 37% of non-empty `Case`): <em>российской, других, 12, 2010, 2012, второй, 2011, 2009, различных, 1</em>
 * `Ins` (975; 8% of non-empty `Case`): <em>первым, самым, другими, основным, главным, самой, вторым, другим, составной, Федеральным</em>
 * `Loc` (1728; 14% of non-empty `Case`): <em>2008, 2007, центральной, 1999, 2002, 2003, 2004, других, первой, 1972</em>
-* `Nom` (2976; 25% of non-empty `Case`): <em>первый, многие, сам, известный, речной, Почтовый, большая, II, телефонный, первая</em>
+* `Nom` (2977; 25% of non-empty `Case`): <em>первый, многие, сам, известный, речной, Почтовый, большая, II, телефонный, первая</em>
 * `EMPTY` (248): <em>должна, должны, известно, должен, известен, старше, возможно, должно, необходимо, нужно</em>
 
 <table>
@@ -117,18 +117,18 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `NUM`
 
-2027 <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> tokens (96% of all `NUM` tokens) have a non-empty value of `Case`.
+2025 <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> tokens (96% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ru_gsd-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2004; 99%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1699; 84%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1420; 70%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ru_gsd-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2002; 99%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1697; 84%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1418; 70%).
 
 `NUM` tokens may have the following values of `Case`:
 
 * `Acc` (469; 23% of non-empty `Case`): <em>два, несколько, три, четыре, 2, 10, один, одну, 4, две</em>
 * `Dat` (39; 2% of non-empty `Case`): <em>двум, одному, одной, нескольким, обеим, четырём, $32, 0, 1,18, 10</em>
-* `Gen` (418; 21% of non-empty `Case`): <em>двух, одного, трёх, тыс., многих, нескольких, 20, пяти, 10, 18</em>
+* `Gen` (417; 21% of non-empty `Case`): <em>двух, одного, трёх, тыс., многих, нескольких, 20, пяти, 10, 18</em>
 * `Ins` (83; 4% of non-empty `Case`): <em>одним, двумя, одной, несколькими, четырьмя, тремя, пятью, 1, 100, 11</em>
 * `Loc` (111; 5% of non-empty `Case`): <em>одной, двух, одном, 3, 50, трёх, 12, 2, 5, нескольких</em>
-* `Nom` (907; 45% of non-empty `Case`): <em>один, 1, 2, два, несколько, 4, одна, три, две, 3</em>
+* `Nom` (906; 45% of non-empty `Case`): <em>один, 1, 2, два, несколько, 4, одна, три, две, 3</em>
 * `EMPTY` (78): <em>2, 1, 6, 10, 1000, 13, 151-1, 20, 7, 76</em>
 
 <table>
@@ -216,12 +216,12 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `SYM` tokens may have the following values of `Case`:
 
 * `Nom` (1; 100% of non-empty `Case`): <em>$</em>
-* `EMPTY` (176): <em>%, /, +, *, °, =, \, ×, ^, $</em>
+* `EMPTY` (173): <em>%, /, +, *, °, =, \, ×, ^, $</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9686; 99%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9688; 99%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1922; 95%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (954; 98%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-det.html">det</a></tt>]--> DET</tt> (916; 71%),

@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (213; 99% of non-empty `NumType`): <em>5., 1., 7., 10., 4., 3., 9., átta, 16., 2.</em>
 * `Frac` (2; 1% of non-empty `NumType`): <em>almáttkan, vǫn</em>
-* `EMPTY` (36940): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36949): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (82) occur only with one value of `NumType`.
 
@@ -83,7 +83,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 * `Card` (78; 85% of non-empty `NumType`): <em>hundruð, hundrað, móti, þúsund, brautu, hndr, sex, vj, ד, Bræður</em>
 * `Frac` (2; 2% of non-empty `NumType`): <em>ui, xx</em>
 * `Ord` (12; 13% of non-empty `NumType`): <em>hundruð, þúsund</em>
-* `EMPTY` (145859): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145855): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>hundrað</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -108,7 +108,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `ADV` tokens may have the following values of `NumType`:
 
 * `Card` (87; 100% of non-empty `NumType`): <em>einn, tveir, einum, eitt, þrír, tvö, átta, ein, eins, einu</em>
-* `EMPTY` (78938): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
+* `EMPTY` (78936): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `NumType`.
 
@@ -139,7 +139,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 
 * `Card` (9; 90% of non-empty `NumType`): <em>1, 4., I, 3., Jesaja, Tyrkjaskipið</em>
 * `Ord` (1; 10% of non-empty `NumType`): <em>Tvö</em>
-* `EMPTY` (41397): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41394): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 ### `VERB`
 

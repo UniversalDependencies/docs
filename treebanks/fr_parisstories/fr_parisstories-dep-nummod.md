@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	_
 23	mes	son	DET	_	Number[psor]=Plur|Person[psor]=1|PronType=Prs	24	det	_	_
 24	marques	marque	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	_
-25	etcétéra	etcétéra	ADV	_	_	24	discourse	_	SpaceAfter=No
+25	etc	etc	ADV	_	_	24	conj	_	SpaceAfter=No|wordform=etcétéra
 26	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~

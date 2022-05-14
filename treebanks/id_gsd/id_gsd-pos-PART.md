@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>tidak</em> (<tt><a href="id_gsd-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.133333 (the average of all parts of speech is 1.119800).
+The form / lemma ratio of `PART` is 1.133333 (the average of all parts of speech is 1.120254).
 
 The 1st highest number of forms (2) was observed with the lemma “bukan”: <em>bukan, kan</em>.
 

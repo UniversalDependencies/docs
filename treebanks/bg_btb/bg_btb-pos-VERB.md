@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>иска</em> (<tt><a href="bg_btb-po
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.357580 (the average of all parts of speech is 1.727371).
+The form / lemma ratio of `VERB` is 2.357580 (the average of all parts of speech is 1.727418).
 
 The 1st highest number of forms (21) was observed with the lemma “мога”: <em>Можехме, мога, могат, могла, могли, могло, могъл, можа, можах, можаха, може, можел, можела, можели, можело, можем, можете, можех, можеха, можеш, можеше</em>.
 

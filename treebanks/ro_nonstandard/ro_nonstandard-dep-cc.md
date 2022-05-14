@@ -23,18 +23,18 @@ The following 24 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 cc	color:blue
-1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	ref=MATT17.16
-2	aduș	aduce	VERB	Vmis1s	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT17.16
-3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.16
-4	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	nmod:tmod	_	ref=MATT17.16
-5	ucenicilor	ucenic	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	2	obl:pmod	_	ref=MATT17.16
-6	Tăi	tău	DET	Ds2mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	ref=MATT17.16
-7	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.16
-8	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	ref=MATT17.16|SpaceAfter=No
-9	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	obj	_	ref=MATT17.16
-10	putură	putea	AUX	Vais3p	Mood=Ind|Number=Plur|Person=3|Tense=Past	11	aux	_	ref=MATT17.16
-11	vindeca	vindeca	VERB	Vmn	VerbForm=Inf	2	conj	_	ref=MATT17.16|SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT17.16
+1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	Ref=MATT17.16
+2	aduș	aduce	VERB	Vmis1s	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Ref=MATT17.16
+3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT17.16
+4	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	nmod:tmod	_	Ref=MATT17.16
+5	ucenicilor	ucenic	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	2	obl:pmod	_	Ref=MATT17.16
+6	Tăi	tău	DET	Ds2mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	Ref=MATT17.16
+7	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=MATT17.16
+8	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	Ref=MATT17.16|SpaceAfter=No
+9	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	obj	_	Ref=MATT17.16
+10	putură	putea	AUX	Vais3p	Mood=Ind|Number=Plur|Person=3|Tense=Past	11	aux	_	Ref=MATT17.16
+11	vindeca	vindeca	VERB	Vmn	VerbForm=Inf	2	conj	_	Ref=MATT17.16|SpaceAfter=No
+12	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT17.16
 
 ~~~
 
@@ -45,21 +45,21 @@ The following 24 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 8 cc	color:blue
-1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	ref=MATT17.15
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.15
-3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	ref=MATT17.15
-4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	ref=MATT17.15
-5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT17.15
-6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT17.15
-7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MATT17.15
-8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.15
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT17.15
-10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	ref=MATT17.15
-11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	ref=MATT17.15|SpaceAfter=No
-12	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT17.15
-13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT17.15
-14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	ref=MATT17.15|SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT17.15
+1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	Ref=MATT17.15
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT17.15
+3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	Ref=MATT17.15
+4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	Ref=MATT17.15
+5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=MATT17.15
+6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT17.15
+7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	Ref=MATT17.15
+8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=MATT17.15
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	Ref=MATT17.15
+10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	Ref=MATT17.15
+11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	Ref=MATT17.15|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	11	punct	_	Ref=MATT17.15
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	Ref=MATT17.15
+14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	Ref=MATT17.15|SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	5	punct	_	Ref=MATT17.15
 
 ~~~
 
@@ -70,17 +70,17 @@ The following 24 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 cc	color:blue
-1	Era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=MATT27.61
-2	acolea	acolo	ADV	Rg	_	1	advmod	_	ref=MATT27.61
-3	Maria	Maria	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	ref=MATT27.61
-4	Magdalina	Magdalena	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	ref=MATT27.61
-5	și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT27.61
-6	altă	altul	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	7	det	_	ref=MATT27.61
-7	Marie	Marie	PROPN	Npfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	conj	_	ref=MATT27.61
-8	șăzînd	ședea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	1	advcl	_	ref=MATT27.61
-9	derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT27.61
-10	mormînt	mormânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	ref=MATT27.61|SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT27.61
+1	Era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Ref=MATT27.61
+2	acolea	acolo	ADV	Rg	_	1	advmod	_	Ref=MATT27.61
+3	Maria	Maria	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	Ref=MATT27.61
+4	Magdalina	Magdalena	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	Ref=MATT27.61
+5	și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	Ref=MATT27.61
+6	altă	altul	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	7	det	_	Ref=MATT27.61
+7	Marie	Marie	PROPN	Npfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	conj	_	Ref=MATT27.61
+8	șăzînd	ședea	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	1	advcl	_	Ref=MATT27.61
+9	derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	Ref=MATT27.61
+10	mormînt	mormânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	Ref=MATT27.61|SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT27.61
 
 ~~~
 

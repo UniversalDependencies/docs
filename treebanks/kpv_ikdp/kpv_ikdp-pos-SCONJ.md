@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>мый</em> (<tt><a href="kpv_ikdp-po
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.083333 (the average of all parts of speech is 1.332903).
+The form / lemma ratio of `SCONJ` is 1.083333 (the average of all parts of speech is 1.332474).
 
 The 1st highest number of forms (2) was observed with the lemma “мыйла”: <em>мыйла, мыля</em>.
 
@@ -52,7 +52,7 @@ The 3rd highest number of forms (1) was observed with the lemma “да”: <em>
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="kpv_ikdp-dep-mark.html">mark</a></tt> (17; 63% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (3; 11% instances), <tt><a href="kpv_ikdp-dep-parataxis.html">parataxis</a></tt> (3; 11% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (2; 7% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (1; 4% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (1; 4% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="kpv_ikdp-dep-mark.html">mark</a></tt> (17; 63% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (3; 11% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (3; 11% instances), <tt><a href="kpv_ikdp-dep-parataxis.html">parataxis</a></tt> (3; 11% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (1; 4% instances)
 
 Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (13; 48% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (6; 22% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (3; 11% instances), <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> (3; 11% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (1; 4% instances)
 
@@ -64,7 +64,7 @@ Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="kpv
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="kpv_ikdp-dep-punct.html">punct</a></tt> (9; 56% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (6; 38% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (1; 6% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="kpv_ikdp-dep-punct.html">punct</a></tt> (9; 56% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (7; 44% instances)
 
 Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (9; 56% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (3; 19% instances), <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> (3; 19% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (1; 6% instances)
 

@@ -9,21 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-367 tokens (2%) have a non-empty value of `NumType`.
-219 types (3%) occur at least once with a non-empty value of `NumType`.
-216 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (352; 2% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (15; 0% instances).
+368 tokens (2%) have a non-empty value of `NumType`.
+220 types (3%) occur at least once with a non-empty value of `NumType`.
+217 lemmas (4%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (353; 2% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (15; 0% instances).
 
 ### `NUM`
 
-352 <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+353 <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (352; 100% of non-empty `NumType`): <em>zwei, drei, vier, 3, sechs, zehn, 1, 10, 50, 100</em>
-* `EMPTY` (1): <em>hunderte</em>
+* `Card` (353; 100% of non-empty `NumType`): <em>zwei, drei, vier, 3, sechs, zehn, 1, 10, 50, 100</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (206) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (207) occur only with one value of `NumType`.
 
 ### `ADJ`
 

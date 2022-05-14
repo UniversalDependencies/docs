@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-6378 tokens (17%) have a non-empty value of `Degree`.
-1498 types (32%) occur at least once with a non-empty value of `Degree`.
-664 lemmas (24%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6075; 17% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (285; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (18; 0% instances).
+6360 tokens (17%) have a non-empty value of `Degree`.
+1491 types (32%) occur at least once with a non-empty value of `Degree`.
+663 lemmas (24%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6075; 17% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (285; 1% instances).
 
 ### `ADJ`
 
@@ -62,17 +62,6 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 </table>
 
 `Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (80) occur only with one value of `Degree`.
-
-### `DET`
-
-18 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (18; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (11; 61%).
-
-`DET` tokens may have the following values of `Degree`:
-
-* `Pos` (18; 100% of non-empty `Degree`): <em>každou, každé, každého, každý, Každá</em>
-* `EMPTY` (1143): <em>které, jejich, která, jeho, této, tohoto, který, těchto, tyto, tato</em>
 
 ## Relations with Agreement in `Degree`
 

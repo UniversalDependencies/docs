@@ -34,9 +34,9 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	maʔwit	_	NOUN	n	_	4	nsubj	_	_
-2	tah	_	PART	part	_	1	case	_	_
-3	mõm	_	ADV	adv	_	1	advmod	_	_
+1	maʔwit	maʔwit	NOUN	n	_	4	nsubj	_	_
+2	tah	tap	PART	part	_	1	case	_	_
+3	mõm	mõm	ADV	adv	_	1	advmod	_	_
 4	wɨy	wɨy	VERB	v	Decl=Assert	0	root	_	_
 
 ~~~
@@ -48,9 +48,9 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 case	color:blue
-1	owagon	_	PRON	pron	Number=Sing|Person=1	2	nsubj	_	_
-2	oyakay	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-3	tokõna	_	ADP	adp	Corf=Yes|Person=3|PronType=Emp	2	case	_	_
+1	owagon	pagon	PRON	pron	Number=Sing|Person=1	2	nsubj	_	_
+2	oyakay	yakap	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+3	tokõna	kõna	ADP	adp	Corf=Yes|Person=3|PronType=Emp	2	case	_	_
 
 ~~~
 

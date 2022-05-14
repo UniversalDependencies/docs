@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_English-LinES](https://github.com/UniversalDependencies/UD_English-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -605,15 +605,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Nom (1)</li>
       <li>VERB--PRON (46)</li>
       <li>VERB--PRON-Nom (49)</li>
-      <li>VERB-Fin--NOUN (1063)</li>
+      <li>VERB-Fin--NOUN (1072)</li>
       <li>VERB-Fin--NOUN-ADP(of) (1)</li>
       <li>VERB-Fin--NOUN-Nom (39)</li>
-      <li>VERB-Fin--PRON (840)</li>
+      <li>VERB-Fin--PRON (839)</li>
       <li>VERB-Fin--PRON-Nom (1794)</li>
       <li>VERB-Fin--PRON-Nom-ADP(as) (1)</li>
-      <li>VERB-Inf--NOUN (194)</li>
+      <li>VERB-Inf--NOUN (193)</li>
       <li>VERB-Inf--NOUN-Nom (6)</li>
-      <li>VERB-Inf--PRON (342)</li>
+      <li>VERB-Inf--PRON (343)</li>
       <li>VERB-Inf--PRON-ADP(for) (1)</li>
       <li>VERB-Inf--PRON-Acc (10)</li>
       <li>VERB-Inf--PRON-Nom (514)</li>
@@ -635,7 +635,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-ADP(into) (1)</li>
       <li>VERB--PRON-Acc (22)</li>
       <li>VERB--PRON-Nom (3)</li>
-      <li>VERB-Fin--NOUN (1252)</li>
+      <li>VERB-Fin--NOUN (1255)</li>
       <li>VERB-Fin--NOUN-ADP(for) (1)</li>
       <li>VERB-Fin--NOUN-ADP(in) (1)</li>
       <li>VERB-Fin--NOUN-ADP(on) (1)</li>
@@ -648,13 +648,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (232)</li>
       <li>VERB-Fin--PRON-Acc-ADP(with) (1)</li>
       <li>VERB-Fin--PRON-Nom (14)</li>
-      <li>VERB-Inf--NOUN (861)</li>
+      <li>VERB-Inf--NOUN (862)</li>
       <li>VERB-Inf--NOUN-Nom (16)</li>
       <li>VERB-Inf--PRON (221)</li>
       <li>VERB-Inf--PRON-ADP(as) (1)</li>
       <li>VERB-Inf--PRON-Acc (142)</li>
       <li>VERB-Inf--PRON-Nom (11)</li>
-      <li>VERB-Part--NOUN (669)</li>
+      <li>VERB-Part--NOUN (670)</li>
       <li>VERB-Part--NOUN-ADP(through) (1)</li>
       <li>VERB-Part--NOUN-ADP(to) (1)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>

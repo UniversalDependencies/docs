@@ -42,7 +42,7 @@ The following 1 pairs of parts of speech are connected with `nummod:entity`: <tt
 17	достижение	достижение	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	parataxis	_	SpaceAfter=No
 18	»	»	PUNCT	'	_	3	punct	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	21	punct	_	_
-20	—	—	PUNCT	-	_	21	punct	_	OrigForm=--
+20	—	—	PUNCT	-	_	21	punct	_	_
 21	сказал	сказать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 22	американец	американец	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	3	punct	_	_

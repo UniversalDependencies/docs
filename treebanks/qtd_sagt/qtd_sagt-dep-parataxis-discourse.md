@@ -28,7 +28,7 @@ The following 29 pairs of parts of speech are connected with `parataxis:discours
 3	echt	echt	ADV	_	_	2	advmod	_	CSID=DE|Lang=de
 4	voll	voll	ADJ	_	_	5	advmod	_	CSID=DE|Lang=de
 5	oft	oft	ADV	_	_	2	advmod	_	CSID=DE|Lang=de
-6	solche	solch	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur|PronType=Ind	7	det	_	CSID=DE|Lang=de
+6	solche	solch	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	7	det	_	CSID=DE|Lang=de
 7	Sachen	Sache	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	CSID=DE|Lang=de
 8	fark	fark	NOUN	_	Case=Nom|Number=Sing	9	compound:lvc	_	CSID=TR|Lang=tr
 9	ettin	et	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=2|Tense=Past	2	parataxis:discourse	_	CSID=TR|Lang=tr
@@ -44,7 +44,7 @@ The following 29 pairs of parts of speech are connected with `parataxis:discours
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 parataxis:discourse	color:blue
-1	Man	man	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	2	nsubj	_	CSID=DE|Lang=de
+1	Man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	2	nsubj	_	CSID=DE|Lang=de
 2	muss	müssen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	_	CSID=DE|Lang=de
 3	allgemein	allgemein	ADJ	_	_	6	advmod	_	CSID=DE|Lang=de
 4	şey	şey	NOUN	_	Case=Nom|Number=Sing	5	xcomp	_	CSID=TR|Lang=tr

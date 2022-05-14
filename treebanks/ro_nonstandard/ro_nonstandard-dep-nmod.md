@@ -23,9 +23,9 @@ The following 66 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 nmod	color:blue
-1	Luarea	luare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	ref=MATT18.5.content
-2	porobocului	poroboc	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	ref=MATT18.5.content|SpaceAfter=No
-3	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT18.5.content
+1	Luarea	luare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	Ref=MATT18.5.content
+2	porobocului	poroboc	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	Ref=MATT18.5.content|SpaceAfter=No
+3	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT18.5.content
 
 ~~~
 
@@ -36,13 +36,13 @@ The following 66 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 nmod	color:blue
-1	Mai	mai	ADV	Rg	_	2	advmod	_	ref=MATT18.1.content
-2	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	0	root	_	ref=MATT18.1.content
-3	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT18.1.content
-4	Împărățiia	împărăție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	ref=MATT18.1.content
-5	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	ref=MATT18.1.content
-6	Dumnezeu	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	ref=MATT18.1.content|SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT18.1.content
+1	Mai	mai	ADV	Rg	_	2	advmod	_	Ref=MATT18.1.content
+2	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	0	root	_	Ref=MATT18.1.content
+3	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT18.1.content
+4	Împărățiia	împărăție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	Ref=MATT18.1.content
+5	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	Ref=MATT18.1.content
+6	Dumnezeu	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	Ref=MATT18.1.content|SpaceAfter=No
+7	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT18.1.content
 
 ~~~
 
@@ -53,18 +53,18 @@ The following 66 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 nmod	color:blue
-1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc:preconj	_	ref=MATT18.2
-2	chemă	chema	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT18.2
-3	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT18.2
-4	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	ref=MATT18.2
-5	poroboc	poroboc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	ref=MATT18.2
-6	și	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT18.2|SpaceAfter=No
-7	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	8	obj	_	ref=MATT18.2
-8	puse	pune	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	ref=MATT18.2
-9	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT18.2
-10	mijlocul	mijloc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	ref=MATT18.2
-11	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	10	nmod	_	ref=MATT18.2|SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT18.2
+1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc:preconj	_	Ref=MATT18.2
+2	chemă	chema	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=MATT18.2
+3	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	Ref=MATT18.2
+4	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	Ref=MATT18.2
+5	poroboc	poroboc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	Ref=MATT18.2
+6	și	și	CCONJ	Ccssp	Polarity=Pos	8	cc	_	Ref=MATT18.2|SpaceAfter=No
+7	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	8	obj	_	Ref=MATT18.2
+8	puse	pune	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=MATT18.2
+9	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	Ref=MATT18.2
+10	mijlocul	mijloc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	Ref=MATT18.2
+11	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	10	nmod	_	Ref=MATT18.2|SpaceAfter=No
+12	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT18.2
 
 ~~~
 

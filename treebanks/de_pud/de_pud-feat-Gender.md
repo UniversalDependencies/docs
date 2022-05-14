@@ -21,7 +21,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.htm
 
 4133 <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (4133; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2946; 71%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (4131; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2946; 71%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 2784 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2780; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2262; 81%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2195; 79%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2778; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2262; 81%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2195; 79%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 1176 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (84% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1161; 99%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1112; 95%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (811; 69%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1160; 99%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1112; 95%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (811; 69%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -145,7 +145,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 1 <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Gender`:
 

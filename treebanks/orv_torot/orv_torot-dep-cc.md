@@ -57,16 +57,16 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 cc	color:blue
-1	на	на	ADP	R-	_	4	case	_	ref=20
-2	великыи	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	ref=20
-3	же	же	ADV	Df	_	10	discourse	_	ref=20
-4	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	ref=20
-5	волосыны	волосыни	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	ref=20
-6	да	да	CCONJ	C-	_	5	cc	_	ref=20
-7	кола	кола	PROPN	Ne	Case=Nom|Gender=Neut|Number=Plur	5	conj	_	ref=20
-8	в	въ	ADP	R-	_	9	case	_	ref=20
-9	зорю	зоря	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	ref=20
-10	вошьли	вънити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=20
+1	на	на	ADP	R-	_	4	case	_	Ref=20
+2	великыи	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	Ref=20
+3	же	же	ADV	Df	_	10	discourse	_	Ref=20
+4	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	Ref=20
+5	волосыны	волосыни	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	Ref=20
+6	да	да	CCONJ	C-	_	5	cc	_	Ref=20
+7	кола	кола	PROPN	Ne	Case=Nom|Gender=Neut|Number=Plur	5	conj	_	Ref=20
+8	в	въ	ADP	R-	_	9	case	_	Ref=20
+9	зорю	зоря	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	Ref=20
+10	вошьли	вънити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	Ref=20
 
 ~~~
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Features: `Derivation`
 
 This feature is language-specific.
-It occurs with 9 different values: `Al`, `Ig`, `Igdyrji`, `Igmoz`, `Ko`, `La`, `NomAg`, `ProprietiveMod`, `VCar`.
+It occurs with 9 different values: `Al`, `Ig`, `Igdyrji`, `Igmoz`, `Ko`, `La`, `NomAg`, `ProprietiveMod`, `VAbe`.
 
 23 tokens (1%) have a non-empty value of `Derivation`.
 18 types (2%) occur at least once with a non-empty value of `Derivation`.
@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Derivation` co-occ
 * `Igdyrji` (1; 13% of non-empty `Derivation`): <em>вӧрзялыгдырйи</em>
 * `Igmoz` (1; 13% of non-empty `Derivation`): <em>велэдчыгмоз</em>
 * `NomAg` (1; 13% of non-empty `Derivation`): <em>ветлысь</em>
-* `VCar` (1; 13% of non-empty `Derivation`): <em>вуджедтэг</em>
+* `VAbe` (1; 13% of non-empty `Derivation`): <em>вуджедтэг</em>
 
 <table>
   <tr><th>Paradigm <i>ветлыны</i></th><th><tt>Al</tt></th><th><tt>NomAg</tt></th></tr>

@@ -35,12 +35,12 @@ The 2nd highest number of forms (1) was observed with the lemma “10”: <em>10
 
 The 3rd highest number of forms (1) was observed with the lemma “100”: <em>100</em>.
 
-`NUM` occurs with 1 features: <tt><a href="fr_fqb-feat-NumType.html">NumType</a></tt> (115; 100% instances)
+`NUM` occurs with 2 features: <tt><a href="fr_fqb-feat-NumType.html">NumType</a></tt> (115; 100% instances), <tt><a href="fr_fqb-feat-Foreign.html">Foreign</a></tt> (1; 1% instances)
 
-`NUM` occurs with 1 feature-value pairs: `NumType=Card`
+`NUM` occurs with 2 feature-value pairs: `Foreign=Yes`, `NumType=Card`
 
-`NUM` occurs with 1 feature combinations.
-The most frequent feature combination is `NumType=Card` (115 tokens).
+`NUM` occurs with 2 feature combinations.
+The most frequent feature combination is `NumType=Card` (114 tokens).
 Examples: <em>deux, 1994, 1993, 1989, 1990, 1991, 1992, 1988, 10, 1929</em>
 
 

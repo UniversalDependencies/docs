@@ -9,41 +9,43 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-26 tokens (1%) have a non-empty value of `Reflex`.
-15 types (4%) occur at least once with a non-empty value of `Reflex`.
-10 lemmas (3%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 3 part-of-speech tags: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+85 tokens (1%) have a non-empty value of `Reflex`.
+40 types (3%) occur at least once with a non-empty value of `Reflex`.
+24 lemmas (4%) occur at least once with a non-empty value of `Reflex`.
+The feature is used with 3 part-of-speech tags: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (45; 1% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (31; 0% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (9; 0% instances).
 
 ### `VERB`
 
-13 <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Reflex`.
+45 <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="gub_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 92%).
+The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (45; 100%), <tt><a href="gub_tudet-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (39; 87%), <tt><a href="gub_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (28; 62%).
 
 `VERB` tokens may have the following values of `Reflex`:
 
-* `Yes` (13; 100% of non-empty `Reflex`): <em>Uzepɨrog, uzeapo, uzemiʔi, zeapo, Uzekok, uzemeʔkar, uzepiamiapo</em>
-* `EMPTY` (329): <em>oho, heta, iʔi, uʔu, upɨhɨk, uwewe, uzuka, uhem, ur, wexak</em>
+* `Yes` (45; 100% of non-empty `Reflex`): <em>uzɨpɨrog, uzepɨrog, uzeapo, uzemiʔikar, uzemonoʔog, Uzemurɨparkatu, uzemugakwaw, uzemugakwawaʔi, uzemukuhem, Uzeapɨz</em>
+* `EMPTY` (964): <em>oho, uʔu, uhem, upɨhɨk, uzeʔeg, wexak, ukwaw, upaw, waiko, uker</em>
 
-### `NOUN`
-
-10 <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Reflex`.
-
-The most frequent other feature values with which `NOUN` and `Reflex` co-occurred: <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (8; 80%).
-
-`NOUN` tokens may have the following values of `Reflex`:
-
-* `Yes` (10; 100% of non-empty `Reflex`): <em>umaʔe, uhɨ, izeupe, uzeapomaʔe, uzeapomaʔekwer, uzeputupɨkhaw</em>
-* `EMPTY` (497): <em>maʔe, kaʔa, ko, awa, awaxi, ipira, ɨrɨhu, ʔɨ, hoko, kara</em>
+`Reflex` seems to be **lexical feature** of `VERB`. 100% lemmas (18) occur only with one value of `Reflex`.
 
 ### `ADP`
 
-3 <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Reflex`.
+31 <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> tokens (4% of all `ADP` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `ADP` and `Reflex` co-occurred: <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="gub_tudet-feat-Case.html">Case</a></tt><tt>=Dat</tt> (2; 67%).
+The most frequent other feature values with which `ADP` and `Reflex` co-occurred: <tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=Corf</tt> (31; 100%).
 
 `ADP` tokens may have the following values of `Reflex`:
 
-* `Yes` (3; 100% of non-empty `Reflex`): <em>uzeupe</em>
-* `EMPTY` (268): <em>pe, rehe, rupi, romo, izupe, pa, pupe, mehe, wi, hehe</em>
+* `Yes` (31; 100% of non-empty `Reflex`): <em>uzeupe, uzeupeupe, uzehezehe, uzepupe, uzeupiupi</em>
+* `EMPTY` (667): <em>rupi, izupe, rehe, mehe, wanupe, pupe, romo, izuwi, wi, me</em>
+
+### `NOUN`
+
+9 <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Reflex`.
+
+The most frequent other feature values with which `NOUN` and `Reflex` co-occurred: <tt><a href="gub_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%).
+
+`NOUN` tokens may have the following values of `Reflex`:
+
+* `Yes` (9; 100% of non-empty `Reflex`): <em>uzepi, izeupe, uzeapomaʔe, uzeapomaʔekwer, uzeputupɨkhaw, wazehuhaw, wazewenugar, zeapo</em>
+* `EMPTY` (2497): <em>iʔi, maʔe, kwarer, ɨ, heta, zakare, katu, miar, kope, hoko</em>
 

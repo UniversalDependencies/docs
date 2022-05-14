@@ -9,11 +9,11 @@ udver: '2'
 There are 13 `INTJ` lemmas (0%), 14 `INTJ` types (0%) and 15 `INTJ` tokens (0%).
 Out of 17 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: _, あっ, OH, ある, いえ, イエイ, 否, 否々, 御めでたい, 御免為さる
+The 10 most frequent `INTJ` lemmas: _, あっ, OH, あり, いえ, イエイ, 否, 否々, 御めでとう, 御免為さい
 
 The 10 most frequent `INTJ` types:  あっ, OH, あり, ありがとう, ありません, いえ, いや, いやいや, おめでとう, ごめんなさい
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 2, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 1), ある (<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 708, <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> 1), 否 (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 2)
 
 The 10 most frequent ambiguous types:  あっ (<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 109, <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> 2), あり (<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 179, <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 1), ありがとう (<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> 1), いえ (<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 8, <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> 1), いや (<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  あっ (<tt><a href="ja_gsdluw-pos-VERB.h
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.076923 (the average of all parts of speech is 1.102729).
+The form / lemma ratio of `INTJ` is 1.076923 (the average of all parts of speech is 1.095294).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: アラヨーイトナ, チョーサンヤ.
 
@@ -64,7 +64,7 @@ Parents of `INTJ` nodes belong to 4 different parts of speech: <tt><a href="ja_g
 
 The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 9 different relations: <tt><a href="ja_gsdluw-dep-punct.html">punct</a></tt> (15; 45% instances), <tt><a href="ja_gsdluw-dep-case.html">case</a></tt> (8; 24% instances), <tt><a href="ja_gsdluw-dep-advcl.html">advcl</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-mark.html">mark</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-nsubj.html">nsubj</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-acl.html">acl</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-discourse.html">discourse</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-nmod.html">nmod</a></tt> (1; 3% instances)
+Children of `INTJ` nodes are attached using 10 different relations: <tt><a href="ja_gsdluw-dep-punct.html">punct</a></tt> (15; 45% instances), <tt><a href="ja_gsdluw-dep-case.html">case</a></tt> (8; 24% instances), <tt><a href="ja_gsdluw-dep-advcl.html">advcl</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-nsubj.html">nsubj</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-acl.html">acl</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-discourse.html">discourse</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-nmod.html">nmod</a></tt> (1; 3% instances)
 
-Children of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> (15; 45% instances), <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (8; 24% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
+Children of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> (15; 45% instances), <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (8; 24% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> (1; 3% instances)
 

@@ -9,14 +9,14 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `1`, `2`.
 
-66 tokens (3%) have a non-empty value of `Valency`.
-43 types (7%) occur at least once with a non-empty value of `Valency`.
+66 tokens (2%) have a non-empty value of `Valency`.
+43 types (6%) occur at least once with a non-empty value of `Valency`.
 32 lemmas (7%) occur at least once with a non-empty value of `Valency`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (36; 1% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (30; 1% instances).
 
 ### `VERB`
 
-36 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Valency`.
+36 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Valency`.
 
 The most frequent other feature values with which `VERB` and `Valency` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (36; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (36; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (30; 83%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 72%).
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `Valency` co-occurr
 
 ### `AUX`
 
-30 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (21% of all `AUX` tokens) have a non-empty value of `Valency`.
+30 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (20% of all `AUX` tokens) have a non-empty value of `Valency`.
 
 The most frequent other feature values with which `AUX` and `Valency` co-occurred: <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (29; 97%), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27; 90%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 80%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 70%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (16; 53%).
 

@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.htm
 
 ### `VERB`
 
-1059 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Aspect`.
+1059 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
 The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1016; 96%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (944; 89%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (861; 81%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (707; 67%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (707; 67%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (550; 52%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (645; 61% of non-empty `Aspect`): <em>říká, obsahuje, pomáhá, pracoval, ukazuje, existují, patří, pokračovat, tvrdí, dělat</em>
 * `Perf` (414; 39% of non-empty `Aspect`): <em>rozhodl, vrátil, objevil, opustit, vydala, získat, navštívil, rozhodli, setkal, udělat</em>
-* `EMPTY` (693): <em>řekl, má, je, může, mohou, mají, mohl, měl, stal, lze</em>
+* `EMPTY` (659): <em>řekl, má, může, mohou, mají, mohl, měl, stal, lze, mít</em>
 
 <table>
   <tr><th>Paradigm <i>rozvíjet</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 * `Imp` (105; 57% of non-empty `Aspect`): <em>vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budovány</em>
 * `Perf` (79; 43% of non-empty `Aspect`): <em>nabídnuto, označen, prodán, rozděleno, vytvořen, vytvořena, založena, zamítnuto, zvolen, dovoleno</em>
-* `EMPTY` (2100): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `EMPTY` (2086): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
 `Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (142) occur only with one value of `Aspect`.
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Imp` (3; 100% of non-empty `Aspect`): <em>byl, bývají, bývá</em>
-* `EMPTY` (647): <em>je, by, byl, bylo, byla, jsou, byly, bude, jsem, být</em>
+* `EMPTY` (681): <em>je, by, byl, bylo, byla, jsou, byly, bude, být, jsem</em>
 
 ## Relations with Agreement in `Aspect`
 

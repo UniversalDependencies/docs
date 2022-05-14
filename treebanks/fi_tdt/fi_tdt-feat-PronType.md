@@ -69,7 +69,7 @@ The most frequent other feature values with which `NUM` and `PronType` co-occurr
 `NUM` tokens may have the following values of `PronType`:
 
 * `Ind` (1; 100% of non-empty `PronType`): <em>yhdessäkään</em>
-* `EMPTY` (4979): <em>1, 2, kaksi, 2009, 3, 5, 4, kolme, yksi, 10</em>
+* `EMPTY` (4978): <em>1, 2, kaksi, 2009, 3, 5, 4, kolme, yksi, 10</em>
 
 ## Relations with Agreement in `PronType`
 

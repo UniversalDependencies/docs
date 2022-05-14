@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Jenna Kanerva, Filip Ginter, Stina Ojala, Anna Missilä.
 
 Repository: [UD_Finnish-PUD](https://github.com/UniversalDependencies/UD_Finnish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_pud29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_pud210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -436,9 +436,6 @@ employ ten-fold cross-validation.
   <li>Pos
     <ul>
       <li>ADJ: uuden, suuri, uusia, useita, lukuisia, pienen, erilaisia, korkean, mahdollista, poliittisen</li>
-      <li>AUX-Part: ollut, olleet, olevan, oltu, olevansa, aikonut, olleen, pitänyt, saattaneet, täytynyt</li>
-      <li>PROPN: Antarktista, Pyhän</li>
-      <li>VERB-Part: tullut, käytetty, oleva, olevat, saanut, tehty, halunnut, olevaa, ollut, päättänyt</li>
     </ul>
   </li>
 </ul>
@@ -448,7 +445,6 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: suurin, suurimman, suurimmalla, tunnetuin, viimeisin, korkeimman, korkeimmassa, korkein, parhaassa, Kaukaisimmassa</li>
       <li>ADV: laajimmin</li>
-      <li>VERB-Part: menestynein, myydyimmistään</li>
     </ul>
   </li>
 </ul>
@@ -987,7 +983,7 @@ employ ten-fold cross-validation.
       </li>
       <li>3
         <ul>
-          <li>ADJ: kaltaisensa, omansa, parastaan</li>
+          <li>ADJ: kaltaisensa, myydyimmistään, omansa, parastaan</li>
           <li>ADP: kanssaan, välilleen</li>
           <li>ADV: sisällään, mukanaan, haltuunsa, jälkeensä, päälleen, ympärillään</li>
           <li>AUX-Inf: Voidakseen</li>
@@ -996,7 +992,7 @@ employ ten-fold cross-validation.
           <li>PRON: toisiaan, itsensä, itsestään, itseään, toisensa</li>
           <li>VERB: saadakseen, keskittyäkseen, Palattuaan, Puhuessaan, Päästäkseen, Päätettyään, Viettäessään, antaessaan, asuttuaan, edistääkseen</li>
           <li>VERB-Inf: saadakseen, keskittyäkseen, Puhuessaan, Päästäkseen, Viettäessään, antaessaan, edistääkseen, eläessään, etsiessään, hyötyäkseen</li>
-          <li>VERB-Part: Palattuaan, Päätettyään, asuttuaan, ihailemansa, kaappaavansa, käytettävissään, myydyimmistään, saavansa, taistelevansa, taistelleensa</li>
+          <li>VERB-Part: Palattuaan, Päätettyään, asuttuaan, ihailemansa, kaappaavansa, käytettävissään, saavansa, taistelevansa, taistelleensa, tutkittuaan</li>
         </ul>
       </li>
     </ul>

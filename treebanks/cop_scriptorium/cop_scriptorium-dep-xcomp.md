@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-540 nodes (1%) are attached to their parents as `xcomp`.
+537 nodes (1%) are attached to their parents as `xcomp`.
 
-540 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.58703703703704.
+537 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.57355679702048.
 
-The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (499; 92% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (18; 3% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (13; 2% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (498; 93% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (17; 3% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (12; 2% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,14 +54,14 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 3	ⲙⲟⲩⲧⲉ	ⲙⲟⲩⲧⲉ	VERB	V	VerbForm=Fin	0	root	_	_
 4	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
-5	ⲙⲁⲁⲃⲧⲏ	ⲙⲁⲁⲃⲧⲏ	NUM	NUM	NumType=Card	7	nummod	_	Entity=(person|Morphs=ⲙⲁⲁⲃ-ⲧⲏ|Orig=ⲙⲁⲃⲧⲏ
+5	ⲙⲁⲁⲃⲧⲏ	ⲙⲁⲁⲃⲧⲏ	NUM	NUM	NumType=Card	7	nummod	_	Entity=(person|MSeg=ⲙⲁⲁⲃ-ⲧⲏ|Orig=ⲙⲁⲃⲧⲏ
 6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲛ̄
 7	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	3	obl	_	Entity=person)
 8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
 9	ϩⲟⲟⲩⲧ	ϩⲟⲟⲩⲧ	NOUN	N	_	3	xcomp	_	_
 10	·	·	PUNCT	PUNCT	_	14	punct	_	_
 11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
-12	ⲙⲁⲁⲃⲧⲏ	ⲙⲁⲁⲃⲧⲏ	NUM	NUM	NumType=Card	14	nummod	_	Entity=(person|Morphs=ⲙⲁⲁⲃ-ⲧⲏ|Orig=ⲙⲁⲃⲧⲏ
+12	ⲙⲁⲁⲃⲧⲏ	ⲙⲁⲁⲃⲧⲏ	NUM	NUM	NumType=Card	14	nummod	_	Entity=(person|MSeg=ⲙⲁⲁⲃ-ⲧⲏ|Orig=ⲙⲁⲃⲧⲏ
 13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲛ̄
 14	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	7	conj	_	Entity=person)
 15	ⲛ	ⲛ	ADP	PREP	_	16	case	_	Orig=ⲛ̄
@@ -82,21 +82,21 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	6	mark	_	Orig=ⲉ⳯ⲧ
 4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
 5	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
-6	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	2	acl	_	_
+6	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	2	acl:relcl	_	_
 7	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Entity=abstract)
 8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
 9	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Entity=(plant
 10	ⲕⲛⲁⲁⲩ	ⲕⲛⲁⲁⲩ	NOUN	N	_	6	ccomp	_	_
 11	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	13	mark	_	_
 12	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
-13	ⲙⲉϩ	ⲙⲟⲩϩ	VERB	VSTAT	VerbForm=Fin	10	acl	_	Entity=plant)
+13	ⲙⲉϩ	ⲙⲟⲩϩ	VERB	VSTAT	VerbForm=Fin	10	acl:relcl	_	Entity=plant)
 14	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	10	advmod	_	_
 15	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	10	cop	_	_
 16	,	,	PUNCT	PUNCT	_	18	punct	_	_
 17	ⲉ	ⲉ	PART	PREP	_	18	mark	_	_
 18	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	10	xcomp	_	_
-19	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
-20	ⲣⲛⲟⲉⲓⲧ	ⲣⲛⲟⲉⲓⲧ	VERB	V	VerbForm=Fin	18	xcomp	_	Morphs=ⲣ-ⲛⲟⲉⲓⲧ|Orig=ⲣ̄ⲛⲟⲉⲓⲧ
+19	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+20	ⲣⲛⲟⲉⲓⲧ	ⲣⲛⲟⲉⲓⲧ	VERB	V	VerbForm=Fin	18	xcomp	_	MSeg=ⲣ-ⲛⲟⲉⲓⲧ|Orig=ⲣ̄ⲛⲟⲉⲓⲧ
 21	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~

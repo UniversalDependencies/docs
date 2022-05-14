@@ -62,7 +62,7 @@ The 3rd highest number of forms (15) was observed with the lemma “kérdés”:
 
 `NOUN` occurs with 5 features: <tt><a href="hu_szeged-feat-Case.html">Case</a></tt> (9690; 100% instances), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt> (9690; 100% instances), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt> (2761; 28% instances), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt> (2761; 28% instances), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt> (12; 0% instances)
 
-`NOUN` occurs with 29 feature-value pairs: `Case=Abl`, `Case=Abs`, `Case=Acc`, `Case=Ade`, `Case=All`, `Case=Cau`, `Case=Dat`, `Case=Del`, `Case=Dis`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Sub`, `Case=Sup`, `Case=Tem`, `Case=Ter`, `Case=Tra`, `Number=Plur`, `Number=Sing`, `Number[psed]=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=3`
+`NOUN` occurs with 29 feature-value pairs: `Case=Abl`, `Case=Abs`, `Case=Acc`, `Case=Ade`, `Case=All`, `Case=Cau`, `Case=Dat`, `Case=Del`, `Case=Dis`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Sbl`, `Case=Sup`, `Case=Tem`, `Case=Ter`, `Case=Tra`, `Number=Plur`, `Number=Sing`, `Number[psed]=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=3`
 
 `NOUN` occurs with 121 feature combinations.
 The most frequent feature combination is `Case=Nom|Number=Sing` (2725 tokens).

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Elena Pascual, Daniel Zeman.
 
 Repository: [UD_Catalan-AnCora](https://github.com/UniversalDependencies/UD_Catalan-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY 4.0
 
@@ -131,15 +131,15 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 </ul>
 
 <ul>
-<li>This corpus contains 50 lemmas tagged as pronouns (PRON): I, això, algun, algú, allò, altre, aquell, aquest, cada, cadascun, cadascú, cap, com, divers, el, ell, en, gaire, hi, hom, jo, mateix, meu, molt, ningú, nostre, on, poc, prou, qual, qualsevol, quan, quant, que, quelcom, qui, quin, quién, què, res, seu, seva, tal, tant, tot, tothom, tu, un, vostre, él</li>
+<li>This corpus contains 48 lemmas tagged as pronouns (PRON): això, algun, algú, allò, altre, aquell, aquest, cada, cadascun, cadascú, cap, com, divers, ell, en, gaire, hi, hom, i, jo, mateix, meu, molt, ningú, nostre, on, poc, prou, qual, qualsevol, quan, quant, que, quelcom, qui, quin, quién, què, res, seu, tal, tant, tot, tothom, tu, un, vostre, él</li>
 </ul>
 
 <ul>
-<li>This corpus contains 58 lemmas tagged as determiners (DET): Os, al, algun, algú, altre, aquell, aquest, bastant, cada, cap, cert, col·laboració, diferent, divers, el, els, en, es, este, força, gaire, l', la, las, les, lo, los, massa, mateix, meu, molt, moltíssim, ningún, nombrós, nostra, nostre, poc, prou, qual, qualsevol, quant, quants, que, quin, seguit, sengles, seu, seva, seves, su, suficient, tal, tant, teu, tot, total, un, una</li>
+<li>This corpus contains 54 lemmas tagged as determiners (DET): al, algun, algú, altre, aquell, aquest, bastant, cada, cap, cert, col·laboració, diferent, divers, el, en, es, este, força, gaire, la, las, lo, los, massa, mateix, meu, molt, moltíssim, ningún, nombrós, nostra, nostre, os, poc, prou, qual, qualsevol, quant, quants, que, quin, seguit, sengles, seu, seva, seves, su, suficient, tal, tant, teu, tot, total, un</li>
 </ul>
 
 <ul>
-<li>Out of the above, 28 lemmas occurred sometimes as PRON and sometimes as DET: algun, algú, altre, aquell, aquest, cada, cap, divers, el, en, gaire, mateix, meu, molt, nostre, poc, prou, qual, qualsevol, quant, que, quin, seu, seva, tal, tant, tot, un</li>
+<li>Out of the above, 26 lemmas occurred sometimes as PRON and sometimes as DET: algun, algú, altre, aquell, aquest, cada, cap, divers, en, gaire, mateix, meu, molt, nostre, poc, prou, qual, qualsevol, quant, que, quin, seu, tal, tant, tot, un</li>
 </ul>
 
 <ul>
@@ -207,7 +207,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>NOUN: persones, obres, obra, empresa, llei, ciutat, zona, cosa, situació, banda</li>
       <li>NUM: dues, una, mitja, ambdues, desena, tres-centes, Desenes, Vuit-centes, cinquena, dues-centes</li>
       <li>PRON: la, una, les, aquesta, altra, unes, ella, algunes, totes, elles</li>
-      <li>PROPN: Companyia, Font</li>
+      <li>PROPN: Seu, Companyia, Font</li>
       <li>VERB-Part: dictada, aprovada, presentada, considerada, donada, atesa, inclosa, inaugurada, traslladada, coneguda</li>
     </ul>
   </li>
@@ -278,7 +278,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>NOUN: any, president, part, terme, grup, projecte, cap, lloc, cas, portaveu</li>
       <li>NUM: un, una, mig, mitja, doble, quart, triple, desena, cinquena, desè</li>
       <li>PRON: un, li, tot, això, ho, qual, la, el, l', ell</li>
-      <li>PROPN: Cobain, Companyia, Font, Justícia, Kurt, Pla</li>
+      <li>PROPN: Seu, Cobain, Companyia, Font, Justícia, Kurt, Pla</li>
       <li>VERB-Fin: té, ha, fa, considera, cal, farà, vol, tracta, demana, tenia</li>
       <li>VERB-Part: fet, explicat, dit, presentat, tingut, assegurat, destacat, passat, demanat, assenyalat</li>
     </ul>
@@ -883,8 +883,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN (6188)</li>
-      <li>VERB-Fin--NOUN-ADP(A) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(a) (831)</li>
+      <li>VERB-Fin--NOUN-ADP(a) (832)</li>
       <li>VERB-Fin--NOUN-ADP(a)-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN-ADP(a)-ADP(amb) (1)</li>
       <li>VERB-Fin--NOUN-ADP(a)-ADP(de) (1)</li>

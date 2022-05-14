@@ -65,7 +65,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 4756 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3630; 76%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2450; 52%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2437; 51%).
+The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4755; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4755; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3630; 76%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2450; 52%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2437; 51%).
 
 `ADJ` tokens may have the following values of `NameType`:
 

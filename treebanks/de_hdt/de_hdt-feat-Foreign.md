@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 53406 tokens (2%) have a non-empty value of `Foreign`.
 10447 types (6%) occur at least once with a non-empty value of `Foreign`.
-10447 lemmas (15%) occur at least once with a non-empty value of `Foreign`.
+10446 lemmas (15%) occur at least once with a non-empty value of `Foreign`.
 The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-X.html">X</a></tt> (53406; 2% instances).
 
 ### `X`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 * `Yes` (53406; 100% of non-empty `Foreign`): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
 * `EMPTY` (307): <em>x, D2, G4, ×, 9x, =, ?, ·</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (10447) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (10446) occur only with one value of `Foreign`.
 
 ## Relations with Agreement in `Foreign`
 

@@ -12,15 +12,15 @@ udver: '2'
 # UD Latin Perseus
 
 Language: [Latin](/la/index.html) (code: `la`)<br/>
-Family: Indo-European, Latin
+Family: Indo-European, Italic
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman.
 
 Repository: [UD_Latin-Perseus](https://github.com/UniversalDependencies/UD_Latin-Perseus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-NC-SA 2.5
 

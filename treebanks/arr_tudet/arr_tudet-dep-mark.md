@@ -22,7 +22,7 @@ The following 13 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 mark	color:blue
-1	epɑ̃n	pat	VERB	v	Number=Sing|Person=2	0	root	_	_
+1	epɑ̃n	pɑ̃t	VERB	v	Number=Sing|Person=2	0	root	_	_
 2	mãm	mãm	PART	part	_	1	discourse	_	_
 3	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
 
@@ -35,11 +35,11 @@ The following 13 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 mark	color:blue
-1	naco	_	NOUN	n	_	5	obl	_	_
-2	ʔerem	_	ADP	adp	Case=Disp	1	case	_	_
-3	ye	_	AUX	aux	Clusivity=In|Number=Plur|Person=1	5	aux	_	_
-4	kanãp	_	SCONJ	sconj	_	5	mark	_	_
-5	iʔkəga	_	VERB	v	Number=Plur|Person=1|VerbForm=Ger	0	root	_	_
+1	naco	naco	NOUN	n	_	5	obl	_	_
+2	ʔerem	ʔerem	ADP	adp	Case=Disp	1	case	_	_
+3	ye	ʔe	AUX	aux	Clusivity=In|Number=Plur|Person=1	5	aux	_	_
+4	kanãp	kanãp	SCONJ	sconj	_	5	mark	_	_
+5	iʔkəga	kək	VERB	v	Number=Plur|Person=1|VerbForm=Ger	0	root	_	_
 
 ~~~
 
@@ -51,9 +51,9 @@ The following 13 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 4 mark	color:blue
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	ip	_	NOUN	n	_	3	obj	_	_
+2	ip	ip	NOUN	n	_	3	obj	_	_
 3	ʔɨy	ʔɨy	VERB	v	Decl=Assert	0	root	_	_
-4	okõna	_	ADP	adp	Number=Sing|Person=1|PronType=Emp	3	mark	_	_
+4	okõna	kõna	ADP	adp	Number=Sing|Person=1|PronType=Emp	3	mark	_	_
 
 ~~~
 

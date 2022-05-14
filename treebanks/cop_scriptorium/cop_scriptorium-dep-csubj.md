@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-129 nodes (0%) are attached to their parents as `csubj`.
+130 nodes (0%) are attached to their parents as `csubj`.
 
-128 instances of `csubj` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.41085271317829.
+129 instances of `csubj` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.39230769230769.
 
-The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (48; 37% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (45; 35% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (14; 11% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (14; 11% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (48; 37% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (45; 35% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (14; 11% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (14; 11% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -38,7 +38,7 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 14	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	17	mark	_	_
 15	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 16	ⲛⲁ	ⲛⲁ	AUX	FUT	_	17	aux	_	_
-17	ϭⲛⲧ	ϭⲓⲛⲉ	VERB	V	VerbForm=Fin	13	acl	_	Orig=ϭⲛ̄ⲧ
+17	ϭⲛⲧ	ϭⲓⲛⲉ	VERB	V	VerbForm=Fin	13	acl:relcl	_	Orig=ϭⲛ̄ⲧ
 18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	Entity=object)|Orig=ϥ̄
 19	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -54,7 +54,7 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	12	dislocated	_	Entity=(abstract
 2	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	_
 3	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-4	ⲉⲓⲣⲉ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	1	acl	_	_
+4	ⲉⲓⲣⲉ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	1	acl:relcl	_	_
 5	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	12	advmod	_	OrigLang=grc
 6	ⲙⲙⲟ	ⲙⲙⲟ	ADP	PREP	_	7	case	_	Orig=ⲙ̄ⲙⲟ
 7	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
@@ -86,7 +86,7 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	Orig=ⲡⲁⲓ̈
 3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	0	root	_	Entity=(abstract
 4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
-5	ϣϣⲉ	ϣϣⲉ	VERB	V	VerbForm=Fin	3	acl	_	Entity=abstract)|Orig=ⲉϣϣⲉ
+5	ϣϣⲉ	ϣϣⲉ	VERB	V	VerbForm=Fin	3	acl:relcl	_	Entity=abstract)|Orig=ⲉϣϣⲉ
 6	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	3	cop	_	Orig=ⲡⲉ⳿
 7	ⲉ	ⲉ	PART	PREP	_	8	mark	_	_
 8	ϣⲁⲁⲧ	ϣⲓⲧⲉ	VERB	V	VerbForm=Inf	3	csubj	_	Orig=ϣⲁⲁⲧ︤

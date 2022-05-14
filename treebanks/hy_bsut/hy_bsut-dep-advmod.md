@@ -9,12 +9,27 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: <tt><a href="hy_bsut-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-97 nodes (3%) are attached to their parents as `advmod`.
+1198 nodes (3%) are attached to their parents as `advmod`.
 
-90 instances of `advmod` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.37113402061856.
+1098 instances of `advmod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.10350584307179.
 
-The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (66; 68% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (14; 14% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (10; 10% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 24 pairs of parts of speech are connected with `advmod`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (764; 64% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (184; 15% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (89; 7% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (45; 4% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (39; 3% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (28; 2% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (11; 1% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (6; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod	color:blue
+1	Lragir.am	Lragir.am	SYM	_	_	0	root	_	Translit=Lragir.am|LTranslit=Lragir.am|SpaceAfter=No
+2	`	`	PUNCT	_	Foreign=Yes	5	punct	_	Translit=,|LTranslit=,
+3	միայն	միայն	ADV	_	_	4	advmod	_	Translit=miayn|LTranslit=miayn
+4	ստուգված	ստուգել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	5	acl	_	Translit=stowgvaç|LTranslit=stowgel
+5	տվյալներ	տվյալ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	1	appos	_	Translit=tvyalner|LTranslit=tvyal
+
+~~~
 
 
 ~~~ conllu
@@ -23,62 +38,33 @@ The following 9 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod	color:blue
-1	Հետո	հետո	ADV	_	_	2	advmod	_	Translit=Heto|LTranslit=heto
-2	դադարում	դադարել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=dadarowm|LTranslit=dadarel
-3	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	Translit=en|LTranslit=em
-4	հավատալ	հավատալ	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	2	xcomp	_	Translit=havatal|LTranslit=havatal|SpaceAfter=No
-5	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
+1	Հատկապես	հատկապես	ADV	_	_	2	advmod	_	Translit=Hatkapes|LTranslit=hatkapes
+2	կարևոր	կարևոր	ADJ	_	Degree=Pos	0	root	_	Translit=karewor|LTranslit=karewor
+3	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=en|LTranslit=em
+4	լուրերը	լուր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	2	nsubj	_	Translit=lowrerë|LTranslit=lowr
+5	սահմանից	սահման	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	4	nmod:npmod	_	Translit=sahmanic’|LTranslit=sahman
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 advmod	color:blue
-1	Հայաստանում	Հայաստան	PROPN	_	Animacy=Nhum|Case=Loc|Definite=Ind|NameType=Geo|Number=Sing	8	obl	_	Translit=Hayastanowm|LTranslit=Hayastan
-2	օրեցօր	օրեցօր	ADV	_	_	3	advmod	_	Translit=òrec’òr|LTranslit=òrec’òr
-3	ավելի	ավելի	ADV	_	Degree=Cmp	6	advmod	_	Translit=aveli|LTranslit=aveli
-4	ու	ու	CCONJ	_	_	5	cc	_	Translit=ow|LTranslit=ow
-5	ավելի	ավելի	ADV	_	Degree=Cmp	3	compound:redup	_	Translit=aveli|LTranslit=aveli
-6	հաճախ	հաճախ	ADV	_	Degree=Pos	8	advmod	_	Translit=hač̣ax|LTranslit=hač̣ax
-7	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	Translit=ē|LTranslit=em
-8	հնչում	հնչել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=hnčowm|LTranslit=hnčel
-9	այն	այն	DET	_	Deixis=Remt|PronType=Dem	10	det	_	Translit=ayn|LTranslit=ayn
-10	միտքը	միտք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	Translit=mitk’ë|LTranslit=mitk’|SpaceAfter=No
-11	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
-12	թե	թե	SCONJ	_	_	16	mark	_	Translit=t’e|LTranslit=t’e
-13	մեզ	մենք	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	16	obj	_	Translit=mez|LTranslit=menk’
-14	միայն	միայն	ADV	_	_	15	advmod:emph	_	Translit=miayn|LTranslit=miayn
-15	իշխանափոխությունը	իշխանափոխություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	16	nsubj	_	Translit=išxanap’oxowt’yownë|LTranslit=išxanap’oxowt’yown
-16	կփրկի	փրկել	VERB	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	Translit=kp’rki|LTranslit=p’rkel|SpaceAfter=No
-17	։	։	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod	color:blue
-1	Սակայն	սակայն	CCONJ	_	_	5	cc	_	Translit=Sakayn|LTranslit=sakayn
-2	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	3	det	_	Translit=ayd|LTranslit=ayd
-3	այցերը	այց	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	5	nsubj	_	Translit=ayc’erë|LTranslit=ayc’
-4	միշտ	միշտ	ADV	_	_	5	advmod	_	Translit=mišt|LTranslit=mišt
-5	պաշտոնական	պաշտոնական	ADJ	_	_	0	root	_	Translit=paštonakan|LTranslit=paštonakan
-6	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	5	cop	_	Translit=ēin|LTranslit=em|SpaceAfter=No
-7	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
-8	իրավասության	իրավասություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	13	nmod:poss	_	Translit=iravasowt’yan|LTranslit=iravasowt’yown
-9	և	և	CCONJ	_	_	12	cc	_	Translit=ew|LTranslit=ew
-10	ազգի	ազգ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	11	nmod:poss	_	Translit=azgi|LTranslit=azg
-11	ինքնորոշման	ինքնորոշում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	12	nmod:poss	_	Translit=ink’norošman|LTranslit=ink’norošowm
-12	իրավունքի	իրավունք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	8	conj	_	Translit=iravownk’i|LTranslit=iravownk’
-13	ճանաչմամբ	ճանաչում	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	5	obl	_	Translit=č̣anačmamb|LTranslit=č̣anačowm|SpaceAfter=No
-14	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 advmod	color:blue
+1	Հիմա	հիմա	ADV	_	_	8	advmod	_	Translit=Hima|LTranslit=hima
+2	էլ	էլ	ADV	_	_	1	advmod	_	Translit=ēl|LTranslit=ēl
+3	արդեն	արդեն	ADV	_	_	6	advmod:emph	_	Translit=arden|LTranslit=arden
+4	մուգ	մուգ	ADV	_	_	5	advmod	_	Translit=mowg|LTranslit=mowg
+5	կանաչ	կանաչ	ADJ	_	Degree=Pos	6	amod	_	Translit=kanač|LTranslit=kanač
+6	ճանճերն	ճանճ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	8	nsubj	_	Translit=č̣anč̣ern|LTranslit=č̣anč̣
+7	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	8	aux	_	Translit=ēin|LTranslit=em
+8	խանգարում	խանգարել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=xangarowm|LTranslit=xangarel
+9	ճիշտ	ճիշտ	ADV	_	Degree=Pos	11	advmod	_	Translit=č̣išt|LTranslit=č̣išt
+10	նշան	նշան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	11	compound:lvc	_	Translit=nšan|LTranslit=nšan
+11	բռնել	բռնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	8	xcomp	_	Translit=bṙnel|LTranslit=bṙnel|SpaceAfter=No
+12	:	:	PUNCT	_	Foreign=Yes	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

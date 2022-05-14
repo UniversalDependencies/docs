@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 4	maailmansodan	maailman#sota	NOUN	_	Case=Gen|Number=Sing	6	nmod:poss	6:nmod:poss	_
 5	liikkumattomista	liikkumaton	ADJ	_	Case=Ela|Degree=Pos|Derivation=Ton|Number=Plur	6	amod	6:amod	_
 6	etulinjoista	etu#linja	NOUN	_	Case=Ela|Number=Plur	2	obl	2:obl	_
-7	lisääntyneeseen	lisääntyä	VERB	_	Case=Ill|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	8	acl	8:acl	_
+7	lisääntyneeseen	lisääntyä	VERB	_	Case=Ill|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	8	acl	8:acl	_
 8	liikkuvuuteen	liikkuvuus	NOUN	_	Case=Ill|Derivation=Vs|Number=Sing	2	obl	2:obl	_
 9	ja	ja	CCONJ	_	_	12	cc	12:cc	_
 10	combined	combined	X	_	Foreign=Yes	12	compound:nn	12:compound:nn	_
@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 11	50:een	50	NUM	_	Case=Ill|Number=Sing|NumType=Card	10	flat:foreign	10:flat:foreign	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	5:punct	_
 13	Siihen	se	PRON	_	Case=Ill|Number=Sing|PronType=Dem	14	obl	14:obl	_
-14	kuuluva	kuulua	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	15	acl	15:acl	_
+14	kuuluva	kuulua	VERB	_	Case=Nom|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	15	acl	15:acl	_
 15	single	single	NOUN	_	Case=Nom|Number=Sing	20	obj	20:obj	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	17:punct	_
 17	Shaky	Shaky	PROPN	_	Case=Nom|Number=Sing	15	appos	15:appos	_

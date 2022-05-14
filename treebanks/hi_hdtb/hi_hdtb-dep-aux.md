@@ -35,7 +35,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 10	होने	हो	VERB	VM	Case=Acc|Number=Sing|VerbForm=Inf	12	nmod	_	Vib=ना_का|Tam=nA|ChunkId=VGNN|ChunkType=head|Translit=hone
 11	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	10	mark	_	ChunkId=VGNN|ChunkType=child|Translit=kā
 12	प्रमाण	प्रमाण	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=pramāṇa
-13	मिलता	मिल	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=milatā
+13	मिलता	मिल	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=wA|Translit=milatā|Vib=ता_है
 14	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 15	।	।	PUNCT	SYM	_	13	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
@@ -68,7 +68,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 18	बढ़ाने	बढ़ा	VERB	VM	Case=Acc|Number=Sing|VerbForm=Inf	20	nmod	_	Vib=ना_का|Tam=nA|ChunkId=VGNN|ChunkType=head|Translit=baṛhāne
 19	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	18	mark	_	ChunkId=VGNN|ChunkType=child|Translit=kā
 20	फैसला	फैसला	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	compound	_	Vib=0|Tam=0|ChunkId=NP7|ChunkType=head|Translit=phaisalā
-21	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=या_है|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=kiyā
+21	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=kiyā|Vib=या_है
 22	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 23	।	।	PUNCT	SYM	_	21	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
@@ -99,7 +99,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 16	३३,४८२	३३४८२	NUM	QCC	NumType=Card	17	aux	_	ChunkId=NP5|ChunkType=child|Translit=33,482
 17	करोड़	करोड	NUM	QC	NumType=Card	18	nummod	_	ChunkId=NP5|ChunkType=child|Translit=karoṛa
 18	रुपये	रुपया	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	19	obj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=rupaye
-19	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=या_है|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=kiyā
+19	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=kiyā|Vib=या_है
 20	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 21	।	।	PUNCT	SYM	_	19	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 

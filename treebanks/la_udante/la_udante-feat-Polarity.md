@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-1283 tokens (2%) have a non-empty value of `Polarity`.
-167 types (1%) occur at least once with a non-empty value of `Polarity`.
+1287 tokens (2%) have a non-empty value of `Polarity`.
+168 types (1%) occur at least once with a non-empty value of `Polarity`.
 112 lemmas (2%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-PART.html">PART</a></tt> (727; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (188; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (178; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (103; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (47; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (17; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (9; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-PART.html">PART</a></tt> (728; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (188; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (178; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (110; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (43; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (17; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (9; 0% instances).
 
 ### `PART`
 
-727 <tt><a href="la_udante-pos-PART.html">PART</a></tt> tokens (54% of all `PART` tokens) have a non-empty value of `Polarity`.
+728 <tt><a href="la_udante-pos-PART.html">PART</a></tt> tokens (54% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (727; 100%).
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (728; 100%).
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (727; 100% of non-empty `Polarity`): <em>non, ni, ne</em>
-* `EMPTY` (616): <em>nam, enim, igitur, quidem, etenim, itaque, ne, o, nanque, equidem</em>
+* `Neg` (728; 100% of non-empty `Polarity`): <em>non, ni, ne</em>
+* `EMPTY` (622): <em>nam, enim, igitur, quidem, etenim, itaque, ne, o, an, nanque</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (188; 100% of non-empty `Polarity`): <em>inpossibile, impossibile, iniustum, inmeritus, inconveniens, ignari, impari, impius, incorruptibilis, inopina</em>
-* `EMPTY` (3886): <em>humanum, consequens, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre</em>
+* `EMPTY` (3839): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
 
 `Polarity` seems to be **lexical feature** of `ADJ`. 100% lemmas (79) occur only with one value of `Polarity`.
 
@@ -45,31 +45,29 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (178; 100% of non-empty `Polarity`): <em>nec, neque, necnon, nedum</em>
-* `EMPTY` (2972): <em>et, sed, vel, que, autem, sive, atque, scilicet, aut, ac</em>
+* `EMPTY` (2984): <em>et, sed, vel, que, autem, sive, atque, scilicet, unde, aut</em>
 
 ### `SCONJ`
 
-103 <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> tokens (4% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
+110 <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> tokens (4% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `SCONJ` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (103; 100%), <tt><a href="la_udante-feat-ConjType.html">ConjType</a></tt><tt>=EMPTY</tt> (99; 96%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (83; 81%).
+The most frequent other feature values with which `SCONJ` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (110; 100%), <tt><a href="la_udante-feat-ConjType.html">ConjType</a></tt><tt>=EMPTY</tt> (94; 85%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (83; 75%).
 
 `SCONJ` tokens may have the following values of `Polarity`:
 
-* `Neg` (103; 100% of non-empty `Polarity`): <em>nisi, ne, quin, ni, necubi</em>
-* `EMPTY` (2438): <em>quod, ut, cum, si, quia, quam, sicut, tanquam, quemadmodum, licet</em>
+* `Neg` (110; 100% of non-empty `Polarity`): <em>nisi, quin, ne, ni, necubi</em>
+* `EMPTY` (2442): <em>quod, ut, cum, si, quia, quam, sicut, tanquam, quantum, quemadmodum</em>
 
 ### `ADV`
 
-47 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Polarity`.
+43 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (44; 94%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (40; 85%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (36; 84%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (47; 100% of non-empty `Polarity`): <em>nunquam, nondum, quin, inconvenienter, iniuste, nequaquam, ni, inconsulte, inmediate, nequicquam</em>
-* `EMPTY` (2980): <em>sic, ergo, etiam, vero, nunc, tamen, bene, iam, magis, et</em>
-
-`Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `Polarity`.
+* `Neg` (43; 100% of non-empty `Polarity`): <em>nunquam, nondum, inconvenienter, iniuste, nequaquam, inconsulte, inmediate, nequicquam, nimirum</em>
+* `EMPTY` (3050): <em>sic, ergo, etiam, vero, nunc, tamen, bene, iam, magis, et</em>
 
 ### `VERB`
 
@@ -80,7 +78,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (17; 100% of non-empty `Polarity`): <em>nescio, nescit, ignoscendum, ignoscet, indignata, infirmari, insanisse, insperate, invidere, nesciens</em>
-* `EMPTY` (8006): <em>potest, patet, habet, dicimus, videtur, dicit, dico, habere, oportet, dicitur</em>
+* `EMPTY` (8073): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
 
 ### `NOUN`
 
@@ -91,7 +89,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (14; 100% of non-empty `Polarity`): <em>nefas, negotii, negotium, ignominiam, incertitudine, incertitudo, iniuriam, iniurias</em>
-* `EMPTY` (10214): <em>Dei, Deus, natura, terra, parte, mundi, genus, ratio, Deo, iure</em>
+* `EMPTY` (10180): <em>Dei, Deus, natura, terra, parte, mundi, genus, ratio, Deo, iure</em>
 
 ### `DET`
 
@@ -102,7 +100,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (9; 100% of non-empty `Polarity`): <em>nonnullos, nonnulla, nonnulli, neutrum, nonnullum</em>
-* `EMPTY` (3517): <em>hoc, illa, illud, hec, ipsum, omnes, aliud, sua, quedam, huius</em>
+* `EMPTY` (3531): <em>hoc, illa, illud, hec, ipsum, omnes, aliud, sua, quedam, huius</em>
 
 ## Relations with Agreement in `Polarity`
 

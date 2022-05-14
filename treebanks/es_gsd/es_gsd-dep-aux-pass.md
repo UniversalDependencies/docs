@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="es_gsd-dep-aux.html">aux</a></tt>.
 
-1850 nodes (0%) are attached to their parents as `aux:pass`.
+1849 nodes (0%) are attached to their parents as `aux:pass`.
 
-1828 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14162162162162.
+1820 instances of `aux:pass` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14548404542996.
 
-The following 9 pairs of parts of speech are connected with `aux:pass`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1745; 94% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (57; 3% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (23; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (19; 1% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `aux:pass`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1744; 94% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (57; 3% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (23; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (19; 1% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

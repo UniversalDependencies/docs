@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sms_giellagas-pos-A
 
 ### `ADJ`
 
-3 <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> tokens (12% of all `ADJ` tokens) have a non-empty value of `NumType`.
+3 <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> tokens (11% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (3; 100% of non-empty `NumType`): <em>kuälmad</em>
-* `EMPTY` (23): <em>jõnn, šiõǥǥ, nuʹbb, tiõrvâs, ekksaž, jåʹttel, kaađâš, kuuʹǩǩ, lääʹđesmiõllsab, muʹvddem</em>
+* `EMPTY` (25): <em>jõnn, šiõǥǥ, nuʹbb, tiõrvâs, ekksaž, jåʹttel, kaađâš, kuuʹǩǩ, lääʹđesmiõllsab, muʹvddem</em>
 

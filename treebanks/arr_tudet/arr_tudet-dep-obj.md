@@ -36,9 +36,9 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 obj	color:blue
-1	mõm	_	VERB	v	_	0	root	_	_
+1	mõm	mõm	VERB	v	_	0	root	_	_
 2	at	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	_	_
-3	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obj	_	_
+3	okəy	kəy	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obj	_	_
 
 ~~~
 

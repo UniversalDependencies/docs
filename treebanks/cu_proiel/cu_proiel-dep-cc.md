@@ -22,19 +22,19 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 cc	color:blue
-1	аще	аще	SCONJ	G-	_	6	mark	_	ref=MATT_5.29
-2	же	же	ADV	Df	_	8	discourse	_	ref=MATT_5.29
-3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_5.29
-4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=MATT_5.29
-5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	ref=MATT_5.29
-6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=MATT_5.29
-7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	ref=MATT_5.29
-8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.29
-9	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	ref=MATT_5.29
-10	и	и	CCONJ	C-	_	8	cc	_	ref=MATT_5.29
-11	връзи	врѣщи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=MATT_5.29
-12	отъ	отъ	ADP	R-	_	13	case	_	ref=MATT_5.29
-13	тебе	тꙑ	PRON	Pp	Case=Gen|Number=Sing|Person=2|PronType=Prs	11	obl	_	ref=MATT_5.29
+1	аще	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_5.29
+2	же	же	ADV	Df	_	8	discourse	_	Ref=MATT_5.29
+3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=MATT_5.29
+4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	Ref=MATT_5.29
+5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	Ref=MATT_5.29
+6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	Ref=MATT_5.29
+7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	Ref=MATT_5.29
+8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.29
+9	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	Ref=MATT_5.29
+10	и	и	CCONJ	C-	_	8	cc	_	Ref=MATT_5.29
+11	връзи	врѣщи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	Ref=MATT_5.29
+12	отъ	отъ	ADP	R-	_	13	case	_	Ref=MATT_5.29
+13	тебе	тꙑ	PRON	Pp	Case=Gen|Number=Sing|Person=2|PronType=Prs	11	obl	_	Ref=MATT_5.29
 
 ~~~
 
@@ -45,13 +45,13 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 cc	color:blue
-1	око	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	ref=MATT_5.38
-2	за	за	ADP	R-	_	3	case	_	ref=MATT_5.38
-3	око	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=MATT_5.38
-4	и	и	CCONJ	C-	_	1	cc	_	ref=MATT_5.38
-5	зѫбъ	зѫбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	ref=MATT_5.38
-6	за	за	ADP	R-	_	7	case	_	ref=MATT_5.38
-7	зѫбъ	зѫбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	orphan	_	ref=MATT_5.38
+1	око	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	Ref=MATT_5.38
+2	за	за	ADP	R-	_	3	case	_	Ref=MATT_5.38
+3	око	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	Ref=MATT_5.38
+4	и	и	CCONJ	C-	_	1	cc	_	Ref=MATT_5.38
+5	зѫбъ	зѫбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	Ref=MATT_5.38
+6	за	за	ADP	R-	_	7	case	_	Ref=MATT_5.38
+7	зѫбъ	зѫбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	orphan	_	Ref=MATT_5.38
 
 ~~~
 
@@ -62,15 +62,15 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 cc	color:blue
-1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=MATT_6.25
-2	ⷣ҇ша	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=MATT_6.25
-3	ли	ли	ADV	Du	PronType=Int	4	advmod	_	ref=MATT_6.25
-4	больши	болии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Variant=Short	0	root	_	ref=MATT_6.25
-5	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=MATT_6.25
-6	пиштѧ	пища	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	iobj	_	ref=MATT_6.25
-7	и	и	CCONJ	C-	_	4	cc	_	ref=MATT_6.25
-8	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	ref=MATT_6.25
-9	одеждѧ	одежда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	conj	_	ref=MATT_6.25
+1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	Ref=MATT_6.25
+2	ⷣ҇ша	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Ref=MATT_6.25
+3	ли	ли	ADV	Du	PronType=Int	4	advmod	_	Ref=MATT_6.25
+4	больши	болии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Variant=Short	0	root	_	Ref=MATT_6.25
+5	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MATT_6.25
+6	пиштѧ	пища	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	iobj	_	Ref=MATT_6.25
+7	и	и	CCONJ	C-	_	4	cc	_	Ref=MATT_6.25
+8	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	Ref=MATT_6.25
+9	одеждѧ	одежда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	conj	_	Ref=MATT_6.25
 
 ~~~
 

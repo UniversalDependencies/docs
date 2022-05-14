@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="de_pud-pos-DET.html
 
 2840 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2836; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2271; 80%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2834; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2271; 80%).
 
 `DET` tokens may have the following values of `Definite`:
 

@@ -22,5 +22,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_tourism-pos-ADV.
 
 * `Cmp` (433; 85% of non-empty `Degree`): <em>DAHA</em>
 * `Sup` (79; 15% of non-empty `Degree`): <em>EN</em>
-* `EMPTY` (6801): <em>ÇOK, OLARAK, BİRAZ, GAYET, HİÇ, SADECE, ÖZELLİKLE, PEK, KESİNLİKLE, HEP</em>
+* `EMPTY` (6769): <em>ÇOK, OLARAK, BİRAZ, GAYET, HİÇ, SADECE, ÖZELLİKLE, PEK, KESİNLİKLE, HEP</em>
 

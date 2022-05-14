@@ -29,7 +29,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	a	a	CCONJ	J^-------------	_	9	cc	9:cc	LId=a-1
 6	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	LId=v-1
 7	důsledku	důsledek	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	6	fixed	6:fixed	_
-8	reformace	reformace	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	9	obl	9:obl:v_důsledek:gen	_
+8	reformace	reformace	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	9	obl	9:obl:v_důsledku:gen	_
 9	chátral	chátrat	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	conj	0:root|4:conj	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
@@ -44,7 +44,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 6 7 fixed	color:blue
 1	Naše	můj	DET	PSIP1-P1-------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	2:det	LGloss=(přivlast.)
 2	mobily	mobil	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	3	nsubj	3:nsubj	_
-3	jsou	být	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	dnes	dnes	ADV	Db-------------	_	3	advmod	3:advmod	_
 5	mnohem	mnohem	ADV	Db-------------	_	6	advmod	6:advmod	_
 6	víc	hodně	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	8	advmod:emph	8:advmod:emph	LId=hodně-2

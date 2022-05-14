@@ -80,7 +80,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 8	Saksan	Saksa	PROPN	_	Case=Gen|Number=Sing	9	nmod:poss	9:nmod:poss	_
 9	joukot	joukko	NOUN	_	Case=Nom|Number=Plur	11	nsubj	11:nsubj	_
 10	olivat	olla	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	11:aux	_
-11	ylittäneet	ylittää	VERB	_	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	1	ccomp	1:ccomp	_
+11	ylittäneet	ylittää	VERB	_	Case=Nom|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	1	ccomp	1:ccomp	_
 12	rajan	raja	NOUN	_	Case=Gen|Number=Sing	11	obj	11:obj	SpaceAfter=No
 13	,	,	PUNCT	_	_	11	punct	11:punct	_
 14	Chamberlain	Chamberlain	PROPN	_	Case=Nom|Number=Sing	15	nsubj	15:nsubj	_

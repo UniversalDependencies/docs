@@ -8,12 +8,54 @@ udver: '2'
 
 This relation is universal.
 
-78 nodes (0%) are attached to their parents as `goeswith`.
+2 nodes (0%) are attached to their parents as `goeswith`.
 
-78 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.92307692307692.
+2 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (34; 44% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (28; 36% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (15; 19% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (1; 50% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (1; 50% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 goeswith	color:blue
+1	Тэмы	тэма	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	0:root|5:nsubj:pass	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
+3	якія	які	PRON	WPA	Case=Nom|Number=Plur|PronType=Rel	5	nsubj:pass	1:ref	_
+4	будуць	быць	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	aux:pass	5:aux:pass	_
+5	узнятыя	узняць	VERB	VBNH	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	acl:relcl	1:acl:relcl	_
+6	пад	падчас	ADP	IN	Typo=Yes	9	case	9:case	comment="пад,ADP+час,NOUN,Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing"
+7	час	_	X	_	_	6	goeswith	6:goeswith	_
+8	двухдзённых	двухдзённы	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	9	amod	9:amod	_
+9	інтэнсіваў	інтэнсіў	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	5:obl:падчас:gen	SpaceAfter=No
+10	:	:	PUNCT	PUNCT	_	12	punct	12:punct	_
+11	моладзевае	моладзевы	ADJ	ORD	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	12:amod	_
+12	прадпрымальніцтва	прадпрымальніцтва	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	parataxis	1:parataxis	_
+13	і	і	CCONJ	CC	_	14	cc	14:cc	_
+14	бізнэс-ініцыятывы	бізнэс-ініцыятыва	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	conj	1:parataxis|12:conj	SpaceAfter=No
+15	,	,	PUNCT	PUNCT	_	16	punct	16:punct	_
+16	стварэнне	стварэнне	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	conj	1:parataxis|12:conj	_
+17	і	і	CCONJ	CC	_	18	cc	18:cc	_
+18	рэалізацыя	рэалізацыя	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	conj	1:parataxis|16:conj	_
+19	грамадскіх	грамадскі	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	24	amod	24:amod	SpaceAfter=No
+20	,	,	PUNCT	PUNCT	_	21	punct	21:punct	_
+21	культурных	культурны	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	19	conj	19:conj|24:amod	_
+22	і	і	CCONJ	CC	_	23	cc	23:cc	_
+23	сацыяльных	сацыяльны	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	19	conj	19:conj|24:amod	_
+24	праектаў	праект	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	18:nmod:gen	SpaceAfter=No
+25	;	;	PUNCT	PUNCT	_	26	punct	26:punct	_
+26	праца	праца	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	conj	1:parataxis|12:conj	_
+27	і	і	CCONJ	CC	_	28	cc	28:cc	_
+28	прасоўванне	прасоўванне	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	26	conj	1:parataxis|26:conj	_
+29	ў	у	ADP	IN	_	31	case	31:case	_
+30	сацыяльных	сацыяльны	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	31	amod	31:amod	_
+31	медыя	медыя	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	28	nmod	28:nmod:у:loc	SpaceAfter=No
+32	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+
+~~~
 
 
 ~~~ conllu
@@ -22,82 +64,10 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 goeswith	color:blue
-1	Пача-	пачатак	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
+1	Пача-	пачатак	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	0	root	0:root	_
 2	так	_	X	X	_	1	goeswith	1:goeswith	_
 3	XX	XX	ADJ	ORD	_	4	amod	4:amod	_
 4	ст.	стагоддзе	NOUN	NN	Abbr=Yes	1	nmod	1:nmod	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 25 goeswith	color:blue
-1	Кожную	кожны	DET	DT	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	2	det	2:det	_
-2	сераду	серада	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	8:obl:acc	_
-3	ў	у	ADP	IN	_	6	case	6:case	_
-4	«	«	PUNCT	PUNCT	_	6	punct	6:punct	SpaceAfter=No
-5	Арт	арт	NOUN	NN	Foreign=Yes	6	compound	6:compound	_
-6	Сядзібе	сядзіба	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	8:obl:у:loc	SpaceAfter=No
-7	»	»	PUNCT	PUNCT	_	6	punct	6:punct	_
-8	праходзіць	праходзіць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-9	праект	праект	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	_
-10	«	«	PUNCT	PUNCT	_	11	punct	11:punct	SpaceAfter=No
-11	Б	б	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	appos	9:appos	_
-12	Е	Е	X	X	_	11	goeswith	11:goeswith	_
-13	Л	Л	X	X	_	11	goeswith	11:goeswith	_
-14	А	а	X	X	_	11	goeswith	11:goeswith	_
-15	Р	Р	X	X	_	11	goeswith	11:goeswith	_
-16	У	у	X	X	_	11	goeswith	11:goeswith	_
-17	С	с	X	X	_	11	goeswith	11:goeswith	_
-18	К	к	X	X	_	11	goeswith	11:goeswith	_
-19	А	а	X	X	_	11	goeswith	11:goeswith	_
-20	М	М	X	X	_	11	goeswith	11:goeswith	_
-21	О	о	X	X	_	11	goeswith	11:goeswith	_
-22	Ў	у	X	X	_	11	goeswith	11:goeswith	_
-23	Н	н	X	X	_	11	goeswith	11:goeswith	_
-24	Ы	ы	X	X	_	11	goeswith	11:goeswith	_
-25	Я	я	X	X	_	11	goeswith	11:goeswith	SpaceAfter=No
-26	»	»	PUNCT	PUNCT	_	11	punct	11:punct	SpaceAfter=No
-27	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 24 goeswith	color:blue
-1	🌟	🌟	SYM	SYM	_	2	parataxis	2:parataxis	_
-2	Сустракаемся	сустракацца	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	_
-3	ўжо	ужо	ADV	RB	Degree=Pos	2	advmod	2:advmod	_
-4	заўтра	заўтра	ADV	RB	Degree=Pos	2	advmod	2:advmod	_
-5	з	з	ADP	IN	_	7	case	7:case	_
-6	нашымі	наш	DET	DT	Case=Ins|Number=Plur|Poss=Yes|PronType=Prs	7	det	7:det	_
-7	героямі	герой	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	2	obl	2:obl:з:ins	SpaceAfter=No
-8	-	-	PUNCT	PUNCT	_	9	punct	9:punct	SpaceAfter=No
-9	Б	Б	X	X	_	7	appos	7:appos	_
-10	Е	Е	X	X	_	9	goeswith	9:goeswith	_
-11	Л	Л	X	X	_	9	goeswith	9:goeswith	_
-12	А	А	X	X	_	9	goeswith	9:goeswith	_
-13	Р	Р	X	X	_	9	goeswith	9:goeswith	_
-14	У	У	X	X	_	9	goeswith	9:goeswith	_
-15	С	С	X	X	_	9	goeswith	9:goeswith	_
-16	К	К	X	X	_	9	goeswith	9:goeswith	_
-17	А	А	X	X	_	9	goeswith	9:goeswith	_
-18	М	М	X	X	_	9	goeswith	9:goeswith	_
-19	О	О	X	X	_	9	goeswith	9:goeswith	_
-20	Ў	Ў	X	X	_	9	goeswith	9:goeswith	_
-21	Н	Н	X	X	_	9	goeswith	9:goeswith	_
-22	Ы	Ы	X	X	_	9	goeswith	9:goeswith	_
-23	М	М	X	X	_	9	goeswith	9:goeswith	_
-24	І	І	X	X	_	9	goeswith	9:goeswith	SpaceAfter=No
-25	:	:	PUNCT	PUNCT	_	2	punct	2:punct	_
 
 ~~~
 

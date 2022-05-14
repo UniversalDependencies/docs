@@ -28,7 +28,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	zomrelo	zomrieť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
 5	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	7	case	7:case	_
 6	dôsledku	dôsledok	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	fixed	5:fixed	_
-7	havárie	havária	NOUN	SSfs2	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl:v_dôsledok:gen	_
+7	havárie	havária	NOUN	SSfs2	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl:v_dôsledku:gen	_
 8	na	na	ADP	Eu4	AdpType=Prep|Case=Acc	9	case	9:case	_
 9	rakovinu	rakovina	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	4	obl	4:obl:na:acc	SpaceAfter=No
 10	.	.	PUNCT	Z	_	4	punct	4:punct	_

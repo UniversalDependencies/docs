@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>որ</em> (<tt><a href="hy_armtdp-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.052632 (the average of all parts of speech is 1.814529).
+The form / lemma ratio of `SCONJ` is 1.052632 (the average of all parts of speech is 1.814455).
 
 The 1st highest number of forms (2) was observed with the lemma “ինչպես”: <em>ինչպես, ոնց</em>.
 

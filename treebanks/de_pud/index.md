@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Georg Rehm, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Michael Mandl, Sebastian Bank, Martin Popel, Daniel Zeman.
 
 Repository: [UD_German-PUD](https://github.com/UniversalDependencies/UD_German-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 3.0
 
@@ -156,6 +156,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Fin
   <ul>
+    <li>AUX: war</li>
     <li>VERB: bleiben</li>
   </ul>
   </li>
@@ -255,6 +256,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: ersten, neue, eigene, große, britischen, erste, gemeinsamen, letzten, neuen, zweiten</li>
       <li>AUX: ist, war, wurde, wird, hat, hatte, kann, würde, muss, könnte</li>
+      <li>AUX-Fin: war</li>
       <li>DET: der, dem, die, das, des, eine, ein, den, einer, einem</li>
       <li>NOUN: Jahr, Zeit, Regierung, Stadt, Geschichte, Jahrhundert, Oktober, Teil, Film, Mal</li>
       <li>PRON: es, er, sich, der, sie, die, ich, ihr, seine, seiner</li>
@@ -361,8 +363,6 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: ersten, neue, letzten, bekannt, möglich, neuen, groß, große, politischen, Vereinigten</li>
       <li>ADV: auch, nicht, so, noch, nur, sehr, jedoch, mehr, davon, immer</li>
-      <li>NUM: hunderte</li>
-      <li>PART: nicht</li>
     </ul>
   </li>
 </ul>
@@ -410,6 +410,7 @@ employ ten-fold cross-validation.
   <li>Ind
     <ul>
       <li>AUX: ist, war, wurde, wird, wurden, sind, hat, hatte, waren, kann</li>
+      <li>AUX-Fin: war</li>
       <li>VERB: sagte, ist, hat, gibt, wurde, sagt, begann, war, hatte, führte</li>
       <li>X: didn', t</li>
     </ul>
@@ -433,6 +434,7 @@ employ ten-fold cross-validation.
   <li>Past
     <ul>
       <li>AUX: war, wurde, worden, wurden, hatte, waren, würde, hatten, könnte, sollte</li>
+      <li>AUX-Fin: war</li>
       <li>VERB: sagte, verwendet, wurde, begann, genutzt, war, veröffentlicht, errichtet, gegeben, gewählt</li>
       <li>VERB-Part: abgesehen, gefolgt, gesagt, Geformt, abgehärtet, angeklagt, begründet, bekannt, geeignet, gefasst</li>
       <li>X: didn', t</li>
@@ -465,7 +467,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Art
     <ul>
-      <li>DET: dem</li>
+      <li>DET: dem, ein, eine</li>
     </ul>
   </li>
 </ul>
@@ -538,9 +540,9 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: ersten, neue, letzten, neuen, große, politischen, Vereinigten, britische, britischen, eigene</li>
       <li>AUX: ist, war, wurde, wird, wurden, sind, hat, waren, hatte, kann</li>
+      <li>AUX-Fin: war</li>
       <li>DET: der, die, dem, den, das, des, eine, ein, einer, einem</li>
       <li>NOUN: Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Jahrhundert, Oktober</li>
-      <li>NUM: hunderte</li>
       <li>PRON: es, sich, die, er, sie, der, seine, ihre, ihr, seiner</li>
       <li>PROPN: Chr., China, Trump, USA, Frankreich, Joseph, US, Hong, Paris, Qing</li>
       <li>VERB: sagte, ist, hat, gibt, wurde, sagt, begann, war, hatte, führte</li>

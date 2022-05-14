@@ -22,14 +22,14 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 nsubj:pass	color:blue
-1	afletanda	af-letan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=LUKE_7.47
-2	frawaurhteis	frawaurhts	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	1	nsubj:pass	_	ref=LUKE_7.47
-3	izos	is	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	det	_	ref=LUKE_7.47
-4	þos	sa	DET	Pd	Case=Nom|Gender=Fem|Number=Plur	5	det	_	ref=LUKE_7.47
-5	managons	manags	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	2	nmod	_	ref=LUKE_7.47
-6	unte	unte	SCONJ	G-	_	7	mark	_	ref=LUKE_7.47
-7	frijoda	frijon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=LUKE_7.47
-8	filu	filu	ADV	Df	Degree=Pos	7	advmod	_	ref=LUKE_7.47
+1	afletanda	af-letan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Ref=LUKE_7.47
+2	frawaurhteis	frawaurhts	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	1	nsubj:pass	_	Ref=LUKE_7.47
+3	izos	is	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	det	_	Ref=LUKE_7.47
+4	þos	sa	DET	Pd	Case=Nom|Gender=Fem|Number=Plur	5	det	_	Ref=LUKE_7.47
+5	managons	manags	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	2	nmod	_	Ref=LUKE_7.47
+6	unte	unte	SCONJ	G-	_	7	mark	_	Ref=LUKE_7.47
+7	frijoda	frijon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	Ref=LUKE_7.47
+8	filu	filu	ADV	Df	Degree=Pos	7	advmod	_	Ref=LUKE_7.47
 
 ~~~
 
@@ -40,11 +40,11 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 nsubj:pass	color:blue
-1	taleiþa	taleiþa	X	F-	_	5	vocative	_	ref=MARK_5.41
-2	kumei	kumei	X	F-	_	5	vocative	_	ref=MARK_5.41
-3	þatei	saei	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj:pass	_	ref=MARK_5.41
-4	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=MARK_5.41|LId=1
-5	gaskeiriþ	ga-skeirjan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=MARK_5.41
+1	taleiþa	taleiþa	X	F-	_	5	vocative	_	Ref=MARK_5.41
+2	kumei	kumei	X	F-	_	5	vocative	_	Ref=MARK_5.41
+3	þatei	saei	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj:pass	_	Ref=MARK_5.41
+4	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	LId=1|Ref=MARK_5.41
+5	gaskeiriþ	ga-skeirjan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Ref=MARK_5.41
 
 ~~~
 
@@ -55,12 +55,12 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj:pass	color:blue
-1	sa	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	ref=LUKE_7.27
-2	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_7.27|LId=1
-3	bi	bi	ADP	R-	_	4	case	_	ref=LUKE_7.27
-4	þanei	saei	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	5	obl	_	ref=LUKE_7.27
-5	gamelid	ga-meljan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=LUKE_7.27
-6	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_7.27|LId=1
+1	sa	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	Ref=LUKE_7.27
+2	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	LId=1|Ref=LUKE_7.27
+3	bi	bi	ADP	R-	_	4	case	_	Ref=LUKE_7.27
+4	þanei	saei	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	5	obl	_	Ref=LUKE_7.27
+5	gamelid	ga-meljan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Ref=LUKE_7.27
+6	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	LId=1|Ref=LUKE_7.27
 
 ~~~
 

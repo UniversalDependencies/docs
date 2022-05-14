@@ -23,12 +23,12 @@ The following 20 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 7 acl:relcl	color:blue
 1	Juureen	juuri	NOUN	_	Case=Ill|Number=Sing	2	obl	_	_
-2	laitettu	laittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	laitettu	laittaa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 3	yksi	yksi	NUM	_	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	_
 4	ommel	ommel	NOUN	_	Case=Nom|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
 6	joka	joka	PRON	_	Case=Nom|Number=Sing|PronType=Rel	7	nsubj	_	_
-7	tyrehdyttänyt	tyrehdyttää	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	4	acl:relcl	_	_
+7	tyrehdyttänyt	tyrehdyttää	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	4	acl:relcl	_	_
 8	vuodon	vuoto	NOUN	_	Case=Gen|Number=Sing	7	obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -68,7 +68,7 @@ The following 20 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 5	,	,	PUNCT	_	_	8	punct	_	_
 6	jotka	joka	PRON	_	Case=Nom|Number=Plur|PronType=Rel	8	obj	_	_
 7	olen	olla	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
-8	saanut	saada	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	acl:relcl	_	SpaceAfter=No
+8	saanut	saada	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	acl:relcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
 ~~~

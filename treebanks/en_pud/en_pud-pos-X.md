@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-PUD: POS Tags: `X`
 
-There are 15 `X` lemmas (0%), 15 `X` types (0%) and 16 `X` tokens (0%).
+There are 16 `X` lemmas (0%), 16 `X` types (0%) and 17 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 12 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>de, andes, andino, coup, force, grâce, maiorum, mare, mos, nostrum</em>
+The 10 most frequent `X` lemmas: <em>de, _, andes, andino, coup, force, grâce, maiorum, mare, mos</em>
 
 The 10 most frequent `X` types:  <em>de, Andes, Force, Mare, Nostrum, Ouvrière, Traum, Zettel, andino, coup</em>
 
 The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="en_pud-pos-X.html">X</a></tt> 2), <em>force</em> (<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 5, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="en_pud-pos-X.html">X</a></tt> 2), <em>Andes</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="en_pud-pos-X.html">X</a></tt> 2), <em>Andes</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>show</em> (<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1)
 
 
 * <em>de</em>
@@ -24,6 +24,10 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="en_pud-pos-PROP
 * <em>Andes</em>
   * <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 2: <em>Before the <b>Andes</b> were formed , the western margin of South America had already been the site of several orogenies .</em>
   * <tt><a href="en_pud-pos-X.html">X</a></tt> 1: <em>The central Andes belong to the so - called ' <b>Andes</b> de tipo andino ' which were formed by the subduction of the oceanic crust .</em>
+* <em>show</em>
+  * <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 4: <em>London ’s landmark South Bank Tower commissioned interior designer Rachel Winham to design the <b>show</b> apartment .</em>
+  * <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1: <em>In color , the leaves <b>show</b> a great variety of greens , ranging from yellowish to bluish .</em>
+  * <tt><a href="en_pud-pos-X.html">X</a></tt> 1: <em>New episodes are followed by after <b>show</b> , " The Talking Dead . "</em>
 * <em>’s</em>
   * <tt><a href="en_pud-pos-PART.html">PART</a></tt> 15: <em>The new spending is fueled by Clinton <b>’s</b> large bank account .</em>
   * <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 10: <em>He <b>’s</b> spoken in favour of torture .</em>
@@ -33,36 +37,36 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="en_pud-pos-PROP
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.138758).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.138927).
 
-The 1st highest number of forms (1) was observed with the lemma “andes”: <em>Andes</em>.
+The 1st highest number of forms (1) was observed with the lemma “_”: <em>show</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “andino”: <em>andino</em>.
+The 2nd highest number of forms (1) was observed with the lemma “andes”: <em>Andes</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “coup”: <em>coup</em>.
+The 3rd highest number of forms (1) was observed with the lemma “andino”: <em>andino</em>.
 
-`X` occurs with 1 features: <tt><a href="en_pud-feat-Foreign.html">Foreign</a></tt> (6; 38% instances)
+`X` occurs with 1 features: <tt><a href="en_pud-feat-Foreign.html">Foreign</a></tt> (6; 35% instances)
 
 `X` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (10 tokens).
-Examples: <em>Mare, Nostrum, Ouvrière, Traum, Zettel, andino, grâce, maiorum, mos, ’s</em>
+The most frequent feature combination is `_` (11 tokens).
+Examples: <em>Mare, Nostrum, Ouvrière, Traum, Zettel, andino, grâce, maiorum, mos, show</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 8 different relations: <tt><a href="en_pud-dep-flat.html">flat</a></tt> (7; 44% instances), <tt><a href="en_pud-dep-compound.html">compound</a></tt> (2; 13% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (2; 13% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (1; 6% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (1; 6% instances), <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (1; 6% instances), <tt><a href="en_pud-dep-nmod-poss.html">nmod:poss</a></tt> (1; 6% instances), <tt><a href="en_pud-dep-root.html">root</a></tt> (1; 6% instances)
+`X` nodes are attached to their parents using 9 different relations: <tt><a href="en_pud-dep-flat.html">flat</a></tt> (7; 41% instances), <tt><a href="en_pud-dep-compound.html">compound</a></tt> (2; 12% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (2; 12% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (1; 6% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (1; 6% instances), <tt><a href="en_pud-dep-goeswith.html">goeswith</a></tt> (1; 6% instances), <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (1; 6% instances), <tt><a href="en_pud-dep-nmod-poss.html">nmod:poss</a></tt> (1; 6% instances), <tt><a href="en_pud-dep-root.html">root</a></tt> (1; 6% instances)
 
-Parents of `X` nodes belong to 4 different parts of speech: <tt><a href="en_pud-pos-X.html">X</a></tt> (10; 63% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (3; 19% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2; 13% instances),  (1; 6% instances)
+Parents of `X` nodes belong to 4 different parts of speech: <tt><a href="en_pud-pos-X.html">X</a></tt> (10; 59% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4; 24% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2; 12% instances),  (1; 6% instances)
 
-8 (50%) `X` nodes are leaves.
+9 (53%) `X` nodes are leaves.
 
-3 (19%) `X` nodes have one child.
+3 (18%) `X` nodes have one child.
 
 1 (6%) `X` nodes have two children.
 
-4 (25%) `X` nodes have three or more children.
+4 (24%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 9.
 

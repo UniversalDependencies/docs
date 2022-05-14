@@ -9,17 +9,26 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-864 tokens (1%) have a non-empty value of `Polarity`.
-18 types (0%) occur at least once with a non-empty value of `Polarity`.
+866 tokens (1%) have a non-empty value of `Polarity`.
+19 types (0%) occur at least once with a non-empty value of `Polarity`.
 7 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> (864; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (863; 1% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (3; 0% instances).
 
-### `SCONJ`
+### `AUX`
 
-864 <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> tokens (10% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
+863 <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-`SCONJ` tokens may have the following values of `Polarity`:
+`AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (864; 100% of non-empty `Polarity`): ない, ず, ん, なかっ, なく, なければならない, なけれ, ぬ, ざるをえない, ざるを得ない
-* `EMPTY` (7708): て, ている, てい, が, である, の, ので, と, ており, であっ
+* `Neg` (863; 100% of non-empty `Polarity`): ない, ず, ん, なかっ, なく, なけれ, なければならない, ぬ, ざるをえない, ざるを得ない
+* `EMPTY` (17525): た, れ, ている, な, てい, に, ます, です, である, まし
+
+### `NOUN`
+
+3 <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Polarity`.
+
+`NOUN` tokens may have the following values of `Polarity`:
+
+* `Neg` (3; 100% of non-empty `Polarity`): なし
+* `EMPTY` (35042): こと, ため, もの, 後, よう, 人, 中, 他, 場合, お店
 

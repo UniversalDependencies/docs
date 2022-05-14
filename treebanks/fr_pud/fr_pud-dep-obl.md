@@ -61,7 +61,7 @@ The following 28 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 obl	color:blue
-1	Leur	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	wordform=leur
+1	Leur	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	3	det	_	wordform=leur
 2	premier	premier	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
 3	roi	roi	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 4	fut	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_

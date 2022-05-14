@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:cop	color:blue
-1	Iũpiri	iũpiri	NOUN	_	_	3	nsubj:cop	_	_
+1	Iũpiri	iũpiri	NOUN	_	Gender=Masc|Possessed=No	3	nsubj:cop	_	_
 2	xuxuri	txutxuri	NOUN	_	_	1	conj	_	_
 3	atuku	atuku	ADJ	_	_	0	root	_	_
 4	itxa	txa	AUX	_	_	3	cop	_	SpaceAfter=No

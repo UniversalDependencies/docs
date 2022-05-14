@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-12718 tokens (8%) have a non-empty value of `Degree`.
-6080 types (22%) occur at least once with a non-empty value of `Degree`.
-3231 lemmas (24%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (9490; 6% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3047; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (180; 0% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+12538 tokens (8%) have a non-empty value of `Degree`.
+6068 types (22%) occur at least once with a non-empty value of `Degree`.
+3230 lemmas (24%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (9490; 6% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3047; 2% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
@@ -90,17 +90,6 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 </table>
 
 `Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (642) occur only with one value of `Degree`.
-
-### `DET`
-
-180 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (180; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (178; 99%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (115; 64%).
-
-`DET` tokens may have the following values of `Degree`:
-
-* `Pos` (180; 100% of non-empty `Degree`): <em>každý, každou, každé, každá, každým, každého, každém, každému</em>
-* `EMPTY` (8237): <em>to, jeho, který, ten, které, která, tom, všechno, toho, své</em>
 
 ### `NOUN`
 

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Karo-TuDeT: POS Tags: `AUX`
 
-There are 4 `AUX` lemmas (3%), 44 `AUX` types (5%) and 174 `AUX` tokens (8%).
-Out of 13 observed tags, the rank of `AUX` is: 8 in number of lemmas, 5 in number of types and 6 in number of tokens.
+There are 4 `AUX` lemmas (1%), 42 `AUX` types (5%) and 174 `AUX` tokens (8%).
+Out of 13 observed tags, the rank of `AUX` is: 11 in number of lemmas, 5 in number of types and 6 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>_, nã, ʔe, kap</em>
+The 10 most frequent `AUX` lemmas: <em>ʔe, nã, kap, waʔye</em>
 
-The 10 most frequent `AUX` types:  <em>ʔet, nãn, wet, toʔwa, at, okay, aʔkay, wep, aʔnãn, aʔwaʔye</em>
+The 10 most frequent `AUX` types:  <em>ʔet, nãn, wet, toʔwa, at, okay, aʔnãn, aʔkay, wep, aʔwaʔye</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 423, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 392, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 224, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 132, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 82, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 78, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 71, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 57, <tt><a href="arr_tudet-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="arr_tudet-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="arr_tudet-pos-X.html">X</a></tt> 5, <tt><a href="arr_tudet-pos-NUM.html">NUM</a></tt> 4, <tt><a href="arr_tudet-pos-PUNCT.html">PUNCT</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>ʔe</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 106, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 1), <em>nã</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 31, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>kap</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 29, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>nãn</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 21, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 3), <em>at</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 53, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 12, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 10), <em>ye</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 3, <tt><a href="arr_tudet-pos-SCONJ.html">SCONJ</a></tt> 2), <em>ʔa</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 3), <em>nã</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>ekap</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 1, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>nãn</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 21, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 3), <em>at</em> (<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 53, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 12, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 10), <em>ye</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 3, <tt><a href="arr_tudet-pos-SCONJ.html">SCONJ</a></tt> 3), <em>ʔa</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 3), <em>nã</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>ekap</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 1, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>nãn</em>
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>nãn</em> (<tt><a href="arr_tudet-pos
   * <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 10: <em>agóaʔpər <b>at</b> kaʔa</em>
 * <em>ye</em>
   * <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 3: <em>naco ʔerem <b>ye</b> kanãp iʔkəga</em>
-  * <tt><a href="arr_tudet-pos-SCONJ.html">SCONJ</a></tt> 2: <em>wawwaw bay <b>ye</b> ŋaʔet toyaʔwara</em>
+  * <tt><a href="arr_tudet-pos-SCONJ.html">SCONJ</a></tt> 3: <em>õn ŋabean <b>ye</b> ŋa oyaʔti nãn</em>
 * <em>ʔa</em>
   * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 18: <em>wat kaʔa <b>ʔa</b> pɨk=toʔ</em>
   * <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 3: <em>paramu <b>ʔa</b> owikop</em>
@@ -40,13 +40,13 @@ The 10 most frequent ambiguous types:  <em>nãn</em> (<tt><a href="arr_tudet-pos
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 11.000000 (the average of all parts of speech is 5.748252).
+The form / lemma ratio of `AUX` is 10.500000 (the average of all parts of speech is 1.579457).
 
-The 1st highest number of forms (40) was observed with the lemma “_”: <em>[ʔet], a, ap, aʔkay, aʔmãn, aʔwaʔye, ekab, ekay, ep, eʔa, gay, ikap, iʔkap, iʔkay, karoʔwa, kay, nã, okap, okay, reʔkay, roʔwa, toʔwa, toʔwa], wa, wa], waʔye, we, web, wep, wer, wet, ye, yet, ŋaap, ŋanãn, ŋaʔet, ʔa, ʔat, ʔep, ʔet</em>.
+The 1st highest number of forms (24) was observed with the lemma “ʔe”: <em>a, ap, at, ep, eʔa, karoʔwa, roʔwa, toʔwa, toʔwa], wa, wa], we, web, wep, wer, wet, ye, yet, ŋaap, ŋaʔet, ʔa, ʔat, ʔep, ʔet</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “ʔe”: <em>at, yet, ʔep</em>.
+The 2nd highest number of forms (12) was observed with the lemma “kap”: <em>aʔkay, ekab, ekap, ekay, gay, ikap, iʔkap, iʔkay, kay, okap, okay, reʔkay</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “kap”: <em>ekap, okap</em>.
+The 3rd highest number of forms (4) was observed with the lemma “nã”: <em>aʔnãn, nã, nãn, ŋanãn</em>.
 
 `AUX` occurs with 9 features: <tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt> (120; 69% instances), <tt><a href="arr_tudet-feat-Person.html">Person</a></tt> (118; 68% instances), <tt><a href="arr_tudet-feat-Number.html">Number</a></tt> (97; 56% instances), <tt><a href="arr_tudet-feat-Tense.html">Tense</a></tt> (29; 17% instances), <tt><a href="arr_tudet-feat-VerbForm.html">VerbForm</a></tt> (27; 16% instances), <tt><a href="arr_tudet-feat-Corf.html">Corf</a></tt> (15; 9% instances), <tt><a href="arr_tudet-feat-Int.html">Int</a></tt> (8; 5% instances), <tt><a href="arr_tudet-feat-Clas.html">Clas</a></tt> (3; 2% instances), <tt><a href="arr_tudet-feat-Clusivity.html">Clusivity</a></tt> (3; 2% instances)
 
@@ -54,7 +54,7 @@ The 3rd highest number of forms (2) was observed with the lemma “kap”: <em>e
 
 `AUX` occurs with 33 feature combinations.
 The most frequent feature combination is `Decl=Assert` (33 tokens).
-Examples: <em>ʔet, nãn, wet, at, okay, aʔkay, aʔnãn, [ʔet], aʔmãn, gay</em>
+Examples: <em>ʔet, nãn, wet, at, okay, aʔnãn, aʔkay, gay, kay, wer</em>
 
 
 ## Relations

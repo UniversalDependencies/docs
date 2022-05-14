@@ -43,7 +43,7 @@ The following 24 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	Kolmantena	kolmas	ADJ	_	Case=Ess|Number=Sing|NumType=Ord	2	amod	2:amod	_
 2	päivänä	päivä	NOUN	_	Case=Ess|Number=Sing	4	obl	4:obl	_
 3	olin	olla	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
-4	palannut	palata	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+4	palannut	palata	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 5	EMicron	EMicro	PROPN	_	Case=Gen|Number=Sing	4	obl	4:obl	_
 6	pariin	pariin	ADP	_	AdpType=Post	5	case	5:case	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	4:punct	_
@@ -60,7 +60,7 @@ The following 24 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	Onko	olla	AUX	_	Clitic=Ko|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 2	toinen	toinen	ADJ	_	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	3	amod	3:amod	_
 3	kausi	kausi	NOUN	_	Case=Nom|Number=Sing	4	nsubj	4:nsubj	_
-4	toiminut	toimia	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+4	toiminut	toimia	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 5	tähän	tämä	PRON	_	Case=Ill|Number=Sing|PronType=Dem	4	obl	4:obl	_
 6	asti	asti	ADP	_	AdpType=Post	5	case	5:case	SpaceAfter=No
 7	?	?	PUNCT	_	_	4	punct	4:punct	_

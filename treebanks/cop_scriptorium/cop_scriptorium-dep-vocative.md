@@ -35,7 +35,7 @@ The following 12 pairs of parts of speech are connected with `vocative`: <tt><a 
 11	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	14	mark	_	_
 12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
 13	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	Orig=ⲧⲛ̄
-14	ⲧⲥⲁⲃⲟ	ⲧⲥⲁⲃⲟ	VERB	V	VerbForm=Fin	10	acl	_	_
+14	ⲧⲥⲁⲃⲟ	ⲧⲥⲁⲃⲟ	VERB	V	VerbForm=Fin	10	acl:relcl	_	_
 15	ⲉⲣⲟ	ⲉ	ADP	PREP	_	16	case	_	_
 16	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	obl	_	Entity=abstract)
 17	·	·	PUNCT	PUNCT	_	5	punct	_	_
@@ -61,7 +61,7 @@ The following 12 pairs of parts of speech are connected with `vocative`: <tt><a 
 10	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	13	vocative	_	Entity=(person-John_the_Apostle)|Orig=ⲓ̅ⲱϩⲁⲛⲛⲏⲥ|OrigLang=he
 11	·	·	PUNCT	PUNCT	_	10	punct	_	_
 12	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
-13	ⲣⲭⲣⲉⲓⲁ	ⲣⲭⲣⲉⲓⲁ	VERB	V	Foreign=Yes|VerbForm=Fin	4	ccomp	_	Morphs=ⲣ-ⲭⲣⲉⲓⲁ|Orig=ⲉⲣⲭⲣⲓⲁ`|OrigLang=grc
+13	ⲣⲭⲣⲉⲓⲁ	ⲣⲭⲣⲉⲓⲁ	VERB	V	Foreign=Yes|VerbForm=Fin	4	ccomp	_	MSeg=ⲣ-ⲭⲣⲉⲓⲁ|Orig=ⲉⲣⲭⲣⲓⲁ`|OrigLang=grc
 14	ⲙⲙⲟ	ⲛ	ADP	PREP	_	15	case	_	_
 15	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	obl	_	_
 16	·	·	PUNCT	PUNCT	_	4	punct	_	_

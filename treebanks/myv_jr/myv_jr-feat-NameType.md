@@ -9,16 +9,16 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `Geo`, `Giv`, `Hom`, `Oth`, `Pat`, `Sur`.
 
-577 tokens (3%) have a non-empty value of `NameType`.
-149 types (3%) occur at least once with a non-empty value of `NameType`.
-93 lemmas (3%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (573; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
+578 tokens (3%) have a non-empty value of `NameType`.
+150 types (3%) occur at least once with a non-empty value of `NameType`.
+94 lemmas (3%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (574; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
 
 ### `PROPN`
 
-573 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `NameType`.
+574 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (568; 99%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (458; 80%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (450; 79%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (398; 69%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (397; 69%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (569; 99%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (459; 80%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (451; 79%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (399; 70%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (398; 69%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 * `Hom` (16; 3% of non-empty `NameType`): <em>Дёбаень, Барякань, Якшамкань, Нельгонь, Вардай, Дёбай, Лемдяйнень, Мазуронь</em>
 * `Oth` (16; 3% of non-empty `NameType`): <em>Волчок, Бертяз, Бертязгак, Пургине, Христозонть</em>
 * `Pat` (1; 0% of non-empty `NameType`): <em>Авдеевич</em>
-* `Sur` (155; 27% of non-empty `NameType`): <em>Ястребов, Федоров, Лапшов, Дуняшин, Дуняшинэнь, Рябов, Громов, Федоровонь, Юрченко, Вострин</em>
+* `Sur` (156; 27% of non-empty `NameType`): <em>Ястребов, Федоров, Лапшов, Дуняшин, Дуняшинэнь, Рябов, Громов, Федоровонь, Юрченко, Вострин</em>
 
 <table>
   <tr><th>Paradigm <i>Люба</i></th><th><tt>Giv</tt></th><th><tt>Sur</tt></th></tr>
@@ -37,7 +37,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Люба</em></td><td></td></tr>
 </table>
 
-`NameType` seems to be **lexical feature** of `PROPN`. 98% lemmas (87) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `PROPN`. 98% lemmas (88) occur only with one value of `NameType`.
 
 ### `NOUN`
 

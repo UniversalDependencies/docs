@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="gd_arcosg-dep-case.html">case</a></tt>.
 
-67 nodes (0%) are attached to their parents as `case:voc`.
+75 nodes (0%) are attached to their parents as `case:voc`.
 
-67 instances of `case:voc` (100%) are right-to-left (child precedes parent).
+75 instances of `case:voc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (42; 63% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (19; 28% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (6; 9% instances).
+The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (50; 67% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (19; 25% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (6; 8% instances).
 
 
 ~~~ conllu
@@ -41,9 +41,9 @@ The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 case:voc	color:blue
-1	ciamar	ciamar	ADV	Uq	_	3	xcomp:pred	_	_
-2	a	a	PART	Q-r	PartType=Vb|PronType=Rel	3	mark:prt	_	_
-3	bha	bi	VERB	V-s	Tense=Past	0	root	_	_
+1	ciamar	ciamar	ADV	Uq	_	0	root	_	_
+2	a	a	PART	Q-r	PartType=Vb|PronType=Rel	3	xcomp:pred	_	_
+3	bha	bi	VERB	V-s	Tense=Past	1	acl:relcl	_	_
 4	na	an	DET	Tdp	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	veggie	veggie	NOUN	Xfe	Foreign=Yes	3	nsubj	_	_
 6	burgers	burgers	NOUN	Xfe	Foreign=Yes	5	flat:name	_	_

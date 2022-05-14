@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Jack Rueter, Markus Juutinen, Francis Tyers, Tommi A Pirinen, Mika Hämäläinen.
 
 Repository: [UD_Skolt_Sami-Giellagas](https://github.com/UniversalDependencies/UD_Skolt_Sami-Giellagas)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsms_giellagas29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsms_giellagas210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -87,7 +87,7 @@ however, we would be no where…
 
 ## POS Tags
 
-[ADJ](sms_giellagas-pos-ADJ.html) – [ADP](sms_giellagas-pos-ADP.html) – [ADV](sms_giellagas-pos-ADV.html) – [AUX](sms_giellagas-pos-AUX.html) – [CCONJ](sms_giellagas-pos-CCONJ.html) – [DET](sms_giellagas-pos-DET.html) – [INTJ](sms_giellagas-pos-INTJ.html) – [NOUN](sms_giellagas-pos-NOUN.html) – [NUM](sms_giellagas-pos-NUM.html) – [PART](sms_giellagas-pos-PART.html) – [PRON](sms_giellagas-pos-PRON.html) – [PROPN](sms_giellagas-pos-PROPN.html) – [PUNCT](sms_giellagas-pos-PUNCT.html) – [SCONJ](sms_giellagas-pos-SCONJ.html) – [VERB](sms_giellagas-pos-VERB.html)
+[ADJ](sms_giellagas-pos-ADJ.html) – [ADP](sms_giellagas-pos-ADP.html) – [ADV](sms_giellagas-pos-ADV.html) – [AUX](sms_giellagas-pos-AUX.html) – [CCONJ](sms_giellagas-pos-CCONJ.html) – [DET](sms_giellagas-pos-DET.html) – [INTJ](sms_giellagas-pos-INTJ.html) – [NOUN](sms_giellagas-pos-NOUN.html) – [NUM](sms_giellagas-pos-NUM.html) – [PART](sms_giellagas-pos-PART.html) – [PRON](sms_giellagas-pos-PRON.html) – [PROPN](sms_giellagas-pos-PROPN.html) – [PUNCT](sms_giellagas-pos-PUNCT.html) – [SCONJ](sms_giellagas-pos-SCONJ.html) – [VERB](sms_giellagas-pos-VERB.html) – [X](sms_giellagas-pos-X.html)
 
 ## Features
 
@@ -95,17 +95,17 @@ however, we would be no where…
 
 ## Relations
 
-[advcl](sms_giellagas-dep-advcl.html) – [advcl:tcl](sms_giellagas-dep-advcl-tcl.html) – [advmod](sms_giellagas-dep-advmod.html) – [advmod:deg](sms_giellagas-dep-advmod-deg.html) – [advmod:eval](sms_giellagas-dep-advmod-eval.html) – [advmod:foc](sms_giellagas-dep-advmod-foc.html) – [advmod:lmod](sms_giellagas-dep-advmod-lmod.html) – [advmod:mmod](sms_giellagas-dep-advmod-mmod.html) – [advmod:neg](sms_giellagas-dep-advmod-neg.html) – [advmod:tmod](sms_giellagas-dep-advmod-tmod.html) – [amod](sms_giellagas-dep-amod.html) – [appos](sms_giellagas-dep-appos.html) – [aux](sms_giellagas-dep-aux.html) – [aux:nec](sms_giellagas-dep-aux-nec.html) – [aux:neg](sms_giellagas-dep-aux-neg.html) – [aux:tense](sms_giellagas-dep-aux-tense.html) – [case](sms_giellagas-dep-case.html) – [cc](sms_giellagas-dep-cc.html) – [ccomp](sms_giellagas-dep-ccomp.html) – [conj](sms_giellagas-dep-conj.html) – [cop](sms_giellagas-dep-cop.html) – [dep](sms_giellagas-dep-dep.html) – [det](sms_giellagas-dep-det.html) – [discourse](sms_giellagas-dep-discourse.html) – [dislocated](sms_giellagas-dep-dislocated.html) – [expl](sms_giellagas-dep-expl.html) – [fixed](sms_giellagas-dep-fixed.html) – [flat:name](sms_giellagas-dep-flat-name.html) – [goeswith](sms_giellagas-dep-goeswith.html) – [mark](sms_giellagas-dep-mark.html) – [nmod](sms_giellagas-dep-nmod.html) – [nmod:poss](sms_giellagas-dep-nmod-poss.html) – [nsubj](sms_giellagas-dep-nsubj.html) – [nsubj:cop](sms_giellagas-dep-nsubj-cop.html) – [nsubj:pass](sms_giellagas-dep-nsubj-pass.html) – [nummod](sms_giellagas-dep-nummod.html) – [obj](sms_giellagas-dep-obj.html) – [obl](sms_giellagas-dep-obl.html) – [obl:agent](sms_giellagas-dep-obl-agent.html) – [obl:lmod](sms_giellagas-dep-obl-lmod.html) – [obl:tmod](sms_giellagas-dep-obl-tmod.html) – [orphan](sms_giellagas-dep-orphan.html) – [parataxis](sms_giellagas-dep-parataxis.html) – [punct](sms_giellagas-dep-punct.html) – [reparandum](sms_giellagas-dep-reparandum.html) – [root](sms_giellagas-dep-root.html) – [vocative](sms_giellagas-dep-vocative.html) – [xcomp](sms_giellagas-dep-xcomp.html)
+[acl](sms_giellagas-dep-acl.html) – [advcl](sms_giellagas-dep-advcl.html) – [advcl:tcl](sms_giellagas-dep-advcl-tcl.html) – [advmod](sms_giellagas-dep-advmod.html) – [advmod:deg](sms_giellagas-dep-advmod-deg.html) – [advmod:eval](sms_giellagas-dep-advmod-eval.html) – [advmod:foc](sms_giellagas-dep-advmod-foc.html) – [advmod:lmod](sms_giellagas-dep-advmod-lmod.html) – [advmod:mmod](sms_giellagas-dep-advmod-mmod.html) – [advmod:neg](sms_giellagas-dep-advmod-neg.html) – [advmod:tmod](sms_giellagas-dep-advmod-tmod.html) – [amod](sms_giellagas-dep-amod.html) – [appos](sms_giellagas-dep-appos.html) – [aux](sms_giellagas-dep-aux.html) – [aux:nec](sms_giellagas-dep-aux-nec.html) – [aux:neg](sms_giellagas-dep-aux-neg.html) – [aux:tense](sms_giellagas-dep-aux-tense.html) – [case](sms_giellagas-dep-case.html) – [cc](sms_giellagas-dep-cc.html) – [ccomp](sms_giellagas-dep-ccomp.html) – [conj](sms_giellagas-dep-conj.html) – [cop](sms_giellagas-dep-cop.html) – [dep](sms_giellagas-dep-dep.html) – [det](sms_giellagas-dep-det.html) – [discourse](sms_giellagas-dep-discourse.html) – [dislocated](sms_giellagas-dep-dislocated.html) – [expl](sms_giellagas-dep-expl.html) – [fixed](sms_giellagas-dep-fixed.html) – [flat:name](sms_giellagas-dep-flat-name.html) – [goeswith](sms_giellagas-dep-goeswith.html) – [mark](sms_giellagas-dep-mark.html) – [nmod](sms_giellagas-dep-nmod.html) – [nmod:poss](sms_giellagas-dep-nmod-poss.html) – [nsubj](sms_giellagas-dep-nsubj.html) – [nsubj:cop](sms_giellagas-dep-nsubj-cop.html) – [nsubj:pass](sms_giellagas-dep-nsubj-pass.html) – [nummod](sms_giellagas-dep-nummod.html) – [obj](sms_giellagas-dep-obj.html) – [obl](sms_giellagas-dep-obl.html) – [obl:agent](sms_giellagas-dep-obl-agent.html) – [obl:lmod](sms_giellagas-dep-obl-lmod.html) – [obl:tmod](sms_giellagas-dep-obl-tmod.html) – [orphan](sms_giellagas-dep-orphan.html) – [parataxis](sms_giellagas-dep-parataxis.html) – [punct](sms_giellagas-dep-punct.html) – [reparandum](sms_giellagas-dep-reparandum.html) – [root](sms_giellagas-dep-root.html) – [vocative](sms_giellagas-dep-vocative.html) – [xcomp](sms_giellagas-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 200 sentences, 2460 tokens and 2461 syntactic words.</li>
+<li>This corpus contains 218 sentences, 2647 tokens and 2648 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 544 tokens (22%) that are not followed by a space.</li>
+<li>This corpus contains 599 tokens (23%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -113,7 +113,7 @@ however, we would be no where…
 </ul>
 
 <ul>
-<li>This corpus contains 22 types of words that contain both letters and punctuation. Examples: i-ǥõl, dõõzz-e, koll’je, leäk-a, lij-a, nuʹt-i, tok-i, tõt-i, võʹll’ji, Haaʹlääk-a, Jeänn’jam, aalmi-han, jeänn’jad, jiânnai-a, koozz-a, miõtt-talkknid, olgglab-a, puk-i, pâi-i, tõzz-e, vueʹljžiǩ-a, võʹll’jam</li>
+<li>This corpus contains 24 types of words that contain both letters and punctuation. Examples: i-ǥõl, dõõzz-e, koll’je, leäk-a, lij-a, nuʹt-i, tok-i, tõt-i, võʹll’ji, Haaʹlääk-a, Jeänn’jam, aalmi-han, eʹpet-i, jeänn’jad, jiânnai-a, koozz-a, miõtt-talkknid, olgglab-a, puk-i, pâi-i, tõzz-e, vueʹljžiǩ-a, võʹll’jam, Šurr-a</li>
 </ul>
 
 <ul>
@@ -126,8 +126,8 @@ however, we would be no where…
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: SYM, X</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: SYM</li>
 </ul>
 
 <ul>
@@ -170,7 +170,7 @@ however, we would be no where…
   <li>Inf
   <ul>
     <li>AUX: leeʹd</li>
-    <li>VERB: jieʹlled, kooǯǯted, väʹldded, jååʹtted, mõõnnâd, njuiʹǩǩeed, ǩiččâd, jälsted, kueʹstted, käggõõttâd</li>
+    <li>VERB: jieʹlled, kooǯǯted, väʹldded, jååʹtted, mõõnnâd, hiâvted, njuiʹǩǩeed, ǩiččâd, jälsted, kueʹstted</li>
   </ul>
   </li>
 </ul>
@@ -224,10 +224,10 @@ however, we would be no where…
 <ul>
   <li>Plur
     <ul>
-      <li>AUX: liâ, jeäʹla, Jeäʹled, jeäʹp, jiâ, lee</li>
+      <li>AUX: liâ, jeäʹla, jeäʹp, Jeäʹled, jiâ, lee</li>
       <li>DET: tok</li>
       <li>NOUN: muõrid, kooʹddid, kåʹllkåʹđđnjõõzzid, oummu, peästtõõǥǥ, päärna, aaiʹtid, jurddi, järraz, kaappi</li>
-      <li>PRON: miʹjjid, seeʹst, tõid, dõõk, jiijj, måttam, tuk, Täk, mij, sij</li>
+      <li>PRON: miʹjjid, seeʹst, tõid, tuk, dõõk, jiijj, måttam, Täk, mij, sij</li>
       <li>VERB: jälste, ceäʹlǩǩe, mõõnnâd, puõʹtte, räʹjje, vaʹldde, kâʹčče, mõʹnne, aʹhtte, koll’je</li>
     </ul>
   </li>
@@ -236,9 +236,9 @@ however, we would be no where…
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: jõnn, nuʹbb, tiõrvâs, jåʹttel, kuuʹǩǩ, lääʹđesmiõllsab, muʹvddem, nuuʹbb, occkaž, šuurab</li>
+      <li>ADJ: jõnn, nuʹbb, tiõrvâs, jåʹttel, kuuʹǩǩ, lääʹđesmiõllsab, muʹvddem, nuuʹbb, occkaž, šurr</li>
       <li>ADV: kuuʹǩǩ, mâʹst, mõõzz</li>
-      <li>AUX: lij, leäi, ij, jiõk, õõk, jiõm, leäk, iʹlla, iʹlleäk, leäm</li>
+      <li>AUX: lij, ij, leäi, jiõk, õõk, jiõm, leäk, iʹlla, iʹlleäk, leäm</li>
       <li>DET: tõn, Tät, Tõt, jiijjâs</li>
       <li>NOUN: ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, ääkka, eččad, niõđ, niõđâž</li>
       <li>NUM: kueʹhtt, õhtt, čiččâm, kooum, kooumâst</li>
@@ -268,9 +268,9 @@ however, we would be no where…
     <ul>
       <li>ADJ: kuuʹǩǩ, nuuʹbb</li>
       <li>DET: jiijjâs</li>
-      <li>NOUN: tueʹllj, niõđ, muõrid, kåʹddtueʹllj, čääʹʒʒ, kooʹddid, kåʹllkåʹđđnjõõzzid, peäʹl, aaut, jällmõõžž</li>
+      <li>NOUN: tueʹllj, niõđ, muõrid, kåʹddtueʹllj, čääʹʒʒ, kooʹddid, kåʹllkåʹđđnjõõzzid, peäʹl, ääušas, aaut</li>
       <li>NUM: kooum</li>
-      <li>PRON: tõn, muu, mâiʹd, suu, tuu, tõid, Tän, miʹjjid, muännaid</li>
+      <li>PRON: tõn, muu, mâiʹd, suu, tõid, miʹjjid, tuu, Tän, muännaid</li>
       <li>VERB-Vnoun: puälddmõõžž</li>
     </ul>
   </li>
@@ -290,7 +290,7 @@ however, we would be no where…
     <ul>
       <li>NOUN: kämmǥižžen, triâŋggân, kaavân, kueʹllen, näuʹdden, heäppšen, låʹdden, ooumžen, säldten</li>
       <li>NUM: koummân</li>
-      <li>VERB: vueʹtǩǩmen, håiddmen, jååʹttmen</li>
+      <li>VERB: vueʹtǩǩmen, viikkmen, håiddmen, jååʹttmen</li>
     </ul>
   </li>
 </ul>
@@ -299,9 +299,9 @@ however, we would be no where…
   <li>Gen
     <ul>
       <li>DET: tõn</li>
-      <li>NOUN: ääkka, heäppaž, suõv, tueʹllj, kuäʹđ, kämmǥa, Peter, Siõm, Tuõddâr, caar</li>
+      <li>NOUN: ääkka, heäppaž, suõv, tueʹllj, kuäʹđ, kämmǥa, Peter, Siõm, caar, eeʹjj</li>
       <li>NUM: kooum</li>
-      <li>PRON: tõn, suu, dõõn, mõõn, nuuʹbb, tuu, tän</li>
+      <li>PRON: tõn, suu, dõõn, tuu, mõõn, nuuʹbb, tän</li>
       <li>PROPN: Franskkjânnam</li>
     </ul>
   </li>
@@ -313,7 +313,7 @@ however, we would be no where…
       <li>ADJ: jõnn</li>
       <li>ADP: årra, luzz</li>
       <li>ADV: koozz, koozz-a, mõõzz</li>
-      <li>NOUN: pärnna, kuätta, põʹrtte, aaiʹtid, ekka, heävašstallju, kuättses, kuäʹttnjälmma, kõʹsǩǩe, muõrrmaddja</li>
+      <li>NOUN: pärnna, kuätta, põʹrtte, Pella, aaiʹtid, ekka, heävašstallju, kuättses, kuäʹttnjälmma, kõʹsǩǩe</li>
       <li>PRON: miʹjjid, muʹnne, tõid, ǩeäzz</li>
     </ul>
   </li>
@@ -325,7 +325,7 @@ however, we would be no where…
       <li>ADV: koʹst, mâʹst</li>
       <li>NOUN: mieʹccest, oummust, ääiʹtest, luândstes, lõõnjâst, vueiʹvvgåårdest, ǩeeʹrjteeʹjest</li>
       <li>NUM: kooumâst</li>
-      <li>PRON: suʹst, seeʹst, dââʹst, muʹst, suännast, tõʹst</li>
+      <li>PRON: seeʹst, suʹst, dââʹst, muʹst, suännast, tõʹst</li>
       <li>PROPN: Pariizzâst</li>
     </ul>
   </li>
@@ -334,12 +334,12 @@ however, we would be no where…
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: nuʹbb, tiõrvâs, jåʹttel, lääʹđesmiõllsab, muʹvddem, occkaž, šuurab</li>
+      <li>ADJ: nuʹbb, tiõrvâs, jåʹttel, lääʹđesmiõllsab, muʹvddem, occkaž, šurr, šuurab</li>
       <li>ADV: kuuʹǩǩ</li>
       <li>DET: Tät, Tõt, tok</li>
-      <li>NOUN: ooumaž, heävaš, nijdd, stäʹlmmstääll, eččad, niõđâž, källsaž, triâŋgg, kåʹddpäärnaž, tieʹrmes</li>
+      <li>NOUN: ooumaž, heävaš, nijdd, stäʹlmmstääll, eččad, niõđâž, källsaž, triâŋgg, Peʹll, kåʹddpäärnaž</li>
       <li>NUM: kueʹhtt, õhtt, čiččâm</li>
-      <li>PRON: son, tõt, ton, mon, mii, puk, kååʹtt, nåkkam, dõõk, dõõt</li>
+      <li>PRON: son, tõt, ton, mon, mii, puk, nåkkam, dõõt, kååʹtt, tuk</li>
       <li>PROPN: Peter, Mary, Brown, Jane, Smith</li>
       <li>VERB: älgg</li>
     </ul>
@@ -378,7 +378,7 @@ however, we would be no where…
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: ij, jiõk, jiõm, iʹlla, iʹlleäk, Jeäʹled, jeäʹla, jeäʹp, jiâ</li>
+      <li>AUX: ij, jiõk, jiõm, iʹlla, iʹlleäk, jeäʹp, Jeäʹled, jeäʹla, jiâ</li>
       <li>INTJ: ij</li>
       <li>PART: ni</li>
     </ul>
@@ -418,7 +418,7 @@ however, we would be no where…
   <li>Imp
     <ul>
       <li>AUX: Jeäʹled</li>
-      <li>VERB: mõõnnâd, tiâr, puäʹđ, kueʹst, kulddâl, säärn, vueiʹn, Ääʹved</li>
+      <li>VERB: mõõnnâd, tiâr, puäʹđ, kueʹst, kulddâl, säärn, vueiʹn, vueiʹt, Ääʹved</li>
     </ul>
   </li>
 </ul>
@@ -426,7 +426,7 @@ however, we would be no where…
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: lij, leäi, ij, jiõk, õõk, liâ, jiõm, õõlǥ, leäk, leäkku</li>
+      <li>AUX: lij, ij, leäi, jiõk, liâ, õõk, õõlǥ, jiõm, leäk, leäkku</li>
       <li>VERB: ceälkk, mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, jälste, lij, vuõʹlji, ǩiõzzam</li>
     </ul>
   </li>
@@ -436,7 +436,7 @@ however, we would be no where…
   <li>Pot
     <ul>
       <li>AUX: leežž</li>
-      <li>VERB: leežž, Mõõnžiǩ, kooʹddže, poouǩeškueʹđež, ǩiʹcstež, aaudže, kâssneškueʹđež, piijže, piâzzžiǩ, vueʹljžiǩ</li>
+      <li>VERB: leežž, Mõõnžiǩ, kooʹddže, poouǩeškueʹđež, ǩiʹcstež, aaudže, kâssneškueʹđež, piijže, piijžik, piijžiǩ</li>
     </ul>
   </li>
 </ul>
@@ -457,8 +457,8 @@ however, we would be no where…
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: lij, õõk, liâ, õõlǥ, leäk, leäkku, iʹlla, iʹlleäk, jeäʹla, leäm</li>
-      <li>VERB: ceälkk, lij, ǩiõzzam, jåått, ceäʹlǩǩe, pohtt, räʹjje, mâânn, väldd, vääldam</li>
+      <li>AUX: lij, liâ, õõk, õõlǥ, leäk, leäkku, iʹlla, iʹlleäk, jeäʹla, leäm</li>
+      <li>VERB: ceälkk, lij, ǩiõzzam, jåått, ceäʹlǩǩe, pohtt, räʹjje, vuâlgg, mâânn, puätt</li>
     </ul>
   </li>
 </ul>
@@ -487,7 +487,7 @@ however, we would be no where…
   <li>Dem
     <ul>
       <li>DET: tõn, Tät, Tõt</li>
-      <li>PRON: tõn, tõt, tõid, tuk, tut, tän, tõt-i, Täk, dõõk, dõõn</li>
+      <li>PRON: tõn, tõt, tõid, tuk, tut, tän, tät, tõt-i, Täk, dõõk</li>
     </ul>
   </li>
 </ul>
@@ -505,7 +505,7 @@ however, we would be no where…
   <li>Prs
     <ul>
       <li>DET: jiijjâs</li>
-      <li>PRON: son, ton, mon, suu, muu, miʹjjid, suʹst, seeʹst, tuu, jiijj</li>
+      <li>PRON: son, ton, mon, suu, muu, miʹjjid, seeʹst, suʹst, tuu, jiijj</li>
     </ul>
   </li>
 </ul>
@@ -560,9 +560,9 @@ however, we would be no where…
 <ul>
   <li>1
     <ul>
-      <li>AUX: jiõm, leäm, jeäʹp, leʹjjem</li>
+      <li>AUX: jiõm, jeäʹp, leäm, leʹjjem</li>
       <li>PRON: mon, muu, miʹjjid, mij, muännaid, muʹnne, muʹst</li>
-      <li>VERB: ǩiõzzam, vääldam, čuõlmmääm, vuâlǥam, vuõʹlǧǧem, Joordam, jieʹlim, pooutam, puõʹttem, teâđam</li>
+      <li>VERB: ǩiõzzam, vääldam, čuõlmmääm, vuâlǥam, roʹttjam, vuõʹlǧǧem, Joordam, jieʹlim, piâzzam, pooutam</li>
     </ul>
   </li>
 </ul>
@@ -580,9 +580,9 @@ however, we would be no where…
 <ul>
   <li>3
     <ul>
-      <li>AUX: lij, leäi, ij, liâ, iʹlla, iʹlleäk, jeäʹla, lij-a, feʹrttji, jiâ</li>
+      <li>AUX: lij, ij, leäi, liâ, iʹlla, iʹlleäk, jeäʹla, lij-a, feʹrttji, jiâ</li>
       <li>DET: jiijjâs</li>
-      <li>PRON: son, suu, suʹst, seeʹst, sij, suäna, suännast</li>
+      <li>PRON: son, suu, seeʹst, suʹst, sij, suäna, suännast</li>
       <li>VERB: ceälkk, mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, jälste, lij, vuõʹlji, jåått</li>
     </ul>
   </li>
@@ -597,7 +597,7 @@ however, we would be no where…
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: eeʹjjed, jällmõõžžâz, vuõddjez</li>
+      <li>NOUN: eeʹjjed, jällmõõžžâz, neävveez, vuõddjez</li>
     </ul>
   </li>
 </ul>
@@ -606,7 +606,7 @@ however, we would be no where…
   <li>Sing
     <ul>
       <li>ADP: piirâs</li>
-      <li>NOUN: eččad, jeäʹnnes, triâŋgâs, vuäʹbbes, ääušas, Jeänn’jam, eččan, heäppšines, jeännam, jeänn’jad</li>
+      <li>NOUN: eččad, jeäʹnnes, ääušas, triâŋgâs, vuäʹbbes, Jeänn’jam, eččan, heäppšines, jeännam, jeänn’jad</li>
     </ul>
   </li>
 </ul>
@@ -619,7 +619,7 @@ however, we would be no where…
     <ul>
       <li>Post
         <ul>
-          <li>ADP: ool, luzz, âʹlnn, räjja, årra</li>
+          <li>ADP: ool, luzz, âʹlnn, mieʹldd, räjja, årra</li>
         </ul>
       </li>
       <li>Prep
@@ -649,7 +649,7 @@ however, we would be no where…
     <ul>
       <li>AddI
         <ul>
-          <li>ADV: tok-i, nuʹt-i, pâi-i</li>
+          <li>ADV: tok-i, nuʹt-i, pâi-i, eʹpet-i</li>
           <li>PRON: tõt-i, puk-i</li>
         </ul>
       </li>
@@ -662,6 +662,7 @@ however, we would be no where…
         <ul>
           <li>ADV: olgglab-a, koozz-a</li>
           <li>AUX: lij-a, leäk-a</li>
+          <li>NOUN: Šurr-a</li>
           <li>PRON: jiânnai-a</li>
           <li>VERB: Haaʹlääk-a, leäk-a, vueʹljžiǩ-a</li>
         </ul>
@@ -676,7 +677,7 @@ however, we would be no where…
       <li>Yes
         <ul>
           <li>AUX: õõlǥ, leäkku</li>
-          <li>VERB: kuâddam, kueʹst, tieʹđ, õõlǥ, šõõdd, cieʹlǩ, kaaun, kooǯǯtam, kååddče, kååʹdd</li>
+          <li>VERB: kuâddam, kueʹst, piâzz, tieʹđ, šõõdd, cieʹlǩ, kaaun, kooǯǯtam, kååddče, kååʹdd</li>
         </ul>
       </li>
     </ul>
@@ -693,7 +694,7 @@ however, we would be no where…
       </li>
       <li>InchL
         <ul>
-          <li>VERB: dõnnõǥškuätt, kâssneškueʹđež, lueʹštškueʹtted, säärntõlškuõʹđi, vuõddmâstõlškuõʹđi, šõllneškuõʹđež</li>
+          <li>VERB: dõnnõǥškuätt, kâssneškueʹđež, lueʹšttleškuätt, lueʹštškueʹtted, säärntõlškuõʹđi, vuõddmâstõlškuõʹđi, šõllneškuõʹđež</li>
           <li>VERB-Inf: lueʹštškueʹtted</li>
         </ul>
       </li>
@@ -749,7 +750,7 @@ however, we would be no where…
       <li>3
         <ul>
           <li>ADP: piirâs</li>
-          <li>NOUN: jeäʹnnes, triâŋgâs, vuäʹbbes, ääušas, heäppšines, jueʹljes, jällmõõžžâz, kuättses, kuõjâs, luândstes</li>
+          <li>NOUN: jeäʹnnes, ääušas, triâŋgâs, vuäʹbbes, heäppšines, jueʹljes, jällmõõžžâz, kuättses, kuõjâs, luândstes</li>
         </ul>
       </li>
     </ul>
@@ -762,7 +763,8 @@ however, we would be no where…
       <li>Yes
         <ul>
           <li>ADV: nuʹt, nuʹt-i</li>
-          <li>NOUN: villjâs, Čääʹʒʒid</li>
+          <li>NOUN: Tuõddâr, villjâs, Čääʹʒʒid</li>
+          <li>VERB: piijžik</li>
         </ul>
       </li>
     </ul>
@@ -806,13 +808,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Gen (2)</li>
+      <li>VERB--NOUN-Gen (1)</li>
       <li>VERB--NOUN-Ill (1)</li>
-      <li>VERB--NOUN-Nom (78)</li>
+      <li>VERB--NOUN-Nom (86)</li>
       <li>VERB--NOUN-Par (1)</li>
-      <li>VERB--PRON-Nom (99)</li>
+      <li>VERB--PRON-Nom (108)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Inf--PRON-Nom (2)</li>
+      <li>VERB-Inf--PRON-Nom (3)</li>
       <li>VERB-Part--NOUN-Ill (1)</li>
       <li>VERB-Part--NOUN-Nom (8)</li>
       <li>VERB-Part--PRON-Nom (8)</li>
@@ -823,11 +825,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (57)</li>
+      <li>VERB--NOUN-Acc (61)</li>
       <li>VERB--NOUN-Acc-ADP(rââst) (1)</li>
       <li>VERB--NOUN-Gen (2)</li>
       <li>VERB--NOUN-Nom (5)</li>
-      <li>VERB--PRON (4)</li>
+      <li>VERB--PRON (5)</li>
       <li>VERB--PRON-Acc (24)</li>
       <li>VERB--PRON-Gen (1)</li>
       <li>VERB--PRON-Nom (2)</li>
@@ -857,5 +859,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 18 relation subtypes: <a>advcl:tcl</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:nec</a>, <a>aux:neg</a>, <a>aux:tense</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>acl</a>, <a>clf</a>, <a>compound</a>, <a>list</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>clf</a>, <a>compound</a>, <a>list</a></li>
 </ul>

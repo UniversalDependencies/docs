@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="lv_lvtb-dep-aux-pass.html">aux:pass</a></tt>.
 
-1732 nodes (1%) are attached to their parents as `aux`.
+1815 nodes (1%) are attached to their parents as `aux`.
 
-1717 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19515011547344.
+1798 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19559228650138.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1693; 98% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1774; 98% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (17; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,16 +35,16 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 aux	color:blue
-1	Tā	tā	PRON	pd3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	nsubj	4:nsubj	LvtbNodeId=a-s41-p10s2w1
-2	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	LvtbNodeId=a-s41-p10s2w2
-3	neticama	ticēt	VERB	vmnpdfsnppnpy	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	4	amod	4:amod	LvtbNodeId=a-s41-p10s2w3
-4	loģika	loģika	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-s41-p10s2w4|SpaceAfter=No
-5	!	!	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-s41-p10s2w5
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 aux	color:blue
+1	Metējs	metējs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-d211-p221s2w1
+2	nekad	nekad	ADV	r0t	PronType=Int,Neg	1	advmod	1:advmod	LvtbNodeId=a-d211-p221s2w2
+3	neesmu	būt	AUX	vcnipii1say	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux	LvtbNodeId=a-d211-p221s2w3
+4	bijis	būt	AUX	vcnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	aux	1:aux	LvtbNodeId=a-d211-p221s2w4|SpaceAfter=No
+5	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-d211-p221s2w5
 
 ~~~
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 `AUX` tokens may have the following values of `Voice`:
 
 * `Pass` (2971; 100% of non-empty `Voice`): <em>wurde, werden, wird, wurden, worden, werde, würden, würde</em>
-* `EMPTY` (7621): <em>ist, war, sind, kann, hat, waren, haben, können, hatte, konnte</em>
+* `EMPTY` (7622): <em>ist, war, sind, kann, hat, waren, haben, können, hatte, konnte</em>
 
 ### `VERB`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `X` and `Voice` co-occurred: <
 `PUNCT` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>wurde</em>
-* `EMPTY` (38511): <em>., ,, -, ", ), (, !, :, ``, ''</em>
+* `EMPTY` (38496): <em>., ,, -, ", ), (, !, :, ``, ''</em>
 
 ## Relations with Agreement in `Voice`
 

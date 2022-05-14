@@ -79,7 +79,7 @@ The following 8 pairs of parts of speech are connected with `compound:prt`: <tt>
 14	glaube	glauben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	CSID=DE|Lang=de
 15	da	de	ADV	_	_	16	advmod	_	CSID=DE|Lang=de
 16	gehen	gehen	VERB	_	VerbForm=Inf	14	ccomp	_	CSID=DE|Lang=de
-17	viele	viel	PRON	_	Case=Nom|Definite=Ind|Number=Plur|PronType=Ind	16	nsubj	_	CSID=DE|Lang=de
+17	viele	viel	PRON	_	Case=Nom|Number=Plur|PronType=Ind	16	nsubj	_	CSID=DE|Lang=de
 18	hin	hin	PART	_	_	16	compound:prt	_	CSID=DE|Lang=de|SpaceAfter=No
 19	.	.	PUNCT	_	_	2	punct	_	CSID=OTHER
 

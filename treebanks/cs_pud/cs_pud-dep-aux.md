@@ -23,14 +23,14 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 aux	color:blue
-1	Bylo	být	VERB	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+1	Bylo	být	AUX	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	1:nsubj	_
 3	jako	jako	SCONJ	J,-------------	_	8	mark	8:mark	LId=jako-1
 4	když	když	SCONJ	J,-------------	_	8	mark	8:mark	_
 5	by	být	AUX	Vc-------------	Mood=Cnd|Person=3|VerbForm=Fin	8	aux	8:aux	_
 6	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	7	case	7:case	LId=s-1
 7	míčem	míč	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	8	obl	8:obl:s:ins	_
-8	hrál	hrát	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	1:advcl:jako_když	_
+8	hrál	hrát	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	1:advcl:jako	_
 9	skořápky	skořápka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	8	obj	8:obj	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 

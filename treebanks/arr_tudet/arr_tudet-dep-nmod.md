@@ -50,9 +50,9 @@ The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 2 nmod	color:blue
 1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	ip	_	NOUN	n	_	3	nmod	_	_
-3	ʔɨya	_	VERB	v	VerbForm=Ger	0	root	_	_
-4	kanã	_	PART	part	Nomzr=Circ	3	dep	_	_
+2	ip	ip	NOUN	n	_	3	nmod	_	_
+3	ʔɨya	ʔɨy	VERB	v	VerbForm=Ger	0	root	_	_
+4	kanã	kanã	PART	part	Nomzr=Circ	3	dep	_	_
 
 ~~~
 

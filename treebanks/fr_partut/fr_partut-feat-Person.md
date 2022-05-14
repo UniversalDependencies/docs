@@ -9,9 +9,11 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_partut-feat-Person.html">Person</a></tt>, <tt><a href="fr_partut-feat-Person-psor.html">Person[psor]</a></tt>.
+
 2900 tokens (10%) have a non-empty value of `Person`.
-597 types (14%) occur at least once with a non-empty value of `Person`.
-322 lemmas (11%) occur at least once with a non-empty value of `Person`.
+598 types (14%) occur at least once with a non-empty value of `Person`.
+320 lemmas (11%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1140; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1081; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (676; 2% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 ### `VERB`
@@ -91,12 +93,12 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `DET` tokens may have the following values of `Person`:
 
 * `3` (3; 100% of non-empty `Person`): <em>une</em>
-* `EMPTY` (4789): <em>le, les, la, l', une, un, des, ce, cette, ces</em>
+* `EMPTY` (4781): <em>le, les, la, l', une, un, des, ce, cette, ces</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (418; 65%),
+<tt>VERB --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (427; 65%),
 <tt>VERB --[<tt><a href="fr_partut-dep-expl.html">expl</a></tt>]--> PRON</tt> (105; 62%),
 <tt>PRON --[<tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (36; 63%),
 <tt>PRON --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).

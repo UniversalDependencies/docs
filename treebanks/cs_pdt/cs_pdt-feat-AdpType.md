@@ -9,19 +9,19 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Comprep`, `Prep`, `Voc`.
 
-145943 tokens (10%) have a non-empty value of `AdpType`.
-227 types (0%) occur at least once with a non-empty value of `AdpType`.
-116 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (145943; 10% instances).
+145944 tokens (10%) have a non-empty value of `AdpType`.
+228 types (0%) occur at least once with a non-empty value of `AdpType`.
+117 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (145944; 10% instances).
 
 ### `ADP`
 
-145943 <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+145944 <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
 * `Comprep` (286; 0% of non-empty `AdpType`): <em>vzhledem, nehledě, narozdíl</em>
-* `Prep` (134515; 92% of non-empty `AdpType`): <em>v, na, o, z, s, do, k, pro, za, po</em>
+* `Prep` (134516; 92% of non-empty `AdpType`): <em>v, na, o, z, s, do, k, pro, za, po</em>
 * `Voc` (11142; 8% of non-empty `AdpType`): <em>ve, se, ze, ke, ode, beze, ku, skrze, přede, nade</em>
 
 <table>
@@ -30,7 +30,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdt-pos-ADP.html
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>v</em></td><td><em>ve</em></td></tr>
 </table>
 
-`AdpType` seems to be **lexical feature** of `ADP`. 91% lemmas (105) occur only with one value of `AdpType`.
+`AdpType` seems to be **lexical feature** of `ADP`. 91% lemmas (106) occur only with one value of `AdpType`.
 
 ## Relations with Agreement in `AdpType`
 

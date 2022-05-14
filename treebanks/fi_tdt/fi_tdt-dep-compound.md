@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `compound`: <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt>, <tt><a href="fi_tdt-dep-compound-prt.html">compound:prt</a></tt>.
 
-177 nodes (0%) are attached to their parents as `compound`.
+185 nodes (0%) are attached to their parents as `compound`.
 
-176 instances of `compound` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19774011299435.
+184 instances of `compound` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18918918918919.
 
-The following 10 pairs of parts of speech are connected with `compound`: <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (137; 77% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (15; 8% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (6; 3% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `compound`: <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (137; 74% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (15; 8% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (6; 3% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 2	lihaa	liha	NOUN	N	Case=Par|Number=Sing	5	obj	5:obj	_
 3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	5:aux:pass	_
 4	vuosittain	vuosittain	ADV	Adv	Derivation=Ttain	5	advmod	5:advmod	_
-5	myytävänä	myydä	VERB	V	Case=Ess|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	_
+5	myytävänä	myydä	VERB	V	Case=Ess|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	_
 6	noin	noin	ADV	Adv	_	8	advmod	8:advmod	_
 7	kaksi	kaksi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	8	compound	8:compound	_
 8	miljoonaa	miljoona	NUM	Num	Case=Par|Number=Sing|NumType=Card	9	nummod	9:nummod	_

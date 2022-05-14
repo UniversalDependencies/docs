@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `PART`
 
 There are 14 `PART` lemmas (0%), 14 `PART` types (0%) and 210 `PART` tokens (1%).
-Out of 16 observed tags, the rank of `PART` is: 12 in number of lemmas, 12 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `PART` is: 12 in number of lemmas, 12 in number of types and 14 in number of tokens.
 
 The 10 most frequent `PART` lemmas: 的, か, さ, まで, たり, ほど, だけ, い, がかる, だらけ
 
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  か (<tt><a href="ja_pud-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.050009).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.068660).
 
 The 1st highest number of forms (1) was observed with the lemma “い”: い.
 
@@ -72,5 +72,5 @@ The highest child degree of a `PART` node is 3.
 
 Children of `PART` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (18; 100% instances)
 
-Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (6; 33% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 33% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (6; 33% instances)
+Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (6; 33% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (6; 33% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (6; 33% instances)
 

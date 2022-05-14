@@ -47,7 +47,7 @@ The following 29 pairs of parts of speech are connected with `conj`: <tt><a href
 5	eikä	ei	AUX	_	Clitic=Ka|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	8	aux	8:aux	_
 6	koskaan	koskaan	ADV	_	_	8	advmod	8:advmod	_
 7	ole	olla	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
-8	ollut	olla	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	conj	3:conj	SpaceAfter=No
+8	ollut	olla	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	3	conj	3:conj	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~

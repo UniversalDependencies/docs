@@ -23,18 +23,18 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (2; 100% of non-empty `Polite`): <em>Jy</em>
-* `EMPTY` (276): <em>ik, et, hee, dat, dee, sik, my, see, y, wat</em>
+* `EMPTY` (293): <em>ik, et, hee, dat, dee, my, sik, see, wat, y</em>
 
 ### `VERB`
 
 2 <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (2; 100%), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=2</tt> (2; 100%), <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="nds_lsdc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (2; 100%), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=2</tt> (2; 100%), <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Polite`:
 
 * `Form` (2; 100% of non-empty `Polite`): <em>geavet, skenket</em>
-* `EMPTY` (282): <em>hadde, leyt, doon, hebben, saeten, seen, loupen, nam, sea, stun</em>
+* `EMPTY` (304): <em>hadde, leyt, doon, hebben, saeten, seen, loupen, nam, sea, stun</em>
 
 ## Relations with Agreement in `Polite`
 

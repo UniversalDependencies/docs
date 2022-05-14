@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 50176 tokens (51%) have a non-empty value of `Gender`.
-24611 types (82%) occur at least once with a non-empty value of `Gender`.
-15058 lemmas (80%) occur at least once with a non-empty value of `Gender`.
+24612 types (82%) occur at least once with a non-empty value of `Gender`.
+15059 lemmas (80%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (9543; 10% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6584; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (3857; 4% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1428; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (824; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (607; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (579; 1% instances).
 
 ### `NOUN`
@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Fem` (2720; 29% of non-empty `Gender`): <em>второй, российской, первой, отечественной, большую, мировой, новой, центральной, северной, большая</em>
 * `Masc` (5073; 53% of non-empty `Gender`): <em>2008, 2010, 2004, первый, 2012, 2006, 2011, 2007, 2009, 2001</em>
 * `Neut` (1750; 18% of non-empty `Gender`): <em>1, 12, настоящее, 15, 14, 11, 21, 23, 29, первое</em>
-* `EMPTY` (2729): <em>других, различных, многие, первые, самых, новые, первых, новых, известных, разных</em>
+* `EMPTY` (2730): <em>других, различных, многие, первые, самых, новые, первых, новых, известных, разных</em>
 
 <table>
   <tr><th>Paradigm <i>первый</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -179,7 +179,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 * `Fem` (154; 25% of non-empty `Gender`): <em>одной, две, одна, двух, тыс., одну, 2, 1, обе, двум</em>
 * `Masc` (423; 70% of non-empty `Gender`): <em>два, один, 2, 1, двух, одним, одного, 22, оба, 21</em>
 * `Neut` (30; 5% of non-empty `Gender`): <em>одно, одним, одного, 2, два, двух, одном, 1, 12, 22</em>
-* `EMPTY` (1498): <em>несколько, 10, 4, три, 3, 5, 6, 20, четыре, 16</em>
+* `EMPTY` (1496): <em>несколько, 10, 4, три, 3, 5, 6, 20, четыре, 16</em>
 
 <table>
   <tr><th>Paradigm <i>один</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -224,7 +224,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7460; 76%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1107; 55%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1108; 55%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (964; 99%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (790; 69%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-det.html">det</a></tt>]--> DET</tt> (657; 51%),

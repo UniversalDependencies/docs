@@ -46,7 +46,7 @@ The most frequent other feature values with which `INTJ` and `Echo` co-occurred:
 
 ### `X`
 
-1 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Echo`.
+1 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Echo`.
 
 The most frequent other feature values with which `X` and `Echo` co-occurred: <tt><a href="hy_armtdp-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
 

@@ -40,18 +40,18 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	Пԓевыт	_	PART	_	_	7	advmod	_	Gloss=пусть.будет.так
-2	ӈан	_	ADV	_	_	1	flat	_	Gloss=DEICT
-3	эʼми	_	ADV	_	_	7	advmod	_	Gloss=где
-4	ваԓы	_	NOUN	_	_	7	nsubj	_	Gloss=нож.NOM.SG
-5	ӈутку	_	ADV	_	_	7	advmod	_	Gloss=здесь
-6	ӄоԓ	_	PRON	_	_	7	nmod	_	Gloss=некий
-7	гатымӈэвԓен	_	VERB	_	_	0	root	_	Gloss=PF-потеряться-PF.3SG
-8	ԓгититэепкы	_	ADV	_	_	9	advmod	_	Gloss=INTS-когда-ещё-LOC
-9	нэнаԓвавморэ	_	VERB	_	_	7	parataxis	_	Gloss=ST-INV-не.мочь-NP.1PL
-10	ԓьук	_	VERB	_	_	9	xcomp	_	Gloss=находить-LOC
-11	ъым	_	PART	_	_	10	advmod:emph	_	Gloss=EMPH
-12	.	_	PUNCT	_	_	7	punct	_	_
+1	Пԓевыт	_	PART	_	_	7	advmod	7:advmod	Gloss=пусть.будет.так
+2	ӈан	_	ADV	_	_	1	flat	1:flat	Gloss=DEICT
+3	эʼми	_	ADV	_	_	7	advmod	7:advmod	Gloss=где
+4	ваԓы	_	NOUN	_	_	7	nsubj	7:nsubj	Gloss=нож.NOM.SG
+5	ӈутку	_	ADV	_	_	7	advmod	7:advmod	Gloss=здесь
+6	ӄоԓ	_	PRON	_	_	7	nmod	7:nmod	Gloss=некий
+7	гатымӈэвԓен	_	VERB	_	_	0	root	0:root	Gloss=PF-потеряться-PF.3SG
+8	ԓгититэепкы	_	ADV	_	_	9	advmod	9:advmod	Gloss=INTS-когда-ещё-LOC
+9	нэнаԓвавморэ	_	VERB	_	_	7	parataxis	7:parataxis	Gloss=ST-INV-не.мочь-NP.1PL
+10	ԓьук	_	VERB	_	_	9	xcomp	9:xcomp	Gloss=находить-LOC
+11	ъым	_	PART	_	_	10	advmod:emph	10:advmod:emph	Gloss=EMPH
+12	.	_	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~
 
@@ -62,11 +62,11 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat	color:blue
-1	Ынпыначгын	_	NOUN	_	_	2	nsubj	_	Gloss=старик-NOM.SG
-2	иквъи	_	VERB	_	_	0	root	_	Gloss=2/3.S/A-сказать-TH-2/3SG.S
-3	ӈа	_	PART	_	_	2	parataxis:rep	_	Gloss=PTCL
-4	амвынэ	_	PART	_	_	3	flat	_	Gloss=RESTR-ну.ка|SpaceAfter=No
-5	.	_	PUNCT	_	_	2	punct	_	_
+1	Ынпыначгын	_	NOUN	_	_	2	nsubj	2:nsubj	Gloss=старик-NOM.SG
+2	иквъи	_	VERB	_	_	0	root	0:root	Gloss=2/3.S/A-сказать-TH-2/3SG.S
+3	ӈа	_	PART	_	_	2	parataxis:rep	2:parataxis:rep	Gloss=PTCL
+4	амвынэ	_	PART	_	_	3	flat	3:flat	Gloss=RESTR-ну.ка|SpaceAfter=No
+5	.	_	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

@@ -12,7 +12,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 10998 tokens (2%) have a non-empty value of `Case`.
 70 types (0%) occur at least once with a non-empty value of `Case`.
-7 lemmas (0%) occur at least once with a non-empty value of `Case`.
+6 lemmas (0%) occur at least once with a non-empty value of `Case`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (10998; 2% instances).
 
 ### `PRON`
@@ -29,11 +29,11 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (354; 3% of non-empty `Case`): <em>n', en, ne, 'n, -ne</em>
 * `Loc` (1317; 12% of non-empty `Case`): <em>hi</em>
 * `Nom` (86; 1% of non-empty `Case`): <em>jo, tu, hom</em>
-* `EMPTY` (12457): <em>que, un, tot, on, què, això, qual, qui, quals, ell</em>
+* `EMPTY` (12456): <em>que, un, tot, on, què, això, qual, qui, quals, ell</em>
 
 <table>
   <tr><th>Paradigm <i>ell</i></th><th><tt>Acc,Dat</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>el, lo, 'l, -lo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>el, lo, 'l, -lo, l</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>l'</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>la, -la</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>les</em></td><td></td></tr>

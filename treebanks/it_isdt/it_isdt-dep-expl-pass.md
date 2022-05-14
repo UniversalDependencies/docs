@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 # visual-style 8 7 expl:pass	color:blue
 1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	_
 2	lana	lana	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
-3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	5:det	_
 5	fibra	fibra	NOUN	S	Gender=Fem|Number=Sing	0	root	0:root|8:nsubj:pass	_
 6	che	che	PRON	PR	PronType=Rel	8	nsubj:pass	5:ref	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1939 nodes (1%) are attached to their parents as `xcomp`.
+2211 nodes (1%) are attached to their parents as `xcomp`.
 
-1926 instances of `xcomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.62300154718927.
+2197 instances of `xcomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.45318860244233.
 
-The following 31 pairs of parts of speech are connected with `xcomp`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1196; 62% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (336; 17% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (127; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (124; 6% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (52; 3% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (17; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (15; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `xcomp`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1346; 61% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (410; 19% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (152; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (146; 7% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (57; 3% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (13; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,11 +22,11 @@ The following 31 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 xcomp	color:blue
-1	Kendra	Kendra	PROPN	NNP	Number=Sing	4	vocative	4:vocative	Discourse=evaluation:16->14:2|Entity=(person-4-giv:act-1-coref)|SpaceAfter=No
+1	Kendra	Kendra	PROPN	NNP	Number=Sing	4	vocative	4:vocative	Discourse=evaluation-comment:16->14:2|Entity=(4-person-giv:act-cf1*-1-coref)|SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
 3	just	just	ADV	RB	_	4	advmod	4:advmod	_
 4	let	let	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	_
-5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj|6:nsubj:xsubj	Entity=(abstract-13-acc:com-1-sgl)
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj|6:nsubj:xsubj	Entity=(13-abstract-acc:com-cf2-1-sgl)
 6	go	go	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	SpaceAfter=No
 7	.	.	PUNCT	.	_	4	punct	4:punct	_
 
@@ -34,20 +34,17 @@ The following 31 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 xcomp	color:blue
-1	Gloria	Gloria	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj|4:nsubj:xsubj|6:nsubj:xsubj	Discourse=joint_m:34->23:2|Entity=(person-4-giv:act-1-coref)
-2	also	also	ADV	RB	_	3	advmod	3:advmod	_
-3	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-4	unable	unable	ADJ	JJ	Degree=Pos|Polarity=Neg	3	xcomp	3:xcomp	_
-5	to	to	PART	TO	_	6	mark	6:mark	_
-6	move	move	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
-7	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	Entity=(object-48-new-2-sgl(person-4-giv:act-1-ana)
-8	legs	leg	NOUN	NNS	Number=Plur	6	obj	6:obj	Entity=48)|SpaceAfter=No
-9	.	.	PUNCT	.	_	3	punct	3:punct	_
+# visual-style 3 5 xcomp	color:blue
+1	Did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux	3:aux	Discourse=topic-question:41->42:0
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	Entity=(5-person-giv:inact-cf1-1-ana)
+3	make	make	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj|5:nsubj:xsubj	Entity=(18-person-giv:inact-cf2-1-ana)
+5	aggressive	aggressive	ADJ	JJ	Degree=Pos	3	xcomp	3:xcomp	SpaceAfter=No
+6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 
@@ -58,9 +55,9 @@ The following 31 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 xcomp	color:blue
-1	Declares	declare	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Discourse=preparation:48->52:9
-2	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	obj	1:obj|3:nsubj:xsubj	Entity=(person-1-giv:act-1-ana-Emperor_Norton)
-3	emperor	emperor	NOUN	NN	Number=Sing	1	xcomp	1:xcomp	Entity=(person-1-giv:act-1-coref-Emperor_Norton)
+1	Declares	declare	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Discourse=organization-heading:48->52:9
+2	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	obj	1:obj|3:nsubj:xsubj	Entity=(1-person-giv:act-cf1*-1-ana-Emperor_Norton)
+3	emperor	emperor	NOUN	NN	Number=Sing	1	xcomp	1:xcomp	Entity=(1-person-giv:act-cf1*-1-coref-Emperor_Norton)
 
 ~~~
 

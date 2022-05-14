@@ -36,11 +36,11 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 aux	color:blue
-1	mɨy	_	ADV	adv	_	3	amod	_	_
+1	mɨy	mɨy	ADV	adv	_	3	amod	_	_
 2	mãm	mãm	PART	part	_	1	discourse	_	_
 3	péŋ	péŋ	NOUN	n	_	0	root	_	_
 4	ʔep	ʔe	AUX	aux	Decl=AssertFoc	3	aux	_	_
-5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	_	_
+5	toʔwa	ʔe	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	_	_
 
 ~~~
 
@@ -51,11 +51,11 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 aux	color:blue
-1	matet	_	ADV	adv	_	0	root	_	_
-2	kokoãm	_	PART	part	_	1	mark	_	_
-3	ocagəptoʔ	_	NOUN	n	Number=Plur|Person=1	1	nsubj	_	_
-4	ʔet	_	AUX	aux	Decl=Assert	1	aux	_	_
-5	toyawɨga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	dep	_	_
+1	matet	matet	ADV	adv	_	0	root	_	_
+2	kokoãm	koãm	PART	part	_	1	mark	_	_
+3	ocagəptoʔ	cagəp	NOUN	n	Number=Plur|Person=1	1	nsubj	_	_
+4	ʔet	ʔe	AUX	aux	Decl=Assert	1	aux	_	_
+5	toyawɨga	yawɨk	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	dep	_	_
 
 ~~~
 

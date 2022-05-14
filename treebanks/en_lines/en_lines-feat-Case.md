@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 `NOUN` tokens may have the following values of `Case`:
 
 * `Nom` (458; 100% of non-empty `Case`): <em>garden, Jews, sir, smile, faces, Americans, Mr., bush, fellow, objects</em>
-* `EMPTY` (16518): <em>data, man, time, field, way, people, father, page, eyes, file</em>
+* `EMPTY` (16519): <em>data, man, time, field, way, people, father, page, eyes, file</em>
 
 `Case` seems to be **lexical feature** of `NOUN`. 100% lemmas (152) occur only with one value of `Case`.
 
@@ -89,7 +89,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 `PROPN` tokens may have the following values of `Case`:
 
 * `Nom` (143; 100% of non-empty `Case`): <em>Access, Windows, Internet, NT, Other, Drive, Orders, Help, Salesperson, Fixed</em>
-* `EMPTY` (2826): <em>Harry, Quinn, Stillman, XML, Auster, Bray, SQL, Ron, Mweta, Dobby</em>
+* `EMPTY` (2825): <em>Harry, Quinn, Stillman, XML, Auster, Bray, SQL, Ron, Mweta, Dobby</em>
 
 `Case` seems to be **lexical feature** of `PROPN`. 100% lemmas (33) occur only with one value of `Case`.
 

@@ -8,12 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (9%) are attached to their parents as `punct`.
+216 nodes (20%) are attached to their parents as `punct`.
 
-30 instances of `punct` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.36111111111111.
+208 instances of `punct` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.59259259259259.
 
-The following 6 pairs of parts of speech are connected with `punct`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (20; 56% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (10; 28% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (3; 8% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 3% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 3% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (114; 53% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (78; 36% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="aqz_tudet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 punct	color:blue
+1	koro	koro	NOUN	n	_	3	obj	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	oerekwa	erek	VERB	vi	Person=1|Trans=Yes	0	root	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -35,28 +48,17 @@ The following 6 pairs of parts of speech are connected with `punct`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 punct	color:blue
-1	koro	koro	NOUN	n	_	3	obj	_	_
-2	,	,	PUNCT	punct	_	3	punct	_	_
-3	oerekwa	erek	VERB	vi	Person=1|Trans=Yes	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 punct	color:blue
-1	kotin	ko	NOUN	n	_	4	obj	_	_
-2	,	,	PUNCT	punct	_	3	punct	_	_
-3	eme	eme	DET	dem	Deixis=Prox	1	appos	_	_
-4	peka	peka	VERB	vt	_	0	root	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 punct	color:blue
+1	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	eni	eni	NOUN	n	_	3	obj	_	_
+3	erepe	erepe	VERB	vt	_	0	root	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	terepe	erepe	VERB	vt	Person=3	3	parataxis	_	_
 
 ~~~
 

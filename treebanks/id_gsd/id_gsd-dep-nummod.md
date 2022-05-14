@@ -22,14 +22,14 @@ The following 18 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 nummod	color:blue
-1	Let	let	PROPN	F--	_	5	nsubj	_	MorphInd=^let<f>_F--$
-2	It	it	PROPN	F--	_	1	flat:name	_	MorphInd=^it<f>_F--$
-3	Shine	shine	PROPN	X--	_	2	flat:name	_	MorphInd=^shine<x>_X--$
-4	adalah	adalah	AUX	O--	_	5	cop	_	MorphInd=^adalah<o>_O--$
-5	film	film	NOUN	NSD	Number=Sing	0	root	_	MorphInd=^film<n>_NSD$
-6	televisi	televisi	NOUN	NSD	Number=Sing	5	compound	_	MorphInd=^televisi<n>_NSD$
-7	2012	2012	NUM	CC-	NumType=Card	6	nummod	_	SpaceAfter=No|MorphInd=^2012<c>_CC-$
-8	.	.	PUNCT	Z--	_	5	punct	_	MorphInd=^.<z>_Z--$
+1	Let	let	PROPN	F--	_	5	nsubj	_	Morf=^let<f>_F--$
+2	It	it	PROPN	F--	_	1	flat:name	_	Morf=^it<f>_F--$
+3	Shine	shine	PROPN	X--	_	2	flat:name	_	Morf=^shine<x>_X--$
+4	adalah	adalah	AUX	O--	_	5	cop	_	Morf=^adalah<o>_O--$
+5	film	film	NOUN	NSD	Number=Sing	0	root	_	Morf=^film<n>_NSD$
+6	televisi	televisi	NOUN	NSD	Number=Sing	5	compound	_	Morf=^televisi<n>_NSD$
+7	2012	2012	NUM	CC-	NumType=Card	6	nummod	_	SpaceAfter=No|Morf=^2012<c>_CC-$
+8	.	.	PUNCT	Z--	_	5	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -40,13 +40,13 @@ The following 18 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 nummod	color:blue
-1	SURO	suro	PROPN	X--	_	0	root	_	MorphInd=^suro<x>_X--$
-2	SEDONO	sedono	PROPN	X--	_	1	flat:name	_	MorphInd=^sedono<x>_X--$
-3	1887	1887	NUM	CC-	NumType=Card	1	nummod	_	MorphInd=^1887<c>_CC-$
-4	-	-	PUNCT	Z--	_	5	punct	_	MorphInd=^-<z>_Z--$
-5	1899	1899	NUM	CC-	NumType=Card	1	nummod	_	MorphInd=^1899<c>_CC-$
-6	3	3	NUM	CC-	NumType=Card	1	nummod	_	SpaceAfter=No|MorphInd=^3<c>_CC-$
-7	.	.	PUNCT	Z--	_	1	punct	_	MorphInd=^.<z>_Z--$
+1	SURO	suro	PROPN	X--	_	0	root	_	Morf=^suro<x>_X--$
+2	SEDONO	sedono	PROPN	X--	_	1	flat:name	_	Morf=^sedono<x>_X--$
+3	1887	1887	NUM	CC-	NumType=Card	1	nummod	_	Morf=^1887<c>_CC-$
+4	-	-	PUNCT	Z--	_	5	punct	_	Morf=^-<z>_Z--$
+5	1899	1899	NUM	CC-	NumType=Card	1	nummod	_	Morf=^1899<c>_CC-$
+6	3	3	NUM	CC-	NumType=Card	1	nummod	_	SpaceAfter=No|Morf=^3<c>_CC-$
+7	.	.	PUNCT	Z--	_	1	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -57,17 +57,17 @@ The following 18 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 nummod	color:blue
-1	Kota	kota	PROPN	NSD	_	6	nsubj	_	MorphInd=^kota<n>_NSD$
-2	Kirchdorf	kirchdorf	PROPN	X--	_	1	flat:name	_	MorphInd=^kirchdorf<x>_X--$
-3	an	an	PROPN	F--	_	2	flat:name	_	MorphInd=^an<f>_F--$
-4	der	der	PROPN	F--	_	3	flat:name	_	MorphInd=^der<f>_F--$
-5	Amper	amper	PROPN	X--	_	4	flat:name	_	MorphInd=^amper<x>_X--$
-6	memiliki	milik	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	MorphInd=^meN+milik<v>+i_VSA$
-7	luas	luas	NOUN	ASP	_	6	obj	_	MorphInd=^luas<a>_ASP$
-8	sebesar	sebesar	ADP	R--	_	6	case	_	MorphInd=^sebesar<r>_R--$
-9	32988	32988	NUM	CC-	NumType=Card	10	nummod	_	MorphInd=^32988<c>_CC-$
-10	km²	km²	NUM	X--	NumType=Card	6	nummod	_	SpaceAfter=No|MorphInd=^km²<x>_X--$
-11	.	.	PUNCT	Z--	_	6	punct	_	MorphInd=^.<z>_Z--$
+1	Kota	kota	PROPN	NSD	_	6	nsubj	_	Morf=^kota<n>_NSD$
+2	Kirchdorf	kirchdorf	PROPN	X--	_	1	flat:name	_	Morf=^kirchdorf<x>_X--$
+3	an	an	PROPN	F--	_	2	flat:name	_	Morf=^an<f>_F--$
+4	der	der	PROPN	F--	_	3	flat:name	_	Morf=^der<f>_F--$
+5	Amper	amper	PROPN	X--	_	4	flat:name	_	Morf=^amper<x>_X--$
+6	memiliki	milik	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+milik<v>+i_VSA$
+7	luas	luas	NOUN	ASP	_	6	obj	_	Morf=^luas<a>_ASP$
+8	sebesar	sebesar	ADP	R--	_	6	case	_	Morf=^sebesar<r>_R--$
+9	32988	32988	NUM	CC-	NumType=Card	10	nummod	_	Morf=^32988<c>_CC-$
+10	km²	km²	NUM	X--	NumType=Card	6	nummod	_	SpaceAfter=No|Morf=^km²<x>_X--$
+11	.	.	PUNCT	Z--	_	6	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 

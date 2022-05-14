@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-EWT: POS Tags: `INTJ`
 
-There are 109 `INTJ` lemmas (1%), 121 `INTJ` types (1%) and 931 `INTJ` tokens (0%).
+There are 109 `INTJ` lemmas (1%), 121 `INTJ` types (1%) and 929 `INTJ` tokens (0%).
 Out of 17 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 10 in number of types and 16 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>please, yes, well, no, hi, like, ok, lol, hey, oh</em>
+The 10 most frequent `INTJ` lemmas: <em>please, yes, well, no, hi, ok, like, lol, hey, oh</em>
 
-The 10 most frequent `INTJ` types:  <em>please, yes, well, no, hi, like, ok, lol, hey, oh</em>
+The 10 most frequent `INTJ` types:  <em>please, yes, well, no, hi, ok, like, lol, hey, oh</em>
 
-The 10 most frequent ambiguous lemmas: <em>please</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 333, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 1), <em>yes</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 84, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2), <em>well</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 261, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 59, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3), <em>no</em> (<tt><a href="en_ewt-pos-DET.html">DET</a></tt> 315, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 57, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 39, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3), <em>like</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 212, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 212, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 106, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 27, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>ok</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 43, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 26, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 3), <em>oh</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 18, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>anyway</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 15), <em>okay</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 10), <em>sorry</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 10)
+The 10 most frequent ambiguous lemmas: <em>please</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 333, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 1), <em>yes</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 84, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2), <em>well</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 261, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 59, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3), <em>no</em> (<tt><a href="en_ewt-pos-DET.html">DET</a></tt> 315, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 57, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 39, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2), <em>ok</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 43, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 26, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 3), <em>like</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 214, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 212, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 106, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 25, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>oh</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 18, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>anyway</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 15), <em>okay</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 10), <em>sorry</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 10)
 
-The 10 most frequent ambiguous types:  <em>please</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 141, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 1), <em>yes</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 29, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 1), <em>well</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 193, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2), <em>no</em> (<tt><a href="en_ewt-pos-DET.html">DET</a></tt> 254, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 38, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 31, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 2), <em>like</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 201, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 182, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 104, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 20, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>ok</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 24, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 3), <em>oh</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>anyway</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 15, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 1), <em>okay</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 4), <em>sorry</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 6)
+The 10 most frequent ambiguous types:  <em>please</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 141, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 1), <em>yes</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 29, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 1), <em>well</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 193, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2), <em>no</em> (<tt><a href="en_ewt-pos-DET.html">DET</a></tt> 254, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 38, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 31, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 2), <em>ok</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 24, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 3), <em>like</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 202, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 182, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 104, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 19, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>oh</em> (<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>anyway</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 15, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 1), <em>okay</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 4), <em>sorry</em> (<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 6)
 
 
 * <em>please</em>
@@ -36,17 +36,17 @@ The 10 most frequent ambiguous types:  <em>please</em> (<tt><a href="en_ewt-pos-
   * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 31: <em>Stylish and contemporary , <b>no</b> matter your size or personality type .</em>
   * <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2: <em>It was a <b>no</b> brainer really .</em>
   * <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 2: <em>I du n <b>no</b> how they did it , but Scottish friends --- this is THE REAL DEAL .</em>
-* <em>like</em>
-  * <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 201: <em>They actively excluded State Department Iraq hands <b>like</b> Tom Warrick .</em>
-  * <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 182: <em>Please let me know how you would <b>like</b> to proceed .</em>
-  * <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 104: <em>they look <b>like</b> they were doberman pinchers who were shrunk .</em>
-  * <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 20: <em><b>like</b> 2 day</em>
-  * <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 11: <em>West Nile can cause EPM <b>like</b> symptoms and does n't always include a fever .</em>
-  * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1: <em>I can rent another machine for <b>like</b> $ 60 that will give it a finished look .</em>
 * <em>ok</em>
   * <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 24: <em>Is it <b>ok</b> for a woman in french culture to make the first move ?</em>
   * <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 4: <em><b>ok</b></em>
   * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 3: <em>Hope you and your family survived <b>ok</b> .</em>
+* <em>like</em>
+  * <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 202: <em>They actively excluded State Department Iraq hands <b>like</b> Tom Warrick .</em>
+  * <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 182: <em>Please let me know how you would <b>like</b> to proceed .</em>
+  * <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 104: <em>they look <b>like</b> they were doberman pinchers who were shrunk .</em>
+  * <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 19: <em><b>like</b> 2 day</em>
+  * <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 11: <em>West Nile can cause EPM <b>like</b> symptoms and does n't always include a fever .</em>
+  * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1: <em>I can rent another machine for <b>like</b> $ 60 that will give it a finished look .</em>
 * <em>oh</em>
   * <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 5: <em><b>oh</b> .</em>
   * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1: <em>I googled Garage Door Repair in Woodinville and found NDI - Johnette answered the phone and was <b>oh</b> - so pleasant and helpful !</em>
@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>please</em> (<tt><a href="en_ewt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.110092 (the average of all parts of speech is 1.220397).
+The form / lemma ratio of `INTJ` is 1.110092 (the average of all parts of speech is 1.228673).
 
 The 1st highest number of forms (4) was observed with the lemma “hmm”: <em>Hmmmmmm, hmm, hmmm, hmmmm</em>.
 
@@ -75,17 +75,17 @@ The 3rd highest number of forms (3) was observed with the lemma “yes”: <em>Y
 `INTJ` occurs with 5 feature-value pairs: `Abbr=Yes`, `Degree=Pos`, `Number=Sing`, `Style=Expr`, `Typo=Yes`
 
 `INTJ` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (910 tokens).
-Examples: <em>please, yes, well, no, hi, like, ok, lol, hey, oh</em>
+The most frequent feature combination is `_` (908 tokens).
+Examples: <em>please, yes, well, no, hi, ok, like, lol, hey, oh</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 11 different relations: <tt><a href="en_ewt-dep-discourse.html">discourse</a></tt> (779; 84% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (127; 14% instances), <tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt> (7; 1% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (5; 1% instances), <tt><a href="en_ewt-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="en_ewt-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`INTJ` nodes are attached to their parents using 10 different relations: <tt><a href="en_ewt-dep-discourse.html">discourse</a></tt> (777; 84% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (127; 14% instances), <tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt> (8; 1% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (5; 1% instances), <tt><a href="en_ewt-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="en_ewt-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 15 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (577; 62% instances),  (127; 14% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (81; 9% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (56; 6% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (28; 3% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (27; 3% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (16; 2% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `INTJ` nodes belong to 15 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (576; 62% instances),  (127; 14% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (81; 9% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (56; 6% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (28; 3% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (26; 3% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (16; 2% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-787 (85%) `INTJ` nodes are leaves.
+785 (84%) `INTJ` nodes are leaves.
 
 94 (10%) `INTJ` nodes have one child.
 

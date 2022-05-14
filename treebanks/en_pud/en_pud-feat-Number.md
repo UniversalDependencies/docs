@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 7283 tokens (34%) have a non-empty value of `Number`.
-3467 types (65%) occur at least once with a non-empty value of `Number`.
-3038 lemmas (66%) occur at least once with a non-empty value of `Number`.
+3468 types (65%) occur at least once with a non-empty value of `Number`.
+3039 lemmas (66%) occur at least once with a non-empty value of `Number`.
 The feature is used with 10 part-of-speech tags: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4032; 19% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1726; 8% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (779; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (435; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (197; 1% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (91; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (17; 0% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`

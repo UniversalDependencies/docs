@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 7079 tokens (0%) have a non-empty value of `Gender[psor]`.
 1848 types (1%) occur at least once with a non-empty value of `Gender[psor]`.
-1134 lemmas (2%) occur at least once with a non-empty value of `Gender[psor]`.
+1135 lemmas (2%) occur at least once with a non-empty value of `Gender[psor]`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (4372; 0% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (2707; 0% instances).
 
 ### `DET`
@@ -51,7 +51,7 @@ The most frequent other feature values with which `DET` and `Gender[psor]` co-oc
 
 2707 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2189; 81%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1602; 59%).
+The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2189; 81%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1602; 59%).
 
 `ADJ` tokens may have the following values of `Gender[psor]`:
 

@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 668 tokens (29%) have a non-empty value of `Number`.
-247 types (32%) occur at least once with a non-empty value of `Number`.
-30 lemmas (25%) occur at least once with a non-empty value of `Number`.
+246 types (32%) occur at least once with a non-empty value of `Number`.
+141 lemmas (31%) occur at least once with a non-empty value of `Number`.
 The feature is used with 7 part-of-speech tags: <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (268; 12% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (217; 9% instances), <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> (97; 4% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (48; 2% instances), <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> (24; 1% instances), <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> (3; 0% instances).
 
 ### `PRON`
@@ -26,6 +26,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 * `Sing` (252; 94% of non-empty `Number`): <em>õn, at, wat, ŋa, ẽn, et, war, ar, toat, [ar</em>
 * `EMPTY` (30): <em>toat, yét, at, kɨgomət, nãn, [yét, [yét]</em>
 
+<table>
+  <tr><th>Paradigm <i>wat</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>wat, war, [war</em></td><td><em>wat</em></td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `PRON`. 95% lemmas (20) occur only with one value of `Number`.
+
 ### `VERB`
 
 217 <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Number`.
@@ -35,10 +42,23 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (13; 6% of non-empty `Number`): <em>aʔwĩa, imaterãn, inaʔwara, iʔkəga, iʔpéya, karokéran, karokérara, karorocapét, karowéya, karowɨya</em>
-* `Sing` (204; 94% of non-empty `Number`): <em>aʔtoy, aʔwĩn, otoy, aʔken, oken, oyaʔwan, eken, okera, ekerap, owakán</em>
-* `EMPTY` (298): <em>wĩn, púŋ, ʔɨy, wɨy, yaʔti, toba, ken, toy, wĩa, cára</em>
+* `Sing` (204; 94% of non-empty `Number`): <em>aʔtoy, aʔwĩn, otoy, aʔken, oken, okera, oyaʔwan, eken, ekerap, owakán</em>
+* `EMPTY` (298): <em>wĩn, púŋ, ʔɨy, wɨy, yaʔti, ken, toba, toy, wĩa, cára</em>
 
-`Number` seems to be **lexical feature** of `VERB`. 91% lemmas (10) occur only with one value of `Number`.
+<table>
+  <tr><th>Paradigm <i>top</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=AssertFoc</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>aʔtop</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>abeʔnoy</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>otoy, aʔtoy, otoy], oʔtoy</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="arr_tudet-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>omãmnoy</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>etop</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>aʔtoy, aʔtoba, otoy</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="arr_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>oto, otoba</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>aʔto, aʔtop, ŋato</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="arr_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>aʔtoba</em></td><td><em>taptoba</em></td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `VERB`. 93% lemmas (69) occur only with one value of `Number`.
 
 ### `AUX`
 
@@ -49,8 +69,24 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (5; 5% of non-empty `Number`): <em>iʔkap, iʔkay, karoʔwa, reʔkay, ye</em>
-* `Sing` (92; 95% of non-empty `Number`): <em>wet, at, okay, aʔkay, wep, aʔnãn, aʔwaʔye, wa, ap, ʔa</em>
-* `EMPTY` (77): <em>nãn, ʔet, toʔwa, waʔye, ʔep, gay, ikap, kay, nã, ye</em>
+* `Sing` (92; 95% of non-empty `Number`): <em>wet, at, okay, aʔnãn, aʔkay, wep, aʔwaʔye, wa, ap, ʔa</em>
+* `EMPTY` (77): <em>ʔet, nãn, toʔwa, waʔye, ʔep, gay, ikap, kay, nã, ye</em>
+
+<table>
+  <tr><th>Paradigm <i>ʔe</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Clas.html">Clas</a></tt><tt>=Fem</tt>|<tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=AssertFoc</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ŋaap</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Clas.html">Clas</a></tt><tt>=Fem</tt>|<tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ŋaʔet</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Clusivity.html">Clusivity</a></tt><tt>=In</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>ye</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=AssertFoc</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>wep, web</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=AssertFoc</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>ap, ep, ʔep</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=AssertFoc</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ap</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>wet, wer, at</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>wet, ʔet</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>at, ʔat</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>we, wa</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="arr_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>wa, wa]</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="arr_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>ʔa, a, eʔa</em></td><td><em>karoʔwa</em></td></tr>
+</table>
 
 ### `NOUN`
 
@@ -58,9 +94,19 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (15; 31% of non-empty `Number`): <em>piro, cibekonnoʔ, inãwroʔ, karamnoʔ, kaʔaroʔ, naʔwəyroʔ, pɨk=toʔ, tuŋnoʔ, abagon, inakároʔ</em>
-* `Sing` (33; 69% of non-empty `Number`): <em>opábe, oyãy, aʔwero, opá, owirup, acagá, aʔcat, aʔcey, aʔcot, aʔkun</em>
-* `EMPTY` (518): <em>péŋ, kaʔa, maʔpəy, mãygãra, maʔwɨt, ip, agóaʔpət, iyõm, owẽ, wayo</em>
+* `Plur` (15; 31% of non-empty `Number`): <em>piro, cibekonnoʔ, inãwroʔ, kaʔaroʔ, káramnoʔ, naʔwəyroʔ, pɨk=toʔ, tuŋnoʔ, abagon, inakároʔ</em>
+* `Sing` (33; 69% of non-empty `Number`): <em>opábe, oyãy, aʔwero, opá, owirup, acagá, aʔcet, aʔcey, aʔcot, aʔkun</em>
+* `EMPTY` (519): <em>péŋ, kaʔa, maʔpəy, mãygãra, maʔwɨt, ip, agóaʔpət, iyõm, owẽ, wayo</em>
+
+<table>
+  <tr><th>Paradigm <i>naká</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>onaká</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>enaká</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>tanaká</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3Imp</tt></tt></td><td></td><td><em>inakároʔ</em></td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `NOUN`. 94% lemmas (29) occur only with one value of `Number`.
 
 ### `ADP`
 
@@ -70,9 +116,17 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 `ADP` tokens may have the following values of `Number`:
 
-* `Plur` (1; 4% of non-empty `Number`): <em>garo=kõna</em>
+* `Plur` (1; 4% of non-empty `Number`): <em>garokõna</em>
 * `Sing` (23; 96% of non-empty `Number`): <em>okõna, okəy, aʔkəy, ekəy, (aʔkəy), abihmãm, apik, omãmkəy, owihmãm, owikop</em>
 * `EMPTY` (59): <em>peʔ, tokõna, kəy, rokõna, ʔerem, mã, pihmãm, ŋõm, aʔpik, bem</em>
+
+<table>
+  <tr><th>Paradigm <i>kõna</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>okõna</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="arr_tudet-feat-PronType.html">PronType</a></tt><tt>=Emp</tt></tt></td><td><em>okõna</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="arr_tudet-feat-PronType.html">PronType</a></tt><tt>=Emp</tt></tt></td><td></td><td><em>garokõna</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>okõna</em></td><td></td></tr>
+</table>
 
 ### `ADJ`
 
@@ -83,8 +137,8 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (4; 36% of non-empty `Number`): <em>ʔaʔtoʔ, peroʔ, pɨʔtoʔ</em>
-* `Sing` (7; 64% of non-empty `Number`): <em>aʔpap, aʔkɨrɨk, aʔtarap, aʔwak, owicorop</em>
-* `EMPTY` (227): <em>cú, ʔa, gap, káʔ, ʔaʔ, bap, beʔ, pattem, aʔ, pɨʔ</em>
+* `Sing` (7; 64% of non-empty `Number`): <em>aʔpap, aʔkɨrɨk, aʔtarap, aʔwák, owicorop</em>
+* `EMPTY` (227): <em>cú, ʔa, gap, káʔ, ʔaʔ, bap, beʔ, páttem, aʔ, pɨʔ</em>
 
 ### `PART`
 

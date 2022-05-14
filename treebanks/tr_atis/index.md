@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Mehmet Köse, Olcay Taner Yıldız.
 
 Repository: [UD_Turkish-Atis](https://github.com/UniversalDependencies/UD_Turkish-Atis)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_atis29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_atis210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,7 +73,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 
 ## Relations
 
-[acl](tr_atis-dep-acl.html) – [advcl](tr_atis-dep-advcl.html) – [advmod](tr_atis-dep-advmod.html) – [amod](tr_atis-dep-amod.html) – [appos](tr_atis-dep-appos.html) – [aux](tr_atis-dep-aux.html) – [case](tr_atis-dep-case.html) – [cc](tr_atis-dep-cc.html) – [ccomp](tr_atis-dep-ccomp.html) – [clf](tr_atis-dep-clf.html) – [compound](tr_atis-dep-compound.html) – [conj](tr_atis-dep-conj.html) – [csubj](tr_atis-dep-csubj.html) – [dep](tr_atis-dep-dep.html) – [det](tr_atis-dep-det.html) – [discourse](tr_atis-dep-discourse.html) – [dislocated](tr_atis-dep-dislocated.html) – [fixed](tr_atis-dep-fixed.html) – [flat](tr_atis-dep-flat.html) – [goeswith](tr_atis-dep-goeswith.html) – [iobj](tr_atis-dep-iobj.html) – [list](tr_atis-dep-list.html) – [mark](tr_atis-dep-mark.html) – [nmod](tr_atis-dep-nmod.html) – [nsubj](tr_atis-dep-nsubj.html) – [nummod](tr_atis-dep-nummod.html) – [obj](tr_atis-dep-obj.html) – [obl](tr_atis-dep-obl.html) – [orphan](tr_atis-dep-orphan.html) – [parataxis](tr_atis-dep-parataxis.html) – [punct](tr_atis-dep-punct.html) – [root](tr_atis-dep-root.html) – [xcomp](tr_atis-dep-xcomp.html)
+[acl](tr_atis-dep-acl.html) – [advcl](tr_atis-dep-advcl.html) – [advmod](tr_atis-dep-advmod.html) – [amod](tr_atis-dep-amod.html) – [appos](tr_atis-dep-appos.html) – [aux](tr_atis-dep-aux.html) – [case](tr_atis-dep-case.html) – [cc](tr_atis-dep-cc.html) – [ccomp](tr_atis-dep-ccomp.html) – [clf](tr_atis-dep-clf.html) – [compound](tr_atis-dep-compound.html) – [conj](tr_atis-dep-conj.html) – [csubj](tr_atis-dep-csubj.html) – [dep](tr_atis-dep-dep.html) – [det](tr_atis-dep-det.html) – [discourse](tr_atis-dep-discourse.html) – [dislocated](tr_atis-dep-dislocated.html) – [fixed](tr_atis-dep-fixed.html) – [flat](tr_atis-dep-flat.html) – [iobj](tr_atis-dep-iobj.html) – [list](tr_atis-dep-list.html) – [mark](tr_atis-dep-mark.html) – [nmod](tr_atis-dep-nmod.html) – [nsubj](tr_atis-dep-nsubj.html) – [nummod](tr_atis-dep-nummod.html) – [obj](tr_atis-dep-obj.html) – [obl](tr_atis-dep-obl.html) – [orphan](tr_atis-dep-orphan.html) – [parataxis](tr_atis-dep-parataxis.html) – [punct](tr_atis-dep-punct.html) – [root](tr_atis-dep-root.html) – [xcomp](tr_atis-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -717,5 +717,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 4 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>cop</a>, <a>reparandum</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>cop</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

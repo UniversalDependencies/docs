@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Cmp` (57; 89% of non-empty `Degree`): <em>седе, седеяк</em>
 * `Sup` (7; 11% of non-empty `Degree`): <em>весемеде, сех, сехте</em>
-* `EMPTY` (1399): <em>ансяк, кода, пек, истя, мейле, ней, уш, прок, яла, курок</em>
+* `EMPTY` (1414): <em>ансяк, кода, пек, истя, мейле, ней, уш, прок, яла, курок</em>
 
 ### `PART`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Cmp` (2; 22% of non-empty `Degree`): <em>седе</em>
 * `Sup` (7; 78% of non-empty `Degree`): <em>весемеде, сехте</em>
-* `EMPTY` (104): <em>жо, бути, прок, вана, эно, буто, ялатеке, Бульчом, Ведь, Каня</em>
+* `EMPTY` (105): <em>жо, бути, прок, буто, вана, эно, ялатеке, Бульчом, Ведь, Каня</em>
 

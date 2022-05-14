@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-693 nodes (0%) are attached to their parents as `iobj`.
+694 nodes (0%) are attached to their parents as `iobj`.
 
-495 instances of `iobj` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.34343434343434.
+496 instances of `iobj` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.34582132564842.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (672; 97% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (15; 2% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (673; 97% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (15; 2% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	3:iobj	_
 3	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	che	che	SCONJ	CS	_	6	mark	6:mark	_
-5	siano	essere	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 6	proposte	proposta	NOUN	S	Gender=Fem|Number=Plur	3	csubj	3:csubj	_
 7	serie	serio	ADJ	A	Gender=Fem|Number=Plur	6	amod	6:amod	_
 8	e	e	CCONJ	CC	_	9	cc	9:cc	_
@@ -43,8 +43,8 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 iobj	color:blue
-1	Le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	3	iobj	3:iobj	_
-2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+1	Le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	3:iobj	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 3	simpatica	simpatico	ADJ	A	Gender=Fem|Number=Sing	0	root	0:root	_
 4	Nicole	Nicole	PROPN	SP	_	3	nsubj	3:nsubj	_
 5	Kidman	Kidman	PROPN	SP	_	4	flat:name	4:flat:name	SpaceAfter=No

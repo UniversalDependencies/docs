@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 273059 tokens (49%) have a non-empty value of `Number`.
 26814 types (69%) occur at least once with a non-empty value of `Number`.
 14042 lemmas (54%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (91709; 16% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (84176; 15% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (35621; 6% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (34887; 6% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (13472; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (10332; 2% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (2861; 1% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (91709; 16% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (84176; 15% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (35621; 6% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (35197; 6% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (13162; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (10332; 2% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (2861; 1% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -72,15 +72,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-34887 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Number`.
+35197 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (30181; 87%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (28378; 81%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27377; 78%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (30473; 87%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (28609; 81%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27654; 79%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (7880; 23% of non-empty `Number`): <em>tienen, tenemos, hacen, tuvieron, dicen, quieren, existen, hicieron, llegaron, tenían</em>
-* `Sing` (27007; 77% of non-empty `Number`): <em>tiene, dijo, hace, aseguró, explicó, afirmó, hizo, señaló, anunció, añadió</em>
-* `EMPTY` (12276): <em>hacer, dar, tener, ganar, ver, poner, decir, evitar, conseguir, llegar</em>
+* `Plur` (7986; 23% of non-empty `Number`): <em>tienen, tenemos, van, hacen, tuvieron, dicen, quieren, vamos, existen, hicieron</em>
+* `Sing` (27211; 77% of non-empty `Number`): <em>tiene, dijo, hace, aseguró, explicó, va, afirmó, hizo, señaló, anunció</em>
+* `EMPTY` (12302): <em>hacer, dar, tener, ganar, ver, poner, decir, evitar, conseguir, llegar</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -106,15 +106,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-13472 <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
+13162 <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12945; 96%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (12217; 91%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (11723; 87%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9159; 68%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12653; 96%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (11986; 91%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (11446; 87%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8946; 68%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (3099; 23% of non-empty `Number`): <em>han, son, están, fueron, pueden, habían, hemos, deben, eran, estamos</em>
-* `Sing` (10373; 77% of non-empty `Number`): <em>es, ha, fue, está, había, hay, sido, puede, era, será</em>
-* `EMPTY` (1113): <em>ser, haber, estar, siendo, poder, saber, ir, querer, tener, habiendo</em>
+* `Plur` (2993; 23% of non-empty `Number`): <em>han, son, están, fueron, pueden, habían, hemos, deben, eran, estamos</em>
+* `Sing` (10169; 77% of non-empty `Number`): <em>es, ha, fue, está, había, hay, sido, puede, era, será</em>
+* `EMPTY` (1087): <em>ser, haber, estar, siendo, poder, saber, querer, habiendo, estando, pudiendo</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -192,14 +192,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (65122; 97%),
-<tt>NOUN --[<tt><a href="es_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (26219; 96%),
-<tt>NOUN --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13355; 55%),
-<tt>VERB --[<tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11207; 87%),
-<tt>NOUN --[<tt><a href="es_ancora-dep-acl.html">acl</a></tt>]--> VERB</tt> (4861; 59%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (65115; 97%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (26215; 96%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13352; 55%),
+<tt>VERB --[<tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11298; 87%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-acl.html">acl</a></tt>]--> VERB</tt> (4887; 60%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3755; 79%),
-<tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (2738; 74%),
-<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2446; 61%),
-<tt>ADJ --[<tt><a href="es_ancora-dep-cop.html">cop</a></tt>]--> AUX</tt> (2157; 90%),
-<tt>NOUN --[<tt><a href="es_ancora-dep-cop.html">cop</a></tt>]--> AUX</tt> (1913; 79%).
+<tt>VERB --[<tt><a href="es_ancora-dep-aux.html">aux</a></tt>]--> AUX</tt> (3391; 51%),
+<tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (2759; 75%),
+<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2456; 61%),
+<tt>ADJ --[<tt><a href="es_ancora-dep-cop.html">cop</a></tt>]--> AUX</tt> (2157; 90%).
 

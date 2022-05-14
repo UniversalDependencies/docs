@@ -22,7 +22,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 aux:pass	color:blue
-1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
 2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	2:punct	_
 4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nsubj:pass	7:nsubj:pass	_
@@ -62,7 +62,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	4:det	_
 4	ricerche	ricerca	NOUN	S	Gender=Fem|Number=Plur	8	nsubj:pass	8:nsubj:pass	_
 5	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	8:aux:pass	_
-6	state	essere	AUX	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	cop	8:cop	_
+6	state	essere	AUX	VA	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	cop	8:cop	_
 7	molto	molto	ADV	B	_	8	advmod	8:advmod	_
 8	lunghe	lungo	ADJ	A	Gender=Fem|Number=Plur	1	advcl	1:advcl:se	SpaceAfter=No
 9	.	.	PUNCT	FS	_	1	punct	1:punct	_

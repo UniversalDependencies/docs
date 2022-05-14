@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 2	několika	několik	DET	Ca--7----------	Case=Ins|NumType=Card|PronType=Ind	3	det:nummod	3:det:nummod	_
 3	dny	den	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	5	obl	5:obl:před:ins	LGloss=(jednotka_času)
 4	tu	tady	ADV	Db------------1	PronType=Dem	5	advmod	5:advmod	_
-5	byl	být	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+5	byl	být	AUX	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 6	tajemník	tajemník	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj	5:nsubj	_
 7	OV	OV	PROPN	NNIXX-----A---8	Abbr=Yes|Animacy=Inan|Gender=Masc|NameType=Com|Polarity=Pos	6	nmod	6:nmod	LId=OV-1|LGloss=(obvodní/okresní_výbor)
 8	KSČ	KSČ	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	7	nmod	7:nmod	LId=KSČ-1|LGloss=(Komunistická_strana_Československa)
@@ -86,7 +86,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 17	svých	svůj	DET	P8XP6----------	Case=Loc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	18	det	18:det	LId=svůj-1
 18	důsledcích	důsledek	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	19	obl	19:obl:v:loc	_
 19	znamenala	znamenat	VERB	VpQW---XR-AA---	Aspect=Imp|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	13	acl:relcl	13:acl:relcl	_
-20	nepřiměřené	přiměřený	ADJ	AAFP4----1N----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg	21	amod	21:amod	LDeriv=přiměřit
+20	nepřiměřené	přiměřený	ADJ	AAFP4----1N----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg|VerbForm=Part|Voice=Pass	21	amod	21:amod	LDeriv=přiměřit
 21	výhody	výhoda	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	19	obj	19:obj	_
 22	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	25	case	25:case	_
 23	některá	některý	DET	PZNP4----------	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	25	det	25:det	_
@@ -101,16 +101,16 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 32	státních	státní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	33	amod	33:amod	_
 33	statků	statek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	30	conj	29:nmod|30:conj	_
 34	přímé	přímý	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	35	amod	35:amod	_
-35	rozkrádání	rozkrádání	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	29	orphan	25.1:dep	LDeriv=rozkrádat
+35	rozkrádání	rozkrádání	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	29	orphan	25.1:dep	LDeriv=rozkrádat
 36	značných	značný	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	37	amod	37:amod	_
 37	částek	částka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	35	nmod	35:nmod:gen	_
 38	tak	tak	ADV	Db-------------	PronType=Dem	29	orphan	25.1:advmod	SpaceAfter=No|LId=tak-3
 39	,	,	PUNCT	Z:-------------	_	42	punct	42:punct	_
 40	jak	jak	ADV	Db-------------	PronType=Int,Rel	42	advmod	42:advmod	LId=jak-3
 41	tomu	ten	DET	PDZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem	42	nsubj	42:nsubj	_
-42	bylo	být	VERB	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	29	orphan	25.1:dep	_
+42	bylo	být	AUX	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	29	orphan	25.1:dep	_
 43	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	44	case	44:case	LId=u-1
-44	odsouzených	odsouzený	ADJ	AAMP2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	42	obl	42:obl:u:gen	LDeriv=odsoudit
+44	odsouzených	odsouzený	ADJ	AAMP2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	42	obl	42:obl:u:gen	LDeriv=odsoudit
 45	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	46	case	46:case	LId=v-1
 46	Nepolisech	Nepolisy	PROPN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Plur|Polarity=Pos	44	nmod	44:nmod:v:loc	_
 47	a	a	CCONJ	J^-------------	_	49	cc	49:cc	LId=a-1

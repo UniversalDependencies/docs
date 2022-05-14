@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `goeswith`.
+7 nodes (0%) are attached to their parents as `goeswith`.
 
-6 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+7 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 33% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 17% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 17% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 17% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 17% instances).
+The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 29% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 14% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 14% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 14% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 14% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 1	fgColor:white
 # visual-style 1 2 goeswith	color:blue
 1	Tā	tāpat	ADV	r0m	Typo=Yes	4	advmod	4:advmod	CorrectForm=Tāpat|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-d60-p5s4w1
-2	pat	_	X	_	Typo=Yes	1	goeswith	1:goeswith	CorrectionType=Spacing,Spelling|LvtbNodeId=a-d60-p5s4w1
+2	pat	_	X	_	_	1	goeswith	1:goeswith	LvtbNodeId=a-d60-p5s4w1
 3	vien	vien	PART	q	_	1	discourse	1:discourse	LvtbNodeId=a-d60-p5s4w2
 4	pavērties	pavērties	VERB	vmyn0i1000n	Polarity=Pos|Reflex=Yes|VerbForm=Inf	0	root	0:root	LvtbNodeId=a-d60-p5s4w3|SpaceAfter=No
 5	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d60-p5s4w4
@@ -58,7 +58,7 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 15	,	,	PUNCT	zc	_	16	punct	16:punct	LvtbNodeId=a-c60-p8s1w16
 16	noslēpt	noslēpt	VERB	vmnn0t1000n	Polarity=Pos|VerbForm=Inf	10	conj	9:xcomp|10:conj	LvtbNodeId=a-c60-p8s1w17
 17	pēc	pēctraumatisks	ADJ	arfpanp	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Typo=Yes	19	amod	19:amod	CorrectForm=pēctraumatiskas|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-c60-p8s1w18
-18	traumatiskas	_	X	_	Typo=Yes	17	goeswith	17:goeswith	CorrectionType=Spacing,Spelling|LvtbNodeId=a-c60-p8s1w18
+18	traumatiskas	_	X	_	_	17	goeswith	17:goeswith	LvtbNodeId=a-c60-p8s1w18
 19	sekas	sekas	NOUN	ncfda4	Case=Acc|Gender=Fem|Number=Ptan	16	obj	16:obj	LvtbNodeId=a-c60-p8s1w19|SpaceAfter=No
 20	,	_	PUNCT	z_	_	19	punct	19:punct	CorrectionType=RemovedPunctuation|LvtbNodeId=a-c60-p8s1w19
 21	vai	vai	CCONJ	cc	_	24	cc	24:cc	LvtbNodeId=a-c60-p8s1w20
@@ -84,13 +84,13 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 2	komanda	komanda	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj	LvtbNodeId=a-p14292-p2s2w2
 3	neaizvadīs	aizvadīt	VERB	vmnift330ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p14292-p2s2w3
 4	ne	neviens	DET	pi0msay	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind,Neg|Typo=Yes	6	det	6:det	CorrectForm=nevienu|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-p14292-p2s2w4
-5	vienu	_	X	_	Typo=Yes	4	goeswith	4:goeswith	CorrectionType=Spacing,Spelling|LvtbNodeId=a-p14292-p2s2w4
+5	vienu	_	X	_	_	4	goeswith	4:goeswith	LvtbNodeId=a-p14292-p2s2w4
 6	treniņu	treniņš	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	LvtbNodeId=a-p14292-p2s2w5
 7	Latvijā	Latvija	PROPN	npfsl4	Case=Loc|Gender=Fem|Number=Sing	6	nmod	6:nmod:loc	LvtbNodeId=a-p14292-p2s2w6
 8	-	-	PUNCT	zd	_	11	punct	11:punct	LvtbNodeId=a-p14292-p2s2w7
 9	21.	21.	ADJ	xo	NumType=Ord	10	amod	10:amod	LvtbNodeId=a-p14292-p2s2w8|SpaceAfter=No
 10	martā	marts	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	11	obl	11:obl:loc	LvtbNodeId=a-p14292-p2s2w9
-11	dosies	doties	VERB	vmyifi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	3:conj	LvtbNodeId=a-p14292-p2s2w10
+11	dosies	doties	VERB	vmyifii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	3:conj	LvtbNodeId=a-p14292-p2s2w10
 12	uz	uz	ADP	spsa	_	13	case	13:case	LvtbNodeId=a-p14292-p2s2w11
 13	Slovākiju	Slovākija	PROPN	npfsa4	Case=Acc|Gender=Fem|Number=Sing	11	obl	11:obl:uz	LvtbNodeId=a-p14292-p2s2w12|SpaceAfter=No
 14	,	,	PUNCT	zc	_	16	punct	16:punct	LvtbNodeId=a-p14292-p2s2w13

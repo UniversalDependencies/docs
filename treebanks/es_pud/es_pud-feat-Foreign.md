@@ -11,15 +11,15 @@ It occurs with 1 different values: `Yes`.
 
 1 tokens (0%) have a non-empty value of `Foreign`.
 1 types (0%) occur at least once with a non-empty value of `Foreign`.
-1 lemmas (6%) occur at least once with a non-empty value of `Foreign`.
+1 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
 The feature is used with 1 part-of-speech tags: <tt><a href="es_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `X`
 
-1 <tt><a href="es_pud-pos-X.html">X</a></tt> tokens (5% of all `X` tokens) have a non-empty value of `Foreign`.
+1 <tt><a href="es_pud-pos-X.html">X</a></tt> tokens (8% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>maiorum</em>
-* `EMPTY` (19): <em>cápita, per, Ey, Oblast, Radio, Yum, austro, bjórr, ca., co</em>
+* `EMPTY` (12): <em>cápita, per, Ey, Oblast, Yum, bjórr, kven, meänkieli, mos, poder</em>
 

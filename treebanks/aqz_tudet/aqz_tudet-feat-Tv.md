@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-27 tokens (7%) have a non-empty value of `Tv`.
-13 types (6%) occur at least once with a non-empty value of `Tv`.
-10 lemmas (6%) occur at least once with a non-empty value of `Tv`.
-The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (27; 7% instances).
+68 tokens (6%) have a non-empty value of `Tv`.
+36 types (9%) occur at least once with a non-empty value of `Tv`.
+21 lemmas (8%) occur at least once with a non-empty value of `Tv`.
+The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (68; 6% instances).
 
 ### `VERB`
 
-27 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Tv`.
+68 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Tv`.
 
-The most frequent other feature values with which `VERB` and `Tv` co-occurred: <tt><a href="aqz_tudet-feat-Trans.html">Trans</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (20; 74%).
+The most frequent other feature values with which `VERB` and `Tv` co-occurred: <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (39; 57%).
 
 `VERB` tokens may have the following values of `Tv`:
 
-* `Yes` (27; 100% of non-empty `Tv`): <em>koa, ata, tʃopa, mia, paja, tekwata, õa, iata, ikoa, kitʃetara</em>
+* `Yes` (68; 100% of non-empty `Tv`): <em>koa, ata, tʃopa, mia, nia, õa, ikoa, eeta, ipa, koara</em>
 
-`Tv` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Tv`.
+`Tv` seems to be **lexical feature** of `VERB`. 100% lemmas (21) occur only with one value of `Tv`.
 
 ## Relations with Agreement in `Tv`
 

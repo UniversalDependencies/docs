@@ -76,7 +76,7 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 7	цвета	цвет	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	SpaceAfter=No
 8	»	»	PUNCT	'	_	3	punct	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	11	punct	_	_
-10	—	—	PUNCT	-	_	11	punct	_	OrigForm=--
+10	—	—	PUNCT	-	_	11	punct	_	_
 11	говорит	говорить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 12	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	_	_

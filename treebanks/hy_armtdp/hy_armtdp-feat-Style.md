@@ -166,7 +166,7 @@ The most frequent other feature values with which `ADP` and `Style` co-occurred:
 
 ### `X`
 
-13 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (6% of all `X` tokens) have a non-empty value of `Style`.
+13 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (7% of all `X` tokens) have a non-empty value of `Style`.
 
 The most frequent other feature values with which `X` and `Style` co-occurred: <tt><a href="hy_armtdp-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (13; 100%).
 

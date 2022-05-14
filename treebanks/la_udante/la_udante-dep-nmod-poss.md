@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nmod:poss	color:blue
-1	Quod	qui	DET	presnn	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	4	det	_	_
+1	Quod	qui	PRON	presnn	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	4	det	_	_
 2	quidem	quidem	PART	r	_	13	discourse	_	_
 3	eius	is	PRON	ddesmg	Case=Gen|Gender=Masc|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	_	_
 4	factum	factum	NOUN	sns2n	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	13	obj	_	SpaceAfter=No

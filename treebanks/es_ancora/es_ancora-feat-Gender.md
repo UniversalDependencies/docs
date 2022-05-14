@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 202105 tokens (36%) have a non-empty value of `Gender`.
 17277 types (44%) occur at least once with a non-empty value of `Gender`.
 11605 lemmas (44%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (87817; 16% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (78581; 14% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (24222; 4% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (5959; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (4707; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (528; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (290; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (87817; 16% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (78581; 14% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (24222; 4% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (5959; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (4725; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (510; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (290; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -95,15 +95,15 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `VERB`
 
-4707 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Gender`.
+4725 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4706; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4706; 100%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4706; 100%), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4706; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4387; 93%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4724; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4724; 100%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4724; 100%), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4724; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4405; 93%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (333; 7% of non-empty `Gender`): <em>aprobada, considerada, dada, utilizada, comprada, dadas, incluida, rechazada, recibida, violada</em>
-* `Masc` (4374; 93% of non-empty `Gender`): <em>hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</em>
-* `EMPTY` (42456): <em>tiene, dijo, hace, hacer, tienen, aseguró, dar, explicó, afirmó, tener</em>
+* `Masc` (4392; 93% of non-empty `Gender`): <em>hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</em>
+* `EMPTY` (42774): <em>tiene, dijo, hace, hacer, tienen, aseguró, dar, explicó, tener, va</em>
 
 <table>
   <tr><th>Paradigm <i>hacer</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -113,14 +113,14 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `AUX`
 
-528 <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Gender`.
+510 <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (528; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (528; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (528; 100%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (527; 100%), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (527; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (510; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (510; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (510; 100%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (509; 100%), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (509; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Masc` (528; 100% of non-empty `Gender`): <em>sido, podido, estado, habido, ido, debido, ser</em>
-* `EMPTY` (14057): <em>es, ha, han, fue, ser, son, está, había, hay, puede</em>
+* `Masc` (510; 100% of non-empty `Gender`): <em>sido, podido, estado, habido, debido, ser</em>
+* `EMPTY` (13739): <em>es, ha, han, fue, ser, son, está, había, hay, puede</em>
 
 ### `NUM`
 
@@ -151,13 +151,13 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (57004; 85%),
-<tt>NOUN --[<tt><a href="es_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16833; 63%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (56999; 85%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16832; 63%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2524; 54%),
 <tt>DET --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (1043; 85%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-appos.html">appos</a></tt>]--> NOUN</tt> (903; 50%),
-<tt>ADJ --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (688; 63%),
-<tt>ADJ --[<tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (601; 57%),
+<tt>ADJ --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (687; 63%),
+<tt>ADJ --[<tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (598; 57%),
 <tt>ADJ --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> ADJ</tt> (569; 55%),
 <tt>PRON --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (439; 74%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (310; 61%).

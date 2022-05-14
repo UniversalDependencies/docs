@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `parataxis`.
+13 nodes (0%) are attached to their parents as `parataxis`.
 
-12 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.16666666666667.
+13 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.46153846153846.
 
-The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (8; 67% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 8% instances).
+The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (9; 69% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 2 7 parataxis	color:blue
 1	Nuʹbb	nuʹbb	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Sg,Nom
 2	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-3	:	:	PUNCT	PUNCT	_	2	punct	_	_
+3	:	:	PUNCT	PUNCT	_	7	punct	_	_
 4	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT|SpaceAfter=No
 5	Mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg1,Nom
 6	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	7	aux:neg	_	GTtags=Neg,Ind,Sg1
@@ -49,7 +49,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 5	särnnad	särnnad	VERB	V	VerbForm=Inf	4	advcl	_	GTtags=Inf|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	parataxis	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-8	:	:	PUNCT	CLB	_	7	punct	_	_
+8	:	:	PUNCT	CLB	_	11	punct	_	_
 9	”	”	PUNCT	PUNCT	_	11	punct	_	GTtags=RIGHT|SpaceAfter=No
 10	Eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	11	nsubj	_	GTtags=Kin,Sem/Kin,Sg,Nom,PxSg2
 11	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	GTtags=Ind,Prt,Sg3

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-2172 tokens (12%) have a non-empty value of `Degree`.
-1638 types (22%) occur at least once with a non-empty value of `Degree`.
-1060 lemmas (20%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1883; 10% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (275; 1% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (14; 0% instances).
+2158 tokens (12%) have a non-empty value of `Degree`.
+1632 types (22%) occur at least once with a non-empty value of `Degree`.
+1059 lemmas (20%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1869; 10% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (275; 1% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (14; 0% instances).
 
 ### `ADJ`
 
-1883 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (82% of all `ADJ` tokens) have a non-empty value of `Degree`.
+1869 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (82% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1883; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1883; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1829; 97%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1236; 66%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1129; 60%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1815; 97%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1723; 92%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1723; 92%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1222; 65%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1123; 60%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (40; 2% of non-empty `Degree`): <em>větší, vyšší, menší, Starší, afričtějšího, bezpečnější, horším, jemnější, jistější, lepší</em>
-* `Pos` (1800; 96% of non-empty `Degree`): <em>další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</em>
+* `Pos` (1786; 96% of non-empty `Degree`): <em>další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</em>
 * `Sup` (43; 2% of non-empty `Degree`): <em>nejvyšší, největší, Nejnovější, nejdůležitější, nejhorších, nejlepších, nejvyšším, největším, Nejrozšířenější, Nejstarší</em>
 * `EMPTY` (401): <em>první, druhé, prvního, schopen, třetí, řečeno, druhou, propuštěn, rád, vedoucí</em>
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>velké</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (906) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (905) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Cmp` (14; 100% of non-empty `Degree`): <em>více, víc, méně</em>
-* `EMPTY` (813): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
+* `EMPTY` (830): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
 
 ## Relations with Agreement in `Degree`
 

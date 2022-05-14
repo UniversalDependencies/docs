@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSDLUW: POS Tags: `PART`
 
-There are 27 `PART` lemmas (0%), 36 `PART` types (0%) and 669 `PART` tokens (0%).
+There are 26 `PART` lemmas (0%), 36 `PART` types (0%) and 669 `PART` tokens (0%).
 Out of 17 observed tags, the rank of `PART` is: 12 in number of lemmas, 12 in number of types and 14 in number of tokens.
 
 The 10 most frequent `PART` lemmas: か, たり, など, ね, よ, な, だけ, ほど, まで, ばかり
 
 The 10 most frequent `PART` types:  か, たり, など, ね, よ, だけ, な, まで, ほど, ばかり
 
-The 10 most frequent ambiguous lemmas: か (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 229, <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 160), たり (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 78, <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 4), など (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 454, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 76, <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> 1), だけ (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 89, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 33), ほど (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 48, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 27), まで (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 284, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 23), ばかり (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 12, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 11), くらい (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 28, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 7), って (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 18, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 6), のみ (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 38, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 6)
+The 10 most frequent ambiguous lemmas: か (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 229, <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 160), たり (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 78, <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 4), など (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 454, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 76), だけ (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 89, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 33), ほど (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 48, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 27), まで (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 284, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 23), ばかり (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 12, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 11), くらい (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 28, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 8), つう (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 18, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 7, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 6), のみ (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 38, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 6)
 
-The 10 most frequent ambiguous types:  か (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 229, <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 160, <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> 1), たり (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 76, <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 2), など (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 452, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 76), ね (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 56, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 1), だけ (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 89, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 33), な (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 973, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 28), まで (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 283, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 23), ほど (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 43, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 22, <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 2), ばかり (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 11, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 11), くらい (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 20, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 7)
+The 10 most frequent ambiguous types:  か (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 229, <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 160, <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> 1), たり (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 76, <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 2), など (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 452, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 76), ね (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 56, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 1), だけ (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 89, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 33), な (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 973, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 28), まで (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 283, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 23), ほど (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 43, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 22, <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 2), ばかり (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 11, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 11), くらい (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 20, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 7)
 
 
 * か
@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  か (<tt><a href="ja_gsdluw-pos-PART.html
   * <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 76: ポール・ウェラー から セッション や オープニングアクト の オファー を 受ける <b>など</b> 、 高い 評価 を 得 ている 。
 * ね
   * <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 56: やはり 、 おすすめ は 焼き物 です <b>ね</b> 。
-  * <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 1: これ は やら <b>ね</b> ば 。
+  * <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 1: これ は やら <b>ね</b> ば 。
 * だけ
   * <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 89: やはり 、 日常的 に 利用さ れる こと が 多い 業者 <b>だけ</b> あっ て 、 非常 に 慣れ た 感じ は あり ます 。
   * <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 33: おいしい と 聞い て た <b>だけ</b> に 姉 に は 申し訳なく て ホント に 最悪 です
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  か (<tt><a href="ja_gsdluw-pos-PART.html
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.333333 (the average of all parts of speech is 1.102729).
+The form / lemma ratio of `PART` is 1.384615 (the average of all parts of speech is 1.095294).
 
 The 1st highest number of forms (4) was observed with the lemma “な”: な, なぁ, なあ, なー.
 

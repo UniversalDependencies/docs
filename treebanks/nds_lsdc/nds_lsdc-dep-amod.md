@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-56 nodes (2%) are attached to their parents as `amod`.
+66 nodes (3%) are attached to their parents as `amod`.
 
-56 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19642857142857.
+66 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18181818181818.
 
-The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (54; 96% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (2; 4% instances).
+The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (62; 94% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -44,41 +44,106 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 16 amod	color:blue
-1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	lemma[gml]=dat²
-2	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	cop	_	lemma[gml]=wēsen²
-3	alle	al	PRON	_	Case=Nom|Number=Plur	7	nsubj	_	lemma[gml]=al
-4	wakkere	wakker	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	7	amod	_	lemma[gml]=wacker
-5	un	un	CCONJ	_	_	6	cc	_	lemma[gml]=unde²
-6	fyne	fyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	conj	_	lemma[gml]=fîn
-7	lüdens	lüüd	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma[gml]=lü̂t¹|SpaceAfter=No
-8	,	,	PUNCT	_	_	27	punct	_	_
-9	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	27	nsubj	_	lemma[gml]=dê¹
-10	kort	kort	ADJ	_	Degree=Pos	27	advmod	_	lemma[gml]=kort¹
-11	vöär	vöär	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=vȫr³
-12	wynachten	wynachten	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	10	obl	_	lemma[gml]=wînachten
-13	åvends	åvend	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	27	obl	_	lemma[gml]=âvent
-14	by	by	ADP	_	AdpType=Prep	17	case	_	lemma[gml]=bî
-15	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê¹
-16	olden	old	ADJ	_	Case=Dat|Gender=Fem|Number=Sing	17	amod	_	lemma[gml]=ōlt
-17	Marigge	Marigge	PROPN	_	Number=Sing	27	obl	_	_
-18	un	un	CCONJ	_	_	19	cc	_	lemma[gml]=unde²
-19	Janhiarm	Janhiarm	PROPN	_	Number=Sing	17	conj	_	SpaceAfter=No
-20	,	,	PUNCT	_	_	22	punct	_	_
-21	iaren	ear	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Case[regional]=Acc|lemma[gml]=ēr¹
-22	man	man	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	19	appos	_	Case[regional]=Acc|lemma[gml]=man¹|SpaceAfter=No
-23	,	,	PUNCT	_	_	27	punct	_	_
-24	in	in	ADP	_	AdpType=Prep	26	case	_	lemma[gml]=in²
-25	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	lemma[gml]=dê¹
-26	stuaven	stoaven	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	27	obl	_	lemma[gml]=stōven¹
-27	saeten	sitten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	acl	_	lemma[gml]=sitten
-28	un	un	CCONJ	_	_	29	cc	_	lemma[gml]=unde²
-29	spünnen	spinnen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	27	conj	_	lemma[gml]=spinnen|SpaceAfter=No
-30	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 amod	color:blue
+1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+2	un	un	CCONJ	_	_	10	cc	_	_
+3	to	to	ADP	_	AdpType=Prep	7	case	_	_
+4	'	'	PUNCT	_	_	5	punct	_	_
+5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	31.	31.	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	_
+7	oktober	oktober	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
+8	ao.	ao.	ADV	_	_	7	advmod	_	_
+9	1817	1817	NUM	_	_	8	appos	_	_
+10	heruutgeaven	heruutgeaven	VERB	_	Aspect=Perf|VerbForm=Part	1	conj	_	_
+11	van	van	ADP	_	AdpType=Prep	12	case	_	_
+12	Claus	Claus	PROPN	_	Gender=Masc|Number=Sing	10	obl	_	_
+13	Harms	Harms	PROPN	_	Gender=Masc|Number=Sing	12	flat	_	_
+14	archidiakonus	archidiakonus	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	_
+15	an	an	ADP	_	AdpType=Prep	17	case	_	_
+16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	St.	St.	PROPN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	14	nmod	_	_
+18	Nicolaikarke	Nicolaikarke	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	17	flat	_	_
+19	in	in	ADP	_	AdpType=Prep	20	case	_	_
+20	Kiel	Kiel	PROPN	_	Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	10	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 19 amod	color:blue
+1	Sü	seen	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	eyn	eyn	NUM	_	_	1	parataxis	_	_
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+5	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+6	van	van	ADP	_	AdpType=Prep	9	case	_	_
+7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+8	vealen	veal	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	_
+9	nådeylen	nådeyl	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	_
+12	dåruut	dåruut	ADV	_	_	13	advmod	_	_
+13	entspreaken	entspreaken	VERB	_	VerbForm=Inf	9	acl	_	_
+14	mut	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	aux	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	13	punct	_	_
+16	wän	wän	SCONJ	_	_	35	mark	_	_
+17	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	35	nsubj	_	_
+18	syd	syd	ADP	_	AdpType=Prep	21	case	_	_
+19	twintig	twintig	NUM	_	_	21	amod	_	_
+20	dörtig	dörtig	NUM	_	_	19	conj	_	_
+21	jår	jår	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	35	obl	_	_
+22	allerley	allerley	DET	_	Case=Acc|Gender=Neut	23	det	_	_
+23	kråmstükke	kråmstük	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	35	obj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	29	punct	_	_
+25	wårvan	wårvan	ADV	_	_	29	advmod	_	_
+26	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	29	nsubj	_	_
+27	vröer	vrö	ADJ	_	Degree=Cmp	29	advmod	_	_
+28	niks	niks	PRON	_	Case=Acc|Number=Sing|PronType=Neg	29	obj	_	_
+29	wus	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	acl	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	29	punct	_	_
+31	by	by	ADP	_	AdpType=Prep	34	case	_	_
+32	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+33	leve	leev	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+34	jugend	jugend	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	35	obl	_	_
+35	insmuggelt	insmuggelen	VERB	_	Aspect=Perf|VerbForm=Part	13	advcl	_	_
+36	un	un	CCONJ	_	_	37	cc	_	_
+37	invöört	invören	VERB	_	_	35	conj	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	42	punct	_	_
+39	besunders	besunders	ADV	_	_	42	advmod	_	_
+40	in	in	ADP	_	AdpType=Prep	42	case	_	_
+41	vöärneame	vöärneam	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	42	amod	_	_
+42	familien	familie	NOUN	_	Case=Acc,Dat|Number=Sing	35	obl	_	_
+43	oder	oder	CCONJ	_	_	45	cc	_	_
+44	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	45	nsubj	_	_
+45	et	et	PRON	_	Case=Nom|Number=Sing|PronType=Prs	42	conj	_	_
+46	weasen	weasen	AUX	_	VerbForm=Inf	45	cop	_	_
+47	willet	willen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	45	aux	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	42	punct	_	_
+49	dårdöärch	dårdöärch	ADV	_	_	55	advmod	_	_
+50	dat	dat	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	51	det	_	_
+51	kristendoom	kristendoom	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	55	nsubj	_	_
+52	meyr	veal	ADV	_	_	55	advmod	_	_
+53	un	un	CCONJ	_	_	54	cc	_	_
+54	minder	min	ADV	_	_	52	conj	_	_
+55	vordrängd	vordrängen	VERB	_	Aspect=Perf|VerbForm=Part	35	advcl	_	_
+56	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	55	aux	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	62	punct	_	_
+58	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	62	nsubj	_	_
+59	nich	nich	PART	_	PartType=Neg	62	advmod	_	_
+60	wol	wol	ADV	_	_	62	advmod	_	_
+61	to	to	PART	_	PartType=Inf	62	mark	_	_
+62	möten	möten	VERB	_	VerbForm=Inf	55	advcl	_	_
+63	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	62	cop	_	SpaceAfter=No
+64	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

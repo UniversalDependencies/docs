@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (84; 100% of non-empty `NumType`): <em>ensimmäinen, ensimmäisen, 1., 30., I, ensimmäistä, 10., 21., 3., 31.</em>
-* `EMPTY` (1055): <em>suurin, uuden, viime, suuri, uusia, koko, useita, eri, lukuisia, pienen</em>
+* `EMPTY` (1058): <em>suurin, uuden, viime, suuri, uusia, koko, useita, eri, lukuisia, pienen</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (28) occur only with one value of `NumType`.
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>IV:n</em>
-* `EMPTY` (1504): <em>of, Ranskan, Australian, Kiinan, Hong, Venäjän, Yhdysvaltain, de, the, Euroopan</em>
+* `EMPTY` (1503): <em>of, Ranskan, Australian, Kiinan, Hong, Venäjän, Yhdysvaltain, de, the, Euroopan</em>
 
 ## Relations with Agreement in `NumType`
 

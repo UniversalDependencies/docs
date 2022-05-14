@@ -13,9 +13,9 @@ The 10 most frequent `INTJ` lemmas: 嗟、 羌、 於、 噫、 蹇、 呼、 �
 
 The 10 most frequent `INTJ` types:  嗟、 羌、 於、 噫、 蹇、 呼、 咨、 嗚、 嘻、 謇
 
-The 10 most frequent ambiguous lemmas: 嗟 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 1), 羌 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 11), 於 (<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> 2412, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 156, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 2), 噫 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 1), 蹇 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 10, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 3), 呼 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 36, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 2), 咨 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 3), 謇 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 4, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 1), 唯 (<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 105, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 5, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 3), 惡 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 137, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 59, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 27, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 3)
+The 10 most frequent ambiguous lemmas: 嗟 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 1), 羌 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 11), 於 (<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> 2489, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 159, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 2), 噫 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 1), 蹇 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 10, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 3), 呼 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 36, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 2), 咨 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 3), 謇 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 4, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 1), 唯 (<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 106, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 5, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 3), 惡 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 140, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 61, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 27, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 3)
 
-The 10 most frequent ambiguous types:  嗟 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 1), 羌 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 11), 於 (<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> 2412, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 156, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 2), 噫 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 1), 蹇 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 10, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 3), 呼 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 36, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 2), 咨 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 3), 謇 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 4, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 1), 唯 (<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 105, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 5, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 3), 惡 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 137, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 58, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 27, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 3)
+The 10 most frequent ambiguous types:  嗟 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 1), 羌 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 11), 於 (<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> 2489, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 159, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 2), 噫 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 1), 蹇 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 10, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 3), 呼 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 36, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 2), 咨 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 3), 謇 (<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 4, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 1), 唯 (<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 106, <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 5, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 3), 惡 (<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 140, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 60, <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 27, <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 3)
 
 
 * 嗟
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  嗟 (<tt><a href="lzh_kyoto-pos-INTJ.html
   * <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 17: <b>羌</b> 中 道 而 改 路
   * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 11: 神爵 元 年 先零 與 諸 <b>羌</b> 畔
 * 於
-  * <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> 2412: 己 所 不 欲 勿 施 <b>於</b> 人
-  * <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 156: 君子 <b>於</b> 其 言 無 所 苟 而 已 矣
+  * <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> 2489: 己 所 不 欲 勿 施 <b>於</b> 人
+  * <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 159: 君子 <b>於</b> 其 言 無 所 苟 而 已 矣
   * <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 8: <b>於</b> 戲
   * <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 2: 請 獻 商 <b>於</b> 之 地 六百 里
 * 噫
@@ -49,18 +49,18 @@ The 10 most frequent ambiguous types:  嗟 (<tt><a href="lzh_kyoto-pos-INTJ.html
   * <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 4: 余 固 知 謇 <b>謇</b> 之 為 患 兮
   * <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 1: 余 固 知 <b>謇</b> 謇 之 為 患 兮
 * 唯
-  * <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 105: <b>唯</b> 其 言 而 莫 予 違 也
+  * <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 106: <b>唯</b> 其 言 而 莫 予 違 也
   * <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 5: 徒 聞 <b>唯</b> <b>唯</b>
   * <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 3: <b>唯</b> <b>唯</b>
 * 惡
-  * <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 137: <b>惡</b> 之 欲 其 死
-  * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 58: 不 成 人 之 <b>惡</b>
+  * <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> 140: <b>惡</b> 之 欲 其 死
+  * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 60: 不 成 人 之 <b>惡</b>
   * <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> 27: 子 曰 <b>惡</b> 在 其 敬 叔 父 也
   * <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> 3: <b>惡</b> 是 何 言 也
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.013456).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.013268).
 
 The 1st highest number of forms (1) was observed with the lemma “于”: 于.
 

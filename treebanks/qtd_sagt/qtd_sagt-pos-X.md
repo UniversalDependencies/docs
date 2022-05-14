@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>be--</em> (<tt><a href="qtd_sagt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.679170).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.678698).
 
 The 1st highest number of forms (1) was observed with the lemma “Leit”: <em>Leit--</em>.
 

@@ -22,13 +22,13 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 2 parataxis	color:blue
-1	tɨk	_	VERB	v	_	2	compound	_	_
-2	tɨk	_	VERB	v	_	7	parataxis	_	_
+1	tɨk	tɨk	VERB	v	_	2	compound	_	_
+2	tɨk	tɨk	VERB	v	_	7	parataxis	_	_
 3	at	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=3	2	aux	_	_
-4	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod	_	_
-5	wirik	_	NOUN	n	_	7	obj	_	_
-6	kanã	_	ADV	adv	_	5	advmod	_	_
-7	təga	_	VERB	v	VerbForm=Ger	0	root	_	_
+4	toat	toat	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod	_	_
+5	wirik	wirik	NOUN	n	_	7	obj	_	_
+6	kanã	kanã	ADV	adv	_	5	advmod	_	_
+7	təga	tək	VERB	v	VerbForm=Ger	0	root	_	_
 8	tə	tə	PART	part	Evident=Nfh	7	mark	_	_
 
 ~~~
@@ -53,12 +53,12 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 parataxis	color:blue
-1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+1	et	et	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 2	kaʔa	kaʔa	NOUN	n	_	0	root	_	_
-3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	_	_
-4	peʔ	_	ADP	adp	Case=Loc	2	case	_	_
+3	ʔa	ʔaʔ	ADJ	adj	Clas=Rd	2	clf	_	_
+4	peʔ	peʔ	ADP	adp	Case=Loc	2	case	_	_
 5	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-6	epɨyap	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	2	parataxis	_	_
+6	epɨyap	pɨy	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	2	parataxis	_	_
 
 ~~~
 

@@ -31,7 +31,7 @@ The following 27 pairs of parts of speech are connected with `parataxis`: <tt><a
 7	мир	мир	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 8	»	»	PUNCT	'	_	5	punct	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	11	punct	_	_
-10	—	—	PUNCT	-	_	11	punct	_	OrigForm=--
+10	—	—	PUNCT	-	_	11	punct	_	_
 11	сказала	сказать	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	_
 12	Лейв	Лейв	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	_	_

@@ -23,11 +23,11 @@ The following 38 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 obl	color:blue
-1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=MATT_5.33
-2	въ	въ	ADP	R-	_	3	case	_	ref=MATT_5.33
-3	лъжѫ	лъжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=MATT_5.33
-4	клънеши	клѧти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.33
-5	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	_	ref=MATT_5.33
+1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	Ref=MATT_5.33
+2	въ	въ	ADP	R-	_	3	case	_	Ref=MATT_5.33
+3	лъжѫ	лъжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	Ref=MATT_5.33
+4	клънеши	клѧти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.33
+5	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	_	Ref=MATT_5.33
 
 ~~~
 
@@ -38,19 +38,19 @@ The following 38 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 obl	color:blue
-1	аще	аще	SCONJ	G-	_	6	mark	_	ref=MATT_5.29
-2	же	же	ADV	Df	_	8	discourse	_	ref=MATT_5.29
-3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_5.29
-4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=MATT_5.29
-5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	ref=MATT_5.29
-6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=MATT_5.29
-7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	ref=MATT_5.29
-8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.29
-9	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	ref=MATT_5.29
-10	и	и	CCONJ	C-	_	8	cc	_	ref=MATT_5.29
-11	връзи	врѣщи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=MATT_5.29
-12	отъ	отъ	ADP	R-	_	13	case	_	ref=MATT_5.29
-13	тебе	тꙑ	PRON	Pp	Case=Gen|Number=Sing|Person=2|PronType=Prs	11	obl	_	ref=MATT_5.29
+1	аще	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_5.29
+2	же	же	ADV	Df	_	8	discourse	_	Ref=MATT_5.29
+3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=MATT_5.29
+4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	Ref=MATT_5.29
+5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	Ref=MATT_5.29
+6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	Ref=MATT_5.29
+7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	Ref=MATT_5.29
+8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.29
+9	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	Ref=MATT_5.29
+10	и	и	CCONJ	C-	_	8	cc	_	Ref=MATT_5.29
+11	връзи	врѣщи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	Ref=MATT_5.29
+12	отъ	отъ	ADP	R-	_	13	case	_	Ref=MATT_5.29
+13	тебе	тꙑ	PRON	Pp	Case=Gen|Number=Sing|Person=2|PronType=Prs	11	obl	_	Ref=MATT_5.29
 
 ~~~
 
@@ -61,16 +61,16 @@ The following 38 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 obl	color:blue
-1	ꙇ	и	CCONJ	C-	_	6	cc	_	ref=MATT_21.10
-2	въшедъшоу	вънити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	ref=MATT_21.10
-3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	ref=MATT_21.10
-4	въ	въ	ADP	R-	_	5	case	_	ref=MATT_21.10
-5	иероусалимъ	иѥроусалимъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	ref=MATT_21.10
-6	потрѧсе	потрѧсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_21.10
-7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	ref=MATT_21.10
-8	весь	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Sing	9	det	_	ref=MATT_21.10
-9	градъ	градъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT_21.10
-10	г҃лѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	ref=MATT_21.10
+1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MATT_21.10
+2	въшедъшоу	вънити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MATT_21.10
+3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Ref=MATT_21.10
+4	въ	въ	ADP	R-	_	5	case	_	Ref=MATT_21.10
+5	иероусалимъ	иѥроусалимъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	Ref=MATT_21.10
+6	потрѧсе	потрѧсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_21.10
+7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	Ref=MATT_21.10
+8	весь	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Sing	9	det	_	Ref=MATT_21.10
+9	градъ	градъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=MATT_21.10
+10	г҃лѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MATT_21.10
 
 ~~~
 

@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-69 tokens (0%) have a non-empty value of `Typo`.
-68 types (0%) occur at least once with a non-empty value of `Typo`.
-68 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 7 part-of-speech tags: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (36; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+76 tokens (0%) have a non-empty value of `Typo`.
+75 types (0%) occur at least once with a non-empty value of `Typo`.
+73 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 7 part-of-speech tags: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (42; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-36 <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+42 <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31; 86%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (30; 83%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (21; 58%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37; 88%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (35; 83%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (26; 62%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (36; 100% of non-empty `Typo`): <em>100-годзя, АПАМ, Савет, артыкул, блогерка, вільгаці, гады, газе, газэты, групе</em>
+* `Yes` (42; 100% of non-empty `Typo`): <em>100-годзя, АПАМ, Пача-, Савет, артыкул, блогерка, вайне, валанцёрах, вільгаці, гады</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (36) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (40) occur only with one value of `Typo`.
 
 ### `PROPN`
 
@@ -58,6 +58,14 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 * `Yes` (7; 100% of non-empty `Typo`): <em>Галоўнае, Літаратуры, беларускай, жывы, навукова-практычным, паэтычны, цывльным</em>
 
+### `ADP`
+
+3 <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
+
+`ADP` tokens may have the following values of `Typo`:
+
+* `Yes` (3; 100% of non-empty `Typo`): <em>3, пад, сураць</em>
+
 ### `DET`
 
 3 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
@@ -67,14 +75,6 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 `DET` tokens may have the following values of `Typo`:
 
 * `Yes` (3; 100% of non-empty `Typo`): <em>Усё, адноў, самае</em>
-
-### `ADP`
-
-2 <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
-
-`ADP` tokens may have the following values of `Typo`:
-
-* `Yes` (2; 100% of non-empty `Typo`): <em>3, сураць</em>
 
 ### `PRON`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (1%) are attached to their parents as `appos`.
+7 nodes (1%) are attached to their parents as `appos`.
 
-6 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.83333333333333.
+7 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 3 pairs of parts of speech are connected with `appos`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (3; 50% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (2; 33% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (1; 17% instances).
+The following 4 pairs of parts of speech are connected with `appos`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (3; 43% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (2; 29% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (1; 14% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
 
 
 ~~~ conllu

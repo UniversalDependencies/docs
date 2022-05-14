@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-obj.html">obj</a></tt>.
 There are also 1 other language-specific subtypes of `obj`: <tt><a href="fr_gsd-dep-obj-lvc.html">obj:lvc</a></tt>.
 
-113 nodes (0%) are attached to their parents as `obj:agent`.
+111 nodes (0%) are attached to their parents as `obj:agent`.
 
-82 instances of `obj:agent` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.38938053097345.
+82 instances of `obj:agent` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.37837837837838.
 
-The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (74; 65% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (33; 29% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (74; 67% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (31; 28% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 7 5 obj:agent	color:blue
 1	N'	ne	ADV	_	Polarity=Neg	2	advmod	_	SpaceAfter=No|wordform=n'
 2	hésitez	hésiter	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-3	-pas	pas	ADV	_	Polarity=Neg	2	advmod	_	wordform=pas
+3	-pas	pas	ADV	_	Polarity=Neg|Typo=Yes	2	advmod	_	CorrectForm=pas
 4	à	à	ADP	_	_	7	mark	_	_
 5	la	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj:agent	_	_
 6	faire	faire	AUX	_	VerbForm=Inf	7	aux:caus	_	_
@@ -53,7 +53,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 8	largement	largement	ADV	_	_	7	advmod	_	_
 9	autour	autour	ADV	_	_	7	advmod	_	_
 10	de	de	ADP	_	_	11	case	_	_
-11	vous	lui	PRON	_	Person=2|PronType=Prs	9	obl:arg	_	_
+11	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	9	obl:arg	_	_
 12	!	!	PUNCT	_	_	2	punct	_	_
 
 ~~~

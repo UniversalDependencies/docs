@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-29 nodes (0%) are attached to their parents as `list`.
+24 nodes (0%) are attached to their parents as `list`.
 
-25 instances of `list` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.58620689655172.
+20 instances of `list` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.54166666666667.
 
-The following 3 pairs of parts of speech are connected with `list`: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (24; 83% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `list`: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (22; 92% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -33,18 +33,17 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 list	color:blue
-1	KONUM	konum	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
-2	OLARAK	ol	ADV	_	_	3	advcl	_	_
-3	MUHTEŞEM	muhteşem	ADJ	_	_	0	root	_	_
-4	DENİZ	deniz	NOUN	_	Case=Nom|Number=Sing|Person=3	3	list	_	_
-5	KOY	koy	NOUN	_	Case=Nom|Number=Sing|Person=3	3	list	_	_
-6	HAVUZ	havuz	NOUN	_	Case=Nom|Number=Sing|Person=3	3	list	_	_
-7	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 3 5 list	color:blue
+1	HAVUZLAR	havuz	NOUN	_	Case=Nom|Number=Plur|Person=3	3	nsubj	_	_
+2	ÇOK	çok	ADV	_	_	3	advmod	_	_
+3	TEMİZ	temiz	ADJ	_	_	0	root	_	_
+4	VE	ve	CCONJ	_	_	5	cc	_	_
+5	HİJYEN	hijyen	NOUN	_	Case=Nom|Number=Sing|Person=3	3	list	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

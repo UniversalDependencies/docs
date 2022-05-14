@@ -59,11 +59,11 @@ The 2nd highest number of forms (101) was observed with the lemma “unknown”:
 
 The 3rd highest number of forms (15) was observed with the lemma “wissen”: <em>gewusst, gewußt, weiss, weiß, weißt, wisse, wissen, wisst, wusste, wussten, wußte, wüsste, wüssten, wüßte, wüßten</em>.
 
-`VERB` occurs with 7 features: <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt> (263576; 100% instances), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt> (134429; 51% instances), <tt><a href="de_hdt-feat-Person.html">Person</a></tt> (134429; 51% instances), <tt><a href="de_hdt-feat-Number.html">Number</a></tt> (134320; 51% instances), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt> (132985; 50% instances), <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt> (59655; 23% instances), <tt><a href="de_hdt-feat-Degree.html">Degree</a></tt> (1; 0% instances)
+`VERB` occurs with 6 features: <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt> (263576; 100% instances), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt> (134429; 51% instances), <tt><a href="de_hdt-feat-Person.html">Person</a></tt> (134429; 51% instances), <tt><a href="de_hdt-feat-Number.html">Number</a></tt> (134320; 51% instances), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt> (132985; 50% instances), <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt> (59655; 23% instances)
 
-`VERB` occurs with 14 feature-value pairs: `Aspect=Perf`, `Degree=Pos`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
+`VERB` occurs with 13 feature-value pairs: `Aspect=Perf`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
-`VERB` occurs with 28 feature combinations.
+`VERB` occurs with 27 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (75803 tokens).
 Examples: <em>gibt, geht, steht, bietet, kommt, sieht, stellt, liegt, heißt, macht</em>
 

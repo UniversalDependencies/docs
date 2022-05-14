@@ -8,24 +8,23 @@ udver: '2'
 
 This relation is universal.
 
-149 nodes (7%) are attached to their parents as `advmod`.
+482 nodes (5%) are attached to their parents as `advmod`.
 
-132 instances of `advmod` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.26845637583893.
+353 instances of `advmod` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.46887966804979.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (96; 64% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (41; 28% instances), <tt><a href="gub_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="gub_tudet-pos-PART.html">PART</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-DET.html">DET</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (229; 48% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (222; 46% instances), <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (13; 3% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (10; 2% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="gub_tudet-pos-PART.html">PART</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="gub_tudet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 advmod	color:blue
-1	Aha	ha	VERB	vi	Person=1	0	root	_	_
-2	putar	putar	ADV	adv	Tense=Fut	1	advmod	_	_
-3	ko	ko	NOUN	n	_	1	obl	_	_
-4	pe	pe	ADP	posp	_	3	case	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod	color:blue
+1	ʔAromo	ʔaromo	ADV	adv	_	2	advmod	_	_
+2	uker	ker	VERB	vi	Person[subj]=3	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
 
 ~~~
 
@@ -36,30 +35,30 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 advmod	color:blue
-1	Nuzapo	apo	VERB	vt	Person=3|Polarity=Neg	0	root	_	_
-2	pixik	pixik	NOUN	n	_	1	obl	_	_
-3	kwaw	kwaw	ADV	adv	Polarity=Neg	2	advmod	_	_
-4	agwer	agwer	DET	det	PronType=Dem	5	det	_	_
-5	maʔe	maʔe	NOUN	n	_	1	obj	_	_
-6	amo	amo	DET	det	PronType=Ind	8	det	_	_
-7	ae	ae	PART	pcl	_	6	discourse	_	_
-8	awa	awa	NOUN	n	_	1	obl	_	_
-9	pe	pe	ADP	posp	Case=Dat	8	case	_	_
+1	Heta	eta	NOUN	n	Rel=NCont	0	root	_	_
+2	kara	kara	NOUN	n	_	1	obl:subj	_	_
+3	teteaʔu	tete	ADV	adv	Emph=Yes	2	advmod	_	_
+4	kope	ko	NOUN	n	Case=Loc	1	obl	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 advmod	color:blue
-1	Pitei	pitei	NUM	num	_	4	obl	_	_
-2	haw	haw	ADV	adv	Nomzr=Circ	1	advmod	_	_
-3	zo	zo	ADV	adv	_	1	advmod	_	_
-4	uzapi	zapi	VERB	v	Person=3	0	root	_	_
-5	.	.	PUNCT	punct	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 advmod	color:blue
+1	Hàir	hàir	NOUN	n	_	6	obl	_	_
+2	ràgaw	ràʔà	NOUN	n	Nomzr=Circ|Rel=Cont	1	nmod	_	_
+3	rehe	ehe	ADP	posp	Rel=Cont	1	case	_	_
+4	hàgʔpɨ	hàgʔpɨ	ADV	adv	_	6	advmod	_	_
+5	zekaipo	kwehe	ADV	adv	Evident=Nfh	4	advmod	_	_
+6	uzemuʔe	ʔe	VERB	vi	Person[subj]=3|Reflex=Yes|Voice=Cau	0	root	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	akwezpe	akwez	PRON	pro	Case=Loc|PronType=Dem	6	obl	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
 
 ~~~
 

@@ -23,14 +23,14 @@ The following 14 pairs of parts of speech are connected with `obl:npmod`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 3 obl:npmod	color:blue
 1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	Orig=ⲙ̄ⲡ︤ⲣ︥
-2	ⲣϩⲟⲧⲉ	ⲣϩⲟⲧⲉ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ⲣ-ϩⲟⲧⲉ|Orig=ⲣ`ϩⲟⲧⲉ`
+2	ⲣϩⲟⲧⲉ	ⲣϩⲟⲧⲉ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ⲣ-ϩⲟⲧⲉ|Orig=ⲣ`ϩⲟⲧⲉ`
 3	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	2	obl:npmod	_	_
 4	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	3	det	_	_
 5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	Orig=ⲛ̄
 6	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	obl	_	Entity=(person
 7	ⲉⲧ	ⲉⲧ	SCONJ	CREL	_	9	mark	_	_
 8	ⲛⲁ	ⲛⲁ	AUX	FUT	_	9	aux	_	_
-9	ⲙⲟⲩⲟⲩⲧ	ⲙⲟⲩⲟⲩⲧ	VERB	V	VerbForm=Fin	6	acl	_	_
+9	ⲙⲟⲩⲟⲩⲧ	ⲙⲟⲩⲟⲩⲧ	VERB	V	VerbForm=Fin	6	acl:relcl	_	_
 10	ⲙ	ⲛ	ADP	PREP	_	12	case	_	Orig=ⲙ̄
 11	ⲡⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	12	det	_	Entity=(object|Orig=ⲡⲉⲧ︤ⲛ︥
 12	ⲥⲱⲙⲁ	ⲥⲱⲙⲁ	NOUN	N	Foreign=Yes	9	obj	_	Entity=object)person)|Orig=ⲥⲱⲙⲁ`|OrigLang=grc

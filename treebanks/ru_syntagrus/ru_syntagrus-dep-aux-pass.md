@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ru_syntagrus-dep-aux.html">aux</a></tt>.
 
-3408 nodes (0%) are attached to their parents as `aux:pass`.
+3407 nodes (0%) are attached to their parents as `aux:pass`.
 
-3313 instances of `aux:pass` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1830985915493.
+3312 instances of `aux:pass` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18315233343117.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (3404; 100% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (3403; 100% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 6	fgColor:white
 # visual-style 6 8 aux:pass	color:blue
 1	В	в	ADP	_	_	3	case	3:case	_
-2	2010	2010	NUM	_	NumType=Card	3	nummod	3:nummod	_
+2	2010	2010	ADJ	_	Degree=Pos	3	amod	3:amod	_
 3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	6:obl:в:loc	_
 4	в	в	ADP	_	_	6	case	6:case	_
 5	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No

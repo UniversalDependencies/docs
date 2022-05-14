@@ -25,12 +25,12 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_atis-pos-DE
   * <tt><a href="tr_atis-pos-DET.html">DET</a></tt> 13: <em><b>bu</b> öğleden sonra Logan'dan Atlanta'ya uçağa ihtiyacım var</em>
   * <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> 7: <em><b>bu</b> yıl 23 Kasım'da Atlanta'dan Denver'e Delta ile uçmak istiyorum</em>
 * <em>şu</em>
-  * <tt><a href="tr_atis-pos-DET.html">DET</a></tt> 2: <em>Boston ve Dallas Fort worth arasında <b>şu</b> anda hangi uçuşlar mevcut</em>
+  * <tt><a href="tr_atis-pos-DET.html">DET</a></tt> 2: <em>Boston ve Dallas Fort Worth arasında <b>şu</b> anda hangi uçuşlar mevcut</em>
   * <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> 1: <em>sorum <b>şu</b> San Francisco'ya gitmek istiyorum ve Denver'de yaşıyorum ve birleşik havayollarında uçmak istiyorum erken uçuşunuz var mı</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.735126).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.748764).
 
 The 1st highest number of forms (1) was observed with the lemma “bir”: <em>bir</em>.
 

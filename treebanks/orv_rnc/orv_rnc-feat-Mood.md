@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-1525 tokens (4%) have a non-empty value of `Mood`.
-902 types (9%) occur at least once with a non-empty value of `Mood`.
-529 lemmas (11%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1270; 4% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (233; 1% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (22; 0% instances).
+1533 tokens (4%) have a non-empty value of `Mood`.
+906 types (9%) occur at least once with a non-empty value of `Mood`.
+530 lemmas (11%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1275; 4% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (236; 1% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (22; 0% instances).
 
 ### `VERB`
 
-1270 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (39% of all `VERB` tokens) have a non-empty value of `Mood`.
+1275 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (39% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1270; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1263; 99%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1258; 99%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1099; 87%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (885; 70%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt> (833; 66%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (639; 50%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1275; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1268; 99%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1263; 99%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1103; 87%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (886; 69%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt> (837; 66%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (639; 50%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (11; 1% of non-empty `Mood`): <em>было, сбирали, высылали, платили, присылали, стала, сталъ</em>
 * `Imp` (208; 16% of non-empty `Mood`): <em>пожалуй, пожалꙋи, вели, пожалуи, смилуйся, походи, возми, здравствꙋи, Возведи, виж(д)</em>
-* `Ind` (1051; 83% of non-empty `Mood`): <em>бьет, есть, бьетъ, бью, нет, учнутъ, рече, бꙋдет, даде, нетъ</em>
-* `EMPTY` (1997): <em>велѣно, велѣлъ, имати, написано, послал, писал, платить, поколол, приложил, сбирать</em>
+* `Ind` (1056; 83% of non-empty `Mood`): <em>бьет, есть, бьетъ, бью, нет, учнутъ, рече, бꙋдет, даде, нетъ</em>
+* `EMPTY` (2034): <em>велѣно, велѣлъ, имати, написано, послал, писал, платить, поколол, приложил, сбирать</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
@@ -38,20 +38,20 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>есть</em></td><td></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 91% lemmas (474) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 91% lemmas (475) occur only with one value of `Mood`.
 
 ### `AUX`
 
-233 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Mood`.
+236 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (225; 97%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (171; 73%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (165; 71%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (132; 57%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (122; 52%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (228; 97%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (171; 72%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (165; 70%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (132; 56%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (122; 52%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (67; 29% of non-empty `Mood`): <em>бы, б, было, бъ, былъ, были</em>
+* `Cnd` (70; 30% of non-empty `Mood`): <em>бы, б, бъ, было, былъ, были</em>
 * `Imp` (12; 5% of non-empty `Mood`): <em>буди, бꙋд, бꙋдь, бꙋдꙋ</em>
-* `Ind` (154; 66% of non-empty `Mood`): <em>есть, бы, еси, есте, будет, бысть, будутъ, суть, бꙋдетъ, бы(ст)</em>
-* `EMPTY` (74): <em>было, были, былъ, быть, будучи, быти, была, был, бъ, бывшіꙗ</em>
+* `Ind` (154; 65% of non-empty `Mood`): <em>есть, бы, еси, есте, будет, бысть, будутъ, суть, бꙋдетъ, бы(ст)</em>
+* `EMPTY` (76): <em>было, были, былъ, быть, будучи, быти, была, был, бъ, бывшіꙗ</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
@@ -98,12 +98,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `SCONJ` tokens may have the following values of `Mood`:
 
 * `Cnd` (22; 100% of non-empty `Mood`): <em>чтобъ, чтоб, чтобы, кабы, обыся</em>
-* `EMPTY` (363): <em>что, ꙗко, чтобъ, яко, егда, аще, ино, как, буде, ꙋбо</em>
+* `EMPTY` (367): <em>что, ꙗко, чтобъ, яко, егда, аще, ино, как, буде, ꙋбо</em>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (330; 67%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (330; 66%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (45; 60%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (24; 92%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-flat.html">flat</a></tt>]--> VERB</tt> (2; 100%).

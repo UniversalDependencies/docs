@@ -35,7 +35,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 11	nicht	nicht	PART	PTKNEG	Polarity=Neg	6	advmod	_	_
 12	mit	mit	ADP	APPR	_	15	case	_	_
 13	ihrem	ihr	DET	PPOSAT	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det:poss	_	_
-14	richtigen	richtig	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	15	amod	_	_
+14	richtigen	richtig	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
 15	Namen	Name	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 16	.	.	PUNCT	$.	_	6	punct	_	_
 
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 vocative	color:blue
-1	Vielen	viel	DET	PIAT	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	2	amod	_	_
+1	Vielen	viel	DET	PIAT	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	2	amod	_	_
 2	Dank	Dank	ADP	NN	_	0	root	_	_
 3	Frau	Frau	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	2	vocative	_	_
 4	Schrag	Schrag	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	3	flat	_	NamedEntity=Yes
@@ -56,7 +56,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 6	bis	bis	ADP	APPR	_	10	case	_	_
 7	zu	zu	ADP	APPR	_	10	case	_	_
 8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	nächsten	nah	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	10	amod	_	_
+9	nächsten	nah	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
 10	Termin	Termin	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
 11	.	.	PUNCT	$.	_	2	punct	_	_
 
@@ -75,14 +75,14 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 4	W	W	PROPN	NE	Case=Nom|Number=Sing	2	conj	_	NamedEntity=Yes
 5	Team	Team	PROPN	NN	Case=Nom|Gender=Neut|Number=Sing	1	vocative	_	SpaceAfter=No|NamedEntity=Yes
 6	,	,	PUNCT	$,	_	8	punct	_	_
-7	vielen	viel	DET	PIAT	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	8	amod	_	_
+7	vielen	viel	DET	PIAT	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	8	amod	_	_
 8	Dank	Dank	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	_
 9	nochmal	nochmal	ADV	ADV	_	8	advmod	_	_
 10	für	für	ADP	APPR	_	15	case	_	_
 11	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-12	schnelle	schnell	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	15	amod	_	_
+12	schnelle	schnell	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
 13	und	und	CCONJ	KON	_	14	cc	_	_
-14	kompetente	kompetent	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	12	conj	_	_
+14	kompetente	kompetent	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	_
 15	Bürovermietung	Bürovermietung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	$.	_	8	punct	_	_
 

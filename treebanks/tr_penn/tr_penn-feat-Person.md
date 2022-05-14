@@ -11,34 +11,34 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_penn-feat-Person.html">Person</a></tt>, <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt>.
 
-82913 tokens (45%) have a non-empty value of `Person`.
-25145 types (71%) occur at least once with a non-empty value of `Person`.
-6662 lemmas (45%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (66734; 36% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (16009; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (170; 0% instances).
+82883 tokens (45%) have a non-empty value of `Person`.
+25130 types (71%) occur at least once with a non-empty value of `Person`.
+6650 lemmas (45%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (66725; 36% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15988; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (170; 0% instances).
 
 ### `NOUN`
 
-66734 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
+66725 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54978; 82%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44969; 67%), <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (44969; 67%), <tt><a href="tr_penn-feat-Case.html">Case</a></tt><tt>=Nom</tt> (41437; 62%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54950; 82%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44965; 67%), <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (44965; 67%), <tt><a href="tr_penn-feat-Case.html">Case</a></tt><tt>=Nom</tt> (41429; 62%).
 
 `NOUN` tokens may have the following values of `Person`:
 
-* `3` (66734; 100% of non-empty `Person`): <em>bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</em>
+* `3` (66725; 100% of non-empty `Person`): <em>bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</em>
 
-`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (6233) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (6222) occur only with one value of `Person`.
 
 ### `VERB`
 
-16009 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Person`.
+15988 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15809; 99%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14822; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13891; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13056; 82%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 80%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 57%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 50%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15807; 99%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14805; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13872; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13054; 82%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 80%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 57%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 50%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (748; 5% of non-empty `Person`): <em>düşünüyorum, istiyoruz, sanmıyorum, sanırım, ediyoruz, yaptık, düşünüyoruz, bilmiyorum, düşündüm, ediyorum</em>
-* `2` (389; 2% of non-empty `Person`): <em>kıyasla, biliyorsun, dile, dönüş, et, al, git, bekleyin, diyebilirsiniz, düşünün</em>
-* `3` (14872; 93% of non-empty `Person`): <em>söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</em>
+* `2` (387; 2% of non-empty `Person`): <em>kıyasla, biliyorsun, dile, dönüş, et, al, git, bekleyin, diyebilirsiniz, düşünün</em>
+* `3` (14853; 93% of non-empty `Person`): <em>söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -150,14 +150,14 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="tr_penn-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (14719; 100%),
-<tt>VERB --[<tt><a href="tr_penn-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7853; 100%),
-<tt>VERB --[<tt><a href="tr_penn-dep-obl.html">obl</a></tt>]--> NOUN</tt> (5568; 96%),
-<tt>VERB --[<tt><a href="tr_penn-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4219; 92%),
+<tt>NOUN --[<tt><a href="tr_penn-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (14724; 100%),
+<tt>VERB --[<tt><a href="tr_penn-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7864; 100%),
+<tt>VERB --[<tt><a href="tr_penn-dep-obl.html">obl</a></tt>]--> NOUN</tt> (5584; 96%),
+<tt>VERB --[<tt><a href="tr_penn-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4220; 92%),
 <tt>VERB --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2634; 94%),
-<tt>VERB --[<tt><a href="tr_penn-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2528; 96%),
-<tt>NOUN --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2324; 100%),
-<tt>NOUN --[<tt><a href="tr_penn-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2153; 100%),
+<tt>VERB --[<tt><a href="tr_penn-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2527; 96%),
+<tt>NOUN --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2326; 100%),
+<tt>NOUN --[<tt><a href="tr_penn-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2154; 100%),
 <tt>VERB --[<tt><a href="tr_penn-dep-ccomp.html">ccomp</a></tt>]--> NOUN</tt> (1883; 92%),
-<tt>NOUN --[<tt><a href="tr_penn-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1880; 100%).
+<tt>NOUN --[<tt><a href="tr_penn-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1881; 100%).
 

@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>work</em> (<tt><a href="en_partut-pos
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.212670 (the average of all parts of speech is 1.199242).
+The form / lemma ratio of `NOUN` is 1.212670 (the average of all parts of speech is 1.198926).
 
 The 1st highest number of forms (4) was observed with the lemma “number”: <em>No, Nos, number, numbers</em>.
 

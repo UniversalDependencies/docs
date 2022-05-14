@@ -11,7 +11,7 @@ Out of 17 observed tags, the rank of `PART` is: 17 in number of lemmas, 17 in nu
 
 The 10 most frequent `PART` lemmas: <em>anti, pré, pós</em>
 
-The 10 most frequent `PART` types:  <em>anti, pré-, pós</em>
+The 10 most frequent `PART` types:  <em>anti, pré, pós</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -21,11 +21,11 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.420809).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.421073).
 
 The 1st highest number of forms (1) was observed with the lemma “anti”: <em>anti</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “pré”: <em>pré-</em>.
+The 2nd highest number of forms (1) was observed with the lemma “pré”: <em>pré</em>.
 
 The 3rd highest number of forms (1) was observed with the lemma “pós”: <em>pós</em>.
 
@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “pós”: <em>
 `PART` occurs with 3 feature-value pairs: `ExtPos=NOUN`, `Gender=Masc`, `Number=Sing`
 
 `PART` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (1 tokens).
-Examples: <em>anti</em>
+The most frequent feature combination is `Gender=Masc|Number=Sing` (1 tokens).
+Examples: <em>pós</em>
 
 
 ## Relations

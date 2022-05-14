@@ -62,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 8	commerce	commerce	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 9	a	avoir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	tout	tout	ADJ	PDT	Gender=Masc|Number=Sing	12	amod	_	_
-11	son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+11	son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	sens	sens	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	9	punct	_	_
 

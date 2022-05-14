@@ -64,7 +64,7 @@ The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2 4 ccomp	color:blue
 1	Verkkoponnistusten	verkko#ponnistus	NOUN	_	Case=Gen|Number=Plur	4	nsubj:cop	4:nsubj:cop	_
 2	sanotaan	sanoa	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
-3	olevan	olla	AUX	_	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	4	cop	4:cop	_
+3	olevan	olla	AUX	_	Case=Gen|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	4	cop	4:cop	_
 4	päätekijä	pää#tekijä	NOUN	_	Case=Nom|Derivation=Ja|Number=Sing	2	ccomp	2:ccomp	_
 5	yksikön	yksikkö	NOUN	_	Case=Gen|Number=Sing	6	nmod:poss	6:nmod:poss	_
 6	pääomamenoissa	pää#oma#meno	NOUN	_	Case=Ine|Number=Plur	4	nmod	4:nmod	SpaceAfter=No

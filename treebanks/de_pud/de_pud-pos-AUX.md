@@ -59,11 +59,11 @@ The 2nd highest number of forms (8) was observed with the lemma “haben”: <em
 
 The 3rd highest number of forms (8) was observed with the lemma “müssen”: <em>muss, musst, musste, mussten, müsse, müssen, müssten, müßten</em>.
 
-`AUX` occurs with 4 features: <tt><a href="de_pud-feat-Tense.html">Tense</a></tt> (827; 95% instances), <tt><a href="de_pud-feat-Mood.html">Mood</a></tt> (804; 93% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (804; 93% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (804; 93% instances)
+`AUX` occurs with 5 features: <tt><a href="de_pud-feat-Tense.html">Tense</a></tt> (827; 95% instances), <tt><a href="de_pud-feat-Mood.html">Mood</a></tt> (804; 93% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (804; 93% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (804; 93% instances), <tt><a href="de_pud-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances)
 
-`AUX` occurs with 9 feature-value pairs: `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`
+`AUX` occurs with 10 feature-value pairs: `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`
 
-`AUX` occurs with 19 feature combinations.
+`AUX` occurs with 20 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres` (250 tokens).
 Examples: <em>ist, wird, hat, kann, muss, soll, mag</em>
 

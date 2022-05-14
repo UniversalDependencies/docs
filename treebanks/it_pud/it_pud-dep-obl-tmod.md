@@ -33,7 +33,7 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 9	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 10	IX	IX	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
 11	secolo	secolo	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
-12	a.C.	a.C.	SYM	SYM	_	11	obl:tmod	_	OrigForm=aC
+12	a.C.	a.C.	SYM	SYM	_	11	obl:tmod	_	_
 
 ~~~
 
@@ -66,7 +66,7 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 20	in	in	ADP	IN	_	22	case	_	_
 21	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	3300	3300	NUM	CD	_	19	obl	_	_
-23	a.C.	a.C.	SYM	SYM	_	22	obl:tmod	_	OrigForm=aC
+23	a.C.	a.C.	SYM	SYM	_	22	obl:tmod	_	_
 
 ~~~
 

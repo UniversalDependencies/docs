@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 45 <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (45; 100%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 100%), <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45; 100%), <tt><a href="fi_ood-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (45; 100%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (37; 82%), <tt><a href="fi_ood-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (27; 60%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (27; 60%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (25; 56%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (45; 100%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 100%), <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45; 100%), <tt><a href="fi_ood-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (45; 100%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (37; 82%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (27; 60%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (25; 56%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-nmod.html">nmod</a></tt>.
 There are also 1 other language-specific subtypes of `nmod`: <tt><a href="hyw_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-719 nodes (1%) are attached to their parents as `nmod:npmod`.
+944 nodes (1%) are attached to their parents as `nmod:npmod`.
 
-511 instances of `nmod:npmod` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.76077885952712.
+667 instances of `nmod:npmod` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.74364406779661.
 
-The following 19 pairs of parts of speech are connected with `nmod:npmod`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (448; 62% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (83; 12% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (57; 8% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (54; 8% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (32; 4% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `nmod:npmod`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (581; 62% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (109; 12% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (82; 9% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (69; 7% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (36; 4% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (16; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (15; 2% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,36 +40,36 @@ The following 19 pairs of parts of speech are connected with `nmod:npmod`: <tt><
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 nmod:npmod	color:blue
-1	Հայոց	Հայ	NOUN	_	Animacy=Hum|Case=Gen|Definite=Ind|Number=Plur|Style=Arch	2	nmod:poss	_	Translit=Hayoc’|LTranslit=Hay
-2	Ցեղասպանութեան	ցեղասպանութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	Translit=C’eġaspanowt’ean|LTranslit=c’eġaspanowt’iwn
-3	106	106	NUM	_	NumForm=Digit|NumType=Card	7	nmod:poss	_	Translit=106|LTranslit=106|SpaceAfter=No
-4	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-5	Ամեակի	ամեակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	flat	_	Translit=Ameaki|LTranslit=ameak
-6	Առցանց	առցանց	ADJ	_	_	7	amod	_	Translit=Aṙc’anc’|LTranslit=aṙc’anc’
-7	Ոգեկոչում	ոգեկոչում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=Ogekočowm|LTranslit=ogekočowm
-8	Այնճարի	Այնճար	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	7	nmod:npmod	_	Translit=Aynč̣ari|LTranslit=Aynč̣ar
-9	Մէջ	մէջ	ADP	_	AdpType=Post	8	case	_	Translit=Mēǰ|LTranslit=mēǰ
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 nmod:npmod	color:blue
+1	Հետեւանքները	հետեւանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	0	root	_	Translit=Hetewank’nerë|LTranslit=hetewank’
+2	Եւրոպայի	Եւրոպա	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	1	nmod:npmod	_	Translit=EWropayi|LTranslit=EWropa
+3	մէջ	մէջ	ADP	_	AdpType=Post	2	case	_	Translit=mēǰ|LTranslit=mēǰ
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 5 nmod:npmod	color:blue
-1	Ամէնը	ամէնը	PRON	_	Case=Nom|PronType=Tot	0	root	_	Translit=Amēnë|LTranslit=amēnë|SpaceAfter=No
-2	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
-3	բացի	բացի	ADP	_	AdpType=Prep	5	case	_	Translit=bac’i|LTranslit=bac’i
-4	մեծ	մեծ	ADJ	_	Degree=Pos	5	amod	_	Translit=meç|LTranslit=meç
-5	մամայէն	մամա	NOUN	_	Animacy=Hum|Case=Abl|Definite=Def|Number=Sing	1	nmod:npmod	_	Translit=mamayēn|LTranslit=mama|SpaceAfter=No
-6	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
+# visual-style 1 3 nmod:npmod	color:blue
+1	Ան	ան	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=An|LTranslit=an
+2	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp	3	det:poss	_	Translit=ir|LTranslit=ink’
+3	կարգին	կարգ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	1	nmod:npmod	_	Translit=kargin|LTranslit=karg
+4	աշուղ	աշուղ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=ašowġ|LTranslit=ašowġ
+5	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	4	cop	_	Translit=ēr|LTranslit=em
+6	եւ	եւ	CCONJ	_	_	7	cc	_	Translit=ew|LTranslit=ew
+7	կառապան	կառապան	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	4	conj	_	Translit=kaṙapan|LTranslit=kaṙapan
+8	–	–	PUNCT	_	_	10	punct	_	Translit=–|LTranslit=–
+9	այլեւս	այլեւս	ADV	_	_	10	advmod	_	Translit=aylews|LTranslit=aylews
+10	չկային	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	4	parataxis	_	Translit=čkayin|LTranslit=kam
+11	կարաւաններ	կարաւան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	10	nsubj	_	Translit=karawanner|LTranslit=karawan|SpaceAfter=No
+12	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

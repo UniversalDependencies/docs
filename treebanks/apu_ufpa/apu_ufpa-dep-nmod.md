@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="apu_ufpa-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-23 nodes (3%) are attached to their parents as `nmod`.
+25 nodes (3%) are attached to their parents as `nmod`.
 
-17 instances of `nmod` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1304347826087.
+19 instances of `nmod` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12.
 
-The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (15; 65% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (6; 26% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (17; 68% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (6; 24% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

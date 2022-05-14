@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-153 nodes (7%) are attached to their parents as `case`.
+174 nodes (7%) are attached to their parents as `case`.
 
-141 instances of `case` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.99346405228758.
+161 instances of `case` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.02873563218391.
 
-The following 9 pairs of parts of speech are connected with `case`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (111; 73% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (13; 8% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (9; 6% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (8; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (123; 71% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (15; 9% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (13; 7% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (8; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (5; 3% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,32 +39,6 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 case	color:blue
-1	Up	up	ADP	_	AdpType=Prep	2	case	_	lemma[gml]=up²
-2	eynmål	eynmål	ADV	_	_	3	obl	_	lemma[gml]=êⁱnmâl
-3	höyrde	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=hö̂ren²
-4	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma[gml]=hê¹
-5	sou	sou	ADV	_	_	6	advmod	_	lemma[gml]=sô²
-6	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma[gml]=êⁱn¹
-7	knisteren	knisteren	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	lemma[gml]=knisteren|SpaceAfter=No
-8	,	,	PUNCT	_	_	15	punct	_	_
-9	äs	as	CCONJ	_	_	15	cc	_	lemma[gml]=alsô
-10	wän	wan	SCONJ	_	_	15	mark	_	lemma[gml]=wan³
-11	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma[gml]=et¹
-12	uut	uut	ADP	_	AdpType=Prep	14	case	_	lemma[gml]=ût¹
-13	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	Case[regional]=Acc|lemma[gml]=dê¹
-14	küäke	köäke	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	Case[regional]=Acc|lemma[gml]=kȫke²
-15	kaem	koamen	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	7	acl	_	lemma[gml]=kōmen¹|SpaceAfter=No
-16	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 15	bgColor:blue
@@ -85,6 +59,32 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 13	Jouke	Jouke	PROPN	_	Case=Nom|Number=Sing	12	nsubj	_	_
 14	teagen	geagen	ADP	_	AdpType=Prep	15	case	_	lemma[gml]=gēgen
 15	Garrelt	Garrelt	PROPN	_	Case=Acc|Number=Sing	12	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 case	color:blue
+1	Up	up	ADP	_	AdpType=Prep	2	case	_	lemma[gml]=up²
+2	eynmål	eynmål	ADV	_	_	3	obl	_	lemma[gml]=êⁱnmâl
+3	höyrde	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=hö̂ren²
+4	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma[gml]=hê¹
+5	sou	sou	ADV	_	_	6	advmod	_	lemma[gml]=sô²
+6	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma[gml]=êⁱn¹
+7	knisteren	knisteren	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	lemma[gml]=knisteren|SpaceAfter=No
+8	,	,	PUNCT	_	_	15	punct	_	_
+9	äs	as	CCONJ	_	_	15	cc	_	lemma[gml]=alsô
+10	wän	wan	SCONJ	_	_	15	mark	_	lemma[gml]=wan³
+11	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma[gml]=et¹
+12	uut	uut	ADP	_	AdpType=Prep	14	case	_	lemma[gml]=ût¹
+13	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	Case[regional]=Acc|lemma[gml]=dê¹
+14	küäke	köäke	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	Case[regional]=Acc|lemma[gml]=kȫke²
+15	kaem	koamen	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	7	acl	_	lemma[gml]=kōmen¹|SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

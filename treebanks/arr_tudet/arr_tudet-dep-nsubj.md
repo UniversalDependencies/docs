@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-295 nodes (13%) are attached to their parents as `nsubj`.
+296 nodes (13%) are attached to their parents as `nsubj`.
 
-272 instances of `nsubj` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.73898305084746.
+273 instances of `nsubj` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.73986486486486.
 
-The following 16 pairs of parts of speech are connected with `nsubj`: <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (149; 51% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (102; 35% instances), <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (9; 3% instances), <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="arr_tudet-pos-PART.html">PART</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="arr_tudet-pos-PART.html">PART</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `nsubj`: <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (149; 50% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (103; 35% instances), <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (9; 3% instances), <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="arr_tudet-pos-PART.html">PART</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="arr_tudet-pos-PART.html">PART</a></tt>-<tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,10 +49,10 @@ The following 16 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nsubj	color:blue
-1	məy	_	ADV	adv	_	4	advmod	_	_
-2	maʔpəy	_	NOUN	n	_	4	nsubj	_	_
+1	məy	məy	ADV	adv	_	4	advmod	_	_
+2	maʔpəy	maʔpəy	NOUN	n	_	4	nsubj	_	_
 3	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	_	_
-4	waʔye	_	AUX	aux	_	0	root	_	_
+4	waʔye	waʔye	AUX	aux	_	0	root	_	_
 
 ~~~
 

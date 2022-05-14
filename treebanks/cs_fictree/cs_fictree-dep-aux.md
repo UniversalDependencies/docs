@@ -11,10 +11,10 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="cs_fictree-dep-aux
 
 4216 nodes (3%) are attached to their parents as `aux`.
 
-2861 instances of `aux` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85673624288425.
+2844 instances of `aux` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.90298861480076.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (4057; 96% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (104; 2% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (44; 1% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (3993; 95% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (105; 2% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (56; 1% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (51; 1% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,21 +52,23 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 aux	color:blue
-1	Jeho	jeho	DET	PSIP1IS3-------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	2:det	_
-2	listy	list	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	6	nsubj	6:nsubj	_
-3	jako	jako	SCONJ	J,-------------	_	6	mark	6:mark	_
-4	by	být	AUX	Vc-------------	Mood=Cnd|VerbForm=Fin	6	aux	6:aux	_
-5	byly	být	AUX	VpIP----R-AA---	Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	cop	6:cop	_
-6	prsty	prst	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	0	root	0:root	_
-7	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	9:case	_
-8	lidské	lidský	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	9:amod	_
-9	ruce	ruka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	6:nmod:na:loc	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 9 aux	color:blue
+1	Zanechat	zanechat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
+2	tu	tu	ADV	Db------------1	PronType=Dem	1	advmod	1:advmod	_
+3	pár	pár	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	4	nummod:gov	4:nummod:gov	_
+4	lidí	člověk	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	1	obj	1:obj	_
+5	šťastnějších	šťastný	ADJ	AAMP2----2A----	Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur|Polarity=Pos	4	xcomp	4:xcomp	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
+7	než	než	SCONJ	J,-------------	_	11	mark	11:mark	_
+8	když	když	SCONJ	J,-------------	_	11	mark	11:mark	_
+9	bychom	být	AUX	Vc-P---1-------	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	11	aux	11:aux	_
+10	tu	tu	ADV	Db------------1	PronType=Dem	11	advmod	11:advmod	_
+11	nebyli	být	AUX	VpMP----R-NA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	5	dep	5:dep	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
 

@@ -11,32 +11,32 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_atis-feat-Number.html">Number</a></tt>, <tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt>.
 
-32257 tokens (70%) have a non-empty value of `Number`.
-1607 types (80%) occur at least once with a non-empty value of `Number`.
-754 lemmas (78%) occur at least once with a non-empty value of `Number`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (14657; 32% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (13499; 29% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (4101; 9% instances).
+32256 tokens (70%) have a non-empty value of `Number`.
+1604 types (79%) occur at least once with a non-empty value of `Number`.
+744 lemmas (78%) occur at least once with a non-empty value of `Number`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (14674; 32% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (13481; 29% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (4101; 9% instances).
 
 ### `PROPN`
 
-14657 <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
+14674 <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Sing` (14657; 100% of non-empty `Number`): <em>San, Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, çarşamba, Atlanta'ya, Baltimore'ye</em>
-* `EMPTY` (95): <em>Denver'deki, Atlanta'daki, Philadelphia'daki, Ağustos'taki, Baltimore'deki, Boston'daki, International'daki, Pittsburgh'taki, DC'deki, Dallas'taki</em>
+* `Sing` (14674; 100% of non-empty `Number`): <em>San, Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, çarşamba, Atlanta'ya, Baltimore'ye</em>
+* `EMPTY` (96): <em>Denver'deki, Atlanta'daki, Philadelphia'daki, Ağustos'taki, Baltimore'deki, Boston'daki, International'daki, Pittsburgh'taki, DC'deki, Dallas'taki</em>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (267) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (261) occur only with one value of `Number`.
 
 ### `NOUN`
 
-13499 <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+13481 <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="tr_atis-feat-Person.html">Person</a></tt><tt>=3</tt> (13499; 100%), <tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10030; 74%), <tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7748; 57%), <tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (7748; 57%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="tr_atis-feat-Person.html">Person</a></tt><tt>=3</tt> (13481; 100%), <tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10012; 74%), <tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7730; 57%), <tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (7730; 57%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (3375; 25% of non-empty `Number`): <em>uçuşları, uçuşlar, uçuşlarını, havayolları, uçuşların, fiyatlarını, havayollarını, havayollarının, günleri, ücretleri</em>
-* `Sing` (10124; 75% of non-empty `Number`): <em>uçuş, günü, uçuşu, akşam, öğleden, dönüş, gidiş, sabah, saat, ihtiyacım</em>
+* `Sing` (10106; 75% of non-empty `Number`): <em>uçuş, günü, uçuşu, akşam, öğleden, dönüş, gidiş, sabah, saat, ihtiyacım</em>
 
 <table>
   <tr><th>Paradigm <i>uç</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -84,14 +84,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>PROPN --[<tt><a href="tr_atis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (3959; 100%),
-<tt>PROPN --[<tt><a href="tr_atis-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2720; 99%),
-<tt>NOUN --[<tt><a href="tr_atis-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2589; 67%),
-<tt>NOUN --[<tt><a href="tr_atis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2561; 62%),
+<tt>PROPN --[<tt><a href="tr_atis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (3964; 100%),
+<tt>PROPN --[<tt><a href="tr_atis-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2741; 99%),
+<tt>NOUN --[<tt><a href="tr_atis-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2586; 67%),
+<tt>NOUN --[<tt><a href="tr_atis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2560; 62%),
 <tt>VERB --[<tt><a href="tr_atis-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1253; 54%),
 <tt>NOUN --[<tt><a href="tr_atis-dep-compound.html">compound</a></tt>]--> NOUN</tt> (554; 100%),
 <tt>VERB --[<tt><a href="tr_atis-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (553; 60%),
 <tt>PROPN --[<tt><a href="tr_atis-dep-conj.html">conj</a></tt>]--> PROPN</tt> (467; 100%),
 <tt>VERB --[<tt><a href="tr_atis-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (431; 100%),
-<tt>NOUN --[<tt><a href="tr_atis-dep-obl.html">obl</a></tt>]--> PROPN</tt> (386; 95%).
+<tt>NOUN --[<tt><a href="tr_atis-dep-obl.html">obl</a></tt>]--> PROPN</tt> (387; 95%).
 

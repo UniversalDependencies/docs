@@ -13,7 +13,7 @@ This relation is universal.
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.518.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (731; 73% instances), -<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (154; 15% instances), -<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (93; 9% instances), -<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (9; 1% instances), -<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (5; 1% instances), -<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), -<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (721; 72% instances), -<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (154; 15% instances), -<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (93; 9% instances), -<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (11; 1% instances), -<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (9; 1% instances), -<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (5; 1% instances), -<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), -<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,8 +44,8 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 1	Možná	možná	ADV	Db-------------	_	4	advmod	4:advmod	LId=možná-1|LGloss=(snad)
 2	bylo	být	AUX	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	cop	4:cop	_
 3	příliš	příliš	ADV	Db-------------	_	4	advmod	4:advmod	_
-4	upjaté	upjatý	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Style=Rare	0	root	0:root	LDeriv=upnout
-5	oblečení	oblečení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	4	nsubj	4:nsubj	SpaceAfter=No|LDeriv=obléci
+4	upjaté	upjatý	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Style=Rare|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=upnout
+5	oblečení	oblečení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	4	nsubj	4:nsubj	SpaceAfter=No|LDeriv=obléci
 6	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~

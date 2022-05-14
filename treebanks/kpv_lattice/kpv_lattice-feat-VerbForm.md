@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Inf` (186; 50% of non-empty `VerbForm`): <em>лоны, шуны, мунны, вӧчны, восьлавны, нуны, бӧрйыны, волыны, воӧдчыны, вуджны</em>
 * `Part` (83; 22% of non-empty `VerbForm`): <em>идралӧм, идралӧмын, кольӧм, октӧм, Бырӧдӧм, Вӧралысь, аддзанаӧн, бонзьӧдӧм, босьтӧм, быдмӧм</em>
 * `Vnoun` (53; 14% of non-empty `VerbForm`): <em>Мудзӧм, баитӧмъяснысӧ, босьтӧмаяс, вайӧм, ветлӧм, видзӧдлӧмъясыс, воӧм, воӧмсянь, вувзьысьӧмъяс, вурӧм</em>
-* `EMPTY` (978): <em>воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, пов, шуис, шыасис</em>
+* `EMPTY` (979): <em>воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, пов, шуис, шыасис</em>
 
 <table>
   <tr><th>Paradigm <i>воны</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Vnoun</tt></th></tr>
@@ -48,7 +48,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Inf` (5; 100% of non-empty `VerbForm`): <em>лоны, вермыны</em>
-* `EMPTY` (302): <em>эз, вӧлі, оз, абу, колӧ, он, вермы, эг, ог, вӧліны</em>
+* `EMPTY` (303): <em>эз, вӧлі, оз, абу, колӧ, он, вермы, эг, ог, вӧліны</em>
 
 ## Relations with Agreement in `VerbForm`
 

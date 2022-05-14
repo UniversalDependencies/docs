@@ -13,7 +13,7 @@ The 10 most frequent `PUNCT` lemmas: <em>,, ., ), (, -, ", ?, :, ', /</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., ), (, -, ", ?, :, /, '</em>
 
-The 10 most frequent ambiguous lemmas: <em>.</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 5613, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>'</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 171, <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> 2), <em>–</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 44, <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 1), <em>&</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 21, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>—</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 11, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>_</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 24, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>.</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 5613, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>'</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 171, <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> 2), <em>–</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 44, <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 1), <em>&</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 21, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>—</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 11, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>_</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 24, <tt><a href="id_gsd-pos-X.html">X</a></tt> 20, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 5613, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>'</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 158, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> 2, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>–</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 44, <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 1), <em>&</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 21, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>''</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 13, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>—</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 11, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="id_gsd-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.060606 (the average of all parts of speech is 1.119800).
+The form / lemma ratio of `PUNCT` is 1.060606 (the average of all parts of speech is 1.120254).
 
 The 1st highest number of forms (2) was observed with the lemma “'”: <em>', ''</em>.
 

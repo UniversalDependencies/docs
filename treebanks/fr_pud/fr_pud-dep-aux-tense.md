@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 aux:tense	color:blue
-1	Sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	wordform=sa
+1	Sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	2	det	_	wordform=sa
 2	gestion	gestion	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	4	punct	_	_
 4	cependant	cependant	ADV	RB	_	10	advmod	_	SpaceAfter=No
@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 8 aux:tense	color:blue
-1	Son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	wordform=son
+1	Son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	2	det	_	wordform=son
 2	album	album	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
 3	Wild	Wild	X	FW	_	2	appos	_	Proper=True
 4	West	West	X	WF	_	3	flat:foreign	_	Proper=True
@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 10	l’	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No|wordform=l'
 11	une	une	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 12	de	de	ADP	IN	_	15	case	_	_
-13	ses	son	DET	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
+13	ses	son	DET	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	15	det	_	_
 14	meilleures	meilleur	ADJ	JJR	Gender=Fem|Number=Plur	15	amod	_	_
 15	ventes	vente	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	_
 

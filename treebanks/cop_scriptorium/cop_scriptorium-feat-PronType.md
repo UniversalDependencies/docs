@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cop_scriptorium-pos
 
 8006 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7706; 96%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4952; 62%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (4873; 61%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7706; 96%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4951; 62%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (4872; 61%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -71,14 +71,14 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 `NOUN` tokens may have the following values of `PronType`:
 
 * `Rcp` (51; 100% of non-empty `PronType`): ⲉⲣⲏⲩ
-* `EMPTY` (7296): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ϣⲏⲣⲉ, ϣⲁϫⲉ, ⲗⲁⲁⲩ, ϩⲱⲃ
+* `EMPTY` (7297): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ϣⲏⲣⲉ, ϣⲁϫⲉ, ⲗⲁⲁⲩ, ϩⲱⲃ
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>DET --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> DET</tt> (18; 90%),
 <tt>PRON --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> PRON</tt> (15; 100%),
-<tt>PRON --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (14; 64%),
+<tt>PRON --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (14; 67%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (8; 73%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (6; 100%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (5; 100%),

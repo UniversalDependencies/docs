@@ -29,9 +29,9 @@ The following 1 pairs of parts of speech are connected with `flat:dist`: <tt><a 
 4	բարապանները	բարապան	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	25	nsubj	_	Translit=barapannerë|LTranslit=barapan|SpaceAfter=No
 5	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
 6	«	«	PUNCT	_	_	16	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-7	որոնց	որ	PRON	_	Case=Dat|Number=Plur|PronType=Rel	9	nmod:poss	_	Translit=oronc’|LTranslit=or
-8	ամէն	ամէն	DET	_	PronType=Tot	9	det	_	Translit=amēn|LTranslit=amēn
-9	մէկի	մէկ	PRON	_	Case=Dat|Definite=Ind|PronType=Ind	10	nmod:poss	_	Translit=mēki|LTranslit=mēk
+7	որոնց	որ	PRON	_	Case=Dat|Number=Plur|PronType=Rel	8	nmod:poss	_	Translit=oronc’|LTranslit=or
+8	ամէն	ամէն	DET	_	PronType=Tot	10	nmod:poss	_	Translit=amēn|LTranslit=amēn
+9	մէկի	մէկ	PRON	_	Case=Dat|Definite=Ind|PronType=Ind	8	fixed	_	Translit=mēki|LTranslit=mēk
 10	պեխէն	պեխ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Def|Number=Sing	16	obl	_	Translit=pexēn|LTranslit=pex
 11	մէկ	մէկ	NUM	_	NumForm=Word|NumType=Card	14	nummod	_	Translit=mēk|LTranslit=mēk|SpaceAfter=No
 12	-	-	PUNCT	_	_	13	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
@@ -41,7 +41,7 @@ The following 1 pairs of parts of speech are connected with `flat:dist`: <tt><a 
 16	կախուէր	կախուիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	4	acl:relcl	_	Translit=kaxowēr|LTranslit=kaxowil|SpaceAfter=No
 17	»	»	PUNCT	_	_	16	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Translit=,|LTranslit=,
-19	զայրացած	զայրանալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	25	parataxis	_	Translit=zayrac’aç|LTranslit=zayranal
+19	զայրացած	զայրանալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	25	advcl	_	Translit=zayrac’aç|LTranslit=zayranal
 20	պատարագուորի	պատարագուոր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	21	nmod:poss	_	Translit=pataragowori|LTranslit=pataragowor
 21	նշանին	նշան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	19	obl	_	Translit=nšanin|LTranslit=nšan
 22	վրայ	վրայ	ADP	_	AdpType=Post	21	case	_	Translit=vray|LTranslit=vray|SpaceAfter=No

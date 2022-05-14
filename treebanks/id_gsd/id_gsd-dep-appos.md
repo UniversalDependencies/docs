@@ -22,17 +22,17 @@ The following 47 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 appos	color:blue
-1	Tesero	tesero	PROPN	X--	_	3	nsubj	_	MorphInd=^tesero<x>_X--$
-2	adalah	adalah	AUX	O--	_	3	cop	_	MorphInd=^adalah<o>_O--$
-3	komune	komune	NOUN	X--	_	0	root	_	MorphInd=^komune<x>_X--$
-4	yang	yang	PRON	S--	PronType=Rel	5	nsubj:pass	_	MorphInd=^yang<s>_S--$
-5	terletak	letak	VERB	VSP	Mood=Ind|Voice=Pass	3	acl:relcl	_	MorphInd=^ter+letak<n>_VSP$
-6	di	di	ADP	R--	_	7	case	_	MorphInd=^di<r>_R--$
-7	Provinsi	provinsi	PROPN	NSD	_	5	obl	_	MorphInd=^provinsi<n>_NSD$
-8	Trento	trento	PROPN	X--	_	7	flat:name	_	SpaceAfter=No|MorphInd=^trento<x>_X--$
-9	,	,	PUNCT	Z--	_	10	punct	_	MorphInd=^,<z>_Z--$
-10	Italia	italia	PROPN	F--	_	7	appos	_	SpaceAfter=No|MorphInd=^italia<f>_F--$
-11	.	.	PUNCT	Z--	_	3	punct	_	MorphInd=^.<z>_Z--$
+1	Tesero	tesero	PROPN	X--	_	3	nsubj	_	Morf=^tesero<x>_X--$
+2	adalah	adalah	AUX	O--	_	3	cop	_	Morf=^adalah<o>_O--$
+3	komune	komune	NOUN	X--	_	0	root	_	Morf=^komune<x>_X--$
+4	yang	yang	PRON	S--	PronType=Rel	5	nsubj:pass	_	Morf=^yang<s>_S--$
+5	terletak	letak	VERB	VSP	Mood=Ind|Voice=Pass	3	acl:relcl	_	Morf=^ter+letak<n>_VSP$
+6	di	di	ADP	R--	_	7	case	_	Morf=^di<r>_R--$
+7	Provinsi	provinsi	PROPN	NSD	_	5	obl	_	Morf=^provinsi<n>_NSD$
+8	Trento	trento	PROPN	X--	_	7	flat:name	_	SpaceAfter=No|Morf=^trento<x>_X--$
+9	,	,	PUNCT	Z--	_	10	punct	_	Morf=^,<z>_Z--$
+10	Italia	italia	PROPN	F--	_	7	appos	_	SpaceAfter=No|Morf=^italia<f>_F--$
+11	.	.	PUNCT	Z--	_	3	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -43,15 +43,15 @@ The following 47 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 appos	color:blue
-1	``	``	PUNCT	Z--	_	5	punct	_	SpaceAfter=No|MorphInd=^``<z>_Z--$
-2	Apa	apa	ADV	W--	PronType=Int	5	advmod	_	MorphInd=^apa<w>_W--$
-3	kah	kah	PART	T--	_	2	advmod:emph	_	MorphInd=^kah<t>_T--$
-4	engkau	engkau	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	5	nsubj	_	MorphInd=^engkau<p>_PS2$
-5	memperhatikan	hati	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	MorphInd=^meN+per+hati<n>+kan_VSA$
-6	hamba-	hamba	NOUN	NSD	Number=Sing	5	obj	_	MorphInd=^hamba<n>_NSD$
-7	Ku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	6	nmod:poss	_	MorphInd=^aku<p>_PS1$
-8	Ayub	ayub	PROPN	NSD	_	6	appos	_	SpaceAfter=No|MorphInd=^ayub<n>_NSD$
-9	?	?	PUNCT	Z--	_	5	punct	_	MorphInd=^?<z>_Z--$
+1	``	``	PUNCT	Z--	_	5	punct	_	SpaceAfter=No|Morf=^``<z>_Z--$
+2	Apa	apa	ADV	W--	PronType=Int	5	advmod	_	Morf=^apa<w>_W--$
+3	kah	kah	PART	T--	_	2	advmod:emph	_	Morf=^kah<t>_T--$
+4	engkau	engkau	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	5	nsubj	_	Morf=^engkau<p>_PS2$
+5	memperhatikan	hati	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+per+hati<n>+kan_VSA$
+6	hamba-	hamba	NOUN	NSD	Number=Sing	5	obj	_	Morf=^hamba<n>_NSD$
+7	Ku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	6	nmod:poss	_	Morf=^aku<p>_PS1$
+8	Ayub	ayub	PROPN	NSD	_	6	appos	_	SpaceAfter=No|Morf=^ayub<n>_NSD$
+9	?	?	PUNCT	Z--	_	5	punct	_	Morf=^?<z>_Z--$
 
 ~~~
 
@@ -62,14 +62,14 @@ The following 47 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 6 appos	color:blue
-1	Titah	titah	NOUN	NSD	Number=Sing	0	root	_	MorphInd=^titah<n>_NSD$
-2	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	1	nmod:poss	_	MorphInd=^dia<p>_PS3$
-3	,	,	PUNCT	Z--	_	6	punct	_	MorphInd=^,<z>_Z--$
-4	apa	apa	ADV	W--	PronType=Int	6	advmod	_	MorphInd=^apa<w>_W--$
-5	kah	kah	PART	T--	_	4	advmod:emph	_	MorphInd=^kah<t>_T--$
-6	kabar	kabar	NOUN	NSD	Number=Sing	1	appos	_	MorphInd=^kabar<n>_NSD$
-7	Juragan	juragan	PROPN	X--	_	6	nmod	_	SpaceAfter=No|MorphInd=^juragan<x>_X--$
-8	?	?	PUNCT	Z--	_	1	punct	_	MorphInd=^?<z>_Z--$
+1	Titah	titah	NOUN	NSD	Number=Sing	0	root	_	Morf=^titah<n>_NSD$
+2	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	1	nmod:poss	_	Morf=^dia<p>_PS3$
+3	,	,	PUNCT	Z--	_	6	punct	_	Morf=^,<z>_Z--$
+4	apa	apa	ADV	W--	PronType=Int	6	advmod	_	Morf=^apa<w>_W--$
+5	kah	kah	PART	T--	_	4	advmod:emph	_	Morf=^kah<t>_T--$
+6	kabar	kabar	NOUN	NSD	Number=Sing	1	appos	_	Morf=^kabar<n>_NSD$
+7	Juragan	juragan	PROPN	X--	_	6	nmod	_	SpaceAfter=No|Morf=^juragan<x>_X--$
+8	?	?	PUNCT	Z--	_	1	punct	_	Morf=^?<z>_Z--$
 
 ~~~
 

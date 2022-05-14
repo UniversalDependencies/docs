@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.909091 (the average of all parts of speech is 1.332903).
+The form / lemma ratio of `PUNCT` is 0.909091 (the average of all parts of speech is 1.332474).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>,, «, »</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “,”: <em>,</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="kpv_ikdp-dep-punct.html">punct</a></tt> (529; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (259; 49% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (96; 18% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (26; 5% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (24; 5% instances), <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (24; 5% instances), <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (22; 4% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (21; 4% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (20; 4% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (9; 2% instances), <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> (9; 2% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (8; 2% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="kpv_ikdp-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (259; 49% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (95; 18% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (26; 5% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (24; 5% instances), <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (24; 5% instances), <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (22; 4% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (22; 4% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (20; 4% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (9; 2% instances), <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> (9; 2% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (8; 2% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="kpv_ikdp-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 529 (100%) `PUNCT` nodes are leaves.
 

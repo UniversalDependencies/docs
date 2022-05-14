@@ -40,9 +40,9 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 15	en	en	ADP	E	_	16	case	_	_
 16	place	place	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
 17	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	Social	social	X	SW	_	14	obj	_	_
-19	Risk	risk	X	SW	_	18	flat:foreign	_	_
-20	Capital	capital	X	SW	_	18	flat:foreign	_	_
+18	Social	social	X	SW	Foreign=Yes	14	obj	_	Lang=en
+19	Risk	risk	X	SW	Foreign=Yes	18	flat:foreign	_	Lang=en
+20	Capital	capital	X	SW	Foreign=Yes	18	flat:foreign	_	Lang=en
 21	et	et	CCONJ	CC	_	23	cc	_	_
 22	de	de	ADP	E	_	23	mark	_	_
 23	soutenir	soutenir	VERB	V	VerbForm=Inf	14	conj	_	_

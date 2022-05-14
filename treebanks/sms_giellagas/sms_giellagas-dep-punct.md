@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-565 nodes (23%) are attached to their parents as `punct`.
+622 nodes (23%) are attached to their parents as `punct`.
 
-291 instances of `punct` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.84247787610619.
+318 instances of `punct` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.91479099678457.
 
-The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (479; 85% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (40; 7% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (18; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (18; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (512; 82% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (46; 7% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (27; 4% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (19; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (6; 1% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,19 +50,16 @@ The following 8 pairs of parts of speech are connected with `punct`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 8 punct	color:blue
-1	Seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl	_	GTtags=Pers,Pl3,Loc
-2	jeäʹla	iʹlla	AUX	V	Number=Plur|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=V
-3	ǩeeʹrjteeʹjest	ǩeeʹrjteei	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
-4	võl	võl	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
-5	ni	ni	PART	Pcle	_	6	advmod:neg	_	_
-6	måkam	måkam	DET	Det	_	7	det	_	GTtags=Attr
-7	jurddi	juurd	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	GTtags=Pl,Nom|SpaceAfter=No
-8	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 punct	color:blue
+1	Õhtt	õhtt	NUM	Num	Case=Nom|Number=Sing	2	nummod	_	GTtags=Sg,Nom
+2	vuäʹbb	vuäʹbb	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	4	nsubj:cop	_	GTtags=Sem/Kin,Sg,Nom
+3	lij	leeʹd	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	GTtags=Ind,Prs,Sg3
+4	seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	0	root	_	GTtags=Pers,Pl3,Loc|SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

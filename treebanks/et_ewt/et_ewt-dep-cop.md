@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2307 nodes (3%) are attached to their parents as `cop`.
+2505 nodes (3%) are attached to their parents as `cop`.
 
-1578 instances of `cop` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.08669267446901.
+1713 instances of `cop` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.0750499001996.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (942; 41% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (723; 31% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (267; 12% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (252; 11% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (58; 3% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (32; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1032; 41% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (779; 31% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (281; 11% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (280; 11% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (65; 3% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (32; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (22; 1% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,18 +53,16 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 cop	color:blue
-1	minul	mina	PRON	P	Case=Ade|Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
-2	pole	olema	AUX	V	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	1:cop	_
-3	küll	küll	ADV	D	_	1	advmod	1:advmod	_
-4	probleemi	probleem	NOUN	S	Case=Par|Number=Sing	1	nsubj:cop	1:nsubj	SpaceAfter=No
-5	,	,	PUNCT	Z	_	8	punct	8:punct	_
-6	kui	kui	SCONJ	J	_	8	mark	8:mark	_
-7	mees	mees	NOUN	S	Case=Nom|Number=Sing	8	nsubj	8:nsubj	_
-8	maksab	maksma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	1:advcl	SpaceAfter=No
-9	.	.	PUNCT	Z	_	1	punct	1:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 cop	color:blue
+1	Miinuseid	miinus	NOUN	S	Case=Par|Number=Plur	6	nsubj:cop	6:nsubj	_
+2	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
+3	minu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	obl	6:obl	_
+4	jaoks	jaoks	ADP	K	AdpType=Post	3	case	3:case	_
+5	päris	päris	ADV	D	_	6	advmod	6:advmod	_
+6	palju	palju	ADV	D	_	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	Z	_	6	punct	6:punct	_
 
 ~~~
 

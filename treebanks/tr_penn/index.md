@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Neslihan Cesur, Aslı Kuzgun, Olcay Taner Yıldız, Büşra Marşan, Neslihan Kara, Bilge Nas Arıcan, Merve Özçelik, Deniz Baran Aslan.
 
 Repository: [UD_Turkish-Penn](https://github.com/UniversalDependencies/UD_Turkish-Penn)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_penn29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_penn210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: nonfiction, news
 Questions, comments?
 General annotation questions (either Turkish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Turkish-Penn/issues).
-If you want to collaborate, please contact [nesli&nbsp;(æt)&nbsp;starlangyazilim&nbsp;•&nbsp;com; olcay&nbsp;•&nbsp;yildiz&nbsp;(æt)&nbsp;ozyegin&nbsp;•&nbsp;edu&nbsp;•&nbsp;tr].
+If you want to collaborate, please contact [neslihancesur16&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com; olcay&nbsp;•&nbsp;yildiz&nbsp;(æt)&nbsp;ozyegin&nbsp;•&nbsp;edu&nbsp;•&nbsp;tr].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -71,7 +71,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 
 ## Features
 
-[Aspect](tr_penn-feat-Aspect.html) – [Case](tr_penn-feat-Case.html) – [Definite](tr_penn-feat-Definite.html) – [Degree](tr_penn-feat-Degree.html) – [Mood](tr_penn-feat-Mood.html) – [Number](tr_penn-feat-Number.html) – [Number[psor]](tr_penn-feat-Number-psor.html) – [NumType](tr_penn-feat-NumType.html) – [Person](tr_penn-feat-Person.html) – [Person[psor]](tr_penn-feat-Person-psor.html) – [Polarity](tr_penn-feat-Polarity.html) – [PronType](tr_penn-feat-PronType.html) – [Reflex](tr_penn-feat-Reflex.html) – [Tense](tr_penn-feat-Tense.html) – [VerbForm](tr_penn-feat-VerbForm.html) – [Voice](tr_penn-feat-Voice.html)
+[Aspect](tr_penn-feat-Aspect.html) – [Case](tr_penn-feat-Case.html) – [Definite](tr_penn-feat-Definite.html) – [Degree](tr_penn-feat-Degree.html) – [Mood](tr_penn-feat-Mood.html) – [Number](tr_penn-feat-Number.html) – [Number[psor]](tr_penn-feat-Number-psor.html) – [NumType](tr_penn-feat-NumType.html) – [Person](tr_penn-feat-Person.html) – [Person[psor]](tr_penn-feat-Person-psor.html) – [Polarity](tr_penn-feat-Polarity.html) – [PronType](tr_penn-feat-PronType.html) – [Reflex](tr_penn-feat-Reflex.html) – [Tense](tr_penn-feat-Tense.html) – [Typo](tr_penn-feat-Typo.html) – [VerbForm](tr_penn-feat-VerbForm.html) – [Voice](tr_penn-feat-Voice.html)
 
 ## Relations
 
@@ -81,7 +81,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 
 
 <ul>
-<li>This corpus contains 16396 sentences and 183554 tokens.</li>
+<li>This corpus contains 16396 sentences and 183555 tokens.</li>
 </ul>
 
 <ul>
@@ -93,7 +93,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 </ul>
 
 <ul>
-<li>This corpus contains 3530 types of words that contain both letters and punctuation. Examples: Corp., Co., Inc., Doları'na, $'dan, Doları'ndan, $'a, Borsası'nda, yen'e, A.B.D., Japonya'nın, S&P, yen'den, 1988'de, Moody's, York'ta, ABD'de, J., a.m, Japonya'da, Ltd., A.Ş, Dr., Journal'ın, alım-satım, A., Bush'un, Tokyo'da, 1990'da, Corp.'un, IBM'in, ABD'deki, Borsası'ndaki, Ekim'de, Kasım'da, W., 1987'de, Almanya'nın, Avrupa'da, Ağustos'ta, E., F., Inc.,, Çin'in, ABD'li, ABD'nin, Inc.'in, 100'e, B., Co.'nun</li>
+<li>This corpus contains 3529 types of words that contain both letters and punctuation. Examples: Corp., Co., Inc., Doları'na, $'dan, Doları'ndan, $'a, Borsası'nda, yen'e, A.B.D., Japonya'nın, S&P, yen'den, 1988'de, Moody's, York'ta, ABD'de, J., a.m, Japonya'da, Ltd., A.Ş, Dr., Journal'ın, alım-satım, A., Bush'un, Tokyo'da, 1990'da, Corp.'un, IBM'in, ABD'deki, Borsası'ndaki, Ekim'de, Kasım'da, W., 1987'de, Almanya'nın, Avrupa'da, Ağustos'ta, E., F., Inc.,, Çin'in, ABD'li, ABD'nin, Inc.'in, 100'e, B., Co.'nun</li>
 </ul>
 
 <ul>
@@ -181,7 +181,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
     <ul>
       <li>AUX: değiller, değiliz, değildik, değillerdir</li>
       <li>AUX-Fin: değiliz, değildik, değillerdir</li>
-      <li>NOUN: fiyatları, hisseleri, satışlar, kıymetler, yatırımcılar, analistler, tahviller, şirketler, satışları, tahvilleri</li>
+      <li>NOUN: fiyatları, hisseleri, kıymetler, satışlar, yatırımcılar, analistler, tahviller, şirketler, satışları, tahvilleri</li>
       <li>PROPN: Kıymetler, CD'ler, Bolar, CD'lerde, A'lar, Avustralyalılar, Blanding'ler, Borsalar, CD'lerin, CFC'ler</li>
       <li>VERB: söylediler, ediyorlar, istiyorlar, istiyoruz, söylüyorlar, ettiler, aldılar, verdiler, ediyoruz, yaptık</li>
       <li>VERB-Fin: söylediler, ediyorlar, istiyorlar, istiyoruz, söylüyorlar, ettiler, aldılar, verdiler, ediyoruz, yaptık</li>
@@ -587,7 +587,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Rfl
     <ul>
-      <li>VERB-Fin: uyarlandı, den, dendi, denebilir, denebilirdi, denemez, denir, deniyordu, sabitlendi, uyarlanmadı</li>
+      <li>VERB-Fin: uyarlandı, dendi, denebilir, denebilirdi, denemez, denir, deniyordu, sabitlendi, uyarlanmadı, uyarlanır</li>
     </ul>
   </li>
 </ul>
@@ -667,7 +667,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Card
     <ul>
       <li>ADJ: milyonluk, ikisi, 9'luk, kaç, 0.3'lük, 10'luk, 1980'li, 20'lik, 3'lük, 3/4'lük</li>
-      <li>NUM: milyon, milyar, iki, bir, 1, 10, üç, 30, 2, 3</li>
+      <li>NUM: milyon, milyar, iki, bir, 1, üç, 10, 30, 2, 3</li>
     </ul>
   </li>
 </ul>
@@ -811,6 +811,22 @@ We wish to thank the Starlang Software for funding and supporting this work.
   </li>
 </ul>
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADV: Bir, içinde</li>
+          <li>DET: bir</li>
+          <li>NOUN: uluslar, $', Blues, Hafta, an, firmalarında, kredisi, yurt, yüzyıl, Şirketi</li>
+          <li>NUM: %, 1/2, 10, 1987, 2117.1, 215.48, 2603.48, 2645.08, 2683.20, 498</li>
+          <li>PROPN: Provigo, A.B.D., Co, Co., Concerto, Corp, Denny's, EST, Japonya, Malezya</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -849,7 +865,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(iç) (1)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
       <li>VERB-Fin--NOUN-Loc (5)</li>
-      <li>VERB-Fin--NOUN-Nom (7218)</li>
+      <li>VERB-Fin--NOUN-Nom (7230)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(bile) (3)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(da) (40)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(de) (43)</li>
@@ -883,7 +899,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (1827)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(da) (12)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(de) (13)</li>
-      <li>VERB-Fin--NOUN-Dat (477)</li>
+      <li>VERB-Fin--NOUN-Dat (478)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(karşı) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(yakın) (1)</li>

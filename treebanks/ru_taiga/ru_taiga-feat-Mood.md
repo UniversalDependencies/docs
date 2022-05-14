@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-18503 tokens (9%) have a non-empty value of `Mood`.
-7147 types (19%) occur at least once with a non-empty value of `Mood`.
+18502 tokens (9%) have a non-empty value of `Mood`.
+7148 types (19%) occur at least once with a non-empty value of `Mood`.
 3268 lemmas (16%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (16769; 9% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1470; 1% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (264; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (16769; 9% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1451; 1% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (282; 0% instances).
 
 ### `VERB`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (978; 6% of non-empty `Mood`): <em>здравствуйте, подскажите, помогите, скажите, посоветуйте, дайте, давай, давайте, объясните, дай</em>
 * `Ind` (15791; 94% of non-empty `Mood`): <em>есть, может, могу, хочу, стоит, нравится, знаю, работает, сказал, было</em>
-* `EMPTY` (7977): <em>можно, нет, надо, делать, найти, сделать, купить, быть, сказать, есть</em>
+* `EMPTY` (7978): <em>можно, нет, надо, делать, найти, сделать, купить, быть, сказать, есть</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -46,15 +46,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-1470 <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Mood`.
+1451 <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1193; 81%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1193; 81%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (993; 68%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (965; 66%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (886; 60%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (876; 60%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1193; 82%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1193; 82%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (974; 67%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (965; 67%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (876; 60%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (867; 60%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (277; 19% of non-empty `Mood`): <em>бы, б</em>
+* `Cnd` (258; 18% of non-empty `Mood`): <em>бы, б</em>
 * `Imp` (14; 1% of non-empty `Mood`): <em>будь, будьте, будте</em>
-* `Ind` (1179; 80% of non-empty `Mood`): <em>было, был, будет, есть, была, были, будут, буду, будем, будете</em>
+* `Ind` (1179; 81% of non-empty `Mood`): <em>было, был, будет, есть, была, были, будут, буду, будем, будете</em>
 * `EMPTY` (123): <em>быть, будучи, бывшая, бывший</em>
 
 <table>
@@ -79,18 +79,18 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `SCONJ`
 
-264 <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> tokens (8% of all `SCONJ` tokens) have a non-empty value of `Mood`.
+282 <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> tokens (8% of all `SCONJ` tokens) have a non-empty value of `Mood`.
 
 `SCONJ` tokens may have the following values of `Mood`:
 
-* `Cnd` (264; 100% of non-empty `Mood`): <em>чтобы, чтоб, что, что-бы, шобы, Чтоп</em>
-* `EMPTY` (3244): <em>что, как, если, когда, то, хотя, чем, пока, хоть, ведь</em>
+* `Cnd` (282; 100% of non-empty `Mood`): <em>чтобы, чтоб, что, что-бы, шобы, Чтоп</em>
+* `EMPTY` (3224): <em>что, как, если, когда, то, хотя, чем, пока, хоть, ведь</em>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (3005; 86%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (842; 66%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (841; 66%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (430; 60%),
 <tt>AUX --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (30; 86%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> AUX</tt> (15; 88%),

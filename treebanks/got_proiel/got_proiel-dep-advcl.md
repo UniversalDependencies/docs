@@ -22,14 +22,14 @@ The following 42 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 advcl	color:blue
-1	ni	ni	ADV	Df	Polarity=Neg	2	advmod	_	ref=MATT_5.17
-2	hugjaiþ	hugjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.17
-3	ei	ei	SCONJ	G-	_	4	mark	_	ref=MATT_5.17
-4	qemjau	qiman	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=MATT_5.17
-5	gatairan	ga-tairan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	ref=MATT_5.17
-6	witoþ	witoþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	ref=MATT_5.17
-7	aiþþau	aiþþau	CCONJ	C-	_	6	cc	_	ref=MATT_5.17
-8	praufetuns	praufetes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	ref=MATT_5.17
+1	ni	ni	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_5.17
+2	hugjaiþ	hugjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.17
+3	ei	ei	SCONJ	G-	_	4	mark	_	Ref=MATT_5.17
+4	qemjau	qiman	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	Ref=MATT_5.17
+5	gatairan	ga-tairan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	Ref=MATT_5.17
+6	witoþ	witoþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=MATT_5.17
+7	aiþþau	aiþþau	CCONJ	C-	_	6	cc	_	Ref=MATT_5.17
+8	praufetuns	praufetes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	Ref=MATT_5.17
 
 ~~~
 
@@ -40,11 +40,11 @@ The following 42 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 advcl	color:blue
-1	wairþs	wairþs	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=LUKE_7.4
-2	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ref=LUKE_7.4|LId=1
-3	þammei	saei	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	4	iobj	_	ref=LUKE_7.4
-4	fragibis	fra-giban	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=LUKE_7.4
-5	þata	sa	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	ref=LUKE_7.4
+1	wairþs	wairþs	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	Ref=LUKE_7.4
+2	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	LId=1|Ref=LUKE_7.4
+3	þammei	saei	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	4	iobj	_	Ref=LUKE_7.4
+4	fragibis	fra-giban	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	Ref=LUKE_7.4
+5	þata	sa	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	Ref=LUKE_7.4
 
 ~~~
 
@@ -55,14 +55,14 @@ The following 42 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 advcl	color:blue
-1	jah	jah	CCONJ	C-	_	6	cc	_	ref=MATT_6.5
-2	þan	þan	SCONJ	G-	_	3	mark	_	ref=MATT_6.5
-3	bidjaiþ	bidjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=MATT_6.5
-4	ni	ni	ADV	Df	Polarity=Neg	6	advmod	_	ref=MATT_6.5
-5	sijaiþ	wisan	AUX	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=MATT_6.5|LId=1
-6	swaswe	swaswe	ADV	Df	_	0	root	_	ref=MATT_6.5
-7	þai	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	8	det	_	ref=MATT_6.5
-8	liutans	liuts	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	nsubj	_	ref=MATT_6.5
+1	jah	jah	CCONJ	C-	_	6	cc	_	Ref=MATT_6.5
+2	þan	þan	SCONJ	G-	_	3	mark	_	Ref=MATT_6.5
+3	bidjaiþ	bidjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	Ref=MATT_6.5
+4	ni	ni	ADV	Df	Polarity=Neg	6	advmod	_	Ref=MATT_6.5
+5	sijaiþ	wisan	AUX	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	LId=1|Ref=MATT_6.5
+6	swaswe	swaswe	ADV	Df	_	0	root	_	Ref=MATT_6.5
+7	þai	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	8	det	_	Ref=MATT_6.5
+8	liutans	liuts	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	nsubj	_	Ref=MATT_6.5
 
 ~~~
 

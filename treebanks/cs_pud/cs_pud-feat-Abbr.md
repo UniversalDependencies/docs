@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (13; 100% of non-empty `Abbr`): <em>n</em>
-* `EMPTY` (814): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
+* `EMPTY` (831): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
 
 ### `ADP`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>sv, tzv</em>
-* `EMPTY` (2282): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `EMPTY` (2268): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
 ### `ADV`
 

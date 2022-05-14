@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2837 nodes (3%) are attached to their parents as `det`.
+2824 nodes (3%) are attached to their parents as `det`.
 
-2831 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.0211491011632.
+2818 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.02089235127479.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (2008; 71% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (736; 26% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (37; 1% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (34; 1% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (1999; 71% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (736; 26% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (35; 1% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (32; 1% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

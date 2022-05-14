@@ -16,7 +16,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="la_udante-pos-CCONJ
 
 ### `CCONJ`
 
-142 <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> tokens (5% of all `CCONJ` tokens) have a non-empty value of `Clitic`.
+142 <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> tokens (4% of all `CCONJ` tokens) have a non-empty value of `Clitic`.
 
 `CCONJ` tokens may have the following values of `Clitic`:
 

@@ -43,10 +43,10 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 2	:	:	PUNCT	Pu	_	3	punct	_	_
 3	Onche	onche	X	zi	Foreign=Yes	1	orphan	_	_
 4	renegata	renegata	X	zi	Foreign=Yes	3	flat:foreign	_	_
-5	avess'	auess	X	zi	Foreign=Yes	3	flat:foreign	_	_
+5	avess'	auess	X	zi	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
 6	io	io	X	zi	Foreign=Yes	3	flat:foreign	_	_
 7	Siena	siena	X	zi	Foreign=Yes|NameType=Geo	3	flat:foreign	_	_
-8	Ch'	ch	X	zi	Foreign=Yes	3	flat:foreign	_	_
+8	Ch'	ch	X	zi	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
 9	ee	ee	X	zi	Foreign=Yes	3	flat:foreign	_	_
 10	chesto	chesto	X	zi	Foreign=Yes	3	flat:foreign	_	_
 11	Aretini	aretinus	ADJ	Smp2n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	1	conj	_	SpaceAfter=No
@@ -108,7 +108,7 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 14	vulgari	uulgare	NOUN	sns3b	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Sing	11	obl	_	_
 15	oc	oc	X	zi	Foreign=Yes	14	flat:foreign	_	SpaceAfter=No
 16	:	:	PUNCT	Pu	_	17	punct	_	_
-17	Namericus	namericus	PROPN	Sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	4	conj	_	_
+17	Namericus	namericus	PROPN	Sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	4	conj	_	_
 18	de	de	ADP	e	AdpType=Prep	19	case	_	_
 19	Belnui	belnui	PROPN	Si	Foreign=Yes|InflClass=Ind|NameType=Geo|Number=Sing	17	obl	_	SpaceAfter=No
 20	:	:	PUNCT	Pu	_	21	punct	_	_

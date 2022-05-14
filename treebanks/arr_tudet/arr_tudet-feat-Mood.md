@@ -11,7 +11,7 @@ It occurs with 1 different values: `Opt`.
 
 12 tokens (1%) have a non-empty value of `Mood`.
 12 types (2%) occur at least once with a non-empty value of `Mood`.
-1 lemmas (1%) occur at least once with a non-empty value of `Mood`.
+9 lemmas (2%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 1 part-of-speech tags: <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (12; 1% instances).
 
 ### `VERB`

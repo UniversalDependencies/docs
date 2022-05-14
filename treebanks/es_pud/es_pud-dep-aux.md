@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="es_pud-dep-aux-pass.html">aux:pass</a></tt>.
 
-375 nodes (2%) are attached to their parents as `aux`.
+343 nodes (1%) are attached to their parents as `aux`.
 
-374 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.34133333333333.
+342 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2536443148688.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (352; 94% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (11; 3% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (8; 2% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (333; 97% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -23,37 +23,38 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 aux	color:blue
-1	Anteriormente	_	ADV	RB	_	6	advmod	_	SpaceAfter=No
-2	,	_	PUNCT	,	_	1	punct	_	_
-3	solo	_	ADV	RB	_	4	advmod	_	_
+1	Anteriormente	anteriormente	ADV	RB	_	6	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	solo	solo	ADV	RB	_	4	advmod	_	_
 4	blogueros	_	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
-5	habían	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	_
-6	visto	_	VERB	VBN	VerbForm=Fin	0	root	_	_
+5	habían	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	_
+6	visto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	jets	_	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	6	punct	_	_
+9	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 aux	color:blue
-1	No	_	ADV	RB	Polarity=Neg	3	advmod	_	_
-2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-3	sabe	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-4	de	_	ADP	IN	_	6	case	_	_
-5	que	_	DET	WDT	Gender=Masc|Number=Sing|PronType=Int,Rel	6	det	_	_
-6	modo	_	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
-7	han	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	aux	_	_
-8	trabajado	_	AUX	VBN	VerbForm=Fin	9	cop	_	_
-9	juntos	_	ADJ	JJ	Gender=Masc|Number=Plur	3	csubj:pass	_	_
-10	ambos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	11	det	_	_
-11	dramaturgos	_	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	SpaceAfter=No
-12	.	_	PUNCT	.	_	3	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 aux	color:blue
+1	Su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	gestión	gestión	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	sin	sin	ADP	IN	_	10	discourse	_	_
+5	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	4	fixed	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	4	punct	_	_
+7	no	_	ADV	RB	Polarity=Neg	10	advmod	_	_
+8	ha	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	_
+9	estado	estar	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	cop	_	_
+10	exenta	_	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	_
+11	de	de	ADP	IN	_	12	case	_	_
+12	críticas	_	NOUN	NN	Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	10	punct	_	_
 
 ~~~
 
@@ -64,16 +65,16 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 aux	color:blue
-1	Danevirke	_	PROPN	NNP	Number=Sing	5	nsubj	_	_
+1	Danevirke	Danevirke	PROPN	NNP	Number=Sing	5	nsubj	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
-3	ha	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	_
-4	mantenido	_	AUX	VBN	VerbForm=Fin	5	cop	_	_
-5	parte	_	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
-6	de	_	ADP	IN	_	7	case	_	_
-7	Alemania	_	PROPN	NNP	Number=Sing	5	nmod	_	_
-8	desde	_	ADP	IN	_	9	case	_	_
-9	entonces	_	ADV	RB	_	5	xcomp	_	SpaceAfter=No
-10	.	_	PUNCT	.	_	5	punct	_	_
+3	ha	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	_
+4	mantenido	_	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
+5	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+6	de	de	ADP	IN	_	7	case	_	_
+7	Alemania	Alemania	PROPN	NNP	Number=Sing	5	nmod	_	_
+8	desde	desde	ADP	IN	_	9	case	_	_
+9	entonces	entonces	ADV	RB	_	5	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

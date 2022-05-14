@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-146 nodes (0%) are attached to their parents as `nummod`.
+145 nodes (0%) are attached to their parents as `nummod`.
 
-120 instances of `nummod` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23972602739726.
+120 instances of `nummod` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24137931034483.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (125; 86% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (7; 5% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2; 1% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (125; 86% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (7; 5% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `PUNCT`
 
-There are 16 `PUNCT` lemmas (1%), 16 `PUNCT` types (0%) and 2631 `PUNCT` tokens (9%).
+There are 15 `PUNCT` lemmas (0%), 16 `PUNCT` types (0%) and 2631 `PUNCT` tokens (9%).
 Out of 17 observed tags, the rank of `PUNCT` is: 10 in number of lemmas, 11 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., ), (, -, /, ;, ", ?, :</em>
@@ -21,15 +21,21 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.409573).
+The form / lemma ratio of `PUNCT` is 1.066667 (the average of all parts of speech is 1.431974).
 
-The 1st highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
+The 1st highest number of forms (2) was observed with the lemma “-”: <em>-, ­</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “(”: <em>(</em>.
+The 2nd highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “)”: <em>)</em>.
+The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</em>.
 
-`PUNCT` does not occur with any features.
+`PUNCT` occurs with 1 features: <tt><a href="fr_partut-feat-Typo.html">Typo</a></tt> (9; 0% instances)
+
+`PUNCT` occurs with 1 feature-value pairs: `Typo=Yes`
+
+`PUNCT` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2622 tokens).
+Examples: <em>,, ., ), (, -, /, ;, ", ?, :</em>
 
 
 ## Relations

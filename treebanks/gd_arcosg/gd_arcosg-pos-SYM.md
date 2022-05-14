@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.297649).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.299412).
 
 The 1st highest number of forms (1) was observed with the lemma “£”: <em>£</em>.
 
@@ -30,7 +30,7 @@ The 1st highest number of forms (1) was observed with the lemma “£”: <em>£
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 2 different relations: <tt><a href="gd_arcosg-dep-obj.html">obj</a></tt> (3; 75% instances), <tt><a href="gd_arcosg-dep-nsubj.html">nsubj</a></tt> (1; 25% instances)
+`SYM` nodes are attached to their parents using 2 different relations: <tt><a href="gd_arcosg-dep-nsubj.html">nsubj</a></tt> (2; 50% instances), <tt><a href="gd_arcosg-dep-obj.html">obj</a></tt> (2; 50% instances)
 
 Parents of `SYM` nodes belong to 1 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (4; 100% instances)
 
@@ -38,13 +38,11 @@ Parents of `SYM` nodes belong to 1 different parts of speech: <tt><a href="gd_ar
 
 2 (50%) `SYM` nodes have one child.
 
-1 (25%) `SYM` nodes have two children.
+2 (50%) `SYM` nodes have two children.
 
-1 (25%) `SYM` nodes have three or more children.
+The highest child degree of a `SYM` node is 2.
 
-The highest child degree of a `SYM` node is 5.
+Children of `SYM` nodes are attached using 2 different relations: <tt><a href="gd_arcosg-dep-nummod.html">nummod</a></tt> (5; 83% instances), <tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt> (1; 17% instances)
 
-Children of `SYM` nodes are attached using 5 different relations: <tt><a href="gd_arcosg-dep-nummod.html">nummod</a></tt> (5; 56% instances), <tt><a href="gd_arcosg-dep-amod.html">amod</a></tt> (1; 11% instances), <tt><a href="gd_arcosg-dep-case.html">case</a></tt> (1; 11% instances), <tt><a href="gd_arcosg-dep-det.html">det</a></tt> (1; 11% instances), <tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt> (1; 11% instances)
-
-Children of `SYM` nodes belong to 6 different parts of speech: <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (4; 44% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (1; 11% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 11% instances)
+Children of `SYM` nodes belong to 3 different parts of speech: <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (4; 67% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 17% instances)
 

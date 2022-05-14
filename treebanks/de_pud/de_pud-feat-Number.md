@@ -20,7 +20,7 @@ The feature is used with 9 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.htm
 
 4244 <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (4244; 100%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (4242; 100%).
 
 `NOUN` tokens may have the following values of `Number`:
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 2844 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2840; 100%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2245; 79%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2838; 100%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2245; 79%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -99,7 +99,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 1194 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (85% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1179; 99%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1128; 94%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1178; 99%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1128; 94%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -189,6 +189,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>war</em></td><td><em>waren</em></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>bin</em></td><td><em>sind</em></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>war, wawr</em></td><td><em>waren</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="de_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>war</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ist</em></td><td><em>sind</em></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>seien</em></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>wäre</em></td><td><em>wären</em></td></tr>
@@ -210,7 +211,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 1 <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 

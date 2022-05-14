@@ -23,7 +23,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (396; 100% of non-empty `Foreign`): <em>joint, venture, baby, cd, sitter, rom, condicio, par, est, facile</em>
-* `EMPTY` (7): <em>equ, 25%, 60%, e, m3, star</em>
+* `EMPTY` (10): <em>equ, 25%, a., e, m3, n., r., star, tu.</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (216) occur only with one value of `Foreign`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>coalition, dogs, fascist, revolutions, structure</em>
-* `EMPTY` (58009): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
+* `EMPTY` (57751): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `ADJ`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>scientific</em>
-* `EMPTY` (20067): <em>primo, precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi</em>
+* `EMPTY` (20123): <em>primo, precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi</em>
 
 ### `ADP`
 

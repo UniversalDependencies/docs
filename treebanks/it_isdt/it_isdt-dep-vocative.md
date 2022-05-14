@@ -47,7 +47,7 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 1	Onorevole	onorevole	ADJ	A	Number=Sing	2	amod	2:amod	_
 2	collega	collega	NOUN	S	Number=Sing	6	vocative	6:vocative	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	2:punct	_
-4	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	6:cop	_
+4	sarà	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	6:cop	_
 5	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	6:det:poss	_
 6	cura	cura	NOUN	S	Gender=Fem|Number=Sing	0	root	0:root	_
 7	verificare	verificare	VERB	V	VerbForm=Inf	6	csubj	6:csubj	_

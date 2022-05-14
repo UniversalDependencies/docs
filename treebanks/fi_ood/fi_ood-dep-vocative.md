@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 2	vau	vau	INTJ	_	_	5	discourse	_	SpaceAfter=No
 3	!	!	PUNCT	_	_	2	punct	_	_
 4	En	ei	AUX	_	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	5	aux	_	_
-5	tiennyt	tietää	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+5	tiennyt	tietää	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	että	että	SCONJ	_	_	9	mark	_	_
 8	enää	enää	ADV	_	_	9	advmod	_	_
@@ -49,7 +49,7 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 3	!	!	PUNCT	_	_	2	punct	_	_
 4	Huolellisen	huolellinen	ADJ	_	Case=Gen|Degree=Pos|Derivation=Llinen|Number=Sing	5	amod	_	_
 5	tuntuisesti	tuntuisesti	ADV	_	Derivation=Sti	6	advmod	_	_
-6	tehty	tehdä	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+6	tehty	tehdä	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
 7	juttu	juttu	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 

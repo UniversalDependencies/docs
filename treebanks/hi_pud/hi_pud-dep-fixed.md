@@ -48,13 +48,13 @@ The following 22 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 7 fixed	color:blue
 1	इसमें	_	PRON	PDEM	Number=Sing	11	iobj	_	Translit=isameṁ
-2	10,000	_	NUM	CD	NumType=Card	3	nummod	_	OrigForm=10000|Translit=10,000
+2	10,000	_	NUM	CD	NumType=Card	3	nummod	_	Translit=10,000
 3	तकनीशियन	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Sing	11	obl	_	Translit=takanīśiyana
 4	सहित	_	ADP	IN	_	3	case	_	Translit=sahita
 5	कम	_	DET	QF	_	8	det	_	Translit=kama
 6	से	_	ADP	IN	Case=Acc	5	fixed	_	Translit=se
 7	कम	_	DET	QF	_	5	fixed	_	Translit=kama
-8	330,000	_	NUM	CD	NumType=Card	9	nummod	_	OrigForm=330000|Translit=330,000
+8	330,000	_	NUM	CD	NumType=Card	9	nummod	_	Translit=330,000
 9	लोग	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Plur	11	nsubj	_	Translit=loga
 10	शामिल	_	ADJ	JJ	_	11	compound:lvc	_	Translit=śāmila
 11	थे	_	VERB	VBI	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Translit=the

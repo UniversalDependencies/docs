@@ -23,13 +23,13 @@ The following 12 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 2 aux	color:blue
 1	#	#	X	_	_	5	dep	_	AlignBegin=23422|AlignEnd=23583|Gloss=PUNCT
-2	meh	make	AUX	_	Mood=Opt	5	aux	_	AlignBegin=23583|AlignEnd=23707|Gloss=SBJV
-3	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=23707|AlignEnd=23758|Gloss=ACC.SG.1
-4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=23788|AlignEnd=23907|Gloss=NOM.SG.1
-5	go	go	VERB	_	_	0	root	_	AlignBegin=23907|AlignEnd=24107|Gloss=go
-6	for	for	ADP	_	_	7	case	_	AlignBegin=24107|AlignEnd=24297|Gloss=for
-7	school	school	NOUN	_	_	5	obl:arg	_	AlignBegin=24297|AlignEnd=24577|Gloss=school
-8	first	first	ADV	_	_	5	advmod	_	AlignBegin=24577|AlignEnd=24826|Gloss=first
+2	meh	make	AUX	_	Mood=Opt	5	aux	_	AlignBegin=23583|AlignEnd=23707|Gloss=SBJV|SyllableCount=1|WordContour=hh
+3	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=23707|AlignEnd=23758|Gloss=ACC.SG.1|SyllableCount=1|WordContour=hh
+4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=23788|AlignEnd=23907|Gloss=NOM.SG.1|SyllableCount=1|WordContour=hm
+5	go	go	VERB	_	_	0	root	_	AlignBegin=23907|AlignEnd=24107|Gloss=go|SyllableCount=1|WordContour=mm
+6	for	for	ADP	_	_	7	case	_	AlignBegin=24107|AlignEnd=24297|Gloss=for|SyllableCount=1|WordContour=ml
+7	school	school	NOUN	_	_	5	obl:arg	_	AlignBegin=24297|AlignEnd=24577|Gloss=school|SyllableCount=1|WordContour=ml
+8	first	first	ADV	_	_	5	advmod	_	AlignBegin=24577|AlignEnd=24826|Gloss=first|SyllableCount=1|WordContour=ml
 9	//	//	X	_	_	5	dep	_	AlignBegin=24826|AlignEnd=24856|Gloss=PUNCT
 
 ~~~
@@ -42,14 +42,14 @@ The following 12 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux	color:blue
 1	#	#	X	_	_	4	dep	_	AlignBegin=120434|AlignEnd=120832|Gloss=PUNCT
-2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=120832|AlignEnd=120940|Gloss=NOM.SG.3
-3	no	no	AUX	_	Polarity=Neg	4	aux	_	AlignBegin=120940|AlignEnd=121082|Gloss=NEG
-4	good	good	ADJ	_	_	0	root	_	AlignBegin=121082|AlignEnd=121549|ExtPos=VERB|Gloss=good
+2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=120832|AlignEnd=120940|Gloss=NOM.SG.3|SyllableCount=1|WordContour=hh
+3	no	no	AUX	_	Polarity=Neg	4	aux	_	AlignBegin=120940|AlignEnd=121082|Gloss=NEG|SyllableCount=1|WordContour=HmH2
+4	good	good	ADJ	_	_	0	root	_	AlignBegin=121082|AlignEnd=121549|ExtPos=VERB|Gloss=good|SyllableCount=1|WordContour=mL
 5	//=	//=	X	_	_	9	dep	_	AlignBegin=121549|AlignEnd=121579|Gloss=PUNCT
 6	#	#	X	_	_	9	dep	_	AlignBegin=121579|AlignEnd=121780|Gloss=PUNCT
-7	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	AlignBegin=121780|AlignEnd=121830|Gloss=NOM.SG.3
-8	no	no	AUX	_	Polarity=Neg	9	aux	_	AlignBegin=121830|AlignEnd=122004|Gloss=NEG
-9	good	good	ADJ	_	_	4	parataxis:conj	_	AlignBegin=122004|AlignEnd=122380|ExtPos=VERB|Gloss=good
+7	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	AlignBegin=121780|AlignEnd=121830|Gloss=NOM.SG.3|SyllableCount=1|WordContour=mm
+8	no	no	AUX	_	Polarity=Neg	9	aux	_	AlignBegin=121830|AlignEnd=122004|Gloss=NEG|SyllableCount=1|WordContour=mmH2
+9	good	good	ADJ	_	_	4	parataxis:conj	_	AlignBegin=122004|AlignEnd=122380|ExtPos=VERB|Gloss=good|SyllableCount=1|WordContour=mL
 10	//	//	X	_	_	4	dep	_	AlignBegin=122380|AlignEnd=122410|Gloss=PUNCT
 
 ~~~
@@ -62,11 +62,11 @@ The following 12 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 3 aux	color:blue
 1	#	#	X	_	_	6	dep	_	AlignBegin=416413|AlignEnd=416800|Gloss=PUNCT
-2	everytin	everyting	PRON	_	_	6	nsubj	_	AlignBegin=416800|AlignEnd=417311|Gloss=everything
-3	go	go	AUX	_	Aspect=Prosp	6	aux	_	AlignBegin=417311|AlignEnd=417451|Gloss=PROSP
-4	be	be	AUX	_	PartType=Cop	6	cop	_	AlignBegin=417451|AlignEnd=417601|Gloss=be
-5	big	big	ADJ	_	_	6	amod	_	AlignBegin=417601|AlignEnd=417888|Gloss=big
-6	money	money	NOUN	_	_	0	root	_	AlignBegin=417888|AlignEnd=418204|Gloss=money
+2	everytin	everyting	PRON	_	_	6	nsubj	_	AlignBegin=416800|AlignEnd=417311|Gloss=everything|SyllableCount=4|WordContour=mlh1
+3	go	go	AUX	_	Aspect=Prosp	6	aux	_	AlignBegin=417311|AlignEnd=417451|Gloss=PROSP|SyllableCount=1|WordContour=ll
+4	be	be	AUX	_	PartType=Cop	6	cop	_	AlignBegin=417451|AlignEnd=417601|Gloss=be|SyllableCount=1|WordContour=mm
+5	big	big	ADJ	_	_	6	amod	_	AlignBegin=417601|AlignEnd=417888|Gloss=big|SyllableCount=1|WordContour=X
+6	money	money	NOUN	_	_	0	root	_	AlignBegin=417888|AlignEnd=418204|Gloss=money|SyllableCount=2|WordContour=X
 7	//	//	X	_	_	6	dep	_	AlignBegin=418204|AlignEnd=418234|Gloss=PUNCT
 
 ~~~

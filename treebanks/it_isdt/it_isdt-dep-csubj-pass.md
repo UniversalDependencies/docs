@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
 6	relazione	relazione	NOUN	S	Gender=Fem|Number=Sing	3	nmod	3:nmod:di	_
 7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
-8	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	cop	9:cop	_
+8	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	cop	9:cop	_
 9	interessante	interessante	ADJ	A	Number=Sing	0	root	0:root	_
 10	discutere	discutere	VERB	V	VerbForm=Inf	9	csubj:pass	9:csubj:pass	_
 11	di	di	ADP	E	_	13	case	13:case	_
@@ -67,11 +67,11 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 9	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	6:nmod:di	_
 10	di	di	ADP	E	_	11	case	11:case	_
 11	Shakespeare	Shakespeare	PROPN	SP	_	9	nmod	9:nmod:di	_
-12	fossero	essere	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	cop	13:cop	_
+12	fossero	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	cop	13:cop	_
 13	cattolici	cattolico	NOUN	S	Gender=Masc|Number=Plur	3	ccomp	3:ccomp	_
 14	quando	quando	SCONJ	CS	_	19	mark	19:mark	_
 15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	17:det	SpaceAfter=No
-16	essere	essere	AUX	V	VerbForm=Inf	17	cop	17:cop	_
+16	essere	essere	AUX	VA	VerbForm=Inf	17	cop	17:cop	_
 17	cattolico	cattolico	ADJ	A	Gender=Masc|Number=Sing	19	csubj:pass	19:csubj:pass	_
 18	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	aux:pass	19:aux:pass	_
 19	considerato	considerare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	13:advcl:quando	_

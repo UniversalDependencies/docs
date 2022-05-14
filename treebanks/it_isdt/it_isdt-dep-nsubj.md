@@ -30,7 +30,7 @@ The following 41 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 5	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	di	di	ADP	E	_	9	mark	9:mark	_
 7	poter	potere	AUX	VM	VerbForm=Inf	9	aux	9:aux	_
-8	essere	essere	AUX	V	VerbForm=Inf	9	cop	9:cop	_
+8	essere	essere	AUX	VA	VerbForm=Inf	9	cop	9:cop	_
 9	più	più	ADV	B	_	5	xcomp	5:xcomp	_
 10	di	di	ADP	E	_	11	case	11:case	_
 11	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	obl	9:obl:di|13:nsubj	_
@@ -54,7 +54,7 @@ The following 41 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 5	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	di	di	ADP	E	_	9	mark	9:mark	_
 7	poter	potere	AUX	VM	VerbForm=Inf	9	aux	9:aux	_
-8	essere	essere	AUX	V	VerbForm=Inf	9	cop	9:cop	_
+8	essere	essere	AUX	VA	VerbForm=Inf	9	cop	9:cop	_
 9	più	più	ADV	B	_	5	xcomp	5:xcomp	_
 10	di	di	ADP	E	_	11	case	11:case	_
 11	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	obl	9:obl:di|13:nsubj	_

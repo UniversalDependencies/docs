@@ -20,7 +20,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="fi_ood-pos-VERB.htm
 
 1155 <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1155; 100%), <tt><a href="fi_ood-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1155; 100%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1155; 100%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1155; 100%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1155; 100%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1155; 100%), <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1055; 91%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (996; 86%), <tt><a href="fi_ood-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (665; 58%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1155; 100%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1155; 100%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1155; 100%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1155; 100%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1155; 100%), <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1055; 91%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (996; 86%), <tt><a href="fi_ood-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (665; 58%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (213; 18% of non-empty `Person`): <em>näin, sain, haluan, mietin, opettelen, teen, katson, tiedän, Arvostan, Inhoan</em>
 * `2` (96; 8% of non-empty `Person`): <em>Lue, saat, ostat, anna, hae, haluatte, osta, seuraa, Johda, KUUNTELE</em>
 * `3` (794; 69% of non-empty `Person`): <em>tulee, hapettuu, alkoi, sai, löytyy, saa, laskee, menee, kertoo, laski</em>
-* `EMPTY` (1460): <em>saanut, aloitettu, laitettu, saada, päästy, vaihdettu, käynyt, nukkunut, tehdä, lopetettu</em>
+* `EMPTY` (1458): <em>saanut, aloitettu, laitettu, saada, päästy, vaihdettu, käynyt, nukkunut, tehdä, lopetettu</em>
 
 <table>
   <tr><th>Paradigm <i>saada</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>0</tt></th></tr>
@@ -107,7 +107,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `NOUN` tokens may have the following values of `Person`:
 
 * `2` (1; 100% of non-empty `Person`): <em>kaivelette</em>
-* `EMPTY` (5047): <em>diureesi, hemodynamiikka, hapetus, hengitys, pulssi, aikana, omaiset, Tajunta, yövuoro, aamulla</em>
+* `EMPTY` (5046): <em>diureesi, hemodynamiikka, hapetus, hengitys, pulssi, aikana, omaiset, Tajunta, yövuoro, aamulla</em>
 
 ## Relations with Agreement in `Person`
 

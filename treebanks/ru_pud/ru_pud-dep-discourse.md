@@ -93,7 +93,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 6 1 discourse	color:blue
 1	Ведь	ведь	PART	UH	_	6	discourse	_	_
 2	интернет	интернет	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-3	—	—	PUNCT	-	_	2	punct	_	OrigForm=--
+3	—	—	PUNCT	-	_	2	punct	_	_
 4	это	это	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	6	expl	_	_
 5	не	не	PART	NEG	Polarity=Neg	6	advmod	_	_
 6	роскошь	роскошь	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No

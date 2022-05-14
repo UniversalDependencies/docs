@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Hum` are language-specific.
 It occurs with 1 different values: `Hum`.
 
-104 tokens (4%) have a non-empty value of `Animacy`.
-51 types (8%) occur at least once with a non-empty value of `Animacy`.
-22 lemmas (5%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (94; 4% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (10; 0% instances).
+108 tokens (4%) have a non-empty value of `Animacy`.
+52 types (7%) occur at least once with a non-empty value of `Animacy`.
+23 lemmas (5%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (98; 4% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (10; 0% instances).
 
 ### `NOUN`
 
-94 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (27% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+98 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (27% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (85; 90%), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (74; 79%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (74; 79%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (63; 67%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (89; 91%), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (78; 80%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (78; 80%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (67; 68%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Hum` (94; 100% of non-empty `Animacy`): <em>ooumaž, nijdd, ääkka, eččad, niõđ, kaavân, kåʹddpäärnaž, ääkkaž, jeäʹnn, jeäʹnnes</em>
-* `EMPTY` (258): <em>tueʹllj, mieʹccest, heävaš, stäʹlmmstääll, niõđâž, vuâra, källsaž, muõrid, triâŋgg, heäppaž</em>
+* `Hum` (98; 100% of non-empty `Animacy`): <em>ooumaž, nijdd, ääkka, eččad, niõđ, kaavân, kåʹddpäärnaž, ääkkaž, jeäʹnn, jeäʹnnes</em>
+* `EMPTY` (271): <em>tueʹllj, mieʹccest, heävaš, stäʹlmmstääll, niõđâž, vuâra, källsaž, muõrid, triâŋgg, Peʹll</em>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (17) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `Animacy`.
 
 ### `PROPN`
 

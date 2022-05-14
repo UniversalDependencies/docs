@@ -11,7 +11,7 @@ It occurs with 4 different values: `Fin`, `Inf`, `Part`, `Sup`.
 
 173726 tokens (18%) have a non-empty value of `VerbForm`.
 12578 types (19%) occur at least once with a non-empty value of `VerbForm`.
-4299 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
+4297 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 15 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (117662; 12% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (48983; 5% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (2449; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (1533; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1373; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (558; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (444; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (375; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (203; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (80; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (29; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances).
 
 ### `VERB`
@@ -150,7 +150,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 * `Inf` (40; 3% of non-empty `VerbForm`): <em>ske, framast, einast, fara, fá, skjótast, æfinlega, aldri, alloftast, fyrirkoma</em>
 * `Part` (43; 3% of non-empty `VerbForm`): <em>háttað, minnst, predikað, einnin, gjör, hverninn, komnir, Einatt, beint, breitt</em>
 * `Sup` (33; 2% of non-empty `VerbForm`): <em>fengið, gerst, gjör, snarast, aldri, alltið, brutt, dárað, einnin, gengið</em>
-* `EMPTY` (77492): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
+* `EMPTY` (77490): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
 
 <table>
   <tr><th>Paradigm <i>snart</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th></tr>
@@ -173,7 +173,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Inf` (319; 23% of non-empty `VerbForm`): <em>votta, synda, vilja, elska, ráða, búa, galdra, skaða, anda, herða</em>
 * `Part` (182; 13% of non-empty `VerbForm`): <em>búandi, náð, orðið, gerð, liðið, talið, ráðið, sæmd, byggðir, fagnað</em>
 * `Sup` (110; 8% of non-empty `VerbForm`): <em>náð, sótt, búið, brest, ráðið, talið, féið, varnað, klæði, mein</em>
-* `EMPTY` (144578): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (144574): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>ráð</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th></tr>
@@ -197,7 +197,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 * `Inf` (57; 10% of non-empty `VerbForm`): <em>sanna, breiða, helga, fegra, fullkomna, margfalda, yðra, Verra, auðga, bera</em>
 * `Part` (200; 36% of non-empty `VerbForm`): <em>vænst, leitt, kunnigt, auðsýnt, skyldir, sýnt, auglýstur, beint, dælt, fallin</em>
 * `Sup` (18; 3% of non-empty `VerbForm`): <em>áminnst, greint, hlýðið, hrært, kunnigt, kært, lagt, leitt, ljósan, mein</em>
-* `EMPTY` (36597): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36606): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 <table>
   <tr><th>Paradigm <i>leiður</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th></tr>
@@ -299,7 +299,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 * `Inf` (14; 18% of non-empty `VerbForm`): <em>anda, Ótta, Antiokkia, Ermanus, Flegða, Loka, Mella, Pjatta, Syrpa, draga</em>
 * `Part` (6; 8% of non-empty `VerbForm`): <em>Refur, Fiður, Herjuð, Mundt, Móður</em>
 * `Sup` (3; 4% of non-empty `VerbForm`): <em>Ríkilað, Majst</em>
-* `EMPTY` (41327): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41324): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 <table>
   <tr><th>Paradigm <i>móðar</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>

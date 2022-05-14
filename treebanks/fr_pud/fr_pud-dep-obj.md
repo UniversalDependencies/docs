@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 obj	color:blue
-1	Notre	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	wordform=notre
+1	Notre	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Person[psor]=1|Poss=Yes|PronType=Prs	2	det	_	wordform=notre
 2	pays	pays	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	n'	ne	ADV	RB	Polarity=Neg	4	advmod	_	SpaceAfter=No
 4	a	avoir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -32,7 +32,7 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 7	de	de	ADP	IN	_	8	case	_	_
 8	ça	ça	PRON	PDEM	PronType=Dem	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	11	punct	_	_
-10	mes	son	DET	DTP$	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+10	mes	son	DET	DTP$	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Person[psor]=1|Poss=Yes|PronType=Prs	11	det	_	_
 11	amis	ami	NOUN	NN	Gender=Masc|Number=Plur	4	vocative	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	4	punct	_	_
 

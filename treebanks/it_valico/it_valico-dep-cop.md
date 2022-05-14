@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-134 nodes (2%) are attached to their parents as `cop`.
+135 nodes (2%) are attached to their parents as `cop`.
 
-132 instances of `cop` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8134328358209.
+133 instances of `cop` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.80740740740741.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (68; 51% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (56; 42% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (68; 50% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (57; 42% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

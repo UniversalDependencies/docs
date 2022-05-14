@@ -9,32 +9,32 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-744 tokens (1%) have a non-empty value of `Foreign`.
-499 types (7%) occur at least once with a non-empty value of `Foreign`.
-483 lemmas (9%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 10 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (436; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (155; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (43; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (41; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (12; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (3; 0% instances).
+766 tokens (1%) have a non-empty value of `Foreign`.
+514 types (7%) occur at least once with a non-empty value of `Foreign`.
+498 lemmas (9%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 10 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (459; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (154; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (43; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (41; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (12; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-436 <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+459 <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (436; 100%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (436; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (436; 100%), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (436; 100%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (459; 100%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (459; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (459; 100%), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (459; 100%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (436; 100% of non-empty `Foreign`): <em>tug-of-war, Shir, contract, Radio, council, point, terrorists, tribunal, van, Connections</em>
-* `EMPTY` (17442): <em>bhith, dol, ràdh, duine, chur, fear, ais, fhios, dhèanamh, taobh</em>
+* `Yes` (459; 100% of non-empty `Foreign`): <em>tug-of-war, Shir, contract, vet, Radio, council, point, terrorists, tribunal, van</em>
+* `EMPTY` (18397): <em>bhith, dol, ràdh, duine, fear, chur, fhios, taobh, ais, dhèanamh</em>
 
-`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (317) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (332) occur only with one value of `Foreign`.
 
 ### `X`
 
-155 <tt><a href="gd_arcosg-pos-X.html">X</a></tt> tokens (43% of all `X` tokens) have a non-empty value of `Foreign`.
+154 <tt><a href="gd_arcosg-pos-X.html">X</a></tt> tokens (39% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (155; 100% of non-empty `Foreign`): <em>the, a, I, and, in, on, poverty, well, Isles, Western</em>
-* `EMPTY` (207): <em>[?], a, na, a:, ann, b:, cuag, si, ISA, Malpa:</em>
+* `Yes` (154; 100% of non-empty `Foreign`): <em>the, a, I, and, in, on, poverty, well, Isles, Western</em>
+* `EMPTY` (242): <em>[?], a, na, a:, ann, b:, cuag, si, ISA, Malpa:</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (126) occur only with one value of `Foreign`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (43; 100% of non-empty `Foreign`): <em>Sir, Dad, the, Airways, Apprentice, Aquaculture, Backpackers, Boys, British, Bus</em>
-* `EMPTY` (3863): <em>[Name], [Placename], Iain, Alba, Dòmhnall, Uibhist, h-Alba, MacLeish, a, Yugoslavia</em>
+* `EMPTY` (4173): <em>[Name], [Placename], Alba, Iain, Yugoslavia, Dòmhnall, MacLeish, Malpas, Uibhist, h-Alba</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (31) occur only with one value of `Foreign`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (41; 100% of non-empty `Foreign`): <em>okay, Celtic, extra, flat, fresh, important, spotless, Agricultural, Giant, Japanese</em>
-* `EMPTY` (3192): <em>eile, bith, sam, ùr, math, beag, mòr, mhòr, cinnteach, faisg</em>
+* `EMPTY` (3375): <em>eile, bith, sam, ùr, math, beag, mhòr, mòr, cinnteach, faisg</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (33) occur only with one value of `Foreign`.
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (18; 100% of non-empty `Foreign`): <em>so</em>
-* `EMPTY` (3162): <em>agus, 's, ach, is, no, ’s, oir, ‘s, neo, na</em>
+* `EMPTY` (3389): <em>agus, 's, ach, is, no, ’s, oir, neo, ‘s, na</em>
 
 ### `ADV`
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (16; 100% of non-empty `Foreign`): <em>really, exactly, straight, absolutely, alright, forward, full, particular, right, still</em>
-* `EMPTY` (4149): <em>an, a-mach, cho, a, cuideachd, dìreach, suas, ann, math, co-dhiubh</em>
+* `EMPTY` (4595): <em>an, a-mach, cho, a, dìreach, suas, cuideachd, ann, math, a-steach</em>
 
 `Foreign` seems to be **lexical feature** of `ADV`. 100% lemmas (12) occur only with one value of `Foreign`.
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (16; 100% of non-empty `Foreign`): <em>and, eighteen, eighty, fifty, five, forty-thousand, hundred, nineteen, ninety, one</em>
-* `EMPTY` (975): <em>aon, dà, deug, trì, fhichead, fichead, ceithir, cheud, chiad, seachd</em>
+* `EMPTY` (1032): <em>aon, dà, deug, trì, fhichead, fichead, ceithir, chiad, cheud, seachd</em>
 
 `Foreign` seems to be **lexical feature** of `NUM`. 100% lemmas (16) occur only with one value of `Foreign`.
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `INTJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (12; 100% of non-empty `Foreign`): <em>Well, okay, right, so, no, really, sorry, thanks</em>
-* `EMPTY` (479): <em>ò, uill, àidh, o, och, seadh, uh, mhmm, obh, shìorraidh</em>
+* `EMPTY` (516): <em>uill, ò, àidh, o, och, seadh, uh, ma-thà, eh, mhmm</em>
 
 ### `DET`
 
@@ -113,24 +113,24 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>the</em>
-* `EMPTY` (6221): <em>an, na, a’, a, am, a', nan, sin, seo, 'n</em>
+* `EMPTY` (6536): <em>an, na, a’, a, am, a', nan, sin, seo, 'n</em>
 
 ### `VERB`
 
 3 <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>dhifferentiates, sublet, test</em>
-* `EMPTY` (8648): <em>tha, bha, robh, eil, bheil, chaidh, bhiodh, thuirt, ars’, chuir</em>
+* `EMPTY` (9168): <em>tha, bha, robh, eil, bheil, chaidh, bhiodh, fhuair, thuirt, ars’</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (77; 96%),
 <tt>X --[<tt><a href="gd_arcosg-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (71; 100%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (70; 96%),
 <tt>NUM --[<tt><a href="gd_arcosg-dep-flat-foreign.html">flat:foreign</a></tt>]--> NUM</tt> (7; 100%),
 <tt>ADJ --[<tt><a href="gd_arcosg-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (6; 100%),
 <tt>PROPN --[<tt><a href="gd_arcosg-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (4; 100%),

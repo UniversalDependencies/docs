@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` lemmas: <em>i, o, però, ni, sinó, mentre, y, que,
 
 The 10 most frequent `CCONJ` types:  <em>i, o, però, ni, sinó, mentre, y, que, bé, et</em>
 
-The 10 most frequent ambiguous lemmas: <em>i</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 12786, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 1), <em>però</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 768, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 86, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 1), <em>ni</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 270, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 36), <em>sinó</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 179, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 1), <em>mentre</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 159, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 92), <em>que</em> (<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> 7191, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 6663, <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> 1), <em>bé</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 96, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 76, <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>i</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 12804, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> 1, <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> 1), <em>però</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 768, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 86, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 1), <em>ni</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 270, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 36), <em>sinó</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 179, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 1), <em>mentre</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 163, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 92), <em>que</em> (<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> 7191, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 6664, <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> 1), <em>bé</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 96, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 76, <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 12572, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 1), <em>però</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 603, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 67, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 1), <em>ni</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 253, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 32), <em>sinó</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 178, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 1), <em>mentre</em> (<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 146, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 79), <em>que</em> (<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> 7191, <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> 6630, <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 4), <em>bé</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 85, <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 76, <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 1), <em>et</em> (<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> 14, <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -48,13 +48,13 @@ The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="ca_ancora-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.415132).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.416268).
 
-The 1st highest number of forms (1) was observed with the lemma “I”: <em>I</em>.
+The 1st highest number of forms (1) was observed with the lemma “bé”: <em>bé</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Mentre”: <em>Mentre</em>.
+The 2nd highest number of forms (1) was observed with the lemma “et”: <em>et</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Y”: <em>Y</em>.
+The 3rd highest number of forms (1) was observed with the lemma “i”: <em>i</em>.
 
 `CCONJ` occurs with 1 features: <tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 

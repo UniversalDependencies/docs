@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	2	mark	_	_
 2	ⲁⲙⲏⲓ	ⲉⲓ	VERB	VIMP	VerbForm=Fin	0	root	_	_
 3	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Orig=ⲧⲛ̄
-4	ⲁⲣⲓⲑⲩⲥⲓⲁⲍⲉ	ⲣⲑⲩⲥⲓⲁⲍⲉ	VERB	VIMP	Foreign=Yes|VerbForm=Fin	2	conj	_	Morphs=ⲁⲣⲓ-ⲑⲩⲥⲓⲁⲍⲉ|OrigLang=grc
+4	ⲁⲣⲓⲑⲩⲥⲓⲁⲍⲉ	ⲣⲑⲩⲥⲓⲁⲍⲉ	VERB	VIMP	Foreign=Yes|VerbForm=Fin	2	conj	_	MSeg=ⲁⲣⲓ-ⲑⲩⲥⲓⲁⲍⲉ|OrigLang=grc
 5	ⲱ	ⲱ	PART	PTC	Foreign=Yes	7	discourse	_	Orig=ⲱ̄|OrigLang=grc
 6	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	7	det	_	Entity=(person|Orig=ⲛ̄
 7	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	2	vocative	_	_
@@ -46,7 +46,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	Entity=(abstract|Orig=ⲚϤ̅
 3	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	NOUN	N	_	7	nsubj	_	Orig=ⲤⲘⲞⲨ
 4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	Orig=ⲈⲦ
-5	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	3	acl	_	Entity=abstract)|Orig=ⲞⲨⲀⲀⲂ
+5	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	3	acl:relcl	_	Entity=abstract)|Orig=ⲞⲨⲀⲀⲂ
 6	ⲛⲁ	ⲛⲁ	AUX	FUT	_	7	aux	_	Orig=ⲚⲀ
 7	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲈⲒ
 8	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	7	advmod	_	Orig=ⲈϨⲢⲀⲒ
@@ -73,7 +73,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	6	mark	_	_
 4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
 5	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-6	ϫⲟ	ϫⲟ	VERB	V	VerbForm=Fin	2	acl	_	_
+6	ϫⲟ	ϫⲟ	VERB	V	VerbForm=Fin	2	acl:relcl	_	_
 7	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	6	advmod	_	Orig=ϩⲣⲁⲓ̅
 8	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̅ϩⲏⲧ
 9	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	6	obl	_	Orig=ⲛ̅

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-12689 tokens (51%) have a non-empty value of `Gender`.
-4404 types (74%) occur at least once with a non-empty value of `Gender`.
-3541 lemmas (77%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 11 part-of-speech tags: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4672; 19% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3872; 16% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1618; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (970; 4% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (838; 3% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (588; 2% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (99; 0% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (1; 0% instances).
+12688 tokens (51%) have a non-empty value of `Gender`.
+4403 types (74%) occur at least once with a non-empty value of `Gender`.
+3539 lemmas (77%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 10 part-of-speech tags: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4672; 19% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3872; 16% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1618; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (970; 4% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (838; 3% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (588; 2% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (99; 0% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 3872 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3446; 89%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2862; 74%), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2781; 72%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3447; 89%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2862; 74%), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2781; 72%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -46,8 +46,9 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>le, l', l’, les, l‘</em></td><td><em>la, l', l’, l‘</em></td></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>les, le</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>le, l', l’, les, l‘</em></td><td><em>la, l', l’, l‘</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>les, le</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>L’</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -160,15 +161,6 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Masc` (4; 100% of non-empty `Gender`): <em>1er, premier</em>
 * `EMPTY` (447): <em>deux, trois, quatre, 1, 3, 10, II, III, dix, milliards</em>
-
-### `SCONJ`
-
-1 <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Gender`.
-
-`SCONJ` tokens may have the following values of `Gender`:
-
-* `Fem` (1; 100% of non-empty `Gender`): <em>que</em>
-* `EMPTY` (218): <em>que, qu', quand, lorsque, qu’, lorsqu’, lorsqu', puisqu'</em>
 
 ### `X`
 

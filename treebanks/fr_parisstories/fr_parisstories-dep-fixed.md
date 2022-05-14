@@ -8,33 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-401 nodes (1%) are attached to their parents as `fixed`.
+428 nodes (1%) are attached to their parents as `fixed`.
 
-401 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04738154613466.
+428 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06542056074766.
 
-The following 22 pairs of parts of speech are connected with `fixed`: <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (97; 24% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (78; 19% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (67; 17% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (50; 12% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (28; 7% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (16; 4% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (12; 3% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (11; 3% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `fixed`: <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (117; 27% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (78; 18% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (69; 16% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (51; 12% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (28; 7% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (20; 5% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (16; 4% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (12; 3% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 fixed	color:blue
-1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
-2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
-3	resté	rester	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-4	cinq	cinq	NUM	_	Number=Plur	5	nummod	_	_
-5	jours	jour	NOUN	_	Gender=Masc|Number=Plur	3	obl:mod	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	12	punct	_	_
-7	par	par	ADP	_	_	12	dislocated	_	ExtPos=ADV|Idiom=Yes
-8	contre	contre	NOUN	_	_	7	fixed	_	InIdiom=Yes|SpaceAfter=No
-9	,	,	PUNCT	_	_	7	punct	_	_
-10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	advmod	_	ExtPos=ADV|Idiom=Yes
-11	peu	peu	NOUN	_	_	10	fixed	_	InIdiom=Yes
-12	plus	plus	ADV	_	_	5	advmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 fixed	color:blue
+1	alors	alors	ADV	_	_	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	euh	euh	INTJ	_	_	5	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	pas	pas	ADV	_	Polarity=Neg	0	root	_	_
+6	de	de	ADP	_	_	5	advmod	_	ExtPos=ADV|Idiom=Yes
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	fixed	_	InIdiom=Yes
+8	tout	tout	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	InIdiom=Yes|SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

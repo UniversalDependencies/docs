@@ -13,13 +13,13 @@ The 10 most frequent `X` lemmas: <em>decipi, mundus, vult, Amicorum, Batavorum, 
 
 The 10 most frequent `X` types:  <em>decipi, mundus, vult, Amicorum, Batavorum, De, Iovivat, Prosaluut, arum, bedrogen</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 126, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 1, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 142, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 1, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>De</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 4, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>um</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>wil</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 3, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>De</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 5, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>um</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>wil</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 3, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1)
 
 
 * <em>De</em>
-  * <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 4: <em>- <b>De</b> buur smeyt sik van de eyne syde up de andere , et was em nich müägelik , dat hee slåpen kon .</em>
+  * <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 5: <em><b>De</b> vöärreade .</em>
   * <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1: <em>Later geböären et eyns , dat ik en aardig vertelseltyn las ; dår stun et wear ; twey höäksys stunnen der achter , en krüüssyn dårin , dat weys myn nå underen dår net sou en ding stun , en jå man ! dår las ik : ‘ <b>De</b> wereld wil bedrogen zijn . ’</em>
 * <em>um</em>
   * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1: <em>Unse meister segt , dat vake de geleyrde lüde öäver en klein woord , öäver en nüllige sake mekare wel drådnägelen , dat et når is , dat uw de håren der van te barge rysen , dat y der leyd <b>um</b> worden .</em>
@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>De</em> (<tt><a href="nds_lsdc-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.346377).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.319588).
 
 The 1st highest number of forms (1) was observed with the lemma “Amicorum”: <em>Amicorum</em>.
 

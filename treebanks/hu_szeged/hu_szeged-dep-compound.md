@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 1	"	"	PUNCT	_	_	5	punct	_	_
 2	6	6	NUM	_	Case=Nom|Number=Sing|NumType=Card	3	compound	_	_
 3	ezer	ezer	NUM	_	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	_
-4	rendőrre	rendőr	NOUN	_	Case=Sub|Number=Sing	5	obl	_	_
+4	rendőrre	rendőr	NOUN	_	Case=Sbl|Number=Sing	5	obl	_	_
 5	lenne	lesz	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	szükségünk	szükség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	5	nsubj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
@@ -81,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 7	tíz	tíz	NUM	_	Case=Nom|Number=Sing|NumType=Card	8	nummod	_	_
 8	éven	év	NOUN	_	Case=Sup|Number=Sing	11	obl	_	_
 9	belül	belül	ADP	_	_	8	case	_	_
-10	háromszorosára	háromszoros	ADJ	_	Case=Sub|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obl	_	_
+10	háromszorosára	háromszoros	ADJ	_	Case=Sbl|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obl	_	_
 11	nő	nő	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
 12	a	a	DET	_	Definite=Def|PronType=Art	17	det	_	_
 13	jelenlegi	jelenlegi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	17	amod:att	_	_

@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Fin`, `Inf`.
 
 5922 tokens (11%) have a non-empty value of `VerbForm`.
-984 types (36%) occur at least once with a non-empty value of `VerbForm`.
-785 lemmas (32%) occur at least once with a non-empty value of `VerbForm`.
+983 types (36%) occur at least once with a non-empty value of `VerbForm`.
+784 lemmas (32%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (5865; 11% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (55; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `VERB`
@@ -52,14 +52,14 @@ The most frequent other feature values with which `PRON` and `VerbForm` co-occur
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1068; 94%),
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (475; 96%),
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (470; 94%),
+<tt>VERB --[<tt><a href="cop_scriptorium-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1072; 94%),
+<tt>VERB --[<tt><a href="cop_scriptorium-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (478; 96%),
+<tt>VERB --[<tt><a href="cop_scriptorium-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (471; 94%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> VERB</tt> (390; 94%),
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-acl.html">acl</a></tt>]--> VERB</tt> (9; 90%),
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-obj.html">obj</a></tt>]--> VERB</tt> (4; 100%),
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (5; 83%),
+<tt>VERB --[<tt><a href="cop_scriptorium-dep-obj.html">obj</a></tt>]--> VERB</tt> (4; 80%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (1; 100%).
 

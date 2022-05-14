@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Angelika Peljak-Łapińska, Daria Petrova, Yana Shishkina.
 
 Repository: [UD_Belarusian-HSE](https://github.com/UniversalDependencies/UD_Belarusian-HSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbe_hse29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbe_hse210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -65,7 +65,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
 
 ## Features
 
-[Abbr](be_hse-feat-Abbr.html) – [Animacy](be_hse-feat-Animacy.html) – [Aspect](be_hse-feat-Aspect.html) – [Case](be_hse-feat-Case.html) – [Degree](be_hse-feat-Degree.html) – [Foreign](be_hse-feat-Foreign.html) – [Gender](be_hse-feat-Gender.html) – [Mood](be_hse-feat-Mood.html) – [Number](be_hse-feat-Number.html) – [NumType](be_hse-feat-NumType.html) – [Person](be_hse-feat-Person.html) – [Polarity](be_hse-feat-Polarity.html) – [Poss](be_hse-feat-Poss.html) – [PronType](be_hse-feat-PronType.html) – [Reflex](be_hse-feat-Reflex.html) – [Tense](be_hse-feat-Tense.html) – [Typo](be_hse-feat-Typo.html) – [Variant](be_hse-feat-Variant.html) – [VerbForm](be_hse-feat-VerbForm.html) – [Voice](be_hse-feat-Voice.html)
+[Abbr](be_hse-feat-Abbr.html) – [Animacy](be_hse-feat-Animacy.html) – [Aspect](be_hse-feat-Aspect.html) – [Case](be_hse-feat-Case.html) – [Degree](be_hse-feat-Degree.html) – [Foreign](be_hse-feat-Foreign.html) – [Gender](be_hse-feat-Gender.html) – [InflClass](be_hse-feat-InflClass.html) – [Mood](be_hse-feat-Mood.html) – [Number](be_hse-feat-Number.html) – [NumType](be_hse-feat-NumType.html) – [Person](be_hse-feat-Person.html) – [Polarity](be_hse-feat-Polarity.html) – [Poss](be_hse-feat-Poss.html) – [PronType](be_hse-feat-PronType.html) – [Reflex](be_hse-feat-Reflex.html) – [Tense](be_hse-feat-Tense.html) – [Typo](be_hse-feat-Typo.html) – [Variant](be_hse-feat-Variant.html) – [VerbForm](be_hse-feat-VerbForm.html) – [Voice](be_hse-feat-Voice.html)
 
 ## Relations
 
@@ -75,11 +75,11 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
 
 
 <ul>
-<li>This corpus contains 25231 sentences and 305099 tokens.</li>
+<li>This corpus contains 25231 sentences and 305100 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 61702 tokens (20%) that are not followed by a space.</li>
+<li>This corpus contains 61703 tokens (20%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -87,7 +87,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
 </ul>
 
 <ul>
-<li>This corpus contains 5180 types of words that contain both letters and punctuation. Examples: </a>, </strong>, па-беларуску, г., вул., </em>, б., в., ст., а., з-за, рэж., з'яўляецца, tut.by, сям’і, <a_href="tut.by">, м., <a_href="symbal.by">, symbal.by, #БНР100, д., бел-чырвона-белы, прэм’ера, <a_href=", tel:+, гг., Live», тыс., #тры_песні, 19-й, B:N, COVID-19, анлайн-канцэрт, :B:N:, <a_href="https://t.me/svabodabelarus">, @svabodabelarus, бел-, з’яўляецца, н., па-за, с., сп., інш., <a_href="https://t.me/artsiadziba">, @artsiadziba, бел-чырвона-белым, з’яўляюцца, э., Дар’я, арт.</li>
+<li>This corpus contains 5179 types of words that contain both letters and punctuation. Examples: </a>, </strong>, па-беларуску, г., вул., </em>, б., в., ст., а., з-за, рэж., з'яўляецца, tut.by, сям’і, <a_href="tut.by">, м., <a_href="symbal.by">, symbal.by, #БНР100, д., бел-чырвона-белы, прэм’ера, <a_href=", tel:+, гг., Live», тыс., #тры_песні, 19-й, B:N, COVID-19, анлайн-канцэрт, :B:N:, <a_href="https://t.me/svabodabelarus">, @svabodabelarus, бел-, з’яўляецца, н., па-за, с., сп., інш., <a_href="https://t.me/artsiadziba">, @artsiadziba, бел-чырвона-белым, з’яўляюцца, э., Дар’я, арт.</li>
 </ul>
 
 <ul>
@@ -133,7 +133,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
   <li>Conv
   <ul>
     <li>AUX: будучы</li>
-    <li>VERB: кажучы, пачынаючы, дзякуючы, гледзячы, мяркуючы, стаўшы, седзячы, адказваючы, адчуўшы, выступаючы</li>
+    <li>VERB: кажучы, пачынаючы, гледзячы, дзякуючы, мяркуючы, стаўшы, седзячы, адказваючы, адчуўшы, выступаючы</li>
   </ul>
   </li>
 </ul>
@@ -322,7 +322,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
       <li>AUX: буду</li>
       <li>DET: свой, гэты, сваю, свае, гэтую, наш, той, сваё, іншыя, гэтыя</li>
       <li>NOUN: дзень, час, год, гады, мову, людзей, раз, каранавірус, дні, тыдзень</li>
-      <li>NUM: некалькі, два, тры, адзін, колькі, пяць, чатыры, адну, дзьве, шэсьць</li>
+      <li>NUM: некалькі, два, тры, адзін, колькі, пяць, чатыры, адну, дзесяць, дзьве</li>
       <li>PRON: што, яго, гэта, іх, тое, яе, нас, вас, мяне, сябе</li>
       <li>PROPN: Беларусь, Курапаты, Лукашэнку, Менск, Ціханоўскую, Расею, Севярынца, Ціханоўскага, Сьвятлану, Паўла</li>
       <li>VERB: затрыманых, звязаныя, пастаўлены, прысвечаную, прысвечаны, дэмантаваныя, забытыя, забітага, зьвязаныя, прадугледжаную</li>
@@ -440,7 +440,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
     <ul>
       <li>ADJ: беларускай, новы, надзвычайных, беларускіх, беларускую, беларускі, беларуская, беларускія, беларускага, першы</li>
       <li>ADJ-Part: зарослымі</li>
-      <li>ADP: сьпераду, як</li>
+      <li>ADP: сьпераду, паўз, як</li>
       <li>ADV: як, яшчэ, тут, таксама, так, дзе, таму, ўжо, цяпер, ужо</li>
       <li>AUX: Будзь, Будзьце</li>
       <li>DET: самым, самых, самыя, самі, самае, сам, самы, самой, самую, гэтых</li>
@@ -504,7 +504,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
       <li>AUX-Fin: быў, была, было, былі, ёсць</li>
       <li>AUX-Inf: быць</li>
       <li>NOUN-Fin: падкастаў</li>
-      <li>VERB-Conv: кажучы, пачынаючы, дзякуючы, гледзячы, мяркуючы, седзячы, адказваючы, выступаючы, лічачы, маючы</li>
+      <li>VERB-Conv: кажучы, пачынаючы, гледзячы, дзякуючы, мяркуючы, седзячы, адказваючы, выступаючы, лічачы, маючы</li>
       <li>VERB-Fin: можа, жыве, мае, кажа, кажуць, могуць, адбываецца, далучайцеся, маюць, глядзі</li>
       <li>VERB-Inf: рабіць, слухаць, працаваць, размаўляць, глядзець, відаць, жыць, ведаць, падаць, пісаць</li>
       <li>VERB-Part: званага, жадаючы, званая, падазраваных, датаваны, званы, званых, Падазраваныя, жадаючыя, запрошаныя</li>
@@ -590,7 +590,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
       <li>AUX-Conv: будучы</li>
       <li>AUX-Fin: ёсць, буду, будзе, ёсьць, будзеце, будзем, будзьце, будуць</li>
       <li>VERB: можа, жыве, мае, кажа, ёсьць, кажуць, могуць, адбываецца, маюць, хоча</li>
-      <li>VERB-Conv: кажучы, пачынаючы, дзякуючы, гледзячы, мяркуючы, седзячы, адказваючы, выступаючы, лічачы, маючы</li>
+      <li>VERB-Conv: кажучы, пачынаючы, гледзячы, дзякуючы, мяркуючы, седзячы, адказваючы, выступаючы, лічачы, маючы</li>
       <li>VERB-Fin: можа, жыве, мае, кажа, ёсьць, кажуць, могуць, адбываецца, маюць, хоча</li>
       <li>VERB-Part: жадаючыя, званых, кіруючага, Аб’яднаўчы, Надыходзячы, ШАКУЮЧЫЯ, ахоўваемую, веруючы, выконваючага, выконваючы</li>
     </ul>
@@ -607,7 +607,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
       <li>AUX-Fin: будзе, быў, было, былі, была, будуць, будзем, ёсць, буду, будзеш</li>
       <li>AUX-Inf: быць</li>
       <li>NOUN-Fin: падкастаў</li>
-      <li>VERB-Conv: кажучы, пачынаючы, дзякуючы, гледзячы, мяркуючы, стаўшы, седзячы, адказваючы, адчуўшы, выступаючы</li>
+      <li>VERB-Conv: кажучы, пачынаючы, гледзячы, дзякуючы, мяркуючы, стаўшы, седзячы, адказваючы, адчуўшы, выступаючы</li>
       <li>VERB-Fin: можа, жыве, мае, затрымалі, сказаў, стала, кажа, пачалі, стаў, ёсьць</li>
       <li>VERB-Inf: падтрымаць, зрабіць, рабіць, паглядзець, слухаць, атрымаць, працаваць, размаўляць, глядзець, паслухаць</li>
       <li>VERB-Part: жадаючы, захварэлых, пацярпелых, жадаючыя, загінулых, кіруючага, Аб’яднаўчы, Адышоўшым, Выжыўшыя, Надыходзячы</li>
@@ -848,14 +848,27 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
 </ul>
 
 <ul>
+  <li><a>InflClass</a>
+    <ul>
+      <li>Ind
+        <ul>
+          <li>NOUN: Радыё, мэтро</li>
+          <li>PROPN: Алексіевіч, Дашук, Адамовіч, БелТА, Соўсь, Белавія, Рыё, Еўрарадыё, Чыкага, Яскевіч</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Typo</a>
     <ul>
       <li>Yes
         <ul>
           <li>ADJ: Галоўнае, Літаратуры, беларускай, жывы, навукова-практычным, паэтычны, цывльным</li>
-          <li>ADP: 3, сураць</li>
+          <li>ADP: 3, пад, сураць</li>
           <li>DET: Усё, адноў, самае</li>
-          <li>NOUN: 100-годзя, АПАМ, Савет, артыкул, блогерка, вільгаці, гады, газе, газэты, групе</li>
+          <li>NOUN: 100-годзя, АПАМ, Пача-, Савет, артыкул, блогерка, вайне, валанцёрах, вільгаці, гады</li>
           <li>PRON: мянелі</li>
           <li>PROPN: Беларусь, Аляскандра, ЛУКАЎЭНКУ, Маскім, Мекею, Севырынца, Суслопарвў, Сьвятланы, Ціханоўкая, Чэрачаньнь</li>
           <li>VERB-Fin: абавязкаў, ладзіўся, папабег, ўварваіся, ўздельнічаў</li>
@@ -896,7 +909,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (13)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(па) (1)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Gen (385)</li>
+      <li>VERB-Fin--NOUN-Gen (389)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ад) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(блізу) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(да) (5)</li>
@@ -905,9 +918,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(па) (2)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (7499)</li>
+      <li>VERB-Fin--NOUN-Nom (7501)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(а) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(на) (3)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(на) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(па) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(пры) (1)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
@@ -959,7 +972,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(праз) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(у) (7)</li>
       <li>VERB-Fin--NOUN-Dat (16)</li>
-      <li>VERB-Fin--NOUN-Gen (648)</li>
+      <li>VERB-Fin--NOUN-Gen (650)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ад) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(да) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(за) (10)</li>
@@ -973,14 +986,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Loc-ADP(па) (1)</li>
       <li>VERB-Fin--NOUN-Nom (9)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (1012)</li>
+      <li>VERB-Fin--PRON-Acc (1013)</li>
       <li>VERB-Fin--PRON-Acc-ADP(на) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(пра) (1)</li>
       <li>VERB-Fin--PRON-Dat (5)</li>
       <li>VERB-Fin--PRON-Gen (128)</li>
       <li>VERB-Fin--PRON-Ins (24)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Acc (1775)</li>
+      <li>VERB-Inf--NOUN-Acc (1776)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(да) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(на) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(у) (2)</li>
@@ -1017,17 +1030,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Ins (1)</li>
       <li>VERB-Fin--NOUN (5)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Dat (444)</li>
+      <li>VERB-Fin--NOUN-Dat (446)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(пра) (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Ins (267)</li>
-      <li>VERB-Fin--PRON-Dat (448)</li>
+      <li>VERB-Fin--PRON-Dat (453)</li>
       <li>VERB-Fin--PRON-Dat-ADP(дзякуючы) (4)</li>
       <li>VERB-Fin--PRON-Dat-ADP(к) (1)</li>
       <li>VERB-Fin--PRON-Dat-ADP(па) (1)</li>
-      <li>VERB-Fin--PRON-Ins (47)</li>
+      <li>VERB-Fin--PRON-Ins (48)</li>
       <li>VERB-Fin--PRON-Loc (1)</li>
-      <li>VERB-Inf--NOUN-Dat (100)</li>
+      <li>VERB-Inf--NOUN-Dat (102)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(па) (1)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Ins (77)</li>
@@ -1035,7 +1048,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat (83)</li>
       <li>VERB-Inf--PRON-Ins (7)</li>
       <li>VERB-Inf--PRON-Loc (1)</li>
-      <li>VERB-Part--NOUN-Dat (77)</li>
+      <li>VERB-Part--NOUN-Dat (79)</li>
       <li>VERB-Part--NOUN-Dat-ADP(па) (1)</li>
       <li>VERB-Part--NOUN-Ins (96)</li>
       <li>VERB-Part--PRON-Dat (17)</li>

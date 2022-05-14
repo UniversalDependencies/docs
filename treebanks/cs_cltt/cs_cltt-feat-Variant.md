@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
-837 tokens (2%) have a non-empty value of `Variant`.
-155 types (3%) occur at least once with a non-empty value of `Variant`.
-103 lemmas (4%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (474; 1% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (363; 1% instances).
+841 tokens (2%) have a non-empty value of `Variant`.
+158 types (3%) occur at least once with a non-empty value of `Variant`.
+104 lemmas (4%) occur at least once with a non-empty value of `Variant`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (474; 1% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (363; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (4; 0% instances).
 
 ### `PRON`
 
@@ -35,6 +35,16 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 * `Short` (363; 100% of non-empty `Variant`): <em>povinny, povinna, stanoveno, sestavena, možno, zahrnuty, obchodovány, uvedeny, zavedena, oprávněn</em>
 
 `Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (101) occur only with one value of `Variant`.
+
+### `DET`
+
+4 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Variant`.
+
+The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (4; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 75%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%).
+
+`DET` tokens may have the following values of `Variant`:
+
+* `Short` (4; 100% of non-empty `Variant`): <em>sama, samo, samy</em>
 
 ## Relations with Agreement in `Variant`
 

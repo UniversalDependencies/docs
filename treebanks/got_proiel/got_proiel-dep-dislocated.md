@@ -22,16 +22,16 @@ The following 27 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 dislocated	color:blue
-1	unte	unte	ADV	Df	_	5	discourse	_	ref=ROM_7.15
-2	ni	ni	ADV	Df	Polarity=Neg	5	advmod	_	ref=ROM_7.15
-3	þatei	saei	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obj	_	ref=ROM_7.15
-4	wiljau	wiljan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	obj	_	ref=ROM_7.15
-5	tauja	taujan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=ROM_7.15
-6	ak	ak	CCONJ	C-	_	5	cc	_	ref=ROM_7.15
-7	þatei	saei	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	8	obj	_	ref=ROM_7.15
-8	fija	fijan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	dislocated	_	ref=ROM_7.15
-9	þata	sa	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	ref=ROM_7.15
-10	tauja	taujan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=ROM_7.15
+1	unte	unte	ADV	Df	_	5	discourse	_	Ref=ROM_7.15
+2	ni	ni	ADV	Df	Polarity=Neg	5	advmod	_	Ref=ROM_7.15
+3	þatei	saei	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obj	_	Ref=ROM_7.15
+4	wiljau	wiljan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	obj	_	Ref=ROM_7.15
+5	tauja	taujan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=ROM_7.15
+6	ak	ak	CCONJ	C-	_	5	cc	_	Ref=ROM_7.15
+7	þatei	saei	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	8	obj	_	Ref=ROM_7.15
+8	fija	fijan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	dislocated	_	Ref=ROM_7.15
+9	þata	sa	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	Ref=ROM_7.15
+10	tauja	taujan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	Ref=ROM_7.15
 
 ~~~
 
@@ -42,13 +42,13 @@ The following 27 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 dislocated	color:blue
-1	iþ	iþ	CCONJ	C-	_	7	cc	_	ref=LUKE_4.30
-2	is	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	ref=LUKE_4.30
-3	þairhleiþands	þairh-leiþan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	ref=LUKE_4.30
-4	þairh	þairh	ADP	R-	_	6	case	_	ref=LUKE_4.30
-5	midjans	midjis*	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	3	dislocated	_	ref=LUKE_4.30
-6	ins	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obl	_	ref=LUKE_4.30
-7	iddja	gaggan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_4.30
+1	iþ	iþ	CCONJ	C-	_	7	cc	_	Ref=LUKE_4.30
+2	is	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Ref=LUKE_4.30
+3	þairhleiþands	þairh-leiþan	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	Ref=LUKE_4.30
+4	þairh	þairh	ADP	R-	_	6	case	_	Ref=LUKE_4.30
+5	midjans	midjis*	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	3	dislocated	_	Ref=LUKE_4.30
+6	ins	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obl	_	Ref=LUKE_4.30
+7	iddja	gaggan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_4.30
 
 ~~~
 
@@ -59,15 +59,15 @@ The following 27 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 dislocated	color:blue
-1	jah	jah	CCONJ	C-	_	6	cc	_	ref=JOHN_13.27
-2	afar	afar	ADP	R-	_	4	case	_	ref=JOHN_13.27
-3	þamma	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	4	det	_	ref=JOHN_13.27
-4	hlaiba	hlaifs	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	dislocated	_	ref=JOHN_13.27
-5	þan	þan	ADV	Df	_	6	advmod	_	ref=JOHN_13.27
-6	galaiþ	ga-leiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_13.27
-7	in	in	ADP	R-	_	8	case	_	ref=JOHN_13.27
-8	jainana	jains	ADJ	Pd	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	ref=JOHN_13.27
-9	Satana	Satana	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=JOHN_13.27
+1	jah	jah	CCONJ	C-	_	6	cc	_	Ref=JOHN_13.27
+2	afar	afar	ADP	R-	_	4	case	_	Ref=JOHN_13.27
+3	þamma	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	4	det	_	Ref=JOHN_13.27
+4	hlaiba	hlaifs	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	dislocated	_	Ref=JOHN_13.27
+5	þan	þan	ADV	Df	_	6	advmod	_	Ref=JOHN_13.27
+6	galaiþ	ga-leiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=JOHN_13.27
+7	in	in	ADP	R-	_	8	case	_	Ref=JOHN_13.27
+8	jainana	jains	ADJ	Pd	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Ref=JOHN_13.27
+9	Satana	Satana	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=JOHN_13.27
 
 ~~~
 

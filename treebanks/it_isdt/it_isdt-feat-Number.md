@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-157094 tokens (53%) have a non-empty value of `Number`.
+157136 tokens (53%) have a non-empty value of `Number`.
 19377 types (70%) occur at least once with a non-empty value of `Number`.
-11013 lemmas (59%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (54895; 18% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (47994; 16% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (19427; 7% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (18875; 6% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (11025; 4% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (4854; 2% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+11014 lemmas (59%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (54895; 18% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (47995; 16% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (19427; 7% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (18875; 6% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (11025; 4% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (4895; 2% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -33,21 +33,21 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-47994 <tt><a href="it_isdt-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+47995 <tt><a href="it_isdt-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (42688; 89%), <tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (38067; 79%), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (24386; 51%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (42689; 89%), <tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (38068; 79%), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (24370; 51%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (12667; 26% of non-empty `Number`): <em>i, le, gli, tutti, suoi, alcuni, quanti, sue, questi, queste</em>
+* `Plur` (12668; 26% of non-empty `Number`): <em>i, le, gli, tutti, suoi, alcuni, quanti, sue, questi, queste</em>
 * `Sing` (35327; 74% of non-empty `Number`): <em>il, la, l', un, una, lo, quale, sua, suo, un'</em>
 * `EMPTY` (647): <em>loro, che, cui, più, altrui, the, l’, A, Every, Il</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>L’</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>il, lo, l’, l', i, i1, lu</em></td><td><em>i, gli, il</em></td></tr>
-  <tr><td><tt><tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la, l’, l', le, il</em></td><td><em>le, l’</em></td></tr>
+  <tr><td><tt><tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>il, lo, l’, i, i1, lu</em></td><td><em>i, gli, il</em></td></tr>
+  <tr><td><tt><tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la, l’, le, L', il</em></td><td><em>le, l’</em></td></tr>
   <tr><td><tt><tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>l', l’</em></td><td><em>l'</em></td></tr>
   <tr><td><tt><tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>il</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la</em></td><td></td></tr>
@@ -143,22 +143,21 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-4854 <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> tokens (43% of all `PRON` tokens) have a non-empty value of `Number`.
+4895 <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> tokens (43% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="it_isdt-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (3456; 71%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2758; 57%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="it_isdt-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (3461; 71%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2757; 56%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (1331; 27% of non-empty `Number`): <em>ci, li, noi, tutti, altri, loro, quelli, quelle, quali, vi</em>
-* `Sing` (3523; 73% of non-empty `Number`): <em>lo, qual, quanto, mi, quale, quello, uno, la, questo, cosa</em>
-* `EMPTY` (6442): <em>si, che, chi, cui, ne, ci, c', se, le, vi</em>
+* `Plur` (1349; 28% of non-empty `Number`): <em>ci, li, noi, tutti, altri, loro, quelli, quelle, quali, le</em>
+* `Sing` (3546; 72% of non-empty `Number`): <em>lo, qual, quanto, mi, quale, quello, uno, la, questo, cosa</em>
+* `EMPTY` (6400): <em>si, che, chi, cui, ne, ci, c', se, vi, s'</em>
 
 <table>
   <tr><th>Paradigm <i>lo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>lo, gli</em></td><td><em>li</em></td></tr>
+  <tr><td><tt><tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>lo, gli</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>lo</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>la</em></td><td><em>le</em></td></tr>
-  <tr><td><tt><tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>le</em></td></tr>
+  <tr><td><tt><tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>La</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>l', gli</em></td><td><em>gli</em></td></tr>
 </table>
 
@@ -184,7 +183,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `X` tokens may have the following values of `Number`:
 
 * `Sing` (2; 100% of non-empty `Number`): <em>cultural, state</em>
-* `EMPTY` (289): <em>a, b, de, Illusions, perdues, la, ad, c, f, home</em>
+* `EMPTY` (290): <em>a, b, de, Illusions, perdues, la, ad, c, f, home</em>
 
 ### `ADV`
 
@@ -204,12 +203,12 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (1; 100% of non-empty `Number`): <em>hye</em>
-* `EMPTY` (14770): <em>Italia, Shakespeare, Balzac, Europa, Roma, San, Stati, Uniti, Marco, Unione</em>
+* `EMPTY` (14769): <em>Italia, Shakespeare, Balzac, Europa, Roma, San, Stati, Uniti, Marco, Unione</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="it_isdt-dep-det.html">det</a></tt>]--> DET</tt> (37649; 92%),
+<tt>NOUN --[<tt><a href="it_isdt-dep-det.html">det</a></tt>]--> DET</tt> (37650; 92%),
 <tt>NOUN --[<tt><a href="it_isdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14379; 90%),
 <tt>NOUN --[<tt><a href="it_isdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8467; 52%),
 <tt>VERB --[<tt><a href="it_isdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4381; 77%),

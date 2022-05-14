@@ -64,7 +64,7 @@ The most frequent other feature values with which `AUX` and `Clitic` co-occurred
 
 47 <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (47; 100%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (45; 96%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 94%), <tt><a href="fi_ood-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (43; 91%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (43; 91%), <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (42; 89%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (41; 87%), <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (36; 77%).
+The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (47; 100%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (45; 96%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 94%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (43; 91%), <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (42; 89%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (41; 87%), <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (36; 77%).
 
 `VERB` tokens may have the following values of `Clitic`:
 

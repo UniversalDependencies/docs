@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_valico-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 5.000000 (the average of all parts of speech is 1.389423).
+The form / lemma ratio of `X` is 5.000000 (the average of all parts of speech is 1.389210).
 
 The 1st highest number of forms (5) was observed with the lemma “_”: <em>ball, che, chè, si, ta</em>.
 
@@ -41,7 +41,7 @@ The 1st highest number of forms (5) was observed with the lemma “_”: <em>bal
 
 `X` nodes are attached to their parents using 1 different relations: <tt><a href="it_valico-dep-goeswith.html">goeswith</a></tt> (6; 100% instances)
 
-Parents of `X` nodes belong to 4 different parts of speech: <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (2; 33% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (2; 33% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (1; 17% instances)
+Parents of `X` nodes belong to 4 different parts of speech: <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (3; 50% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (1; 17% instances)
 
 6 (100%) `X` nodes are leaves.
 

@@ -6,23 +6,23 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `X`
 
-There are 26 `X` lemmas (1%), 61 `X` types (1%) and 74 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 12 in number of lemmas, 10 in number of types and 15 in number of tokens.
+There are 28 `X` lemmas (1%), 64 `X` types (1%) and 77 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 11 in number of lemmas, 10 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>_, </i>, <i>, </em>, <em>, etc., {3_reg_:_10.}, {4_reg_:_11.}, {Ammian_:_1_.29._Sozom_:_1._6,_cap._35._Socrat_:_1._4,_cap._15.}, {Ibid_:_4.}</em>
 
 The 10 most frequent `X` types:  <em>л., </i>, <i>, 1, 10, 11, 12, 13, 14, 15</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 47, <tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 48, <tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>л.</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 12, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 1), <em>1</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 4, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>10</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 7, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>11</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 3, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>12</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>13</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>14</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>15</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 3, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>3</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 15, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>6</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 5, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>л.</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 12, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 1), <em>1</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 4, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>10</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 7, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>11</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 3, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>12</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>13</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>14</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>15</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 3, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>3</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 15, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>6</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 5, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1)
 
 
 * <em>л.</em>
   * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 12: <em>{ <b>л.</b> 3 } Написано в доклад .</em>
   * <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 1: <em>На <b>л.</b> 1 об. : Государю царю і великому князю Михаилу Ѳедровичю всеа Русии .</em>
 * <em>1</em>
-  * <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 6: <em>160-го маия в <b>1</b> день .</em>
+  * <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 7: <em>160-го маия в <b>1</b> день .</em>
   * <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 4: <em>ГЛАВА <b>1</b> .</em>
   * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>{ л. <b>1</b> об. } [ Помета ] : 148 го[да] ноября в 28 де[нь] государь пожаловал , велел о том доложить собя государя .</em>
 * <em>10</em>
@@ -58,9 +58,9 @@ The 10 most frequent ambiguous types:  <em>л.</em> (<tt><a href="orv_rnc-pos-X.
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.346154 (the average of all parts of speech is 1.971070).
+The form / lemma ratio of `X` is 2.285714 (the average of all parts of speech is 1.976963).
 
-The 1st highest number of forms (36) was observed with the lemma “_”: <em>1, 10, 11, 12, 13, 14, 15, 3, 6, 7, 8, 9, {л._1_об.}, {л._254_об.}, {л._255_об.}, {л._255}, {л._256}, {л._300_об.}, {л._300}, {л._301_об.}, {л._302_об.}, {л._302}, {л._303}, {л._304_об.}, {л._304}, {л._305}, {л._306_об.}, {л._3}, {л._41}, {л._4}, {л._5}, {л._602_об.}, {л._602}, Помета, л., об.</em>.
+The 1st highest number of forms (37) was observed with the lemma “_”: <em>1, 10, 11, 12, 13, 14, 15, 3, 6, 7, 8, 9, {л._1_об.}, {л._254_об.}, {л._255_об.}, {л._255}, {л._256}, {л._300_об.}, {л._300}, {л._301_об.}, {л._302_об.}, {л._302}, {л._303}, {л._304_об.}, {л._304}, {л._305}, {л._306_об.}, {л._3}, {л._41}, {л._4}, {л._5}, {л._602_об.}, {л._602}, Помета, ж, л., об.</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “</em>”: <em></em></em>.
 
@@ -71,23 +71,23 @@ The 3rd highest number of forms (1) was observed with the lemma “</i>”: <em>
 `X` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (73 tokens).
+The most frequent feature combination is `_` (76 tokens).
 Examples: <em>л., </i>, <i>, 1, 10, 11, 12, 13, 14, 15</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 4 different relations: <tt><a href="orv_rnc-dep-dep.html">dep</a></tt> (58; 78% instances), <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt> (14; 19% instances), <tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="orv_rnc-dep-root.html">root</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 5 different relations: <tt><a href="orv_rnc-dep-dep.html">dep</a></tt> (60; 78% instances), <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt> (14; 18% instances), <tt><a href="orv_rnc-dep-goeswith.html">goeswith</a></tt> (1; 1% instances), <tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="orv_rnc-dep-root.html">root</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 9 different parts of speech: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (27; 36% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (15; 20% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (14; 19% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (4; 5% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (29; 38% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (15; 19% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (14; 18% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 6% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (4; 5% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances),  (1; 1% instances)
 
-60 (81%) `X` nodes are leaves.
+63 (82%) `X` nodes are leaves.
 
 1 (1%) `X` nodes have one child.
 
 0 (0%) `X` nodes have two children.
 
-13 (18%) `X` nodes have three or more children.
+13 (17%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 6.
 

@@ -11,7 +11,7 @@ It occurs with 4 different values: `Dem`, `Ind`, `Int`, `Prs`.
 
 148130 tokens (15%) have a non-empty value of `PronType`.
 621 types (1%) occur at least once with a non-empty value of `PronType`.
-229 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+228 lemmas (1%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (114890; 12% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (30412; 3% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (871; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (823; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (261; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (223; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (203; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (163; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (153; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (55; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (44; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `PRON`
@@ -102,7 +102,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Ind` (225; 26% of non-empty `PronType`): <em>allir, allt, nokkuð, einn, hver, öll, alls, báðir, enginn, hvert</em>
 * `Int` (121; 14% of non-empty `PronType`): <em>hvað, hvert, hvers</em>
 * `Prs` (331; 38% of non-empty `PronType`): <em>þá, því, sér, mitt, það, þeir, þú, hann, þess, fyr</em>
-* `EMPTY` (78154): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
+* `EMPTY` (78152): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
 
 <table>
   <tr><th>Paradigm <i>þá</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
@@ -125,7 +125,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 * `Ind` (78; 9% of non-empty `PronType`): <em>annar, annan, annað, annars, einn, eins, öðru, vorri, aðra, sama</em>
 * `Int` (1; 0% of non-empty `PronType`): <em>hver</em>
 * `Prs` (34; 4% of non-empty `PronType`): <em>mitt, H., Tóm, almáttkan, elskuligan, kunnigt, minna, sitt, sæt, sér</em>
-* `EMPTY` (36332): <em>gott, góða, satt, góður, stór, fyrsta, góð, fyrstu, góðum, heilaga</em>
+* `EMPTY` (36341): <em>gott, góða, satt, góður, stór, fyrsta, góð, fyrstu, góðum, heilaga</em>
 
 <table>
   <tr><th>Paradigm <i>samur</i></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
@@ -168,7 +168,7 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 * `Ind` (52; 20% of non-empty `PronType`): <em>sumar, hver, vor, öllum, Engum, annan, einhverju, ekkert, engi, foldu</em>
 * `Int` (3; 1% of non-empty `PronType`): <em>hver, hold</em>
 * `Prs` (192; 74% of non-empty `PronType`): <em>sinn, sinni, Þú, ég, hann, mér, sér, eg, vorra, hún</em>
-* `EMPTY` (145690): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145686): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>sumar</i></th><th><tt>Prs</tt></th><th><tt>Ind</tt></th></tr>
@@ -192,7 +192,7 @@ The most frequent other feature values with which `PROPN` and `PronType` co-occu
 * `Dem` (20; 9% of non-empty `PronType`): <em>Þetta, Sjálfur, Sá, Sú, Þeir</em>
 * `Ind` (11; 5% of non-empty `PronType`): <em>Enginn, Aðra, Aðrir, Bítlana, Hellismenn, Petrum, Reyðarmúla, Sumar</em>
 * `Prs` (192; 86% of non-empty `PronType`): <em>Hann, Eg, Þú, Ég, Hans, Þér, Vér, Hún, Helga, Mér</em>
-* `EMPTY` (41184): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41181): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 <table>
   <tr><th>Paradigm <i>sá</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>

@@ -44,7 +44,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 11800 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10631; 90%), <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9737; 83%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8721; 74%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7864; 67%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6805; 58%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (6197; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10631; 90%), <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9737; 83%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8720; 74%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7864; 67%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6805; 58%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (6197; 53%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Int,Rel` (1058; 82% of non-empty `PronType`): <em>când, cum, unde, cât, precum, oare, ce, cân'</em>
 * `Neg` (237; 18% of non-empty `PronType`): <em>nici, niciodată, nicăieri, nicicând</em>
-* `EMPTY` (8225): <em>mai, ca, iar, astfel, decât, numai, mult, înainte, chiar, puțin</em>
+* `EMPTY` (8224): <em>mai, ca, iar, astfel, decât, numai, mult, înainte, chiar, puțin</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `PronType`.
 

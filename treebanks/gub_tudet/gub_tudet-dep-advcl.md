@@ -8,70 +8,61 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (1%) are attached to their parents as `advcl`.
+121 nodes (1%) are attached to their parents as `advcl`.
 
-7 instances of `advcl` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.45454545454545.
+87 instances of `advcl` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.08264462809917.
 
-The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (7; 64% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (2; 18% instances), <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (1; 9% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (1; 9% instances).
+The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (80; 66% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (25; 21% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (8; 7% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (8; 7% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 advcl	color:blue
-1	Ama	aman	NOUN	n	_	2	nsubj	_	_
-2	kɨr	kɨr	VERB	vi	_	5	advcl	_	_
-3	mehe	mehe	ADV	adv	_	2	mark	_	_
-4	,	,	PUNCT	punct	_	5	punct	_	_
-5	heta	eta	VERB	vi	Person=3	0	root	_	_
-6	toʔotoʔom	toʔom	NOUN	n	Red=Mo	5	nsubj	_	_
-7	teteaʔu	tete	ADV	adv	_	6	advmod	_	_
-8	aʔe	aʔe	PRON	pro	PronType=Dem	5	obl	_	_
-9	pe	pe	ADP	posp	Case=Loc	8	case	_	_
-10	,	,	PUNCT	punct	_	11	punct	_	_
-11	ʔɨ	ʔɨ	NOUN	n	_	8	appos	_	_
-12	pe	pe	ADP	posp	Case=Loc	11	case	_	_
-13	.	.	PUNCT	punct	_	11	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 advcl	color:blue
+1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+2	ʔɨ	ʔɨ	NOUN	n	_	1	obl	_	_
+3	pupe	pupe	ADP	posp	Rel=Cont	2	case	_	_
+4	ipiraʔi	pira	NOUN	n	Dimin=Yes|Rel=NCont	5	obl	_	_
+5	pɨhɨkpa	pɨhɨk	VERB	vt	VerbForm=Ger	1	advcl	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
+# visual-style 5 8 advcl	color:blue
+1	Epɨhɨk	pɨhɨk	VERB	vt	Mood=Imp	5	ccomp	_	_
+2	mukaw	mukaw	NOUN	n	_	1	obj	_	_
+3	tɨ	tɨ	PART	pcl	_	1	discourse	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	iʔi	ʔi	NOUN	n	Rel=NCont	0	root	_	_
+6	upe	u	NOUN	n	Case=Dat|Rel=Corf	5	obl	_	_
+7	,	,	PUNCT	punct	_	8	punct	_	_
+8	hewowopa	ewowo	VERB	vi	Rel=NCont|VerbForm=Ger	5	advcl	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 5 advcl	color:blue
-1	Ipiraʔi	pira	NOUN	n	Dimin=Yes|Rel=Abs	2	nsubj	_	_
+# visual-style 2 4 advcl	color:blue
+1	Ipiraʔi	pira	NOUN	n	Dimin=Yes|Rel=Abs	2	obl:subj	_	_
 2	ikatu	katu	NOUN	n	Rel=NCont	0	root	_	_
-3	arakur	arakur	NOUN	n	_	2	obl	_	_
-4	pe	pe	ADP	posp	Case=Dat	3	case	_	_
-5	iʔu	uʔu	VERB	vt	Person=3	2	advcl	_	_
-6	mehe	mehe	ADV	adv	_	5	mark	_	_
-7	.	.	PUNCT	punct	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 advcl	color:blue
-1	Aze	aze	SCONJ	sc	_	3	mark	_	_
-2	zekaipo	kwehe	ADV	adv	Evident=Nfh	3	advmod	_	_
-3	uixe	ixe	VERB	v	Person=3	6	advcl	_	_
-4	oho	ho	VERB	v	Person=3	3	dep	_	_
-5	uhem	hem	VERB	v	Person=3	0	root	_	_
-6	zeiakpo	kwehe	ADV	adv	Evident=Nfh	5	advmod	_	_
-7	amo	amo	DET	dem	PronType=Ind	8	det	_	_
-8	taw	taw	NOUN	n	_	5	obl	_	_
-9	pe	pe	ADP	posp	Rel=Cont	8	case	_	_
-10	.	.	PUNCT	punct	_	5	punct	_	_
+3	arakurpe	arakur	NOUN	n	Case=Dat	2	obl	_	_
+4	iʔu	uʔu	NOUN	n	Person[subj]=3	2	advcl	_	_
+5	mehe	mehe	SCONJ	sc	_	4	mark	_	_
+6	.	.	PUNCT	punct	_	2	punct	_	_
 
 ~~~
 

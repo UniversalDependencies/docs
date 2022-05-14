@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Bulgarian-BTB: POS Tags: `ADP`
 
-There are 65 `ADP` lemmas (0%), 68 `ADP` types (0%) and 22097 `ADP` tokens (14%).
+There are 64 `ADP` lemmas (0%), 67 `ADP` types (0%) and 22096 `ADP` tokens (14%).
 Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>на, в, за, от, с, по, до, след, като, през</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>като</em> (<tt><a href="bg_btb-po
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.046154 (the average of all parts of speech is 1.727371).
+The form / lemma ratio of `ADP` is 1.046875 (the average of all parts of speech is 1.727418).
 
 The 1st highest number of forms (2) was observed with the lemma “в”: <em>/, в</em>.
 
@@ -69,17 +69,17 @@ The 3rd highest number of forms (2) was observed with the lemma “срещу”
 `ADP` occurs with 3 feature-value pairs: `Definite=Ind`, `Gender=Neut`, `Number=Sing`
 
 `ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (22096 tokens).
+The most frequent feature combination is `_` (22095 tokens).
 Examples: <em>на, в, за, от, с, по, до, след, като, през</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 9 different relations: <tt><a href="bg_btb-dep-case.html">case</a></tt> (21618; 98% instances), <tt><a href="bg_btb-dep-mark.html">mark</a></tt> (260; 1% instances), <tt><a href="bg_btb-dep-fixed.html">fixed</a></tt> (159; 1% instances), <tt><a href="bg_btb-dep-obl.html">obl</a></tt> (27; 0% instances), <tt><a href="bg_btb-dep-nmod.html">nmod</a></tt> (17; 0% instances), <tt><a href="bg_btb-dep-iobj.html">iobj</a></tt> (7; 0% instances), <tt><a href="bg_btb-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="bg_btb-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 9 different relations: <tt><a href="bg_btb-dep-case.html">case</a></tt> (21617; 98% instances), <tt><a href="bg_btb-dep-mark.html">mark</a></tt> (260; 1% instances), <tt><a href="bg_btb-dep-fixed.html">fixed</a></tt> (159; 1% instances), <tt><a href="bg_btb-dep-obl.html">obl</a></tt> (27; 0% instances), <tt><a href="bg_btb-dep-nmod.html">nmod</a></tt> (17; 0% instances), <tt><a href="bg_btb-dep-iobj.html">iobj</a></tt> (7; 0% instances), <tt><a href="bg_btb-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="bg_btb-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (17453; 79% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (2554; 12% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (948; 4% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (407; 2% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (281; 1% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (161; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (154; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (93; 0% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (43; 0% instances),  (2; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (17452; 79% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (2554; 12% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (948; 4% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (407; 2% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (281; 1% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (161; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (154; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (93; 0% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (43; 0% instances),  (2; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-21673 (98%) `ADP` nodes are leaves.
+21672 (98%) `ADP` nodes are leaves.
 
 329 (1%) `ADP` nodes have one child.
 

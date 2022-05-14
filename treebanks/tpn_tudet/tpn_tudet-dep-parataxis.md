@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (2%) are attached to their parents as `parataxis`.
+176 nodes (4%) are attached to their parents as `parataxis`.
 
-32 instances of `parataxis` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.3030303030303.
+173 instances of `parataxis` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.88636363636364.
 
-The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (16; 48% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (10; 30% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (4; 12% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (81; 46% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (37; 21% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (28; 16% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (22; 13% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="tpn_tudet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tpn_tudet-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,11 +24,11 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 5 8 parataxis	color:blue
 1	Takwara	_	NOUN	n	Case=Ref	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	oendɨpɨãeʔɨjβo	endɨpɨã	ADV	adv	_	5	advmod	_	_
-4	soβaké	oβaké	ADP	posp	Rel=NCont	3	case	_	_
+3	oenɨpɨãeʔɨjβo	enɨpɨã	ADV	adv	_	5	advmod	_	_
+4	soβake	oβake	ADP	posp	Rel=NCont	3	case	_	_
 5	omemwãnamo	_	VERB	v	Person=3|VerbForm=Ger	1	advcl	_	_
 6	,	,	PUNCT	punct	_	5	punct	_	_
-7	imouβiʃáβiʃaβa	mouβiʃáβ	NOUN	n	Rel=NCont	8	obj	_	_
+7	imouβiʃaβiʃaβa	mouβiʃaβ	NOUN	n	Rel=NCont	8	obj	_	_
 8	aʔupa	aʔuβ	VERB	v	VerbForm=Ger	5	parataxis	_	_
 
 ~~~
@@ -41,30 +41,33 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 8 parataxis	color:blue
 1	Ã	ã	PART	pcl	_	2	discourse	_	_
-2	tekó	ekó	NOUN	n	Rel=Hum	0	root	_	_
+2	teko	eko	NOUN	n	Rel=Hum	0	root	_	_
 3	aʔereme	aʔereme	ADV	adv	_	2	advmod	_	_
 4	moreroka	erok	NOUN	n	Case=Ref|Voice=Cau	2	xcomp	_	_
 5	kwe	kwe	DET	dem	_	7	nmod	_	_
-6	βɨá	βɨá	PART	_	_	8	nsubj	_	_
+6	βɨa	βɨa	PART	_	_	8	nsubj	_	_
 7	Iesus	Iesus	PROPN	propn	_	8	obj	_	_
-8	nongi	nong	NOUN	n	OblTop=Yes	2	parataxis	_	_
+8	nongi	nong	NOUN	n	NonFoc=Yes	2	parataxis	_	_
 9	seramo	er	NOUN	n	Case=Tra|Rel=NCont	8	obl	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 4 parataxis	color:blue
-1	Niapɨsɨki	apɨsɨk	NOUN	n	Polarity=Neg|Rel=NCont	0	root	_	_
-2	ʃwémo	ʃwe	PART	pcl	Int=Yes|Mood=Cnd|Polarity=Neg	1	dep	_	_
-3	,	,	PUNCT	punct	_	1	punct	_	_
-4	omanõmo	manõ	VERB	V	Person=3|VerbForm=Ger	1	parataxis	_	_
-5	tiruã	tiruã	ADV	adv	_	4	discourse	_	_
-6	seroβjámo	eroβjár	NOUN	n	Rel=NCont	4	xcomp	_	_
+# visual-style 1 9 parataxis	color:blue
+1	Osoβasɨβ	oβasɨ	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
+2	aotinga	aotiŋ	NOUN	n	Case=Ref	1	obl	_	_
+3	pupe	pupe	ADP	posp	Rel=Cont	2	case	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	aʔe	aʔe	DET	dem	_	9	obl	_	_
+6	rese	ese	ADP	posp	Rel=Cont	5	case	_	_
+7	soβa	oβa	NOUN	n	Case=Ref|Rel=NCont	8	nmod	_	_
+8	raʔangaβa	aʔaŋ	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Cont	9	nsubj	_	_
+9	jari	jar	NOUN	n	Rel=Cont	1	parataxis	_	_
 
 ~~~
 

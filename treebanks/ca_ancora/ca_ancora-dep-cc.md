@@ -22,8 +22,8 @@ The following 49 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 8 cc	color:blue
-1	Aquesta	aquest	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	2	det	2:det	_
-2	quota	quota	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nsubj	5:nsubj	ClusterId=CESS-CAT-A-20000427-7684-c1|ClusterType=Gen|MentionSpan=1-2|MentionMisc=CorefType:ident
+1	Aquesta	aquest	DET	dd0fs0	Gender=Fem|Number=Sing|PronType=Dem	2	det	2:det	Entity=(CESSCATA200004277684c1--2-CorefType:ident,gstype:gen
+2	quota	quota	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nsubj	5:nsubj	Entity=CESSCATA200004277684c1)
 3	es	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	obj	5:obj	_
 4	podia	poder	AUX	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	5:aux	_
 5	percebre	percebre	VERB	vmn0000	VerbForm=Inf	0	root	0:root	_
@@ -46,7 +46,7 @@ The following 49 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 2 1 cc	color:blue
 1	I	i	CCONJ	cc	_	2	cc	2:cc	_
 2	controlar	controlar	VERB	vmn0000	VerbForm=Inf	0	root	0:root	_
-3	les	ell	PRON	pp3fpa00	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	obj	2:obj	ClusterId=CESS-CAT-A-20010315-27617-c19|ClusterType=Gen|MentionSpan=3|MentionMisc=CorefType:ident
+3	les	ell	PRON	pp3fpa00	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	obj	2:obj	Entity=(CESSCATA2001031527617c19--1-CorefType:ident,gstype:gen)
 4	,	,	PUNCT	fc	PunctType=Comm	5	punct	5:punct	_
 5	òbviament	òbviament	ADV	rg	_	2	advmod	2:advmod	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
@@ -60,14 +60,14 @@ The following 49 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 cc	color:blue
-1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
-2	pols	pols	NOUN	ncms000	Gender=Masc|Number=Sing	9	nsubj	9:nsubj	ClusterId=CESS-CAT-AAP-20000102-106-s5.sn.2|ClusterType=Gen|MentionSpan=1-8|MentionMisc=HomoDD
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Entity=(CESSCATAAP20000102106s5.sn.2--2-gstype:gen,HomoDD
+2	pols	pols	NOUN	ncms000	Gender=Masc|Number=Sing	9	nsubj	9:nsubj	_
 3	entre	entre	ADP	sps00	_	5	case	5:case	_
-4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
-5	jugador	jugador	NOUN	ncms000	Gender=Masc|Number=Sing	2	nmod	2:nmod	ClusterId=CESS-CAT-AAP-20000102-106-c1|ClusterType=Spec|MentionSpan=4-5|MentionMisc=CorefType:ident
+4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	Entity=(CESSCATAAP20000102106c1-person-2-CorefType:ident,gstype:spec
+5	jugador	jugador	NOUN	ncms000	Gender=Masc|Number=Sing	2	nmod	2:nmod	Entity=CESSCATAAP20000102106c1)
 6	i	i	CCONJ	cc	_	7	cc	7:cc	_
-7	Van	Van	PROPN	np0000p	_	5	conj	5:conj	MWE=Van_Gaal|MWEPOS=PROPN|ClusterId=CESS-CAT-AAP-20000102-106-c3|ClusterType=Spec|MentionSpan=7-8|MentionMisc=ClusterTypeMismatch:Spec.person:Spec,CorefType:ident
-8	Gaal	Gaal	PROPN	_	_	7	flat	7:flat	_
+7	Van	Van	PROPN	np0000p	_	5	conj	5:conj	MWE=Van_Gaal|MWEPOS=PROPN|Entity=(CESSCATAAP20000102106c3-person-1-CorefType:ident,gstype:spec
+8	Gaal	Gaal	PROPN	_	_	7	flat	7:flat	Entity=CESSCATAAP20000102106c3)CESSCATAAP20000102106s5.sn.2)
 9	segueix	seguir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 10	obert	obert	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	9	obj	9:obj	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	9	punct	9:punct	_

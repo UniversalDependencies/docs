@@ -31,7 +31,7 @@ The following 35 pairs of parts of speech are connected with `nmod`: <tt><a href
 7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
 8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
 9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
-10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl	_	_
+10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl:relcl	_	_
 11	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	obj	_	Orig=ⲟⲩ`
 12	ϩⲛ	ϩⲛ	ADP	PREP	_	14	case	_	Orig=ϩ︤ⲛ︥
 13	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(place
@@ -86,7 +86,7 @@ The following 35 pairs of parts of speech are connected with `nmod`: <tt><a href
 9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	Orig=ⲛ̄
 10	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	nmod	_	Entity=(person
 11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
-12	ⲟⲛϩ	ⲱⲛϩ	VERB	VSTAT	VerbForm=Fin	10	acl	_	Entity=person)|Orig=ⲟⲛ︤ϩ︥
+12	ⲟⲛϩ	ⲱⲛϩ	VERB	VSTAT	VerbForm=Fin	10	acl:relcl	_	Entity=person)|Orig=ⲟⲛ︤ϩ︥
 13	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~

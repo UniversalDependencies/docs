@@ -9,6 +9,8 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_pud-feat-Person.html">Person</a></tt>, <tt><a href="fr_pud-feat-Person-psor.html">Person[psor]</a></tt>.
+
 2780 tokens (11%) have a non-empty value of `Person`.
 621 types (10%) occur at least once with a non-empty value of `Person`.
 341 lemmas (7%) occur at least once with a non-empty value of `Person`.
@@ -110,7 +112,8 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>notre</em></td><td><em>votre</em></td><td><em>leur</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>mes</em></td><td></td><td><em>ses</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>nos</em></td><td></td><td><em>leurs</em></td></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>ma</em></td><td></td><td><em>sa, son, sar</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>ma</em></td><td></td><td><em>sa, son</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>sar</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>notre</em></td><td></td><td><em>leur</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ses</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>nos</em></td><td><em>vos</em></td><td><em>leurs</em></td></tr>

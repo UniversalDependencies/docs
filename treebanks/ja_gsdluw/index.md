@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Ryan McDonald, Joakim Nivre, Daniel Zeman.
 
 Repository: [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_gsdluw29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_gsdluw210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -99,19 +99,19 @@ through annotation, discussion and validation with
 
 
 <ul>
-<li>This corpus contains 8100 sentences and 150258 tokens.</li>
+<li>This corpus contains 8100 sentences and 150243 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 142149 tokens (95%) that are not followed by a space.</li>
+<li>This corpus contains 142134 tokens (95%) that are not followed by a space.</li>
 </ul>
 
 <ul>
-<li>This corpus does not contain words with spaces.</li>
+<li>This corpus contains 153 types of words with spaces. Examples: You Tube, DEATH NOTE, EEP ROM, Mozilla Firefox, 12.1型WXGA TFT液晶, AOL Key words, ASIA GIRLS EXPLOSION, Acoustic UK, Ad Planner, André Franquin, Arc Sight株, Ars Technica, BAD TIMES, Bill of Lading, Biohazard archives, BlackBerry Bold9700, Blue tooth, Blues Attack, Brian Brazil, British Rail termini, COCK AND BULL TUNES, CRYSTAL BALLカードミラー, CS 5, City of Sarnia, Club Class, DARK SIDE REPORT, DFJ Esprit, DRAGON GATE RECORDS代表兼プロデューサー, Deep Junior, Deep Sjeng, Detailed Baseline Report, Direct X, Double Click Ad Planner, EMI CLASSICS, Enterprise Java Beans, F-ZERO AX, FM TOWNS, FRIDAY NIGHT, Feeling Heart, GNU Cライブラリ, GTC Speed, Galaxy Tab, HOUND DOG, HTTP Proxy/SSH/Socks, Happy Tablet, HellChose Me, Herbert J.Zeiger, Hugo Pratt, IBM PC/AT以来, IT’S FRIDAY</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1000 types of words that contain both letters and punctuation. Examples: レアル・マドリード, 警戒区域・計画的避難区域・緊急時避難準備区域, J-WAVE, SETI@home, T-72, Wi-Fi, 『真型』以前, エドガー・ダイクストラ, スター・ウォーズ, テーブル“T”, ルイ・ヴィトン, 一、二塁, 自律的・反射的調節, 阪神・淡路大震災, 0.2%減, 0.5%減, 0.6%安, 1%未満, 100%有機, 11ウォール・ストリート, 15%急落, 157km/h, 1ch・2ch・12ch, 2.6%減, 2両・3両単位, 3%増, 30%アップ, 323A-1, 35%程度, 3人目・4度目, 3回転ルッツ-3回転ループ, 4.4%減, 5%以下, 50%以上, 50%以下, 6344P-L, 6・7%増, 6・7・DS, 6番・出口, 7.0%増, 70%以上, 80’sカルチャー, 90%以上, A&Mレコード, A&S, A.T.フィールド, AC/DC, ACミネロス・デ・グアヤナ所属, AMX-10RC, AQTI-2型クリッパー発売</li>
+<li>This corpus contains 999 types of words that contain both letters and punctuation. Examples: レアル・マドリード, J-WAVE, SETI@home, T-72, Wi-Fi, 『真型』以前, エドガー・ダイクストラ, スター・ウォーズ, テーブル“T”, ルイ・ヴィトン, 一、二塁, 阪神・淡路大震災, 0.2%減, 0.5%減, 0.6%安, 1%未満, 100%有機, 11ウォール・ストリート, 15%急落, 157km/h, 1ch・2ch・12ch, 2.6%減, 2両・3両単位, 3%増, 30%アップ, 323A-1, 35%程度, 3人目・4度目, 3回転ルッツ-3回転ループ, 4.4%減, 5%以下, 50%以上, 50%以下, 6344P-L, 6・7%増, 6・7・DS, 6番・出口, 7.0%増, 70%以上, 80’sカルチャー, 90%以上, A&Mレコード, A&S, A.T.フィールド, AC/DC, ACミネロス・デ・グアヤナ所属, AMX-10RC, AQTI-2型クリッパー発売, AT-X, AW.55アポロ</li>
 </ul>
 
 <ul>
@@ -130,7 +130,7 @@ through annotation, discussion and validation with
 </ul>
 
 <ul>
-<li>This corpus contains 42 lemmas tagged as pronouns (PRON): こんな, そんな, どんな, わし, 何, 何れ, 何処, 何方, 何時, 何等, 余, 俺, 僕, 僕等, 其れ, 其れ等, 其処, 其方, 君, 己, 彼, 彼れ, 彼女, 彼女達, 彼方, 彼方此方, 彼等, 御前, 御前等, 御宅, 我, 我々, 本の, 此れ, 此れ等, 此処, 此方, 私, 私達, 誰, 貴方, 貴様</li>
+<li>This corpus contains 44 lemmas tagged as pronouns (PRON): あちこち, おめえ等, こっち, こんな, そらあ, そんな, どんな, わしゃ, 何, 何れ, 何処, 何方, 何時, 何等, 余, 俺, 僕, 僕等, 其れ, 其れ等, 其処, 其方, 君, 己, 彼, 彼れ, 彼女, 彼女達, 彼方, 彼等, 御前, 御宅, 我, 我々, 本の, 此れ, 此れ等, 此処, 此方, 私, 私達, 誰, 貴方, 貴様</li>
 </ul>
 
 <ul>
@@ -141,10 +141,11 @@ through annotation, discussion and validation with
 </ul>
 
 <ul>
-<li>This corpus contains 26 lemmas tagged as auxiliaries (AUX): _, ごとし, させる, じゃ, せる, そう, た, たい, たがる, たり, だ, ちゃう, つう, とく, なり, べし, まい, まじ, ます, みたい, む, や, よう, らしい, られる, れる</li>
+<li>This corpus contains 79 lemmas tagged as auxiliaries (AUX): かもしれない, かもしれません, ことがある, ことができない, ことができる, こととなる, ことにする, ことになる, ことはない, こともある, こともない, ごとし, させる, ざるを得ない, しかない, じゃ, ず, せる, そう, た, たい, たがる, たらいい, たり, だ, ちゃう, つう, つつある, てある, ていく, ていただく, ている, ておく, ておる, てく, てくださる, てくる, てくれる, てしまう, てはいけない, てはならない, てほしい, てみる, てもいい, てもらう, てやる, てる, である, です, でない, ではありません, ではない, でもある, とく, ない, ないではいられない, なくてはならない, なければならない, なり, に過ぎない, に違いない, のだ, のである, のです, のではない, ばいい, べし, まい, まじ, ます, までもない, みたい, む, や, らしい, られる, れる, わけにはいかない, 様</li>
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: ている</li>
 </ul>
 
 <ul>
@@ -171,7 +172,8 @@ through annotation, discussion and validation with
 <ul>
   <li>Neg
     <ul>
-      <li>SCONJ: ない, ず, ん, なかっ, なく, なければならない, なけれ, ぬ, ざるをえない, ざるを得ない</li>
+      <li>AUX: ない, ず, ん, なかっ, なく, なけれ, なければならない, ぬ, ざるをえない, ざるを得ない</li>
+      <li>NOUN: なし</li>
     </ul>
   </li>
 </ul>
@@ -204,11 +206,11 @@ through annotation, discussion and validation with
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: だ.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: だ, です.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 26 lemmas as auxiliaries (<a>aux</a>). Examples: た, だ, れる, ます, られる, よう, せる, たい, そう, べし, らしい, みたい, ちゃう, させる, なり, つう, たり, ごとし, まじ, や, _, じゃ, たがる, とく, まい, む.</li>
+<li>This corpus uses 79 lemmas as auxiliaries (<a>aux</a>). Examples: た, ている, だ, れる, ます, である, ない, です, られる, のだ, ず, 様, ておる, せる, てくる, たい, ではない, てしまう, のです, てくれる, てる, ていく, ことができる, てもらう, ことになる, そう, てみる, ていただく, べし, てくださる, ことがある, こともある, らしい, でもある, のである, みたい, こととなる, のではない, でない, かもしれない, ちゃう, ではありません, ておく, てある, てく, かもしれません, ことはない, なければならない, てほしい, てもいい.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -236,7 +238,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(と)-ADP(を) (3)</li>
       <li>VERB--NOUN-ADP(など)-ADP(を) (52)</li>
       <li>VERB--NOUN-ADP(など)-ADP(を通じて) (2)</li>
-      <li>VERB--NOUN-ADP(に因る)-ADP(を) (2)</li>
+      <li>VERB--NOUN-ADP(により)-ADP(を) (2)</li>
       <li>VERB--NOUN-ADP(の)-ADP(の)-ADP(を) (1)</li>
       <li>VERB--NOUN-ADP(のみ)-ADP(を) (3)</li>
       <li>VERB--NOUN-ADP(まで)-ADP(を) (2)</li>
@@ -244,8 +246,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(を)-ADP(で)-ADP(も) (1)</li>
       <li>VERB--NOUN-ADP(を)-ADP(に) (1)</li>
       <li>VERB--NOUN-ADP(を)-ADP(も) (2)</li>
-      <li>VERB--NOUN-ADP(を始める) (1)</li>
-      <li>VERB--NOUN-ADP(を持って) (7)</li>
+      <li>VERB--NOUN-ADP(をはじめ) (1)</li>
+      <li>VERB--NOUN-ADP(をもって) (7)</li>
       <li>VERB--NOUN-ADP(を通じて) (5)</li>
       <li>VERB--PRON-ADP(か)-ADP(を) (5)</li>
       <li>VERB--PRON-ADP(まで)-ADP(を) (1)</li>

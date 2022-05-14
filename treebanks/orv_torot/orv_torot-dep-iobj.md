@@ -40,10 +40,10 @@ The following 34 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 iobj	color:blue
-1	дивѧт	дивити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-2	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl	_	ref=6
-3	бѣломѹ	бѣлыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	ref=6
-4	члк҃ѹ	человѣкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=6
+1	дивѧт	дивити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=6
+2	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl	_	Ref=6
+3	бѣломѹ	бѣлыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	Ref=6
+4	члк҃ѹ	человѣкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Ref=6
 
 ~~~
 

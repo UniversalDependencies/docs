@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-844 nodes (4%) are attached to their parents as `amod`.
+842 nodes (4%) are attached to their parents as `amod`.
 
-827 instances of `amod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22511848341232.
+825 instances of `amod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22684085510689.
 
-The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (787; 93% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (25; 3% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (18; 2% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (790; 94% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (25; 3% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (18; 2% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,14 +56,14 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 amod	color:blue
-1	Saanut	saada	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SENSE=0
+1	Saanut	saada	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SENSE=0
 2	yöllä	yö	NOUN	_	Case=Ade|Number=Sing	1	obl	_	_
 3	ylimääräisen	ylimääräinen	ADJ	_	Case=Gen|Degree=Pos|Number=Sing	4	amod	_	_
 4	Oxepamin	Oxepam	PROPN	_	Case=Gen|Number=Sing	1	obj	_	Gen=lääkkeen|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
 6	jonka	joka	PRON	_	Case=Gen|Number=Sing|PronType=Rel	7	nmod:poss	_	_
 7	avulla	apu	NOUN	_	Case=Ade|Number=Sing	8	obl	_	_
-8	nukkunut	nukkua	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	4	acl:relcl	_	SENSE=0|SpaceAfter=No
+8	nukkunut	nukkua	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	4	acl:relcl	_	SENSE=0|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

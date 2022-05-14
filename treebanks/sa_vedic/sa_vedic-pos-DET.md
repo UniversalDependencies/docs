@@ -64,8 +64,8 @@ The 3rd highest number of forms (5) was observed with the lemma “sva”: svam,
 `DET` occurs with 14 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`
 
 `DET` occurs with 34 feature combinations.
-The most frequent feature combination is `_` (17 tokens).
-Examples: viśva, sarva, puru
+The most frequent feature combination is `Case=Nom|Gender=Fem|Number=Plur` (17 tokens).
+Examples: sarvāḥ, ubhayyaḥ
 
 
 ## Relations

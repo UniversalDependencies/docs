@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	pars	partir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	dans	dans	ADP	_	_	7	case	_	_
-6	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	7	det	_	_
+6	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	7	det	_	_
 7	sommeil	sommeil	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -58,8 +58,8 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 9 4 vocative	color:blue
 1	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
 2	Mais	mais	CCONJ	_	_	9	cc	_	wordform=mais
-3	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	4	det	_	_
-4	chérie	chéri	NOUN	_	Gender=Fem|Number=Sing	9	vocative	_	SpaceAfter=No
+3	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	chérie	chérie	NOUN	_	Gender=Fem|Number=Sing	9	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
 7	es	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	_

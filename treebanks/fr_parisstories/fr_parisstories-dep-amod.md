@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-459 nodes (2%) are attached to their parents as `amod`.
+483 nodes (2%) are attached to their parents as `amod`.
 
-293 instances of `amod` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.43790849673203.
+315 instances of `amod` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.43064182194617.
 
-The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (425; 93% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (15; 3% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (437; 90% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (27; 6% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

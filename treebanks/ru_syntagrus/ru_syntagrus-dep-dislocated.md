@@ -39,7 +39,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 15	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	nsubj	17:nsubj	_
 16	-	-	PUNCT	_	_	17	punct	17:punct	_
 17	добрый	добрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
-18	?	?	PUNCT	_	_	17	punct	17:punct	_~
+18	?	?	PUNCT	_	_	17	punct	17:punct	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 7	яркий	яркий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	9:amod	_
 8	брезентовый	брезентовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	9:amod	_
 9	балдахин	балдахин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	9:punct	_~
+10	.	.	PUNCT	_	_	9	punct	9:punct	_
 
 ~~~
 
@@ -75,7 +75,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	-	-	PUNCT	_	_	2	punct	2:punct	_
 4	не	не	PART	_	Polarity=Neg	5	advmod	5:advmod	_
 5	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-6	?	?	PUNCT	_	_	5	punct	5:punct	_~
+6	?	?	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 

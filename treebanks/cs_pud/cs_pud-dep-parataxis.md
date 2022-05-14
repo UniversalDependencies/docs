@@ -65,7 +65,7 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 17	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	18	case	18:case	LId=pro-1
 18	bohaté	bohatý	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	21	parataxis	21:parataxis	_
 19	–	-	PUNCT	Z:-------------	_	18	punct	18:punct	_
-20	dovážené	dovážený	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	21	amod	21:amod	LGloss=(z_ciziny)|LDeriv=dovážet
+20	dovážené	dovážený	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	21	amod	21:amod	LGloss=(z_ciziny)|LDeriv=dovážet
 21	víno	víno	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	7	conj	4:appos|7:conj	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 

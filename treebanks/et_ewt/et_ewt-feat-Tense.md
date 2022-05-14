@@ -9,28 +9,29 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-10761 tokens (15%) have a non-empty value of `Tense`.
-3125 types (19%) occur at least once with a non-empty value of `Tense`.
-1216 lemmas (12%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (6429; 9% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (3620; 5% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (657; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (55; 0% instances).
+11589 tokens (15%) have a non-empty value of `Tense`.
+3287 types (18%) occur at least once with a non-empty value of `Tense`.
+1289 lemmas (12%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (6925; 9% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (3904; 5% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (704; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (56; 0% instances).
 
 ### `VERB`
 
-6429 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Tense`.
+6925 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5816; 90%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5702; 89%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (5542; 86%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5059; 79%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3401; 53%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6279; 91%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6161; 89%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (5948; 86%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5445; 79%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3647; 53%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (2058; 32% of non-empty `Tense`): <em>tuli, läks, saanud, sain, ütles, sai, tulnud, oli, kirjutasin, jäi</em>
-* `Pres` (4371; 68% of non-empty `Tense`): <em>on, tuleb, saab, tea, läheb, saa, arvan, pole, teeb, tahaks</em>
-* `EMPTY` (2224): <em>teha, saada, minna, teada, öelda, olemas, panna, võtta, näha, kirjutada</em>
+* `Past` (2177; 31% of non-empty `Tense`): <em>tuli, saanud, läks, sain, ütles, sai, tulnud, oli, kirjutasin, jäi</em>
+* `Pres` (4748; 69% of non-empty `Tense`): <em>on, tuleb, saab, tea, läheb, saa, pole, arvan, tahaks, teeb</em>
+* `EMPTY` (2415): <em>teha, saada, minna, teada, öelda, olemas, näha, võtta, panna, kirjutada</em>
 
 <table>
   <tr><th>Paradigm <i>saama</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt>|<tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="et_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>saax</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt>|<tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>saaks</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt>|<tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sma</em></td><td><em>saand</em></td></tr>
-  <tr><td><tt><tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt>|<tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>saa</em></td><td><em>saanud, saanudki</em></td></tr>
+  <tr><td><tt><tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt>|<tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>saa, saagi</em></td><td><em>saanud, saanudki</em></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt>|<tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>saada</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>saaksin</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>saaksid</em></td><td></td></tr>
@@ -53,15 +54,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-3620 <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> tokens (73% of all `AUX` tokens) have a non-empty value of `Tense`.
+3904 <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> tokens (73% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3620; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3564; 98%), <tt><a href="et_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3321; 92%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3095; 85%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2274; 63%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (2261; 62%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3904; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3842; 98%), <tt><a href="et_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3575; 92%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3343; 86%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2450; 63%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (2437; 62%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (504; 14% of non-empty `Tense`): <em>oli, olnud, olid, sai, olin, polnud, pidi, tundus, võinud, võis</em>
-* `Pres` (3116; 86% of non-empty `Tense`): <em>on, pole, oleks, ole, olen, võib, peaks, peab, oled, võiks</em>
-* `EMPTY` (1307): <em>ei, olla, olema, olles, mai, 2ra, e, olemagi, saama</em>
+* `Past` (542; 14% of non-empty `Tense`): <em>oli, olnud, olid, sai, olin, polnud, pidi, tundus, pidin, võinud</em>
+* `Pres` (3362; 86% of non-empty `Tense`): <em>on, pole, oleks, ole, olen, võib, peaks, peab, oled, võiks</em>
+* `EMPTY` (1419): <em>ei, olla, olema, olles, mai, 2ra, e, olemagi, olemaks, saama</em>
 
 <table>
   <tr><th>Paradigm <i>olema</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -101,37 +102,37 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-657 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `Tense`.
+704 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (657; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (650; 99%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (442; 67%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (704; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (697; 99%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (478; 68%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
-* `Past` (272; 41% of non-empty `Tense`): <em>antud, teatud, ülejäänud, tehtud, asetatud, karastatud, mainitud, peidetud, seotud, surnud</em>
-* `Pres` (385; 59% of non-empty `Tense`): <em>huvitav, erinevaid, erinevad, erinevate, huvitavad, leviv, odav, elavana, erinev, erinevatest</em>
-* `EMPTY` (3521): <em>hea, võimalik, õige, head, suur, vana, parem, esimene, tore, lihtne</em>
+* `Past` (286; 41% of non-empty `Tense`): <em>antud, teatud, ülejäänud, tehtud, asetatud, karastatud, mainitud, peidetud, seotud, surnud</em>
+* `Pres` (418; 59% of non-empty `Tense`): <em>huvitav, erinevaid, erinevate, erinevad, odav, erinevatest, huvitavad, leviv, elavana, erinev</em>
+* `EMPTY` (3777): <em>hea, suur, õige, võimalik, head, parem, vana, esimene, tore, lihtne</em>
 
-`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (366) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (388) occur only with one value of `Tense`.
 
 ### `NOUN`
 
-55 <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
+56 <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (35; 64%).
+The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (35; 63%).
 
 `NOUN` tokens may have the following values of `Tense`:
 
-* `Past` (55; 100% of non-empty `Tense`): <em>nakatunuid, surnuid, nakatunutest, nakatunut, nakatunu, nakatunust, nakatunute, surnu, surnut, tänud</em>
-* `EMPTY` (14228): <em>asi, aasta, teema, aru, inimesed, inimene, aega, osa, elu, auto</em>
+* `Past` (56; 100% of non-empty `Tense`): <em>nakatunuid, surnuid, nakatunutest, nakatunut, nakatunu, nakatunust, nakatunute, surnu, surnut, tänud</em>
+* `EMPTY` (15423): <em>asi, aasta, aru, teema, inimesed, inimene, aega, aastat, auto, raha</em>
 
-`Tense` seems to be **lexical feature** of `NOUN`. 100% lemmas (22) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `NOUN`. 100% lemmas (23) occur only with one value of `Tense`.
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (877; 74%),
-<tt>VERB --[<tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (90; 51%),
-<tt>VERB --[<tt><a href="et_ewt-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (5; 83%),
+<tt>VERB --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (938; 73%),
+<tt>VERB --[<tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (97; 52%),
+<tt>VERB --[<tt><a href="et_ewt-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (7; 78%),
 <tt>NOUN --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 67%),
 <tt>VERB --[<tt><a href="et_ewt-dep-dep.html">dep</a></tt>]--> VERB</tt> (2; 67%),
 <tt>ADJ --[<tt><a href="et_ewt-dep-dep.html">dep</a></tt>]--> ADJ</tt> (1; 100%),

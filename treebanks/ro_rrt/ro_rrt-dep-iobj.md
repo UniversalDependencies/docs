@@ -8,12 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-1688 nodes (1%) are attached to their parents as `iobj`.
+1656 nodes (1%) are attached to their parents as `iobj`.
 
-967 instances of `iobj` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.02310426540284.
+941 instances of `iobj` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.9969806763285.
 
-The following 17 pairs of parts of speech are connected with `iobj`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (701; 42% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (701; 42% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (158; 9% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (59; 3% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `iobj`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (695; 42% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (675; 41% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (158; 10% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (59; 4% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 iobj	color:blue
+1	Sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
+3	partea	parte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+4	ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	_	SpaceAfter=No
+5	,	,	PUNCT	COMMA	_	6	punct	_	_
+6	păruse	părea	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	3	parataxis	_	_
+7	a	a	PART	Qn	PartType=Inf	9	mark	_	SpaceAfter=No
+8	-i	el	PRON	Pp3-sd--y-----w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	9	iobj	_	_
+9	spune	spune	VERB	Vmnp	Tense=Pres|VerbForm=Inf	6	xcomp	_	_
+10	O'Brien	O'Brien	PROPN	Np	_	6	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	3	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -34,27 +55,6 @@ The following 17 pairs of parts of speech are connected with `iobj`: <tt><a href
 10	lirism	lirism	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	_
 11	absolut	absolut	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
 12	.	.	PUNCT	PERIOD	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 iobj	color:blue
-1	Sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
-3	partea	parte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
-4	ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	_	SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	6	punct	_	_
-6	păruse	părea	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	3	parataxis	_	_
-7	a	a	PART	Qn	PartType=Inf	9	mark	_	SpaceAfter=No
-8	-i	el	PRON	Pp3-sd--y-----w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	9	iobj	_	_
-9	spune	spune	VERB	Vmnp	Tense=Pres|VerbForm=Inf	6	xcomp	_	_
-10	O'Brien	O'Brien	PROPN	Np	_	6	nsubj	_	SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 ~~~
 

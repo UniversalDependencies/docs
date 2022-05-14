@@ -30,10 +30,10 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	ofrena	ofrena	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
 7	simbòlica	simbòlic	ADJ	aq0fs0	Gender=Fem|Number=Sing	6	amod	6:amod	_
 8	a	a	ADP	sps00	_	11	case	11:case	_
-9	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+9	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=(3LBCAT060103003s4.sn.21-person-3-gstype:spec
 10	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	11:det	_
-11	Moreneta	Moreneta	PROPN	np0000p	_	4	obj	4:obj	SpaceAfter=No|ClusterId=3LB-CAT-06010300-3-s4.sn.21|ClusterType=Spec.person|MentionSpan=9-12
-12	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+11	Moreneta	Moreneta	PROPN	np0000p	_	4	obj	4:obj	SpaceAfter=No
+12	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=3LBCAT060103003s4.sn.21)
 13	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
@@ -63,18 +63,18 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 nummod	color:blue
-1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	_
-2	cotització	cotització	NOUN	ncfs000	Gender=Fem|Number=Sing	8	nsubj	8:nsubj	ClusterId=CESS-CAT-AAP-20011101-19-c9|ClusterType=Gen|MentionSpan=1-5|MentionMisc=HomoDD
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	Entity=(CESSCATAAP2001110119c9-other-2-gstype:spec,HomoDD
+2	cotització	cotització	NOUN	ncfs000	Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
 3	de	de	ADP	sps00	_	5	case	5:case	_
-4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	5:det	_
-5	castanya	castanya	NOUN	ncfs000	Gender=Fem|Number=Sing	2	nmod	2:nmod	ClusterId=CESS-CAT-AAP-20011101-19-c1|ClusterType=Gen|MentionSpan=4-5|MentionMisc=HomoDD,CorefType:ident
+4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	5:det	Entity=(CESSCATAAP2001110119c1--2-CorefType:ident,gstype:gen,HomoDD
+5	castanya	castanya	NOUN	ncfs000	Gender=Fem|Number=Sing	2	nmod	2:nmod	Entity=CESSCATAAP2001110119c1)CESSCATAAP2001110119c9)
 6	és	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
-7	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	8	det	8:det	SpaceAfter=No
-8	Ibex	Ibex	PROPN	np0000a	_	0	root	0:root	MWE=Ibex_35|MWEPOS=PROPN|ClusterId=CESS-CAT-AAP-20011101-19-c9|ClusterType=Gen|MentionSpan=7-12|MentionMisc=ClusterTypeMismatch:Spec.other:Gen,CorefType:pred.definit
+7	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	8	det	8:det	SpaceAfter=No|Entity=(CESSCATAAP2001110119c9-other-2-CorefType:pred.definit,gstype:spec
+8	Ibex	Ibex	PROPN	np0000a	_	0	root	0:root	MWE=Ibex_35|MWEPOS=PROPN
 9	35	35	NUM	_	NumForm=Digit|NumType=Card	8	nummod	8:nummod	_
 10	de	de	ADP	spcmp	_	12	case	12:case	_
 11	els	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	12:det	_
-12	records	record	NOUN	ncmp000	Gender=Masc|Number=Plur	8	nmod	8:nmod	SpaceAfter=No|ClusterId=CESS-CAT-AAP-20011101-19-s24.sn.25|ClusterType=Gen|MentionSpan=12|MentionMisc=HomoDD
+12	records	record	NOUN	ncmp000	Gender=Masc|Number=Plur	8	nmod	8:nmod	SpaceAfter=No|Entity=(CESSCATAAP2001110119s24.sn.25--1-gstype:gen,HomoDD)CESSCATAAP2001110119c9)
 13	.	.	PUNCT	fp	PunctType=Peri	8	punct	8:punct	_
 
 ~~~

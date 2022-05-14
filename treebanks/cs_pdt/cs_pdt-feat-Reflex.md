@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-PRON.htm
 
 ### `PRON`
 
-25786 <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> tokens (57% of all `PRON` tokens) have a non-empty value of `Reflex`.
+25786 <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> tokens (58% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
 The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (25786; 100%), <tt><a href="cs_pdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (25163; 98%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (21582; 84%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (25786; 100% of non-empty `Reflex`): <em>se, si, sebe, sobě, sebou, sa</em>
-* `EMPTY` (19133): <em>co, nás, je, nám, nich, kdo, což, mu, ji, ho</em>
+* `EMPTY` (19029): <em>co, nás, je, nám, nich, kdo, což, mu, ji, ho</em>
 
 ### `DET`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (4883; 100% of non-empty `Reflex`): <em>své, svou, svého, svých, svůj, svým, svém, svými, svoji, svému</em>
-* `EMPTY` (51229): <em>to, které, který, jeho, která, jejich, tím, kteří, tom, této</em>
+* `EMPTY` (51333): <em>to, které, který, jeho, která, jejich, tím, kteří, tom, této</em>
 
 ## Relations with Agreement in `Reflex`
 

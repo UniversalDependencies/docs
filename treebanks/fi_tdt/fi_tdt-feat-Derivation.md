@@ -10,22 +10,22 @@ This feature is language-specific.
 It occurs with 11 different values: `Inen`, `Ja`, `Lainen`, `Llinen`, `Minen`, `Sti`, `Tar`, `Ton`, `Ttain`, `U`, `Vs`.
 Some words have combined values of the feature; 5 combinations have been observed: `Inen|Vs`, `Ja|Tar`, `Lainen|Vs`, `Llinen|Vs`, `Ton|Vs`.
 
-16017 tokens (8%) have a non-empty value of `Derivation`.
+16014 tokens (8%) have a non-empty value of `Derivation`.
 8986 types (17%) occur at least once with a non-empty value of `Derivation`.
 4423 lemmas (17%) occur at least once with a non-empty value of `Derivation`.
-The feature is used with 5 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (7488; 4% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (6602; 3% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (1922; 1% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (7485; 4% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (6602; 3% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (1922; 1% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-7488 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `Derivation`.
+7485 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5721; 76%).
+The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5719; 76%).
 
 `NOUN` tokens may have the following values of `Derivation`:
 
 * `Inen` (1; 0% of non-empty `Derivation`): <em>Vihreähaalaristen</em>
 * `Inen,Vs` (278; 4% of non-empty `Derivation`): <em>tulevaisuudessa, ominaisuuksia, kokonaisuudessaan, ominaisuudet, tilaisuudessa, tilaisuuden, tilaisuus, tulevaisuuden, julkisuuteen, suvaitsevaisuuden</em>
-* `Ja` (1838; 25% of non-empty `Derivation`): <em>puheenjohtaja, opiskelijoiden, johtaja, toimitusjohtaja, tutkijat, puheenjohtajana, matkustajien, harjoittajan, harjoittajien, isännöitsijä</em>
+* `Ja` (1837; 25% of non-empty `Derivation`): <em>puheenjohtaja, opiskelijoiden, johtaja, toimitusjohtaja, tutkijat, puheenjohtajana, matkustajien, harjoittajan, harjoittajien, maahanmuuttajien</em>
 * `Ja,Tar` (3; 0% of non-empty `Derivation`): <em>kuulantyöntäjätär, rakastajatar, tanssijatar</em>
 * `Lainen` (359; 5% of non-empty `Derivation`): <em>kansalaisten, suomalaiset, suomalaisten, kansalaiset, suomalaisista, kansalaisen, lukiolaiset, kansalaisille, ammattilaisten, kansalaisia</em>
 * `Lainen,Vs` (13; 0% of non-empty `Derivation`): <em>Oikeistolaisuuteen, alaisuuteen, erilaisuuden, francolaisuus, kansalaisuuden, kansalaisuudet, kansalaisuus, laaja-alaisuutta, siirtolaisuuden, tolstoilaisuudesta</em>
@@ -33,9 +33,9 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
 * `Llinen,Vs` (258; 3% of non-empty `Derivation`): <em>mahdollisuus, mahdollisuuden, mahdollisuutta, mahdollisuuksia, mahdollisuudet, todellisuudessa, todellisuus, turvallisuuden, teollisuuden, mahdollisuuksien</em>
 * `Minen` (1757; 23% of non-empty `Derivation`): <em>muuttamisesta, soveltamista, tekemistä, liittymistä, soveltamisesta, kotouttamiseen, varmistamiseksi, perustamisen, soveltaminen, saaminen</em>
 * `Tar` (19; 0% of non-empty `Derivation`): <em>kuningatar, kaunotar, kuningattaren, herttuatar, kaunotarta, kaunottaria, kuningatarta, kuningattarien, paronitar, vapaaherratar</em>
-* `Ton` (6; 0% of non-empty `Derivation`): <em>pitkäaikaistyöttömien, syyttömiä, tuntemattomille, työttömien, työttömät</em>
+* `Ton` (5; 0% of non-empty `Derivation`): <em>pitkäaikaistyöttömien, syyttömiä, työttömien, työttömät</em>
 * `Ton,Vs` (52; 1% of non-empty `Derivation`): <em>onnettomuus, onnettomuuden, koskemattomuutensa, lento-onnettomuus, onnettomuudessa, onnettomuudesta, onnettomuuksien, riippumattomuus, Levottomuudet, Levottomuuksien</em>
-* `U` (1965; 26% of non-empty `Derivation`): <em>avulla, alussa, loppuun, keskustelua, alusta, apua, lopussa, kasvu, kasvua, lopulla</em>
+* `U` (1964; 26% of non-empty `Derivation`): <em>avulla, alussa, loppuun, keskustelua, alusta, apua, lopussa, kasvu, kasvua, lopulla</em>
 * `Vs` (937; 13% of non-empty `Derivation`): <em>yhteydessä, oikeus, oikeuden, osuus, yhteyttä, ihmisoikeuksien, terveyttä, ihmisoikeuksia, liikkuvuuden, oikeutta</em>
 
 <table>
@@ -54,7 +54,7 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>mahdollisuuksia</em></td></tr>
 </table>
 
-`Derivation` seems to be **lexical feature** of `NOUN`. 100% lemmas (2341) occur only with one value of `Derivation`.
+`Derivation` seems to be **lexical feature** of `NOUN`. 100% lemmas (2340) occur only with one value of `Derivation`.
 
 ### `ADJ`
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `PROPN` and `Derivation` co-oc
 
 2 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Neg</tt> (2; 100%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Neg</tt> (2; 100%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Derivation`:
 

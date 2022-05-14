@@ -11,22 +11,22 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cop_scriptorium-feat-Gender.html">Gender</a></tt>, <tt><a href="cop_scriptorium-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-8880 tokens (17%) have a non-empty value of `Gender`.
+8879 tokens (17%) have a non-empty value of `Gender`.
 68 types (2%) occur at least once with a non-empty value of `Gender`.
 42 lemmas (2%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (4492; 9% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (4388; 8% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (4491; 9% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (4388; 8% instances).
 
 ### `PRON`
 
-4492 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (53% of all `PRON` tokens) have a non-empty value of `Gender`.
+4491 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (53% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4492; 100%), <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4102; 91%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4102; 91%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (3356; 75%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4491; 100%), <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4101; 91%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4101; 91%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (3355; 75%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (984; 22% of non-empty `Gender`): ⲥ, ⲧⲉ, ⲉ, ⲛⲧⲟⲥ, ⲉⲣⲟ, ⲁ, ⲛⲧⲟ, ⲁⲣ, ⲙⲙⲟ, ⲣ
-* `Masc` (3508; 78% of non-empty `Gender`): ϥ, ⲕ, ⲡⲉ, ⲅ, ⲛⲧⲟϥ, ⲡ, ⲛⲧⲟⲕ, ⲉϥϣⲁⲛ, ⲉϥⲉ, ⲉⲕϣⲁⲛ
-* `EMPTY` (4019): ⲩ, ⲟⲩ, ⲓ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲛⲓⲙ, ⲥⲉ, ϥ, ϯ
+* `Masc` (3507; 78% of non-empty `Gender`): ϥ, ⲕ, ⲡⲉ, ⲅ, ⲛⲧⲟϥ, ⲡ, ⲛⲧⲟⲕ, ⲉϥϣⲁⲛ, ⲉϥⲉ, ⲉⲕϣⲁⲛ
+* `EMPTY` (4020): ⲩ, ⲟⲩ, ⲓ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲛⲓⲙ, ⲥⲉ, ϥ, ϯ
 
 <table>
   <tr><th>Paradigm <i>ⲡⲉ</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -57,7 +57,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>DET --[<tt><a href="cop_scriptorium-dep-cop.html">cop</a></tt>]--> PRON</tt> (65; 100%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> DET</tt> (7; 88%),
-<tt>DET --[<tt><a href="cop_scriptorium-dep-acl.html">acl</a></tt>]--> DET</tt> (5; 71%),
+<tt>DET --[<tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>]--> DET</tt> (5; 71%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-appos.html">appos</a></tt>]--> DET</tt> (4; 80%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (4; 80%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-nmod.html">nmod</a></tt>]--> DET</tt> (3; 100%),

@@ -41,7 +41,7 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 expl:pv	color:blue
-1	Každou	každý	DET	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|PronType=Tot	2	det	_	_
+1	Každou	každý	DET	AAFS4----1A----	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	2	det	_	_
 2	skutečnost	skutečnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	11	obj	_	_
 3	týkající	týkající	ADJ	AGFS4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	_	_
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pv	_	_

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 
 63654 tokens (12%) have a non-empty value of `Definite`.
 20 types (0%) occur at least once with a non-empty value of `Definite`.
-7 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+6 lemmas (0%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (63654; 12% instances).
 
 ### `DET`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (63638; 100% of non-empty `Definite`): <em>el, la, l', els, les</em>
 * `Ind` (16; 0% of non-empty `Definite`): <em>en, l', al, col·laboració, la, sa, ses, suficient</em>
-* `EMPTY` (23614): <em>un, una, la, aquest, seva, aquesta, el, seu, les, seus</em>
+* `EMPTY` (23613): <em>un, una, la, aquest, seva, aquesta, el, seu, les, seus</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -33,7 +33,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>els</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>la</em></td><td><em>la, L'</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>les</em></td></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>l'</em></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>l'</em></td><td><em>l'</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Definite`

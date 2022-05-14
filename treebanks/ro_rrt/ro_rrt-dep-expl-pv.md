@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_rrt-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_rrt-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_rrt-dep-expl-poss.html">expl:poss</a></tt>.
 
-2256 nodes (1%) are attached to their parents as `expl:pv`.
+2247 nodes (1%) are attached to their parents as `expl:pv`.
 
-2148 instances of `expl:pv` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26507092198582.
+2139 instances of `expl:pv` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26479750778816.
 
-The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2255; 100% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2246; 100% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

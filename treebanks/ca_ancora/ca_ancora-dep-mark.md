@@ -25,9 +25,9 @@ The following 52 pairs of parts of speech are connected with `mark`: <tt><a href
 1	Se	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obj	2:obj	_
 2	sospita	sospitar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	que	que	SCONJ	cs	_	8	mark	8:mark	_
-4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
-5	metge	metge	NOUN	ncms000	Gender=Masc|Number=Sing	8	nsubj	8:nsubj	ClusterId=CESS-CAT-A-20000202-73-c2|ClusterType=Spec.person|MentionSpan=4-5|MentionMisc=ClusterTypeMismatch:Spec:Spec.person,CorefType:ident
-6	els	ell	PRON	pp3cp000	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	8	obj	8:obj	ClusterId=CESS-CAT-A-20000202-73-c10|ClusterType=Gen|MentionSpan=6|MentionMisc=CorefType:ident
+4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	Entity=(CESSCATA2000020273c2-person-2-CorefType:ident,gstype:spec
+5	metge	metge	NOUN	ncms000	Gender=Masc|Number=Sing	8	nsubj	8:nsubj	Entity=CESSCATA2000020273c2)
+6	els	ell	PRON	pp3cp000	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	8	obj	8:obj	Entity=(CESSCATA2000020273c10--1-CorefType:ident,gstype:gen)
 7	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
 8	assassinar	assassinar	VERB	vmn0000	VerbForm=Inf	2	csubj	2:csubj	SpaceAfter=No
 9	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
@@ -41,17 +41,17 @@ The following 52 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 9 mark	color:blue
-1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
-2	camí	camí	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	4:nsubj	ClusterId=CESS-CAT-A-20010315-27617-s5.sn.2|ClusterType=Gen|MentionSpan=1-2
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Entity=(CESSCATA2001031527617s5.sn.2--2-gstype:gen
+2	camí	camí	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	4:nsubj	Entity=CESSCATA2001031527617s5.sn.2)
 3	és	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 4	ple	ple	ADJ	aq0ms0	Gender=Masc|Number=Sing	0	root	0:root	_
 5	d'	de	ADP	sps00	_	6	case	6:case	SpaceAfter=No
-6	entrebancs	entrebanc	NOUN	ncmp000	Gender=Masc|Number=Plur	4	nmod	4:nmod	ClusterId=CESS-CAT-A-20010315-27617-c6|ClusterType=Gen|MentionSpan=6-11
-7	que	que	PRON	pr0cn000	PronType=Rel	11	obj	11:obj	ClusterId=CESS-CAT-A-20010315-27617-c6|ClusterType=Gen|MentionSpan=7|MentionMisc=CorefType:ident
+6	entrebancs	entrebanc	NOUN	ncmp000	Gender=Masc|Number=Plur	4	nmod	4:nmod	Entity=(CESSCATA2001031527617c6--1-gstype:gen
+7	que	que	PRON	pr0cn000	PronType=Rel	11	obj	11:obj	Entity=(CESSCATA2001031527617c6--1-CorefType:ident,gstype:gen)
 8	hem	haver	AUX	vaip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 9	d'	de	ADP	sps00	_	11	mark	11:mark	SpaceAfter=No
 10	anar	anar	AUX	vmn0000	VerbForm=Inf	11	aux	11:aux	_
-11	superant	superar	VERB	vmg0000	VerbForm=Ger	6	acl	6:acl	SpaceAfter=No
+11	superant	superar	VERB	vmg0000	VerbForm=Ger	6	acl	6:acl	SpaceAfter=No|Entity=CESSCATA2001031527617c6)
 12	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
@@ -63,14 +63,14 @@ The following 52 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 6 mark	color:blue
-1	Una	un	PRON	pi0fs000	Gender=Fem|Number=Sing|PronType=Ind	5	nsubj	5:nsubj	ClusterId=CESS-CAT-AAP-20020302-18-s4.sn.2|ClusterType=Gen|MentionSpan=1-4
+1	Una	un	PRON	pi0fs000	Gender=Fem|Number=Sing|PronType=Ind	5	nsubj	5:nsubj	Entity=(CESSCATAAP2002030218s4.sn.2--1-gstype:gen
 2	de	de	ADP	sps00	_	4	case	4:case	_
-3	les	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	4:det	_
-4	conclusions	conclusió	NOUN	ncfp000	Gender=Fem|Number=Plur	1	nmod	1:nmod	ClusterId=CESS-CAT-AAP-20020302-18-s4.sn.8|ClusterType=Gen|MentionSpan=3-4
+3	les	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	4:det	Entity=(CESSCATAAP2002030218s4.sn.8--2-gstype:gen
+4	conclusions	conclusió	NOUN	ncfp000	Gender=Fem|Number=Plur	1	nmod	1:nmod	Entity=CESSCATAAP2002030218s4.sn.8)CESSCATAAP2002030218s4.sn.2)
 5	és	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	que	que	SCONJ	cs	_	11	mark	11:mark	_
-7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	_
-8	gel	gel	NOUN	ncms000	Gender=Masc|Number=Sing	11	nsubj	11:nsubj	ClusterId=CESS-CAT-AAP-20020302-18-c7|ClusterType=Gen|MentionSpan=7-8|MentionMisc=HomoDD
+7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	Entity=(CESSCATAAP2002030218c7--2-gstype:gen,HomoDD
+8	gel	gel	NOUN	ncms000	Gender=Masc|Number=Sing	11	nsubj	11:nsubj	Entity=CESSCATAAP2002030218c7)
 9	està	estar	AUX	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
 10	en	en	ADP	sps00	_	11	case	11:case	_
 11	retrocés	retrocés	NOUN	ncms000	Gender=Masc|Number=Sing	5	ccomp	5:ccomp	SpaceAfter=No

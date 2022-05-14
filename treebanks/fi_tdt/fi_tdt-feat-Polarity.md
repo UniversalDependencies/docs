@@ -29,10 +29,10 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 91 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (91; 100%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (91; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (91; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (91; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (91; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (91; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (91; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (87; 96%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (81; 89%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (91; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (91; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (91; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (91; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (91; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (91; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (87; 96%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (81; 89%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (91; 100% of non-empty `Polarity`): <em>ei, en, et, eivät, eikö, älä, Eikä, Eipäs, Emmäkään, Enkä</em>
-* `EMPTY` (27277): <em>ottaa, tulee, saa, sai, tuli, on, tehdä, sanoi, antaa, pitää</em>
+* `EMPTY` (27251): <em>ottaa, tulee, saa, sai, tuli, on, tehdä, sanoi, antaa, pitää</em>
 

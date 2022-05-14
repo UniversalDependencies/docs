@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 9	piiji	piijjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	11	punct	_	_
 11	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-12	:	:	PUNCT	PUNCT	_	11	punct	_	_
+12	:	:	PUNCT	PUNCT	_	13	punct	_	_
 13	kulddâl	kuvddled	VERB	V	Mood=Imp|Number=Sing|Person=2	11	parataxis	_	GTtags=Imprt,Sg2
 14	mâka	mâka	ADV	Adv	_	13	advmod:eval	_	_
 15	peeʹlljin	peʹllj	NOUN	N	Case=Com|Number=Sing	13	obl	_	GTtags=Sem/Body,Sg,Com

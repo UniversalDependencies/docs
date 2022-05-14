@@ -22,8 +22,8 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 obl	color:blue
-1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-2	át	_	NOUN	n	_	1	obl	_	_
+1	oyaʔwan	yaʔwat	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	át	át	NOUN	n	_	1	obl	_	_
 3	mãm	mãm	PART	part	_	1	discourse	_	_
 
 ~~~
@@ -38,8 +38,8 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	õn	õn	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	mãygãra	mãygãra	NOUN	n	_	3	obj	_	_
 3	wĩn	wĩ	VERB	v	Decl=Assert	0	root	_	_
-4	təgana	_	ADV	_	_	3	obl	_	_
-5	peʔ	_	ADP	_	Case=Loc	3	case	_	_
+4	təgana	təgana	ADV	_	_	3	obl	_	_
+5	peʔ	peʔ	ADP	_	Case=Loc	3	case	_	_
 
 ~~~
 
@@ -50,8 +50,8 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 obl	color:blue
-1	owakán	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-2	omãmkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1|Reflex=Yes	1	obl	_	_
+1	owakán	waká	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	omãmkəy	mãm	ADP	adp	Case=Dat|Number=Sing|Person=1|Reflex=Yes	1	obl	_	_
 
 ~~~
 

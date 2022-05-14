@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 60 tokens (3%) have a non-empty value of `Corf`.
 30 types (4%) occur at least once with a non-empty value of `Corf`.
-4 lemmas (3%) occur at least once with a non-empty value of `Corf`.
+27 lemmas (6%) occur at least once with a non-empty value of `Corf`.
 The feature is used with 5 part-of-speech tags: <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (6; 0% instances).
 
 ### `VERB`
@@ -23,6 +23,8 @@ The most frequent other feature values with which `VERB` and `Corf` co-occurred:
 `VERB` tokens may have the following values of `Corf`:
 
 * `Yes` (20; 100% of non-empty `Corf`): <em>tokera, totia, [towéya, tocaropaba, tocitóga, tokəga, tomãmwĩn, topaba, towaʔpara, towecɨra</em>
+
+`Corf` seems to be **lexical feature** of `VERB`. 100% lemmas (16) occur only with one value of `Corf`.
 
 ### `AUX`
 

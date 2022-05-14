@@ -40,7 +40,7 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 16	,	,	PUNCT	FF	_	20	punct	20:punct	_
 17	ma	ma	CCONJ	CC	_	20	cc	20:cc	_
 18	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	20:aux:pass	_
-19	stati	essere	AUX	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	20	cop	20:cop	_
+19	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	20	cop	20:cop	_
 20	eroici	eroico	ADJ	A	Gender=Masc|Number=Plur	5	conj	5:conj:ma	_
 21	un’	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	23:det	SpaceAfter=No
 22	intera	intero	ADJ	A	Gender=Fem|Number=Sing	23	amod	23:amod	_

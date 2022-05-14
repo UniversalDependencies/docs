@@ -8,35 +8,29 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-obl.html">obl</a></tt>.
 
-75 nodes (0%) are attached to their parents as `obl:agent`.
+101 nodes (0%) are attached to their parents as `obl:agent`.
 
-47 instances of `obl:agent` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.68.
+57 instances of `obl:agent` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.65346534653465.
 
-The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (52; 69% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (15; 20% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (7; 9% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (72; 71% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (18; 18% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (9; 9% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 obl:agent	color:blue
-1	Յիշած	յիշել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=Yišaç|LTranslit=yišel
-2	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	1	aux	_	Translit=ēr|LTranslit=em
-3	թէ	թէ	SCONJ	_	_	11	mark	_	Translit=t’ē|LTranslit=t’ē
-4	հայեր	Հայ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur	11	nsubj:pass	_	Translit=hayer|LTranslit=Hay
-5	իբրեւ	իբրեւ	ADP	_	AdpType=Prep	8	case	_	Translit=ibrew|LTranslit=ibrew
-6	երկրորդ	երկրորդ	ADJ	_	NumForm=Word|NumType=Ord	7	amod	_	Translit=erkrord|LTranslit=erkrord
-7	կարգի	կարգ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	8	nmod:poss	_	Translit=kargi|LTranslit=karg
-8	քաղաքացի	քաղաքացի	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	11	obl	_	Translit=k’aġak’ac’i|LTranslit=k’aġak’ac’i|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
-10	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	11	aux	_	Translit=kë|LTranslit=kë
-11	ճնշուէին	ճնշել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Pass	1	ccomp	_	Translit=č̣nšowēin|LTranslit=č̣nšel
-12	քիւրտերու	Քիւրտ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	11	obl:agent	_	Translit=k’iwrterow|LTranslit=K’iwrt
-13	կողմէ	կողմէ	ADP	_	AdpType=Post	12	case	_	Translit=koġmē|LTranslit=koġmē
-14	եւս	եւս	ADV	_	_	12	advmod:emph	_	Translit=ews|LTranslit=ews|SpaceAfter=No
-15	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 obl:agent	color:blue
+1	Մէկը	մէկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	7	nsubj	_	Translit=Mēkë|LTranslit=mēk|SpaceAfter=No
+2	՝	՝	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
+3	վախով	վախ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	6	obl:agent	_	Translit=vaxov|LTranslit=vax
+4	ու	ու	CCONJ	_	_	5	cc	_	Translit=ow|LTranslit=ow
+5	երազանքներով	երազանք	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	3	conj	_	Translit=erazank’nerov|LTranslit=erazank’
+6	պայմանաւորուած	պայմանաւորել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	7	acl	_	Translit=paymanaworowaç|LTranslit=paymanaworel
+7	ճանապարհն	ճանապարհ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=č̣anaparhn|LTranslit=č̣anaparh
+8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
+9	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -63,28 +57,24 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 13 obl:agent	color:blue
-1	Այս	այս	PRON	_	Deixis=Prox|PronType=Dem	4	nsubj	_	Translit=Ays|LTranslit=ays
-2	այն	այն	DET	_	Deixis=Remt|PronType=Dem	3	det	_	Translit=ayn|LTranslit=ayn
-3	րոպէն	րոպէ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	xcomp	_	Translit=ropēn|LTranslit=ropē
-4	եղաւ	ըլլալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=eġaw|LTranslit=ëllal
-5	ուր	ուր	ADV	_	PronType=Rel	8	advmod	_	Translit=owr|LTranslit=owr
-6	ակնթարթ	ակնթարթ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	8	obl	_	Translit=aknt’art’|LTranslit=aknt’art’
-7	մը	մը	DET	_	PronType=Art	6	det	_	Translit=më|LTranslit=më
-8	չափեց	չափել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	Translit=čap’ec’|LTranslit=čap’el
-9	յիմարութիւնը	յիմարութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	8	obj	_	Translit=yimarowt’iwnë|LTranslit=yimarowt’iwn
-10	ու	ու	CCONJ	_	_	16	cc	_	Translit=ow|LTranslit=ow
-11	կեանքին	կեանք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	14	obl	_	Translit=keank’in|LTranslit=keank’
-12	մէջ	մէջ	ADP	_	AdpType=Post	11	case	_	Translit=mēǰ|LTranslit=mēǰ
-13	անոր	ան	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	obl:agent	_	Translit=anor|LTranslit=an
-14	գործած	գործել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Act	15	acl	_	Translit=gorçaç|LTranslit=gorçel
-15	աւերին	աւեր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	16	nmod:poss	_	Translit=awerin|LTranslit=awer
-16	մեծութիւնը	մեծութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	9	conj	_	Translit=meçowt’iwnë|LTranslit=meçowt’iwn|SpaceAfter=No
-17	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 obl:agent	color:blue
+1	Արդարեւ	արդարեւ	ADV	_	_	10	discourse	_	Translit=Ardarew|LTranslit=ardarew|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
+3	պատմութեան	պատմութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	obl:agent	_	Translit=patmowt’ean|LTranslit=patmowt’iwn
+4	կողմէ	կողմէ	ADP	_	AdpType=Post	3	case	_	Translit=koġmē|LTranslit=koġmē
+5	նուիրագործուած	նուիրագործել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	10	acl	_	Translit=nowiragorçowaç|LTranslit=nowiragorçel|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
+7	անոր	ան	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	9	obl:agent	_	Translit=anor|LTranslit=an
+8	կողմէ	կողմէ	ADP	_	AdpType=Post	7	case	_	Translit=koġmē|LTranslit=koġmē
+9	վերահաստատուած	վերահաստատել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	5	conj	_	Translit=verahastatowaç|LTranslit=verahastatel
+10	առաքելութիւնն	առաքելութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=aṙak’elowt’iwnn|LTranslit=aṙak’elowt’iwn
+11	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	Translit=ē|LTranslit=em
+12	առանցքայինը	առանցքային	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	Translit=aṙanc’k’ayinë|LTranslit=aṙanc’k’ayin|SpaceAfter=No
+13	։	։	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

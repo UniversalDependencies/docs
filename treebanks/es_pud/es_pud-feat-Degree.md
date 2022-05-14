@@ -11,7 +11,7 @@ It occurs with 3 different values: `Abs`, `Cmp`, `Sup`.
 
 150 tokens (1%) have a non-empty value of `Degree`.
 14 types (0%) occur at least once with a non-empty value of `Degree`.
-1 lemmas (6%) occur at least once with a non-empty value of `Degree`.
+7 lemmas (0%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 2 part-of-speech tags: <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (114; 0% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (36; 0% instances).
 
 ### `ADV`
@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (114; 100% of non-empty `Degree`): <em>más, menos</em>
-* `EMPTY` (795): <em>no, también, cuando, después, ya, muy, tanto, antes, donde, solo</em>
+* `EMPTY` (781): <em>no, también, cuando, después, ya, muy, tanto, antes, donde, solo</em>
 
 ### `ADJ`
 
@@ -36,5 +36,5 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Abs` (1; 3% of non-empty `Degree`): <em>altísima</em>
 * `Cmp` (30; 83% of non-empty `Degree`): <em>mayor, mejores, mejor, mayores, peor, menor, menores, peores</em>
 * `Sup` (5; 14% of non-empty `Degree`): <em>máxima, pésimo</em>
-* `EMPTY` (1438): <em>gran, primera, nueva, nacional, grandes, primer, últimos, británica, nuevos, Unidos</em>
+* `EMPTY` (1444): <em>gran, primera, nueva, nacional, grandes, primer, últimos, británica, nuevos, Unidos</em>
 

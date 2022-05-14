@@ -32,7 +32,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 7	audivimus	audio	VERB	va4irp1	Aspect=Perf|InflClass=LatI|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	Pu	_	9	punct	_	_
 9	Thomam	thomas	PROPN	Sms1a	Case=Acc|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Sing	7	conj:expl	_	_
-10	videlicet	uidelicet	CCONJ	r	Compound=Yes|ConjType=Expl	9	cc	_	_
+10	videlicet	uidelicet	CCONJ	r	Compound=Yes|ConjType=Expl|VerbForm=Fin	9	cc	_	_
 11	et	et	CCONJ	co	_	12	cc	_	_
 12	Ugolinum	ugolinus	PROPN	Sms2a	Case=Acc|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	9	conj	_	_
 13	Bucciolam	bucciola	PROPN	Sms1a	Case=Acc|Gender=Masc|InflClass=IndEurA|NameType=Sur|Number=Sing	12	flat:name	_	SpaceAfter=No

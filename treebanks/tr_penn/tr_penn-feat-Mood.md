@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `CndGen`, `CndGenPot`, `CndPot`, `DesPot`, `Gen`, `GenNec`, `GenPot` are language-specific.
 It occurs with 14 different values: `Cnd`, `CndGen`, `CndGenPot`, `CndPot`, `Des`, `DesPot`, `Gen`, `GenNec`, `GenPot`, `Imp`, `Ind`, `Nec`, `Opt`, `Pot`.
 
-16092 tokens (9%) have a non-empty value of `Mood`.
+16090 tokens (9%) have a non-empty value of `Mood`.
 5080 types (14%) occur at least once with a non-empty value of `Mood`.
 1479 lemmas (10%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15938; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (154; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15936; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (154; 0% instances).
 
 ### `VERB`
 
-15938 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Mood`.
+15936 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15809; 99%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (14803; 93%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14764; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13821; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13045; 82%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 58%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 50%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15807; 99%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (14803; 93%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14762; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13821; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13043; 82%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 58%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 50%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -31,12 +31,12 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Gen` (1580; 10% of non-empty `Mood`): <em>sahiptir, vardır, eder, şirketidir, biridir, dolardır, olur, nedir, gerekir, bağlıdır</em>
 * `GenNec` (49; 0% of non-empty `Mood`): <em>olmalıdır, yapmalıdır, etmelidir, getirmelidir, kaldırmalıdır, onaylamalıdır, yapılmalıdır, almalıdır, alınmalıdır, açıklıyor</em>
 * `GenPot` (560; 4% of non-empty `Mood`): <em>olabilir, edebilir, olabilirdi, olmayabilir, edilebilir, getirebilir, alabilir, olamaz, verebilir, gelebilir</em>
-* `Imp` (281; 2% of non-empty `Mood`): <em>olsun, kıyasla, dile, dönüş, et, al, git, bekleyin, düşünün, edin</em>
+* `Imp` (279; 2% of non-empty `Mood`): <em>olsun, kıyasla, dile, dönüş, et, al, git, bekleyin, düşünün, edin</em>
 * `Ind` (12850; 81% of non-empty `Mood`): <em>söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</em>
 * `Nec` (78; 0% of non-empty `Mood`): <em>olmalı, etmeli, edilmeliydi, etmeliyiz, gitmeli, incelemeliyiz, olmalılar, olmalıydı, almalı, anlamalıyız</em>
 * `Opt` (36; 0% of non-empty `Mood`): <em>gide, olayım, satışa, Ola, Yaka, alalım, anlayalım, açıklayalım, bata, denemeyelim</em>
 * `Pot` (165; 1% of non-empty `Mood`): <em>ulaşılamadı, alamadı, ulaşamadık, yapamadı, alabiliyor, bulamadı, bulunamadı, edebiliyor, edemedi, edemiyor</em>
-* `EMPTY` (71): <em>neler, Kıymetler, içindeler, danışmanlar, arayışındalar, eğilimindeler, yetkililer, Faturalandırmalar, Gençler, Japonlar</em>
+* `EMPTY` (52): <em>neler, içindeler, danışmanlar, arayışındalar, eğilimindeler, Faturalandırmalar, azınlıktalar, bağımlılar, benzerler, demekteler</em>
 
 <table>
   <tr><th>Paradigm <i>yap</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th><th><tt>Opt</tt></th><th><tt>Des</tt></th><th><tt>Nec</tt></th><th><tt>CndGen</tt></th><th><tt>CndGenPot</tt></th><th><tt>DesPot</tt></th><th><tt>Gen</tt></th><th><tt>GenNec</tt></th><th><tt>GenPot</tt></th></tr>

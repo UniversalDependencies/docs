@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2010 nodes (4%) are attached to their parents as `root`.
+2011 nodes (4%) are attached to their parents as `root`.
 
-2010 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.57412935323383.
+2011 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.56439582297364.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1643; 82% instances), -<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (196; 10% instances), -<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (94; 5% instances), -<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (51; 3% instances), -<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), -<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (7; 0% instances), -<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1644; 82% instances), -<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (196; 10% instances), -<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (94; 5% instances), -<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (51; 3% instances), -<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), -<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (7; 0% instances), -<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
 8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
 9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
-10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl	_	_
+10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl:relcl	_	_
 11	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	obj	_	Orig=ⲟⲩ`
 12	ϩⲛ	ϩⲛ	ADP	PREP	_	14	case	_	Orig=ϩ︤ⲛ︥
 13	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(place
@@ -53,7 +53,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Orig=ⲑ
 3	ϩⲉ	ϩⲉ	NOUN	N	_	0	root	_	Orig=ⲉ
 4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
-5	ⲥⲏϩ	ⲥϩⲁⲓ	VERB	VSTAT	VerbForm=Fin	3	acl	_	_
+5	ⲥⲏϩ	ⲥϩⲁⲓ	VERB	VSTAT	VerbForm=Fin	3	acl:relcl	_	_
 6	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	8	mark	_	_
 7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(object
 8	ϩⲏⲃⲥ	ϩⲏⲃⲥ	NOUN	N	_	5	ccomp	_	Orig=ϩⲏⲃ︤ⲥ︥
@@ -78,14 +78,14 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 2	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
 3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
 4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-5	ϫⲡⲟ	ϫⲡⲟ	VERB	V	VerbForm=Fin	1	acl	_	_
+5	ϫⲡⲟ	ϫⲡⲟ	VERB	V	VerbForm=Fin	1	acl:relcl	_	_
 6	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
 7	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	5	advmod	_	Orig=ϩⲣⲁⲓ̈
 8	ϩⲙ	ϩⲛ	ADP	PREP	_	10	case	_	Orig=ϩ︤ⲙ︥
 9	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	Entity=(substance
 10	ⲥⲛⲟϥ	ⲥⲛⲟϥ	NOUN	N	_	5	obl	_	_
 11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
-12	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	10	acl	_	Entity=substance)person)
+12	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	10	acl:relcl	_	Entity=substance)person)
 
 ~~~
 

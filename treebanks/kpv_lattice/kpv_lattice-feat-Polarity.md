@@ -23,7 +23,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (150; 100% of non-empty `Polarity`): <em>эз, оз, абу, он, эг, ог, эн, ни, абуӧсь, оз-ӧ</em>
-* `EMPTY` (157): <em>вӧлі, колӧ, вермы, вӧліны, кутіс, кут, не, лоны, позьӧ, эм</em>
+* `EMPTY` (158): <em>вӧлі, колӧ, вермы, вӧліны, кутіс, кут, не, лоны, позьӧ, эм</em>
 
 ### `PRON`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (21; 100% of non-empty `Polarity`): <em>некод, некутшӧм, нинӧм, ниӧти, некодысь, некодӧн, некодӧс, нем, нинӧмысь, нинӧмӧн</em>
-* `EMPTY` (514): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
+* `EMPTY` (516): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
 
 ### `ADV`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (11; 100% of non-empty `Polarity`): <em>некор, некыдз, недыр, некӧн, неуна, ни</em>
-* `EMPTY` (863): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
+* `EMPTY` (865): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
 
 ### `ADJ`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): <em>неыджыд, Неылысса, некутшӧм</em>
-* `EMPTY` (484): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
+* `EMPTY` (487): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
 
 ### `CCONJ`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>ни</em>
-* `EMPTY` (330): <em>да, и, a, но, а, либӧ, дай, ли, ни, Ho</em>
+* `EMPTY` (331): <em>да, и, a, но, а, либӧ, дай, ни, ли, Ho</em>
 
 ### `VERB`
 
@@ -76,5 +76,5 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>Абу, гӧгӧрвотӧмыс, ог</em>
-* `EMPTY` (1347): <em>воис, идралӧм, лои, лоны, шуны, идралӧмын, мунны, мунӧ, Локтас, видзӧдліс</em>
+* `EMPTY` (1348): <em>воис, идралӧм, лои, лоны, шуны, идралӧмын, мунны, мунӧ, Локтас, видзӧдліс</em>
 

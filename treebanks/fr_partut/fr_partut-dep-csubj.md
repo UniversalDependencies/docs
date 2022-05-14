@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `csubj`: <tt><a href="fr_partut-dep-cs
 63 nodes (0%) are attached to their parents as `csubj`.
 
 61 instances of `csubj` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.88888888888889.
+Average distance between parent and child is 4.87301587301587.
 
 The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (35; 56% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (17; 27% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (7; 11% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 

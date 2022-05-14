@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-145 nodes (0%) are attached to their parents as `fixed`.
+143 nodes (0%) are attached to their parents as `fixed`.
 
-145 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.00689655172414.
+143 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00699300699301.
 
-The following 26 pairs of parts of speech are connected with `fixed`: <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (25; 17% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (19; 13% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (19; 13% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (15; 10% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (13; 9% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (11; 8% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 6% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (4; 3% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 26 pairs of parts of speech are connected with `fixed`: <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (38; 27% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (19; 13% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (16; 11% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (15; 10% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (9; 6% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 6% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (4; 3% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -48,49 +48,6 @@ The following 26 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 14 fixed	color:blue
-1	Quedam	quidam	DET	dinpfn	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Ind	0	root	_	_
-2	vero	uero	ADV	r	_	1	discourse	_	_
-3	sunt	sum	AUX	va5ipp3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
-4	diesim	diesis	NOUN	sfs3ar	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing	5	obj	_	_
-5	patientes	patior	VERB	vd3pppfn	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatI2|InflClass[nominal]=IndEurI|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	SpaceAfter=No
-6	:	:	PUNCT	Pu	_	11	punct	_	_
-7	et	et	CCONJ	co	_	11	cc	_	_
-8	diesis	diesis	NOUN	sfs3nr	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	11	nsubj	_	_
-9	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf	11	xcomp	_	_
-10	non	non	PART	r	Polarity=Neg	11	advmod:neg	_	_
-11	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
-12	,	,	PUNCT	Pu	_	16	punct	_	_
-13	secundum	secundum	ADP	e	AdpType=Prep|VerbForm=Gdv	16	mark	_	_
-14	quod	quod	SCONJ	cs	PronType=Rel	13	fixed	_	_
-15	eam	is	PRON	ddesfa	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
-16	appellamus	appello	VERB	va1ipp1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	SpaceAfter=No
-17	,	,	PUNCT	Pu	_	22	punct	_	_
-18	nisi	nisi	SCONJ	cs	Polarity=Neg	22	mark	_	_
-19	reiteratio	reiteratio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	22	nsubj	_	_
-20	unius	unus	DET	dpfsg	Case=Gen|Gender=Fem|InflClass=LatPron|Number=Sing|NumType=Card|PronType=Ind	21	det	_	_
-21	ode	oda	NOUN	sfs1g	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	19	nmod	_	_
-22	fiat	fio	VERB	vs5cps3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	advcl	_	SpaceAfter=No
-23	,	,	PUNCT	Pu	_	26	punct	_	_
-24	vel	uel	CCONJ	co	_	26	cc	_	_
-25	ante	ante	ADP	e	AdpType=Prep	26	case	_	_
-26	diesim	diesis	NOUN	sfs3ar	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing	22	conj	_	SpaceAfter=No
-27	,	,	PUNCT	Pu	_	29	punct	_	_
-28	vel	uel	CCONJ	co	_	29	cc	_	_
-29	post	post	ADP	e	AdpType=Prep	26	conj	_	SpaceAfter=No
-30	,	,	PUNCT	Pu	_	32	punct	_	_
-31	vel	uel	CCONJ	co	_	32	cc	_	_
-32	undique	undique	ADV	r	Form=Emp|PronType=Ind	26	conj	_	SpaceAfter=No
-33	.	.	PUNCT	Pu	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 17	bgColor:blue
@@ -117,6 +74,39 @@ The following 26 pairs of parts of speech are connected with `fixed`: <tt><a hre
 19	memorabili	memorabilis	ADJ	afs2b	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	15	conj	_	_
 20	castigavit	castigo	VERB	va1irs3	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 21	.	.	PUNCT	Pu	_	20	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 fixed	color:blue
+1	Dicit	dico	VERB	va3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	enim	enim	PART	c	Form=Emp	1	discourse	_	_
+3	Cristus	christus	PROPN	Sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Sur|Number=Sing	1	nsubj	_	_
+4	Petro	petrus	PROPN	Sms2d	Case=Dat|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	1	obl:arg	_	SpaceAfter=No
+5	:	:	PUNCT	Pu	_	8	punct	_	_
+6	«	«	PUNCT	Pu	_	8	punct	_	SpaceAfter=No
+7	Tibi	tu	PRON	ppp2smd	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	8	obl:arg	_	_
+8	dabo	do	VERB	va1ifs1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+9	claves	clauis	NOUN	sfp3a	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Plur	8	obj	_	_
+10	regni	regnum	NOUN	sns2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	9	nmod	_	_
+11	celorum	caelum	NOUN	snp2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Plur	10	nmod	_	SpaceAfter=No
+12	»	»	PUNCT	Pu	_	8	punct	_	SpaceAfter=No
+13	,	,	PUNCT	Pu	_	17	punct	_	_
+14	hoc	hic	DET	ddisnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	17	cc	_	_
+15	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	fixed	_	_
+16	“	“	PUNCT	Pu	_	17	punct	_	SpaceAfter=No
+17	Faciam	facio	VERB	va3ifs1	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	8	conj:expl	_	_
+18	te	tu	PRON	ppp2sma	Case=Acc|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	17	obj	_	_
+19	hostiarium	hostiarius	NOUN	sms2a	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	17	advcl:pred	_	_
+20	regni	regnum	NOUN	sns2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	19	nmod	_	_
+21	celorum	caelum	NOUN	snp2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Plur	20	nmod	_	SpaceAfter=No
+22	”	”	PUNCT	Pu	_	17	punct	_	SpaceAfter=No
+23	.	.	PUNCT	Pu	_	1	punct	_	_
 
 ~~~
 

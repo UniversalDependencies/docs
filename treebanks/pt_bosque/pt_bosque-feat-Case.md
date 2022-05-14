@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 3 different values: `Acc`, `Dat`, `Nom`.
 
 2542 tokens (1%) have a non-empty value of `Case`.
-42 types (0%) occur at least once with a non-empty value of `Case`.
+41 types (0%) occur at least once with a non-empty value of `Case`.
 14 lemmas (0%) occur at least once with a non-empty value of `Case`.
 The feature is used with 1 part-of-speech tags: <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2542; 1% instances).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Acc` (1780; 70% of non-empty `Case`): <em>se, o, me, a, nos, lo, os, la, as, los</em>
 * `Dat` (228; 9% of non-empty `Case`): <em>lhe, me, nos, lhes, se, Ihe, vos</em>
 * `Nom` (534; 21% of non-empty `Case`): <em>ele, eu, eles, ela, você, nós, elas, vocês, voce, vós</em>
-* `EMPTY` (4925): <em>que, o, isso, onde, quem, tudo, os, isto, nada, a</em>
+* `EMPTY` (4926): <em>que, o, isso, onde, quem, tudo, os, isto, nada, a</em>
 
 <table>
   <tr><th>Paradigm <i>ele</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>

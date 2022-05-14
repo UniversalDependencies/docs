@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `DET`
 
-There are 5 `DET` lemmas (2%), 7 `DET` types (3%) and 14 `DET` tokens (2%).
+There are 5 `DET` lemmas (2%), 7 `DET` types (2%) and 14 `DET` tokens (2%).
 Out of 15 observed tags, the rank of `DET` is: 6 in number of lemmas, 5 in number of types and 6 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ie, kaiãapuku, ithu, kaiãpuku, kaiãũ</em>
@@ -15,7 +15,7 @@ The 10 most frequent `DET` types:  <em>iia, kaiãapukury, ithu, iie, kaiãapuku,
 
 The 10 most frequent ambiguous lemmas: <em>ithu</em> (<tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> 2, <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>kaiãapukury</em> (<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 3, <tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> 1), <em>kaiãapuku</em> (<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 3, <tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>kaiãapukury</em> (<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 3, <tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> 1), <em>kaiãapuku</em> (<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 3, <tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> 1), <em>kaiãũpuku</em> (<tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> 1, <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 1)
 
 
 * <em>kaiãapukury</em>
@@ -24,10 +24,13 @@ The 10 most frequent ambiguous types:  <em>kaiãapukury</em> (<tt><a href="apu_u
 * <em>kaiãapuku</em>
   * <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 3: <em>Nynuwa tiwitxi <b>kaiãapuku</b> aapukutxiã .</em>
   * <tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> 1: <em>Ywa matxaka <b>kaiãapuku</b> maky .</em>
+* <em>kaiãũpuku</em>
+  * <tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> 1: <em>Uwa awa <b>kaiãũpuku</b> amarynyky .</em>
+  * <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 1: <em>– Ywã <b>kaiãũpuku</b> kumyry .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.400000 (the average of all parts of speech is 1.195652).
+The form / lemma ratio of `DET` is 1.400000 (the average of all parts of speech is 1.195021).
 
 The 1st highest number of forms (2) was observed with the lemma “ie”: <em>iia, iie</em>.
 

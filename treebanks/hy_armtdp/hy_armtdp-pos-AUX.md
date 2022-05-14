@@ -15,7 +15,7 @@ The 10 most frequent `AUX` types:  <em>է, էր, են, եմ, էին, չի, են�
 
 The 10 most frequent ambiguous lemmas: <em>լինել</em> (<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 171, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 61), <em>պետք</em> (<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 42, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 37, <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 2), <em>տալ</em> (<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 139, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 2), <em>կամ</em> (<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 123, <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> 91, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 1), <em>ունեմ</em> (<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 108, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>է</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 1424, <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt> 2), <em>ես</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 82, <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> 69), <em>չէ</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 49, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 12, <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt> 7), <em>պետք</em> (<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 39, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 37, <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 2), <em>եղել</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 23, <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 20), <em>ա</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 16, <tt><a href="hy_armtdp-pos-X.html">X</a></tt> 2), <em>լինելու</em> (<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 15, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 7), <em>լինում</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 7, <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 6), <em>կլինի</em> (<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 9, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 7), <em>լինեն</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 3, <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>է</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 1424, <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt> 2), <em>ես</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 82, <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> 69), <em>չէ</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 49, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 12, <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt> 7), <em>պետք</em> (<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 39, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 37, <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 2), <em>եղել</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 23, <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 20), <em>լինելու</em> (<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 15, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 7), <em>լինում</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 7, <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 6), <em>կլինի</em> (<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 9, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 7), <em>լինեն</em> (<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 3, <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 2), <em>լիներ</em> (<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 11, <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 3)
 
 
 * <em>է</em>
@@ -35,9 +35,6 @@ The 10 most frequent ambiguous types:  <em>է</em> (<tt><a href="hy_armtdp-pos-A
 * <em>եղել</em>
   * <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 23: <em>Ուժասպառ եմ <b>եղել</b> Ֆինլանդիայում ։</em>
   * <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 20: <em>Մենք հո ոնց թամաշա անող <b>եղել</b> ենք , էնպես էլ լինելու ենք ։</em>
-* <em>ա</em>
-  * <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 16: <em>Ուսինս էլ թրիք չի , կեղտ <b>ա</b> ...</em>
-  * <tt><a href="hy_armtdp-pos-X.html">X</a></tt> 2: <em>Էդուարդ Աղաջանյանին Կանադա գործուղելու մ <b>ա</b> ս ի ն</em>
 * <em>լինելու</em>
   * <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 15: <em>Մենք հո ոնց թամաշա անող եղել ենք , էնպես էլ <b>լինելու</b> ենք ։</em>
   * <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 7: <em>Մենք նաև բաց ենք <b>լինելու</b> ձեր հնչեցրած առաջարկությունների և քննադատության հանդեպ ։</em>
@@ -50,10 +47,13 @@ The 10 most frequent ambiguous types:  <em>է</em> (<tt><a href="hy_armtdp-pos-A
 * <em>լինեն</em>
   * <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 3: <em>Այ , Կաթողիկեի նոր խաչը ոնց որ այդ նոր պատշգամբներից մի կտոր պոկած <b>լինեն</b> ու գմբեթին նստեցրած :</em>
   * <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 2: <em>- Պարոն Նեդոլյան , որոնք ՞ պետք է <b>լինեն</b> այն քայլերը , որոն պետք է իրականացնեն նոր կառավարությունն ու վարչապետն առաջնահերթ ։</em>
+* <em>լիներ</em>
+  * <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> 11: <em>Չգիտեմ , ինչ կզգար Հիսուսը , եթե Հայր Աստված հարբեցող <b>լիներ</b> :</em>
+  * <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> 3: <em>Նա մազերը հարդարած պիտի <b>լիներ</b> , բայց ինչ - ինչ պատճառներով այդ օրը չէր հարդարել ։</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.285714 (the average of all parts of speech is 1.814529).
+The form / lemma ratio of `AUX` is 6.285714 (the average of all parts of speech is 1.814455).
 
 The 1st highest number of forms (24) was observed with the lemma “եմ”: <em>ա, եմ, են, ենք, ես, եք, է, էի, էին, էինք, էիր, էր, չեմ, չեն, չենք, չես, չեք, չէ, չէի, չէին, չէինք, չէիր, չէր, չի</em>.
 

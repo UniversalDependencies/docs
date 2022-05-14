@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-249 nodes (1%) are attached to their parents as `mark`.
+267 nodes (1%) are attached to their parents as `mark`.
 
-249 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.55421686746988.
+267 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.29588014981273.
 
-The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> (196; 79% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> (19; 8% instances), <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> (14; 6% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_pud-pos-DET.html">DET</a></tt> (8; 3% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> (196; 73% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> (19; 7% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> (18; 7% instances), <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> (14; 5% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_pud-pos-DET.html">DET</a></tt> (8; 3% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,28 +58,27 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 1 mark	color:blue
-1	Porque	_	SCONJ	IN	_	9	mark	_	_
-2	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	série	série	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
-4	1	_	NUM	CD	Gender=Masc	3	appos	_	_
-5	não	não	ADV	RB	Polarity=Neg	9	advmod	_	_
-6	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
-7	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-8	mais	_	ADJ	JJS	Gender=Fem|Number=Sing	9	amod	_	_
-9	antiga	antigo	NOUN	NN	Gender=Fem|Number=Sing	13	advcl	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	9	punct	_	_
-11	muitos	_	DET	DT	Gender=Masc|Number=Plur	12	det	_	_
-12	usuários	usuário	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
-13	conseguem	conseguir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
-14	economizar	_	VERB	VB	_	13	xcomp	_	_
-15	100	_	NUM	CD	_	16	nummod	_	_
-16	Euros	euro	NOUN	NN	Gender=Masc|Number=Plur	14	obj	_	SpaceAfter=No
-17	.	.	PUNCT	.	_	13	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 14 mark	color:blue
+1	A	_	ADP	IN	_	5	case	_	_
+2	partir	_	VERB	VB	_	1	fixed	_	_
+3	de	de	ADP	INDT	_	1	fixed	_	_
+4	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	século	século	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
+6	IX	_	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_
+7	a.C.	_	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	5	punct	_	_
+9	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	primeiros	primeiro	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
+11	textos	texto	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
+12	gregos	grego	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
+13	começaram	começar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+14	a	_	ADP	IN	_	15	mark	_	_
+15	surgir	surgir	VERB	VB	_	13	xcomp	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	13	punct	_	_
 
 ~~~
 

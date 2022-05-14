@@ -181,7 +181,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 `ADP` tokens may have the following values of `Gender`:
 
 * `Neut` (1; 100% of non-empty `Gender`): <em>сравнение</em>
-* `EMPTY` (22096): <em>на, в, за, от, с, по, до, след, като, през</em>
+* `EMPTY` (22095): <em>на, в, за, от, с, по, до, след, като, през</em>
 
 ## Relations with Agreement in `Gender`
 

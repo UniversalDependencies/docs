@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Karo-TuDeT: POS Tags: `ADJ`
 
-There are 11 `ADJ` lemmas (8%), 85 `ADJ` types (10%) and 238 `ADJ` tokens (10%).
-Out of 13 observed tags, the rank of `ADJ` is: 5 in number of lemmas, 3 in number of types and 5 in number of tokens.
+There are 53 `ADJ` lemmas (10%), 85 `ADJ` types (10%) and 238 `ADJ` tokens (10%).
+Out of 13 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>_, pecép, pap, pãt, bap, cú, igu, maŋap, pət, wew</em>
+The 10 most frequent `ADJ` lemmas: <em>ʔaʔ, cú, pát, pap, káʔ, peʔ, kap, pɨʔ, pecép, ʔa</em>
 
-The 10 most frequent `ADJ` types:  <em>cú, ʔa, gap, káʔ, ʔaʔ, bap, beʔ, pattem, aʔ, pɨʔ</em>
+The 10 most frequent `ADJ` types:  <em>cú, ʔa, gap, káʔ, ʔaʔ, bap, beʔ, páttem, aʔ, pɨʔ</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 423, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 392, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 224, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 132, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 82, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 78, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 71, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 57, <tt><a href="arr_tudet-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="arr_tudet-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="arr_tudet-pos-X.html">X</a></tt> 5, <tt><a href="arr_tudet-pos-NUM.html">NUM</a></tt> 4, <tt><a href="arr_tudet-pos-PUNCT.html">PUNCT</a></tt> 3), <em>pãt</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 1), <em>pət</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ʔaʔ</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 27, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2), <em>cú</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 24, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 6, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>pát</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 2), <em>pap</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 21, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 4, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>peʔ</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 21, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>kap</em> (<tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 29, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>ʔɨp</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 1), <em>cára</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 1), <em>kɨt</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 1), <em>pãt</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>cú</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 20, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>ʔa</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 3), <em>gap</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>ʔaʔ</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2), <em>bap</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>pattem</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 2), <em>cúrem</em> (<tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 8, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 3), <em>cára</em> (<tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 4, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 2), <em>peʔ</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 21, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>bət</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>cú</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 20, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>ʔa</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 3), <em>gap</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>ʔaʔ</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2), <em>bap</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>páttem</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 2), <em>cúrem</em> (<tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 8, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 3), <em>cára</em> (<tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 4, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 2), <em>peʔ</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 21, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>bət</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1)
 
 
 * <em>cú</em>
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>cú</em> (<tt><a href="arr_tudet-pos-
   * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 18: <em>wat kaʔa <b>ʔa</b> pɨk=toʔ</em>
   * <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 3: <em>paramu <b>ʔa</b> owikop</em>
 * <em>gap</em>
-  * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 11: <em>wayo <b>gap</b> ar iʔop</em>
+  * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 9: <em>iyãy <b>gap</b></em>
   * <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1: <em>yate <b>gap</b></em>
 * <em>ʔaʔ</em>
   * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 9: <em>at toat kaʔaʔ <b>ʔaʔ</b> pẽn</em>
@@ -33,15 +33,15 @@ The 10 most frequent ambiguous types:  <em>cú</em> (<tt><a href="arr_tudet-pos-
 * <em>bap</em>
   * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 8: <em>wayo <b>bap</b> ci</em>
   * <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1: <em>wayo naká <b>bap</b></em>
-* <em>pattem</em>
-  * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 8: <em><b>pattem</b> maʔpəy</em>
-  * <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 2: <em><b>pattem</b> iʔke web okera</em>
+* <em>páttem</em>
+  * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 8: <em><b>páttem</b> maʔpəy</em>
+  * <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 2: <em><b>páttem</b> iʔke web okera</em>
 * <em>cúrem</em>
   * <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 8: <em>õn wat tap yaʔti nãn <b>cúrem</b></em>
   * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 3: <em><b>cúrem</b> wep okera</em>
 * <em>cára</em>
   * <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 4: <em>õn wat mok pe <b>cára</b> kanã yaʔti nãn iʔke</em>
-  * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 2: <em>icap pɨʔ <b>cára</b> bɨʔ</em>
+  * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 2: <em>icáp pɨʔ <b>cára</b> bɨʔ</em>
 * <em>peʔ</em>
   * <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 21: <em>õn mãygãra wĩn təgana <b>peʔ</b></em>
   * <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 2: <em>mok <b>peʔ</b> cakɨ</em>
@@ -52,13 +52,13 @@ The 10 most frequent ambiguous types:  <em>cú</em> (<tt><a href="arr_tudet-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 7.727273 (the average of all parts of speech is 5.748252).
+The form / lemma ratio of `ADJ` is 1.603774 (the average of all parts of speech is 1.579457).
 
-The 1st highest number of forms (76) was observed with the lemma “_”: <em>aʔ, aʔkɨrɨk, aʔpap, aʔtarap, aʔwak, bab, bap, bat, battem, baʔpiktem, beʔ, bɨk, bɨʔ, cahwíptem, cakot, capõt, caropaptem, cára, cárarem, cú, cú], cúrem, cɨʔ, gap, gáʔ, ip, kap, kaptem, ká, káʔ, kãp, kĩn, kɨt, manẽ, mattem, maŋaptem, maʔ, mecéb, meʔ, mərəp, narap, nãʔ, op, owicorop, pab, pap, par, para, pat, pattem, paʔpik, paʔpiktem, pecéptem, peroʔ, peʔ, pát, páy, pĩg, pɨy, pɨʔ, pɨʔtoʔ, rawrem], tawrem, táy, wecéb, wəŋnem, wɨn, ŋɨt, ʔa, ʔaʔ, ʔaʔtoʔ, ʔip, ʔittem, ʔĩt, ʔĩttem, ʔɨp</em>.
+The 1st highest number of forms (7) was observed with the lemma “pát”: <em>bát, báttem, máttem, pár, pára, pát, páttem</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “pãt”: <em>mãt, pãttem</em>.
+The 2nd highest number of forms (6) was observed with the lemma “pap”: <em>aʔpap, bab, bap, map, pab, pap</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “bap”: <em>bah</em>.
+The 3rd highest number of forms (4) was observed with the lemma “pecép”: <em>becép, mecéb, pecéptem, wecéb</em>.
 
 `ADJ` occurs with 3 features: <tt><a href="arr_tudet-feat-Clas.html">Clas</a></tt> (124; 52% instances), <tt><a href="arr_tudet-feat-Number.html">Number</a></tt> (11; 5% instances), <tt><a href="arr_tudet-feat-Person.html">Person</a></tt> (7; 3% instances)
 
@@ -66,7 +66,7 @@ The 3rd highest number of forms (1) was observed with the lemma “bap”: <em>b
 
 `ADJ` occurs with 16 feature combinations.
 The most frequent feature combination is `_` (107 tokens).
-Examples: <em>cú, pattem, pat, bat, battem, becép, cúrem, maŋaptem, paʔpiktem, pecéptem</em>
+Examples: <em>cú, páttem, pát, bát, becép, báttem, cúrem, maŋaptem, paʔpiktem, pecéptem</em>
 
 
 ## Relations

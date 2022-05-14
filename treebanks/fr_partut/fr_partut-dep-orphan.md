@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 7	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	rapporteur	rapporteur	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
 9	pour	pour	ADP	E	_	11	case	_	_
-10	son	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	11	det	_	_
+10	son	son	DET	AP	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	11	det	_	_
 11	travail	travail	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
 12	technique	technique	ADJ	A	Number=Sing	11	amod	_	_
 13	extrêmement	extrêmement	ADV	B	_	14	advmod	_	_
@@ -49,7 +49,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 25	qu'	que	PRON	PR	PronType=Rel	28	obj	_	SpaceAfter=No
 26	elle	elle	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
 27	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
-28	formulée	formulée	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	24	acl:relcl	_	SpaceAfter=No
+28	formulée	formuler	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	24	acl:relcl	_	SpaceAfter=No
 29	.	.	PUNCT	FS	_	2	punct	_	_
 
 ~~~

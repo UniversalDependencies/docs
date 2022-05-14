@@ -23,14 +23,14 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 aux	color:blue
-1	И	_	CCONJ	_	_	3	cc	_	Gloss=
-2	ынӄэн	_	PART	_	_	3	discourse	_	Gloss=DET
-3	уйӈэ	_	VERB	_	_	0	root	_	Gloss=нет
-4	гэнъэԓԓин	_	AUX	_	_	3	aux	_	Gloss=PF-стать-PF.3SG
-5	гагаԓята	_	VERB	_	_	3	advcl	_	Gloss=COM-проходить-INS
-6	аԓымы	_	PART	_	_	7	discourse	_	Gloss=хотя
-7	ӈавкэтԓьан	_	NOUN	_	_	3	parataxis	_	Gloss=FEM-девочка-ATTR-NOM.SG|SpaceAfter=No
-8	.	_	PUNCT	_	_	3	punct	_	_
+1	И	_	CCONJ	_	_	3	cc	3:cc	Gloss=
+2	ынӄэн	_	PART	_	_	3	discourse	3:discourse	Gloss=DET
+3	уйӈэ	_	VERB	_	_	0	root	0:root	Gloss=нет
+4	гэнъэԓԓин	_	AUX	_	_	3	aux	3:aux	Gloss=PF-стать-PF.3SG
+5	гагаԓята	_	VERB	_	_	3	advcl	3:advcl	Gloss=COM-проходить-INS
+6	аԓымы	_	PART	_	_	7	discourse	7:discourse	Gloss=хотя
+7	ӈавкэтԓьан	_	NOUN	_	_	3	parataxis	3:parataxis	Gloss=FEM-девочка-ATTR-NOM.SG|SpaceAfter=No
+8	.	_	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 
@@ -41,13 +41,13 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 aux	color:blue
-1	Тивымкэ	_	X	_	_	2	reparandum	_	Gloss=FST
-2	тивык	_	VERB	_	_	0	root	_	Gloss=1SG.S/A-сказать-1SG.S
-3	этаны	_	ADV	_	_	6	advmod	_	Gloss=наверное
-4	вай	_	ADV	_	_	6	advmod	_	Gloss=вот
-5	ӄырымэнайгым	_	AUX	_	_	6	aux	_	Gloss=NEG.FUT-GEN-NP.1SG
-6	камчамоԓевым	_	NOUN	_	_	2	parataxis	_	Gloss=комсомолец-NP.1SG|SpaceAfter=No
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	Тивымкэ	_	X	_	_	2	reparandum	2:reparandum	Gloss=FST
+2	тивык	_	VERB	_	_	0	root	0:root	Gloss=1SG.S/A-сказать-1SG.S
+3	этаны	_	ADV	_	_	6	advmod	6:advmod	Gloss=наверное
+4	вай	_	ADV	_	_	6	advmod	6:advmod	Gloss=вот
+5	ӄырымэнайгым	_	AUX	_	_	6	aux	6:aux	Gloss=NEG.FUT-GEN-NP.1SG
+6	камчамоԓевым	_	NOUN	_	_	2	parataxis	2:parataxis	Gloss=комсомолец-NP.1SG|SpaceAfter=No
+7	.	_	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

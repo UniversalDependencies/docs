@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_gsd-dep-det.html">det</a></tt>.
 
-2362 nodes (1%) are attached to their parents as `det:poss`.
+2363 nodes (1%) are attached to their parents as `det:poss`.
 
-2362 instances of `det:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.34377646062659.
+2363 instances of `det:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.34405416842996.
 
-The following 6 pairs of parts of speech are connected with `det:poss`: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (2295; 97% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (43; 2% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `det:poss`: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (2295; 97% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (43; 2% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `det:poss`: <tt><a h
 1	Ich	ich	PRON	PPER	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	hatte	haben	VERB	VAFIN	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	Gelegenheit	Gelegenheit	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
-4	eines	ein	DET	PIS	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	6	det	_	_
+4	eines	ein	DET	PIS	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	6	det	_	_
 5	seiner	sein	DET	PPOSAT	Case=Gen|Gender=Neut|Gender[psor]=Masc,Neut|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det:poss	_	_
 6	Seminare	Seminar	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	8	obj	_	_
 7	zu	zu	PART	PTKZU	_	8	mark	_	_
@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `det:poss`: <tt><a h
 # visual-style 6 5 det:poss	color:blue
 1	Jetzt	jetzt	ADV	ADV	_	2	advmod	_	_
 2	zieren	zieren	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	keltische	keltisch	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Plur	4	amod	_	_
+3	keltische	keltisch	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	amod	_	_
 4	Symbole	Symbol	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
 5	meinen	mein	DET	PPOSAT	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det:poss	_	_
 6	Smart	smart	PROPN	NN	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	NamedEntity=Yes
@@ -60,7 +60,7 @@ The following 6 pairs of parts of speech are connected with `det:poss`: <tt><a h
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 det:poss	color:blue
-1	Viele	viel	PRON	PIS	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur|PronType=Ind	4	nsubj	_	_
+1	Viele	viel	PRON	PIS	Case=Nom|Gender=Neut|Number=Plur|PronType=Ind	4	nsubj	_	_
 2	dieser	dies	PRON	PDAT	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	3	det	_	_
 3	Kinder	Kind	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
 4	leben	leben	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_

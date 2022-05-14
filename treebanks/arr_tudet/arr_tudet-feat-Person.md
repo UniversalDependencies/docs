@@ -10,8 +10,8 @@ This feature is universal but the values `0`, `3Imp` are language-specific.
 It occurs with 5 different values: `0`, `1`, `2`, `3`, `3Imp`.
 
 765 tokens (33%) have a non-empty value of `Person`.
-297 types (38%) occur at least once with a non-empty value of `Person`.
-36 lemmas (30%) occur at least once with a non-empty value of `Person`.
+295 types (38%) occur at least once with a non-empty value of `Person`.
+157 lemmas (34%) occur at least once with a non-empty value of `Person`.
 The feature is used with 7 part-of-speech tags: <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (278; 12% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (267; 12% instances), <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> (118; 5% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (60; 3% instances), <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> (33; 1% instances), <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 ### `PRON`
@@ -27,6 +27,15 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `3` (110; 40% of non-empty `Person`): <em>at, ŋa, toat, ar, [ar, [at, tap, ŋakəy, aʔkəy, tabat</em>
 * `EMPTY` (20): <em>yét, at, kɨgomət, nãn, [yét, [yét], toat</em>
 
+<table>
+  <tr><th>Paradigm <i>at</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt></tt></td><td></td><td><em>at</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-PronType.html">PronType</a></tt><tt>=Emp</tt></tt></td><td></td><td><em>at</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>at</em></td><td><em>at, ar, [ar, [at</em></td></tr>
+</table>
+
+`Person` seems to be **lexical feature** of `PRON`. 95% lemmas (20) occur only with one value of `Person`.
+
 ### `VERB`
 
 267 <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Person`.
@@ -36,11 +45,24 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 `VERB` tokens may have the following values of `Person`:
 
 * `0` (2; 1% of non-empty `Person`): <em>bekɨga, bewĩa</em>
-* `1` (78; 29% of non-empty `Person`): <em>oken, otoy, oyaʔwan, okera, owakán, owɨya, oyaʔwara, [ewpak-a, [ocaʔyõk, [oken</em>
+* `1` (78; 29% of non-empty `Person`): <em>oken, otoy, okera, oyaʔwan, owakán, owɨya, oyaʔwara, [ocaʔyõk, [oken, [okera</em>
 * `2` (38; 14% of non-empty `Person`): <em>eken, ekerap, ekera, epɨy, ewét, eyaʔwara, amaken, ebeʔcɨn, ebiaʔan, ecapét</em>
 * `3` (125; 47% of non-empty `Person`): <em>aʔtoy, aʔwĩn, aʔken, aʔwĩa, ayaʔwan, aʔtoba, aʔtop, tokera, abakán, aʔpɨya</em>
 * `3Imp` (24; 9% of non-empty `Person`): <em>iket, itop, ikérat, iwĩ, ibaʔpat, ibetõ, icapé, icát, iyaʔwat, ibeʔtɨn</em>
-* `EMPTY` (248): <em>wĩn, púŋ, ʔɨy, wɨy, yaʔti, toba, ken, toy, wĩa, cára</em>
+* `EMPTY` (248): <em>wĩn, púŋ, ʔɨy, wɨy, yaʔti, ken, toba, toy, wĩa, cára</em>
+
+<table>
+  <tr><th>Paradigm <i>top</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>3Imp</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td></td><td></td><td><em>itop</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=AssertFoc</tt></tt></td><td></td><td></td><td></td><td><em>itop</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=AssertFoc</tt>|<tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>aʔtop</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>abeʔnoy</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>otoy, aʔtoy, otoy], oʔtoy</em></td><td><em>etop</em></td><td><em>aʔtoy, aʔtoba, otoy</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="arr_tudet-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>omãmnoy</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>aʔto, aʔtop, ŋato</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="arr_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>oto, otoba</em></td><td></td><td><em>aʔtoba</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="arr_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td></td><td></td><td><em>taptoba</em></td><td></td></tr>
+</table>
 
 ### `AUX`
 
@@ -52,9 +74,24 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 * `1` (48; 41% of non-empty `Person`): <em>wet, okay, wep, wa, okap, we, web, wer, at, iʔkap</em>
 * `2` (14; 12% of non-empty `Person`): <em>ʔa, a, ap, ekab, ekap, ekay, ep, eʔa, karoʔwa, wet</em>
-* `3` (50; 42% of non-empty `Person`): <em>toʔwa, at, aʔkay, aʔnãn, aʔwaʔye, ap, aʔmãn, roʔwa, toʔwa], ŋaap</em>
+* `3` (50; 42% of non-empty `Person`): <em>toʔwa, at, aʔnãn, aʔkay, aʔwaʔye, ap, roʔwa, toʔwa], ŋaap, ŋanãn</em>
 * `3Imp` (6; 5% of non-empty `Person`): <em>ye, ikap, yet</em>
-* `EMPTY` (56): <em>nãn, ʔet, waʔye, ʔep, gay, kay, nã, [ʔet], at</em>
+* `EMPTY` (56): <em>ʔet, nãn, waʔye, ʔep, gay, kay, nã, at</em>
+
+<table>
+  <tr><th>Paradigm <i>ʔe</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>3Imp</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td></td><td></td><td><em>ye</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Clas.html">Clas</a></tt><tt>=Fem</tt>|<tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=AssertFoc</tt>|<tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ŋaap</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Clas.html">Clas</a></tt><tt>=Fem</tt>|<tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ŋaʔet</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Clusivity.html">Clusivity</a></tt><tt>=In</tt>|<tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ye</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Corf.html">Corf</a></tt><tt>=Yes</tt>|<tt><a href="arr_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td></td><td></td><td><em>toʔwa, roʔwa, toʔwa]</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt></tt></td><td></td><td></td><td></td><td><em>yet</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=AssertFoc</tt>|<tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wep, web</em></td><td><em>ap, ep, ʔep</em></td><td><em>ap</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt>|<tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wet, wer, at</em></td><td><em>wet, ʔet</em></td><td><em>at, ʔat</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>we, wa</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="arr_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>wa, wa]</em></td><td><em>ʔa, a, eʔa</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="arr_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td></td><td><em>karoʔwa</em></td><td></td><td></td></tr>
+</table>
 
 ### `NOUN`
 
@@ -63,10 +100,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 `NOUN` tokens may have the following values of `Person`:
 
 * `1` (23; 38% of non-empty `Person`): <em>opábe, oyãy, opá, owirup, iʔca, iʔwirup, ocagəpto, ocagəptoʔ, ocorah, ocãp</em>
-* `2` (5; 8% of non-empty `Person`): <em>ecap, ekap, enaká, epábeʔ, ewirup</em>
-* `3` (16; 27% of non-empty `Person`): <em>aʔwero, abagon, acagá, aʔcat, aʔcey, aʔcot, aʔkun, aʔpábe, tanaká, tocit</em>
-* `3Imp` (16; 27% of non-empty `Person`): <em>ipá, ibeon, iyãy, i-nãk, icagá, icap, icapop, icey, icãp, inãk</em>
-* `EMPTY` (506): <em>péŋ, kaʔa, maʔpəy, mãygãra, maʔwɨt, ip, agóaʔpət, iyõm, owẽ, wayo</em>
+* `2` (5; 8% of non-empty `Person`): <em>ecáp, ekap, enaká, epábeʔ, ewirup</em>
+* `3` (16; 27% of non-empty `Person`): <em>aʔwero, abagon, acagá, aʔcet, aʔcey, aʔcot, aʔkun, aʔpábe, tanaká, tocit</em>
+* `3Imp` (16; 27% of non-empty `Person`): <em>ipá, ibeon, inãk, iyãy, icagá, icapop, icey, icáp, icãp, inakároʔ</em>
+* `EMPTY` (507): <em>péŋ, kaʔa, maʔpəy, mãygãra, maʔwɨt, ip, agóaʔpət, iyõm, owẽ, wayo</em>
+
+<table>
+  <tr><th>Paradigm <i>naká</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>3Imp</tt></th></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>onaká</em></td><td><em>enaká</em></td><td><em>tanaká</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>inakároʔ</em></td></tr>
+</table>
 
 ### `ADP`
 
@@ -77,9 +120,14 @@ The most frequent other feature values with which `ADP` and `Person` co-occurred
 `ADP` tokens may have the following values of `Person`:
 
 * `1` (13; 39% of non-empty `Person`): <em>okõna, okəy, omãmkəy, owihmãm, owikop</em>
-* `2` (3; 9% of non-empty `Person`): <em>ekəy, garo=kõna</em>
+* `2` (3; 9% of non-empty `Person`): <em>ekəy, garokõna</em>
 * `3` (17; 52% of non-empty `Person`): <em>tokõna, aʔkəy, rokõna, (aʔkəy), abihmãm, apik, okõna, tomãmkəy</em>
 * `EMPTY` (50): <em>peʔ, kəy, ʔerem, mã, pihmãm, tokõna, ŋõm, aʔpik, bem, bihmãm</em>
+
+<table>
+  <tr><th>Paradigm <i>kəy</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>okəy</em></td><td><em>ekəy</em></td><td><em>aʔkəy, (aʔkəy)</em></td></tr>
+</table>
 
 ### `ADJ`
 
@@ -90,8 +138,8 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 `ADJ` tokens may have the following values of `Person`:
 
 * `1` (1; 14% of non-empty `Person`): <em>owicorop</em>
-* `3` (6; 86% of non-empty `Person`): <em>aʔpap, aʔkɨrɨk, aʔtarap, aʔwak</em>
-* `EMPTY` (231): <em>cú, ʔa, gap, káʔ, ʔaʔ, bap, beʔ, pattem, aʔ, pɨʔ</em>
+* `3` (6; 86% of non-empty `Person`): <em>aʔpap, aʔkɨrɨk, aʔtarap, aʔwák</em>
+* `EMPTY` (231): <em>cú, ʔa, gap, káʔ, ʔaʔ, bap, beʔ, páttem, aʔ, pɨʔ</em>
 
 ### `PART`
 

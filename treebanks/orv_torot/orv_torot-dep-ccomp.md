@@ -56,16 +56,16 @@ The following 28 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 ccomp	color:blue
-1	и	и	CCONJ	C-	_	0	root	_	ref=85.1
-2	ина	иныи	DET	Px	Case=Nom|Gender=Fem|Number=Sing	4	det	_	ref=85.1
-3	многа	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	4	amod	_	ref=85.1
-4	лесть	льсть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=85.1
-5	еяже	иже	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	8	obj	_	ref=85.1
-6	нѣ	не	ADV	Df	Polarity=Neg	7	advmod	_	ref=85.1
-7	льзѣ	льзѣ	ADV	Df	_	4	appos	_	ref=85.2
-8	псати	пьсати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	ccomp	_	ref=85.2
-9	срама	срамъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	ref=85.2
-10	рад	ради	ADP	R-	_	9	case	_	ref=85.2
+1	и	и	CCONJ	C-	_	0	root	_	Ref=85.1
+2	ина	иныи	DET	Px	Case=Nom|Gender=Fem|Number=Sing	4	det	_	Ref=85.1
+3	многа	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	4	amod	_	Ref=85.1
+4	лесть	льсть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=85.1
+5	еяже	иже	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	8	obj	_	Ref=85.1
+6	нѣ	не	ADV	Df	Polarity=Neg	7	advmod	_	Ref=85.1
+7	льзѣ	льзѣ	ADV	Df	_	4	appos	_	Ref=85.2
+8	псати	пьсати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	ccomp	_	Ref=85.2
+9	срама	срамъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	Ref=85.2
+10	рад	ради	ADP	R-	_	9	case	_	Ref=85.2
 
 ~~~
 

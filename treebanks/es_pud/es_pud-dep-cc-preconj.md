@@ -22,17 +22,17 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 cc:preconj	color:blue
-1	Tanto	_	ADV	RB	_	3	cc:preconj	_	_
+1	Tanto	tanto	ADV	RB	_	3	cc:preconj	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	investigación	_	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
-4	como	_	ADP	IN	_	6	cc	_	_
+3	investigación	investigación	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
+4	como	como	ADP	IN	_	6	cc	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	expediciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
-7	a	_	ADP	IN	_	9	case	_	_
+7	a	a	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	isla	_	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
+9	isla	isla	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 10	continúan	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-11	.	_	PUNCT	.	_	10	punct	_	_
+11	.	.	PUNCT	.	_	10	punct	_	_
 
 ~~~
 
@@ -43,32 +43,32 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 cc:preconj	color:blue
-1	Nicolai	_	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
+1	Nicolai	Nicolai	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
 2	colabora	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	con	_	ADP	IN	_	5	case	_	_
+3	con	con	ADP	IN	_	5	case	_	_
 4	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
 5	pistas	_	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
 6	cinematográficas	_	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
-7	tanto	_	ADV	RB	_	9	cc:preconj	_	_
-8	de	_	ADP	IN	_	9	case	_	_
-9	Morricone	_	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
-10	como	_	ADP	IN	_	11	cc	_	_
-11	Metti	_	PROPN	NNP	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
-12	,	_	PUNCT	,	_	13	punct	_	_
+7	tanto	tanto	ADV	RB	_	9	cc:preconj	_	_
+8	de	de	ADP	IN	_	9	case	_	_
+9	Morricone	Morricone	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
+10	como	como	ADP	IN	_	11	cc	_	_
+11	Metti	Metti	PROPN	NNP	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	13	punct	_	_
 13	juntos	_	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
-14	en	_	ADP	IN	_	16	case	_	_
+14	en	en	ADP	IN	_	16	case	_	_
 15	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	noche	_	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	_
-17	en	_	ADP	IN	_	19	case	_	_
+16	noche	noche	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	_
+17	en	en	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-19	cena	_	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
-20	;	_	PUNCT	:	_	23	punct	_	_
+19	cena	cena	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+20	;	;	PUNCT	:	_	23	punct	_	_
 21	algunas	_	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
-22	eran	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	23	aux:pass	_	_
+22	eran	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	23	aux:pass	_	_
 23	escritas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	2	parataxis	_	_
-24	por	_	ADP	IN	_	25	case	_	_
+24	por	por	ADP	IN	_	25	case	_	_
 25	ambos	_	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
-26	.	_	PUNCT	.	_	2	punct	_	_
+26	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -79,18 +79,18 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 cc:preconj	color:blue
-1	¿	_	PUNCT	.	_	5	punct	_	SpaceAfter=No
-2	O	_	CCONJ	CC	_	5	cc:preconj	_	_
-3	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+1	¿	¿	PUNCT	.	_	5	punct	_	SpaceAfter=No
+2	O	o	CCONJ	CC	_	5	cc:preconj	_	_
+3	es	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 4	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	estándar	_	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-6	o	_	CCONJ	CC	_	7	cc	_	_
-7	tarifa	_	NOUN	NN	Gender=Fem|Number=Sing	5	conj	_	_
-8	de	_	ADP	IN	_	9	case	_	_
-9	pago	_	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
-10	anticipado	_	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
+5	estándar	estándar	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
+6	o	o	CCONJ	CC	_	7	cc	_	_
+7	tarifa	tarifa	NOUN	NN	Gender=Fem|Number=Sing	5	conj	_	_
+8	de	de	ADP	IN	_	9	case	_	_
+9	pago	pago	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
+10	anticipado	anticipado	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
 11	cara	_	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
-12	?	_	PUNCT	.	_	5	punct	_	_
+12	?	?	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

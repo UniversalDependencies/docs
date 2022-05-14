@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: Features: `Case`
 
-This feature is universal but the values `Apr`, `Car`, `Cmp`, `Egr`, `Prl` are language-specific.
-It occurs with 14 different values: `Acc`, `Apr`, `Car`, `Cmp`, `Com`, `Dat`, `Egr`, `Ela`, `Gen`, `Ill`, `Ine`, `Ins`, `Nom`, `Prl`.
+This feature is universal but the values `Apr`, `Cmp`, `Egr`, `Prl` are language-specific.
+It occurs with 14 different values: `Abe`, `Acc`, `Apr`, `Cmp`, `Com`, `Dat`, `Egr`, `Ela`, `Gen`, `Ill`, `Ine`, `Ins`, `Nom`, `Prl`.
 
 343 tokens (37%) have a non-empty value of `Case`.
 243 types (49%) occur at least once with a non-empty value of `Case`.
@@ -22,8 +22,8 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 `NOUN` tokens may have the following values of `Case`:
 
+* `Abe` (2; 1% of non-empty `Case`): <em>Льӧмваыстӧг, керкутöг</em>
 * `Acc` (20; 10% of non-empty `Case`): <em>йӧрсӧ, мöсöс, ӧшынсӧ, Машаöс, бедьсö, инькасӧ, квартираэсӧ, логсӧ, мöссö, ольпасьӧс</em>
-* `Car` (2; 1% of non-empty `Case`): <em>Льӧмваыстӧг, керкутöг</em>
 * `Cmp` (3; 2% of non-empty `Case`): <em>айся, айытся</em>
 * `Com` (2; 1% of non-empty `Case`): <em>Машакöт</em>
 * `Dat` (5; 3% of non-empty `Case`): <em>Машалö, Мортлӧ, айкаыслӧ, семьялӧ, ёртыслӧ</em>
@@ -161,8 +161,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 67%),
-<tt>PRON --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 67%),
+<tt>NOUN --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5; 63%),
 <tt>PROPN --[<tt><a href="koi_uh-dep-appos.html">appos</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>PROPN --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2; 67%),
 <tt>PROPN --[<tt><a href="koi_uh-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (2; 100%),

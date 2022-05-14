@@ -65,7 +65,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (10; 100% of non-empty `Polarity`): ⲙⲙⲟⲛ, ⲟⲩⲇⲉ
-* `EMPTY` (1815): ⲉ, ⲇⲉ, ⲅⲁⲣ, ⲛϭⲓ, ⲛⲧ, ϭⲉ, ⲱ, ⲉⲓⲥ, ⲉⲣⲉ, ⲙⲉⲛ
+* `EMPTY` (1813): ⲉ, ⲇⲉ, ⲅⲁⲣ, ⲛϭⲓ, ⲛⲧ, ϭⲉ, ⲱ, ⲉⲓⲥ, ⲉⲣⲉ, ⲙⲉⲛ
 
 ### `X`
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): ⲟⲩⲇⲉ
-* `EMPTY` (3080): ϫⲉ, ⲉ, ⲉⲧ, ⲉⲛⲧ, ⲉⲧⲉ, ⲛⲧ, ⲉⲣⲉ, ⲉϣⲱⲡⲉ, ϫⲉⲕⲁⲁⲥ, ⲉⲧⲉⲣⲉ
+* `EMPTY` (3082): ϫⲉ, ⲉ, ⲉⲧ, ⲉⲛⲧ, ⲉⲧⲉ, ⲛⲧ, ⲉⲣⲉ, ⲉϣⲱⲡⲉ, ϫⲉⲕⲁⲁⲥ, ⲉⲧⲉⲣⲉ
 
 ## Relations with Agreement in `Polarity`
 

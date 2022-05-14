@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 1	De	de	ADP	rg	_	8	advmod	8:advmod	MWE=De_fet|MWEPOS=ADV
 2	fet	fet	NOUN	_	_	1	fixed	1:fixed	SpaceAfter=No
 3	,	,	PUNCT	fc	PunctType=Comm	1	punct	1:punct	_
-4	en	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	8	nsubj	8:nsubj	ClusterId=CESS-CAT-A-20010315-27617-c4|ClusterType=Gen|MentionSpan=4|MentionMisc=CorefType:ident
+4	en	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	8	nsubj	8:nsubj	Entity=(CESSCATA2001031527617c4--1-CorefType:ident,gstype:gen)
 5	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
 6	ser	ser	AUX	vsn0000	VerbForm=Inf	8	cop	8:cop	_
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	_
@@ -68,13 +68,13 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 15	fgColor:white
 # visual-style 15 13 aux	color:blue
 1	A	a	ADP	sps00	_	4	case	4:case	_
-2	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	4	det	4:det	SpaceAfter=No
+2	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	4	det	4:det	SpaceAfter=No|Entity=(CESSCATAAP20000102106s14.sn.5--3-gstype:gen,HomoDD
 3	últim	últim	ADJ	ao0ms0	Gender=Masc|Number=Sing|NumType=Ord	4	amod	4:amod	_
-4	partit	partit	NOUN	ncms000	Gender=Masc|Number=Sing	15	obl	15:obl	SpaceAfter=No|ClusterId=CESS-CAT-AAP-20000102-106-s14.sn.5|ClusterType=Gen|MentionSpan=2-4|MentionMisc=HomoDD
+4	partit	partit	NOUN	ncms000	Gender=Masc|Number=Sing	15	obl	15:obl	SpaceAfter=No|Entity=CESSCATAAP20000102106s14.sn.5)
 5	,	,	PUNCT	fc	PunctType=Comm	4	punct	4:punct	_
 6	davant	davant	ADP	sps00	_	8	case	8:case	_
-7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	_
-8	Rayo	Rayo	PROPN	np0000o	_	15	obl	15:obl	SpaceAfter=No|ClusterId=CESS-CAT-AAP-20000102-106-s14.sn.17|ClusterType=Spec.organization|MentionSpan=7-8
+7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	Entity=(CESSCATAAP20000102106s14.sn.17-organization-2-gstype:spec
+8	Rayo	Rayo	PROPN	np0000o	_	15	obl	15:obl	SpaceAfter=No|Entity=CESSCATAAP20000102106s14.sn.17)
 9	,	,	PUNCT	fc	PunctType=Comm	8	punct	8:punct	_
 10	ni	ni	CCONJ	rg	_	15	advmod	15:advmod	MWE=ni_tan_sols|MWEPOS=ADV
 11	tan	tan	NOUN	_	_	10	fixed	10:fixed	_

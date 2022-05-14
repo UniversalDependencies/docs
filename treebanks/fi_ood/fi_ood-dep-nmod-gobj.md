@@ -12,7 +12,7 @@ There are also 2 other language-specific subtypes of `nmod`: <tt><a href="fi_ood
 74 nodes (0%) are attached to their parents as `nmod:gobj`.
 
 73 instances of `nmod:gobj` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16216216216216.
+Average distance between parent and child is 1.17567567567568.
 
 The following 4 pairs of parts of speech are connected with `nmod:gobj`: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (65; 88% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (2; 3% instances).
 
@@ -65,14 +65,14 @@ The following 4 pairs of parts of speech are connected with `nmod:gobj`: <tt><a 
 3	tarvitsen	tarvita	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	alamittaisten	ala#mittainen	ADJ	_	Case=Gen|Degree=Pos|Derivation=Inen|Number=Plur	5	nmod:gobj	_	_
 5	käsittelyyn	käsittely	NOUN	_	Case=Ill|Derivation=U|Number=Sing	6	obl	_	_
-6	oikeuttavan	oikeuttaa	VERB	_	Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+6	oikeuttavan	oikeuttaa	VERB	_	Case=Gen|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
 7	valtakirjan	valta#kirja	NOUN	_	Case=Gen|Number=Sing	3	obj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	joka	joka	PRON	_	Case=Nom|Number=Sing|PronType=Rel	10	obj	_	_
 10	toimitetaan	toimittaa	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	7	acl:relcl	_	_
 11	jokaiselle	jokainen	PRON	_	Case=All|Number=Sing|PronType=Ind	13	det	_	_
 12	merkkaustiimiin	merkkaus#tiimi	NOUN	_	Case=Ill|Number=Sing	13	obl	_	_
-13	osallistuvalle	osallistua	VERB	_	Case=All|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	10	obl	_	SpaceAfter=No
+13	osallistuvalle	osallistua	VERB	_	Case=All|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	10	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

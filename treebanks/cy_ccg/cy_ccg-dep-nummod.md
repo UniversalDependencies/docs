@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-252 nodes (1%) are attached to their parents as `nummod`.
+275 nodes (1%) are attached to their parents as `nummod`.
 
-228 instances of `nummod` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.03571428571429.
+249 instances of `nummod` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.03636363636364.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (217; 86% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (20; 8% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (235; 85% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (22; 8% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (8; 3% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,23 +62,28 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 nummod	color:blue
-1	Dirwyon	dirwyo	NOUN	noun	Gender=Masc|Number=Plur	7	nsubj	_	_
-2	o	o	ADP	prep	_	4	case	_	_
-3	60000	60000	NUM	num	_	4	nummod	_	_
-4	ewro	Ewro	PROPN	work	_	1	nmod	_	_
-5	fu	bod	AUX	aux	Mood=Ind|Mutation=SM|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No
-6	'r	y	DET	art	_	7	det	_	_
-7	dyfarniad	dyfarniad	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
-8	i	i	ADP	prep	_	11	case	_	SpaceAfter=No
-9	'r	y	DET	art	_	11	det	_	_
-10	tri	tri	NUM	num	Gender=Masc	11	nummod	_	_
-11	arall	arall	ADJ	pos	Degree=Pos	7	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\n
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 nummod	color:blue
+1	Gall	gallu	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	organ	organ	NOUN	noun	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	hynafol	hynafol	ADJ	pos	Degree=Pos	2	amod	_	_
+4	Eglwys	Eglwys	PROPN	person	Gender=Masc|Number=Sing	2	nmod	_	_
+5	Dewi	Dewi	PROPN	person	Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Sant	Sant	PROPN	person	_	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	punct	_	8	punct	_	_
+8	Glanadda	Glanadda	PROPN	person	Gender=Fem|Number=Sing	4	appos	_	_
+9	fynd	mynd	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
+10	i	i	ADP	prep	_	11	case	_	_
+11	goleg	coleg	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	9	obl	_	_
+12	dri	tri	NUM	num	Gender=Masc|Mutation=SM	13	nummod	_	_
+13	chan	cant	NUM	num	Mutation=AM	14	nummod	_	_
+14	milltir	milltir	NOUN	noun	Gender=Fem|Number=Sing	9	obl	_	_
+15	o	o	ADP	prep	_	16	case	_	_
+16	Fangor	Bangor	PROPN	place	Gender=Masc|Mutation=SM|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

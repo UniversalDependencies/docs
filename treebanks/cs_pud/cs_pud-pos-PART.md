@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>jen</em> (<tt><a href="cs_pud-pos-PAR
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.427665).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.426597).
 
 The 1st highest number of forms (1) was observed with the lemma “asi”: <em>asi</em>.
 
@@ -50,7 +50,7 @@ The 3rd highest number of forms (1) was observed with the lemma “až”: <em>a
 
 `PART` nodes are attached to their parents using 5 different relations: <tt><a href="cs_pud-dep-advmod-emph.html">advmod:emph</a></tt> (39; 70% instances), <tt><a href="cs_pud-dep-advmod.html">advmod</a></tt> (12; 21% instances), <tt><a href="cs_pud-dep-discourse.html">discourse</a></tt> (3; 5% instances), <tt><a href="cs_pud-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="cs_pud-dep-orphan.html">orphan</a></tt> (1; 2% instances)
 
-Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (28; 50% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (10; 18% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (7; 13% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (7; 13% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (3; 5% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (1; 2% instances)
+Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (28; 50% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (10; 18% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (7; 13% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (5; 9% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (5; 9% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (1; 2% instances)
 
 54 (96%) `PART` nodes are leaves.
 

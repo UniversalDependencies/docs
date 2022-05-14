@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
 38363 tokens (39%) have a non-empty value of `Animacy`.
-19387 types (65%) occur at least once with a non-empty value of `Animacy`.
+19388 types (65%) occur at least once with a non-empty value of `Animacy`.
 12194 lemmas (65%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2040; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1014; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (939; 1% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (850; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (178; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 * `Anim` (165; 16% of non-empty `Animacy`): <em>один, одним, одного, двух, два, 1, двое, три, четырёх, 2</em>
 * `Inan` (849; 84% of non-empty `Animacy`): <em>2, два, несколько, 1, 4, двух, 3, три, один, одной</em>
-* `EMPTY` (1091): <em>10, 5, 6, 20, 16, 15, 18, 12, 100, 7</em>
+* `EMPTY` (1089): <em>10, 5, 6, 20, 16, 15, 18, 12, 100, 7</em>
 
 <table>
   <tr><th>Paradigm <i>один</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -172,7 +172,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 * `Anim` (60; 7% of non-empty `Animacy`): <em>I, активных, бывших, новых, Дикого, Законных, Митиленского, Сильного, Слепого, Хильдесхеймского</em>
 * `Inan` (790; 93% of non-empty `Animacy`): <em>первый, первые, последние, следующий, государственный, новый, другие, новые, разные, второй</em>
-* `EMPTY` (11422): <em>второй, 2008, других, 2010, 1, 2004, 2012, 2007, 2011, 2006</em>
+* `EMPTY` (11423): <em>второй, 2008, других, 2010, 1, 2004, 2012, 2007, 2011, 2006</em>
 
 <table>
   <tr><th>Paradigm <i>новый</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -223,7 +223,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6865; 81%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1942; 96%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1943; 96%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1086; 95%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1000; 64%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (963; 99%),

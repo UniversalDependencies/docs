@@ -85,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 18	chaque	chaque	ADJ	JJ	Gender=Masc|Number=Sing	19	amod	_	_
 19	empereur	empereur	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
 20	après	après	ADP	IN	_	22	case	_	_
-21	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
+21	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	mort	mort	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
 23	en	en	ADP	IN	_	24	mark	_	_
 24	utilisant	utiliser	VERB	VBG	Tense=Pres|VerbForm=Part	17	advcl	_	_

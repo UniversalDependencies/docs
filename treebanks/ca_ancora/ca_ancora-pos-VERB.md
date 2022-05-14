@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>fer</em> (<tt><a href="ca_ancora-pos-
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 3.748620 (the average of all parts of speech is 1.415132).
+The form / lemma ratio of `VERB` is 3.748620 (the average of all parts of speech is 1.416268).
 
 The 1st highest number of forms (24) was observed with the lemma “fer”: <em>fa, faci, facin, faig, fan, faran, farem, faria, farien, farà, faré, faríem, fas, feia, feien, fem, fent, fer, fes, fessin, fet, fetes, feu, fèiem</em>.
 

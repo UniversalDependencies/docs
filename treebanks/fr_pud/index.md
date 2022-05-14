@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jana Strnadová, Gauthier Caron, Martin Popel, Daniel Zeman, Marie-Catherine de Marneffe, Bruno Guillaume.
 
 Repository: [UD_French-PUD](https://github.com/UniversalDependencies/UD_French-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 3.0
 
@@ -84,7 +84,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Definite](fr_pud-feat-Definite.html) – [Foreign](fr_pud-feat-Foreign.html) – [Gender](fr_pud-feat-Gender.html) – [Mood](fr_pud-feat-Mood.html) – [Number](fr_pud-feat-Number.html) – [Number[psor]](fr_pud-feat-Number-psor.html) – [Person](fr_pud-feat-Person.html) – [Polarity](fr_pud-feat-Polarity.html) – [Poss](fr_pud-feat-Poss.html) – [PronType](fr_pud-feat-PronType.html) – [Tense](fr_pud-feat-Tense.html) – [VerbForm](fr_pud-feat-VerbForm.html)
+[Definite](fr_pud-feat-Definite.html) – [Foreign](fr_pud-feat-Foreign.html) – [Gender](fr_pud-feat-Gender.html) – [Mood](fr_pud-feat-Mood.html) – [Number](fr_pud-feat-Number.html) – [Number[psor]](fr_pud-feat-Number-psor.html) – [Person](fr_pud-feat-Person.html) – [Person[psor]](fr_pud-feat-Person-psor.html) – [Polarity](fr_pud-feat-Polarity.html) – [Poss](fr_pud-feat-Poss.html) – [PronType](fr_pud-feat-PronType.html) – [Tense](fr_pud-feat-Tense.html) – [Typo](fr_pud-feat-Typo.html) – [VerbForm](fr_pud-feat-VerbForm.html)
 
 ## Relations
 
@@ -195,7 +195,6 @@ employ ten-fold cross-validation.
       <li>NOUN: années, guerre, partie, ville, année, fois, mer, personnes, région, histoire</li>
       <li>PRON: elle, se, s', elles, s’, l', laquelle, celle, lesquelles, lui</li>
       <li>PROPN: Chine, Amérique, Europe, Australie, France, Italie, Afrique, Albanie, Caraïbes, Grande-Bretagne</li>
-      <li>SCONJ: que</li>
       <li>VERB-Part: composée, dirigée, apparue, devenue, utilisée, considérée, considérées, déroulée, détruite, faite</li>
     </ul>
   </li>
@@ -280,7 +279,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Ind
     <ul>
-      <li>DET: un, une, des, de, d', du</li>
+      <li>DET: un, une, des, de, d', du, e</li>
     </ul>
   </li>
 </ul>
@@ -543,6 +542,44 @@ employ ten-fold cross-validation.
       <li>Yes
         <ul>
           <li>X: Este, Greco, Mare, Mei, Mundo, Nostrum, Ping, Píanó, Rasa, Rós</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Person[psor]</a>
+    <ul>
+      <li>1
+        <ul>
+          <li>DET: notre, nos, mon, ma, mes</li>
+        </ul>
+      </li>
+      <li>2
+        <ul>
+          <li>DET: votre, vos</li>
+        </ul>
+      </li>
+      <li>3
+        <ul>
+          <li>DET: son, sa, ses, leur, leurs, sar</li>
+          <li>PRON: sienne</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADV: aujourd</li>
+          <li>DET: e, sar</li>
+          <li>NOUN: Porte-d’</li>
+          <li>NUM: XVIII</li>
         </ul>
       </li>
     </ul>

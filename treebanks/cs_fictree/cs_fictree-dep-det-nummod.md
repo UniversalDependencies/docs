@@ -41,7 +41,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 det:nummod	color:blue
-1	Nebylo	být	VERB	VpNS----R-NA---	Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+1	Nebylo	být	AUX	VpNS----R-NA---	Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	slyšet	slyšet	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	1	ccomp	1:ccomp	_
 3	nic	nic	PRON	PW--1----------	Case=Nom|PronType=Neg	2	obj	2:obj	_
 4	víc	víc	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	3	det:nummod	3:det:nummod	_

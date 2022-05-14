@@ -28,7 +28,7 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 1 <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Typo`:
 

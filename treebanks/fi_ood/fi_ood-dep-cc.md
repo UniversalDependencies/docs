@@ -25,7 +25,7 @@ The following 18 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 3 2 cc	color:blue
 1	asiallinen	asiallinen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Llinen|Number=Sing	0	root	_	_
 2	ja	ja	CCONJ	_	_	3	cc	_	_
-3	orientoitunut	orientoitua	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	1	conj	_	SpaceAfter=No
+3	orientoitunut	orientoitua	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	1	conj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -41,7 +41,7 @@ The following 18 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	ja	ja	CCONJ	_	_	3	cc	_	_
 3	vatsan	vatsa	NOUN	_	Case=Gen|Number=Sing	1	conj	_	_
 4	TT:ssä	TT	NOUN	_	Abbr=Yes|Case=Ine|Number=Sing	5	obl	_	Gen=tietokonekuvauksessa
-5	käyty	käydä	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+5	käyty	käydä	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

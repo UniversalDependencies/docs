@@ -44,8 +44,8 @@ The following 7 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 2	muodostavat	muodostaa	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	suurimman	suuri	ADJ	A	Case=Gen|Degree=Sup|Number=Sing	4	amod	4:amod	_
 4	osan	osa	NOUN	N	Case=Gen|Number=Sing	2	obj	2:obj	_
-5	EU:	EU	PROPN	N	Abbr=Yes|Case=Gen|Number=Sing	7	nmod:gsubj	7:nmod:gsubj	_
-6	n	n	NOUN	N	Case=Gen|Number=Sing|Typo=Yes	5	goeswith	5:goeswith	_
+5	EU:	EU	PROPN	N	Abbr=Yes|Case=Gen|Number=Sing|Typo=Yes	7	nmod:gsubj	7:nmod:gsubj	_
+6	n	_	X	N	_	5	goeswith	5:goeswith	_
 7	viennistä	vienti	NOUN	N	Case=Ela|Number=Sing	4	nmod	4:nmod	SpaceAfter=No
 8	.	.	PUNCT	Punct	_	2	punct	2:punct	_
 

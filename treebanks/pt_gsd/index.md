@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Ryan McDonald, Joakim Nivre, Daniel Zeman, Fabricio Chalub, Carlos Ramisch.
 
 Repository: [UD_Portuguese-GSD](https://github.com/UniversalDependencies/UD_Portuguese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 

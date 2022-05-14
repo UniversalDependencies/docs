@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>невозможнэ, никучем, ничего</em>
-* `EMPTY` (204): <em>зэй, вот, и, нин, сэн, эні, вӧдзӧ, кудз, сідз, ӧні</em>
+* `EMPTY` (205): <em>зэй, вот, и, нин, сэн, эні, вӧдзӧ, кудз, сідз, ӧні</em>
 
 ### `PRON`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>не</em>
-* `EMPTY` (64): <em>да, и, вот, значит, же, Ну, гашке, но, то, тоже</em>
+* `EMPTY` (63): <em>да, и, вот, значит, же, Ну, гашке, но, то, тоже</em>
 
 ## Relations with Agreement in `Polarity`
 

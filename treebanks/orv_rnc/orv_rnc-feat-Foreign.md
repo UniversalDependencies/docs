@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="orv_rnc-pos-X.html"
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>etc.</em>
-* `EMPTY` (73): <em>л., </i>, <i>, 1, 10, 11, 12, 13, 14, 15</em>
+* `EMPTY` (76): <em>л., </i>, <i>, 1, 10, 11, 12, 13, 14, 15</em>
 

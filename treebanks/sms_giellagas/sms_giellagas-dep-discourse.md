@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-49 nodes (2%) are attached to their parents as `discourse`.
+59 nodes (2%) are attached to their parents as `discourse`.
 
-44 instances of `discourse` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.04081632653061.
+53 instances of `discourse` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.08474576271186.
 
-The following 7 pairs of parts of speech are connected with `discourse`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (36; 73% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 8% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (3; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `discourse`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (42; 71% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (5; 8% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (3; 5% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 4 discourse	color:blue
 1	Ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-2	:	:	PUNCT	CLB	_	1	punct	_	_
-3	”	”	PUNCT	PUNCT	_	1	punct	_	GTtags=RIGHT|SpaceAfter=No
+2	:	:	PUNCT	CLB	_	7	punct	_	_
+3	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT|SpaceAfter=No
 4	No	no	INTJ	Interj	_	7	discourse	_	_
 5	mõõzz	mõõzz	ADV	Adv	_	7	advmod:lmod	_	_
 6	eeʹjjed	eʹčč	NOUN	N	Animacy=Hum|Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=2	7	obj	_	GTtags=Sem/Kin,Sg,Acc,PxPl2

@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Antarktidu</em> (<tt><a href="cs_pud-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.142677 (the average of all parts of speech is 1.427665).
+The form / lemma ratio of `PROPN` is 1.142677 (the average of all parts of speech is 1.426597).
 
 The 1st highest number of forms (4) was observed with the lemma “Morava”: <em>Morava, Moravou, Moravu, Moravy</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>Trump, Mišima, Seagal, Winstone, Wright, Šen, Aldrin, Antonius, 
 
 `PROPN` nodes are attached to their parents using 18 different relations: <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (337; 31% instances), <tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt> (258; 24% instances), <tt><a href="cs_pud-dep-flat.html">flat</a></tt> (202; 19% instances), <tt><a href="cs_pud-dep-obl.html">obl</a></tt> (84; 8% instances), <tt><a href="cs_pud-dep-conj.html">conj</a></tt> (70; 6% instances), <tt><a href="cs_pud-dep-obj.html">obj</a></tt> (36; 3% instances), <tt><a href="cs_pud-dep-obl-arg.html">obl:arg</a></tt> (31; 3% instances), <tt><a href="cs_pud-dep-appos.html">appos</a></tt> (29; 3% instances), <tt><a href="cs_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (25; 2% instances), <tt><a href="cs_pud-dep-iobj.html">iobj</a></tt> (6; 1% instances), <tt><a href="cs_pud-dep-obl-agent.html">obl:agent</a></tt> (3; 0% instances), <tt><a href="cs_pud-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="cs_pud-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="cs_pud-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="cs_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (370; 34% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (365; 33% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (241; 22% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (96; 9% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances),  (1; 0% instances)
+Parents of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (370; 34% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (359; 33% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (241; 22% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (96; 9% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances),  (1; 0% instances)
 
 524 (48%) `PROPN` nodes are leaves.
 

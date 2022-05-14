@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `obl:tmod`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-obl.html">obl</a></tt>.
-There are also 7 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="myv_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="myv_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="myv_jr-dep-obl-lfrom.html">obl:lfrom</a></tt>, <tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="myv_jr-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="myv_jr-dep-obl-lto.html">obl:lto</a></tt>.
+There are also 8 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="myv_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="myv_jr-dep-obl-comp.html">obl:comp</a></tt>, <tt><a href="myv_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="myv_jr-dep-obl-lfrom.html">obl:lfrom</a></tt>, <tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="myv_jr-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="myv_jr-dep-obl-lto.html">obl:lto</a></tt>.
 
 60 nodes (0%) are attached to their parents as `obl:tmod`.
 
@@ -42,7 +42,7 @@ The following 6 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 obl:tmod	color:blue
-1	Громовдо	Громов	PROPN	N	Animacy=Hum|Case=Abl|Definite=Ind|NameType=Sur|Number=Plur,Sing	2	nmod:comp	_	GTtags=Prop,Sur_Mal,SP,Abl,Indef
+1	Громовдо	Громов	PROPN	N	Animacy=Hum|Case=Abl|Definite=Ind|NameType=Sur|Number=Plur,Sing	2	obl:comp	_	GTtags=Prop,Sur_Mal,SP,Abl,Indef
 2	мейле	мейле	ADV	Adv	AdvType=Tim	5	obl:tmod	_	GTtags=Temp
 3	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg3,Nom
 4	кеместэ	кеместэ	ADV	Adv	_	5	advmod:mmod	_	_

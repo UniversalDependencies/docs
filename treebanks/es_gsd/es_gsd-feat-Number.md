@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-210531 tokens (49%) have a non-empty value of `Number`.
-28556 types (63%) occur at least once with a non-empty value of `Number`.
-17834 lemmas (50%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (73467; 17% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (60694; 14% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (27650; 6% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (24202; 6% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (10155; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (7478; 2% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (4458; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1627; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (671; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (129; 0% instances).
+210530 tokens (49%) have a non-empty value of `Number`.
+28555 types (63%) occur at least once with a non-empty value of `Number`.
+17833 lemmas (50%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (73467; 17% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (60694; 14% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (27878; 6% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (24202; 6% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9927; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (7478; 2% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (4458; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1627; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (670; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (129; 0% instances).
 
 ### `NOUN`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (20948; 29% of non-empty `Number`): <em>años, habitantes, personas, millones, razas, obras, días, veces, países, meses</em>
 * `Sing` (52519; 71% of non-empty `Number`): <em>año, parte, población, ciudad, familia, municipio, vez, nombre, lugar, equipo</em>
-* `EMPTY` (4063): <em>km, Estado, euros, frente, Gobierno, Oficina, Provincia, Presidente, crisis, dólares</em>
+* `EMPTY` (4065): <em>km, Estado, euros, frente, Gobierno, Oficina, Provincia, Presidente, crisis, dólares</em>
 
 <table>
   <tr><th>Paradigm <i>año</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -51,36 +51,38 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-27650 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
+27878 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20892; 76%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20217; 73%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19459; 70%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18791; 68%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21103; 76%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20424; 73%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19626; 70%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18977; 68%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (6622; 24% of non-empty `Number`): <em>tienen, eran, encuentran, pertenecían, son, existen, tenían, están, corresponden, hacen</em>
-* `Sing` (21028; 76% of non-empty `Number`): <em>tiene, es, encuentra, hay, hace, tenía, era, ubicado, fue, hizo</em>
-* `EMPTY` (8378): <em>hacer, ver, decir, tener, dar, partir, llegar, encontrar, residiendo, ir</em>
+* `Plur` (6692; 24% of non-empty `Number`): <em>tienen, eran, encuentran, pertenecían, son, existen, tenían, están, corresponden, hacen</em>
+* `Sing` (21186; 76% of non-empty `Number`): <em>tiene, es, encuentra, hay, hace, tenía, era, ubicado, fue, tuvo</em>
+* `EMPTY` (8402): <em>hacer, ver, tener, decir, dar, partir, llegar, ir, encontrar, residiendo</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>tenido</em></td><td><em>tenidos</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tengo</em></td><td><em>tienes</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tengo, tuvo</em></td><td><em>tienes</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>tenidas</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tenia</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tendría</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>teníamos</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tendría</em></td><td><em>tendrían, Tendrian</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tenia</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>tengan</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>teníamos</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>tendremos</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Tenía</em></td><td><em>teníamos</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tuve</em></td><td><em>tuvimos</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tengo, tenido</em></td><td><em>tenemos</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tienes</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tendrá</em></td><td><em>tendrán</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tenía</em></td><td><em>tenían, tengan</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tuvo</em></td><td><em>tuvieron, tenia</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tiene, tenia, Tuve</em></td><td><em>tienen</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tiene, tenia, Tuve, tenéis</em></td><td><em>tienen, tengan, tienes</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>tengamos</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>tengáis</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tuviera, tuviese</em></td><td><em>tuviesen</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tuviese, tuviera</em></td><td><em>tuviesen</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tenga</em></td><td><em>tengan</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>TENGO</em></td></tr>
 </table>
@@ -105,15 +107,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-10155 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
+9927 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9871; 97%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9449; 93%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9267; 91%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6139; 60%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9660; 97%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9282; 94%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9081; 91%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6029; 61%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (2403; 24% of non-empty `Number`): <em>son, eran, han, fueron, pueden, están, habían, hemos, estaban, deben</em>
-* `Sing` (7752; 76% of non-empty `Number`): <em>es, fue, ha, era, está, puede, sido, había, estaba, he</em>
-* `EMPTY` (851): <em>ser, siendo, haber, poder, estar, fuera, ir, habiendo, tener, puedes</em>
+* `Plur` (2333; 24% of non-empty `Number`): <em>son, eran, han, fueron, pueden, están, habían, hemos, estaban, deben</em>
+* `Sing` (7594; 76% of non-empty `Number`): <em>es, fue, ha, era, está, puede, sido, había, estaba, he</em>
+* `EMPTY` (827): <em>ser, siendo, haber, poder, estar, fuera, habiendo, puedes, estoy, habiéndo</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -190,15 +192,15 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ### `X`
 
-671 <tt><a href="es_gsd-pos-X.html">X</a></tt> tokens (34% of all `X` tokens) have a non-empty value of `Number`.
+670 <tt><a href="es_gsd-pos-X.html">X</a></tt> tokens (34% of all `X` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (394; 59%).
 
 `X` tokens may have the following values of `Number`:
 
 * `Plur` (99; 15% of non-empty `Number`): <em>mm, 's, des, dos, hits, WLAN, afores, antibuque, doubles, jóvenescon</em>
-* `Sing` (572; 85% of non-empty `Number`): <em>'s, etc., the, anti, n., of, and, co, metal, pre</em>
-* `EMPTY` (1314): <em>ex, hab, ya, C, etc., ², 's, C., x, i</em>
+* `Sing` (571; 85% of non-empty `Number`): <em>'s, etc., the, anti, n., of, and, co, metal, pre</em>
+* `EMPTY` (1311): <em>ex, hab, ya, C, etc., ², 's, C., x, i</em>
 
 <table>
   <tr><th>Paradigm <i>'s</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -210,7 +212,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
   <tr><td><tt><tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>'s</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `X`. 96% lemmas (461) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `X`. 96% lemmas (460) occur only with one value of `Number`.
 
 ### `SYM`
 
@@ -232,14 +234,14 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="es_gsd-dep-det.html">det</a></tt>]--> DET</tt> (48602; 96%),
+<tt>NOUN --[<tt><a href="es_gsd-dep-det.html">det</a></tt>]--> DET</tt> (48600; 96%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17766; 95%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11026; 55%),
-<tt>VERB --[<tt><a href="es_gsd-dep-obl.html">obl</a></tt>]--> NOUN</tt> (9396; 53%),
-<tt>VERB --[<tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6349; 84%),
+<tt>VERB --[<tt><a href="es_gsd-dep-obl.html">obl</a></tt>]--> NOUN</tt> (9397; 53%),
+<tt>VERB --[<tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6397; 85%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4309; 77%),
-<tt>NOUN --[<tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2924; 75%),
+<tt>NOUN --[<tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2953; 76%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-cop.html">cop</a></tt>]--> AUX</tt> (2866; 89%),
-<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2149; 72%),
-<tt>NOUN --[<tt><a href="es_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (1978; 87%).
+<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2159; 73%),
+<tt>NOUN --[<tt><a href="es_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (1977; 86%).
 

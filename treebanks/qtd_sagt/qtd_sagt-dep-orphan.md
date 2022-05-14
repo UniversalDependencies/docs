@@ -26,7 +26,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 2	zaten	zaten	ADV	_	_	5	advmod	_	CSID=TR|Lang=tr
 3	kolay	kolay	ADJ	_	_	4	amod	_	CSID=TR|Lang=tr
 4	dersleri	ders	NOUN	_	Case=Acc|Number=Plur	5	orphan	_	CSID=TR|Lang=tr
-5	man	man	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	0	root	_	CSID=DE|Lang=de
+5	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	0	root	_	CSID=DE|Lang=de
 6	irgendwie	irgendwie	ADV	_	_	5	advmod	_	CSID=DE|Lang=de
 7	noch	noch	ADV	_	_	5	advmod	_	CSID=DE|Lang=de|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	CSID=OTHER

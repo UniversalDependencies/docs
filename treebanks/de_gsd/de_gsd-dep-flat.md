@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8204 nodes (3%) are attached to their parents as `flat`.
+8200 nodes (3%) are attached to their parents as `flat`.
 
-8204 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.68503169185763.
+8200 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.68487804878049.
 
-The following 19 pairs of parts of speech are connected with `flat`: <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (7198; 88% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (798; 10% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (45; 1% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (42; 1% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt>-<tt><a href="de_gsd-pos-X.html">X</a></tt> (30; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (28; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-X.html">X</a></tt> (28; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `flat`: <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (7194; 88% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (797; 10% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (45; 1% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (42; 1% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt>-<tt><a href="de_gsd-pos-X.html">X</a></tt> (30; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (28; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-X.html">X</a></tt> (28; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 19 pairs of parts of speech are connected with `flat`: <tt><a href
 3	Torsten	Torsten	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	NamedEntity=Yes
 4	Burrichter	Burrichter	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	3	flat	_	NamedEntity=Yes
 5	meinen	mein	DET	PPOSAT	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det:poss	_	_
-6	besonderen	besonder	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	_
+6	besonderen	besonder	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
 7	Respekt	Respekt	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 8	.	.	PUNCT	$.	_	2	punct	_	_
 
@@ -41,7 +41,7 @@ The following 19 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat	color:blue
 1	Habe	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
-2	vergangene	vergangen	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	_
+2	vergangene	vergangen	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 3	Woche	Woche	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
 4	einen	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	NLP	NLP	PROPN	ADJA	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	NamedEntity=Yes

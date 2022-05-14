@@ -47,12 +47,12 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 6 1 expl	color:blue
 1	Es	es	PRON	PPER	PronType=Prs	6	expl	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-3	alles	alle	PRON	PIS	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	6	nsubj	_	_
+3	alles	alle	PRON	PIS	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	6	nsubj	_	_
 4	noch	noch	ADV	ADV	_	6	advmod	_	_
 5	sehr	sehr	ADV	ADV	_	6	advmod	_	_
-6	neu	neu	ADJ	ADJD	_	0	root	_	_
+6	neu	neu	ADJ	ADJD	Degree=Pos	0	root	_	_
 7	und	und	CCONJ	KON	_	8	cc	_	_
-8	modern	modern	ADJ	ADJD	_	6	conj	_	SpaceAfter=No
+8	modern	modern	ADJ	ADJD	Degree=Pos	6	conj	_	SpaceAfter=No
 9	.	.	PUNCT	$.	_	6	punct	_	_
 
 ~~~
@@ -70,8 +70,8 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 4	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	SpaceAfter=No
 5	,	,	PUNCT	$,	_	15	punct	_	_
 6	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-7	traditionelle	traditionell	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
-8	georgische	georgisch	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
+7	traditionelle	traditionell	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+8	georgische	georgisch	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
 9	Kultur	Kultur	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
 10	mit	mit	ADP	APPR	_	11	case	_	_
 11	Moderne	Moderne	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	_

@@ -43,7 +43,7 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 3 2 case	color:blue
 1	Pracoval	pracovat	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	3:case	LId=pro-1
-3	BBC	BBC	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	1	obl	1:obl:pro	_
+3	BBC	BBC	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	1	obl	1:obl:pro:acc	_
 4	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	7	advmod	7:advmod	LId=hodně-2
 5	než	než	SCONJ	J,-------------	_	4	fixed	4:fixed	LId=než-2
 6	deset	deset	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	7	nummod:gov	7:nummod:gov	LNumValue=10
@@ -65,7 +65,7 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 4	nich	on	PRON	P5XP2--3-------	Case=Gen|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	2	nmod	2:nmod:z:gen	LId=on-1
 5	sloužilo	sloužit	VERB	VpNS---XR-AA---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 6	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	7	case	7:case	LId=k-1
-7	obchodování	obchodování	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	5:obl:k:dat	SpaceAfter=No|LDeriv=obchodovat
+7	obchodování	obchodování	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	5	obl	5:obl:k:dat	SpaceAfter=No|LDeriv=obchodovat
 8	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~

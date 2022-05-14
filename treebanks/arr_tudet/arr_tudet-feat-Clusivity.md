@@ -11,7 +11,7 @@ It occurs with 2 different values: `Ex`, `In`.
 
 14 tokens (1%) have a non-empty value of `Clusivity`.
 13 types (2%) occur at least once with a non-empty value of `Clusivity`.
-3 lemmas (2%) occur at least once with a non-empty value of `Clusivity`.
+11 lemmas (2%) occur at least once with a non-empty value of `Clusivity`.
 The feature is used with 5 part-of-speech tags: <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `PRON`
@@ -35,6 +35,11 @@ The most frequent other feature values with which `VERB` and `Clusivity` co-occu
 * `Ex` (1; 25% of non-empty `Clusivity`): <em>tenaʔwara</em>
 * `In` (3; 75% of non-empty `Clusivity`): <em>inaʔwara, iʔpéya, teʔyoy</em>
 
+<table>
+  <tr><th>Paradigm <i>naʔwat</i></th><th><tt>Ex</tt></th><th><tt>In</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>tenaʔwara</em></td><td><em>inaʔwara</em></td></tr>
+</table>
+
 ### `AUX`
 
 3 <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Clusivity`.
@@ -45,6 +50,12 @@ The most frequent other feature values with which `AUX` and `Clusivity` co-occur
 
 * `Ex` (1; 33% of non-empty `Clusivity`): <em>reʔkay</em>
 * `In` (2; 67% of non-empty `Clusivity`): <em>iʔkap, ye</em>
+
+<table>
+  <tr><th>Paradigm <i>kap</i></th><th><tt>Ex</tt></th><th><tt>In</tt></th></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=AssertFoc</tt></tt></td><td></td><td><em>iʔkap</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Decl.html">Decl</a></tt><tt>=Assert</tt></tt></td><td><em>reʔkay</em></td><td></td></tr>
+</table>
 
 ### `NOUN`
 

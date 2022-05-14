@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Relations: `nmod:appos`
 
 This relation is a language-specific subtype of <tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt>.
-There are also 3 other language-specific subtypes of `nmod`: <tt><a href="kpv_ikdp-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="kpv_ikdp-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_ikdp-dep-nmod-prp.html">nmod:prp</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="kpv_ikdp-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_ikdp-dep-nmod-prp.html">nmod:prp</a></tt>.
 
 4 nodes (0%) are attached to their parents as `nmod:appos`.
 

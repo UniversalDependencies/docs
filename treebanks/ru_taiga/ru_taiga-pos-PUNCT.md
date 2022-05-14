@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="ru_taiga-pos-PUN
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.875784).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.879397).
 
 The 1st highest number of forms (2) was observed with the lemma “-”: <em>-, --</em>.
 
@@ -70,7 +70,7 @@ The 3rd highest number of forms (1) was observed with the lemma “!”: <em>!</
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="ru_taiga-dep-punct.html">punct</a></tt> (36053; 100% instances), <tt><a href="ru_taiga-dep-root.html">root</a></tt> (7; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (16917; 47% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (10335; 29% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (3877; 11% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1196; 3% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (1082; 3% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (755; 2% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (681; 2% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (352; 1% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (232; 1% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (215; 1% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (145; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (141; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (50; 0% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (31; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (24; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances),  (7; 0% instances), <tt><a href="ru_taiga-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances)
+Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (16918; 47% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (10335; 29% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (3879; 11% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1196; 3% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (1082; 3% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (755; 2% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (681; 2% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (348; 1% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (232; 1% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (216; 1% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (146; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (141; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (49; 0% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (31; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (24; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances),  (7; 0% instances), <tt><a href="ru_taiga-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances)
 
 36057 (100%) `PUNCT` nodes are leaves.
 

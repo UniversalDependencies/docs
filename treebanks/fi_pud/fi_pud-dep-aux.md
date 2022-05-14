@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	ainoastaan	ainoastaan	ADV	_	_	3	advmod	3:advmod	_
 3	bloggaajat	bloggaaja	NOUN	_	Case=Nom|Derivation=Ja|Number=Plur	5	nsubj	5:nsubj	_
 4	olivat	olla	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
-5	nähneet	nähdä	VERB	_	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+5	nähneet	nähdä	VERB	_	Case=Nom|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 6	suihkukoneet	suihku#kone	NOUN	_	Case=Nom|Number=Plur	5	obj	5:obj	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	5:punct	_
 

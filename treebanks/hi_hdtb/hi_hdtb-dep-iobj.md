@@ -31,7 +31,7 @@ The following 13 pairs of parts of speech are connected with `iobj`: <tt><a href
 7	कुछ	कुछ	DET	QF	PronType=Ind	9	det	_	ChunkId=NP3|ChunkType=child|Translit=kucha
 8	टैक्स	टैक्स	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child|Translit=ṭaiksa
 9	राहत	राहत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=rāhata
-10	मिल	मिल	VERB	VM	Gender=Fem|Number=Sing|Person=3|Voice=Act	0	root	_	Vib=0_सक+ता_है|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=mila
+10	मिल	मिल	VERB	VM	Gender=Fem|Number=Sing|Person=3|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=0|Translit=mila|Vib=0_सक+ता_है
 11	सकती	सक	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	10	aux	_	Vib=ता|Tam=wA|ChunkId=VGF|ChunkType=child|Translit=sakatī
 12	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 13	।	।	PUNCT	SYM	_	10	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
@@ -55,7 +55,7 @@ The following 13 pairs of parts of speech are connected with `iobj`: <tt><a href
 8	संबंध	संबंध	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obl	_	Vib=0_में|Tam=0|ChunkId=NP4|ChunkType=head|Translit=saṁbaṁdha
 9	में	में	ADP	PSP	AdpType=Post	8	case	_	ChunkId=NP4|ChunkType=child|Translit=meṁ
 10	ज्ञापन	ज्ञापन	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=jñāpana
-11	सौंपा	सौंप	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=sauṁpā
+11	सौंपा	सौंप	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=sauṁpā|Vib=या
 12	।	।	PUNCT	SYM	_	11	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -78,7 +78,7 @@ The following 13 pairs of parts of speech are connected with `iobj`: <tt><a href
 9	'	'	PUNCT	SYM	_	10	punct	_	SpaceAfter=No|ChunkId=NP5|ChunkType=child|Translit='
 10	आजादी	आजादी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	acl	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=ājādī
 11	'	'	PUNCT	SYM	_	10	punct	_	ChunkId=NP5|ChunkType=child|Translit='
-12	बख्श	बख्श	VERB	VM	Number=Sing|Voice=Act	0	root	_	Vib=0_दे+या|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=bakhśa
+12	बख्श	बख्श	VERB	VM	Number=Sing|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=0|Translit=bakhśa|Vib=0_दे+या
 13	दी	दे	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	12	aux	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=child|Translit=dī
 14	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 

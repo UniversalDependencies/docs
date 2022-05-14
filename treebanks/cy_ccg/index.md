@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Johannes Heinecke, Francis Tyers.
 
 Repository: [UD_Welsh-CCG](https://github.com/UniversalDependencies/UD_Welsh-CCG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcy_ccg29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcy_ccg210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -92,11 +92,11 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 
 
 <ul>
-<li>This corpus contains 2111 sentences, 40539 tokens and 41208 syntactic words.</li>
+<li>This corpus contains 2338 sentences, 44268 tokens and 45011 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5708 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 6205 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -104,12 +104,12 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 </ul>
 
 <ul>
-<li>This corpus contains 110 types of words that contain both letters and punctuation. Examples: 'r, 'n, 'i, 'w, 'u, 'ch, 'm, 'di, 'na, ar-lein, 'ma, de-ddwyrain, de-orllewin, e-bost, Covid-19, Glan-llyn, Is-Ganghellor, Lan-llyn, budd-daliadau, byd-eang, cyd-destunau, ddi-waith, en-suite, hyd-ddi, ma', pêl-droed, ry'n, 'S, 'cello, 'mynadd, 'nafu, 'th, Budd-dal, Dw', Eingl-Sacsoniaid, Ga', Hanner-wir, Is-gangellor, Mhen-y-bont, Nglan-llyn, Ngwaelod-y-garth, Noord-Holland, O'dd, P', Pen-y-bont, Ting-ha, Wi-Fi, ad-daliad, ad-dalu, ad-unwyd</li>
+<li>This corpus contains 117 types of words that contain both letters and punctuation. Examples: 'r, 'n, 'i, 'w, 'u, 'ch, 'm, 'di, ar-lein, 'na, 'ma, Covid-19, de-ddwyrain, de-orllewin, e-bost, Glan-llyn, Is-Ganghellor, Lan-llyn, budd-daliadau, byd-eang, cyd-destunau, cyd-fynd, ddi-waith, en-suite, ga', gogledd-orllewin, hyd-ddi, ma', pêl-droed, ry'n, 'S, 'cello, 'mynadd, 'nafu, 'th, Budd-dal, Dw', Eingl-Sacsoniaid, Hanner-wir, Is-gangellor, Mhen-y-bont, Nglan-llyn, Ngwaelod-y-garth, Noord-Holland, O'dd, P', Pen-y-bont, Ting-ha, Wi-Fi, ad-daliad</li>
 </ul>
 
 <ul>
-<li>This corpus contains 667 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 144 types of multi-word tokens. Examples: roedd, rydym, does, iddo, rydw, dwi, rwy, ati, rydyn, ganddo, roeddwn, gennym, rydych, doedd, dyw, iddynt, rwyf, amdano, dydw, dydych, iddi, dydy, ichi, roedden, wrthi, amdani, arno, iddyn, ohonom, rydan, Roeddet, Rwyt, arni, dydyn, ganddi, ohono, roeddech, ynddo, arnaf, arnoch, arnom, dydi, ganddynt, gennyf, inni, ohoni, ynddi, Rwi, ato, atoch.</li>
+<li>This corpus contains 741 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 153 types of multi-word tokens. Examples: roedd, rydym, does, iddo, rydw, dwi, iddi, rwy, ati, rydyn, roeddwn, ganddo, doedd, rydych, gennym, iddynt, dyw, rwyf, amdano, dydw, dydych, wrthi, amdani, dydy, ichi, iddyn, roedden, arno, arnom, ohonom, rydan, ynddi, ynddo, Roeddet, Rwyt, arnaf, arni, arnoch, dydyn, ganddi, inni, ohono, roeddech, ato, dydi, ganddynt, gennych, gennyf, ohoni, 'roedd.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -122,11 +122,11 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 </ul>
 
 <ul>
-<li>This corpus contains 16 word types tagged as particles (PART): 'n, 'na, Ai, a, ddim, dim, fe, mi, na, nac, nad, ni, nid, y, yn, yr</li>
+<li>This corpus contains 17 word types tagged as particles (PART): 'm, 'n, 'na, Ai, a, ddim, dim, fe, mi, na, nac, nad, ni, nid, y, yn, yr</li>
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as pronouns (PRON): a, chi, e, ef, hi, hon, hun, hwn, hwy, hyn, i, naill, neb, ni, pawb, peth, pwy, rhai, rhain, sawl, ti</li>
+<li>This corpus contains 22 lemmas tagged as pronouns (PRON): a, ai, chi, e, ef, hi, hon, hun, hwn, hwy, hyn, i, naill, neb, ni, pawb, peth, pwy, rhai, rhain, sawl, ti</li>
 </ul>
 
 <ul>
@@ -151,8 +151,8 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: mae, yw, oedd, oes, fu, fydd, ydy, bu, bydd, ydych</li>
-    <li>VERB: mae, oedd, bydd, fydd, ydym, ydw, ydych, yw, oes, bu</li>
+    <li>AUX: mae, yw, oedd, oes, bu, bydd, fu, fydd, ydy, ydych</li>
+    <li>VERB: mae, oedd, bydd, fydd, ydw, ydych, ydym, yw, bu, cafodd</li>
   </ul>
   </li>
 </ul>
@@ -160,7 +160,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>FinRel
   <ul>
-    <li>AUX: sy, sydd</li>
+    <li>AUX: sy, sydd, ydw</li>
     <li>VERB: sy, sydd, maent</li>
   </ul>
   </li>
@@ -170,7 +170,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
   <li>Vnoun
   <ul>
     <li>AUX: bod, fod, mod</li>
-    <li>NOUN: bod, cael, fod, gael, dod, mynd, wneud, ddod, fynd, gwneud</li>
+    <li>NOUN: bod, cael, fod, gael, mynd, dod, ddod, wneud, fynd, gwneud</li>
   </ul>
   </li>
 </ul>
@@ -186,10 +186,10 @@ url = {https://www.aclweb.org/anthology/W19-6904},
   <li>Fem
     <ul>
       <li>ADJ: leol, fechan, ariannol, drydedd, Chernyweg, Gymraeg, Saesneg, Wen, falch, fer</li>
-      <li>NOUN: iaith, Gymraeg, ysgol, rhan, wythnos, Eisteddfod, llywodraeth, sir, addysg, bobl</li>
+      <li>NOUN: iaith, ysgol, Gymraeg, rhan, wythnos, llywodraeth, ystod, Eisteddfod, addysg, sir</li>
       <li>NOUN-Vnoun: Ramadeg</li>
-      <li>NUM: tair, pedair, ddwy, dwy, thair, bedair, phedair</li>
-      <li>PRON: hi, ei, hon, 'w, 'i, 'u, honno, Rhain, huna</li>
+      <li>NUM: tair, pedair, dwy, ddwy, thair, bedair, dair, dyw, phedair</li>
+      <li>PRON: hi, ei, hon, 'i, 'w, honno, 'u, Rhain, huna</li>
       <li>PROPN: Cymru, Nghymru, Gymru, Wyddfa, Gwynedd, DU, Ffrainc, Siân, Nghaernarfon, Loegr</li>
     </ul>
   </li>
@@ -199,11 +199,11 @@ url = {https://www.aclweb.org/anthology/W19-6904},
   <li>Masc
     <ul>
       <li>ADJ: unrhyw, bach, Ewropeaidd, arbennig, gyflym, blynyddol, brif, ddiweddar, eang, academaidd</li>
-      <li>NOUN: ôl, nifer, cyngor, gwaith, gyfer, mwyn, rhaid, beth, mis, angen</li>
-      <li>NOUN-Vnoun: Digwydd, esgyn, sillafu, sôn, teledu</li>
-      <li>NUM: dau, tri, ddau, dri, pedwar, 4, 52, deg, bedwar, bymtheg</li>
+      <li>NOUN: ôl, nifer, cyngor, gwaith, gyfer, mwyn, rhaid, beth, angen, mis</li>
+      <li>NOUN-Vnoun: Digwydd, esgyn, isio, sillafu, sôn, teledu</li>
+      <li>NUM: dau, tri, ddau, dri, pedwar, 4, 52, bedwar, deg, bymtheg</li>
       <li>PRON: ei, e, 'i, hwn, o, 'w, fo, hwnnw, ef, fe</li>
-      <li>PROPN: Eryri, Môn, Gwynedd, UE, BBC, Thomas, Blaenau, Fangor, Mlaenau, Gogarth</li>
+      <li>PROPN: Eryri, Gwynedd, Môn, UE, BBC, Dewi, Thomas, Blaenau, Fangor, Mlaenau</li>
     </ul>
   </li>
 </ul>
@@ -217,11 +217,11 @@ url = {https://www.aclweb.org/anthology/W19-6904},
   <li>Plur
     <ul>
       <li>ADJ: eraill, arbenigol, Rhanbarthol, bychain, cryfion, gwledig, gwylltion, llai, prysuraf</li>
-      <li>AUX-Fin: ydych, ydym, ydynt, byddwch, ydyn, buoch, Byddech, bydda, oeddech</li>
-      <li>NOUN: plant, ysgolion, aelodau, llyfrau, blynyddoedd, myfyrwyr, disgyblion, blant, pethau, ardaloedd</li>
-      <li>PRON: ni, eu, chi, ein, nhw, hyn, eich, hynny, hwy, 'u</li>
-      <li>PROPN: Blaenau, Cymry, Dolgellau, Pryderi, Wyn, Appalachians, Gaerdydd, Iseldiroedd</li>
-      <li>VERB-Fin: ydym, ydych, ydyn, maen, gallwch, maent, cewch, dewch, oeddech, oedden</li>
+      <li>AUX-Fin: ydych, ydym, ydyn, ydynt, byddwch, buoch, Byddech, Maen, Ydach, bydda</li>
+      <li>NOUN: plant, ysgolion, aelodau, blynyddoedd, disgyblion, llyfrau, myfyrwyr, blant, tai, gwasanaethau</li>
+      <li>PRON: eu, ni, chi, ein, nhw, hyn, eich, hynny, hwy, 'u</li>
+      <li>PROPN: Blaenau, Cymry, Dolgellau, Pryderi, Wyn, Appalachians, Gaerdydd, Iseldiroedd, Pererinion</li>
+      <li>VERB-Fin: ydych, ydym, ydyn, maen, gallwch, oedden, maent, cewch, dewch, oeddech</li>
       <li>VERB-FinRel: maent</li>
     </ul>
   </li>
@@ -231,14 +231,14 @@ url = {https://www.aclweb.org/anthology/W19-6904},
   <li>Sing
     <ul>
       <li>ADJ: unrhyw, bach, leol, barod, Ewropeaidd, arbennig, gyflym, Gymreig, blynyddol, brif</li>
-      <li>AUX-Fin: mae, yw, oedd, oes, fu, fydd, ydy, bu, bydd, byddai</li>
-      <li>AUX-FinRel: sy, sydd</li>
+      <li>AUX-Fin: mae, yw, oedd, oes, bu, bydd, fu, fydd, ydy, ydi</li>
+      <li>AUX-FinRel: sy, sydd, ydw</li>
       <li>AUX-Vnoun: bod, fod, mod</li>
-      <li>NOUN: bod, cael, ôl, iaith, fod, Gymraeg, gael, dod, nifer, ysgol</li>
-      <li>NOUN-Vnoun: bod, cael, fod, gael, dod, mynd, wneud, ddod, fynd, gwneud</li>
-      <li>PRON: ei, i, hi, e, ti, fy, 'i, 'w, o, fi</li>
-      <li>PROPN: Cymru, Bangor, Nghymru, Gymru, Eryri, Gwynedd, Ffestiniog, Môn, Wyddfa, UE</li>
-      <li>VERB-Fin: mae, oedd, bydd, fydd, ydw, yw, oes, bu, cafodd, dw</li>
+      <li>NOUN: bod, cael, ôl, iaith, fod, gael, ysgol, Gymraeg, nifer, mynd</li>
+      <li>NOUN-Vnoun: bod, cael, fod, gael, mynd, dod, ddod, wneud, fynd, gwneud</li>
+      <li>PRON: ei, i, hi, e, fy, ti, 'i, 'w, o, fi</li>
+      <li>PROPN: Cymru, Nghymru, Bangor, Gymru, Gwynedd, Eryri, Ffestiniog, Môn, Wyddfa, UE</li>
+      <li>VERB-Fin: mae, oedd, bydd, fydd, ydw, yw, bu, cafodd, dw, oes</li>
       <li>VERB-FinRel: sy, sydd</li>
     </ul>
   </li>
@@ -257,7 +257,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: mwy, fwy, well, uwch, nes, hŷn, ehangach, gwell, bellach, hwyrach</li>
+      <li>ADJ: mwy, fwy, well, uwch, nes, hŷn, ehangach, gwell, bellach, amlach</li>
     </ul>
   </li>
 </ul>
@@ -273,7 +273,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: newydd, Cymraeg, lleol, pob, arall, hen, holl, mawr, bob, prif</li>
+      <li>ADJ: newydd, Cymraeg, lleol, arall, pob, mawr, hen, bob, holl, Gymraeg</li>
     </ul>
   </li>
 </ul>
@@ -281,7 +281,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: mwyaf, nesaf, cyntaf, fwyaf, diwethaf, gorau, olaf, uchaf, gwaethaf, gyntaf</li>
+      <li>ADJ: mwyaf, nesaf, fwyaf, uchaf, cyntaf, diwethaf, gorau, olaf, gwaethaf, gyntaf</li>
     </ul>
   </li>
 </ul>
@@ -300,7 +300,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
   <li>Cnd
     <ul>
       <li>AUX-Fin: byddai, fyddai, Byddech, bysa</li>
-      <li>VERB-Fin: byddai, dylai, fyddai, allai, gallai, gellid, ddylai, arferai, byddech, adnabyddid</li>
+      <li>VERB-Fin: byddai, dylai, fyddai, ddylai, allai, gallai, gellid, arferai, byddech, adnabyddid</li>
     </ul>
   </li>
 </ul>
@@ -308,7 +308,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: peidiwch, dewch, Paid, Ymunwch, cofiwch, Edrychwn, cysylltwch, dywedwch, ewch, gallwn</li>
+      <li>VERB-Fin: peidiwch, dewch, Paid, cofiwch, ewch, Edrychwn, Rho, Ymunwch, cysylltwch, dywedwch</li>
     </ul>
   </li>
 </ul>
@@ -316,9 +316,9 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: mae, yw, oedd, oes, fu, fydd, ydy, bu, bydd, ydych</li>
-      <li>AUX-FinRel: sy, sydd</li>
-      <li>VERB-Fin: mae, oedd, bydd, fydd, ydym, ydw, ydych, yw, oes, bu</li>
+      <li>AUX-Fin: mae, yw, oedd, oes, bu, bydd, fu, fydd, ydy, ydych</li>
+      <li>AUX-FinRel: sy, sydd, ydw</li>
+      <li>VERB-Fin: mae, oedd, bydd, fydd, ydw, ydych, ydym, yw, bu, cafodd</li>
       <li>VERB-FinRel: sy, sydd, maent</li>
     </ul>
   </li>
@@ -340,8 +340,8 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: fydd, bydd, byddwch, Byddaf, Byddan, Byddi, bydda, byddant</li>
-      <li>VERB-Fin: bydd, fydd, gall, ceir, ddaw, gallwch, gellir, caiff, welir, allwch</li>
+      <li>AUX-Fin: bydd, fydd, byddwch, Byddaf, Byddan, Byddi, bydda, byddant</li>
+      <li>VERB-Fin: bydd, fydd, gall, ceir, gallwch, gellir, ddaw, caiff, daw, allwch</li>
     </ul>
   </li>
 </ul>
@@ -349,8 +349,8 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: oedd, byddai, oeddwn, Oeddet, fyddai, Byddech, oeddech, ydoedd</li>
-      <li>VERB-Fin: oedd, oeddwn, byddai, meddai, oeddet, dylai, fyddai, oeddech, oedden, allai</li>
+      <li>AUX-Fin: oedd, byddai, oeddwn, Oeddet, fyddai, Byddech, oeddech, oeddem, ydoedd</li>
+      <li>VERB-Fin: oedd, oeddwn, byddai, dylai, meddai, fyddai, ddylai, oedden, oeddet, oeddech</li>
     </ul>
   </li>
 </ul>
@@ -358,8 +358,8 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: fu, bu, Buodd, Bûm, buoch, fo</li>
-      <li>VERB-Fin: bu, cafodd, fu, ddaeth, dywedodd, aeth, daeth, sefydlwyd, wnaeth, gafodd</li>
+      <li>AUX-Fin: bu, fu, Buodd, Bûm, buoch, Byddant, fo</li>
+      <li>VERB-Fin: bu, cafodd, fu, ddaru, ddaeth, daeth, aeth, dywedodd, sefydlwyd, gafodd</li>
     </ul>
   </li>
 </ul>
@@ -368,7 +368,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
   <li>Pqp
     <ul>
       <li>AUX-Fin: baswn, bawn</li>
-      <li>VERB-Fin: baswn, Basai, Fasai, Gallasai</li>
+      <li>VERB-Fin: baswn, Basai, Fasai, Gallasai, ddylase, ddylaswn, dylasai, dylaswn</li>
     </ul>
   </li>
 </ul>
@@ -376,9 +376,9 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: mae, yw, oes, ydy, ydych, ydi, dw, ydym, ydw, ydynt</li>
-      <li>AUX-FinRel: sy, sydd</li>
-      <li>VERB-Fin: mae, ydym, ydw, ydych, yw, oes, ydyn, dw, maen, wyt</li>
+      <li>AUX-Fin: mae, yw, oes, ydy, ydych, ydi, dw, ydw, ydym, ydyn</li>
+      <li>AUX-FinRel: sy, sydd, ydw</li>
+      <li>VERB-Fin: mae, ydw, ydych, ydym, yw, dw, oes, ydyn, maen, wy</li>
       <li>VERB-FinRel: sy, sydd, maent</li>
     </ul>
   </li>
@@ -396,7 +396,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: hyn, hynny, hwn, hon, hwnnw, rhain, honno, rheiny, hynna, huna</li>
+      <li>PRON: hyn, hynny, hwn, hon, hwnnw, rhain, honno, rheiny, hwnna, hynna</li>
     </ul>
   </li>
 </ul>
@@ -420,7 +420,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Int
     <ul>
-      <li>PRON: pwy, sawl, Hwn, Beth, naill</li>
+      <li>PRON: pwy, sawl, Hwn, ai, Beth, naill</li>
     </ul>
   </li>
 </ul>
@@ -428,7 +428,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ei, i, hi, ni, eu, chi, e, ein, nhw, ti</li>
+      <li>PRON: ei, i, hi, eu, ni, chi, e, ein, nhw, fy</li>
     </ul>
   </li>
 </ul>
@@ -456,7 +456,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: cyntaf, ail, gyntaf, trydydd, drydedd, 19, 18, chweched, drydydd, 13</li>
+      <li>ADJ: cyntaf, ail, gyntaf, trydydd, drydedd, 19, 18, 19eg, chweched, drydydd</li>
     </ul>
   </li>
 </ul>
@@ -468,7 +468,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: ei, ein, eu, eich, fy, 'i, 'n, 'u, 'ch, 'w</li>
+      <li>PRON: ei, ein, eu, fy, eich, 'i, 'n, 'u, 'w, 'ch</li>
     </ul>
   </li>
 </ul>
@@ -481,7 +481,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>0
     <ul>
-      <li>VERB-Fin: sefydlwyd, ceir, gellir, welir, cafwyd, rhoddwyd, agorwyd, cynhelir, gellid, gweler</li>
+      <li>VERB-Fin: ceir, sefydlwyd, gellir, cafwyd, rhoddwyd, welir, agorwyd, cynhelir, gellid, gweler</li>
     </ul>
   </li>
 </ul>
@@ -489,9 +489,10 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: dw, ydym, ydw, oeddwn, Byddaf, wyf, Bûm, wy, Dwi, baswn</li>
-      <li>PRON: i, ni, ein, fy, fi, 'n, mi, 'm, ', ninnau</li>
-      <li>VERB-Fin: ydym, ydw, dw, oeddwn, ydyn, wy, wyf, byddwn, wnes, es</li>
+      <li>AUX-Fin: dw, ydw, ydym, oeddwn, Byddaf, wy, wyf, Bûm, ydyn, Dwi</li>
+      <li>AUX-FinRel: ydw</li>
+      <li>PRON: i, ni, ein, fy, fi, mi, 'n, 'm, ninnau, '</li>
+      <li>VERB-Fin: ydw, ydym, dw, oeddwn, ydyn, wy, wyf, wnes, byddwn, byddaf</li>
     </ul>
   </li>
 </ul>
@@ -499,9 +500,9 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: ydych, byddwch, Oeddet, Byddi, buoch, wyt, Byddech, baech, oeddech</li>
+      <li>AUX-Fin: ydych, byddwch, Oeddet, Byddi, buoch, wyt, Byddech, Ydach, baech, oeddech</li>
       <li>PRON: chi, ti, eich, chdi, dy, 'ch, di, 'th, chwi, d'</li>
-      <li>VERB-Fin: ydych, wyt, gallwch, oeddet, cewch, dewch, oeddech, allwch, byddwch, gall</li>
+      <li>VERB-Fin: ydych, wyt, gallwch, oeddet, cewch, dewch, oeddech, peidiwch, allwch, byddwch</li>
     </ul>
   </li>
 </ul>
@@ -509,10 +510,10 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: mae, yw, oedd, oes, fu, fydd, ydy, bu, bydd, byddai</li>
+      <li>AUX-Fin: mae, yw, oedd, oes, bu, bydd, fu, fydd, ydy, ydi</li>
       <li>AUX-FinRel: sy, sydd</li>
       <li>PRON: ei, hi, eu, e, nhw, 'i, 'w, hwy, o, 'u</li>
-      <li>VERB-Fin: mae, oedd, bydd, fydd, yw, oes, bu, cafodd, maen, fu</li>
+      <li>VERB-Fin: mae, oedd, bydd, fydd, yw, bu, cafodd, oes, maen, ddaru</li>
       <li>VERB-FinRel: sy, sydd, maent</li>
     </ul>
   </li>
@@ -545,7 +546,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
         <ul>
           <li>ADJ: Iron</li>
           <li>DET: Na, The</li>
-          <li>NOUN: Lady, Nation, irritating</li>
+          <li>NOUN: Lady, Nation, emergency, irritating</li>
           <li>NOUN-Vnoun: irritating</li>
           <li>PROPN: Towers, n-Og, Bay, From, Horizon, Jubilee, New, Tiger, Trust, World</li>
         </ul>
@@ -562,13 +563,13 @@ url = {https://www.aclweb.org/anthology/W19-6904},
           <li>ADJ: phob, Chernyweg, Chymraeg, Chymreig, chenedlaethol, pheryglus, phosib, phrif, chadarn, chasach</li>
           <li>ADP: thua, chan, than, thros, thrwy</li>
           <li>ADV: phryd, throsodd</li>
-          <li>NOUN: chael, phobl, chynnal, chymorth, phlant, chadw, hannog, hiaith, phrofiad, chofio</li>
+          <li>NOUN: chael, phobl, chynnal, chymorth, phlant, chadw, chymunedau, hangen, hannog, hiaith</li>
           <li>NOUN-Vnoun: chael, chynnal, chadw, chofio, hadeiladu, chasglu, chyffwrdd, chyfrannu, chynnwys, hanfon</li>
           <li>NUM: hugain, chan, thair, phedair, thri</li>
-          <li>PRON: phawb</li>
+          <li>PRON: e, phawb</li>
           <li>PROPN: Chynllaith, Phenfro, Chaerwys, Chymru, Phwllheli, Threwen</li>
           <li>SCONJ: phan</li>
-          <li>VERB-Fin: chafodd, chaiff, cheir, chafwyd, chasglodd, chlywaist, chredir, chuddiwyd, chyflëwyd, chymerodd</li>
+          <li>VERB-Fin: chafodd, chaiff, cheir, chafwyd, chasglodd, chlywaist, chollodd, chredir, chuddiwyd, chyflëwyd</li>
         </ul>
       </li>
       <li>NM
@@ -576,27 +577,27 @@ url = {https://www.aclweb.org/anthology/W19-6904},
           <li>ADJ: mhob</li>
           <li>AUX-Vnoun: mod</li>
           <li>DET: mha</li>
-          <li>NOUN: mlynedd, mod, mae, ne, nghanolfan, nghyfnod, nhŷ, Mhrifysgol, Ngogledd, marn</li>
+          <li>NOUN: mod, mlynedd, mae, nghanolfan, Mhrifysgol, ne, nghyfnod, ngogledd, nhŷ, marn</li>
           <li>NOUN-Vnoun: mod, ngeni, nal, ngalw, ngorfodi, nharo, nhynnu</li>
-          <li>PROPN: Nghymru, Nghaerdydd, Mangor, Ngwynedd, Mlaenau, Nghaernarfon, Mhatagonia, Mangladesh, Mhenmaenmawr, Nghaerfyrddin</li>
+          <li>PROPN: Nghymru, Mangor, Nghaerdydd, Ngwynedd, Mlaenau, Nghaernarfon, Mhatagonia, Mangladesh, Mhenmaenmawr, Nghaerfyrddin</li>
           <li>VERB-Fin: mreuddwyd</li>
         </ul>
       </li>
       <li>SM
         <ul>
-          <li>ADJ: bob, Gymraeg, genedlaethol, fawr, ogystal, dda, wahanol, fwy, gwbl, leol</li>
-          <li>ADP: fewn, dan, ledled, drwy</li>
-          <li>ADV: bynnag, ddoe, draw, gyntaf, ddigon, gynt, drachefn, drannoeth, drosodd, drwodd</li>
+          <li>ADJ: bob, Gymraeg, fawr, genedlaethol, dda, ogystal, wahanol, leol, gwbl, fwy</li>
+          <li>ADP: dan, fewn, ledled, drwy</li>
+          <li>ADV: bynnag, ddoe, draw, gyntaf, ddigon, gynt, drachefn, drannoeth, drennydd, drosodd</li>
           <li>AUX-Fin: fu, fydd, fyddai, fo</li>
           <li>AUX-Vnoun: fod</li>
           <li>DET: ba</li>
-          <li>NOUN: fod, Gymraeg, gael, gyfer, wneud, ddod, fynd, beth, bobl, weld</li>
-          <li>NOUN-Vnoun: fod, gael, wneud, ddod, fynd, weld, roi, greu, adael, ddatblygu</li>
-          <li>NUM: ddau, ddwy, bum, bump, filiwn, bymtheg, dri, bedair, ddeuddeg, ddeunaw</li>
+          <li>NOUN: fod, gael, Gymraeg, gyfer, ddod, wneud, fynd, beth, bobl, weld</li>
+          <li>NOUN-Vnoun: fod, gael, ddod, wneud, fynd, weld, roi, greu, adael, ddefnyddio</li>
+          <li>NUM: ddau, ddwy, bymtheg, bum, bump, filiwn, dri, bedair, dair, bedwar</li>
           <li>PART: ddim</li>
           <li>PRON: bawb, rai, Beth, chi, e, i, ni</li>
           <li>PROPN: Gymru, Gaerdydd, DU, Fangor, Fôn, Gaerfyrddin, Brydain, Gaernarfon, Drawsfynydd, Feirionydd</li>
-          <li>VERB-Fin: fydd, fu, ddaeth, wnaeth, gafodd, ddaw, welir, wnes, allai, allwch</li>
+          <li>VERB-Fin: fydd, ddaru, fu, ddaeth, ddylai, gafodd, wnaeth, ddaw, wnes, allai</li>
         </ul>
       </li>
     </ul>
@@ -621,14 +622,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (710)</li>
+      <li>VERB-Fin--NOUN (778)</li>
       <li>VERB-Fin--NOUN-ADP(dros) (1)</li>
       <li>VERB-Fin--NOUN-ADP(gan) (1)</li>
       <li>VERB-Fin--NOUN-ADP(i) (3)</li>
       <li>VERB-Fin--NOUN-ADP(o) (3)</li>
-      <li>VERB-Fin--PRON (549)</li>
+      <li>VERB-Fin--PRON (600)</li>
       <li>VERB-Fin--PRON-ADP(gan) (2)</li>
-      <li>VERB-FinRel--NOUN (3)</li>
+      <li>VERB-FinRel--NOUN (5)</li>
     </ul>
   </li>
 </ul>
@@ -636,9 +637,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (262)</li>
+      <li>VERB-Fin--NOUN (300)</li>
       <li>VERB-Fin--NOUN-ADP(yn) (1)</li>
-      <li>VERB-Fin--PRON (93)</li>
+      <li>VERB-Fin--PRON (97)</li>
       <li>VERB-FinRel--NOUN (1)</li>
     </ul>
   </li>

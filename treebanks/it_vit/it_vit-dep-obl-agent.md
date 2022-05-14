@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_vit-dep-obl.html">obl</a></tt>.
 
-986 nodes (0%) are attached to their parents as `obl:agent`.
+988 nodes (0%) are attached to their parents as `obl:agent`.
 
-931 instances of `obl:agent` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.13387423935091.
+932 instances of `obl:agent` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.12854251012146.
 
-The following 16 pairs of parts of speech are connected with `obl:agent`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (753; 76% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (178; 18% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `obl:agent`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (753; 76% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (178; 18% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 16 pairs of parts of speech are connected with `obl:agent`: <tt><a
 2	Massimo	Massimo	PROPN	SP	_	6	obl:agent	_	_
 3	Lugli	Lugli	PROPN	SP	_	2	flat:name	_	_
 4	Roma	Roma	PROPN	SP	_	6	parataxis	_	_
-5	-	-	PUNCT	FC	_	6	punct	_	_
+5	-	-	PUNCT	FF	_	6	punct	_	_
 6	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	piangendo	piangere	VERB	V	VerbForm=Ger	6	advcl	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	6	punct	_	_

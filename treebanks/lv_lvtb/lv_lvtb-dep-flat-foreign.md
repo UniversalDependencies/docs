@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt>.
 
-115 nodes (0%) are attached to their parents as `flat:foreign`.
+129 nodes (0%) are attached to their parents as `flat:foreign`.
 
-115 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.49565217391304.
+129 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.46511627906977.
 
-The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (106; 92% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (115; 89% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (4; 3% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,6 +41,76 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 
 
 ~~~ conllu
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 26 flat:foreign	color:blue
+1	Freda	Fredis	PROPN	npmsg2	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod:gen	LvtbNodeId=a-p8931-p4s2w1
+2	tēlā	tēls	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	3	obl	3:obl:loc	LvtbNodeId=a-p8931-p4s2w2
+3	iejūtas	iejusties	VERB	vmyipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p8931-p4s2w3
+4	aktieris	aktieris	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	5	nmod	5:nmod	LvtbNodeId=a-p8931-p4s2w4
+5	Mets	Mets	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	LvtbNodeId=a-p8931-p4s2w5
+6	Krevens	Krevens	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	5:flat:name	LvtbNodeId=a-p8931-p4s2w6
+7	(	(	PUNCT	zb	_	8	punct	8:punct	LvtbNodeId=a-p8931-p4s2w7|SpaceAfter=No
+8	Matt	Matt	X	xf	Foreign=Yes	5	parataxis	5:parataxis	LvtbNodeId=a-p8931-p4s2w8
+9	Creven	Creven	X	xf	Foreign=Yes	8	flat:name	8:flat:name	LvtbNodeId=a-p8931-p4s2w9|SpaceAfter=No
+10	)	)	PUNCT	zb	_	8	punct	8:punct	LvtbNodeId=a-p8931-p4s2w10|SpaceAfter=No
+11	,	,	PUNCT	zc	_	14	punct	14:punct	LvtbNodeId=a-p8931-p4s2w11
+12	kurš	kurš	PRON	pr0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj:pass	14:nsubj:pass	LvtbNodeId=a-p8931-p4s2w12
+13	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux:pass	14:aux:pass	LvtbNodeId=a-p8931-p4s2w13
+14	manīts	manīt	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	LvtbNodeId=a-p8931-p4s2w14
+15	seriālā	seriāls	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	16	nmod	16:nmod	LvtbNodeId=a-p8931-p4s2w15
+16	NCIS	NCIS	PROPN	yp	Abbr=Yes	14	obl	14:obl:loc	LvtbNodeId=a-p8931-p4s2w16|SpaceAfter=No
+17	:	:	PUNCT	zo	_	16	punct	16:punct	LvtbNodeId=a-p8931-p4s2w17
+18	Izmeklēšanas	izmeklēšana	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	19	nmod	19:nmod:gen	LvtbNodeId=a-p8931-p4s2w18
+19	dienests	dienests	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	16	flat	16:flat	LvtbNodeId=a-p8931-p4s2w19
+20	(	(	PUNCT	zb	_	21	punct	21:punct	LvtbNodeId=a-p8931-p4s2w20|SpaceAfter=No
+21	NCIS	NCIS	PROPN	yp	Abbr=Yes	16	parataxis	16:parataxis	LvtbNodeId=a-p8931-p4s2w21|SpaceAfter=No
+22	:	:	PUNCT	zo	_	21	punct	21:punct	LvtbNodeId=a-p8931-p4s2w22
+23	Naval	Naval	X	xf	Foreign=Yes	21	flat:foreign	21:flat:foreign	LvtbNodeId=a-p8931-p4s2w23
+24	Criminal	Criminal	X	xf	Foreign=Yes	21	flat:foreign	21:flat:foreign	LvtbNodeId=a-p8931-p4s2w24
+25	Investigative	Investigative	X	xf	Foreign=Yes	21	flat:foreign	21:flat:foreign	LvtbNodeId=a-p8931-p4s2w25
+26	Service	Service	X	xf	Foreign=Yes	21	flat:foreign	21:flat:foreign	LvtbNodeId=a-p8931-p4s2w26|SpaceAfter=No
+27	)	)	PUNCT	zb	_	21	punct	21:punct	LvtbNodeId=a-p8931-p4s2w27|SpaceAfter=No
+28	,	,	PUNCT	zc	_	31	punct	31:punct	LvtbNodeId=a-p8931-p4s2w28
+29	bet	bet	CCONJ	cc	_	31	cc	31:cc	LvtbNodeId=a-p8931-p4s2w29
+30	Elēnu	Elēna	PROPN	npfsa4	Case=Acc|Gender=Fem|Number=Sing	31	obj	31:obj	LvtbNodeId=a-p8931-p4s2w30
+31	atveidos	atveidot	VERB	vmnift230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	3:conj	LvtbNodeId=a-p8931-p4s2w31
+32	aktrise	aktrise	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	33	nmod	33:nmod	LvtbNodeId=a-p8931-p4s2w32
+33	Samāra	Samāra	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	31	nsubj	31:nsubj	LvtbNodeId=a-p8931-p4s2w33
+34	Ārmstronga	Ārmstronga	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	33	flat:name	33:flat:name	LvtbNodeId=a-p8931-p4s2w34
+35	(	(	PUNCT	zb	_	36	punct	36:punct	LvtbNodeId=a-p8931-p4s2w35|SpaceAfter=No
+36	Samaire	Samaire	X	xf	Foreign=Yes	33	parataxis	33:parataxis	LvtbNodeId=a-p8931-p4s2w36
+37	Armstrong	Armstrong	X	xf	Foreign=Yes	36	flat:name	36:flat:name	LvtbNodeId=a-p8931-p4s2w37|SpaceAfter=No
+38	)	)	PUNCT	zb	_	36	punct	36:punct	LvtbNodeId=a-p8931-p4s2w38|SpaceAfter=No
+39	,	,	PUNCT	zc	_	43	punct	43:punct	LvtbNodeId=a-p8931-p4s2w39
+40	kuru	kurš	PRON	pr0msan	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	43	obj	43:obj	LvtbNodeId=a-p8931-p4s2w40
+41	noteikti	noteikti	ADV	r0m	_	43	advmod	43:advmod	LvtbNodeId=a-p8931-p4s2w41
+42	esiet	būt	AUX	vcnm0ii2pan	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin|Voice=Act	43	aux	43:aux	LvtbNodeId=a-p8931-p4s2w42
+43	ievērojuši	ievērot	VERB	vmnpdmpnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	33	acl	33:acl	LvtbNodeId=a-p8931-p4s2w43
+44	tādos	tāds	DET	pd0mpln	Case=Loc|Gender=Masc|Number=Plur|PronType=Dem	45	det	45:det	LvtbNodeId=a-p8931-p4s2w44
+45	seriālos	seriāls	NOUN	ncmpl1	Case=Loc|Gender=Masc|Number=Plur	43	obl	43:obl:loc	LvtbNodeId=a-p8931-p4s2w45
+46	kā	kā	SCONJ	cs	_	47	case	47:case|55:case	LvtbNodeId=a-p8931-p4s2w46
+47	O.	O.	PROPN	yp	Abbr=Yes	45	nmod	45:nmod:kā	LvtbNodeId=a-p8931-p4s2w47|SpaceAfter=No
+48	C.	c.	PROPN	yp	Abbr=Yes	47	flat:name	47:flat:name	LvtbNodeId=a-p8931-p4s2w48
+49	(	(	PUNCT	zb	_	50	punct	50:punct	LvtbNodeId=a-p8931-p4s2w49|SpaceAfter=No
+50	The	the	X	xf	Foreign=Yes	47	parataxis	47:parataxis	LvtbNodeId=a-p8931-p4s2w50
+51	O.	O.	PROPN	yp	Abbr=Yes	50	flat:name	50:flat:name	LvtbNodeId=a-p8931-p4s2w51|SpaceAfter=No
+52	C.	c.	PROPN	yp	Abbr=Yes	50	flat:name	50:flat:name	LvtbNodeId=a-p8931-p4s2w52|SpaceAfter=No
+53	)	)	PUNCT	zb	_	50	punct	50:punct	LvtbNodeId=a-p8931-p4s2w53
+54	un	un	CCONJ	cc	_	55	cc	55:cc	LvtbNodeId=a-p8931-p4s2w54
+55	Mentālists	mentālists	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	47	conj	45:nmod:kā|47:conj	LvtbNodeId=a-p8931-p4s2w55
+56	(	(	PUNCT	zb	_	57	punct	57:punct	LvtbNodeId=a-p8931-p4s2w56|SpaceAfter=No
+57	The	the	X	xf	Foreign=Yes	55	parataxis	55:parataxis	LvtbNodeId=a-p8931-p4s2w57
+58	Mentalist	Mentalist	X	xf	Foreign=Yes	57	flat:name	57:flat:name	LvtbNodeId=a-p8931-p4s2w58|SpaceAfter=No
+59	)	)	PUNCT	zb	_	57	punct	57:punct	LvtbNodeId=a-p8931-p4s2w59|SpaceAfter=No
+60	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-p8931-p4s2w60
+
+~~~
+
+
+~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 7	bgColor:blue
@@ -57,91 +127,6 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 9	2	2	NUM	xn	NumType=Card	7	flat:foreign	7:flat:foreign	LvtbNodeId=a-p3466-p25s4w9
 10	metri	metrs	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	6	nmod	6:nmod:nom	LvtbNodeId=a-p3466-p25s4w10|SpaceAfter=No
 11	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p3466-p25s4w11
-
-~~~
-
-
-~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 18 flat:foreign	color:blue
-1	Piedzīvojumu	piedzīvojums	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	2	nmod	2:nmod:gen	LvtbNodeId=a-p10134-p3s4w1
-2	tūrisma	tūrisms	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	LvtbNodeId=a-p10134-p3s4w2
-3	filmu	filma	NOUN	ncfpg4	Case=Gen|Gender=Fem|Number=Plur	4	nmod	4:nmod:gen	LvtbNodeId=a-p10134-p3s4w3
-4	kategorijā	kategorija	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	6	obl	6:obl:loc	LvtbNodeId=a-p10134-p3s4w4
-5	balva	balva	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	LvtbNodeId=a-p10134-p3s4w5
-6	tika	tikt	VERB	vmnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p10134-p3s4w6
-7	taizemiešu	taizemietis	NOUN	ncmpg2	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod:gen	LvtbNodeId=a-p10134-p3s4w7
-8	videofilmai	videofilma	NOUN	ncfsd4	Case=Dat|Gender=Fem|Number=Sing	11	nmod	11:nmod	LvtbNodeId=a-p10134-p3s4w8
-9	«	"	PUNCT	zq	_	11	punct	11:punct	LvtbNodeId=a-p10134-p3s4w9|SpaceAfter=No
-10	Es	es	PRON	pp10snn	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	LvtbNodeId=a-p10134-p3s4w10
-11	nīstu	nīst	VERB	vmnipt11san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	iobj	6:iobj	LvtbNodeId=a-p10134-p3s4w11
-12	Taizemi	Taizeme	PROPN	npfsa5	Case=Acc|Gender=Fem|Number=Sing	11	obj	11:obj	LvtbNodeId=a-p10134-p3s4w12|SpaceAfter=No
-13	»	"	PUNCT	zq	_	11	punct	11:punct	LvtbNodeId=a-p10134-p3s4w13
-14	(	(	PUNCT	zb	_	16	punct	16:punct	LvtbNodeId=a-p10134-p3s4w14|SpaceAfter=No
-15	«	"	PUNCT	zq	_	16	punct	16:punct	LvtbNodeId=a-p10134-p3s4w15|SpaceAfter=No
-16	I	I	NUM	xn	NumType=Card	11	parataxis	11:parataxis	LvtbNodeId=a-p10134-p3s4w16
-17	Hate	Hate	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p10134-p3s4w17
-18	Thailand	Thailand	X	xf	Foreign=Yes	16	flat:foreign	16:flat:foreign	LvtbNodeId=a-p10134-p3s4w18|SpaceAfter=No
-19	»	"	PUNCT	zq	_	16	punct	16:punct	LvtbNodeId=a-p10134-p3s4w19|SpaceAfter=No
-20	)	)	PUNCT	zb	_	16	punct	16:punct	LvtbNodeId=a-p10134-p3s4w20|SpaceAfter=No
-21	,	,	PUNCT	zc	_	26	punct	26:punct	LvtbNodeId=a-p10134-p3s4w21
-22	eko	eko	NOUN	nc0000	_	23	nmod	23:nmod	LvtbNodeId=a-p10134-p3s4w22
-23	tūrisma	tūrisms	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	24	nmod	24:nmod:gen	LvtbNodeId=a-p10134-p3s4w23
-24	filmu	filma	NOUN	ncfpg4	Case=Gen|Gender=Fem|Number=Plur	25	nmod	25:nmod:gen	LvtbNodeId=a-p10134-p3s4w24
-25	kategorijā	kategorija	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	26	obl	26:obl:loc	LvtbNodeId=a-p10134-p3s4w25
-26	vispārliecinošākā	pārliecināt	VERB	vmnpdfsnapysn	Aspect=Imp|Case=Nom|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	6:conj	LvtbNodeId=a-p10134-p3s4w26
-27	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	26	cop	26:cop	LvtbNodeId=a-p10134-p3s4w27
-28	arī	arī	PART	q	_	30	discourse	30:discourse	LvtbNodeId=a-p10134-p3s4w28
-29	«	"	PUNCT	zq	_	30	punct	30:punct	LvtbNodeId=a-p10134-p3s4w29|SpaceAfter=No
-30	Grand	grand	X	xf	Foreign=Yes	33	iobj	33:iobj	LvtbNodeId=a-p10134-p3s4w30
-31	Prix	prix	X	xf	Foreign=Yes	30	flat:foreign	30:flat:foreign	LvtbNodeId=a-p10134-p3s4w31|SpaceAfter=No
-32	»	"	PUNCT	zq	_	30	punct	30:punct	LvtbNodeId=a-p10134-p3s4w32
-33	nopelnījusī	nopelnīt	VERB	vmnpdfsnasypn	Aspect=Perf|Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	38	amod	38:amod	LvtbNodeId=a-p10134-p3s4w33
-34	somu	soms	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	38	nmod	38:nmod:gen	LvtbNodeId=a-p10134-p3s4w34
-35	«	"	PUNCT	zq	_	38	punct	38:punct	LvtbNodeId=a-p10134-p3s4w35|SpaceAfter=No
-36	Baltās	balts	ADJ	affsgyp	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	37	amod	37:amod	LvtbNodeId=a-p10134-p3s4w36
-37	nakts	nakts	NOUN	ncfsg6	Case=Gen|Gender=Fem|Number=Sing	38	nmod	38:nmod:gen	LvtbNodeId=a-p10134-p3s4w37
-38	maģija	maģija	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	26	nsubj	26:nsubj	LvtbNodeId=a-p10134-p3s4w38|SpaceAfter=No
-39	»	"	PUNCT	zq	_	38	punct	38:punct	LvtbNodeId=a-p10134-p3s4w39|SpaceAfter=No
-40	,	,	PUNCT	zc	_	45	punct	45:punct	LvtbNodeId=a-p10134-p3s4w40
-41	bet	bet	CCONJ	cc	_	45	cc	45:cc	LvtbNodeId=a-p10134-p3s4w41
-42	komerciālā	komerciāls	ADJ	afmsgyp	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	43	amod	43:amod	LvtbNodeId=a-p10134-p3s4w42
-43	tūrisma	tūrisms	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	44	nmod	44:nmod:gen	LvtbNodeId=a-p10134-p3s4w43
-44	kategorijā	kategorija	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	45	obl	45:obl:loc	LvtbNodeId=a-p10134-p3s4w44
-45	uzvarēja	uzvarēt	VERB	vmnist330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	6:conj	LvtbNodeId=a-p10134-p3s4w45
-46	britu	brits	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	47	obl	47:obl:acc	LvtbNodeId=a-p10134-p3s4w46
-47	iesūtītā	iesūtīt	VERB	vmnpdfsnpsypn	Aspect=Perf|Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	51	amod	51:amod	LvtbNodeId=a-p10134-p3s4w47
-48	videofilma	videofilma	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	51	nmod	51:nmod	LvtbNodeId=a-p10134-p3s4w48
-49	«	"	PUNCT	zq	_	51	punct	51:punct	LvtbNodeId=a-p10134-p3s4w49|SpaceAfter=No
-50	Lielbritānijas	Lielbritānija	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	51	nmod	51:nmod:gen	LvtbNodeId=a-p10134-p3s4w50
-51	skaņas	skaņa	NOUN	ncfpn4	Case=Nom|Gender=Fem|Number=Plur	45	nsubj	45:nsubj	LvtbNodeId=a-p10134-p3s4w51|SpaceAfter=No
-52	»	"	PUNCT	zq	_	51	punct	51:punct	LvtbNodeId=a-p10134-p3s4w52
-53	(	(	PUNCT	zb	_	55	punct	55:punct	LvtbNodeId=a-p10134-p3s4w53|SpaceAfter=No
-54	«	"	PUNCT	zq	_	55	punct	55:punct	LvtbNodeId=a-p10134-p3s4w54|SpaceAfter=No
-55	Sounds	Sounds	X	xf	Foreign=Yes	51	parataxis	51:parataxis	LvtbNodeId=a-p10134-p3s4w55
-56	of	of	X	xf	Foreign=Yes	55	flat:foreign	55:flat:foreign	LvtbNodeId=a-p10134-p3s4w56
-57	Great	Great	X	xf	Foreign=Yes	55	flat:foreign	55:flat:foreign	LvtbNodeId=a-p10134-p3s4w57
-58	Britain	Britain	X	xf	Foreign=Yes	55	flat:foreign	55:flat:foreign	LvtbNodeId=a-p10134-p3s4w58|SpaceAfter=No
-59	»	"	PUNCT	zq	_	55	punct	55:punct	LvtbNodeId=a-p10134-p3s4w59|SpaceAfter=No
-60	)	)	PUNCT	zb	_	55	punct	55:punct	LvtbNodeId=a-p10134-p3s4w60|SpaceAfter=No
-61	,	,	PUNCT	zc	_	65	punct	65:punct	LvtbNodeId=a-p10134-p3s4w61
-62	kur	kur	ADV	r0p	PronType=Int	65	advmod	65:advmod	LvtbNodeId=a-p10134-p3s4w62
-63	Apvienotā	apvienot	VERB	vmnpdfsnpsypn	Aspect=Perf|Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	64	amod	64:amod	LvtbNodeId=a-p10134-p3s4w63
-64	Karaliste	karaliste	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	65	nsubj:pass	65:nsubj:pass	LvtbNodeId=a-p10134-p3s4w64
-65	reklamēta	reklamēt	VERB	vmnpdfsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	51	acl	51:acl	LvtbNodeId=a-p10134-p3s4w65
-66	kā	kā	SCONJ	cs	_	69	case	69:case	LvtbNodeId=a-p10134-p3s4w66
-67	pievilcīgs	pievilcīgs	ADJ	afmsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	69	amod	69:amod	LvtbNodeId=a-p10134-p3s4w67
-68	tūrisma	tūrisms	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	69	nmod	69:nmod:gen	LvtbNodeId=a-p10134-p3s4w68
-69	galamērķis	galamērķis	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	65	obl	65:obl:kā	LvtbNodeId=a-p10134-p3s4w69
-70	cilvēkiem	cilvēks	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	69	nmod	69:nmod:dat	LvtbNodeId=a-p10134-p3s4w70
-71	ar	ar	ADP	spsa	_	74	case	74:case	LvtbNodeId=a-p10134-p3s4w71
-72	netradicionālu	netradicionāls	ADJ	afmsanp	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	74	amod	74:amod	LvtbNodeId=a-p10134-p3s4w72
-73	seksuālo	seksuāls	ADJ	affsayp	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	74	amod	74:amod	LvtbNodeId=a-p10134-p3s4w73
-74	orientāciju	orientācija	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	70	nmod	70:nmod:ar	LvtbNodeId=a-p10134-p3s4w74|SpaceAfter=No
-75	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p10134-p3s4w75
 
 ~~~
 

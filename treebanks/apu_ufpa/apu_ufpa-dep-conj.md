@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-56 nodes (8%) are attached to their parents as `conj`.
+56 nodes (7%) are attached to their parents as `conj`.
 
 56 instances of `conj` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.41071428571429.

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (9%) are attached to their parents as `obj`.
+84 nodes (8%) are attached to their parents as `obj`.
 
-36 instances of `obj` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21621621621622.
+76 instances of `obj` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.20238095238095.
 
-The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (35; 95% instances), <tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (79; 94% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,14 +30,18 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 obj	color:blue
-1	oiko	ko	NOUN	n	Nomzr=Obj|Person=1	3	obj	_	_
-2	tokwa	tok	VERB	vt	Trans=Yes	3	ccomp	_	_
-3	ojã	jã	AUX	aux	Person=1	0	root	_	_
+# visual-style 3 4 obj	color:blue
+1	omepit	mepit	NOUN	n	Person=1	2	nsubj	_	_
+2	erekkwa	erek	VERB	vt	Trans=Yes	0	root	_	_
+3	nom	nom	ADV	adv	Polarity=Neg	2	advmod	_	_
+4	kwak	kwak	NOUN	n	_	3	obj	_	_
+5	tʃop	tʃop	VERB	vi	_	2	xcomp	_	_
+6	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
 
 ~~~
 
@@ -48,9 +52,9 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 obj	color:blue
-1	niam	niam	NOUN	n	_	3	obj	_	_
-2	Tʃaruj	Tʃaruj	PROPN	pn	_	3	nmod	_	_
-3	imokwa	mokwa	NOUN	n	Nomzr=Obj	0	root	_	_
+1	oiko	ko	NOUN	n	Nomzr=Obj|Person=1	3	obj	_	_
+2	tokwa	tok	VERB	vt	Trans=Yes	3	ccomp	_	_
+3	ojã	jã	AUX	aux	Person=1	0	root	_	_
 
 ~~~
 

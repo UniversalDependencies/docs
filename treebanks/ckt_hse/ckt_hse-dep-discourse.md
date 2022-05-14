@@ -22,12 +22,12 @@ The following 34 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 discourse	color:blue
-1	Ынӄэн	_	PART	_	_	4	discourse	_	Gloss=DET
-2	э	_	PART	_	_	1	advmod:emph	_	Gloss=PTCL
-3	чеԓг	_	X	_	_	4	reparandum	_	Gloss=FST
-4	гачеԓгыръоԓенат	_	VERB	_	_	0	root	_	Gloss=PF-красный-DISTR.S-PF.3SG-PL
-5	гатъыԓыӈӈоԓенат	_	VERB	_	_	4	parataxis	_	Gloss=PF-болеть-INCH-PF.3SG-PL|SpaceAfter=No
-6	.	_	PUNCT	_	_	4	punct	_	_
+1	Ынӄэн	_	PART	_	_	4	discourse	4:discourse	Gloss=DET
+2	э	_	PART	_	_	1	advmod:emph	1:advmod:emph	Gloss=PTCL
+3	чеԓг	_	X	_	_	4	reparandum	4:reparandum	Gloss=FST
+4	гачеԓгыръоԓенат	_	VERB	_	_	0	root	0:root	Gloss=PF-красный-DISTR.S-PF.3SG-PL
+5	гатъыԓыӈӈоԓенат	_	VERB	_	_	4	parataxis	4:parataxis	Gloss=PF-болеть-INCH-PF.3SG-PL|SpaceAfter=No
+6	.	_	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -38,12 +38,12 @@ The following 34 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 discourse	color:blue
-1	Каԓьайӈын	_	NOUN	_	_	0	root	_	Gloss=злой.дух-AUG-NOM.SG
-2	нрзб	_	X	_	_	5	discourse	_	Gloss=
-3	янот	_	ADV	_	_	5	advmod	_	Gloss=сначала
-4	гым	_	PRON	_	_	5	nsubj	_	Gloss=я
-5	мӄымԓёчетык	_	VERB	_	_	1	parataxis	_	Gloss=1SG.S/A.SUBJ-костный.мозг-EAT-COMB-1SG.S|SpaceAfter=No
-6	.	_	PUNCT	_	_	1	punct	_	_
+1	Каԓьайӈын	_	NOUN	_	_	0	root	0:root	Gloss=злой.дух-AUG-NOM.SG
+2	нрзб	_	X	_	_	5	discourse	5:discourse	Gloss=
+3	янот	_	ADV	_	_	5	advmod	5:advmod	Gloss=сначала
+4	гым	_	PRON	_	_	5	nsubj	5:nsubj	Gloss=я
+5	мӄымԓёчетык	_	VERB	_	_	1	parataxis	1:parataxis	Gloss=1SG.S/A.SUBJ-костный.мозг-EAT-COMB-1SG.S|SpaceAfter=No
+6	.	_	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -54,14 +54,14 @@ The following 34 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 discourse	color:blue
-1	И	_	CCONJ	_	_	3	cc	_	Gloss=
-2	ынӄэн	_	PART	_	_	3	discourse	_	Gloss=DET
-3	уйӈэ	_	VERB	_	_	0	root	_	Gloss=нет
-4	гэнъэԓԓин	_	AUX	_	_	3	aux	_	Gloss=PF-стать-PF.3SG
-5	гагаԓята	_	VERB	_	_	3	advcl	_	Gloss=COM-проходить-INS
-6	аԓымы	_	PART	_	_	7	discourse	_	Gloss=хотя
-7	ӈавкэтԓьан	_	NOUN	_	_	3	parataxis	_	Gloss=FEM-девочка-ATTR-NOM.SG|SpaceAfter=No
-8	.	_	PUNCT	_	_	3	punct	_	_
+1	И	_	CCONJ	_	_	3	cc	3:cc	Gloss=
+2	ынӄэн	_	PART	_	_	3	discourse	3:discourse	Gloss=DET
+3	уйӈэ	_	VERB	_	_	0	root	0:root	Gloss=нет
+4	гэнъэԓԓин	_	AUX	_	_	3	aux	3:aux	Gloss=PF-стать-PF.3SG
+5	гагаԓята	_	VERB	_	_	3	advcl	3:advcl	Gloss=COM-проходить-INS
+6	аԓымы	_	PART	_	_	7	discourse	7:discourse	Gloss=хотя
+7	ӈавкэтԓьан	_	NOUN	_	_	3	parataxis	3:parataxis	Gloss=FEM-девочка-ATTR-NOM.SG|SpaceAfter=No
+8	.	_	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

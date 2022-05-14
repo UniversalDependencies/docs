@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-8402 tokens (9%) have a non-empty value of `Polarity`.
-948 types (19%) occur at least once with a non-empty value of `Polarity`.
-225 lemmas (10%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (8402; 9% instances).
+8363 tokens (9%) have a non-empty value of `Polarity`.
+927 types (19%) occur at least once with a non-empty value of `Polarity`.
+222 lemmas (10%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 1 part-of-speech tags: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (8363; 9% instances).
 
 ### `VERB`
 
-8402 <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Polarity`.
+8363 <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="tr_tourism-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8390; 100%), <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6684; 80%), <tt><a href="tr_tourism-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6462; 77%), <tt><a href="tr_tourism-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5748; 68%), <tt><a href="tr_tourism-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5489; 65%), <tt><a href="tr_tourism-feat-Person.html">Person</a></tt><tt>=1</tt> (4817; 57%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="tr_tourism-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8351; 100%), <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6655; 80%), <tt><a href="tr_tourism-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6441; 77%), <tt><a href="tr_tourism-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5727; 68%), <tt><a href="tr_tourism-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5471; 65%), <tt><a href="tr_tourism-feat-Person.html">Person</a></tt><tt>=1</tt> (4806; 57%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (2203; 26% of non-empty `Polarity`): <em>KALMADIM, İSTEMİYORUM, ETMEM, OLMADI, BEĞENMEDİM, KULLANMADIM, ALAMADIM, YAPTIRMADIM, GÖRMEDİM, KARŞILAMADI</em>
-* `Pos` (6199; 74% of non-empty `Polarity`): <em>GÖRÜŞÜLDÜ, KALDIK, KALDIM, EDERİM, İLGİLENDİ, VERİYORUM, İSTİYORUM, VERİRİM, OLABİLİRDİ, VARDI</em>
-* `EMPTY` (8507): <em>GÜZELDİ, İYİYDİ, YOKTU, TESİSTİ, İLGİLİYDİ, KÖTÜYDÜ, AZDI, VARDI, BEYDİ, KÜÇÜKTÜ</em>
+* `Neg` (2199; 26% of non-empty `Polarity`): <em>KALMADIM, İSTEMİYORUM, ETMEM, OLMADI, BEĞENMEDİM, KULLANMADIM, ALAMADIM, YAPTIRMADIM, GÖRMEDİM, KARŞILAMADI</em>
+* `Pos` (6164; 74% of non-empty `Polarity`): <em>GÖRÜŞÜLDÜ, KALDIK, KALDIM, EDERİM, İLGİLENDİ, VERİYORUM, İSTİYORUM, VERİRİM, OLABİLİRDİ, VARDI</em>
+* `EMPTY` (8496): <em>GÜZELDİ, İYİYDİ, YOKTU, TESİSTİ, İLGİLİYDİ, KÖTÜYDÜ, AZDI, VARDI, BEYDİ, KÜÇÜKTÜ</em>
 
 <table>
   <tr><th>Paradigm <i>kal</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -48,10 +48,9 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (79; 79%),
+<tt>VERB --[<tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (78; 80%),
 <tt>VERB --[<tt><a href="tr_tourism-dep-compound.html">compound</a></tt>]--> VERB</tt> (14; 88%),
-<tt>VERB --[<tt><a href="tr_tourism-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (10; 59%),
+<tt>VERB --[<tt><a href="tr_tourism-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (9; 56%),
 <tt>VERB --[<tt><a href="tr_tourism-dep-obl.html">obl</a></tt>]--> VERB</tt> (6; 60%),
-<tt>VERB --[<tt><a href="tr_tourism-dep-obj.html">obj</a></tt>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<tt><a href="tr_tourism-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%).
 

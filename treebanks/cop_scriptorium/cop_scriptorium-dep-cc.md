@@ -49,7 +49,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 4	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	3	det	_	Entity=abstract)
 5	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
 6	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
-7	ⲣⲣⲙⲙⲁⲟ	ⲣⲣⲙⲙⲁⲟ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ⲣ-ⲣⲙ-ⲙⲁⲟ
+7	ⲣⲣⲙⲙⲁⲟ	ⲣⲣⲙⲙⲁⲟ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ⲣ-ⲣⲙ-ⲙⲁⲟ
 8	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	9	case	_	_
 9	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
 10	.	.	PUNCT	PUNCT	_	7	punct	_	_
@@ -75,11 +75,11 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 4	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
 5	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(substance
 6	ⲥⲛⲟϥ	ⲥⲛⲟϥ	NOUN	N	_	7	nsubj	_	Entity=substance)
-7	ϣⲟⲩⲟ	ϣⲟⲩⲟ	VERB	V	VerbForm=Fin	3	acl	_	_
+7	ϣⲟⲩⲟ	ϣⲟⲩⲟ	VERB	V	VerbForm=Fin	3	acl:relcl	_	_
 8	ⲙⲙⲟ	ⲛ	ADP	PREP	_	9	case	_	_
 9	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
 10	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	13	advmod	_	_
-11	ⲙⲛⲧⲥⲛⲟⲟⲩⲥ	ⲙⲛⲧⲥⲛⲟⲟⲩⲥ	NUM	NUM	NumType=Card	13	nummod	_	Entity=(time|Morphs=ⲙⲛⲧ-ⲥⲛⲟⲟⲩⲥ
+11	ⲙⲛⲧⲥⲛⲟⲟⲩⲥ	ⲙⲛⲧⲥⲛⲟⲟⲩⲥ	NUM	NUM	NumType=Card	13	nummod	_	Entity=(time|MSeg=ⲙⲛⲧ-ⲥⲛⲟⲟⲩⲥ
 12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲣ
 13	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	7	advcl	_	Entity=time)person)
 14	.	.	PUNCT	PUNCT	_	3	punct	_	_

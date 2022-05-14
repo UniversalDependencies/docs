@@ -10,24 +10,24 @@ This feature is universal.
 It occurs with 5 different values: `Fut`, `Imp`, `Past`, `Pqp`, `Pres`.
 
 15138 tokens (7%) have a non-empty value of `Tense`.
-3873 types (15%) occur at least once with a non-empty value of `Tense`.
-1282 lemmas (7%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (11237; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (3901; 2% instances).
+3872 types (15%) occur at least once with a non-empty value of `Tense`.
+1279 lemmas (7%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (11239; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (3899; 2% instances).
 
 ### `VERB`
 
-11237 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Tense`.
+11239 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11236; 100%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11235; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (10478; 93%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10450; 93%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8789; 78%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11238; 100%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11237; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (10480; 93%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10451; 93%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8789; 78%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (681; 6% of non-empty `Tense`): <em>poderá, deverá, terá, deverão, poderão, terão, haverá, será, quiser, ficará</em>
-* `Imp` (913; 8% of non-empty `Tense`): <em>tinha, havia, fazia, dizia, estava, parecia, estavam, era, podia, tinham</em>
+* `Imp` (914; 8% of non-empty `Tense`): <em>tinha, havia, fazia, dizia, estava, parecia, estavam, era, podia, tinham</em>
 * `Past` (3462; 31% of non-empty `Tense`): <em>disse, fez, afirmou, teve, foi, chegou, deu, ficou, começou, passou</em>
 * `Pqp` (55; 0% of non-empty `Tense`): <em>fizera, tornara, acabara, desaparecera, dissera, levara, Nascera, Quisera, Saíra, abrangera</em>
-* `Pres` (6126; 55% of non-empty `Tense`): <em>tem, há, pode, diz, é, deve, está, têm, podem, faz</em>
-* `EMPTY` (9526): <em>fazer, ter, ver, dar, dizer, feito, partir, falar, feita, saber</em>
+* `Pres` (6127; 55% of non-empty `Tense`): <em>tem, há, pode, diz, é, deve, está, têm, podem, faz</em>
+* `EMPTY` (9527): <em>fazer, ter, ver, dar, dizer, feito, partir, falar, feita, saber</em>
 
 <table>
   <tr><th>Paradigm <i>ter</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th></tr>
@@ -50,17 +50,17 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-3901 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Tense`.
+3899 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3900; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (3744; 96%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3680; 94%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3002; 77%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3898; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (3742; 96%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3679; 94%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3002; 77%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (293; 8% of non-empty `Tense`): <em>será, serão, terá, for, irá, estará, estarão, forem, irão, estiver</em>
-* `Imp` (425; 11% of non-empty `Tense`): <em>era, estava, tinha, eram, estavam, fosse, havia, haviam, ia, tinham</em>
+* `Imp` (424; 11% of non-empty `Tense`): <em>era, estava, tinha, eram, estavam, fosse, havia, haviam, ia, tinham</em>
 * `Past` (720; 18% of non-empty `Tense`): <em>foi, foram, esteve, fui, estiveram, fomos, teve, tiveram, estivemos, teria</em>
 * `Pqp` (12; 0% of non-empty `Tense`): <em>fora, foram, tiveram</em>
-* `Pres` (2451; 63% of non-empty `Tense`): <em>é, são, está, vai, estão, tem, seja, vão, têm, tenha</em>
+* `Pres` (2450; 63% of non-empty `Tense`): <em>é, são, está, vai, estão, tem, seja, vão, têm, tenha</em>
 * `EMPTY` (1127): <em>ser, ter, sido, foram, seria, estar, sendo, é, tendo, serem</em>
 
 <table>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6396 nodes (12%) are attached to their parents as `det`.
+6397 nodes (12%) are attached to their parents as `det`.
 
 5886 instances of `det` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02423389618512.
+Average distance between parent and child is 1.02423010786306.
 
-The following 14 pairs of parts of speech are connected with `det`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (5672; 89% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (265; 4% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (242; 4% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (83; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (62; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (46; 1% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `det`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (5672; 89% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (266; 4% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (242; 4% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (83; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (62; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (46; 1% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 14 pairs of parts of speech are connected with `det`: <tt><a href=
 7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
 8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
 9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
-10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl	_	_
+10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl:relcl	_	_
 11	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	obj	_	Orig=ⲟⲩ`
 12	ϩⲛ	ϩⲛ	ADP	PREP	_	14	case	_	Orig=ϩ︤ⲛ︥
 13	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(place
@@ -62,7 +62,7 @@ The following 14 pairs of parts of speech are connected with `det`: <tt><a href=
 11	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	14	mark	_	_
 12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
 13	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-14	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	10	acl	_	_
+14	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	10	acl:relcl	_	_
 15	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	obj	_	Entity=person)
 
 ~~~

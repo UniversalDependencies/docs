@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Gustavo Mendonça, Larissa Rinaldi, Martin Popel, Daniel Zeman, Valeria de Paiva, Alexandre Rademaker.
 
 Repository: [UD_Portuguese-PUD](https://github.com/UniversalDependencies/UD_Portuguese-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_pud29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_pud210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 3.0
 
@@ -142,11 +142,11 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): _, acabar, começar, continuar, dever, estar, haver, ir, poder, ser, tender, ter, vir</li>
+<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): _, dever, estar, haver, ir, poder, ser, ter, vir</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: _, começar, continuar, estar, haver, ir, ser, ter, vir</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: _, estar, haver, ir, ser, ter, vir</li>
 </ul>
 
 <ul>
@@ -219,14 +219,14 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: novos, grandes, últimos, mais, Unidos, agrícolas, indígenas, políticos, Olímpicos, americanos</li>
       <li>ADP: Aqueles, nestes</li>
-      <li>AUX: foram, são, estão, podem, tinham, eram, estavam, têm, começaram, poderiam</li>
+      <li>AUX: foram, são, estão, podem, tinham, eram, estavam, têm, poderiam, serão</li>
       <li>AUX-Fin: são</li>
       <li>DET: os, as, muitos, várias, outras, muitas, outros, vários, alguns, estes</li>
       <li>NOUN: anos, pessoas, vezes, estados, meses, ações, dados, partes, terras, dias</li>
       <li>NUM: milhões, bilhões, bn</li>
       <li>PRON: eles, suas, seus, quais, nós, estes, aqueles, elas, os, vocês</li>
       <li>PROPN: EUA, Alpes, Andes, Balcãs, Kitai, Américas, Antillas, Caribs, Estados, Filipinas</li>
-      <li>VERB: têm, estão, incluem, dizem, tinham, conquistaram, decidiram, fornecem, ocorreram, tiveram</li>
+      <li>VERB: têm, estão, incluem, começaram, dizem, tinham, conquistaram, decidiram, fornecem, ocorreram</li>
       <li>VERB-Fin: opõem</li>
     </ul>
   </li>
@@ -237,14 +237,14 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: grande, primeira, maior, nova, mais, primeiro, nacional, novo, melhor, segunda</li>
       <li>ADP: a, nessa, nesse, consigo, daquela</li>
-      <li>AUX: é, foi, está, pode, tinha, estava, era, tem, seria, começou</li>
+      <li>AUX: é, foi, está, pode, tinha, estava, era, tem, seria, poderia</li>
       <li>AUX-Fin: É</li>
       <li>DET: o, a, um, uma, esta, este, cada, isso, outro, mesmo</li>
       <li>NOUN: vez, guerra, ano, parte, governo, cidade, estado, mundo, acordo, século</li>
       <li>NUM: bilhão, bn, milhão, um, Cinco</li>
       <li>PRON: ele, sua, seu, ela, o, eu, qual, isso, isto, lo</li>
       <li>PROPN: China, Trump, Mediterrâneo, América, the, Austrália, Europa, França, Grécia, Hong</li>
-      <li>VERB: disse, há, tem, diz, é, está, fez, tornou, devido, começou</li>
+      <li>VERB: disse, há, tem, começou, diz, é, está, fez, tornou, devido</li>
       <li>VERB-Fin: difere, há</li>
       <li>VERB-Inf: reduzir</li>
     </ul>
@@ -350,7 +350,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>AUX: é, foi, foram, são, está, pode, tinha, estava, estão, podem</li>
       <li>AUX-Fin: são, É</li>
-      <li>VERB: disse, há, tem, diz, é, está, fez, tornou, têm, começou</li>
+      <li>VERB: disse, há, tem, começou, diz, é, está, fez, tornou, têm</li>
       <li>VERB-Fin: difere, há, opõem</li>
     </ul>
   </li>
@@ -359,8 +359,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: for, tenham, tivesse, fossem, seja, tenha, comecem, estivesse, estivessem, fosse</li>
-      <li>VERB: seja, Andes, agissem, assistam, assumisse, aumente, encaixassem, encaixem, escolhesse, estiver</li>
+      <li>AUX: for, tenham, tivesse, fossem, seja, tenha, estivesse, estivessem, fosse, possam</li>
+      <li>VERB: seja, Andes, agissem, assistam, assumisse, aumente, comecem, encaixassem, encaixem, escolhesse</li>
     </ul>
   </li>
 </ul>
@@ -381,8 +381,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Past
     <ul>
-      <li>AUX: foi, foram, tinha, estava, era, tinham, eram, estavam, começou, havia</li>
-      <li>VERB: disse, fez, tornou, começou, estava, foi, declarou, houve, escreveu, permitiu</li>
+      <li>AUX: foi, foram, tinha, estava, era, tinham, eram, estavam, havia, tivesse</li>
+      <li>VERB: disse, começou, fez, tornou, estava, foi, declarou, houve, começaram, escreveu</li>
     </ul>
   </li>
 </ul>
@@ -506,7 +506,7 @@ employ ten-fold cross-validation.
       <li>AUX-Fin: são, É</li>
       <li>PRON: se, ele, sua, seu, eles, ela, suas, seus, o, lo</li>
       <li>PROPN: ele</li>
-      <li>VERB: disse, há, tem, diz, é, está, fez, tornou, têm, começou</li>
+      <li>VERB: disse, há, tem, começou, diz, é, está, fez, tornou, têm</li>
       <li>VERB-Fin: difere, há, opõem</li>
       <li>VERB-Inf: reduzir</li>
     </ul>
@@ -561,7 +561,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: _, ter, poder, estar, começar, ir, dever, haver, continuar, acabar, tender, vir.</li>
+<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: _, ter, poder, estar, ir, dever, haver, vir.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _, ser.</li>
 </ul>
 
@@ -571,7 +571,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (514)</li>
+      <li>VERB--NOUN (515)</li>
       <li>VERB--NOUN-ADP(de) (2)</li>
       <li>VERB--PRON (156)</li>
       <li>VERB--PRON-Nom (173)</li>

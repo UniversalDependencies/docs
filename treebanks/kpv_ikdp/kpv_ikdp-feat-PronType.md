@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Int` (5; 63% of non-empty `PronType`): <em>кудз, Кытысь</em>
 * `Rel` (3; 38% of non-empty `PronType`): <em>кор, кытысь</em>
-* `EMPTY` (199): <em>зэй, вот, и, нин, сэн, эні, вӧдзӧ, сідз, ӧні, на</em>
+* `EMPTY` (200): <em>зэй, вот, и, нин, сэн, эні, вӧдзӧ, сідз, ӧні, на</em>
 
 <table>
   <tr><th>Paradigm <i>кытысь</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

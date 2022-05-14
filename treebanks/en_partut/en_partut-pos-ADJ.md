@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>other</em> (<tt><a href="en_partut-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.003481 (the average of all parts of speech is 1.199242).
+The form / lemma ratio of `ADJ` is 1.003481 (the average of all parts of speech is 1.198926).
 
 The 1st highest number of forms (2) was observed with the lemma “European”: <em>EUROPEAN, European</em>.
 

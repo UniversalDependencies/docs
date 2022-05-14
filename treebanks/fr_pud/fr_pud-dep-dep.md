@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 31 32 dep	color:blue
 1	Elle	il	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=elle
 2	débute	débuter	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+3	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	carrière	carrière	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	à	à	ADP	IN	_	7	case	_	_
 6	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_

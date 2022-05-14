@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Mid` are language-specific.
 It occurs with 5 different values: `Act`, `Cau`, `Mid`, `Pass`, `Rcp`.
 
-6747 tokens (13%) have a non-empty value of `Voice`.
-3417 types (26%) occur at least once with a non-empty value of `Voice`.
+6743 tokens (13%) have a non-empty value of `Voice`.
+3415 types (26%) occur at least once with a non-empty value of `Voice`.
 1220 lemmas (17%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (6747; 13% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (6743; 13% instances).
 
 ### `VERB`
 
-6747 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+6743 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4965; 74%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4822; 71%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4784; 71%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4155; 62%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3698; 55%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3512; 52%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (3498; 52%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4961; 74%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4818; 71%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4780; 71%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4153; 62%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3694; 55%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3510; 52%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (3495; 52%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (3492; 52% of non-empty `Voice`): <em>ուզում, ասում, տալիս, ասաց, անում, տեսնում, ունի, հիշում, բերել, կարծում</em>
+* `Act` (3490; 52% of non-empty `Voice`): <em>ուզում, ասում, տալիս, ասաց, անում, տեսնում, ունի, հիշում, բերել, կարծում</em>
 * `Cau` (24; 0% of non-empty `Voice`): <em>սովորեցրել, Հիշեցնենք, ամայացրել, զվարճացնում, թխկացրին, թփթփացրին, իմաստացնում, խաղացրել, խմեցրեց, խշշխշշացնում</em>
 * `Mid` (2717; 40% of non-empty `Voice`): <em>գալիս, չկա, կա, լինի, գնում, նայում, եղել, կանգնած, լինել, կապված</em>
-* `Pass` (510; 8% of non-empty `Voice`): <em>նշված, սահմանված, ուղղված, ստիպված, ավելացված, ստացվել, նախատեսված, նախատեսվում, իրականացվող, ներկայացվել</em>
+* `Pass` (508; 8% of non-empty `Voice`): <em>նշված, սահմանված, ուղղված, ստիպված, ստացվել, ավելացված, նախատեսված, նախատեսվում, իրականացվող, ներկայացվել</em>
 * `Rcp` (4; 0% of non-empty `Voice`): <em>գրկախառնված, գրկախառնվեցին, ծեծկռտվում, համբուրվել</em>
 * `EMPTY` (2): <em>ավարտվում, ձգտելով</em>
 

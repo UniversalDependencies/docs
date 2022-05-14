@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, Ethan Chi, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Nathan Schneider, Sam Bowman, Hanzhi Zhu, Daniel Galbraith, John Bauer.
 
 Repository: [UD_English-EWT](https://github.com/UniversalDependencies/UD_English-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -109,7 +109,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 
 
 <ul>
-<li>This corpus contains 16621 sentences, 251489 tokens and 254825 syntactic words.</li>
+<li>This corpus contains 16621 sentences, 251489 tokens and 254821 syntactic words.</li>
 </ul>
 
 <ul>
@@ -121,12 +121,12 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
-<li>This corpus contains 925 types of words that contain both letters and punctuation. Examples: 's, n't, 'm, 'll, 've, 're, 'd, Dr., e-mail, Mr., ’s, U.S., st., Inc., etc., Sept., vs., W., .doc, carol.st.clair@enron.com, it's, 01-Feb-02, n’t, Dec., Ft., Oct., alt.animals.cat, p&l, :D, Corp., Ms., No., Non-Bondad, PG&E, S., Yahoo!, i.e., A., Analysis_0712, D.C., E., ENRON.XLS, MEH-risk, Sha'lan, b/c, co., ekrapels@esaibos.com, enrongss.xls, p.m., 80's</li>
+<li>This corpus contains 925 types of words that contain both letters and punctuation. Examples: 's, n't, 'm, 'll, 've, 're, 'd, Dr., e-mail, Mr., ’s, U.S., st., Inc., etc., Sept., vs., W., it's, .doc, carol.st.clair@enron.com, 01-Feb-02, n’t, Dec., Ft., Oct., alt.animals.cat, p&l, :D, Corp., Ms., No., Non-Bondad, PG&E, S., Yahoo!, i.e., A., Analysis_0712, D.C., E., ENRON.XLS, MEH-risk, Sha'lan, b/c, co., ekrapels@esaibos.com, enrongss.xls, p.m., 80's</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3333 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 613 types of multi-word tokens. Examples: don't, i'm, it's, i've, didn't, can't, its, i'll, you'll, you're, cannot, doesn't, he's, that's, dont, won't, they're, wouldn't, there's, haven't, isn't, bush's, i'd, wasn't, couldn't, we've, China's, we're, im, here's, what's, aren't, you've, we'll, ive, wont, let's, she's, weren't, your, cant, they'll, world's, you'd, Enron's, Iran's, thats, India's, Qaeda's, he'd.</li>
+<li>This corpus contains 3330 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 611 types of multi-word tokens. Examples: don't, i'm, it's, i've, didn't, can't, its, i'll, you'll, you're, cannot, doesn't, he's, that's, dont, won't, they're, wouldn't, there's, haven't, isn't, bush's, i'd, wasn't, couldn't, we've, China's, we're, im, here's, what's, aren't, you've, we'll, ive, wont, let's, she's, weren't, your, cant, they'll, world's, you'd, Enron's, Iran's, thats, India's, Qaeda's, he'd.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -138,11 +138,11 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
-<li>This corpus contains 21 word types tagged as particles (PART): ', 's, -s, 2, `s, a, n, n't, na, not, nt, n’t, ot, s, t, ta, the, to, too, ’, ’s</li>
+<li>This corpus contains 20 word types tagged as particles (PART): ', 's, -s, 2, `s, a, n, n't, na, not, nt, n’t, ot, s, ta, the, to, too, ’, ’s</li>
 </ul>
 
 <ul>
-<li>This corpus contains 67 lemmas tagged as pronouns (PRON): 's, I, any, anybody, anyone, anything, everybody, everyone, everything, he, hers, herself, himself, it, it's, its, itself, mine, mines, my, myself, nobody, nothing, one, our, ours, ourselves, s, she, somebody, someone, something, that, theirs, them, themselves, there, they, they're, this, thou, thy, u, ur, us, waht, we, what, whatever, which, who, who's, whoever, whom, whomever, whose, wtf, ya, ya'll, ye, yo, you, you're, your, yours, yourself, yourselves</li>
+<li>This corpus contains 54 lemmas tagged as pronouns (PRON): I, anybody, anyone, anything, everybody, everyone, everything, he, hers, herself, himself, his, it, its, itself, mine, my, myself, nobody, nothing, one, ours, ourselves, she, somebody, someone, something, that, theirs, themselves, there, they, this, thou, thy, u, we, what, whatever, which, who, whoever, whom, whomever, whose, wtf, y'all, ya, ye, yo, you, yours, yourself, yourselves</li>
 </ul>
 
 <ul>
@@ -150,7 +150,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: any, that, this, what, whatever, which</li>
+<li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: that, this, what, whatever, which</li>
 </ul>
 
 <ul>
@@ -170,7 +170,6 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <ul>
     <li>AUX: is, will, can, would, was, are, could, do, should, have</li>
     <li>VERB: have, is, had, said, has, are, want, need, let, think</li>
-    <li>X: d, expose, get</li>
   </ul>
   </li>
 </ul>
@@ -180,7 +179,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <ul>
     <li>AUX: being, getting, having</li>
     <li>SCONJ: depending, regarding, concerning</li>
-    <li>VERB: going, looking, getting, following, including, taking, having, using, doing, regarding</li>
+    <li>VERB: going, getting, looking, following, including, taking, using, doing, having, regarding</li>
   </ul>
   </li>
 </ul>
@@ -190,7 +189,6 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <ul>
     <li>AUX: be, have, get, do, of, am, 've, are, b, by</li>
     <li>VERB: have, get, know, do, go, make, take, see, like, find</li>
-    <li>X: ive, mail, power</li>
   </ul>
   </li>
 </ul>
@@ -231,7 +229,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Neut
     <ul>
-      <li>PRON: it, its, itself, THERE, is, it's, ti</li>
+      <li>PRON: it, its, itself, it's, THERE, is, ti</li>
     </ul>
   </li>
 </ul>
@@ -247,7 +245,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       <li>AUX-Fin: are, were, have, do, 're, did, had, 've, 'd, re</li>
       <li>DET: these, those</li>
       <li>NOUN: people, years, days, things, questions, times, months, guys, friends, places</li>
-      <li>PRON: they, we, their, our, them, us, those, these, themselves, 's</li>
+      <li>PRON: they, we, their, our, them, us, those, these, themselves, there</li>
       <li>PROPN: states, americans, Beatles, Iraqis, Palestinians, Islands, Tigers, Shiites, Nations, Seas</li>
       <li>VERB: have, are, had, need, do, want, know, took, got, came</li>
       <li>VERB-Fin: have, are, had, need, do, want, know, took, got, came</li>
@@ -259,6 +257,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <li>Sing
     <ul>
       <li>ADJ: Central, Global, Modern, Pakistani, middle, red, 17th</li>
+      <li>ADV: mid</li>
       <li>AUX-Fin: is, was, has, 's, do, have, am, 'm, are, did</li>
       <li>DET: this, that</li>
       <li>INTJ: appetit</li>
@@ -268,7 +267,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       <li>PROPN: bush, US, al, Iraq, enron, Iran, China, Qaeda, John, india</li>
       <li>SYM: #, %, 1%P701!.doc</li>
       <li>VERB-Fin: is, have, said, has, had, want, was, think, need, know</li>
-      <li>X: .doc, Guaranty.doc, 20, 20.doc, one, -2-F.doc, -FINAL.doc, 02-05-02.doc, 4_28_00.doc, URSULA</li>
+      <li>X: .doc, Guaranty.doc, 20.doc, -2-F.doc, -FINAL.doc, 02-05-02.doc, 4_28_00.doc, URSULA, 0308.doc, 050901.doc</li>
     </ul>
   </li>
 </ul>
@@ -336,7 +335,6 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       <li>ADJ: good, great, new, other, many, last, same, few, little, sure</li>
       <li>ADV: well, far, soon, long, hard, early, late, close, little, high</li>
       <li>INTJ: Bon</li>
-      <li>X: priced, cooked, day, dramatic, educated, going, ible, informed, standing, full</li>
     </ul>
   </li>
 </ul>
@@ -366,7 +364,6 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       <li>AUX-Fin: do, be, get</li>
       <li>AUX-Inf: get</li>
       <li>VERB-Fin: let, go, see, take, try, get, make, give, call, put</li>
-      <li>X-Fin: expose, get</li>
     </ul>
   </li>
 </ul>
@@ -397,7 +394,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: was, were, did, had, got, 'd, wase</li>
+      <li>AUX-Fin: was, were, did, had, got, 'd, where, wase</li>
       <li>AUX-Part: been</li>
       <li>SCONJ-Part: given, Based, PROVIDED, geiven</li>
       <li>VERB-Fin: had, said, was, got, took, came, went, did, told, called</li>
@@ -411,7 +408,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>AUX-Fin: is, are, have, do, has, 's, am, 'm, does, 've</li>
       <li>VERB-Fin: have, is, has, are, want, need, know, think, thank, get</li>
-      <li>VERB-Part: going, doing, looking, working, trying, getting, having, coming, making, planning</li>
+      <li>VERB-Part: going, doing, looking, working, trying, having, getting, coming, making, planning</li>
     </ul>
   </li>
 </ul>
@@ -455,6 +452,14 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
+  <li>Emp
+    <ul>
+      <li>PRON: itself, themselves, myself, himself, herself, yourself, ourselves</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
       <li>DET: half</li>
@@ -467,9 +472,8 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>ADV: how, why, where, when, whenever, Wherever, however, were, y</li>
       <li>DET: what, which, whatever</li>
-      <li>PRON: what, which, who, whom, whatever, whose, who's, Wtf, waht, whoever</li>
-      <li>SCONJ: when, how, where, why, whenever, wherever</li>
-      <li>X: ever</li>
+      <li>PRON: what, which, who, whatever, whom, who's, Wtf, waht, whoooooo, wht</li>
+      <li>SCONJ: when, how, where, why, whenever, wherever, who</li>
     </ul>
   </li>
 </ul>
@@ -485,9 +489,9 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: when, where, how, were, wherein</li>
-      <li>DET: what, whhich</li>
-      <li>PRON: that, who, which, whom, what, whose</li>
+      <li>ADV: when, where, how, wherein, were</li>
+      <li>DET: what, which</li>
+      <li>PRON: that, who, which, whom, what, whose, whatever, whoever, whomever, the</li>
       <li>SCONJ: where, when, why, were</li>
     </ul>
   </li>
@@ -501,7 +505,6 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <li>Card
     <ul>
       <li>NUM: one, two, 2, 3, 5, 1, 10, 4, three, 20</li>
-      <li>X: 3-5290</li>
     </ul>
   </li>
 </ul>
@@ -542,7 +545,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: my, your, their, his, our, its, her, whose, there, you</li>
+      <li>PRON: my, your, their, his, our, its, her, you, it's, there</li>
     </ul>
   </li>
 </ul>
@@ -554,7 +557,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: yourself, myself, themselves, itself, himself, ourselves, herself, yourselves</li>
+      <li>PRON: yourself, myself, itself, themselves, himself, ourselves, herself, yourselves</li>
     </ul>
   </li>
 </ul>
@@ -577,7 +580,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <li>2
     <ul>
       <li>AUX-Fin: are, do, 're, have, did, were, 've, r, re, be</li>
-      <li>PRON: you, your, yourself, u, ur, Thou, yourselves, yuor</li>
+      <li>PRON: you, your, yourself, Yo, u, ur, thy, ye, yourselves, Thou</li>
       <li>VERB-Fin: have, want, need, get, know, think, go, got, do, take</li>
     </ul>
   </li>
@@ -588,7 +591,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>AUX-Fin: is, was, are, has, 's, were, have, does, do, did</li>
       <li>PRON: it, they, he, their, his, them, him, she, her, its</li>
-      <li>VERB-Fin: is, said, has, are, have, had, was, came, took, told</li>
+      <li>VERB-Fin: is, said, has, are, had, have, was, came, took, told</li>
     </ul>
   </li>
 </ul>
@@ -606,22 +609,22 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
         <ul>
           <li>ADJ: gud, lil</li>
           <li>ADP: o, thru, w, ta, vs, f, a, b/c, w/, 2</li>
-          <li>ADV: 4-ever, Def, aka, deffly, ovr, prolly</li>
-          <li>AUX-Fin: ar, shal, wud</li>
+          <li>ADV: 4-ever, Def, aka, deffly, ovr, prolly, y</li>
+          <li>AUX-Fin: ar, r, re, shal, v, wud</li>
           <li>AUX-Inf: b</li>
           <li>CCONJ: n, 'n, VS</li>
           <li>DET: da, dat, sm</li>
           <li>INTJ: wel, plllz</li>
-          <li>NOUN: mins, No., luv, yrs, UV, b, c, min, yr, DJ's</li>
+          <li>NOUN: mins, No., luv, yrs, UV, b, c, min, ppl, yr</li>
           <li>NUM: b, bn</li>
-          <li>PART: na, ta, 2, a</li>
+          <li>PART: na, ta, nt, 2, a</li>
           <li>PRON: u, ur, 'em, any1, em, wht</li>
           <li>PROPN: Sept., Dec., Oct, Oct., feb, Jan, Nov, Nov., Sat., Fri</li>
-          <li>SCONJ: b/c, 4, bc, cos, coz, cus, ig, tho, w/out</li>
+          <li>SCONJ: b/c, 4, bc, cos, cus, tho, w/out, coz</li>
           <li>VERB-Fin: wan, c'm, hav</li>
           <li>VERB-Ger: findin, goin, playin</li>
           <li>VERB-Inf: hav, wan</li>
-          <li>VERB-Part: gon, est</li>
+          <li>VERB-Part: gon, est, wagin, walkin</li>
           <li>X: ect.</li>
         </ul>
       </li>
@@ -679,6 +682,17 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li><a>Style</a>
     <ul>
+      <li>Arch
+        <ul>
+          <li>AUX-Fin: wilt, art</li>
+          <li>PRON: thy, ye, Thou</li>
+        </ul>
+      </li>
+      <li>Coll
+        <ul>
+          <li>PRON: ya</li>
+        </ul>
+      </li>
       <li>Expr
         <ul>
           <li>ADJ: Brilll, F%#king, FANFUCKINGTASTIC, Pho-nomenal, bl**dy, comfyy, grrrrrrrreeeaaat</li>
@@ -687,6 +701,17 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>NOUN: *ss, Assh@%$e, F'ers, b****, f*ck, poneh, sh*t</li>
           <li>PRON: whoooooo</li>
           <li>PROPN: EARTHHHHHHH, saaaaaam</li>
+        </ul>
+      </li>
+      <li>Slng
+        <ul>
+          <li>PRON: Yo</li>
+        </ul>
+      </li>
+      <li>Vrnc
+        <ul>
+          <li>PRON: Ya'll</li>
+          <li>SCONJ: coz</li>
         </ul>
       </li>
     </ul>
@@ -698,26 +723,27 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: accomodating, rediculous, Arial, knowledgable, mellow, miss, unic, 0nside, Aweesome, Awsome</li>
-          <li>ADP: then, a, and, int, of, the, aboout, abou, admidst, aground</li>
-          <li>ADV: to, definately, aboard, completly, every, realy, their, truely, $ometime$, Consistantly</li>
-          <li>AUX-Fin: r, ar, have, woud, ',, `s, a, are, as, cold</li>
+          <li>ADJ: over, rediculous, accomodating, Arial, a, afore, knowledgable, unic, 0nside, Aweesome</li>
+          <li>ADP: a, then, and, in, int, of, the, aboout, abou, admidst</li>
+          <li>ADV: to, definately, aboard, all, any, completly, every, half, on, realy</li>
+          <li>AUX-Fin: s, re, have, r, ve, where, woud, ',, `s, a</li>
           <li>AUX-Inf: by</li>
-          <li>CCONJ: an, adn, a, ad=nd, amd, ans, at, of</li>
+          <li>CCONJ: an, adn, a, ad=nd, afnd, amd, ans, at, of</li>
           <li>DET: and, teh, $ome, Thi$, aa, dthat, he, ssome, te, then</li>
           <li>INTJ: Ye$, Υes</li>
-          <li>NOUN: catagory, collages, hamburguers, realtion, resturant, $ervice, 1002`s, 22th, AREA'S, Bredders</li>
-          <li>PART: s, too, nt, ot</li>
-          <li>PRON: there, their, the, you, out, they, it's, thei, u, is</li>
-          <li>PROPN: Sear's, penines, U$, Bramen, Deutsched, Guiness, Hirsohima, Levi`s, Nagaski, Panamal</li>
+          <li>NOUN: MEH-risk, Compaq.com, catagory, collages, e, hamburguers, mid, resturant, $ervice, 1002`s</li>
+          <li>NUM: X</li>
+          <li>PART: s, nt, too, ot, the</li>
+          <li>PRON: you, there, it's, the, their, s, my, out, they, who's</li>
+          <li>PROPN: Sear's, penines, U$, A, Bramen, Deutsched, Dinners, Fudruckers, Guiness, Hirsohima</li>
           <li>PUNCT: =</li>
-          <li>SCONJ: becuse, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse, it</li>
+          <li>SCONJ: becuse, then, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse</li>
           <li>SCONJ-Part: geiven</li>
-          <li>VERB-Fin: taste, where, know, new, reccomend, recieved, see, want, adhear, advice</li>
-          <li>VERB-Ger: ASWERING, EATTING, developiong, drive, drving, hireing, usint</li>
-          <li>VERB-Inf: reccommend, recieve, recomend, accomodate, bare, charger, co$t, critisize, endevour, had</li>
-          <li>VERB-Part: Rcommended, amplifiaed, botn, effected, excepted, invovled, ordered, recomended, squirelled, use</li>
-          <li>X: were, ect., full</li>
+          <li>VERB-Fin: taste, where, know, new, reccomend, recieved, see, want, For, Loose</li>
+          <li>VERB-Ger: ASWERING, EATTING, developiong, drive, drving, eating, hireing, loosing, usint</li>
+          <li>VERB-Inf: loose, reccommend, recieve, recomend, accomodate, bare, charger, co$t, critisize, e</li>
+          <li>VERB-Part: excepted, Rcommended, U, amplifiaed, botn, buring, effected, invovled, ordered, recomended</li>
+          <li>X: Ken, David, Lorie, Sara, John, Nasim, Robert, Adnan, Alma, Amanda</li>
         </ul>
       </li>
     </ul>
@@ -743,23 +769,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--PRON-Nom (2)</li>
       <li>VERB-Fin--NOUN (2007)</li>
-      <li>VERB-Fin--PRON (784)</li>
+      <li>VERB-Fin--PRON (779)</li>
+      <li>VERB-Fin--PRON-ADP(of) (1)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
-      <li>VERB-Fin--PRON-Nom (4759)</li>
-      <li>VERB-Ger--NOUN (86)</li>
-      <li>VERB-Ger--PRON (21)</li>
-      <li>VERB-Ger--PRON-Acc (7)</li>
-      <li>VERB-Ger--PRON-Nom (186)</li>
-      <li>VERB-Inf--NOUN (640)</li>
-      <li>VERB-Inf--PRON (287)</li>
-      <li>VERB-Inf--PRON-Acc (28)</li>
-      <li>VERB-Inf--PRON-Nom (2601)</li>
-      <li>VERB-Part--NOUN (459)</li>
-      <li>VERB-Part--PRON (143)</li>
+      <li>VERB-Fin--PRON-Nom (4764)</li>
+      <li>VERB-Ger--NOUN (88)</li>
+      <li>VERB-Ger--PRON (20)</li>
+      <li>VERB-Ger--PRON-Acc (9)</li>
+      <li>VERB-Ger--PRON-Nom (187)</li>
+      <li>VERB-Inf--NOUN (644)</li>
+      <li>VERB-Inf--PRON (285)</li>
+      <li>VERB-Inf--PRON-Acc (31)</li>
+      <li>VERB-Inf--PRON-Nom (2609)</li>
+      <li>VERB-Part--NOUN (461)</li>
+      <li>VERB-Part--PRON (144)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
-      <li>VERB-Part--PRON-Nom (1269)</li>
+      <li>VERB-Part--PRON-Nom (1272)</li>
     </ul>
   </li>
 </ul>
@@ -767,28 +793,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
-      <li>VERB--PRON (1)</li>
-      <li>VERB--PRON-Acc (1)</li>
-      <li>VERB-Fin--NOUN (3522)</li>
+      <li>VERB-Fin--NOUN (3511)</li>
       <li>VERB-Fin--NOUN-ADP('s) (1)</li>
       <li>VERB-Fin--NOUN-ADP(over) (1)</li>
-      <li>VERB-Fin--PRON (343)</li>
-      <li>VERB-Fin--PRON-Acc (877)</li>
-      <li>VERB-Fin--PRON-Nom (63)</li>
+      <li>VERB-Fin--PRON (333)</li>
+      <li>VERB-Fin--PRON-Acc (885)</li>
+      <li>VERB-Fin--PRON-Nom (64)</li>
       <li>VERB-Ger--NOUN (1042)</li>
-      <li>VERB-Ger--PRON (48)</li>
-      <li>VERB-Ger--PRON-Acc (118)</li>
+      <li>VERB-Ger--PRON (44)</li>
+      <li>VERB-Ger--PRON-Acc (122)</li>
       <li>VERB-Ger--PRON-Nom (10)</li>
-      <li>VERB-Inf--NOUN (3205)</li>
+      <li>VERB-Inf--NOUN (3204)</li>
       <li>VERB-Inf--NOUN-ADP('s) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(of) (1)</li>
-      <li>VERB-Inf--PRON (328)</li>
-      <li>VERB-Inf--PRON-Acc (793)</li>
-      <li>VERB-Inf--PRON-Nom (88)</li>
+      <li>VERB-Inf--PRON (325)</li>
+      <li>VERB-Inf--PRON-ADP(of) (1)</li>
+      <li>VERB-Inf--PRON-Acc (791)</li>
+      <li>VERB-Inf--PRON-Nom (87)</li>
       <li>VERB-Part--NOUN (773)</li>
-      <li>VERB-Part--PRON (123)</li>
-      <li>VERB-Part--PRON-Acc (93)</li>
+      <li>VERB-Part--PRON (122)</li>
+      <li>VERB-Part--PRON-Acc (95)</li>
       <li>VERB-Part--PRON-Nom (4)</li>
     </ul>
   </li>
@@ -798,8 +821,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN (17)</li>
-      <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Acc (173)</li>
+      <li>VERB-Fin--PRON (2)</li>
+      <li>VERB-Fin--PRON-Acc (178)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
       <li>VERB-Ger--NOUN (9)</li>
       <li>VERB-Ger--PRON-Acc (24)</li>

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="apu_ufpa-dep-aux-exhort.html">aux:exhort</a></tt>.
 
-2 nodes (0%) are attached to their parents as `aux`.
+3 nodes (0%) are attached to their parents as `aux`.
 
-2 instances of `aux` (100%) are left-to-right (parent precedes child).
+2 instances of `aux` (67%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 50% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 33% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 33% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -28,6 +28,21 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	itxa	txa	AUX	XPOS=3SG.M-AUX	_	2	aux	_	gloss[pt]=3SG.M-AUX
 4	ximaky	ximaky	NOUN	N	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	gloss[pt]=peixe|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 aux	color:blue
+1	–	–	PUNCT	_	_	2	punct	_	_
+2	Kiãtukupa	kiãtukupa	ADV	XPOS=como	_	0	root	_	gloss[pt]=como
+3	itxa	txa	AUX	XPOS=3SG.M-ser	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3	4	aux	_	gloss[pt]=3SG.M-ser
+4	kikiu	kikiu	NOUN	XPOS=roçado	Gender=Masc|Possessed=No	2	nsubj	_	gloss[pt]=roçado|SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

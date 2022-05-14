@@ -29,8 +29,8 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 5	AKP	AKP	PROPN	NNP	Number=Sing	2	nmod	_	_
 6	se	se	PRON	PRP	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
 7	servent	servir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	aujourd	aujourd	ADV	RB	_	7	obl:mod	_	wordform=aujourd'hui
-9	hui	hui	X	GW	_	8	goeswith	_	wordform=_
+8	aujourd	aujourd'hui	ADV	RB	Typo=Yes	7	obl:mod	_	CorrectForm=aujourd'hui
+9	hui	_	X	GW	_	8	goeswith	_	_
 10	de	de	ADP	IN	_	12	case	_	_
 11	ce	ce	DET	DT	Gender=Masc|Number=Sing	12	det	_	_
 12	refus	refus	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
@@ -54,8 +54,8 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	parc	parc	NOUN	NN	Gender=Masc|Number=Sing	19	obl	_	_
 4	de	de	ADP	IN	_	6	case	_	_
 5	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	Porte-d’	Porte-d’	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	Proper=True|wordform=porte-d’or
-7	Or	Or	X	GW	_	6	goeswith	_	Proper=True|SpaceAfter=No|wordform=_
+6	Porte-d’	Porte-d’Or	NOUN	NN	Gender=Fem|Number=Sing|Typo=Yes	3	nmod	_	Proper=True|CorrectForm=porte-d’or
+7	Or	_	X	GW	_	6	goeswith	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	_	_
 9	qui	qui	PRON	WP	PronType=Rel	11	nsubj	_	_
 10	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
@@ -104,8 +104,8 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 10	remonte	remonter	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 11	à	à	ADP	INDT	_	15	case	_	_
 12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-13	XVIII	XVIII	NUM	CD	_	15	nummod	_	wordform=XVIIIème
-14	ème	ème	X	GW	_	13	goeswith	_	wordform=_
+13	XVIII	XVIIIème	NUM	CD	Typo=Yes	15	nummod	_	CorrectForm=XVIIIème
+14	ème	_	X	GW	_	13	goeswith	_	_
 15	siècle	siècle	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	10	punct	_	_
 17	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux:tense	_	_

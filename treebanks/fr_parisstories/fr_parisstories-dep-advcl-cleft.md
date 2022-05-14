@@ -78,9 +78,9 @@ The following 5 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
 11	vraiment	vraiment	ADV	_	_	17	advmod	_	_
 12	pas	pas	ADV	_	Polarity=Neg	17	advmod	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	12	obl:mod	_	_
+13	de	de	ADP	_	_	12	advmod	_	ExtPos=ADV|Idiom=Yes
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	fixed	_	InIdiom=Yes
+15	tout	tout	NOUN	_	Gender=Masc|Number=Sing	13	fixed	_	InIdiom=Yes
 16	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	sentiment	sentiment	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
 18	que	que	PRON	_	PronType=Rel	21	obj	_	_

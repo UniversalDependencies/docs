@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Karo-TuDeT: POS Tags: `ADP`
 
-There are 6 `ADP` lemmas (4%), 31 `ADP` types (4%) and 83 `ADP` tokens (4%).
+There are 17 `ADP` lemmas (3%), 31 `ADP` types (4%) and 83 `ADP` tokens (4%).
 Out of 13 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 8 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>_, mãm, kõm, kəy, pət, to=kõna</em>
+The 10 most frequent `ADP` lemmas: <em>peʔ, kəy, kõna, kõm, pihmãm, mãm, ʔerem, mã, pik, aʔ</em>
 
 The 10 most frequent `ADP` types:  <em>peʔ, tokõna, kəy, okõna, okəy, aʔkəy, rokõna, ʔerem, ekəy, mã</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 423, <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> 392, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 224, <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> 132, <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 82, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 78, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 71, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 57, <tt><a href="arr_tudet-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="arr_tudet-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="arr_tudet-pos-X.html">X</a></tt> 5, <tt><a href="arr_tudet-pos-NUM.html">NUM</a></tt> 4, <tt><a href="arr_tudet-pos-PUNCT.html">PUNCT</a></tt> 3), <em>mãm</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 28, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 6), <em>kõm</em> (<tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 8, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 2), <em>kəy</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2), <em>pət</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>peʔ</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 21, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> 1), <em>kəy</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 20, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 1), <em>kõna</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 16, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>kõm</em> (<tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 8, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 4, <tt><a href="arr_tudet-pos-X.html">X</a></tt> 1), <em>mãm</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 15, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 3, <tt><a href="arr_tudet-pos-X.html">X</a></tt> 1), <em>mã</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>aʔ</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 1), <em>pət</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>peʔ</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 21, <tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>aʔkəy</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 4, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 1), <em>ekəy</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 2, <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> 1), <em>mã</em> (<tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 2, <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 1), <em>bət</em> (<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1), <em>gəy</em> (<tt><a href="arr_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1), <em>kõm</em> (<tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> 8, <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> 1)
 
@@ -43,17 +43,17 @@ The 10 most frequent ambiguous types:  <em>peʔ</em> (<tt><a href="arr_tudet-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 5.166667 (the average of all parts of speech is 5.748252).
+The form / lemma ratio of `ADP` is 1.823529 (the average of all parts of speech is 1.579457).
 
-The 1st highest number of forms (21) was observed with the lemma “_”: <em>(aʔkəy), apik, aʔkəy, aʔpik, bem, ekəy, garo=kõna, kəy, mekõm, mã, okõna, okəy, omãmkəy, owikop, peʔ, rokõna, tokõna, tomãmkəy, ŋõm, ʔay, ʔerem</em>.
+The 1st highest number of forms (7) was observed with the lemma “kəy”: <em>(aʔkəy), aʔkəy, ekəy, gəy, kokəy, kəy, okəy</em>.
 
-The 2nd highest number of forms (5) was observed with the lemma “mãm”: <em>abihmãm, bihmãm, mihmãm, owihmãm, pihmãm</em>.
+The 2nd highest number of forms (4) was observed with the lemma “kõna”: <em>garokõna, okõna, rokõna, tokõna</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “kõm”: <em>gõm, kõm</em>.
+The 3rd highest number of forms (3) was observed with the lemma “kõm”: <em>gõm, kõm, ŋõm</em>.
 
 `ADP` occurs with 7 features: <tt><a href="arr_tudet-feat-Case.html">Case</a></tt> (60; 72% instances), <tt><a href="arr_tudet-feat-Person.html">Person</a></tt> (33; 40% instances), <tt><a href="arr_tudet-feat-Number.html">Number</a></tt> (24; 29% instances), <tt><a href="arr_tudet-feat-Corf.html">Corf</a></tt> (9; 11% instances), <tt><a href="arr_tudet-feat-PronType.html">PronType</a></tt> (8; 10% instances), <tt><a href="arr_tudet-feat-Reflex.html">Reflex</a></tt> (2; 2% instances), <tt><a href="arr_tudet-feat-Nomzr.html">Nomzr</a></tt> (1; 1% instances)
 
-`ADP` occurs with 19 feature-value pairs: `Case=Abe`, `Case=Abl`, `Case=All`, `Case=Com`, `Case=Dat`, `Case=Disp`, `Case=Ines`, `Case=Ins`, `Case=Loc`, `Case=Sim`, `Corf=Yes`, `Nomzr=Circ`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Emp`, `Reflex=Yes`
+`ADP` occurs with 19 feature-value pairs: `Case=Abe`, `Case=Abl`, `Case=All`, `Case=Com`, `Case=Dat`, `Case=Disp`, `Case=Ine`, `Case=Ins`, `Case=Loc`, `Case=Sim`, `Corf=Yes`, `Nomzr=Circ`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Emp`, `Reflex=Yes`
 
 `ADP` occurs with 26 feature combinations.
 The most frequent feature combination is `Case=Loc` (21 tokens).

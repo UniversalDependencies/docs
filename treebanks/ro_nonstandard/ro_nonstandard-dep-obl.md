@@ -23,21 +23,21 @@ The following 57 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 obl	color:blue
-1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	ref=MATT17.15
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.15
-3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	ref=MATT17.15
-4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	ref=MATT17.15
-5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT17.15
-6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT17.15
-7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MATT17.15
-8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.15
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT17.15
-10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	ref=MATT17.15
-11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	ref=MATT17.15|SpaceAfter=No
-12	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT17.15
-13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT17.15
-14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	ref=MATT17.15|SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT17.15
+1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	Ref=MATT17.15
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT17.15
+3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	Ref=MATT17.15
+4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	Ref=MATT17.15
+5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Ref=MATT17.15
+6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT17.15
+7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	Ref=MATT17.15
+8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=MATT17.15
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	Ref=MATT17.15
+10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	Ref=MATT17.15
+11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	Ref=MATT17.15|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	11	punct	_	Ref=MATT17.15
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	Ref=MATT17.15
+14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	Ref=MATT17.15|SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	5	punct	_	Ref=MATT17.15
 
 ~~~
 
@@ -48,18 +48,18 @@ The following 57 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 obl	color:blue
-1	Acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	obj	_	ref=MATT17.28
-2	ia	lua	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	ref=MATT17.28
-3	și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=MATT17.28|SpaceAfter=No
-4	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	5	obj	_	ref=MATT17.28
-5	dă	da	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	2	conj	_	ref=MATT17.28
-6	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	iobj	_	ref=MATT17.28
-7	derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT17.28
-8	Mine	eu	PRON	Pp1-sa--------s	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Strong	5	obl	_	ref=MATT17.28
-9	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.28
-10	derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT17.28
-11	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	8	conj	_	ref=MATT17.28|SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT17.28
+1	Acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	obj	_	Ref=MATT17.28
+2	ia	lua	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	Ref=MATT17.28
+3	și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	Ref=MATT17.28|SpaceAfter=No
+4	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	5	obj	_	Ref=MATT17.28
+5	dă	da	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	2	conj	_	Ref=MATT17.28
+6	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	iobj	_	Ref=MATT17.28
+7	derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	Ref=MATT17.28
+8	Mine	eu	PRON	Pp1-sa--------s	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Strong	5	obl	_	Ref=MATT17.28
+9	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=MATT17.28
+10	derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	Ref=MATT17.28
+11	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	8	conj	_	Ref=MATT17.28|SpaceAfter=No
+12	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT17.28
 
 ~~~
 
@@ -70,15 +70,15 @@ The following 57 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 obl	color:blue
-1	A	a	PART	Qn	PartType=Inf	2	mark	_	ref=MATT19.27.content
-2	lăsa	lăsa	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT19.27.content
-3	toate	tot	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	2	obj	_	ref=MATT19.27.content
-4	și	și	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT19.27.content
-5	a	a	PART	Qn	PartType=Inf	6	mark	_	ref=MATT19.27.content
-6	merge	merge	VERB	Vmn	VerbForm=Inf	2	conj	_	ref=MATT19.27.content
-7	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	8	case	_	ref=MATT19.27.content
-8	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	ref=MATT19.27.content|SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT19.27.content
+1	A	a	PART	Qn	PartType=Inf	2	mark	_	Ref=MATT19.27.content
+2	lăsa	lăsa	VERB	Vmn	VerbForm=Inf	0	root	_	Ref=MATT19.27.content
+3	toate	tot	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	2	obj	_	Ref=MATT19.27.content
+4	și	și	CCONJ	Ccssp	Polarity=Pos	6	cc	_	Ref=MATT19.27.content
+5	a	a	PART	Qn	PartType=Inf	6	mark	_	Ref=MATT19.27.content
+6	merge	merge	VERB	Vmn	VerbForm=Inf	2	conj	_	Ref=MATT19.27.content
+7	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	8	case	_	Ref=MATT19.27.content
+8	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	Ref=MATT19.27.content|SpaceAfter=No
+9	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT19.27.content
 
 ~~~
 

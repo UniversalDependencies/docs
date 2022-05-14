@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cs_cac-dep-aux.html">aux</a></tt>.
 
-2522 nodes (1%) are attached to their parents as `aux:pass`.
+2523 nodes (1%) are attached to their parents as `aux:pass`.
 
-2500 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.97700237906423.
+2501 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.97661514070551.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2520; 100% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2521; 100% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Tento	tento	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	2:det	_
 2	cíl	cíl	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	12	nsubj:pass	12:nsubj:pass|14:nsubj:pass	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
-4	stanovený	stanovený	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	2:amod	LGloss=(určit)|LDeriv=stanovit
+4	stanovený	stanovený	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	2	amod	2:amod	LGloss=(určit)|LDeriv=stanovit
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	6:case	LId=v-1
 6	roce	rok	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	4:obl:v:loc	_
 7	#	&cyear;	NUM	C=-------------	NumForm=Digit|NumType=Card	6	nummod	6:nummod	_

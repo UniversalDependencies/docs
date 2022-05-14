@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Int` are language-specific.
 It occurs with 3 different values: `Cnd`, `Imp`, `Int`.
 
-931 tokens (1%) have a non-empty value of `Mood`.
-268 types (4%) occur at least once with a non-empty value of `Mood`.
-160 lemmas (3%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (875; 1% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (56; 0% instances).
+965 tokens (1%) have a non-empty value of `Mood`.
+269 types (4%) occur at least once with a non-empty value of `Mood`.
+161 lemmas (3%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (904; 1% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (61; 0% instances).
 
 ### `VERB`
 
-875 <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Mood`.
+904 <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (875; 100%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (904; 100%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (739; 84% of non-empty `Mood`): <em>bhiodh, biodh, faigheadh, rachadh, dh’fhaodadh, thigeadh, dhèanadh, bheireadh, canadh, dh’fheumadh</em>
-* `Imp` (136; 16% of non-empty `Mood`): <em>feuch, can, biodh, cuir, abair, bi, gabh, till, trobhad, Cumaibh</em>
-* `EMPTY` (7776): <em>tha, bha, robh, eil, bheil, chaidh, thuirt, ars’, chuir, fhuair</em>
+* `Cnd` (762; 84% of non-empty `Mood`): <em>bhiodh, biodh, faigheadh, dh’fhaodadh, rachadh, dhèanadh, thigeadh, dèanadh, bheireadh, canadh</em>
+* `Imp` (142; 16% of non-empty `Mood`): <em>feuch, can, biodh, cuir, abair, bi, gabh, till, trobhad, Cumaibh</em>
+* `EMPTY` (8267): <em>tha, bha, robh, eil, bheil, chaidh, fhuair, thuirt, ars’, chuir</em>
 
 <table>
   <tr><th>Paradigm <i>bi</i></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
@@ -35,14 +35,14 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-56 <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `Mood`.
+61 <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (56; 100%), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Aff</tt> (35; 63%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (61; 100%), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Aff</tt> (37; 61%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Int` (56; 100% of non-empty `Mood`): <em>an, nach</em>
-* `EMPTY` (1023): <em>'s, is, b', gur, bu, as, chan, b’, cha, nach</em>
+* `Int` (61; 100% of non-empty `Mood`): <em>an, nach</em>
+* `EMPTY` (1105): <em>'s, is, b', gur, bu, as, chan, cha, nach, b’</em>
 
 ## Relations with Agreement in `Mood`
 

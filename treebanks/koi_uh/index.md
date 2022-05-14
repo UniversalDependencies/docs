@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Larisa Ponomareva, Niko Partanen, Jack Rueter, Francis Tyers.
 
 Repository: [UD_Komi_Permyak-UH](https://github.com/UniversalDependencies/UD_Komi_Permyak-UH)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkoi_uh29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkoi_uh210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -276,6 +276,14 @@ Work connected to this treebank is described in following publication. If you us
 </ul>
 
 <ul>
+  <li>Abe
+    <ul>
+      <li>NOUN: Льӧмваыстӧг, керкутöг</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Acc
     <ul>
       <li>NOUN: йӧрсӧ, мöсöс, ӧшынсӧ, Машаöс, бедьсö, инькасӧ, квартираэсӧ, логсӧ, мöссö, ольпасьӧс</li>
@@ -290,14 +298,6 @@ Work connected to this treebank is described in following publication. If you us
     <ul>
       <li>ADJ: веськытлань</li>
       <li>PRON: мелань</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Car
-    <ul>
-      <li>NOUN: Льӧмваыстӧг, керкутöг</li>
     </ul>
   </li>
 </ul>
@@ -782,7 +782,7 @@ Work connected to this treebank is described in following publication. If you us
           <li>NOUN: Сеня, тошока, уссэза, ӧшына</li>
         </ul>
       </li>
-      <li>VCar
+      <li>VAbe
         <ul>
           <li>VERB-Conv: жалейттӧг, куриттӧг, ютӧг</li>
         </ul>

@@ -63,7 +63,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 14	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	17	mark	_	_
 15	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 16	ⲛⲁ	ⲛⲁ	AUX	FUT	_	17	aux	_	_
-17	ϭⲛⲧ	ϭⲓⲛⲉ	VERB	V	VerbForm=Fin	13	acl	_	Orig=ϭⲛ̄ⲧ
+17	ϭⲛⲧ	ϭⲓⲛⲉ	VERB	V	VerbForm=Fin	13	acl:relcl	_	Orig=ϭⲛ̄ⲧ
 18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	Entity=object)|Orig=ϥ̄
 19	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -78,15 +78,15 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 9 12 cop	color:blue
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
 2	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
-3	ϣⲡϩⲓⲥⲉ	ϣⲡϩⲓⲥⲉ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ϣⲡ-ϩⲓⲥⲉ|Orig=ϣ︤ⲡ︥ϩⲓⲥⲉ
+3	ϣⲡϩⲓⲥⲉ	ϣⲡϩⲓⲥⲉ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ϣⲡ-ϩⲓⲥⲉ|Orig=ϣ︤ⲡ︥ϩⲓⲥⲉ
 4	ⲙⲛ	ⲙⲛ	ADP	PREP	_	5	case	_	Orig=ⲙ︤ⲛ︥
 5	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	3	obl	_	Entity=(person
 6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
-7	ⲙⲏⲣ	ⲙⲟⲩⲣ	VERB	VSTAT	VerbForm=Fin	5	acl	_	Orig=ⲙⲏⲣ⳿
+7	ⲙⲏⲣ	ⲙⲟⲩⲣ	VERB	VSTAT	VerbForm=Fin	5	acl:relcl	_	Orig=ⲙⲏⲣ⳿
 8	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
-9	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	acl	_	Entity=(person
+9	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	acl:relcl	_	Entity=(person
 10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
-11	ⲙⲟⲕϩ	ⲙⲟⲩⲕϩ	VERB	VSTAT	VerbForm=Fin	9	acl	_	Entity=person)|Orig=ⲙⲟⲕ︤ϩ︥
+11	ⲙⲟⲕϩ	ⲙⲟⲩⲕϩ	VERB	VSTAT	VerbForm=Fin	9	acl:relcl	_	Entity=person)|Orig=ⲙⲟⲕ︤ϩ︥
 12	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	9	cop	_	Entity=person)
 13	·	·	PUNCT	PUNCT	_	3	punct	_	_
 

@@ -8,12 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (1%) are attached to their parents as `cop`.
+6 nodes (1%) are attached to their parents as `cop`.
 
-2 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5.
+6 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.16666666666667.
 
-The following 2 pairs of parts of speech are connected with `cop`: <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-AUX.html">AUX</a></tt> (1; 50% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-AUX.html">AUX</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-AUX.html">AUX</a></tt> (4; 67% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-AUX.html">AUX</a></tt> (1; 17% instances), <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt>-<tt><a href="sah_yktdt-pos-AUX.html">AUX</a></tt> (1; 17% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 cop	color:blue
+1	Бу	бу	DET	det	_	2	det	_	_
+2	кыыл	кыыл	NOUN	n	Case=Nom|Number=Sing	3	nsubj	_	_
+3	таба	таба	NOUN	n	Case=Nom|Number=Sing	0	root	_	_
+4	буолбатах	буол	AUX	aux	Polarity=Neg|Tense=Pres	3	cop	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -36,13 +50,14 @@ The following 2 pairs of parts of speech are connected with `cop`: <tt><a href="
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 cop	color:blue
-1	Бу	бу	DET	det	_	2	det	_	_
-2	кыыл	кыыл	NOUN	n	Case=Nom|Number=Sing	3	nsubj	_	_
-3	таба	таба	NOUN	n	Case=Nom|Number=Sing	0	root	_	_
-4	буолбатах	буол	AUX	aux	Polarity=Neg|Tense=Pres	3	cop	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 cop	color:blue
+1	Сэлээппэ	сэлээппэ	NOUN	n	Case=Nom|Number=Sing	0	root	_	hat
+2	туох	туох	PRON	pron	PronType=Int	3	obj	_	what
+3	ынырыктаах	ынырык	ADJ	adj	Poss=Yes	1	amod	_	horrible
+4	буолуой	буол	AUX	aux	_	2	cop	_	exist
+5	?	?	PUNCT	punct	_	3	punct	_	_
 
 ~~~
 

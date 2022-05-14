@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Rcp` (2; 0% of non-empty `PronType`): <em>мӧда-мӧд, ӧта-мӧднымӧс</em>
 * `Rel` (14; 3% of non-empty `PronType`): <em>кодъяс, коді, Кутшӧм, Кодлӧн, кодъяслӧн, кодъясӧс, кодӧс, кутшӧмӧсь</em>
 * `Tot` (9; 2% of non-empty `PronType`): <em>быд, Ставныд, Ставыс, быдӧн, быдӧнлы, ставсӧ</em>
-* `EMPTY` (89): <em>быд, став, мукӧд, ставыс, некод, некутшӧм, нинӧм, ставсӧ, ачым, мукӧдъясысь</em>
+* `EMPTY` (91): <em>быд, став, мукӧд, ставыс, некод, некутшӧм, нинӧм, ставсӧ, ачым, мукӧдъясысь</em>
 
 <table>
   <tr><th>Paradigm <i>коді</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Ind` (5; 9% of non-empty `PronType`): <em>коркӧ, кӧнкӧ, мыйлакӧ, кытчӧкӧ</em>
 * `Int` (28; 50% of non-empty `PronType`): <em>кыдзи, кыдз, кӧні, кымын, Кытчӧ, Кытысь, кор, кыті, кӧнӧсь</em>
 * `Rel` (23; 41% of non-empty `PronType`): <em>кор, кыдзи, кӧні, кoр, коръясӧ, кутшӧма, кыдз, кытчӧ, кытысь, кытӧн</em>
-* `EMPTY` (818): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, пыр, бара, дзик</em>
+* `EMPTY` (820): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, пыр, бара, дзик</em>
 
 <table>
   <tr><th>Paradigm <i>кытчӧ</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 * `Dem` (15; 79% of non-empty `PronType`): <em>сэтшӧм, мӧд, сэтшӧмӧсь, Татшӧмъясыд, сэтшӧм-татшӧм, сэтшӧм-татшӧмъяс, сэтшӧмъясыслӧн, татшӧмсӧ</em>
 * `Int` (1; 5% of non-empty `PronType`): <em>Кутшӧм</em>
 * `Rel` (3; 16% of non-empty `PronType`): <em>кутшӧм</em>
-* `EMPTY` (470): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, том, выль, кодьӧсь</em>
+* `EMPTY` (473): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, том, выль, кодьӧсь</em>
 
 <table>
   <tr><th>Paradigm <i>кутшӧм</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

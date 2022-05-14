@@ -34,7 +34,7 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 10	but	but	CCONJ	CC	_	15	cc	15:cc	_
 11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
 12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	SpaceAfter=No
-13	n’t	n’t	ADV	RB	Polarity=Neg	15	advmod	15:advmod	OrigForm=n't
+13	n’t	n’t	ADV	RB	Polarity=Neg	15	advmod	15:advmod	_
 14	always	always	ADV	RB	_	15	advmod	15:advmod	_
 15	alone	alone	ADJ	JJ	Degree=Pos	8	conj	8:conj:but	SpaceAfter=No
 16	.	.	PUNCT	.	_	8	punct	8:punct	_

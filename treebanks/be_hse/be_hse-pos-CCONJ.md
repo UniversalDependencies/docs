@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Belarusian-HSE: POS Tags: `CCONJ`
 
-There are 33 `CCONJ` lemmas (0%), 35 `CCONJ` types (0%) and 8998 `CCONJ` tokens (3%).
+There are 33 `CCONJ` lemmas (0%), 35 `CCONJ` types (0%) and 8999 `CCONJ` tokens (3%).
 Out of 17 observed tags, the rank of `CCONJ` is: 16 in number of lemmas, 16 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>і, а, але, ці, ды, або, таксама, ні, аднак, альбо</em>
@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>і</em> (<tt><a href="be_hse-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.060606 (the average of all parts of speech is 1.753662).
+The form / lemma ratio of `CCONJ` is 1.060606 (the average of all parts of speech is 1.754875).
 
 The 1st highest number of forms (3) was observed with the lemma “і”: <em>i, й, і</em>.
 
@@ -73,19 +73,19 @@ The 3rd highest number of forms (2) was observed with the lemma “ці”: <em>
 `CCONJ` occurs with 5 feature-value pairs: `Animacy=Inan`, `Case=Gen`, `Gender=Fem`, `Number=Sing`, `Polarity=Neg`
 
 `CCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (8933 tokens).
+The most frequent feature combination is `_` (8934 tokens).
 Examples: <em>і, а, але, ці, ды, або, й, Таксама, аднак, альбо</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="be_hse-dep-cc.html">cc</a></tt> (8939; 99% instances), <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (33; 0% instances), <tt><a href="be_hse-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="be_hse-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="be_hse-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="be_hse-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="be_hse-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="be_hse-dep-cc.html">cc</a></tt> (8939; 99% instances), <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (33; 0% instances), <tt><a href="be_hse-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="be_hse-dep-advmod.html">advmod</a></tt> (5; 0% instances), <tt><a href="be_hse-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="be_hse-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="be_hse-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 17 different parts of speech: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (3434; 38% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (3408; 38% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (735; 8% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (629; 7% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (264; 3% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (138; 2% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (133; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt> (106; 1% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (50; 1% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (43; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (22; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> (3; 0% instances),  (2; 0% instances)
+Parents of `CCONJ` nodes belong to 17 different parts of speech: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (3435; 38% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (3408; 38% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (735; 8% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (629; 7% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (264; 3% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (138; 2% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (133; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt> (106; 1% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (50; 1% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (43; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (22; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> (3; 0% instances),  (2; 0% instances)
 
 8745 (97%) `CCONJ` nodes are leaves.
 
-235 (3%) `CCONJ` nodes have one child.
+236 (3%) `CCONJ` nodes have one child.
 
 17 (0%) `CCONJ` nodes have two children.
 
@@ -93,7 +93,7 @@ Parents of `CCONJ` nodes belong to 17 different parts of speech: <tt><a href="be
 
 The highest child degree of a `CCONJ` node is 6.
 
-Children of `CCONJ` nodes are attached using 7 different relations: <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (224; 81% instances), <tt><a href="be_hse-dep-punct.html">punct</a></tt> (34; 12% instances), <tt><a href="be_hse-dep-conj.html">conj</a></tt> (11; 4% instances), <tt><a href="be_hse-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="be_hse-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes are attached using 7 different relations: <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (225; 82% instances), <tt><a href="be_hse-dep-punct.html">punct</a></tt> (34; 12% instances), <tt><a href="be_hse-dep-conj.html">conj</a></tt> (11; 4% instances), <tt><a href="be_hse-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="be_hse-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Children of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (166; 60% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (40; 15% instances), <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (34; 12% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (22; 8% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (6; 2% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (3; 1% instances)
+Children of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (167; 61% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (40; 14% instances), <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (34; 12% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (22; 8% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (6; 2% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (3; 1% instances)
 

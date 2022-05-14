@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `dep`: <tt><a href="fr_gsd-dep-dep-comp.html">dep:comp</a></tt>.
 
-8 nodes (0%) are attached to their parents as `dep`.
+9 nodes (0%) are attached to their parents as `dep`.
 
-8 instances of `dep` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.625.
+9 instances of `dep` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.55555555555556.
 
-The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (2; 25% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (2; 25% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 13% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 13% instances).
+The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (3; 33% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (2; 22% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -63,14 +63,14 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 18 dep	color:blue
-1	Son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	2	det	_	wordform=son
+1	Son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	2	det	_	wordform=son
 2	nom	nom	NOUN	_	Gender=Masc|Number=Sing	27	nsubj:pass	_	_
 3	d'	de	ADP	_	_	4	case	_	SpaceAfter=No
 4	espèce	espèce	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	composé	composer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 7	de	de	ADP	_	_	8	case	_	_
-8	daiyun	daiyun	X	_	_	6	obl:arg	_	_
+8	daiyun	daiyun	X	_	_	6	obl:arg	_	ExtPos=PROPN
 9	et	et	CCONJ	_	_	12	cc	_	_
 10	de	de	ADP	_	_	12	case	_	_
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -96,7 +96,7 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 31	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	lieu	lieu	NOUN	_	Gender=Masc|Number=Sing	29	nmod	_	_
 33	de	de	ADP	_	_	35	case	_	_
-34	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	35	det	_	_
+34	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	35	det	_	_
 35	découverte	découverte	NOUN	_	Gender=Fem|Number=Sing	32	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	_	_	27	punct	_	_
 
@@ -145,10 +145,10 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 34	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 35	contrôle	contrôle	NOUN	_	Gender=Masc|Number=Sing	32	obl:arg	_	_
 36	de	de	ADP	_	_	37	dep:comp	_	_
-37	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	35	dep	_	_
+37	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	35	dep	_	_
 38	ou	ou	CCONJ	_	_	41	cc	_	_
 39	de	de	ADP	_	_	41	case	_	_
-40	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|PronType=Prs	41	det	_	_
+40	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	41	det	_	_
 41	cavaliers	cavalier	NOUN	_	Gender=Masc|Number=Plur	37	conj	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	6	punct	_	_
 

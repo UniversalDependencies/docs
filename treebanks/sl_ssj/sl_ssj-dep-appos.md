@@ -8,74 +8,68 @@ udver: '2'
 
 This relation is universal.
 
-394 nodes (0%) are attached to their parents as `appos`.
+1837 nodes (1%) are attached to their parents as `appos`.
 
-394 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.45431472081218.
+1837 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.03592814371257.
 
-The following 11 pairs of parts of speech are connected with `appos`: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (258; 65% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (67; 17% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (34; 9% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (19; 5% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (6; 2% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 0% instances).
+The following 58 pairs of parts of speech are connected with `appos`: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (804; 44% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (232; 13% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (211; 11% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (121; 7% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (72; 4% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (37; 2% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (36; 2% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (33; 2% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (32; 2% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (25; 1% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (19; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (16; 1% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (14; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt> (12; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (10; 1% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 10 appos	color:blue
+1	To	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	NER=O
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	NER=O
+3	"	"	PUNCT	Z	_	4	punct	_	NER=O|SpaceAfter=No
+4	energija	energija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	NER=O|SpaceAfter=No
+5	"	"	PUNCT	Z	_	4	punct	_	NER=O
+6	biti	bit	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	NER=O|SpaceAfter=No
+7	,	,	PUNCT	Z	_	10	punct	_	NER=O
+8	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	10	cc	_	NER=O
+9	pravi	praviti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	fixed	_	NER=O
+10	energija	energija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	appos	_	NER=O
+11	lastne	lasten	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	NER=O
+12	identitete	identiteta	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	NER=O|SpaceAfter=No
+13	.	.	PUNCT	Z	_	4	punct	_	NER=O
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 appos	color:blue
+1	(	(	PUNCT	Z	_	4	punct	_	NER=O|SpaceAfter=No
+2	kg	kg	X	X	_	4	dep	_	NER=O|SpaceAfter=No
+3	/	/	PUNCT	Z	_	4	punct	_	NER=O
+4	foto	foto	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	NER=O|SpaceAfter=No
+5	:	:	PUNCT	Z	_	6	punct	_	NER=O
+6	Luka	Luka	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	NER=O
+7	Cjuha	Cjuha	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	NER=O|SpaceAfter=No
+8	)	)	PUNCT	Z	_	4	punct	_	NER=O
+
+~~~
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 appos	color:blue
-1	Na	na	ADP	Sl	Case=Loc	2	case	_	Dep=2|Rel=Atr
-2	naperi	napera	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	9	obl	_	Dep=8|Rel=AdvO
-3	(	(	PUNCT	Z	_	4	punct	_	SpaceAfter=No|Dep=0|Rel=Root
-4	špici	špica	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	2	appos	_	SpaceAfter=No|Dep=0|Rel=Root
-5	)	)	PUNCT	Z	_	4	punct	_	Dep=0|Rel=Root
-6	kolesa	kolo	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	Dep=2|Rel=Atr
-7	pa	pa	CCONJ	Cc	_	9	advmod	_	Dep=0|Rel=Root
-8	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	Dep=0|Rel=Root
-9	pritrjen	pritrjen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Dep=8|Rel=Atr
-10	magnet	magnet	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No|Dep=8|Rel=Sb
-11	.	.	PUNCT	Z	_	9	punct	_	Dep=0|Rel=Root
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 15 appos	color:blue
-1	Še	še	PART	Q	_	2	advmod	_	Dep=0|Rel=Root
-2	grše	grd	ADJ	Agcnsn	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	Dep=4|Rel=Atr
-3	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	2	aux	_	Dep=4|Rel=PPart
-4	bilo	biti	AUX	Va-p-sn	Gender=Neut|Number=Sing|VerbForm=Part	2	cop	_	SpaceAfter=No|Dep=0|Rel=Root
-5	,	,	PUNCT	Z	_	9	punct	_	Dep=0|Rel=Root
-6	če	če	SCONJ	Cs	_	9	mark	_	Dep=9|Rel=Conj
-7	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	9	aux	_	Dep=9|Rel=PPart
-8	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	9	expl	_	Dep=9|Rel=PPart
-9	srečal	srečati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	csubj	_	Dep=4|Rel=Sb
-10	z	z	ADP	Si	Case=Ins	11	case	_	Dep=11|Rel=Atr
-11	Damjanom	Damjan	PROPN	Npmsi	Case=Ins|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No|Dep=9|Rel=Obj
-12	,	,	PUNCT	Z	_	15	punct	_	Dep=0|Rel=Root
-13	z	z	ADP	Si	Case=Ins	15	case	_	Dep=15|Rel=Atr
-14	njenim	njen	DET	Ps3msisf	Case=Ins|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	Dep=15|Rel=Atr
-15	možem	mož	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	11	appos	_	SpaceAfter=No|Dep=0|Rel=Root
-16	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 appos	color:blue
-1	Tam	tam	ADV	Rgp	Degree=Pos	2	advmod	_	Dep=2|Rel=AdvO
-2	konča	končati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Dep=0|Rel=Root
-3	gimnazijo	gimnazija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	Dep=2|Rel=Obj
-4	(	(	PUNCT	Z	_	5	punct	_	SpaceAfter=No|Dep=0|Rel=Root
-5	Poljane	Poljane	PROPN	Npfpn	Case=Nom|Gender=Fem|Number=Plur	3	appos	_	SpaceAfter=No|Dep=0|Rel=Root
-6	)	)	PUNCT	Z	_	5	punct	_	SpaceAfter=No|Dep=0|Rel=Root
-7	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 appos	color:blue
+1	Ljubljana	Ljubljana	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	NER=O|SpaceAfter=No
+2	:	:	PUNCT	Z	_	4	punct	_	NER=O
+3	Mladinska	mladinski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	NER=O
+4	knjiga	knjiga	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	NER=O|SpaceAfter=No
+5	,	,	PUNCT	Z	_	6	punct	_	NER=O
+6	2000	2000	NUM	Mdc	NumForm=Digit|NumType=Card	4	nummod	_	NER=O|SpaceAfter=No
+7	.	.	PUNCT	Z	_	1	punct	_	NER=O
 
 ~~~
 

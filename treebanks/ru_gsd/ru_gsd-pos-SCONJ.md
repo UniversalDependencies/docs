@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` lemmas: <em>что, чтобы, как, так, ч�
 
 The 10 most frequent `SCONJ` types:  <em>что, чтобы, как, чем, так, хотя, если, когда, поскольку, поэтому</em>
 
-The 10 most frequent ambiguous lemmas: <em>что</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 259, <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> 82, <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> 10), <em>как</em> (<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> 167, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 70, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 9), <em>так</em> (<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 68, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 11), <em>хотя</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 29, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 2, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 1), <em>когда</em> (<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 43, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 17), <em>поэтому</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 9), <em>потому</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 7), <em>пока</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 6), <em>то</em> (<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> 196, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 5), <em>будто</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>что</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 258, <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> 82, <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> 10), <em>как</em> (<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> 167, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 70, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 9), <em>так</em> (<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 67, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 7), <em>хотя</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 29, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 2, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 1), <em>когда</em> (<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 43, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 17), <em>поэтому</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 9), <em>потому</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 7), <em>пока</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 6), <em>то</em> (<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> 196, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 5), <em>будто</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 259, <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> 57, <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> 10), <em>как</em> (<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> 155, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 67, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 35, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 9), <em>чем</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> 4), <em>так</em> (<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 47, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 10), <em>хотя</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 21, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 2, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 1), <em>когда</em> (<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 43, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 5), <em>поэтому</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 3), <em>потому</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 7), <em>пока</em> (<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 5), <em>то</em> (<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> 34, <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> 29, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 4)
 
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="ru_gsd-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.074074 (the average of all parts of speech is 1.598094).
+The form / lemma ratio of `SCONJ` is 1.074074 (the average of all parts of speech is 1.598617).
 
 The 1st highest number of forms (2) was observed with the lemma “как”: <em>к., как</em>.
 
@@ -67,7 +67,13 @@ The 2nd highest number of forms (2) was observed with the lemma “так”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “то”: <em>тем, то</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 2 features: <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="ru_gsd-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+
+`SCONJ` occurs with 2 feature-value pairs: `Mood=Cnd`, `Typo=Yes`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (575 tokens).
+Examples: <em>что, чтобы, как, чем, так, хотя, если, когда, поскольку, поэтому</em>
 
 
 ## Relations
@@ -84,5 +90,5 @@ The highest child degree of a `SCONJ` node is 1.
 
 Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="ru_gsd-dep-fixed.html">fixed</a></tt> (47; 98% instances), <tt><a href="ru_gsd-dep-goeswith.html">goeswith</a></tt> (1; 2% instances)
 
-Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (29; 60% instances), <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> (17; 35% instances), <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 2% instances)
+Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (29; 60% instances), <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> (17; 35% instances), <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt> (1; 2% instances)
 

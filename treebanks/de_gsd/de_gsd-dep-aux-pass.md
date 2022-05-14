@@ -42,11 +42,11 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 7 5 aux:pass	color:blue
 1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 2	darüber	darüber	ADV	PAV	_	3	advmod	_	_
-3	liegenden	liegend	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	4	amod	_	_
+3	liegenden	liegend	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
 4	Räume	Raum	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	7	nsubj:pass	_	_
 5	wurden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	aux:pass	_	_
-6	modern	modern	ADJ	ADJD	_	7	advmod	_	_
-7	gestaltet	gestalten	ADJ	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
+6	modern	modern	ADJ	ADJD	Degree=Pos	7	advmod	_	_
+7	gestaltet	gestalten	ADJ	VVPP	Degree=Pos|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	$.	_	7	punct	_	_
 
 ~~~
@@ -61,7 +61,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 2	echt	echt	ADV	ADV	_	5	advmod	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-4	beste	gut	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	_
+4	beste	gut	ADJ	ADJA	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	5	amod	_	_
 5	Behandlung	Behandlung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 6	gewesen	sein	AUX	VAPP	VerbForm=Part	5	aux:pass	_	SpaceAfter=No
 7	.	.	PUNCT	$.	_	5	punct	_	_

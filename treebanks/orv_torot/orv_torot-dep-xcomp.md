@@ -37,13 +37,13 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 xcomp	color:blue
-1	а	а	CCONJ	C-	_	4	cc	_	ref=56.21
-2	кнѧгини	кънягыни	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=56.21
-3	наша	нашь	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	2	nmod	_	ref=56.22
-4	хоче	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=56.22
-5	за	за	ADP	R-	_	7	case	_	ref=56.22
-6	вашь	вашь	ADJ	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes	7	nmod	_	ref=56.22
-7	кнѧзь	кънязь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	xcomp	_	ref=56.22
+1	а	а	CCONJ	C-	_	4	cc	_	Ref=56.21
+2	кнѧгини	кънягыни	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Ref=56.21
+3	наша	нашь	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	2	nmod	_	Ref=56.22
+4	хоче	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=56.22
+5	за	за	ADP	R-	_	7	case	_	Ref=56.22
+6	вашь	вашь	ADJ	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes	7	nmod	_	Ref=56.22
+7	кнѧзь	кънязь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	xcomp	_	Ref=56.22
 
 ~~~
 

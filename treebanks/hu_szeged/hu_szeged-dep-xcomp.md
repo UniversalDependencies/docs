@@ -75,7 +75,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 13	véletlenül	véletlenül	ADV	_	_	15	advmod:mode	_	_
 14	se	se	ADV	_	PronType=Neg	15	advmod	_	_
 15	találjon	talál	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
-16	rájuk	rá	PRON	_	Case=Sub|Number=Plur|Person=3|PronType=Prs	15	obl	_	_
+16	rájuk	rá	PRON	_	Case=Sbl|Number=Plur|Person=3|PronType=Prs	15	obl	_	_
 17	vevőt	vevő	NOUN	_	Case=Acc|Number=Sing	15	obj	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	_
 

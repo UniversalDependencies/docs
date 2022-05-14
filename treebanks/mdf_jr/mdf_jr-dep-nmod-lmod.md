@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `nmod:lmod`
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt>.
-There are also 5 other language-specific subtypes of `nmod`: <tt><a href="mdf_jr-dep-nmod-appos.html">nmod:appos</a></tt>, <tt><a href="mdf_jr-dep-nmod-bahuv.html">nmod:bahuv</a></tt>, <tt><a href="mdf_jr-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="mdf_jr-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 4 other language-specific subtypes of `nmod`: <tt><a href="mdf_jr-dep-nmod-appos.html">nmod:appos</a></tt>, <tt><a href="mdf_jr-dep-nmod-bahuv.html">nmod:bahuv</a></tt>, <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="mdf_jr-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
 2 nodes (0%) are attached to their parents as `nmod:lmod`.
 

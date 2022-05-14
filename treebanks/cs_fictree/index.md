@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Tomáš Jelínek, Daniel Zeman.
 
 Repository: [UD_Czech-FicTree](https://github.com/UniversalDependencies/UD_Czech-FicTree)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -127,11 +127,11 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-<li>This corpus contains 32 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, samý, se, ty, veškerý, von, všecek</li>
+<li>This corpus contains 31 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, se, ty, veškerý, von, všecek</li>
 </ul>
 
 <ul>
-<li>This corpus contains 53 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, svůj, sám, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
+<li>This corpus contains 53 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, samý, svůj, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
 </ul>
 
 <ul>
@@ -143,7 +143,6 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat</li>
 </ul>
 
 <ul>
@@ -162,8 +161,8 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: jsem, by, je, bych, jsme, jsi, bude, jsou, jste, není</li>
-    <li>VERB: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
+    <li>AUX: jsem, je, by, bych, jsme, bude, jsou, jsi, není, jste</li>
+    <li>VERB: má, mám, může, nevím, musí, mají, musím, vím, nemám, stojí</li>
   </ul>
   </li>
 </ul>
@@ -172,7 +171,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Inf
   <ul>
     <li>AUX: být, nebýt</li>
-    <li>VERB: dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</li>
+    <li>VERB: dělat, mít, říct, vidět, jít, udělat, žít, stát, dát, mluvit</li>
   </ul>
   </li>
 </ul>
@@ -182,7 +181,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <ul>
     <li>ADJ: přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</li>
     <li>AUX: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
-    <li>VERB: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
+    <li>VERB: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
   </ul>
   </li>
 </ul>
@@ -200,14 +199,14 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADJ: celou, poslední, první, ráda, celá, další, malá, hlavní, velké, malou</li>
       <li>ADJ-Part: oblečena, uspořádány, hořící, klečící, povznášející, rozhodující, sedící, stojící, tající, truchlící</li>
       <li>AUX-Conv: jsouc</li>
-      <li>AUX-Part: byla, byly, nebyla, bývala</li>
+      <li>AUX-Part: byla, byly, nebyla, bývala, nebyly, nebývala</li>
       <li>DET: která, jeho, té, které, tu, ta, své, svou, kterou, její</li>
       <li>NOUN: chvíli, oči, dívka, ruce, dveře, paní, děti, Kůra, práce, žena</li>
       <li>NUM: dvě, jedna, jednu, jedné, tři, obě, jednou, dvou, čtyři, obou</li>
       <li>PRON: ji, jí, ní, ona, je, ni, nich, níž, ně, jich</li>
       <li>PROPN: Valentýna, Alžběta, Veronika, Alice, Praze, Prahy, Čáslavi, Janičku, Magda, Máša</li>
       <li>VERB-Conv: hledajíc, Nechtíc, Pronášejíc, Třesouc, domnívajíc, lechtajíc, nedbajíc, nespouštějíc, netroufajíc, nevšímajíc</li>
-      <li>VERB-Part: měla, řekla, byla, chtěla, mohla, vzala, přišla, začala, dala, neměla</li>
+      <li>VERB-Part: měla, řekla, chtěla, mohla, vzala, přišla, začala, dala, neměla, stála</li>
     </ul>
   </li>
 </ul>
@@ -217,14 +216,14 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADJ: celý, rád, další, první, malý, druhý, starý, jediný, ostatní, mladý</li>
       <li>ADJ-Part: přesvědčen, obklopen, poslán, pozván, dopřán, hledajících, milován, milujících, nastávající, natočen</li>
-      <li>AUX-Part: byl, byli, nebyl, byly, býval, nebyly, nebyli, bývali</li>
+      <li>AUX-Part: byl, byli, nebyl, byly, býval, nebyli, nebyly, bývali, nebýval</li>
       <li>DET: který, ten, jeho, sám, každý, můj, svého, všichni, kteří, svůj</li>
       <li>NOUN: život, den, člověk, plod, profesor, mistr, čas, muž, lidé, mladík</li>
       <li>NUM: jeden, dva, jednoho, oba, tři, čtyři, jedním, dvěma, tisíc, dvou</li>
       <li>PRON: ho, mu, kdo, je, on, nikdo, něj, někdo, ním, jim</li>
       <li>PROPN: Láďa, Leoš, Eduard, Havel, Flajšman, Havlena, Filip, Honza, K, Němci</li>
       <li>VERB-Conv: chtěje, netuše, Divě, Jda, Opíraje, doufajíce, drže, dívaje, klouzaje, kroutě</li>
-      <li>VERB-Part: řekl, měl, mohl, chtěl, byl, viděl, začal, přišel, vzal, zeptal</li>
+      <li>VERB-Part: řekl, měl, mohl, chtěl, viděl, začal, přišel, vzal, zeptal, měli</li>
     </ul>
   </li>
 </ul>
@@ -234,14 +233,14 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADJ: jiného, jasné, možné, jiná, malé, celé, první, druhé, lepší, těžké</li>
       <li>ADJ-Part: řečeno, napsáno, zakázáno, ztraceno, Rozhodující, blížícího, bušícím, dovoleno, míněno, namířeno</li>
-      <li>AUX-Part: bylo, nebylo, byla, bývalo, nebyla, nebývalo</li>
+      <li>AUX-Part: bylo, nebylo, byla, bývalo, nebývalo, nebyla</li>
       <li>DET: to, všechno, tom, tím, toho, tomu, tohle, které, jeho, své</li>
       <li>NOUN: dítě, let, slova, září, místo, tělo, srdce, okna, štěstí, léta</li>
       <li>NUM: jedno, dvě, jednom, tři, jednoho, obě, jedním, půl, čtyř, čtyři</li>
       <li>PRON: je, ho, všecko, ně, něj, něm, co, jež, mu, ono</li>
       <li>PROPN: Československu, Německa, zoo, Československa, C, Japonska, Německu, Ruska, Angeles, Gobi</li>
       <li>VERB-Conv: říkajíc</li>
-      <li>VERB-Part: bylo, stalo, zdálo, napadlo, nebylo, mělo, začalo, šlo, mohlo, podařilo</li>
+      <li>VERB-Part: stalo, zdálo, napadlo, mělo, začalo, šlo, mohlo, podařilo, nenapadlo, nešlo</li>
     </ul>
   </li>
 </ul>
@@ -255,14 +254,14 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADJ: rád, mladý, ostatní, starý, malý, rádi, bohatý, druhý, první, další</li>
       <li>ADJ-Part: přesvědčen, obklopen, pozván, hledajících, milován, milujících, nastávající, nucen, oblečen, obtížen</li>
-      <li>AUX-Part: byl, byli, nebyl, býval, nebyli, bývali</li>
+      <li>AUX-Part: byl, byli, nebyl, býval, nebyli, bývali, nebýval</li>
       <li>DET: který, sám, ten, všichni, kteří, můj, svého, každý, ti, toho</li>
       <li>NOUN: člověk, profesor, mistr, muž, lidé, mladík, otec, primář, lidí, pán</li>
       <li>NUM: jeden, dva, oba, jednoho, čtyři, tři, dvěma, jedním, jednomu, tří</li>
       <li>PRON: mu, ho, kdo, on, nikdo, někdo, jim, ním, něj, je</li>
       <li>PROPN: Láďa, Leoš, Eduard, Havel, Flajšman, Havlena, Filip, Honza, K, Němci</li>
       <li>VERB-Conv: chtěje, netuše, Jda, Opíraje, doufajíce, drže, dívaje, kroutě, nadýmaje, nedbaje</li>
-      <li>VERB-Part: řekl, měl, chtěl, mohl, viděl, byl, vzal, zeptal, měli, přišel</li>
+      <li>VERB-Part: řekl, měl, chtěl, mohl, viděl, vzal, zeptal, měli, přišel, šel</li>
     </ul>
   </li>
 </ul>
@@ -279,7 +278,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>PRON: co, ho, je, čím, něm, něj, čem, nich, ním, jich</li>
       <li>PROPN: Poděbradech, Poděbrad, Amadeus, Kolína, Kolíně, Mánes, Neurol, Náchoda, Náchodě, Sudety</li>
       <li>VERB-Conv: klouzaje</li>
-      <li>VERB-Part: byl, stál, nebyl, mohl, měl, ozval, začal, zdál, byly, ujel</li>
+      <li>VERB-Part: stál, mohl, měl, ozval, začal, zdál, ujel, ležel, vypadal, zastavil</li>
     </ul>
   </li>
 </ul>
@@ -312,8 +311,8 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>PRON: je, nás, nám, nich, jim, vás, vám, vy, my, nimi</li>
       <li>PROPN: Němci, Poděbradech, Poděbrad, vánoce, Sudety, USA, Čechách, Američani, Čech, Čechy</li>
       <li>VERB-Conv: doufajíce, očekávajíce, provádějíce, ubezpečujíce</li>
-      <li>VERB-Fin: mají, jsou, víte, máte, máme, nevíte, chcete, musíme, můžeme, můžete</li>
-      <li>VERB-Part: měli, byli, mohli, byly, chtěli, šli, museli, neměli, seděli, začali</li>
+      <li>VERB-Fin: mají, víte, máte, máme, nevíte, chcete, musíme, můžeme, můžete, vidíte</li>
+      <li>VERB-Part: měli, mohli, chtěli, šli, museli, neměli, seděli, začali, dali, vzali</li>
     </ul>
   </li>
 </ul>
@@ -324,7 +323,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADJ: celý, první, rád, jiného, poslední, další, celou, malý, druhý, hlavní</li>
       <li>ADJ-Part: přesvědčen, řečeno, oblečena, rozhodující, napsáno, nastávající, následující, obklopen, poslán, povznášející</li>
       <li>AUX-Conv: jsouc</li>
-      <li>AUX-Fin: jsem, je, bych, jsi, bude, není, bys, budu, budeš, nebude</li>
+      <li>AUX-Fin: jsem, je, bych, bude, jsi, není, bys, budu, budeš, nebude</li>
       <li>AUX-Part: byl, byla, bylo, nebyl, nebylo, nebyla, býval, bývala, bývalo, nebývalo</li>
       <li>DET: to, jeho, který, ten, tom, všechno, která, toho, tím, té</li>
       <li>NOUN: chvíli, život, dítě, den, člověk, plod, dívka, profesor, mistr, paní</li>
@@ -332,8 +331,8 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>PRON: mi, mě, ho, já, mu, ji, jí, ní, ti, mně</li>
       <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
       <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-      <li>VERB-Fin: je, má, mám, může, nevím, není, musí, musím, vím, nemám</li>
-      <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
+      <li>VERB-Fin: má, mám, může, nevím, musí, musím, vím, nemám, jde, víš</li>
+      <li>VERB-Part: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
     </ul>
   </li>
 </ul>
@@ -487,7 +486,6 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADJ: celý, další, jiného, poslední, malé, celé, celou, velké, vlastní, celá</li>
       <li>ADV: dobře, často, dlouho, konečně, rychle, brzy, stejně, náhle, úplně, vždy</li>
-      <li>DET: každý, každou, každé, každá, každým, každého, každém, každému</li>
       <li>NOUN: hospodský</li>
     </ul>
   </li>
@@ -512,14 +510,14 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADJ: nerad, nebezpečné, neznámý, nerada, nedaleké, nekonečnou, nekonečné, nepříjemné, neznámému, nešťastná</li>
       <li>ADJ-Part: nedotčena, neexistujícího, nejsoucí, nepoškozeno, nepřejícího, neustávající, neustávajícím</li>
       <li>ADV: nenápadně, nechápavě, netrpělivě, nesměle, nejistě, nerozhodně, nebezpečně, neochotně, nedůvěřivě, nevzrušeně</li>
-      <li>AUX-Fin: není, nebude, nebudu, nejsem, nejsou, nebudeš, Nebývají, nejsme, nejste, Nebuď</li>
+      <li>AUX-Fin: není, nebude, nebudu, nejsem, nejsou, nebudeš, nejsme, nejste, Nebývají, nebudou</li>
       <li>AUX-Inf: nebýt</li>
-      <li>AUX-Part: nebyl, nebylo, nebyla, nebyly, nebyli, nebývalo</li>
+      <li>AUX-Part: nebyl, nebylo, nebyla, nebyly, nebyli, nebývalo, nebýval, nebývala</li>
       <li>NOUN: nemožnosti, nevinnost, nedar, nepřejícnost, neznalost, Nezávislost, necudnost, nekrása, nemravnost, neodpovědnosti</li>
       <li>VERB-Conv: netuše, Nechtíc, nedbaje, nedbajíc, nespouštějíc, netroufajíc, nevěda, nevšímajíc</li>
-      <li>VERB-Fin: nevím, není, nemám, nemá, nechci, nemůže, nemůžu, nevíte, nechce, nemáš</li>
-      <li>VERB-Inf: nebýt, nedívat, Neposuzovat, Nespat, nebrat, nedráždit, nedávat, nehovořit, nejíst, nekazit</li>
-      <li>VERB-Part: nemohl, neměl, nevěděl, nebyl, neměla, nebylo, nechtěl, nemohla, nechtěla, nevěděla</li>
+      <li>VERB-Fin: nevím, nemám, nemá, nechci, nemůže, nemůžu, nevíte, nechce, nemáš, nedá</li>
+      <li>VERB-Inf: nedívat, Neposuzovat, Nespat, nebrat, nedráždit, nedávat, nehovořit, nejíst, nekazit, nemyslet</li>
+      <li>VERB-Part: nemohl, neměl, nevěděl, neměla, nechtěl, nemohla, nechtěla, nevěděla, neměli, neviděl</li>
     </ul>
   </li>
 </ul>
@@ -531,16 +529,15 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</li>
       <li>ADV: vždycky, dobře, často, víc, dlouho, konečně, rychle, brzy, stejně, náhle</li>
       <li>AUX-Conv: jsouc</li>
-      <li>AUX-Fin: jsem, je, jsme, jsi, bude, jsou, jste, budu, budeš, budou</li>
+      <li>AUX-Fin: jsem, je, jsme, bude, jsou, jsi, jste, budu, budeš, budou</li>
       <li>AUX-Inf: být</li>
-      <li>AUX-Part: byl, byla, bylo, byly, byli, býval, bývala, bývali, bývalo</li>
-      <li>DET: každý, každou, každé, každá, každým, každého, každém, každému</li>
+      <li>AUX-Part: byl, byla, bylo, byly, byli, býval, bývala, bývalo, bývali</li>
       <li>NOUN: chvíli, život, oči, dítě, den, člověk, plod, dívka, profesor, ruce</li>
       <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
       <li>VERB-Conv: chtěje, hledajíc, Divě, Jda, Opíraje, Pronášejíc, Třesouc, domnívajíc, doufajíce, drže</li>
-      <li>VERB-Fin: je, má, mám, může, musí, mají, musím, vím, stojí, jde</li>
-      <li>VERB-Inf: dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</li>
-      <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
+      <li>VERB-Fin: má, mám, může, musí, mají, musím, vím, stojí, jde, víš</li>
+      <li>VERB-Inf: dělat, mít, říct, vidět, jít, udělat, žít, stát, dát, mluvit</li>
+      <li>VERB-Part: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
     </ul>
   </li>
 </ul>
@@ -554,6 +551,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADJ: rád, ráda, rádi, přesvědčen, jist, možno, nerad, vinen, řečeno, oblečena</li>
       <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno, ztraceno</li>
+      <li>DET: sám, sama, sami, samo, samy, samu</li>
       <li>PRON: se, si, mi, mě, ho, mu, ti, tě</li>
     </ul>
   </li>
@@ -592,7 +590,6 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Cnd
     <ul>
       <li>AUX-Fin: by, bych, byste, bys, bychom, bysme</li>
-      <li>VERB-Fin: by, bych, bys</li>
     </ul>
   </li>
 </ul>
@@ -609,8 +606,8 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: jsem, je, jsme, jsi, bude, jsou, jste, není, budu, budeš</li>
-      <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
+      <li>AUX-Fin: jsem, je, jsme, bude, jsou, jsi, není, jste, budu, budeš</li>
+      <li>VERB-Fin: má, mám, může, nevím, musí, mají, musím, vím, nemám, stojí</li>
     </ul>
   </li>
 </ul>
@@ -622,8 +619,8 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: bude, budu, budeš, budou, nebude, nebudu, budeme, budete, nebudeš, nebudeme</li>
-      <li>VERB-Fin: bude, nepůjde, nepůjdu, nebude, půjde, půjdeme, půjdu, budou, nebudu, pojedeme</li>
+      <li>AUX-Fin: bude, budu, budeš, budou, nebude, nebudu, budeme, budete, nebudeš, nebudou</li>
+      <li>VERB-Fin: nepůjde, nepůjdu, půjde, půjdeme, půjdu, pojedeme, pojedete, půjdeš, Poběžíme, Potrvá</li>
     </ul>
   </li>
 </ul>
@@ -633,7 +630,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
       <li>VERB-Conv: připomenuv, vrhnuv, vzdychnuv</li>
-      <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
+      <li>VERB-Part: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
     </ul>
   </li>
 </ul>
@@ -643,9 +640,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
       <li>AUX-Conv: jsouc</li>
-      <li>AUX-Fin: jsem, je, jsme, jsi, jsou, jste, není, nejsem, nejsou, bývá</li>
+      <li>AUX-Fin: jsem, je, jsme, jsou, jsi, není, jste, nejsem, nejsou, bývá</li>
       <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-      <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
+      <li>VERB-Fin: má, mám, může, nevím, musí, mají, musím, vím, nemám, stojí</li>
     </ul>
   </li>
 </ul>
@@ -659,11 +656,11 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
       <li>AUX-Conv: jsouc</li>
-      <li>AUX-Fin: jsem, je, jsme, jsi, bude, jsou, jste, není, budu, budeš</li>
+      <li>AUX-Fin: jsem, je, jsme, bude, jsou, jsi, není, jste, budu, budeš</li>
       <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
       <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-      <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
-      <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
+      <li>VERB-Fin: má, mám, může, nevím, musí, mají, musím, vím, nemám, stojí</li>
+      <li>VERB-Part: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
     </ul>
   </li>
 </ul>
@@ -704,7 +701,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Emp
     <ul>
-      <li>DET: sám, sama, sami, samo, samy, samu</li>
+      <li>DET: sám, sama, sami, samo, samy, samé, samá, samého, samu, samých</li>
     </ul>
   </li>
 </ul>
@@ -763,7 +760,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADV: všude, vždy, navždy, odevšad, odjakživa</li>
       <li>DET: všechno, každý, všichni, všechny, všech, každou, vše, každé, všeho, všem</li>
-      <li>PRON: všecko, samé, veškeré, samá, veškerá, samého, samých, samým, veškeru, veškerý</li>
+      <li>PRON: všecko, veškeré, veškerá, veškeru, veškerý, všecky, samy, veškerou, všecku</li>
     </ul>
   </li>
 </ul>
@@ -855,7 +852,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: jsem, bych, jsme, bychom, budu, nebudu, nejsem, budeme, bysme, nejsme</li>
+      <li>AUX-Fin: jsem, bych, jsme, bychom, budu, nebudu, nejsem, budeme, nejsme, bysme</li>
       <li>DET: moje, můj, naše, mého, náš, mé, mých, mým, mojí, moji</li>
       <li>PRON: mi, mě, já, nás, mně, nám, mnou, mne, my, námi</li>
       <li>VERB-Fin: mám, nevím, musím, vím, nemám, chci, nechci, prosím, ptám, mohu</li>
@@ -866,7 +863,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: jsi, jste, byste, bys, budeš, budete, nebudeš, si, buď, buďte</li>
+      <li>AUX-Fin: jsi, jste, byste, bys, budeš, budete, nebudeš, nejste, si, buď</li>
       <li>DET: vaše, tvůj, tvoje, tvé, váš, vaší, tvou, tvá, tvojí, tvého</li>
       <li>PRON: ti, ty, tě, vás, vám, vy, tebe, tebou, tobě, vámi</li>
       <li>VERB-Fin: víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš, dej</li>
@@ -880,7 +877,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>AUX-Fin: je, by, bude, jsou, není, budou, nebude, nejsou, bývá, bývají</li>
       <li>DET: jeho, její, jejich, jejím, jejího, jejích, jehož, jejímu, jejichž, jejíž</li>
       <li>PRON: ho, mu, ji, je, jí, ní, on, něj, nich, jim</li>
-      <li>VERB-Fin: je, má, může, musí, není, mají, stojí, jde, jsou, bude</li>
+      <li>VERB-Fin: má, může, musí, mají, stojí, jde, nemá, ví, chce, nemůže</li>
     </ul>
   </li>
 </ul>
@@ -1081,11 +1078,11 @@ http://ceur-ws.org/Vol-1885/181.pdf
           <li>ADJ-Part: sbalíno</li>
           <li>ADV: dřív, nejdřív, móc, dýl, hloub</li>
           <li>AUX-Fin: si, bysme, nejseš</li>
-          <li>DET: který, tvýho, žádnej, každý, které, mý, naše, takovýho, támhleten, tý</li>
+          <li>DET: který, tvýho, žádnej, každý, které, mý, naše, samý, takovýho, támhleten</li>
           <li>NOUN: holkama, kopečkama, leta, prsama, ženskýma</li>
           <li>PART: prej, přeci, Neee</li>
-          <li>PRON: jí, veškeru, jenž, samý</li>
-          <li>VERB-Fin: odejdem, rozejdem, si</li>
+          <li>PRON: jí, veškeru, jenž</li>
+          <li>VERB-Fin: odejdem, rozejdem</li>
           <li>VERB-Inf: pomoct</li>
           <li>VERB-Part: nevlít, nevšim</li>
         </ul>
@@ -1114,20 +1111,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc-ADP(přes) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (41)</li>
-      <li>VERB-Fin--NOUN-Nom (1289)</li>
+      <li>VERB-Fin--NOUN-Gen (25)</li>
+      <li>VERB-Fin--NOUN-Nom (1112)</li>
       <li>VERB-Fin--PRON (7)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Gen (4)</li>
-      <li>VERB-Fin--PRON-Nom (594)</li>
+      <li>VERB-Fin--PRON-Gen (1)</li>
+      <li>VERB-Fin--PRON-Nom (531)</li>
       <li>VERB-Inf--NOUN-Nom (19)</li>
-      <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (26)</li>
-      <li>VERB-Part--NOUN-Gen (65)</li>
-      <li>VERB-Part--NOUN-Nom (3212)</li>
+      <li>VERB-Part--NOUN-Gen (42)</li>
+      <li>VERB-Part--NOUN-Nom (3074)</li>
       <li>VERB-Part--PRON (10)</li>
-      <li>VERB-Part--PRON-Gen (9)</li>
-      <li>VERB-Part--PRON-Nom (708)</li>
+      <li>VERB-Part--PRON-Gen (8)</li>
+      <li>VERB-Part--PRON-Nom (678)</li>
     </ul>
   </li>
 </ul>
@@ -1144,7 +1140,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (731)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Acc (678)</li>
       <li>VERB-Inf--NOUN-Gen (19)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>

@@ -78,7 +78,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 54	dokud	dokud	SCONJ	J,-------------	_	56	mark	_	_
 55	ministerstvo	ministerstvo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	56	nsubj	_	_
 56	nedá	dát	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	50	advcl	_	_
-57	samo	sám	DET	PLNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp	56	xcomp	_	_
+57	samo	samý	DET	PLNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp|Variant=Short	56	xcomp	_	_
 58	nebo	nebo	CCONJ	J^-------------	_	60	cc	_	_
 59	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	60	case	_	LId=na-1
 60	žádost	žádost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	57	conj	_	_

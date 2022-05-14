@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Features: `Derivation`
 
 This feature is language-specific.
-It occurs with 23 different values: `An`, `Ana`, `Anin`, `CompMod`, `Ig`, `Igkost`, `Igkosta`, `Igkosti`, `Igmoz`, `Igtyr`, `Igtyrji`, `Ik`, `Ko`, `NomAg`, `Oma`, `Omon`, `PrivMod`, `ProprietiveMod`, `Sjuro`, `TempMod`, `VCar`, `VTer`, `Voc`.
+It occurs with 23 different values: `An`, `Ana`, `Anin`, `CompMod`, `Ig`, `Igkost`, `Igkosta`, `Igkosti`, `Igmoz`, `Igtyr`, `Igtyrji`, `Ik`, `Ko`, `NomAg`, `Oma`, `Omon`, `PrivMod`, `ProprietiveMod`, `Sjuro`, `TempMod`, `VAbe`, `VTer`, `Voc`.
 
 215 tokens (3%) have a non-empty value of `Derivation`.
 182 types (5%) occur at least once with a non-empty value of `Derivation`.
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Derivation` co-occ
 * `Oma` (2; 1% of non-empty `Derivation`): <em>босьтӧмаыс, быдмӧмаыс</em>
 * `Omon` (9; 7% of non-empty `Derivation`): <em>тэрмасьӧмӧн, кутӧмӧн, судзмӧн, воодушедитчӧмӧн, йӧйсямӧмӧн, курччӧмӧн, петӧмӧн, помасьӧмӧн</em>
 * `PrivMod` (1; 1% of non-empty `Derivation`): <em>тыртӧм</em>
-* `VCar` (13; 9% of non-empty `Derivation`): <em>виччысьтӧг, бергӧдлытӧг, дугдывтӧг, жалиттӧг, повтӧг, тэрмасьтӧг, Тӧдлытӧг, вӧрзьӧдлывтӧг, чинтытӧг, шойччывтӧг</em>
+* `VAbe` (13; 9% of non-empty `Derivation`): <em>виччысьтӧг, бергӧдлытӧг, дугдывтӧг, жалиттӧг, повтӧг, тэрмасьтӧг, Тӧдлытӧг, вӧрзьӧдлывтӧг, чинтытӧг, шойччывтӧг</em>
 * `VTer` (4; 3% of non-empty `Derivation`): <em>мунтӧдз, пемдытӧдз, Пӧттӧдзныс, веравтӧдзыд</em>
 
 <table>

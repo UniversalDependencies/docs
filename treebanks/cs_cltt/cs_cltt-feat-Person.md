@@ -12,31 +12,31 @@ It occurs with 1 different values: `3`.
 2213 tokens (6%) have a non-empty value of `Person`.
 373 types (8%) occur at least once with a non-empty value of `Person`.
 229 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1426; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (500; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (216; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (71; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1411; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (515; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (216; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (71; 0% instances).
 
 ### `VERB`
 
-1426 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Person`.
+1411 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1426; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1426; 100%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1426; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1425; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1222; 86%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (982; 69%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1411; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1411; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1411; 100%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1411; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1208; 86%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (970; 69%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `3` (1426; 100% of non-empty `Person`): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</em>
-* `EMPTY` (431): <em>vést, použít, mít, účtovat, došlo, odpisovat, uvést, sestavit, zajistit, provést</em>
+* `3` (1411; 100% of non-empty `Person`): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</em>
+* `EMPTY` (430): <em>vést, použít, mít, účtovat, došlo, odpisovat, uvést, sestavit, zajistit, provést</em>
 
-`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (224) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (223) occur only with one value of `Person`.
 
 ### `AUX`
 
-500 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Person`.
+515 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (500; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (484; 97%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (484; 97%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (463; 93%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (410; 82%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (274; 55%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (515; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (499; 97%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (499; 97%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (477; 93%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (424; 82%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (286; 56%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `3` (500; 100% of non-empty `Person`): <em>je, jsou, není, nejsou, by, bude, budou</em>
-* `EMPTY` (116): <em>být, byly, byl, by, bylo, nebyly, byla, nebyla, nebyl</em>
+* `3` (515; 100% of non-empty `Person`): <em>je, jsou, není, nejsou, by, bude, budou</em>
+* `EMPTY` (117): <em>být, byly, byl, by, bylo, nebyly, byla, nebyla, nebyl</em>
 
 ### `DET`
 
@@ -63,12 +63,12 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (170; 92%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (57; 86%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (169; 92%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (56; 86%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (27; 96%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (3; 100%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (4; 100%),
 <tt>AUX --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1; 100%),
+<tt>AUX --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).

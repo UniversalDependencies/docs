@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `discourse`.
+6 nodes (0%) are attached to their parents as `discourse`.
 
-4 instances of `discourse` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.
+4 instances of `discourse` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.33333333333333.
 
-The following 4 pairs of parts of speech are connected with `discourse`: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-INTJ.html">INTJ</a></tt> (2; 40% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (1; 20% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="de_gsd-pos-PART.html">PART</a></tt> (1; 20% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 5 pairs of parts of speech are connected with `discourse`: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-INTJ.html">INTJ</a></tt> (2; 33% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (1; 17% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="de_gsd-pos-PART.html">PART</a></tt> (1; 17% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -29,8 +29,8 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	uns	wir	PRON	PPER	Case=Dat|Number=Plur|Person=1|PronType=Prs	10	iobj	_	_
 6	eigentlich	eigentlich	ADV	ADV	_	7	advmod	_	_
 7	schon	schon	ADV	ADV	_	10	advmod	_	_
-8	was	was	PRON	PIS	Definite=Ind|PronType=Ind	10	nsubj	_	_
-9	komisch	komisch	ADJ	ADJD	_	10	xcomp	_	_
+8	was	was	PRON	PIS	PronType=Ind	10	nsubj	_	_
+9	komisch	komisch	ADJ	ADJD	Degree=Pos	10	xcomp	_	_
 10	vorkommen	vorkommen	VERB	VVINF	VerbForm=Inf	0	root	_	_
 11	müssen	müssen	AUX	VMINF	VerbForm=Inf	10	aux	_	SpaceAfter=No
 12	.	.	PUNCT	$.	_	10	punct	_	_
@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 7 discourse	color:blue
 1	Besonders	besonders	ADV	ADV	_	2	advmod	_	_
-2	lecker	lecker	ADJ	ADJD	_	0	root	_	_
+2	lecker	lecker	ADJ	ADJD	Degree=Pos	0	root	_	_
 3	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Tzatziki	Tzatziki	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No

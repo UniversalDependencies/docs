@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Jenna Kanerva.
 
 Repository: [UD_Finnish-OOD](https://github.com/UniversalDependencies/UD_Finnish-OOD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -206,13 +206,11 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
       <li>AUX-Fin: on, ei, oli, en, eikä, voi, olen, olisi, pitäisi, voisi</li>
       <li>AUX-Inf: olla, olemaan, ollessa, joutua, ollessaan, pitää</li>
       <li>AUX-Part: ollut, olevan, jouduttu, voinut, olevansa, oltava, joutunut, ollu, tainnut, tarvinnut</li>
-      <li>INTJ: Jopas</li>
       <li>NOUN: diureesi, hemodynamiikka, hapetus, hengitys, pulssi, aikana, Tajunta, yövuoro, aamulla, illalla</li>
       <li>NOUN-Inf: kumarrella</li>
       <li>NUM: yksi, kaksi, pari, kolme, yhden, kahden, kolmeen, kolmen, neljä, neljän</li>
       <li>PRON: se, sen, joka, hän, kaikki, mitä, sitä, muuta, tällä, tämä</li>
       <li>PROPN: furesis, Esko, Tymppis, Tymppiksen, the, sp., Eskon, Suomi, suomessa, noradrenalina</li>
-      <li>SYM: %:n</li>
       <li>VERB: saanut, tulee, saa, aloitettu, hapettuu, laitettu, sai, alkoi, päästy, saada</li>
       <li>VERB-Fin: tulee, saa, hapettuu, sai, alkoi, löytyy, laskee, menee, kertoo, laski</li>
       <li>VERB-Inf: saada, tehdä, katsomassa, tulla, laskemaan, nukkuessa, käymään, pitää, mennä, menossa</li>
@@ -331,7 +329,6 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
       <li>NUM: yhden, kahden, kolmen, neljän, parin, sadan, 100.n, 1000e, 100:n, 2:n</li>
       <li>PRON: sen, tämän, jonka, hänen, meidän, minun, heidän, kaiken, jonkin, minkä</li>
       <li>PROPN: Tymppiksen, Eskon, suomen, Allien, Furesiksen, Jeesuksen, Jortikan, Kelan, Liikenneturvan, Luhtasen</li>
-      <li>SYM: %:n</li>
       <li>VERB: jättämäni, ymmärtävän, arvostavan, auttavan, haukkuvan, jatkuvan, kalastavan, kalifornialaistuneen, kirjoittaneen, koittaneen</li>
       <li>VERB-Part: jättämäni, ymmärtävän, arvostavan, auttavan, haukkuvan, jatkuvan, kalastavan, kalifornialaistuneen, kirjoittaneen, koittaneen</li>
     </ul>
@@ -358,13 +355,12 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
 <ul>
   <li>Ine
     <ul>
-      <li>ADJ: omassa, Oikeassa, ammatillisissa, erillisissä, halvoissakaan, hirviömäisessä, ilonen, kevyessa, l.sin., lyhyessä</li>
+      <li>ADJ: lyhyessä, omassa, Oikeassa, ammatillisissa, erillisissä, halvoissakaan, hirviömäisessä, ilonen, kevyessa, l.sin.</li>
       <li>AUX-Inf: ollessa, ollessaan</li>
       <li>NOUN: vaiheessa, yhteydessä, kyseessä, thx-kuvassa, helmikuussa, tapauksessa, vuodessa, Sacrumissa, aamupesuissa, ajassa</li>
       <li>NUM: 3ssa, kolmessa</li>
       <li>PRON: jossa, siinä, tässä, missä, jossain, muissa, Missähän, Noissa, hänessä, joissa</li>
-      <li>PROPN: suomessa, Aurassa, Sidessä, euroopassa, @antroblogi'ssa, Aasiassa, Alanyassakin, Amerikassa, Barcelonassa, Bilbaossa</li>
-      <li>VERB: katsomassa, nukkuessa, menossa, tullessa, käymässä, käynnissä, nähdessään, näkyvissä, olemassa, tulossa</li>
+      <li>PROPN: suomessa, Aurassa, Sidessä, @antroblogi'ssa, Aasiassa, Alanyassakin, Amerikassa, Barcelonassa, Bilbaossa, Dubaissa</li>
       <li>VERB-Inf: katsomassa, nukkuessa, menossa, tullessa, käymässä, käynnissä, nähdessään, olemassa, tulossa, valitessa</li>
       <li>VERB-Part: näkyvissä, nähtävissä, takavarikoidussa, vältettävissä</li>
     </ul>
@@ -390,7 +386,6 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
       <li>ADJ: hyvä, pitkä, rauhallinen, korkea, oma, vanha, huono, omat, toinen, asiallinen</li>
       <li>ADV: aika, kumma</li>
       <li>AUX-Part: ollut, jouduttu, olleet, voinut, oltava, joutunut, ollet, ollu, tainnut, tarvinnut</li>
-      <li>INTJ: Jopas</li>
       <li>NOUN: diureesi, hemodynamiikka, hapetus, hengitys, pulssi, omaiset, Tajunta, yövuoro, co2, poika</li>
       <li>NUM: yksi, kaksi, pari, kolme, neljä, puoli, sata, yhdeksän, 10, kahdeksan</li>
       <li>PRON: se, joka, hän, kaikki, tämä, ne, mikä, jotka, he, me</li>
@@ -450,12 +445,6 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
       <li>ADJ: hyvä, pitkä, rauhallinen, korkea, oma, vanha, hyvää, huono, omat, uuden</li>
       <li>ADJ-Part: tulevaan</li>
       <li>ADV: kumma</li>
-      <li>AUX-Part: ollut, olevan, jouduttu, olleet, voinut, olevansa, oltava, joutunut, ollet, ollu</li>
-      <li>INTJ: Jopas</li>
-      <li>NOUN: Nuorten, aikuinen, ohueen, viranomaiselle</li>
-      <li>PRON: MUUTA, Muuta, Noissa</li>
-      <li>VERB: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
-      <li>VERB-Part: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
     </ul>
   </li>
 </ul>
@@ -885,7 +874,6 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
       <li>Inen
         <ul>
           <li>ADJ: ensimmäinen, toinen, limainen, viimeisen, Sentraalisen, ensimmäistä, punainen, entistä, erityisen, hirmuisen</li>
-          <li>NOUN: aikuinen, viranomaiselle</li>
           <li>PRON: Toinen, toiseen</li>
         </ul>
       </li>
@@ -1100,10 +1088,10 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
           <li>AUX-Fin: eii, n, olisisi</li>
           <li>AUX-Part: ollet</li>
           <li>CCONJ: Saatika</li>
-          <li>NOUN: 800eur/kk, 2-luumen, Bipaille, Diureesii, Kateri, Potilan, SAÖ2, aviolitto, diuresi, hengitykoneeseen</li>
+          <li>NOUN: 800eur/kk, 2-luumen, Bipaille, C, Diureesii, Kateri, Potilan, SAÖ2, ahven.net, aviolitto</li>
           <li>NUM: 100.n</li>
           <li>PRON: sen</li>
-          <li>PROPN: Actrpid-, Drouhin, Fureisi, Noradrenaliina, Noradrenalinan, OIkkosen, Seenasen, instusta, noradrenaliinaakin, proppofol</li>
+          <li>PROPN: @SuomenPankki, Actrpid-, Drouhin, Fureisi, Noradrenaliina, Noradrenalinan, OIkkosen, Seenasen, instusta, noradrenaliinaakin</li>
           <li>PUNCT: 8</li>
           <li>VERB-Fin: Antauden, Happeutui, Satuoi, käysi, liikutta, muttuu, osaisen, osaisin, päädy-tään, soputuu</li>
           <li>VERB-Inf: sallita</li>
@@ -1163,27 +1151,27 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Ela (1)</li>
       <li>VERB-Fin--NOUN-Gen (100)</li>
       <li>VERB-Fin--NOUN-Ill (1)</li>
-      <li>VERB-Fin--NOUN-Nom (66)</li>
-      <li>VERB-Fin--NOUN-Par (194)</li>
+      <li>VERB-Fin--NOUN-Nom (65)</li>
+      <li>VERB-Fin--NOUN-Par (195)</li>
       <li>VERB-Fin--PRON-Acc (8)</li>
       <li>VERB-Fin--PRON-Gen (13)</li>
       <li>VERB-Fin--PRON-Nom (13)</li>
       <li>VERB-Fin--PRON-Par (48)</li>
       <li>VERB-Inf--NOUN-Ela (1)</li>
       <li>VERB-Inf--NOUN-Gen (29)</li>
-      <li>VERB-Inf--NOUN-Nom (39)</li>
-      <li>VERB-Inf--NOUN-Par (127)</li>
+      <li>VERB-Inf--NOUN-Nom (38)</li>
+      <li>VERB-Inf--NOUN-Par (128)</li>
       <li>VERB-Inf--PRON-Gen (6)</li>
       <li>VERB-Inf--PRON-Nom (4)</li>
       <li>VERB-Inf--PRON-Par (21)</li>
       <li>VERB-Inf--PRON-Par-ADP(kohtaan) (1)</li>
       <li>VERB-Part--NOUN-Ela (1)</li>
       <li>VERB-Part--NOUN-Gen (25)</li>
-      <li>VERB-Part--NOUN-Nom (69)</li>
+      <li>VERB-Part--NOUN-Nom (70)</li>
       <li>VERB-Part--NOUN-Par (107)</li>
       <li>VERB-Part--PRON-Gen (2)</li>
       <li>VERB-Part--PRON-Nom (9)</li>
-      <li>VERB-Part--PRON-Par (14)</li>
+      <li>VERB-Part--PRON-Par (15)</li>
     </ul>
   </li>
 </ul>

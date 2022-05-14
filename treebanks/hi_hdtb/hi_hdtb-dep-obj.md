@@ -33,7 +33,7 @@ The following 28 pairs of parts of speech are connected with `obj`: <tt><a href=
 9	के	के	ADP	PSP	AdpType=Post	8	case	_	ChunkId=NP3|ChunkType=child|Translit=ke
 10	ऊपर	ऊपर	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	8	case	_	AltTag=ADP-NOUN|ChunkId=NP3|ChunkType=child|Translit=ūpara
 11	स्‍तूप	स्‍तूप	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	obj	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=stūpa
-12	बनाए	बना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Vib=या_जा+या1|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=banāe
+12	बनाए	बना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=banāe|Vib=या_जा+या1
 13	गए	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	12	aux:pass	_	Vib=या1|Tam=yA1|ChunkId=VGF|ChunkType=child|Translit=gae
 14	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
@@ -58,7 +58,7 @@ The following 28 pairs of parts of speech are connected with `obj`: <tt><a href=
 10	साथ	साथ	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	8	case	_	AltTag=ADP-NOUN|ChunkId=NP4|ChunkType=child|Translit=sātha
 11	फोटो	फोटो	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	obj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=phoṭo
 12	खींचना	खींच	VERB	VM	Case=Nom|VerbForm=Inf	13	obj	_	Vib=ना|Tam=nA|ChunkId=VGNN|ChunkType=head|Translit=khīṁcanā
-13	चाहते	चाह	VERB	VM	Aspect=Imp|Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=cāhate
+13	चाहते	चाह	VERB	VM	Aspect=Imp|Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=wA|Translit=cāhate|Vib=ता_है
 14	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=haiṁ
 15	।	।	PUNCT	SYM	_	13	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
@@ -80,7 +80,7 @@ The following 28 pairs of parts of speech are connected with `obj`: <tt><a href=
 7	से	से	ADP	PSP	AdpType=Post	6	case	_	ChunkId=NP3|ChunkType=child|Translit=se
 8	इसे	यह	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	10	obj	_	Vib=को|Tam=ko|ChunkId=NP4|ChunkType=head|Translit=ise
 9	नहीं	नहीं	PART	NEG	Polarity=Neg|PronType=Neg	10	advmod	_	ChunkId=VGF|ChunkType=child|Translit=nahīṁ
-10	अपनाता	अपना	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Vib=ता|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=apanātā
+10	अपनाता	अपना	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=wA|Translit=apanātā|Vib=ता
 11	।	।	PUNCT	SYM	_	10	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~

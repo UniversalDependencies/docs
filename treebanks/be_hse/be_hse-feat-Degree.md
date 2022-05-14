@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-34596 tokens (11%) have a non-empty value of `Degree`.
+34595 tokens (11%) have a non-empty value of `Degree`.
 11393 types (22%) occur at least once with a non-empty value of `Degree`.
 5159 lemmas (18%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 10 part-of-speech tags: <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (23531; 8% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (10992; 4% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (44; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (23531; 8% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (10990; 4% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (44; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
 23531 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (88% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20498; 87%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17059; 72%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20497; 87%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17059; 72%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -53,12 +53,12 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-10992 <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `Degree`.
+10990 <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (822; 7% of non-empty `Degree`): <em>больш, раней, менш, далей, болей, хутчэй, пазней, лепш, падрабязней, пазьней</em>
-* `Pos` (10129; 92% of non-empty `Degree`): <em>як, яшчэ, тут, таксама, так, дзе, таму, ўжо, цяпер, ужо</em>
+* `Pos` (10127; 92% of non-empty `Degree`): <em>як, яшчэ, тут, таксама, так, дзе, таму, ўжо, цяпер, ужо</em>
 * `Sup` (41; 0% of non-empty `Degree`): <em>найбольш, найменш, па-ранейшаму, Найверагодней, жэстачайшэ, йшчэ, найперш, паранейшаму</em>
 * `EMPTY` (54): <em>г., д., як, супраць, сёлета, За, Змагарска-, Праўда, аднак, д</em>
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt></tt></td><td><em>яшчэ</em></td><td><em>ЯШЧЭ</em></td><td><em>йшчэ</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 98% lemmas (1049) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 98% lemmas (1048) occur only with one value of `Degree`.
 
 ### `DET`
 
@@ -89,7 +89,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (12; 100% of non-empty `Degree`): <em>Евангелле, Штаб-кватэра, Зборная, берагі, вучоны, зборнай, каханай, коньмі, насякомых, паласой</em>
-* `EMPTY` (72540): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
+* `EMPTY` (72541): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
 
 `Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (11) occur only with one value of `Degree`.
 
@@ -102,16 +102,16 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Pos` (8; 100% of non-empty `Degree`): <em>Назіраемыя, адкрыты, вырабленыя, жадаючых, знятыя, пастаўлены, прадугледжанага, прынятую</em>
-* `EMPTY` (31085): <em>можна, трэба, можа, жыве, няма, стала, мае, адбудзецца, затрымалі, сказаў</em>
+* `EMPTY` (31084): <em>можна, трэба, можа, жыве, няма, стала, мае, адбудзецца, затрымалі, сказаў</em>
 
 ### `ADP`
 
-3 <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Degree`.
+4 <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Degree`.
 
 `ADP` tokens may have the following values of `Degree`:
 
-* `Pos` (3; 100% of non-empty `Degree`): <em>сьпераду, як</em>
-* `EMPTY` (29669): <em>у, ў, на, з, за, да, пра, па, ад, для</em>
+* `Pos` (4; 100% of non-empty `Degree`): <em>сьпераду, паўз, як</em>
+* `EMPTY` (29668): <em>у, ў, на, з, за, да, пра, па, ад, для</em>
 
 ### `AUX`
 
@@ -155,14 +155,14 @@ The most frequent other feature values with which `SCONJ` and `Degree` co-occurr
 `SCONJ` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>як</em>
-* `EMPTY` (3404): <em>што, як, калі, каб, бо, ці, то, чым, хоць, пакуль</em>
+* `EMPTY` (3403): <em>што, як, калі, каб, бо, ці, то, чым, хоць, пакуль</em>
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (682; 98%),
-<tt>ADJ --[<tt><a href="be_hse-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (549; 81%),
-<tt>ADV --[<tt><a href="be_hse-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (335; 77%),
+<tt>ADJ --[<tt><a href="be_hse-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (548; 81%),
+<tt>ADV --[<tt><a href="be_hse-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (334; 77%),
 <tt>ADV --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> ADV</tt> (86; 97%),
 <tt>ADJ --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (72; 99%),
 <tt>ADJ --[<tt><a href="be_hse-dep-obl.html">obl</a></tt>]--> ADJ</tt> (22; 65%),

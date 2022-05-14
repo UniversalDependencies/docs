@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	А	а	CCONJ	CC	_	3	cc	_	_
 3	тонь	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	GTtags=Pers,Sg2,Gen
-4	мень	мень	ADJ	A	Derivation=GenAttr|PronType=Int	5	nmod:poss	_	GTtags=Interr,Der/GenAttr,A
+4	мень	мень	ADJ	A	Derivation=GenAttr|PronType=Int	5	nmod	_	GTtags=Interr,Der/GenAttr,A
 5	тев	тев	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
 6	киян	кие	PRON	Pron	Animacy=Hum|Number[subj]=Sing|Person[subj]=1|PronType=Int|Tense=Pres	5	csubj:cop	_	GTtags=Interr,Hum,Prs,ScSg1
 7	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj:cop	_	GTtags=Pers,Sg1,Nom|SpaceAfter=No

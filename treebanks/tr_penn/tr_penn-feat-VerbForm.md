@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Part`, `Vnoun`.
 
-16103 tokens (9%) have a non-empty value of `VerbForm`.
+16101 tokens (9%) have a non-empty value of `VerbForm`.
 5088 types (14%) occur at least once with a non-empty value of `VerbForm`.
 1480 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15949; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (154; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15947; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (154; 0% instances).
 
 ### `VERB`
 
-15949 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+15947 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (14814; 93%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14775; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13831; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13056; 82%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 81%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 58%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (14814; 93%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14773; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13831; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13054; 82%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 81%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 58%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (8; 0% of non-empty `VerbForm`): <em>arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</em>
-* `Fin` (15809; 99% of non-empty `VerbForm`): <em>söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</em>
+* `Fin` (15807; 99% of non-empty `VerbForm`): <em>söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</em>
 * `Part` (23; 0% of non-empty `VerbForm`): <em>olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir</em>
 * `Vnoun` (109; 1% of non-empty `VerbForm`): <em>olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</em>
-* `EMPTY` (60): <em>neler, Kıymetler, içindeler, eğilimindeler, yetkililer, Gençler, Japonlar, Kağıtlar, Kürkçüler, Tavuklar</em>
+* `EMPTY` (41): <em>neler, içindeler, eğilimindeler, azınlıktalar, bağımlılar, benzerler, durumdalar, elyaflar, farkındalar, güvenliler</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th><th><tt>Vnoun</tt></th></tr>
@@ -127,7 +127,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> VERB</tt> (30; 97%),
 <tt>VERB --[<tt><a href="tr_penn-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (16; 94%),
 <tt>VERB --[<tt><a href="tr_penn-dep-obj.html">obj</a></tt>]--> VERB</tt> (13; 87%),
-<tt>VERB --[<tt><a href="tr_penn-dep-obl.html">obl</a></tt>]--> VERB</tt> (12; 100%),
+<tt>VERB --[<tt><a href="tr_penn-dep-obl.html">obl</a></tt>]--> VERB</tt> (13; 100%),
 <tt>VERB --[<tt><a href="tr_penn-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (11; 92%),
 <tt>VERB --[<tt><a href="tr_penn-dep-acl.html">acl</a></tt>]--> VERB</tt> (10; 91%).
 

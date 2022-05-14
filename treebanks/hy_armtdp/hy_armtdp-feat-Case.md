@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Abl`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-18722 tokens (36%) have a non-empty value of `Case`.
-8641 types (65%) occur at least once with a non-empty value of `Case`.
-4206 lemmas (60%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (13329; 25% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1804; 3% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1791; 3% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (690; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (671; 1% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (437; 1% instances).
+18699 tokens (36%) have a non-empty value of `Case`.
+8639 types (65%) occur at least once with a non-empty value of `Case`.
+4205 lemmas (60%) occur at least once with a non-empty value of `Case`.
+The feature is used with 6 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (13312; 25% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1800; 3% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1791; 3% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (690; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (669; 1% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (437; 1% instances).
 
 ### `NOUN`
 
-13329 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+13312 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (11301; 85%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10137; 76%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (9085; 68%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (11284; 85%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10125; 76%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (9069; 68%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Abl` (595; 4% of non-empty `Case`): <em>կողմից, թեկնածուներից, պահից, կյանքից, 1-ից, օրվանից, գյուղից, կողքից, մեքենայից, ներսից</em>
-* `Dat` (5029; 38% of non-empty `Case`): <em>հանրապետության, թվականի, կառավարության, նախագահի, ծրագրի, հոդվածի, օրենքի, մարդկանց, կյանքի, որոշման</em>
+* `Dat` (5019; 38% of non-empty `Case`): <em>հանրապետության, թվականի, կառավարության, նախագահի, ծրագրի, հոդվածի, օրենքի, մարդկանց, կյանքի, որոշման</em>
 * `Gen` (61; 0% of non-empty `Case`): <em>տեղի, հայոց, հիման, վերջո, կենաց</em>
-* `Ins` (708; 5% of non-empty `Case`): <em>խոսքով, առումով, կարգով, ուղղությամբ, իմաստով, տեսքով, կողքով, ով, ոտքով, չափով</em>
-* `Loc` (656; 5% of non-empty `Case`): <em>դեպքում, ոլորտում, շրջանակներում, երկրում, կետում, կյանքում, դաշտում, ժամանակահատվածում, արդյունքում, ժամկետում</em>
-* `Nom` (6280; 47% of non-empty `Case`): <em>բան, անգամ, ժամանակ, տարի, օրը, թ, օր, տեղ, մարդիկ, մարդ</em>
+* `Ins` (706; 5% of non-empty `Case`): <em>խոսքով, առումով, կարգով, ուղղությամբ, իմաստով, տեսքով, կողքով, ով, ոտքով, չափով</em>
+* `Loc` (654; 5% of non-empty `Case`): <em>դեպքում, ոլորտում, շրջանակներում, երկրում, կետում, կյանքում, դաշտում, ժամանակահատվածում, արդյունքում, ժամկետում</em>
+* `Nom` (6277; 47% of non-empty `Case`): <em>բան, անգամ, ժամանակ, տարի, օրը, թ, օր, տեղ, մարդիկ, մարդ</em>
 
 <table>
   <tr><th>Paradigm <i>օր</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
@@ -40,17 +40,17 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-1804 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+1800 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1796; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1328; 74%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (1005; 56%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1792; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1325; 74%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (1002; 56%).
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `Abl` (24; 1% of non-empty `Case`): <em>Հայաստանից, Ադրբեջանից, Ալաշկերտից, Ասորիքից, Արմինուսից, ԲՀԿ-ից, Բեքեթից, Դսեղից, Երկրից, Երևանից</em>
-* `Dat` (646; 36% of non-empty `Case`): <em>Հայաստանի, Իրանի, Ադրբեջանի, Սարգսյանի, Կաթողիկեի, Էջմիածնի, Պետրոսյանի, Ռուսաստանի, օպերայի, Երևանի</em>
+* `Dat` (645; 36% of non-empty `Case`): <em>Հայաստանի, Իրանի, Ադրբեջանի, Սարգսյանի, Կաթողիկեի, Էջմիածնի, Պետրոսյանի, Ռուսաստանի, օպերայի, Երևանի</em>
 * `Ins` (3; 0% of non-empty `Case`): <em>Ադրբեջանով, Ալբանիայով, Ռումինիայով</em>
 * `Loc` (90; 5% of non-empty `Case`): <em>Հայաստանում, Էջմիածնում, Մոսկվայում, Ադրբեջանում, Խորվաթիայում, Կոպենհագենում, Կոստանդնուպոլսում, Կրեմլում, ՀՀԿ-ում, Մարգարյանում</em>
-* `Nom` (1041; 58% of non-empty `Case`): <em>ՀՀ, Լևոն, Հայաստան, Սիմեոնը, Կարեն, Արմինուսը, Իրանը, Կարապետյանը, Սերժ, Լուկրեցիան</em>
+* `Nom` (1038; 58% of non-empty `Case`): <em>ՀՀ, Լևոն, Հայաստան, Սիմեոնը, Կարեն, Արմինուսը, Իրանը, Կարապետյանը, Սերժ, Լուկրեցիան</em>
 
 <table>
   <tr><th>Paradigm <i>Ադրբեջան</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
@@ -104,18 +104,18 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `VERB`
 
-671 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Case`.
+669 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (671; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (671; 100%), <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (671; 100%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Gdv</tt> (671; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Coll</tt> (670; 100%), <tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (665; 99%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (636; 95%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (419; 62%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (418; 62%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (669; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (669; 100%), <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (669; 100%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Gdv</tt> (669; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Coll</tt> (668; 100%), <tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (663; 99%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (634; 95%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (417; 62%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (416; 62%).
 
 `VERB` tokens may have the following values of `Case`:
 
 * `Abl` (40; 6% of non-empty `Case`): <em>գալով, լինելուց, մայրանալուց, մտածելուց, նայելուց, Գլորվելուց, Պարելուց, անիծվելուց, անցնելուց, ապրելուց</em>
-* `Dat` (311; 46% of non-empty `Case`): <em>լինելու, տեսնելու, անելու, ապրելու, գտնվելու, կատարելու, մասնակցելու, նայելու, տալու, ընդունելու</em>
+* `Dat` (309; 46% of non-empty `Case`): <em>լինելու, տեսնելու, անելու, ապրելու, գտնվելու, կատարելու, մասնակցելու, նայելու, տալու, ընդունելու</em>
 * `Gen` (1; 0% of non-empty `Case`): <em>մաքրելու</em>
-* `Ins` (251; 37% of non-empty `Case`): <em>ընդունելով, ասելով, ելնելով, լինելով, առնելով, գնալով, տալով, անդրադառնալով, դիտարկելով, համագործակցելով</em>
+* `Ins` (251; 38% of non-empty `Case`): <em>ընդունելով, ասելով, ելնելով, լինելով, առնելով, գնալով, տալով, անդրադառնալով, դիտարկելով, համագործակցելով</em>
 * `Nom` (68; 10% of non-empty `Case`): <em>բռնելը, հայտարարելը, հայտնվելն, պաշտպանելու, Նեղանալը, ածելը, ամրացնելն, անելը, անհայտանալը, անցնելը</em>
-* `EMPTY` (6078): <em>ուզում, ասում, գալիս, տալիս, չկա, ասաց, կա, լինի, անում, նշված</em>
+* `EMPTY` (6076): <em>ուզում, ասում, գալիս, տալիս, չկա, ասաց, կա, լինի, անում, նշված</em>
 
 <table>
   <tr><th>Paradigm <i>լինել</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
@@ -137,7 +137,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Gen` (3; 1% of non-empty `Case`): <em>վրայի, մոտի</em>
 * `Ins` (17; 4% of non-empty `Case`): <em>միջով, վրայով, տակով, առջևով, մոտով</em>
 * `Nom` (391; 89% of non-empty `Case`): <em>մեջ, վրա, առաջ, տակ, մոտ, առջև, վրան, առաջներս, դիմացը, մոտս</em>
-* `EMPTY` (1198): <em>համար, հետ, մասին, հետո, որպես, մինչև, պես, կողմից, նկատմամբ, ի</em>
+* `EMPTY` (1196): <em>համար, հետ, մասին, հետո, որպես, մինչև, պես, նկատմամբ, կողմից, ի</em>
 
 <table>
   <tr><th>Paradigm <i>մեջ</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>

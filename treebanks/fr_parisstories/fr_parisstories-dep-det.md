@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2303 nodes (8%) are attached to their parents as `det`.
+2393 nodes (8%) are attached to their parents as `det`.
 
-2301 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1684759009987.
+2391 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16715419974927.
 
-The following 13 pairs of parts of speech are connected with `det`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2152; 93% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (76; 3% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (28; 1% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (13; 1% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2246; 94% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (83; 3% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 det	color:blue
-1	﻿donc	﻿donc	ADV	_	_	4	discourse	_	_
+1	donc	donc	ADV	_	_	4	discourse	_	_
 2	comment	comment	ADV	_	_	4	advmod	_	_
 3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_

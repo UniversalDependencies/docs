@@ -70,7 +70,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="es_gsd-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.279343).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.278515).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -85,7 +85,7 @@ The 3rd highest number of forms (1) was observed with the lemma “aun”: <em>a
 
 `SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="es_gsd-dep-mark.html">mark</a></tt> (7800; 96% instances), <tt><a href="es_gsd-dep-fixed.html">fixed</a></tt> (259; 3% instances), <tt><a href="es_gsd-dep-case.html">case</a></tt> (38; 0% instances), <tt><a href="es_gsd-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="es_gsd-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (6852; 85% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (470; 6% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (417; 5% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (136; 2% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (68; 1% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (48; 1% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (44; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (35; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (6862; 85% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (464; 6% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (415; 5% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (136; 2% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (68; 1% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (48; 1% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (44; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (34; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 7733 (95%) `SCONJ` nodes are leaves.
 

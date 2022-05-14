@@ -33,7 +33,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pcm_nsc-pos-ADJ.htm
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>more</em>
-* `EMPTY` (6158): <em>so, now, just, even, when, well, how, dere, den, still</em>
+* `EMPTY` (6157): <em>so, now, just, even, when, well, how, dere, den, still</em>
 
 ## Relations with Agreement in `Degree`
 

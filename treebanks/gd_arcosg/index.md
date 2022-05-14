@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Colin Batchelor.
 
 Repository: [UD_Scottish_Gaelic-ARCOSG](https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -153,11 +153,11 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 
 
 <ul>
-<li>This corpus contains 4402 sentences, 81266 tokens and 84885 syntactic words.</li>
+<li>This corpus contains 4739 sentences, 86089 tokens and 89958 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5179 tokens (6%) that are not followed by a space.</li>
+<li>This corpus contains 5200 tokens (6%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -165,12 +165,12 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 </ul>
 
 <ul>
-<li>This corpus contains 1212 types of words that contain both letters and punctuation. Examples: a', a’, 's, [Name], a-mach, b', 'n, ars’, bh', co-dhiubh, [Placename], a-steach, th', a-staigh, a's, h-uile, ’s, an-diugh, ma-thà, ars', a-rithist, dh’fhalbh, 'dol, d’, h-Alba, a-null, a-nis, ge-tà, 'm, ‘s, h-eileanan, a-nuas, a-sin, 'g, 'ic, a-rèir, a-muigh, a-nise, an-dràsda, a-seo, co-dhiù, dh’Alba, dh’fhàg, ‘n, a-nall, b’, d', taobh-sa, h-Astràilianaich, a-màireach</li>
+<li>This corpus contains 1242 types of words that contain both letters and punctuation. Examples: a', 's, a’, [Name], a-mach, b', 'n, ars’, a-steach, bh', co-dhiubh, th', a-staigh, a's, [Placename], h-uile, ’s, ma-thà, an-diugh, a-rithist, ars', dh’fhalbh, 'dol, a-null, d’, a-nis, h-Alba, a-nuas, ge-tà, 'm, h-eileanan, a-muigh, ‘s, a-nise, 'g, a-sin, taobh-sa, a-nall, a-rèir, 'ic, dh’Alba, an-dràsda, h-Astràilianaich, a-seo, dh’fhàg, co-dhiù, ‘n, b’, d', dh’fheuch</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3586 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
-<li>There are 225 types of multi-word tokens. Examples: ann, aca, air, aige, ga, dhan, agad, dha, 'se, ris, 'na, orra, leatha, 'ga, againn, dhaibh, san, na, sa, dhiubh, agam, se, dhen, 'sa, a'm, riutha, leis, 'san, aice, bhon, dhut, dhomh, mun, roimhe, dhuinn, às, oirre, den, dheth, dhi, leotha, agaibh, don, fodha, gan, ort, dhuibh, orm, dhe, rium.</li>
+<li>This corpus contains 3835 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>There are 230 types of multi-word tokens. Examples: ann, aca, air, ga, aige, dhan, 'se, dha, agad, leatha, ris, 'na, 'ga, orra, againn, dhaibh, na, san, dhen, sa, agam, dhiubh, se, 'sa, a'm, riutha, leis, 'san, aice, bhon, dhuinn, oirre, dhomh, dhut, mun, roimhe, às, agaibh, den, dheth, gan, dhi, leotha, dhe, dhuibh, don, fodha, ort, rium, orm.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -186,7 +186,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 </ul>
 
 <ul>
-<li>This corpus contains 80 lemmas tagged as pronouns (PRON): 'd, a, a-chèile, a-seo, a-sin, a-siud, aige, an, ann, aon, ar, b'e, bith, brith, bè, c'à, car, carson, ceithir, cia, ciamar, co, cuin, cuin', cuine, cà, cà', càil, càit, càit', càite, cáit, cèile, céile, cò, có, dhà, diamar, do, dà, dè, dé, e, fein, fèin, féin, gar, ge, gu, i, iad, mar, mheud, mi, mis', mo, péin, sean, seo, seothach, shean, shin, sib', sibh, sibh-se, sin, sineach, sinn, siod, siodach, siud, siudach, son, thu, thus', trì, ur, àsan, è, ì</li>
+<li>This corpus contains 81 lemmas tagged as pronouns (PRON): 'd, 'n, a, a-chèile, a-seo, a-sin, a-siud, aige, an, ann, aon, ar, b'e, bith, brith, bè, c'à, car, carson, ceithir, cia, ciamar, co, cuin, cuin', cuine, cà, cà', càil, càit, càit', càite, cáit, cèile, céile, cò, có, dhà, diamar, do, dà, dè, dé, e, fein, fèin, féin, gar, ge, gu, i, iad, mar, mheud, mi, mis', mo, péin, sean, seo, seothach, shean, shin, sib', sibh, sibh-se, sin, sineach, sinn, siod, siodach, siud, siudach, son, thu, thus', trì, ur, àsan, è, ì</li>
 </ul>
 
 <ul>
@@ -211,7 +211,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Inf
   <ul>
-    <li>NOUN: bhith, chur, dhèanamh, thoirt, dhol, cur, feuchainn, ràdh, thogail, toirt</li>
+    <li>NOUN: bhith, chur, dhèanamh, thoirt, dhol, feuchainn, cur, ràdh, toirt, thogail</li>
   </ul>
   </li>
 </ul>
@@ -219,7 +219,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Vnoun
   <ul>
-    <li>NOUN: dol, ràdh, tighinn, cur, iarraidh, faighinn, dèanamh, feuchainn, coimhead, ruith</li>
+    <li>NOUN: dol, ràdh, tighinn, feuchainn, iarraidh, faighinn, cur, dèanamh, coimhead, ruith</li>
   </ul>
   </li>
 </ul>
@@ -234,11 +234,11 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: eile, mhòr, ùr, shaor, àrd, bheag, mhath, mhór, beaga, Buidhe</li>
+      <li>ADJ: eile, mhòr, ùr, àrd, shaor, mhath, bheag, mhór, beaga, Buidhe</li>
       <li>DET: na, an, a’, a, a', 'n, nan, nam, ‘n, am</li>
-      <li>NOUN: bliadhna, bhliadhna, cuid, Gàidhlig, obair, aghaidh, buille, dòigh, leithid, tè</li>
+      <li>NOUN: bliadhna, buille, bhliadhna, obair, cuid, Gàidhlig, tè, aghaidh, dòigh, leithid</li>
       <li>PRON: i, a, ise, h-i, h-ì</li>
-      <li>PROPN: [Name], Màiri, Anna, Mairearad, Inis, Catrìona, Mo, Sarah, Ann, Brìde</li>
+      <li>PROPN: [Name], Màiri, Anna, Mairearad, Inis, Catrìona, Ann, Mo, Sarah, Belle</li>
     </ul>
   </li>
 </ul>
@@ -248,9 +248,9 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
     <ul>
       <li>ADJ: eile, beag, ùr, mòr, math, mór, òg, dubh, ghoirid, ùra</li>
       <li>DET: an, na, a’, a, am, nan, a', 'n, nam, 'm</li>
-      <li>NOUN: duine, fear, fhios, taobh, rud, latha, àite, daoine, taigh, riaghaltas</li>
+      <li>NOUN: duine, fear, fhios, taobh, rud, daoine, latha, àite, taigh, leth</li>
       <li>PRON: e, esan, a, h-e, ise, è, aige, mise, sinne</li>
-      <li>PROPN: [Name], Iain, Dòmhnall, Tormod, Alasdair, Aonghais, Garaidh, Labhruinn, lain, Dhòmhnaill</li>
+      <li>PROPN: [Name], Iain, Dòmhnall, Tormod, Mhurchaidh, Alasdair, Aonghais, Garaidh, Labhruinn, lain</li>
     </ul>
   </li>
 </ul>
@@ -275,8 +275,8 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
     <ul>
       <li>ADJ: eile, ùra, beaga, mòra, móra, dùthchail, annasach, làidir, Èireannach, ionadail</li>
       <li>DET: na, nan, an, nam, am, ar, ur, ’n, 'n, 'm</li>
-      <li>NOUN: daoine, dhaoine, rudan, cluicheadairean, beathaichean, h-eileanan, h-Astràilianaich, bliadhnaichean, eilean, mionaidean</li>
-      <li>PRON: iad, sinn, sibh, an, iadsan, sinne, ar, sibhse, àsan, ur</li>
+      <li>NOUN: daoine, dhaoine, cluicheadairean, rudan, h-Astràilianaich, h-eileanan, beathaichean, mionaidean, bliadhnaichean, cùisean</li>
+      <li>PRON: iad, sinn, sibh, an, iadsan, sinne, sibhse, ar, àsan, ur</li>
     </ul>
   </li>
 </ul>
@@ -284,10 +284,10 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: eile, ùr, beag, mòr, mhòr, math, ghoirid, òg, mór, àrd</li>
-      <li>DET: an, a’, a, na, a', am, 'n, mo, do, ‘n</li>
-      <li>NOUN: duine, fear, fhios, taobh, rud, latha, àite, bliadhna, taigh, bhliadhna</li>
-      <li>PRON: e, i, mi, a, thu, esan, ise, mise, tu, thusa</li>
+      <li>ADJ: eile, ùr, beag, mhòr, mòr, math, àrd, ghoirid, òg, mór</li>
+      <li>DET: an, a’, a, na, a', am, 'n, mo, do, 'm</li>
+      <li>NOUN: duine, fear, fhios, taobh, rud, latha, àite, bliadhna, buille, taigh</li>
+      <li>PRON: e, i, mi, a, thu, esan, mise, ise, tu, thusa</li>
     </ul>
   </li>
 </ul>
@@ -300,7 +300,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
   <li>Dat
     <ul>
       <li>ADJ: eile, ùr, ghoirid, ùra, dubh, mór, móra, Albannach, Eòrpach, annasach</li>
-      <li>NOUN: taobh, àite, aghaidh, àm, leth, thaobh, dòigh, duine, bhliadhna, ceann</li>
+      <li>NOUN: taobh, àite, àm, aghaidh, leth, thaobh, duine, dòigh, ceann, bhliadhna</li>
       <li>PROPN: [Name], Dòmhnall, Iain, Dhòmhnall, Garaidh, Labhruinn, Màiri, Tormod, dh’[Name], lain</li>
     </ul>
   </li>
@@ -309,9 +309,9 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: eile, Ghlais, Buidhe, mhòir, àrd, Bhàin, ùr, Ruaidh, bhig, dùthchail</li>
+      <li>ADJ: eile, Ghlais, àrd, Buidhe, mhòir, Bhàin, ùr, Ruaidh, bhig, dùthchail</li>
       <li>DET: na, an, a’, nan, a', nam, am, a</li>
-      <li>NOUN: bliadhna, Gàidhlig, latha, pàirce, obrach, taighe, dùthcha, pàrlamaid, Gaidhealtachd, airgid</li>
+      <li>NOUN: bliadhna, Gàidhlig, pàirce, latha, obrach, taighe, dùthcha, dìon, pàrlamaid, Gaidhealtachd</li>
       <li>PROPN: [Name], Iain, Dhòmhnaill, Sheumais, lain, Dhonnchaidh, Brìde, Lachlainn, Mairearaid, Ràghaill</li>
     </ul>
   </li>
@@ -320,9 +320,9 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: eile, ùr, beag, mòr, mhòr, math, òg, shaor, mòra, mór</li>
-      <li>NOUN: fhios, fear, duine, rud, daoine, latha, ball, rìgh, bliadhna, buille</li>
-      <li>PROPN: [Name], Iain, Dòmhnall, Màiri, Tormod, Alasdair, Anna, Eachann, Garaidh, Labhruinn</li>
+      <li>ADJ: eile, ùr, beag, mhòr, mòr, math, shaor, àrd, òg, mòra</li>
+      <li>NOUN: fhios, fear, duine, rud, daoine, ball, latha, buille, bliadhna, taobh</li>
+      <li>PROPN: [Name], Iain, Dòmhnall, Màiri, Tormod, Alasdair, Anna, Eachann, Garaidh, Murchadh</li>
     </ul>
   </li>
 </ul>
@@ -332,7 +332,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
     <ul>
       <li>ADJ: dhuibh, bhochd, òig</li>
       <li>NOUN: dhuine, 'ille, Rìgh, ghràidh, 'illean, bhalaich, ghràidhein, 'ill', bheadragain, bhròinein</li>
-      <li>PROPN: [Name], Aonghais, Mhurchaidh, Raghnaill, Dhòmhnaill, Iain, Choinnich, Sheonaidh, Sheonag, Tonaidh</li>
+      <li>PROPN: [Name], Mhurchaidh, Aonghais, Iain, Raghnaill, Dhòmhnaill, Anna, Choinnich, Sheonaidh, Ann</li>
     </ul>
   </li>
 </ul>
@@ -345,7 +345,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Def
     <ul>
-      <li>DET: an, na, a’, a', am, nan, 'n, nam, ‘n, 'm</li>
+      <li>DET: an, na, a’, a', am, nan, 'n, nam, 'm, ‘n</li>
     </ul>
   </li>
 </ul>
@@ -360,7 +360,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Cmp,Sup
     <ul>
-      <li>ADJ: fhearr, fhaide, fheàrr, motha, lugha, mhotha, tràithe, àirde, shine, luaithe</li>
+      <li>ADJ: fhearr, fhaide, fheàrr, motha, mhotha, lugha, tràithe, àirde, luaithe, shine</li>
       <li>ADV: tràithe</li>
     </ul>
   </li>
@@ -399,7 +399,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB: bhiodh, biodh, faigheadh, rachadh, dh’fhaodadh, thigeadh, dhèanadh, bheireadh, canadh, dh’fheumadh</li>
+      <li>VERB: bhiodh, biodh, faigheadh, dh’fhaodadh, rachadh, dhèanadh, thigeadh, dèanadh, bheireadh, canadh</li>
     </ul>
   </li>
 </ul>
@@ -427,7 +427,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Fut
     <ul>
-      <li>VERB: bidh, feumaidh, bhios, bi, thèid, gheibh, tèid, bheir, nì, bhi</li>
+      <li>VERB: bidh, feumaidh, bhios, bi, gheibh, thèid, tèid, nì, faodaidh, bheir</li>
     </ul>
   </li>
 </ul>
@@ -437,7 +437,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
     <ul>
       <li>AUX: b', bu, b’</li>
       <li>PART: do, d’, d'</li>
-      <li>VERB: bha, robh, chaidh, thuirt, ars’, chuir, fhuair, bh', thàinig, rinn</li>
+      <li>VERB: bha, robh, chaidh, fhuair, thuirt, ars’, chuir, thàinig, bh', rinn</li>
     </ul>
   </li>
 </ul>
@@ -445,7 +445,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: 's, is, gur, as, chan, nach, an, ‘s, cha, gun</li>
+      <li>AUX: 's, is, gur, as, chan, nach, an, cha, ‘s, gun</li>
       <li>PART: cha</li>
       <li>VERB: tha, eil, bheil, th', thà, th’, 'eil, thathar, thathas, 'l</li>
     </ul>
@@ -464,7 +464,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Art
     <ul>
-      <li>DET: an, na, a’, a', am, nan, 'n, nam, ‘n, 'm</li>
+      <li>DET: an, na, a’, a', am, nan, 'n, nam, 'm, ‘n</li>
     </ul>
   </li>
 </ul>
@@ -521,7 +521,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>0
     <ul>
-      <li>VERB: rinneadh, thugadh, chuireadh, thathar, thathas, dh'fhaoidte, faodar, fhuaras, rugadh, bhathar</li>
+      <li>VERB: rinneadh, thathar, thugadh, chuireadh, thathas, dh'fhaoidte, faodar, feumar, fhuaras, rugadh</li>
     </ul>
   </li>
 </ul>
@@ -531,7 +531,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
     <ul>
       <li>DET: mo, ar, m', m’, ’r</li>
       <li>PRON: mi, sinn, mise, sinne, mo, ar, mis', mis’, àsan</li>
-      <li>VERB: chanainn, rachainn, bhithinn, bithinn, bhiomaid, dh’aontaichinn, faigheamaid, faighinn, Bitheamaid, Cuimhnicheamaid</li>
+      <li>VERB: chanainn, rachainn, bhithinn, bithinn, bhiomaid, chanain-sa, dh’aontaichinn, faigheamaid, faighinn, Bitheamaid</li>
     </ul>
   </li>
 </ul>
@@ -571,7 +571,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
           <li>CCONJ: so</li>
           <li>DET: the</li>
           <li>INTJ: Well, okay, right, so, no, really, sorry, thanks</li>
-          <li>NOUN: tug-of-war, Shir, contract, Radio, council, point, terrorists, tribunal, van, Connections</li>
+          <li>NOUN: tug-of-war, Shir, contract, vet, Radio, council, point, terrorists, tribunal, van</li>
           <li>NUM: and, eighteen, eighty, fifty, five, forty-thousand, hundred, nineteen, ninety, one</li>
           <li>PROPN: Sir, Dad, the, Airways, Apprentice, Aquaculture, Backpackers, Boys, British, Bus</li>
           <li>VERB: dhifferentiates, sublet, test</li>
@@ -588,7 +588,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
       <li>Emp
         <ul>
           <li>ADP: shon-sa, dheidhinn-sa</li>
-          <li>NOUN: taobh-sa, bheachd-sa, bheachd-san, bliadhna-sa, leughadh-ne, ìre-sa, aobhar-sa, athair-san, bhràithrean-sa, bhàta-sa</li>
+          <li>NOUN: taobh-sa, bheachd-sa, ìre-sa, bheachd-san, bliadhna-sa, leughadh-ne, aobhar-sa, athair-san, bhràithrean-sa, bhàta-sa</li>
           <li>PRON: esan, mise, ise, thusa, iadsan, sinne, sibhse, tusa, àsan, mis'</li>
           <li>VERB: cumail-san</li>
         </ul>
@@ -617,7 +617,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
       </li>
       <li>Inf
         <ul>
-          <li>PART: a, 'ic</li>
+          <li>PART: a, 'ic, a'</li>
         </ul>
       </li>
       <li>Num
@@ -675,11 +675,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (85)</li>
+      <li>VERB--NOUN (87)</li>
       <li>VERB--NOUN-Dat (12)</li>
+      <li>VERB--NOUN-Dat-ADP(air) (2)</li>
       <li>VERB--NOUN-Gen (3)</li>
-      <li>VERB--NOUN-Nom (2434)</li>
-      <li>VERB--PRON (3874)</li>
+      <li>VERB--NOUN-Nom (2524)</li>
+      <li>VERB--PRON (4117)</li>
     </ul>
   </li>
 </ul>
@@ -687,10 +688,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (27)</li>
+      <li>VERB--NOUN (30)</li>
       <li>VERB--NOUN-Dat (4)</li>
-      <li>VERB--NOUN-Nom (797)</li>
-      <li>VERB--PRON (313)</li>
+      <li>VERB--NOUN-Nom (834)</li>
+      <li>VERB--PRON (344)</li>
     </ul>
   </li>
 </ul>

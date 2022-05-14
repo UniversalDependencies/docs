@@ -22,14 +22,14 @@ The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 advmod:emph	color:blue
-1	Bau	bau	NOUN	NSD	Number=Sing	0	root	_	MorphInd=^bau<n>_NSD$
-2	apa	apa	ADV	W--	PronType=Int	1	advmod	_	MorphInd=^apa<w>_W--$
-3	kah	kah	PART	T--	_	2	advmod:emph	_	MorphInd=^kah<t>_T--$
-4	yang	yang	PRON	S--	PronType=Rel	5	nsubj:pass	_	MorphInd=^yang<s>_S--$
-5	tercium	cium	VERB	VSP	Mood=Ind|Voice=Pass	1	acl:relcl	_	MorphInd=^ter+cium<v>_VSP$
-6	oleh	oleh	ADP	R--	_	7	case	_	MorphInd=^oleh<r>_R--$
-7	ku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	5	obl	_	MorphInd=^aku<p>_PS1$
-8	?	?	PUNCT	Z--	_	1	punct	_	MorphInd=^?<z>_Z--$
+1	Bau	bau	NOUN	NSD	Number=Sing	0	root	_	Morf=^bau<n>_NSD$
+2	apa	apa	ADV	W--	PronType=Int	1	advmod	_	Morf=^apa<w>_W--$
+3	kah	kah	PART	T--	_	2	advmod:emph	_	Morf=^kah<t>_T--$
+4	yang	yang	PRON	S--	PronType=Rel	5	nsubj:pass	_	Morf=^yang<s>_S--$
+5	tercium	cium	VERB	VSP	Mood=Ind|Voice=Pass	1	acl:relcl	_	Morf=^ter+cium<v>_VSP$
+6	oleh	oleh	ADP	R--	_	7	case	_	Morf=^oleh<r>_R--$
+7	ku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	5	obl	_	Morf=^aku<p>_PS1$
+8	?	?	PUNCT	Z--	_	1	punct	_	Morf=^?<z>_Z--$
 
 ~~~
 
@@ -40,15 +40,15 @@ The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 advmod:emph	color:blue
-1	Berpaling	paling	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	MorphInd=^ber+paling<v>_VSA$
-2	kah	kah	PART	T--	_	1	advmod:emph	_	MorphInd=^kah<t>_T--$
-3	engkau	engkau	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	1	nsubj	_	MorphInd=^engkau<p>_PS2$
-4	dari	dari	ADP	R--	_	5	case	_	MorphInd=^dari<r>_R--$
-5	kepercayaan	percaya	NOUN	NSD	Number=Sing	1	obl	_	MorphInd=^ke+percaya<v>+an_NSD$
-6	dan	dan	CCONJ	H--	_	7	cc	_	MorphInd=^dan<h>_H--$
-7	persembahan	sembah	NOUN	NSD	Number=Sing	5	conj	_	MorphInd=^per+sembah<v>+an_NSD$
-8	ku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	7	nmod:poss	_	MorphInd=^aku<p>_PS1$
-9	?	?	PUNCT	Z--	_	1	punct	_	MorphInd=^?<z>_Z--$
+1	Berpaling	paling	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^ber+paling<v>_VSA$
+2	kah	kah	PART	T--	_	1	advmod:emph	_	Morf=^kah<t>_T--$
+3	engkau	engkau	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	1	nsubj	_	Morf=^engkau<p>_PS2$
+4	dari	dari	ADP	R--	_	5	case	_	Morf=^dari<r>_R--$
+5	kepercayaan	percaya	NOUN	NSD	Number=Sing	1	obl	_	Morf=^ke+percaya<v>+an_NSD$
+6	dan	dan	CCONJ	H--	_	7	cc	_	Morf=^dan<h>_H--$
+7	persembahan	sembah	NOUN	NSD	Number=Sing	5	conj	_	Morf=^per+sembah<v>+an_NSD$
+8	ku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	7	nmod:poss	_	Morf=^aku<p>_PS1$
+9	?	?	PUNCT	Z--	_	1	punct	_	Morf=^?<z>_Z--$
 
 ~~~
 
@@ -59,13 +59,13 @@ The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 advmod:emph	color:blue
-1	Apa	apa	PRON	W--	PronType=Int	0	root	_	MorphInd=^apa<w>_W--$
-2	kah	kah	PART	T--	_	1	advmod:emph	_	MorphInd=^kah<t>_T--$
-3	yang	yang	PRON	S--	PronType=Rel	5	nsubj:pass	_	MorphInd=^yang<s>_S--$
-4	akan	akan	AUX	M--	_	5	aux	_	MorphInd=^akan<m>_M--$
-5	terjadi	terjadi	VERB	VSP	Mood=Ind|Voice=Pass	1	acl:relcl	_	MorphInd=^terjadi<v>_VSP$
-6	selanjutnya	selanjutnya	ADJ	D--	_	5	amod	_	SpaceAfter=No|MorphInd=^selanjutnya<d>_D--$
-7	?	?	PUNCT	Z--	_	1	punct	_	MorphInd=^?<z>_Z--$
+1	Apa	apa	PRON	W--	PronType=Int	0	root	_	Morf=^apa<w>_W--$
+2	kah	kah	PART	T--	_	1	advmod:emph	_	Morf=^kah<t>_T--$
+3	yang	yang	PRON	S--	PronType=Rel	5	nsubj:pass	_	Morf=^yang<s>_S--$
+4	akan	akan	AUX	M--	_	5	aux	_	Morf=^akan<m>_M--$
+5	terjadi	terjadi	VERB	VSP	Mood=Ind|Voice=Pass	1	acl:relcl	_	Morf=^terjadi<v>_VSP$
+6	selanjutnya	selanjutnya	ADJ	D--	_	5	amod	_	SpaceAfter=No|Morf=^selanjutnya<d>_D--$
+7	?	?	PUNCT	Z--	_	1	punct	_	Morf=^?<z>_Z--$
 
 ~~~
 

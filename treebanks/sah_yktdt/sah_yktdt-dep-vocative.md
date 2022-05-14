@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (1%) are attached to their parents as `vocative`.
+2 nodes (0%) are attached to their parents as `vocative`.
 
 2 instances of `vocative` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 4.
@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 vocative	color:blue
-1	Айаана	Айаана	PROPN	propn	_	6	vocative	_	_
+1	Айаана	Айаана	PROPN	propn	Case=Nom|Number=Sing	6	vocative	_	_
 2	уонна	уонна	CCONJ	cconj	_	3	cc	_	_
-3	Сайаана	Сайаана	PROPN	propn	_	1	conj	_	SpaceAfter=No
+3	Сайаана	Сайаана	PROPN	propn	Case=Nom|Number=Sing	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	манна	манна	ADV	adv	_	6	advmod	_	_
 6	кэлиҥ	кэл	VERB	v	Mood=Imp|Number=Plur|Person=2|Tense=Pres	0	root	_	SpaceAfter=No

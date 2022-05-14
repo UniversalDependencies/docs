@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-375 nodes (6%) are attached to their parents as `advmod`.
+376 nodes (6%) are attached to their parents as `advmod`.
 
-295 instances of `advmod` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.4.
+295 instances of `advmod` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.39627659574468.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (238; 63% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (86; 23% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (35; 9% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (239; 64% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (86; 23% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (35; 9% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

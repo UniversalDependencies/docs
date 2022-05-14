@@ -21,7 +21,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="ro_rrt-pos-PROPN.ht
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (59; 100% of non-empty `Foreign`): <em>Act, Albion, Award, Awards, Beauty, Book, Boyer, Breisgau, Bromwich, Carlo</em>
-* `EMPTY` (5827): <em>România, Winston, României, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien</em>
+* `EMPTY` (5830): <em>România, Winston, României, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (59) occur only with one value of `Foreign`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (22; 100% of non-empty `Foreign`): <em>of, Flag, goldies, mail, Corner, Design, Deum, End, Forum, Play</em>
-* `EMPTY` (54246): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
+* `EMPTY` (54248): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (19) occur only with one value of `Foreign`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>Dance, Felin, Industrial, admirari, normal, poetica</em>
-* `EMPTY` (15285): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
+* `EMPTY` (15292): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
 
 ### `ADP`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>de</em>
-* `EMPTY` (30625): <em>de, în, la, cu, din, pe, pentru, prin, după, într-</em>
+* `EMPTY` (30624): <em>de, în, la, cu, din, pe, pentru, prin, după, într-</em>
 
 ### `NUM`
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Face</em>
-* `EMPTY` (23013): <em>poate, trebuie, pot, putea, avea, are, face, avut, prevăzute, era</em>
+* `EMPTY` (22998): <em>poate, trebuie, pot, putea, avea, are, face, avut, prevăzute, era</em>
 
 ## Relations with Agreement in `Foreign`
 

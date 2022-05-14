@@ -24,5 +24,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (2095; 33% of non-empty `Definite`): <em>bu, her, o, şu, herhangi</em>
 * `Ind` (4169; 67% of non-empty `Definite`): <em>bir, bazı, birkaç, BİR, Bİr, birçok, hedef</em>
-* `EMPTY` (519): <em>birçok, tüm, hiçbir, çok, Bir, o</em>
+* `EMPTY` (517): <em>birçok, tüm, hiçbir, çok, Bir, o</em>
 

@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="ro_rrt-pos-DET.h
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 4.022222 (the average of all parts of speech is 1.814733).
+The form / lemma ratio of `DET` is 4.022222 (the average of all parts of speech is 1.814400).
 
 The 1st highest number of forms (11) was observed with the lemma “acesta”: <em>-aceasta, -astea, aceasta, acesta, acestea, acestora, aiasta, asta, astea, ăsta, ăștia</em>.
 

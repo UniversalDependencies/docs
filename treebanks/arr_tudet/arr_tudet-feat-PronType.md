@@ -11,7 +11,7 @@ It occurs with 3 different values: `Dem`, `Emp`, `Prs`.
 
 265 tokens (11%) have a non-empty value of `PronType`.
 28 types (4%) occur at least once with a non-empty value of `PronType`.
-12 lemmas (10%) occur at least once with a non-empty value of `PronType`.
+17 lemmas (4%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (254; 11% instances), <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> (3; 0% instances).
 
 ### `PRON`
@@ -29,10 +29,12 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>at</i></th><th><tt>Prs</tt></th><th><tt>Emp</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>at</em></td><td></td></tr>
+  <tr><td><tt>_</tt></td><td><em>at, toat</em></td><td></td></tr>
   <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>at</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>at, ar</em></td><td><em>at</em></td></tr>
+  <tr><td><tt><tt><a href="arr_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="arr_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>at, ar, [ar, [at</em></td><td><em>at</em></td></tr>
 </table>
+
+`PronType` seems to be **lexical feature** of `PRON`. 94% lemmas (15) occur only with one value of `PronType`.
 
 ### `ADP`
 
@@ -42,7 +44,7 @@ The most frequent other feature values with which `ADP` and `PronType` co-occurr
 
 `ADP` tokens may have the following values of `PronType`:
 
-* `Emp` (8; 100% of non-empty `PronType`): <em>tokõna, okõna, garo=kõna, rokõna</em>
+* `Emp` (8; 100% of non-empty `PronType`): <em>tokõna, okõna, garokõna, rokõna</em>
 * `EMPTY` (75): <em>peʔ, kəy, okəy, aʔkəy, okõna, tokõna, ʔerem, ekəy, mã, pihmãm</em>
 
 ### `PART`

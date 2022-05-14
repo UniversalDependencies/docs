@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (287; 100% of non-empty `Abbr`): <em>г., х., де, алт., гсдрю, гсдрни, гсдрь, с., кнзь, кнзю</em>
-* `EMPTY` (7236): <em>государю, государя, государь, году, день, людей, указу, денги, земли, челом</em>
+* `EMPTY` (7395): <em>государь, государю, государя, году, день, людей, указу, денги, земли, челом</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (32; 100% of non-empty `Abbr`): <em>т., с., вши, вших</em>
-* `EMPTY` (1814): <em>твой, сей, мои, то, тѣхъ, тѣ, всѣхъ, того, твоему, всꙗ</em>
+* `EMPTY` (1862): <em>твой, сей, мои, то, тѣхъ, тѣ, всѣхъ, того, твоему, всꙗ</em>
 
 ### `ADJ`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>бжиі, бжия, др, гсдрвыми</em>
-* `EMPTY` (3156): <em>великого, великому, государева, великихъ, приказной, прошломъ, стрѣлецкіе, великомꙋ, земскимъ, 206</em>
+* `EMPTY` (3221): <em>великого, великому, государева, великихъ, приказной, государеву, прошломъ, стрѣлецкіе, великомꙋ, земскимъ</em>
 
 ### `ADV`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>отннѣ</em>
-* `EMPTY` (687): <em>тако, как, гдѣ, нн҃ѣ, какъ, тогда, здѣ, нынѣ, всегда, ныне</em>
+* `EMPTY` (692): <em>тако, как, гдѣ, какъ, нн҃ѣ, тогда, здѣ, нынѣ, всегда, ныне</em>
 
 ## Relations with Agreement in `Abbr`
 

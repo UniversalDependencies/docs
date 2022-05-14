@@ -23,11 +23,11 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 6 ccomp	color:blue
 1	péŋ	péŋ	NOUN	n	_	6	nsubj	_	_
-2	ʔet	_	AUX	aux	Decl=Assert	3	aux	_	_
+2	ʔet	ʔe	AUX	aux	Decl=Assert	3	aux	_	_
 3	topə	topə	PART	part	Evident=Fh	0	root	_	_
-4	toat	_	PRON	pron	PronType=Prs	5	nmod	_	_
-5	macaʔɨt	_	NOUN	n	_	6	obj	_	_
-6	wĩa	_	VERB	v	VerbForm=Ger	3	ccomp	_	_
+4	toat	at	PRON	pron	PronType=Prs	5	nmod	_	_
+5	macaʔɨt	macaʔɨt	NOUN	n	_	6	obj	_	_
+6	wĩa	wĩ	VERB	v	VerbForm=Ger	3	ccomp	_	_
 
 ~~~
 
@@ -38,11 +38,11 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 ccomp	color:blue
-1	maʔwɨt	_	NOUN	n	_	3	nmod	_	_
+1	maʔwɨt	maʔwɨt	NOUN	n	_	3	nmod	_	_
 2	at	at	PART	part	_	1	case	_	_
-3	kaʔa	_	NOUN	n	_	0	root	_	_
+3	kaʔa	kaʔa	NOUN	n	_	0	root	_	_
 4	õn	õn	PART	part	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
-5	itop	_	VERB	v	Decl=AssertFoc|Person=3Imp	3	ccomp	_	_
+5	itop	top	VERB	v	Decl=AssertFoc|Person=3Imp	3	ccomp	_	_
 
 ~~~
 
@@ -53,10 +53,10 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 ccomp	color:blue
-1	[ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	_	_
-2	iʔke]	_	PART	part	_	1	advmod	_	_
+1	[ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	_	_
+2	iʔke]	iʔke	PART	part	_	1	advmod	_	_
 3	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-4	icát	_	VERB	v	Person=3Imp	1	ccomp	_	_
+4	icát	cát	VERB	v	Person=3Imp	1	ccomp	_	_
 
 ~~~
 

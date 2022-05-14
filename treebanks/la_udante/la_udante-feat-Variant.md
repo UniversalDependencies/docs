@@ -9,32 +9,32 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Greek`.
 
-17 tokens (0%) have a non-empty value of `Variant`.
-16 types (0%) occur at least once with a non-empty value of `Variant`.
-16 lemmas (0%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 3 part-of-speech tags: <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+20 tokens (0%) have a non-empty value of `Variant`.
+18 types (0%) occur at least once with a non-empty value of `Variant`.
+18 lemmas (0%) occur at least once with a non-empty value of `Variant`.
+The feature is used with 3 part-of-speech tags: <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `PROPN`
 
-10 <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Variant`.
+11 <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PROPN` and `Variant` co-occurred: <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 90%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (7; 70%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt> (6; 60%).
+The most frequent other feature values with which `PROPN` and `Variant` co-occurred: <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 91%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7; 64%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (7; 64%).
 
 `PROPN` tokens may have the following values of `Variant`:
 
-* `Greek` (10; 100% of non-empty `Variant`): <em>Andromache, Lethen, Leucothoen, Libies, Paralipomenon, Pirenen, Semeles, Sexton, Tityron, peana</em>
+* `Greek` (11; 100% of non-empty `Variant`): <em>Andromache, Caucason, Lethen, Leucothoen, Libies, Paralipomenon, Pirenen, Semeles, Sexton, Tityron</em>
 
-`Variant` seems to be **lexical feature** of `PROPN`. 100% lemmas (10) occur only with one value of `Variant`.
+`Variant` seems to be **lexical feature** of `PROPN`. 100% lemmas (11) occur only with one value of `Variant`.
 
 ### `NOUN`
 
-5 <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Variant`.
+7 <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `NOUN` and `Variant` co-occurred: <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt> (4; 80%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (3; 60%).
+The most frequent other feature values with which `NOUN` and `Variant` co-occurred: <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 100%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt> (6; 86%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt> (4; 57%).
 
 `NOUN` tokens may have the following values of `Variant`:
 
-* `Greek` (5; 100% of non-empty `Variant`): <em>melos, Abidon, delphyna, ethra</em>
+* `Greek` (7; 100% of non-empty `Variant`): <em>econ, melos, Abidon, delphyna, ethra</em>
 
 ### `ADJ`
 

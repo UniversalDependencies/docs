@@ -31,7 +31,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
 8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
 9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
-10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl	_	_
+10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl:relcl	_	_
 11	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	obj	_	Orig=ⲟⲩ`
 12	ϩⲛ	ϩⲛ	ADP	PREP	_	14	case	_	Orig=ϩ︤ⲛ︥
 13	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(place

@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 9 different values: `Com`, `Geo`, `Giv`, `Oth`, `Patrn`, `Pro`, `Prs`, `Sur`, `Zoo`.
 
-4445 tokens (2%) have a non-empty value of `NameType`.
-2619 types (7%) occur at least once with a non-empty value of `NameType`.
-2047 lemmas (10%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (4445; 2% instances).
+4444 tokens (2%) have a non-empty value of `NameType`.
+2618 types (7%) occur at least once with a non-empty value of `NameType`.
+2046 lemmas (10%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (4444; 2% instances).
 
 ### `PROPN`
 
-4445 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
+4444 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3717; 84%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2407; 54%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3716; 84%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2406; 54%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
-* `Com` (615; 14% of non-empty `NameType`): <em>@yabloko, ЛДПР, парнас, яблоко, кпрф, @YouTube, Наука, ЕР, Госдумы, вк</em>
+* `Com` (614; 14% of non-empty `NameType`): <em>@yabloko, ЛДПР, парнас, яблоко, кпрф, @YouTube, Наука, ЕР, Госдумы, вк</em>
 * `Geo` (1390; 31% of non-empty `NameType`): <em>россии, сша, Россия, сочи, СССР, Москве, РФ, Убейд, москвы, М.</em>
 * `Giv` (851; 19% of non-empty `NameType`): <em>Ирина, Генрих, Катя, Петя, александр, Елена, Женя, Надя, андрей, А.</em>
 * `Oth` (60; 1% of non-empty `NameType`): <em>E, М, Стереолето, Хаджи-Мухаммед, инете, 0А, АА, АВ, Гелиодор, Н-209</em>
@@ -37,7 +37,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
   <tr><td><tt></tt></td><td><em>И.</em></td><td><em>И.</em></td><td><em>И.</em></td></tr>
 </table>
 
-`NameType` seems to be **lexical feature** of `PROPN`. 98% lemmas (2003) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `PROPN`. 98% lemmas (2002) occur only with one value of `NameType`.
 
 ## Relations with Agreement in `NameType`
 
@@ -50,6 +50,5 @@ The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="ru_taiga-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (6; 100%),
 <tt>PROPN --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (6; 75%),
 <tt>PROPN --[<tt><a href="ru_taiga-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (3; 60%),
-<tt>PROPN --[<tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt>]--> PROPN</tt> (1; 100%),
-<tt>PROPN --[<tt><a href="ru_taiga-dep-goeswith.html">goeswith</a></tt>]--> PROPN</tt> (1; 100%).
+<tt>PROPN --[<tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt>]--> PROPN</tt> (1; 100%).
 

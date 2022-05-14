@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-112 nodes (5%) are attached to their parents as `conj`.
+127 nodes (5%) are attached to their parents as `conj`.
 
-112 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.13392857142857.
+127 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.55905511811024.
 
-The following 15 pairs of parts of speech are connected with `conj`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (66; 59% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (9; 8% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-X.html">X</a></tt> (7; 6% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (6; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `conj`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (71; 56% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (14; 11% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-X.html">X</a></tt> (7; 6% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (6; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -57,54 +57,36 @@ The following 15 pairs of parts of speech are connected with `conj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 41	bgColor:blue
-# visual-style 41	fgColor:white
-# visual-style 36	bgColor:blue
-# visual-style 36	fgColor:white
-# visual-style 36 41 conj	color:blue
-1	toch	doch	ADV	_	_	9	advmod	_	lemma[gml]=doch¹
-2	-	-	PUNCT	_	_	4	punct	_	_
-3	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nsubj	_	lemma[gml]=dat²
-4	sküt	sketen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	parataxis	_	lemma[gml]=schêten
-5	myn	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	4	obj	_	lemma[gml]=ik
-6	dår	dår	ADV	_	_	4	advmod	_	_
-7	in	ik	ADP	_	_	4	compound	_	lemma[gml]=in³
-8	-	-	PUNCT	_	_	4	punct	_	_
-9	kon	künnen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma[gml]=künnen
-10	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	lemma[gml]=ik
-11	ouk	ouk	ADV	_	_	9	advmod	_	lemma[gml]=ôk
-12	enkele	enkel	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	lemma[gml]=enkel¹
-13	leedtys	leedken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	lemma[gml]=lêt¹|SpaceAfter=No
-14	,	,	PUNCT	_	_	19	punct	_	_
-15	sou	sou	ADV	_	_	19	advmod	_	lemma[gml]=sô²
-16	as	as	CCONJ	_	_	19	case	_	lemma[gml]=alsô|SpaceAfter=No
-17	:	:	PUNCT	_	_	19	punct	_	_
-18	‘	‘	PUNCT	_	_	19	punct	_	SpaceAfter=No
-19	Iovivat	Iovivat	X	_	Foreign=Yes	13	appos	_	SpaceAfter=No
-20	’	’	PUNCT	_	_	19	punct	_	_
-21	en	un	CCONJ	_	_	23	cc	_	lemma[gml]=unde²
-22	‘	‘	PUNCT	_	_	23	punct	_	SpaceAfter=No
-23	Prosaluut	Prosaluut	X	_	Foreign=Yes	19	conj	_	_
-24	horum	horum	X	_	Foreign=Yes	23	flat	_	_
-25	Batavorum	Batavorum	X	_	Foreign=Yes	23	flat	_	_
-26	en	un	CCONJ	_	_	27	cc	_	lemma[gml]=unde²
-27	Amicorum	Amicorum	X	_	Foreign=Yes	23	flat	_	SpaceAfter=No
-28	’	’	PUNCT	_	_	23	punct	_	SpaceAfter=No
-29	;	;	PUNCT	_	_	31	punct	_	_
-30	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	31	nsubj	_	lemma[gml]=et¹
-31	ging	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	parataxis	_	lemma[gml]=gân
-32	altyd	altyd	ADV	_	_	31	advmod	_	lemma[gml]=al(le)tît
-33	håste	håste	ADV	_	_	31	advmod	_	lemma[gml]=hâste
-34	van	van	ADP	_	AdpType=Prep	36	case	_	lemma[gml]=van¹
-35	‘	‘	PUNCT	_	_	36	punct	_	SpaceAfter=No
-36	um	um	X	_	Foreign=Yes	31	obl	_	SpaceAfter=No
-37	’	’	PUNCT	_	_	36	punct	_	_
-38	en	en	CCONJ	_	_	41	cc	_	lemma[gml]=unde²
-39	van	van	ADP	_	AdpType=Prep	41	case	_	lemma[gml]=van¹
-40	‘	‘	PUNCT	_	_	41	punct	_	SpaceAfter=No
-41	arum	arum	X	_	Foreign=Yes	36	conj	_	SpaceAfter=No
-42	’	’	PUNCT	_	_	41	punct	_	SpaceAfter=No
-43	;	;	PUNCT	_	_	9	punct	_	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 15 conj	color:blue
+1	Vertelsel	vortelsel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	van	van	ADP	_	AdpType=Prep	4	case	_	lemma[gml]=van¹
+3	nen	en	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Case[regional]=Acc|lemma[gml]=êⁱn¹
+4	buur	buur	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	Case[regional]=Acc|lemma[gml]=bûr¹|SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	den	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	Case[regional]=Acc|lemma[gml]=dê¹
+7	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	lemma[gml]=et²
+8	harde	hard	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	lemma[gml]=hart¹
+9	werken	werken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nmod	_	lemma[gml]=werken¹
+10	möde	möde	ADJ	_	Degree=Pos	4	acl	_	lemma[gml]=mö̂de¹
+11	en	un	CCONJ	_	_	15	cc	_	lemma[gml]=unde²
+12	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	lemma[gml]=et²
+13	pap	pap	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	lemma[gml]=pap¹
+14	etten	eaten	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	nmod	_	lemma[gml]=ēten
+15	sat	sat	ADJ	_	Degree=Pos	10	conj	_	lemma[gml]=sat¹
+16	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	lemma[gml]=wēsen²|SpaceAfter=No
+17	,	,	PUNCT	_	_	23	punct	_	_
+18	en	un	CCONJ	_	_	23	cc	_	lemma[gml]=unde²
+19	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	obj	_	lemma[gml]=et¹
+20	in	in	ADP	_	AdpType=Prep	22	case	_	lemma[gml]=in²
+21	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	Case[regional]=Acc|lemma[gml]=dê¹
+22	stad	stad	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	23	obl	_	Case[regional]=Acc|lemma[gml]=stat⁴
+23	güng	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	conj	_	lemma[gml]=gân
+24	söken	söken	VERB	_	VerbForm=Inf	23	xcomp	_	lemma[gml]=sö̂ken|SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	1	advmod	_	_
 4	ⲉ	ⲉ	ADP	PREP	_	6	case	_	_
 5	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Entity=(abstract
-6	ⲙⲛⲧϫⲱⲱⲣⲉ	ⲙⲛⲧϫⲱⲱⲣⲉ	NOUN	N	_	1	obl	_	Morphs=ⲙⲛⲧ-ϫⲱⲱⲣⲉ|Orig=ⲙⲛ̄ⲧ̄ϫⲱⲱⲣⲉ
+6	ⲙⲛⲧϫⲱⲱⲣⲉ	ⲙⲛⲧϫⲱⲱⲣⲉ	NOUN	N	_	1	obl	_	MSeg=ⲙⲛⲧ-ϫⲱⲱⲣⲉ|Orig=ⲙⲛ̄ⲧ̄ϫⲱⲱⲣⲉ
 7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
 8	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(person
 9	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	6	nmod	_	_
@@ -48,14 +48,14 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	dislocated	_	Entity=(person
 2	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	_
 3	ⲛⲁ	ⲛⲁ	AUX	FUT	_	4	aux	_	_
-4	ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ	ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	1	acl	_	OrigLang=grc
+4	ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ	ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	1	acl:relcl	_	OrigLang=grc
 5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
 6	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	4	obj	_	Entity=(person
 7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
 8	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	6	nmod	_	Entity=(person
 9	ⲕⲟⲩⲓ	ⲕⲟⲩⲓ	ADJ	N	_	8	amod	_	Orig=ⲕⲟⲩⲉⲓ
 10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
-11	ⲡⲓⲥⲧⲉⲩⲉ	ⲡⲓⲥⲧⲉⲩⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	8	acl	_	OrigLang=grc
+11	ⲡⲓⲥⲧⲉⲩⲉ	ⲡⲓⲥⲧⲉⲩⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	8	acl:relcl	_	OrigLang=grc
 12	ⲉⲣⲟ	ⲉ	ADP	PREP	_	13	case	_	_
 13	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	obl	_	Entity=person)person)person)|Orig=ⲉⲓ
 14	ⲛⲁⲛⲟⲩ	ⲛⲁⲛⲟⲩ	VERB	VBD	VerbForm=Fin	0	root	_	_
@@ -102,7 +102,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 9	ⲙⲛ	ⲙⲛ	ADP	PREP	_	10	cc	_	Orig=ⲙⲛ̅
 10	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	conj	_	Entity=(person
 11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
-12	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	10	acl	_	_
+12	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	10	acl:relcl	_	_
 13	ⲛⲁ	ⲛⲁ	ADP	PREP	_	14	case	_	_
 14	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	12	obl	_	_
 15	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	12	advmod	_	_

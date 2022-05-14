@@ -9,34 +9,46 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-400 tokens (0%) have a non-empty value of `Typo`.
-380 types (1%) occur at least once with a non-empty value of `Typo`.
+396 tokens (0%) have a non-empty value of `Typo`.
+379 types (1%) occur at least once with a non-empty value of `Typo`.
 347 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 11 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (176; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (90; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (36; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (33; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (31; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fi_tdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (161; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (89; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (45; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (36; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (29; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fi_tdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-176 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+161 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (161; 91%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (136; 77%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (146; 91%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (121; 75%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (176; 100% of non-empty `Typo`): <em>n, version, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 11.krenatöörirykmentin, 1kpl, 2.5mm</em>
+* `Yes` (161; 100% of non-empty `Typo`): <em>version, %:, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 11.krenatöörirykmentin, 1kpl, 2.5mm</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (154) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (152) occur only with one value of `Typo`.
 
 ### `VERB`
 
-90 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
+89 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (76; 84%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (74; 82%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (67; 74%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (57; 63%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (57; 63%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (52; 58%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (52; 58%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (52; 58%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (75; 84%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (73; 82%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (67; 75%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (57; 64%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (57; 64%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (52; 58%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (51; 57%).
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (90; 100% of non-empty `Typo`): <em>Lisä, Itsetehdyt, Leikkkaa, Paistetu, Tidän, Viimeksimainittu, ajatunut, ajautuu, arvoimaan, asun</em>
+* `Yes` (89; 100% of non-empty `Typo`): <em>Lisä, Itsetehdyt, Leikkkaa, Paistetu, Tidän, Viimeksimainittu, ajatunut, ajautuu, arvoimaan, asun</em>
 
 `Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (80) occur only with one value of `Typo`.
+
+### `PROPN`
+
+45 <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 98%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (26; 58%).
+
+`PROPN` tokens may have the following values of `Typo`:
+
+* `Yes` (45; 100% of non-empty `Typo`): <em>EU:, EY:, Pekkka, Begia, Carnegiein, EMN, Guinnesiin, Guinnesin, Heathrow, Hohenstaufen</em>
+
+`Typo` seems to be **lexical feature** of `PROPN`. 100% lemmas (32) occur only with one value of `Typo`.
 
 ### `ADJ`
 
@@ -50,29 +62,17 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 `Typo` seems to be **lexical feature** of `ADJ`. 100% lemmas (33) occur only with one value of `Typo`.
 
-### `PROPN`
-
-33 <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 97%).
-
-`PROPN` tokens may have the following values of `Typo`:
-
-* `Yes` (33; 100% of non-empty `Typo`): <em>Pekkka, Begia, Carnegiein, EMN, Guinnesiin, Guinnesin, Hohenstaufen, Isoa-Britanniaan, Japani, Jonna</em>
-
-`Typo` seems to be **lexical feature** of `PROPN`. 100% lemmas (30) occur only with one value of `Typo`.
-
 ### `ADV`
 
-31 <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+29 <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (28; 90%).
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (26; 90%).
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (31; 100% of non-empty `Typo`): <em>Tällöinen, Vai, Yht’, eihan, ellä, enmmän, ensi, imi, kiinnit, kokonaan.</em>
+* `Yes` (29; 100% of non-empty `Typo`): <em>Tällöinen, Vai, eihan, ellä, enmmän, ensi, imi, kiinnit, kokonaan., koomin</em>
 
-`Typo` seems to be **lexical feature** of `ADV`. 100% lemmas (31) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `ADV`. 100% lemmas (29) occur only with one value of `Typo`.
 
 ### `PRON`
 
@@ -96,6 +96,16 @@ The most frequent other feature values with which `AUX` and `Typo` co-occurred: 
 
 * `Yes` (11; 100% of non-empty `Typo`): <em>ai, eivat, eivät, lie, olevaan, olisi, olleessa, olut, ovat, voisivat</em>
 
+### `NUM`
+
+4 <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="fi_tdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (3; 75%).
+
+`NUM` tokens may have the following values of `Typo`:
+
+* `Yes` (4; 100% of non-empty `Typo`): <em>2006/C, 6 000:, kahden, miljoona</em>
+
 ### `CCONJ`
 
 2 <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Typo`.
@@ -103,16 +113,6 @@ The most frequent other feature values with which `AUX` and `Typo` co-occurred: 
 `CCONJ` tokens may have the following values of `Typo`:
 
 * `Yes` (2; 100% of non-empty `Typo`): <em>jokö, van</em>
-
-### `NUM`
-
-2 <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="fi_tdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 100%).
-
-`NUM` tokens may have the following values of `Typo`:
-
-* `Yes` (2; 100% of non-empty `Typo`): <em>kahden, miljoona</em>
 
 ### `ADP`
 
@@ -135,9 +135,6 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 ## Relations with Agreement in `Typo`
 
 The 10 most frequent relations where parent and child node agree in `Typo`:
-<tt>ADV --[<tt><a href="fi_tdt-dep-goeswith.html">goeswith</a></tt>]--> ADV</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="fi_tdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>PROPN --[<tt><a href="fi_tdt-dep-goeswith.html">goeswith</a></tt>]--> PROPN</tt> (1; 100%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-goeswith.html">goeswith</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="fi_tdt-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (1; 100%).
 

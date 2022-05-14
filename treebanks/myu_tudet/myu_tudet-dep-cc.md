@@ -22,15 +22,15 @@ The following 1 pairs of parts of speech are connected with `cc`: <tt><a href="m
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 cc	color:blue
-1	taxit	daxit	NOUN	n	Rel=NCont	0	root	0:root	_
-2	mẽnpit	mẽnpit	CCONJ	cc	_	1	cc	1:cc	_
-3	ikukpin'ũm	kukpin	NOUN	n	Polarity=Neg|Rel=Cont	1	nmod	1:nmod	_
-4	osunuy	osunuy	X	x	_	3	dep	3:dep	_
-5	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	3:obl	_
-6	pe	pe	ADP	pp	_	5	case	5:case	_
-7	,	,	PUNCT	punct	_	1	punct	1:punct	_
-8	i'e'em	'e	VERB	vi	Aspect=Imp|Rel=NCont	1	dep	1:dep	_
-9	ajojoyũ'ũm'ũm	ajojo	NOUN	n	Aspect=Compl|Number=Plur	8	nsubj	8:nsubj	_
+1	taxit	daxit	NOUN	n	Rel=NCont	0	root	_	_
+2	mẽnpit	mẽnpit	CCONJ	cc	_	1	cc	_	_
+3	ikukpin'ũm	kukpin	NOUN	n	Polarity=Neg|Rel=Cont	1	nmod	_	_
+4	osunuy	osunuy	X	x	_	3	dep	_	_
+5	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	_	_
+6	pe	pe	ADP	pp	_	5	case	_	_
+7	,	,	PUNCT	punct	_	1	punct	_	_
+8	i'e'em	'e	VERB	vi	Aspect=Imp|Rel=NCont	1	dep	_	_
+9	ajojoyũ'ũm'ũm	ajojo	NOUN	n	Aspect=Compl|Number=Plur	8	nsubj	_	_
 
 ~~~
 

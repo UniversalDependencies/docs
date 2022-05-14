@@ -18,13 +18,13 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fi_ood-pos-VERB.htm
 
 1271 <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> tokens (49% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1271; 100%), <tt><a href="fi_ood-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1271; 100%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1271; 100%), <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1271; 100%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1271; 100%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1271; 100%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1052; 83%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (902; 71%), <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=3</tt> (758; 60%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1271; 100%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1271; 100%), <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1271; 100%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1271; 100%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1271; 100%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1052; 83%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (902; 71%), <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=3</tt> (758; 60%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (423; 33% of non-empty `Tense`): <em>sai, alkoi, laski, näin, tuli, nousi, meni, sain, kertoi, nukkui</em>
 * `Pres` (848; 67% of non-empty `Tense`): <em>saa, tulee, hapettuu, löytyy, laskee, menee, kertoo, tule, jatkuu, halua</em>
-* `EMPTY` (1344): <em>saanut, aloitettu, laitettu, päästy, saada, vaihdettu, käynyt, nukkunut, tehdä, lopetettu</em>
+* `EMPTY` (1342): <em>saanut, aloitettu, laitettu, päästy, saada, vaihdettu, käynyt, nukkunut, tehdä, lopetettu</em>
 
 <table>
   <tr><th>Paradigm <i>saada</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -87,7 +87,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Pres` (1; 100% of non-empty `Tense`): <em>kaivelette</em>
-* `EMPTY` (5047): <em>diureesi, hemodynamiikka, hapetus, hengitys, pulssi, aikana, omaiset, Tajunta, yövuoro, aamulla</em>
+* `EMPTY` (5046): <em>diureesi, hemodynamiikka, hapetus, hengitys, pulssi, aikana, omaiset, Tajunta, yövuoro, aamulla</em>
 
 ## Relations with Agreement in `Tense`
 

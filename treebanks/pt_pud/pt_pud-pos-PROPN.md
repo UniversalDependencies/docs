@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>Mar</em> (<tt><a href="pt_pud-pos-NOU
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.571356).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.570742).
 
 The 1st highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
 

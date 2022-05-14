@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-7843 tokens (15%) have a non-empty value of `Polarity`.
-2353 types (18%) occur at least once with a non-empty value of `Polarity`.
+7839 tokens (15%) have a non-empty value of `Polarity`.
+2351 types (18%) occur at least once with a non-empty value of `Polarity`.
 919 lemmas (13%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (4026; 8% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (3679; 7% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (138; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (4022; 8% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (3679; 7% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (138; 0% instances).
 
 ### `VERB`
 
-4026 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Polarity`.
+4022 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2246; 56%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2237; 56%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2237; 56%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (2034; 51%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2032; 50%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2242; 56%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2233; 56%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2233; 56%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (2031; 50%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2030; 50%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (328; 8% of non-empty `Polarity`): <em>չկա, չունի, չգիտես, չկար, չուներ, չկան, չպահանջվող, չգիտեինք, չունենք, չգիտեմ</em>
-* `Pos` (3698; 92% of non-empty `Polarity`): <em>ասաց, կա, լինի, նշված, ունի, կանգնած, լինել, կապված, տալ, ընկած</em>
+* `Pos` (3694; 92% of non-empty `Polarity`): <em>ասաց, կա, լինի, նշված, ունի, կանգնած, լինել, կապված, տալ, ընկած</em>
 * `EMPTY` (2723): <em>ուզում, ասում, գալիս, տալիս, անում, գնում, նայում, տեսնում, սպասում, եղել</em>
 
 <table>

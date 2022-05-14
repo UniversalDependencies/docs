@@ -12,17 +12,17 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 1556 tokens (23%) have a non-empty value of `VerbForm`.
 576 types (43%) occur at least once with a non-empty value of `VerbForm`.
 255 lemmas (26%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (965; 14% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (591; 9% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (964; 14% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (592; 9% instances).
 
 ### `VERB`
 
-965 <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+964 <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (719; 75%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (605; 63%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (604; 63%), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (581; 60%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (718; 74%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (605; 63%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (604; 63%), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (580; 60%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (360; 37% of non-empty `VerbForm`): <em>era, portava, aveva, sembrava, leggeva, gridava, pensava, amo, lascia, pensavo</em>
+* `Fin` (359; 37% of non-empty `VerbForm`): <em>era, portava, aveva, sembrava, leggeva, gridava, pensava, amo, lascia, pensavo</em>
 * `Ger` (54; 6% of non-empty `VerbForm`): <em>leggendo, portando, gridando, camminando, dicendo, facendo, GUARDANDO, ascoltando, aspettando, ballando</em>
 * `Inf` (166; 17% of non-empty `VerbForm`): <em>fare, andare, leggere, aiutar, salvare, aiutare, chiamare, avere, camminare, capire</em>
 * `Part` (385; 40% of non-empty `VerbForm`): <em>detto, visto, fatto, pensato, sentito, seduto, cominciato, andato, gridato, salvato</em>
@@ -43,13 +43,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-591 <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+592 <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (542; 92%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (541; 92%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (397; 67%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (384; 65%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (543; 92%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (542; 92%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (398; 67%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (384; 65%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (558; 94% of non-empty `VerbForm`): <em>ha, ho, era, è, sono, aveva, stava, ero, avevo, e</em>
+* `Fin` (559; 94% of non-empty `VerbForm`): <em>ha, ho, era, è, sono, aveva, stava, ero, avevo, e</em>
 * `Inf` (13; 2% of non-empty `VerbForm`): <em>essere, aver</em>
 * `Part` (20; 3% of non-empty `VerbForm`): <em>stato, stata, dovuto, potuto, stati, viuto, voluto</em>
 
@@ -75,6 +75,6 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="it_valico-dep-conj.html">conj</a></tt>]--> VERB</tt> (133; 69%),
+<tt>VERB --[<tt><a href="it_valico-dep-conj.html">conj</a></tt>]--> VERB</tt> (134; 69%),
 <tt>VERB --[<tt><a href="it_valico-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%).
 

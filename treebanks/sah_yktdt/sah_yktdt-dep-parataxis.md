@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (1%) are attached to their parents as `parataxis`.
+4 nodes (1%) are attached to their parents as `parataxis`.
 
-3 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+4 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.5.
 
-The following 1 pairs of parts of speech are connected with `parataxis`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `parataxis`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (4; 100% instances).
 
 
 ~~~ conllu

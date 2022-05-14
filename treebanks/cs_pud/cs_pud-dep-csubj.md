@@ -57,7 +57,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 11	podzemní	podzemní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	12	amod	12:amod	_
 12	dráhy	dráha	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	10	nmod	10:nmod:gen	_
 13	než	než	SCONJ	J,-------------	_	14	case	14:case	LId=než-2
-14	Madrid	Madrid	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos	9	nmod	9:nmod:než:nom	SpaceAfter=No
+14	Madrid	Madrid	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos	9	nmod	9:nmod:než	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~
@@ -71,7 +71,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 1 6 csubj	color:blue
 1	Smysl	smysl	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	0:root	_
 2	těchto	tento	DET	PDXP2----------	Case=Gen|Number=Plur|PronType=Dem	3	det	3:det	_
-3	slyšení	slyšení	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	1	nmod	1:nmod:gen	LDeriv=slyšet
+3	slyšení	slyšení	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Vnoun	1	nmod	1:nmod:gen	LDeriv=slyšet
 4	CRTC	CRTC	PROPN	NNXXX-----A---8	Abbr=Yes|NameType=Com|Polarity=Pos	3	nmod	3:nmod	_
 5	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	1:cop	_
 6	sesbírat	sesbírat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	1	csubj	1:csubj	_

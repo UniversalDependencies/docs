@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-3166 tokens (9%) have a non-empty value of `Aspect`.
-2055 types (22%) occur at least once with a non-empty value of `Aspect`.
+3170 tokens (9%) have a non-empty value of `Aspect`.
+2058 types (21%) occur at least once with a non-empty value of `Aspect`.
 1019 lemmas (21%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (3155; 9% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (11; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (3159; 9% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (11; 0% instances).
 
 ### `VERB`
 
-3155 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Aspect`.
+3159 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2726; 86%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2520; 80%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2253; 71%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1957; 62%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1949; 62%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2730; 86%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2524; 80%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2257; 71%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1957; 62%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1949; 62%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (1360; 43% of non-empty `Aspect`): <em>бьет, имати, платить, писал, сбирать, бьетъ, бью, чинить, чистить, давать</em>
+* `Imp` (1364; 43% of non-empty `Aspect`): <em>бьет, имати, платить, писал, сбирать, бьетъ, бью, чинить, чистить, давать</em>
 * `Perf` (1795; 57% of non-empty `Aspect`): <em>велѣно, велѣлъ, написано, пожалуй, пожалꙋи, послал, поколол, приложил, велеть, вели</em>
-* `EMPTY` (112): <em>есть, было, нет, бꙋдет, быть, нетъ, нѣтъ, будеть, был, бысть</em>
+* `EMPTY` (150): <em>есть, было, нет, бꙋдет, быть, нетъ, нѣтъ, будеть, был, бысть</em>
 
 <table>
   <tr><th>Paradigm <i>велѣти</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -50,7 +50,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 * `Imp` (9; 82% of non-empty `Aspect`): <em>суть, есте, быть, есьмы</em>
 * `Perf` (2; 18% of non-empty `Aspect`): <em>быхом</em>
-* `EMPTY` (296): <em>бы, есть, было, б, былъ, еси, были, есте, будет, бысть</em>
+* `EMPTY` (301): <em>бы, есть, было, б, были, былъ, еси, есте, будет, бысть</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -65,7 +65,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (705; 70%),
-<tt>VERB --[<tt><a href="orv_rnc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (176; 57%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (176; 56%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (77; 64%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (47; 53%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (26; 100%),

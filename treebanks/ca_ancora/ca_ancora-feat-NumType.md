@@ -11,7 +11,7 @@ It occurs with 3 different values: `Card`, `Frac`, `Ord`.
 
 11428 tokens (2%) have a non-empty value of `NumType`.
 2050 types (6%) occur at least once with a non-empty value of `NumType`.
-1966 lemmas (8%) occur at least once with a non-empty value of `NumType`.
+1956 lemmas (8%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (9233; 2% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1615; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (580; 0% instances).
 
 ### `NUM`
@@ -31,7 +31,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
   <tr><td><tt></tt></td><td><em>1,1</em></td><td><em>1,1</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1683) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1673) occur only with one value of `NumType`.
 
 ### `ADJ`
 

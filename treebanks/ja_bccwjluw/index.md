@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Masayuki Asahara, Yusuke Miyao, Takaaki Tanaka, Hiroshi Kanayama, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Yugo Murawaki.
 
 Repository: [UD_Japanese-BCCWJLUW](https://github.com/UniversalDependencies/UD_Japanese-BCCWJLUW)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwjluw29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwjluw210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-NC-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -203,7 +203,6 @@ and is a project of the Center for Corpus Development, NINJAL.
     <ul>
       <li>AUX: _</li>
       <li>NOUN: _</li>
-      <li>SCONJ: _</li>
     </ul>
   </li>
 </ul>

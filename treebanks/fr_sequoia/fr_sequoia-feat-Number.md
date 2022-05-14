@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-38361 tokens (54%) have a non-empty value of `Number`.
-7691 types (82%) occur at least once with a non-empty value of `Number`.
-5043 lemmas (75%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14474; 21% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (10397; 15% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4232; 6% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (4192; 6% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1775; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1712; 2% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1578; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+38359 tokens (54%) have a non-empty value of `Number`.
+7689 types (82%) occur at least once with a non-empty value of `Number`.
+5041 lemmas (75%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14473; 21% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (10397; 15% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4232; 6% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (4191; 6% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1775; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1712; 2% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1578; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-14474 <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Number`.
+14473 <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (4095; 28% of non-empty `Number`): <em>patients, ans, enfants, effets, jours, millions, mois, hommes, fractures, francs</em>
-* `Sing` (10379; 72% of non-empty `Number`): <em>affaire, bivalirudine, commission, perfusion, traitement, président, M., conseil, administration, solution</em>
+* `Sing` (10378; 72% of non-empty `Number`): <em>affaire, bivalirudine, commission, perfusion, traitement, président, M., conseil, administration, solution</em>
 * `EMPTY` (721): <em>%, mg, h, kg, ml, cours, cas, D, HLM, °C</em>
 
 <table>
@@ -80,11 +80,11 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-4192 <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Number`.
+4191 <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (1388; 33% of non-empty `Number`): <em>autres, indésirables, tous, politiques, cliniques, toutes, occultes, âgés, fréquents, graves</em>
+* `Plur` (1387; 33% of non-empty `Number`): <em>autres, indésirables, tous, politiques, cliniques, toutes, occultes, âgés, fréquents, graves</em>
 * `Sing` (2804; 67% of non-empty `Number`): <em>autre, politique, même, clinique, ancien, zolédronique, européenne, jeune, première, rénale</em>
 * `EMPTY` (214): <em>français, osseux, nombreux, compris, faux, 3e, 1er, chinois, intraveineux, taïwanais</em>
 
@@ -172,7 +172,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `ADV` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>faute</em>
-* `EMPTY` (2634): <em>pas, n', ne, plus, moins, très, également, aussi, bien, non</em>
+* `EMPTY` (2633): <em>pas, n', ne, plus, moins, très, également, aussi, bien, non</em>
 
 ## Relations with Agreement in `Number`
 

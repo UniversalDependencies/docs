@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “-”: <em>-</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="koi_uh-dep-punct.html">punct</a></tt> (208; 100% instances)
 
-Parents of `PUNCT` nodes belong to 7 different parts of speech: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (141; 68% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (26; 13% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (13; 6% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (10; 5% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (8; 4% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (8; 4% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (2; 1% instances)
+Parents of `PUNCT` nodes belong to 7 different parts of speech: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (142; 68% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (26; 13% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (13; 6% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (10; 5% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (8; 4% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (7; 3% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (2; 1% instances)
 
 208 (100%) `PUNCT` nodes are leaves.
 

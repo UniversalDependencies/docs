@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="myv_jr-dep-csubj-cop.html">csubj:cop</a></tt>.
 
-18 nodes (0%) are attached to their parents as `csubj`.
+20 nodes (0%) are attached to their parents as `csubj`.
 
-15 instances of `csubj` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.38888888888889.
+17 instances of `csubj` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.45.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (9; 50% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (4; 22% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (11; 55% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (4; 20% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	1	cop	_	GTtags=IV,Ind,Prt1,ScSg3
 3	велявтомс	велявтомс	VERB	V	Valency=1|VerbForm=Inf	1	csubj	_	GTtags=IV,Inf
 4	вейке	вейке	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	5	nummod	_	GTtags=Card,Sg,Nom,Indef
-5	бока	бока	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	nmod	_	GTtags=Relator,Sg,Nom,Indef
+5	бока	бока	NOUN	N	Case=Nom|Definite=Ind|NounType=Relat|Number=Sing	6	nmod	_	GTtags=Relator,Sg,Nom,Indef
 6	лангсто	ланго	NOUN	N	Case=Ela|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	obl:lfrom	_	GTtags=Relator,SP,Ela,Indef
 7	омбоцес	омбоце	ADJ	A	Case=Ill|Definite=Ind|Number=Plur,Sing|NumType=Ord	5	conj	_	GTtags=Ord,SP,Ill,Indef|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_

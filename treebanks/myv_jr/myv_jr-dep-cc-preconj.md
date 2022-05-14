@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	истя	истя	ADV	Adv	AdvType=Man	7	cc	_	GTtags=Manner
 7	историянть	история	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	conj	_	GTtags=Sg,Gen,Def
-8	ёндояк	ён	NOUN	N	Case=Abl|Clitic=Add|Definite=Ind|Number=Plur,Sing	2	obl	_	GTtags=Relator,SP,Abl,Indef,Clt/Add|SpaceAfter=No
+8	ёндояк	ён	NOUN	N	Case=Abl|Clitic=Add|Definite=Ind|NounType=Relat|Number=Plur,Sing	2	obl	_	GTtags=Relator,SP,Abl,Indef,Clt/Add|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

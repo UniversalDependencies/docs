@@ -51,7 +51,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (136; 7% of non-empty `Mood`): <em>արի, տուր, գնա, նայիր, փակիր, ասա, լսի, լսիր, մնա, Քնիր</em>
 * `Ind` (1157; 59% of non-empty `Mood`): <em>չկա, ասաց, կա, ունի, չունի, կան, կար, նշեց, ասացի, եկավ</em>
 * `Sub` (421; 21% of non-empty `Mood`): <em>լինի, լիներ, մնա, գա, ասեմ, գնա, հիշենք, նշենք, չլինի, գնամ</em>
-* `EMPTY` (4786): <em>ուզում, ասում, գալիս, տալիս, անում, նշված, գնում, նայում, տեսնում, սպասում</em>
+* `EMPTY` (4782): <em>ուզում, ասում, գալիս, տալիս, անում, նշված, գնում, նայում, տեսնում, սպասում</em>
 
 <table>
   <tr><th>Paradigm <i>լինել</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>

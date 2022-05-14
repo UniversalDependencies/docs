@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="fi_tdt-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.135135 (the average of all parts of speech is 2.067586).
+The form / lemma ratio of `CCONJ` is 1.135135 (the average of all parts of speech is 2.067974).
 
 The 1st highest number of forms (3) was observed with the lemma “mutta”: <em>mut, mutt, mutta</em>.
 
@@ -78,7 +78,7 @@ Examples: <em>ja, tai, mutta, sekä, eli, vaan, että, vai, kuin, niin</em>
 
 `CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="fi_tdt-dep-cc.html">cc</a></tt> (8140; 98% instances), <tt><a href="fi_tdt-dep-cc-preconj.html">cc:preconj</a></tt> (144; 2% instances), <tt><a href="fi_tdt-dep-mark.html">mark</a></tt> (14; 0% instances), <tt><a href="fi_tdt-dep-fixed.html">fixed</a></tt> (9; 0% instances), <tt><a href="fi_tdt-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="fi_tdt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (3533; 42% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (3022; 36% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (667; 8% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (610; 7% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (195; 2% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (161; 2% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (92; 1% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (13; 0% instances), <tt><a href="fi_tdt-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fi_tdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (3534; 42% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (3022; 36% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (667; 8% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (610; 7% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (194; 2% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (161; 2% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (92; 1% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (13; 0% instances), <tt><a href="fi_tdt-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fi_tdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 8285 (100%) `CCONJ` nodes are leaves.
 

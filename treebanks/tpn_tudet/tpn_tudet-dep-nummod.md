@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (1%) are attached to their parents as `nummod`.
+13 nodes (0%) are attached to their parents as `nummod`.
 
-10 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.6.
+13 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.76923076923077.
 
-The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NUM.html">NUM</a></tt> (8; 80% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-NUM.html">NUM</a></tt> (1; 10% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NUM.html">NUM</a></tt> (9; 69% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (3; 23% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-NUM.html">NUM</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	_	_
 2	pɨkasuaʔɨra	pɨkasuaʔɨr	NOUN	n	Case=Ref	4	obl	_	_
 3	iʃɨ	sɨ	NOUN	n	Rel=NCont	4	obl	_	_
-4	owerasó	so	VERB	v	Person=3|Voice=Com	0	root	_	_
+4	oweraso	so	VERB	v	Person=3|Voice=Com	0	root	_	_
 5	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	4	obl	_	_
 
 ~~~
@@ -34,59 +34,32 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 nummod	color:blue
-1	Opa	opa	PRON	pro	_	3	nmod	_	_
-2	ko	ko	DET	dem	_	3	nmod	_	_
-3	mbo	po	NOUN	n	_	6	nummod	_	_
-4	mosapɨr	mosapɨr	NUM	num	_	5	nummod	_	_
-5	mɨsã	pɨsã	NOUN	n	_	3	dep	_	_
-6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	_	_
-7	sɨk'eme	sɨk	NOUN	n	_	39	advcl	_	_
-8	,	,	PUNCT	punct	_	7	punct	_	_
-9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	14	obl	_	_
-10	osɨ	sɨ	NOUN	n	Reflex=Yes	11	nmod	_	_
-11	rɨgé	rɨgé	NOUN	n	Rel=Cont	14	nmod	_	_
-12	swi	swi	ADP	posp	_	11	case	_	_
-13	Tupã	Tupã	NOUN	n	_	14	nmod	_	_
-14	taʔɨra	aʔɨr	NOUN	n	Rel=NCont	15	nmod	_	_
-15	ʔarʔiré	ʔar	NOUN	n	_	39	advcl	_	_
-16	,	,	PUNCT	punct	_	15	punct	_	_
-17	mosapɨr	mosapɨr	NUM	num	_	18	nummod	_	_
-18	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	39	obl	_	_
-19	,	,	PUNCT	punct	_	18	punct	_	_
-20	Reis	rei	NOUN	n	_	18	appos	_	_
-21	ʔiaβa	ʔiaβa	ADV	adv	_	20	amod	_	_
-22	,	,	PUNCT	punct	_	20	punct	_	_
-23	kwarasɨ	kwarasɨ	NOUN	n	_	24	nmod	_	_
-24	sembaβa	sem	NOUN	n	Nomzr=Circ	25	nmod	_	_
-25	kotɨ	kotɨ	NOUN	n	_	27	obl	_	_
-26	swi	swi	ADP	pos	_	25	case	_	_
-27	ourɨβaʔe	ur	NOUN	n	Nomzr=Rel|Person=3	18	acl	_	_
-28	,	,	PUNCT	punct	_	27	punct	_	_
-29	jasɨtatá	jasɨtatá	NOUN	n	_	27	obl	_	_
-30	serekoarama	erekó	NOUN	n	Rel=NCont|Tense=Fut	29	nmod	_	_
-31	resé	esé	ADP	posp	Rel=Cont	30	case	_	_
-32	,	,	PUNCT	punct	_	31	punct	_	_
-33	Tupã	Tupã	NOUN	n	_	34	nmod	_	_
-34	remimoɲanga	moɲang	NOUN	n	Case=Ref|Nomzr=Pas|Rel=Cont	29	appos	_	_
-35	pɨsasu	pɨsasu	NOUN	n	_	34	obl	_	_
-36	pe	pe	NOUN	n	_	37	nmod	_	_
-37	jaramo	jar	NOUN	n	Case=Tra	34	obl	_	_
-38	iʃupé	supé	ADP	posp	Rel=NCont	34	obl	_	_
-39	ogueru	ur	VERB	v	Person=3|Voice=Com	0	root	_	_
-40	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	39	obl	_	_
-41	itajuβa	itajuβa	NOUN	n	Case=Ref	39	obj	_	_
-42	,	,	PUNCT	punct	_	41	punct	_	_
-43	ɨsɨkatã	ɨsɨkatã	NOUN	n	_	41	conj	_	_
-44	sɨapwanɨβaʔe	ɨapwan	NOUN	n	Nomzr=Rel|Rel=NCont	43	nmod	_	_
-45	,	,	PUNCT	punct	_	43	punct	_	_
-46	mirra	mirra	NOUN	n	_	43	conj	_	_
-47	,	,	PUNCT	punct	_	46	punct	_	_
-48	mosanga	posang	NOUN	n	Case=Ref|Rel=Hum	46	appos	_	_
-49	toʔo	oʔo	NOUN	n	Rel=Hum	48	nmod	_	_
-50	swi	swi	ADP	posp	_	49	case	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nummod	color:blue
+1	ʃepo	po	NOUN	n	Number=Sing|Person=1	6	nummod	_	_
+2	ʃepɨ	pɨ	NOUN	n	Number=Sing|Person=1	1	conj	_	_
+3	aβa	aβa	NOUN	n	_	4	nummod	_	_
+4	po	po	NOUN	n	_	1	conj	_	_
+5	ipɨ	pɨ	NOUN	n	Rel=NCont	1	conj	_	_
+6	ʔara	ʔar	NOUN	n	Case=Ref	14	advcl	_	_
+7	omemɨrawera	memɨrar	NOUN	n	Reflex=Yes|Tense=Past	6	dep	_	_
+8	kwaβ	kwab	NOUN	n	_	6	obl	_	_
+9	ire	ire	ADP	posp	_	8	case	_	_
+10	,	,	PUNCT	punct	_	6	punct	_	_
+11	SantaMaria	SantaMaria	PROPN	_	_	14	nsubj	_	_
+12	omemɨra	omemɨr	NOUN	n	Case=Ref|Reflex=Yes	14	obj	_	_
+13	Iesus	Iesus	PROPN	propn	_	12	appos	_	_
+14	rerasow	so	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=Com	0	root	_	_
+15	Tupã	Tupã	NOUN	n	_	16	nmod	_	_
+16	okɨpe	ok	NOUN	n	_	14	obl	_	_
+17	,	,	PUNCT	punct	_	14	punct	_	_
+18	Tupã	Tupã	PROPN	propn	_	19	nmod	_	_
+19	tuβape	uβ	NOUN	n	Case=Dat|Rel=NCont	20	obl	_	_
+20	ikwaβeʔenga	kwaβeʔeng	VERB	v	Rel=NCont|VerbForm=Ger	14	advcl	_	_
+21	judeus	judeu	NOUN	n	_	22	nmod	_	_
+22	rekomojangaβa	ekomonhang	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Cont	20	advcl	_	_
+23	rupi	upi	ADP	posp	Rel=Cont	22	case	_	_
 
 ~~~
 
@@ -97,19 +70,19 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 nummod	color:blue
-1	SantíssimaTrindade	SantíssimaTrindade	PROPN	propn	_	12	obj	_	_
+1	SantissimaTrindade	SantissimaTrindade	PROPN	propn	_	12	obj	_	_
 2	Tuβa	uβa	NOUN	n	Case=Ref|Rel=NCont	1	appos	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	Taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	1	appos	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
-6	EspíritoSanto	EspíritoSanto	PROPN	_	_	1	appos	_	_
+6	EspiritoSanto	EspiritoSanto	PROPN	_	_	1	appos	_	_
 7	mosapɨr	mosapɨr	NUM	num	NumType=Card	8	nummod	_	_
-8	aβá	aβá	NOUN	n	_	1	appos	_	_
+8	aβa	aβa	NOUN	n	_	1	appos	_	_
 9	,	,	PUNCT	punct	_	8	punct	_	_
-10	ojepé	ojepé	NUM	num	NumType=Card	11	nummod	_	_
+10	ojepe	ojepe	NUM	num	NumType=Card	11	nummod	_	_
 11	Tupã	Tupã	PROPN	propn	_	1	appos	_	_
-12	mombewaβo	_	VERB	v	VerbForm=Ger	0	root	_	_
-13	ɲẽ	ɲẽ	PART	pcl	_	12	discourse	_	_
+12	momewaβo	momeʔu	VERB	v	VerbForm=Ger	0	root	_	_
+13	jẽ	jẽ	PART	pcl	_	12	discourse	_	_
 
 ~~~
 

@@ -6,24 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Beja-NSC: POS Tags: `ADP`
 
-There are 1 `ADP` lemmas (6%), 14 `ADP` types (4%) and 25 `ADP` tokens (2%).
-Out of 16 observed tags, the rank of `ADP` is: 2 in number of lemmas, 7 in number of types and 9 in number of tokens.
+There are 1 `ADP` lemmas (6%), 14 `ADP` types (4%) and 25 `ADP` tokens (3%).
+Out of 16 observed tags, the rank of `ADP` is: 2 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>_</em>
 
 The 10 most frequent `ADP` types:  <em>=iːb, =ka, dh, =iː, geːb, =da, =eːb, baːji, dh#, dhaːj</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 235, <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 187, <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> 169, <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 123, <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 116, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 92, <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 51, <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 37, <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 25, <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 16, <tt><a href="bej_nsc-pos-X.html">X</a></tt> 9, <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="bej_nsc-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 171, <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> 169, <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 132, <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 123, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 79, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 51, <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 28, <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 25, <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 19, <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 16, <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="bej_nsc-pos-X.html">X</a></tt> 3, <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="bej_nsc-pos-NUM.html">NUM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>=eːb</em> (<tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 1), <em>suːr</em> (<tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>=eːb</em> (<tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 1)
 
 
 * <em>=eːb</em>
-  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 3: <em>beːn aː= nda eːjaː -n <b>=eːb</b> oː= doːr / i= kaːm =i jam gʷʔa -s -aː =b =u /</em>
-  * <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 1: <em>ameː- sa~sʔ -eː ameː- sa~sʔ -eː ameː- sa~sʔ -eː / uː= biri ʈa~ʈakʷ -i / i= jam <b>=eːb</b> // ji= oː= biri naː =iːb // kaɖaw -i mijʔat a- maːsiw =hoːb // a- nʔa a- tir =t a- ʃibib =hoːb // ʔoːt / suːr =isi / suːfa =t hoːj t- heː =jeːt harʔiː =isi / hamoː =t hoːj hiː -n =eːt / baːji =heːb hiːreːr -eː rh -an =hoːb / a- hagit i- ni //</em>
-* <em>suːr</em>
-  * <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 1: <em>ameː- sa~sʔ -eː ameː- sa~sʔ -eː ameː- sa~sʔ -eː / uː= biri ʈa~ʈakʷ -i / i= jam =eːb // ji= oː= biri naː =iːb // kaɖaw -i mijʔat a- maːsiw =hoːb // a- nʔa a- tir =t a- ʃibib =hoːb // ʔoːt / <b>suːr</b> =isi / suːfa =t hoːj t- heː =jeːt harʔiː =isi / hamoː =t hoːj hiː -n =eːt / baːji =heːb hiːreːr -eː rh -an =hoːb / a- hagit i- ni //</em>
-  * <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 1: <em><b>suːr</b> -teːn =aj /</em>
+  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 3: <em>beːn aː= nda eːjaːn <b>=eːb</b> oː= doːr / i= kaːm =i jam gʷʔasaː =b =u /</em>
+  * <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 1: <em>ameːsa~sʔeː ameːsa~sʔeː ameːsa~sʔeː / uː= biri ʈa~ʈakʷi / i= jam <b>=eːb</b> // ji= oː= biri naː =iːb // kaɖawi mijʔat amaːsiw =hoːb // anʔa atir =t aʃibib =hoːb // ʔoːt / suːr =isi / suːfa =t hoːj theː =jeːt harʔiː =isi / hamoː =t hoːj hiːn =eːt / baːji =heːb hiːreːreː rhan =hoːb / ahagit ini //</em>
 
 ## Morphology
 
@@ -42,9 +39,9 @@ Examples: <em>dh, geːb, =da, baːji, dh#, dhaːj, harʔiː, suːr, whiː</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="bej_nsc-dep-case.html">case</a></tt> (19; 76% instances), <tt><a href="bej_nsc-dep-iobj.html">iobj</a></tt> (4; 16% instances), <tt><a href="bej_nsc-dep-dep.html">dep</a></tt> (1; 4% instances), <tt><a href="bej_nsc-dep-mark.html">mark</a></tt> (1; 4% instances)
+`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="bej_nsc-dep-case.html">case</a></tt> (20; 80% instances), <tt><a href="bej_nsc-dep-iobj.html">iobj</a></tt> (4; 16% instances), <tt><a href="bej_nsc-dep-dep.html">dep</a></tt> (1; 4% instances)
 
-Parents of `ADP` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (14; 56% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (6; 24% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (4; 16% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (1; 4% instances)
+Parents of `ADP` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (15; 60% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (5; 20% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (4; 16% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (1; 4% instances)
 
 24 (96%) `ADP` nodes are leaves.
 

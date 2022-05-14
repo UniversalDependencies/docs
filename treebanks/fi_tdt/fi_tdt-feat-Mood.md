@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Pot`.
 
-23513 tokens (12%) have a non-empty value of `Mood`.
+23512 tokens (12%) have a non-empty value of `Mood`.
 5583 types (10%) occur at least once with a non-empty value of `Mood`.
 1772 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (14635; 7% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (8878; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (14634; 7% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (8878; 4% instances).
 
 ### `VERB`
 
-14635 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Mood`.
+14634 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14635; 100%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (14635; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (14635; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (14635; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14635; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11598; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9331; 64%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (8667; 59%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7769; 53%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14634; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (14634; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (14634; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14634; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11597; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9331; 64%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (8666; 59%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7768; 53%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (675; 5% of non-empty `Mood`): <em>haluaisin, tulisi, saisi, haluaisi, olisi, saisin, saisivat, tekisi, vaikuttaisi, kuuluisi</em>
 * `Imp` (376; 3% of non-empty `Mood`): <em>lisää, ota, keitä, paista, leikkaa, lue, tee, Kypsennä, anna, pidä</em>
-* `Ind` (13557; 93% of non-empty `Mood`): <em>tulee, saa, sai, tuli, on, sanoi, ottaa, sanoo, kertoo, kertoi</em>
+* `Ind` (13556; 93% of non-empty `Mood`): <em>tulee, saa, sai, tuli, on, sanoi, ottaa, sanoo, kertoo, kertoi</em>
 * `Pot` (27; 0% of non-empty `Mood`): <em>hypänne, kertone, luvanne, saanen, Palauttanet, Suonet, alkanevat, jatkunee, johtunee, käytäneen</em>
-* `EMPTY` (12733): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, ei, antaa</em>
+* `EMPTY` (12708): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, ei, antaa</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th></tr>
@@ -196,6 +196,5 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="fi_tdt-dep-appos.html">appos</a></tt>]--> VERB</tt> (7; 100%),
 <tt>AUX --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-goeswith.html">goeswith</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%).
 

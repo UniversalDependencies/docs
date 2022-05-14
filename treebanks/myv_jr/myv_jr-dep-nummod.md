@@ -63,7 +63,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Таркась	тарка	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj:cop	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Def
 2	кочказель	кочкамс	VERB	V	Derivation=Ozj|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Conv	0	root	_	GTtags=Der/Озь,Prt2,ScSg3
 3	ёнсто	ён	ADV	Adv	Derivation=AdvstO	2	advmod	_	GTtags=Der/A_стО,Adv|SpaceAfter=No
-4	:	:	PUNCT	CLB	_	2	punct	_	_
+4	:	:	PUNCT	CLB	_	9	punct	_	_
 5	ве	ве	NUM	Num	NumType=Card	6	nummod	_	GTtags=Card,Adn
 6	пельде	пельде	ADV	Adv	AdvType=Loc	9	obl	_	GTtags=Spat
 7	велесь	веле	NOUN	N	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	GTtags=Sg,Nom,Def

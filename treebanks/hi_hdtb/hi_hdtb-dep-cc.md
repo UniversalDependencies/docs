@@ -26,16 +26,16 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	,	,	PUNCT	SYM	_	1	punct	_	ChunkId=NP|ChunkType=child|Translit=,
 3	जो	जो	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=jo
 4	चौकोर	चौकोर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	acl:relcl	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=caukora
-5	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No|Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
+5	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ChunkId=VGF|ChunkType=head|SpaceAfter=No|Stype=declarative|Tam=hE|Translit=hai|Vib=है
 6	,	,	PUNCT	SYM	_	1	punct	_	ChunkId=VGF|ChunkType=child|Translit=,
 7	अंदर	अंदर	ADV	NST	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing|Person=3	9	advmod	_	AltTag=ADV-NOUN|Vib=0_से|ChunkId=NP4|ChunkType=head|Translit=aṁdara
 8	से	से	ADP	PSP	AdpType=Post	7	case	_	ChunkId=NP4|ChunkType=child|Translit=se
 9	पोली	पोला	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	ChunkId=JJP|ChunkType=head|Translit=polī
-10	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Vib=है|Tam=hE|ChunkId=VGF2|ChunkType=head|Stype=declarative|Translit=hai
+10	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	ChunkId=VGF2|ChunkType=head|Stype=declarative|Tam=hE|Translit=hai|Vib=है
 11	और	और	CCONJ	CC	_	14	cc	_	ChunkId=CCP|ChunkType=head|Translit=aura
 12	अपेक्षाकृत	अपेक्षाकृत	ADV	RB	_	13	advmod	_	ChunkId=RBP|ChunkType=head|Translit=apekṣākr̥ta
 13	नवीन	नवीन	ADJ	JJ	_	14	xcomp	_	ChunkId=JJP2|ChunkType=head|Translit=navīna
-14	बनी	बन	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	9	conj	_	Vib=या_है|Tam=yA|ChunkId=VGF3|ChunkType=head|Stype=declarative|Translit=banī
+14	बनी	बन	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	9	conj	_	ChunkId=VGF3|ChunkType=head|Stype=declarative|Tam=yA|Translit=banī|Vib=या_है
 15	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	Vib=है|Tam=hE|ChunkId=VGF3|ChunkType=child|Translit=hai
 16	।	।	PUNCT	SYM	_	9	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
@@ -59,7 +59,7 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 9	के	के	ADP	PSP	AdpType=Post	8	case	_	ChunkId=NP3|ChunkType=child|Translit=ke
 10	ऊपर	ऊपर	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	8	case	_	AltTag=ADP-NOUN|ChunkId=NP3|ChunkType=child|Translit=ūpara
 11	स्‍तूप	स्‍तूप	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	obj	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=stūpa
-12	बनाए	बना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Vib=या_जा+या1|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=banāe
+12	बनाए	बना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=banāe|Vib=या_जा+या1
 13	गए	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	12	aux:pass	_	Vib=या1|Tam=yA1|ChunkId=VGF|ChunkType=child|Translit=gae
 14	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
@@ -82,7 +82,7 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 8	माकपा	माकपा	PROPN	NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	conj	_	Vib=0_का|Tam=0|ChunkId=NP3|ChunkType=head|Translit=mākapā
 9	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Plur	8	case	_	ChunkId=NP3|ChunkType=child|Translit=kī
 10	भवें	भौं	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	11	nsubj	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=bhaveṁ
-11	तन	तन	VERB	VM	Gender=Fem|Number=Plur|Person=3|Voice=Act	0	root	_	Vib=0_जा+या१_है|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=tana
+11	तन	तन	VERB	VM	Gender=Fem|Number=Plur|Person=3|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=0|Translit=tana|Vib=0_जा+या१_है
 12	गई	जा	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	11	aux	_	Vib=या१|Tam=yA1|ChunkId=VGF|ChunkType=child|Translit=gaī
 13	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=haiṁ
 14	।	।	PUNCT	SYM	_	11	punct	_	ChunkId=BLK|ChunkType=head|Translit=.

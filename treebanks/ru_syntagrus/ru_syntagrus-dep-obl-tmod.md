@@ -30,7 +30,7 @@ The following 13 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 5	разбужен	разбудить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
 6	стрекотанием	стрекотание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl:agent	5:obl:agent	_
 7	мотора	мотор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod:gen	SpaceAfter=No
-8	.	.	PUNCT	_	_	5	punct	5:punct	_~
+8	.	.	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 13 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 5	произошла	произойти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	месяцем	месяц	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl:tmod	7:obl:tmod:ins	_
 7	раньше	рано	ADV	_	Degree=Cmp	5	advmod	5:advmod	SpaceAfter=No
-8	.	.	PUNCT	_	_	5	punct	5:punct	_~
+8	.	.	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -72,7 +72,7 @@ The following 13 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 11	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	12	det	12:det	_
 12	земля	земля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	10:nsubj	_
 13	весной	весна	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	obl:tmod	10:obl:tmod:ins	SpaceAfter=No
-14	.	.	PUNCT	_	_	7	punct	7:punct	_~
+14	.	.	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~
 

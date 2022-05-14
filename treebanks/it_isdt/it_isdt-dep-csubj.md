@@ -23,7 +23,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 csubj	color:blue
-1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
 2	duro	duro	ADJ	A	Gender=Masc|Number=Sing	0	root	0:root	_
 3	ammetter	ammettere	VERB	V	VerbForm=Inf	2	csubj	2:csubj	_
 4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	_
@@ -73,7 +73,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 1	Onorevole	onorevole	ADJ	A	Number=Sing	2	amod	2:amod	_
 2	collega	collega	NOUN	S	Number=Sing	6	vocative	6:vocative	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	2:punct	_
-4	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	6:cop	_
+4	sarà	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	6:cop	_
 5	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	6:det:poss	_
 6	cura	cura	NOUN	S	Gender=Fem|Number=Sing	0	root	0:root	_
 7	verificare	verificare	VERB	V	VerbForm=Inf	6	csubj	6:csubj	_

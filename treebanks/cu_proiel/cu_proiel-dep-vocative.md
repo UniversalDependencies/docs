@@ -22,9 +22,9 @@ The following 28 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 vocative	color:blue
-1	аминь	аминъ	INTJ	I-	_	2	vocative	_	ref=MATT_5.26
-2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.26
-3	тебѣ	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	2	iobj	_	ref=MATT_5.26
+1	аминь	аминъ	INTJ	I-	_	2	vocative	_	Ref=MATT_5.26
+2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.26
+3	тебѣ	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	2	iobj	_	Ref=MATT_5.26
 
 ~~~
 
@@ -35,17 +35,17 @@ The following 28 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 1 vocative	color:blue
-1	Ѡ҅тьче	отьць	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	ref=MATT_6.9
-2	нашъ	нашь	ADJ	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	nmod	_	ref=MATT_6.9
-3	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	ref=MATT_6.9
-4	си	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=MATT_6.9
-5	на	на	ADP	R-	_	6	case	_	ref=MATT_6.9
-6	н҃бсхъ	небо	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	1	nmod	_	ref=MATT_6.9
-7	да	да	ADV	Df	_	8	advmod	_	ref=MATT_6.9
-8	с҃вт	свѧтити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.9
-9	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	expl	_	ref=MATT_6.9
-10	имѧ	имѧ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	ref=MATT_6.9
-11	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	10	nmod	_	ref=MATT_6.9
+1	Ѡ҅тьче	отьць	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	Ref=MATT_6.9
+2	нашъ	нашь	ADJ	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	nmod	_	Ref=MATT_6.9
+3	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=MATT_6.9
+4	си	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Ref=MATT_6.9
+5	на	на	ADP	R-	_	6	case	_	Ref=MATT_6.9
+6	н҃бсхъ	небо	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	1	nmod	_	Ref=MATT_6.9
+7	да	да	ADV	Df	_	8	advmod	_	Ref=MATT_6.9
+8	с҃вт	свѧтити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.9
+9	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	expl	_	Ref=MATT_6.9
+10	имѧ	имѧ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	Ref=MATT_6.9
+11	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	10	nmod	_	Ref=MATT_6.9
 
 ~~~
 
@@ -56,11 +56,11 @@ The following 28 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 vocative	color:blue
-1	симоне	симонъ	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=LUKE_7.40
-2	имамъ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.40
-3	ти	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	ref=LUKE_7.40
-4	нѣчъто	нѣчьто	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	ref=LUKE_7.40
-5	решти	рещи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	acl	_	ref=LUKE_7.40
+1	симоне	симонъ	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Ref=LUKE_7.40
+2	имамъ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_7.40
+3	ти	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	Ref=LUKE_7.40
+4	нѣчъто	нѣчьто	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Ref=LUKE_7.40
+5	решти	рещи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	acl	_	Ref=LUKE_7.40
 
 ~~~
 

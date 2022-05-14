@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 4	Siirry	siirtyä	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	0:root	_
 5	tiedostossa	tiedosto	NOUN	N	Case=Ine|Number=Sing	4	obl	4:obl	_
 6	viimeksi	viimeksi	ADV	Adv	_	7	advmod	7:advmod	_
-7	editoidulle	editoida	VERB	V	Case=All|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	_
+7	editoidulle	editoida	VERB	V	Case=All|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	_
 8	riville	rivi	NOUN	N	Case=All|Number=Sing	4	obl	4:obl	_
 
 ~~~

@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Tatar-NMCTT: POS Tags: `SCONJ`
 
-There are 3 `SCONJ` lemmas (1%), 3 `SCONJ` types (0%) and 8 `SCONJ` tokens (1%).
-Out of 13 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 13 in number of tokens.
+There are 3 `SCONJ` lemmas (0%), 3 `SCONJ` types (0%) and 8 `SCONJ` tokens (1%).
+Out of 14 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>дип, чөнки, әгәр</em>
 
@@ -15,13 +15,16 @@ The 10 most frequent `SCONJ` types:  <em>дип, чөнки, әгәр</em>
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  
+The 10 most frequent ambiguous types:  <em>дип</em> (<tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> 2)
 
 
+* <em>дип</em>
+  * <tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt> 6: <em>« Ил күләмендә татарларның саны кимемәсен иде <b>дип</b> теләр идем .</em>
+  * <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> 2: <em>Җилнең көче секундына 15 - 20 метр булыр <b>дип</b> фаразлана .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.308140).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.335433).
 
 The 1st highest number of forms (1) was observed with the lemma “дип”: <em>дип</em>.
 

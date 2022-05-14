@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5 3 cop	color:blue
 1	Questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	2:det	_
 2	ricchezza	ricchezza	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
-3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 4	tutta	tutto	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	nmod	5:nmod	_
 5	apparenza	apparenza	NOUN	S	Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
 6	.	.	PUNCT	FS	_	5	punct	5:punct	_
@@ -38,7 +38,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 cop	color:blue
-1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
 2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	2:punct	_
 4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nsubj:pass	7:nsubj:pass	_
@@ -57,7 +57,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
 1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
-2	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	cop	3:cop	_
+2	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	cop	3:cop	_
 3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	0:root|7:obj	_
 4	che	che	PRON	PR	PronType=Rel	7	obj	3:ref	_
 5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	7:expl	_

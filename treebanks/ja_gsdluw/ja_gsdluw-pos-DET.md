@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  ある (<tt><a href="ja_gsdluw-pos-VERB.h
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.250000 (the average of all parts of speech is 1.102729).
+The form / lemma ratio of `DET` is 1.250000 (the average of all parts of speech is 1.095294).
 
 The 1st highest number of forms (2) was observed with the lemma “我が”: わが, 我が.
 

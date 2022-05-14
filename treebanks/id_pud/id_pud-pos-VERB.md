@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ada</em> (<tt><a href="id_pud-pos-VER
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.532695 (the average of all parts of speech is 1.137196).
+The form / lemma ratio of `VERB` is 1.532695 (the average of all parts of speech is 1.137428).
 
 The 1st highest number of forms (7) was observed with the lemma “kenal”: <em>dikenal, dikenali, diperkenalkan, kenal, memperkenalkan, mengenal, terkenal</em>.
 

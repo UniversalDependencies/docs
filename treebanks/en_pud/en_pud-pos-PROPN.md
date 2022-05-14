@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>Sea</em> (<tt><a href="en_pud-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000892 (the average of all parts of speech is 1.138758).
+The form / lemma ratio of `PROPN` is 1.000892 (the average of all parts of speech is 1.138927).
 
 The 1st highest number of forms (2) was observed with the lemma “Democrat”: <em>Democrat, Democrats</em>.
 

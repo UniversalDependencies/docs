@@ -101,7 +101,7 @@ The most frequent other feature values with which `AUX` and `Number[psor]` co-oc
 ## Relations with Agreement in `Number[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
-<tt>NOUN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (696; 59%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (697; 59%),
 <tt>NOUN --[<tt><a href="tr_kenet-dep-list.html">list</a></tt>]--> NOUN</tt> (43; 72%),
 <tt>PROPN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> PROPN</tt> (5; 83%),
 <tt>NOUN --[<tt><a href="tr_kenet-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (2; 67%).

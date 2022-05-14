@@ -22,16 +22,16 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	gaudete	gaudeo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.12
-2	et	et	CCONJ	C-	_	1	cc	_	ref=MATT_5.12
-3	exultate	ex(s)ulto	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=MATT_5.12
-4	quoniam	quoniam	SCONJ	G-	_	7	mark	_	ref=MATT_5.12
-5	merces	merces	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=MATT_5.12
-6	vestra	vester	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	5	det	_	ref=MATT_5.12
-7	copiosa	copiosus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	advcl	_	ref=MATT_5.12
-8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=MATT_5.12
-9	in	in	ADP	R-	_	10	case	_	ref=MATT_5.12
-10	caelis	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	5	nmod	_	ref=MATT_5.12
+1	gaudete	gaudeo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.12
+2	et	et	CCONJ	C-	_	1	cc	_	Ref=MATT_5.12
+3	exultate	ex(s)ulto	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Ref=MATT_5.12
+4	quoniam	quoniam	SCONJ	G-	_	7	mark	_	Ref=MATT_5.12
+5	merces	merces	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Ref=MATT_5.12
+6	vestra	vester	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	5	det	_	Ref=MATT_5.12
+7	copiosa	copiosus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	advcl	_	Ref=MATT_5.12
+8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Ref=MATT_5.12
+9	in	in	ADP	R-	_	10	case	_	Ref=MATT_5.12
+10	caelis	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	5	nmod	_	Ref=MATT_5.12
 
 ~~~
 
@@ -42,14 +42,14 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=MATT_5.3
-2	pauperes	pauper	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	ref=MATT_5.3
-3	spiritu	spiritus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	2	nmod	_	ref=MATT_5.3
-4	quoniam	quoniam	SCONJ	G-	_	5	mark	_	ref=MATT_5.3
-5	ipsorum	ipse	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	advcl	_	ref=MATT_5.3
-6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=MATT_5.3
-7	regnum	regnum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=MATT_5.3
-8	caelorum	caelum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	ref=MATT_5.3
+1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	Ref=MATT_5.3
+2	pauperes	pauper	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	Ref=MATT_5.3
+3	spiritu	spiritus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	2	nmod	_	Ref=MATT_5.3
+4	quoniam	quoniam	SCONJ	G-	_	5	mark	_	Ref=MATT_5.3
+5	ipsorum	ipse	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	advcl	_	Ref=MATT_5.3
+6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Ref=MATT_5.3
+7	regnum	regnum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Ref=MATT_5.3
+8	caelorum	caelum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	Ref=MATT_5.3
 
 ~~~
 
@@ -60,10 +60,10 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	vos	vos	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	ref=MATT_5.13
-2	estis	sum	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_5.13
-3	sal	sal	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=MATT_5.13
-4	terrae	terra	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	ref=MATT_5.13
+1	vos	vos	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Ref=MATT_5.13
+2	estis	sum	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Ref=MATT_5.13
+3	sal	sal	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Ref=MATT_5.13
+4	terrae	terra	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	Ref=MATT_5.13
 
 ~~~
 

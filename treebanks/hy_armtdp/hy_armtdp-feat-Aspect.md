@@ -10,16 +10,16 @@ This feature is universal but the values `Dur`, `Iter`, `Prosp` are language-spe
 It occurs with 6 different values: `Dur`, `Imp`, `Iter`, `Perf`, `Prog`, `Prosp`.
 Some words have combined values of the feature; 4 combinations have been observed: `Dur|Iter`, `Imp|Iter`, `Iter|Perf`, `Iter|Prosp`.
 
-9132 tokens (17%) have a non-empty value of `Aspect`.
-2776 types (21%) occur at least once with a non-empty value of `Aspect`.
+9130 tokens (17%) have a non-empty value of `Aspect`.
+2775 types (21%) occur at least once with a non-empty value of `Aspect`.
 1089 lemmas (15%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (5487; 10% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (3645; 7% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (5485; 10% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (3645; 7% instances).
 
 ### `VERB`
 
-5487 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Aspect`.
+5485 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3706; 68%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3565; 65%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3562; 65%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3527; 64%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3513; 64%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt> (2788; 51%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3704; 68%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3563; 65%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3560; 65%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3525; 64%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3511; 64%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt> (2787; 51%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -30,10 +30,10 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 * `Iter` (6; 0% of non-empty `Aspect`): <em>թռչկոտելով, ծռմռելով, շխշխկացնելով, շվշվացնելով, ցատկոտելով, քաշքշելու</em>
 * `Iter,Perf` (8; 0% of non-empty `Aspect`): <em>նստոտած, փորփրել, Պատառոտվել, խնդմնդացել, խոցոտեցին, կտրատած</em>
 * `Iter,Prosp` (1; 0% of non-empty `Aspect`): <em>կչխկչխկա</em>
-* `Perf` (2266; 41% of non-empty `Aspect`): <em>ասաց, նշված, եղել, կանգնած, կապված, եկել, ընկած, սահմանված, տեսել, ուղղված</em>
+* `Perf` (2264; 41% of non-empty `Aspect`): <em>ասաց, նշված, եղել, կանգնած, կապված, եկել, ընկած, սահմանված, տեսել, ուղղված</em>
 * `Prog` (9; 0% of non-empty `Aspect`): <em>գալիս, անցնելիս, գնալիս, ընթանալիս, իջնելիս, խոսելիս, մտնելիս, պատմելիս</em>
 * `Prosp` (882; 16% of non-empty `Aspect`): <em>լինի, մնա, գնա, լիներ, արի, կլինի, գա, տուր, լինելու, կդառնա</em>
-* `EMPTY` (1262): <em>լինել, տալ, անել, ապահովել, ընդունելով, գնալ, բերել, իրականացնել, լինելու, ապրել</em>
+* `EMPTY` (1260): <em>լինել, տալ, անել, ապահովել, ընդունելով, գնալ, բերել, իրականացնել, լինելու, ապրել</em>
 
 <table>
   <tr><th>Paradigm <i>գալ</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th><th><tt>Dur</tt></th><th><tt>Prosp</tt></th></tr>

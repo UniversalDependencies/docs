@@ -72,10 +72,10 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	пондыліс	пондывны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
 3	овны	овны	AUX	_	VerbForm=Inf	4	cop	_	GTtags=Inf
-4	куриттӧг	куритны	VERB	_	Derivation=VCar|VerbForm=Conv	2	xcomp	_	GTtags=Conv,Car
+4	куриттӧг	куритны	VERB	_	Derivation=VAbe|VerbForm=Conv	2	xcomp	_	GTtags=Conv,Car
 5	да	да	CCONJ	_	_	7	cc	_	_
 6	вина	вина	NOUN	_	Case=Nom|Number=Sing	7	obj	_	GTtags=Sg,Nom
-7	ютӧг	юны	VERB	_	Derivation=VCar|VerbForm=Conv	4	conj	_	GTtags=Conv,Car|SpaceAfter=No
+7	ютӧг	юны	VERB	_	Derivation=VAbe|VerbForm=Conv	4	conj	_	GTtags=Conv,Car|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

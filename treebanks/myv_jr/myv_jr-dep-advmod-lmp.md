@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `advmod:lmp`: <tt><a
 4	вальмалга	вальмало	ADV	Adv	AdvType=Loc|Case=Prl	6	advmod:lmp	_	GTtags=Spat,Prl|Gloss=below-the-window
 5	лов	лов	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	compound	_	GTtags=Sg,Nom,Indef|Gloss=snow
 6	губорькстнэнь	губорькс	NOUN	N	Case=Gen|Definite=Def|Number=Plur	7	nmod	_	GTtags=Pl,Gen,Def|Gloss=mound
-7	ланга	ланго	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	11	obl:lmp	_	GTtags=Relator,Po,Prl|Gloss=along
+7	ланга	ланго	NOUN	N	Case=Prl|Definite=Ind|NounType=Relat|Number=Plur,Sing	11	obl:lmp	_	GTtags=Relator,Po,Prl|Gloss=along
 8	тюжа	тюжа	ADJ	A	_	9	amod	_	GTtags=|Gloss=brown
 9	гуйкс	гуй	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	10	obl	_	GTtags=SP,Tra,Indef|Gloss=snake
 10	менчевиця	менчевемс	VERB	V	Derivation=VerbYcja|Tense=Pres|Valency=1|VerbForm=Part	11	amod	_	GTtags=IV,Der/Ыця,Act,Prs,VerbForm=Part|Gloss=meander

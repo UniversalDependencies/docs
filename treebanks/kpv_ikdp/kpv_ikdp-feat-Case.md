@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Features: `Case`
 
-This feature is universal but the values `Adp`, `Car`, `Egr`, `Prl`, `Prp` are language-specific.
-It occurs with 18 different values: `Abl`, `Acc`, `Adp`, `Car`, `Com`, `Dat`, `Egr`, `Ela`, `Gen`, `Ill`, `Ine`, `Ins`, `Loc`, `Nom`, `Prl`, `Prp`, `Ter`, `Tra`.
+This feature is universal but the values `Adp`, `Egr`, `Prl`, `Prp` are language-specific.
+It occurs with 18 different values: `Abe`, `Abl`, `Acc`, `Adp`, `Com`, `Dat`, `Egr`, `Ela`, `Gen`, `Ill`, `Ine`, `Ins`, `Loc`, `Nom`, `Prl`, `Prp`, `Ter`, `Tra`.
 
 888 tokens (38%) have a non-empty value of `Case`.
 611 types (61%) occur at least once with a non-empty value of `Case`.
@@ -22,9 +22,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 `NOUN` tokens may have the following values of `Case`:
 
+* `Abe` (1; 0% of non-empty `Case`): <em>няньтӧг</em>
 * `Abl` (5; 1% of non-empty `Case`): <em>войтырлысь, ижмасаяслысь, изьватаслысь, ненецъяслысь, саамъяслысь</em>
 * `Acc` (33; 7% of non-empty `Case`): <em>дадьсэ, мамсӧ, тятейсӧ, английскейсэ, берегсэ, вынсэ, вӧлэсьсэ, вӧӧяссэ, деревню, живносьсэ</em>
-* `Car` (1; 0% of non-empty `Case`): <em>няньтӧг</em>
 * `Com` (7; 1% of non-empty `Case`): <em>вокъяскед, дядьяскед, йӧзкед, мукедыс, родительяскед, тӧварышъескӧт, челядькед</em>
 * `Dat` (5; 1% of non-empty `Case`): <em>аелы, году, оленеводъяслы, прозвищу, часу</em>
 * `Egr` (1; 0% of non-empty `Case`): <em>бӧрсяньыс</em>
@@ -150,7 +150,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Nom` (5; 17% of non-empty `Case`): <em>Неуна, бура, бӧр, водз, квайтэнэсь</em>
 * `Ter` (1; 3% of non-empty `Case`): <em>дзикедз</em>
 * `Tra` (1; 3% of non-empty `Case`): <em>быдлаті</em>
-* `EMPTY` (177): <em>зэй, вот, и, нин, сэн, эні, кудз, сідз, ӧні, кор</em>
+* `EMPTY` (178): <em>зэй, вот, и, нин, сэн, эні, кудз, сідз, ӧні, кор</em>
 
 <table>
   <tr><th>Paradigm <i>уна</i></th><th><tt>Ins</tt></th><th><tt>Ela</tt></th></tr>

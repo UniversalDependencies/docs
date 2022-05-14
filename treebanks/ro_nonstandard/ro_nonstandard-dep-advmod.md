@@ -23,18 +23,18 @@ The following 31 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 8 advmod	color:blue
-1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	ref=MATT17.16
-2	aduș	aduce	VERB	Vmis1s	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT17.16
-3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.16
-4	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	nmod:tmod	_	ref=MATT17.16
-5	ucenicilor	ucenic	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	2	obl:pmod	_	ref=MATT17.16
-6	Tăi	tău	DET	Ds2mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	ref=MATT17.16
-7	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.16
-8	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	ref=MATT17.16|SpaceAfter=No
-9	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	obj	_	ref=MATT17.16
-10	putură	putea	AUX	Vais3p	Mood=Ind|Number=Plur|Person=3|Tense=Past	11	aux	_	ref=MATT17.16
-11	vindeca	vindeca	VERB	Vmn	VerbForm=Inf	2	conj	_	ref=MATT17.16|SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT17.16
+1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	Ref=MATT17.16
+2	aduș	aduce	VERB	Vmis1s	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Ref=MATT17.16
+3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT17.16
+4	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	nmod:tmod	_	Ref=MATT17.16
+5	ucenicilor	ucenic	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	2	obl:pmod	_	Ref=MATT17.16
+6	Tăi	tău	DET	Ds2mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	Ref=MATT17.16
+7	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=MATT17.16
+8	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	Ref=MATT17.16|SpaceAfter=No
+9	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	obj	_	Ref=MATT17.16
+10	putură	putea	AUX	Vais3p	Mood=Ind|Number=Plur|Person=3|Tense=Past	11	aux	_	Ref=MATT17.16
+11	vindeca	vindeca	VERB	Vmn	VerbForm=Inf	2	conj	_	Ref=MATT17.16|SpaceAfter=No
+12	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MATT17.16
 
 ~~~
 
@@ -45,16 +45,16 @@ The following 31 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 advmod	color:blue
-1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT22.27
-2	mai	mai	ADV	Rg	_	3	advmod	_	ref=MATT22.27
-3	apoi	apoi	ADV	Rg	_	7	advmod:tmod	_	ref=MATT22.27
-4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT22.27
-5	toți	tot	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	3	obl	_	ref=MATT22.27|SpaceAfter=No
-6	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT22.27
-7	muri	muri	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT22.27
-8	și	și	ADV	Rg	_	9	advmod	_	ref=MATT22.27
-9	muiarea	muiere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	ref=MATT22.27|SpaceAfter=No
-10	.	.	PUNCT	PERIOD	_	7	punct	_	ref=MATT22.27
+1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	7	cc	_	Ref=MATT22.27
+2	mai	mai	ADV	Rg	_	3	advmod	_	Ref=MATT22.27
+3	apoi	apoi	ADV	Rg	_	7	advmod:tmod	_	Ref=MATT22.27
+4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	Ref=MATT22.27
+5	toți	tot	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	3	obl	_	Ref=MATT22.27|SpaceAfter=No
+6	,	,	PUNCT	COMMA	_	3	punct	_	Ref=MATT22.27
+7	muri	muri	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=MATT22.27
+8	și	și	ADV	Rg	_	9	advmod	_	Ref=MATT22.27
+9	muiarea	muiere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	Ref=MATT22.27|SpaceAfter=No
+10	.	.	PUNCT	PERIOD	_	7	punct	_	Ref=MATT22.27
 
 ~~~
 
@@ -65,14 +65,14 @@ The following 31 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod	color:blue
-1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=MATT21.29
-2	mai	mai	ADV	Rg	_	3	advmod	_	ref=MATT21.29
-3	apoi	apoi	ADV	Rg	_	5	advmod:tmod	_	ref=MATT21.29
-4	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	5	expl:pv	_	ref=MATT21.29
-5	gîndi	gândi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT21.29
-6	și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT21.29
-7	mearse	merge	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	ref=MATT21.29|SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT21.29
+1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	5	cc	_	Ref=MATT21.29
+2	mai	mai	ADV	Rg	_	3	advmod	_	Ref=MATT21.29
+3	apoi	apoi	ADV	Rg	_	5	advmod:tmod	_	Ref=MATT21.29
+4	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	5	expl:pv	_	Ref=MATT21.29
+5	gîndi	gândi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=MATT21.29
+6	și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	Ref=MATT21.29
+7	mearse	merge	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	Ref=MATT21.29|SpaceAfter=No
+8	.	.	PUNCT	PERIOD	_	5	punct	_	Ref=MATT21.29
 
 ~~~
 

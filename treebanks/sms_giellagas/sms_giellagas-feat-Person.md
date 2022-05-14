@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt>, <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt>.
 
-697 tokens (28%) have a non-empty value of `Person`.
-250 types (38%) occur at least once with a non-empty value of `Person`.
-130 lemmas (29%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (448; 18% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (125; 5% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (123; 5% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (1; 0% instances).
+748 tokens (28%) have a non-empty value of `Person`.
+267 types (38%) occur at least once with a non-empty value of `Person`.
+138 lemmas (29%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (479; 18% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (138; 5% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (130; 5% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-448 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (82% of all `VERB` tokens) have a non-empty value of `Person`.
+479 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (82% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (448; 100%), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (409; 91%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (367; 82%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (232; 52%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (479; 100%), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (436; 91%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (397; 83%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (27; 6% of non-empty `Person`): <em>ǩiõzzam, vääldam, čuõlmmääm, vuâlǥam, vuõʹlǧǧem, Joordam, jieʹlim, pooutam, puõʹttem, teâđam</em>
-* `2` (36; 8% of non-empty `Person`): <em>mõõnnâd, tiâr, puäʹđ, Mõõnžiǩ, puõʹttiǩ, Haaʹlääk-a, joordak, kooʹddid, kueʹst, kulddâl</em>
-* `3` (385; 86% of non-empty `Person`): <em>ceälkk, mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, jälste, lij, vuõʹlji, jåått</em>
-* `EMPTY` (101): <em>jieʹlled, kooǯǯted, välddam, väʹldded, jååʹtted, kuâddam, mõõnnâd, teâđstam, vueʹtǩǩmen, kaunnâm</em>
+* `1` (31; 6% of non-empty `Person`): <em>ǩiõzzam, vääldam, čuõlmmääm, vuâlǥam, roʹttjam, vuõʹlǧǧem, Joordam, jieʹlim, piâzzam, pooutam</em>
+* `2` (39; 8% of non-empty `Person`): <em>mõõnnâd, tiâr, puäʹđ, Mõõnžiǩ, puõʹttiǩ, Haaʹlääk-a, joordak, kooʹddid, kueʹst, kulddâl</em>
+* `3` (409; 85% of non-empty `Person`): <em>ceälkk, mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, jälste, lij, vuõʹlji, jåått</em>
+* `EMPTY` (106): <em>jieʹlled, kooǯǯted, välddam, väʹldded, jååʹtted, kuâddam, mõõnnâd, teâđstam, vueʹtǩǩmen, hiâvted</em>
 
 <table>
   <tr><th>Paradigm <i>väʹldded</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -39,29 +39,29 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-125 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Person`.
+138 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (125; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (110; 88%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (87; 70%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (138; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (121; 88%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (97; 70%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (30; 24% of non-empty `Person`): <em>mon, muu, miʹjjid, mij, muännaid, muʹnne, muʹst</em>
-* `2` (19; 15% of non-empty `Person`): <em>ton, tuu, tij</em>
-* `3` (76; 61% of non-empty `Person`): <em>son, suu, suʹst, seeʹst, sij, suäna, suännast</em>
-* `EMPTY` (119): <em>tõn, tõt, mâiʹd, mii, puk, kååʹtt, måttam, nåkkam, tõid, dõõk</em>
+* `1` (34; 25% of non-empty `Person`): <em>mon, muu, miʹjjid, mij, muännaid, muʹnne, muʹst</em>
+* `2` (23; 17% of non-empty `Person`): <em>ton, tuu, tij</em>
+* `3` (81; 59% of non-empty `Person`): <em>son, suu, seeʹst, suʹst, sij, suäna, suännast</em>
+* `EMPTY` (132): <em>tõn, tõt, mâiʹd, mii, puk, nåkkam, tõid, dõõn, dõõt, kååʹtt</em>
 
 ### `AUX`
 
-123 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Person`.
+130 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (120; 98%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (108; 88%), <tt><a href="sms_giellagas-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (96; 78%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (82; 67%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (66; 54%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (127; 98%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (113; 87%), <tt><a href="sms_giellagas-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (103; 79%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (85; 65%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (69; 53%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (10; 8% of non-empty `Person`): <em>jiõm, leäm, jeäʹp, leʹjjem</em>
-* `2` (31; 25% of non-empty `Person`): <em>jiõk, õõk, leäk, leʹjjiǩ, Jeäʹled, leäk-a</em>
-* `3` (82; 67% of non-empty `Person`): <em>lij, leäi, ij, liâ, iʹlla, iʹlleäk, jeäʹla, lij-a, feʹrttji, jiâ</em>
-* `EMPTY` (17): <em>õõlǥ, i-ǥõl, leäkku, leeʹd, leämmaž, õlggâm, õõk</em>
+* `1` (11; 8% of non-empty `Person`): <em>jiõm, jeäʹp, leäm, leʹjjem</em>
+* `2` (31; 24% of non-empty `Person`): <em>jiõk, õõk, leäk, leʹjjiǩ, Jeäʹled, leäk-a</em>
+* `3` (88; 68% of non-empty `Person`): <em>lij, ij, leäi, liâ, iʹlla, iʹlleäk, jeäʹla, lij-a, feʹrttji, jiâ</em>
+* `EMPTY` (19): <em>õõlǥ, leäkku, i-ǥõl, leeʹd, leämmaž, õlggâm, õõk</em>
 
 <table>
   <tr><th>Paradigm <i>leeʹd</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -89,13 +89,13 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> VERB</tt> (208; 86%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (63; 59%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> VERB</tt> (214; 84%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (72; 62%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 100%),
 <tt>AUX --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt>]--> PRON</tt> (3; 100%),
 <tt>AUX --[<tt><a href="sms_giellagas-dep-obl.html">obl</a></tt>]--> PRON</tt> (2; 100%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt>]--> PRON</tt> (2; 100%),
 <tt>AUX --[<tt><a href="sms_giellagas-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PRON</tt> (1; 100%),
 <tt>AUX --[<tt><a href="sms_giellagas-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%),
 <tt>PRON --[<tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).

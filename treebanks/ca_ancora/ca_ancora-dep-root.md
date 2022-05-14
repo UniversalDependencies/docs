@@ -53,8 +53,8 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	concurs	concurs	NOUN	ncms000	Gender=Masc|Number=Sing	2	nmod	2:nmod	_
 7	és	ser	AUX	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 8	de	de	ADP	sps00	_	10	case	10:case	_
-9	1.173.978,53	1173978.53	NUM	_	NumForm=Digit|NumType=Card	10	nummod	10:nummod	_
-10	euros	euro	NOUN	zm	NumForm=Digit	0	root	0:root	SpaceAfter=No|ClusterId=3LB-CAT-06020300-34-s5.sn.21|ClusterType=Spec.number|MentionSpan=9-10
+9	1.173.978,53	1173978.53	NUM	_	NumForm=Digit|NumType=Card	10	nummod	10:nummod	Entity=(3LBCAT0602030034s5.sn.21-number-2-gstype:spec
+10	euros	euro	NOUN	zm	NumForm=Digit	0	root	0:root	SpaceAfter=No|Entity=3LBCAT0602030034s5.sn.21)
 11	.	.	PUNCT	fp	PunctType=Peri	10	punct	10:punct	_
 
 ~~~
@@ -66,17 +66,17 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	_
-2	camí	camí	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	4:nsubj	ClusterId=CESS-CAT-A-20010315-27617-s5.sn.2|ClusterType=Gen|MentionSpan=1-2
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Entity=(CESSCATA2001031527617s5.sn.2--2-gstype:gen
+2	camí	camí	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	4:nsubj	Entity=CESSCATA2001031527617s5.sn.2)
 3	és	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 4	ple	ple	ADJ	aq0ms0	Gender=Masc|Number=Sing	0	root	0:root	_
 5	d'	de	ADP	sps00	_	6	case	6:case	SpaceAfter=No
-6	entrebancs	entrebanc	NOUN	ncmp000	Gender=Masc|Number=Plur	4	nmod	4:nmod	ClusterId=CESS-CAT-A-20010315-27617-c6|ClusterType=Gen|MentionSpan=6-11
-7	que	que	PRON	pr0cn000	PronType=Rel	11	obj	11:obj	ClusterId=CESS-CAT-A-20010315-27617-c6|ClusterType=Gen|MentionSpan=7|MentionMisc=CorefType:ident
+6	entrebancs	entrebanc	NOUN	ncmp000	Gender=Masc|Number=Plur	4	nmod	4:nmod	Entity=(CESSCATA2001031527617c6--1-gstype:gen
+7	que	que	PRON	pr0cn000	PronType=Rel	11	obj	11:obj	Entity=(CESSCATA2001031527617c6--1-CorefType:ident,gstype:gen)
 8	hem	haver	AUX	vaip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 9	d'	de	ADP	sps00	_	11	mark	11:mark	SpaceAfter=No
 10	anar	anar	AUX	vmn0000	VerbForm=Inf	11	aux	11:aux	_
-11	superant	superar	VERB	vmg0000	VerbForm=Ger	6	acl	6:acl	SpaceAfter=No
+11	superant	superar	VERB	vmg0000	VerbForm=Ger	6	acl	6:acl	SpaceAfter=No|Entity=CESSCATA2001031527617c6)
 12	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~

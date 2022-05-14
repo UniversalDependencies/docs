@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-17 tokens (0%) have a non-empty value of `Foreign`.
-17 types (0%) occur at least once with a non-empty value of `Foreign`.
-16 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+18 tokens (0%) have a non-empty value of `Foreign`.
+18 types (0%) occur at least once with a non-empty value of `Foreign`.
+17 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
@@ -23,20 +23,20 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (11; 100% of non-empty `Foreign`): <em>Towers, n-Og, Bay, From, Horizon, Jubilee, New, Tiger, Trust, World</em>
-* `EMPTY` (1580): <em>Cymru, Nghymru, Gymru, Bangor, Eryri, Gwynedd, Aberystwyth, Jones, Lloegr, Caerdydd</em>
+* `EMPTY` (1702): <em>Cymru, Nghymru, Gymru, Gwynedd, Bangor, Eryri, Aberystwyth, Jones, Lloegr, Ewrop</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (11) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
-3 <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+4 <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 67%), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 75%), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (3; 100% of non-empty `Foreign`): <em>Lady, Nation, irritating</em>
-* `EMPTY` (12438): <em>bod, cael, ôl, iaith, fod, Gymraeg, gael, dod, nifer, ysgol</em>
+* `Yes` (4; 100% of non-empty `Foreign`): <em>Lady, Nation, emergency, irritating</em>
+* `EMPTY` (13672): <em>bod, cael, ôl, iaith, fod, gael, ysgol, Gymraeg, nifer, mynd</em>
 
 ### `DET`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Na, The</em>
-* `EMPTY` (2589): <em>y, 'r, yr, pa, ba, mha, An, P'</em>
+* `EMPTY` (2798): <em>y, 'r, yr, pa, ba, An, P', mha</em>
 
 ### `ADJ`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Iron</em>
-* `EMPTY` (2832): <em>newydd, Cymraeg, bob, Gymraeg, mwy, eraill, lleol, pob, arall, unrhyw</em>
+* `EMPTY` (3067): <em>newydd, Cymraeg, bob, Gymraeg, mwy, eraill, lleol, arall, pob, mawr</em>
 
 ## Relations with Agreement in `Foreign`
 

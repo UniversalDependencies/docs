@@ -8,33 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-49 nodes (0%) are attached to their parents as `list`.
+76 nodes (0%) are attached to their parents as `list`.
 
-49 instances of `list` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.04081632653061.
+76 instances of `list` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.18421052631579.
 
-The following 4 pairs of parts of speech are connected with `list`: <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (35; 71% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (12; 24% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `list`: <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (49; 64% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (15; 20% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 list	color:blue
-1	A	A	PROPN	NNP	Number=Sing	0	root	0:root	Bridge=106<107|Discourse=elaboration:69->67:1|Entity=(organization-107-acc:inf-1-sgl|SpaceAfter=No|XML=<hi rend:::"bold"><ref><w>
-2	-	-	PUNCT	HYPH	_	3	punct	3:punct	SpaceAfter=No
-3	1	1	NUM	CD	NumForm=Digit|NumType=Card	1	dep	1:dep	Entity=107)|XML=</w></ref></hi>
-4	2470	2470	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	5:nummod	Entity=(place-108-new-2,3-sgl
-5	Lemoine	Lemoine	PROPN	NNP	Number=Sing	6	compound	6:compound	_
-6	Avenue	Avenue	PROPN	NNP	Number=Sing	1	list	1:list	Entity=108)|SpaceAfter=No
-7	,	,	PUNCT	,	_	10	punct	10:punct	_
-8	tel	telephone	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	Entity=(abstract-109-new-1-coref)|SpaceAfter=No
-9	:	:	PUNCT	:	_	8	punct	8:punct	_
-10	1	1	NUM	CD	NumForm=Digit|NumType=Card	1	list	1:list	Discourse=elaboration:70->69:0|Entity=(abstract-109-giv:act-1,2,3-coref
-11	201	201	NUM	CD	NumForm=Digit|NumType=Card	10	flat	10:flat	_
-12	944-3737	944-3737	NUM	CD	NumForm=Word|NumType=Card	10	flat	10:flat	Entity=109)|SpaceAfter=No
-13	.	.	PUNCT	.	_	1	punct	1:punct	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 12 list	color:blue
+1	(	(	PUNCT	-LRB-	_	2	punct	2:punct	Discourse=organization-preparation:45->46:0|SpaceAfter=No
+2	credit	credit	NOUN	NN	Number=Sing	0	root	0:root	Entity=(71-abstract-new-cf3-1-sgl)|SpaceAfter=No
+3	:	:	PUNCT	:	_	4	punct	4:punct	_
+4	modification	modification	NOUN	NN	Number=Sing	2	dep	2:dep	Discourse=attribution-positive:46->40:2|Entity=(72-abstract-new-cf4-1,9-sgl
+5	of	of	ADP	IN	_	6	case	6:case	_
+6	work	work	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	Entity=(73-abstract-new-cf5-1,7-sgl
+7	by	by	ADP	IN	_	9	case	9:case	_
+8	“	''	PUNCT	``	_	9	punct	9:punct	SpaceAfter=No
+9	slgckgc	slgckgc	PROPN	NNP	Number=Sing	6	nmod	6:nmod:by	Entity=(74-person-new-cf1-1-sgl)|SpaceAfter=No
+10	”	''	PUNCT	''	_	9	punct	9:punct	_
+11	/	/	PUNCT	SYM	_	12	punct	12:punct	_
+12	Flickr	Flickr	PROPN	NNP	Number=Sing	9	list	9:list	Entity=(75-abstract-new-cf2-1-sgl-Flickr)73)72)|SpaceAfter=No
+13	)	)	PUNCT	-RRB-	_	2	punct	2:punct	_
 
 ~~~
 
@@ -45,16 +45,16 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 10 list	color:blue
-1	A	A	PROPN	NNP	Number=Sing	0	root	0:root	Bridge=106<107|Discourse=elaboration:69->67:1|Entity=(organization-107-acc:inf-1-sgl|SpaceAfter=No|XML=<hi rend:::"bold"><ref><w>
+1	A	A	PROPN	NNP	Number=Sing	0	root	0:root	Bridge=106<107|Discourse=elaboration-additional:69->67:1|Entity=(107-organization-acc:inf-cf2-1-sgl|SpaceAfter=No|XML=<hi rend:::"bold"><ref><w>
 2	-	-	PUNCT	HYPH	_	3	punct	3:punct	SpaceAfter=No
 3	1	1	NUM	CD	NumForm=Digit|NumType=Card	1	dep	1:dep	Entity=107)|XML=</w></ref></hi>
-4	2470	2470	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	5:nummod	Entity=(place-108-new-2,3-sgl
+4	2470	2470	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	5:nummod	Entity=(108-place-new-cf3-2,3-sgl
 5	Lemoine	Lemoine	PROPN	NNP	Number=Sing	6	compound	6:compound	_
 6	Avenue	Avenue	PROPN	NNP	Number=Sing	1	list	1:list	Entity=108)|SpaceAfter=No
-7	,	,	PUNCT	,	_	10	punct	10:punct	_
-8	tel	telephone	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	Entity=(abstract-109-new-1-coref)|SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	8:punct	_
+8	tel	telephone	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	Entity=(109-abstract-new-cf1-1-coref)|SpaceAfter=No
 9	:	:	PUNCT	:	_	8	punct	8:punct	_
-10	1	1	NUM	CD	NumForm=Digit|NumType=Card	1	list	1:list	Discourse=elaboration:70->69:0|Entity=(abstract-109-giv:act-1,2,3-coref
+10	1	1	NUM	CD	NumForm=Digit|NumType=Card	1	list	1:list	Discourse=elaboration-additional:70->69:0|Entity=(109-abstract-giv:act-cf1-1,2,3-coref
 11	201	201	NUM	CD	NumForm=Digit|NumType=Card	10	flat	10:flat	_
 12	944-3737	944-3737	NUM	CD	NumForm=Word|NumType=Card	10	flat	10:flat	Entity=109)|SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	1:punct	_
@@ -63,39 +63,42 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 19 list	color:blue
-1	Paseo	paseo	PROPN	NNP	Number=Sing	5	compound	5:compound	Discourse=joint_m:70->63:2|Entity=(place-126-new-1,2,3,4,5-coref(place-51-giv:inact-1,2,3-coref-Paseo_de_Montejo|XML=<ref><hi rend:::"bold">
-2	de	de	PROPN	NNP	Number=Sing	1	flat	1:flat	_
-3	Montejo	Montejo	PROPN	NNP	Number=Sing	1	flat	1:flat	Entity=(person-32-giv:inact-1-coref-Francisco_de_Montejo_the_Younger)51)
-4	Information	Information	PROPN	NNP	Number=Sing	5	compound	5:compound	_
-5	Module	Module	PROPN	NNP	Number=Sing	0	root	0:root	Entity=126)|XML=</hi></ref>
-6	(	(	PUNCT	-LRB-	_	7	punct	7:punct	Discourse=restatement:71->70:0|SpaceAfter=No
-7	Módulo	Módulo	X	FW	_	5	appos	5:appos	Entity=(place-126-giv:act-1,2,3,4,5,6,7-appos|XML=<ref><hi rend:::"italic">
-8	de	de	X	FW	_	7	flat	7:flat	_
-9	Información	Información	X	FW	_	7	flat	7:flat	_
-10	Turística	Turística	X	FW	_	7	flat	7:flat	_
-11	Paseo	paseo	X	FW	_	7	flat	7:flat	Entity=(place-51-giv:act-3-coref-Paseo_de_Montejo
-12	de	de	X	FW	_	7	flat	7:flat	_
-13	Montejo	Montejo	X	FW	_	7	flat	7:flat	Entity=(person-32-giv:act-1-coref-Francisco_de_Montejo_the_Younger)51)126)|SpaceAfter=No|XML=</hi></ref>
-14	)	)	PUNCT	-RRB-	_	7	punct	7:punct	_
-15	Ave	Ave	X	FW	_	1	list	1:list	Discourse=elaboration:72->70:1|Entity=(place-127-new-5-sgl(place-51-giv:act-1,2,3,4-coref-Paseo_de_Montejo|XML=<ref>
-16	Paseo	paseo	X	FW	_	15	flat	15:flat	_
-17	de	de	X	FW	_	15	flat	15:flat	_
-18	Montejo	Montejo	X	FW	_	15	flat	15:flat	Entity=(person-32-giv:act-1-coref-Francisco_de_Montejo_the_Younger)51)
-19	56A	56A	SYM	SYM	_	1	list	1:list	_
-20	x	x	ADP	IN	_	21	case	21:case	_
-21	33A	33A	SYM	SYM	_	19	nmod	19:nmod:by	Entity=127)|XML=</ref>
-22	☎	☎	SYM	SYM	_	24	nsubj	24:nsubj	Entity=(abstract-128-new-3-sgl
-23	+	+	SYM	SYM	_	24	dep	24:dep	XML=<ref>
-24	529999204044	529999204044	NUM	CD	NumForm=Digit|NumType=Card	1	list	1:list	Entity=128)|XML=</ref>
-25	e-mail	E-mail	NOUN	NN	Number=Sing	27	nsubj	27:nsubj	Entity=(abstract-102-giv:inact-1-coref)|SpaceAfter=No
-26	:	:	PUNCT	:	_	25	punct	25:punct	_
-27	turismo@merida.gob.mx	turismo@merida.gob.mx	PROPN	NNP	Number=Sing	1	list	1:list	Discourse=joint_m:73->72:0|Entity=(abstract-102-giv:act-1-coref)|SpaceAfter=No|XML=<ref></ref>
-28	.	.	PUNCT	.	_	5	punct	5:punct	_
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 30 list	color:blue
+1	Marina	Marina	PROPN	NNP	Number=Sing	0	root	0:root	Discourse=joint-other_m:146->143:2|Entity=(218-place-new-cf3-1-sgl)|SpaceAfter=No|XML=<hi rend:::"italic">
+2	:	:	PUNCT	:	_	4	punct	4:punct	_
+3	54	54	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	Discourse=elaboration-additional:147->146:0|Entity=(219-place-new-cf4-2,4,7,9-sgl|SpaceAfter=No|XML=<w>
+4	º	º	NOUN	NNS	Number=Plur	1	parataxis	1:parataxis	XML=</w>
+5	55,7	55,7	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	6:nummod	SpaceAfter=No|XML=<w>
+6	'	'	NOUN	NNS	Number=Plur	4	conj	4:conj	XML=</w>
+7	N	N	ADV	RB	Degree=Pos	4	nmod:npmod	4:nmod:npmod	_
+8	10	10	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	SpaceAfter=No|XML=<w>
+9	º	º	NOUN	NNS	Number=Plur	4	conj	4:conj	XML=</w>
+10	30,0	30,0	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	11:nummod	SpaceAfter=No|XML=<w>
+11	'	'	NOUN	NNS	Number=Plur	9	conj	4:conj|9:conj	XML=</w>
+12	E	E	ADV	RB	Degree=Pos	9	nmod:npmod	9:nmod:npmod	Entity=219)|SpaceAfter=No
+13	;	;	PUNCT	:	_	14	punct	14:punct	_
+14	VHF	VHF	NOUN	NN	Number=Sing	4	list	4:list	Discourse=joint-other_m:148->147:0|Entity=(220-abstract-new-cf5-1-sgl)|SpaceAfter=No
+15	;	;	PUNCT	:	_	17	punct	17:punct	_
+16	10	10	NUM	CD	NumForm=Digit|NumType=Card	17	nummod	17:nummod	Discourse=joint-other_m:149->147:0|Entity=(221-place-new-cf6-2-sgl
+17	berths	berth	NOUN	NNS	Number=Plur	4	list	4:list	Entity=221)
+18	at	at	ADP	IN	_	20	case	20:case	SpaceAfter=No
+19	?	?	SYM	SYM	_	20	nummod	20:nummod	Entity=(222-abstract-new-cf9-2-sgl
+20	DKK	DKK	SYM	SYM	_	17	nmod	17:nmod:at	Entity=222)|SpaceAfter=No
+21	;	;	PUNCT	:	_	22	punct	22:punct	_
+22	Depth	depth	NOUN	NN	Number=Sing	25	nsubj	25:nsubj	Discourse=organization-preparation:150->151:0|Entity=(223-abstract-new-cf1-1-sgl)|SpaceAfter=No|XML=<w>
+23	:	:	PUNCT	:	_	22	punct	22:punct	SpaceAfter=No
+24	2	2	NUM	CD	NumForm=Digit|NumType=Card	25	nummod	25:nummod	Discourse=joint-other_m:151->147:0|Entity=(224-abstract-new-cf7-2-sgl|SpaceAfter=No
+25	m	meter	NOUN	NNS	Number=Plur	4	list	4:list	Entity=224)|SpaceAfter=No|XML=</w>
+26	;	;	PUNCT	:	_	27	punct	27:punct	_
+27	Speed	speed	NOUN	NN	Number=Sing	30	nsubj	30:nsubj	Discourse=organization-preparation:152->153:0|Entity=(225-abstract-new-cf2-1-sgl)|SpaceAfter=No
+28	:	:	PUNCT	:	_	27	punct	27:punct	_
+29	3	3	NUM	CD	NumForm=Digit|NumType=Card	30	nummod	30:nummod	Discourse=joint-other_m:153->147:0|Entity=(226-abstract-new-cf8-2-sgl
+30	knots	knot	NOUN	NNS	Number=Plur	4	list	4:list	Entity=226)|SpaceAfter=No
+31	.	.	PUNCT	.	_	1	punct	1:punct	XML=</hi>
 
 ~~~
 

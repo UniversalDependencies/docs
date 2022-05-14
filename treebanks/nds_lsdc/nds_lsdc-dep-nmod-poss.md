@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nds_lsdc-dep-nmod.html">nmod</a></tt>.
 
-5 nodes (0%) are attached to their parents as `nmod:poss`.
+6 nodes (0%) are attached to their parents as `nmod:poss`.
 
-3 instances of `nmod:poss` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+4 instances of `nmod:poss` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.33333333333333.
 
-The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (3; 60% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 20% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 17% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu

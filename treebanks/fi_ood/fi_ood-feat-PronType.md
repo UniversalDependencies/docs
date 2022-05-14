@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 `ADJ` tokens may have the following values of `PronType`:
 
 * `Rcp` (1; 100% of non-empty `PronType`): <em>toista</em>
-* `EMPTY` (1351): <em>hyvä, koko, pitkä, rauhallinen, korkea, oma, vanha, hyvää, viime, huono</em>
+* `EMPTY` (1355): <em>hyvä, koko, pitkä, rauhallinen, korkea, oma, vanha, hyvää, viime, huono</em>
 
 ### `ADV`
 

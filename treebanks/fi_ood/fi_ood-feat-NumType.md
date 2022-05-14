@@ -29,14 +29,14 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADJ`
 
-61 <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `NumType`.
+61 <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="fi_ood-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="fi_ood-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (42; 69%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (38; 62%), <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37; 61%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (61; 100% of non-empty `NumType`): <em>1., 2., toinen, 14., 3., ensimmäinen, 4., 5., 9., ensimmäistä</em>
-* `EMPTY` (1291): <em>hyvä, koko, pitkä, rauhallinen, korkea, oma, vanha, hyvää, viime, huono</em>
+* `EMPTY` (1295): <em>hyvä, koko, pitkä, rauhallinen, korkea, oma, vanha, hyvää, viime, huono</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (26) occur only with one value of `NumType`.
 

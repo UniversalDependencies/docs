@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Aslı Kuzgun, Neslihan Cesur, Olcay Taner Yıldız.
 
 Repository: [UD_English-Atis](https://github.com/UniversalDependencies/UD_English-Atis)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_atis29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_atis210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -71,7 +71,7 @@ The ATIS corpus: https://github.com/howl-anderson/ATIS_dataset/blob/master/READM
 
 ## Relations
 
-[acl](en_atis-dep-acl.html) – [acl:relcl](en_atis-dep-acl-relcl.html) – [advcl](en_atis-dep-advcl.html) – [advmod](en_atis-dep-advmod.html) – [amod](en_atis-dep-amod.html) – [appos](en_atis-dep-appos.html) – [aux](en_atis-dep-aux.html) – [aux:pass](en_atis-dep-aux-pass.html) – [case](en_atis-dep-case.html) – [cc](en_atis-dep-cc.html) – [cc:preconj](en_atis-dep-cc-preconj.html) – [ccomp](en_atis-dep-ccomp.html) – [compound](en_atis-dep-compound.html) – [compound:prt](en_atis-dep-compound-prt.html) – [conj](en_atis-dep-conj.html) – [cop](en_atis-dep-cop.html) – [csubj](en_atis-dep-csubj.html) – [dep](en_atis-dep-dep.html) – [det](en_atis-dep-det.html) – [det:predet](en_atis-dep-det-predet.html) – [discourse](en_atis-dep-discourse.html) – [dislocated](en_atis-dep-dislocated.html) – [expl](en_atis-dep-expl.html) – [fixed](en_atis-dep-fixed.html) – [flat](en_atis-dep-flat.html) – [goeswith](en_atis-dep-goeswith.html) – [iobj](en_atis-dep-iobj.html) – [list](en_atis-dep-list.html) – [mark](en_atis-dep-mark.html) – [nmod](en_atis-dep-nmod.html) – [nmod:poss](en_atis-dep-nmod-poss.html) – [nmod:tmod](en_atis-dep-nmod-tmod.html) – [nsubj](en_atis-dep-nsubj.html) – [nummod](en_atis-dep-nummod.html) – [obj](en_atis-dep-obj.html) – [obl](en_atis-dep-obl.html) – [obl:tmod](en_atis-dep-obl-tmod.html) – [parataxis](en_atis-dep-parataxis.html) – [reparandum](en_atis-dep-reparandum.html) – [root](en_atis-dep-root.html) – [xcomp](en_atis-dep-xcomp.html)
+[acl](en_atis-dep-acl.html) – [acl:relcl](en_atis-dep-acl-relcl.html) – [advcl](en_atis-dep-advcl.html) – [advmod](en_atis-dep-advmod.html) – [amod](en_atis-dep-amod.html) – [appos](en_atis-dep-appos.html) – [aux](en_atis-dep-aux.html) – [aux:pass](en_atis-dep-aux-pass.html) – [case](en_atis-dep-case.html) – [cc](en_atis-dep-cc.html) – [cc:preconj](en_atis-dep-cc-preconj.html) – [ccomp](en_atis-dep-ccomp.html) – [compound](en_atis-dep-compound.html) – [compound:prt](en_atis-dep-compound-prt.html) – [conj](en_atis-dep-conj.html) – [cop](en_atis-dep-cop.html) – [csubj](en_atis-dep-csubj.html) – [dep](en_atis-dep-dep.html) – [det](en_atis-dep-det.html) – [det:predet](en_atis-dep-det-predet.html) – [discourse](en_atis-dep-discourse.html) – [dislocated](en_atis-dep-dislocated.html) – [expl](en_atis-dep-expl.html) – [fixed](en_atis-dep-fixed.html) – [flat](en_atis-dep-flat.html) – [iobj](en_atis-dep-iobj.html) – [list](en_atis-dep-list.html) – [mark](en_atis-dep-mark.html) – [nmod](en_atis-dep-nmod.html) – [nmod:poss](en_atis-dep-nmod-poss.html) – [nmod:tmod](en_atis-dep-nmod-tmod.html) – [nsubj](en_atis-dep-nsubj.html) – [nummod](en_atis-dep-nummod.html) – [obj](en_atis-dep-obj.html) – [obl](en_atis-dep-obl.html) – [obl:tmod](en_atis-dep-obl-tmod.html) – [parataxis](en_atis-dep-parataxis.html) – [reparandum](en_atis-dep-reparandum.html) – [root](en_atis-dep-root.html) – [xcomp](en_atis-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -427,5 +427,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>det:predet</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>obl:tmod</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>orphan</a>, <a>punct</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>punct</a></li>
 </ul>

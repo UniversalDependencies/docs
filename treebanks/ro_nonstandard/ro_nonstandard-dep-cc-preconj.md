@@ -46,19 +46,19 @@ The following 11 pairs of parts of speech are connected with `cc:preconj`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 cc:preconj	color:blue
-1	Şi	și	CCONJ	Ccssp	Polarity=Pos	4	cc:preconj	_	ref=MATT17.23|SpaceAfter=No
-2	-l	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	4	obj	_	ref=MATT17.23
-3	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	ref=MATT17.23
-4	omorî	omorî	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT17.23
-5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT17.23
-6	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	4	obl:pmod	_	ref=MATT17.23
-7	și	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT17.23
-8	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	9	det	_	ref=MATT17.23
-9	treia	trei	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	10	nummod	_	ref=MATT17.23
-10	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	nmod:tmod	_	ref=MATT17.23
-11	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	aux	_	ref=MATT17.23
-12	învie	învia	VERB	Vmn	VerbForm=Inf	4	conj	_	ref=MATT17.23|SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MATT17.23
+1	Şi	și	CCONJ	Ccssp	Polarity=Pos	4	cc:preconj	_	Ref=MATT17.23|SpaceAfter=No
+2	-l	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	4	obj	_	Ref=MATT17.23
+3	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	Ref=MATT17.23
+4	omorî	omorî	VERB	Vmn	VerbForm=Inf	0	root	_	Ref=MATT17.23
+5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	Ref=MATT17.23
+6	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	4	obl:pmod	_	Ref=MATT17.23
+7	și	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	Ref=MATT17.23
+8	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	9	det	_	Ref=MATT17.23
+9	treia	trei	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	10	nummod	_	Ref=MATT17.23
+10	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	nmod:tmod	_	Ref=MATT17.23
+11	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	aux	_	Ref=MATT17.23
+12	învie	învia	VERB	Vmn	VerbForm=Inf	4	conj	_	Ref=MATT17.23|SpaceAfter=No
+13	.	.	PUNCT	PERIOD	_	4	punct	_	Ref=MATT17.23
 
 ~~~
 
@@ -69,22 +69,22 @@ The following 11 pairs of parts of speech are connected with `cc:preconj`: <tt><
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 cc:preconj	color:blue
-1	Că	că	SCONJ	Csssp	Polarity=Pos	4	mark	_	ref=PSALM.88.8
-2	de-	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	mark	_	ref=PSALM.88.8|SpaceAfter=No
-3	a	a	ADP	Spsa	AdpType=Prep|Case=Acc	4	mark	_	ref=PSALM.88.8
-4	tocma	tocma	ADV	Rg	_	0	root	_	ref=PSALM.88.8
-5	nu	nu	ADV	Qz	Polarity=Neg	4	advmod	_	ref=PSALM.88.8
-6	ți	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	4	iobj	_	ref=PSALM.88.8|SpaceAfter=No
-7	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	ref=PSALM.88.8
-8	nime	nimeni	PRON	Pz3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	4	nsubj	_	ref=PSALM.88.8|SpaceAfter=No
-9	,	,	PUNCT	COMMA	_	11	punct	_	ref=PSALM.88.8
-10	Nice	nici	CCONJ	Cccsz	Compound=Yes|Polarity=Neg	11	cc:preconj	_	ref=PSALM.88.8
-11	gios	jos	ADV	Rg	_	4	advmod	_	ref=PSALM.88.8|SpaceAfter=No
-12	,	,	PUNCT	COMMA	_	15	punct	_	ref=PSALM.88.8
-13	nice	nici	CCONJ	Cccsp	Compound=Yes|Polarity=Pos	15	cc	_	ref=PSALM.88.8|SpaceAfter=No
-14	-n	în	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=PSALM.88.8
-15	nălțîme	înălțime	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	conj	_	ref=PSALM.88.8|SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	4	punct	_	ref=PSALM.88.8
+1	Că	că	SCONJ	Csssp	Polarity=Pos	4	mark	_	Ref=PSALM.88.8
+2	de-	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	mark	_	Ref=PSALM.88.8|SpaceAfter=No
+3	a	a	ADP	Spsa	AdpType=Prep|Case=Acc	4	mark	_	Ref=PSALM.88.8
+4	tocma	tocma	ADV	Rg	_	0	root	_	Ref=PSALM.88.8
+5	nu	nu	ADV	Qz	Polarity=Neg	4	advmod	_	Ref=PSALM.88.8
+6	ți	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	4	iobj	_	Ref=PSALM.88.8|SpaceAfter=No
+7	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	Ref=PSALM.88.8
+8	nime	nimeni	PRON	Pz3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	4	nsubj	_	Ref=PSALM.88.8|SpaceAfter=No
+9	,	,	PUNCT	COMMA	_	11	punct	_	Ref=PSALM.88.8
+10	Nice	nici	CCONJ	Cccsz	Compound=Yes|Polarity=Neg	11	cc:preconj	_	Ref=PSALM.88.8
+11	gios	jos	ADV	Rg	_	4	advmod	_	Ref=PSALM.88.8|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	15	punct	_	Ref=PSALM.88.8
+13	nice	nici	CCONJ	Cccsp	Compound=Yes|Polarity=Pos	15	cc	_	Ref=PSALM.88.8|SpaceAfter=No
+14	-n	în	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	Ref=PSALM.88.8
+15	nălțîme	înălțime	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	conj	_	Ref=PSALM.88.8|SpaceAfter=No
+16	.	.	PUNCT	PERIOD	_	4	punct	_	Ref=PSALM.88.8
 
 ~~~
 

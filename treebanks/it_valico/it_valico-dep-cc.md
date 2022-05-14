@@ -11,9 +11,9 @@ This relation is universal.
 273 nodes (4%) are attached to their parents as `cc`.
 
 273 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.89010989010989.
+Average distance between parent and child is 2.88644688644689.
 
-The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (200; 73% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (37; 14% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (27; 10% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (199; 73% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (37; 14% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (28; 10% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -71,7 +71,7 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="i
 2	e	e	CCONJ	CC	_	4	cc	_	_
 3	senza	senza	ADP	E	_	4	case	_	_
 4	giornale	giornale	NOUN	S	_	1	conj	_	SpaceAfter=No
-5	.﻿	.﻿	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
+5	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

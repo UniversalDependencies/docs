@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Indonesian-GSD: POS Tags: `SCONJ`
 
 There are 86 `SCONJ` lemmas (0%), 87 `SCONJ` types (0%) and 2077 `SCONJ` tokens (2%).
-Out of 17 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 8 in number of types and 13 in number of tokens.
+Out of 17 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 9 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>untuk, bahwa, dengan, karena, ketika, sehingga, maka, jika, setelah, sementara</em>
 
@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>untuk</em> (<tt><a href="id_gsd-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.011628 (the average of all parts of speech is 1.119800).
+The form / lemma ratio of `SCONJ` is 1.011628 (the average of all parts of speech is 1.120254).
 
 The 1st highest number of forms (2) was observed with the lemma “akibat”: <em>akibat, akibatnya</em>.
 

@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ru_syntagrus-pos-AD
 
 ### `ADJ`
 
-12330 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Variant`.
+12330 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
 The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12330; 100%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12328; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9876; 80%).
 

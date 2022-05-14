@@ -15,23 +15,22 @@ The 10 most frequent `PRON` types:  <em>se, nichž, němž, jej, němuž, je, ji
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 472, <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 29), <em>je</em> (<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 199, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 11, <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 10), <em>jehož</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5)
+The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 472, <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 29), <em>je</em> (<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 209, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 11), <em>jehož</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5)
 
 
 * <em>se</em>
   * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 472: <em>Výroční zpráva <b>se</b> nevyhotovuje v případech uvedených v §_20_odst._2 .</em>
   * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 29: <em>Do nákladů nebo výnosů jsou zaúčtovány ve stejných obdobích , kdy jsou zaúčtovány náklady nebo výnosy spojené <b>se</b> zajišťovanými položkami .</em>
 * <em>je</em>
-  * <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 199: <em>Spotřeba povolenek <b>je</b> vykázána bez ohledu na jejich následné vyřazení .</em>
+  * <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 209: <em>Spotřeba povolenek <b>je</b> vykázána bez ohledu na jejich následné vyřazení .</em>
   * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 11: <em>V případě , že <b>je</b> nelze přiřadit , uvedou se v provozní činnosti .</em>
-  * <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 10: <em>Hospodářským rokem je účetní období , které může začínat pouze prvním dnem jiného měsíce , než <b>je</b> leden .</em>
 * <em>jehož</em>
   * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6: <em>(6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán , na <b>jehož</b> podkladě provádějí odpisování majetku v průběhu jeho používání .</em>
   * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5: <em>(4) Podpisovým záznamem se rozumí účetní záznam , <b>jehož</b> obsahem je vlastnoruční podpis nebo uznávaný elektronický podpis podle zvláštního právního předpisu , anebo obdobný průkazný účetní záznam v technické formě , který zaručuje průkaznou a jednoznačnou původnost .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 9.250000 (the average of all parts of speech is 1.725132).
+The form / lemma ratio of `PRON` is 9.250000 (the average of all parts of speech is 1.723629).
 
 The 1st highest number of forms (15) was observed with the lemma “on”: <em>ho, je, jej, jemu, ji, jim, jimi, jí, nich, nim, nimi, ní, ním, ně, něj</em>.
 
@@ -52,7 +51,7 @@ Examples: <em>se</em>
 
 `PRON` nodes are attached to their parents using 10 different relations: <tt><a href="cs_cltt-dep-expl-pass.html">expl:pass</a></tt> (358; 56% instances), <tt><a href="cs_cltt-dep-expl-pv.html">expl:pv</a></tt> (113; 18% instances), <tt><a href="cs_cltt-dep-obl.html">obl</a></tt> (68; 11% instances), <tt><a href="cs_cltt-dep-obl-arg.html">obl:arg</a></tt> (32; 5% instances), <tt><a href="cs_cltt-dep-obj.html">obj</a></tt> (28; 4% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (24; 4% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="cs_cltt-dep-acl-relcl.html">acl:relcl</a></tt> (4; 1% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="cs_cltt-dep-iobj.html">iobj</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (529; 83% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (60; 9% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (36; 6% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (8; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `PRON` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (528; 83% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (60; 9% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (36; 6% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (8; 1% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 548 (86%) `PRON` nodes are leaves.
 

@@ -133,13 +133,13 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="tr_kenet-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (10434; 100%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (10435; 100%),
 <tt>VERB --[<tt><a href="tr_kenet-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7329; 79%),
 <tt>VERB --[<tt><a href="tr_kenet-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6479; 97%),
 <tt>VERB --[<tt><a href="tr_kenet-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4635; 75%),
-<tt>NOUN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2826; 100%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2827; 100%),
 <tt>NOUN --[<tt><a href="tr_kenet-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2450; 100%),
-<tt>NOUN --[<tt><a href="tr_kenet-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2188; 100%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2189; 100%),
 <tt>NOUN --[<tt><a href="tr_kenet-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2022; 100%),
 <tt>VERB --[<tt><a href="tr_kenet-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1999; 78%),
 <tt>VERB --[<tt><a href="tr_kenet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1948; 78%).

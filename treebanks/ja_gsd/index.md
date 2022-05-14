@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Ryan McDonald, Joakim Nivre, Daniel Zeman.
 
 Repository: [UD_Japanese-GSD](https://github.com/UniversalDependencies/UD_Japanese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_gsd29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_gsd210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -140,22 +140,22 @@ through annotation, discussion and validation with
 </ul>
 
 <ul>
-<li>This corpus contains 55 lemmas tagged as pronouns (PRON): You, あちこち, あちら, あなた, ある, あれ, いずこ, いずれ, いつ, おまえ, おめー, お前, か, かれ, ここ, こちら, こっち, これ, こんな, そこ, そちら, そらあ, それ, そんな, どこ, どちら, どなた, どれ, どんな, なに, なん, ぼく, わしゃ, わたし, われわれ, オタク, キミ, ボク, ヲタク, 何, 何処, 何時, 余, 俺, 僕, 君, 己, 彼, 彼女, 彼方, 我, 我々, 私, 誰, 貴様</li>
+<li>This corpus contains 35 lemmas tagged as pronouns (PRON): You, こんな, そんな, どんな, わし, 何, 何れ, 何処, 何方, 何時, 余, 俺, 僕, 其れ, 其処, 其方, 君, 己, 彼, 彼れ, 彼女, 彼方, 彼方此方, 御前, 御宅, 我, 我々, 本の, 此れ, 此処, 此方, 私, 誰, 貴方, 貴様</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as determiners (DET): あの, あらゆる, この, その, とある, どの, 我が, 或る</li>
+<li>This corpus contains 8 lemmas tagged as determiners (DET): あらゆる, とある, 何の, 其の, 彼の, 我が, 或る, 此の</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 44 lemmas tagged as auxiliaries (AUX): いい, いたす, いただく, がたい, がましい, くださる, ごとし, させる, じゃ, する, せる, そう, た, たい, たがる, たり, だ, ちゃう, つう, できる, とく, ない, なさる, なり, にくい, べし, ほしい, まい, まじ, ます, みたい, みたく, む, や, やすい, よい, よう, らしい, られる, り, れる, 易い, 辛い, 難い</li>
+<li>This corpus contains 44 lemmas tagged as auxiliaries (AUX): がましい, ごとし, させる, じゃ, ず, せる, そう, た, たい, たがる, たり, だ, ちゃう, つう, てく, てる, です, とく, ない, なり, べし, まい, まじ, ます, みたい, む, や, らしい, られる, り, れる, 下さる, 出来る, 易い, 様, 欲しい, 為さる, 為る, 無い, 致す, 良い, 辛い, 難い, 頂く</li>
 </ul>
 
 <ul>
-<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: いたす, いただく, くださる, する, そう, できる, なさる</li>
+<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: 下さる, 出来る, 為さる, 為る, 致す, 頂く</li>
 </ul>
 
 <ul>
@@ -182,8 +182,9 @@ through annotation, discussion and validation with
 <ul>
   <li>Neg
     <ul>
-      <li>NOUN: 不, 非, 反, 無, 未, 異</li>
-      <li>SCONJ: ない, ず, ん, なかっ, なく, なけれ, ざる, ぬ, なきゃ, な</li>
+      <li>AUX: ない, ず, ん, なかっ, なく, なけれ, ざる, ぬ, なきゃ, な</li>
+      <li>NOUN: 不, 非, 反, 無, なし, 未, ナシ, 異</li>
+      <li>SCONJ: ず</li>
     </ul>
   </li>
 </ul>
@@ -216,11 +217,11 @@ through annotation, discussion and validation with
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: だ.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: だ, です.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 40 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, れる, ます, られる, よう, せる, できる, たい, そう, べし, やすい, らしい, みたい, くださる, ちゃう, いたす, させる, なり, にくい, つう, いただく, ない, 易い, たり, 辛い, 難い, がたい, ごとし, なさる, まじ, や, がましい, じゃ, たがる, とく, まい, みたく, む.</li>
+<li>This corpus uses 41 lemmas as auxiliaries (<a>aux</a>). Examples: た, 為る, れる, だ, ます, ない, られる, です, ず, 様, せる, 出来る, たい, てる, そう, 易い, べし, らしい, みたい, 下さる, ちゃう, 難い, 致す, させる, 頂く, なり, つう, 無い, たり, 辛い, ごとし, まじ, や, 為さる, がましい, じゃ, たがる, てく, とく, まい, む.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -249,7 +250,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(など)-ADP(を) (51)</li>
       <li>VERB--NOUN-ADP(に)-ADP(を) (2)</li>
       <li>VERB--NOUN-ADP(の)-ADP(の)-ADP(を) (1)</li>
-      <li>VERB--NOUN-ADP(の)-ADP(を) (4)</li>
+      <li>VERB--NOUN-ADP(の)-ADP(を) (5)</li>
       <li>VERB--NOUN-ADP(のみ)-ADP(を) (3)</li>
       <li>VERB--NOUN-ADP(まで)-ADP(を) (2)</li>
       <li>VERB--NOUN-ADP(も) (2)</li>
@@ -257,7 +258,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(を)-ADP(で)-ADP(も) (1)</li>
       <li>VERB--NOUN-ADP(を)-ADP(に) (1)</li>
       <li>VERB--NOUN-ADP(を)-ADP(も) (2)</li>
-      <li>VERB--NOUN-ADP(ノ)-ADP(を) (1)</li>
       <li>VERB--PRON-ADP(か)-ADP(を) (5)</li>
       <li>VERB--PRON-ADP(まで)-ADP(を) (1)</li>
       <li>VERB--PRON-ADP(を) (79)</li>

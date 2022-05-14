@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>в</em> (<tt><a href="ru_gsd-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.075949 (the average of all parts of speech is 1.598094).
+The form / lemma ratio of `ADP` is 1.075949 (the average of all parts of speech is 1.598617).
 
 The 1st highest number of forms (2) was observed with the lemma “в”: <em>Вв, в</em>.
 
@@ -69,7 +69,7 @@ The 3rd highest number of forms (2) was observed with the lemma “на”: <em>
 
 `ADP` nodes are attached to their parents using 10 different relations: <tt><a href="ru_gsd-dep-case.html">case</a></tt> (10551; 99% instances), <tt><a href="ru_gsd-dep-fixed.html">fixed</a></tt> (58; 1% instances), <tt><a href="ru_gsd-dep-cc.html">cc</a></tt> (7; 0% instances), <tt><a href="ru_gsd-dep-dep.html">dep</a></tt> (6; 0% instances), <tt><a href="ru_gsd-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="ru_gsd-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="ru_gsd-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="ru_gsd-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (8513; 80% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (1039; 10% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (557; 5% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (247; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (74; 1% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt> (73; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (33; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (29; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (21; 0% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (8514; 80% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (1039; 10% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (557; 5% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (247; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (74; 1% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt> (73; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (33; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (29; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (25; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (21; 0% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 10524 (99%) `ADP` nodes are leaves.
 

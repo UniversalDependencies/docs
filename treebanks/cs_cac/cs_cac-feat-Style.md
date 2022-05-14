@@ -12,7 +12,7 @@ It occurs with 6 different values: `Arch`, `Coll`, `Expr`, `Rare`, `Slng`, `Vrnc
 453 tokens (0%) have a non-empty value of `Style`.
 183 types (0%) occur at least once with a non-empty value of `Style`.
 143 lemmas (1%) occur at least once with a non-empty value of `Style`.
-The feature is used with 9 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (113; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (111; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (78; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (53; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (47; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (3; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (113; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (111; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (78; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (55; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (47; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (33; 0% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -51,26 +51,29 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 * `Arch` (60; 77% of non-empty `Style`): <em>dosti, dřív, nejdřív, tentokráte, blížeji, snáz, tenkráte</em>
 * `Coll` (18; 23% of non-empty `Style`): <em>loni, akorát, teda</em>
 
-### `VERB`
+### `AUX`
 
-53 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Style`.
+55 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (53; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (50; 94%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (40; 75%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (40; 75%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (37; 70%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (37; 70%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (37; 70%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (37; 70%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (33; 62%).
+The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (55; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (55; 100%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (45; 82%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (45; 82%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45; 82%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (45; 82%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (45; 82%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (45; 82%).
 
-`VERB` tokens may have the following values of `Style`:
+`AUX` tokens may have the following values of `Style`:
 
-* `Arch` (46; 87% of non-empty `Style`): <em>býti, jest, dáti, míti, dodržeti, existovati, housti, hýbati, jeti, nalézti</em>
-* `Coll` (5; 9% of non-empty `Style`): <em>potřebujou, tancujou, tlačej, zamuzicírovali, študoval</em>
-* `Rare` (1; 2% of non-empty `Style`): <em>objektivuje</em>
-* `Vrnc` (1; 2% of non-empty `Style`): <em>zavází</em>
+* `Arch` (54; 98% of non-empty `Style`): <em>býti, jest</em>
+* `Coll` (1; 2% of non-empty `Style`): <em>seš</em>
 
-`Style` seems to be **lexical feature** of `VERB`. 100% lemmas (32) occur only with one value of `Style`.
+<table>
+  <tr><th>Paradigm <i>být</i></th><th><tt>Arch</tt></th><th><tt>Coll</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>seš</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jest</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>býti</em></td><td></td></tr>
+</table>
 
 ### `ADJ`
 
 47 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (39; 83%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (39; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 57%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 51%).
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (41; 87%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (41; 87%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (39; 83%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (39; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 57%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 51%).
 
 `ADJ` tokens may have the following values of `Style`:
 
@@ -81,23 +84,20 @@ The most frequent other feature values with which `ADJ` and `Style` co-occurred:
 
 `Style` seems to be **lexical feature** of `ADJ`. 100% lemmas (32) occur only with one value of `Style`.
 
-### `AUX`
+### `VERB`
 
-35 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Style`.
+33 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (35; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (35; 100%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (33; 94%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (33; 94%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (33; 94%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (33; 94%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (33; 94%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (33; 94%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (33; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (30; 91%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (28; 85%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (28; 85%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25; 76%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (25; 76%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (25; 76%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (25; 76%).
 
-`AUX` tokens may have the following values of `Style`:
+`VERB` tokens may have the following values of `Style`:
 
-* `Arch` (34; 97% of non-empty `Style`): <em>býti, jest</em>
-* `Coll` (1; 3% of non-empty `Style`): <em>seš</em>
+* `Arch` (26; 79% of non-empty `Style`): <em>dáti, míti, dodržeti, existovati, housti, hýbati, jeti, nalézti, nařizovati, obinúti</em>
+* `Coll` (5; 15% of non-empty `Style`): <em>potřebujou, tancujou, tlačej, zamuzicírovali, študoval</em>
+* `Rare` (1; 3% of non-empty `Style`): <em>objektivuje</em>
+* `Vrnc` (1; 3% of non-empty `Style`): <em>zavází</em>
 
-<table>
-  <tr><th>Paradigm <i>být</i></th><th><tt>Arch</tt></th><th><tt>Coll</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>seš</em></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jest</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>býti</em></td><td></td></tr>
-</table>
+`Style` seems to be **lexical feature** of `VERB`. 100% lemmas (31) occur only with one value of `Style`.
 
 ### `PROPN`
 

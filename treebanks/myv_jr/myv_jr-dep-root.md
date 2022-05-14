@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1704 nodes (10%) are attached to their parents as `root`.
+1714 nodes (10%) are attached to their parents as `root`.
 
-1704 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5580985915493.
+1714 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.55659276546091.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1344; 79% instances), -<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (149; 9% instances), -<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (68; 4% instances), -<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (43; 3% instances), -<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (39; 2% instances), -<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (23; 1% instances), -<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (22; 1% instances), -<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), -<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1354; 79% instances), -<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (149; 9% instances), -<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (68; 4% instances), -<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (43; 3% instances), -<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (39; 2% instances), -<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (23; 1% instances), -<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (22; 1% instances), -<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), -<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

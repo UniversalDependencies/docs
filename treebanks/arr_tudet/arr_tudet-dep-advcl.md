@@ -22,14 +22,14 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 advcl	color:blue
-1	wĩt	_	NOUN	n	_	2	compound	_	_
-2	wĩaw	_	NOUN	n	_	0	root	_	_
-3	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	2	aux	_	_
+1	wĩt	wĩt	NOUN	n	_	2	compound	_	_
+2	wĩaw	wĩaw	NOUN	n	_	0	root	_	_
+3	aʔwaʔye	waʔye	AUX	aux	Number=Sing|Person=3	2	aux	_	_
 4	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-5	chapéu	_	NOUN	n	_	7	obj	_	_
-6	káʔ	_	ADJ	adj	Clas=Ccv	5	clf	_	_
-7	to	_	VERB	v	_	2	advcl	_	_
-8	kanãp	_	ADV	adv	_	7	mark	_	_
+5	chapéu	chapéu	NOUN	n	_	7	obj	_	_
+6	káʔ	káʔ	ADJ	adj	Clas=Ccv	5	clf	_	_
+7	to	top	VERB	v	_	2	advcl	_	_
+8	kanãp	kanãp	ADV	adv	_	7	mark	_	_
 
 ~~~
 
@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	nãn	nã	AUX	aux	Int=Yes	5	obj	_	_
 2	mã	mã	PART	part	Case=Ins	1	mark	_	_
 3	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-4	aʔwĩm	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=3	5	advcl	_	_
+4	aʔwĩm	wĩ	VERB	v	Decl=AssertFoc|Number=Sing|Person=3	5	advcl	_	_
 5	menə	menə	PART	part	Evident=Fh	0	root	_	_
 
 ~~~
@@ -57,8 +57,8 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 2 3 advcl	color:blue
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	aʔwĩn	wĩ	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
-3	aʔ=to	_	VERB	v	Number=Sing|Person=3	2	advcl	_	_
-4	kanãp	_	SCONJ	sconj	_	3	mark	_	_
+3	aʔto	top	VERB	v	Number=Sing|Person=3	2	advcl	_	_
+4	kanãp	kanãp	SCONJ	sconj	_	3	mark	_	_
 
 ~~~
 

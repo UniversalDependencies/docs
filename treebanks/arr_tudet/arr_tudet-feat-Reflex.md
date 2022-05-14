@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 4 tokens (0%) have a non-empty value of `Reflex`.
 4 types (1%) occur at least once with a non-empty value of `Reflex`.
-1 lemmas (1%) occur at least once with a non-empty value of `Reflex`.
+3 lemmas (1%) occur at least once with a non-empty value of `Reflex`.
 The feature is used with 2 part-of-speech tags: <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `ADP`

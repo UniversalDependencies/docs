@@ -13,7 +13,7 @@ The 10 most frequent `SYM` lemmas: -, ・, ~, :, ♪, ^^, ※, /, →, ......
 
 The 10 most frequent `SYM` types:  -, ・, ~, :, ♪, ^^, ※, /, →, ......
 
-The 10 most frequent ambiguous lemmas: - (<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 25, <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 1), = (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 2), _ (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 2, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 1), + (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: - (<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 25, <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 1), = (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 2), _ (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 2), + (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 1), から (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 980, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 64, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  - (<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 25, <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 1), = (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 2), + (<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 1)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  - (<tt><a href="ja_gsdluw-pos-SYM.html">S
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.047619 (the average of all parts of speech is 1.102729).
+The form / lemma ratio of `SYM` is 1.047619 (the average of all parts of speech is 1.095294).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: _, ملك.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (4%) are attached to their parents as `advmod`.
+62 nodes (6%) are attached to their parents as `advmod`.
 
-13 instances of `advmod` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1875.
+40 instances of `advmod` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.24193548387097.
 
-The following 4 pairs of parts of speech are connected with `advmod`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (5; 31% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (5; 31% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (4; 25% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (2; 13% instances).
+The following 7 pairs of parts of speech are connected with `advmod`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (26; 42% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (26; 42% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (5; 8% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

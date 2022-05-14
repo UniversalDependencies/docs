@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-110 tokens (10%) have a non-empty value of `Definite`.
+110 tokens (13%) have a non-empty value of `Definite`.
 12 types (4%) occur at least once with a non-empty value of `Definite`.
 1 lemmas (0) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (108; 10% instances), <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (108; 13% instances), <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 ### `DET`
 
@@ -28,13 +28,13 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 ### `SCONJ`
 
-2 <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `Definite`.
+2 <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (4% of all `SCONJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `SCONJ` and `Definite` co-occurred: <tt><a href="bej_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (2; 100%), <tt><a href="bej_nsc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `SCONJ` and `Definite` co-occurred: <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (2; 100%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `SCONJ` tokens may have the following values of `Definite`:
 
 * `Def` (1; 50% of non-empty `Definite`): <em>ti=</em>
 * `Ind` (1; 50% of non-empty `Definite`): <em>=t</em>
-* `EMPTY` (90): <em>=hoːb, -aː, -eː, -a, =eːt, =jeːt, =aj, -jaː, -oːj, =eːb</em>
+* `EMPTY` (49): <em>=hoːb, =eːt, =jeːt, =aj, =eːb, =it, ji=, =ajt, =eː, =i</em>
 

@@ -43,7 +43,7 @@ The following 15 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3 9 parataxis	color:blue
 1	Hän	hän	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	3:aux	_
-3	laukonut	laukoa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+3	laukonut	laukoa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 4	ennätysmäärän	ennätys#määrä	NOUN	_	Case=Gen|Number=Sing	3	obj	3:obj	_
 5	maaleja	maali	NOUN	_	Case=Par|Number=Plur	4	nmod	4:nmod	_
 6	DFB:lle	DFB	PROPN	_	Case=All|Number=Sing	3	obl	3:obl	SpaceAfter=No
@@ -71,7 +71,7 @@ The following 15 pairs of parts of speech are connected with `parataxis`: <tt><a
 5	jatkoa	jatko	NOUN	_	Case=Par|Number=Sing	0	root	0:root	_
 6	meitä	minä	PRON	_	Case=Par|Number=Plur|Person=1|PronType=Prs	8	obl	8:obl	_
 7	vastaan	vastaan	ADP	_	AdpType=Post	6	case	6:case	_
-8	kohdistetuille	kohdistaa	VERB	_	Case=All|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	9	acl	9:acl	_
+8	kohdistetuille	kohdistaa	VERB	_	Case=All|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	9	acl	9:acl	_
 9	kepposille	kepponen	NOUN	_	Case=All|Number=Plur	5	nmod	5:nmod	SpaceAfter=No
 10	”	”	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	13:punct	_

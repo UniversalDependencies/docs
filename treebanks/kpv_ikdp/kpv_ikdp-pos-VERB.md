@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>во</em> (<tt><a href="kpv_ikdp-pos-
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.688312 (the average of all parts of speech is 1.332903).
+The form / lemma ratio of `VERB` is 1.688312 (the average of all parts of speech is 1.332474).
 
 The 1st highest number of forms (10) was observed with the lemma “велӧдчыны”: <em>Велэдчем, велэдчемысь, велэдчи, велэдчин, велэдчыгмоз, велэдчыны, велӧдча, велӧдчигӧныс, велӧдчыны, велӧдчӧны</em>.
 
@@ -34,7 +34,7 @@ The 3rd highest number of forms (6) was observed with the lemma “велӧдн�
 
 `VERB` occurs with 13 features: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (268; 77% instances), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt> (257; 74% instances), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt> (255; 73% instances), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt> (253; 73% instances), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt> (70; 20% instances), <tt><a href="kpv_ikdp-feat-Evident.html">Evident</a></tt> (25; 7% instances), <tt><a href="kpv_ikdp-feat-Connegative.html">Connegative</a></tt> (16; 5% instances), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (8; 2% instances), <tt><a href="kpv_ikdp-feat-Derivation.html">Derivation</a></tt> (8; 2% instances), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt> (5; 1% instances), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt> (5; 1% instances), <tt><a href="kpv_ikdp-feat-Clitic.html">Clitic</a></tt> (2; 1% instances), <tt><a href="kpv_ikdp-feat-Valency.html">Valency</a></tt> (1; 0% instances)
 
-`VERB` occurs with 31 feature-value pairs: `Case=Acc`, `Case=Ela`, `Case=Ine`, `Case=Nom`, `Clitic=So`, `Connegative=Yes`, `Derivation=Al`, `Derivation=Ig`, `Derivation=Igdyrji`, `Derivation=Igmoz`, `Derivation=NomAg`, `Derivation=VCar`, `Evident=Nfh`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=2`, `Person[psor]=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Valency=2`, `VerbForm=Conv`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Vnoun`
+`VERB` occurs with 31 feature-value pairs: `Case=Acc`, `Case=Ela`, `Case=Ine`, `Case=Nom`, `Clitic=So`, `Connegative=Yes`, `Derivation=Al`, `Derivation=Ig`, `Derivation=Igdyrji`, `Derivation=Igmoz`, `Derivation=NomAg`, `Derivation=VAbe`, `Evident=Nfh`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=2`, `Person[psor]=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Valency=2`, `VerbForm=Conv`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Vnoun`
 
 `VERB` occurs with 36 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past` (82 tokens).

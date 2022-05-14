@@ -42,11 +42,11 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 mark	color:blue
-1	кто	къто	PRON	Pi	Case=Nom|Number=Sing|PronType=Int	2	nsubj	_	ref=100.25
-2	оувсѣть	увѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=100.25
-3	яко	яко	SCONJ	G-	_	4	mark	_	ref=100.25
-4	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	ccomp	_	ref=100.25
-5	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=100.25
+1	кто	къто	PRON	Pi	Case=Nom|Number=Sing|PronType=Int	2	nsubj	_	Ref=100.25
+2	оувсѣть	увѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=100.25
+3	яко	яко	SCONJ	G-	_	4	mark	_	Ref=100.25
+4	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	ccomp	_	Ref=100.25
+5	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=100.25
 
 ~~~
 

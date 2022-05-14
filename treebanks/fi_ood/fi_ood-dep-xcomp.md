@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 xcomp	color:blue
 1	Natrium	natrium	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	lähtenyt	lähteä	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	lähtenyt	lähteä	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	korjaantumaan	korjaantua	VERB	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	2	xcomp	_	_
 4	keittosuolalla	keitto#suola	NOUN	_	Case=Ade|Number=Sing	3	obl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
@@ -39,7 +39,7 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 xcomp	color:blue
 1	Verenpainetaso	veren#paine#taso	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	pysytellyt	pysytellä	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	pysytellyt	pysytellä	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	hyvänä	hyvä	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	2	xcomp	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 

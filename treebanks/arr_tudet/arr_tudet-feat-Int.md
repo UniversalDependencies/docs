@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 48 tokens (2%) have a non-empty value of `Int`.
 4 types (1%) occur at least once with a non-empty value of `Int`.
-5 lemmas (4%) occur at least once with a non-empty value of `Int`.
+5 lemmas (1%) occur at least once with a non-empty value of `Int`.
 The feature is used with 4 part-of-speech tags: <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> (34; 1% instances), <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="arr_tudet-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="arr_tudet-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 ### `PART`

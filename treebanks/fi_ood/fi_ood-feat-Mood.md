@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fi_ood-pos-VERB.htm
 
 1383 <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1383; 100%), <tt><a href="fi_ood-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1383; 100%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1383; 100%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1383; 100%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1383; 100%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1150; 83%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (991; 72%), <tt><a href="fi_ood-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (848; 61%), <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=3</tt> (790; 57%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1383; 100%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1383; 100%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1383; 100%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1383; 100%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1150; 83%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (991; 72%), <tt><a href="fi_ood-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (848; 61%), <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=3</tt> (790; 57%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (49; 4% of non-empty `Mood`): <em>Lue, anna, hae, osta, seuraa, Johda, KUUNTELE, Keskustele, Kirjaudu, Koeta</em>
 * `Ind` (1274; 92% of non-empty `Mood`): <em>saa, tulee, hapettuu, sai, alkoi, löytyy, laskee, menee, kertoo, laski</em>
 * `Pot` (2; 0% of non-empty `Mood`): <em>kertonee, käynee</em>
-* `EMPTY` (1232): <em>saanut, aloitettu, laitettu, päästy, saada, vaihdettu, käynyt, nukkunut, tehdä, lopetettu</em>
+* `EMPTY` (1230): <em>saanut, aloitettu, laitettu, päästy, saada, vaihdettu, käynyt, nukkunut, tehdä, lopetettu</em>
 
 <table>
   <tr><th>Paradigm <i>käydä</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th></tr>
@@ -110,7 +110,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 `NOUN` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>kaivelette</em>
-* `EMPTY` (5047): <em>diureesi, hemodynamiikka, hapetus, hengitys, pulssi, aikana, omaiset, Tajunta, yövuoro, aamulla</em>
+* `EMPTY` (5046): <em>diureesi, hemodynamiikka, hapetus, hengitys, pulssi, aikana, omaiset, Tajunta, yövuoro, aamulla</em>
 
 ## Relations with Agreement in `Mood`
 

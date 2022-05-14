@@ -43,7 +43,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 2 nummod	color:blue
 1	$	_	SYM	SYM	_	0	root	_	SpaceAfter=No
-2	5,000	_	NUM	CD	_	1	nummod	_	OrigForm=$5000
+2	5,000	_	NUM	CD	_	1	nummod	_	_
 3	por	por	ADP	IN	_	4	case	_	_
 4	pessoa	pessoa	NOUN	NN	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	_

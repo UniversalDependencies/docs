@@ -49,12 +49,12 @@ The following 9 pairs of parts of speech are connected with `obl:mod`: <tt><a hr
 1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	wordform=il
 2	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	terminé	terminer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-4	ses	son	DET	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+4	ses	son	DET	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	études	étude	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
 6	et	et	CCONJ	CC	_	8	cc	_	_
 7	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_
 8	obtenu	obtenir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
-9	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+9	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	maitrise	maitrise	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
 11	le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	21	21	NUM	CD	_	3	obl:mod	_	_
@@ -71,7 +71,7 @@ The following 9 pairs of parts of speech are connected with `obl:mod`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 obl:mod	color:blue
-1	Son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	wordform=son
+1	Son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	2	det	_	wordform=son
 2	album	album	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
 3	Wild	Wild	X	FW	_	2	appos	_	Proper=True
 4	West	West	X	WF	_	3	flat:foreign	_	Proper=True
@@ -83,7 +83,7 @@ The following 9 pairs of parts of speech are connected with `obl:mod`: <tt><a hr
 10	l’	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No|wordform=l'
 11	une	une	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 12	de	de	ADP	IN	_	15	case	_	_
-13	ses	son	DET	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
+13	ses	son	DET	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	15	det	_	_
 14	meilleures	meilleur	ADJ	JJR	Gender=Fem|Number=Plur	15	amod	_	_
 15	ventes	vente	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	_
 

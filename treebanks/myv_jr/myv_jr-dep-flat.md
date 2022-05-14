@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 15 flat	color:blue
 1	Сень	се	PRON	Pron	Case=Gen|Definite=Ind	2	det	_	GTtags=Gen,Indef
-2	лангсо	ланго	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	3	nmod:lmod	_	GTtags=Relator,Po,Ine
+2	лангсо	ланго	NOUN	N	Case=Ine|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	nmod:lmod	_	GTtags=Relator,Po,Ine
 3	сёрмадовксонтькак	сёрмадовкс	NOUN	N	Case=Gen|Clitic=Add|Definite=Def|Number=Sing	4	obj	_	GTtags=Sg,Gen,Def,Clitic=Gak
 4	ловнызь	ловномс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3|SpaceAfter=No
 5	:	:	PUNCT	CLB	_	7	punct	_	_

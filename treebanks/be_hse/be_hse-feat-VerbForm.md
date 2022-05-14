@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-32228 tokens (11%) have a non-empty value of `VerbForm`.
+32227 tokens (11%) have a non-empty value of `VerbForm`.
 11274 types (22%) occur at least once with a non-empty value of `VerbForm`.
 4261 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (30320; 10% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1906; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (30319; 10% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1906; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-30320 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+30319 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (22898; 76%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22145; 73%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21339; 70%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18555; 61%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15548; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (22897; 76%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22143; 73%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21339; 70%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18555; 61%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15548; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (353; 1% of non-empty `VerbForm`): <em>кажучы, пачынаючы, дзякуючы, гледзячы, мяркуючы, стаўшы, седзячы, адказваючы, адчуўшы, выступаючы</em>
+* `Conv` (352; 1% of non-empty `VerbForm`): <em>кажучы, пачынаючы, гледзячы, дзякуючы, мяркуючы, стаўшы, седзячы, адказваючы, адчуўшы, выступаючы</em>
 * `Fin` (22904; 76% of non-empty `VerbForm`): <em>можа, жыве, стала, мае, адбудзецца, затрымалі, сказаў, кажа, пачалі, стаў</em>
 * `Inf` (4814; 16% of non-empty `VerbForm`): <em>падтрымаць, зрабіць, рабіць, паглядзець, слухаць, стаць, атрымаць, працаваць, размаўляць, далучыцца</em>
 * `Part` (2249; 7% of non-empty `VerbForm`): <em>затрыманы, затрыманых, звязаныя, расстраляных, прысвечаны, вызвалены, затрыманага, затрыманыя, пабудаваны, створаны</em>
@@ -48,7 +48,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 1906 <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1902; 100%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1778; 93%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1661; 87%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1316; 69%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1186; 62%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1061; 56%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1060; 56%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1902; 100%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1778; 93%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1661; 87%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1316; 69%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1185; 62%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1061; 56%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1060; 56%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -108,19 +108,19 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1; 100% of non-empty `VerbForm`): <em>падкастаў</em>
-* `EMPTY` (72551): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
+* `EMPTY` (72552): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (3223; 88%),
+<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (3226; 88%),
 <tt>VERB --[<tt><a href="be_hse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (788; 74%),
 <tt>VERB --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (523; 78%),
 <tt>VERB --[<tt><a href="be_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (26; 59%),
 <tt>VERB --[<tt><a href="be_hse-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (15; 75%),
 <tt>VERB --[<tt><a href="be_hse-dep-flat.html">flat</a></tt>]--> VERB</tt> (11; 100%),
 <tt>VERB --[<tt><a href="be_hse-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (6; 67%),
-<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 60%),
+<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 55%),
 <tt>AUX --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 100%),
 <tt>AUX --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4; 100%).
 

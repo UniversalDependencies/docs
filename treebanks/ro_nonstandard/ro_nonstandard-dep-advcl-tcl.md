@@ -22,19 +22,19 @@ The following 25 pairs of parts of speech are connected with `advcl:tcl`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 4 advcl:tcl	color:blue
-1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	10	cc	_	ref=MATT21.40
-2	cînd	când	ADV	Rw	PronType=Int,Rel	4	advmod:tmod	_	ref=MATT21.40
-3	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	ref=MATT21.40
-4	veni	veni	VERB	Vmn	VerbForm=Inf	10	advcl:tcl	_	ref=MATT21.40
-5	domnul	domn	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	ref=MATT21.40
-6	viei	vie	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	ref=MATT21.40|SpaceAfter=No
-7	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT21.40
-8	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	obj	_	ref=MATT21.40
-9	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux	_	ref=MATT21.40
-10	face	face	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT21.40
-11	viiarilor	viar	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	10	iobj	_	ref=MATT21.40
-12	acelora	acela	DET	Dd3-po---e	Case=Dat,Gen|Number=Plur|Person=3|Position=Prenom|PronType=Dem	11	det	_	ref=MATT21.40|SpaceAfter=No
-13	?	?	PUNCT	QUEST	_	10	punct	_	ref=MATT21.40
+1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	10	cc	_	Ref=MATT21.40
+2	cînd	când	ADV	Rw	PronType=Int,Rel	4	advmod:tmod	_	Ref=MATT21.40
+3	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	Ref=MATT21.40
+4	veni	veni	VERB	Vmn	VerbForm=Inf	10	advcl:tcl	_	Ref=MATT21.40
+5	domnul	domn	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MATT21.40
+6	viei	vie	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	Ref=MATT21.40|SpaceAfter=No
+7	,	,	PUNCT	COMMA	_	4	punct	_	Ref=MATT21.40
+8	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	obj	_	Ref=MATT21.40
+9	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux	_	Ref=MATT21.40
+10	face	face	VERB	Vmn	VerbForm=Inf	0	root	_	Ref=MATT21.40
+11	viiarilor	viar	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	10	iobj	_	Ref=MATT21.40
+12	acelora	acela	DET	Dd3-po---e	Case=Dat,Gen|Number=Plur|Person=3|Position=Prenom|PronType=Dem	11	det	_	Ref=MATT21.40|SpaceAfter=No
+13	?	?	PUNCT	QUEST	_	10	punct	_	Ref=MATT21.40
 
 ~~~
 

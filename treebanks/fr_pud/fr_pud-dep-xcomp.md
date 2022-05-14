@@ -48,11 +48,11 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4 6 xcomp	color:blue
 1	C’	ce	PRON	PDEM	PronType=Dem	4	nsubj	_	SpaceAfter=No|wordform=c'
 2	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+3	son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	rêve	rêve	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	terminer	terminer	VERB	VB	VerbForm=Inf	4	xcomp	_	_
-7	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+7	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	carrière	carrière	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	ici	ici	ADV	RB	_	6	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	_	_

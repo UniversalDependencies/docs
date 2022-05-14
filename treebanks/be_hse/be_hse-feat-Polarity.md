@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (183; 100% of non-empty `Polarity`): <em>няма, нельга</em>
-* `EMPTY` (30910): <em>можна, трэба, можа, жыве, стала, мае, адбудзецца, затрымалі, сказаў, кажа</em>
+* `EMPTY` (30909): <em>можна, трэба, можа, жыве, стала, мае, адбудзецца, затрымалі, сказаў, кажа</em>
 
 ### `CCONJ`
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (64; 100% of non-empty `Polarity`): <em>ні, ані, ТАКСАМА</em>
-* `EMPTY` (8934): <em>і, а, але, ці, ды, або, й, Таксама, аднак, i</em>
+* `EMPTY` (8935): <em>і, а, але, ці, ды, або, й, Таксама, аднак, i</em>
 
 ### `ADV`
 
@@ -52,5 +52,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (12; 100% of non-empty `Polarity`): <em>нягледзячы, негледзячы</em>
-* `EMPTY` (11034): <em>як, яшчэ, больш, тут, таксама, так, дзе, таму, ўжо, цяпер</em>
+* `EMPTY` (11032): <em>як, яшчэ, больш, тут, таксама, так, дзе, таму, ўжо, цяпер</em>
 

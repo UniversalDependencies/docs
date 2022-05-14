@@ -9,31 +9,33 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-1578 tokens (10%) have a non-empty value of `Degree`.
+1572 tokens (10%) have a non-empty value of `Degree`.
 1 types (0) occur at least once with a non-empty value of `Degree`.
 1 lemmas (0) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (996; 6% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (581; 4% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (992; 6% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (579; 4% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-996 <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
+992 <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (33; 3% of non-empty `Degree`): <em>_</em>
-* `Pos` (924; 93% of non-empty `Degree`): <em>_</em>
+* `Pos` (920; 93% of non-empty `Degree`): <em>_</em>
 * `Sup` (39; 4% of non-empty `Degree`): <em>_</em>
 
 ### `ADV`
 
-581 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (57% of all `ADV` tokens) have a non-empty value of `Degree`.
+579 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (55% of all `ADV` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (579; 100%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (52; 9% of non-empty `Degree`): <em>_</em>
-* `Pos` (515; 89% of non-empty `Degree`): <em>_</em>
+* `Cmp` (54; 9% of non-empty `Degree`): <em>_</em>
+* `Pos` (511; 88% of non-empty `Degree`): <em>_</em>
 * `Sup` (14; 2% of non-empty `Degree`): <em>_</em>
-* `EMPTY` (444): <em>_</em>
+* `EMPTY` (465): <em>_</em>
 
 ### `SCONJ`
 
@@ -44,7 +46,7 @@ The most frequent other feature values with which `SCONJ` and `Degree` co-occurr
 `SCONJ` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>_</em>
-* `EMPTY` (496): <em>_</em>
+* `EMPTY` (478): <em>_</em>
 
 ## Relations with Agreement in `Degree`
 

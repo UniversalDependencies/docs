@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-167 nodes (15%) are attached to their parents as `punct`.
+221 nodes (15%) are attached to their parents as `punct`.
 
-87 instances of `punct` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.24550898203593.
+126 instances of `punct` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.13122171945701.
 
-The following 6 pairs of parts of speech are connected with `punct`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (89; 53% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (38; 23% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (29; 17% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (8; 5% instances), <tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (127; 57% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (53; 24% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (24; 11% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (10; 5% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="tt_nmctt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

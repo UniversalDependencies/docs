@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-V
 
 ### `VERB`
 
-26 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Aspect`.
+26 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
 The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (26; 100%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Perf` (26; 100% of non-empty `Aspect`): <em>teâđstam, välddam, kaunnâm, koǯstam, koǯǯâm, šõddâm, jeällam, kooǯǯtam, kuâđđam, raajjâm</em>
-* `EMPTY` (523): <em>ceälkk, mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, jälste, lij, mõõnnâd, vuõʹlji</em>
+* `EMPTY` (559): <em>ceälkk, mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, jälste, lij, mõõnnâd, vuõʹlji</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (18) occur only with one value of `Aspect`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Perf` (2; 100% of non-empty `Aspect`): <em>leämmaž, õlggâm</em>
-* `EMPTY` (138): <em>lij, leäi, ij, jiõk, õõk, liâ, jiõm, õõlǥ, leäk, i-ǥõl</em>
+* `EMPTY` (147): <em>lij, ij, leäi, jiõk, õõk, liâ, õõlǥ, jiõm, leäk, leäkku</em>
 
 ## Relations with Agreement in `Aspect`
 

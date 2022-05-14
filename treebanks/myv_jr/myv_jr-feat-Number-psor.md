@@ -11,27 +11,32 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Number.html">Number</a></tt>, <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt>.
 
-832 tokens (5%) have a non-empty value of `Number[psor]`.
-540 types (10%) occur at least once with a non-empty value of `Number[psor]`.
-292 lemmas (11%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (677; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (99; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (35; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+841 tokens (5%) have a non-empty value of `Number[psor]`.
+544 types (10%) occur at least once with a non-empty value of `Number[psor]`.
+295 lemmas (11%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (685; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (100; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (35; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-677 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+685 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (669; 99%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (553; 82%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (352; 52%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (677; 99%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (561; 82%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (356; 52%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
 
 <table>
   <tr><th>Paradigm <i>ланго</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="myv_jr-feat-NounType.html">NounType</a></tt><tt>=Relat</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>лангстонзо</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>лангстонзо</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ill</tt>|<tt><a href="myv_jr-feat-NounType.html">NounType</a></tt><tt>=Relat</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>лангозонзо</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ill</tt>|<tt><a href="myv_jr-feat-NounType.html">NounType</a></tt><tt>=Relat</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>лангозост</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ill</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>лангозот</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ill</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>лангозонзо</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ill</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>лангозост</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-NounType.html">NounType</a></tt><tt>=Relat</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>Лангсонзо</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>лангсонзо</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="myv_jr-feat-NounType.html">NounType</a></tt><tt>=Relat</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>лангсонзо</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>лангсонзо</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>лангонзо</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Prl</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>лангат</em></td></tr>
@@ -41,9 +46,9 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 ### `ADP`
 
-99 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (24% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
+100 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (24% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (84; 85%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (75; 76%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (74; 75%).
+The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (85; 85%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (76; 76%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (75; 75%).
 
 `ADP` tokens may have the following values of `Number[psor]`:
 
@@ -114,7 +119,7 @@ The most frequent other feature values with which `PROPN` and `Number[psor]` co-
 ## Relations with Agreement in `Number[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
-<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10; 59%),
+<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10; 56%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="myv_jr-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (1; 100%).

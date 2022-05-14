@@ -34,7 +34,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 10	होने	हो	VERB	VM	Case=Acc|Number=Sing|VerbForm=Inf	12	nmod	_	Vib=ना_का|Tam=nA|ChunkId=VGNN|ChunkType=head|Translit=hone
 11	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	10	mark	_	ChunkId=VGNN|ChunkType=child|Translit=kā
 12	प्रमाण	प्रमाण	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=pramāṇa
-13	मिलता	मिल	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=milatā
+13	मिलता	मिल	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=wA|Translit=milatā|Vib=ता_है
 14	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 15	।	।	PUNCT	SYM	_	13	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
@@ -57,7 +57,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 8	आकर्षण	आकर्षण	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	Vib=0_का|Tam=0|ChunkId=NP4|ChunkType=head|Translit=ākarṣaṇa
 9	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	8	case	_	ChunkId=NP4|ChunkType=child|Translit=kā
 10	केंद्र	केंद्र	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	xcomp	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=keṁdra
-11	बन	बन	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	Vib=0_जा+ता_है|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=bana
+11	बन	बन	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=0|Translit=bana|Vib=0_जा+ता_है
 12	जाता	जा	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	11	aux	_	Vib=ता|Tam=wA|ChunkId=VGF|ChunkType=child|Translit=jātā
 13	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 14	।	।	PUNCT	SYM	_	11	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
@@ -75,7 +75,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	साल	साल	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	obl	_	Vib=0_से|Tam=0|ChunkId=NP|ChunkType=head|Translit=sāla
 3	से	से	ADP	PSP	AdpType=Post	2	case	_	ChunkId=NP|ChunkType=child|Translit=se
 4	कम	कम	DET	QF	PronType=Ind	5	xcomp	_	AltTag=ADJ-DET|ChunkId=JJP|ChunkType=head|Translit=kama
-5	पहुंचे	पहुंच	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=pahuṁce
+5	पहुंचे	पहुंच	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=pahuṁce|Vib=या
 6	भक्त	भक्त	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	5	nsubj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=bhakta
 7	।	।	PUNCT	SYM	_	5	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-66 nodes (6%) are attached to their parents as `root`.
+93 nodes (6%) are attached to their parents as `root`.
 
-66 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 13.3030303030303.
+93 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.2903225806452.
 
-The following 3 pairs of parts of speech are connected with `root`: -<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (51; 77% instances), -<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (12; 18% instances), -<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (3; 5% instances).
+The following 3 pairs of parts of speech are connected with `root`: -<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (81; 87% instances), -<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (8; 9% instances), -<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (4; 4% instances).
 
 
 ~~~ conllu
@@ -59,30 +59,28 @@ The following 3 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 8 root	color:blue
-1	Татар	татар	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	LangID=TT
-2	теле	тел	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
-3	ул	ул	ADV	_	_	2	advmod	_	LangID=TT
-4	дәүләтле	дәүләтле	ADJ	_	_	7	xcomp	_	LangID=TT|SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
-6	дәүләте	дәүләт	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	4	parataxis	_	LangID=TT
-7	булган	бул	VERB	_	Tense=Past|VerbForm=Part	8	amod	_	LangID=TT
-8	тел	тел	NOUN	_	Case=Nom|Number=Sing	0	root	_	LangID=TT|SpaceAfter=No
-9	»	»	PUNCT	_	_	8	punct	_	LangID=OTHER|SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
-11	—	—	PUNCT	_	_	12	punct	_	LangID=OTHER
-12	диде	ди	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	LangID=TT
-13	Марат	Марат	PROPN	_	Case=Nom|Number=Sing	12	nsubj	_	LangID=RU
-14	Әхмәтов	Әхмәтов	PROPN	_	Case=Nom|Number=Sing	13	flat	_	LangID=RU
-15	«	«	PUNCT	_	_	16	punct	_	LangID=OTHER|SpaceAfter=No
-16	Татар-информ	Татар-информ	PROPN	_	Case=Nom|Number=Sing	18	nmod	_	LangID=RU|SpaceAfter=No
-17	»	»	PUNCT	_	_	16	punct	_	LangID=OTHER
-18	хәбәрчесенә	хәбәрче	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	12	obl	_	LangID=TT|SpaceAfter=No
-19	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
+# visual-style 0 16 root	color:blue
+1	Үзебезнең	үз	PRON	_	Case=Gen|Number[psor]=Plur|Person[psor]=1	2	nmod	_	LangID=TT
+2	тәбигать	тәбигать	NOUN	_	Case=Nom|Number=Sing	16	nsubj	_	LangID=TT|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	LangID=OTHER
+4	кешеләр	кеше	NOUN	_	Case=Nom|Number=Plur	2	conj	_	LangID=TT|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
+6	аларның	алар	PRON	_	Case=Gen|Number=Plur|PronType=Prs	8	nmod	_	LangID=TT
+7	эчке	эчке	ADJ	_	_	8	amod	_	LangID=TT
+8	кичерешләре	кичереш	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	2	conj	_	LangID=TT|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
+10	тарихыбыз	тарих	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	2	conj	_	LangID=TT|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+12	йолаларыбыз	йола	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	2	conj	_	LangID=TT
+13	-	-	PUNCT	_	_	2	punct	_	LangID=OTHER
+14	барысы	бары	PRON	_	Case=Nom|Person[psor]=3|PronType=Tot	2	appos	_	LangID=TT
+15	да	да	ADV	_	_	14	advmod:emph	_	LangID=TT
+16	фотода	фото	NOUN	_	Case=Loc|Number=Sing	0	root	_	CSPoint=фото§да|LangID=MIXED[RU§TT]|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	LangID=OTHER
 
 ~~~
 

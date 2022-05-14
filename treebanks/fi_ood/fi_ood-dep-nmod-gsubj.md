@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 4 nmod:gsubj	color:blue
 1	Valavuori	Valavuori	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	purkanut	purkaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	purkanut	purkaa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	tuntojaan	tunto	NOUN	_	Case=Par|Number=Plur|Person[psor]=3	2	obj	_	_
 4	#HCTPS:n	#HCTPS	PROPN	_	Case=Gen|Number=Sing	5	nmod:gsubj	_	Note=embedded
 5	putoamisesta	putoaminen	NOUN	_	Case=Ela|Derivation=Minen|Number=Sing	2	obl	_	SpaceAfter=No

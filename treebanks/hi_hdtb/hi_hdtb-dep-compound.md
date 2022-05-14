@@ -28,7 +28,7 @@ The following 32 pairs of parts of speech are connected with `compound`: <tt><a 
 4	महापरिनिर्वाण	महापरिनिर्वाण	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child|Translit=mahāparinirvāṇa
 5	मंदिर	मंदिर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	_	Vib=0_से|Tam=0|ChunkId=NP3|ChunkType=head|Translit=maṁdira
 6	से	से	ADP	PSP	AdpType=Post	5	case	_	ChunkId=NP3|ChunkType=child|Translit=se
-7	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
+7	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=hE|Translit=hai|Vib=है
 8	।	।	PUNCT	SYM	_	5	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -41,7 +41,7 @@ The following 32 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound	color:blue
 1	आइए	आ	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	2	vocative	_	Vib=एं|Tam=eM|ChunkId=VGF|ChunkType=head|Stype=imperative|Translit=āie
-2	करें	कर	VERB	VM	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	_	Vib=एं|Tam=eM|ChunkId=VGF2|ChunkType=head|Stype=declarative|Translit=kareṁ
+2	करें	कर	VERB	VM	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	_	ChunkId=VGF2|ChunkType=head|Stype=declarative|Tam=eM|Translit=kareṁ|Vib=एं
 3	सैर	सैर	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	compound	_	Vib=0|Tam=0|ChunkId=NP|ChunkType=head|Translit=saira
 4	-	-	PUNCT	SYM	_	2	punct	_	ChunkId=BLK|ChunkType=head|Translit=-
 
@@ -64,7 +64,7 @@ The following 32 pairs of parts of speech are connected with `compound`: <tt><a 
 8	आकर्षण	आकर्षण	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	Vib=0_का|Tam=0|ChunkId=NP4|ChunkType=head|Translit=ākarṣaṇa
 9	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	8	case	_	ChunkId=NP4|ChunkType=child|Translit=kā
 10	केंद्र	केंद्र	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	xcomp	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=keṁdra
-11	बन	बन	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	Vib=0_जा+ता_है|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=bana
+11	बन	बन	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=0|Translit=bana|Vib=0_जा+ता_है
 12	जाता	जा	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	11	aux	_	Vib=ता|Tam=wA|ChunkId=VGF|ChunkType=child|Translit=jātā
 13	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 14	।	।	PUNCT	SYM	_	11	punct	_	ChunkId=BLK|ChunkType=head|Translit=.

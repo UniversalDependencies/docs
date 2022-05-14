@@ -22,10 +22,10 @@ The following 20 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 reparandum	color:blue
-1	Камэԓгыӈав	_	NOUN	_	_	3	obj	_	Gloss=преуспевать-FEM-NOM.SG
-2	ӄри	_	X	_	_	3	reparandum	_	Gloss=FST
-3	ӄривԓыгыткы	_	VERB	_	_	0	root	_	Gloss=2.S/A.SUBJ-перетаскивать-IRR-2PL.A.3.O|SpaceAfter=No
-4	.	_	PUNCT	_	_	3	punct	_	_
+1	Камэԓгыӈав	_	NOUN	_	_	3	obj	3:obj	Gloss=преуспевать-FEM-NOM.SG
+2	ӄри	_	X	_	_	3	reparandum	3:reparandum	Gloss=FST
+3	ӄривԓыгыткы	_	VERB	_	_	0	root	0:root	Gloss=2.S/A.SUBJ-перетаскивать-IRR-2PL.A.3.O|SpaceAfter=No
+4	.	_	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 
@@ -36,13 +36,13 @@ The following 20 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 reparandum	color:blue
-1	Н	_	X	_	_	2	reparandum	_	Gloss=FST
-2	уттытъуԓӄэгти	_	NOUN	_	_	6	obj	_	Gloss=дерево-PIECE-DIM-NOM.PL
-3	ни	_	X	_	_	5	reparandum	_	Gloss=FST
-4	ни	_	X	_	_	5	reparandum	_	Gloss=FST
-5	пэнъёԓгычыко	_	NOUN	_	_	6	obl	_	Gloss=костёр-IN
-6	нэнаёйгым	_	VERB	_	_	0	root	_	Gloss=ST-INV-класть-NP.1SG|SpaceAfter=No
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	Н	_	X	_	_	2	reparandum	2:reparandum	Gloss=FST
+2	уттытъуԓӄэгти	_	NOUN	_	_	6	obj	6:obj	Gloss=дерево-PIECE-DIM-NOM.PL
+3	ни	_	X	_	_	5	reparandum	5:reparandum	Gloss=FST
+4	ни	_	X	_	_	5	reparandum	5:reparandum	Gloss=FST
+5	пэнъёԓгычыко	_	NOUN	_	_	6	obl	6:obl	Gloss=костёр-IN
+6	нэнаёйгым	_	VERB	_	_	0	root	0:root	Gloss=ST-INV-класть-NP.1SG|SpaceAfter=No
+7	.	_	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 
@@ -53,13 +53,13 @@ The following 20 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 reparandum	color:blue
-1	Плиска	_	X	_	_	3	reparandum	_	Gloss=близко
-2	блиска	_	X	_	_	3	reparandum	_	Gloss=близко
-3	чымчеӄэй	_	ADV	_	_	0	root	_	Gloss=близко-INS-DIM
-4	вэԓыткоран	_	NOUN	_	_	3	nsubj	_	Gloss=товар-ITER-жилище-NOM.SG
-5	Мрэнти	_	PROPN	_	_	6	obj	_	Gloss=комар-NOM.PL
-6	ӄыркургынэт	_	VERB	_	_	3	parataxis	_	Gloss=2.S/A.SUBJ-покупать-IRR-3SG.O-PL|SpaceAfter=No
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	Плиска	_	X	_	_	3	reparandum	3:reparandum	Gloss=близко
+2	блиска	_	X	_	_	3	reparandum	3:reparandum	Gloss=близко
+3	чымчеӄэй	_	ADV	_	_	0	root	0:root	Gloss=близко-INS-DIM
+4	вэԓыткоран	_	NOUN	_	_	3	nsubj	3:nsubj	Gloss=товар-ITER-жилище-NOM.SG
+5	Мрэнти	_	PROPN	_	_	6	obj	6:obj	Gloss=комар-NOM.PL
+6	ӄыркургынэт	_	VERB	_	_	3	parataxis	3:parataxis	Gloss=2.S/A.SUBJ-покупать-IRR-3SG.O-PL|SpaceAfter=No
+7	.	_	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

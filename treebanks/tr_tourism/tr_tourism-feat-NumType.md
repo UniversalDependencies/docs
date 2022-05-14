@@ -9,23 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-793 tokens (1%) have a non-empty value of `NumType`.
+788 tokens (1%) have a non-empty value of `NumType`.
 69 types (1%) occur at least once with a non-empty value of `NumType`.
 57 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (789; 1% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (784; 1% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
 
 ### `NUM`
 
-789 <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+784 <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (733; 93% of non-empty `NumType`): <em>5, 10, 3, 6, 1, 100, BİR, BEŞ, 2, 4</em>
+* `Card` (728; 93% of non-empty `NumType`): <em>5, 10, 3, 6, 1, 100, BİR, BEŞ, 2, 4</em>
 * `Ord` (56; 7% of non-empty `NumType`): <em>3., 05., 18., 4., 2., 22., İKİNCİ, 201622., 5., 2630.</em>
 
 <table>
   <tr><th>Paradigm <i>5</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>5</em></td><td><em>05., 5.</em></td></tr>
+  <tr><td><tt>_</tt></td><td><em>5</em></td><td><em>05., 5.</em></td></tr>
+  <tr><td><tt><tt><a href="tr_tourism-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>5</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
@@ -35,7 +36,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="tr_tourism-pos-NUM.
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (4; 100% of non-empty `NumType`): <em>BEŞLİK, KAÇ</em>
-* `EMPTY` (10113): <em>İYİ, MEMNUN, GÜZEL, TEMİZ, GENEL, İLGİLİ, UYGUN, FAZLA, ÇOCUKLU, YOK</em>
+* `EMPTY` (10067): <em>İYİ, MEMNUN, GÜZEL, TEMİZ, GENEL, İLGİLİ, UYGUN, FAZLA, ÇOCUKLU, YOK</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -92,7 +92,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 20	zu	zu	ADP	_	_	22	case	_	CSID=DE|Lang=de
 21	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	det	_	CSID=DE|Lang=de
 22	Beispiel	Beispiel	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	26	obl	_	CSID=DE|Lang=de
-23	alle	alle	PRON	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	26	nsubj	_	CSID=DE|Lang=de
+23	alle	alle	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	26	nsubj	_	CSID=DE|Lang=de
 24	kein	kein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg	25	det	_	CSID=DE|Lang=de
 25	Fußball	Fußball	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	CSID=DE|Lang=de
 26	angucken	angucken	VERB	_	VerbForm=Inf	8	ccomp	_	CSID=DE|Lang=de

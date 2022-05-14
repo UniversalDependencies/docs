@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (31; 100% of non-empty `Foreign`): <em>The, National, New, Saint, a, American, Canadian, Cottonovy, Dareiův, Die</em>
-* `EMPTY` (2253): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `EMPTY` (2239): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (23) occur only with one value of `Foreign`.
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>You, me</em>
-* `EMPTY` (577): <em>se, si, co, což, ho, nich, ní, jí, mu, mě</em>
+* `EMPTY` (574): <em>se, si, co, což, ho, nich, ní, jí, mu, mě</em>
 
 ### `ADV`
 

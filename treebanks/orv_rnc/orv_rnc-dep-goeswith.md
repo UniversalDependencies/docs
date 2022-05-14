@@ -8,35 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `goeswith`.
+1 nodes (0%) are attached to their parents as `goeswith`.
 
-3 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+1 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 67% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 33% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 goeswith	color:blue
-1	РПЅ	РПЅ	NUM	_	NumForm=Cyril	3	amod	_	Norm=РПЅ
-2	г	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	goeswith	_	Norm=г
-3	сентябрѧ	сентябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	Norm=сентябрѧ
-4	въ	въ	ADP	_	_	6	case	_	Norm=въ
-5	Ѕ	Ѕ	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	Norm=Ѕ
-6	де	день	NOUN	_	Abbr=Yes	3	nmod	_	Norm=де
-7	подал	подати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	Norm=подал
-8	грамотку	грамотка	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Norm=грамотку
-9	Михаилова	михаиловъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	10	amod	_	Norm=Михаилова
-10	приказу	приказъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Norm=приказу
-11	денщик	денщикъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Norm=денщик
-12	Купряшка	Купряшка	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	Norm=Купряшка
-13	Корнеевъ	Корнеевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	Norm=Корнеевъ
-
-~~~
+The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-X.html">X</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -51,8 +28,8 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 4	на	на	ADP	_	_	2	orphan	_	Norm=на|SpaceAfter=No
 5	...	...	PUNCT	_	_	2	punct	_	Norm=...|_
 6	глаголи	глаголати	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	parataxis	_	Norm=глаголи|_
-7	3	трижъ	ADV	_	Degree=Pos	6	advmod	_	Norm=3|_
-8	ж	жъ	PART	_	_	7	goeswith	_	Norm=ж|_
+7	3	трижъ	ADV	_	Degree=Pos|Typo=Yes	6	advmod	_	Norm=3|_
+8	ж	_	X	_	_	7	goeswith	_	Norm=ж|_
 9	молитву	молитва	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Norm=молитву|_
 10	Божую	божий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	Norm=Божую|_
 11	да	да	CCONJ	_	_	15	cc	_	Norm=да|_

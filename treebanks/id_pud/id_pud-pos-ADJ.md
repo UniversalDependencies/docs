@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>lain</em> (<tt><a href="id_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.038462 (the average of all parts of speech is 1.137196).
+The form / lemma ratio of `ADJ` is 1.038462 (the average of all parts of speech is 1.137428).
 
 The 1st highest number of forms (3) was observed with the lemma “besar”: <em>besar, besar-besaran, terbesar</em>.
 

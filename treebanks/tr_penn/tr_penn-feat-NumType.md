@@ -20,8 +20,8 @@ The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-NUM.htm
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (7513; 88% of non-empty `NumType`): <em>milyon, milyar, iki, bir, 1, 10, üç, 30, 2, 3</em>
-* `Ord` (984; 12% of non-empty `NumType`): <em>%, üçüncü, ikinci, 3., dördüncü, birinci, İkinci, 13., 2., altıncı</em>
+* `Card` (7512; 88% of non-empty `NumType`): <em>milyon, milyar, iki, bir, 1, üç, 10, 30, 2, 3</em>
+* `Ord` (985; 12% of non-empty `NumType`): <em>%, üçüncü, ikinci, 3., dördüncü, birinci, İkinci, 13., 2., altıncı</em>
 * `EMPTY` (2): <em>1/4, 1/8</em>
 
 <table>
@@ -53,13 +53,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-NUM.htm
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="tr_penn-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1041; 86%),
-<tt>NUM --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> NUM</tt> (331; 89%),
-<tt>NUM --[<tt><a href="tr_penn-dep-conj.html">conj</a></tt>]--> NUM</tt> (111; 98%),
+<tt>NUM --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> NUM</tt> (334; 90%),
+<tt>NUM --[<tt><a href="tr_penn-dep-conj.html">conj</a></tt>]--> NUM</tt> (114; 100%),
 <tt>NUM --[<tt><a href="tr_penn-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (9; 90%),
-<tt>NUM --[<tt><a href="tr_penn-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (8; 100%),
+<tt>ADJ --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> NUM</tt> (7; 54%),
 <tt>NUM --[<tt><a href="tr_penn-dep-list.html">list</a></tt>]--> NUM</tt> (4; 100%),
-<tt>NUM --[<tt><a href="tr_penn-dep-obl.html">obl</a></tt>]--> NUM</tt> (3; 75%),
+<tt>NUM --[<tt><a href="tr_penn-dep-obl.html">obl</a></tt>]--> NUM</tt> (4; 80%),
+<tt>NUM --[<tt><a href="tr_penn-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (3; 100%),
 <tt>NUM --[<tt><a href="tr_penn-dep-flat.html">flat</a></tt>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<tt><a href="tr_penn-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="tr_penn-dep-clf.html">clf</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="tr_penn-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%).
 

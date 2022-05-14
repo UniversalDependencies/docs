@@ -6,42 +6,39 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-Valico: POS Tags: `PROPN`
 
-There are 27 `PROPN` lemmas (3%), 27 `PROPN` types (2%) and 101 `PROPN` tokens (1%).
+There are 26 `PROPN` lemmas (3%), 26 `PROPN` types (2%) and 100 `PROPN` tokens (1%).
 Out of 16 observed tags, the rank of `PROPN` is: 8 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Marco, Luca, Giulio, Superuomo, Giorgia, Paola, Giacomo, matteo, Sophia, Bologna</em>
 
 The 10 most frequent `PROPN` types:  <em>Marco, Luca, Giulio, Superuomo, Giorgia, Paola, Giacomo, Matteo, Sophia, Bologna</em>
 
-The 10 most frequent ambiguous lemmas: <em>.﻿</em> (<tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>.﻿</em> (<tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous types:  
 
 
-* <em>.﻿</em>
-  * <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> 1: <em>Ha dato a l' uomo su la terra una mano ed ha detto a l' uomo che lo aveva battuto giù quello che era soltanto il suo fratello che prova a raccogliere i suoi soldi <b>.﻿</b></em>
-  * <tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> 1: <em>Stanco e senza giornale <b>.﻿</b></em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.389423).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.389210).
 
-The 1st highest number of forms (1) was observed with the lemma “.﻿”: <em>.﻿</em>.
+The 1st highest number of forms (1) was observed with the lemma “Anchorage”: <em>Anchorage</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Anchorage”: <em>Anchorage</em>.
+The 2nd highest number of forms (1) was observed with the lemma “Barcelona”: <em>Barcelona</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Barcelona”: <em>Barcelona</em>.
+The 3rd highest number of forms (1) was observed with the lemma “Benigni”: <em>Benigni</em>.
 
 `PROPN` does not occur with any features.
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 9 different relations: <tt><a href="it_valico-dep-nsubj.html">nsubj</a></tt> (53; 52% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (15; 15% instances), <tt><a href="it_valico-dep-nmod.html">nmod</a></tt> (11; 11% instances), <tt><a href="it_valico-dep-obj.html">obj</a></tt> (9; 9% instances), <tt><a href="it_valico-dep-xcomp.html">xcomp</a></tt> (5; 5% instances), <tt><a href="it_valico-dep-appos.html">appos</a></tt> (3; 3% instances), <tt><a href="it_valico-dep-flat-name.html">flat:name</a></tt> (3; 3% instances), <tt><a href="it_valico-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="it_valico-dep-vocative.html">vocative</a></tt> (1; 1% instances)
+`PROPN` nodes are attached to their parents using 9 different relations: <tt><a href="it_valico-dep-nsubj.html">nsubj</a></tt> (53; 53% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (15; 15% instances), <tt><a href="it_valico-dep-nmod.html">nmod</a></tt> (10; 10% instances), <tt><a href="it_valico-dep-obj.html">obj</a></tt> (9; 9% instances), <tt><a href="it_valico-dep-xcomp.html">xcomp</a></tt> (5; 5% instances), <tt><a href="it_valico-dep-appos.html">appos</a></tt> (3; 3% instances), <tt><a href="it_valico-dep-flat-name.html">flat:name</a></tt> (3; 3% instances), <tt><a href="it_valico-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="it_valico-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (77; 76% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (16; 16% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (4; 4% instances)
+Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (77; 77% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (15; 15% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (4; 4% instances)
 
-71 (70%) `PROPN` nodes are leaves.
+70 (70%) `PROPN` nodes are leaves.
 
 21 (21%) `PROPN` nodes have one child.
 

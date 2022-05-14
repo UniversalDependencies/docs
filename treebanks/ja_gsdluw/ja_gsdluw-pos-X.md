@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  に (<tt><a href="ja_gsdluw-pos-ADP.html"
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.102729).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.095294).
 
 The 1st highest number of forms (1) was observed with the lemma “に”: に.
 

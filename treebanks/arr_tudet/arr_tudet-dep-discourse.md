@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 discourse	color:blue
-1	epɑ̃n	pat	VERB	v	Number=Sing|Person=2	0	root	_	_
+1	epɑ̃n	pɑ̃t	VERB	v	Number=Sing|Person=2	0	root	_	_
 2	mãm	mãm	PART	part	_	1	discourse	_	_
 3	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
 
@@ -35,11 +35,11 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 discourse	color:blue
-1	mɨy	_	ADV	adv	_	3	amod	_	_
+1	mɨy	mɨy	ADV	adv	_	3	amod	_	_
 2	mãm	mãm	PART	part	_	1	discourse	_	_
 3	péŋ	péŋ	NOUN	n	_	0	root	_	_
 4	ʔep	ʔe	AUX	aux	Decl=AssertFoc	3	aux	_	_
-5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	_	_
+5	toʔwa	ʔe	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	_	_
 
 ~~~
 
@@ -50,10 +50,10 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 discourse	color:blue
-1	pagon	_	NUM	num	_	3	nummod	_	_
-2	nóptem	_	X	x	_	3	dep	_	_
-3	nakõm	_	NOUN	n	_	0	root	_	_
-4	nap	_	PART	part	_	3	nmod	_	_
+1	pagon	pagon	NUM	num	_	3	nummod	_	_
+2	nóptem	tóp	X	x	_	3	dep	_	_
+3	nakõm	nakõm	NOUN	n	_	0	root	_	_
+4	nap	tap	PART	part	_	3	nmod	_	_
 5	tə	tə	PART	part	Evident=Nfh	3	discourse	_	_
 
 ~~~

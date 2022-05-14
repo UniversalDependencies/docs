@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>že</em> (<tt><a href="cs_fictree-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.028571 (the average of all parts of speech is 1.973368).
+The form / lemma ratio of `SCONJ` is 1.028571 (the average of all parts of speech is 1.970842).
 
 The 1st highest number of forms (2) was observed with the lemma “ačkoli”: <em>ačkoli, ačkoliv</em>.
 
@@ -75,11 +75,11 @@ The 3rd highest number of forms (1) was observed with the lemma “aniž”: <em
 
 `SCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="cs_fictree-dep-mark.html">mark</a></tt> (4656; 98% instances), <tt><a href="cs_fictree-dep-fixed.html">fixed</a></tt> (83; 2% instances), <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (6; 0% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="cs_fictree-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="cs_fictree-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (3611; 76% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (550; 12% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (302; 6% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (76; 2% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (75; 2% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (61; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (33; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cs_fictree-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (3423; 72% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (550; 12% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (302; 6% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (191; 4% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (76; 2% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (75; 2% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (61; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (33; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cs_fictree-pos-X.html">X</a></tt> (1; 0% instances)
 
-4742 (100%) `SCONJ` nodes are leaves.
+4741 (100%) `SCONJ` nodes are leaves.
 
-8 (0%) `SCONJ` nodes have one child.
+9 (0%) `SCONJ` nodes have one child.
 
 5 (0%) `SCONJ` nodes have two children.
 
@@ -87,7 +87,7 @@ Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="cs
 
 The highest child degree of a `SCONJ` node is 5.
 
-Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="cs_fictree-dep-punct.html">punct</a></tt> (12; 39% instances), <tt><a href="cs_fictree-dep-fixed.html">fixed</a></tt> (5; 16% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (5; 16% instances), <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (3; 10% instances), <tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt> (2; 6% instances), <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (2; 6% instances), <tt><a href="cs_fictree-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt> (1; 3% instances)
+Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="cs_fictree-dep-punct.html">punct</a></tt> (13; 41% instances), <tt><a href="cs_fictree-dep-fixed.html">fixed</a></tt> (5; 16% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (5; 16% instances), <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (3; 9% instances), <tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt> (2; 6% instances), <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (2; 6% instances), <tt><a href="cs_fictree-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt> (1; 3% instances)
 
-Children of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (12; 39% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (6; 19% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (5; 16% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (3; 10% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
+Children of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (13; 41% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (6; 19% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (5; 16% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (3; 9% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
 

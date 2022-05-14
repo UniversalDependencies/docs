@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `ADJ`
 
-There are 563 `ADJ` lemmas (18%), 777 `ADJ` types (18%) and 1850 `ADJ` tokens (6%).
+There are 555 `ADJ` lemmas (18%), 777 `ADJ` types (18%) and 1850 `ADJ` tokens (6%).
 Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>présent, européen, nouveau, important, premier, tel, grand, nécessaire, social, autre</em>
@@ -53,13 +53,13 @@ The 10 most frequent ambiguous types:  <em>présent</em> (<tt><a href="fr_partut
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.380107 (the average of all parts of speech is 1.409573).
+The form / lemma ratio of `ADJ` is 1.400000 (the average of all parts of speech is 1.431974).
 
-The 1st highest number of forms (5) was observed with the lemma “premier”: <em>1er, premier, premiers, première, premières</em>.
+The 1st highest number of forms (5) was observed with the lemma “européen”: <em>europeen, européen, européenne, européennes, européens</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “bon”: <em>bon, bonne, bonnes, bons</em>.
+The 2nd highest number of forms (5) was observed with the lemma “premier”: <em>1er, premier, premiers, première, premières</em>.
 
-The 3rd highest number of forms (4) was observed with the lemma “commun”: <em>commun, commune, communes, communs</em>.
+The 3rd highest number of forms (4) was observed with the lemma “bon”: <em>bon, bonne, bonnes, bons</em>.
 
 `ADJ` occurs with 3 features: <tt><a href="fr_partut-feat-Number.html">Number</a></tt> (1809; 98% instances), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt> (1279; 69% instances), <tt><a href="fr_partut-feat-NumType.html">NumType</a></tt> (66; 4% instances)
 
@@ -72,7 +72,7 @@ Examples: <em>présent, européen, important, public, seul, nouveau, intérieur,
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 17 different relations: <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (1448; 78% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (118; 6% instances), <tt><a href="fr_partut-dep-xcomp.html">xcomp</a></tt> (72; 4% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (59; 3% instances), <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (32; 2% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (21; 1% instances), <tt><a href="fr_partut-dep-ccomp.html">ccomp</a></tt> (20; 1% instances), <tt><a href="fr_partut-dep-advcl.html">advcl</a></tt> (18; 1% instances), <tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt> (15; 1% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (9; 0% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (9; 0% instances), <tt><a href="fr_partut-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="fr_partut-dep-mark.html">mark</a></tt> (8; 0% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (6; 0% instances), <tt><a href="fr_partut-dep-case.html">case</a></tt> (5; 0% instances), <tt><a href="fr_partut-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 17 different relations: <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (1449; 78% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (118; 6% instances), <tt><a href="fr_partut-dep-xcomp.html">xcomp</a></tt> (72; 4% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (59; 3% instances), <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (32; 2% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (21; 1% instances), <tt><a href="fr_partut-dep-ccomp.html">ccomp</a></tt> (20; 1% instances), <tt><a href="fr_partut-dep-advcl.html">advcl</a></tt> (18; 1% instances), <tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt> (15; 1% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (9; 0% instances), <tt><a href="fr_partut-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (8; 0% instances), <tt><a href="fr_partut-dep-mark.html">mark</a></tt> (8; 0% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (6; 0% instances), <tt><a href="fr_partut-dep-case.html">case</a></tt> (5; 0% instances), <tt><a href="fr_partut-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
 Parents of `ADJ` nodes belong to 11 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1481; 80% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (163; 9% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (118; 6% instances),  (59; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances)
 

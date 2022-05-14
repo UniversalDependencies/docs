@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-PUD: POS Tags: `CCONJ`
 
 There are 20 `CCONJ` lemmas (0%), 20 `CCONJ` types (0%) and 660 `CCONJ` tokens (4%).
-Out of 15 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 12 in number of types and 9 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 12 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>a, ale, i, nebo, však, avšak, nicméně, až, ani, tedy</em>
 
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cs_pud-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.427665).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.426597).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -63,7 +63,7 @@ Examples: <em>a, ale, i, nebo, však, avšak, nicméně, až, ani, tedy</em>
 
 `CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="cs_pud-dep-cc.html">cc</a></tt> (626; 95% instances), <tt><a href="cs_pud-dep-advmod-emph.html">advmod:emph</a></tt> (28; 4% instances), <tt><a href="cs_pud-dep-flat.html">flat</a></tt> (4; 1% instances), <tt><a href="cs_pud-dep-mark.html">mark</a></tt> (2; 0% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (253; 38% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (222; 34% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (85; 13% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (63; 10% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (15; 2% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (14; 2% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (253; 38% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (219; 33% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (85; 13% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (63; 10% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (15; 2% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (14; 2% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 651 (99%) `CCONJ` nodes are leaves.
 

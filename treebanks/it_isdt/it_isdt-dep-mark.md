@@ -69,7 +69,7 @@ The following 19 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 1 mark	color:blue
 1	Che	che	SCONJ	CS	_	3	mark	3:mark	_
-2	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+2	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 3	intelligente	intelligente	ADJ	A	Number=Sing	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	3:punct	_
 5	però	però	ADV	B	_	3	advmod	3:advmod	SpaceAfter=No

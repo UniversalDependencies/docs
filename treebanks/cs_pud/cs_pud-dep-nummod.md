@@ -51,7 +51,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	koncert	koncert	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	5:nmod:na:acc	_
 8	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	11:case	LId=v-1
 9	ten	ten	DET	PDIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	11	det	11:det	_
-10	samý	samý	PRON	PLIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	11	det	11:det	_
+10	samý	samý	DET	PLIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Emp	11	det	11:det	_
 11	den	den	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	5:nmod:v:acc	SpaceAfter=No|LGloss=(jednotka_času)
 12	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
@@ -64,7 +64,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 nummod	color:blue
-1	Konzultované	konzultovaný	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	2	amod	2:amod	LDeriv=konzultovat
+1	Konzultované	konzultovaný	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	2	amod	2:amod	LDeriv=konzultovat
 2	zdroje	zdroj	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	3	nsubj	3:nsubj	_
 3	uvedly	uvést	VERB	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_

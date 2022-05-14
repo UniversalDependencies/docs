@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-27661 tokens (39%) have a non-empty value of `Gender`.
-6134 types (65%) occur at least once with a non-empty value of `Gender`.
-4395 lemmas (65%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14317; 20% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (5885; 8% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (3001; 4% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2195; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1438; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (813; 1% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+27660 tokens (39%) have a non-empty value of `Gender`.
+6133 types (65%) occur at least once with a non-empty value of `Gender`.
+4394 lemmas (65%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 9 part-of-speech tags: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14316; 20% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (5885; 8% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (3001; 4% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2195; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1438; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (813; 1% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-14317 <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> tokens (94% of all `NOUN` tokens) have a non-empty value of `Gender`.
+14316 <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> tokens (94% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10117; 71%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10116; 71%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (6742; 47% of non-empty `Gender`): <em>affaire, bivalirudine, commission, perfusion, administration, solution, dose, étude, fois, guerre</em>
-* `Masc` (7575; 53% of non-empty `Gender`): <em>%, patients, mg, ans, cas, traitement, président, effets, M., cours</em>
+* `Masc` (7574; 53% of non-empty `Gender`): <em>%, patients, mg, ans, cas, traitement, président, effets, M., cours</em>
 * `EMPTY` (878): <em>h, enfants, kg, HLM, ICP, D, collègues, ACT, °C, aide</em>
 
 <table>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>patients</em></td><td><em>patientes</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (2723) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (2722) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (1375; 46% of non-empty `Gender`): <em>européenne, première, rénale, française, toutes, nouvelle, intraveineuse, nationale, seule, osseuse</em>
 * `Masc` (1626; 54% of non-empty `Gender`): <em>français, tous, ancien, osseux, zolédronique, premier, nombreux, dernier, compris, faux</em>
-* `EMPTY` (1405): <em>autres, indésirables, autre, politique, même, clinique, politiques, cliniques, deuxième, jeune</em>
+* `EMPTY` (1404): <em>autres, indésirables, autre, politique, même, clinique, politiques, cliniques, deuxième, jeune</em>
 
 <table>
   <tr><th>Paradigm <i>tout</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -145,7 +145,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 `ADV` tokens may have the following values of `Gender`:
 
 * `Fem` (1; 100% of non-empty `Gender`): <em>faute</em>
-* `EMPTY` (2634): <em>pas, n', ne, plus, moins, très, également, aussi, bien, non</em>
+* `EMPTY` (2633): <em>pas, n', ne, plus, moins, très, également, aussi, bien, non</em>
 
 ### `NUM`
 

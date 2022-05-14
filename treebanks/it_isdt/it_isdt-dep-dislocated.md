@@ -29,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 5	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	6:det:poss	_
 6	figlia	figlia	NOUN	S	Gender=Fem|Number=Sing	10	dislocated	10:dislocated	_
 7	non	non	ADV	BN	PronType=Neg	10	advmod	10:advmod	_
-8	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	10:obj	_
+8	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	10:obj	_
 9	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	aux	10:aux	_
 10	toccare	toccare	VERB	V	VerbForm=Inf	0	root	0:root	SpaceAfter=No
 11	"	"	PUNCT	FB	_	10	punct	10:punct	SpaceAfter=No

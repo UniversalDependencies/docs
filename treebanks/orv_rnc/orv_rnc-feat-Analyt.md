@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-120 tokens (0%) have a non-empty value of `Analyt`.
+123 tokens (0%) have a non-empty value of `Analyt`.
 32 types (0%) occur at least once with a non-empty value of `Analyt`.
 20 lemmas (0%) occur at least once with a non-empty value of `Analyt`.
-The feature is used with 4 part-of-speech tags: <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (64; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (28; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (8; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (67; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (28; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (8; 0% instances).
 
 ### `AUX`
 
-64 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (21% of all `AUX` tokens) have a non-empty value of `Analyt`.
+67 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (21% of all `AUX` tokens) have a non-empty value of `Analyt`.
 
-The most frequent other feature values with which `AUX` and `Analyt` co-occurred: <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (62; 97%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (56; 88%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (55; 86%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt> (53; 83%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (46; 72%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (46; 72%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (46; 72%).
+The most frequent other feature values with which `AUX` and `Analyt` co-occurred: <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (65; 97%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (59; 88%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (58; 87%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt> (56; 84%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (49; 73%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (49; 73%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (49; 73%).
 
 `AUX` tokens may have the following values of `Analyt`:
 
-* `Yes` (64; 100% of non-empty `Analyt`): <em>бы, б, будутъ, бъ, было, былъ, будетъ, были, есмь, есте</em>
+* `Yes` (67; 100% of non-empty `Analyt`): <em>бы, б, бъ, будутъ, было, былъ, будетъ, были, есмь, есте</em>
 
 ### `VERB`
 

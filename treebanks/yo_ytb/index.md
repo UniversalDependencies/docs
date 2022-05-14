@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Adédayọ̀ Olúòkun, Daniel Zeman, Seyi Williams, Ọlájídé Ishola.
 
 Repository: [UD_Yoruba-YTB](https://github.com/UniversalDependencies/UD_Yoruba-YTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyo_ytb29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyo_ytb210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 

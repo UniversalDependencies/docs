@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>уна</em> (<tt><a href="kpv_ikdp-po
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.285714 (the average of all parts of speech is 1.332903).
+The form / lemma ratio of `DET` is 1.285714 (the average of all parts of speech is 1.332474).
 
 The 1st highest number of forms (2) was observed with the lemma “став”: <em>Став, ставыс</em>.
 

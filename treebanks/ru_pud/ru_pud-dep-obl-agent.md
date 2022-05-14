@@ -88,7 +88,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	Хуаном	Хуан	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	obl:agent	_	_
 7	Карлосом	Карлос	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	flat:name	_	_
 8	Саласом	Салас	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	flat:name	_	_
-9	—	—	PUNCT	-	_	11	punct	_	OrigForm=--
+9	—	—	PUNCT	-	_	11	punct	_	_
 10	oно	оно	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	nsubj	_	_
 11	имеет	иметь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
 12	скульптурный	скульптурный	ADJ	JJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_

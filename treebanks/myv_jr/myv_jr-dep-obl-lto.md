@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `obl:lto`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-obl.html">obl</a></tt>.
-There are also 7 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="myv_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="myv_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="myv_jr-dep-obl-lfrom.html">obl:lfrom</a></tt>, <tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="myv_jr-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 8 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="myv_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="myv_jr-dep-obl-comp.html">obl:comp</a></tt>, <tt><a href="myv_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="myv_jr-dep-obl-lfrom.html">obl:lfrom</a></tt>, <tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="myv_jr-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-71 nodes (0%) are attached to their parents as `obl:lto`.
+72 nodes (0%) are attached to their parents as `obl:lto`.
 
-53 instances of `obl:lto` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57746478873239.
+53 instances of `obl:lto` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.59722222222222.
 
-The following 3 pairs of parts of speech are connected with `obl:lto`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (68; 96% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `obl:lto`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (68; 94% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -62,9 +62,9 @@ The following 3 pairs of parts of speech are connected with `obl:lto`: <tt><a hr
 3	ласте	ласте	ADV	Adv	AdvType=Sta	4	advcl	_	_
 4	ардыцят	ардыця	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	5	nsubj	_	GTtags=Pl,Nom,Indef
 5	неявить	неявомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScPl3|SpaceAfter=No
-6	:	:	PUNCT	CLB	_	5	punct	_	_
+6	:	:	PUNCT	CLB	_	8	punct	_	_
 7	та	та	ADV	Adv	_	8	advmod	_	_
-8	якстереть	якстере	ADJ	A	Number[subj]=Plur|Person[subj]=3|Tense=Pres	5	conj	_	GTtags=Prs,ScPl3|SpaceAfter=No
+8	якстереть	якстере	ADJ	A	Number[subj]=Plur|Person[subj]=3|Tense=Pres	5	parataxis	_	GTtags=Prs,ScPl3|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	11	punct	_	_
 10	та	та	ADV	Adv	_	11	advmod	_	_
 11	бандит	бандит	NOUN	N	Case=Nom|Definite=Ind|Number=Plur|Number[subj]=Sing|Person[subj]=3|Tense=Pres	8	conj	_	GTtags=Pl,Nom,Indef,Prs,ScSg3|SpaceAfter=No

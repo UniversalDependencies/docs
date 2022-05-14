@@ -91,9 +91,9 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	se	se	SCONJ	CS	_	6	mark	_	_
 2	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	ragazza	ragazza	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
-4	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	advcl	_	_
+4	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
 5	i	in	ADP	E	_	6	case	_	_
-6	difficoltà	difficoltà	NOUN	S	Gender=Fem	4	obl	_	_
+6	difficoltà	difficoltà	NOUN	S	Gender=Fem	10	advcl	_	_
 7	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
 8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_

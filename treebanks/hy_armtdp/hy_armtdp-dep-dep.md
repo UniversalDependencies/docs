@@ -8,12 +8,34 @@ udver: '2'
 
 This relation is universal.
 
-46 nodes (0%) are attached to their parents as `dep`.
+102 nodes (0%) are attached to their parents as `dep`.
 
-44 instances of `dep` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.39130434782609.
+100 instances of `dep` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.81372549019608.
 
-The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (16; 35% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (10; 22% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (8; 17% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 15% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `dep`: <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (54; 53% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (16; 16% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (10; 10% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (8; 8% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 7% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 dep	color:blue
+1	Հայաստանի	Հայաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	2	nmod:poss	_	Translit=Hayastani|LTranslit=Hayastan
+2	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
+3	Սահմանադրական	սահմանադրական	ADJ	_	Degree=Pos	4	amod	_	Translit=Sahmanadrakan|LTranslit=sahmanadrakan
+4	դատարանի	դատարան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	nmod:poss	_	Translit=datarani|LTranslit=dataran
+5	ո	ո	X	_	_	0	root	_	Translit=o|LTranslit=o
+6	ր	ր	X	_	_	5	dep	_	Translit=r|LTranslit=r
+7	ո	ո	X	_	_	5	dep	_	Translit=o|LTranslit=o
+8	շ	շ	X	_	_	5	dep	_	Translit=š|LTranslit=š
+9	ո	ո	X	_	_	5	dep	_	Translit=o|LTranslit=o
+10	ւ	ւ	X	_	_	5	dep	_	Translit=w|LTranslit=w
+11	մ	մ	X	_	_	5	dep	_	Translit=m|LTranslit=m
+12	ը	ը	X	_	_	5	dep	_	Translit=ë|LTranslit=ë
+
+~~~
 
 
 ~~~ conllu
@@ -69,28 +91,6 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 14	կամ	կամ	CCONJ	_	ConjType=Comp	15	cc	_	Translit=kam|LTranslit=kam
 15	փողոցից	փողոց	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	12	conj	_	Translit=p’oġoc’ic’|LTranslit=p’oġoc’|SpaceAfter=No
 16	...	...	PUNCT	_	_	2	punct	_	Translit=...|LTranslit=...
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 dep	color:blue
-1	«	«	PUNCT	_	_	3	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-2	Առաջին	առաջին	ADJ	_	Degree=Pos|NumForm=Word|NumType=Ord	3	amod	_	Translit=Aṙaǰin|LTranslit=aṙaǰin
-3	լրատվական	լրատվական	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	7	nmod:poss	_	Translit=lratvakan|LTranslit=lratvakan|SpaceAfter=No
-4	»	»	PUNCT	_	_	3	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
-5	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-6	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	dep	_	Translit=i|LTranslit=ë
-7	զրուցակիցն	զրուցակից	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=zrowc’akic’n|LTranslit=zrowc’akic’
-8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	Translit=ē|LTranslit=em
-9	հրապարակախոս	հրապարակախոս	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	10	nmod	_	Translit=hraparakaxos|LTranslit=hraparakaxos
-10	Արա	Արա	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	7	nsubj	_	Translit=Ara|LTranslit=Ara
-11	Նեդոլյանը	Նեդոլյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	10	flat	_	Translit=Nedolyanë|LTranslit=Nedolyan|SpaceAfter=No
-12	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -12,8 +12,8 @@ It occurs with 2 different values: `Plur`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt>, <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt>.
 
 18 tokens (2%) have a non-empty value of `Number[psor]`.
-18 types (7%) occur at least once with a non-empty value of `Number[psor]`.
-17 lemmas (8%) occur at least once with a non-empty value of `Number[psor]`.
+18 types (6%) occur at least once with a non-empty value of `Number[psor]`.
+17 lemmas (7%) occur at least once with a non-empty value of `Number[psor]`.
 The feature is used with 1 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (18; 2% instances).
 
 ### `NOUN`

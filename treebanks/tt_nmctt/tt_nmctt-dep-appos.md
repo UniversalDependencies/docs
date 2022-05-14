@@ -8,12 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (1%) are attached to their parents as `appos`.
+11 nodes (1%) are attached to their parents as `appos`.
 
-7 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.14285714285714.
+11 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.54545454545455.
 
-The following 2 pairs of parts of speech are connected with `appos`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (5; 71% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (2; 29% instances).
+The following 3 pairs of parts of speech are connected with `appos`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (5; 45% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (5; 45% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (1; 9% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 appos	color:blue
+1	Чәршәмбе	чәршәмбе	NOUN	_	Case=Nom|Number=Sing	10	obl	_	LangID=TT|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	LangID=OTHER
+3	27	27	NUM	_	NumType=Ord	4	amod	_	LangID=TT
+4	апрельдә	апрель	NOUN	_	Case=Loc|Number=Sing	1	appos	_	CSPoint=апрель§дә|LangID=MIXED[RU§TT]|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	LangID=OTHER
+6	җылы	җылы	ADJ	_	_	9	amod	_	LangID=TT
+7	тотрыксыз	тотрыксыз	ADJ	_	_	9	amod	_	LangID=TT
+8	һава	һава	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	LangID=TT
+9	торышы	торыш	VERB	_	Case=Nom|Number=Sing|Person[psor]=3	10	nsubj	_	LangID=TT
+10	сакланачак	сакла	VERB	_	Tense=Fut|VerbForm=Part|Voice=Mid	0	root	_	LangID=TT|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+
+~~~
 
 
 ~~~ conllu
@@ -40,25 +61,26 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 ~~~ conllu
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 14 appos	color:blue
-1	Аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	obl	_	LangID=TT
-2	белән	белән	ADP	_	_	1	case	_	LangID=TT
-3	хушлашу	хушлаш	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	15	nsubj	_	LangID=TT
-4	шимбә	шимбә	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
-5	көнне	көн	NOUN	_	Case=Acc|Number=Sing	15	obl	_	LangID=TT
-6	сәгать	сәгать	NOUN	_	Case=Nom|Number=Sing	8	nmod	_	LangID=TT
-7	көндезге	көндезге	ADJ	_	_	8	amod	_	LangID=TT
-8	12дә	12	NUM	_	Case=Loc|Number=Sing|NumType=Card	15	obl	_	LangID=TT
-9	Чапаев	Чапаев	PROPN	_	Case=Nom|Number=Sing	10	nmod	_	LangID=RU
-10	урамы	урам	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	obl	_	LangID=TT|SpaceAfter=No
-11	,	,	PUNCT	_	_	14	punct	_	LangID=OTHER
-12	5	5	NUM	_	NumType=Card	13	amod	_	LangID=TT
-13	йорт	йорт	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	LangID=TT
-14	ишегалдында	ишегалды	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	10	appos	_	LangID=TT
-15	узачак	уз	VERB	_	Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
-16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 14 appos	color:blue
+1	Үзебезнең	үз	PRON	_	Case=Gen|Number[psor]=Plur|Person[psor]=1	2	nmod	_	LangID=TT
+2	тәбигать	тәбигать	NOUN	_	Case=Nom|Number=Sing	16	nsubj	_	LangID=TT|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	LangID=OTHER
+4	кешеләр	кеше	NOUN	_	Case=Nom|Number=Plur	2	conj	_	LangID=TT|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
+6	аларның	алар	PRON	_	Case=Gen|Number=Plur|PronType=Prs	8	nmod	_	LangID=TT
+7	эчке	эчке	ADJ	_	_	8	amod	_	LangID=TT
+8	кичерешләре	кичереш	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	2	conj	_	LangID=TT|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
+10	тарихыбыз	тарих	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	2	conj	_	LangID=TT|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
+12	йолаларыбыз	йола	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	2	conj	_	LangID=TT
+13	-	-	PUNCT	_	_	2	punct	_	LangID=OTHER
+14	барысы	бары	PRON	_	Case=Nom|Person[psor]=3|PronType=Tot	2	appos	_	LangID=TT
+15	да	да	ADV	_	_	14	advmod:emph	_	LangID=TT
+16	фотода	фото	NOUN	_	Case=Loc|Number=Sing	0	root	_	CSPoint=фото§да|LangID=MIXED[RU§TT]|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	LangID=OTHER
 
 ~~~
 

@@ -61,7 +61,7 @@ The 3rd highest number of forms (5) was observed with the lemma “több”: <em
 
 `NUM` occurs with 5 features: <tt><a href="hu_szeged-feat-Case.html">Case</a></tt> (1115; 100% instances), <tt><a href="hu_szeged-feat-NumType.html">NumType</a></tt> (1115; 100% instances), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt> (1115; 100% instances), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt> (5; 0% instances), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt> (5; 0% instances)
 
-`NUM` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Ade`, `Case=Cau`, `Case=Del`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Sub`, `Case=Tem`, `Case=Ter`, `NumType=Card`, `NumType=Dist`, `NumType=Frac`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=3`
+`NUM` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Ade`, `Case=Cau`, `Case=Del`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Sbl`, `Case=Tem`, `Case=Ter`, `NumType=Card`, `NumType=Dist`, `NumType=Frac`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=3`
 
 `NUM` occurs with 24 feature combinations.
 The most frequent feature combination is `Case=Nom|Number=Sing|NumType=Card` (896 tokens).

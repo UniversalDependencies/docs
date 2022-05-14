@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 xcomp:ds	color:blue
 1	Nosturilla	nosturi	NOUN	_	Case=Ade|Number=Sing	2	obl	_	_
-2	avustettu	avustaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	avustettu	avustaa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 3	istumaan	istua	VERB	_	Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	2	xcomp:ds	_	_
 4	kuntotuoliin	kunto#tuoli	NOUN	_	Case=Ill|Number=Sing	3	obl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_

@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Armenian`, `Digit`, `Roman`, `Word`.
 
-1114 tokens (2%) have a non-empty value of `NumForm`.
+1113 tokens (2%) have a non-empty value of `NumForm`.
 413 types (3%) occur at least once with a non-empty value of `NumForm`.
 318 lemmas (5%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 5 part-of-speech tags: <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (714; 1% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (212; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (158; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (29; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (713; 1% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (212; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (158; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (29; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-714 <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+713 <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="hy_armtdp-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (637; 89%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="hy_armtdp-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (636; 89%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Digit` (438; 61% of non-empty `NumForm`): <em>2, 1, 2019, 2017, 2018, 2008, 3, 2016, 4, 100</em>
-* `Word` (276; 39% of non-empty `NumForm`): <em>մի, երկու, մեկ, մլն, հազար, երեք, մլրդ, չորս, տասը, միլիոն</em>
+* `Word` (275; 39% of non-empty `NumForm`): <em>մի, երկու, մեկ, մլն, հազար, երեք, մլրդ, չորս, տասը, միլիոն</em>
 
 `NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (245) occur only with one value of `NumForm`.
 

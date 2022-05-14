@@ -16,12 +16,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-X.htm
 
 ### `X`
 
-88 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (44% of all `X` tokens) have a non-empty value of `Foreign`.
+88 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (46% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (88; 100% of non-empty `Foreign`): <em>Յելլ, Community, Daily, In, Metal, Nas, Reuters, ZipLine, vino, Allianplace</em>
-* `EMPTY` (113): <em>ո, մ, ր, շ, թույլ, նկատի, ու, ա, կոյունլու, ւ</em>
+* `EMPTY` (103): <em>ո, ր, շ, թույլ, մ, նկատի, ու, կոյունլու, ւ, Ե</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (76) occur only with one value of `Foreign`.
 
@@ -32,7 +32,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-X.htm
 `PUNCT` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>!</em>
-* `EMPTY` (10178): <em>,, ։, :, ՝, ., », -, «, ՞, ...</em>
+* `EMPTY` (10176): <em>,, ։, :, ՝, ., », -, «, ՞, ...</em>
 
 ## Relations with Agreement in `Foreign`
 

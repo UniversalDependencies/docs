@@ -12,18 +12,18 @@ It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 919 tokens (14%) have a non-empty value of `Mood`.
 284 types (21%) occur at least once with a non-empty value of `Mood`.
 126 lemmas (13%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (558; 8% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (361; 5% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (559; 8% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (360; 5% instances).
 
 ### `AUX`
 
-558 <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
+559 <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (558; 100%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (523; 94%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (397; 71%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (384; 69%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (559; 100%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (524; 94%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (398; 71%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (384; 69%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (5; 1% of non-empty `Mood`): <em>sarebbe, dovrebbe, sarei</em>
-* `Ind` (541; 97% of non-empty `Mood`): <em>ha, ho, era, è, sono, aveva, stava, ero, avevo, e</em>
+* `Ind` (542; 97% of non-empty `Mood`): <em>ha, ho, era, è, sono, aveva, stava, ero, avevo, e</em>
 * `Sub` (12; 2% of non-empty `Mood`): <em>fosse, abbia, avesse, dovesse, dovessi, possa, potesse, stesse, volesse</em>
 * `EMPTY` (33): <em>stato, essere, aver, stata, dovuto, potuto, stati, viuto, voluto</em>
 
@@ -41,15 +41,15 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `VERB`
 
-361 <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Mood`.
+360 <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (361; 100%), <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (360; 100%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (339; 94%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (292; 81%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Imp</tt> (216; 60%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (360; 100%), <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (359; 100%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (338; 94%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (291; 81%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Imp</tt> (215; 60%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (6; 2% of non-empty `Mood`): <em>farebbe, continuerei, lascerebbe, piacerebbe</em>
 * `Imp` (14; 4% of non-empty `Mood`): <em>lascia, scusi, aspetti, scusate, smetti, vada, vai</em>
-* `Ind` (336; 93% of non-empty `Mood`): <em>era, portava, aveva, sembrava, leggeva, gridava, pensava, amo, pensavo, piace</em>
+* `Ind` (335; 93% of non-empty `Mood`): <em>era, portava, aveva, sembrava, leggeva, gridava, pensava, amo, pensavo, piace</em>
 * `Sub` (5; 1% of non-empty `Mood`): <em>desse, dicesse, lasciasse, riceva, senta</em>
 * `EMPTY` (607): <em>detto, visto, fatto, leggendo, pensato, sentito, seduto, cominciato, fare, andare</em>
 
@@ -66,6 +66,6 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="it_valico-dep-conj.html">conj</a></tt>]--> VERB</tt> (53; 51%),
+<tt>VERB --[<tt><a href="it_valico-dep-conj.html">conj</a></tt>]--> VERB</tt> (54; 52%),
 <tt>VERB --[<tt><a href="it_valico-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%).
 

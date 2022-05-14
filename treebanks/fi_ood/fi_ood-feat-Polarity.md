@@ -29,12 +29,12 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 5 <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fi_ood-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fi_ood-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5; 100%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5; 100%), <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=3</tt> (4; 80%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="fi_ood-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fi_ood-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fi_ood-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="fi_ood-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fi_ood-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fi_ood-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5; 100%), <tt><a href="fi_ood-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5; 100%), <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=3</tt> (4; 80%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): <em>ei, eikä</em>
-* `EMPTY` (2610): <em>saa, tulee, saanut, aloitettu, hapettuu, laitettu, saada, sai, alkoi, päästy</em>
+* `EMPTY` (2608): <em>saa, tulee, saanut, aloitettu, hapettuu, laitettu, saada, sai, alkoi, päästy</em>
 
 ## Relations with Agreement in `Polarity`
 

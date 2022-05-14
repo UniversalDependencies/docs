@@ -46,7 +46,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (12; 100% of non-empty `NumType`): <em>milles, mille, cent, cents, million, millions</em>
-* `EMPTY` (4040): <em>nom, année, ville, président, état, lieu, logement, pays, film, compagnie</em>
+* `EMPTY` (4039): <em>nom, année, ville, président, état, lieu, logement, pays, film, compagnie</em>
 
 ### `PRON`
 

@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 57002 tokens (58%) have a non-empty value of `Number`.
-28198 types (94%) occur at least once with a non-empty value of `Number`.
-16272 lemmas (87%) occur at least once with a non-empty value of `Number`.
+28199 types (94%) occur at least once with a non-empty value of `Number`.
+16273 lemmas (87%) occur at least once with a non-empty value of `Number`.
 The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26755; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12231; 12% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (7320; 7% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6584; 7% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1834; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1194; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (756; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (328; 0% instances).
 
 ### `NOUN`
@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (2690; 22% of non-empty `Number`): <em>других, различных, многие, первые, самых, новые, первых, новых, известных, разных</em>
 * `Sing` (9541; 78% of non-empty `Number`): <em>второй, 2008, 2010, 2004, первый, 2012, 1, 2006, 2011, 2007</em>
-* `EMPTY` (41): <em>старше, выше, X, лучше, мельче, меньше, ниже, умнее, 1920, 30</em>
+* `EMPTY` (42): <em>старше, выше, X, лучше, мельче, меньше, ниже, умнее, 1920, 30</em>
 
 <table>
   <tr><th>Paradigm <i>первый</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -260,7 +260,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (27; 8% of non-empty `Number`): <em>тыс., немногих, двое, сколько, 15000, 22, 30000, Оба, двух, обоих</em>
 * `Sing` (301; 92% of non-empty `Number`): <em>один, 1, одной, одним, одного, одна, одну, одно, одном, 21</em>
-* `EMPTY` (1777): <em>2, два, несколько, 10, двух, 4, три, 3, 5, 6</em>
+* `EMPTY` (1775): <em>2, два, несколько, 10, двух, 4, три, 3, 5, 6</em>
 
 <table>
   <tr><th>Paradigm <i>один</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -296,8 +296,8 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9581; 98%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5748; 68%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9583; 98%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5749; 68%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3518; 63%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2278; 94%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1628; 80%),

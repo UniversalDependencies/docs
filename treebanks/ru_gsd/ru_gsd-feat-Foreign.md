@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1493 tokens (2%) have a non-empty value of `Foreign`.
-1225 types (4%) occur at least once with a non-empty value of `Foreign`.
-1228 lemmas (7%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_gsd-pos-X.html">X</a></tt> (1488; 2% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
+1488 tokens (2%) have a non-empty value of `Foreign`.
+1221 types (4%) occur at least once with a non-empty value of `Foreign`.
+1223 lemmas (7%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_gsd-pos-X.html">X</a></tt> (1483; 2% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 ### `X`
 
-1488 <tt><a href="ru_gsd-pos-X.html">X</a></tt> tokens (99% of all `X` tokens) have a non-empty value of `Foreign`.
+1483 <tt><a href="ru_gsd-pos-X.html">X</a></tt> tokens (99% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (1488; 100% of non-empty `Foreign`): <em>the, of, a, and, Airlines, Music, Records, company, de, to</em>
-* `EMPTY` (10): <em>​, F, P, АКВА, М, М1, М2, РИУ, с</em>
+* `Yes` (1483; 100% of non-empty `Foreign`): <em>the, of, a, and, Airlines, Music, Records, company, de, to</em>
+* `EMPTY` (22): <em>же, ​, F, P, ru, АКВА, ЗЗ, М, М1, М2</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (1224) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (1219) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
@@ -56,8 +56,8 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> X</tt> (29; 97%),
 <tt>X --[<tt><a href="ru_gsd-dep-list.html">list</a></tt>]--> X</tt> (11; 100%),
 <tt>X --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> X</tt> (11; 100%),
-<tt>X --[<tt><a href="ru_gsd-dep-goeswith.html">goeswith</a></tt>]--> X</tt> (4; 100%),
 <tt>X --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> X</tt> (3; 100%),
 <tt>X --[<tt><a href="ru_gsd-dep-case.html">case</a></tt>]--> X</tt> (3; 100%),
-<tt>X --[<tt><a href="ru_gsd-dep-parataxis.html">parataxis</a></tt>]--> X</tt> (3; 100%).
+<tt>X --[<tt><a href="ru_gsd-dep-parataxis.html">parataxis</a></tt>]--> X</tt> (3; 100%),
+<tt>X --[<tt><a href="ru_gsd-dep-cc.html">cc</a></tt>]--> X</tt> (1; 100%).
 

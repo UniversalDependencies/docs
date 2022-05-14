@@ -34,5 +34,5 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>G, L, A, B</em>
-* `EMPTY` (1054): <em>Cristus, Petrus, Cristi, Ytalie, Petri, Cristum, Livius, Israel, Nicomacum, Cesaris</em>
+* `EMPTY` (1070): <em>Cristus, Petrus, Cristi, Ytalie, Petri, Cristum, Livius, Nicomacum, Israel, Cesaris</em>
 

@@ -31,7 +31,7 @@ The most frequent other feature values with which `NUM` and `NumValue` co-occurr
 
 30 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (30; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (19; 63%).
+The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (30; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (19; 63%).
 
 `ADJ` tokens may have the following values of `NumValue`:
 

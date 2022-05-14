@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (20; 100% of non-empty `Poss`): <em>հայոց, Հաչա, Մկաց, Կասպից, Սևանա, Հայաստանյայց, Պատվո, Սասնա, եպիսկոպոսաց</em>
-* `EMPTY` (4178): <em>կարող, նոր, մեծ, պետական, առաջին, ազգային, հայ, պետք, քաղաքական, տնտեսական</em>
+* `EMPTY` (4174): <em>կարող, նոր, մեծ, պետական, առաջին, ազգային, հայ, պետք, քաղաքական, տնտեսական</em>
 
 ### `PRON`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `NOUN` and `Poss` co-occurred:
 `NOUN` tokens may have the following values of `Poss`:
 
 * `Yes` (6; 100% of non-empty `Poss`): <em>2019-ինը, Ուսինս, Փոքրինը, բոլորինն, գծերովն, իրերինը</em>
-* `EMPTY` (13323): <em>հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, օրը, ծրագրի</em>
+* `EMPTY` (13306): <em>հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, օրը, թ</em>
 
 ### `PROPN`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PROPN` and `Poss` co-occurred
 `PROPN` tokens may have the following values of `Poss`:
 
 * `Yes` (4; 100% of non-empty `Poss`): <em>Սևանինը</em>
-* `EMPTY` (1800): <em>Հայաստանի, ՀՀ, Հայաստանում, Լևոն, Իրանի, Ադրբեջանի, Հայաստան, Սիմեոնը, Կարեն, Արմինուսը</em>
+* `EMPTY` (1796): <em>Հայաստանի, ՀՀ, Հայաստանում, Լևոն, Իրանի, Ադրբեջանի, Հայաստան, Սիմեոնը, Կարեն, Արմինուսը</em>
 
 ## Relations with Agreement in `Poss`
 

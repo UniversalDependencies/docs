@@ -23,15 +23,15 @@ The following 86 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nsubj	color:blue
-1	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	ref=MATT_5.45
-2	solem	sol	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	nsubj	_	ref=MATT_5.45
-3	suum	suus	DET	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	2	det	_	ref=MATT_5.45
-4	oriri	orior	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	5	ccomp	_	ref=MATT_5.45
-5	facit	facio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.45
-6	super	super	ADP	R-	_	7	case	_	ref=MATT_5.45
-7	bonos	bonus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	4	advmod	_	ref=MATT_5.45
-8	et	et	CCONJ	C-	_	7	cc	_	ref=MATT_5.45
-9	malos	malus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	conj	_	ref=MATT_5.45
+1	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=MATT_5.45
+2	solem	sol	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MATT_5.45
+3	suum	suus	DET	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	2	det	_	Ref=MATT_5.45
+4	oriri	orior	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	5	ccomp	_	Ref=MATT_5.45
+5	facit	facio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.45
+6	super	super	ADP	R-	_	7	case	_	Ref=MATT_5.45
+7	bonos	bonus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	4	advmod	_	Ref=MATT_5.45
+8	et	et	CCONJ	C-	_	7	cc	_	Ref=MATT_5.45
+9	malos	malus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	conj	_	Ref=MATT_5.45
 
 ~~~
 
@@ -42,12 +42,12 @@ The following 86 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nsubj	color:blue
-1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=MATT_5.4
-2	mites	mitis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	ref=MATT_5.4
-3	quoniam	quoniam	SCONJ	G-	_	5	mark	_	ref=MATT_5.4
-4	ipsi	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	ref=MATT_5.4
-5	possidebunt	possideo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	ref=MATT_5.4
-6	terram	terra	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=MATT_5.4
+1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	Ref=MATT_5.4
+2	mites	mitis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	Ref=MATT_5.4
+3	quoniam	quoniam	SCONJ	G-	_	5	mark	_	Ref=MATT_5.4
+4	ipsi	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Ref=MATT_5.4
+5	possidebunt	possideo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	Ref=MATT_5.4
+6	terram	terra	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Ref=MATT_5.4
 
 ~~~
 
@@ -58,11 +58,11 @@ The following 86 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 nsubj	color:blue
-1	nonne	nonne	ADV	Du	PronType=Int	5	discourse	_	ref=MATT_5.47
-2	et	et	ADV	Df	_	3	discourse	_	ref=MATT_5.47
-3	ethnici	ethnicus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	nsubj	_	ref=MATT_5.47
-4	hoc	hic	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	ref=MATT_5.47
-5	faciunt	facio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.47
+1	nonne	nonne	ADV	Du	PronType=Int	5	discourse	_	Ref=MATT_5.47
+2	et	et	ADV	Df	_	3	discourse	_	Ref=MATT_5.47
+3	ethnici	ethnicus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	nsubj	_	Ref=MATT_5.47
+4	hoc	hic	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=MATT_5.47
+5	faciunt	facio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.47
 
 ~~~
 

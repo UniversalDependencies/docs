@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-243 nodes (0%) are attached to their parents as `mark`.
+241 nodes (0%) are attached to their parents as `mark`.
 
-236 instances of `mark` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08230452674897.
+234 instances of `mark` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08298755186722.
 
-The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (112; 46% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (74; 30% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (18; 7% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-SCONJ.html">SCONJ</a></tt> (12; 5% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (11; 5% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (9; 4% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (112; 46% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (73; 30% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (18; 7% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-SCONJ.html">SCONJ</a></tt> (12; 5% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (11; 5% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (9; 4% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

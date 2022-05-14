@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>есть</em> (<tt><a href="ru_gsd-po
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.257576 (the average of all parts of speech is 1.598094).
+The form / lemma ratio of `VERB` is 2.257576 (the average of all parts of speech is 1.598617).
 
 The 1st highest number of forms (20) was observed with the lemma “получить”: <em>Полученная, Полученный, Получив, получат, получена, полученной, полученном, полученную, полученных, получены, получившему, получившие, получивший, получивших, получил, получила, получили, получило, получит, получить</em>.
 

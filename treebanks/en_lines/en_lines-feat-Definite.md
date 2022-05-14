@@ -52,7 +52,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>question</em>
-* `EMPTY` (16975): <em>data, man, time, field, way, people, father, page, eyes, file</em>
+* `EMPTY` (16976): <em>data, man, time, field, way, people, father, page, eyes, file</em>
 
 ## Relations with Agreement in `Definite`
 

@@ -30,7 +30,7 @@ The following 13 pairs of parts of speech are connected with `compound:prt`: <tt
 6	später	spät	ADV	ADJD	_	3	advmod	_	_
 7	jedoch	jedoch	ADV	ADV	_	3	advmod	_	_
 8	ganz	ganz	ADV	ADV	_	9	advmod	_	_
-9	komisch	komisch	ADJ	ADJD	_	3	xcomp	_	_
+9	komisch	komisch	ADJ	ADJD	Degree=Pos	3	xcomp	_	_
 10	aus	aus	ADP	PTKVZ	_	3	compound:prt	_	SpaceAfter=No
 11	.	.	PUNCT	$.	_	3	punct	_	_
 
@@ -49,7 +49,7 @@ The following 13 pairs of parts of speech are connected with `compound:prt`: <tt
 4	war	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	dann	dann	ADV	ADV	_	6	advmod	_	_
 6	schließlich	schließlich	ADV	ADV	_	4	advmod	_	_
-7	keine	kein	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg	8	nmod	_	_
+7	keine	kein	PRON	PIAT	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg	8	nmod	_	_
 8	Vespa	Vespa	PROPN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	NamedEntity=Yes
 9	mehr	mehr	ADV	ADV	_	4	advmod	_	_
 10	da	da	ADV	ADV	_	4	compound:prt	_	SpaceAfter=No

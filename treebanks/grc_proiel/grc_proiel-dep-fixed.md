@@ -22,19 +22,19 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 fixed	color:blue
-1	οὗτος	οὗτος	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=1.115.3
-2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=1.115.3
-3	ἀνηκούστεέ	ἀνηκουστέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.115.3
-4	τε	τε	CCONJ	C-	_	3	cc	_	ref=1.115.3
-5	καὶ	καί	CCONJ	C-	_	3	cc	_	ref=1.115.3
-6	λόγον	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	ref=1.115.3
-7	εἶχε	ἔχω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=1.115.3
-8	οὐδένα	οὐδείς	DET	Px	Case=Acc|Gender=Masc|Number=Sing	6	det	_	ref=1.115.3
-9	ἐς	εἰς	SCONJ	G-	_	11	mark	_	ref=1.115.3
-10	ὃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	fixed	_	ref=1.115.3
-11	ἔλαβὲ	λαμβάνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	ref=1.115.3
-12	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=1.115.3
-13	δίκην	δίκη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	ref=1.115.3
+1	οὗτος	οὗτος	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=1.115.3
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	Ref=1.115.3
+3	ἀνηκούστεέ	ἀνηκουστέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.115.3
+4	τε	τε	CCONJ	C-	_	3	cc	_	Ref=1.115.3
+5	καὶ	καί	CCONJ	C-	_	3	cc	_	Ref=1.115.3
+6	λόγον	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	Ref=1.115.3
+7	εἶχε	ἔχω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Ref=1.115.3
+8	οὐδένα	οὐδείς	DET	Px	Case=Acc|Gender=Masc|Number=Sing	6	det	_	Ref=1.115.3
+9	ἐς	εἰς	SCONJ	G-	_	11	mark	_	Ref=1.115.3
+10	ὃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	fixed	_	Ref=1.115.3
+11	ἔλαβὲ	λαμβάνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	Ref=1.115.3
+12	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	Ref=1.115.3
+13	δίκην	δίκη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	Ref=1.115.3
 
 ~~~
 
@@ -45,14 +45,14 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
-1	οὗτοι	οὗτος	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	4	det	_	ref=5.53.1
-2	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=5.53.1
-3	πάντες	πᾶς	DET	Px	Case=Nom|Gender=Masc|Number=Plur	4	det	_	ref=5.53.1
-4	σταθμοί	σταθμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=5.53.1
-5	εἰσι	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=5.53.1|LId=1
-6	ἕνδεκα	ἕνδεκα	NUM	Ma	_	0	root	_	ref=5.53.1
-7	καὶ	καὶ	NUM	Ma	_	6	fixed	_	ref=5.53.1
-8	ἑκατόν	ἑκατόν	NUM	Ma	_	6	fixed	_	ref=5.53.1
+1	οὗτοι	οὗτος	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	4	det	_	Ref=5.53.1
+2	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	Ref=5.53.1
+3	πάντες	πᾶς	DET	Px	Case=Nom|Gender=Masc|Number=Plur	4	det	_	Ref=5.53.1
+4	σταθμοί	σταθμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Ref=5.53.1
+5	εἰσι	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	LId=1|Ref=5.53.1
+6	ἕνδεκα	ἕνδεκα	NUM	Ma	_	0	root	_	Ref=5.53.1
+7	καὶ	καὶ	NUM	Ma	_	6	fixed	_	Ref=5.53.1
+8	ἑκατόν	ἑκατόν	NUM	Ma	_	6	fixed	_	Ref=5.53.1
 
 ~~~
 
@@ -63,12 +63,12 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	ὅ	ὅστις	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obj	_	ref=JOHN_2.5
-2	τι	τι	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	1	fixed	_	ref=JOHN_2.5
-3	ἂν	ἄν	ADV	Df	_	4	advmod	_	ref=JOHN_2.5
-4	λέγῃ	λέγω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	obj	_	ref=JOHN_2.5
-5	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	4	iobj	_	ref=JOHN_2.5
-6	ποιήσατε	ποιέω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_2.5
+1	ὅ	ὅστις	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obj	_	Ref=JOHN_2.5
+2	τι	τι	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	1	fixed	_	Ref=JOHN_2.5
+3	ἂν	ἄν	ADV	Df	_	4	advmod	_	Ref=JOHN_2.5
+4	λέγῃ	λέγω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	obj	_	Ref=JOHN_2.5
+5	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	4	iobj	_	Ref=JOHN_2.5
+6	ποιήσατε	ποιέω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=JOHN_2.5
 
 ~~~
 

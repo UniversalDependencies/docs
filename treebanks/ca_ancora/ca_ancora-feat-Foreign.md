@@ -43,7 +43,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>este, ningún, el, una</em>
-* `EMPTY` (87264): <em>el, la, l', els, les, un, una, aquest, seva, aquesta</em>
+* `EMPTY` (87263): <em>el, la, l', els, les, un, una, aquest, seva, aquesta</em>
 
 ### `VERB`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Quién, él</em>
-* `EMPTY` (23453): <em>que, es, s', hi, se, un, li, tot, on, què</em>
+* `EMPTY` (23452): <em>que, es, s', hi, se, un, li, tot, on, què</em>
 
 ### `ADJ`
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Kira Droganova, Olga Lyashevskaya, Daniel Zeman.
 
 Repository: [UD_Russian-SynTagRus](https://github.com/UniversalDependencies/UD_Russian-SynTagRus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_syntagrus29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_syntagrus210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -138,23 +138,23 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 </ul>
 
 <ul>
-<li>This corpus contains 34 lemmas tagged as pronouns (PRON): все, вся, всё, вы, кое-кто, который, кто, кто-либо, кто-нибудь, кто-то, многие, мы, некого, некто, немногие, нечего, нечто, никто, ничто, он, она, они, оно, прочее, себя, тем, то, ты, что, что-либо, что-нибудь, что-то, это, я</li>
+<li>This corpus contains 35 lemmas tagged as pronouns (PRON): все, вся, всё, вы, кое-кто, который, кто, кто-либо, кто-нибудь, кто-то, многие, мы, некого, некто, немногие, нечего, нечто, никто, ничто, он, она, они, оно, прочее, себя, тем, то, ты, чем, что, что-либо, что-нибудь, что-то, это, я</li>
 </ul>
 
 <ul>
-<li>This corpus contains 39 lemmas tagged as determiners (DET): ваш, весь, все, всякий, другой, его, ее, иной, их, каждый, каков, какой, какой-либо, какой-нибудь, какой-то, кое-какой, кой, любой, многий, мой, наш, наша, некий, некоторый, немногий, никакой, никой, один, полпути, прочий, сам, самый, свой, сей, такой, твой, тот, чей, этот</li>
+<li>This corpus contains 40 lemmas tagged as determiners (DET): ваш, весь, все, всякий, другой, его, ее, иной, их, каждый, каков, какой, какой-либо, какой-нибудь, какой-то, кое-какой, кой, любой, многий, мой, наш, наша, некий, некоторый, немногий, никакой, никой, один, полпути, прочий, сам, самый, свой, сей, такой, твой, тем, тот, чей, этот</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: все</li>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: все, тем</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): бы, бывать, быть</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): бы, быть</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: бывать, быть</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: быть</li>
 </ul>
 
 <ul>
@@ -224,7 +224,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   <li>Masc
     <ul>
       <li>ADJ: должен, первый, сам, новый, маленький, второй, самый, другой, нового, главный</li>
-      <li>AUX-Fin: был, бывал</li>
+      <li>AUX-Fin: был</li>
       <li>AUX-Part: бывший, бывшем</li>
       <li>DET: этот, тот, этом, этого, такой, каждый, свой, таким, своего, мой</li>
       <li>NOUN: года, лет, году, человек, раз, людей, люди, человека, случае, год</li>
@@ -309,7 +309,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   <li>Sing
     <ul>
       <li>ADJ: нужно, другой, должен, первый, сам, второй, российской, должна, большой, самом</li>
-      <li>AUX-Fin: было, был, будет, была, есть, буду, будь, будешь, бывал</li>
+      <li>AUX-Fin: было, был, будет, была, есть, буду, будь, будешь</li>
       <li>AUX-Part: бывший, бывшем</li>
       <li>DET: этот, этой, такой, своей, это, этом, свою, этого, эта, все</li>
       <li>NOUN: года, время, году, жизни, раз, дело, человека, времени, человек, жизнь</li>
@@ -406,7 +406,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       <li>AUX-Part: бывший, бывшие</li>
       <li>DET: все, эти, эта, этот, те, тот, это, такие, такая, такое</li>
       <li>NOUN: люди, человек, дело, вопрос, друг, часть, система, жизнь, ученые, речь</li>
-      <li>NUM: один, несколько, два, одна, три, две, одно, четыре, пять, сколько</li>
+      <li>NUM: один, два, несколько, одна, три, две, одно, четыре, пять, сколько</li>
       <li>PRON: он, я, это, мы, они, она, что, которые, все, то</li>
       <li>PROPN: Россия, Путин, Владимир, Сергей, Александр, Галилей, Медведев, Борис, В., А.</li>
       <li>VERB-Part: связанные, называемый, полученные, называемая, называемые, имеющие, имеющий, работающие, связанный, желающие</li>
@@ -444,7 +444,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   <li>Cmp
     <ul>
       <li>ADJ: лучше, выше, хуже, больше, ниже, легче, меньше, проще, сложнее, ближе</li>
-      <li>ADV: более, больше, менее, раньше, дальше, лучше, чаще, позже, выше, быстрее</li>
+      <li>ADV: более, больше, менее, раньше, меньше, дальше, лучше, чаще, позже, выше</li>
       <li>NUM: больше, меньше</li>
     </ul>
   </li>
@@ -536,7 +536,6 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: бы</li>
       <li>SCONJ: чтобы, чтоб</li>
     </ul>
   </li>
@@ -579,7 +578,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   <li>Past
     <ul>
       <li>AUX-Conv: Быв</li>
-      <li>AUX-Fin: было, был, были, была, бывал</li>
+      <li>AUX-Fin: было, был, были, была</li>
       <li>AUX-Part: бывший, бывшие, бывшем</li>
       <li>VERB-Conv: получив, увидев, узнав, став, оставив, сделав, вернувшись, попав, пройдя, взяв</li>
       <li>VERB-Fin: было, сказал, стал, стали, стало, мог, стала, могли, удалось, заявил</li>
@@ -711,15 +710,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Card
     <ul>
-      <li>NUM: многие, 1, 10, один, несколько, два, многих, больше, 20, 2</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Ord
-    <ul>
-      <li>ADJ: 1990-х, 30-е, 70-х, 80-х, 1600-метровый, 1930-е, 1938-го, 1960-е, 1970-е, 1970-х</li>
+      <li>NUM: многие, 1, 10, один, несколько, два, многих, 20, 2, 15</li>
     </ul>
   </li>
 </ul>
@@ -847,12 +838,12 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: быть, это.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: быть.</li>
 </ul>
 
 <ul>
 <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: бы, быть.</li>
-<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быть, бы, бывать.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быть, бы.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -872,8 +863,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (5)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(под) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(с) (2)</li>
+      <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(по) (9)</li>
-      <li>VERB-Fin--NOUN-Gen (2532)</li>
+      <li>VERB-Fin--NOUN-Gen (2553)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(в) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(во) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(до) (16)</li>
@@ -883,7 +875,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(порядка) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(свыше) (10)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(на) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (41609)</li>
+      <li>VERB-Fin--NOUN-Nom (41588)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(в) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(во) (9)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(до) (1)</li>
@@ -891,20 +883,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom-ADP(из) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(от) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(с) (4)</li>
-      <li>VERB-Fin--NOUN-Par (12)</li>
+      <li>VERB-Fin--NOUN-Par (13)</li>
       <li>VERB-Fin--PRON (6)</li>
       <li>VERB-Fin--PRON-Acc-ADP(на) (1)</li>
-      <li>VERB-Fin--PRON-Gen (367)</li>
+      <li>VERB-Fin--PRON-Gen (365)</li>
       <li>VERB-Fin--PRON-Gen-ADP(у) (1)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Fin--PRON-Loc-ADP(в) (2)</li>
-      <li>VERB-Fin--PRON-Nom (24301)</li>
+      <li>VERB-Fin--PRON-Nom (24291)</li>
       <li>VERB-Inf--NOUN-Gen (12)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(около) (1)</li>
       <li>VERB-Inf--NOUN-Nom (526)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Inf--PRON-Nom (360)</li>
+      <li>VERB-Inf--PRON-Nom (359)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
       <li>VERB-Part--NOUN-Nom (19)</li>
       <li>VERB-Part--PRON-Nom (5)</li>
@@ -919,7 +911,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc (2)</li>
       <li>VERB--PRON-Gen (1)</li>
       <li>VERB-Conv--NOUN (3)</li>
-      <li>VERB-Conv--NOUN-Acc (2020)</li>
+      <li>VERB-Conv--NOUN-Acc (2019)</li>
       <li>VERB-Conv--NOUN-Acc-ADP(для) (1)</li>
       <li>VERB-Conv--NOUN-Gen (91)</li>
       <li>VERB-Conv--NOUN-Ins (22)</li>
@@ -927,7 +919,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Acc (234)</li>
       <li>VERB-Conv--PRON-Gen (11)</li>
       <li>VERB-Fin--NOUN (18)</li>
-      <li>VERB-Fin--NOUN-Acc (20710)</li>
+      <li>VERB-Fin--NOUN-Acc (20704)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(во) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(на) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(над) (2)</li>
@@ -944,7 +936,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen (267)</li>
       <li>VERB-Fin--PRON-Ins (26)</li>
       <li>VERB-Inf--NOUN (6)</li>
-      <li>VERB-Inf--NOUN-Acc (12042)</li>
+      <li>VERB-Inf--NOUN-Acc (12036)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(в) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(на) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(над) (2)</li>
@@ -957,7 +949,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Gen (87)</li>
       <li>VERB-Inf--PRON-Ins (6)</li>
       <li>VERB-Part--NOUN (3)</li>
-      <li>VERB-Part--NOUN-Acc (1776)</li>
+      <li>VERB-Part--NOUN-Acc (1773)</li>
       <li>VERB-Part--NOUN-Acc-ADP(в) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(во) (1)</li>
       <li>VERB-Part--NOUN-Gen (49)</li>
@@ -982,9 +974,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Dat (48)</li>
       <li>VERB-Conv--PRON-Ins (9)</li>
       <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Dat (2476)</li>
+      <li>VERB-Fin--NOUN-Dat (2474)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(во) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (55)</li>
+      <li>VERB-Fin--NOUN-Gen (57)</li>
       <li>VERB-Fin--NOUN-Ins (771)</li>
       <li>VERB-Fin--NOUN-Nom (12)</li>
       <li>VERB-Fin--PRON-Dat (3050)</li>
@@ -998,7 +990,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat (634)</li>
       <li>VERB-Inf--PRON-Ins (43)</li>
       <li>VERB-Part--NOUN-Dat (473)</li>
-      <li>VERB-Part--NOUN-Gen (76)</li>
+      <li>VERB-Part--NOUN-Gen (77)</li>
       <li>VERB-Part--NOUN-Ins (215)</li>
       <li>VERB-Part--NOUN-Nom (4)</li>
       <li>VERB-Part--PRON-Dat (211)</li>

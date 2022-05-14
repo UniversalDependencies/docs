@@ -11,7 +11,7 @@ It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
 8463 tokens (9%) have a non-empty value of `Mood`.
 1133 types (11%) occur at least once with a non-empty value of `Mood`.
-796 lemmas (10%) occur at least once with a non-empty value of `Mood`.
+795 lemmas (10%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (5083; 5% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (3380; 4% instances).
 
 ### `VERB`
@@ -35,7 +35,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt></tt></td><td></td><td><em>Get</em></td><td><em>get</em></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 93% lemmas (742) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 93% lemmas (741) occur only with one value of `Mood`.
 
 ### `AUX`
 
@@ -63,7 +63,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (671; 67%),
+<tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (672; 67%),
 <tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 60%),
 <tt>VERB --[<tt><a href="en_lines-dep-csubj.html">csubj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="en_lines-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (2; 67%),

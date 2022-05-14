@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (1%) are attached to their parents as `amod`.
+5 nodes (0%) are attached to their parents as `amod`.
 
-2 instances of `amod` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33333333333333.
+3 instances of `amod` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2.
 
-The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-ADJ.html">ADJ</a></tt> (2; 67% instances), <tt><a href="myu_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myu_tudet-pos-ADV.html">ADV</a></tt> (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-ADJ.html">ADJ</a></tt> (4; 80% instances), <tt><a href="myu_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myu_tudet-pos-ADV.html">ADV</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -39,13 +39,13 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 amod	color:blue
-1	Kabiam	Kabiam	ADV	adv	_	3	amod	3:amod	_
-2	doa	_	NOUN	n	_	5	nsubj	5:nsubj	_
-3	iba'orere	ba'orere	ADJ	adj	_	2	amod	2:amod	_
-4	jedoti	_	NOUN	n	_	5	obl	5:obl	_
-5	mug̃ẽg̃ẽm	_	VERB	v	Aspect=DurIprf	0	root	0:root	_
-6	daxa	daxa	NOUN	n	_	5	obj	5:obj	_
-7	xe	xe	ADP	pp	_	6	case	6:case	_
+1	Kabiam	Kabiam	ADV	adv	_	3	amod	_	_
+2	doa	_	NOUN	n	_	5	nsubj	_	_
+3	iba'orere	ba'orere	ADJ	adj	_	2	amod	_	_
+4	jedoti	_	NOUN	n	_	5	obl	_	_
+5	mug̃ẽg̃ẽm	_	VERB	v	Aspect=DurIprf	0	root	_	_
+6	daxa	daxa	NOUN	n	_	5	obj	_	_
+7	xe	xe	ADP	pp	_	6	case	_	_
 
 ~~~
 

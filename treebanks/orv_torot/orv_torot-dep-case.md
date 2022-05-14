@@ -51,11 +51,11 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 case	color:blue
-1	а	а	CCONJ	C-	_	0	root	_	ref=6
-2	детеи	дѣтя	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	ref=6
-3	ѹ	у	ADP	R-	_	4	case	_	ref=6
-4	них	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obl	_	ref=6
-5	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	nsubj	_	ref=6
+1	а	а	CCONJ	C-	_	0	root	_	Ref=6
+2	детеи	дѣтя	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	Ref=6
+3	ѹ	у	ADP	R-	_	4	case	_	Ref=6
+4	них	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obl	_	Ref=6
+5	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	nsubj	_	Ref=6
 
 ~~~
 

@@ -9,44 +9,46 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="hyw_armtdp-dep-nsubj-caus.html">nsubj:caus</a></tt>.
 
-275 nodes (0%) are attached to their parents as `nsubj:pass`.
+435 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-202 instances of `nsubj:pass` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.46909090909091.
+330 instances of `nsubj:pass` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.4.
 
-The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (229; 83% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (30; 11% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (11; 4% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (365; 84% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (46; 11% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (17; 4% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 nsubj:pass	color:blue
-1	Լսարան	լսարան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	nsubj:pass	_	Translit=Lsaran|LTranslit=lsaran
-2	հիմնուեցաւ	հիմնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=himnowec’aw|LTranslit=himnel|SpaceAfter=No
-3	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 nsubj:pass	color:blue
+1	Շատ	շատ	ADJ	_	Degree=Pos	2	amod	_	Translit=Šat|LTranslit=šat
+2	բաներ	բան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	3	nsubj:pass	_	Translit=baner|LTranslit=ban
+3	հնարուեցան	հնարել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=hnarowec’an|LTranslit=hnarel|SpaceAfter=No
+4	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 4 nsubj:pass	color:blue
-1	Գոյնի	գոյն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:npmod	_	Translit=Goyni|LTranslit=goyn
-2	տեղ	տեղ	ADP	_	AdpType=Post	1	case	_	Translit=teġ|LTranslit=teġ
-3	բոյսեր	բոյս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	0	root	_	Translit=boyser|LTranslit=boys
-4	որ	որ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Rel	7	nsubj:pass	_	Translit=or|LTranslit=or
-5	մոզաիքի	մոզաիք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	7	obl	_	Translit=mozaik’i|LTranslit=mozaik’
-6	պէս	պէս	ADP	_	AdpType=Post	5	case	_	Translit=pēs|LTranslit=pēs
-7	տնկուած	տնկել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	3	acl:relcl	_	Translit=tnkowaç|LTranslit=tnkel
-8	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=en|LTranslit=em
-9	հողի	հող	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	7	obl	_	Translit=hoġi|LTranslit=hoġ
-10	մէջ	մէջ	ADP	_	AdpType=Post	9	case	_	Translit=mēǰ|LTranslit=mēǰ|SpaceAfter=No
-11	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 nsubj:pass	color:blue
+1	Ցայսօր	ցայսօր	ADV	_	Style=Arch	4	advmod:emph	_	Translit=C’aysòr|LTranslit=c’aysòr
+2	միայն	միայն	ADV	_	_	3	advmod:emph	_	Translit=miayn|LTranslit=miayn
+3	Քասիմի	Քասիմ	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Giv|Number=Sing	4	nmod:poss	_	Translit=K’asimi|LTranslit=K’asim
+4	փոխադրածն	փոխադրած	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=p’oxadraçn|LTranslit=p’oxadraç
+5	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	4	cop	_	Translit=ēr|LTranslit=em|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
+7	որ	որ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Rel	9	nsubj:pass	_	Translit=or|LTranslit=or
+8	չէր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Imp|VerbForm=Fin	9	aux	_	Translit=čēr|LTranslit=em
+9	վերատպուած	վերատպել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	4	csubj	_	Translit=veratpowaç|LTranslit=veratpel
+10	որեւէ	որեւէ	DET	_	PronType=Ind	11	det	_	Translit=orewē|LTranslit=orewē
+11	անգամ	անգամ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	9	obl	_	Translit=angam|LTranslit=angam|SpaceAfter=No
+12	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -9,14 +9,14 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
-599 tokens (3%) have a non-empty value of `Variant`.
-199 types (3%) occur at least once with a non-empty value of `Variant`.
-165 lemmas (3%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (379; 2% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (220; 1% instances).
+606 tokens (3%) have a non-empty value of `Variant`.
+204 types (3%) occur at least once with a non-empty value of `Variant`.
+166 lemmas (3%) occur at least once with a non-empty value of `Variant`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (379; 2% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (220; 1% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (7; 0% instances).
 
 ### `PRON`
 
-379 <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Variant`.
+379 <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> tokens (66% of all `PRON` tokens) have a non-empty value of `Variant`.
 
 The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (379; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (379; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (359; 95%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (349; 92%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (349; 92%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (349; 92%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (322; 85%).
 
@@ -35,6 +35,16 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 * `Short` (220; 100% of non-empty `Variant`): <em>schopen, řečeno, propuštěn, rád, nabídnuto, označen, poražena, používán, považováno, považovány</em>
 
 `Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (162) occur only with one value of `Variant`.
+
+### `DET`
+
+7 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Variant`.
+
+The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (7; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (7; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 86%).
+
+`DET` tokens may have the following values of `Variant`:
+
+* `Short` (7; 100% of non-empty `Variant`): <em>sama, sám, sami, samo</em>
 
 ## Relations with Agreement in `Variant`
 

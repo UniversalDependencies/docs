@@ -30,11 +30,11 @@ The following 33 pairs of parts of speech are connected with `compound`: <tt><a 
 6	demà	demà	ADV	rg	_	5	advmod	5:advmod	SpaceAfter=No
 7	,	,	PUNCT	fc	PunctType=Comm	10	punct	10:punct	_
 8	a	a	ADP	sps00	_	10	case	10:case	_
-9	les	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	10:det	_
-10	12	12	NUM	_	NumForm=Digit|NumType=Card	5	obl	5:obl	MWE=12_del_migdia|MWEPOS=NOUN|ClusterId=3LB-CAT-207-3-s8.sn.21|ClusterType=Spec.date|MentionSpan=9-13
+9	les	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	10:det	Entity=(3LBCAT2073s8.sn.21-time-2-gstype:spec
+10	12	12	NUM	_	NumForm=Digit|NumType=Card	5	obl	5:obl	MWE=12_del_migdia|MWEPOS=NOUN
 11	de	de	ADP	_	_	13	case	13:case	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	_
-13	migdia	migdia	NOUN	_	_	10	compound	10:compound	SpaceAfter=No
+13	migdia	migdia	NOUN	_	_	10	compound	10:compound	SpaceAfter=No|Entity=3LBCAT2073s8.sn.21)
 14	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 
 ~~~
@@ -48,18 +48,18 @@ The following 33 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 4 7 compound	color:blue
 1	Va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	2:aux	_
 2	tornar	tornar	VERB	vmn0000	VerbForm=Inf	0	root	0:root	_
-3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
-4	març	març	NOUN	_	_	2	obl	2:obl	MWE=març_del_1986|MWEPOS=NOUN|ClusterId=CESS-CAT-AAP-20020402-83-s15.sn.7|ClusterType=Spec.date|MentionSpan=3-7
+3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	Entity=(CESSCATAAP2002040283s15.sn.7-time-2-gstype:spec
+4	març	març	NOUN	_	_	2	obl	2:obl	MWE=març_del_1986|MWEPOS=NOUN
 5	de	de	ADP	_	_	7	case	7:case	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	7:det	_
-7	1986	1986	NUM	_	NumForm=Digit|NumType=Card	4	compound	4:compound	_
+7	1986	1986	NUM	_	NumForm=Digit|NumType=Card	4	compound	4:compound	Entity=CESSCATAAP2002040283s15.sn.7)
 8	i	i	CCONJ	cc	_	11	cc	11:cc	_
 9	es	ell	PRON	p0300000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	obj	11:obj	_
 10	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 11	presentar	presentar	VERB	vmn0000	VerbForm=Inf	2	conj	2:conj	_
 12	davant	davant	ADP	sps00	_	14	case	14:case	_
-13	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	14:det	_
-14	jutge	jutge	NOUN	ncms000	Gender=Masc|Number=Sing	11	obl	11:obl	SpaceAfter=No|ClusterId=CESS-CAT-AAP-20020402-83-c17|ClusterType=Gen|MentionSpan=13-14
+13	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	14:det	Entity=(CESSCATAAP2002040283c17--2-gstype:gen
+14	jutge	jutge	NOUN	ncms000	Gender=Masc|Number=Sing	11	obl	11:obl	SpaceAfter=No|Entity=CESSCATAAP2002040283c17)
 15	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~

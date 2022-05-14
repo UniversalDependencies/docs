@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-48 nodes (18%) are attached to their parents as `nsubj`.
+66 nodes (13%) are attached to their parents as `nsubj`.
 
-47 instances of `nsubj` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70833333333333.
+64 instances of `nsubj` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (22; 46% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (15; 31% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (29; 44% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (21; 32% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

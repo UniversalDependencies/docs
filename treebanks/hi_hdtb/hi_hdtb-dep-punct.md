@@ -23,7 +23,7 @@ The following 30 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 4 punct	color:blue
 1	आइए	आ	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	2	vocative	_	Vib=एं|Tam=eM|ChunkId=VGF|ChunkType=head|Stype=imperative|Translit=āie
-2	करें	कर	VERB	VM	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	_	Vib=एं|Tam=eM|ChunkId=VGF2|ChunkType=head|Stype=declarative|Translit=kareṁ
+2	करें	कर	VERB	VM	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	_	ChunkId=VGF2|ChunkType=head|Stype=declarative|Tam=eM|Translit=kareṁ|Vib=एं
 3	सैर	सैर	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	compound	_	Vib=0|Tam=0|ChunkId=NP|ChunkType=head|Translit=saira
 4	-	-	PUNCT	SYM	_	2	punct	_	ChunkId=BLK|ChunkType=head|Translit=-
 
@@ -42,7 +42,7 @@ The following 30 pairs of parts of speech are connected with `punct`: <tt><a hre
 4	महापरिनिर्वाण	महापरिनिर्वाण	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child|Translit=mahāparinirvāṇa
 5	मंदिर	मंदिर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	_	Vib=0_से|Tam=0|ChunkId=NP3|ChunkType=head|Translit=maṁdira
 6	से	से	ADP	PSP	AdpType=Post	5	case	_	ChunkId=NP3|ChunkType=child|Translit=se
-7	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
+7	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=hE|Translit=hai|Vib=है
 8	।	।	PUNCT	SYM	_	5	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -64,7 +64,7 @@ The following 30 pairs of parts of speech are connected with `punct`: <tt><a hre
 8	के	के	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc	7	case	_	ChunkId=NP3|ChunkType=child|Translit=ke
 9	रूप	रूप	ADP	PSP	Case=Acc|Gender=Masc	7	case	_	ChunkId=NP3|ChunkType=child|Translit=rūpa
 10	में	में	ADP	PSP	AdpType=Post	7	case	_	ChunkId=NP3|ChunkType=child|Translit=meṁ
-11	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
+11	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=hE|Translit=hai|Vib=है
 12	।	।	PUNCT	SYM	_	7	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~

@@ -31,8 +31,8 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	film	film	NOUN	_	Gender=Masc|Number=Sing	6	nsubj:pass	_	_
 9	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
-10	War	War	X	_	_	8	dep	_	_
-11	Games	Games	X	_	_	10	flat:foreign	_	SpaceAfter=No
+10	War	War	X	_	Foreign=Yes	8	dep	_	_
+11	Games	Games	X	_	Foreign=Yes	10	flat:foreign	_	SpaceAfter=No
 12	"	"	PUNCT	_	_	10	punct	_	_
 13	?	?	PUNCT	_	_	6	punct	_	_
 
@@ -49,9 +49,9 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	composé	composer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
-5	The	The	X	_	_	8	dep	_	_
-6	Pines	Pines	X	_	_	8	dep	_	_
-7	of	of	X	_	_	8	dep	_	_
+5	The	The	X	_	Foreign=Yes	8	dep	_	_
+6	Pines	Pines	X	_	Foreign=Yes	8	dep	_	_
+7	of	of	X	_	Foreign=Yes	8	dep	_	_
 8	Rome	Rome	PROPN	_	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 9	"	"	PUNCT	_	_	8	punct	_	_
 10	?	?	PUNCT	_	_	3	punct	_	_
@@ -71,10 +71,10 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 4	pour	pour	ADP	_	_	5	case	_	_
 5	slogan	slogan	NOUN	_	Gender=Masc|Number=Sing	3	xcomp	_	_
 6	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
-7	Quality	Quality	X	_	_	10	dep	_	_
-8	is	is	X	_	_	10	dep	_	_
-9	job	job	X	_	_	10	dep	_	_
-10	1	1	NUM	_	NumType=Card	3	obj	_	SpaceAfter=No
+7	Quality	Quality	X	_	Foreign=Yes	10	dep	_	_
+8	is	is	X	_	Foreign=Yes	10	dep	_	_
+9	job	job	X	_	Foreign=Yes	10	dep	_	_
+10	1	1	NUM	_	Foreign=Yes|NumType=Card	3	obj	_	SpaceAfter=No
 11	"	"	PUNCT	_	_	10	punct	_	_
 12	?	?	PUNCT	_	_	3	punct	_	_
 

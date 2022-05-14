@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 7	,	,	PUNCT	Z:-------------	_	5	punct	3.1:punct	_
 8	a	a	CCONJ	J^-------------	_	5	cc	3.1:cc	LId=a-1
 9	hned	hned	ADV	Db-------------	_	10	advmod	10:advmod	_
-10	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	orphan	3.1:dep	_
+10	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	orphan	3.1:dep	_
 11	panděro	panděro	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	10	nsubj	10:nsubj	_
 12	pryč	pryč	ADV	Db-------------	_	10	advmod	10:advmod	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_

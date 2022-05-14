@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `vocative`.
+12 nodes (0%) are attached to their parents as `vocative`.
 
-6 instances of `vocative` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.81818181818182.
+7 instances of `vocative` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.75.
 
-The following 4 pairs of parts of speech are connected with `vocative`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (5; 45% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (3; 27% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (1; 9% instances).
+The following 4 pairs of parts of speech are connected with `vocative`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (5; 42% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (3; 25% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (2; 17% instances).
 
 
 ~~~ conllu
@@ -65,12 +65,12 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
 3	là	là	ADV	_	_	0	root	_	_
-4	en	en	ADP	_	_	5	case	_	_
-5	mode	mode	NOUN	_	Number=Sing	3	obl:mod	_	_
+4	en	en	ADP	_	_	9	mark	_	ExtPos=ADP|Idiom=Yes
+5	mode	mode	NOUN	_	Number=Sing	4	fixed	_	InIdiom=Yes
 6	mais	mais	CCONJ	_	_	9	cc	_	_
 7	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_
 8	êtes	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	Reported=Yes
-9	sûre	sûr	ADJ	_	Gender=Fem|Number=Sing	5	ccomp	_	_
+9	sûre	sûr	ADJ	_	Gender=Fem|Number=Sing	3	advcl	_	_
 10	madame	madame	NOUN	_	Gender=Fem|Number=Sing	9	vocative	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	euh	euh	INTJ	_	_	9	discourse	_	SpaceAfter=No

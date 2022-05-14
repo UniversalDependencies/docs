@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5287 nodes (6%) are attached to their parents as `det`.
+5538 nodes (6%) are attached to their parents as `det`.
 
-4940 instances of `det` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08038585209003.
+5181 instances of `det` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08053448898519.
 
-The following 13 pairs of parts of speech are connected with `det`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (4931; 93% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (244; 5% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (52; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (32; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (5173; 93% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (251; 5% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (54; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (31; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 6	agus	agus	CCONJ	Cc	_	8	cc	_	_
 7	an	an	DET	Tdsf	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Eadailt	Eadailt	PROPN	Nt	_	5	conj	_	_
-9	a	a	PART	Q-r	PartType=Vb|PronType=Rel	10	mark:prt	_	_
+9	a	a	PART	Q-r	PartType=Vb|PronType=Rel	10	xcomp:pred	_	_
 10	tha	bi	VERB	V-p	Tense=Pres	5	csubj:cleft	_	_
 11	'n	an	DET	Tdsf	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	dithis	dithis	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_

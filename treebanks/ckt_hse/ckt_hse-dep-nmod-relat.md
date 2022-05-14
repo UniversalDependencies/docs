@@ -23,13 +23,13 @@ The following 8 pairs of parts of speech are connected with `nmod:relat`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 nmod:relat	color:blue
-1	Ынӄэн	_	PRON	_	_	5	nsubj	_	Gloss=DET
-2	нэмэ	_	ADV	_	_	4	advmod	_	Gloss=опять
-3	мимыԓ	_	NOUN	_	_	4	nsubj	_	Gloss=вода
-4	гэквэтԓин	_	VERB	_	_	0	root	_	Gloss=PF-отправляться-PF.3SG
-5	гэтэԓпыԓин	_	VERB	_	_	4	parataxis	_	Gloss=PF-кончаться-PF.3SG
-6	аӈӄакэн	_	NOUN	_	_	3	nmod:relat	_	Gloss=море-REL-NOM.SG|SpaceAfter=No
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	Ынӄэн	_	PRON	_	_	5	nsubj	5:nsubj	Gloss=DET
+2	нэмэ	_	ADV	_	_	4	advmod	4:advmod	Gloss=опять
+3	мимыԓ	_	NOUN	_	_	4	nsubj	4:nsubj	Gloss=вода
+4	гэквэтԓин	_	VERB	_	_	0	root	0:root	Gloss=PF-отправляться-PF.3SG
+5	гэтэԓпыԓин	_	VERB	_	_	4	parataxis	4:parataxis	Gloss=PF-кончаться-PF.3SG
+6	аӈӄакэн	_	NOUN	_	_	3	nmod:relat	3:nmod:relat	Gloss=море-REL-NOM.SG|SpaceAfter=No
+7	.	_	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 
@@ -40,11 +40,11 @@ The following 8 pairs of parts of speech are connected with `nmod:relat`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nmod:relat	color:blue
-1	Ӈуткэкин	_	ADV	_	_	3	nmod:relat	_	Gloss=тут-OBL-REL
-2	Омваамвыкэн	_	PROPN	_	_	3	nmod:relat	_	Gloss=Амгуэма-REL
-3	Тымӈэԓӄот	_	PROPN	_	_	4	nsubj	_	Gloss=Тынелькот-NOM.SG
-4	нымӈыԓтэԓӄэн	_	VERB	_	_	0	root	_	Gloss=ST-весть-DUR-ST.3SG|SpaceAfter=No
-5	.	_	PUNCT	_	_	4	punct	_	_
+1	Ӈуткэкин	_	ADV	_	_	3	nmod:relat	3:nmod:relat	Gloss=тут-OBL-REL
+2	Омваамвыкэн	_	PROPN	_	_	3	nmod:relat	3:nmod:relat	Gloss=Амгуэма-REL
+3	Тымӈэԓӄот	_	PROPN	_	_	4	nsubj	4:nsubj	Gloss=Тынелькот-NOM.SG
+4	нымӈыԓтэԓӄэн	_	VERB	_	_	0	root	0:root	Gloss=ST-весть-DUR-ST.3SG|SpaceAfter=No
+5	.	_	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -55,12 +55,12 @@ The following 8 pairs of parts of speech are connected with `nmod:relat`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nmod:relat	color:blue
-1	Нымӈыԓтэԓӄэн	_	VERB	_	_	0	root	_	Gloss=ST-весть-DUR-ST.3SG
-2	Ваӈӄарэмакэн	_	PROPN	_	_	3	nmod:relat	_	Gloss=Ванкарем-REL
-3	Куувэ	_	PROPN	_	_	1	nsubj	_	Gloss=Куувэн-NOM.SG
-4	ӈэ	_	PART	_	_	3	advmod:emph	_	Gloss=PTCL
-5	аӈӄаԓьын	_	NOUN	_	_	3	nmod	_	Gloss=море-ATTR-NOM.SG|SpaceAfter=No
-6	.	_	PUNCT	_	_	1	punct	_	_
+1	Нымӈыԓтэԓӄэн	_	VERB	_	_	0	root	0:root	Gloss=ST-весть-DUR-ST.3SG
+2	Ваӈӄарэмакэн	_	PROPN	_	_	3	nmod:relat	3:nmod:relat	Gloss=Ванкарем-REL
+3	Куувэ	_	PROPN	_	_	1	nsubj	1:nsubj	Gloss=Куувэн-NOM.SG
+4	ӈэ	_	PART	_	_	3	advmod:emph	3:advmod:emph	Gloss=PTCL
+5	аӈӄаԓьын	_	NOUN	_	_	3	nmod	3:nmod	Gloss=море-ATTR-NOM.SG|SpaceAfter=No
+6	.	_	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 

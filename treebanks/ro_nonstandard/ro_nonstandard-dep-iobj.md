@@ -22,12 +22,12 @@ The following 37 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 iobj	color:blue
-1	Aduceți	aduce	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	ref=MATT17.17|SpaceAfter=No
-2	-mi	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	1	iobj	_	ref=MATT17.17
-3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.17
-4	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	obl:pmod	_	ref=MATT17.17
-5	încoace	încoace	ADV	Rg	_	1	advmod	_	ref=MATT17.17|SpaceAfter=No
-6	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT17.17
+1	Aduceți	aduce	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=MATT17.17|SpaceAfter=No
+2	-mi	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	1	iobj	_	Ref=MATT17.17
+3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT17.17
+4	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	obl:pmod	_	Ref=MATT17.17
+5	încoace	încoace	ADV	Rg	_	1	advmod	_	Ref=MATT17.17|SpaceAfter=No
+6	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT17.17
 
 ~~~
 
@@ -38,18 +38,18 @@ The following 37 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 iobj	color:blue
-1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	10	cc	_	ref=MATT18.17
-2	să	să	PART	Qs	PartType=Sub	5	mark	_	ref=MATT18.17
-3	nu	nu	ADV	Qz	Polarity=Neg	5	advmod	_	ref=MATT18.17
-4	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	ref=MATT18.17
-5	asculta	asculta	VERB	Vmn	VerbForm=Inf	10	advcl	_	ref=MATT18.17
-6	și	și	CCONJ	Ccssp	Polarity=Pos	8	advmod	_	ref=MATT18.17
-7	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT18.17
-8	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	obl:pmod	_	ref=MATT18.17|SpaceAfter=No
-9	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT18.17
-10	spune	spune	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	ref=MATT18.17
-11	săborului	sobor	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	10	iobj	_	ref=MATT18.17|SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	10	punct	_	ref=MATT18.17
+1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	10	cc	_	Ref=MATT18.17
+2	să	să	PART	Qs	PartType=Sub	5	mark	_	Ref=MATT18.17
+3	nu	nu	ADV	Qz	Polarity=Neg	5	advmod	_	Ref=MATT18.17
+4	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	Ref=MATT18.17
+5	asculta	asculta	VERB	Vmn	VerbForm=Inf	10	advcl	_	Ref=MATT18.17
+6	și	și	CCONJ	Ccssp	Polarity=Pos	8	advmod	_	Ref=MATT18.17
+7	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	Ref=MATT18.17
+8	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	obl:pmod	_	Ref=MATT18.17|SpaceAfter=No
+9	,	,	PUNCT	COMMA	_	5	punct	_	Ref=MATT18.17
+10	spune	spune	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	Ref=MATT18.17
+11	săborului	sobor	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	10	iobj	_	Ref=MATT18.17|SpaceAfter=No
+12	.	.	PUNCT	PERIOD	_	10	punct	_	Ref=MATT18.17
 
 ~~~
 
@@ -60,13 +60,13 @@ The following 37 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 iobj	color:blue
-1	Să	să	PART	Qs	PartType=Sub	6	mark	_	ref=MATT18.17.content
-2	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	6	cop	_	ref=MATT18.17.content
-3	ție	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	6	iobj	_	ref=MATT18.17.content
-4	ca	ca	ADV	Rg	_	6	case	_	ref=MATT18.17.content
-5	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	ref=MATT18.17.content
-6	păgîn	păgân	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT18.17.content|SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	6	punct	_	ref=MATT18.17.content
+1	Să	să	PART	Qs	PartType=Sub	6	mark	_	Ref=MATT18.17.content
+2	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	6	cop	_	Ref=MATT18.17.content
+3	ție	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	6	iobj	_	Ref=MATT18.17.content
+4	ca	ca	ADV	Rg	_	6	case	_	Ref=MATT18.17.content
+5	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	Ref=MATT18.17.content
+6	păgîn	păgân	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	Ref=MATT18.17.content|SpaceAfter=No
+7	.	.	PUNCT	PERIOD	_	6	punct	_	Ref=MATT18.17.content
 
 ~~~
 

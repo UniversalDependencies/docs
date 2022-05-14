@@ -69,7 +69,7 @@ The 10 most frequent ambiguous types:  <em>og</em> (<tt><a href="is_icepahc-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.803415).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.803916).
 
 The 1st highest number of forms (4) was observed with the lemma “hvorki”: <em>hverki, hvorki, hvortki, hvörki</em>.
 

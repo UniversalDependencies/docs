@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="orv_rnc-dep-aux-pass.html">aux:pass</a></tt>.
 
-161 nodes (0%) are attached to their parents as `aux`.
+164 nodes (0%) are attached to their parents as `aux`.
 
-104 instances of `aux` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.73291925465838.
+106 instances of `aux` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.74390243902439.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (129; 80% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (15; 9% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (9; 6% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (131; 80% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (15; 9% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (10; 6% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

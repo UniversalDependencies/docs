@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20 nodes (7%) are attached to their parents as `conj`.
+28 nodes (6%) are attached to their parents as `conj`.
 
-20 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.45.
+28 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.03571428571429.
 
-The following 5 pairs of parts of speech are connected with `conj`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (12; 60% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt> (3; 15% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (3; 15% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `conj`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (19; 68% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt> (3; 11% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 7 language-specific subtypes of `advmod`: <tt><a href="sms_giellagas-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="sms_giellagas-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="sms_giellagas-dep-advmod-foc.html">advmod:foc</a></tt>, <tt><a href="sms_giellagas-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="sms_giellagas-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-63 nodes (3%) are attached to their parents as `advmod`.
+74 nodes (3%) are attached to their parents as `advmod`.
 
-43 instances of `advmod` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.73015873015873.
+54 instances of `advmod` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.71621621621622.
 
-The following 7 pairs of parts of speech are connected with `advmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (41; 65% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (8; 13% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (6; 10% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 6% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (50; 68% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (8; 11% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (6; 8% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

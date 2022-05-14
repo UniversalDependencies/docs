@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-191344 tokens (13%) have a non-empty value of `Degree`.
-39570 types (31%) occur at least once with a non-empty value of `Degree`.
-13744 lemmas (24%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (165171; 11% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (25021; 2% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (1152; 0% instances).
+190192 tokens (13%) have a non-empty value of `Degree`.
+39551 types (31%) occur at least once with a non-empty value of `Degree`.
+13743 lemmas (24%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (165171; 11% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (25021; 2% instances).
 
 ### `ADJ`
 
 165171 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (87% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (160992; 97%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (110537; 67%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (97557; 59%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (160992; 97%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (152001; 92%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (152001; 92%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (110537; 67%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (97557; 59%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -111,17 +111,6 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 </table>
 
 `Degree` seems to be **lexical feature** of `ADV`. 93% lemmas (1569) occur only with one value of `Degree`.
-
-### `DET`
-
-1152 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1152; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1137; 99%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (764; 66%).
-
-`DET` tokens may have the following values of `Degree`:
-
-* `Pos` (1152; 100% of non-empty `Degree`): <em>každý, každé, každého, každém, každá, každou, každému, každým, každých</em>
-* `EMPTY` (54960): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 ## Relations with Agreement in `Degree`
 

@@ -6,44 +6,41 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Turkish-Tonqq: POS Tags: `AUX`
 
-There are 1 `AUX` lemmas (8%), 8 `AUX` types (8%) and 13 `AUX` tokens (6%).
-Out of 13 observed tags, the rank of `AUX` is: 4 in number of lemmas, 5 in number of types and 5 in number of tokens.
+There are 1 `AUX` lemmas (8%), 14 `AUX` types (18%) and 24 `AUX` tokens (15%).
+Out of 13 observed tags, the rank of `AUX` is: 4 in number of lemmas, 3 in number of types and 2 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>_</em>
 
-The 10 most frequent `AUX` types:  <em>𐰼𐱅𐰃, 𐰼𐰨, 𐰼𐱅𐰢, 𐰉𐰆𐰞𐰖𐰣, 𐰉𐰆𐰡𐰃, 𐰢𐰆, 𐰼𐰢𐰾, 𐰼𐱅𐰢𐰕</em>
+The 10 most frequent `AUX` types:  <em>𐰓𐰃, 𐰢𐰃𐱀, 𐰑𐰃, 𐰢, 𐰼, 𐱅, 𐰍𐰞, 𐰓𐰇𐰚, 𐰢𐰃𐱁, 𐰢𐰔</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="otk_tonqq-pos-PUNCT.html">PUNCT</a></tt> 82, <tt><a href="otk_tonqq-pos-NOUN.html">NOUN</a></tt> 40, <tt><a href="otk_tonqq-pos-VERB.html">VERB</a></tt> 26, <tt><a href="otk_tonqq-pos-PROPN.html">PROPN</a></tt> 19, <tt><a href="otk_tonqq-pos-AUX.html">AUX</a></tt> 13, <tt><a href="otk_tonqq-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="otk_tonqq-pos-ADV.html">ADV</a></tt> 8, <tt><a href="otk_tonqq-pos-NUM.html">NUM</a></tt> 6, <tt><a href="otk_tonqq-pos-PRON.html">PRON</a></tt> 6, <tt><a href="otk_tonqq-pos-ADP.html">ADP</a></tt> 3, <tt><a href="otk_tonqq-pos-PART.html">PART</a></tt> 3, <tt><a href="otk_tonqq-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="otk_tonqq-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="otk_tonqq-pos-PUNCT.html">PUNCT</a></tt> 47, <tt><a href="otk_tonqq-pos-AUX.html">AUX</a></tt> 24, <tt><a href="otk_tonqq-pos-NUM.html">NUM</a></tt> 21, <tt><a href="otk_tonqq-pos-VERB.html">VERB</a></tt> 19, <tt><a href="otk_tonqq-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="otk_tonqq-pos-ADP.html">ADP</a></tt> 12, <tt><a href="otk_tonqq-pos-DET.html">DET</a></tt> 7, <tt><a href="otk_tonqq-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="otk_tonqq-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="otk_tonqq-pos-ADV.html">ADV</a></tt> 1, <tt><a href="otk_tonqq-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="otk_tonqq-pos-PRON.html">PRON</a></tt> 1, <tt><a href="otk_tonqq-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>𐰉𐰆𐰡𐰃</em> (<tt><a href="otk_tonqq-pos-AUX.html">AUX</a></tt> 1, <tt><a href="otk_tonqq-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>𐰼</em> (<tt><a href="otk_tonqq-pos-AUX.html">AUX</a></tt> 2, <tt><a href="otk_tonqq-pos-VERB.html">VERB</a></tt> 1), <em>𐱃</em> (<tt><a href="otk_tonqq-pos-AUX.html">AUX</a></tt> 1, <tt><a href="otk_tonqq-pos-NOUN.html">NOUN</a></tt> 1)
 
 
-* <em>𐰉𐰆𐰡𐰃</em>
-  * <tt><a href="otk_tonqq-pos-AUX.html">AUX</a></tt> 1: <em>𐱅𐰇𐰼𐰚 𐰉𐰆𐰑𐰣 :‏ 𐰇𐰠𐱅𐰃 𐰞𐰴𐰧𐰃 :‏ 𐰖𐰸 <b>𐰉𐰆𐰡𐰃</b> :‏</em>
-  * <tt><a href="otk_tonqq-pos-VERB.html">VERB</a></tt> 1: <em>𐰃𐰑𐰀 𐱃𐱁𐰑𐰀 :‏ 𐰴𐰞𐰢𐰾𐰃 :‏ 𐰸𐰆𐰉𐰺𐰣𐰯 :‏ 𐰘𐱅𐰃 𐰘𐰇𐰕 <b>𐰉𐰆𐰡𐰃</b> :‏</em>
+* <em>𐰼</em>
+  * <tt><a href="otk_tonqq-pos-AUX.html">AUX</a></tt> 2: <em>𐰾𐰇𐰇𐰇𐰇 𐰾𐰃 : 𐰞𐱃𐰃 𐰉𐰃𐰬 : <b>𐰼</b> 𐰢𐰃𐱀 :</em>
+  * <tt><a href="otk_tonqq-pos-VERB.html">VERB</a></tt> 1: <em>𐰃𐰲𐰚 𐰓𐰇𐰚 𐰇𐰲𐰤 : 𐱅𐰭𐰼𐰃 : 𐰇𐰠 𐱅𐰀 𐰢𐰃𐱀 <b>𐰼</b> 𐰤𐰲 :</em>
+* <em>𐱃</em>
+  * <tt><a href="otk_tonqq-pos-AUX.html">AUX</a></tt> 1: <em>𐰽𐰀𐰴𐰣 <b>𐱃</b> 𐰢 :</em>
+  * <tt><a href="otk_tonqq-pos-NOUN.html">NOUN</a></tt> 1: <em>𐰞𐱃𐰢𐱁 <b>𐱃</b> :</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 8.000000 (the average of all parts of speech is 8.076923).
+The form / lemma ratio of `AUX` is 14.000000 (the average of all parts of speech is 5.923077).
 
-The 1st highest number of forms (8) was observed with the lemma “_”: <em>𐰉𐰆𐰞𐰖𐰣, 𐰉𐰆𐰡𐰃, 𐰢𐰆, 𐰼𐰢𐰾, 𐰼𐰨, 𐰼𐱅𐰃, 𐰼𐱅𐰢, 𐰼𐱅𐰢𐰕</em>.
+The 1st highest number of forms (14) was observed with the lemma “_”: <em>𐰍𐰞, 𐰑𐰃, 𐰓𐰃, 𐰓𐰇𐰚, 𐰢, 𐰢𐰃𐱀, 𐰢𐰃𐱁, 𐰢𐰔, 𐰤𐰲, 𐰼, 𐱃, 𐱃𐰃, 𐱅, 𐱅𐰃</em>.
 
 `AUX` does not occur with any features.
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 2 different relations: <tt><a href="otk_tonqq-dep-aux.html">aux</a></tt> (8; 62% instances), <tt><a href="otk_tonqq-dep-cop.html">cop</a></tt> (5; 38% instances)
+`AUX` nodes are attached to their parents using 2 different relations: <tt><a href="otk_tonqq-dep-aux.html">aux</a></tt> (22; 92% instances), <tt><a href="otk_tonqq-dep-cop.html">cop</a></tt> (2; 8% instances)
 
-Parents of `AUX` nodes belong to 4 different parts of speech: <tt><a href="otk_tonqq-pos-VERB.html">VERB</a></tt> (6; 46% instances), <tt><a href="otk_tonqq-pos-NOUN.html">NOUN</a></tt> (5; 38% instances), <tt><a href="otk_tonqq-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="otk_tonqq-pos-PRON.html">PRON</a></tt> (1; 8% instances)
+Parents of `AUX` nodes belong to 2 different parts of speech: <tt><a href="otk_tonqq-pos-VERB.html">VERB</a></tt> (19; 79% instances), <tt><a href="otk_tonqq-pos-NUM.html">NUM</a></tt> (5; 21% instances)
 
-11 (85%) `AUX` nodes are leaves.
+24 (100%) `AUX` nodes are leaves.
 
-2 (15%) `AUX` nodes have one child.
-
-The highest child degree of a `AUX` node is 1.
-
-Children of `AUX` nodes are attached using 1 different relations: <tt><a href="otk_tonqq-dep-punct.html">punct</a></tt> (2; 100% instances)
-
-Children of `AUX` nodes belong to 1 different parts of speech: <tt><a href="otk_tonqq-pos-PUNCT.html">PUNCT</a></tt> (2; 100% instances)
+The highest child degree of a `AUX` node is 0.
 

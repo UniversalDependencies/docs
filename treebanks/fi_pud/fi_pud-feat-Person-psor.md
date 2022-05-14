@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 297 tokens (2%) have a non-empty value of `Person[psor]`.
 267 types (4%) occur at least once with a non-empty value of `Person[psor]`.
 231 lemmas (5%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 7 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (222; 1% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (43; 0% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="fi_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (222; 1% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (42; 0% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="fi_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -37,14 +37,14 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 ### `VERB`
 
-43 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
+42 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 93%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (37; 86%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (29; 67%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (29; 67%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (28; 65%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 95%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (37; 88%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (29; 69%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (28; 67%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 
 
-`Person[psor]` seems to be **lexical feature** of `VERB`. 100% lemmas (36) occur only with one value of `Person[psor]`.
+`Person[psor]` seems to be **lexical feature** of `VERB`. 100% lemmas (35) occur only with one value of `Person[psor]`.
 
 ### `ADV`
 
@@ -81,9 +81,9 @@ The most frequent other feature values with which `ADP` and `Person[psor]` co-oc
 
 ### `ADJ`
 
-3 <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Person[psor]`.
+4 <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `ADJ` and `Person[psor]` co-occurred: <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3; 100%), <tt><a href="fi_pud-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
+The most frequent other feature values with which `ADJ` and `Person[psor]` co-occurred: <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3; 75%), <tt><a href="fi_pud-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `ADJ` tokens may have the following values of `Person[psor]`:
 

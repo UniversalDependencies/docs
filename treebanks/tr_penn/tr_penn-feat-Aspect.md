@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 * `Hab` (1184; 8% of non-empty `Aspect`): <em>olabilir, eder, olursa, edebilir, olur, gerekir, içerir, dayanır, kıyaslanır, sanırım</em>
 * `Perf` (9175; 64% of non-empty `Aspect`): <em>söyledi, dedi, oldu, yükseldi, etti, düştü, kapandı, geldi, çıktı, aldı</em>
 * `Prog` (3972; 28% of non-empty `Aspect`): <em>ediyor, diyor, söylüyor, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor, geliyor</em>
-* `EMPTY` (1678): <em>ise, sahiptir, vardır, olsa, şirketidir, olsun, biridir, dolardır, nedir, varsa</em>
+* `EMPTY` (1657): <em>ise, sahiptir, vardır, olsa, şirketidir, olsun, biridir, dolardır, nedir, varsa</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th><th><tt>Hab</tt></th></tr>

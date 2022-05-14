@@ -40,7 +40,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 xcomp	color:blue
-1	Man	man	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	2	nsubj	_	CSID=DE|Lang=de
+1	Man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	2	nsubj	_	CSID=DE|Lang=de
 2	muss	müssen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	_	CSID=DE|Lang=de
 3	allgemein	allgemein	ADJ	_	_	6	advmod	_	CSID=DE|Lang=de
 4	şey	şey	NOUN	_	Case=Nom|Number=Sing	5	xcomp	_	CSID=TR|Lang=tr

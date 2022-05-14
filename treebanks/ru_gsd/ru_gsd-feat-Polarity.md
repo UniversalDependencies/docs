@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ru_gsd-pos-PART.htm
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (432; 100% of non-empty `Polarity`): <em>не, ни</em>
-* `EMPTY` (655): <em>же, и, также, только, лишь, даже, не, де, это, именно</em>
+* `EMPTY` (648): <em>и, же, также, только, лишь, даже, не, де, это, именно</em>
 

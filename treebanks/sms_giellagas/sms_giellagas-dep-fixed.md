@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `fixed`.
+12 nodes (0%) are attached to their parents as `fixed`.
 
-7 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+12 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16666666666667.
 
-The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (3; 43% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (2; 29% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> (1; 14% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 14% instances).
+The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (5; 42% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (3; 25% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (2; 17% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt>-<tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 fixed	color:blue
+1	“	“	PUNCT	PUNCT	_	6	punct	_	GTtags=LEFT|SpaceAfter=No
+2	Piʒʒ	Piʒʒ	INTJ	Interj	_	6	discourse	_	_
+3	pii	pii	INTJ	Interj	_	2	fixed	_	_
+4	pii	pii	INTJ	Interj	_	2	fixed	_	_
+5	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg2,Nom
+6	piijžik	piijjâd	VERB	V	Mood=Pot|Number=Sing|Person=2|Typo=Yes	0	root	_	Correctform=piijžiǩ|GTtags=Pot,Sg2,Err/Orth-k-kh
+7	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	GTtags=Pers,Sg1,Nom
+8	roʹttjam	roʹttjed	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	conj	_	GTtags=Ind,Prs,Sg1|SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
+10	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT
+
+~~~
 
 
 ~~~ conllu
@@ -51,23 +71,6 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 7	,	,	PUNCT	PUNCT	_	8	punct	_	_
 8	čõõnõõđi	čõõnõõttâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 fixed	color:blue
-1	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	2	nummod	_	GTtags=Sg,Nom
-2	eeʹǩǩed	eeʹǩǩ	NOUN	N	Case=Par	3	nsubj	_	GTtags=Par
-3	mâânn	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=Ind,Prs,Sg3
-4	ouddâl	ouddâl	ADV	Adv	_	6	mark	_	_
-5	ko	ko	SCONJ	CS	_	4	fixed	_	_
-6	peäss	piâssâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	3	advcl	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-7	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

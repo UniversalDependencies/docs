@@ -13,7 +13,7 @@ This relation is universal.
 32 instances of `vocative` (55%) are right-to-left (child precedes parent).
 Average distance between parent and child is 4.5.
 
-The following 7 pairs of parts of speech are connected with `vocative`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (40; 69% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (8; 14% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `vocative`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (38; 66% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (7; 12% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 2 vocative	color:blue
-1	Soudruhu	soudruh	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	2	nmod	2:nmod:voc	_
+1	Soudruhu	soudruh	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	2	nmod	2:nmod	_
 2	doktore	doktor	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	10	vocative	10:vocative	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
 4	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	5:case	LId=o-1

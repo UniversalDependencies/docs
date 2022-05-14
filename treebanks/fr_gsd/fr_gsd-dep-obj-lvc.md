@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-obj.html">obj</a></tt>.
 There are also 1 other language-specific subtypes of `obj`: <tt><a href="fr_gsd-dep-obj-agent.html">obj:agent</a></tt>.
 
-552 nodes (0%) are attached to their parents as `obj:lvc`.
+554 nodes (0%) are attached to their parents as `obj:lvc`.
 
-552 instances of `obj:lvc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.19565217391304.
+554 instances of `obj:lvc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1985559566787.
 
-The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (550; 100% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (552; 100% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,15 +47,15 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	diplomatie	diplomatie	NOUN	_	Gender=Fem|Number=Sing	42	nsubj	_	_
 5	marocaine	marocain	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	_
-7	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	_
-8	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	qui	qui	PRON	_	PronType=Rel	11	nsubj	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 9	en	en	ADP	_	_	11	case	_	_
 10	pleine	plein	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
-11	déconfiture	déconfiture	NOUN	_	Gender=Fem|Number=Sing	8	obl:mod	_	_
+11	déconfiture	déconfiture	NOUN	_	Gender=Fem|Number=Sing	4	acl:relcl	_	_
 12	après	après	ADP	_	_	14	case	_	_
 13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	résolution	résolution	NOUN	_	Gender=Fem|Number=Sing	8	obl:mod	_	_
+14	résolution	résolution	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	_
 15	adoptée	adopter	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
 16	par	par	ADP	_	_	18	case	_	_
 17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -82,18 +82,18 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 38	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
 39	liberté	liberté	NOUN	_	Gender=Fem|Number=Sing	36	nmod	_	_
 40	»	»	PUNCT	_	_	36	punct	_	SpaceAfter=No
-41	,	,	PUNCT	_	_	8	punct	_	_
+41	,	,	PUNCT	_	_	11	punct	_	_
 42	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 43	«	«	PUNCT	_	_	44	punct	_	_
 44	contre	contre	ADP	_	_	42	obj:lvc	_	ExtPos=NOUN|Idiom=Yes
 45	mauvaise	mauvais	ADJ	_	Gender=Fem|Number=Sing	44	fixed	_	InIdiom=Yes
 46	fortune	fortune	NOUN	_	Gender=Fem|Number=Sing	44	fixed	_	InIdiom=Yes
 47	bon	bon	ADJ	_	Gender=Masc|Number=Sing	44	fixed	_	InIdiom=Yes
-48	coeur	cœur	NOUN	_	Gender=Masc|Number=Sing	44	fixed	_	InIdiom=Yes|wordform=cœur
+48	coeur	cœur	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	44	fixed	_	CorrectForm=cœur|InIdiom=Yes
 49	»	»	PUNCT	_	_	44	punct	_	_
 50	et	et	CCONJ	_	_	51	cc	_	_
 51	change	changer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	conj	_	_
-52	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	53	det	_	_
+52	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	53	det	_	_
 53	fusil	fusil	NOUN	_	Gender=Masc|Number=Sing	51	obj:lvc	_	_
 54	d'	de	ADP	_	_	55	case	_	SpaceAfter=No
 55	épaule	épaule	NOUN	_	Gender=Fem|Number=Sing	51	obl:arg	_	SpaceAfter=No
@@ -124,7 +124,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 14	laisser	laisser	VERB	_	VerbForm=Inf	11	xcomp	_	_
 15	tomber	tomber	VERB	_	VerbForm=Inf	14	xcomp	_	_
 16	tous	tout	ADJ	_	Gender=Masc|Number=Plur	18	amod	_	_
-17	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|PronType=Prs	18	det	_	_
+17	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	18	det	_	_
 18	plans	plan	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
 19	de	de	ADP	_	_	20	case	_	_
 20	grandeur	grandeur	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	_

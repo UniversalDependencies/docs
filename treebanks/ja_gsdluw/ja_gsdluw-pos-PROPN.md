@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSDLUW: POS Tags: `PROPN`
 
-There are 3566 `PROPN` lemmas (12%), 3566 `PROPN` types (11%) and 4555 `PROPN` tokens (3%).
-Out of 17 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 3 in number of types and 7 in number of tokens.
+There are 3567 `PROPN` lemmas (12%), 3567 `PROPN` types (11%) and 4555 `PROPN` tokens (3%).
+Out of 17 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: 日本, 統一教会, 中国, アメリカ, 幸福の科学, 東京, フランス, 韓国, 創価学会, 幸福実現党
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  幸福実現党 (<tt><a href="ja_gsdluw-p
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.102729).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.095294).
 
 The 1st highest number of forms (1) was observed with the lemma “11ウォール・ストリート”: 11ウォール・ストリート.
 
@@ -66,19 +66,19 @@ The 3rd highest number of forms (1) was observed with the lemma “17世紀フ�
 
 `PROPN` nodes are attached to their parents using 9 different relations: <tt><a href="ja_gsdluw-dep-nmod.html">nmod</a></tt> (1888; 41% instances), <tt><a href="ja_gsdluw-dep-obl.html">obl</a></tt> (1081; 24% instances), <tt><a href="ja_gsdluw-dep-nsubj.html">nsubj</a></tt> (1014; 22% instances), <tt><a href="ja_gsdluw-dep-obj.html">obj</a></tt> (270; 6% instances), <tt><a href="ja_gsdluw-dep-compound.html">compound</a></tt> (165; 4% instances), <tt><a href="ja_gsdluw-dep-root.html">root</a></tt> (94; 2% instances), <tt><a href="ja_gsdluw-dep-advcl.html">advcl</a></tt> (19; 0% instances), <tt><a href="ja_gsdluw-dep-dislocated.html">dislocated</a></tt> (14; 0% instances), <tt><a href="ja_gsdluw-dep-acl.html">acl</a></tt> (10; 0% instances)
 
-Parents of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2058; 45% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1722; 38% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (517; 11% instances),  (94; 2% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (79; 2% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (60; 1% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2058; 45% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1723; 38% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (516; 11% instances),  (94; 2% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (79; 2% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (60; 1% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-278 (6%) `PROPN` nodes are leaves.
+277 (6%) `PROPN` nodes are leaves.
 
-2598 (57%) `PROPN` nodes have one child.
+2600 (57%) `PROPN` nodes have one child.
 
-1218 (27%) `PROPN` nodes have two children.
+1217 (27%) `PROPN` nodes have two children.
 
 461 (10%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 12.
 
-Children of `PROPN` nodes are attached using 19 different relations: <tt><a href="ja_gsdluw-dep-case.html">case</a></tt> (4230; 64% instances), <tt><a href="ja_gsdluw-dep-nmod.html">nmod</a></tt> (924; 14% instances), <tt><a href="ja_gsdluw-dep-punct.html">punct</a></tt> (806; 12% instances), <tt><a href="ja_gsdluw-dep-acl.html">acl</a></tt> (308; 5% instances), <tt><a href="ja_gsdluw-dep-nsubj.html">nsubj</a></tt> (81; 1% instances), <tt><a href="ja_gsdluw-dep-mark.html">mark</a></tt> (49; 1% instances), <tt><a href="ja_gsdluw-dep-advcl.html">advcl</a></tt> (41; 1% instances), <tt><a href="ja_gsdluw-dep-compound.html">compound</a></tt> (37; 1% instances), <tt><a href="ja_gsdluw-dep-cop.html">cop</a></tt> (28; 0% instances), <tt><a href="ja_gsdluw-dep-cc.html">cc</a></tt> (16; 0% instances), <tt><a href="ja_gsdluw-dep-det.html">det</a></tt> (15; 0% instances), <tt><a href="ja_gsdluw-dep-obl.html">obl</a></tt> (13; 0% instances), <tt><a href="ja_gsdluw-dep-advmod.html">advmod</a></tt> (12; 0% instances), <tt><a href="ja_gsdluw-dep-csubj.html">csubj</a></tt> (12; 0% instances), <tt><a href="ja_gsdluw-dep-aux.html">aux</a></tt> (11; 0% instances), <tt><a href="ja_gsdluw-dep-dep.html">dep</a></tt> (8; 0% instances), <tt><a href="ja_gsdluw-dep-nummod.html">nummod</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-dep-obj.html">obj</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 19 different relations: <tt><a href="ja_gsdluw-dep-case.html">case</a></tt> (4230; 64% instances), <tt><a href="ja_gsdluw-dep-nmod.html">nmod</a></tt> (923; 14% instances), <tt><a href="ja_gsdluw-dep-punct.html">punct</a></tt> (807; 12% instances), <tt><a href="ja_gsdluw-dep-acl.html">acl</a></tt> (345; 5% instances), <tt><a href="ja_gsdluw-dep-nsubj.html">nsubj</a></tt> (81; 1% instances), <tt><a href="ja_gsdluw-dep-aux.html">aux</a></tt> (44; 1% instances), <tt><a href="ja_gsdluw-dep-compound.html">compound</a></tt> (37; 1% instances), <tt><a href="ja_gsdluw-dep-cop.html">cop</a></tt> (28; 0% instances), <tt><a href="ja_gsdluw-dep-cc.html">cc</a></tt> (16; 0% instances), <tt><a href="ja_gsdluw-dep-mark.html">mark</a></tt> (16; 0% instances), <tt><a href="ja_gsdluw-dep-det.html">det</a></tt> (15; 0% instances), <tt><a href="ja_gsdluw-dep-obl.html">obl</a></tt> (13; 0% instances), <tt><a href="ja_gsdluw-dep-advmod.html">advmod</a></tt> (12; 0% instances), <tt><a href="ja_gsdluw-dep-csubj.html">csubj</a></tt> (12; 0% instances), <tt><a href="ja_gsdluw-dep-dep.html">dep</a></tt> (8; 0% instances), <tt><a href="ja_gsdluw-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-dep-nummod.html">nummod</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 15 different parts of speech: <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (4230; 64% instances), <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> (806; 12% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (557; 8% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (517; 8% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (296; 4% instances), <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> (47; 1% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (39; 1% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (20; 0% instances), <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="ja_gsdluw-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (13; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> (2; 0% instances)
+Children of `PROPN` nodes belong to 15 different parts of speech: <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (4230; 64% instances), <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> (807; 12% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (557; 8% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (516; 8% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (296; 4% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (72; 1% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (20; 0% instances), <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="ja_gsdluw-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (13; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> (2; 0% instances)
 

@@ -6,51 +6,61 @@ udver: '2'
 
 ## Treebank Statistics: UD_Akuntsu-TuDeT: POS Tags: `ADV`
 
-There are 5 `ADV` lemmas (3%), 6 `ADV` types (3%) and 13 `ADV` tokens (3%).
-Out of 13 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
+There are 13 `ADV` lemmas (4%), 13 `ADV` types (3%) and 59 `ADV` tokens (5%).
+Out of 13 observed tags, the rank of `ADV` is: 4 in number of lemmas, 5 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>nõm, rom, erape, kɨrẽ, mo</em>
+The 10 most frequent `ADV` lemmas: <em>nom, nõm, rom, erom, ãka, ebapa, erape, jõ, kojõpi, kɨrẽ</em>
 
-The 10 most frequent `ADV` types:  <em>nõm, erape, rom, erom, kɨrẽ, momo</em>
+The 10 most frequent `ADV` types:  <em>nom, erom, nõm, rom, ãka, ebapa, erape, jõ, kojõpi, kɨrẽ</em>
 
-The 10 most frequent ambiguous lemmas: <em>kɨrẽ</em> (<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ãka</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 6, <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 4), <em>ebapa</em> (<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 2, <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 2), <em>kɨrẽ</em> (<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 2)
 
-The 10 most frequent ambiguous types:  
+The 10 most frequent ambiguous types:  <em>ãka</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 6, <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 4), <em>ebapa</em> (<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 2, <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 2)
 
 
+* <em>ãka</em>
+  * <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 6: <em>oatap <b>ãka</b> ẽ ẽ , oatap õkwa on</em>
+  * <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 4: <em><b>ãka</b> teita ete ?</em>
+* <em>ebapa</em>
+  * <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 2: <em><b>ebapa</b> no , <b>ebapa</b> no , teita .</em>
+  * <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 2: <em>ãka <b>ebapa</b> teipa ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.200000 (the average of all parts of speech is 1.312139).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.376582).
 
 The 1st highest number of forms (2) was observed with the lemma “rom”: <em>erom, rom</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “erape”: <em>erape</em>.
+The 2nd highest number of forms (1) was observed with the lemma “ebapa”: <em>ebapa</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “kɨrẽ”: <em>kɨrẽ</em>.
+The 3rd highest number of forms (1) was observed with the lemma “eno”: <em>eno</em>.
 
-`ADV` occurs with 1 features: <tt><a href="aqz_tudet-feat-Polarity.html">Polarity</a></tt> (9; 69% instances)
+`ADV` occurs with 1 features: <tt><a href="aqz_tudet-feat-Polarity.html">Polarity</a></tt> (30; 51% instances)
 
 `ADV` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `Polarity=Neg` (9 tokens).
-Examples: <em>nõm, rom, erom</em>
+The most frequent feature combination is `Polarity=Neg` (30 tokens).
+Examples: <em>nom, nõm, erom, rom, om</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 2 different relations: <tt><a href="aqz_tudet-dep-advmod.html">advmod</a></tt> (12; 92% instances), <tt><a href="aqz_tudet-dep-nsubj.html">nsubj</a></tt> (1; 8% instances)
+`ADV` nodes are attached to their parents using 4 different relations: <tt><a href="aqz_tudet-dep-advmod.html">advmod</a></tt> (56; 95% instances), <tt><a href="aqz_tudet-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="aqz_tudet-dep-discourse.html">discourse</a></tt> (1; 2% instances), <tt><a href="aqz_tudet-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
 
-Parents of `ADV` nodes belong to 3 different parts of speech: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (6; 46% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (5; 38% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (2; 15% instances)
+Parents of `ADV` nodes belong to 6 different parts of speech: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (28; 47% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (26; 44% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 
-12 (92%) `ADV` nodes are leaves.
+53 (90%) `ADV` nodes are leaves.
 
-1 (8%) `ADV` nodes have one child.
+4 (7%) `ADV` nodes have one child.
 
-The highest child degree of a `ADV` node is 1.
+1 (2%) `ADV` nodes have two children.
 
-Children of `ADV` nodes are attached using 1 different relations: <tt><a href="aqz_tudet-dep-punct.html">punct</a></tt> (1; 100% instances)
+1 (2%) `ADV` nodes have three or more children.
 
-Children of `ADV` nodes belong to 1 different parts of speech: <tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
+The highest child degree of a `ADV` node is 3.
+
+Children of `ADV` nodes are attached using 4 different relations: <tt><a href="aqz_tudet-dep-punct.html">punct</a></tt> (5; 56% instances), <tt><a href="aqz_tudet-dep-det.html">det</a></tt> (2; 22% instances), <tt><a href="aqz_tudet-dep-conj.html">conj</a></tt> (1; 11% instances), <tt><a href="aqz_tudet-dep-obj.html">obj</a></tt> (1; 11% instances)
+
+Children of `ADV` nodes belong to 4 different parts of speech: <tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (5; 56% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (2; 22% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 11% instances)
 

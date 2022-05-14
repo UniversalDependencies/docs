@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="cop_scriptorium-dep-obl-npmod.html">obl:npmod</a></tt>.
 
-4223 nodes (8%) are attached to their parents as `obl`.
+4224 nodes (8%) are attached to their parents as `obl`.
 
 4008 instances of `obl` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.1562869997632.
+Average distance between parent and child is 4.15696022727273.
 
-The following 24 pairs of parts of speech are connected with `obl`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2308; 55% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1481; 35% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (171; 4% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (104; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (37; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (29; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (26; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `obl`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2308; 55% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1482; 35% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (171; 4% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (104; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (37; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (29; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (26; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 24 pairs of parts of speech are connected with `obl`: <tt><a href=
 7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
 8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
 9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
-10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl	_	_
+10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl:relcl	_	_
 11	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	obj	_	Orig=ⲟⲩ`
 12	ϩⲛ	ϩⲛ	ADP	PREP	_	14	case	_	Orig=ϩ︤ⲛ︥
 13	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(place
@@ -52,7 +52,7 @@ The following 24 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 3 5 obl	color:blue
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
 2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-3	ⲣⲟⲩⲟⲉⲓⲛ	ⲣⲟⲩⲟⲉⲓⲛ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ⲣ-ⲟⲩⲟⲉⲓⲛ|Orig=ⲣ̄ⲟⲩⲟⲉⲓⲛ
+3	ⲣⲟⲩⲟⲉⲓⲛ	ⲣⲟⲩⲟⲉⲓⲛ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ⲣ-ⲟⲩⲟⲉⲓⲛ|Orig=ⲣ̄ⲟⲩⲟⲉⲓⲛ
 4	ⲉⲣⲟ	ⲉ	ADP	PREP	_	5	case	_	_
 5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 6	ϩⲛ	ϩⲛ	ADP	PREP	_	8	case	_	Orig=ϩ︤ⲛ︥
@@ -79,17 +79,17 @@ The following 24 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 3 5 obl	color:blue
 1	ϩⲟⲧⲁⲛ	ϩⲟⲧⲁⲛ	CCONJ	CONJ	Foreign=Yes	3	advmod	_	OrigLang=grc
 2	ⲉⲩϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ	PRON	ACOND_PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-3	ⲣⲛⲟⲃⲉ	ⲣⲛⲟⲃⲉ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ⲣ-ⲛⲟⲃⲉ|Orig=ⲣ̄ⲛⲟⲃⲉ`
+3	ⲣⲛⲟⲃⲉ	ⲣⲛⲟⲃⲉ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ⲣ-ⲛⲟⲃⲉ|Orig=ⲣ̄ⲛⲟⲃⲉ`
 4	ⲉ	ⲉ	ADP	PREP	_	5	case	_	_
 5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	obl	_	Entity=(person
 6	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
 7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
 8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-9	ⲧⲁⲙⲓⲟ	ⲧⲁⲙⲓⲟ	VERB	V	VerbForm=Fin	5	acl	_	_
+9	ⲧⲁⲙⲓⲟ	ⲧⲁⲙⲓⲟ	VERB	V	VerbForm=Fin	5	acl:relcl	_	_
 10	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	obj	_	Orig=ⲟⲩ`
 11	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	13	mark	_	_
 12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(person
-13	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	5	acl	_	Entity=person)person)
+13	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	5	acl:relcl	_	Entity=person)person)
 14	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	13	cop	_	_
 15	·	·	PUNCT	PUNCT	_	3	punct	_	_
 

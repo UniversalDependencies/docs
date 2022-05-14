@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-27777 tokens (30%) have a non-empty value of `Case`.
-2924 types (58%) occur at least once with a non-empty value of `Case`.
-1570 lemmas (72%) occur at least once with a non-empty value of `Case`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (25850; 28% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1905; 2% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (22; 0% instances).
+27625 tokens (30%) have a non-empty value of `Case`.
+2880 types (58%) occur at least once with a non-empty value of `Case`.
+1551 lemmas (72%) occur at least once with a non-empty value of `Case`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (25705; 28% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1898; 2% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (22; 0% instances).
 
 ### `NOUN`
 
-25850 <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+25705 <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_tourism-feat-Person.html">Person</a></tt><tt>=3</tt> (25850; 100%), <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21553; 83%), <tt><a href="tr_tourism-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (19051; 74%), <tt><a href="tr_tourism-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (19051; 74%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_tourism-feat-Person.html">Person</a></tt><tt>=3</tt> (25705; 100%), <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21428; 83%), <tt><a href="tr_tourism-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18953; 74%), <tt><a href="tr_tourism-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (18953; 74%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (1428; 6% of non-empty `Case`): <em>TESİSTEN, OTELDEN, AÇISINDAN, YEMEKLERİNDEN, ŞEYDEN, YEMEKLERDEN, HİZMETTEN, ÜZERİNDEN, HİZMETİNDEN, PERSONELLERDEN</em>
-* `Acc` (1892; 7% of non-empty `Case`): <em>KONUMU, DENİZİ, KARŞILIĞINI, YEMEKLERİ, HAVUZU, TEMİZLİĞİ, PERSONELLERİ, HİZMETİ, ÜCRETİ, PERSONELİ</em>
-* `Dat` (1693; 7% of non-empty `Case`): <em>ÜCRETE, FİYATA, DENİZE, AİLELERE, FİYATINA, MERKEZE, ADINA, ANKETE, PARAYA, BEYE</em>
-* `Gen` (946; 4% of non-empty `Case`): <em>OTELİN, TESİSİN, PERSONELLERİN, PERSONELİN, ÜCRETİN, YEMEKLERİN, PARANIN, ODANIN, ÇALIŞANLARIN, ODALARIN</em>
-* `Ins` (392; 2% of non-empty `Case`): <em>BEYLE, TELEFONLA, HANIMLA, YÖNÜYLE, KELİMEYLE, DOĞAYLA, ŞEYİYLE, ANLAMIYLA, ÜCRETLE, ARKADAŞIMLA</em>
-* `Loc` (828; 3% of non-empty `Case`): <em>GİRİŞTE, GENELDE, ANLAMDA, OTELDE, YEMEKLERDE, ANDA, KONUSUNDA, ODADA, DIŞINDA, ÇIKIŞTA</em>
-* `Nom` (18671; 72% of non-empty `Case`): <em>HİZMET, BEY, PUAN, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, YEMEKLER, KONUMU</em>
+* `Abl` (1419; 6% of non-empty `Case`): <em>TESİSTEN, OTELDEN, AÇISINDAN, YEMEKLERİNDEN, ŞEYDEN, YEMEKLERDEN, HİZMETTEN, ÜZERİNDEN, HİZMETİNDEN, PERSONELLERDEN</em>
+* `Acc` (1881; 7% of non-empty `Case`): <em>KONUMU, DENİZİ, KARŞILIĞINI, YEMEKLERİ, HAVUZU, TEMİZLİĞİ, PERSONELLERİ, HİZMETİ, ÜCRETİ, PERSONELİ</em>
+* `Dat` (1681; 7% of non-empty `Case`): <em>ÜCRETE, FİYATA, DENİZE, AİLELERE, FİYATINA, MERKEZE, ADINA, ANKETE, PARAYA, BEYE</em>
+* `Gen` (939; 4% of non-empty `Case`): <em>OTELİN, TESİSİN, PERSONELLERİN, ÜCRETİN, PERSONELİN, YEMEKLERİN, PARANIN, ODANIN, ÇALIŞANLARIN, ODALARIN</em>
+* `Ins` (388; 2% of non-empty `Case`): <em>BEYLE, TELEFONLA, HANIMLA, YÖNÜYLE, KELİMEYLE, DOĞAYLA, ŞEYİYLE, ANLAMIYLA, ÜCRETLE, ARKADAŞIMLA</em>
+* `Loc` (813; 3% of non-empty `Case`): <em>GİRİŞTE, GENELDE, ANLAMDA, OTELDE, YEMEKLERDE, KONUSUNDA, ANDA, ODADA, ÇIKIŞTA, DIŞINDA</em>
+* `Nom` (18584; 72% of non-empty `Case`): <em>HİZMET, BEY, PUAN, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, YEMEKLER, KONUMU</em>
 * `EMPTY` (6): <em>GELDİĞİNCE, SÜRECE, KARACA, SİLENCE</em>
 
 <table>
@@ -43,9 +43,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-1905 <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+1898 <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1904; 100%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1897; 100%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -55,14 +55,14 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Gen` (1; 0% of non-empty `Case`): <em>SİVAS'IN</em>
 * `Ins` (1; 0% of non-empty `Case`): <em>ETSTUR'LA</em>
 * `Loc` (3; 0% of non-empty `Case`): <em>ATLANTİS'TE</em>
-* `Nom` (1888; 99% of non-empty `Case`): <em>ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, GÖKHAN</em>
+* `Nom` (1881; 99% of non-empty `Case`): <em>ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, GÖKHAN</em>
 
 <table>
   <tr><th>Paradigm <i>etstur</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
   <tr><td><tt></tt></td><td><em>ETSTUR, ETSTUR'U, ETSTURU</em></td><td><em>ETSTUR'U</em></td><td><em>ETSTUR'LA</em></td><td><em>ETSTUR'DAN</em></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `PROPN`. 99% lemmas (585) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `PROPN`. 99% lemmas (583) occur only with one value of `Case`.
 
 ### `AUX`
 
@@ -73,16 +73,16 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `AUX` tokens may have the following values of `Case`:
 
 * `Nom` (22; 100% of non-empty `Case`): <em>DEĞİLİM, DEĞİLLER</em>
-* `EMPTY` (1287): <em>DEĞİLDİ, DEĞİL, DEĞİLİM, DEĞİLLERDİ, DEĞİLLER, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER, Mİ, MİYİM</em>
+* `EMPTY` (1283): <em>DEĞİLDİ, DEĞİL, DEĞİLİM, DEĞİLLERDİ, DEĞİLLER, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER, MİYİM, DEĞİLDİR</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (904; 77%),
-<tt>NOUN --[<tt><a href="tr_tourism-dep-conj.html">conj</a></tt>]--> NOUN</tt> (630; 88%),
+<tt>NOUN --[<tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (903; 77%),
+<tt>NOUN --[<tt><a href="tr_tourism-dep-conj.html">conj</a></tt>]--> NOUN</tt> (629; 88%),
 <tt>NOUN --[<tt><a href="tr_tourism-dep-compound.html">compound</a></tt>]--> NOUN</tt> (485; 77%),
-<tt>NOUN --[<tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (221; 60%),
-<tt>NOUN --[<tt><a href="tr_tourism-dep-amod.html">amod</a></tt>]--> NOUN</tt> (114; 64%),
+<tt>NOUN --[<tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (215; 59%),
+<tt>NOUN --[<tt><a href="tr_tourism-dep-amod.html">amod</a></tt>]--> NOUN</tt> (109; 63%),
 <tt>PROPN --[<tt><a href="tr_tourism-dep-compound.html">compound</a></tt>]--> PROPN</tt> (49; 100%),
 <tt>PROPN --[<tt><a href="tr_tourism-dep-flat.html">flat</a></tt>]--> PROPN</tt> (36; 95%),
 <tt>PROPN --[<tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (32; 82%),

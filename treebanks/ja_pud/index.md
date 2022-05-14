@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Kaoru Ito, Taishi Chika, Shinsuke Mori, Sumire Uematsu, Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Atsuko Shimada, Anna Trukhina, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Japanese-PUD](https://github.com/UniversalDependencies/UD_Japanese-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pud29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pud210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 3.0
 
@@ -130,22 +130,22 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as pronouns (PRON): You, あなた, ある, いずれ, いつ, かれ, ここ, これ, そこ, それ, どこ, どちら, どれ, なん, 何, 君, 彼, 彼女, 我々, 私, 誰</li>
+<li>This corpus contains 18 lemmas tagged as pronouns (PRON): You, 何, 何れ, 何処, 何方, 何時, 其れ, 其処, 君, 彼, 彼女, 我々, 本の, 此れ, 此処, 私, 誰, 貴方</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as determiners (DET): あの, あらゆる, この, その, どの</li>
+<li>This corpus contains 6 lemmas tagged as determiners (DET): あらゆる, 何の, 其の, 彼の, 或る, 此の</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as auxiliaries (AUX): いい, がましい, させる, しめる, する, せる, そう, た, たい, たり, だ, できる, ない, なり, べし, ます, やすい, よい, よう, らしい, られる, り, れる</li>
+<li>This corpus contains 26 lemmas tagged as auxiliaries (AUX): がましい, させる, しめる, ず, せる, そう, た, たい, たり, だ, てる, です, ない, なり, べし, ます, らしい, られる, り, れる, 出来る, 易い, 様, 為る, 無い, 良い</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: する, できる</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: 出来る, 為る</li>
 </ul>
 
 <ul>
@@ -172,8 +172,9 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 <ul>
   <li>Neg
     <ul>
-      <li>NOUN: 不, 未, 非, 反, 無</li>
-      <li>SCONJ: ない, なかっ, ず, ん, なけれ, なく</li>
+      <li>AUX: ない, なかっ, ず, ん, なけれ, なく</li>
+      <li>NOUN: 不, なし, 未, 非, 反, 無</li>
+      <li>SCONJ: ず</li>
     </ul>
   </li>
 </ul>
@@ -206,11 +207,11 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: だ.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: だ, です.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 19 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, れる, ます, られる, よう, せる, できる, たい, べし, させる, そう, たり, がましい, しめる, なり, やすい, らしい.</li>
+<li>This corpus uses 23 lemmas as auxiliaries (<a>aux</a>). Examples: た, 為る, だ, れる, ます, ない, られる, 様, せる, ず, 出来る, たい, べし, です, させる, そう, たり, がましい, しめる, てる, なり, らしい, 易い.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

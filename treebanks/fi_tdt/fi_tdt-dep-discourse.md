@@ -59,13 +59,13 @@ The following 28 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 4 10 discourse	color:blue
 1	2.5mm	2.5#mm	NOUN	N	Abbr=Yes|Case=Gen|Number=Sing|Typo=Yes	2	nmod:poss	2:nmod:poss	_
 2	plugeilla	plugi	NOUN	N	Case=Ade|Number=Plur	3	obl	3:obl	_
-3	olevaa	olla	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	4	acl	4:acl	_
+3	olevaa	olla	VERB	V	Case=Par|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	4	acl	4:acl	_
 4	piuhaa	piuha	NOUN	N	Case=Par|Number=Sing	0	root	0:root	_
 5	kun	kun	SCONJ	C	_	9	mark	9:mark	_
 6	ei	ei	AUX	V	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	9	aux	9:aux	_
 7	itseltäni	itse	PRON	Pron	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=1|Reflex=Yes	9	obl	9:obl	_
 8	muualta	muualta	ADV	Adv	_	9	advmod	9:advmod	_
-9	löytynyt	löytyä	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	4	advcl	4:advcl	_
+9	löytynyt	löytyä	VERB	V	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	4	advcl	4:advcl	_
 10	:)	:)	SYM	Symb	_	4	discourse	4:discourse	_
 
 ~~~

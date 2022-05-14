@@ -30,18 +30,20 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 flat	color:blue
-1	ÖZELLİKLE	özellikle	ADV	_	_	5	advmod	_	_
-2	MİNİ	mini	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nmod	_	_
-3	CLUBDAN	club	NOUN	_	Case=Abl|Number=Sing|Person=3	2	flat	_	_
-4	GİZEM	gizem	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	_
-5	HANIMA	hanım	NOUN	_	Case=Dat|Number=Sing|Person=3	6	obl	_	_
-6	TEŞEKKÜRLER	teşekkür	NOUN	_	Case=Nom|Number=Plur|Person=3	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 flat	color:blue
+1	KURBAN	kurban	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	_
+2	BAYRAMI	bayram	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	nsubj	_	_
+3	TATİLİMİ	tatil	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	8	obj	_	_
+4	TURAN	tura	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	8	obl	_	_
+5	PRİCE	price	NOUN	_	Case=Nom|Number=Sing|Person=3	4	flat	_	_
+6	WORLD	world	PROPN	_	Case=Nom|Number=Sing	4	flat	_	_
+7	OTELDE	otel	NOUN	_	Case=Loc|Number=Sing|Person=3	4	flat	_	_
+8	GEÇİRDİM	geçir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

@@ -35,7 +35,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (1907; 100% of non-empty `Number`): <em>people, tings, women, things, children, years, men, tins, girls, months</em>
-* `EMPTY` (12840): <em>one, money, ting, school, time, man, person, house, work, life</em>
+* `EMPTY` (12838): <em>one, money, ting, school, time, man, person, house, work, life</em>
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (309) occur only with one value of `Number`.
 
@@ -112,7 +112,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (18; 100% of non-empty `Number`): <em>Nigerians, Americans, Corinthians, Fridays, Mondays, Saturdays, Sundays, Wednesdays</em>
-* `EMPTY` (2166): <em>God, Nigeria, Jesus, Pidgin, English, Lagos, Alaska, Jos, Abuja, WAEC</em>
+* `EMPTY` (2169): <em>God, Nigeria, Jesus, Pidgin, English, Lagos, Alaska, Jos, Abuja, WAEC</em>
 
 ### `ADV`
 
@@ -121,7 +121,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `ADV` tokens may have the following values of `Number`:
 
 * `Plur` (4; 100% of non-empty `Number`): <em>students</em>
-* `EMPTY` (6155): <em>so, now, just, even, when, well, how, dere, den, still</em>
+* `EMPTY` (6154): <em>so, now, just, even, when, well, how, dere, den, still</em>
 
 ### `X`
 
@@ -131,7 +131,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 
 * `Plur` (1; 33% of non-empty `Number`): <em>de</em>
 * `Sing` (2; 67% of non-empty `Number`): <em>>+, }</em>
-* `EMPTY` (40228): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40227): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ## Relations with Agreement in `Number`
 

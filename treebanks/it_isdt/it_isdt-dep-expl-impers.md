@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `expl:impers`: <tt><
 # visual-style 7	fgColor:white
 # visual-style 7 6 expl:impers	color:blue
 1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
-2	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	cop	3:cop	_
+2	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	cop	3:cop	_
 3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	0:root|7:obj	_
 4	che	che	PRON	PR	PronType=Rel	7	obj	3:ref	_
 5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	7:expl	_
@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `expl:impers`: <tt><
 6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	7:det	_
 7	saggi	saggio	NOUN	S	Gender=Masc|Number=Plur	3	conj	3:conj:e|10:obl:in	_
 8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	10:expl:impers	_
-9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 10	soliti	solito	ADJ	A	Gender=Masc|Number=Plur	0	root	0:root	_
 11	ridur	ridurre	VERB	V	VerbForm=Inf	10	xcomp	10:xcomp	_
 12	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	11:obj	_

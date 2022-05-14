@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Person.html">Person</a></tt>, <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt>.
 
-832 tokens (5%) have a non-empty value of `Person[psor]`.
-540 types (10%) occur at least once with a non-empty value of `Person[psor]`.
-292 lemmas (11%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (677; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (99; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (35; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+841 tokens (5%) have a non-empty value of `Person[psor]`.
+544 types (10%) occur at least once with a non-empty value of `Person[psor]`.
+295 lemmas (11%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (685; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (100; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (35; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-677 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+685 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (669; 99%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (545; 81%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (352; 52%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (677; 99%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (551; 80%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (356; 52%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -39,9 +39,9 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 ### `ADP`
 
-99 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (24% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
+100 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (24% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (84; 85%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (74; 75%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (64; 65%).
+The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (85; 85%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (75; 75%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (65; 65%).
 
 `ADP` tokens may have the following values of `Person[psor]`:
 
@@ -112,7 +112,7 @@ The most frequent other feature values with which `PROPN` and `Person[psor]` co-
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10; 59%),
+<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10; 56%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="myv_jr-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (1; 100%).

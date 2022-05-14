@@ -13,7 +13,7 @@ This relation is universal.
 180 instances of `nummod` (83%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.14220183486239.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (179; 82% instances), <tt><a href="fi_ood-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (28; 13% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (182; 83% instances), <tt><a href="fi_ood-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (25; 11% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Hb	Hb	NOUN	_	Abbr=Yes|Case=Nom|Number=Sing	2	nsubj:cop	_	Gen=Hemoglobiini|Gen_desc=rautapitoisuus
 2	matala	matala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	saanut	saada	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	_
+4	saanut	saada	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	_
 5	punasoluja	puna#solu	NOUN	_	Case=Par|Number=Plur	8	nmod	_	_
 6	paineella	paine	NOUN	_	Case=Ade|Number=Sing	8	obl	_	_
 7	8	8	NUM	_	NumType=Card	8	nummod	_	_

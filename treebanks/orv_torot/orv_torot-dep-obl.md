@@ -38,19 +38,19 @@ The following 48 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 obl	color:blue
-1	а	а	CCONJ	C-	_	4	cc	_	ref=6
-2	изъ	из	ADP	R-	_	3	case	_	ref=6
-3	чювилѧ	чивиль	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=6
-4	пошли	поити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=6|LId=1
-5	есмѧ	быти	AUX	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=6
-6	сѹхѡм	сухо	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	4	obl	_	ref=6
-7	до	до	ADP	R-	_	8	case	_	ref=6
-8	пали	пали	PROPN	Ne	_	4	obl	_	ref=6
-9	и҃	осмь	NUM	Ma	_	4	obl	_	ref=6
-10	дн҃и	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	ref=6
-11	до	до	ADP	R-	_	13	case	_	ref=6
-12	индѣискыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	ref=6
-13	горы	гора	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	conj	_	ref=6
+1	а	а	CCONJ	C-	_	4	cc	_	Ref=6
+2	изъ	из	ADP	R-	_	3	case	_	Ref=6
+3	чювилѧ	чивиль	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	Ref=6
+4	пошли	поити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	LId=1|Ref=6
+5	есмѧ	быти	AUX	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	Ref=6
+6	сѹхѡм	сухо	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	4	obl	_	Ref=6
+7	до	до	ADP	R-	_	8	case	_	Ref=6
+8	пали	пали	PROPN	Ne	_	4	obl	_	Ref=6
+9	и҃	осмь	NUM	Ma	_	4	obl	_	Ref=6
+10	дн҃и	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	Ref=6
+11	до	до	ADP	R-	_	13	case	_	Ref=6
+12	индѣискыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	Ref=6
+13	горы	гора	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	conj	_	Ref=6
 
 ~~~
 

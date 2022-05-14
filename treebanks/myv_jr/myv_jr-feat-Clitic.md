@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 1 different values: `Add`.
 
 241 tokens (1%) have a non-empty value of `Clitic`.
-197 types (4%) occur at least once with a non-empty value of `Clitic`.
+197 types (3%) occur at least once with a non-empty value of `Clitic`.
 168 lemmas (6%) occur at least once with a non-empty value of `Clitic`.
 The feature is used with 9 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (102; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (43; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (42; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (20; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 

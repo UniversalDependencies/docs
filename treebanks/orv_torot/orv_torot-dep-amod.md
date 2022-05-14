@@ -22,11 +22,11 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 amod	color:blue
-1	и	и	CCONJ	C-	_	3	cc	_	ref=6
-2	тѹтъ	тутъ	ADV	Df	_	3	advmod	_	ref=6
-3	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-4	индѣискаа	индѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	ref=6
-5	страна	страна	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=6
+1	и	и	CCONJ	C-	_	3	cc	_	Ref=6
+2	тѹтъ	тутъ	ADV	Df	_	3	advmod	_	Ref=6
+3	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=6
+4	индѣискаа	индѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	Ref=6
+5	страна	страна	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Ref=6
 
 ~~~
 
@@ -58,16 +58,16 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 amod	color:blue
-1	такоже	такоже	ADV	Df	_	5	advmod	_	ref=86.19
-2	и	и	ADV	Df	_	3	advmod	_	ref=86.20
-3	жены	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	ref=86.20
-4	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	det	_	ref=86.20
-5	творѧть	творити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=86.20
-6	туже	тыиже	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	7	det	_	ref=86.20
-7	скверну	сквьрна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=86.20
-8	и	и	CCONJ	C-	_	5	cc	_	ref=86.20
-9	ино	иныи	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	ref=86.20
-10	пуще	пущии	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing|Variant=Short	9	amod	_	ref=86.21
+1	такоже	такоже	ADV	Df	_	5	advmod	_	Ref=86.19
+2	и	и	ADV	Df	_	3	advmod	_	Ref=86.20
+3	жены	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	Ref=86.20
+4	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	det	_	Ref=86.20
+5	творѧть	творити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=86.20
+6	туже	тыиже	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	7	det	_	Ref=86.20
+7	скверну	сквьрна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Ref=86.20
+8	и	и	CCONJ	C-	_	5	cc	_	Ref=86.20
+9	ино	иныи	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	Ref=86.20
+10	пуще	пущии	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing|Variant=Short	9	amod	_	Ref=86.21
 
 ~~~
 

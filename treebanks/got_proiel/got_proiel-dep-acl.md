@@ -22,16 +22,16 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 acl	color:blue
-1	jah	jah	CCONJ	C-	_	2	cc	_	ref=LUKE_7.11
-2	warþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.11
-3	in	in	ADP	R-	_	5	case	_	ref=LUKE_7.11
-4	þamma	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	5	det	_	ref=LUKE_7.11
-5	afardaga	afardags	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	ref=LUKE_7.11
-6	iddja	gaggan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=LUKE_7.11
-7	in	in	ADP	R-	_	8	case	_	ref=LUKE_7.11
-8	baurg	baurgs	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=LUKE_7.11
-9	namnida	namnjan	VERB	V-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	ref=LUKE_7.11
-10	Naem	Naem	PROPN	Ne	_	9	xcomp	_	ref=LUKE_7.11
+1	jah	jah	CCONJ	C-	_	2	cc	_	Ref=LUKE_7.11
+2	warþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_7.11
+3	in	in	ADP	R-	_	5	case	_	Ref=LUKE_7.11
+4	þamma	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	5	det	_	Ref=LUKE_7.11
+5	afardaga	afardags	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	Ref=LUKE_7.11
+6	iddja	gaggan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	Ref=LUKE_7.11
+7	in	in	ADP	R-	_	8	case	_	Ref=LUKE_7.11
+8	baurg	baurgs	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	Ref=LUKE_7.11
+9	namnida	namnjan	VERB	V-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	Ref=LUKE_7.11
+10	Naem	Naem	PROPN	Ne	_	9	xcomp	_	Ref=LUKE_7.11
 
 ~~~
 
@@ -42,12 +42,12 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 acl	color:blue
-1	jah	jah	CCONJ	C-	_	6	cc	_	ref=MATT_5.32
-2	sa	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT_5.32
-3	ize	izei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	ref=MATT_5.32
-4	afsatida	af-satjan	VERB	V-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	obj	_	ref=MATT_5.32
-5	liugaiþ	liugan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=MATT_5.32|LId=1
-6	horinoþ	horinon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.32
+1	jah	jah	CCONJ	C-	_	6	cc	_	Ref=MATT_5.32
+2	sa	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=MATT_5.32
+3	ize	izei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=MATT_5.32
+4	afsatida	af-satjan	VERB	V-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	obj	_	Ref=MATT_5.32
+5	liugaiþ	liugan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	LId=1|Ref=MATT_5.32
+6	horinoþ	horinon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.32
 
 ~~~
 
@@ -58,15 +58,15 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 acl	color:blue
-1	þanuh	þanuh	ADV	Df	_	2	discourse	_	ref=JOHN_11.16
-2	qaþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_11.16
-3	Þomas	Þomas	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=JOHN_11.16
-4	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj:pass	_	ref=JOHN_11.16
-5	haitada	haitan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	acl	_	ref=JOHN_11.16
-6	Didimus	Didimus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	ref=JOHN_11.16
-7	þaim	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	8	det	_	ref=JOHN_11.16
-8	gahlaibam	gahlaiba	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	ref=JOHN_11.16
-9	seinaim	*seins	ADJ	Pt	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	8	nmod	_	ref=JOHN_11.16
+1	þanuh	þanuh	ADV	Df	_	2	discourse	_	Ref=JOHN_11.16
+2	qaþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=JOHN_11.16
+3	Þomas	Þomas	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=JOHN_11.16
+4	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj:pass	_	Ref=JOHN_11.16
+5	haitada	haitan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	acl	_	Ref=JOHN_11.16
+6	Didimus	Didimus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	Ref=JOHN_11.16
+7	þaim	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	8	det	_	Ref=JOHN_11.16
+8	gahlaibam	gahlaiba	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	Ref=JOHN_11.16
+9	seinaim	*seins	ADJ	Pt	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	8	nmod	_	Ref=JOHN_11.16
 
 ~~~
 

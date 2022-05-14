@@ -8,26 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (1%) are attached to their parents as `iobj`.
+4 nodes (1%) are attached to their parents as `iobj`.
 
-3 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.33333333333333.
+4 instances of `iobj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.25.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (1; 33% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 33% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 iobj	color:blue
-1	Саша	саша	PROPN	propn	_	4	nsubj	_	_
-2	аҕатыгар	аҕа	NOUN	n	Case=Dat|Number=Sing	4	iobj	_	_
-3	суругу	сурук	NOUN	n	Case=Acc|Number=Sing	4	obj	_	_
-4	ыытта	ыыт	VERB	vd	Person=3|Tense=NearPast	0	root	_	_
-
-~~~
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (2; 50% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -47,12 +33,26 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 iobj	color:blue
+1	Саша	саша	PROPN	propn	Case=Nom|Number=Sing	4	nsubj	_	_
+2	аҕатыгар	аҕа	NOUN	n	Case=Dat|Number=Sing	4	iobj	_	_
+3	суругу	сурук	NOUN	n	Case=Acc|Number=Sing	4	obj	_	_
+4	ыытта	ыыт	VERB	vd	Person=3|Tense=NearPast	0	root	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 iobj	color:blue
-1	Кэскилга	Кэскил	PROPN	propn	Case=Dat	3	iobj	_	_
+1	Кэскилга	Кэскил	PROPN	propn	Case=Dat|Number=Sing	3	iobj	_	_
 2	чэйдэ	чэй	NOUN	n	Case=Par|Number=Sing	3	obj	_	_
 3	кут	кут	VERB	vt	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 4	!	!	PUNCT	punct	_	3	punct	_	_

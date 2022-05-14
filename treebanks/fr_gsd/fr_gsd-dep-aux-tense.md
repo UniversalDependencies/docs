@@ -9,31 +9,34 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_gsd-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_gsd-dep-aux-pass.html">aux:pass</a></tt>.
 
-4619 nodes (1%) are attached to their parents as `aux:tense`.
+3828 nodes (1%) are attached to their parents as `aux:tense`.
 
-4611 instances of `aux:tense` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46135527170383.
+3821 instances of `aux:tense` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50705329153605.
 
-The following 10 pairs of parts of speech are connected with `aux:tense`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (4477; 97% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (76; 2% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (49; 1% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `aux:tense`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3682; 96% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (80; 2% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (49; 1% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 aux:tense	color:blue
-1	Elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=elle
-2	fonce	foncer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	et	et	CCONJ	_	_	7	cc	_	_
-4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	expl:subj	_	SpaceAfter=No
-5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-6	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
-7	audace	audace	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
-8	qui	qui	PRON	_	PronType=Rel	10	nsubj	_	_
-9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	_
-10	récompensée	récompenser	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	advcl:cleft	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 aux:tense	color:blue
+1	Vraiment	vraiment	ADV	_	_	6	advmod	_	SpaceAfter=No|wordform=vraiment
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
+4	y	y	PRON	_	Person=3|PronType=Prs	6	obl:mod	_	_
+5	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
+6	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	bon	bon	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+9	temps	temps	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+10	et	et	CCONJ	_	_	11	cc	_	_
+11	compte	compter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+12	y	y	PRON	_	Person=3|PronType=Prs	13	iobj	_	_
+13	retourner	retourner	VERB	_	VerbForm=Inf	11	xcomp	_	_
+14	!	!	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

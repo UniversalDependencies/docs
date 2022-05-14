@@ -58,7 +58,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 768 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (573; 75%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (565; 74%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (520; 68%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (489; 64%).
+The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (768; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (768; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (573; 75%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (565; 74%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (520; 68%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (489; 64%).
 
 `ADJ` tokens may have the following values of `NameType`:
 

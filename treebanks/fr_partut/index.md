@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -84,33 +84,33 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 
 ## Features
 
-[Definite](fr_partut-feat-Definite.html) – [Gender](fr_partut-feat-Gender.html) – [Mood](fr_partut-feat-Mood.html) – [Number](fr_partut-feat-Number.html) – [NumType](fr_partut-feat-NumType.html) – [Person](fr_partut-feat-Person.html) – [Polarity](fr_partut-feat-Polarity.html) – [Poss](fr_partut-feat-Poss.html) – [PronType](fr_partut-feat-PronType.html) – [Tense](fr_partut-feat-Tense.html) – [VerbForm](fr_partut-feat-VerbForm.html)
+[Definite](fr_partut-feat-Definite.html) – [Foreign](fr_partut-feat-Foreign.html) – [Gender](fr_partut-feat-Gender.html) – [Mood](fr_partut-feat-Mood.html) – [Number](fr_partut-feat-Number.html) – [Number[psor]](fr_partut-feat-Number-psor.html) – [NumType](fr_partut-feat-NumType.html) – [Person](fr_partut-feat-Person.html) – [Person[psor]](fr_partut-feat-Person-psor.html) – [Polarity](fr_partut-feat-Polarity.html) – [Poss](fr_partut-feat-Poss.html) – [PronType](fr_partut-feat-PronType.html) – [Tense](fr_partut-feat-Tense.html) – [Typo](fr_partut-feat-Typo.html) – [VerbForm](fr_partut-feat-VerbForm.html)
 
 ## Relations
 
-[acl](fr_partut-dep-acl.html) – [acl:relcl](fr_partut-dep-acl-relcl.html) – [advcl](fr_partut-dep-advcl.html) – [advmod](fr_partut-dep-advmod.html) – [amod](fr_partut-dep-amod.html) – [appos](fr_partut-dep-appos.html) – [aux](fr_partut-dep-aux.html) – [aux:caus](fr_partut-dep-aux-caus.html) – [aux:pass](fr_partut-dep-aux-pass.html) – [case](fr_partut-dep-case.html) – [cc](fr_partut-dep-cc.html) – [ccomp](fr_partut-dep-ccomp.html) – [compound](fr_partut-dep-compound.html) – [conj](fr_partut-dep-conj.html) – [cop](fr_partut-dep-cop.html) – [csubj](fr_partut-dep-csubj.html) – [csubj:pass](fr_partut-dep-csubj-pass.html) – [dep](fr_partut-dep-dep.html) – [det](fr_partut-dep-det.html) – [discourse](fr_partut-dep-discourse.html) – [dislocated](fr_partut-dep-dislocated.html) – [expl](fr_partut-dep-expl.html) – [fixed](fr_partut-dep-fixed.html) – [flat](fr_partut-dep-flat.html) – [flat:foreign](fr_partut-dep-flat-foreign.html) – [flat:name](fr_partut-dep-flat-name.html) – [goeswith](fr_partut-dep-goeswith.html) – [iobj](fr_partut-dep-iobj.html) – [iobj:agent](fr_partut-dep-iobj-agent.html) – [mark](fr_partut-dep-mark.html) – [nmod](fr_partut-dep-nmod.html) – [nsubj](fr_partut-dep-nsubj.html) – [nsubj:caus](fr_partut-dep-nsubj-caus.html) – [nsubj:pass](fr_partut-dep-nsubj-pass.html) – [nummod](fr_partut-dep-nummod.html) – [obj](fr_partut-dep-obj.html) – [obj:agent](fr_partut-dep-obj-agent.html) – [obl](fr_partut-dep-obl.html) – [obl:agent](fr_partut-dep-obl-agent.html) – [orphan](fr_partut-dep-orphan.html) – [parataxis](fr_partut-dep-parataxis.html) – [punct](fr_partut-dep-punct.html) – [root](fr_partut-dep-root.html) – [vocative](fr_partut-dep-vocative.html) – [xcomp](fr_partut-dep-xcomp.html)
+[acl](fr_partut-dep-acl.html) – [acl:relcl](fr_partut-dep-acl-relcl.html) – [advcl](fr_partut-dep-advcl.html) – [advmod](fr_partut-dep-advmod.html) – [amod](fr_partut-dep-amod.html) – [appos](fr_partut-dep-appos.html) – [aux](fr_partut-dep-aux.html) – [aux:caus](fr_partut-dep-aux-caus.html) – [aux:pass](fr_partut-dep-aux-pass.html) – [case](fr_partut-dep-case.html) – [cc](fr_partut-dep-cc.html) – [ccomp](fr_partut-dep-ccomp.html) – [compound](fr_partut-dep-compound.html) – [conj](fr_partut-dep-conj.html) – [cop](fr_partut-dep-cop.html) – [csubj](fr_partut-dep-csubj.html) – [csubj:pass](fr_partut-dep-csubj-pass.html) – [dep](fr_partut-dep-dep.html) – [det](fr_partut-dep-det.html) – [discourse](fr_partut-dep-discourse.html) – [dislocated](fr_partut-dep-dislocated.html) – [expl](fr_partut-dep-expl.html) – [fixed](fr_partut-dep-fixed.html) – [flat](fr_partut-dep-flat.html) – [flat:foreign](fr_partut-dep-flat-foreign.html) – [flat:name](fr_partut-dep-flat-name.html) – [iobj](fr_partut-dep-iobj.html) – [iobj:agent](fr_partut-dep-iobj-agent.html) – [mark](fr_partut-dep-mark.html) – [nmod](fr_partut-dep-nmod.html) – [nsubj](fr_partut-dep-nsubj.html) – [nsubj:caus](fr_partut-dep-nsubj-caus.html) – [nsubj:pass](fr_partut-dep-nsubj-pass.html) – [nummod](fr_partut-dep-nummod.html) – [obj](fr_partut-dep-obj.html) – [obj:agent](fr_partut-dep-obj-agent.html) – [obl](fr_partut-dep-obl.html) – [obl:agent](fr_partut-dep-obl-agent.html) – [orphan](fr_partut-dep-orphan.html) – [parataxis](fr_partut-dep-parataxis.html) – [punct](fr_partut-dep-punct.html) – [root](fr_partut-dep-root.html) – [vocative](fr_partut-dep-vocative.html) – [xcomp](fr_partut-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1020 sentences, 27658 tokens and 28595 syntactic words.</li>
+<li>This corpus contains 1020 sentences, 27648 tokens and 28586 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4161 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 4152 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
-<li>This corpus does not contain words with spaces.</li>
+<li>This corpus contains 1 types of words with spaces. Examples: 50 000</li>
 </ul>
 
 <ul>
-<li>This corpus contains 48 types of words that contain both letters and punctuation. Examples: l', d', qu', n', s', c', j', M., aujourd'hui, jusqu', -il, -ce, celui-ci, ci-dessus, m', ceux-ci, au-delà, celle-ci, vis-à-vis, -vous, ci-après, -on, bien-être, c'est-à-dire, elle-même, moi-même, p., peut-être, puisqu', -là, -moi, -nous, IV-438, Royaume-uni, Wulf-Mathies, bien-fondé, ci-dessous, eux-mêmes, garde-meubles, lorsqu', là-dessus, mm., outre-mer, quelqu', savoir-faire, sous-sol, sud-est, États-Unis</li>
+<li>This corpus contains 49 types of words that contain both letters and punctuation. Examples: l', d', qu', n', s', c', j', M., aujourd'hui, jusqu', l'on, -il, -ce, celui-ci, ci-dessus, m', ceux-ci, au-delà, celle-ci, vis-à-vis, -vous, ci-après, -on, bien-être, c'est-à-dire, elle-même, moi-même, p., peut-être, puisqu', -là, -moi, -nous, IV-438, Royaume-uni, Wulf-Mathies, bien-fondé, ci-dessous, eux-mêmes, garde-meubles, lorsqu', là-dessus, mm., outre-mer, quelqu', savoir-faire, sous-sol, sud-est, États-Unis</li>
 </ul>
 
 <ul>
-<li>This corpus contains 937 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 938 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 4 types of multi-word tokens. Examples: des, du, au, aux.</li>
 </ul>
 
@@ -131,7 +131,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as determiners (DET): aucun, autre, ce, certain, ces, cet, cette, chaque, de, l', la, le, leur, maint, mon, nombreux, nos, notre, plusieurs, quel, quelconque, quelque, son, tel, tout, un, uno, vos, votre</li>
+<li>This corpus contains 27 lemmas tagged as determiners (DET): aucun, autre, ce, certain, ces, cet, cette, chaque, de, le, leur, maint, mon, nombreux, nos, notre, plusieurs, quel, quelconque, quelque, son, tel, tout, un, uno, vos, votre</li>
 </ul>
 
 <ul>
@@ -203,7 +203,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
       <li>AUX-Part: été, fait</li>
       <li>DET: le, un, ce, des, son, tous, tout, votre, cet, mon</li>
       <li>NOUN: pays, parlement, programme, membres, droit, états, contrat, rapport, cas, conseil</li>
-      <li>PRON: il, on, ils, le, ceux, chacun, tous, -il, Nul, celui</li>
+      <li>PRON: il, on, ils, le, ceux, chacun, tous, l'on, -il, Nul</li>
       <li>VERB-Fin: fait</li>
       <li>VERB-Part: fait, tenu, compris, donné, mis, dit, soumis, nommés, demandé, proposé</li>
     </ul>
@@ -414,7 +414,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Ind
     <ul>
       <li>DET: toute, tous, tout, certains, aucune, toutes, chaque, quelques, aucun, autres</li>
-      <li>PRON: chacun, tous, on, Nul, autres, beaucoup, un, Quiconque, aucune, autre</li>
+      <li>PRON: chacun, tous, l'on, Nul, autres, beaucoup, un, Quiconque, aucune, autre</li>
     </ul>
   </li>
 </ul>
@@ -527,9 +527,64 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: ses</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: son, sa</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: Capital, Risk, Social, ad, hoc</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Person[psor]</a>
+    <ul>
+      <li>3
+        <ul>
+          <li>DET: son, sa, ses</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>PUNCT: ­</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -553,9 +608,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (1)</li>
       <li>VERB-Fin--NOUN (349)</li>
       <li>VERB-Fin--NOUN-ADP(de) (5)</li>
-      <li>VERB-Fin--PRON (577)</li>
+      <li>VERB-Fin--PRON (586)</li>
       <li>VERB-Inf--PRON (4)</li>
-      <li>VERB-Part--NOUN (90)</li>
+      <li>VERB-Part--NOUN (91)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--PRON (94)</li>
     </ul>
@@ -596,5 +651,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a></li>
-<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

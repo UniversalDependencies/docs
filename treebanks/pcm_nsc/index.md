@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Bernard Caron, Emmett Strickland, Marine Courtin, Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Chika Kennedy Ajede, Emeka Onwuegbuzia, Samson Tella.
 
 Repository: [UD_Naija-NSC](https://github.com/UniversalDependencies/UD_Naija-NSC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -85,7 +85,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 
 <ul>
-<li>This corpus contains 9241 sentences and 140799 tokens.</li>
+<li>This corpus contains 9241 sentences and 140798 tokens.</li>
 </ul>
 
 <ul>

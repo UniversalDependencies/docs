@@ -10,22 +10,22 @@ This feature is universal.
 It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 
 399582 tokens (41%) have a non-empty value of `Case`.
-56724 types (86%) occur at least once with a non-empty value of `Case`.
-30949 lemmas (85%) occur at least once with a non-empty value of `Case`.
-The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (141548; 14% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (116258; 12% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (42114; 4% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (38099; 4% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (35208; 4% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (17303; 2% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (4040; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (2703; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (1001; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (614; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (338; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (182; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (114; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (26; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (24; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances).
+56719 types (86%) occur at least once with a non-empty value of `Case`.
+30932 lemmas (85%) occur at least once with a non-empty value of `Case`.
+The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (141544; 14% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (116258; 12% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (42114; 4% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (38096; 4% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (35217; 4% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (17303; 2% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (4038; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (2703; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (1001; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (614; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (338; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (182; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (114; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (26; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (24; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances).
 
 ### `NOUN`
 
-141548 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Case`.
+141544 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (112295; 79%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (104979; 74%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (112291; 79%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (104975; 74%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (45050; 32% of non-empty `Case`): <em>menn, dag, mann, orð, tíma, son, land, ráð, hendur, leið</em>
+* `Acc` (45049; 32% of non-empty `Case`): <em>menn, dag, mann, orð, tíma, son, land, ráð, hendur, leið</em>
 * `Dat` (39372; 28% of non-empty `Case`): <em>mönnum, landi, manni, nafni, orðum, hendi, sinni, máli, stað, konungi</em>
-* `Gen` (17053; 12% of non-empty `Case`): <em>manna, konungs, biskups, kóngs, manns, föður, staðar, lífs, handa, guðs</em>
-* `Nom` (40073; 28% of non-empty `Case`): <em>menn, maður, konungur, biskup, kóngur, faðir, herra, prestur, bræður, jarl</em>
+* `Gen` (17052; 12% of non-empty `Case`): <em>manna, konungs, biskups, kóngs, manns, föður, staðar, lífs, handa, guðs</em>
+* `Nom` (40071; 28% of non-empty `Case`): <em>menn, maður, konungur, biskup, kóngur, faðir, herra, prestur, bræður, jarl</em>
 * `EMPTY` (4403): <em>móti, stundum, mót, megin, sökum, vilja, synda, náð, föðurs, votta</em>
 
 <table>
@@ -127,16 +127,16 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PROPN`
 
-38099 <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> tokens (92% of all `PROPN` tokens) have a non-empty value of `Case`.
+38096 <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> tokens (92% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (36567; 96%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35915; 94%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (29303; 77%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (36568; 96%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35912; 94%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (29301; 77%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (4393; 12% of non-empty `Case`): <em>guð, jesúm, Þorlák, Illuga, Þorstein, drottin, herra, jesú, Jón, Finnboga</em>
+* `Acc` (4392; 12% of non-empty `Case`): <em>guð, jesúm, Þorlák, Illuga, Þorstein, drottin, herra, jesú, Jón, Finnboga</em>
 * `Dat` (7113; 19% of non-empty `Case`): <em>guði, Íslandi, Noregi, Sturlu, jesú, kristi, Hólum, Jóni, Skálholti, Gissuri</em>
 * `Gen` (6686; 18% of non-empty `Case`): <em>guðs, drottins, jesú, Krists, herra, Jóns, Sturlu, Maríu, Þorláks, Íslands</em>
-* `Nom` (19907; 52% of non-empty `Case`): <em>guð, jesús, drottinn, Illugi, herra, Finnbogi, Sturla, Grettir, Jón, Oddur</em>
+* `Nom` (19905; 52% of non-empty `Case`): <em>guð, jesús, drottinn, Illugi, herra, Finnbogi, Sturla, Grettir, Jón, Oddur</em>
 * `EMPTY` (3308): <em>Erasmus, Metternich, Darius, Vali, Dominus, Pelissier, síra, Moyses, Menon, Georgíus</em>
 
 <table>
@@ -151,16 +151,16 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `ADJ`
 
-35208 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Case`.
+35217 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27620; 78%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27175; 77%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (26120; 74%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27626; 78%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27184; 77%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (26125; 74%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (7493; 21% of non-empty `Case`): <em>sama, góða, gott, góðan, satt, sæla, þriðja, sömu, stóra, heilaga</em>
+* `Acc` (7495; 21% of non-empty `Case`): <em>sama, góða, gott, góðan, satt, sæla, þriðja, sömu, stóra, heilaga</em>
 * `Dat` (6485; 18% of non-empty `Case`): <em>sama, góðum, góðu, sönnu, fyrstu, löngu, vísu, nýju, sömu, stórum</em>
-* `Gen` (2168; 6% of non-empty `Case`): <em>heilagra, góðra, góðs, hægri, heilagrar, heilags, eilífs, ills, sæla, kristinna</em>
-* `Nom` (19062; 54% of non-empty `Case`): <em>gott, góður, stór, gamall, góð, dauður, satt, sama, sami, góðir</em>
+* `Gen` (2169; 6% of non-empty `Case`): <em>heilagra, góðra, góðs, hægri, heilagrar, heilags, eilífs, ills, sæla, kristinna</em>
+* `Nom` (19068; 54% of non-empty `Case`): <em>gott, góður, stór, gamall, góð, dauður, satt, sama, sami, góðir</em>
 * `EMPTY` (1947): <em>nær, 1., langt, víst, lengi, kongl., skammt, verður, illa, lengra</em>
 
 <table>
@@ -241,14 +241,14 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `ADV`
 
-4040 <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Case`.
+4038 <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Case`.
 
 `ADV` tokens may have the following values of `Case`:
 
 * `Acc` (1454; 36% of non-empty `Case`): <em>þá, fyrri, mikið, einasta, mikla, aldregi, hvað, mikinn, eina, marga</em>
 * `Dat` (436; 11% of non-empty `Case`): <em>aldri, því, einum, hvörsu, miklu, aldregi, braut, stórum, einu, miklum</em>
 * `Gen` (193; 5% of non-empty `Case`): <em>eins, alls, forkunnar, samaleiðis, sæmiliga, aldregi, blíðliga, náliga, oftliga, ákafliga</em>
-* `Nom` (1957; 48% of non-empty `Case`): <em>hvað, einnin, einn, allir, mikill, fyrri, hverninn, langt, aldregi, aptur</em>
+* `Nom` (1955; 48% of non-empty `Case`): <em>hvað, einnin, einn, allir, mikill, fyrri, hverninn, langt, aldregi, aptur</em>
 * `EMPTY` (74985): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
 
 <table>
@@ -511,13 +511,13 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13966; 87%),
-<tt>NOUN --[<tt><a href="is_icepahc-dep-det.html">det</a></tt>]--> DET</tt> (12798; 87%),
+<tt>NOUN --[<tt><a href="is_icepahc-dep-det.html">det</a></tt>]--> DET</tt> (12796; 87%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (11166; 61%),
-<tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> DET</tt> (9551; 89%),
+<tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> DET</tt> (9550; 89%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (7280; 80%),
-<tt>PROPN --[<tt><a href="is_icepahc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (2911; 81%),
-<tt>PROPN --[<tt><a href="is_icepahc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2481; 79%),
+<tt>PROPN --[<tt><a href="is_icepahc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (2910; 81%),
+<tt>PROPN --[<tt><a href="is_icepahc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2478; 79%),
 <tt>ADJ --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2159; 82%),
-<tt>ADJ --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2113; 89%),
+<tt>ADJ --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2114; 89%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-det.html">det</a></tt>]--> PRON</tt> (1946; 93%).
 

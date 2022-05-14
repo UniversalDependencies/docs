@@ -23,16 +23,16 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (354; 100% of non-empty `Reflex`): <em>se, si, sebe, sobě, sebou</em>
-* `EMPTY` (225): <em>co, což, ho, nich, ní, jí, mu, mě, ji, nic</em>
+* `EMPTY` (222): <em>co, což, ho, nich, ní, jí, mu, mě, ji, nic</em>
 
 ### `DET`
 
-87 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Reflex`.
+87 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Reflex`.
 
 The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (87; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (87; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (87; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (87; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (75; 86%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63; 72%).
 
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (87; 100% of non-empty `Reflex`): <em>své, svou, svého, svůj, svých, svým, svém, svoje, svému, svými</em>
-* `EMPTY` (740): <em>to, který, jeho, které, která, jejich, mnoho, toho, její, kteří</em>
+* `EMPTY` (757): <em>to, který, jeho, které, která, jejich, mnoho, toho, její, kteří</em>
 

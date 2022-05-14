@@ -9,26 +9,26 @@ udver: '2'
 This feature is language-specific.
 It occurs with 7 different values: `Com`, `Geo`, `Giv`, `Oth`, `Pro`, `Prs`, `Sur`.
 
-1815 tokens (3%) have a non-empty value of `NameType`.
+1811 tokens (3%) have a non-empty value of `NameType`.
 818 types (6%) occur at least once with a non-empty value of `NameType`.
 570 lemmas (8%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1800; 3% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1796; 3% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 0% instances).
 
 ### `PROPN`
 
-1800 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
+1796 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1793; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1327; 74%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1039; 58%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (1002; 56%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1789; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1324; 74%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1036; 58%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (999; 56%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
 * `Com` (55; 3% of non-empty `NameType`): <em>Արմենպրես, ՀՀԿ, ՊԲ, ԱԺ, ՀՀԿ-ի, ԵԱՀԿ, Հ1, ՀՀԿ-ում, ԱՊՀ, Արցախպրեսսը</em>
-* `Geo` (703; 39% of non-empty `NameType`): <em>Հայաստանի, ՀՀ, Հայաստանում, Իրանի, Ադրբեջանի, Հայաստան, Իրանը, Էջմիածնի, Հայաստանը, Ռուսաստանի</em>
-* `Giv` (572; 32% of non-empty `NameType`): <em>Լևոն, Սիմեոնը, Կարեն, Արմինուսը, Սերժ, Լուկրեցիան, Հարութը, Նիկոլ, Վիգեն, Արմեն</em>
+* `Geo` (702; 39% of non-empty `NameType`): <em>Հայաստանի, ՀՀ, Հայաստանում, Իրանի, Ադրբեջանի, Հայաստան, Իրանը, Էջմիածնի, Հայաստանը, Ռուսաստանի</em>
+* `Giv` (571; 32% of non-empty `NameType`): <em>Լևոն, Սիմեոնը, Կարեն, Արմինուսը, Սերժ, Լուկրեցիան, Հարութը, Նիկոլ, Վիգեն, Արմեն</em>
 * `Oth` (23; 1% of non-empty `NameType`): <em>Կաթողիկեի, Կաթողիկե, Կաթողիկեն, Կրեմլում, Սոֆիայի, Բիթլս, Կրեմլի, Հոլոքոստը, Տլիմսեն</em>
 * `Pro` (14; 1% of non-empty `NameType`): <em>Հայլուր, 24, Դ-30, Դ-44, Զապո, Զապորոժեց, Զինգերն, Լրաբեր, Կալաշնիկով, Շիլկայի</em>
 * `Prs` (57; 3% of non-empty `NameType`): <em>Քրիստոսի, Գումբա, Կուպա, Մարիո, Քրիստոս, Կիկոս, Նարեկացի, Նեպտունի, Չիրո, ծիպ</em>
-* `Sur` (376; 21% of non-empty `NameType`): <em>Սարգսյանի, Կարապետյանը, Պետրոսյանի, Սարգսյանը, Փաշինյանը, Կարապետյանի, Չալդրանյանը, Աբովյան, Լարուիի, Լարուին</em>
+* `Sur` (374; 21% of non-empty `NameType`): <em>Սարգսյանի, Կարապետյանը, Պետրոսյանի, Սարգսյանը, Փաշինյանը, Կարապետյանի, Չալդրանյանը, Աբովյան, Լարուիի, Լարուին</em>
 
 <table>
   <tr><th>Paradigm <i>Եվա</i></th><th><tt>Giv</tt></th><th><tt>Prs</tt></th></tr>

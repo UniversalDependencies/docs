@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-25437 tokens (9%) have a non-empty value of `Person`.
+25444 tokens (9%) have a non-empty value of `Person`.
 3799 types (14%) occur at least once with a non-empty value of `Person`.
-1329 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (10513; 4% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (10272; 3% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (4652; 2% instances).
+1330 lemmas (7%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (10513; 4% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (10272; 3% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (4659; 2% instances).
 
 ### `VERB`
 
@@ -78,23 +78,18 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-4652 <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Person`.
+4659 <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4651; 100%), <tt><a href="it_isdt-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (3938; 85%), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3466; 75%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2556; 55%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4658; 100%), <tt><a href="it_isdt-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (3932; 84%), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3474; 75%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2521; 54%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (566; 12% of non-empty `Person`): <em>ci, mi, noi, io, me, I, ce, m', ve</em>
-* `2` (158; 3% of non-empty `Person`): <em>ti, vi, te, tu, voi</em>
-* `3` (3928; 84% of non-empty `Person`): <em>si, lo, la, li, gli, lui, le, l', loro, se</em>
-* `EMPTY` (6644): <em>che, chi, cui, ne, qual, ci, quanto, c', quale, quello</em>
+* `1` (568; 12% of non-empty `Person`): <em>ci, mi, noi, io, me, ce, I, m'</em>
+* `2` (159; 3% of non-empty `Person`): <em>ti, vi, te, tu, voi, ve</em>
+* `3` (3932; 84% of non-empty `Person`): <em>si, lo, la, li, gli, lui, le, l', loro, se</em>
+* `EMPTY` (6636): <em>che, chi, cui, ne, qual, ci, quanto, c', quale, quello</em>
 
-<table>
-  <tr><th>Paradigm <i>vi</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ve</em></td><td><em>vi</em></td></tr>
-</table>
-
-`Person` seems to be **lexical feature** of `PRON`. 98% lemmas (40) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (42) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 

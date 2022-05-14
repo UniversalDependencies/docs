@@ -23,14 +23,14 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 acl	color:blue
-1	Ынӄэ	_	PART	_	_	2	discourse	_	Gloss=DET
-2	нэгитээʼн	_	VERB	_	_	0	root	_	Gloss=LOW.A-смотреть-TH-3SG.O
-3	эвын	_	ADV	_	_	5	advmod	_	Gloss=если
-4	ынӄэн	_	DET	_	_	5	det	_	Gloss=DET
-5	ваԓы	_	NOUN	_	_	2	parataxis	_	Gloss=нож.NOM.SG
-6	ӈэ	_	PART	_	_	5	advmod:emph	_	Gloss=PTCL
-7	ԓьоо	_	VERB	_	_	5	acl	_	Gloss=находить-PTCP.PASS-NOM.SG|SpaceAfter=No
-8	.	_	PUNCT	_	_	2	punct	_	_
+1	Ынӄэ	_	PART	_	_	2	discourse	2:discourse	Gloss=DET
+2	нэгитээʼн	_	VERB	_	_	0	root	0:root	Gloss=LOW.A-смотреть-TH-3SG.O
+3	эвын	_	ADV	_	_	5	advmod	5:advmod	Gloss=если
+4	ынӄэн	_	DET	_	_	5	det	5:det	Gloss=DET
+5	ваԓы	_	NOUN	_	_	2	parataxis	2:parataxis	Gloss=нож.NOM.SG
+6	ӈэ	_	PART	_	_	5	advmod:emph	5:advmod:emph	Gloss=PTCL
+7	ԓьоо	_	VERB	_	_	5	acl	5:acl	Gloss=находить-PTCP.PASS-NOM.SG|SpaceAfter=No
+8	.	_	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -41,13 +41,13 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 acl	color:blue
-1	Гытэӈ	_	ADJ	_	_	6	amod	_	Gloss=красивый
-2	пыԓытъым	_	ADJ	_	_	6	amod	_	Gloss=стройный
-3	кытгынт	_	VERB	_	_	6	acl	_	Gloss=бежать
-4	ыйъа	_	ADV	_	_	5	advmod	_	Gloss=VERY
-5	кытгынты	_	VERB	_	_	6	acl	_	Gloss=бежать
-6	палина	_	PROPN	_	_	0	root	_	Gloss=Полина
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	Гытэӈ	_	ADJ	_	_	6	amod	6:amod	Gloss=красивый
+2	пыԓытъым	_	ADJ	_	_	6	amod	6:amod	Gloss=стройный
+3	кытгынт	_	VERB	_	_	6	acl	6:acl	Gloss=бежать
+4	ыйъа	_	ADV	_	_	5	advmod	5:advmod	Gloss=VERY
+5	кытгынты	_	VERB	_	_	6	acl	6:acl	Gloss=бежать
+6	палина	_	PROPN	_	_	0	root	0:root	Gloss=Полина
+7	.	_	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

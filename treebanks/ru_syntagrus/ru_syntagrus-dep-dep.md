@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 7	главная	главный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	8:amod	_
 8	необычность	необычность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	0:root|6:nsubj	_
 9	Одессы	Одесса	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod:gen	SpaceAfter=No
-10	.	.	PUNCT	_	_	8	punct	8:punct	_~
+10	.	.	PUNCT	_	_	8	punct	8:punct	_
 
 ~~~
 
@@ -87,12 +87,12 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 14	против	против	ADP	_	_	15	case	15:case	_
 15	вхождения	вхождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	acl:relcl	7:acl:relcl	_
 16	в	в	ADP	_	_	17	case	17:case	_
-17	НАТО	НАТО	PROPN	_	Abbr=Yes	15	nmod	15:nmod:в	SpaceAfter=No
+17	НАТО	НАТО	PROPN	_	Abbr=Yes	15	nmod	15:nmod:в:loc	SpaceAfter=No
 18	,	,	PUNCT	_	_	15	punct	15:punct	_
 19	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	21	nsubj	21:nsubj	_
 20	сильно	сильно	ADV	_	Degree=Pos	21	advmod	21:advmod	_
 21	изменилось	измениться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl	4:acl:что	SpaceAfter=No
-22	.	.	PUNCT	_	_	4	punct	4:punct	_~
+22	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 

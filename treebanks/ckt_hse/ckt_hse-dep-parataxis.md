@@ -23,12 +23,12 @@ The following 43 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 parataxis	color:blue
-1	Гэчевкы	_	NOUN	_	_	2	obl	_	Gloss=развлечение-LOC
-2	нынтыӄин	_	VERB	_	_	0	root	_	Gloss=ST-иметь-ST.3SG
-3	таӈкоԓё	_	ADV	_	_	5	advmod	_	Gloss=GOOD-очень
-4	ынкы	_	PRON	_	_	5	obl	_	Gloss=тот-LOC
-5	ныгынритӄин	_	VERB	_	_	2	parataxis	_	Gloss=ST-защищать-ST.3SG|SpaceAfter=No
-6	.	_	PUNCT	_	_	5	punct	_	_
+1	Гэчевкы	_	NOUN	_	_	2	obl	2:obl	Gloss=развлечение-LOC
+2	нынтыӄин	_	VERB	_	_	0	root	0:root	Gloss=ST-иметь-ST.3SG
+3	таӈкоԓё	_	ADV	_	_	5	advmod	5:advmod	Gloss=GOOD-очень
+4	ынкы	_	PRON	_	_	5	obl	5:obl	Gloss=тот-LOC
+5	ныгынритӄин	_	VERB	_	_	2	parataxis	2:parataxis	Gloss=ST-защищать-ST.3SG|SpaceAfter=No
+6	.	_	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -39,14 +39,14 @@ The following 43 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 parataxis	color:blue
-1	И	_	CCONJ	_	_	3	cc	_	Gloss=
-2	ынӄэн	_	PART	_	_	3	discourse	_	Gloss=DET
-3	уйӈэ	_	VERB	_	_	0	root	_	Gloss=нет
-4	гэнъэԓԓин	_	AUX	_	_	3	aux	_	Gloss=PF-стать-PF.3SG
-5	гагаԓята	_	VERB	_	_	3	advcl	_	Gloss=COM-проходить-INS
-6	аԓымы	_	PART	_	_	7	discourse	_	Gloss=хотя
-7	ӈавкэтԓьан	_	NOUN	_	_	3	parataxis	_	Gloss=FEM-девочка-ATTR-NOM.SG|SpaceAfter=No
-8	.	_	PUNCT	_	_	3	punct	_	_
+1	И	_	CCONJ	_	_	3	cc	3:cc	Gloss=
+2	ынӄэн	_	PART	_	_	3	discourse	3:discourse	Gloss=DET
+3	уйӈэ	_	VERB	_	_	0	root	0:root	Gloss=нет
+4	гэнъэԓԓин	_	AUX	_	_	3	aux	3:aux	Gloss=PF-стать-PF.3SG
+5	гагаԓята	_	VERB	_	_	3	advcl	3:advcl	Gloss=COM-проходить-INS
+6	аԓымы	_	PART	_	_	7	discourse	7:discourse	Gloss=хотя
+7	ӈавкэтԓьан	_	NOUN	_	_	3	parataxis	3:parataxis	Gloss=FEM-девочка-ATTR-NOM.SG|SpaceAfter=No
+8	.	_	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 
@@ -57,12 +57,12 @@ The following 43 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 parataxis	color:blue
-1	Ӄоԓ	_	PRON	_	_	2	nsubj	_	Gloss=некий
-2	вэтгавӈав	_	NOUN	_	_	0	root	_	Gloss=говорить-FEM-NOM.SG
-3	ъым	_	PART	_	_	2	advmod:emph	_	Gloss=EMPH
-4	ӄоԓ	_	PRON	_	_	5	nsubj	_	Gloss=некий
-5	камэԓгыӈав	_	NOUN	_	_	2	parataxis	_	Gloss=преуспевать-FEM-NOM.SG|SpaceAfter=No
-6	.	_	PUNCT	_	_	2	punct	_	_
+1	Ӄоԓ	_	PRON	_	_	2	nsubj	2:nsubj	Gloss=некий
+2	вэтгавӈав	_	NOUN	_	_	0	root	0:root	Gloss=говорить-FEM-NOM.SG
+3	ъым	_	PART	_	_	2	advmod:emph	2:advmod:emph	Gloss=EMPH
+4	ӄоԓ	_	PRON	_	_	5	nsubj	5:nsubj	Gloss=некий
+5	камэԓгыӈав	_	NOUN	_	_	2	parataxis	2:parataxis	Gloss=преуспевать-FEM-NOM.SG|SpaceAfter=No
+6	.	_	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

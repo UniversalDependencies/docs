@@ -11,7 +11,7 @@ It occurs with 1 different values: `Form`.
 
 2 tokens (0%) have a non-empty value of `Polite`.
 2 types (0%) occur at least once with a non-empty value of `Polite`.
-1 lemmas (6%) occur at least once with a non-empty value of `Polite`.
+1 lemmas (0%) occur at least once with a non-empty value of `Polite`.
 The feature is used with 1 part-of-speech tags: <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `PRON`
@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (2; 100% of non-empty `Polite`): <em>usted, ustedes</em>
-* `EMPTY` (1056): <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
+* `EMPTY` (1060): <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
 

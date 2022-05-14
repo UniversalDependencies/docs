@@ -13,22 +13,19 @@ This relation is universal.
 252 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.01190476190476.
 
-The following 38 pairs of parts of speech are connected with `goeswith`: <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (58; 23% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (57; 23% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (38; 15% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (19; 8% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (8; 3% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (7; 3% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (6; 2% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (4; 2% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (4; 2% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `goeswith`: <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (75; 30% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (63; 25% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (40; 16% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (22; 9% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (11; 4% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (9; 4% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (8; 3% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (8; 3% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (5; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (5; 2% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (4; 2% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 goeswith	color:blue
-1	Всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	2	advmod	_	_
-2	можно	можно	VERB	_	_	0	root	_	_
-3	попробовать	попробовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	_
-4	что	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	3	obj	_	_
-5	то	то	PART	_	_	4	goeswith	_	_
-6	новое	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	_	_~
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 goeswith	color:blue
+1	Как-	как-то	ADV	_	Degree=Pos|PronType=Ind|Typo=Yes	3	advmod	_	_
+2	то	_	X	_	_	1	goeswith	_	_
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	SpaceAfter=No
+4	😥	😥	SYM	_	_	3	discourse	_	_
 
 ~~~
 
@@ -39,18 +36,15 @@ The following 38 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 goeswith	color:blue
-1	Можно	можно	VERB	_	_	0	root	_	_
-2	как	как-то	ADV	_	Degree=Pos|PronType=Ind	4	advmod	_	_
-3	то	то	PART	_	_	2	goeswith	_	_
-4	убрать	убрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	_
-5	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
-6	вред	вред	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
-7	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-8	кроме	кроме	ADP	_	_	9	case	_	_
-9	замалчивания	замалчивание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	parataxis	_	_
-10	крупы	крупа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
-11	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
-12	?	?	PUNCT	_	_	1	punct	_	_~
+1	@Zhirinovskiy	@Zhirinovskiy	PROPN	_	NameType=Prs	4	dislocated	_	_
+2	ни	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg|Typo=Yes	6	obj	_	_
+3	чего	_	X	_	_	2	goeswith	_	_
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	_
+6	решает	решать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	просто	просто	PART	_	_	9	advmod	_	_
+8	воду	вода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+9	наливает	наливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
 
 ~~~
 
@@ -67,8 +61,8 @@ The following 38 pairs of parts of speech are connected with `goeswith`: <tt><a 
 4	-	-	PUNCT	_	_	5	punct	_	_
 5	запретить	запретить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
 6	увеличение	увеличение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
-7	каких	какой-либо	DET	_	Case=Gen|Number=Plur|PronType=Ind	9	det	_	_
-8	либо	либо	PART	_	_	7	goeswith	_	_
+7	каких	какой-либо	DET	_	Case=Gen|Number=Plur|PronType=Ind|Typo=Yes	9	det	_	_
+8	либо	_	X	_	_	7	goeswith	_	_
 9	налогов	налог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_
 11	⠀	⠀	PUNCT	_	_	5	punct	_	_

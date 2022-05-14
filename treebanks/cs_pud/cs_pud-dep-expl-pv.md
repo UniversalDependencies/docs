@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 7	fgColor:white
 # visual-style 7 3 expl:pv	color:blue
 1	Ne	ne	PART	TT-------------	_	2	advmod:emph	2:advmod:emph	_
-2	každý	každý	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	nsubj	6:nsubj|7:nsubj	_
+2	každý	každý	DET	AAMS1----1A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	6	nsubj	6:nsubj|7:nsubj	_
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	7	expl:pv	7:expl:pv	LGloss=(zvr._zájmeno/částice)
 4	nad	nad	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	5:case	LId=nad-1
 5	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	obl:arg	7:obl:arg:nad:acc	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="et_edt-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-16137 nodes (4%) are attached to their parents as `cc`.
+16136 nodes (4%) are attached to their parents as `cc`.
 
-16107 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.1467435087067.
+16106 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.14873574615766.
 
-The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (6558; 41% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (5644; 35% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (1778; 11% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (1134; 7% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (492; 3% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (270; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (176; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (6564; 41% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (5643; 35% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (1779; 11% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (1134; 7% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (494; 3% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (268; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (169; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (28; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,21 +32,21 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 cc	color:blue
-1	Kuid	kuid	CCONJ	J	_	5	cc	5:cc	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 cc	color:blue
+1	Kuid	kuid	CCONJ	J	_	4	cc	4:cc	_
 2	minu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
 3	ilu	ilu	NOUN	S	Case=Gen|Number=Sing	4	nmod	4:nmod	_
-4	definitsioon	definitsioon	NOUN	S	Case=Nom|Number=Sing	5	nsubj	5:nsubj	_
-5	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+4	definitsioon	definitsioon	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	_
+5	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	SpaceAfter=No
 6	:	:	PUNCT	Z	_	7	punct	7:punct	_
-7	vaadata	vaatama	VERB	V	VerbForm=Inf	5	ccomp	5:ccomp	_
+7	vaadata	vaatama	VERB	V	VerbForm=Inf	4	csubj:cop	4:csubj:cop	_
 8	ja	ja	CCONJ	J	_	9	cc	9:cc	_
-9	pühitseda	pühitsema	VERB	V	VerbForm=Inf	7	conj	7:conj	SpaceAfter=No
-10	.	.	PUNCT	Z	_	5	punct	5:punct	_
+9	pühitseda	pühitsema	VERB	V	VerbForm=Inf	7	conj	4:csubj:cop|7:conj	SpaceAfter=No
+10	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 ~~~
 

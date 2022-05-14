@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `dislocated`.
+5 nodes (0%) are attached to their parents as `dislocated`.
 
-4 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 10.75.
+5 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 15.4.
 
-The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
+The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (3; 60% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 25	been	be	AUX	VBN	Tense=Past|VerbForm=Part	26	aux:pass	26:aux:pass	_
 26	elected	elect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	33	reparandum	33:reparandum	_
 27	--	--	PUNCT	,	_	33	punct	33:punct	_
-28	not	not	ADV	RB	_	29	advmod	29:advmod	_
+28	not	not	PART	RB	_	29	advmod	29:advmod	_
 29	elected	elect	VERB	VBN	Tense=Past|VerbForm=Part	33	advcl	33:advcl	SpaceAfter=No
 30	,	,	PUNCT	,	_	33	punct	33:punct	_
 31	this	this	DET	DT	Number=Sing|PronType=Dem	32	det	32:det	_

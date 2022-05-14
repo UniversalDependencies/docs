@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-35 nodes (2%) are attached to their parents as `cop`.
+39 nodes (2%) are attached to their parents as `cop`.
 
-18 instances of `cop` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.37142857142857.
+20 instances of `cop` (51%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.25641025641026.
 
-The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (18; 51% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (11; 31% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (3; 9% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (3; 9% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (19; 49% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (11; 28% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (4; 10% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (3; 8% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -65,18 +65,32 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 cop	color:blue
-1	Jå	jå	INTJ	_	_	0	root	_	lemma[gml]=jâ¹|SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	_
-3	wår	wår	ADV	_	_	1	conj	_	lemma[gml]=wôr(e)
-4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop	3	cop	_	lemma[gml]=wēsen²
-5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma[gml]=dê¹
-6	knyptange	knyptange	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	lemma[gml]=knîptange|SpaceAfter=No
-7	?	?	PUNCT	_	_	3	punct	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 19 cop	color:blue
+1	In	in	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=in²
+2	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹|Case[regional]=Acc
+3	stad	stad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	lemma[gml]=stat⁴
+4	hove	höven	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	lemma[gml]=hö̂ven¹
+5	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	lemma[gml]=gî²
+6	niks	niks	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Neg	7	obj	_	lemma[gml]=nichtes
+7	eleyrd	leyren	VERB	_	Aspect=Perf|VerbForm=Part	4	xcomp	_	lemma[gml]=lêren
+8	te	to	PART	_	PartType=Inf	7	mark	_	lemma[gml]=tô⁵
+9	hebben	hebben	AUX	_	VerbForm=Inf	7	aux	_	lemma[gml]=hebben|SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	as	as	SCONJ	_	_	14	mark	_	lemma[gml]=alsô
+12	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	lemma[gml]=gî²
+13	mer	men	ADV	_	_	14	advmod	_	lemma[gml]=men³
+14	gefyvd	gefyvd	ADJ	_	Degree=Pos	4	advcl	_	_
+15	sint	weasen	AUX	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	14	cop	_	lemma[gml]=wēsen²
+16	-	-	PUNCT	_	_	18	punct	_	_
+17	en	un	CCONJ	_	_	18	cc	_	lemma[gml]=unde²
+18	dát	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	4	parataxis	_	lemma[gml]=dat²
+19	sin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	cop	_	lemma[gml]=wēsen²
+20	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	lemma[gml]=ik|SpaceAfter=No
+21	!	!	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

@@ -22,9 +22,9 @@ The following 12 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 dep	color:blue
-1	aʔwɑ̃ŋ	_	VERB	v	Number=Sing|Person=3	0	root	_	_
-2	naʔto	_	NOUN	n	_	3	obj	_	_
-3	wīn	_	VERB	v	Decl=Assert	1	dep	_	_
+1	aʔwɑ̃ŋ	wɑ̃k	VERB	v	Number=Sing|Person=3	0	root	_	_
+2	naʔto	naʔto	NOUN	n	_	3	obj	_	_
+3	wīn	wī	VERB	v	Decl=Assert	1	dep	_	_
 
 ~~~
 
@@ -49,8 +49,8 @@ The following 12 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 1 4 dep	color:blue
 1	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	_	_
 2	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
-3	béŋ	_	NOUN	n	_	4	obj	_	_
-4	noy	_	VERB	v	Decl=Assert	1	dep	_	_
+3	béŋ	péŋ	NOUN	n	_	4	obj	_	_
+4	noy	top	VERB	v	Decl=Assert	1	dep	_	_
 
 ~~~
 

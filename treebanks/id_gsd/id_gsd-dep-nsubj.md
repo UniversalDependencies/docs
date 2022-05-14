@@ -23,14 +23,14 @@ The following 42 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
-1	Ia	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	MorphInd=^ia<p>_PS3$
-2	tiba	tiba	VERB	NSD	_	0	root	_	MorphInd=^tiba<n>_NSD$
-3	melalui	melalui	ADP	R--	_	4	case	_	MorphInd=^melalui<r>_R--$
-4	badan	badan	NOUN	NSD	Number=Sing	2	obl	_	MorphInd=^badan<n>_NSD$
-5	Misi	misi	PROPN	NSD	_	4	nmod	_	MorphInd=^misi<n>_NSD$
-6	Rheinische	rheinische	PROPN	X--	_	5	flat:name	_	MorphInd=^rheinische<x>_X--$
-7	Missionsgesellschaft	missionsgesellschaft	PROPN	X--	_	6	flat:name	_	SpaceAfter=No|MorphInd=^missionsgesellschaft<x>_X--$
-8	.	.	PUNCT	Z--	_	2	punct	_	MorphInd=^.<z>_Z--$
+1	Ia	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Morf=^ia<p>_PS3$
+2	tiba	tiba	VERB	NSD	_	0	root	_	Morf=^tiba<n>_NSD$
+3	melalui	melalui	ADP	R--	_	4	case	_	Morf=^melalui<r>_R--$
+4	badan	badan	NOUN	NSD	Number=Sing	2	obl	_	Morf=^badan<n>_NSD$
+5	Misi	misi	PROPN	NSD	_	4	nmod	_	Morf=^misi<n>_NSD$
+6	Rheinische	rheinische	PROPN	X--	_	5	flat:name	_	Morf=^rheinische<x>_X--$
+7	Missionsgesellschaft	missionsgesellschaft	PROPN	X--	_	6	flat:name	_	SpaceAfter=No|Morf=^missionsgesellschaft<x>_X--$
+8	.	.	PUNCT	Z--	_	2	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -41,12 +41,12 @@ The following 42 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj	color:blue
-1	Pinisi	pinisi	PROPN	X--	_	3	nsubj	_	MorphInd=^pinisi<x>_X--$
-2	sebenarnya	sebenarnya	ADV	D--	_	3	advmod	_	MorphInd=^sebenarnya<d>_D--$
-3	merupakan	merupakan	VERB	O--	_	0	root	_	MorphInd=^merupakan<o>_O--$
-4	nama	nama	NOUN	NSD	Number=Sing	3	obj	_	MorphInd=^nama<n>_NSD$
-5	layar	layar	NOUN	NSD	Number=Sing	4	compound	_	SpaceAfter=No|MorphInd=^layar<n>_NSD$
-6	.	.	PUNCT	Z--	_	3	punct	_	MorphInd=^.<z>_Z--$
+1	Pinisi	pinisi	PROPN	X--	_	3	nsubj	_	Morf=^pinisi<x>_X--$
+2	sebenarnya	sebenarnya	ADV	D--	_	3	advmod	_	Morf=^sebenarnya<d>_D--$
+3	merupakan	merupakan	VERB	O--	_	0	root	_	Morf=^merupakan<o>_O--$
+4	nama	nama	NOUN	NSD	Number=Sing	3	obj	_	Morf=^nama<n>_NSD$
+5	layar	layar	NOUN	NSD	Number=Sing	4	compound	_	SpaceAfter=No|Morf=^layar<n>_NSD$
+6	.	.	PUNCT	Z--	_	3	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -57,14 +57,14 @@ The following 42 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj	color:blue
-1	Liburan	libur	NOUN	NSD	Number=Sing	4	nsubj	_	MorphInd=^libur<n>+an_NSD$
-2	yang	yang	PRON	S--	PronType=Rel	3	nsubj	_	MorphInd=^yang<s>_S--$
-3	indah	indah	ADJ	ASP	_	1	acl:relcl	_	MorphInd=^indah<a>_ASP$
-4	mendadak	mendadak	VERB	ASP	_	0	root	_	MorphInd=^mendadak<a>_ASP$
-5	menjadi	jadi	VERB	VSA	Mood=Ind|Voice=Act	4	xcomp	_	MorphInd=^meN+jadi<a>_VSA$
-6	penuh	penuh	ADJ	ASP	_	5	obj	_	MorphInd=^penuh<a>_ASP$
-7	darah	darah	NOUN	NSD	Number=Sing	6	compound	_	SpaceAfter=No|MorphInd=^darah<n>_NSD$
-8	.	.	PUNCT	Z--	_	4	punct	_	MorphInd=^.<z>_Z--$
+1	Liburan	libur	NOUN	NSD	Number=Sing	4	nsubj	_	Morf=^libur<n>+an_NSD$
+2	yang	yang	PRON	S--	PronType=Rel	3	nsubj	_	Morf=^yang<s>_S--$
+3	indah	indah	ADJ	ASP	_	1	acl:relcl	_	Morf=^indah<a>_ASP$
+4	mendadak	mendadak	VERB	ASP	_	0	root	_	Morf=^mendadak<a>_ASP$
+5	menjadi	jadi	VERB	VSA	Mood=Ind|Voice=Act	4	xcomp	_	Morf=^meN+jadi<a>_VSA$
+6	penuh	penuh	ADJ	ASP	_	5	obj	_	Morf=^penuh<a>_ASP$
+7	darah	darah	NOUN	NSD	Number=Sing	6	compound	_	SpaceAfter=No|Morf=^darah<n>_NSD$
+8	.	.	PUNCT	Z--	_	4	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 

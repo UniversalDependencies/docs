@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-42 nodes (0%) are attached to their parents as `dep`.
+41 nodes (0%) are attached to their parents as `dep`.
 
-25 instances of `dep` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.02380952380952.
+24 instances of `dep` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.07317073170732.
 
-The following 13 pairs of parts of speech are connected with `dep`: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (12; 29% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (7; 17% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (7; 17% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 5% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 5% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 2% instances).
+The following 13 pairs of parts of speech are connected with `dep`: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (12; 29% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (7; 17% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (6; 15% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 5% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 5% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -59,29 +59,33 @@ The following 13 pairs of parts of speech are connected with `dep`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 dep	color:blue
-1	Файлы	файл	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj:pass	_	_
-2	генерируемые	генерировать	VERB	VBNL	Animacy=Inan|Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	1	acl	_	_
-3	при	при	ADP	IN	_	4	case	_	_
-4	использовании	использование	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	_	_
-5	``	``	PUNCT	``	_	7	punct	_	SpaceAfter=No
-6	тестового	тестовый	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
-7	режима	режим	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
-8	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	7	punct	_	_
-9	сохраняются	сохраняться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
-10	в	в	ADP	IN	_	12	case	_	_
-11	/	/	SYM	SYM	_	12	dep	_	_
-12	var	var	X	FW	Foreign=Yes	9	obl	_	_
-13	/	/	SYM	SYM	_	12	goeswith	_	_
-14	log	log	X	FW	Foreign=Yes	12	goeswith	_	_
-15	/	/	SYM	SYM	_	12	goeswith	_	_
-16	zypper.	zypper.	X	FW	Foreign=Yes	12	goeswith	_	_
-17	solverTestCase	solverTestCase	X	FW	Foreign=Yes	12	goeswith	_	SpaceAfter=No
-18	.	.	PUNCT	.	_	9	punct	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 19 dep	color:blue
+1	Мейе	Мейе	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	полагал	полагать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	13	punct	_	_
+4	что	что	SCONJ	IN	_	13	mark	_	_
+5	при	при	ADP	IN	_	6	case	_	_
+6	монофтонгизации	монофтонгизация	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	_
+7	дифтонги	дифтонг	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
+8	*	*	SYM	SYM	_	9	dep	_	_
+9	oɪ̯	oɪ̯	X	FW	Foreign=Yes	7	appos	_	_
+10	и	и	CCONJ	CC	_	12	cc	_	_
+11	*	*	SYM	SYM	_	12	dep	_	_
+12	eṷ	eṷ	X	FW	Foreign=Yes	9	conj	_	_
+13	прошли	пройти	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+14	через	через	ADP	IN	_	15	case	_	_
+15	стадии	стадия	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	obl	_	_
+16	*	*	SYM	SYM	_	17	dep	_	_
+17	eɪ̯	eɪ̯	X	FW	Foreign=Yes	15	appos	_	_
+18	и	и	CCONJ	CC	_	20	cc	_	_
+19	*	*	SYM	SYM	_	20	dep	_	_
+20	joṷ	joṷ	X	FW	Foreign=Yes	17	conj	_	_
+21	соответственно	соответственно	ADV	RB	Degree=Pos	13	advmod	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

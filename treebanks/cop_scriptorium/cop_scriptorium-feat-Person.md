@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-8523 tokens (16%) have a non-empty value of `Person`.
+8522 tokens (16%) have a non-empty value of `Person`.
 102 types (4%) occur at least once with a non-empty value of `Person`.
 57 lemmas (2%) occur at least once with a non-empty value of `Person`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (7330; 14% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1193; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (7329; 14% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1193; 2% instances).
 
 ### `PRON`
 
-7330 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (86% of all `PRON` tokens) have a non-empty value of `Person`.
+7329 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (86% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7330; 100%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7330; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4952; 68%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7329; 100%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7329; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4951; 68%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1260; 17% of non-empty `Person`): ⲓ, ⲛ, ϯ, ⲧⲛ, ⲁⲛⲟⲕ, ⲧ, ⲧⲁ, ⲁⲛⲅ, ⲁⲛⲟⲛ, ⲁ
 * `2` (1197; 16% of non-empty `Person`): ⲕ, ⲧⲉⲧⲛ, ⲧⲛ, ⲅ, ⲧⲏⲩⲧⲛ, ⲉ, ⲛⲧⲱⲧⲛ, ⲧⲉ, ⲛⲧⲟⲕ, ⲉⲕϣⲁⲛ
-* `3` (4873; 66% of non-empty `Person`): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲥⲉ, ⲛⲧⲟϥ, ⲉⲩⲉ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲉϥϣⲁⲛ
-* `EMPTY` (1181): ⲡⲉ, ⲟⲩ, ⲛⲓⲙ, ϥ, ⲧⲉ, ⲡ, ⲛⲉ, ⲕ, ⲛ, ⲥ
+* `3` (4872; 66% of non-empty `Person`): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲥⲉ, ⲛⲧⲟϥ, ⲉⲩⲉ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲉϥϣⲁⲛ
+* `EMPTY` (1182): ⲡⲉ, ⲟⲩ, ⲛⲓⲙ, ϥ, ⲧⲉ, ⲡ, ⲛⲉ, ⲕ, ⲛ, ⲥ
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (43) occur only with one value of `Person`.
 

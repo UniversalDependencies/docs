@@ -90,7 +90,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 * `2` (4; 67% of non-empty `Person`): <em>[, {, ||, }</em>
 * `3` (2; 33% of non-empty `Person`): <em>>+, de</em>
-* `EMPTY` (40225): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40224): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ### `PART`
 

@@ -41,7 +41,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 8	fgColor:white
 # visual-style 8 9 flat:foreign	color:blue
 1	Hyvin	hyvin	ADV	Adv	_	2	advmod	2:advmod	_
-2	nukuttujen	nukkua	VERB	V	Case=Gen|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	_
+2	nukuttujen	nukkua	VERB	V	Case=Gen|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	_
 3	yöunien	yö#uni	NOUN	N	Case=Gen|Number=Plur	6	obl	6:obl	_
 4	jälkeen	jälkeen	ADP	Adp	AdpType=Post	3	case	3:case	_
 5	olisi	olla	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	cop	6:cop	_

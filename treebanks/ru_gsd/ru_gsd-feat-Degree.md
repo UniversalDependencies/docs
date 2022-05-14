@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ru_gsd-pos-ADJ.html
 
 ### `ADJ`
 
-12211 <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
+12211 <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9501; 78%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (36; 0% of non-empty `Degree`): <em>старше, выше, лучше, мельче, меньше, ниже, умнее, Труднее, агрессивнее, быстрее</em>
 * `Pos` (12158; 100% of non-empty `Degree`): <em>второй, 2008, 2010, других, 2004, первый, 2012, 1, 2006, 2011</em>
 * `Sup` (17; 0% of non-empty `Degree`): <em>лучшую, крупнейший, лучшее, Высший, ближайшую, высшую, лучшему, лучшие, лучший, наибольшее</em>
-* `EMPTY` (61): <em>1-й, 1990-х, 1930-х, 1980-е, 28-го, 3-й, X, активных, 1-м, 10-очковым</em>
+* `EMPTY` (62): <em>1-й, 1990-х, 1930-х, 1980-е, 28-го, 3-й, X, активных, 1-м, 10-очковым</em>
 
 <table>
   <tr><th>Paradigm <i>лучший</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (254; 13% of non-empty `Degree`): <em>более, менее, позже, больше, позднее, ранее, далее, чаще, раньше, выше</em>
 * `Pos` (1731; 86% of non-empty `Degree`): <em>так, уже, ещё, вместе, затем, впервые, здесь, очень, иногда, например</em>
 * `Sup` (28; 1% of non-empty `Degree`): <em>наиболее</em>
-* `EMPTY` (254): <em>где, как, когда, куда, д, откуда, эйәһе, 人, Кэртэ, М</em>
+* `EMPTY` (252): <em>где, как, когда, куда, д, откуда, эйәһе, 人, Кэртэ, М</em>
 
 <table>
   <tr><th>Paradigm <i>позже</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>

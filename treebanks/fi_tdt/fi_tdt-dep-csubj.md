@@ -12,9 +12,9 @@ There are 1 language-specific subtypes of `csubj`: <tt><a href="fi_tdt-dep-csubj
 54 nodes (0%) are attached to their parents as `csubj`.
 
 52 instances of `csubj` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.31481481481481.
+Average distance between parent and child is 5.33333333333333.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (43; 80% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (43; 80% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -71,7 +71,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 7	ihan	ihan	ADV	Adv	_	8	advmod	8:advmod	_
 8	valmiitakin	valmis	ADJ	A	Case=Par|Clitic=Kin|Degree=Pos|Number=Plur	11	amod	11:amod	_
 9	Arduinoon	Arduino	PROPN	N	Case=Ill|Number=Sing	10	obl	10:obl	_
-10	pohjautuvia	pohjautua	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	11	acl	11:acl	_
+10	pohjautuvia	pohjautua	VERB	V	Case=Par|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	11	acl	11:acl	_
 11	time-lapse	time-lapse	X	Foreign	Foreign=Yes	6	nsubj	6:nsubj	_
 12	dollyja	dolly	NOUN	Foreign	Case=Par|Number=Plur	11	flat:foreign	11:flat:foreign	_
 13	ajastimilla	ajastin	NOUN	N	Case=Ade|Number=Plur	11	nmod	11:nmod	SpaceAfter=No

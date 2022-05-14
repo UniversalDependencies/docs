@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-PUD: POS Tags: `X`
 
-There are 152 `X` lemmas (3%), 152 `X` types (2%) and 180 `X` tokens (1%).
+There are 150 `X` lemmas (3%), 152 `X` types (2%) and 180 `X` tokens (1%).
 Out of 15 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 14 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>of, the, a, City, El, Ground, My, Punta, Really, You</em>
+The 10 most frequent `X` lemmas: <em>of, the, a, _, City, El, Ground, My, Punta, Really</em>
 
 The 10 most frequent `X` types:  <em>of, the, a, Association, City, El, Ground, My, Punta, Really</em>
 
@@ -54,13 +54,13 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_pud-pos-AUX.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.297529).
+The form / lemma ratio of `X` is 1.013333 (the average of all parts of speech is 1.298345).
 
-The 1st highest number of forms (1) was observed with the lemma “'Ya”: <em>'Ya</em>.
+The 1st highest number of forms (3) was observed with the lemma “_”: <em>Or, hui, ème</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “America”: <em>America</em>.
+The 2nd highest number of forms (1) was observed with the lemma “'Ya”: <em>'Ya</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Andrew”: <em>Andrew</em>.
+The 3rd highest number of forms (1) was observed with the lemma “America”: <em>America</em>.
 
 `X` occurs with 3 features: <tt><a href="fr_pud-feat-Foreign.html">Foreign</a></tt> (19; 11% instances), <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (10; 6% instances), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (1; 1% instances)
 

@@ -8,27 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-4375 nodes (5%) are attached to their parents as `obj`.
+5728 nodes (5%) are attached to their parents as `obj`.
 
-2693 instances of `obj` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.43108571428571.
+3496 instances of `obj` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.44692737430168.
 
-The following 19 pairs of parts of speech are connected with `obj`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3580; 82% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (576; 13% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (128; 3% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (25; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `obj`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4725; 82% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (718; 13% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (157; 3% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (29; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (23; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 obj	color:blue
-1	Ան	ան	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=An|LTranslit=an
-2	պատմեց	պատմել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=patmec’|LTranslit=patmel
-3	քեզի	դուն	PRON	_	Animacy=Hum|Case=Dat|Number=Sing|Person=2|PronType=Prs	2	iobj	_	Translit=k’ezi|LTranslit=down
-4	պատմութիւնը	պատմութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	obj	_	Translit=patmowt’iwnë|LTranslit=patmowt’iwn
-5	քու	դուն	PRON	_	Animacy=Hum|Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod:npmod	_	Translit=k’ow|LTranslit=down
-6	մասիդ	մասին	ADP	_	AdpType=Post|Number[psor]=Sing|Person[psor]=2	5	case	_	Translit=masid|LTranslit=masin|SpaceAfter=No
-7	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 obj	color:blue
+1	Ելեկտրականութիւն	ելեկտրականութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	7	obj	_	Translit=Elektrakanowt’iwn|LTranslit=elektrakanowt’iwn
+2	օրական	օրական	ADV	_	_	3	advmod	_	Translit=òrakan|LTranslit=òrakan
+3	երկու	երկու	NUM	_	NumForm=Word|NumType=Card	5	nummod	_	Translit=erkow|LTranslit=erkow
+4	երեք	երեք	NUM	_	NumForm=Word|NumType=Card	3	flat:range	_	Translit=erek’|LTranslit=erek’
+5	ժամ	ժամ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	7	obl	_	Translit=žam|LTranslit=žam
+6	հազիւ	հազիւ	ADV	_	_	7	advmod	_	Translit=haziw|LTranslit=haziw
+7	ունինք	ունիմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ownink’|LTranslit=ownim|SpaceAfter=No
+8	:	:	PUNCT	_	Foreign=Yes	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -52,17 +53,23 @@ The following 19 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 obj	color:blue
-1	–	–	PUNCT	_	_	5	punct	_	Translit=–|LTranslit=–
-2	Մարիան	Մարիա	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	5	obj	_	Translit=Marian|LTranslit=Maria
-3	՞	՞	PUNCT	_	_	2	punct	_	Translit=?|LTranslit=?
-4	չէք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Polite=Form|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=čēk’|LTranslit=em
-5	յիշեր	յիշել	VERB	_	Aspect=Imp|Connegative=Yes|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=yišer|LTranslit=yišel|SpaceAfter=No
-6	:	:	PUNCT	_	Foreign=Yes	5	punct	_	Translit=.|LTranslit=.
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 11 obj	color:blue
+1	—	—	PUNCT	_	_	3	punct	_	Translit=—|LTranslit=—
+2	Կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	3	aux	_	Translit=K,|LTranslit=kë|SpaceAfter=No
+3	աղաչեմ	աղաչել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=aġačem|LTranslit=aġačel
+4	՛	՛	PUNCT	_	_	3	punct	_	Translit=՛|LTranslit=՛
+5	…	…	PUNCT	_	_	6	punct	_	Translit=…|LTranslit=…
+6	ըսաւ	ըսել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	Translit=ësaw|LTranslit=ësel|SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
+8	ապուշ	ապուշ	ADJ	_	_	9	compound:lvc	_	Translit=apowš|LTranslit=apowš
+9	կրթած	կրթել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	11	acl	_	Translit=krt’aç|LTranslit=krt’el
+10	Տիկին	տիկին	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	11	nmod	_	Translit=Tikin|LTranslit=tikin
+11	Վիլանիի	Վիլանի	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	6	obj	_	Translit=Vilanii|LTranslit=Vilani|SpaceAfter=No
+12	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

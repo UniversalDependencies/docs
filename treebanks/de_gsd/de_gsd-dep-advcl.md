@@ -34,7 +34,7 @@ The following 33 pairs of parts of speech are connected with `advcl`: <tt><a hre
 10	hier	hier	ADV	ADV	_	13	advmod	_	_
 11	sehr	sehr	ADV	ADV	_	12	advmod	_	_
 12	gut	gut	ADV	ADJD	_	13	advmod	_	_
-13	gefällt	fällen	VERB	VVFIN	VerbForm=Part	3	advcl	_	SpaceAfter=No
+13	gefällt	fällen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
 14	!	!	PUNCT	$.	_	3	punct	_	_
 
 ~~~
@@ -55,7 +55,7 @@ The following 33 pairs of parts of speech are connected with `advcl`: <tt><a hre
 7	dann	dann	ADV	ADV	_	10	advmod	_	_
 8	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	der	der	PRON	PDS	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	_
-10	super	super	ADJ	ADJD	_	0	root	_	_
+10	super	super	ADJ	ADJD	Degree=Pos	0	root	_	_
 
 ~~~
 

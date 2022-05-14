@@ -59,11 +59,11 @@ The 2nd highest number of forms (6) was observed with the lemma “dies”: <em>
 
 The 3rd highest number of forms (6) was observed with the lemma “ein”: <em>ein, eine, einem, einen, einer, eines</em>.
 
-`DET` occurs with 6 features: <tt><a href="de_pud-feat-Number.html">Number</a></tt> (2844; 100% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (2843; 100% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (2842; 100% instances), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt> (2840; 100% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (2784; 98% instances), <tt><a href="de_pud-feat-PronType.html">PronType</a></tt> (3; 0% instances)
+`DET` occurs with 6 features: <tt><a href="de_pud-feat-Number.html">Number</a></tt> (2844; 100% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (2843; 100% instances), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt> (2840; 100% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (2840; 100% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (2784; 98% instances), <tt><a href="de_pud-feat-PronType.html">PronType</a></tt> (5; 0% instances)
 
 `DET` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Art`
 
-`DET` occurs with 71 feature combinations.
+`DET` occurs with 73 feature combinations.
 The most frequent feature combination is `Case=Dat|Definite=Def|Gender=Masc|Number=Sing|Person=3` (248 tokens).
 Examples: <em>dem, diesem, Le, Los</em>
 

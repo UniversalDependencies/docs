@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_atis-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.020000 (the average of all parts of speech is 1.735126).
+The form / lemma ratio of `NUM` is 1.020000 (the average of all parts of speech is 1.748764).
 
 The 1st highest number of forms (2) was observed with the lemma “28”: <em>28, 28.</em>.
 

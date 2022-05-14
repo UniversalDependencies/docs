@@ -11,7 +11,7 @@ It occurs with 1 different values: `Short`.
 
 74402 tokens (2%) have a non-empty value of `Variant`.
 6107 types (3%) occur at least once with a non-empty value of `Variant`.
-5354 lemmas (8%) occur at least once with a non-empty value of `Variant`.
+5353 lemmas (8%) occur at least once with a non-empty value of `Variant`.
 The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (74402; 2% instances).
 
 ### `ADJ`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 * `Short` (74402; 100% of non-empty `Variant`): <em>möglich, gut, weltweit, deutlich, knapp, künftig, bekannt, schnell, offensichtlich, gleichzeitig</em>
 
-`Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (5354) occur only with one value of `Variant`.
+`Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (5353) occur only with one value of `Variant`.
 
 ## Relations with Agreement in `Variant`
 

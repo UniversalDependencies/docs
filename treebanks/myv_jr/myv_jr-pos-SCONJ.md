@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: POS Tags: `SCONJ`
 
-There are 13 `SCONJ` lemmas (0%), 13 `SCONJ` types (0%) and 62 `SCONJ` tokens (0%).
+There are 13 `SCONJ` lemmas (0%), 13 `SCONJ` types (0%) and 63 `SCONJ` tokens (0%).
 Out of 16 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 14 in number of types and 15 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>зярдо, бути, теке, кода, што, штобу, куш, прок, хоть, Коть</em>
+The 10 most frequent `SCONJ` lemmas: <em>зярдо, бути, теке, што, кода, штобу, куш, прок, хоть, Коть</em>
 
-The 10 most frequent `SCONJ` types:  <em>зярдо, бути, теке, кода, што, штобу, куш, прок, хоть, Коли</em>
+The 10 most frequent `SCONJ` types:  <em>зярдо, бути, теке, што, кода, штобу, куш, прок, хоть, Коли</em>
 
-The 10 most frequent ambiguous lemmas: <em>зярдо</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 18, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 16), <em>бути</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 12), <em>теке</em> (<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> 8, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 7, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="myv_jr-pos-DET.html">DET</a></tt> 1), <em>кода</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 69, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 5), <em>куш</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 2), <em>прок</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 35, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 12, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> 1, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1), <em>хоть</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 2, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 2), <em>буто</em> (<tt><a href="myv_jr-pos-PART.html">PART</a></tt> 7, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>зярдо</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 18, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 16), <em>бути</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 12), <em>теке</em> (<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> 8, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 7, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="myv_jr-pos-DET.html">DET</a></tt> 1), <em>кода</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 69, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 5), <em>куш</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 2), <em>прок</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 35, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 12, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> 1, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1), <em>хоть</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 2, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 2), <em>буто</em> (<tt><a href="myv_jr-pos-PART.html">PART</a></tt> 8, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>зярдо</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 11), <em>бути</em> (<tt><a href="myv_jr-pos-PART.html">PART</a></tt> 12, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 6), <em>теке</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 6, <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> 6, <tt><a href="myv_jr-pos-DET.html">DET</a></tt> 1), <em>кода</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 52, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 5), <em>куш</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 2), <em>прок</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 32, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 10, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> 1, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1), <em>хоть</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1), <em>буто</em> (<tt><a href="myv_jr-pos-PART.html">PART</a></tt> 5, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>зярдо</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 11), <em>бути</em> (<tt><a href="myv_jr-pos-PART.html">PART</a></tt> 12, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 6), <em>теке</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 6, <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> 6, <tt><a href="myv_jr-pos-DET.html">DET</a></tt> 1), <em>кода</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 52, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 5), <em>куш</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 2), <em>прок</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 32, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 10, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> 1, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1), <em>хоть</em> (<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1), <em>буто</em> (<tt><a href="myv_jr-pos-PART.html">PART</a></tt> 6, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>зярдо</em>
@@ -45,13 +45,13 @@ The 10 most frequent ambiguous types:  <em>зярдо</em> (<tt><a href="myv_jr-
   * <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Вадря , бути васень мирдесь , <b>хоть</b> меремс , пек чавовлимим ансяк , оймем аволизе сае .</em>
   * <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1: <em>Федоров <b>хоть</b> весть маняволь .</em>
 * <em>буто</em>
-  * <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 5: <em>Кепететсь , <b>буто</b> , варма и салызе монь кудонть прянзо .</em>
+  * <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 6: <em>Кепететсь , <b>буто</b> , варма и салызе монь кудонть прянзо .</em>
   * <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1: <em>Эрьва педявтома тарканть валаськавтылизе ушо ёндояк , потмо ёндояк ды истя колсто , неявсь , <b>буто</b> чакшось касы аволь башка кирьксстэ , но допрок теезь сёвонень вейке васоньгоморсто .</em>
   * <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Ожанзо кенере пакарь витьс илештязь ды кедензэ кепедезь , <b>буто</b> пленс прянзо максыцянь .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.044845).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.042397).
 
 The 1st highest number of forms (1) was observed with the lemma “Коть”: <em>Коть</em>.
 
@@ -64,17 +64,17 @@ The 3rd highest number of forms (1) was observed with the lemma “буто”: 
 `SCONJ` occurs with 8 feature-value pairs: `AdvType=Man`, `AdvType=Tim`, `Case=Nom`, `Definite=Ind`, `Mood=Cnd`, `Number=Sing`, `PronType=Dem`, `PronType=Int`
 
 `SCONJ` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (33 tokens).
-Examples: <em>теке, бути, што, штобу, куш, прок, хоть, Коли, Коть, буто</em>
+The most frequent feature combination is `_` (34 tokens).
+Examples: <em>теке, што, бути, штобу, куш, прок, хоть, Коли, Коть, буто</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="myv_jr-dep-mark.html">mark</a></tt> (59; 95% instances), <tt><a href="myv_jr-dep-discourse.html">discourse</a></tt> (1; 2% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (1; 2% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="myv_jr-dep-mark.html">mark</a></tt> (60; 95% instances), <tt><a href="myv_jr-dep-discourse.html">discourse</a></tt> (1; 2% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (1; 2% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (48; 77% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 10% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 5% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 2% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (48; 76% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 11% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 5% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 2% instances)
 
-59 (95%) `SCONJ` nodes are leaves.
+60 (95%) `SCONJ` nodes are leaves.
 
 1 (2%) `SCONJ` nodes have one child.
 

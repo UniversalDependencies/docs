@@ -21,7 +21,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PA
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (6496; 100% of non-empty `Polarity`): <em>не, ни, нет, нет-нет, Не-а</em>
-* `EMPTY` (43135): <em>не, и, же, только, даже, вот, ли, именно, лишь, просто</em>
+* `EMPTY` (43184): <em>не, и, же, только, даже, вот, ли, именно, лишь, просто</em>
 
 ### `VERB`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (398; 100% of non-empty `Polarity`): <em>нет, не, нету, нечем</em>
-* `EMPTY` (172491): <em>может, есть, было, сказал, могут, нет, стал, является, быть, говорит</em>
+* `EMPTY` (172428): <em>может, есть, было, сказал, могут, нет, стал, является, быть, говорит</em>
 
 ### `ADV`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (256; 100% of non-empty `Polarity`): <em>несмотря, невзирая</em>
-* `EMPTY` (75643): <em>так, уже, можно, еще, как, очень, более, где, однако, там</em>
+* `EMPTY` (76329): <em>так, уже, можно, еще, как, более, очень, где, однако, там</em>
 
 ### `CCONJ`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (240; 100% of non-empty `Polarity`): <em>ни</em>
-* `EMPTY` (54808): <em>и, а, но, или, ни, да, либо, причем, зато, только</em>
+* `EMPTY` (54804): <em>и, а, но, или, да, ни, либо, причем, зато, только</em>
 
 ## Relations with Agreement in `Polarity`
 

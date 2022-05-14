@@ -22,14 +22,14 @@ The following 21 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod	color:blue
-1	ni	ni	ADV	Df	Polarity=Neg	2	advmod	_	ref=MATT_5.17
-2	hugjaiþ	hugjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.17
-3	ei	ei	SCONJ	G-	_	4	mark	_	ref=MATT_5.17
-4	qemjau	qiman	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=MATT_5.17
-5	gatairan	ga-tairan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	ref=MATT_5.17
-6	witoþ	witoþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	ref=MATT_5.17
-7	aiþþau	aiþþau	CCONJ	C-	_	6	cc	_	ref=MATT_5.17
-8	praufetuns	praufetes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	ref=MATT_5.17
+1	ni	ni	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_5.17
+2	hugjaiþ	hugjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.17
+3	ei	ei	SCONJ	G-	_	4	mark	_	Ref=MATT_5.17
+4	qemjau	qiman	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	Ref=MATT_5.17
+5	gatairan	ga-tairan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	Ref=MATT_5.17
+6	witoþ	witoþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=MATT_5.17
+7	aiþþau	aiþþau	CCONJ	C-	_	6	cc	_	Ref=MATT_5.17
+8	praufetuns	praufetes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	Ref=MATT_5.17
 
 ~~~
 
@@ -40,12 +40,12 @@ The following 21 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod	color:blue
-1	niu	niu	ADV	Du	PronType=Int	6	advmod	_	ref=MATT_5.47
-2	jah	jah	ADV	Df	_	3	advmod	_	ref=MATT_5.47
-3	motarjos	motareis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=MATT_5.47
-4	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	5	det	_	ref=MATT_5.47
-5	samo	sama	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	obj	_	ref=MATT_5.47
-6	taujand	taujan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.47
+1	niu	niu	ADV	Du	PronType=Int	6	advmod	_	Ref=MATT_5.47
+2	jah	jah	ADV	Df	_	3	advmod	_	Ref=MATT_5.47
+3	motarjos	motareis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Ref=MATT_5.47
+4	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	5	det	_	Ref=MATT_5.47
+5	samo	sama	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	obj	_	Ref=MATT_5.47
+6	taujand	taujan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.47
 
 ~~~
 
@@ -56,13 +56,13 @@ The following 21 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod	color:blue
-1	niu	niu	ADV	Du	PronType=Int	7	advmod	_	ref=MATT_5.46
-2	jah	jah	ADV	Df	_	3	advmod	_	ref=MATT_5.46
-3	þai	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=MATT_5.46
-4	þiudo	þiuda	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	ref=MATT_5.46
-5	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	6	det	_	ref=MATT_5.46
-6	samo	sama	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	7	obj	_	ref=MATT_5.46
-7	taujand	taujan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.46
+1	niu	niu	ADV	Du	PronType=Int	7	advmod	_	Ref=MATT_5.46
+2	jah	jah	ADV	Df	_	3	advmod	_	Ref=MATT_5.46
+3	þai	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	Ref=MATT_5.46
+4	þiudo	þiuda	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	Ref=MATT_5.46
+5	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	6	det	_	Ref=MATT_5.46
+6	samo	sama	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	7	obj	_	Ref=MATT_5.46
+7	taujand	taujan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.46
 
 ~~~
 

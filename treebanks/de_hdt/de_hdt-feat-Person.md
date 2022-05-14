@@ -138,7 +138,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 * `3` (52978; 100% of non-empty `Person`): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
 * `EMPTY` (735): <em>x, on, D2, Call, G4, ×, de, 9x, ad, and</em>
 
-`Person` seems to be **lexical feature** of `X`. 100% lemmas (10438) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `X`. 100% lemmas (10437) occur only with one value of `Person`.
 
 ### `DET`
 

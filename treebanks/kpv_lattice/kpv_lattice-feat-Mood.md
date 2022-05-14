@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (19; 2% of non-empty `Mood`): <em>бӧрйы, Вайӧ, Кутчысь, Кывзы, Мун, Мыччыв, Юав, видзӧдлы, видзӧдтӧ, виччысь</em>
 * `Ind` (765; 98% of non-empty `Mood`): <em>воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</em>
-* `EMPTY` (566): <em>идралӧм, лоны, шуны, идралӧмын, мунны, вӧчны, пов, виччысьны, волыны, восьлавны</em>
+* `EMPTY` (567): <em>идралӧм, лоны, шуны, идралӧмын, мунны, вӧчны, пов, виччысьны, волыны, восьлавны</em>
 
 <table>
   <tr><th>Paradigm <i>мунны</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-257 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `Mood`.
+257 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Mood`.
 
 The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (224; 87%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (197; 77%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (179; 70%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (142; 55%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (134; 52%).
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Imp` (4; 2% of non-empty `Mood`): <em>Эн, вай</em>
 * `Ind` (253; 98% of non-empty `Mood`): <em>эз, вӧлі, оз, колӧ, абу, он, эг, ог, вӧліны, кутіс</em>
-* `EMPTY` (50): <em>вермы, абу, кут, не, лоны, вӧв, вӧвны, позь, вермыны, должен</em>
+* `EMPTY` (51): <em>вермы, абу, кут, не, лоны, вӧв, вӧвны, позь, вермыны, должен</em>
 
 <table>
   <tr><th>Paradigm <i>оз</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>

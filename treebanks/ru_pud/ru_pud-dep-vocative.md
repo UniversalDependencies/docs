@@ -70,7 +70,7 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 25	“	“	PUNCT	``	_	23	punct	_	SpaceAfter=No
 26	»	»	PUNCT	'	_	9	punct	_	SpaceAfter=No
 27	,	,	PUNCT	,	_	29	punct	_	_
-28	—	—	PUNCT	-	_	29	punct	_	OrigForm=--
+28	—	—	PUNCT	-	_	29	punct	_	_
 29	говорит	говорить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	_
 30	Пэлл	Пэлл	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	9	punct	_	_

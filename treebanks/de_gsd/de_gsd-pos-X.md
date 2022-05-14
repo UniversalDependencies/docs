@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-GSD: POS Tags: `X`
 
-There are 165 `X` lemmas (0%), 167 `X` types (0%) and 341 `X` tokens (0%).
+There are 164 `X` lemmas (0%), 167 `X` types (0%) and 341 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 8 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>'s, b., u.a., %, etc., werden, z.B., a, z., †</em>
@@ -15,14 +15,14 @@ The 10 most frequent `X` types:  <em>'s, B., u.a., %, etc., z.B., a, z., †, u<
 
 The 10 most frequent ambiguous lemmas: <em>'s</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 28, <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> 2), <em>u.a.</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 12, <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> 8, <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> 1), <em>%</em> (<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> 92, <tt><a href="de_gsd-pos-X.html">X</a></tt> 10, <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> 4), <em>etc.</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 9, <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> 2), <em>werden</em> (<tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> 3247, <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> 380, <tt><a href="de_gsd-pos-X.html">X</a></tt> 9, <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>z.B.</em> (<tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> 15, <tt><a href="de_gsd-pos-X.html">X</a></tt> 9), <em>a</em> (<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="de_gsd-pos-X.html">X</a></tt> 4, <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> 2), <em>z.</em> (<tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> 12, <tt><a href="de_gsd-pos-X.html">X</a></tt> 8), <em>†</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 8, <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> 1), <em>u</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 5, <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>'s</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 30, <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> 8, <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="de_gsd-pos-PART.html">PART</a></tt> 1), <em>B.</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 13, <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> 1), <em>u.a.</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 12, <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> 8, <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> 1), <em>%</em> (<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> 92, <tt><a href="de_gsd-pos-X.html">X</a></tt> 10, <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> 4), <em>etc.</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 9, <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> 2), <em>z.B.</em> (<tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> 15, <tt><a href="de_gsd-pos-X.html">X</a></tt> 9), <em>a</em> (<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="de_gsd-pos-X.html">X</a></tt> 4, <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> 2), <em>z.</em> (<tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> 12, <tt><a href="de_gsd-pos-X.html">X</a></tt> 8), <em>†</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 8, <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> 1), <em>u</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 5, <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>'s</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 30, <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> 7, <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="de_gsd-pos-DET.html">DET</a></tt> 2), <em>B.</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 13, <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> 1), <em>u.a.</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 12, <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> 8, <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> 1), <em>%</em> (<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> 92, <tt><a href="de_gsd-pos-X.html">X</a></tt> 10, <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> 4), <em>etc.</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 9, <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> 2), <em>z.B.</em> (<tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> 15, <tt><a href="de_gsd-pos-X.html">X</a></tt> 9), <em>a</em> (<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="de_gsd-pos-X.html">X</a></tt> 4, <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> 2), <em>z.</em> (<tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> 12, <tt><a href="de_gsd-pos-X.html">X</a></tt> 8), <em>†</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 8, <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> 1), <em>u</em> (<tt><a href="de_gsd-pos-X.html">X</a></tt> 5, <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> 2)
 
 
 * <em>'s</em>
   * <tt><a href="de_gsd-pos-X.html">X</a></tt> 30: <em>Nebst den neuen TV <b>'s</b> wird die Fassade total renoviert .</em>
-  * <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> 8: <em>Ich fand <b>'s</b> gut .</em>
+  * <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> 7: <em>Ich fand <b>'s</b> gut .</em>
   * <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> 4: <em>Er war mehrfacher Ehrendoktor ( McGill University , Cambridge University , Queen <b>'s</b> University in Kingston ) .</em>
-  * <tt><a href="de_gsd-pos-PART.html">PART</a></tt> 1: <em>Zu dem Frühstück an dem Sonntag war <b>'s</b> ok , aber nicht sooo besonders .</em>
+  * <tt><a href="de_gsd-pos-DET.html">DET</a></tt> 2: <em>Das gilt vielleicht für <b>'s</b> Zwiebelmarkt - Wochenende aber den Rest des Jahres ?</em>
 * <em>B.</em>
   * <tt><a href="de_gsd-pos-X.html">X</a></tt> 13: <em><b>B.</b> die Gahanbahars begangen .</em>
   * <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> 12: <em>Zudem sind Impulsantworten starr und nicht editierbar ( z. <b>B.</b> Position in dem Raum ) .</em>
@@ -58,20 +58,20 @@ The 10 most frequent ambiguous types:  <em>'s</em> (<tt><a href="de_gsd-pos-X.ht
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.012121 (the average of all parts of speech is 1.185816).
+The form / lemma ratio of `X` is 1.018293 (the average of all parts of speech is 1.187208).
 
 The 1st highest number of forms (3) was observed with the lemma “werden”: <em>wird, wurde, wurden</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “d”: <em>d, die</em>.
+The 2nd highest number of forms (2) was observed with the lemma “_”: <em>-, den</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “#”: <em>#</em>.
+The 3rd highest number of forms (2) was observed with the lemma “d”: <em>d, die</em>.
 
-`X` occurs with 13 features: <tt><a href="de_gsd-feat-Number.html">Number</a></tt> (120; 35% instances), <tt><a href="de_gsd-feat-Case.html">Case</a></tt> (103; 30% instances), <tt><a href="de_gsd-feat-Foreign.html">Foreign</a></tt> (89; 26% instances), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt> (86; 25% instances), <tt><a href="de_gsd-feat-Person.html">Person</a></tt> (20; 6% instances), <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt> (18; 5% instances), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt> (17; 5% instances), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt> (15; 4% instances), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt> (8; 2% instances), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt> (7; 2% instances), <tt><a href="de_gsd-feat-NumType.html">NumType</a></tt> (5; 1% instances), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt> (1; 0% instances), <tt><a href="de_gsd-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`X` occurs with 11 features: <tt><a href="de_gsd-feat-Number.html">Number</a></tt> (120; 35% instances), <tt><a href="de_gsd-feat-Case.html">Case</a></tt> (103; 30% instances), <tt><a href="de_gsd-feat-Foreign.html">Foreign</a></tt> (89; 26% instances), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt> (86; 25% instances), <tt><a href="de_gsd-feat-Person.html">Person</a></tt> (20; 6% instances), <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt> (18; 5% instances), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt> (17; 5% instances), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt> (15; 4% instances), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt> (7; 2% instances), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt> (6; 2% instances), <tt><a href="de_gsd-feat-NumType.html">NumType</a></tt> (5; 1% instances)
 
-`X` occurs with 25 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Ind`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `PronType=Art`, `PronType=Prs`, `PronType=Rel`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Inf`, `Voice=Pass`
+`X` occurs with 22 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `PronType=Prs`, `PronType=Rel`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `Voice=Pass`
 
-`X` occurs with 40 feature combinations.
-The most frequent feature combination is `_` (125 tokens).
+`X` occurs with 38 feature combinations.
+The most frequent feature combination is `_` (126 tokens).
 Examples: <em>u.a., etc., z.B., z., †, a, z, *, u, C</em>
 
 

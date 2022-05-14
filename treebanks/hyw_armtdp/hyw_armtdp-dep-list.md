@@ -8,84 +8,80 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `list`.
+28 nodes (0%) are attached to their parents as `list`.
 
-13 instances of `list` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.15384615384615.
+28 instances of `list` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.64285714285714.
 
-The following 4 pairs of parts of speech are connected with `list`: <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (9; 69% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 8% instances).
+The following 6 pairs of parts of speech are connected with `list`: <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (21; 75% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 list	color:blue
-1	Վառնա	Վառնա	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	0	root	_	Translit=Vaṙna|LTranslit=Vaṙna|SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,
-3	Թիւ	թիւ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	list	_	Translit=T’iw|LTranslit=t’iw
-4	33	33	NUM	_	NumForm=Digit|NumType=Card	3	flat	_	Translit=33|LTranslit=33|SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
-6	1906	1906	NUM	_	NumForm=Digit|NumType=Card	1	list	_	Translit=1906|LTranslit=1906|SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-8	Փետրուար	Փետրուար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	flat	_	Translit=P’etrowar|LTranslit=P’etrowar
-9	11	11	NUM	_	NumForm=Digit|NumType=Card	6	flat	_	Translit=11|LTranslit=11
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 list	color:blue
+1	Ա	Ա.	ADJ	_	NumForm=Armenian|NumType=Ord	5	parataxis	_	Translit=A|LTranslit=A.|SpaceAfter=No
+2	)	)	PUNCT	_	_	1	punct	_	Translit=)|LTranslit=)|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.|SpaceAfter=No
+4	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+5	Աստուծոյ	Աստուած	NOUN	_	Animacy=Hum|Case=Gen|Definite=Ind|Number=Plur|Style=Arch	0	root	_	Translit=Astowçoy|LTranslit=Astowaç
+6	եւ	եւ	CCONJ	_	_	8	cc	_	Translit=ew|LTranslit=ew
+7	Իսրայէլի	Իսրայէլ	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	8	nmod:poss	_	Translit=Israyēli|LTranslit=Israyēl
+8	ժողովուրդին	ժողովուրդ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	5	conj	_	Translit=žoġovowrdin|LTranslit=žoġovowrd
+9	միջեւ	միջեւ	ADP	_	AdpType=Post	5	case	_	Translit=miǰew|LTranslit=miǰew
+10	(	(	PUNCT	_	_	11	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
+11	Ելից	Ելից	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Pro|Number=Sing	5	parataxis	_	Translit=Elic’|LTranslit=Elic’
+12	19	19	NUM	_	NumForm=Digit|NumType=Card	11	list	_	Translit=19|LTranslit=19|SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,
+14	5	5	NUM	_	NumForm=Digit|NumType=Card	11	list	_	Translit=5|LTranslit=5|SpaceAfter=No
+15	-	-	PUNCT	_	_	16	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+16	6	6	NUM	_	NumForm=Digit|NumType=Card	14	flat:range	_	Translit=6|LTranslit=6|SpaceAfter=No
+17	)	)	PUNCT	_	_	11	punct	_	Translit=)|LTranslit=)
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 list	color:blue
-1	Վառնա	Վառնա	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	0	root	_	Translit=Vaṙna|LTranslit=Vaṙna|SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,
-3	Թիւ	թիւ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	list	_	Translit=T’iw|LTranslit=t’iw
-4	33	33	NUM	_	NumForm=Digit|NumType=Card	3	flat	_	Translit=33|LTranslit=33|SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
-6	1906	1906	NUM	_	NumForm=Digit|NumType=Card	1	list	_	Translit=1906|LTranslit=1906|SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-8	Փետրուար	Փետրուար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	flat	_	Translit=P’etrowar|LTranslit=P’etrowar
-9	11	11	NUM	_	NumForm=Digit|NumType=Card	6	flat	_	Translit=11|LTranslit=11
+# visual-style 1 8 list	color:blue
+1	Մարկ	Մարկ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	Translit=Mark|LTranslit=Mark
+2	Նշանեան	Նշանեան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	1	flat:name	_	Translit=Nšanean|LTranslit=Nšanean|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
+4	Նոր	նոր	ADJ	_	Degree=Pos	1	list	_	Translit=Nor|LTranslit=nor
+5	Եորկ	Եորկ	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	4	flat	_	Translit=Eork|LTranslit=Eork|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+7	Գոլումպիա	Գոլումպիա	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	8	nmod	_	Translit=Golowmpia|LTranslit=Golowmpia
+8	Համալսարան	համալսարան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	list	_	Translit=Hamalsaran|LTranslit=hamalsaran
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 22 list	color:blue
-1	Բոլոր	բոլոր	DET	_	PronType=Tot	2	det	_	Translit=Bolor|LTranslit=bolor
-2	տեսակի	տեսակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	Translit=tesaki|LTranslit=tesak
-3	մետիայի	մետիա	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	4	nmod:poss	_	Translit=metiayi|LTranslit=metia
-4	միջոցներուն	միջոց	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	9	nmod:poss	_	Translit=miǰoc’nerown|LTranslit=miǰoc’
-5	հայ	Հայ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	6	nmod	_	Translit=hay|LTranslit=Hay
-6	հասարակութեան	հասարակութիւն	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	7	obl	_	Translit=hasarakowt’ean|LTranslit=hasarakowt’iwn
-7	ուղղեալ	ուղղեալ	ADJ	_	_	8	amod	_	Translit=owġġeal|LTranslit=owġġeal
-8	ատելութեան	ատելութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	9	nmod:poss	_	Translit=atelowt’ean|LTranslit=atelowt’iwn
-9	ոճը	ոճ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	14	nsubj	_	Translit=oč̣ë|LTranslit=oč̣
-10	եւ	եւ	CCONJ	_	_	11	cc	_	Translit=ew|LTranslit=ew
-11	բռնութիւնը	բռնութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	9	conj	_	Translit=bṙnowt’iwnë|LTranslit=bṙnowt’iwn
-12	լուրջ	լուրջ	ADJ	_	Degree=Pos	13	amod	_	Translit=lowrǰ|LTranslit=lowrǰ
-13	անհանգստութիւն	անհանգստութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	14	obj	_	Translit=anhangstowt’iwn|LTranslit=anhangstowt’iwn
-14	պատճառած	պատճառել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=patč̣aṙaç|LTranslit=patč̣aṙel
-15	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
-16	»	»	PUNCT	_	_	14	punct	_	Translit=»|LTranslit=»
-17	(	(	PUNCT	_	_	20	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
-18	Անատոլու	Անատոլու	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	20	nmod	_	Translit=Anatolow|LTranslit=Anatolow
-19	Լրատու	լրատու	ADJ	_	_	20	amod	_	Translit=Lratow|LTranslit=lratow
-20	Գործակալութիւն	գործակալութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	14	parataxis	_	Translit=Gorçakalowt’iwn|LTranslit=gorçakalowt’iwn|SpaceAfter=No
-21	,	,	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,
-22	15	15	NUM	_	NumForm=Digit|NumType=Card	20	list	_	Translit=15|LTranslit=15
-23	Ապրիլ	Ապրիլ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	22	flat	_	Translit=April|LTranslit=April
-24	2021	2021	NUM	_	NumForm=Digit|NumType=Card	22	flat	_	Translit=2021|LTranslit=2021|SpaceAfter=No
-25	)	)	PUNCT	_	_	20	punct	_	Translit=)|LTranslit=)|SpaceAfter=No
-26	։	։	PUNCT	_	_	14	punct	_	Translit=.|LTranslit=.
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 14 list	color:blue
+1	Կարելի	կարելի	ADJ	_	_	0	root	_	Translit=Kareli|LTranslit=kareli
+2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	Translit=ē|LTranslit=em
+3	միանալ	միանալ	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	1	csubj	_	Translit=mianal|LTranslit=mianal
+4	հետեւեալ	հետեւեալ	ADJ	_	_	5	amod	_	Translit=heteweal|LTranslit=heteweal
+5	յղումով	յղում	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	3	obl	_	Translit=yġowmov|LTranslit=yġowm|SpaceAfter=No
+6	՝	՝	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,
+7	«	«	PUNCT	_	_	8	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+8	ԶՆՏՈՒԿ	Զնտուկ	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Pro|Number=Sing	13	nmod	_	Translit=ZNTOWK|LTranslit=Zntowk
+9	մանկավարժական	մանկավարժական	ADJ	_	_	10	amod	_	Translit=mankavaržakan|LTranslit=mankavaržakan
+10	աղբիւրներ	աղբիւր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	8	appos	_	Translit=aġbiwrner|LTranslit=aġbiwr
+11	արեւմտահայերէնով	արեւմտահայերէն	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Coll	10	nmod	_	Translit=arewmtahayerēnov|LTranslit=arewmtahayerēn|SpaceAfter=No
+12	»	»	PUNCT	_	_	8	punct	_	Translit=»|LTranslit=»
+13	կայքէջի	կայքէջ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	14	nmod:poss	_	Translit=kayk’ēǰi|LTranslit=kayk’ēǰ
+14	ներկայացում	ներկայացում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	list	_	Translit=nerkayac’owm|LTranslit=nerkayac’owm
+15	https://us02web.zoom.us/j/87386495798	https://us02web.zoom.us/j/87386495798	SYM	_	_	14	appos	_	Translit=https.//us02web.zoom.us/j/87386495798|LTranslit=https.//us02web.zoom.us/j/87386495798
 
 ~~~
 

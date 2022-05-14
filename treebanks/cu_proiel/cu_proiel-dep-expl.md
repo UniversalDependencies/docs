@@ -22,11 +22,11 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 expl	color:blue
-1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=MATT_5.33
-2	въ	въ	ADP	R-	_	3	case	_	ref=MATT_5.33
-3	лъжѫ	лъжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=MATT_5.33
-4	клънеши	клѧти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.33
-5	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	_	ref=MATT_5.33
+1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	Ref=MATT_5.33
+2	въ	въ	ADP	R-	_	3	case	_	Ref=MATT_5.33
+3	лъжѫ	лъжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	Ref=MATT_5.33
+4	клънеши	клѧти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.33
+5	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	_	Ref=MATT_5.33
 
 ~~~
 

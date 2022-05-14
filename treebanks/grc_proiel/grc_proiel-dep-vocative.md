@@ -22,14 +22,14 @@ The following 34 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 vocative	color:blue
-1	ὦ	ὦ	INTJ	I-	_	2	discourse	_	ref=1.115.2
-2	δέσποτα	δεσπότης	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	ref=1.115.2
-3	ἐγὼ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	ref=1.115.2
-4	ταῦτα	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	ref=1.115.2
-5	τοῦτον	οὗτος	ADJ	Pd	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	ref=1.115.2
-6	ἐποίησα	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.115.2
-7	σὺν	σύν	ADP	R-	_	8	case	_	ref=1.115.2
-8	δίκῃ	δίκη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	ref=1.115.2
+1	ὦ	ὦ	INTJ	I-	_	2	discourse	_	Ref=1.115.2
+2	δέσποτα	δεσπότης	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	Ref=1.115.2
+3	ἐγὼ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Ref=1.115.2
+4	ταῦτα	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	Ref=1.115.2
+5	τοῦτον	οὗτος	ADJ	Pd	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	Ref=1.115.2
+6	ἐποίησα	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.115.2
+7	σὺν	σύν	ADP	R-	_	8	case	_	Ref=1.115.2
+8	δίκῃ	δίκη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	Ref=1.115.2
 
 ~~~
 
@@ -40,10 +40,10 @@ The following 34 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
-1	ἀμὴν	ἀμήν	INTJ	I-	_	3	vocative	_	ref=MATT_5.18
-2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	ref=MATT_5.18
-3	λέγω	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.18
-4	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=MATT_5.18
+1	ἀμὴν	ἀμήν	INTJ	I-	_	3	vocative	_	Ref=MATT_5.18
+2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	Ref=MATT_5.18
+3	λέγω	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.18
+4	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	Ref=MATT_5.18
 
 ~~~
 
@@ -54,14 +54,14 @@ The following 34 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 vocative	color:blue
-1	νῦν	νῦν	ADV	Df	_	7	advmod	_	ref=1.11.2|LId=1
-2	τοί	σύ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	iobj	_	ref=1.11.2
-3	δυῶν	δύο	NUM	Ma	Case=Gen|Number=Plur	4	nummod	_	ref=1.11.2
-4	ὁδῶν	ὁδός	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	ref=1.11.2
-5	παρεουσέων	πάρειμι	VERB	V-	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	ref=1.11.2|LId=1
-6	Γύγη	Γύγης	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	ref=1.11.2
-7	δίδωμί	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.2
-8	αἵρεσιν	αἵρεσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	ref=1.11.2
+1	νῦν	νῦν	ADV	Df	_	7	advmod	_	LId=1|Ref=1.11.2
+2	τοί	σύ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	iobj	_	Ref=1.11.2
+3	δυῶν	δύο	NUM	Ma	Case=Gen|Number=Plur	4	nummod	_	Ref=1.11.2
+4	ὁδῶν	ὁδός	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	Ref=1.11.2
+5	παρεουσέων	πάρειμι	VERB	V-	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	LId=1|Ref=1.11.2
+6	Γύγη	Γύγης	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	Ref=1.11.2
+7	δίδωμί	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.11.2
+8	αἵρεσιν	αἵρεσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Ref=1.11.2
 
 ~~~
 

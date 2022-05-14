@@ -71,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 2	welcomed	welcome	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	commission	commission	NOUN	NN	Number=Sing	6	nmod:poss	6:nmod:poss	SpaceAfter=No
-5	’s	’s	PART	POS	_	4	case	4:case	OrigForm='s
+5	’s	’s	PART	POS	_	4	case	4:case	_
 6	announcement	announcement	NOUN	NN	Number=Sing	2	obj	2:obj	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	_
 

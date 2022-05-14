@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>vaja, he, compte, déu, ep, hola, home, 
 
 The 10 most frequent `INTJ` types:  <em>vaja, he, Compte, Déu, Hola, Home, Marbella, Mira, Oh, Valga</em>
 
-The 10 most frequent ambiguous lemmas: <em>compte</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 89, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>déu</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>home</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 121, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>mira</em> (<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>compte</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>déu</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>home</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 121, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>mira</em> (<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>he</em> (<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> 62, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Compte</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Déu</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 23, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Home</em> (<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 1), <em>Marbella</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Mira</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>sóc</em> (<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> 13, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>he</em> (<tt><a href="ca_ancora-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.415132).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.416268).
 
 The 1st highest number of forms (1) was observed with the lemma “compte”: <em>Compte</em>.
 

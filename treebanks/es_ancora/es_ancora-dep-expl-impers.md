@@ -12,7 +12,7 @@ There are also 2 other language-specific subtypes of `expl`: <tt><a href="es_anc
 356 nodes (0%) are attached to their parents as `expl:impers`.
 
 337 instances of `expl:impers` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30337078651685.
+Average distance between parent and child is 1.29775280898876.
 
 The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (354; 99% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
@@ -114,21 +114,21 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 7 expl:impers	color:blue
-1	Todas	todo	DET	di0fp0	Gender=Fem|Number=Plur|PronType=Tot	2	det	2:det	_
+1	Todas	todo	DET	di0fp0	Gender=Fem|Number=Plur|PronType=Tot	2	det	2:det	Entity=(CESSCASTP1999070126_ac20--3-gstype:gen
 2	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	3:det	_
-3	guerras	guerra	NOUN	ncfp000	Gender=Fem|Number=Plur	5	nsubj	5:nsubj	ClusterId=CESS-CAST-P-19990701-26_a-c20|ClusterType=Gen|MentionSpan=1-3
+3	guerras	guerra	NOUN	ncfp000	Gender=Fem|Number=Plur	5	nsubj	5:nsubj	Entity=CESSCASTP1999070126_ac20)
 4	son	ser	AUX	vsip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 5	infames	infame	ADJ	aq0cp0	Number=Plur	0	root	0:root	SpaceAfter=No
 6	,	,	PUNCT	fc	PunctType=Comm	5	punct	5:punct	_
-7	se	él	PRON	p0000000	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl:impers	12:expl:impers	_
-8	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	12:aux	ClusterId=CESS-CAST-P-19990701-26_a-c21|ClusterType=|MentionSpan=7-13
+7	se	él	PRON	p0000000	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl:impers	12:expl:impers	Entity=(CESSCASTP1999070126_ac21--6
+8	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
 9	de	de	ADP	sps00	_	12	case	12:case	_
 10	estar	estar	AUX	vmn0000	VerbForm=Inf	12	cop	12:cop	_
 11	contra	contra	ADP	sps00	_	12	case	12:case	_
-12	ellas	él	PRON	pp3fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	advcl	5:advcl	SpaceAfter=No|ClusterId=CESS-CAST-P-19990701-26_a-c20|ClusterType=Gen|MentionSpan=12|MentionMisc=CorefType:ident
-13	,	,	PUNCT	fc	PunctType=Comm	17	punct	17:punct	_
+12	ellas	él	PRON	pp3fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	advcl	5:advcl	SpaceAfter=No|Entity=(CESSCASTP1999070126_ac20--1-CorefType:ident,gstype:gen)
+13	,	,	PUNCT	fc	PunctType=Comm	17	punct	17:punct	Entity=CESSCASTP1999070126_ac21)
 14	pero	pero	CCONJ	cc	_	17	cc	17:cc	_
-15	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	17	nsubj	17:nsubj	ClusterId=CESS-CAST-P-19990701-26_a-c21|ClusterType=|MentionSpan=15|MentionMisc=ClusterTypeMismatch:Gen:,CorefType:dx.prop
+15	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	17	nsubj	17:nsubj	Entity=(CESSCASTP1999070126_ac21--1-CorefType:dx.prop)
 16	no	no	ADV	rn	Polarity=Neg	17	advmod	17:advmod	_
 17	significa	significar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	12:conj	_
 18	que	que	SCONJ	cs	_	22	mark	22:mark	_
@@ -138,10 +138,10 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 22	preparado	preparado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	17	xcomp	17:xcomp	_
 23	por	por	ADP	sps00	_	27	mark	27:mark	_
 24	si	si	SCONJ	cs	_	27	mark	27:mark	_
-25	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	27	iobj	27:iobj	ClusterId=CESS-CAST-P-19990701-26_a-c22|ClusterType=Gen|MentionSpan=25|MentionMisc=CorefType:ident
-26	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	obj	27:obj	ClusterId=CESS-CAST-P-19990701-26_a-c20|ClusterType=Gen|MentionSpan=26|MentionMisc=CorefType:ident
+25	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	27	iobj	27:iobj	Entity=(CESSCASTP1999070126_ac22--1-CorefType:ident,gstype:gen)
+26	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	obj	27:obj	Entity=(CESSCASTP1999070126_ac20--1-CorefType:ident,gstype:gen)
 27	declara	declarar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	22:advcl	_
-28	alguien	alguien	PRON	pi0cs000	Number=Sing|PronType=Ind	27	nsubj	27:nsubj	SpaceAfter=No|ClusterId=CESS-CAST-P-19990701-26_a-s27.sn.68|ClusterType=Gen|MentionSpan=28
+28	alguien	alguien	PRON	pi0cs000	Number=Sing|PronType=Ind	27	nsubj	27:nsubj	SpaceAfter=No|Entity=(CESSCASTP1999070126_as27.sn.68--1-gstype:gen)
 29	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 
 ~~~

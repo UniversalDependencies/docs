@@ -23,13 +23,13 @@ The following 4 pairs of parts of speech are connected with `nmod:attr`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nmod:attr	color:blue
-1	Нымӈыԓтэԓӄэнат	_	VERB	_	_	0	root	_	Gloss=ST-весть-DUR-ST.3SG-PL
-2	эмнуӈыԓьыт	_	NOUN	_	_	4	nmod:attr	_	Gloss=тундра-ATTR-NOM.PL
-3	ынӄэн	_	PART	_	_	1	discourse	_	Gloss=DET
-4	ынпыначгыт	_	NOUN	_	_	1	nsubj	_	Gloss=старик-NOM.PL
-5	ынӄэн	_	PART	_	_	1	discourse	_	Gloss=DET
-6	э	_	PART	_	_	5	advmod:emph	_	Gloss=PTCL
-7	.	_	PUNCT	_	_	1	punct	_	_
+1	Нымӈыԓтэԓӄэнат	_	VERB	_	_	0	root	0:root	Gloss=ST-весть-DUR-ST.3SG-PL
+2	эмнуӈыԓьыт	_	NOUN	_	_	4	nmod:attr	4:nmod:attr	Gloss=тундра-ATTR-NOM.PL
+3	ынӄэн	_	PART	_	_	1	discourse	1:discourse	Gloss=DET
+4	ынпыначгыт	_	NOUN	_	_	1	nsubj	1:nsubj	Gloss=старик-NOM.PL
+5	ынӄэн	_	PART	_	_	1	discourse	1:discourse	Gloss=DET
+6	э	_	PART	_	_	5	advmod:emph	5:advmod:emph	Gloss=PTCL
+7	.	_	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -40,13 +40,13 @@ The following 4 pairs of parts of speech are connected with `nmod:attr`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 nmod:attr	color:blue
-1	Тыгитэгъэн	_	VERB	_	_	0	root	_	Gloss=1SG.S/A-смотреть-TH-3SG.O
-2	ӄытԓыги	_	ADV	_	_	3	advmod	_	Gloss=оказывается
-3	ӄырым	_	AUX	_	_	1	parataxis	_	Gloss=NEG.FUT
-4	ӄытԓыги	_	ADV	_	_	6	advmod	_	Gloss=оказывается
-5	эмнуӈыԓьын	_	NOUN	_	_	6	nmod:attr	_	Gloss=тундра-ATTR-NOM.SG
-6	Пэгытту	_	PROPN	_	_	1	parataxis	_	Gloss=Пегыт-NOM.SG|SpaceAfter=No
-7	.	_	PUNCT	_	_	1	punct	_	_
+1	Тыгитэгъэн	_	VERB	_	_	0	root	0:root	Gloss=1SG.S/A-смотреть-TH-3SG.O
+2	ӄытԓыги	_	ADV	_	_	3	advmod	3:advmod	Gloss=оказывается
+3	ӄырым	_	AUX	_	_	1	parataxis	1:parataxis	Gloss=NEG.FUT
+4	ӄытԓыги	_	ADV	_	_	6	advmod	6:advmod	Gloss=оказывается
+5	эмнуӈыԓьын	_	NOUN	_	_	6	nmod:attr	6:nmod:attr	Gloss=тундра-ATTR-NOM.SG
+6	Пэгытту	_	PROPN	_	_	1	parataxis	1:parataxis	Gloss=Пегыт-NOM.SG|SpaceAfter=No
+7	.	_	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -57,10 +57,10 @@ The following 4 pairs of parts of speech are connected with `nmod:attr`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nmod:attr	color:blue
-1	Мури	_	PRON	_	_	3	nsubj	_	Gloss=мы
-2	Омваамвыԓьыморэ	_	PROPN	_	_	3	nmod:attr	_	Gloss=Амгуэма-ATTR-NP.1PL
-3	ӄорагынрэтыԓьыморэ	_	NOUN	_	_	0	root	_	Gloss=олень-защищать-ATTR-NP.1PL|SpaceAfter=No
-4	.	_	PUNCT	_	_	3	punct	_	_
+1	Мури	_	PRON	_	_	3	nsubj	3:nsubj	Gloss=мы
+2	Омваамвыԓьыморэ	_	PROPN	_	_	3	nmod:attr	3:nmod:attr	Gloss=Амгуэма-ATTR-NP.1PL
+3	ӄорагынрэтыԓьыморэ	_	NOUN	_	_	0	root	0:root	Gloss=олень-защищать-ATTR-NP.1PL|SpaceAfter=No
+4	.	_	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

@@ -28,8 +28,7 @@ The following 30 pairs of parts of speech are connected with `dep`: <tt><a href=
 4	pereautoks	pere_auto	NOUN	S	Case=Tra|Number=Sing	0	root	0:root	_
 5	or	or	X	T	Foreign=Yes	4	dep	4:dep	_
 6	smth.	smth	X	T	Foreign=Yes	5	flat	5:flat	SpaceAfter=No
-7	.	.	PUNCT	Z	_	4	punct	4:punct	SpaceAfter=No
-8	.	.	PUNCT	Z	_	4	punct	4:punct	_
+7	..	..	PUNCT	Z	_	4	punct	4:punct	_
 
 ~~~
 

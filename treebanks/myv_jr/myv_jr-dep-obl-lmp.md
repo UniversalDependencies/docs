@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `obl:lmp`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-obl.html">obl</a></tt>.
-There are also 7 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="myv_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="myv_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="myv_jr-dep-obl-lfrom.html">obl:lfrom</a></tt>, <tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="myv_jr-dep-obl-lto.html">obl:lto</a></tt>, <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 8 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="myv_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="myv_jr-dep-obl-comp.html">obl:comp</a></tt>, <tt><a href="myv_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="myv_jr-dep-obl-lfrom.html">obl:lfrom</a></tt>, <tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="myv_jr-dep-obl-lto.html">obl:lto</a></tt>, <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 94 nodes (1%) are attached to their parents as `obl:lmp`.
 
@@ -64,13 +64,13 @@ The following 7 pairs of parts of speech are connected with `obl:lmp`: <tt><a hr
 2	ютыцясь	ютамс	VERB	V	Case=Nom|Definite=Def|Derivation=VerbYcja|Number=Sing	4	nsubj	_	GTtags=NomAg,Sg,Nom,Def
 3	курок	курок	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time
 4	ёматотсь	ёматомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
-5	лепеденть	лепе	NOUN	N	Case=Abl|Definite=Def|Number=Sing	6	nmod:comp	_	GTtags=Sg,Abl,Def
+5	лепеденть	лепе	NOUN	N	Case=Abl|Definite=Def|Number=Sing	6	obl:comp	_	GTtags=Sg,Abl,Def
 6	авасоло	авасоло	ADV	Adv	AdvType=Loc|Case=Loc	7	advmod:lmod	_	GTtags=Adv,Spat,Loc
 7	касыця	касомс	VERB	V	Case=Nom|Definite=Ind|Derivation=VerbYcja|Number=Sing	10	acl	_	GTtags=NomAg,Sg,Nom,Indef
 8	сэрей	сэрей	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	10	amod	_	GTtags=Sg,Nom,Indef
 9	каль	каль	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	10	nmod	_	GTtags=Sg,Nom,Indef
 10	куротнень	куро	NOUN	N	Case=Gen|Definite=Def|Number=Plur	11	nmod	_	GTtags=Pl,Gen,Def
-11	экшс	экш	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	4	obl:lto	_	GTtags=Relator,SP,Ill,Indef|SpaceAfter=No
+11	экшс	экш	NOUN	N	Case=Ill|Definite=Ind|NounType=Relat|Number=Plur,Sing	4	obl:lto	_	GTtags=Relator,SP,Ill,Indef|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

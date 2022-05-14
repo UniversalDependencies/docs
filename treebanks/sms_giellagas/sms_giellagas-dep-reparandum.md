@@ -8,12 +8,35 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (1%) are attached to their parents as `reparandum`.
+18 nodes (1%) are attached to their parents as `reparandum`.
 
-15 instances of `reparandum` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.64705882352941.
+16 instances of `reparandum` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.66666666666667.
 
-The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (4; 24% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (3; 18% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (2; 12% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 12% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (4; 22% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (4; 22% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (3; 17% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (2; 11% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 11% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 reparandum	color:blue
+1	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
+2	Čuõvv	čuõvv	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Sg,Nom
+3	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Ind,Sg3
+4	kueʹst	kueʹstted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg|SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	7	punct	_	_
+6	leäk-a	leeʹd	VERB	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	orphan	_	GTtags=Ind,Prs,Sg2,Qst/a
+7	dõõn	dõõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	10	reparandum	_	GTtags=Pron,Sg,Gen|SpaceAfter=No
+8	...	...	PUNCT	PUNCT	_	10	punct	_	_
+9	čääʹʒʒ	čääʹcc	NOUN	N	Case=Acc|Number=Sing	10	obj	_	GTtags=Sg,Acc
+10	kuõʹddiǩ	kueʹdded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	conj	_	GTtags=Ind,Prt,Sg2
+11	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	10	parataxis	_	GTtags=Neg,Ind,Sg2|SpaceAfter=No
+12	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+13	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
+
+~~~
 
 
 ~~~ conllu
@@ -46,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 19	fgColor:white
 # visual-style 19 14 reparandum	color:blue
 1	Ceäʹlǩǩe	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
-2	:	:	PUNCT	PUNCT	_	1	punct	_	_
+2	:	:	PUNCT	PUNCT	_	19	punct	_	_
 3	”	”	PUNCT	PUNCT	_	19	punct	_	GTtags=RIGHT|SpaceAfter=No
 4	Ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj:cop	_	GTtags=Pers,Sg2,Nom|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
@@ -66,29 +89,6 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 19	triâŋgg	triâŋgg	NOUN	N	Case=Nom|Number=Sing	1	parataxis	_	GTtags=Sg,Nom|SpaceAfter=No
 20	.	.	PUNCT	PUNCT	_	19	punct	_	SpaceAfter=No
 21	”	”	PUNCT	PUNCT	_	19	punct	_	GTtags=RIGHT
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 reparandum	color:blue
-1	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
-2	Čuõvv	čuõvv	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Sg,Nom
-3	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Ind,Sg3
-4	kueʹst	kueʹstted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg|SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	7	punct	_	_
-6	leäk-a	leeʹd	VERB	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	orphan	_	GTtags=Ind,Prs,Sg2,Qst/a
-7	dõõn	dõõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	10	reparandum	_	GTtags=Pron,Sg,Gen|SpaceAfter=No
-8	...	...	PUNCT	PUNCT	_	10	punct	_	_
-9	čääʹʒʒ	čääʹcc	NOUN	N	Case=Acc|Number=Sing	10	obj	_	GTtags=Sg,Acc
-10	kuõʹddiǩ	kueʹdded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	conj	_	GTtags=Ind,Prt,Sg2
-11	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	10	parataxis	_	GTtags=Neg,Ind,Sg2|SpaceAfter=No
-12	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
-13	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
 
 ~~~
 

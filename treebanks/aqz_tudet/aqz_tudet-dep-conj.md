@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (1%) are attached to their parents as `conj`.
+7 nodes (1%) are attached to their parents as `conj`.
 
-6 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.33333333333333.
+7 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.42857142857143.
 
-The following 2 pairs of parts of speech are connected with `conj`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (5; 83% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (1; 17% instances).
+The following 3 pairs of parts of speech are connected with `conj`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (5; 71% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 14% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -27,6 +27,24 @@ The following 2 pairs of parts of speech are connected with `conj`: <tt><a href=
 3	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 4	te	te	PART	pclfoc	_	5	discourse	_	_
 5	tʃokĩn	tʃokĩn	NOUN	n	_	2	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 conj	color:blue
+1	ebapa	ebapa	ADV	n	_	7	advmod	_	_
+2	no	no	PRON	pron	PronType=Ind	1	det	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	ebapa	ebapa	ADV	n	_	1	conj	_	_
+5	no	no	PRON	pron	PronType=Ind	4	det	_	_
+6	,	,	PUNCT	punct	_	4	punct	_	_
+7	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	_
 
 ~~~
 

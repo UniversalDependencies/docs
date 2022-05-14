@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-743 nodes (0%) are attached to their parents as `expl`.
+742 nodes (0%) are attached to their parents as `expl`.
 
-669 instances of `expl` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49798115746972.
+667 instances of `expl` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.49191374663073.
 
-The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (561; 76% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (137; 18% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (33; 4% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (561; 76% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (138; 19% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (31; 4% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,18 +60,25 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 3 expl	color:blue
-1	And	and	CCONJ	CC	_	6	cc	6:cc	_
-2	then	then	ADV	RB	PronType=Dem	6	advmod	6:advmod	_
-3	there	there	PRON	EX	_	6	expl	6:expl	_
-4	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
-6	rain	rain	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	6:punct	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 6 expl	color:blue
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	3:mark	_
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+3	sound	sound	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	csubj	13:csubj	_
+4	off	off	ADP	RP	_	3	compound:prt	3:compound:prt	SpaceAfter=No
+5	,	,	PUNCT	,	_	13	punct	13:punct	_
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	expl	13:expl	_
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
+9	true	true	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+10	audio	audio	ADJ	JJ	Degree=Pos	12	amod	12:amod	SpaceAfter=No
+11	/	/	PUNCT	HYPH	_	12	punct	12:punct	SpaceAfter=No
+12	visual	visual	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	experience	experience	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+14	.	.	PUNCT	.	_	13	punct	13:punct	_
 
 ~~~
 

@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nds_lsdc-pos-NUM.ht
 
 ### `NUM`
 
-6 <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> tokens (67% of all `NUM` tokens) have a non-empty value of `NumType`.
+6 <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> tokens (40% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%).
 
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (6; 100% of non-empty `NumType`): <em>dree, eyn, twey, vyv</em>
-* `EMPTY` (3): <em>eyne, eynen, twey</em>
+* `EMPTY` (9): <em>1817, dörtig, eyn, eyne, eynen, hunderd, tein, twey, twintig</em>
 

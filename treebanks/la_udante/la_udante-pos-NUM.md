@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-UDante: POS Tags: `NUM`
 
 There are 22 `NUM` lemmas (0%), 38 `NUM` types (0%) and 256 `NUM` tokens (0%).
-Out of 16 observed tags, the rank of `NUM` is: 12 in number of lemmas, 13 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 11 in number of lemmas, 12 in number of types and 15 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>unus, duo, tres, duodecim, quattuor, quinque, centum, decem, sex, xu</em>
 
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>unum</em> (<tt><a href="la_udante-pos
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.727273 (the average of all parts of speech is 2.108945).
+The form / lemma ratio of `NUM` is 1.727273 (the average of all parts of speech is 2.119676).
 
 The 1st highest number of forms (8) was observed with the lemma “duo”: <em>duabus, duarum, duas, due, duo, duobus, duorum, duos</em>.
 
@@ -62,9 +62,9 @@ Examples: <em>unum</em>
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 19 different relations: <tt><a href="la_udante-dep-nummod.html">nummod</a></tt> (144; 56% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (21; 8% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (16; 6% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (15; 6% instances), <tt><a href="la_udante-dep-obl-arg.html">obl:arg</a></tt> (15; 6% instances), <tt><a href="la_udante-dep-obj.html">obj</a></tt> (8; 3% instances), <tt><a href="la_udante-dep-nsubj-pass.html">nsubj:pass</a></tt> (7; 3% instances), <tt><a href="la_udante-dep-csubj.html">csubj</a></tt> (6; 2% instances), <tt><a href="la_udante-dep-nmod.html">nmod</a></tt> (5; 2% instances), <tt><a href="la_udante-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt> (3; 1% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="la_udante-dep-xcomp-pred.html">xcomp:pred</a></tt> (2; 1% instances), <tt><a href="la_udante-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-parataxis-rep.html">parataxis:rep</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 20 different relations: <tt><a href="la_udante-dep-nummod.html">nummod</a></tt> (143; 56% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (21; 8% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (15; 6% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (15; 6% instances), <tt><a href="la_udante-dep-obl-arg.html">obl:arg</a></tt> (15; 6% instances), <tt><a href="la_udante-dep-obj.html">obj</a></tt> (9; 4% instances), <tt><a href="la_udante-dep-nsubj-pass.html">nsubj:pass</a></tt> (7; 3% instances), <tt><a href="la_udante-dep-csubj.html">csubj</a></tt> (6; 2% instances), <tt><a href="la_udante-dep-nmod.html">nmod</a></tt> (5; 2% instances), <tt><a href="la_udante-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt> (3; 1% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="la_udante-dep-xcomp-pred.html">xcomp:pred</a></tt> (2; 1% instances), <tt><a href="la_udante-dep-advcl-pred.html">advcl:pred</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-parataxis-rep.html">parataxis:rep</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (137; 54% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (77; 30% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (13; 5% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (8; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (8; 3% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (7; 3% instances),  (4; 2% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (137; 54% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (78; 30% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (13; 5% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (8; 3% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (7; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (7; 3% instances),  (4; 2% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (1; 0% instances)
 
 159 (62%) `NUM` nodes are leaves.
 

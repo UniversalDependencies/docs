@@ -9,11 +9,11 @@ udver: '2'
 There are 19 `CCONJ` lemmas (0%), 19 `CCONJ` types (0%) and 3055 `CCONJ` tokens (3%).
 Out of 16 observed tags, the rank of `CCONJ` is: 15 in number of lemmas, 14 in number of types and 7 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>и, а, но, или, также, однако, либо, так, как, то</em>
+The 10 most frequent `CCONJ` lemmas: <em>и, а, но, или, также, однако, либо, как, так, то</em>
 
 The 10 most frequent `CCONJ` types:  <em>и, а, но, или, также, однако, либо, так, как, то</em>
 
-The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 2230, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 119, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 3), <em>а</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 275, <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 3), <em>но</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 165, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 1), <em>также</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 99, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 84, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 3), <em>однако</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 69, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 7), <em>так</em> (<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 68, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 11), <em>как</em> (<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> 167, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 70, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 9), <em>то</em> (<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> 196, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 5), <em>ни</em> (<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 23, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 6), <em>причем</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 2230, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 119, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 3), <em>а</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 275, <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 3), <em>но</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 165, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 1), <em>также</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 103, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 84, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 4), <em>однако</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 69, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 7), <em>как</em> (<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> 167, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 70, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 9), <em>так</em> (<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 67, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 7), <em>то</em> (<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> 196, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 5), <em>ни</em> (<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 23, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 6), <em>причем</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 2215, <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 119, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 3), <em>а</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 261, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 3, <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>но</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 145, <tt><a href="ru_gsd-pos-X.html">X</a></tt> 1), <em>также</em> (<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 83, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 78, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 3), <em>однако</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 5), <em>так</em> (<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 47, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 10), <em>как</em> (<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> 155, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 67, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 35, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 9), <em>то</em> (<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> 34, <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> 29, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 4), <em>ни</em> (<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> 21, <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 6), <em>причём</em> (<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -61,22 +61,28 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="ru_gsd-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.598094).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.598617).
 
-The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
+The 1st highest number of forms (2) was observed with the lemma “также”: <em>так, также</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “да”: <em>Да</em>.
+The 2nd highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “зато”: <em>Зато</em>.
+The 3rd highest number of forms (1) was observed with the lemma “да”: <em>Да</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="ru_gsd-feat-Typo.html">Typo</a></tt> (4; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (3051 tokens).
+Examples: <em>и, а, но, или, также, однако, либо, как, так, то</em>
 
 
 ## Relations
 
 `CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="ru_gsd-dep-cc.html">cc</a></tt> (2952; 97% instances), <tt><a href="ru_gsd-dep-fixed.html">fixed</a></tt> (93; 3% instances), <tt><a href="ru_gsd-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="ru_gsd-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ru_gsd-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="ru_gsd-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="ru_gsd-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1270; 42% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (932; 31% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (354; 12% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (268; 9% instances), <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (82; 3% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (48; 2% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt> (48; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (26; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1271; 42% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (932; 31% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (354; 12% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (268; 9% instances), <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (82; 3% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (48; 2% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt> (48; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (25; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 2950 (97%) `CCONJ` nodes are leaves.
 
@@ -88,5 +94,5 @@ The highest child degree of a `CCONJ` node is 2.
 
 Children of `CCONJ` nodes are attached using 5 different relations: <tt><a href="ru_gsd-dep-fixed.html">fixed</a></tt> (97; 91% instances), <tt><a href="ru_gsd-dep-goeswith.html">goeswith</a></tt> (4; 4% instances), <tt><a href="ru_gsd-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="ru_gsd-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="ru_gsd-dep-punct.html">punct</a></tt> (2; 2% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (82; 77% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (15; 14% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (6; 6% instances), <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 2% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 2% instances)
+Children of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (82; 77% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (11; 10% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (6; 6% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt> (4; 4% instances), <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 2% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 2% instances)
 

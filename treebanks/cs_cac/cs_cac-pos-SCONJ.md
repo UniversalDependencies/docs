@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>ať</em> (<tt><a href="cs_cac-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.023256 (the average of all parts of speech is 2.186534).
+The form / lemma ratio of `SCONJ` is 1.023256 (the average of all parts of speech is 2.185616).
 
 The 1st highest number of forms (2) was observed with the lemma “ačkoliv”: <em>ačkoli, ačkoliv</em>.
 
@@ -69,7 +69,7 @@ The 3rd highest number of forms (1) was observed with the lemma “aniž”: <em
 
 `SCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="cs_cac-dep-mark.html">mark</a></tt> (7781; 95% instances), <tt><a href="cs_cac-dep-fixed.html">fixed</a></tt> (210; 3% instances), <tt><a href="cs_cac-dep-cc.html">cc</a></tt> (156; 2% instances), <tt><a href="cs_cac-dep-case.html">case</a></tt> (8; 0% instances), <tt><a href="cs_cac-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="cs_cac-dep-discourse.html">discourse</a></tt> (4; 0% instances), <tt><a href="cs_cac-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (4543; 56% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1878; 23% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1174; 14% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (172; 2% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (148; 2% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (84; 1% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (54; 1% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (43; 1% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (31; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (31; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (4192; 51% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1878; 23% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1174; 14% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (351; 4% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (172; 2% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (148; 2% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (84; 1% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (54; 1% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (43; 1% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (31; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (31; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 8137 (100%) `SCONJ` nodes are leaves.
 

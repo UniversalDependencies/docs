@@ -22,10 +22,10 @@ The following 14 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 discourse	color:blue
-1	amen	amen	INTJ	I-	_	3	vocative	_	ref=MATT_5.18
-2	auk	auk	ADV	Df	_	3	discourse	_	ref=MATT_5.18
-3	qiþa	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.18
-4	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=MATT_5.18
+1	amen	amen	INTJ	I-	_	3	vocative	_	Ref=MATT_5.18
+2	auk	auk	ADV	Df	_	3	discourse	_	Ref=MATT_5.18
+3	qiþa	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.18
+4	izwis	jūs	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	Ref=MATT_5.18
 
 ~~~
 
@@ -36,10 +36,10 @@ The following 14 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 discourse	color:blue
-1	was	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	ref=MARK_5.42|LId=1
-2	auk	auk	ADV	Df	_	3	discourse	_	ref=MARK_5.42
-3	jere	jer	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	0	root	_	ref=MARK_5.42
-4	twalibe	twalif	NUM	Ma	Case=Gen|Number=Plur	3	nummod	_	ref=MARK_5.42
+1	was	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	LId=1|Ref=MARK_5.42
+2	auk	auk	ADV	Df	_	3	discourse	_	Ref=MARK_5.42
+3	jere	jer	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	0	root	_	Ref=MARK_5.42
+4	twalibe	twalif	NUM	Ma	Case=Gen|Number=Plur	3	nummod	_	Ref=MARK_5.42
 
 ~~~
 
@@ -50,16 +50,16 @@ The following 14 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 discourse	color:blue
-1	unte	unte	ADV	Df	_	2	discourse	_	ref=MATT_6.13
-2	þeina	þeins	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	0	root	_	ref=MATT_6.13
-3	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	ref=MATT_6.13|LId=1
-4	þiudangardi	þiudangardi	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=MATT_6.13
-5	jah	jah	CCONJ	C-	_	4	cc	_	ref=MATT_6.13
-6	mahts	mahts	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	ref=MATT_6.13
-7	jah	jah	CCONJ	C-	_	4	cc	_	ref=MATT_6.13
-8	wulþus	wulþus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=MATT_6.13
-9	in	in	ADP	R-	_	10	case	_	ref=MATT_6.13
-10	aiwins	aiws	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	ref=MATT_6.13
+1	unte	unte	ADV	Df	_	2	discourse	_	Ref=MATT_6.13
+2	þeina	þeins	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	0	root	_	Ref=MATT_6.13
+3	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	LId=1|Ref=MATT_6.13
+4	þiudangardi	þiudangardi	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Ref=MATT_6.13
+5	jah	jah	CCONJ	C-	_	4	cc	_	Ref=MATT_6.13
+6	mahts	mahts	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	Ref=MATT_6.13
+7	jah	jah	CCONJ	C-	_	4	cc	_	Ref=MATT_6.13
+8	wulþus	wulþus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	Ref=MATT_6.13
+9	in	in	ADP	R-	_	10	case	_	Ref=MATT_6.13
+10	aiwins	aiws	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	Ref=MATT_6.13
 
 ~~~
 

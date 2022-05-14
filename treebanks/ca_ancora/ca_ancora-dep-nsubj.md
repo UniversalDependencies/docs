@@ -28,11 +28,11 @@ The following 60 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 3	l'	ell	PRON	pp3csa00	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	5	obj	5:obj	SpaceAfter=No
 4	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 5	organitzat	organitzar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
-6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	7:det	_
-7	sindicat	sindicat	NOUN	ncms000	Gender=Masc|Number=Sing	5	nsubj	5:nsubj	ClusterId=3LB-CAT-06010300-3-s3.sn.13|ClusterType=Spec.organization|MentionSpan=6-10
-8	Unió	Unió	PROPN	np0000o	_	7	appos	7:appos	MWE=Unió_de_Pagesos|MWEPOS=PROPN|ClusterId=3LB-CAT-06010300-3-s3.sn.18|ClusterType=Spec.organization|MentionSpan=8-10
+6	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	7:det	Entity=(3LBCAT060103003s3.sn.13-organization-2-gstype:spec
+7	sindicat	sindicat	NOUN	ncms000	Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
+8	Unió	Unió	PROPN	np0000o	_	7	appos	7:appos	MWE=Unió_de_Pagesos|MWEPOS=PROPN|Entity=(3LBCAT060103003s3.sn.18-organization-1-gstype:spec
 9	de	de	ADP	_	_	10	case	10:case	_
-10	Pagesos	Pagesos	PROPN	_	_	8	flat	8:flat	SpaceAfter=No
+10	Pagesos	Pagesos	PROPN	_	_	8	flat	8:flat	SpaceAfter=No|Entity=3LBCAT060103003s3.sn.18)3LBCAT060103003s3.sn.13)
 11	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 
 ~~~
@@ -67,14 +67,14 @@ The following 60 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
-1	Bankinter	Bankinter	PROPN	np0000o	_	2	nsubj	2:nsubj	ClusterId=CESS-CAT-A-20000202-115_g-c40|ClusterType=Spec.organization|MentionSpan=1|MentionMisc=Title
+1	Bankinter	Bankinter	PROPN	np0000o	_	2	nsubj	2:nsubj	Entity=(CESSCATA20000202115_gc40-organization-1-gstype:spec,Title)
 2	tindrà	tenir	VERB	vmif3s0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	0:root	_
-3	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	4	det	4:det	_
-4	marca	marca	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	2:obj	ClusterId=CESS-CAT-A-20000202-115_g-c41|ClusterType=Gen|MentionSpan=3-8|MentionMisc=Title
+3	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	4	det	4:det	Entity=(CESSCATA20000202115_gc41--2-gstype:gen,Title
+4	marca	marca	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obj	2:obj	_
 5	per	per	ADP	sps00	_	7	case	7:case	_
 6	a	a	ADP	sps00	_	7	case	7:case	_
-7	aliances	aliança	NOUN	ncfp000	Gender=Fem|Number=Plur	4	nmod	4:nmod	ClusterId=CESS-CAT-A-20000202-115_g-c42|ClusterType=Gen|MentionSpan=7-8|MentionMisc=Title
-8	internacionals	internacional	ADJ	aq0cp0	Number=Plur	7	amod	7:amod	SpaceAfter=No
+7	aliances	aliança	NOUN	ncfp000	Gender=Fem|Number=Plur	4	nmod	4:nmod	Entity=(CESSCATA20000202115_gc42--1-gstype:gen,Title
+8	internacionals	internacional	ADJ	aq0cp0	Number=Plur	7	amod	7:amod	SpaceAfter=No|Entity=CESSCATA20000202115_gc42)CESSCATA20000202115_gc41)
 9	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~

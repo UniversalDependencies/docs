@@ -21,7 +21,7 @@ The feature is used with 14 part-of-speech tags: <tt><a href="cop_scriptorium-po
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1778; 100% of non-empty `Foreign`): ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲛⲉⲩⲙⲁ, ⲁⲡⲁ, ⲕⲟⲥⲙⲟⲥ, ⲙⲁⲑⲏⲧⲏⲥ, ⲥⲱⲙⲁ, ⲗⲁⲟⲥ, ⲥⲁⲣⲝ, ⲁⲅⲅⲉⲗⲟⲥ, ⲡⲣⲟⲫⲏⲧⲏⲥ
-* `EMPTY` (5569): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ϣⲏⲣⲉ, ϣⲁϫⲉ, ⲗⲁⲁⲩ, ϩⲱⲃ
+* `EMPTY` (5570): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ϣⲏⲣⲉ, ϣⲁϫⲉ, ⲗⲁⲁⲩ, ϩⲱⲃ
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (494) occur only with one value of `Foreign`.
 
@@ -32,7 +32,7 @@ The feature is used with 14 part-of-speech tags: <tt><a href="cop_scriptorium-po
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (813; 100% of non-empty `Foreign`): ⲇⲉ, ⲅⲁⲣ, ⲱ, ⲙⲉⲛ, ϩⲁⲙⲏⲛ, ⲟⲩⲛ, ⲁⲣⲁ, ⲭⲁⲓⲣⲉ, ⲭⲱⲣⲓⲥ, ⲁⲛⲧⲓ
-* `EMPTY` (1012): ⲉ, ⲛϭⲓ, ⲛⲧ, ϭⲉ, ⲉⲓⲥ, ⲉⲣⲉ, ⲙⲛⲛⲥⲁ, ⲙⲙⲟⲛ, ϩⲏⲏⲧⲉ, ⲉⲧⲃⲉ
+* `EMPTY` (1010): ⲉ, ⲛϭⲓ, ⲛⲧ, ϭⲉ, ⲉⲓⲥ, ⲉⲣⲉ, ⲙⲛⲛⲥⲁ, ⲙⲙⲟⲛ, ϩⲏⲏⲧⲉ, ⲉⲧⲃⲉ
 
 `Foreign` seems to be **lexical feature** of `PART`. 100% lemmas (12) occur only with one value of `Foreign`.
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (88; 100% of non-empty `Foreign`): ϩⲱⲥⲧⲉ, ϩⲱⲥ, ⲉⲓⲙⲏⲧⲓ, ϩⲟⲧⲁⲛ, ⲉⲡⲉⲓⲇⲏ, ⲙⲏⲡⲟⲧⲉ, ⲙⲏⲧⲓ, ⲕⲁⲛ, ⲙⲏ, ⲅⲁⲣ
-* `EMPTY` (2993): ϫⲉ, ⲉ, ⲉⲧ, ⲉⲛⲧ, ⲉⲧⲉ, ⲛⲧ, ⲉⲣⲉ, ⲉϣⲱⲡⲉ, ϫⲉⲕⲁⲁⲥ, ⲉⲧⲉⲣⲉ
+* `EMPTY` (2995): ϫⲉ, ⲉ, ⲉⲧ, ⲉⲛⲧ, ⲉⲧⲉ, ⲛⲧ, ⲉⲣⲉ, ⲉϣⲱⲡⲉ, ϫⲉⲕⲁⲁⲥ, ⲉⲧⲉⲣⲉ
 
 `Foreign` seems to be **lexical feature** of `SCONJ`. 100% lemmas (13) occur only with one value of `Foreign`.
 

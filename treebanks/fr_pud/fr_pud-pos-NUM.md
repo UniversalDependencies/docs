@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>deux, trois, quatre, 1, 3, milliard, 10, 
 
 The 10 most frequent `NUM` types:  <em>deux, trois, quatre, 1, 3, 10, II, III, dix, milliards</em>
 
-The 10 most frequent ambiguous lemmas: <em>milliard</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>un</em> (<tt><a href="fr_pud-pos-DET.html">DET</a></tt> 658, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 5), <em>1er</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>premier</em> (<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 36, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>milliard</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>un</em> (<tt><a href="fr_pud-pos-DET.html">DET</a></tt> 659, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 5), <em>1er</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>premier</em> (<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 36, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>milliards</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 6, <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>un</em> (<tt><a href="fr_pud-pos-DET.html">DET</a></tt> 225, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 10, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 5), <em>1er</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>milliard</em> (<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 1), <em>premier</em> (<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 1)
 
@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>milliards</em> (<tt><a href="fr_pud-p
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.004367 (the average of all parts of speech is 1.297529).
+The form / lemma ratio of `NUM` is 1.004367 (the average of all parts of speech is 1.298345).
 
 The 1st highest number of forms (2) was observed with the lemma “milliard”: <em>milliard, milliards</em>.
 
@@ -45,12 +45,12 @@ The 2nd highest number of forms (1) was observed with the lemma “0”: <em>0</
 
 The 3rd highest number of forms (1) was observed with the lemma “06h30”: <em>06h30</em>.
 
-`NUM` occurs with 2 features: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (4; 1% instances), <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (4; 1% instances)
+`NUM` occurs with 3 features: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (4; 1% instances), <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (4; 1% instances), <tt><a href="fr_pud-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`NUM` occurs with 2 feature-value pairs: `Gender=Masc`, `Number=Sing`
+`NUM` occurs with 3 feature-value pairs: `Gender=Masc`, `Number=Sing`, `Typo=Yes`
 
-`NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (447 tokens).
+`NUM` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (446 tokens).
 Examples: <em>deux, trois, quatre, 1, 3, 10, II, III, dix, milliards</em>
 
 

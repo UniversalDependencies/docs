@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Daniel Zeman.
 
 Repository: [UD_Spanish-AnCora](https://github.com/UniversalDependencies/UD_Spanish-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY 4.0
 
@@ -144,11 +144,11 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): deber, estar, haber, ir, poder, querer, saber, ser, tener</li>
+<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): deber, estar, haber, poder, querer, saber, ser</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: deber, estar, haber, ir, poder, querer, saber, tener</li>
+<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: deber, estar, haber, poder, querer, saber</li>
 </ul>
 
 <ul>
@@ -160,7 +160,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <ul>
     <li>AUX: es, ha, han, fue, son, está, había, hay, puede, era</li>
     <li>NOUN: parte, alusión, banda, capitulo, cara, hincapié, punto, vergüenza</li>
-    <li>VERB: tiene, dijo, hace, tienen, aseguró, explicó, afirmó, hizo, señaló, anunció</li>
+    <li>VERB: tiene, dijo, hace, tienen, aseguró, explicó, va, afirmó, hizo, señaló</li>
   </ul>
   </li>
 </ul>
@@ -168,7 +168,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Ger
   <ul>
-    <li>AUX: siendo, habiendo, estando, pudiendo, sabiendo, teniendo, queriendo</li>
+    <li>AUX: siendo, habiendo, estando, pudiendo, sabiendo, queriendo</li>
     <li>VERB: haciendo, dando, teniendo, diciendo, pensando, trabajando, hablando, intentando, jugando, dejando</li>
   </ul>
   </li>
@@ -177,7 +177,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: ser, haber, estar, poder, saber, ir, querer, tener, deber</li>
+    <li>AUX: ser, haber, estar, poder, saber, querer, deber</li>
     <li>NOUN: leña</li>
     <li>VERB: hacer, dar, tener, ganar, ver, poner, decir, evitar, conseguir, llegar</li>
   </ul>
@@ -188,7 +188,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Part
   <ul>
     <li>ADJ: pasado, pasada, previsto, abierta, abierto, dispuesto, hecho, privado, fallecido, llamado</li>
-    <li>AUX: sido, podido, estado, habido, ido, debido</li>
+    <li>AUX: sido, podido, estado, habido, debido</li>
     <li>NOUN: heredado</li>
     <li>VERB: hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</li>
   </ul>
@@ -223,7 +223,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>ADJ: pasado, primer, nuevo, próximo, últimos, español, segundo, último, único, político</li>
       <li>ADJ-Part: pasado, previsto, abierto, dispuesto, hecho, privado, fallecido, llamado, conocido, formado</li>
       <li>AUX-Fin: ser</li>
-      <li>AUX-Part: sido, podido, estado, habido, ido, debido</li>
+      <li>AUX-Part: sido, podido, estado, habido, debido</li>
       <li>DET: el, los, un, este, todo, ese, todos, otros, estos, unos</li>
       <li>NOUN: años, presidente, millones, equipo, partido, país, año, ministro, mundo, grupo</li>
       <li>NOUN-Part: heredado</li>
@@ -250,7 +250,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>NOUN: años, millones, personas, países, días, meses, elecciones, partidos, puntos, horas</li>
       <li>NUM: dos, tres, cinco, cuatro, seis, ambos, siete, diez, ocho, nueve</li>
       <li>PRON: nos, les, ellos, unos, los, otros, todos, las, nosotros, algunos</li>
-      <li>VERB-Fin: tienen, tenemos, hacen, tuvieron, dicen, quieren, existen, hicieron, llegaron, tenían</li>
+      <li>VERB-Fin: tienen, tenemos, van, hacen, tuvieron, dicen, quieren, vamos, existen, hicieron</li>
       <li>VERB-Part: detenidos, incluidos, trasladados, juzgados, entregados, utilizados, considerados, dadas, dados, designados</li>
     </ul>
   </li>
@@ -262,7 +262,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>ADJ: gran, pasado, general, primer, posible, primera, actual, electoral, internacional, mayor</li>
       <li>ADJ-Part: pasado, pasada, previsto, abierta, abierto, dispuesto, hecho, privado, fallecido, llamado</li>
       <li>AUX-Fin: es, ha, fue, está, había, hay, puede, era, será, debe</li>
-      <li>AUX-Part: sido, podido, estado, habido, ido, debido</li>
+      <li>AUX-Part: sido, podido, estado, habido, debido</li>
       <li>DET: el, la, un, una, su, este, esta, todo, esa, ese</li>
       <li>NOUN: presidente, equipo, partido, país, año, parte, ministro, mundo, grupo, portavoz</li>
       <li>NOUN-Fin: parte, alusión, banda, capitulo, cara, hincapié, punto, vergüenza</li>
@@ -270,7 +270,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>NUM: medio, media, un, doble, triple, uno, cero, una, cuádruple</li>
       <li>PRON: lo, le, me, uno, quien, la, todo, él, eso, nada</li>
       <li>PROPN: Cuba</li>
-      <li>VERB-Fin: tiene, dijo, hace, aseguró, explicó, afirmó, hizo, señaló, anunció, añadió</li>
+      <li>VERB-Fin: tiene, dijo, hace, aseguró, explicó, va, afirmó, hizo, señaló, anunció</li>
       <li>VERB-Part: hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</li>
     </ul>
   </li>
@@ -429,7 +429,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Cnd
     <ul>
       <li>AUX-Fin: sería, podría, habría, debería, podrían, deberían, estaría, habrían, serían, podríamos</li>
-      <li>VERB-Fin: tendría, haría, gustaría, supondría, diría, permitiría, tendrían, llegaría, trataría, daría</li>
+      <li>VERB-Fin: tendría, haría, gustaría, supondría, diría, permitiría, tendrían, iría, llegaría, trataría</li>
     </ul>
   </li>
 </ul>
@@ -437,8 +437,8 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: sea, He, vaya, haya, Sé</li>
-      <li>VERB-Fin: mira, añade, afirma, asegura, lean, vaya, vea, apunta, deje, figura</li>
+      <li>AUX-Fin: sea, He, haya, Sé</li>
+      <li>VERB-Fin: mira, vaya, añade, afirma, asegura, lean, vea, apunta, deje, figura</li>
     </ul>
   </li>
 </ul>
@@ -447,7 +447,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Ind
     <ul>
       <li>AUX-Fin: es, ha, han, fue, son, está, había, hay, puede, era</li>
-      <li>VERB-Fin: tiene, dijo, hace, tienen, aseguró, explicó, afirmó, hizo, señaló, anunció</li>
+      <li>VERB-Fin: tiene, dijo, hace, tienen, aseguró, explicó, va, afirmó, hizo, señaló</li>
     </ul>
   </li>
 </ul>
@@ -477,8 +477,8 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: había, era, estaba, habían, eran, hubiera, podía, fuera, estaban, iba</li>
-      <li>VERB-Fin: tenía, hacía, tenían, decía, quería, sabía, encontraba, estaba, parecía, iba</li>
+      <li>AUX-Fin: había, era, estaba, habían, eran, hubiera, podía, fuera, estaban, pudiera</li>
+      <li>VERB-Fin: tenía, iba, hacía, tenían, decía, quería, sabía, encontraba, estaba, parecía</li>
     </ul>
   </li>
 </ul>
@@ -487,7 +487,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Past
     <ul>
       <li>AUX-Fin: fue, fueron, pudo, hubo, estuvo, pudieron, debió, estuvieron, estuve, pude</li>
-      <li>AUX-Part: sido, podido, estado, habido, ido, debido</li>
+      <li>AUX-Part: sido, podido, estado, habido, debido</li>
       <li>VERB-Fin: dijo, aseguró, explicó, afirmó, hizo, señaló, anunció, añadió, tuvo, dio</li>
       <li>VERB-Part: hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</li>
     </ul>
@@ -498,7 +498,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Pres
     <ul>
       <li>AUX-Fin: es, ha, han, son, está, hay, puede, están, debe, sea</li>
-      <li>VERB-Fin: tiene, hace, tienen, quiere, parece, dice, sigue, está, trata, da</li>
+      <li>VERB-Fin: tiene, hace, tienen, va, quiere, parece, dice, sigue, está, trata</li>
     </ul>
   </li>
 </ul>
@@ -638,10 +638,10 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: he, hemos, estamos, estoy, somos, podemos, soy, vamos, debemos, puedo</li>
+      <li>AUX-Fin: he, hemos, estamos, estoy, somos, podemos, soy, debemos, puedo, podamos</li>
       <li>DET: mi, nuestra, nuestro, nuestros, mis, nuestras, mío, mía</li>
       <li>PRON: me, nos, yo, nosotros, mí, conmigo, nuestra, nuestro, mía, mío</li>
-      <li>VERB-Fin: creo, tenemos, tengo, sé, queremos, quiero, pienso, sabemos, digo, hacemos</li>
+      <li>VERB-Fin: creo, tenemos, tengo, sé, vamos, queremos, quiero, voy, pienso, sabemos</li>
     </ul>
   </li>
 </ul>
@@ -663,7 +663,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>AUX-Fin: es, ha, han, fue, son, está, había, hay, puede, era</li>
       <li>DET: su, sus, suyo, suya, suyos, suyas, Seu, Seva</li>
       <li>PRON: se, lo, le, la, les, él, ellos, ello, los, ella</li>
-      <li>VERB-Fin: tiene, dijo, hace, tienen, aseguró, explicó, afirmó, hizo, señaló, anunció</li>
+      <li>VERB-Fin: tiene, dijo, hace, tienen, aseguró, explicó, va, afirmó, hizo, señaló</li>
     </ul>
   </li>
 </ul>
@@ -843,7 +843,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 </ul>
 
 <ul>
-<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: haber, poder, ser, deber, estar, ir, tener, saber, querer.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: haber, poder, ser, deber, estar, saber, querer.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, estar.</li>
 </ul>
 
@@ -853,30 +853,30 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (10177)</li>
+      <li>VERB-Fin--NOUN (10266)</li>
       <li>VERB-Fin--NOUN-ADP(a) (5)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor)-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
-      <li>VERB-Fin--PRON (5001)</li>
+      <li>VERB-Fin--PRON (5037)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (215)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (217)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Fin--PRON-Nom (94)</li>
-      <li>VERB-Ger--NOUN (130)</li>
-      <li>VERB-Ger--PRON (65)</li>
-      <li>VERB-Ger--PRON-Acc,Nom (7)</li>
+      <li>VERB-Fin--PRON-Nom (98)</li>
+      <li>VERB-Ger--NOUN (98)</li>
+      <li>VERB-Ger--PRON (57)</li>
+      <li>VERB-Ger--PRON-Acc,Nom (6)</li>
       <li>VERB-Ger--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN (825)</li>
+      <li>VERB-Inf--NOUN (769)</li>
       <li>VERB-Inf--NOUN-ADP(a) (2)</li>
-      <li>VERB-Inf--PRON (310)</li>
-      <li>VERB-Inf--PRON-Acc,Nom (24)</li>
-      <li>VERB-Inf--PRON-Nom (8)</li>
-      <li>VERB-Part--NOUN (1780)</li>
+      <li>VERB-Inf--PRON (280)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (23)</li>
+      <li>VERB-Inf--PRON-Nom (4)</li>
+      <li>VERB-Part--NOUN (1788)</li>
       <li>VERB-Part--NOUN-ADP(a) (4)</li>
       <li>VERB-Part--NOUN-ADP(en) (1)</li>
-      <li>VERB-Part--PRON (707)</li>
+      <li>VERB-Part--PRON (710)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
       <li>VERB-Part--PRON-Acc,Nom (37)</li>
       <li>VERB-Part--PRON-Nom (10)</li>
@@ -932,7 +932,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc-ADP(en) (2)</li>
       <li>VERB-Fin--PRON-Com (1)</li>
       <li>VERB-Fin--PRON-Dat (726)</li>
-      <li>VERB-Ger--NOUN (521)</li>
+      <li>VERB-Ger--NOUN (520)</li>
       <li>VERB-Ger--NOUN-ADP(a) (91)</li>
       <li>VERB-Ger--NOUN-ADP(con) (17)</li>
       <li>VERB-Ger--NOUN-ADP(contra) (2)</li>
@@ -952,7 +952,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Acc,Nom-ADP(en) (3)</li>
       <li>VERB-Ger--PRON-Acc-ADP(por) (1)</li>
       <li>VERB-Ger--PRON-Dat (39)</li>
-      <li>VERB-Inf--NOUN (4822)</li>
+      <li>VERB-Inf--NOUN (4823)</li>
       <li>VERB-Inf--NOUN-ADP(a) (828)</li>
       <li>VERB-Inf--NOUN-ADP(acerca) (1)</li>
       <li>VERB-Inf--NOUN-ADP(ante) (1)</li>
@@ -1079,13 +1079,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 615 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: producir se, encontrar se, convertir se, mostrar se, ver se, referir se, situar se, quedar se, ir se, enfrentar se, dar se, dedicar se, reunir se, sentir se, hacer se, negar se, deber se, imponer se, limitar se, llamar se, encargar se, sumar se, acabar se, manifestar se, acercar se, dirigir se, quejar se, atreverse se, entrevistar se, desarrollar se, extender se, recuperar se, retirar se, incorporar se, reducir se, mover se, volver se, oponer se, sentir me, alzar se, pronunciar se, trasladar se, unir se, detener se, estrellar se, colocar se, concentrar se, desplazar se, elevar se, equivocar se</li>
+  <li>This corpus contains 608 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: producir se, encontrar se, convertir se, mostrar se, ir se, ver se, referir se, situar se, quedar se, enfrentar se, dar se, dedicar se, reunir se, sentir se, hacer se, negar se, deber se, imponer se, limitar se, encargar se, llamar se, sumar se, acabar se, manifestar se, acercar se, dirigir se, quejar se, atreverse se, entrevistar se, desarrollar se, recuperar se, extender se, reducir se, retirar se, incorporar se, volver se, mover se, oponer se, sentir me, alzar se, pronunciar se, trasladar se, unir se, detener se, colocar se, concentrar se, desplazar se, elevar se, equivocar se, estrellar se</li>
 </ul>
 
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 576 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: hacer se, celebrar se, disputar se, ver se, registrar se, realizar se, decir se, esperar se, dar se, llevar se, poner se, conocer se, mantener se, utilizar se, saber se, cerrar se, considerar se, conseguir se, iniciar se, aplicar se, encontrar se, abrir se, crear se, incluir se, cumplir se, adoptar se, anunciar se, aprobar se, centrar se, resolver se, basar se, construir se, jugar se, respetar se, prever se, alcanzar se, efectuar se, estrenar se, exigir se, plantear se, creer se, emplear se, establecer se, incorporar se, permitir se, presentar se, querer se, tener se, tomar se, vender se</li>
+  <li>This corpus contains 571 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: hacer se, celebrar se, disputar se, ver se, registrar se, realizar se, decir se, esperar se, dar se, llevar se, poner se, conocer se, mantener se, saber se, utilizar se, considerar se, cerrar se, conseguir se, iniciar se, aplicar se, encontrar se, abrir se, incluir se, crear se, cumplir se, adoptar se, anunciar se, aprobar se, centrar se, ir se, resolver se, basar se, construir se, jugar se, respetar se, prever se, alcanzar se, efectuar se, estrenar se, exigir se, plantear se, tener se, creer se, emplear se, establecer se, permitir se, presentar se, querer se, tomar se, vender se</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>

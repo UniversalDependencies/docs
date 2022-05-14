@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_fictree-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.196429 (the average of all parts of speech is 1.973368).
+The form / lemma ratio of `ADP` is 1.196429 (the average of all parts of speech is 1.970842).
 
 The 1st highest number of forms (2) was observed with the lemma “bez”: <em>bez, beze</em>.
 
@@ -74,7 +74,7 @@ Examples: <em>v, na, po, o, při</em>
 
 `ADP` nodes are attached to their parents using 8 different relations: <tt><a href="cs_fictree-dep-case.html">case</a></tt> (12267; 100% instances), <tt><a href="cs_fictree-dep-fixed.html">fixed</a></tt> (37; 0% instances), <tt><a href="cs_fictree-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="cs_fictree-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="cs_fictree-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (9251; 75% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (1816; 15% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (584; 5% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (423; 3% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (130; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (69; 1% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="cs_fictree-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (9251; 75% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (1816; 15% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (584; 5% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (423; 3% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (130; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (69; 1% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="cs_fictree-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (1; 0% instances),  (1; 0% instances)
 
 12290 (100%) `ADP` nodes are leaves.
 

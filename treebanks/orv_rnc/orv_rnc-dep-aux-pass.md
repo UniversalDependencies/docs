@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-aux.html">aux</a></tt>.
 
-9 nodes (0%) are attached to their parents as `aux:pass`.
+10 nodes (0%) are attached to their parents as `aux:pass`.
 
-5 instances of `aux:pass` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33333333333333.
+5 instances of `aux:pass` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.4.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (9; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (10; 100% instances).
 
 
 ~~~ conllu

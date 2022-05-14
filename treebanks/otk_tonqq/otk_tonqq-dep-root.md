@@ -8,29 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (8%) are attached to their parents as `root`.
+20 nodes (13%) are attached to their parents as `root`.
 
-18 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.5.
+20 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.9.
 
-The following 3 pairs of parts of speech are connected with `root`: -<tt><a href="otk_tonqq-pos-VERB.html">VERB</a></tt> (14; 78% instances), -<tt><a href="otk_tonqq-pos-NOUN.html">NOUN</a></tt> (3; 17% instances), -<tt><a href="otk_tonqq-pos-PROPN.html">PROPN</a></tt> (1; 6% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 6 root	color:blue
-1	𐰇𐰕𐰢	_	PRON	_	_	6	nsubj	_	SpaceAfter=No
-2	:‏	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	𐱃𐰉𐰎𐰲	_	PROPN	_	_	4	compound	_	SpaceAfter=No
-4	𐰃𐰠𐰭𐰀	_	NOUN	_	_	6	obl	_	SpaceAfter=No
-5	:‏	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
-6	𐰶𐰃𐰠𐰧𐰢	_	VERB	_	_	0	root	_	SpaceAfter=No
-7	:‏	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
-
-~~~
+The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="otk_tonqq-pos-VERB.html">VERB</a></tt> (14; 70% instances), -<tt><a href="otk_tonqq-pos-NOUN.html">NOUN</a></tt> (3; 15% instances), -<tt><a href="otk_tonqq-pos-NUM.html">NUM</a></tt> (2; 10% instances), -<tt><a href="otk_tonqq-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -39,18 +22,19 @@ The following 3 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	𐰚𐰃	_	NUM	_	_	2	nummod	_	SpaceAfter=No
-2	𐰇𐰠𐰏𐰃	_	NOUN	_	_	4	nsubj	_	SpaceAfter=No
-3	:‏	_	PUNCT	_	_	2	punct	_	SpaceAfter=No
-4	𐱃𐰞𐰎	_	NOUN	_	_	0	root	_	SpaceAfter=No
-5	𐰼𐱅𐰃	_	AUX	_	_	4	cop	_	SpaceAfter=No
-6	:‏	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-7	𐰋𐰃𐰼	_	NUM	_	_	8	nummod	_	SpaceAfter=No
-8	𐰇𐰠𐰏𐰃	_	NOUN	_	_	10	nsubj	_	SpaceAfter=No
-9	:‏	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
-10	𐰖𐰑𐰎	_	NOUN	_	_	4	conj	_	SpaceAfter=No
-11	𐰼𐱅𐰃	_	AUX	_	_	10	cop	_	SpaceAfter=No
-12	:‏	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
+1	𐰴𐰣	_	NOUN	_	_	4	obj	_	SpaceAfter=No
+2	𐰃	_	DET	_	_	1	det	_	SpaceAfter=No
+3	𐰣𐰃	_	ADP	_	_	1	case	_	SpaceAfter=No
+4	𐰴𐰆𐰑	_	VERB	_	_	0	root	_	SpaceAfter=No
+5	𐰯	_	CCONJ	_	_	4	cc	_	SpaceAfter=No
+6	:	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
+7	𐱃𐰉𐰍𐰲	_	PROPN	_	_	11	obl	_	SpaceAfter=No
+8	𐰴𐰀	_	ADP	_	_	7	case	_	SpaceAfter=No
+9	:	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
+10	𐰖𐰣𐰀	_	ADV	_	_	11	advmod	_	SpaceAfter=No
+11	𐰃𐰲𐰚	_	VERB	_	_	4	conj	_	SpaceAfter=No
+12	𐰓𐰃	_	AUX	_	_	11	aux	_	SpaceAfter=No
+13	:	_	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -61,11 +45,30 @@ The following 3 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	𐰋𐰃𐰠𐰏𐰀	_	ADJ	_	_	3	amod	_	SpaceAfter=No
-2	:‏	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	𐱃𐰆𐰪𐰸𐰸	_	PROPN	_	_	0	root	_	SpaceAfter=No
-4	:‏	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
-5	𐰋𐰤	_	PRON	_	_	3	nsubj	_	SpaceAfter=No
+1	𐱅𐰇𐰇𐰇𐰼𐱅	_	NUM	_	_	3	nummod	_	SpaceAfter=No
+2	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	𐰉𐰆𐰆𐰞𐰬	_	NOUN	_	_	0	root	_	SpaceAfter=No
+4	𐰴𐰀	_	ADP	_	_	3	case	_	SpaceAfter=No
+5	:	_	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 5 root	color:blue
+1	𐰾𐰇𐰇𐰇𐰇	_	NOUN	_	_	5	nsubj	_	SpaceAfter=No
+2	𐰾𐰃	_	DET	_	_	1	det	_	SpaceAfter=No
+3	:	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	𐰞𐱃𐰃	_	NUM	_	_	5	compound	_	SpaceAfter=No
+5	𐰉𐰃𐰬	_	NUM	_	_	0	root	_	SpaceAfter=No
+6	:	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	𐰼	_	AUX	_	_	5	cop	_	SpaceAfter=No
+8	𐰢𐰃𐱀	_	AUX	_	_	5	aux	_	SpaceAfter=No
+9	:	_	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

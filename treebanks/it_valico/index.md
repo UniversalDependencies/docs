@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Elisa Di Nuovo, Manuela Sanguinetti, Cristina Bosco, Alessandro Mazzei.
 
 Repository: [UD_Italian-Valico](https://github.com/UniversalDependencies/UD_Italian-Valico)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_valico29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_valico210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -80,7 +80,7 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
 
 ## Features
 
-[Clitic](it_valico-feat-Clitic.html) – [Definite](it_valico-feat-Definite.html) – [Degree](it_valico-feat-Degree.html) – [Gender](it_valico-feat-Gender.html) – [Mood](it_valico-feat-Mood.html) – [Number](it_valico-feat-Number.html) – [NumType](it_valico-feat-NumType.html) – [Person](it_valico-feat-Person.html) – [Polarity](it_valico-feat-Polarity.html) – [Poss](it_valico-feat-Poss.html) – [PronType](it_valico-feat-PronType.html) – [Tense](it_valico-feat-Tense.html) – [VerbForm](it_valico-feat-VerbForm.html)
+[Clitic](it_valico-feat-Clitic.html) – [Definite](it_valico-feat-Definite.html) – [Degree](it_valico-feat-Degree.html) – [Gender](it_valico-feat-Gender.html) – [Mood](it_valico-feat-Mood.html) – [Number](it_valico-feat-Number.html) – [NumType](it_valico-feat-NumType.html) – [Person](it_valico-feat-Person.html) – [Polarity](it_valico-feat-Polarity.html) – [Poss](it_valico-feat-Poss.html) – [PronType](it_valico-feat-PronType.html) – [Tense](it_valico-feat-Tense.html) – [Typo](it_valico-feat-Typo.html) – [VerbForm](it_valico-feat-VerbForm.html)
 
 ## Relations
 
@@ -206,6 +206,7 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
   <li>Masc
     <ul>
       <li>ADJ: brutto, simpatico, bel, bello, carino, muscoloso, timido, improviso, nuovo, robusto</li>
+      <li>ADV: per</li>
       <li>AUX-Part: stato, dovuto, potuto, stati, viuto, voluto</li>
       <li>DET: il, un, l', suo, i, mio, questo, altro, lo, gli</li>
       <li>NOUN: uomo, parco, ragazzo, giornale, amore, momento, banco, giorno, marito, fidanzato</li>
@@ -566,6 +567,21 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
   </li>
 </ul>
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: unamora</li>
+          <li>ADV: per, co</li>
+          <li>NOUN: base</li>
+          <li>SCONJ: per</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -586,11 +602,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--PRON (1)</li>
-      <li>VERB-Fin--NOUN (81)</li>
+      <li>VERB-Fin--NOUN (80)</li>
       <li>VERB-Fin--PRON (74)</li>
       <li>VERB-Ger--NOUN (9)</li>
       <li>VERB-Ger--PRON (6)</li>
-      <li>VERB-Inf--NOUN (4)</li>
+      <li>VERB-Inf--NOUN (5)</li>
       <li>VERB-Inf--PRON (6)</li>
       <li>VERB-Part--NOUN (63)</li>
       <li>VERB-Part--PRON (35)</li>

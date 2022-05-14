@@ -13,7 +13,7 @@ This relation is universal.
 143 instances of `appos` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.28671328671329.
 
-The following 14 pairs of parts of speech are connected with `appos`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (63; 44% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (23; 16% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (19; 13% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (18; 13% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `appos`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (63; 44% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (23; 16% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (19; 13% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (19; 13% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -58,25 +58,25 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 7 appos	color:blue
-1	Barón	Barón	PROPN	NNP	Number=Sing	0	root	0:root	_
-2	de	de	PROPN	NNP	Number=Sing	1	flat	1:flat	_
-3	Claret	Claret	PROPN	NNP	Number=Sing	1	flat	1:flat	SpaceAfter=No
-4	,	,	PUNCT	,	_	7	punct	7:punct	_
-5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
-6	only	only	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
-7	one	one	NOUN	NN	Number=Sing	1	appos	1:appos	_
-8	in	in	ADP	IN	_	9	case	9:case	_
-9	Government	government	NOUN	NN	Number=Sing	7	nmod	7:nmod:in	_
-10	with	with	ADP	IN	_	13	case	13:case	_
-11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
-12	noble	noble	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
-13	title	title	NOUN	NN	Number=Sing	7	nmod	7:nmod:with	SpaceAfter=No
-14	.	.	PUNCT	.	_	1	punct	1:punct	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 12 appos	color:blue
+1	New	new	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	episodes	episode	NOUN	NNS	Number=Plur	4	nsubj:pass	4:nsubj:pass	_
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
+4	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+5	by	by	ADP	IN	_	6	case	6:case	_
+6	after	aftershow	NOUN	GW	Number=Sing|Typo=Yes	4	obl	4:obl:by	_
+7	show	_	X	NN	_	6	goeswith	6:goeswith	SpaceAfter=No
+8	,	,	PUNCT	,	_	6	punct	6:punct	_
+9	"	"	PUNCT	``	_	12	punct	12:punct	SpaceAfter=No
+10	The	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Proper=True
+11	Talking	talk	VERB	VBG	VerbForm=Ger	12	amod	12:amod	_
+12	Dead	dead	NOUN	NN	Number=Sing	6	appos	6:appos	SpaceAfter=No
+13	.	.	PUNCT	.	_	12	punct	12:punct	SpaceAfter=No
+14	"	"	PUNCT	''	_	12	punct	12:punct	_
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, KyungTae Lim, Thierry Poibeau, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-Lattice](https://github.com/UniversalDependencies/UD_Komi_Zyrian-Lattice)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -50,7 +50,7 @@ The treebank contains continuous texts in the written Komi-Zyrian language. All 
 
 ## Acknowledgments
 
-This work has been developed within the framework of the LAKME project funded by a grant from Paris Sciences et Lettres (IDEX PSL reference ANR-10-IDEX-0001-02). Thierry Poibeau is also partially supported by a RGNF-CNRS (grant between the LATTICE-CNRS Laboratory and the Russian State University for the Humanities in Moscow). In the UD release 2.7 [Kone Foundation](https://koneensaatio.fi/en/)-funded research project [Language Documentation meets Language Technology: The Next Step in the Description of Komi](langdoc.github.io/IKDP-2), led by [Rogier Blokland](https://katalog.uu.se/profile/?id=N14-1060) and [Michael Rießler](https://uefconnect.uef.fi/en/person/michael.riesler/), has started to expand the treebank, and the work will continue to release 2.8. In this phase the annotation work is being done by Niko Partanen and Jack Rueter. [GiellaLT](https://giellalt.uit.no/lang-kpv) infrastucture was used in morphological analysis.
+This work has been developed within the framework of the LAKME project funded by a grant from Paris Sciences et Lettres (IDEX PSL reference ANR-10-IDEX-0001-02). Thierry Poibeau is also partially supported by a RGNF-CNRS (grant between the LATTICE-CNRS Laboratory and the Russian State University for the Humanities in Moscow). In the UD releases 2.7 and 2.8. [Kone Foundation](https://koneensaatio.fi/en/)-funded research project [Language Documentation meets Language Technology: The Next Step in the Description of Komi](langdoc.github.io/IKDP-2), led by [Rogier Blokland](https://katalog.uu.se/profile/?id=N14-1060) and [Michael Rießler](https://uefconnect.uef.fi/en/person/michael.riesler/), expanded the treebank. In this phase the annotation work was done by Niko Partanen and Jack Rueter. [GiellaLT](https://giellalt.uit.no/lang-kpv) infrastucture was used in morphological analysis.
 
 If you use this treebank in your work, please cite:
 
@@ -86,21 +86,21 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 
 ## Features
 
-[Abbr](kpv_lattice-feat-Abbr.html) – [AdpType](kpv_lattice-feat-AdpType.html) – [AdvType](kpv_lattice-feat-AdvType.html) – [Animacy](kpv_lattice-feat-Animacy.html) – [Case](kpv_lattice-feat-Case.html) – [Clitic](kpv_lattice-feat-Clitic.html) – [Connegative](kpv_lattice-feat-Connegative.html) – [Definite](kpv_lattice-feat-Definite.html) – [Degree](kpv_lattice-feat-Degree.html) – [Derivation](kpv_lattice-feat-Derivation.html) – [Evident](kpv_lattice-feat-Evident.html) – [Mood](kpv_lattice-feat-Mood.html) – [NounType](kpv_lattice-feat-NounType.html) – [Number](kpv_lattice-feat-Number.html) – [Number[psor]](kpv_lattice-feat-Number-psor.html) – [Number[subj]](kpv_lattice-feat-Number-subj.html) – [NumType](kpv_lattice-feat-NumType.html) – [PartForm](kpv_lattice-feat-PartForm.html) – [Person](kpv_lattice-feat-Person.html) – [Person[psor]](kpv_lattice-feat-Person-psor.html) – [Polarity](kpv_lattice-feat-Polarity.html) – [PronType](kpv_lattice-feat-PronType.html) – [Reflex](kpv_lattice-feat-Reflex.html) – [Tense](kpv_lattice-feat-Tense.html) – [Valency](kpv_lattice-feat-Valency.html) – [VerbForm](kpv_lattice-feat-VerbForm.html) – [Voice](kpv_lattice-feat-Voice.html)
+[Abbr](kpv_lattice-feat-Abbr.html) – [AdpType](kpv_lattice-feat-AdpType.html) – [AdvType](kpv_lattice-feat-AdvType.html) – [Animacy](kpv_lattice-feat-Animacy.html) – [Case](kpv_lattice-feat-Case.html) – [Clitic](kpv_lattice-feat-Clitic.html) – [Connegative](kpv_lattice-feat-Connegative.html) – [Definite](kpv_lattice-feat-Definite.html) – [Degree](kpv_lattice-feat-Degree.html) – [Derivation](kpv_lattice-feat-Derivation.html) – [Evident](kpv_lattice-feat-Evident.html) – [Mood](kpv_lattice-feat-Mood.html) – [NounType](kpv_lattice-feat-NounType.html) – [Number](kpv_lattice-feat-Number.html) – [Number[psor]](kpv_lattice-feat-Number-psor.html) – [Number[subj]](kpv_lattice-feat-Number-subj.html) – [NumType](kpv_lattice-feat-NumType.html) – [PartForm](kpv_lattice-feat-PartForm.html) – [Person](kpv_lattice-feat-Person.html) – [Person[psor]](kpv_lattice-feat-Person-psor.html) – [Polarity](kpv_lattice-feat-Polarity.html) – [PronType](kpv_lattice-feat-PronType.html) – [Reflex](kpv_lattice-feat-Reflex.html) – [Tense](kpv_lattice-feat-Tense.html) – [Valency](kpv_lattice-feat-Valency.html) – [Variant](kpv_lattice-feat-Variant.html) – [VerbForm](kpv_lattice-feat-VerbForm.html) – [Voice](kpv_lattice-feat-Voice.html)
 
 ## Relations
 
-[acl](kpv_lattice-dep-acl.html) – [acl:relcl](kpv_lattice-dep-acl-relcl.html) – [advcl](kpv_lattice-dep-advcl.html) – [advcl:eval](kpv_lattice-dep-advcl-eval.html) – [advcl:lto](kpv_lattice-dep-advcl-lto.html) – [advcl:tcl](kpv_lattice-dep-advcl-tcl.html) – [advmod](kpv_lattice-dep-advmod.html) – [advmod:cau](kpv_lattice-dep-advmod-cau.html) – [advmod:deg](kpv_lattice-dep-advmod-deg.html) – [advmod:emph](kpv_lattice-dep-advmod-emph.html) – [advmod:eval](kpv_lattice-dep-advmod-eval.html) – [advmod:foc](kpv_lattice-dep-advmod-foc.html) – [advmod:freq](kpv_lattice-dep-advmod-freq.html) – [advmod:lfrom](kpv_lattice-dep-advmod-lfrom.html) – [advmod:lmod](kpv_lattice-dep-advmod-lmod.html) – [advmod:lmp](kpv_lattice-dep-advmod-lmp.html) – [advmod:lto](kpv_lattice-dep-advmod-lto.html) – [advmod:mmod](kpv_lattice-dep-advmod-mmod.html) – [advmod:tmod](kpv_lattice-dep-advmod-tmod.html) – [amod](kpv_lattice-dep-amod.html) – [appos](kpv_lattice-dep-appos.html) – [aux](kpv_lattice-dep-aux.html) – [aux:aspect](kpv_lattice-dep-aux-aspect.html) – [aux:nec](kpv_lattice-dep-aux-nec.html) – [aux:neg](kpv_lattice-dep-aux-neg.html) – [aux:pot](kpv_lattice-dep-aux-pot.html) – [aux:tense](kpv_lattice-dep-aux-tense.html) – [case](kpv_lattice-dep-case.html) – [cc](kpv_lattice-dep-cc.html) – [cc:preconj](kpv_lattice-dep-cc-preconj.html) – [ccomp](kpv_lattice-dep-ccomp.html) – [compound](kpv_lattice-dep-compound.html) – [conj](kpv_lattice-dep-conj.html) – [cop](kpv_lattice-dep-cop.html) – [csubj](kpv_lattice-dep-csubj.html) – [csubj:cop](kpv_lattice-dep-csubj-cop.html) – [det](kpv_lattice-dep-det.html) – [discourse](kpv_lattice-dep-discourse.html) – [dislocated](kpv_lattice-dep-dislocated.html) – [fixed](kpv_lattice-dep-fixed.html) – [flat](kpv_lattice-dep-flat.html) – [flat:name](kpv_lattice-dep-flat-name.html) – [flat:num](kpv_lattice-dep-flat-num.html) – [list](kpv_lattice-dep-list.html) – [mark](kpv_lattice-dep-mark.html) – [nmod](kpv_lattice-dep-nmod.html) – [nmod:appos](kpv_lattice-dep-nmod-appos.html) – [nmod:comp](kpv_lattice-dep-nmod-comp.html) – [nmod:lfrom](kpv_lattice-dep-nmod-lfrom.html) – [nmod:lmod](kpv_lattice-dep-nmod-lmod.html) – [nmod:obj](kpv_lattice-dep-nmod-obj.html) – [nmod:poss](kpv_lattice-dep-nmod-poss.html) – [nmod:subj](kpv_lattice-dep-nmod-subj.html) – [nsubj](kpv_lattice-dep-nsubj.html) – [nsubj:cop](kpv_lattice-dep-nsubj-cop.html) – [nummod](kpv_lattice-dep-nummod.html) – [obj](kpv_lattice-dep-obj.html) – [obl](kpv_lattice-dep-obl.html) – [obl:agent](kpv_lattice-dep-obl-agent.html) – [obl:cau](kpv_lattice-dep-obl-cau.html) – [obl:lfrom](kpv_lattice-dep-obl-lfrom.html) – [obl:lmod](kpv_lattice-dep-obl-lmod.html) – [obl:lmp](kpv_lattice-dep-obl-lmp.html) – [obl:lto](kpv_lattice-dep-obl-lto.html) – [obl:mcl](kpv_lattice-dep-obl-mcl.html) – [obl:tmod](kpv_lattice-dep-obl-tmod.html) – [orphan](kpv_lattice-dep-orphan.html) – [parataxis](kpv_lattice-dep-parataxis.html) – [punct](kpv_lattice-dep-punct.html) – [reparandum](kpv_lattice-dep-reparandum.html) – [root](kpv_lattice-dep-root.html) – [vocative](kpv_lattice-dep-vocative.html) – [xcomp](kpv_lattice-dep-xcomp.html)
+[acl](kpv_lattice-dep-acl.html) – [acl:relcl](kpv_lattice-dep-acl-relcl.html) – [advcl](kpv_lattice-dep-advcl.html) – [advcl:eval](kpv_lattice-dep-advcl-eval.html) – [advcl:lto](kpv_lattice-dep-advcl-lto.html) – [advcl:tcl](kpv_lattice-dep-advcl-tcl.html) – [advmod](kpv_lattice-dep-advmod.html) – [advmod:cau](kpv_lattice-dep-advmod-cau.html) – [advmod:deg](kpv_lattice-dep-advmod-deg.html) – [advmod:emph](kpv_lattice-dep-advmod-emph.html) – [advmod:eval](kpv_lattice-dep-advmod-eval.html) – [advmod:foc](kpv_lattice-dep-advmod-foc.html) – [advmod:freq](kpv_lattice-dep-advmod-freq.html) – [advmod:lfrom](kpv_lattice-dep-advmod-lfrom.html) – [advmod:lmod](kpv_lattice-dep-advmod-lmod.html) – [advmod:lmp](kpv_lattice-dep-advmod-lmp.html) – [advmod:lto](kpv_lattice-dep-advmod-lto.html) – [advmod:mmod](kpv_lattice-dep-advmod-mmod.html) – [advmod:tmod](kpv_lattice-dep-advmod-tmod.html) – [amod](kpv_lattice-dep-amod.html) – [appos](kpv_lattice-dep-appos.html) – [aux](kpv_lattice-dep-aux.html) – [aux:aspect](kpv_lattice-dep-aux-aspect.html) – [aux:nec](kpv_lattice-dep-aux-nec.html) – [aux:neg](kpv_lattice-dep-aux-neg.html) – [aux:pot](kpv_lattice-dep-aux-pot.html) – [aux:tense](kpv_lattice-dep-aux-tense.html) – [case](kpv_lattice-dep-case.html) – [cc](kpv_lattice-dep-cc.html) – [cc:preconj](kpv_lattice-dep-cc-preconj.html) – [ccomp](kpv_lattice-dep-ccomp.html) – [compound](kpv_lattice-dep-compound.html) – [conj](kpv_lattice-dep-conj.html) – [cop](kpv_lattice-dep-cop.html) – [csubj](kpv_lattice-dep-csubj.html) – [csubj:cop](kpv_lattice-dep-csubj-cop.html) – [det](kpv_lattice-dep-det.html) – [discourse](kpv_lattice-dep-discourse.html) – [dislocated](kpv_lattice-dep-dislocated.html) – [fixed](kpv_lattice-dep-fixed.html) – [flat](kpv_lattice-dep-flat.html) – [flat:name](kpv_lattice-dep-flat-name.html) – [flat:num](kpv_lattice-dep-flat-num.html) – [list](kpv_lattice-dep-list.html) – [mark](kpv_lattice-dep-mark.html) – [nmod](kpv_lattice-dep-nmod.html) – [nmod:appos](kpv_lattice-dep-nmod-appos.html) – [nmod:lfrom](kpv_lattice-dep-nmod-lfrom.html) – [nmod:lmod](kpv_lattice-dep-nmod-lmod.html) – [nmod:obj](kpv_lattice-dep-nmod-obj.html) – [nmod:poss](kpv_lattice-dep-nmod-poss.html) – [nmod:subj](kpv_lattice-dep-nmod-subj.html) – [nsubj](kpv_lattice-dep-nsubj.html) – [nsubj:cop](kpv_lattice-dep-nsubj-cop.html) – [nummod](kpv_lattice-dep-nummod.html) – [obj](kpv_lattice-dep-obj.html) – [obl](kpv_lattice-dep-obl.html) – [obl:agent](kpv_lattice-dep-obl-agent.html) – [obl:cau](kpv_lattice-dep-obl-cau.html) – [obl:comp](kpv_lattice-dep-obl-comp.html) – [obl:lfrom](kpv_lattice-dep-obl-lfrom.html) – [obl:lmod](kpv_lattice-dep-obl-lmod.html) – [obl:lmp](kpv_lattice-dep-obl-lmp.html) – [obl:lto](kpv_lattice-dep-obl-lto.html) – [obl:mcl](kpv_lattice-dep-obl-mcl.html) – [obl:tmod](kpv_lattice-dep-obl-tmod.html) – [orphan](kpv_lattice-dep-orphan.html) – [parataxis](kpv_lattice-dep-parataxis.html) – [punct](kpv_lattice-dep-punct.html) – [reparandum](kpv_lattice-dep-reparandum.html) – [root](kpv_lattice-dep-root.html) – [vocative](kpv_lattice-dep-vocative.html) – [xcomp](kpv_lattice-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 662 sentences, 8020 tokens and 8072 syntactic words.</li>
+<li>This corpus contains 663 sentences, 8030 tokens and 8083 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1426 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 1427 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -112,8 +112,8 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 </ul>
 
 <ul>
-<li>This corpus contains 28 multi-word tokens. On average, one multi-word token consists of 2.86 syntactic words.</li>
-<li>There are 28 types of multi-word tokens. Examples: yв-йӧг, ай-мам, босьтӧма-лӧсьӧдӧма, вевттьӧма-сайӧдӧма, вӧрсалӧн, вӧчысь-тэчысьясыс, гӧрисны-кӧдзисны, дзӧрны-катласьны, довгыны-мунны, кокъясасӧ, кыдз-пипу, кӧм-пась, кӧм-паськӧм, лебмӧм-сісьмӧм, лыдтӧм-тшӧттӧм, нырисасӧ, нязгис-ворсіс, няръялӧма-песӧма, пуритӧ-быдмӧ, пусьӧма-нӧгыльтчӧма, сиктсаяслы, сир-ёкыш, сьӧла-тар, шкоргис-узис, шлопкӧбтӧ-пуктӧ, шонтӧ-керӧ, шӧтӧ-локтӧ, ыркалӧм-сьӧктаммӧм.</li>
+<li>This corpus contains 29 multi-word tokens. On average, one multi-word token consists of 2.83 syntactic words.</li>
+<li>There are 29 types of multi-word tokens. Examples: yв-йӧг, ай-мам, босьтӧма-лӧсьӧдӧма, вевттьӧма-сайӧдӧма, вӧрсалӧн, вӧчысь-тэчысьясыс, гӧрисны-кӧдзисны, дзӧрны-катласьны, довгыны-мунны, кокъясасӧ, кыдз-пипу, кӧм-пась, кӧм-паськӧм, лебмӧм-сісьмӧм, лыдтӧм-тшӧттӧм, мукӧдлӧнысь, нырисасӧ, нязгис-ворсіс, няръялӧма-песӧма, пуритӧ-быдмӧ, пусьӧма-нӧгыльтчӧма, сиктсаяслы, сир-ёкыш, сьӧла-тар, шкоргис-узис, шлопкӧбтӧ-пуктӧ, шонтӧ-керӧ, шӧтӧ-локтӧ, ыркалӧм-сьӧктаммӧм.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -263,7 +263,8 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 <ul>
   <li>Abe
     <ul>
-      <li>NOUN: Коктӧм, Кӧмтӧм, Пасьтӧм, Погонъястӧм, берегъястӧм, помтӧмӧсь, пыкӧдтӧмӧсь, сӧстӧмӧсь, шуштӧм</li>
+      <li>NOUN: вошӧмъястӧг, Коктӧм, Кӧмтӧм, Пасьтӧм, Погонъястӧм, Туйтӧг, Шогтӧг, берегъястӧм, помтӧмӧсь, пыкӧдтӧмӧсь</li>
+      <li>PROPN: Льӧмватӧгыс</li>
     </ul>
   </li>
 </ul>
@@ -317,15 +318,6 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>AprIll
     <ul>
       <li>PRON: миянланьӧ</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Car
-    <ul>
-      <li>NOUN: вошӧмъястӧг, Туйтӧг, Шогтӧг, уджтӧг, шондіястӧг</li>
-      <li>PROPN: Льӧмватӧгыс</li>
     </ul>
   </li>
 </ul>
@@ -389,7 +381,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>ADP: йылысь, вылысь, йывсьыд, ылысь, водзсьыс, вывсьыс, дорысь, йывсьыс, пиысь, помсьыд</li>
       <li>ADV: сэтысь, кыськӧ, Быдлаысь, кытысь, Медводдзаысьсӧ, выльысь</li>
       <li>NOUN: вылысь, вӧрысь, кежысь, керкаясысь, Зэрсьыс, Литваысь, Медысь, Стакейсьыс, Татілокысь, абусьыс</li>
-      <li>PRON: ассьыныс, ассьыс, мукӧдъясысь, таысь, Мыйысь, менсьым, некодысь, нинӧмысь, сыысь</li>
+      <li>PRON: ассьыныс, ассьыс, мукӧдъясысь, таысь, Мыйысь, менсьым, некодысь, нинӧмысь, сыысь, ысь</li>
       <li>PROPN: Мӧдлапӧлысь, Пӧлашысь</li>
       <li>SCONJ: медысь</li>
       <li>VERB: гӧтрасьӧмысь, инмӧмысь, кывзысьысьӧсь, саймовтчӧмысь, сыныштӧмысь, усьӧмъяссьыс</li>
@@ -586,6 +578,26 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   </li>
 </ul>
 
+<ul>
+  <li><a>Variant</a></li>
+</ul>
+
+<ul>
+  <li>Nomin
+    <ul>
+      <li>NOUN: Коктӧм, Кӧмтӧм, Пасьтӧм, Погонъястӧм, берегъястӧм, помтӧмӧсь, пыкӧдтӧмӧсь, шуштӧм</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Vclause
+    <ul>
+      <li>NOUN: вошӧмъястӧг, Туйтӧг, Шогтӧг, уджтӧг, шондіястӧг</li>
+      <li>PROPN: Льӧмватӧгыс</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Verbal Features</h3>
 
@@ -862,7 +874,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>ADP: костаныс, бӧраным, уланыс</li>
       <li>DET: кыкнанныс, мӧдным, ставныс, ӧтиным</li>
-      <li>NOUN: уджныс, Войвыланым, Коднаныд, Петкӧдласъясным, Сьӧлӧмныс, Челядьныд, аслыспӧлӧслунным, ветланныд, газныд, горным</li>
+      <li>NOUN: уджныс, Войвыланым, Коднаныд, Петкӧдласъясным, Свадьбаныс, Сьӧлӧмныс, Челядьныд, аслыспӧлӧслунным, ветланныд, газныд</li>
       <li>PRON: ставныс, Кыкнанным, Кыкнанныс, ставнысӧ, ӧта-мӧднымӧс</li>
       <li>VERB: Пӧттӧдзныс, баитӧмъяснысӧ, велӧдчиганыс, индалысьясным, куйліганыс, чӧвтігкостаныс, ӧвтыштліганыс</li>
       <li>VERB-Conv: велӧдчиганыс, куйліганыс, ӧвтыштліганыс</li>
@@ -1004,7 +1016,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>Yes
         <ul>
           <li>AUX: вермы, кут, вӧв, позь, вӧвны, вӧвлы, ков, вермыны, лысьт</li>
-          <li>VERB: жалит, пов, тыдав, вӧв, тешитчы, тӧд, тӧр, аддзы, бергӧдчы, вермыв</li>
+          <li>VERB: жалит, пов, тыдав, вӧв, тешитчы, тӧд, тӧр, ло, аддзы, бергӧдчы</li>
         </ul>
       </li>
     </ul>
@@ -1124,7 +1136,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
           <li>NOUN: тӧвся, тӧлысся</li>
         </ul>
       </li>
-      <li>VCar
+      <li>VAbe
         <ul>
           <li>VERB: виччысьтӧг, бергӧдлытӧг, дугдывтӧг, жалиттӧг, повтӧг, тэрмасьтӧг, Тӧдлытӧг, вӧрзьӧдлывтӧг, чинтытӧг, шойччывтӧг</li>
           <li>VERB-Conv: дугдывтӧг, жалиттӧг, Тӧдлытӧг, виччысьтӧг, чинтытӧг</li>
@@ -1290,7 +1302,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Ela (1)</li>
       <li>VERB--NOUN-Ill (1)</li>
       <li>VERB--NOUN-Ins (1)</li>
-      <li>VERB--NOUN-Nom (337)</li>
+      <li>VERB--NOUN-Nom (338)</li>
       <li>VERB--NOUN-Nom-ADP(вылысь) (1)</li>
       <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Nom (131)</li>
@@ -1344,6 +1356,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 41 relation subtypes: <a>acl:relcl</a>, <a>advcl:eval</a>, <a>advcl:lto</a>, <a>advcl:tcl</a>, <a>advmod:cau</a>, <a>advmod:deg</a>, <a>advmod:emph</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:freq</a>, <a>advmod:lfrom</a>, <a>advmod:lmod</a>, <a>advmod:lmp</a>, <a>advmod:lto</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:aspect</a>, <a>aux:nec</a>, <a>aux:neg</a>, <a>aux:pot</a>, <a>aux:tense</a>, <a>cc:preconj</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nmod:appos</a>, <a>nmod:comp</a>, <a>nmod:lfrom</a>, <a>nmod:lmod</a>, <a>nmod:obj</a>, <a>nmod:poss</a>, <a>nmod:subj</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:cau</a>, <a>obl:lfrom</a>, <a>obl:lmod</a>, <a>obl:lmp</a>, <a>obl:lto</a>, <a>obl:mcl</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 41 relation subtypes: <a>acl:relcl</a>, <a>advcl:eval</a>, <a>advcl:lto</a>, <a>advcl:tcl</a>, <a>advmod:cau</a>, <a>advmod:deg</a>, <a>advmod:emph</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:freq</a>, <a>advmod:lfrom</a>, <a>advmod:lmod</a>, <a>advmod:lmp</a>, <a>advmod:lto</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:aspect</a>, <a>aux:nec</a>, <a>aux:neg</a>, <a>aux:pot</a>, <a>aux:tense</a>, <a>cc:preconj</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nmod:appos</a>, <a>nmod:lfrom</a>, <a>nmod:lmod</a>, <a>nmod:obj</a>, <a>nmod:poss</a>, <a>nmod:subj</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:cau</a>, <a>obl:comp</a>, <a>obl:lfrom</a>, <a>obl:lmod</a>, <a>obl:lmp</a>, <a>obl:lto</a>, <a>obl:mcl</a>, <a>obl:tmod</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

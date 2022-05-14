@@ -95,7 +95,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (2; 5% of non-empty `Animacy`): <em>nepožádali, schválili</em>
 * `Inan` (35; 95% of non-empty `Animacy`): <em>přestaly, nastaly, staly, dosáhly, existovaly, překročily, rozhodly, navazovaly, neprošly, nepřevýšily</em>
-* `EMPTY` (1820): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, vést, musí, účtuje</em>
+* `EMPTY` (1804): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, vést, musí, účtuje</em>
 
 `Animacy` seems to be **lexical feature** of `VERB`. 100% lemmas (18) occur only with one value of `Animacy`.
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 `AUX` tokens may have the following values of `Animacy`:
 
 * `Inan` (26; 100% of non-empty `Animacy`): <em>byly, nebyly</em>
-* `EMPTY` (590): <em>je, jsou, není, nejsou, být, by, bude, byl, bylo, budou</em>
+* `EMPTY` (606): <em>je, jsou, není, nejsou, být, by, bude, byl, bylo, budou</em>
 
 ### `NUM`
 

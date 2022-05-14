@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSDLUW: POS Tags: `ADP`
 
-There are 74 `ADP` lemmas (0%), 100 `ADP` types (0%) and 41119 `ADP` tokens (27%).
+There are 77 `ADP` lemmas (0%), 100 `ADP` types (0%) and 41119 `ADP` tokens (27%).
 Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 1 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: の, は, に, を, が, と, で, も, から, や
 
 The 10 most frequent `ADP` types:  の, は, に, を, が, と, で, も, から, や
 
-The 10 most frequent ambiguous lemmas: の (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 8801, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 386, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 2), に (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 5334, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="ja_gsdluw-pos-X.html">X</a></tt> 1), が (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4008, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 761, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 2), と (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2985, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 215), で (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2584, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 3), も (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 1707, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 13), から (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 980, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 64), や (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 608, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 2, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 1), など (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 454, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 76, <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> 1), まで (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 284, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 23)
+The 10 most frequent ambiguous lemmas: の (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 8801, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 386, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 2), に (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 5334, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="ja_gsdluw-pos-X.html">X</a></tt> 1), が (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4008, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 761, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 2), と (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2985, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 215), で (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2584, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 62, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 1), も (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 1707, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 13), から (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 980, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 64, <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> 1), や (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 608, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 2, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 1), など (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 454, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 76), まで (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 284, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 23)
 
-The 10 most frequent ambiguous types:  の (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 8801, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 383, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 2), に (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 5333, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 804, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="ja_gsdluw-pos-X.html">X</a></tt> 1), が (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4008, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 761, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 2), と (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2985, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 215), で (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2583, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 410, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 66, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 1), も (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 1707, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 13), から (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 980, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 64), や (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 608, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 1, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 1), など (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 452, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 76), まで (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 283, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 23)
+The 10 most frequent ambiguous types:  の (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 8801, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 383, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 2), に (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 5333, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 804, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="ja_gsdluw-pos-X.html">X</a></tt> 1), が (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4008, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 761, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 2), と (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2985, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 215), で (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2583, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 403, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 62, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 1), も (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 1707, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 13), から (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 980, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 64), や (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 608, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 1, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 1), など (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 452, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 76), まで (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 283, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 23)
 
 
 * の
@@ -36,8 +36,8 @@ The 10 most frequent ambiguous types:  の (<tt><a href="ja_gsdluw-pos-ADP.html"
   * <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 215: 色 の 指定 に teal と 指定する <b>と</b> 、 16進数表記 で #008080 と 表現さ れる 色 が 発色さ れる 。
 * で
   * <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2583: 一方 B国 <b>で</b> は 輸出 により 小麦 の 量 が 減る ので 、 小麦 の 価格 は 上がる 。
-  * <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 410: 府中 や 国立 の 辺り の 土地 が 得意 と の こと <b>で</b> 、 色々 と 紹介し てもらう ことができ まし た 。
-  * <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 66: 休養 を 挟ん <b>で</b> 京成杯オータムハンデキャップ に 出走し た が 、 5着 に 敗れ た 。
+  * <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 403: 府中 や 国立 の 辺り の 土地 が 得意 と の こと <b>で</b> 、 色々 と 紹介し てもらう ことができ まし た 。
+  * <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 62: 休養 を 挟ん <b>で</b> 京成杯オータムハンデキャップ に 出走し た が 、 5着 に 敗れ た 。
   * <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 2: 渋谷駅 を <b>で</b> て すぐ な ので 、 行く の に も 楽 でし た 。
   * <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 1: <b>で</b> , どんな 顔 だっ た ?
 * も
@@ -59,13 +59,13 @@ The 10 most frequent ambiguous types:  の (<tt><a href="ja_gsdluw-pos-ADP.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.351351 (the average of all parts of speech is 1.102729).
+The form / lemma ratio of `ADP` is 1.298701 (the average of all parts of speech is 1.095294).
 
-The 1st highest number of forms (4) was observed with the lemma “に因る”: により, による, に因る, に拠る.
+The 1st highest number of forms (3) was observed with the lemma “くらい”: くらい, ぐらい, 位.
 
-The 2nd highest number of forms (3) was observed with the lemma “くらい”: くらい, ぐらい, 位.
+The 2nd highest number of forms (3) was observed with the lemma “という”: という, と云う, と言う.
 
-The 3rd highest number of forms (3) was observed with the lemma “と言う”: という, と云う, と言う.
+The 3rd highest number of forms (3) was observed with the lemma “による”: による, に因る, に拠る.
 
 `ADP` does not occur with any features.
 

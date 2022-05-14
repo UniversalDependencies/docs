@@ -24,11 +24,11 @@ The following 2 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 3 4 punct	color:blue
 1	maʔwɨr	maʔwɨt	NOUN	n	_	3	nmod	_	_
 2	at	at	PART	part	_	1	case	_	_
-3	pewit	_	NOUN	n	_	0	root	_	_
-4	,	_	PUNCT	punct	_	3	punct	_	_
-5	ŋaat	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
-6	pewit	_	NOUN	n	_	3	appos	_	_
-7	koãm	_	PART	part	_	6	mark	_	_
+3	pewit	pewit	NOUN	n	_	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	ŋaat	ŋaat	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+6	pewit	pewit	NOUN	n	_	3	appos	_	_
+7	koãm	koãm	PART	part	_	6	mark	_	_
 
 ~~~
 
@@ -39,10 +39,10 @@ The following 2 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 punct	color:blue
-1	kanãy	_	ADV	adv	_	3	advmod	_	_
+1	kanãy	kanãy	ADV	adv	_	3	advmod	_	_
 2	péŋ	péŋ	NOUN	n	_	3	nsubj	_	_
-3	ʔet	_	AUX	aux	Decl=Assert	0	root	_	_
-4	(...)	_	PUNCT	punct	_	3	punct	_	_
+3	ʔet	ʔe	AUX	aux	Decl=Assert	0	root	_	_
+4	(...)	...	PUNCT	punct	_	3	punct	_	_
 
 ~~~
 

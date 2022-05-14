@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1612 tokens (1%) have a non-empty value of `Poss`.
-204 types (1%) occur at least once with a non-empty value of `Poss`.
+1610 tokens (1%) have a non-empty value of `Poss`.
+203 types (1%) occur at least once with a non-empty value of `Poss`.
 70 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1519; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (93; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1517; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (93; 0% instances).
 
 ### `DET`
 
-1519 <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> tokens (27% of all `DET` tokens) have a non-empty value of `Poss`.
+1517 <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> tokens (27% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1504; 99%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1302; 86%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (861; 57%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1502; 99%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1300; 86%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (859; 57%).
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (1519; 100% of non-empty `Poss`): <em>его, мой, их, своей, ее, свой, мои, свои, моя, свою</em>
+* `Yes` (1517; 100% of non-empty `Poss`): <em>его, мой, их, своей, ее, свой, мои, свои, моя, свою</em>
 * `EMPTY` (4181): <em>все, этот, такой, этой, сам, эти, всех, это, такое, этом</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Poss`.
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (93; 100% of non-empty `Poss`): <em>Божией, Божьей, Божьим, Иринины, Петину, Петровичеву, Христова, бабушкин, бычьей, маминой</em>
-* `EMPTY` (16795): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
+* `EMPTY` (16792): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
 
 `Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (57) occur only with one value of `Poss`.
 

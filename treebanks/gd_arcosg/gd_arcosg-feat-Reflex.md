@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-413 tokens (0%) have a non-empty value of `Reflex`.
+430 tokens (0%) have a non-empty value of `Reflex`.
 10 types (0%) occur at least once with a non-empty value of `Reflex`.
 8 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (411; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (428; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `PRON`
 
-411 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Reflex`.
+428 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (411; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (411; 100%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (411; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (428; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (428; 100%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (428; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (411; 100% of non-empty `Reflex`): <em>fhèin, fhéin, chèile, fhìn, a, chéile, péin, a-chèile, fhein, fèin</em>
-* `EMPTY` (8551): <em>e, iad, i, mi, a, thu, sin, sinn, esan, seo</em>
+* `Yes` (428; 100% of non-empty `Reflex`): <em>fhèin, fhéin, chèile, fhìn, a, chéile, péin, a-chèile, fhein, fèin</em>
+* `EMPTY` (9179): <em>e, iad, i, mi, a, thu, sin, sinn, esan, seo</em>
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `NOUN` tokens may have the following values of `Reflex`:
 
 * `Yes` (2; 100% of non-empty `Reflex`): <em>a, chèile</em>
-* `EMPTY` (17876): <em>bhith, dol, ràdh, duine, chur, fear, ais, fhios, dhèanamh, taobh</em>
+* `EMPTY` (18854): <em>bhith, dol, ràdh, duine, fear, chur, fhios, taobh, ais, dhèanamh</em>
 
 ## Relations with Agreement in `Reflex`
 

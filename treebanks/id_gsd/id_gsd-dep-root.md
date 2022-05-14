@@ -22,12 +22,12 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	Pinisi	pinisi	PROPN	X--	_	3	nsubj	_	MorphInd=^pinisi<x>_X--$
-2	sebenarnya	sebenarnya	ADV	D--	_	3	advmod	_	MorphInd=^sebenarnya<d>_D--$
-3	merupakan	merupakan	VERB	O--	_	0	root	_	MorphInd=^merupakan<o>_O--$
-4	nama	nama	NOUN	NSD	Number=Sing	3	obj	_	MorphInd=^nama<n>_NSD$
-5	layar	layar	NOUN	NSD	Number=Sing	4	compound	_	SpaceAfter=No|MorphInd=^layar<n>_NSD$
-6	.	.	PUNCT	Z--	_	3	punct	_	MorphInd=^.<z>_Z--$
+1	Pinisi	pinisi	PROPN	X--	_	3	nsubj	_	Morf=^pinisi<x>_X--$
+2	sebenarnya	sebenarnya	ADV	D--	_	3	advmod	_	Morf=^sebenarnya<d>_D--$
+3	merupakan	merupakan	VERB	O--	_	0	root	_	Morf=^merupakan<o>_O--$
+4	nama	nama	NOUN	NSD	Number=Sing	3	obj	_	Morf=^nama<n>_NSD$
+5	layar	layar	NOUN	NSD	Number=Sing	4	compound	_	SpaceAfter=No|Morf=^layar<n>_NSD$
+6	.	.	PUNCT	Z--	_	3	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -38,14 +38,14 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
-1	Let	let	PROPN	F--	_	5	nsubj	_	MorphInd=^let<f>_F--$
-2	It	it	PROPN	F--	_	1	flat:name	_	MorphInd=^it<f>_F--$
-3	Shine	shine	PROPN	X--	_	2	flat:name	_	MorphInd=^shine<x>_X--$
-4	adalah	adalah	AUX	O--	_	5	cop	_	MorphInd=^adalah<o>_O--$
-5	film	film	NOUN	NSD	Number=Sing	0	root	_	MorphInd=^film<n>_NSD$
-6	televisi	televisi	NOUN	NSD	Number=Sing	5	compound	_	MorphInd=^televisi<n>_NSD$
-7	2012	2012	NUM	CC-	NumType=Card	6	nummod	_	SpaceAfter=No|MorphInd=^2012<c>_CC-$
-8	.	.	PUNCT	Z--	_	5	punct	_	MorphInd=^.<z>_Z--$
+1	Let	let	PROPN	F--	_	5	nsubj	_	Morf=^let<f>_F--$
+2	It	it	PROPN	F--	_	1	flat:name	_	Morf=^it<f>_F--$
+3	Shine	shine	PROPN	X--	_	2	flat:name	_	Morf=^shine<x>_X--$
+4	adalah	adalah	AUX	O--	_	5	cop	_	Morf=^adalah<o>_O--$
+5	film	film	NOUN	NSD	Number=Sing	0	root	_	Morf=^film<n>_NSD$
+6	televisi	televisi	NOUN	NSD	Number=Sing	5	compound	_	Morf=^televisi<n>_NSD$
+7	2012	2012	NUM	CC-	NumType=Card	6	nummod	_	SpaceAfter=No|Morf=^2012<c>_CC-$
+8	.	.	PUNCT	Z--	_	5	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -56,13 +56,13 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	SURO	suro	PROPN	X--	_	0	root	_	MorphInd=^suro<x>_X--$
-2	SEDONO	sedono	PROPN	X--	_	1	flat:name	_	MorphInd=^sedono<x>_X--$
-3	1887	1887	NUM	CC-	NumType=Card	1	nummod	_	MorphInd=^1887<c>_CC-$
-4	-	-	PUNCT	Z--	_	5	punct	_	MorphInd=^-<z>_Z--$
-5	1899	1899	NUM	CC-	NumType=Card	1	nummod	_	MorphInd=^1899<c>_CC-$
-6	3	3	NUM	CC-	NumType=Card	1	nummod	_	SpaceAfter=No|MorphInd=^3<c>_CC-$
-7	.	.	PUNCT	Z--	_	1	punct	_	MorphInd=^.<z>_Z--$
+1	SURO	suro	PROPN	X--	_	0	root	_	Morf=^suro<x>_X--$
+2	SEDONO	sedono	PROPN	X--	_	1	flat:name	_	Morf=^sedono<x>_X--$
+3	1887	1887	NUM	CC-	NumType=Card	1	nummod	_	Morf=^1887<c>_CC-$
+4	-	-	PUNCT	Z--	_	5	punct	_	Morf=^-<z>_Z--$
+5	1899	1899	NUM	CC-	NumType=Card	1	nummod	_	Morf=^1899<c>_CC-$
+6	3	3	NUM	CC-	NumType=Card	1	nummod	_	SpaceAfter=No|Morf=^3<c>_CC-$
+7	.	.	PUNCT	Z--	_	1	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 

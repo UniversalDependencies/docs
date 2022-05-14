@@ -25,7 +25,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 10 5 csubj	color:blue
 1	Wer	wer	PRON	PWS	Case=Nom|Number=Sing|PronType=Int	5	nsubj	_	_
 2	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	andere	anders	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
+3	andere	anders	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
 4	Politik	Politik	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
 5	will	wollen	VERB	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	csubj	_	SpaceAfter=No
 6	,	,	PUNCT	$,	_	5	punct	_	_
@@ -44,7 +44,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 8 csubj	color:blue
-1	Anmerkenswert	Anmerkenswert	ADJ	ADJD	_	0	root	_	_
+1	Anmerkenswert	Anmerkenswert	ADJ	ADJD	Degree=Pos	0	root	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
 3	,	,	PUNCT	$,	_	8	punct	_	_
 4	dass	dass	SCONJ	KOUS	_	8	mark	_	_

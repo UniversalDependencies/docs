@@ -22,16 +22,16 @@ The following 34 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 ccomp	color:blue
-1	ὁ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	ref=1.11.1
-2	δὲ	δέ	ADV	Df	_	9	discourse	_	ref=1.11.1
-3	οὐδὲν	οὐδείς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	ref=1.11.1
-4	δοκέων	δοκέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	ref=1.11.1
-5	αὐτήν	αὐτός	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	ref=1.11.1
-6	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	7	det	_	ref=1.11.1
-7	πρηχθέντων	πράσσω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	nmod	_	ref=1.11.1
-8	ἐπίστασθαι	ἐπίσταμαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	4	ccomp	_	ref=1.11.1
-9	ἦλθε	ἔρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.1
-10	καλεόμενος	καλέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	9	advcl	_	ref=1.11.1
+1	ὁ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Ref=1.11.1
+2	δὲ	δέ	ADV	Df	_	9	discourse	_	Ref=1.11.1
+3	οὐδὲν	οὐδείς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Ref=1.11.1
+4	δοκέων	δοκέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	Ref=1.11.1
+5	αὐτήν	αὐτός	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Ref=1.11.1
+6	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	7	det	_	Ref=1.11.1
+7	πρηχθέντων	πράσσω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	nmod	_	Ref=1.11.1
+8	ἐπίστασθαι	ἐπίσταμαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	4	ccomp	_	Ref=1.11.1
+9	ἦλθε	ἔρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.11.1
+10	καλεόμενος	καλέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	9	advcl	_	Ref=1.11.1
 
 ~~~
 
@@ -42,12 +42,12 @@ The following 34 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 ccomp	color:blue
-1	οὐκέτι	οὐκέτι	ADV	Df	Polarity=Neg	3	advmod	_	ref=LUKE_15.19
-2	εἰμὶ	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=LUKE_15.19|LId=1
-3	ἄξιος	ἄξιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=LUKE_15.19
-4	κληθῆναι	καλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	3	ccomp	_	ref=LUKE_15.19
-5	υἱός	υἱός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	ref=LUKE_15.19
-6	σου	σύ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	5	det	_	ref=LUKE_15.19
+1	οὐκέτι	οὐκέτι	ADV	Df	Polarity=Neg	3	advmod	_	Ref=LUKE_15.19
+2	εἰμὶ	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	LId=1|Ref=LUKE_15.19
+3	ἄξιος	ἄξιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	Ref=LUKE_15.19
+4	κληθῆναι	καλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	3	ccomp	_	Ref=LUKE_15.19
+5	υἱός	υἱός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	Ref=LUKE_15.19
+6	σου	σύ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	5	det	_	Ref=LUKE_15.19
 
 ~~~
 
@@ -58,16 +58,16 @@ The following 34 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 ccomp	color:blue
-1	ὁ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	ref=1.112.2
-2	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=1.112.2
-3	οὐκ	οὐ	ADV	Df	Polarity=Neg	5	advmod	_	ref=1.112.2
-4	ἔφη	φημί	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.112.2
-5	οἷός	οἷος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	ccomp	_	ref=1.112.2|LId=1
-6	τ’	τε	ADV	Df	_	5	discourse	_	ref=1.112.2
-7	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	ref=1.112.2|LId=1
-8	ἄλλως	ἄλλως	ADV	Df	Degree=Pos	10	advmod	_	ref=1.112.2
-9	αὐτὰ	αὐτός	PRON	Pp	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	10	obj	_	ref=1.112.2
-10	ποιέειν	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	acl	_	ref=1.112.2
+1	ὁ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Ref=1.112.2
+2	δὲ	δέ	ADV	Df	_	4	discourse	_	Ref=1.112.2
+3	οὐκ	οὐ	ADV	Df	Polarity=Neg	5	advmod	_	Ref=1.112.2
+4	ἔφη	φημί	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.112.2
+5	οἷός	οἷος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	ccomp	_	LId=1|Ref=1.112.2
+6	τ’	τε	ADV	Df	_	5	discourse	_	Ref=1.112.2
+7	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	LId=1|Ref=1.112.2
+8	ἄλλως	ἄλλως	ADV	Df	Degree=Pos	10	advmod	_	Ref=1.112.2
+9	αὐτὰ	αὐτός	PRON	Pp	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	10	obj	_	Ref=1.112.2
+10	ποιέειν	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	acl	_	Ref=1.112.2
 
 ~~~
 

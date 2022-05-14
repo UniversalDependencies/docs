@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>brutto</em> (<tt><a href="it_valico-p
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.179641 (the average of all parts of speech is 1.389423).
+The form / lemma ratio of `ADJ` is 1.179641 (the average of all parts of speech is 1.389210).
 
 The 1st highest number of forms (3) was observed with the lemma “bello”: <em>bella, bellissima, bello</em>.
 
@@ -59,11 +59,11 @@ The 2nd highest number of forms (3) was observed with the lemma “contento”: 
 
 The 3rd highest number of forms (3) was observed with the lemma “grande”: <em>grande, grandi, grandissimo</em>.
 
-`ADJ` occurs with 5 features: <tt><a href="it_valico-feat-Number.html">Number</a></tt> (309; 100% instances), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (240; 77% instances), <tt><a href="it_valico-feat-Degree.html">Degree</a></tt> (8; 3% instances), <tt><a href="it_valico-feat-NumType.html">NumType</a></tt> (2; 1% instances), <tt><a href="it_valico-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`ADJ` occurs with 6 features: <tt><a href="it_valico-feat-Number.html">Number</a></tt> (309; 100% instances), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (240; 77% instances), <tt><a href="it_valico-feat-Degree.html">Degree</a></tt> (8; 3% instances), <tt><a href="it_valico-feat-NumType.html">NumType</a></tt> (2; 1% instances), <tt><a href="it_valico-feat-PronType.html">PronType</a></tt> (1; 0% instances), <tt><a href="it_valico-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`ADJ` occurs with 8 feature-value pairs: `Degree=Abs`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `PronType=Dem`
+`ADJ` occurs with 9 feature-value pairs: `Degree=Abs`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `Typo=Yes`
 
-`ADJ` occurs with 14 feature combinations.
+`ADJ` occurs with 15 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing` (129 tokens).
 Examples: <em>brutto, simpatico, bel, bello, carino, muscoloso, timido, improviso, nuovo, robusto</em>
 
@@ -74,13 +74,13 @@ Examples: <em>brutto, simpatico, bel, bello, carino, muscoloso, timido, improvis
 
 Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (174; 56% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (64; 21% instances),  (38; 12% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (27; 9% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-159 (51%) `ADJ` nodes are leaves.
+160 (52%) `ADJ` nodes are leaves.
 
 60 (19%) `ADJ` nodes have one child.
 
-22 (7%) `ADJ` nodes have two children.
+20 (6%) `ADJ` nodes have two children.
 
-69 (22%) `ADJ` nodes have three or more children.
+70 (23%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 9.
 

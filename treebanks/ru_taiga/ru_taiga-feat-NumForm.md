@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 4 different values: `Combi`, `Digit`, `Roman`, `Word`.
 
 3799 tokens (2%) have a non-empty value of `NumForm`.
-680 types (2%) occur at least once with a non-empty value of `NumForm`.
+681 types (2%) occur at least once with a non-empty value of `NumForm`.
 521 lemmas (3%) occur at least once with a non-empty value of `NumForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3082; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (717; 0% instances).
 

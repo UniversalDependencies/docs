@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-59 nodes (5%) are attached to their parents as `obj`.
+66 nodes (5%) are attached to their parents as `obj`.
 
-59 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.08474576271186.
+66 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.22727272727273.
 
-The following 4 pairs of parts of speech are connected with `obj`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (46; 78% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (7; 12% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (2; 3% instances).
+The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (51; 77% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (9; 14% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-SYM.html">SYM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

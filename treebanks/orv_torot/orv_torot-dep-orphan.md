@@ -22,16 +22,16 @@ The following 46 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 orphan	color:blue
-1	а	а	CCONJ	C-	_	0	root	_	ref=6
-2	кн҃ѧзь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=6
-3	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	ref=6
-4	фота	фота	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	obl	_	ref=6
-5	на	на	ADP	R-	_	6	case	_	ref=6
-6	головѣ	голова	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	orphan	_	ref=6
-7	а	а	CCONJ	C-	_	4	orphan	_	ref=6
-8	дрѹгаа	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	orphan	_	ref=6
-9	на	на	ADP	R-	_	10	case	_	ref=6
-10	бедрах	бедро	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	8	orphan	_	ref=6
+1	а	а	CCONJ	C-	_	0	root	_	Ref=6
+2	кн҃ѧзь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=6
+3	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	Ref=6
+4	фота	фота	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	obl	_	Ref=6
+5	на	на	ADP	R-	_	6	case	_	Ref=6
+6	головѣ	голова	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	orphan	_	Ref=6
+7	а	а	CCONJ	C-	_	4	orphan	_	Ref=6
+8	дрѹгаа	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	orphan	_	Ref=6
+9	на	на	ADP	R-	_	10	case	_	Ref=6
+10	бедрах	бедро	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	8	orphan	_	Ref=6
 
 ~~~
 

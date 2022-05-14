@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5368 nodes (6%) are attached to their parents as `punct`.
+5390 nodes (6%) are attached to their parents as `punct`.
 
-3242 instances of `punct` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.2106929955291.
+3262 instances of `punct` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.2230055658627.
 
-The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (3323; 62% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (1265; 24% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (258; 5% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (200; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (126; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (75; 1% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (59; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (24; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (17; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (3332; 62% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (1269; 24% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (267; 5% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (200; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (126; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (75; 1% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (59; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (24; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (17; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,7 +55,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 2 14 punct	color:blue
 1	agus	agus	CCONJ	Cc	_	2	cc	_	_
 2	ciamar	ciamar	PRON	Uq	PronType=Int	0	root	_	_
-3	a	a	PART	Q-r	PartType=Vb|PronType=Rel	4	mark:prt	_	_
+3	a	a	PART	Q-r	PartType=Vb|PronType=Rel	4	xcomp:pred	_	_
 4	bha	bi	VERB	V-s	Tense=Past	2	acl:relcl	_	_
 5	a’	an	DET	Tds	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
 6	homework	homework	NOUN	Xfe	Foreign=Yes	4	nsubj	_	_

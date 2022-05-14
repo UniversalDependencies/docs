@@ -32,7 +32,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 4990 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4215; 84%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3246; 65%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4215; 84%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3246; 65%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 * `Card` (1846; 100% of non-empty `NumType`): <em>několik, několika, mnoho, mnoha, kolik, tolik, málo, moc, mála, nemálo</em>
 * `Ord` (2; 0% of non-empty `NumType`): <em>několikáté, několikátý</em>
-* `EMPTY` (54264): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
+* `EMPTY` (54368): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 `NumType` seems to be **lexical feature** of `DET`. 100% lemmas (16) occur only with one value of `NumType`.
 

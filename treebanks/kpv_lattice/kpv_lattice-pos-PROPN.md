@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>Краснӧй</em> (<tt><a href="kpv
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.064516 (the average of all parts of speech is 1.467100).
+The form / lemma ratio of `PROPN` is 1.064516 (the average of all parts of speech is 1.468534).
 
 The 1st highest number of forms (2) was observed with the lemma “Ворошилов”: <em>Ворошилов, Ворошиловӧс</em>.
 
@@ -41,9 +41,9 @@ The 2nd highest number of forms (2) was observed with the lemma “Ефрем”
 
 The 3rd highest number of forms (1) was observed with the lemma “Валентина”: <em>Валентина</em>.
 
-`PROPN` occurs with 5 features: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (41; 100% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (41; 100% instances), <tt><a href="kpv_lattice-feat-Animacy.html">Animacy</a></tt> (5; 12% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (1; 2% instances)
+`PROPN` occurs with 6 features: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (41; 100% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (41; 100% instances), <tt><a href="kpv_lattice-feat-Animacy.html">Animacy</a></tt> (5; 12% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-feat-Variant.html">Variant</a></tt> (1; 2% instances)
 
-`PROPN` occurs with 14 feature-value pairs: `Animacy=Hum`, `Case=Acc`, `Case=Apr`, `Case=Car`, `Case=Com`, `Case=Dat`, `Case=Ela`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`
+`PROPN` occurs with 15 feature-value pairs: `Animacy=Hum`, `Case=Abe`, `Case=Acc`, `Case=Apr`, `Case=Com`, `Case=Dat`, `Case=Ela`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`, `Variant=Vclause`
 
 `PROPN` occurs with 12 feature combinations.
 The most frequent feature combination is `Case=Nom|Number=Sing` (25 tokens).
@@ -52,7 +52,7 @@ Examples: <em>Ворошилов, Климент, Ефремович, Красн
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt> (8; 20% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (8; 20% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (6; 15% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (6; 15% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (5; 12% instances), <tt><a href="kpv_lattice-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-nmod-appos.html">nmod:appos</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-nmod-comp.html">nmod:comp</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-nmod-lmod.html">nmod:lmod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
+`PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt> (8; 20% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (8; 20% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (6; 15% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (6; 15% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (5; 12% instances), <tt><a href="kpv_lattice-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-nmod-appos.html">nmod:appos</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-nmod-lmod.html">nmod:lmod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl-comp.html">obl:comp</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
 
 Parents of `PROPN` nodes belong to 3 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (17; 41% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (13; 32% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (11; 27% instances)
 

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-40 tokens (0%) have a non-empty value of `Abbr`.
+41 tokens (0%) have a non-empty value of `Abbr`.
 1 types (0) occur at least once with a non-empty value of `Abbr`.
 1 lemmas (0) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (27; 0% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (27; 0% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-27 <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> tokens (11% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+27 <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> tokens (12% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
 The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 100%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (27; 100% of non-empty `Abbr`): <em>_</em>
-* `EMPTY` (208): <em>_</em>
+* `EMPTY` (207): <em>_</em>
 
 ### `X`
 
@@ -34,16 +34,27 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 * `Yes` (11; 100% of non-empty `Abbr`): <em>_</em>
 * `EMPTY` (27): <em>_</em>
 
+### `ADJ`
+
+1 <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1; 100%).
+
+`ADJ` tokens may have the following values of `Abbr`:
+
+* `Yes` (1; 100% of non-empty `Abbr`): <em>_</em>
+* `EMPTY` (991): <em>_</em>
+
 ### `ADV`
 
 1 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>_</em>
-* `EMPTY` (1024): <em>_</em>
+* `EMPTY` (1043): <em>_</em>
 
 ### `NOUN`
 
@@ -54,5 +65,5 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>_</em>
-* `EMPTY` (2742): <em>_</em>
+* `EMPTY` (2745): <em>_</em>
 

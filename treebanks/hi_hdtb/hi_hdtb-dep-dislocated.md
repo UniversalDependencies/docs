@@ -33,7 +33,7 @@ The following 19 pairs of parts of speech are connected with `dislocated`: <tt><
 9	के	के	ADP	PSP	AdpType=Post	5	dislocated	_	ChunkId=FRAGP|ChunkType=head|Translit=ke
 10	लिए	लिए	ADP	PSP	AdpType=Post	9	dislocated	_	ChunkId=FRAGP|ChunkType=child|Translit=lie
 11	बसें	बस	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	12	nsubj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=baseṁ
-12	मिलती	मिल	VERB	VM	Aspect=Imp|Gender=Fem|Number=Plur|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_रह+ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=milatī
+12	मिलती	मिल	VERB	VM	Aspect=Imp|Gender=Fem|Number=Plur|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=wA|Translit=milatī|Vib=ता_रह+ता_है
 13	रहती	रह	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Plur|VerbForm=Part	12	aux	_	Vib=ता|Tam=wA|ChunkId=VGF|ChunkType=child|Translit=rahatī
 14	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=haiṁ
 15	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
@@ -55,7 +55,7 @@ The following 19 pairs of parts of speech are connected with `dislocated`: <tt><
 6	)	)	PUNCT	SYM	_	5	punct	_	ChunkId=NP3|ChunkType=child|Translit=)
 7	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	3	dislocated	_	ChunkId=FRAGP|ChunkType=head|Translit=kā
 8	देश	देश	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=deśa
-9	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
+9	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=hE|Translit=hai|Vib=है
 10	।	।	PUNCT	SYM	_	8	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -78,7 +78,7 @@ The following 19 pairs of parts of speech are connected with `dislocated`: <tt><
 9	के	के	ADP	PSP	AdpType=Post	5	dislocated	_	ChunkId=FRAGP|ChunkType=head|Translit=ke
 10	लिए	लिए	ADP	PSP	AdpType=Post	9	dislocated	_	ChunkId=FRAGP|ChunkType=child|Translit=lie
 11	बसें	बस	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	12	nsubj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=baseṁ
-12	मिलती	मिल	VERB	VM	Aspect=Imp|Gender=Fem|Number=Plur|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_रह+ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=milatī
+12	मिलती	मिल	VERB	VM	Aspect=Imp|Gender=Fem|Number=Plur|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=wA|Translit=milatī|Vib=ता_रह+ता_है
 13	रहती	रह	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Plur|VerbForm=Part	12	aux	_	Vib=ता|Tam=wA|ChunkId=VGF|ChunkType=child|Translit=rahatī
 14	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=haiṁ
 15	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.

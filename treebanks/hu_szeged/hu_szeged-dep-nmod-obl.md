@@ -31,7 +31,7 @@ The following 22 pairs of parts of speech are connected with `nmod:obl`: <tt><a 
 6	vége	vég	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl	_	_
 7	előtt	előtt	ADP	_	_	6	case	_	_
 8	Magyarország	Magyarország	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
-9	65-47-re	65-47	NOUN	_	Case=Sub|Number=Sing	10	obl	_	_
+9	65-47-re	65-47	NOUN	_	Case=Sbl|Number=Sing	10	obl	_	_
 10	vezetett	vezet	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 11	!	!	PUNCT	_	_	10	punct	_	_
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="fi_ood-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-140 nodes (1%) are attached to their parents as `acl`.
+142 nodes (1%) are attached to their parents as `acl`.
 
-113 instances of `acl` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40714285714286.
+115 instances of `acl` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40140845070423.
 
-The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (118; 84% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (9; 6% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (120; 85% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (9; 6% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 acl	color:blue
-1	Laitettu	laittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-2	säädettävä	säätää	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	3	acl	_	_
+1	Laitettu	laittaa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	säädettävä	säätää	VERB	_	Case=Nom|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	3	acl	_	_
 3	trakeaputki	trakea#putki	NOUN	_	Case=Nom|Number=Sing	1	obj	_	Gen=henkitorviputki|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -38,7 +38,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 2 acl	color:blue
 1	NBA-pelaajien	NBA#pelaaja	NOUN	_	Case=Gen|Derivation=Ja|Number=Plur	2	nsubj	_	_
-2	tähdittämä	tähdittää	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	3	acl	_	_
+2	tähdittämä	tähdittää	VERB	_	Case=Nom|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	3	acl	_	_
 3	USA	USA	PROPN	_	Case=Nom|Number=Sing	7	nsubj:cop	_	_
 4	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
 5	lajin	laji	NOUN	_	Case=Gen|Number=Sing	7	nmod:poss	_	_

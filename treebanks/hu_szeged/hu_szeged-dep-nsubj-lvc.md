@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:lvc`: <tt><a 
 4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
 5	D	D	NOUN	_	Case=Nom|Number=Sing	2	conj	_	_
 6	csoport	csoport	NOUN	_	Case=Nom|Number=Sing	7	nmod:att	_	_
-7	mérkőzéseire	mérkőzés	NOUN	_	Case=Sub|Number=Plur|Number[psor]=Sing|Person[psor]=3	14	obl	_	_
+7	mérkőzéseire	mérkőzés	NOUN	_	Case=Sbl|Number=Plur|Number[psor]=Sing|Person[psor]=3	14	obl	_	_
 8	tegnap	tegnap	ADV	_	_	14	advmod:tlocy	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	11	amod:att	_	_

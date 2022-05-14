@@ -28,7 +28,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 4	ozval	ozvat	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	23	ccomp	23:ccomp	_
 5	někdo	někdo	PRON	PZM-1----------	Animacy=Anim|Case=Nom|Gender=Masc|PronType=Ind	4	nsubj	4:nsubj	_
 6	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	7	case	7:case	LId=z-1
-7	Sony	Sony	PROPN	NNFXX-----A----	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	5	nmod	5:nmod:z	_
+7	Sony	Sony	PROPN	NNFXX-----A----	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	5	nmod	5:nmod:z:gen	_
 8	Australia	Austrálie	PROPN	NNFXX-----A----	Foreign=Yes|Gender=Fem|NameType=Geo|Polarity=Pos|Style=Rare	7	flat	7:flat	_
 9	a	a	CCONJ	J^-------------	_	10	cc	10:cc	LId=a-1
 10	řekl	říci	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	conj	4:conj|23:ccomp	SpaceAfter=No

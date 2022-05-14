@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_English-ParTUT](https://github.com/UniversalDependencies/UD_English-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_partut29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_partut210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -99,13 +99,13 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 
 ## Relations
 
-[acl](en_partut-dep-acl.html) – [acl:relcl](en_partut-dep-acl-relcl.html) – [advcl](en_partut-dep-advcl.html) – [advmod](en_partut-dep-advmod.html) – [amod](en_partut-dep-amod.html) – [appos](en_partut-dep-appos.html) – [aux](en_partut-dep-aux.html) – [aux:pass](en_partut-dep-aux-pass.html) – [case](en_partut-dep-case.html) – [cc](en_partut-dep-cc.html) – [ccomp](en_partut-dep-ccomp.html) – [compound](en_partut-dep-compound.html) – [compound:prt](en_partut-dep-compound-prt.html) – [conj](en_partut-dep-conj.html) – [cop](en_partut-dep-cop.html) – [csubj](en_partut-dep-csubj.html) – [csubj:pass](en_partut-dep-csubj-pass.html) – [dep](en_partut-dep-dep.html) – [det](en_partut-dep-det.html) – [det:predet](en_partut-dep-det-predet.html) – [discourse](en_partut-dep-discourse.html) – [dislocated](en_partut-dep-dislocated.html) – [expl](en_partut-dep-expl.html) – [fixed](en_partut-dep-fixed.html) – [flat](en_partut-dep-flat.html) – [flat:foreign](en_partut-dep-flat-foreign.html) – [goeswith](en_partut-dep-goeswith.html) – [iobj](en_partut-dep-iobj.html) – [mark](en_partut-dep-mark.html) – [nmod](en_partut-dep-nmod.html) – [nmod:npmod](en_partut-dep-nmod-npmod.html) – [nmod:poss](en_partut-dep-nmod-poss.html) – [nmod:tmod](en_partut-dep-nmod-tmod.html) – [nsubj](en_partut-dep-nsubj.html) – [nsubj:pass](en_partut-dep-nsubj-pass.html) – [nummod](en_partut-dep-nummod.html) – [obj](en_partut-dep-obj.html) – [obl](en_partut-dep-obl.html) – [orphan](en_partut-dep-orphan.html) – [parataxis](en_partut-dep-parataxis.html) – [punct](en_partut-dep-punct.html) – [root](en_partut-dep-root.html) – [vocative](en_partut-dep-vocative.html) – [xcomp](en_partut-dep-xcomp.html)
+[acl](en_partut-dep-acl.html) – [acl:relcl](en_partut-dep-acl-relcl.html) – [advcl](en_partut-dep-advcl.html) – [advmod](en_partut-dep-advmod.html) – [amod](en_partut-dep-amod.html) – [appos](en_partut-dep-appos.html) – [aux](en_partut-dep-aux.html) – [aux:pass](en_partut-dep-aux-pass.html) – [case](en_partut-dep-case.html) – [cc](en_partut-dep-cc.html) – [ccomp](en_partut-dep-ccomp.html) – [compound](en_partut-dep-compound.html) – [compound:prt](en_partut-dep-compound-prt.html) – [conj](en_partut-dep-conj.html) – [cop](en_partut-dep-cop.html) – [csubj](en_partut-dep-csubj.html) – [csubj:pass](en_partut-dep-csubj-pass.html) – [dep](en_partut-dep-dep.html) – [det](en_partut-dep-det.html) – [det:predet](en_partut-dep-det-predet.html) – [discourse](en_partut-dep-discourse.html) – [dislocated](en_partut-dep-dislocated.html) – [expl](en_partut-dep-expl.html) – [fixed](en_partut-dep-fixed.html) – [flat](en_partut-dep-flat.html) – [flat:foreign](en_partut-dep-flat-foreign.html) – [iobj](en_partut-dep-iobj.html) – [mark](en_partut-dep-mark.html) – [nmod](en_partut-dep-nmod.html) – [nmod:npmod](en_partut-dep-nmod-npmod.html) – [nmod:poss](en_partut-dep-nmod-poss.html) – [nmod:tmod](en_partut-dep-nmod-tmod.html) – [nsubj](en_partut-dep-nsubj.html) – [nsubj:pass](en_partut-dep-nsubj-pass.html) – [nummod](en_partut-dep-nummod.html) – [obj](en_partut-dep-obj.html) – [obl](en_partut-dep-obl.html) – [orphan](en_partut-dep-orphan.html) – [parataxis](en_partut-dep-parataxis.html) – [punct](en_partut-dep-punct.html) – [root](en_partut-dep-root.html) – [vocative](en_partut-dep-vocative.html) – [xcomp](en_partut-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2090 sentences, 49602 tokens and 49634 syntactic words.</li>
+<li>This corpus contains 2090 sentences, 49602 tokens and 49633 syntactic words.</li>
 </ul>
 
 <ul>
@@ -121,8 +121,8 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 </ul>
 
 <ul>
-<li>This corpus contains 32 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 9 types of multi-word tokens. Examples: cannot, don't, ain't, can't, won't, aren't, des, had, shouldn't.</li>
+<li>This corpus contains 31 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 8 types of multi-word tokens. Examples: cannot, don't, ain't, can't, won't, aren't, des, shouldn't.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -165,7 +165,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
   <li>Fin
   <ul>
     <li>AUX: is, are, was, has, would, should, have, can, will, shall</li>
-    <li>VERB: is, has, have, wrote, know, are, believe, had, need, made</li>
+    <li>VERB: is, has, have, wrote, know, are, had, believe, need, made</li>
   </ul>
   </li>
 </ul>
@@ -350,7 +350,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
   <li>Ind
     <ul>
       <li>AUX-Fin: is, are, was, has, would, should, have, can, shall, will</li>
-      <li>VERB-Fin: is, has, have, wrote, know, are, believe, had, need, made</li>
+      <li>VERB-Fin: is, has, have, wrote, know, are, had, believe, need, made</li>
       <li>VERB-Part: annexed</li>
     </ul>
   </li>
@@ -631,5 +631,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>flat:foreign</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a></li>
-<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 11	,	,	PUNCT	CLB	_	12	punct	_	_
 12	вӧрзям	вӧрзьыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	8	ccomp	_	_
 13	да	да	PART	Pcle	_	12	advmod	_	OrigLang=ru
-14	и	и	PART	Pcle	_	13	goeswith	_	OrigLang=ru|SpaceAfter=No
+14	и	и	PART	Pcle	_	13	fixed	_	OrigLang=ru|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	16	punct	_	_
 16	ничего	ничего	ADV	Adv	Polarity=Neg	12	conj	_	Lang=ru|SpaceAfter=No
 17	,	,	PUNCT	CLB	_	19	punct	_	_

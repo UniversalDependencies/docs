@@ -112,13 +112,13 @@ The following 2 pairs of parts of speech are connected with `dislocated:nsubj`: 
 22	vulgare	uulgare	NOUN	sns3a	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing	23	obj	_	_
 23	licetur	liceor	VERB	vd2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 24	,	,	PUNCT	Pu	_	27	punct	_	_
-25	idest	idest	CCONJ	r	Compound=Yes|ConjType=Expl	27	cc	_	_
+25	idest	idest	CCONJ	r	Compound=Yes|ConjType=Expl|VerbForm=Fin	27	cc	_	_
 26	maternam	maternus	ADJ	afs1a	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	27	amod	_	_
 27	locutionem	locutio	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	22	conj:expl	_	SpaceAfter=No
 28	,	,	PUNCT	Pu	_	32	punct	_	_
 29	et	et	CCONJ	co	_	32	cc	_	_
 30	per	per	ADP	e	AdpType=Prep	31	case	_	_
-31	consequens	consequens	ADJ	ans2a	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	32	obl	_	_
+31	consequens	consequor	VERB	ans2a	Aspect=Imp|Case=Acc|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	32	obl	_	_
 32	credit	credo	VERB	va3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	_
 33	ipsum	ipse	DET	ddesna	Case=Acc|Form=Emp|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	32	ccomp	_	_
 34	fuisse	sum	AUX	va5fr	Aspect=Perf|InflClass=LatAnom|InflClass[nominal]=Ind|Tense=Past|VerbForm=Inf	33	cop	_	_

@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_penn-feat-Person.html">Person</a></tt>, <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt>.
 
-22293 tokens (12%) have a non-empty value of `Person[psor]`.
-8719 types (25%) occur at least once with a non-empty value of `Person[psor]`.
+22287 tokens (12%) have a non-empty value of `Person[psor]`.
+8718 types (25%) occur at least once with a non-empty value of `Person[psor]`.
 2887 lemmas (20%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (21765; 12% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (520; 0% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (8; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (21760; 12% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (519; 0% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (8; 0% instances).
 
 ### `NOUN`
 
-21765 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (33% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+21760 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (33% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (21765; 100%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (20774; 95%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16467; 76%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (21760; 100%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (20769; 95%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16462; 76%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -53,9 +53,9 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 ### `VERB`
 
-520 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
+519 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (519; 100%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (510; 98%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (499; 96%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (455; 88%), <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (447; 86%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (367; 71%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (361; 69%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Gen</tt> (332; 64%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (518; 100%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (509; 98%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (498; 96%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (454; 87%), <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (447; 86%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (366; 71%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (360; 69%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Gen</tt> (332; 64%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 

@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 4	miksi	miksi	ADV	Adv	_	7	advmod	7:advmod	_
 5	minut	minä	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	7:obj	_
 6	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux:pass	7:aux:pass	_
-7	suodatettu	suodattaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	ccomp	2:ccomp	SpaceAfter=No
+7	suodatettu	suodattaa	VERB	V	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	2	ccomp	2:ccomp	SpaceAfter=No
 8	,	,	PUNCT	Punct	_	7	punct	7:punct	_
 9	en	ei	AUX	V	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	10	aux	10:aux	_
 10	tiedä	tietää	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Nyt	nyt	ADV	Adv	_	3	advmod	3:advmod	_
 2	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	3:aux:pass	_
 3	täällä	täällä	ADV	Adv	_	0	root	0:root	_
-4	oltu	olla	AUX	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	cop	3:cop	_
+4	oltu	olla	AUX	V	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	3	cop	3:cop	_
 5	3,5	3,5	NUM	Num	NumType=Card	6	nummod	6:nummod	_
 6	kk	kk	NOUN	N	Abbr=Yes|Case=Par|Number=Sing	3	obl	3:obl	_
 7	ja	ja	CCONJ	C	_	8	cc	8:cc	_

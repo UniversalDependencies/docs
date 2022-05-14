@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-9829 tokens (41%) have a non-empty value of `Gender`.
-2532 types (60%) occur at least once with a non-empty value of `Gender`.
-2167 lemmas (60%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3675; 15% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2801; 12% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1238; 5% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (932; 4% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (768; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (411; 2% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+9828 tokens (41%) have a non-empty value of `Gender`.
+2531 types (60%) occur at least once with a non-empty value of `Gender`.
+2166 lemmas (60%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3674; 15% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2801; 12% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1238; 5% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (932; 4% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (768; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (411; 2% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-3675 <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> tokens (91% of all `NOUN` tokens) have a non-empty value of `Gender`.
+3674 <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> tokens (91% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3036; 83%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (1546; 42% of non-empty `Gender`): <em>année, ville, compagnie, population, capitale, guerre, date, taxe, université, équipe</em>
-* `Masc` (2129; 58% of non-empty `Gender`): <em>nom, pays, président, état, lieu, logement, film, prix, corps, temps</em>
+* `Masc` (2128; 58% of non-empty `Gender`): <em>nom, pays, président, état, lieu, logement, film, prix, corps, temps</em>
 * `EMPTY` (377): <em>aide, espace, CNN, période, fin, livre, enfants, radio, CPR, tour</em>
 
 <table>
@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt></tt></td><td><em>président</em></td><td><em>présidente</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1236) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1235) occur only with one value of `Gender`.
 
 ### `DET`
 

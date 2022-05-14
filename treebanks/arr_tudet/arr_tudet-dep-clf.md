@@ -35,11 +35,11 @@ The following 7 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 clf	color:blue
-1	apəy	_	NOUN	n	_	4	nsubj	_	_
+1	apəy	apəy	NOUN	n	_	4	nsubj	_	_
 2	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf	_	_
-3	ʔet	_	AUX	aux	Decl=Assert	4	aux	_	_
-4	topaba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
-5	mɨy	_	ADV	adv	_	4	advmod	_	_
+3	ʔet	ʔe	AUX	aux	Decl=Assert	4	aux	_	_
+4	topaba	pap	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
+5	mɨy	mɨy	ADV	adv	_	4	advmod	_	_
 6	mãm	mãm	PART	part	_	4	discourse	_	_
 
 ~~~
@@ -53,11 +53,11 @@ The following 7 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 3 4 clf	color:blue
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
-3	mok	_	NOUN	n	_	7	obj	_	_
-4	pe	_	PART	part	_	3	clf	_	_
-5	cára	_	VERB	v	VerbForm=Ger	7	xcomp	_	_
-6	kanã	_	PART	part	Nomzr=Circ	5	mark	_	_
-7	yaʔti	_	VERB	v	_	0	root	_	_
+3	mok	mok	NOUN	n	_	7	obj	_	_
+4	pe	peʔ	PART	part	_	3	clf	_	_
+5	cára	cát	VERB	v	VerbForm=Ger	7	xcomp	_	_
+6	kanã	kanã	PART	part	Nomzr=Circ	5	mark	_	_
+7	yaʔti	yaʔti	VERB	v	_	0	root	_	_
 8	nãn	nã	AUX	aux	Decl=Assert	7	aux	_	_
 9	iʔke	iʔke	PART	part	Polarity=Neg	7	advmod	_	_
 

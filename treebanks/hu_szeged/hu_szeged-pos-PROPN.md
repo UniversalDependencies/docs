@@ -61,7 +61,7 @@ The 3rd highest number of forms (6) was observed with the lemma “Kft.”: <em>
 
 `PROPN` occurs with 5 features: <tt><a href="hu_szeged-feat-Case.html">Case</a></tt> (2718; 100% instances), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt> (2718; 100% instances), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt> (13; 0% instances), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt> (13; 0% instances), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt> (5; 0% instances)
 
-`PROPN` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Abs`, `Case=Acc`, `Case=Ade`, `Case=All`, `Case=Cau`, `Case=Dat`, `Case=Del`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Sub`, `Case=Sup`, `Case=Ter`, `Number=Plur`, `Number=Sing`, `Number[psed]=Sing`, `Number[psor]=Sing`, `Person[psor]=3`
+`PROPN` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Abs`, `Case=Acc`, `Case=Ade`, `Case=All`, `Case=Cau`, `Case=Dat`, `Case=Del`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Sbl`, `Case=Sup`, `Case=Ter`, `Number=Plur`, `Number=Sing`, `Number[psed]=Sing`, `Number[psor]=Sing`, `Person[psor]=3`
 
 `PROPN` occurs with 28 feature combinations.
 The most frequent feature combination is `Case=Nom|Number=Sing` (2216 tokens).

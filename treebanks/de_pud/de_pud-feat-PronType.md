@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Art`, `Prs`, `Rcp`.
 
-373 tokens (2%) have a non-empty value of `PronType`.
-39 types (1%) occur at least once with a non-empty value of `PronType`.
-16 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (370; 2% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (3; 0% instances).
+375 tokens (2%) have a non-empty value of `PronType`.
+41 types (1%) occur at least once with a non-empty value of `PronType`.
+17 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (370; 2% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (5; 0% instances).
 
 ### `PRON`
 
@@ -30,12 +30,12 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-3 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `PronType`.
+5 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt> (3; 100%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (3; 100%), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (3; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt> (3; 60%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (3; 60%), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (3; 60%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (3; 100% of non-empty `PronType`): <em>dem</em>
-* `EMPTY` (2843): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
+* `Art` (5; 100% of non-empty `PronType`): <em>dem, ein, eine</em>
+* `EMPTY` (2841): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 

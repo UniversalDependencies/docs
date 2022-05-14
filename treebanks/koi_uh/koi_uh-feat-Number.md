@@ -177,7 +177,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (28; 85%),
 <tt>VERB --[<tt><a href="koi_uh-dep-obj.html">obj</a></tt>]--> NOUN</tt> (24; 63%),
 <tt>VERB --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> VERB</tt> (19; 83%),
-<tt>VERB --[<tt><a href="koi_uh-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (13; 59%),
+<tt>VERB --[<tt><a href="koi_uh-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (14; 61%),
 <tt>VERB --[<tt><a href="koi_uh-dep-obl.html">obl</a></tt>]--> NOUN</tt> (13; 65%),
 <tt>NOUN --[<tt><a href="koi_uh-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (10; 100%),
 <tt>NOUN --[<tt><a href="koi_uh-dep-case.html">case</a></tt>]--> ADP</tt> (6; 60%),

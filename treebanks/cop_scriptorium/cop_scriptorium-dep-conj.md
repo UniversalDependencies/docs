@@ -62,7 +62,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 11	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	14	mark	_	_
 12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
 13	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	Orig=ⲧⲛ̄
-14	ⲧⲥⲁⲃⲟ	ⲧⲥⲁⲃⲟ	VERB	V	VerbForm=Fin	10	acl	_	_
+14	ⲧⲥⲁⲃⲟ	ⲧⲥⲁⲃⲟ	VERB	V	VerbForm=Fin	10	acl:relcl	_	_
 15	ⲉⲣⲟ	ⲉ	ADP	PREP	_	16	case	_	_
 16	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	obl	_	Entity=abstract)
 17	·	·	PUNCT	PUNCT	_	5	punct	_	_
@@ -77,7 +77,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 12	fgColor:white
 # visual-style 12 14 conj	color:blue
 1	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	ϣⲡϩⲙⲟⲧ	ϣⲡϩⲙⲟⲧ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ϣⲡ-ϩⲙⲟⲧ
+2	ϣⲡϩⲙⲟⲧ	ϣⲡϩⲙⲟⲧ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ϣⲡ-ϩⲙⲟⲧ
 3	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	6	mark	_	_
 4	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	6	aux	_	_
 5	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_

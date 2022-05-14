@@ -21,10 +21,11 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_parisstories-pos
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (143; 100% of non-empty `Polarity`): <em>pas, n', non, ne</em>
-* `EMPTY` (2209): <em>donc, pas, vraiment, enfin, là, plus, très, bien, même, tout</em>
+* `EMPTY` (2235): <em>donc, pas, vraiment, enfin, là, plus, très, tout, bien, même</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>ADV --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (2; 100%).
+<tt>ADV --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
+<tt>ADV --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (1; 100%).
 

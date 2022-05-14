@@ -8,32 +8,34 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (0%) are attached to their parents as `csubj`.
+37 nodes (0%) are attached to their parents as `csubj`.
 
-17 instances of `csubj` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.84848484848485.
+19 instances of `csubj` (51%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.51351351351351.
 
-The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (17; 52% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 15% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (21; 57% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 14% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 1 csubj	color:blue
-1	Ceisio	ceisio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	11	csubj	_	_
-2	arafu	arafu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
-3	neu	neu	CCONJ	cconj	_	4	cc	_	_
-4	ddymchwel	dymchwel	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	2	conj	_	_
-5	system	system	NOUN	noun	Gender=Fem|Number=Sing	4	obj	_	_
-6	gyfrifiadurol	cyfrifiadurol	ADJ	pos	Degree=Pos|Mutation=SM	5	amod	_	_
-7	rhywun	rhywun	NOUN	noun	Gender=Masc|Number=Sing	5	nmod	_	_
-8	ydy	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	SpaceAfter=No
-9	'r	y	DET	art	_	11	det	_	_
-10	ail	ail	ADJ	ord	Degree=Pos|NumType=Ord	11	amod	_	_
-11	reswm	rheswm	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	punct	_	11	punct	_	SpacesAfter=\n
+# visual-style 1 3 csubj	color:blue
+1	Piti	piti	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
+2	ydi	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
+3	bod	bod	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	csubj	_	_
+4	y	y	DET	art	_	5	det	_	_
+5	bobl	pobl	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	3	nsubj	_	_
+6	ddylai	dylu	VERB	verb	Mood=Cnd|Mutation=SM|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	acl:relcl	_	_
+7	fod	bod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	6	xcomp	_	_
+8	yn	yn	AUX	impf	_	9	aux	_	_
+9	gwrando	gwrando	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	7	xcomp	_	_
+10	ar	ar	ADP	prep	_	11	case	_	_
+11	hyn	hyn	PRON	dem	Number=Plur|PronType=Dem	9	obl	_	_
+12	ddim	dim	PART	neg	Mutation=SM	9	advmod	_	_
+13	yma	yma	ADV	adv	_	9	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

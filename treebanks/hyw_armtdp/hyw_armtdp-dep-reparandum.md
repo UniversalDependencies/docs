@@ -8,12 +8,38 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `reparandum`.
+2 nodes (0%) are attached to their parents as `reparandum`.
 
-1 instances of `reparandum` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+2 instances of `reparandum` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `reparandum`: <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 50% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 14 reparandum	color:blue
+1	Չէ	չէ	INTJ	_	_	4	discourse	_	Translit=Čē|LTranslit=čē
+2	՛	՛	PUNCT	_	_	1	punct	_	Translit=՛|LTranslit=՛
+3	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
+4	հերոսներ	հերոս	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur	0	root	_	Translit=herosner|LTranslit=heros
+5	չենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=čenk’|LTranslit=em|SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
+7	մեծ	մեծ	ADJ	_	Degree=Pos	8	amod	_	Translit=meç|LTranslit=meç
+8	սիրով	սէր	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Coll	10	obl	_	Translit=sirov|LTranslit=sēr
+9	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	10	aux	_	Translit=kë|LTranslit=kë
+10	հեռանայինք	հեռանալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	4	conj	_	Translit=heṙanayink’|LTranslit=heṙanal
+11	այս	այս	DET	_	Deixis=Prox|PronType=Dem	10	obl	_	Translit=ays|LTranslit=ays|SpaceAfter=No
+12	...	...	PUNCT	_	_	14	punct	_	Translit=...|LTranslit=...
+13	այս	այս	DET	_	Deixis=Prox|PronType=Dem	14	det	_	Translit=ays|LTranslit=ays
+14	ինչէն	ինչ	PRON	_	Case=Abl|Definite=Def|Number=Sing|PronType=Ind	11	reparandum	_	Translit=inčēn|LTranslit=inč
+15	՞	՞	PUNCT	_	_	14	punct	_	Translit=?|LTranslit=?
+16	:	:	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
+
+~~~
 
 
 ~~~ conllu

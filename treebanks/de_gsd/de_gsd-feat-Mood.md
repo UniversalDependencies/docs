@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-22448 tokens (8%) have a non-empty value of `Mood`.
-2934 types (6%) occur at least once with a non-empty value of `Mood`.
-1555 lemmas (4%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 13 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12409; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9822; 3% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (78; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (50; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (50; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (17; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+22517 tokens (8%) have a non-empty value of `Mood`.
+2959 types (6%) occur at least once with a non-empty value of `Mood`.
+1561 lemmas (4%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 13 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12477; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9824; 3% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (78; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (50; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (49; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (17; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-12409 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Mood`.
+12477 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12409; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (11981; 97%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9813; 79%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6452; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12477; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (12046; 97%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9813; 79%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6460; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (37; 0% of non-empty `Mood`): <em>siehe, laßt, vgl., Brecht, Gebt, Kenne, Laß, Schaut, lieh</em>
-* `Ind` (12187; 98% of non-empty `Mood`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
-* `Sub` (185; 1% of non-empty `Mood`): <em>sei, habe, gebe, hätten, gehe, hätte, komme, wolle, liege, möchte</em>
-* `EMPTY` (8247): <em>lassen, empfehlen, gegründet, genannt, machen, verwendet, eingesetzt, bezeichnet, genutzt, gebaut</em>
+* `Ind` (12256; 98% of non-empty `Mood`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `Sub` (184; 1% of non-empty `Mood`): <em>sei, habe, gebe, hätten, gehe, hätte, komme, wolle, liege, möchte</em>
+* `EMPTY` (8179): <em>empfehlen, lassen, gegründet, genannt, machen, verwendet, eingesetzt, genutzt, bezeichnet, gebaut</em>
 
 <table>
   <tr><th>Paradigm <i>geben</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -39,19 +39,19 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>geben</em></td><td></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 94% lemmas (1356) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 94% lemmas (1363) occur only with one value of `Mood`.
 
 ### `AUX`
 
-9822 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
+9824 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9822; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9311; 95%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7334; 75%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7281; 74%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5577; 57%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9824; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9313; 95%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7336; 75%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7282; 74%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5579; 57%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Ind` (9245; 94% of non-empty `Mood`): <em>ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</em>
+* `Ind` (9247; 94% of non-empty `Mood`): <em>ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</em>
 * `Sub` (577; 6% of non-empty `Mood`): <em>sei, habe, würde, hätte, werde, hätten, seien, wäre, könnte, möchte</em>
-* `EMPTY` (770): <em>werden, sein, worden, können, gewesen, haben, müssen, wollen, dürfen, geworden</em>
+* `EMPTY` (769): <em>werden, sein, worden, können, gewesen, haben, müssen, wollen, dürfen, geworden</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
@@ -71,35 +71,15 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 78 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `ADJ` and `Mood` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (55; 71%).
+The most frequent other feature values with which `ADJ` and `Mood` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="de_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (78; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (55; 71%).
 
 `ADJ` tokens may have the following values of `Mood`:
 
 * `Ind` (74; 95% of non-empty `Mood`): <em>weiß, bezeichneten, entwickelte, verwandte, ambitionierte, aufbewahrte, ausgelobten, ausgerichtete, automatisiert, beanspruchten</em>
 * `Sub` (4; 5% of non-empty `Mood`): <em>duale, grobe, ruhige, spezielle</em>
-* `EMPTY` (20525): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
+* `EMPTY` (20697): <em>ersten, später, erste, weitere, anderen, neue, zweiten, bekannt, neuen, großen</em>
 
 `Mood` seems to be **lexical feature** of `ADJ`. 100% lemmas (71) occur only with one value of `Mood`.
-
-### `NOUN`
-
-50 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `NOUN` and `Mood` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33; 66%).
-
-`NOUN` tokens may have the following values of `Mood`:
-
-* `Ind` (46; 92% of non-empty `Mood`): <em>mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</em>
-* `Sub` (4; 8% of non-empty `Mood`): <em>Komme, biene, ha, service</em>
-* `EMPTY` (52172): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
-
-<table>
-  <tr><th>Paradigm <i>kommen</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>Kam</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>Komme</em></td></tr>
-</table>
-
-`Mood` seems to be **lexical feature** of `NOUN`. 98% lemmas (39) occur only with one value of `Mood`.
 
 ### `PROPN`
 
@@ -112,9 +92,29 @@ The most frequent other feature values with which `PROPN` and `Mood` co-occurred
 * `Imp` (5; 10% of non-empty `Mood`): <em>EVTA, Kambodschas, Verzeih, aG, flieg</em>
 * `Ind` (41; 82% of non-empty `Mood`): <em>ist, sind, 1st, Gibt, Glaube, Leuchten, Sankt, Verden, ausnutzen, bru</em>
 * `Sub` (4; 8% of non-empty `Mood`): <em>Kemble, Roden, fläke, régime</em>
-* `EMPTY` (30724): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
+* `EMPTY` (30630): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
 
 `Mood` seems to be **lexical feature** of `PROPN`. 100% lemmas (42) occur only with one value of `Mood`.
+
+### `NOUN`
+
+49 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Mood`.
+
+The most frequent other feature values with which `NOUN` and `Mood` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 65%).
+
+`NOUN` tokens may have the following values of `Mood`:
+
+* `Ind` (45; 92% of non-empty `Mood`): <em>mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</em>
+* `Sub` (4; 8% of non-empty `Mood`): <em>Komme, biene, ha, service</em>
+* `EMPTY` (52153): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+
+<table>
+  <tr><th>Paradigm <i>kommen</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>Kam</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>Komme</em></td></tr>
+</table>
+
+`Mood` seems to be **lexical feature** of `NOUN`. 97% lemmas (38) occur only with one value of `Mood`.
 
 ### `X`
 
@@ -135,7 +135,7 @@ The most frequent other feature values with which `X` and `Mood` co-occurred: <t
 `ADV` tokens may have the following values of `Mood`:
 
 * `Ind` (8; 100% of non-empty `Mood`): <em>kennen, aussen, bevorzugt, herausstellte, scheint, ﻿Auch</em>
-* `EMPTY` (14848): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14836): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ### `ADP`
 
@@ -156,7 +156,7 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 `PART` tokens may have the following values of `Mood`:
 
 * `Ind` (4; 100% of non-empty `Mood`): <em>einnahm, auflief, wehe</em>
-* `EMPTY` (2143): <em>nicht, zu, aus, ja, nein, an, hin, her, preis, wie</em>
+* `EMPTY` (2138): <em>nicht, zu, aus, ja, nein, an, hin, her, wie, Bitte</em>
 
 ### `CCONJ`
 
@@ -176,7 +176,7 @@ The most frequent other feature values with which `DET` and `Mood` co-occurred: 
 `DET` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>meinen</em>
-* `EMPTY` (37390): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
+* `EMPTY` (37660): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 
 ### `PUNCT`
 
@@ -185,7 +185,7 @@ The most frequent other feature values with which `DET` and `Mood` co-occurred: 
 `PUNCT` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>wurde</em>
-* `EMPTY` (38511): <em>., ,, -, ", ), (, !, :, ``, ''</em>
+* `EMPTY` (38496): <em>., ,, -, ", ), (, !, :, ``, ''</em>
 
 ### `SCONJ`
 
@@ -199,7 +199,7 @@ The most frequent other feature values with which `DET` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1059; 63%),
+<tt>VERB --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1073; 64%),
 <tt>VERB --[<tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (122; 50%),
 <tt>AUX --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (10; 100%),
 <tt>VERB --[<tt><a href="de_gsd-dep-dep.html">dep</a></tt>]--> VERB</tt> (10; 63%),

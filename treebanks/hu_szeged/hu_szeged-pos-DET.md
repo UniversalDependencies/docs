@@ -62,7 +62,7 @@ The 3rd highest number of forms (6) was observed with the lemma “sok”: <em>s
 
 `DET` occurs with 5 features: <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt> (5275; 100% instances), <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt> (5160; 98% instances), <tt><a href="hu_szeged-feat-Case.html">Case</a></tt> (127; 2% instances), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt> (115; 2% instances), <tt><a href="hu_szeged-feat-Person.html">Person</a></tt> (115; 2% instances)
 
-`DET` occurs with 25 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=All`, `Case=Dat`, `Case=Del`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Sub`, `Case=Sup`, `Definite=Def`, `Definite=Ind`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Tot`
+`DET` occurs with 25 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=All`, `Case=Dat`, `Case=Del`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Sbl`, `Case=Sup`, `Definite=Def`, `Definite=Ind`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Tot`
 
 `DET` occurs with 35 feature combinations.
 The most frequent feature combination is `Definite=Def|PronType=Art` (4824 tokens).

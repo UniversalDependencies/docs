@@ -11,7 +11,7 @@ This relation is universal.
 5243 nodes (6%) are attached to their parents as `root`.
 
 5243 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.18901392332634.
+Average distance between parent and child is 5.18996757581537.
 
 The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (4035; 77% instances), -<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (592; 11% instances), -<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (362; 7% instances), -<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (71; 1% instances), -<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (64; 1% instances), -<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (44; 1% instances), -<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (37; 1% instances), -<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (18; 0% instances), -<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (14; 0% instances), -<tt><a href="en_lines-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 

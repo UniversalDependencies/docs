@@ -22,10 +22,10 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod	color:blue
-1	xepxep	xepxep	NUM	num	NumType=Card	2	nummod	2:nummod	_
-2	pa	ba	NOUN	n	Class=CilRig	3	nmod	3:nmod	_
-3	akoba	ako	NOUN	n	Class=CilRig	4	obl	4:obl	_
-4	o'suba'o	'o	VERB	v	Class=CilRig|Person=3|Rel=NCont	0	root	0:root	gloss=3-RN-CLA-eat
+1	xepxep	xepxep	NUM	num	NumType=Card	2	nummod	_	_
+2	pa	ba	NOUN	n	Class=CilRig	3	nmod	_	_
+3	akoba	ako	NOUN	n	Class=CilRig	4	obl	_	_
+4	o'suba'o	'o	VERB	v	Class=CilRig|Person=3|Rel=NCont	0	root	_	gloss=3-RN-CLA-eat
 
 ~~~
 

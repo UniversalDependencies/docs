@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 8 amod	color:blue
 1	$	_	SYM	SYM	_	0	root	_	SpaceAfter=No
-2	5,000	_	NUM	CD	_	1	nummod	_	OrigForm=$5000
+2	5,000	_	NUM	CD	_	1	nummod	_	_
 3	por	por	ADP	IN	_	4	case	_	_
 4	pessoa	pessoa	NOUN	NN	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	_

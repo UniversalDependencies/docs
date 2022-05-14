@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2723 nodes (7%) are attached to their parents as `det`.
+2936 nodes (7%) are attached to their parents as `det`.
 
-2614 instances of `det` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05986044803526.
+2823 instances of `det` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05790190735695.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (2364; 87% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (135; 5% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (120; 4% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (32; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (28; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (21; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (17; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (2556; 87% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (139; 5% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (129; 4% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (33; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (31; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (23; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

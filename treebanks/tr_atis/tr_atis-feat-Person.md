@@ -11,22 +11,22 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_atis-feat-Person.html">Person</a></tt>, <tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt>.
 
-17600 tokens (38%) have a non-empty value of `Person`.
-1136 types (56%) occur at least once with a non-empty value of `Person`.
-514 lemmas (53%) occur at least once with a non-empty value of `Person`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (13499; 29% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (4101; 9% instances).
+17582 tokens (38%) have a non-empty value of `Person`.
+1129 types (56%) occur at least once with a non-empty value of `Person`.
+508 lemmas (53%) occur at least once with a non-empty value of `Person`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (13481; 29% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (4101; 9% instances).
 
 ### `NOUN`
 
-13499 <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
+13481 <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10124; 75%), <tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10030; 74%), <tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7748; 57%), <tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (7748; 57%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10106; 75%), <tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10012; 74%), <tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7730; 57%), <tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (7730; 57%).
 
 `NOUN` tokens may have the following values of `Person`:
 
-* `3` (13499; 100% of non-empty `Person`): <em>uçuşları, uçuş, uçuşlar, günü, uçuşu, uçuşlarını, akşam, öğleden, dönüş, gidiş</em>
+* `3` (13481; 100% of non-empty `Person`): <em>uçuşları, uçuş, uçuşlar, günü, uçuşu, uçuşlarını, akşam, öğleden, dönüş, gidiş</em>
 
-`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (466) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (460) occur only with one value of `Person`.
 
 ### `VERB`
 
@@ -56,10 +56,10 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="tr_atis-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3869; 100%),
+<tt>NOUN --[<tt><a href="tr_atis-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3864; 100%),
 <tt>VERB --[<tt><a href="tr_atis-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (927; 100%),
 <tt>NOUN --[<tt><a href="tr_atis-dep-compound.html">compound</a></tt>]--> NOUN</tt> (556; 100%),
-<tt>NOUN --[<tt><a href="tr_atis-dep-obl.html">obl</a></tt>]--> NOUN</tt> (245; 100%),
+<tt>NOUN --[<tt><a href="tr_atis-dep-obl.html">obl</a></tt>]--> NOUN</tt> (244; 100%),
 <tt>NOUN --[<tt><a href="tr_atis-dep-obj.html">obj</a></tt>]--> NOUN</tt> (220; 100%),
 <tt>NOUN --[<tt><a href="tr_atis-dep-amod.html">amod</a></tt>]--> NOUN</tt> (213; 100%),
 <tt>VERB --[<tt><a href="tr_atis-dep-obl.html">obl</a></tt>]--> NOUN</tt> (192; 71%),

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advcl`: <tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-1116 nodes (1%) are attached to their parents as `advcl`.
+1426 nodes (1%) are attached to their parents as `advcl`.
 
-728 instances of `advcl` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.41039426523298.
+939 instances of `advcl` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.73632538569425.
 
-The following 31 pairs of parts of speech are connected with `advcl`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (887; 79% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (55; 5% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (32; 3% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (29; 3% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (21; 2% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (20; 2% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 35 pairs of parts of speech are connected with `advcl`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1117; 78% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (75; 5% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (46; 3% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (41; 3% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (31; 2% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (26; 2% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 31 pairs of parts of speech are connected with `advcl`: <tt><a hre
 2	աղուոր	աղուոր	ADJ	_	Degree=Pos	0	root	_	Translit=aġowor|LTranslit=aġowor
 3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
 4	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
-5	ինչ	ինչ	PRON	_	PronType=Rel	7	obj	_	Translit=inč|LTranslit=inč
+5	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|PronType=Rel	7	obj	_	Translit=inč|LTranslit=inč
 6	որ	որ	PART	_	_	5	fixed	_	Translit=or|LTranslit=or
 7	ըսեմ	ըսել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	Translit=ësem|LTranslit=ësel|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
@@ -62,21 +62,22 @@ The following 31 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 8 advcl	color:blue
-1	Եկուր	գալ	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin|Voice=Mid	0	root	_	Translit=Ekowr|LTranslit=gal|SpaceAfter=No
-2	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-3	տես	տեսնել	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	1	compound:svc	_	Translit=tes|LTranslit=tesnel|SpaceAfter=No
-4	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-5	որ	որ	SCONJ	_	_	8	mark	_	Translit=or|LTranslit=or
-6	ընթացքը	ընթացք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	Translit=ënt’ac’k’ë|LTranslit=ënt’ac’k’
-7	բոլորովին	բոլորովին	ADV	_	_	8	advmod	_	Translit=bolorovin|LTranslit=bolorovin
-8	տարբեր	տարբեր	ADJ	_	Degree=Pos	1	advcl	_	Translit=tarber|LTranslit=tarber
-9	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	8	cop	_	Translit=ēr|LTranslit=em|SpaceAfter=No
-10	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 advcl	color:blue
+1	Աննիկ	Աննիկ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	2	nmod	_	Translit=Annik|LTranslit=Annik
+2	հօրաքոյրս	հօրաքոյր	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	Translit=hòrak’oyrs|LTranslit=hòrak’oyr
+3	համարեր	համարել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=hamarer|LTranslit=hamarel
+4	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	3	aux	_	Translit=ēr|LTranslit=em
+5	որ	որ	SCONJ	_	_	7	mark	_	Translit=or|LTranslit=or
+6	սա	սա	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	7	nsubj	_	Translit=sa|LTranslit=sa
+7	հրաւէր	հրաւէր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	xcomp	_	Translit=hrawēr|LTranslit=hrawēr
+8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	Translit=ē|LTranslit=em
+9	ընտանիքը	ընտանիք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	10	obj	_	Translit=ëntanik’ë|LTranslit=ëntanik’
+10	անպատուելու	անպատուել	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	7	advcl	_	Translit=anpatowelow|LTranslit=anpatowel|SpaceAfter=No
+11	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

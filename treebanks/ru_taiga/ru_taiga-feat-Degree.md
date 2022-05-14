@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-27034 tokens (14%) have a non-empty value of `Degree`.
-8797 types (23%) occur at least once with a non-empty value of `Degree`.
+27028 tokens (14%) have a non-empty value of `Degree`.
+8800 types (23%) occur at least once with a non-empty value of `Degree`.
 4026 lemmas (20%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (16289; 8% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (10688; 5% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (57; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (16287; 8% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (10684; 5% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (57; 0% instances).
 
 ### `ADJ`
 
-16289 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
+16287 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (13927; 85%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12181; 75%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (13925; 85%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12179; 75%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (406; 2% of non-empty `Degree`): <em>лучше, хуже, дешевле, выше, больше, ниже, дороже, старше, ближе, вкуснее</em>
-* `Pos` (15623; 96% of non-empty `Degree`): <em>хороший, большой, нужно, отличный, неплохой, хорошая, хорошо, хорошее, вежливый, обычный</em>
+* `Cmp` (407; 2% of non-empty `Degree`): <em>лучше, хуже, дешевле, выше, больше, ниже, дороже, старше, ближе, вкуснее</em>
+* `Pos` (15620; 96% of non-empty `Degree`): <em>хороший, большой, нужно, отличный, неплохой, хорошая, хорошо, хорошее, вежливый, обычный</em>
 * `Sup` (260; 2% of non-empty `Degree`): <em>лучший, лучших, высшем, лучшая, лучшие, лучшего, лучшее, красивейший, лучшей, лучшем</em>
-* `EMPTY` (599): <em>супер, п., норм, 2, 1, 3, мини, 2020, ст., 12</em>
+* `EMPTY` (598): <em>супер, п., норм, 2, 1, 3, мини, 2020, ст., 12</em>
 
 <table>
   <tr><th>Paradigm <i>старый</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -50,27 +50,27 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>стары</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (3021) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (3022) occur only with one value of `Degree`.
 
 ### `ADV`
 
-10688 <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> tokens (98% of all `ADV` tokens) have a non-empty value of `Degree`.
+10684 <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> tokens (98% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (6492; 61%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (608; 6% of non-empty `Degree`): <em>раньше, больше, более, скорее, дальше, лучше, далее, чаще, короче, менее</em>
-* `Pos` (10072; 94% of non-empty `Degree`): <em>очень, уже, так, как, еще, там, ещё, где, часто, вообще</em>
+* `Pos` (10068; 94% of non-empty `Degree`): <em>очень, уже, так, как, еще, там, ещё, где, часто, вообще</em>
 * `Sup` (8; 0% of non-empty `Degree`): <em>наиболее, наименее</em>
-* `EMPTY` (173): <em>т., д., к., оч., тд, д, оч, Крч, к, в/м</em>
+* `EMPTY` (174): <em>т., д., к., оч., тд, д, оч, Крч, к, в/м</em>
 
 <table>
   <tr><th>Paradigm <i>часто</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
   <tr><td><tt></tt></td><td><em>часто</em></td><td><em>чаще, почаще</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (880) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (879) occur only with one value of `Degree`.
 
 ### `NUM`
 
@@ -86,14 +86,14 @@ The most frequent other feature values with which `NUM` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1121; 86%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1122; 86%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (894; 97%),
-<tt>ADV --[<tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (360; 86%),
+<tt>ADV --[<tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (361; 86%),
 <tt>ADV --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (154; 98%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (38; 70%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (34; 85%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> ADJ</tt> (28; 88%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (22; 96%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (22; 92%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-obl.html">obl</a></tt>]--> ADJ</tt> (21; 70%),
 <tt>ADV --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (18; 82%).
 

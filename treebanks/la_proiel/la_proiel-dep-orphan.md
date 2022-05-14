@@ -22,13 +22,13 @@ The following 66 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 orphan	color:blue
-1	oculum	oculus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	ref=MATT_5.38
-2	pro	pro	ADP	R-	_	3	case	_	ref=MATT_5.38
-3	oculo	oculus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	obl	_	ref=MATT_5.38
-4	et	et	CCONJ	C-	_	1	cc	_	ref=MATT_5.38
-5	dentem	dens	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	ref=MATT_5.38
-6	pro	pro	ADP	R-	_	7	case	_	ref=MATT_5.38
-7	dente	dens	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	orphan	_	ref=MATT_5.38
+1	oculum	oculus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_5.38
+2	pro	pro	ADP	R-	_	3	case	_	Ref=MATT_5.38
+3	oculo	oculus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	obl	_	Ref=MATT_5.38
+4	et	et	CCONJ	C-	_	1	cc	_	Ref=MATT_5.38
+5	dentem	dens	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	Ref=MATT_5.38
+6	pro	pro	ADP	R-	_	7	case	_	Ref=MATT_5.38
+7	dente	dens	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	orphan	_	Ref=MATT_5.38
 
 ~~~
 
@@ -39,17 +39,17 @@ The following 66 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 orphan	color:blue
-1	ecce	ecce	INTJ	I-	_	2	vocative	_	ref=ACTS_7.55
-2	video	video	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=ACTS_7.55
-3	caelos	caelum	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	ref=ACTS_7.55
-4	apertos	aperio	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	ref=ACTS_7.55
-5	et	et	CCONJ	C-	_	2	cc	_	ref=ACTS_7.55
-6	Filium	filius	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	ref=ACTS_7.55
-7	hominis	homo	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=ACTS_7.55
-8	a	ab	ADP	R-	_	9	case	_	ref=ACTS_7.55
-9	dextris	dexter	ADJ	A-	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	10	obl	_	ref=ACTS_7.55
-10	stantem	sto	VERB	V-	Case=Acc|Gender=Fem,Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	orphan	_	ref=ACTS_7.55
-11	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=ACTS_7.55
+1	ecce	ecce	INTJ	I-	_	2	vocative	_	Ref=ACTS_7.55
+2	video	video	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=ACTS_7.55
+3	caelos	caelum	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	Ref=ACTS_7.55
+4	apertos	aperio	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	Ref=ACTS_7.55
+5	et	et	CCONJ	C-	_	2	cc	_	Ref=ACTS_7.55
+6	Filium	filius	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	Ref=ACTS_7.55
+7	hominis	homo	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Ref=ACTS_7.55
+8	a	ab	ADP	R-	_	9	case	_	Ref=ACTS_7.55
+9	dextris	dexter	ADJ	A-	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	10	obl	_	Ref=ACTS_7.55
+10	stantem	sto	VERB	V-	Case=Acc|Gender=Fem,Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	orphan	_	Ref=ACTS_7.55
+11	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Ref=ACTS_7.55
 
 ~~~
 
@@ -60,14 +60,14 @@ The following 66 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 orphan	color:blue
-1	oportet	oportet	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_21.9
-2	primum	primum	ADV	Df	_	1	advmod	_	ref=LUKE_21.9
-3	haec	hic	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	4	nsubj:pass	_	ref=LUKE_21.9
-4	fieri	fio	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	1	ccomp	_	ref=LUKE_21.9
-5	sed	sed	CCONJ	C-	_	1	cc	_	ref=LUKE_21.9
-6	non	non	ADV	Df	Polarity=Neg	8	advmod	_	ref=LUKE_21.9
-7	statim	statim	ADV	Df	_	8	orphan	_	ref=LUKE_21.9
-8	finis	finis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=LUKE_21.9
+1	oportet	oportet	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_21.9
+2	primum	primum	ADV	Df	_	1	advmod	_	Ref=LUKE_21.9
+3	haec	hic	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	4	nsubj:pass	_	Ref=LUKE_21.9
+4	fieri	fio	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	1	ccomp	_	Ref=LUKE_21.9
+5	sed	sed	CCONJ	C-	_	1	cc	_	Ref=LUKE_21.9
+6	non	non	ADV	Df	Polarity=Neg	8	advmod	_	Ref=LUKE_21.9
+7	statim	statim	ADV	Df	_	8	orphan	_	Ref=LUKE_21.9
+8	finis	finis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=LUKE_21.9
 
 ~~~
 

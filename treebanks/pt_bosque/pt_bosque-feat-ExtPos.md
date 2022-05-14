@@ -9,28 +9,28 @@ udver: '2'
 This feature is language-specific.
 It occurs with 10 different values: `ADJ`, `ADP`, `ADV`, `AUX`, `CCONJ`, `INTJ`, `NOUN`, `NUM`, `PROPN`, `SCONJ`.
 
-5937 tokens (3%) have a non-empty value of `ExtPos`.
+5941 tokens (3%) have a non-empty value of `ExtPos`.
 2231 types (9%) occur at least once with a non-empty value of `ExtPos`.
-2083 lemmas (12%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 14 part-of-speech tags: <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (4118; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (573; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (418; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (392; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (252; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (65; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances).
+2086 lemmas (12%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 14 part-of-speech tags: <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (4112; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (573; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (418; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (392; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (258; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (66; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-4118 <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> tokens (22% of all `PROPN` tokens) have a non-empty value of `ExtPos`.
+4112 <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> tokens (22% of all `PROPN` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PROPN` and `ExtPos` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4037; 98%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2936; 71%).
+The most frequent other feature values with which `PROPN` and `ExtPos` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4030; 98%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2934; 71%).
 
 `PROPN` tokens may have the following values of `ExtPos`:
 
-* `NOUN` (25; 1% of non-empty `ExtPos`): <em>Câmara, Dívida, Estados, Meio, Assembleia, Direcção, Ensino, Guerra, Lei, Pacto</em>
-* `PROPN` (4093; 99% of non-empty `ExtPos`): <em>São, José, João, Fernando, Pedro, Carlos, Manuel, Nova, Banco, Paulo</em>
+* `NOUN` (26; 1% of non-empty `ExtPos`): <em>Câmara, Dívida, Estados, Meio, por, Assembleia, Direcção, Ensino, Guerra, Lei</em>
+* `PROPN` (4086; 99% of non-empty `ExtPos`): <em>São, José, João, Fernando, Pedro, Carlos, Manuel, Nova, Banco, Paulo</em>
 
 <table>
   <tr><th>Paradigm <i>Câmara</i></th><th><tt>NOUN</tt></th><th><tt>PROPN</tt></th></tr>
   <tr><td><tt></tt></td><td><em>Câmara</em></td><td><em>Câmara</em></td></tr>
 </table>
 
-`ExtPos` seems to be **lexical feature** of `PROPN`. 100% lemmas (1798) occur only with one value of `ExtPos`.
+`ExtPos` seems to be **lexical feature** of `PROPN`. 100% lemmas (1797) occur only with one value of `ExtPos`.
 
 ### `VERB`
 
@@ -97,36 +97,36 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 ### `NOUN`
 
-252 <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
+258 <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (203; 81%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (143; 57%).
+The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (209; 81%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (144; 56%).
 
 `NOUN` tokens may have the following values of `ExtPos`:
 
-* `NOUN` (212; 84% of non-empty `ExtPos`): <em>ponto, mercado, guerra, ser, campanha, ensino, opinião, pano, fim, luz</em>
-* `PROPN` (40; 16% of non-empty `ExtPos`): <em>Assembléia, Associação, Comissão, Conselho, Volta, Álcool, Assembleia, Avenida, Biblioteca, Bonequinha</em>
+* `NOUN` (212; 82% of non-empty `ExtPos`): <em>ponto, mercado, guerra, ser, campanha, ensino, opinião, pano, fim, luz</em>
+* `PROPN` (46; 18% of non-empty `ExtPos`): <em>Assembléia, Associação, Comissão, Conselho, Força, Volta, Álcool, Assembleia, Avenida, Biblioteca</em>
 
 <table>
   <tr><th>Paradigm <i>centro</i></th><th><tt>NOUN</tt></th><th><tt>PROPN</tt></th></tr>
   <tr><td><tt></tt></td><td><em>centro</em></td><td><em>Centro</em></td></tr>
 </table>
 
-`ExtPos` seems to be **lexical feature** of `NOUN`. 97% lemmas (148) occur only with one value of `ExtPos`.
+`ExtPos` seems to be **lexical feature** of `NOUN`. 96% lemmas (149) occur only with one value of `ExtPos`.
 
 ### `X`
 
-65 <tt><a href="pt_bosque-pos-X.html">X</a></tt> tokens (41% of all `X` tokens) have a non-empty value of `ExtPos`.
+66 <tt><a href="pt_bosque-pos-X.html">X</a></tt> tokens (40% of all `X` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `X` and `ExtPos` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (53; 82%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (51; 78%).
+The most frequent other feature values with which `X` and `ExtPos` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (54; 82%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (52; 79%).
 
 `X` tokens may have the following values of `ExtPos`:
 
 * `ADJ` (3; 5% of non-empty `ExtPos`): <em>in, made</em>
 * `ADV` (1; 2% of non-empty `ExtPos`): <em>on</em>
-* `NOUN` (55; 85% of non-empty `ExtPos`): <em>pole, body, drag, jet, market, network, dream, best, big, black</em>
-* `PROPN` (6; 9% of non-empty `ExtPos`): <em>Adventure, Journey, So, Body, Insight, MacMillan</em>
+* `NOUN` (55; 83% of non-empty `ExtPos`): <em>pole, body, drag, jet, market, network, dream, best, big, black</em>
+* `PROPN` (7; 11% of non-empty `ExtPos`): <em>Adventure, Journey, So, The, Body, Insight, MacMillan</em>
 
-`ExtPos` seems to be **lexical feature** of `X`. 100% lemmas (56) occur only with one value of `ExtPos`.
+`ExtPos` seems to be **lexical feature** of `X`. 100% lemmas (57) occur only with one value of `ExtPos`.
 
 ### `AUX`
 
@@ -184,13 +184,13 @@ The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred
 
 ### `NUM`
 
-13 <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `ExtPos`.
+14 <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `ExtPos`.
 
 `NUM` tokens may have the following values of `ExtPos`:
 
-* `NOUN` (4; 31% of non-empty `ExtPos`): <em>meia, quinta</em>
-* `NUM` (7; 54% of non-empty `ExtPos`): <em>meia, Setenta, Trinta, cento, cinquenta</em>
-* `PROPN` (2; 15% of non-empty `ExtPos`): <em>VIII, X</em>
+* `NOUN` (4; 29% of non-empty `ExtPos`): <em>meia, quinta</em>
+* `NUM` (7; 50% of non-empty `ExtPos`): <em>meia, Setenta, Trinta, cento, cinquenta</em>
+* `PROPN` (3; 21% of non-empty `ExtPos`): <em>Mil, VIII, X</em>
 
 <table>
   <tr><th>Paradigm <i>meia</i></th><th><tt>NOUN</tt></th><th><tt>NUM</tt></th></tr>
@@ -199,23 +199,23 @@ The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred
 
 ### `PRON`
 
-10 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `ExtPos`.
+11 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="pt_bosque-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9; 90%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 90%), <tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (9; 90%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="pt_bosque-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (10; 91%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 91%), <tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (10; 91%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 
-* `ADV` (1; 10% of non-empty `ExtPos`): <em>nada</em>
-* `CCONJ` (9; 90% of non-empty `ExtPos`): <em>isto</em>
+* `ADV` (2; 18% of non-empty `ExtPos`): <em>isso, nada</em>
+* `CCONJ` (9; 82% of non-empty `ExtPos`): <em>isto</em>
 
 ### `SCONJ`
 
-7 <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
+8 <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
 `SCONJ` tokens may have the following values of `ExtPos`:
 
-* `ADP` (1; 14% of non-empty `ExtPos`): <em>graças</em>
-* `SCONJ` (6; 86% of non-empty `ExtPos`): <em>se, em, por, visto</em>
+* `ADP` (1; 13% of non-empty `ExtPos`): <em>graças</em>
+* `SCONJ` (7; 88% of non-empty `ExtPos`): <em>se, de, em, por, visto</em>
 
 ### `PART`
 
@@ -225,12 +225,12 @@ The most frequent other feature values with which `PART` and `ExtPos` co-occurre
 
 `PART` tokens may have the following values of `ExtPos`:
 
-* `NOUN` (1; 100% of non-empty `ExtPos`): <em>pré-</em>
+* `NOUN` (1; 100% of non-empty `ExtPos`): <em>pré</em>
 
 ## Relations with Agreement in `ExtPos`
 
 The 10 most frequent relations where parent and child node agree in `ExtPos`:
-<tt>PROPN --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> PROPN</tt> (322; 57%),
+<tt>PROPN --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> PROPN</tt> (321; 57%),
 <tt>ADP --[<tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt>]--> ADP</tt> (8; 100%),
 <tt>PROPN --[<tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (6; 67%),
 <tt>PROPN --[<tt><a href="pt_bosque-dep-obj.html">obj</a></tt>]--> PROPN</tt> (4; 100%),

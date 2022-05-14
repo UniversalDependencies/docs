@@ -12,20 +12,20 @@ Some words have combined values of the feature; 3 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt>, <tt><a href="cs_pdt-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-752874 tokens (50%) have a non-empty value of `Gender`.
+752873 tokens (50%) have a non-empty value of `Gender`.
 122284 types (95%) occur at least once with a non-empty value of `Gender`.
 49983 lemmas (86%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (371905; 25% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (184566; 12% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (82084; 5% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (50326; 3% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (44469; 3% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (7931; 1% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (6776; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (4759; 0% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (58; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (371904; 25% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (184566; 12% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (82084; 5% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (49280; 3% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (44561; 3% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (7839; 1% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (7822; 1% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (4759; 0% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (58; 0% instances).
 
 ### `NOUN`
 
-371905 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+371904 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (371341; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (259810; 70%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (208423; 56%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (371340; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (259810; 70%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (208422; 56%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (145307; 39% of non-empty `Gender`): <em>korun, strany, společnosti, době, firmy, Kč, práce, vláda, země, vlády</em>
+* `Fem` (145306; 39% of non-empty `Gender`): <em>korun, strany, společnosti, době, firmy, Kč, práce, vláda, země, vlády</em>
 * `Masc` (163482; 44% of non-empty `Gender`): <em>roku, roce, případě, zákona, lidí, rok, ministr, světa, předseda, trhu</em>
 * `Neut` (63116; 17% of non-empty `Gender`): <em>let, procent, jednání, letech, zahraničí, září, prostředí, ministerstva, vedení, zboží</em>
 * `EMPTY` (396): <em>image, s, pc, Greening, PB, rho, F, LEP, PX, Dancing</em>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 184566 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (172466; 93%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (153967; 83%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125691; 68%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (109043; 59%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (172466; 93%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (157372; 85%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (157372; 85%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (153967; 83%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125691; 68%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (109043; 59%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -162,47 +162,47 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `VERB`
 
-50326 <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Gender`.
+49280 <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> tokens (38% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (50326; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (50326; 100%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (50324; 100%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (50207; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (50205; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (46118; 92%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28067; 56%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (49280; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (49280; 100%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (49278; 100%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (49163; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (49161; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (45221; 92%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27385; 56%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (2; 0% of non-empty `Gender`): <em>Were</em>
-* `Fem,Masc` (4308; 9% of non-empty `Gender`): <em>měly, mohly, byly, začaly, objevily, dosáhly, získaly, neměly, staly, vedly</em>
-* `Fem,Neut` (9565; 19% of non-empty `Gender`): <em>měla, mohla, byla, stala, začala, získala, musela, vznikla, oznámila, rozhodla</em>
-* `Masc` (29916; 59% of non-empty `Gender`): <em>řekl, měl, uvedl, měli, mohl, prohlásil, stal, mohli, byl, dodal</em>
-* `Neut` (6535; 13% of non-empty `Gender`): <em>mělo, bylo, podařilo, došlo, mohlo, šlo, stalo, začalo, ukázalo, přišlo</em>
-* `EMPTY` (85153): <em>má, je, může, mají, musí, jde, jsou, lze, mít, mohou</em>
+* `Fem` (7; 0% of non-empty `Gender`): <em>Were, chtíc, držíc, hynouc, nechtíc, vsouvajíc</em>
+* `Fem,Masc` (4201; 9% of non-empty `Gender`): <em>měly, mohly, začaly, objevily, dosáhly, získaly, neměly, staly, vedly, dostaly</em>
+* `Fem,Neut` (9384; 19% of non-empty `Gender`): <em>měla, mohla, stala, začala, získala, musela, vznikla, oznámila, rozhodla, uvedla</em>
+* `Masc` (29545; 60% of non-empty `Gender`): <em>řekl, měl, uvedl, měli, mohl, prohlásil, stal, mohli, dodal, dostal</em>
+* `Neut` (6143; 12% of non-empty `Gender`): <em>mělo, podařilo, došlo, mohlo, šlo, stalo, začalo, ukázalo, přišlo, nemělo</em>
+* `EMPTY` (80994): <em>má, může, mají, musí, jde, lze, mít, mohou, říká, patří</em>
 
 <table>
-  <tr><th>Paradigm <i>mít</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>neměli</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>měli</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>neměly</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>měly</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td></td><td><em>nemaje</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td></td><td><em>maje</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>neměl</em></td><td><em>nemělo</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>měl</em></td><td><em>mělo</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>neměla</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>měla</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>chtít</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>nechtěli, nechtěly</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>chtěli</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>nechtěly</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>chtěly</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td></td><td></td><td><em>nechtíc</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td></td><td></td><td><em>chtíc</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>nechtěl</em></td><td></td><td><em>nechtělo</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>chtěl</em></td><td></td><td><em>chtělo</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>nechtěla</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>chtěla</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `DET`
 
-44469 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (79% of all `DET` tokens) have a non-empty value of `Gender`.
+44561 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (79% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (41003; 92%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (41003; 92%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (37482; 84%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (36910; 83%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35850; 81%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (41095; 92%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (41095; 92%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (37558; 84%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (37002; 83%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35925; 81%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (12284; 28% of non-empty `Gender`): <em>která, které, této, své, svou, kterou, tato, tuto, naší, její</em>
+* `Fem` (12303; 28% of non-empty `Gender`): <em>která, které, této, své, svou, kterou, tato, tuto, naší, její</em>
 * `Fem,Neut` (381; 1% of non-empty `Gender`): <em>naše, moje, vaše, mio</em>
-* `Masc` (12620; 28% of non-empty `Gender`): <em>který, kteří, které, tento, ten, svůj, každý, své, všechny, sám</em>
-* `Masc,Neut` (9384; 21% of non-empty `Gender`): <em>tím, tom, tomu, toho, tohoto, tomto, svého, svém, svým, našeho</em>
-* `Neut` (9800; 22% of non-empty `Gender`): <em>to, které, toto, vše, své, všechno, která, tato, takové, žádné</em>
-* `EMPTY` (11643): <em>jeho, jejich, všech, těchto, svých, několik, některých, několika, našich, mnoho</em>
+* `Masc` (12642; 28% of non-empty `Gender`): <em>který, kteří, které, tento, ten, svůj, každý, své, všechny, sám</em>
+* `Masc,Neut` (9434; 21% of non-empty `Gender`): <em>tím, tom, tomu, toho, tohoto, tomto, svého, svém, svým, našeho</em>
+* `Neut` (9801; 22% of non-empty `Gender`): <em>to, které, toto, vše, své, všechno, která, tato, takové, žádné</em>
+* `EMPTY` (11655): <em>jeho, jejich, všech, těchto, svých, několik, některých, několika, našich, mnoho</em>
 
 <table>
   <tr><th>Paradigm <i>můj</i></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -238,35 +238,35 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `PRON`
 
-7931 <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> tokens (18% of all `PRON` tokens) have a non-empty value of `Gender`.
+7839 <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> tokens (17% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7931; 100%), <tt><a href="cs_pdt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6698; 84%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6021; 76%), <tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (4784; 60%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4502; 57%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4502; 57%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7839; 100%), <tt><a href="cs_pdt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6606; 84%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5946; 76%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4502; 57%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4502; 57%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (2105; 27% of non-empty `Gender`): <em>ji, ní, níž, jí, jež, ni, ona, veškeré, jíž, niž</em>
-* `Masc` (2146; 27% of non-empty `Gender`): <em>kdo, nikdo, někdo, on, jenž, oni, koho, komu, někoho, nikoho</em>
-* `Masc,Neut` (3460; 44% of non-empty `Gender`): <em>mu, ho, něj, jej, něm, němž, jehož, ním, něho, něhož</em>
-* `Neut` (220; 3% of non-empty `Gender`): <em>je, jež, ono, ně, veškeré, it, něž, veškerá, všecko, All</em>
-* `EMPTY` (36988): <em>se, si, co, nás, je, nám, nich, což, jim, nic</em>
+* `Fem` (2086; 27% of non-empty `Gender`): <em>ji, ní, níž, jí, jež, ni, ona, veškeré, jíž, niž</em>
+* `Masc` (2124; 27% of non-empty `Gender`): <em>kdo, nikdo, někdo, on, jenž, oni, koho, komu, někoho, nikoho</em>
+* `Masc,Neut` (3410; 44% of non-empty `Gender`): <em>mu, ho, něj, jej, něm, němž, jehož, ním, něho, něhož</em>
+* `Neut` (219; 3% of non-empty `Gender`): <em>je, jež, ono, ně, veškeré, it, něž, veškerá, všecko, All</em>
+* `EMPTY` (36976): <em>se, si, co, nás, je, nám, nich, což, jim, nic</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>oni</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ony</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jeho</em></td><td></td><td><em>ji, jí</em></td><td><em>je</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="cs_pdt-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td></td><td><em>jej</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>něj, něho</em></td><td><em>ni</em></td><td><em>ně</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="cs_pdt-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td><em>ní</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jeho</em></td><td></td><td><em>ji, jí</em></td><td><em>je</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td></td><td><em>jej</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>ho</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td></td><td><em>jemu</em></td><td><em>jí, ji</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>němu</em></td><td><em>ní</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jemu</em></td><td><em>jí, ji</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>mu</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jeho</em></td><td><em>jej</em></td><td><em>jí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>něj, něho</em></td><td><em>ní</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jeho</em></td><td><em>jej</em></td><td><em>jí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>ho</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td></td><td><em>jím</em></td><td><em>jí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>ním</em></td><td><em>ní</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jím</em></td><td><em>jí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>něm</em></td><td><em>ní</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>on</em></td><td></td><td><em>ona</em></td><td><em>ono</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>ony</em></td><td></td></tr>
@@ -274,29 +274,31 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `AUX`
 
-6776 <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> tokens (16% of all `AUX` tokens) have a non-empty value of `Gender`.
+7822 <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> tokens (17% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6776; 100%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6776; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6776; 100%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6772; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6772; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6105; 90%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3915; 58%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7822; 100%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7822; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7822; 100%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7816; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7816; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7002; 90%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4597; 59%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem,Masc` (878; 13% of non-empty `Gender`): <em>byly, nebyly, bývaly, bývávaly</em>
-* `Fem,Neut` (1580; 23% of non-empty `Gender`): <em>byla, nebyla, bývala, jsouc, nebývala</em>
-* `Masc` (2678; 40% of non-empty `Gender`): <em>byl, byli, nebyl, nebyli, býval, jsa, bývali</em>
-* `Neut` (1640; 24% of non-empty `Gender`): <em>bylo, nebylo, bývalo, nebývalo</em>
-* `EMPTY` (34619): <em>je, by, jsou, bude, být, jsem, jsme, není, budou, bychom</em>
+* `Fem` (3; 0% of non-empty `Gender`): <em>jsouc</em>
+* `Fem,Masc` (985; 13% of non-empty `Gender`): <em>byly, nebyly, bývaly, bývávaly</em>
+* `Fem,Neut` (1746; 22% of non-empty `Gender`): <em>byla, nebyla, bývala, nebývala</em>
+* `Masc` (3049; 39% of non-empty `Gender`): <em>byl, byli, nebyl, nebyli, býval, jsa, bývali, nebýval</em>
+* `Neut` (2039; 26% of non-empty `Gender`): <em>bylo, nebylo, bývalo, nebývalo, bolo, bývávalo</em>
+* `EMPTY` (38778): <em>je, by, jsou, bude, být, není, jsem, jsme, budou, bychom</em>
 
 <table>
-  <tr><th>Paradigm <i>být</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>nebyli</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byli</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>nebyly</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>byly</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td><em>jsouc</em></td><td><em>jsa</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>nebyl</em></td><td><em>nebylo</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byl</em></td><td><em>bylo</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>nebyla</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>byla</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>být</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>nebyli</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byli</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>nebyly</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>byly</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td></td><td><em>jsa</em></td><td><em>jsouc</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td></td><td></td><td><em>bolo</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>nebyl</em></td><td></td><td><em>nebylo</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byl</em></td><td></td><td><em>bylo</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>nebyla</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>byla</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `NUM`
@@ -344,10 +346,10 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (11247; 100%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (9147; 99%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5643; 89%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4731; 82%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4730; 82%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4068; 82%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (3988; 54%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (3971; 67%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (3891; 56%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (3125; 52%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1444; 60%).
 

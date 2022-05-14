@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>voi</em> (<tt><a href="fi_ood-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.565520).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.566403).
 
 The 1st highest number of forms (1) was observed with the lemma “Hmm”: <em>Hmm</em>.
 
@@ -36,13 +36,13 @@ The 2nd highest number of forms (1) was observed with the lemma “että”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “hahaa”: <em>Hahaaa</em>.
 
-`INTJ` occurs with 4 features: <tt><a href="fi_ood-feat-Style.html">Style</a></tt> (3; 7% instances), <tt><a href="fi_ood-feat-Case.html">Case</a></tt> (1; 2% instances), <tt><a href="fi_ood-feat-Degree.html">Degree</a></tt> (1; 2% instances), <tt><a href="fi_ood-feat-Number.html">Number</a></tt> (1; 2% instances)
+`INTJ` occurs with 1 features: <tt><a href="fi_ood-feat-Style.html">Style</a></tt> (3; 7% instances)
 
-`INTJ` occurs with 4 feature-value pairs: `Case=Nom`, `Degree=Pos`, `Number=Sing`, `Style=Coll`
+`INTJ` occurs with 1 feature-value pairs: `Style=Coll`
 
-`INTJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (37 tokens).
-Examples: <em>no, voi, hei, hoh, HUOM, Hahaaa, Heipähei, Hmm, Hohhoijaa, Niih</em>
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (38 tokens).
+Examples: <em>no, voi, hei, hoh, HUOM, Hahaaa, Heipähei, Hmm, Hohhoijaa, Jopas</em>
 
 
 ## Relations

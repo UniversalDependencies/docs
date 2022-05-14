@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-214 nodes (19%) are attached to their parents as `nmod`.
+266 nodes (18%) are attached to their parents as `nmod`.
 
-214 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.84579439252336.
+265 instances of `nmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.82330827067669.
 
-The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (137; 64% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (39; 18% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (21; 10% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (8; 4% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (168; 63% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (47; 18% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (22; 8% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (12; 5% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (11; 4% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,22 +39,17 @@ The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 nmod	color:blue
-1	Бу	бу	PRON	_	PronType=Dem	9	obl	_	LangID=TT
-2	турыда	турыда	ADP	_	_	1	case	_	LangID=TT
-3	Түбән	түбән	ADJ	_	_	4	amod	_	LangID=TT
-4	Кама	Кама	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=RU
-5	муниципаль	муниципаль	ADJ	_	_	6	amod	_	LangID=RU
-6	районы	район	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nmod	_	LangID=TT
-7	рәсми	рәсми	ADJ	_	_	8	amod	_	LangID=TT
-8	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	9	obl	_	CSPoint=сайт§ында|LangID=MIXED[RU§TT]
-9	хәбәр	хәбәр	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
-10	ителә	ит	VERB	_	Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+# visual-style 4 3 nmod	color:blue
+1	Бәйгегә	бәйге	NOUN	_	Case=Dat|Number=Sing	2	nmod	_	LangID=TT
+2	йомгак	йомгак	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
+3	Кариев	Кариев	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	CSPoint=Кари§ев|LangID=MIXED[TT§RU]
+4	театрында	театр	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	5	obl	_	LangID=TT
+5	ясалды	яса	VERB	_	Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
 
 ~~~
 

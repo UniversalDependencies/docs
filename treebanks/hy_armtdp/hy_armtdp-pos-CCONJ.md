@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Armenian-ArmTDP: POS Tags: `CCONJ`
 
-There are 21 `CCONJ` lemmas (0%), 24 `CCONJ` types (0%) and 2282 `CCONJ` tokens (4%).
+There are 21 `CCONJ` lemmas (0%), 24 `CCONJ` types (0%) and 2281 `CCONJ` tokens (4%).
 Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 14 in number of types and 7 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>և, ու, բայց, իսկ, նաև, կամ, թե, սակայն, այլ, ինչպես</em>
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>ու</em> (<tt><a href="hy_armtdp-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.142857 (the average of all parts of speech is 1.814529).
+The form / lemma ratio of `CCONJ` is 1.142857 (the average of all parts of speech is 1.814455).
 
 The 1st highest number of forms (2) was observed with the lemma “այնպես”: <em>այնպես, էնպես</em>.
 
@@ -72,17 +72,17 @@ The 3rd highest number of forms (2) was observed with the lemma “և”: <em>Ե
 `CCONJ` occurs with 3 feature-value pairs: `ConjType=Comp`, `Style=Coll`, `Style=Vrnc`
 
 `CCONJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (1951 tokens).
+The most frequent feature combination is `_` (1950 tokens).
 Examples: <em>և, ու, բայց, իսկ, թե, Եվ, սակայն, ոչ, այսինքն, էլ</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 11 different relations: <tt><a href="hy_armtdp-dep-cc.html">cc</a></tt> (2111; 93% instances), <tt><a href="hy_armtdp-dep-advmod-emph.html">advmod:emph</a></tt> (66; 3% instances), <tt><a href="hy_armtdp-dep-fixed.html">fixed</a></tt> (51; 2% instances), <tt><a href="hy_armtdp-dep-advmod.html">advmod</a></tt> (30; 1% instances), <tt><a href="hy_armtdp-dep-discourse.html">discourse</a></tt> (10; 0% instances), <tt><a href="hy_armtdp-dep-orphan.html">orphan</a></tt> (6; 0% instances), <tt><a href="hy_armtdp-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-dep-goeswith.html">goeswith</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="hy_armtdp-dep-cc.html">cc</a></tt> (2112; 93% instances), <tt><a href="hy_armtdp-dep-advmod-emph.html">advmod:emph</a></tt> (66; 3% instances), <tt><a href="hy_armtdp-dep-fixed.html">fixed</a></tt> (51; 2% instances), <tt><a href="hy_armtdp-dep-advmod.html">advmod</a></tt> (30; 1% instances), <tt><a href="hy_armtdp-dep-discourse.html">discourse</a></tt> (10; 0% instances), <tt><a href="hy_armtdp-dep-orphan.html">orphan</a></tt> (6; 0% instances), <tt><a href="hy_armtdp-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (971; 43% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (789; 35% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (252; 11% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (69; 3% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (62; 3% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (49; 2% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (35; 2% instances), <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (25; 1% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (971; 43% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (789; 35% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (251; 11% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (69; 3% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (62; 3% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (49; 2% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (35; 2% instances), <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (25; 1% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 0% instances)
 
-2188 (96%) `CCONJ` nodes are leaves.
+2187 (96%) `CCONJ` nodes are leaves.
 
 87 (4%) `CCONJ` nodes have one child.
 

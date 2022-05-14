@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (4%) are attached to their parents as `parataxis`.
+59 nodes (5%) are attached to their parents as `parataxis`.
 
-17 instances of `parataxis` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.27777777777778.
+56 instances of `parataxis` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.28813559322034.
 
-The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (7; 39% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (4; 22% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (3; 17% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (3; 17% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (36; 61% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (9; 15% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (6; 10% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (4; 7% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -46,17 +46,18 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 5 parataxis	color:blue
-1	tebõ	te	PRON	pron	Case=All|Person=3|Reflex=Yes	3	nmod	_	_
-2	kɨte	kɨte	NUM	num	_	3	nummod	_	_
-3	purururu	puru	NOUN	ideo	_	0	root	_	_
-4	,	,	PUNCT	punct	_	5	punct	_	_
-5	kebõ	ke	DET	dem	Case=All|Deixis=Dist	3	parataxis	_	_
-6	nõm	nõm	ADV	adv	Polarity=Neg	5	advmod	_	_
+# visual-style 3 6 parataxis	color:blue
+1	jẽ	jẽ	DET	dem	Deixis=Prox	3	nmod	_	_
+2	kem	kem	NOUN	n	_	3	nmod	_	_
+3	kɨ	kɨ	NOUN	n	_	0	root	_	_
+4	jẽ	jẽ	DET	dem	Deixis=Prox	6	nmod	_	_
+5	kem	kem	NOUN	n	_	6	nmod	_	_
+6	kɨ	kɨ	NOUN	n	_	3	parataxis	_	_
+7	rom	rom	ADV	adv	Polarity=Neg	6	advmod	_	_
 
 ~~~
 

@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="cs_pud-dep-acl-rel
 110 instances of `acl` (99%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.03603603603604.
 
-The following 18 pairs of parts of speech are connected with `acl`: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (52; 47% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (17; 15% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (9; 8% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 19 pairs of parts of speech are connected with `acl`: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (41; 37% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (15; 14% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (12; 11% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (9; 8% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -56,26 +56,31 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 12 acl	color:blue
-1	Svým	svůj	DET	P8ZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	2	det	2:det	LId=svůj-1|LGloss=(přivlast.)
-2	rozsahem	rozsah	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	3:obl:ins	_
-3	patří	patřit	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	6	case	6:case	LId=k-1
-5	nejrozsáhlejším	rozsáhlý	ADJ	AAFP3----3A----	Case=Dat|Degree=Sup|Gender=Fem|Number=Plur|Polarity=Pos	6	amod	6:amod	_
-6	kulturám	kultura	NOUN	NNFP3-----A----	Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos	3	obl:arg	3:obl:arg:k:dat	_
-7	doby	doba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	6:nmod:gen	SpaceAfter=No
-8	,	,	PUNCT	Z:-------------	_	12	punct	12:punct	_
-9	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	10	case	10:case	LId=z-1
-10	které	který	DET	P4FS2----------	Case=Gen|Gender=Fem|Number=Sing|PronType=Int,Rel	12	nmod	12:nmod:z:gen	_
-11	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	12:cop	_
-12	známo	známý	ADJ	ACNS------A----	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short	7	acl	7:acl	LId=známý-2|LGloss=(co_známe)
-13	mnoho	mnoho	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	14	det:numgov	14:det:numgov	LId=mnoho-1
-14	nalezišť	naleziště	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	12	nsubj	12:nsubj	SpaceAfter=No
-15	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
+# visual-style 7 10 acl	color:blue
+1	Suezská	suezský	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	2:amod	_
+2	krize	krize	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj	3:nsubj	_
+3	ukázala	ukázat	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+4	meze	mez	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	3	obj	3:obj	_
+5	starých	starý	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	7	amod	7:amod	LId=starý-2|LGloss=(člověk,_věc)
+6	koloniálních	koloniální	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	7	amod	7:amod	_
+7	mocností	mocnost	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	4	nmod	4:nmod:gen	SpaceAfter=No|LGloss=(mající_moc)|LDeriv=mocný
+8	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
+9	jako	jako	SCONJ	J,-------------	_	10	mark	10:mark	LId=jako-1
+10	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl	7:acl:jako	_
+11	Velká	velký	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	12	amod	12:amod	_
+12	Británie	Británie	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	10	nsubj	10:nsubj	_
+13	a	a	CCONJ	J^-------------	_	14	cc	14:cc	LId=a-1
+14	Francie	Francie	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	12	conj	10:nsubj|12:conj	SpaceAfter=No
+15	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
+16	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	19	case	19:case	LId=v-1
+17	měnícím	měnící	ADJ	AGIS6-----A----	Animacy=Inan|Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	19	amod	19:amod	LDeriv=měnit
+18	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	17	nmod	17:nmod:acc	LGloss=(zvr._zájmeno/částice)
+19	světě	svět	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	4	nmod	4:nmod:v:loc	SpaceAfter=No
+20	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
 

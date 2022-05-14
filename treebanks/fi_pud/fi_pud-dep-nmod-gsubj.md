@@ -46,7 +46,7 @@ The following 4 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 2	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
 3	siitä	se	PRON	_	Case=Ela|Number=Sing|PronType=Dem	7	obl	7:obl	_
 4	lähtien	lähtien	ADP	_	AdpType=Post	3	case	3:case	_
-5	ollut	olla	AUX	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	7	cop	7:cop	_
+5	ollut	olla	AUX	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	7	cop	7:cop	_
 6	Saksan	Saksa	PROPN	_	Case=Gen|Number=Sing	7	nmod:gsubj	7:nmod:gsubj	_
 7	hallinnassa	hallinta	NOUN	_	Case=Ine|Number=Sing	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	7:punct	_
@@ -73,7 +73,7 @@ The following 4 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 11	,	,	PUNCT	_	_	14	punct	14:punct	_
 12	jota	joka	PRON	_	Case=Par|Number=Sing|PronType=Rel	14	obj	14:obj	_
 13	oli	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	aux:pass	14:aux:pass	_
-14	käytettävissä	käyttää	VERB	_	Case=Ine|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	10	acl:relcl	10:acl:relcl	_
+14	käytettävissä	käyttää	VERB	_	Case=Ine|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	10	acl:relcl	10:acl:relcl	_
 15	Alankomaiden	Alankomaat	PROPN	_	Case=Gen|Number=Plur	16	nmod:poss	16:nmod:poss	_
 16	kapinallisia	kapinallinen	NOUN	_	Case=Par|Derivation=Llinen|Number=Plur	14	obl	14:obl	_
 17	vastaan	vastaan	ADP	_	AdpType=Post	16	case	16:case	SpaceAfter=No

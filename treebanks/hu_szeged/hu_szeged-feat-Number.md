@@ -39,7 +39,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>évvel</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>év</em></td><td><em>évek</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>éve</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sub</tt></tt></td><td><em>évre</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sbl</tt></tt></td><td><em>évre</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sup</tt></tt></td><td><em>éven</em></td><td><em>éveken</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ter</tt></tt></td><td><em>évig</em></td><td><em>évekig</em></td></tr>
 </table>
@@ -126,7 +126,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ine</tt></tt></td><td><em>abban</em></td><td><em>azokban</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>azzal, avval</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>az</em></td><td><em>azok</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sub</tt></tt></td><td><em>arra</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sbl</tt></tt></td><td><em>arra</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sup</tt></tt></td><td><em>azon</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ter</tt></tt></td><td><em>addig</em></td><td></td></tr>
 </table>
@@ -147,7 +147,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Cau</tt></tt></td><td><em>többért</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ess</tt></tt></td><td><em>többen</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>több</em></td><td><em>többek</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sub</tt></tt></td><td><em>többre</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sbl</tt></tt></td><td><em>többre</em></td><td></td></tr>
 </table>
 
 `Number` seems to be **lexical feature** of `NUM`. 99% lemmas (326) occur only with one value of `Number`.
@@ -195,7 +195,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ine</tt></tt></td><td></td><td><em>azokban</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>azzal</em></td><td><em>azokkal</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>az</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sub</tt></tt></td><td><em>arra</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sbl</tt></tt></td><td><em>arra</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Number`

@@ -9,48 +9,28 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `obl`: <tt><a href="fr_gsd-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="fr_gsd-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="fr_gsd-dep-obl-mod.html">obl:mod</a></tt>.
 
-16 nodes (0%) are attached to their parents as `obl`.
+17 nodes (0%) are attached to their parents as `obl`.
 
-15 instances of `obl` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.125.
+16 instances of `obl` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (8; 50% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4; 25% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (9; 53% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4; 24% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 26 obl	color:blue
-1	En	en	ADP	_	_	2	case	_	wordform=en
-2	1951	1951	NUM	_	Number=Plur	14	obl:mod	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
-4	pour	pour	ADP	_	_	6	case	_	_
-5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	cinquantenaire	cinquantenaire	NOUN	_	Gender=Masc|Number=Sing	14	obl:mod	_	_
-7	de	de	ADP	_	_	9	case	_	_
-8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	mort	mort	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
-10	de	de	ADP	_	_	11	case	_	_
-11	Verdi	Verdi	PROPN	_	_	9	nmod	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	6	punct	_	_
-13	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-14	chante	chanter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-15	Nabucco	Nabucco	PROPN	_	_	14	obj	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	17	punct	_	_
-17	Simon	Simon	PROPN	_	_	14	conj	_	_
-18	Boccanegra	Boccanegra	PROPN	_	_	17	flat:name	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	21	punct	_	_
-20	et	et	CCONJ	_	_	21	cc	_	_
-21	Don	Don	PROPN	_	_	14	conj	_	_
-22	Carlos	Carlos	PROPN	_	_	21	flat:name	_	SpaceAfter=No
-23	,	,	PUNCT	_	_	26	punct	_	_
-24	à	à	ADP	_	_	26	case	_	_
-25	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
-26	radio	radio	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
-27	italienne	italien	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	14	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 obl	color:blue
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=il
+2	devient	devenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	joueur	joueur	NOUN	_	Gender=Masc|Number=Sing	2	xcomp	_	_
+4	autonome	autonome	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	à	à	ADP	_	_	7	case	_	_
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	automne	automne	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

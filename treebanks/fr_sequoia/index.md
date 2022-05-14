@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Djamé Seddah, Guy Perrier, Bruno Guillaume.
 
 Repository: [UD_French-Sequoia](https://github.com/UniversalDependencies/UD_French-Sequoia)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: LGPL-LR
 
@@ -87,7 +87,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 
 ## Features
 
-[Definite](fr_sequoia-feat-Definite.html) – [Gender](fr_sequoia-feat-Gender.html) – [Mood](fr_sequoia-feat-Mood.html) – [Number](fr_sequoia-feat-Number.html) – [NumType](fr_sequoia-feat-NumType.html) – [Person](fr_sequoia-feat-Person.html) – [Polarity](fr_sequoia-feat-Polarity.html) – [Poss](fr_sequoia-feat-Poss.html) – [PronType](fr_sequoia-feat-PronType.html) – [Reflex](fr_sequoia-feat-Reflex.html) – [Tense](fr_sequoia-feat-Tense.html) – [VerbForm](fr_sequoia-feat-VerbForm.html) – [Voice](fr_sequoia-feat-Voice.html)
+[Definite](fr_sequoia-feat-Definite.html) – [Foreign](fr_sequoia-feat-Foreign.html) – [Gender](fr_sequoia-feat-Gender.html) – [Mood](fr_sequoia-feat-Mood.html) – [Number](fr_sequoia-feat-Number.html) – [NumType](fr_sequoia-feat-NumType.html) – [Person](fr_sequoia-feat-Person.html) – [Polarity](fr_sequoia-feat-Polarity.html) – [Poss](fr_sequoia-feat-Poss.html) – [PronType](fr_sequoia-feat-PronType.html) – [Reflex](fr_sequoia-feat-Reflex.html) – [Tense](fr_sequoia-feat-Tense.html) – [Typo](fr_sequoia-feat-Typo.html) – [VerbForm](fr_sequoia-feat-VerbForm.html) – [Voice](fr_sequoia-feat-Voice.html)
 
 ## Relations
 
@@ -527,6 +527,31 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: the, van, en, in, Medicines, and, Company, UK, a, devils</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: musculo</li>
+          <li>NOUN: sus</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

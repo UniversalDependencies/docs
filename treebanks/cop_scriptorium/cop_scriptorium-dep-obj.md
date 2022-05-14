@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2220 nodes (4%) are attached to their parents as `obj`.
+2417 nodes (5%) are attached to their parents as `obj`.
 
-2218 instances of `obj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.97297297297297.
+2415 instances of `obj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.90815059991725.
 
-The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1222; 55% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (868; 39% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (84; 4% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (22; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1377; 57% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (907; 38% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (85; 4% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (22; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
 8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
 9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
-10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl	_	_
+10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl:relcl	_	_
 11	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	obj	_	Orig=ⲟⲩ`
 12	ϩⲛ	ϩⲛ	ADP	PREP	_	14	case	_	Orig=ϩ︤ⲛ︥
 13	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(place
@@ -51,7 +51,7 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 13 16 obj	color:blue
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
 2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-3	ⲣⲟⲩⲟⲉⲓⲛ	ⲣⲟⲩⲟⲉⲓⲛ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ⲣ-ⲟⲩⲟⲉⲓⲛ|Orig=ⲣ̄ⲟⲩⲟⲉⲓⲛ
+3	ⲣⲟⲩⲟⲉⲓⲛ	ⲣⲟⲩⲟⲉⲓⲛ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ⲣ-ⲟⲩⲟⲉⲓⲛ|Orig=ⲣ̄ⲟⲩⲟⲉⲓⲛ
 4	ⲉⲣⲟ	ⲉ	ADP	PREP	_	5	case	_	_
 5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 6	ϩⲛ	ϩⲛ	ADP	PREP	_	8	case	_	Orig=ϩ︤ⲛ︥
@@ -89,7 +89,7 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 11	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	14	mark	_	_
 12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
 13	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-14	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	10	acl	_	_
+14	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	10	acl:relcl	_	_
 15	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	obj	_	Entity=person)
 
 ~~~

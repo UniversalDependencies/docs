@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.725132).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.723629).
 
 The 1st highest number of forms (1) was observed with the lemma “aby”: <em>aby</em>.
 
@@ -43,7 +43,7 @@ The 3rd highest number of forms (1) was observed with the lemma “až”: <em>a
 
 `SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="cs_cltt-dep-mark.html">mark</a></tt> (365; 95% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (19; 5% instances), <tt><a href="cs_cltt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (149; 39% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (115; 30% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (95; 25% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (21; 5% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (145; 38% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (115; 30% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (95; 25% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (21; 5% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
 385 (100%) `SCONJ` nodes are leaves.
 

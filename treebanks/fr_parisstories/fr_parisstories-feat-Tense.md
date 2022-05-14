@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-3835 tokens (13%) have a non-empty value of `Tense`.
-730 types (26%) occur at least once with a non-empty value of `Tense`.
-369 lemmas (18%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2435; 8% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (1398; 5% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+3856 tokens (13%) have a non-empty value of `Tense`.
+729 types (26%) occur at least once with a non-empty value of `Tense`.
+368 lemmas (18%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2451; 8% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (1403; 5% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-2435 <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Tense`.
+2451 <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2209; 91%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1613; 66%), <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1591; 65%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1525; 63%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2224; 91%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1625; 66%), <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1603; 65%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1537; 63%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (3; 0% of non-empty `Tense`): <em>passerez, reverrai, verras</em>
-* `Imp` (594; 24% of non-empty `Tense`): <em>avait, était, avais, faisait, fallait, allait, fait, étais, voulait, devait</em>
-* `Past` (822; 34% of non-empty `Tense`): <em>fait, dit, eu, vu, passé, allée, mis, pris, commencé, pu</em>
-* `Pres` (1016; 42% of non-empty `Tense`): <em>a, est, va, sais, faut, vois, ai, arrive, dis, fait</em>
-* `EMPTY` (667): <em>voilà, faire, aller, prendre, dire, voir, avoir, parler, manger, passer</em>
+* `Imp` (599; 24% of non-empty `Tense`): <em>avait, était, avais, faisait, fallait, allait, fait, étais, devait, voulait</em>
+* `Past` (826; 34% of non-empty `Tense`): <em>fait, dit, eu, vu, passé, allée, mis, pris, commencé, pu</em>
+* `Pres` (1023; 42% of non-empty `Tense`): <em>a, est, va, sais, faut, vois, arrive, ai, dis, fait</em>
+* `EMPTY` (672): <em>voilà, faire, aller, prendre, dire, voir, avoir, parler, manger, passer</em>
 
 <table>
   <tr><th>Paradigm <i>voir</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -41,17 +41,17 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-1398 <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
+1403 <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1379; 99%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1360; 97%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1314; 94%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1080; 77%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1384; 99%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1365; 97%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1319; 94%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1083; 77%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (1; 0% of non-empty `Tense`): <em>sera</em>
-* `Imp` (421; 30% of non-empty `Tense`): <em>était, avait, étais, avais, étaient, avaient, fait</em>
+* `Imp` (423; 30% of non-empty `Tense`): <em>était, avait, étais, avais, étaient, avaient, fait</em>
 * `Past` (19; 1% of non-empty `Tense`): <em>été, eu, fait</em>
-* `Pres` (957; 68% of non-empty `Tense`): <em>est, a, ai, suis, sont, ont, as, soit, aurait, serait</em>
-* `EMPTY` (66): <em>ai, être, avais, été, faire, ai~, fais, fait</em>
+* `Pres` (960; 68% of non-empty `Tense`): <em>est, a, ai, suis, sont, ont, as, soit, aurait, serait</em>
+* `EMPTY` (67): <em>ai, être, avais, été, faire, ai~, fais, fait</em>
 
 <table>
   <tr><th>Paradigm <i>être</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -79,17 +79,16 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Past` (2; 100% of non-empty `Tense`): <em>specialisée, spécialisée</em>
-* `EMPTY` (846): <em>tout, petit, petite, tous, autre, bonne, même, première, vrai, sympa</em>
+* `EMPTY` (872): <em>tout, petit, petite, tous, autre, première, bonne, même, vrai, sympa</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> VERB</tt> (126; 68%),
-<tt>VERB --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (67; 66%),
+<tt>VERB --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> VERB</tt> (127; 68%),
+<tt>VERB --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (68; 67%),
 <tt>AUX --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (17; 100%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-appos.html">appos</a></tt>]--> VERB</tt> (14; 82%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-advcl-cleft.html">advcl:cleft</a></tt>]--> VERB</tt> (5; 83%),
-<tt>VERB --[<tt><a href="fr_parisstories-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 56%),
 <tt>AUX --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 75%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 67%),
 <tt>ADJ --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> ADJ</tt> (1; 100%),

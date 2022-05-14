@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-107 nodes (1%) are attached to their parents as `ccomp`.
+104 nodes (1%) are attached to their parents as `ccomp`.
 
-105 instances of `ccomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.5607476635514.
+102 instances of `ccomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.625.
 
-The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (84; 79% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (81; 78% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 2	тень	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	4	obl	_	GTtags=Pers,Sg1,Dat,Short|Gloss[eng]=to.me
 3	истя	истя	ADV	Adv	AdvType=Man	4	advmod	_	GTtags=Manner|Gloss[eng]=like.that
 4	тошкси	тошксемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3|Gloss[eng]=whisper|SpaceAfter=No
-5	:	:	PUNCT	CLB	_	4	punct	_	_
+5	:	:	PUNCT	CLB	_	6	punct	_	_
 6	майстэ	май	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	4	ccomp	_	GTtags=SP,Ela,Indef|Gloss[eng]=May|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	майстэ	май	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	6	conj	_	GTtags=SP,Ela,Indef|Gloss[eng]=May|SpaceAfter=No

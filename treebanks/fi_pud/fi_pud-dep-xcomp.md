@@ -49,7 +49,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 6	,	,	PUNCT	_	_	4	punct	4:punct	_
 7	Bogd	Bogd	PROPN	_	Case=Nom|Number=Sing	9	nsubj	9:nsubj	_
 8	Khanin	Khan	PROPN	_	Case=Gen|Number=Sing	7	flat:name	7:flat:name	_
-9	johtama	johtaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	10	acl	10:acl	_
+9	johtama	johtaa	VERB	_	Case=Nom|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	10	acl	10:acl	_
 10	Mongolia	Mongolia	PROPN	_	Case=Nom|Number=Sing	11	nsubj	11:nsubj	_
 11	julistautui	julistautua	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 12	itsenäiseksi	itsenäinen	ADJ	_	Case=Tra|Degree=Pos|Derivation=Inen|Number=Sing	11	xcomp	11:xcomp	SpaceAfter=No

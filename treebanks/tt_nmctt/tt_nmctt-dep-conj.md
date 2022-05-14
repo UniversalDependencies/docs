@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-38 nodes (3%) are attached to their parents as `conj`.
+51 nodes (3%) are attached to their parents as `conj`.
 
-38 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.97368421052632.
+51 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.35294117647059.
 
-The following 7 pairs of parts of speech are connected with `conj`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (20; 53% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (8; 21% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (4; 11% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `conj`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (28; 55% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (11; 22% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -37,29 +37,19 @@ The following 7 pairs of parts of speech are connected with `conj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 17 conj	color:blue
-1	Бөек	бөек	ADJ	_	_	3	amod	_	LangID=TT
-2	Ватан	ватан	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=TT
-3	сугышында	сугыш	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	5	obl	_	LangID=TT
-4	һәлак	һәлак	NOUN	_	Case=Nom|Number=Sing	5	xcomp	_	LangID=TT
-5	булган	бул	VERB	_	Tense=Past|VerbForm=Part	6	amod	_	LangID=TT
-6	батырларны	батыр	NOUN	_	Case=Acc|Number=Plur	12	obj	_	LangID=TT
-7	бер	бер	NUM	_	NumType=Card	8	nummod	_	LangID=TT
-8	минут	минут	NOUN	_	Case=Nom|Number=Sing	12	obl	_	LangID=TT
-9	тынлык	тынлык	NOUN	_	Case=Nom|Number=Sing	12	obl	_	LangID=TT
-10	белән	белән	ADP	_	_	9	case	_	LangID=TT
-11	искә	искә	NOUN	_	Case=Dat|Number=Sing	12	obl	_	LangID=TT
-12	алдылар	ал	VERB	_	Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT
-13	һәм	һәм	CCONJ	_	_	17	cc	_	LangID=TT
-14	Җиңү	җиң	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	15	nmod	_	LangID=TT
-15	Монументына	монумент	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	17	obl	_	CSPoint=Монумент§ына|LangID=MIXED[RU§TT]
-16	чәчәкләр	чәчәк	NOUN	_	Case=Nom|Number=Plur	17	obj	_	LangID=TT
-17	куйдылар	куй	VERB	_	Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	LangID=TT|SpaceAfter=No
-18	.	.	PUNCT	_	_	17	punct	_	LangID=OTHER
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 conj	color:blue
+1	Яңгыр	яңгыр	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	LangID=TT
+2	яву	яу	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	6	nmod	_	LangID=TT
+3	һәм	һәм	CCONJ	_	_	5	cc	_	LangID=TT
+4	яшен	яшен	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
+5	булу	бул	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	conj	_	LangID=TT
+6	ихтималы	ихтимал	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	7	nsubj	_	LangID=TT
+7	саклана	сакла	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	LangID=TT|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
 
 ~~~
 

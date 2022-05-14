@@ -26,9 +26,9 @@ The following 25 pairs of parts of speech are connected with `csubj`: <tt><a hre
 1	Se	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obj	2:obj	_
 2	sospita	sospitar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	que	que	SCONJ	cs	_	8	mark	8:mark	_
-4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
-5	metge	metge	NOUN	ncms000	Gender=Masc|Number=Sing	8	nsubj	8:nsubj	ClusterId=CESS-CAT-A-20000202-73-c2|ClusterType=Spec.person|MentionSpan=4-5|MentionMisc=ClusterTypeMismatch:Spec:Spec.person,CorefType:ident
-6	els	ell	PRON	pp3cp000	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	8	obj	8:obj	ClusterId=CESS-CAT-A-20000202-73-c10|ClusterType=Gen|MentionSpan=6|MentionMisc=CorefType:ident
+4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	Entity=(CESSCATA2000020273c2-person-2-CorefType:ident,gstype:spec
+5	metge	metge	NOUN	ncms000	Gender=Masc|Number=Sing	8	nsubj	8:nsubj	Entity=CESSCATA2000020273c2)
+6	els	ell	PRON	pp3cp000	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	8	obj	8:obj	Entity=(CESSCATA2000020273c10--1-CorefType:ident,gstype:gen)
 7	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
 8	assassinar	assassinar	VERB	vmn0000	VerbForm=Inf	2	csubj	2:csubj	SpaceAfter=No
 9	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
@@ -47,8 +47,8 @@ The following 25 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	i	i	CCONJ	cc	_	4	cc	4:cc	_
 4	contraproduent	contraproduent	ADJ	aq0cs0	Number=Sing	2	conj	2:conj	_
 5	avançar	avançar	VERB	vmn0000	VerbForm=Inf	2	csubj	2:csubj	_
-6	ne	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	5	obj	5:obj	ClusterId=CESS-CAT-AAP-19981201-67-c8|ClusterType=Gen|MentionSpan=6|MentionMisc=CorefType:ident
-7	detalls	detall	NOUN	ncmp000	Gender=Masc|Number=Plur	5	obj	5:obj	SpaceAfter=No|ClusterId=CESS-CAT-AAP-19981201-67-s6.sn.53|ClusterType=Gen|MentionSpan=7
+6	ne	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	5	obj	5:obj	Entity=(CESSCATAAP1998120167c8--1-CorefType:ident,gstype:gen)
+7	detalls	detall	NOUN	ncmp000	Gender=Masc|Number=Plur	5	obj	5:obj	SpaceAfter=No|Entity=(CESSCATAAP1998120167s6.sn.53--1-gstype:gen)
 8	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
@@ -62,9 +62,9 @@ The following 25 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 5 1 csubj	color:blue
 1	Oblidar	oblidar	VERB	vmn0000	VerbForm=Inf	5	csubj	5:csubj	_
 2	és	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
-3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
+3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	Entity=(CESSCATA2000010312s14.sn.7--3-gstype:gen,HomoDD
 4	millor	millor	ADJ	aq0cs0	Degree=Cmp|Number=Sing	5	amod	5:amod	_
-5	antídot	antídot	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No|ClusterId=CESS-CAT-A-20000103-12-s14.sn.7|ClusterType=Gen|MentionSpan=3-5|MentionMisc=HomoDD
+5	antídot	antídot	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No|Entity=CESSCATA2000010312s14.sn.7)
 6	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 
 ~~~

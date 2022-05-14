@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `orphan`.
+6 nodes (0%) are attached to their parents as `orphan`.
 
-4 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.75.
+6 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.66666666666667.
 
-The following 4 pairs of parts of speech are connected with `orphan`: <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (1; 25% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 25% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 25% instances).
+The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -83,7 +83,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 20 orphan	color:blue
-1	In	In	ADP	E	_	2	case	_	_
+1	In	in	ADP	E	_	2	case	_	_
 2	Europa	Europa	PROPN	SP	_	8	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	8	punct	_	_
 4	a	a	ADP	E	_	6	case	_	_
@@ -112,7 +112,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 27	paesi	paese	NOUN	S	Gender=Masc|Number=Plur	23	nmod	_	_
 28	europei	europeo	ADJ	A	Gender=Masc|Number=Plur	27	amod	_	_
 29	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
-30	7%	7%	NUM	N	NumType=Card	23	nummod	_	_
+30	7%	7%	NUM	N	NumType=Card	23	orphan	_	_
 31	circa	circa	ADV	B	_	30	advmod	_	SpaceAfter=No
 32	.	.	PUNCT	FS	_	8	punct	_	_
 

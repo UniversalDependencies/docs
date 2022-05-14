@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-222 nodes (0%) are attached to their parents as `ccomp`.
+220 nodes (0%) are attached to their parents as `ccomp`.
 
-219 instances of `ccomp` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3018018018018.
+217 instances of `ccomp` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30454545454545.
 
-The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (163; 73% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (17; 8% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (10; 5% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (163; 74% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (16; 7% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,16 +33,19 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 ccomp	color:blue
-1	SÜPERDİ	süper	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
-2	DİYEBİLİRİM	de	VERB	_	Aspect=Hab|Mood=GenPot|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	ODALAR	oda	NOUN	_	Case=Nom|Number=Plur|Person=3	2	nmod	_	_
-4	İÇİN	için	ADP	_	_	3	case	_	_
-5	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 ccomp	color:blue
+1	BU	bu	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	SEFER	sefer	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nmod	_	_
+3	ÇOK	çok	ADV	_	_	4	advmod	_	_
+4	İLGİ	ilgi	NOUN	_	Case=Nom|Number=Sing|Person=3	5	obj	_	_
+5	ALAMADIM	al	VERB	_	Aspect=Perf|Mood=Pot|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin	7	ccomp	_	_
+6	GİBİ	gibi	ADP	_	_	5	mark	_	_
+7	GELDİ	gel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

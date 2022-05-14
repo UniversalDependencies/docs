@@ -85,7 +85,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-2771 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (66% of all `PRON` tokens) have a non-empty value of `Person`.
+2771 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2736; 99%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2445; 88%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2100; 76%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1939; 70%).
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1503; 54% of non-empty `Person`): <em>ich, ben, wir, mir, mich, benim, bana, bizim, biz, uns</em>
 * `2` (436; 16% of non-empty `Person`): <em>du, dir, sen, ihr, dich, sana, dein, seni, senin, sende</em>
 * `3` (832; 30% of non-empty `Person`): <em>es, o, ondan, sie, er, onun, onu, sich, ona, onlar</em>
-* `EMPTY` (1417): <em>das, die, man, was, orada, ne, bu, alles, der, burada</em>
+* `EMPTY` (1383): <em>das, die, man, was, orada, ne, bu, alles, der, burada</em>
 
 <table>
   <tr><th>Paradigm <i>ihr</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -149,5 +149,5 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>AUX --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (7; 100%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (7; 88%),
 <tt>AUX --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (5; 83%),
-<tt>PRON --[<tt><a href="qtd_sagt-dep-appos-trans.html">appos:trans</a></tt>]--> PRON</tt> (5; 71%).
+<tt>PRON --[<tt><a href="qtd_sagt-dep-appos-trans.html">appos:trans</a></tt>]--> PRON</tt> (5; 83%).
 

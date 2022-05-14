@@ -22,13 +22,13 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
-1	nobis	nos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	iobj	_	ref=1.11.3
-2	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	ref=1.11.3
-3	quem	quemadmodum	ADV	Dq	PronType=Rel	6	advmod	_	ref=1.11.3
-4	ad	ad	ADV	Dq	PronType=Rel	3	fixed	_	ref=1.11.3
-5	modum	modum	ADV	Dq	PronType=Rel	3	fixed	_	ref=1.11.3
-6	scribis	scribo	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=1.11.3
-7	conserva	conservo	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.3
+1	nobis	nos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	iobj	_	Ref=1.11.3
+2	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	Ref=1.11.3
+3	quem	quemadmodum	ADV	Dq	PronType=Rel	6	advmod	_	Ref=1.11.3
+4	ad	ad	ADV	Dq	PronType=Rel	3	fixed	_	Ref=1.11.3
+5	modum	modum	ADV	Dq	PronType=Rel	3	fixed	_	Ref=1.11.3
+6	scribis	scribo	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Ref=1.11.3
+7	conserva	conservo	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.11.3
 
 ~~~
 
@@ -39,13 +39,13 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
-1	et	et	CCONJ	C-	_	3	cc	_	ref=REV_4.4
-2	in	in	ADP	R-	_	3	case	_	ref=REV_4.4
-3	circuitu	circuitus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	0	root	_	ref=REV_4.4
-4	sedis	sedes	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	ref=REV_4.4
-5	sedilia	sedile	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	ref=REV_4.4
-6	viginti	viginti	NUM	Ma	_	5	nummod	_	ref=REV_4.4
-7	quattuor	quattuor	NUM	Ma	_	6	fixed	_	ref=REV_4.4
+1	et	et	CCONJ	C-	_	3	cc	_	Ref=REV_4.4
+2	in	in	ADP	R-	_	3	case	_	Ref=REV_4.4
+3	circuitu	circuitus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	0	root	_	Ref=REV_4.4
+4	sedis	sedes	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	Ref=REV_4.4
+5	sedilia	sedile	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	Ref=REV_4.4
+6	viginti	viginti	NUM	Ma	_	5	nummod	_	Ref=REV_4.4
+7	quattuor	quattuor	NUM	Ma	_	6	fixed	_	Ref=REV_4.4
 
 ~~~
 
@@ -56,18 +56,18 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 fixed	color:blue
-1	illa	ille	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=2.18.3
-2	et	et	CCONJ	C-	_	3	cc	_	ref=2.18.3
-3	munitior	munitus	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem,Masc|Number=Sing	0	root	_	ref=2.18.3
-4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=2.18.3
-5	et	et	CCONJ	C-	_	3	cc	_	ref=2.18.3
-6	non	non	ADV	Df	Polarity=Neg	7	advmod	_	ref=2.18.3
-7	impedit	impedio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=2.18.3
-8	quo	quominus	SCONJ	G-	_	9	mark	_	ref=2.18.3
-9	minus	minus	SCONJ	G-	_	7	ccomp	_	ref=2.18.3
-10	adsim	adsum	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	fixed	_	ref=2.18.3
-11	quom	cum	SCONJ	G-	_	12	mark	_	ref=2.18.3
-12	velim	volo	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=2.18.3|LId=1
+1	illa	ille	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Ref=2.18.3
+2	et	et	CCONJ	C-	_	3	cc	_	Ref=2.18.3
+3	munitior	munitus	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem,Masc|Number=Sing	0	root	_	Ref=2.18.3
+4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Ref=2.18.3
+5	et	et	CCONJ	C-	_	3	cc	_	Ref=2.18.3
+6	non	non	ADV	Df	Polarity=Neg	7	advmod	_	Ref=2.18.3
+7	impedit	impedio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	Ref=2.18.3
+8	quo	quominus	SCONJ	G-	_	9	mark	_	Ref=2.18.3
+9	minus	minus	SCONJ	G-	_	7	ccomp	_	Ref=2.18.3
+10	adsim	adsum	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	fixed	_	Ref=2.18.3
+11	quom	cum	SCONJ	G-	_	12	mark	_	Ref=2.18.3
+12	velim	volo	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	LId=1|Ref=2.18.3
 
 ~~~
 

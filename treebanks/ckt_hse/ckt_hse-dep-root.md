@@ -22,15 +22,15 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 8 root	color:blue
-1	Кытур	_	ADV	_	_	8	advmod	_	Gloss=в.прошлом.году
-2	ынӈытэӄ	_	ADV	_	_	8	advmod	_	Gloss=недавно
-3	э	_	PART	_	_	2	advmod:emph	_	Gloss=PTCL
-4	Медведев	_	PROPN	_	_	8	nsubj	_	Gloss=Медведев-NOM.SG
-5	прэзидэнто	_	NOUN	_	_	8	advcl	_	Gloss=президент-EQU
-6	энма	_	AUX	_	_	5	cop	_	Gloss=являться-SIM
-7	Канчаланэты	_	PROPN	_	_	8	obl	_	Gloss=Канчалан-DAT
-8	гэрэмкичиԓин	_	VERB	_	_	0	root	_	Gloss=PF-ходить.в.гости-PF.3SG|SpaceAfter=No
-9	.	_	PUNCT	_	_	8	punct	_	_
+1	Кытур	_	ADV	_	_	8	advmod	8:advmod	Gloss=в.прошлом.году
+2	ынӈытэӄ	_	ADV	_	_	8	advmod	8:advmod	Gloss=недавно
+3	э	_	PART	_	_	2	advmod:emph	2:advmod:emph	Gloss=PTCL
+4	Медведев	_	PROPN	_	_	8	nsubj	8:nsubj	Gloss=Медведев-NOM.SG
+5	прэзидэнто	_	NOUN	_	_	8	advcl	8:advcl	Gloss=президент-EQU
+6	энма	_	AUX	_	_	5	cop	5:cop	Gloss=являться-SIM
+7	Канчаланэты	_	PROPN	_	_	8	obl	8:obl	Gloss=Канчалан-DAT
+8	гэрэмкичиԓин	_	VERB	_	_	0	root	0:root	Gloss=PF-ходить.в.гости-PF.3SG|SpaceAfter=No
+9	.	_	PUNCT	_	_	8	punct	8:punct	_
 
 ~~~
 
@@ -41,12 +41,12 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	Ӄоԓ	_	PRON	_	_	2	nsubj	_	Gloss=некий
-2	вэтгавӈав	_	NOUN	_	_	0	root	_	Gloss=говорить-FEM-NOM.SG
-3	ъым	_	PART	_	_	2	advmod:emph	_	Gloss=EMPH
-4	ӄоԓ	_	PRON	_	_	5	nsubj	_	Gloss=некий
-5	камэԓгыӈав	_	NOUN	_	_	2	parataxis	_	Gloss=преуспевать-FEM-NOM.SG|SpaceAfter=No
-6	.	_	PUNCT	_	_	2	punct	_	_
+1	Ӄоԓ	_	PRON	_	_	2	nsubj	2:nsubj	Gloss=некий
+2	вэтгавӈав	_	NOUN	_	_	0	root	0:root	Gloss=говорить-FEM-NOM.SG
+3	ъым	_	PART	_	_	2	advmod:emph	2:advmod:emph	Gloss=EMPH
+4	ӄоԓ	_	PRON	_	_	5	nsubj	5:nsubj	Gloss=некий
+5	камэԓгыӈав	_	NOUN	_	_	2	parataxis	2:parataxis	Gloss=преуспевать-FEM-NOM.SG|SpaceAfter=No
+6	.	_	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -57,8 +57,8 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Ытръэч	_	ADV	_	_	0	root	_	Gloss=только|SpaceAfter=No
-2	.	_	PUNCT	_	_	1	punct	_	_
+1	Ытръэч	_	ADV	_	_	0	root	0:root	Gloss=только|SpaceAfter=No
+2	.	_	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 

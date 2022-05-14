@@ -10,10 +10,10 @@ This relation is universal.
 
 208 nodes (23%) are attached to their parents as `punct`.
 
-122 instances of `punct` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.88461538461538.
+121 instances of `punct` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.93269230769231.
 
-The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (141; 68% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (26; 13% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (13; 6% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (10; 5% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (8; 4% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (8; 4% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (142; 68% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (26; 13% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (13; 6% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (10; 5% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (8; 4% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (7; 3% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-advmod.html">advmod</a></tt>.
 There are also 3 other language-specific subtypes of `advmod`: <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="la_udante-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-66 nodes (0%) are attached to their parents as `advmod:lmod`.
+165 nodes (0%) are attached to their parents as `advmod:lmod`.
 
-66 instances of `advmod:lmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.25757575757576.
+146 instances of `advmod:lmod` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.50909090909091.
 
-The following 6 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (45; 68% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (9; 14% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (8; 12% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="la_udante-pos-X.html">X</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (129; 78% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (16; 10% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (14; 8% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-X.html">X</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,6 +41,29 @@ The following 6 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 1 advmod:lmod	color:blue
+1	Preterea	praeterea	ADV	r	AdvType=Loc|Compound=Yes|PronType=Dem	11	advmod:lmod	_	SpaceAfter=No
+2	,	,	PUNCT	Pu	_	1	punct	_	_
+3	sicut	sicut	SCONJ	r	Compound=Yes|ConjType=Cmpr	6	mark	_	_
+4	Ecclesia	ecclesia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|NameType=Com|Number=Sing|Proper=Yes	6	nsubj	_	_
+5	suum	suus	DET	dsnsa	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	_
+6	habet	habeo	VERB	va2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl:cmpr	_	_
+7	fundamentum	fundamentum	NOUN	sns2a	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	Pu	_	6	punct	_	_
+9	sic	sic	ADV	r	PronType=Dem	11	orphan	_	_
+10	et	et	ADV	co	_	11	advmod:emph	_	_
+11	Imperium	imperium	NOUN	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|NameType=Com|Number=Sing|Proper=Yes	0	root	_	_
+12	suum	suus	DET	dsnsa	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	11	orphan	_	SpaceAfter=No
+13	.	.	PUNCT	Pu	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 advmod:lmod	color:blue
@@ -53,37 +76,6 @@ The following 6 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 7	conveniens	conueniens	ADJ	ans2n	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	0	root	_	_
 8	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No
 9	.	.	PUNCT	Pu	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 15 advmod:lmod	color:blue
-1	Quod	qui	PRON	presnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	0	root	_	_
-2	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
-3	:	:	PUNCT	Pu	_	7	punct	_	_
-4	omne	omnis	DET	ans2n	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing|PronType=Tot	5	det	_	_
-5	B	b	NOUN	yy	InflClass=Ind|NameType=Let	7	nsubj	_	_
-6	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-7	A	a	NOUN	yy	InflClass=Ind|NameType=Let	1	conj	_	SpaceAfter=No
-8	;	;	PUNCT	Pu	_	13	punct	_	_
-9	nullum	nullus	DET	dinsnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Neg	13	nsubj	_	_
-10	preter	praeter	ADP	e	AdpType=Prep	11	case	_	_
-11	C	c	NOUN	yy	InflClass=Ind|NameType=Let	13	obl	_	_
-12	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
-13	A	a	NOUN	yy	InflClass=Ind|NameType=Let	1	conj	_	SpaceAfter=No
-14	:	:	PUNCT	Pu	_	20	punct	_	_
-15	ergo	ergo	ADV	co	AdvType=Loc	20	advmod:lmod	_	_
-16	nullum	nullus	DET	dinsnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Neg	20	nsubj	_	_
-17	preter	praeter	ADP	e	AdpType=Prep	18	case	_	_
-18	C	c	NOUN	yy	InflClass=Ind|NameType=Let	20	obl	_	_
-19	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
-20	B	b	NOUN	yy	InflClass=Ind|NameType=Let	1	conj	_	SpaceAfter=No
-21	.	.	PUNCT	Pu	_	1	punct	_	_
 
 ~~~
 

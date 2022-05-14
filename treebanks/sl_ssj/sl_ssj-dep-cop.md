@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2826 nodes (2%) are attached to their parents as `cop`.
+5293 nodes (2%) are attached to their parents as `cop`.
 
-2540 instances of `cop` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.53113941967445.
+4791 instances of `cop` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.5393916493482.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (1911; 68% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (798; 28% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (56; 2% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (16; 1% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (3406; 64% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (1624; 31% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (93; 2% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (56; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (49; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (35; 1% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -22,17 +22,17 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 6 cop	color:blue
-1	Zakonodaja	zakonodaja	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	Dep=6|Rel=Sb
-2	in	in	CCONJ	Cc	_	3	cc	_	Dep=3|Rel=Conj
-3	trg	trg	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Dep=1|Rel=Coord
-4	delovne	deloven	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	Dep=5|Rel=Atr
-5	sile	sila	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	Dep=3|Rel=Atr
-6	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	Dep=0|Rel=Root
-7	med	med	ADP	Si	Case=Ins	8	case	_	Dep=8|Rel=Atr
-8	seboj	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	10	nmod	_	Dep=10|Rel=Atr
-9	tesno	tesno	ADV	Rgp	Degree=Pos	10	advmod	_	Dep=10|Rel=Atr
-10	povezana	povezan	ADJ	Appmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=6|Rel=Atr
-11	.	.	PUNCT	Z	_	10	punct	_	Dep=0|Rel=Root
+1	Zakonodaja	zakonodaja	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	NER=O
+2	in	in	CCONJ	Cc	_	3	cc	_	NER=O
+3	trg	trg	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	NER=O
+4	delovne	deloven	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	NER=O
+5	sile	sila	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	NER=O
+6	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	NER=O
+7	med	med	ADP	Si	Case=Ins	8	case	_	NER=O
+8	seboj	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	10	nmod	_	NER=O
+9	tesno	tesno	ADV	Rgp	Degree=Pos	10	advmod	_	NER=O
+10	povezana	povezan	ADJ	Appmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	NER=O|SpaceAfter=No
+11	.	.	PUNCT	Z	_	10	punct	_	NER=O
 
 ~~~
 
@@ -43,36 +43,38 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
-1	Toda	toda	CCONJ	Cc	_	4	cc	_	Dep=3|Rel=Conj
-2	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	Dep=3|Rel=Sb
-3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Dep=0|Rel=Root
-4	energija	energija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Dep=3|Rel=Atr
-5	"	"	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
-6	nacionalizma	nacionalizem	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No|Dep=4|Rel=Atr
-7	"	"	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
-8	?	?	PUNCT	Z	_	4	punct	_	Dep=0|Rel=Root
+1	Toda	toda	CCONJ	Cc	_	4	cc	_	NER=O
+2	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	NER=O
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	NER=O
+4	energija	energija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	NER=O
+5	"	"	PUNCT	Z	_	6	punct	_	NER=O|SpaceAfter=No
+6	nacionalizma	nacionalizem	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NER=O|SpaceAfter=No
+7	"	"	PUNCT	Z	_	6	punct	_	NER=O|SpaceAfter=No
+8	?	?	PUNCT	Z	_	4	punct	_	NER=O
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 cop	color:blue
-1	Kakšno	kakšen	DET	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	Dep=2|Rel=Atr
-2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	Dep=0|Rel=Root
-3	sploh	sploh	PART	Q	_	1	advmod	_	Dep=0|Rel=Root
-4	mariborsko	mariborski	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	Dep=5|Rel=Atr
-5	stališče	stališče	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	Dep=2|Rel=Sb
-6	ob	ob	ADP	Sl	Case=Loc	7	case	_	Dep=7|Rel=Atr
-7	tem	ta	DET	Pd-nsl	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	obl	_	SpaceAfter=No|Dep=2|Rel=AdvO
-8	,	,	PUNCT	Z	_	11	punct	_	Dep=0|Rel=Root
-9	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	11	obj	_	Dep=11|Rel=Obj
-10	sploh	sploh	PART	Q	_	11	advmod	_	Dep=0|Rel=Root
-11	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No|Dep=0|Rel=Root
-12	!	!	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cop	color:blue
+1	Ne	ne	PART	Q	Polarity=Neg	0	root	_	NER=O
+2	energija	energija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	1	orphan	_	NER=O
+3	"	"	PUNCT	Z	_	5	punct	_	NER=O|SpaceAfter=No
+4	biti	biti	AUX	Va-n	VerbForm=Inf	5	cop	_	NER=O
+5	vse	ves	DET	Pg-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	acl	_	NER=O
+6	ali	ali	CCONJ	Cc	_	7	cc	_	NER=O
+7	nič	nič	PRON	Pz-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	5	conj	_	NER=O|SpaceAfter=No
+8	"	"	PUNCT	Z	_	5	punct	_	NER=O|SpaceAfter=No
+9	,	,	PUNCT	Z	_	12	punct	_	NER=O
+10	ampak	ampak	CCONJ	Cc	_	12	cc	_	NER=O
+11	preprosto	preprosto	ADV	Rgp	Degree=Pos	12	orphan	_	NER=O
+12	energija	energija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NER=O
+13	biti	bit	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	NER=O|SpaceAfter=No
+14	.	.	PUNCT	Z	_	1	punct	_	NER=O
 
 ~~~
 

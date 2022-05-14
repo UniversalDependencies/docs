@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2675 nodes (5%) are attached to their parents as `mark`.
+2688 nodes (5%) are attached to their parents as `mark`.
 
-2668 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.35439252336449.
+2681 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.37462797619048.
 
-The following 22 pairs of parts of speech are connected with `mark`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (1691; 63% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (406; 15% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (209; 8% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (145; 5% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (67; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (34; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (30; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (20; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (20; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (14; 1% instances), <tt><a href="la_udante-pos-X.html">X</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `mark`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (1702; 63% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (406; 15% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (209; 8% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (143; 5% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (69; 3% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (38; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (27; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (22; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (19; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (14; 1% instances), <tt><a href="la_udante-pos-X.html">X</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,23 +58,27 @@ The following 22 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 4 mark	color:blue
-1	Ex	ex	ADP	e	AdpType=Prep	2	case	_	_
-2	quo	qui	PRON	presnb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	3	obl	_	_
-3	sequitur	sequor	VERB	vd3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-4	quod	quod	SCONJ	cs	PronType=Rel	11	mark	_	_
-5	ad	ad	ADP	e	AdpType=Prep	8	case	_	_
-6	optimam	bonus	ADJ	afs1as	Case=Acc|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing	8	amod	_	_
-7	mundi	mundus	NOUN	sms2g	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	8	nmod	_	_
-8	dispositionem	dispositio	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	11	obl	_	_
-9	Monarchia	monarchia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	11	nsubj	_	_
-10	sit	sum	AUX	va5cps3	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-11	necessaria	necessarius	ADJ	afs1n	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	csubj	_	SpaceAfter=No
-12	.	.	PUNCT	Pu	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 mark	color:blue
+1	Et	et	CCONJ	co	_	2	cc	_	_
+2	respondeo	respondeo	VERB	va2ips1	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	quod	quod	SCONJ	cs	PronType=Rel	7	mark	_	_
+4	ideo	ideo	ADV	r	Compound=Yes|PronType=Dem	7	advmod	_	_
+5	non	non	PART	r	Polarity=Neg	7	advmod:neg	_	_
+6	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+7	circularis	circularis	ADJ	afs2n	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	2	ccomp	_	SpaceAfter=No
+8	,	,	PUNCT	Pu	_	12	punct	_	_
+9	quia	quia	SCONJ	cs	PronType=Rel	12	mark	_	_
+10	materia	materia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	12	nsubj	_	_
+11	non	non	PART	r	Polarity=Neg	12	advmod:neg	_	_
+12	sufficiebat	sufficio	VERB	va3iis3	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
+13	ad	ad	ADP	e	AdpType=Prep	15	case	_	_
+14	tantam	tantus	DET	afs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|PronType=Dem	15	det	_	_
+15	elevationem	eleuatio	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	12	obl:arg	_	SpaceAfter=No
+16	.	.	PUNCT	Pu	_	2	punct	_	_
 
 ~~~
 

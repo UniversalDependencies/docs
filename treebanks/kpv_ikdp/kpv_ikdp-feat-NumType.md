@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Dist` (1; 100% of non-empty `NumType`): <em>квайтэнэсь</em>
-* `EMPTY` (206): <em>зэй, вот, и, нин, сэн, эні, вӧдзӧ, кудз, сідз, ӧні</em>
+* `EMPTY` (207): <em>зэй, вот, и, нин, сэн, эні, вӧдзӧ, кудз, сідз, ӧні</em>
 
 ### `DET`
 

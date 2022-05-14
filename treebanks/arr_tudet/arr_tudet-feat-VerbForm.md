@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 1 different values: `Ger`.
 
 147 tokens (6%) have a non-empty value of `VerbForm`.
-95 types (12%) occur at least once with a non-empty value of `VerbForm`.
-5 lemmas (4%) occur at least once with a non-empty value of `VerbForm`.
+93 types (12%) occur at least once with a non-empty value of `VerbForm`.
+57 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (120; 5% instances), <tt><a href="arr_tudet-pos-AUX.html">AUX</a></tt> (27; 1% instances).
 
 ### `VERB`
@@ -22,8 +22,10 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Ger` (120; 100% of non-empty `VerbForm`): <em>toba, wĩa, cára, okera, aʔwĩa, roba, taʔwara, tiga, ya, ʔɨya</em>
+* `Ger` (120; 100% of non-empty `VerbForm`): <em>toba, wĩa, cára, okera, tokera, aʔwĩa, roba, taʔwara, tiga, ya</em>
 * `EMPTY` (395): <em>aʔtoy, wĩn, aʔwĩn, púŋ, ʔɨy, otoy, wɨy, aʔken, oken, yaʔti</em>
+
+`VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (56) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
@@ -34,5 +36,5 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Ger` (27; 100% of non-empty `VerbForm`): <em>toʔwa, wa, ʔa, nã, a, eʔa, karoʔwa, roʔwa, toʔwa], wa]</em>
-* `EMPTY` (147): <em>ʔet, nãn, wet, at, okay, aʔkay, wep, aʔnãn, aʔwaʔye, ap</em>
+* `EMPTY` (147): <em>ʔet, nãn, wet, at, okay, aʔnãn, aʔkay, wep, aʔwaʔye, ap</em>
 

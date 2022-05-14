@@ -30,7 +30,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 <table>
   <tr><th>Paradigm <i>куритны</i></th><th><tt>Inf</tt></th><th><tt>Conv</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>куритны</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Derivation.html">Derivation</a></tt><tt>=VCar</tt></tt></td><td></td><td><em>куриттӧг</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Derivation.html">Derivation</a></tt><tt>=VAbe</tt></tt></td><td></td><td><em>куриттӧг</em></td></tr>
 </table>
 
 ### `AUX`

@@ -22,9 +22,9 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 ccomp	color:blue
-1	Нэнанъотавӄэн	_	VERB	_	_	0	root	_	Gloss=ST-INV-запрещать-ST.3SG
-2	рычвоԓьэгым	_	VERB	_	_	1	ccomp	_	Gloss=личинка-EAT-ATTR-NP.1SG|SpaceAfter=No
-3	.	_	PUNCT	_	_	1	punct	_	_
+1	Нэнанъотавӄэн	_	VERB	_	_	0	root	0:root	Gloss=ST-INV-запрещать-ST.3SG
+2	рычвоԓьэгым	_	VERB	_	_	1	ccomp	1:ccomp	Gloss=личинка-EAT-ATTR-NP.1SG|SpaceAfter=No
+3	.	_	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -35,15 +35,15 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 ccomp	color:blue
-1	Ныԓейгым	_	VERB	_	_	0	root	_	Gloss=ST-идти-NP.1SG
-2	гыргочаткын	_	X	_	_	3	reparandum	_	Gloss=FST
-3	гыргоча	_	ADV	_	_	1	advmod	_	Gloss=вверху
-4	ынӄэн	_	PRON	_	_	1	det	_	Gloss=DET
-5	нинэгитэйгым	_	VERB	_	_	1	parataxis	_	Gloss=ST-INV-смотреть-NP.1SG
-6	эʼмитԓён	_	PRON	_	_	8	nmod	_	Gloss=который
-7	э	_	PART	_	_	6	advmod:emph	_	Gloss=PTCL
-8	фонтан	_	NOUN	_	_	4	ccomp	_	Gloss=фонтан-NOM.SG|SpaceAfter=No
-9	.	_	PUNCT	_	_	1	punct	_	_
+1	Ныԓейгым	_	VERB	_	_	0	root	0:root	Gloss=ST-идти-NP.1SG
+2	гыргочаткын	_	X	_	_	3	reparandum	3:reparandum	Gloss=FST
+3	гыргоча	_	ADV	_	_	1	advmod	1:advmod	Gloss=вверху
+4	ынӄэн	_	PRON	_	_	1	det	1:det	Gloss=DET
+5	нинэгитэйгым	_	VERB	_	_	1	parataxis	1:parataxis	Gloss=ST-INV-смотреть-NP.1SG
+6	эʼмитԓён	_	PRON	_	_	8	nmod	8:nmod	Gloss=который
+7	э	_	PART	_	_	6	advmod:emph	6:advmod:emph	Gloss=PTCL
+8	фонтан	_	NOUN	_	_	4	ccomp	4:ccomp	Gloss=фонтан-NOM.SG|SpaceAfter=No
+9	.	_	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 

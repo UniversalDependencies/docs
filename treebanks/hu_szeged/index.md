@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Richárd Farkas, Katalin Simkó, Zsolt Szántó, Viktor Varga, Veronika Vincze.
 
 Repository: [UD_Hungarian-Szeged](https://github.com/UniversalDependencies/UD_Hungarian-Szeged)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhu_szeged29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhu_szeged210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -445,7 +445,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
 </ul>
 
 <ul>
-  <li>Sub
+  <li>Sbl
     <ul>
       <li>ADJ: egyformára, egységesre, elmondottakra, fájdalmasra, fősre, háromszorosára, pontnyira, rendűre, részesülőkre, rövidre</li>
       <li>ADJ-PartPast: elmondottakra</li>

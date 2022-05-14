@@ -47,8 +47,8 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 1	Kdoví	kdoví	PART	TT-------------	_	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	5:punct	_
 3	kolik	kolik	DET	C?--1----------	Case=Nom|NumType=Card|PronType=Int,Rel	4	det:numgov	4:det:numgov	_
-4	jich	on	PRON	PPXP2--3-------	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	LId=on-1
-5	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	dep	1:dep	_
+4	jich	on	PRON	PPXP2--3-------	Case=Gen|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	5	nsubj	5:nsubj	LId=on-1
+5	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	dep	1:dep	_
 6	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	LId=v-1
 7	samotné	samotný	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	amod	8:amod	_
 8	Jihlavě	Jihlava	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	5	obl	5:obl:v:loc	SpaceAfter=No
@@ -68,7 +68,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 3	vzalo	vzít	VERB	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	LGloss=(př._sebrat_něco;_brát_ohled,_zřetel,...)
 4	totiž	totiž	ADV	Db-------------	_	3	advmod	3:advmod	_
 5	Castrovo	Castrův	ADJ	AUNS4M---------	Case=Acc|Gender=Neut|Gender[psor]=Masc|NameType=Sur|Number=Sing|Poss=Yes	6	amod	6:amod	LDeriv=Castro
-6	prohlášení	prohlášení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	3	obj	3:obj	LDeriv=prohlásit
+6	prohlášení	prohlášení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	3	obj	3:obj	LDeriv=prohlásit
 7	jako	jako	SCONJ	J,-------------	_	9	mark	9:mark	_
 8	životní	životní	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	9:amod	LGloss=(souvisí_se_životem;_prostředí,...)
 9	příležitost	příležitost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	6	xcomp	6:xcomp	SpaceAfter=No

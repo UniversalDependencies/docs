@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-GSD: Features: `Mood`
 
 This feature is universal.
-It occurs with 2 different values: `Imp`, `Ind`.
+It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-6031 tokens (6%) have a non-empty value of `Mood`.
-2483 types (8%) occur at least once with a non-empty value of `Mood`.
-1363 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (5278; 5% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (753; 1% instances).
+6032 tokens (6%) have a non-empty value of `Mood`.
+2484 types (8%) occur at least once with a non-empty value of `Mood`.
+1364 lemmas (7%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (5278; 5% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (753; 1% instances), <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -50,6 +50,15 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Ind` (753; 100% of non-empty `Mood`): <em>был, были, была, было, будет, будут, есть</em>
 * `EMPTY` (55): <em>быть, будучи, бы, бывшего, бывшие, бывшим</em>
+
+### `SCONJ`
+
+1 <tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Mood`.
+
+`SCONJ` tokens may have the following values of `Mood`:
+
+* `Cnd` (1; 100% of non-empty `Mood`): <em>что</em>
+* `EMPTY` (575): <em>что, чтобы, как, чем, так, хотя, если, когда, поскольку, поэтому</em>
 
 ## Relations with Agreement in `Mood`
 

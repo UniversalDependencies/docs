@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 35	bgColor:blue
 # visual-style 35	fgColor:white
 # visual-style 35 33 reparandum	color:blue
-1	Unde	unde	CCONJ	r	PronType=Rel	10	cc	_	_
+1	Unde	unde	CCONJ	r	AdvType=Loc|PronType=Rel	10	cc	_	_
 2	cum	cum	SCONJ	cs	PronType=Rel	8	mark	_	_
 3	intentioni	intentio	NOUN	sfs3d	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Sing	8	obl:arg	_	_
 4	Nature	natura	NOUN	sfs1g	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing|Proper=Yes|VerbForm=Part	3	nmod	_	_

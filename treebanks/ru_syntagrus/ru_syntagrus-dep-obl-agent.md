@@ -32,7 +32,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 7	,	,	PUNCT	_	_	8	punct	8:punct	_
 8	созданный	создать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	_
 9	кинематографом	кинематограф	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl:agent	8:obl:agent	SpaceAfter=No
-10	!	!	PUNCT	_	_	3	punct	3:punct	_~
+10	!	!	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 2	оплачиваемое	оплачивать	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	2:punct	_
 4	естественно	естественно	ADV	_	Degree=Pos	2	parataxis	2:parataxis	SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	2:punct	_~
+5	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 5	насильно	насильно	ADV	_	Degree=Pos	6	advmod	6:advmod	_
 6	введенный	ввести	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	_
 7	Екатериной	Екатерина	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	6	obl:agent	6:obl:agent	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	2:punct	_~
+8	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

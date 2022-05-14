@@ -65,8 +65,8 @@ The following 4 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 1	Na	na	INTJ	Interj	_	3	discourse	_	_
 2	tuk	tut	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	3	nsubj	_	GTtags=Dem,Pl,Nom
 3	ceäʹlǩǩe	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
-4	:	:	PUNCT	CLB	_	3	punct	_	_
-5	”	”	PUNCT	PUNCT	_	3	punct	_	GTtags=RIGHT|SpaceAfter=No
+4	:	:	PUNCT	CLB	_	8	punct	_	_
+5	”	”	PUNCT	PUNCT	_	8	punct	_	GTtags=RIGHT|SpaceAfter=No
 6	Gu	Gu	SCONJ	CS	AdvType=Tim	8	mark	_	GTtags=Temp
 7	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	cop	_	GTtags=Ind,Prs,Sg3
 8	nåkkam	nåkkam	PRON	Pron	Case=Nom|Number=Sing	11	advcl	_	GTtags=Sg,Nom

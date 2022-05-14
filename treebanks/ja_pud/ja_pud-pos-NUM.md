@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: 1, 2, 3, 10, 一, 4, 万, 6, 5, 何
 
 The 10 most frequent `NUM` types:  1, 2, 3, 10, 一, 4, 万, 6, 5, 何
 
-The 10 most frequent ambiguous lemmas: 1 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 50, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 何 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 8), 9 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 8, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 数 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 7)
+The 10 most frequent ambiguous lemmas: 1 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 50, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 何 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 9), 9 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 8, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 数 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 7)
 
 The 10 most frequent ambiguous types:  1 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 50, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 何 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 8), 9 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 8, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 数 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 7), いく (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 6, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 1)
 
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  1 (<tt><a href="ja_pud-pos-NUM.html">NUM<
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.014634 (the average of all parts of speech is 1.050009).
+The form / lemma ratio of `NUM` is 1.014634 (the average of all parts of speech is 1.068660).
 
 The 1st highest number of forms (2) was observed with the lemma “一”: 一, １.
 

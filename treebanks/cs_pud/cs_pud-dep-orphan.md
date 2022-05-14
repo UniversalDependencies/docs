@@ -29,7 +29,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 5	:	:	PUNCT	Z:-------------	_	8	punct	8:punct	_
 6	„	"	PUNCT	Z:-------------	_	8	punct	8:punct	SpaceAfter=No
 7	Klaun	klaun	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	_
-8	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	4:ccomp	_
+8	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	4:ccomp	_
 9	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	10:case	LId=pro-1
 10	lidstvo	lidstvo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	8	obl	8:obl:pro:acc	_
 11	jako	jako	SCONJ	J,-------------	_	12	mark	10.1:mark	LId=jako-1
@@ -66,7 +66,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 1	Durán	Durán	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	2	nsubj	2:nsubj	_
 2	vystupuje	vystupovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	jako	jako	SCONJ	J,-------------	_	4	case	4:case	LId=jako-1
-4	mluvčí	mluvčí	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	2:obl:jako:nom	_
+4	mluvčí	mluvčí	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	2:obl:jako	_
 5	a	a	CCONJ	J^-------------	_	6	cc	4.1:cc	LId=a-1
 6	Ángel	Ángel	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	2	conj	4.1:dep	_
 7	Pintado	Pintado	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	6	flat	6:flat	_

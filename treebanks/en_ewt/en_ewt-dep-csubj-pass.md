@@ -8,42 +8,46 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-csubj.html">csubj</a></tt>.
 
-6 nodes (0%) are attached to their parents as `csubj:pass`.
+7 nodes (0%) are attached to their parents as `csubj:pass`.
 
-4 instances of `csubj:pass` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.33333333333333.
+4 instances of `csubj:pass` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.2857142857143.
 
-The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (5; 83% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
+The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (6; 86% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 2 csubj:pass	color:blue
-1	What	what	PRON	WP	PronType=Int	2	nsubj	2:nsubj	_
-2	followed	follow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	csubj:pass	7:csubj:pass	_
-3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-4	next	next	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
-5	day	day	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	_
-6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	7:aux:pass	_
-7	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
-8	by	by	ADP	IN	_	10	case	10:case	_
-9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
-10	governor	governor	NOUN	NN	Number=Sing	7	obl	7:obl:by	_
-11	and	and	CCONJ	CC	_	12	cc	12:cc	_
-12	Dunn	Dunn	PROPN	NNP	Number=Sing	10	conj	7:obl:by|10:conj:and	_
-13	to	to	PART	TO	_	17	mark	17:mark	_
-14	be	be	AUX	VB	VerbForm=Inf	17	cop	17:cop	_
-15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
-16	pivotal	pivotal	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
-17	moment	moment	NOUN	NN	Number=Sing	7	xcomp	7:xcomp	_
-18	of	of	ADP	IN	_	21	case	21:case	_
-19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
-20	energy	energy	NOUN	NN	Number=Sing	21	compound	21:compound	_
-21	crisis	crisis	NOUN	NN	Number=Sing	17	nmod	17:nmod:of	SpaceAfter=No
-22	.	.	PUNCT	.	_	7	punct	7:punct	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 18 csubj:pass	color:blue
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
+3	often	often	ADV	RB	_	4	advmod	4:advmod	_
+4	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+5	that	that	SCONJ	IN	_	18	mark	18:mark	_
+6	politicians	politician	NOUN	NNS	Number=Plur	18	nsubj	18:nsubj	SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	8:punct	_
+8	diplomats	diplomat	NOUN	NNS	Number=Plur	6	conj	6:conj:and|18:nsubj	_
+9	and	and	CCONJ	CC	_	12	cc	12:cc	_
+10	perhaps	perhaps	ADV	RB	_	12	advmod	12:advmod	_
+11	also	also	ADV	RB	_	12	advmod	12:advmod	_
+12	lawyers	lawyer	NOUN	NNS	Number=Plur	6	conj	6:conj:and|18:nsubj	_
+13	and	and	CCONJ	CC	_	15	cc	15:cc	_
+14	business	business	NOUN	NN	Number=Sing	15	compound	15:compound	_
+15	people	people	NOUN	NNS	Number=Plur	12	conj	12:conj:and	_
+16	must	must	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
+17	sometimes	sometimes	ADV	RB	_	18	advmod	18:advmod	_
+18	lie	lie	VERB	VB	VerbForm=Inf	4	csubj:pass	4:csubj:pass	SpaceAfter=No
+19	,	,	PUNCT	,	_	18	punct	18:punct	_
+20	as	as	ADP	IN	_	21	case	21:case	_
+21	part	part	NOUN	NN	Number=Sing	18	obl	18:obl:as	_
+22	of	of	ADP	IN	_	25	case	25:case	_
+23	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	_
+24	professional	professional	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+25	life	life	NOUN	NN	Number=Sing	21	nmod	21:nmod:of	SpaceAfter=No
+26	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 

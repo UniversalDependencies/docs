@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `mark`.
+6 nodes (0%) are attached to their parents as `mark`.
 
-2 instances of `mark` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.5.
+4 instances of `mark` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.5.
 
-The following 1 pairs of parts of speech are connected with `mark`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt> (4; 100% instances).
+The following 2 pairs of parts of speech are connected with `mark`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt> (4; 67% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (2; 33% instances).
 
 
 ~~~ conllu
@@ -51,6 +51,27 @@ The following 1 pairs of parts of speech are connected with `mark`: <tt><a href=
 27	белдерде	бел	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	16	parataxis	_	LangID=TT
 28	ул	ул	PRON	_	_	27	nsubj	_	LangID=TT|SpaceAfter=No
 29	.	.	PUNCT	_	_	27	punct	_	LangID=OTHER
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 mark	color:blue
+1	Җилнең	җил	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	LangID=TT
+2	көче	көч	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	8	nsubj	_	LangID=TT
+3	секундына	секунд	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	7	nmod	_	CSPoint=секунд§ына|LangID=MIXED[RU§TT]
+4	15	15	NUM	_	_	7	nummod	_	LangID=TT
+5	-	-	PUNCT	_	_	4	punct	_	LangID=OTHER
+6	20	20	NUM	_	_	4	flat	_	LangID=TT
+7	метр	метр	NOUN	_	Case=Nom|Number=Sing	8	xcomp	_	LangID=RU
+8	булыр	бул	VERB	_	Mood=Irr|Tense=Fut|VerbForm=Part	10	advcl	_	LangID=TT
+9	дип	ди	VERB	_	VerbForm=Conv	8	mark	_	LangID=TT
+10	фаразлана	фаразла	VERB	_	Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LangID=TT|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
 
 ~~~
 

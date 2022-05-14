@@ -23,15 +23,15 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 17 expl	color:blue
-1	Prodi	Prodi	PROPN	np0000p	_	3	nsubj	3:nsubj	ClusterId=CESS-CAT-AAP-20001001-120_e-c16|ClusterType=Spec.person|MentionSpan=1|MentionMisc=CorefType:ident
+1	Prodi	Prodi	PROPN	np0000p	_	3	nsubj	3:nsubj	Entity=(CESSCATAAP20001001120_ec16-person-1-CorefType:ident,gstype:spec)
 2	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	dir	dir	VERB	vmn0000	VerbForm=Inf	0	root	0:root	_
 4	que	que	SCONJ	cs	_	12	mark	12:mark	_
-5	els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	6:det	_
-6	països	país	NOUN	ncmp000	Gender=Masc|Number=Plur	12	nsubj	12:nsubj	ClusterId=CESS-CAT-AAP-20001001-120_e-s3.sn.11|ClusterType=Gen|MentionSpan=5-9|MentionMisc=HomoDD
+5	els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	6:det	Entity=(CESSCATAAP20001001120_es3.sn.11--2-gstype:gen,HomoDD
+6	països	país	NOUN	ncmp000	Gender=Masc|Number=Plur	12	nsubj	12:nsubj	_
 7	de	de	ADP	sps00	_	9	case	9:case	_
-8	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	9	det	9:det	SpaceAfter=No
-9	euro	euro	NOUN	zm	NumForm=Digit	6	nmod	6:nmod	ClusterId=CESS-CAT-AAP-20001001-120_e-c13|ClusterType=Gen|MentionSpan=8-9|MentionMisc=HomoDD,CorefType:ident
+8	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	9	det	9:det	SpaceAfter=No|Entity=(CESSCATAAP20001001120_ec13--2-CorefType:ident,gstype:gen,HomoDD
+9	euro	euro	NOUN	zm	NumForm=Digit	6	nmod	6:nmod	Entity=CESSCATAAP20001001120_ec13)CESSCATAAP20001001120_es3.sn.11)
 10	han	haver	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
 11	de	de	ADP	sps00	_	12	mark	12:mark	_
 12	reafirmar	reafirmar	VERB	vmn0000	VerbForm=Inf	3	xcomp	3:xcomp	_

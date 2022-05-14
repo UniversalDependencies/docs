@@ -30,10 +30,10 @@ The following 16 pairs of parts of speech are connected with `amod`: <tt><a href
 6	ofrena	ofrena	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
 7	simbòlica	simbòlic	ADJ	aq0fs0	Gender=Fem|Number=Sing	6	amod	6:amod	_
 8	a	a	ADP	sps00	_	11	case	11:case	_
-9	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+9	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=(3LBCAT060103003s4.sn.21-person-3-gstype:spec
 10	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	11:det	_
-11	Moreneta	Moreneta	PROPN	np0000p	_	4	obj	4:obj	SpaceAfter=No|ClusterId=3LB-CAT-06010300-3-s4.sn.21|ClusterType=Spec.person|MentionSpan=9-12
-12	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+11	Moreneta	Moreneta	PROPN	np0000p	_	4	obj	4:obj	SpaceAfter=No
+12	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=3LBCAT060103003s4.sn.21)
 13	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
@@ -45,17 +45,17 @@ The following 16 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
-1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	Entity=(CESSCATAAP20010202192_as7.sn.2-person-3-gstype:spec
 2	popular	popular	ADJ	aq0cs0	Number=Sing	3	amod	3:amod	_
-3	Dr.	Dr.	PROPN	np0000p	_	5	nsubj	5:nsubj	MWE=Dr._Soler|MWEPOS=PROPN|ClusterId=CESS-CAT-AAP-20010202-192_a-s7.sn.2|ClusterType=Spec.person|MentionSpan=1-4
-4	Soler	Soler	PROPN	_	_	3	flat	3:flat	_
+3	Dr.	Dr.	PROPN	np0000p	_	5	nsubj	5:nsubj	MWE=Dr._Soler|MWEPOS=PROPN
+4	Soler	Soler	PROPN	_	_	3	flat	3:flat	Entity=CESSCATAAP20010202192_as7.sn.2)
 5	interpreta	interpretar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-6	Salvador	Salvador	PROPN	np0000p	_	5	obj	5:obj	SpaceAfter=No|ClusterId=CESS-CAT-AAP-20010202-192_a-c1|ClusterType=Spec|MentionSpan=6-11|MentionMisc=ClusterTypeMismatch:Spec.person:Spec,CorefType:ident
-7	,	,	PUNCT	fc	PunctType=Comm	8	punct	8:punct	_
-8	amo	amo	NOUN	ncms000	Gender=Masc|Number=Sing	6	appos	6:appos	ClusterId=CESS-CAT-AAP-20010202-192_a-c1|ClusterType=Spec|MentionSpan=7-11|MentionMisc=ClusterTypeMismatch::Spec,CorefType:pred.indefinit
+6	Salvador	Salvador	PROPN	np0000p	_	5	obj	5:obj	SpaceAfter=No|Entity=(CESSCATAAP20010202192_ac1-person-1-CorefType:ident,gstype:spec
+7	,	,	PUNCT	fc	PunctType=Comm	8	punct	8:punct	Entity=(CESSCATAAP20010202192_ac1-person-2-CorefType:pred.indefinit,gstype:spec
+8	amo	amo	NOUN	ncms000	Gender=Masc|Number=Sing	6	appos	6:appos	_
 9	d'	de	ADP	sps00	_	11	case	11:case	SpaceAfter=No
-10	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	11	det	11:det	_
-11	botiga	botiga	NOUN	ncfs000	Gender=Fem|Number=Sing	8	nmod	8:nmod	SpaceAfter=No|ClusterId=CESS-CAT-AAP-20010202-192_a-c6|ClusterType=Gen|MentionSpan=10-11|MentionMisc=CorefType:ident
+10	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	11	det	11:det	Entity=(CESSCATAAP20010202192_ac6--2-CorefType:ident,gstype:gen
+11	botiga	botiga	NOUN	ncfs000	Gender=Fem|Number=Sing	8	nmod	8:nmod	SpaceAfter=No|Entity=CESSCATAAP20010202192_ac6)CESSCATAAP20010202192_ac1)CESSCATAAP20010202192_ac1)
 12	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 
 ~~~

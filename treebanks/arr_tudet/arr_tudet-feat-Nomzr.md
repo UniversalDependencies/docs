@@ -11,7 +11,7 @@ It occurs with 1 different values: `Circ`.
 
 12 tokens (1%) have a non-empty value of `Nomzr`.
 3 types (0%) occur at least once with a non-empty value of `Nomzr`.
-2 lemmas (2%) occur at least once with a non-empty value of `Nomzr`.
+3 lemmas (1%) occur at least once with a non-empty value of `Nomzr`.
 The feature is used with 3 part-of-speech tags: <tt><a href="arr_tudet-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="arr_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `PART`

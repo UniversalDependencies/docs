@@ -8,28 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (2%) are attached to their parents as `xcomp`.
+43 nodes (2%) are attached to their parents as `xcomp`.
 
-26 instances of `xcomp` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.53846153846154.
+30 instances of `xcomp` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.53488372093023.
 
-The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (16; 41% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (15; 38% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NUM.html">NUM</a></tt> (1; 3% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 xcomp	color:blue
-1	Kueʹllen	kueʹll	NOUN	_	Case=Ess	2	xcomp	_	GTtags=Ess
-2	vuâjj	vuõjjâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=Ind,Prs,Sg3
-3	ja	ja	CCONJ	_	_	5	cc	_	_
-4	låʹdden	låʹdd	NOUN	_	Case=Ess	5	xcomp	_	GTtags=Ess
-5	ǩeârdd	ǩeʹrdded	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	2	punct	_	_
-
-~~~
+The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (19; 44% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (16; 37% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (4; 9% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -47,6 +31,22 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 7	veeiʹn	veiʹnn	NOUN	N	Case=Gen|Number=Sing	8	obj	_	GTtags=Sg,Gen
 8	juukkmõõžž	juukkmõš	NOUN	N	Case=Acc|Number=Sing	5	conj	_	GTtags=Sg,Acc|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 xcomp	color:blue
+1	Kueʹllen	kueʹll	NOUN	_	Case=Ess	2	xcomp	_	GTtags=Ess
+2	vuâjj	vuõjjâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=Ind,Prs,Sg3
+3	ja	ja	CCONJ	_	_	5	cc	_	_
+4	låʹdden	låʹdd	NOUN	_	Case=Ess	5	xcomp	_	GTtags=Ess
+5	ǩeârdd	ǩeʹrdded	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

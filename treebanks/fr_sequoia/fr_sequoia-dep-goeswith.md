@@ -13,7 +13,7 @@ This relation is universal.
 2 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 50% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
+The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 50% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 goeswith	color:blue
 1	Troubles	trouble	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-2	musculo	musculo	ADJ	_	_	1	amod	_	_
-3	squelettiques	squelettique	ADJ	_	Number=Plur	2	goeswith	_	SpaceAfter=No
+2	musculo	musculo	ADJ	_	Typo=Yes	1	amod	_	CorrectForm=musculo-squelettiques
+3	squelettiques	_	X	_	_	2	goeswith	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	de	de	ADP	_	_	7	case	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -63,8 +63,8 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	myocarde	myocarde	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
 19	sans	sans	ADP	_	_	20	case	_	_
-20	sus	sus	NOUN	_	_	15	nmod	_	_
-21	décalage	décalage	NOUN	_	Gender=Masc|Number=Sing	20	goeswith	_	_
+20	sus	sus	NOUN	_	Typo=Yes	15	nmod	_	CorrectForm=sus-décalage
+21	décalage	_	X	_	_	20	goeswith	_	_
 22	de	de	ADP	_	_	24	case	_	_
 23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	segment	segment	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-69 tokens (0%) have a non-empty value of `VerbForm`.
-65 types (1%) occur at least once with a non-empty value of `VerbForm`.
-63 lemmas (1%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (68; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances).
+70 tokens (0%) have a non-empty value of `VerbForm`.
+66 types (1%) occur at least once with a non-empty value of `VerbForm`.
+64 lemmas (1%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (68; 0% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -34,6 +34,17 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 </table>
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 97% lemmas (60) occur only with one value of `VerbForm`.
+
+### `AUX`
+
+1 <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%).
+
+`AUX` tokens may have the following values of `VerbForm`:
+
+* `Fin` (1; 100% of non-empty `VerbForm`): <em>war</em>
+* `EMPTY` (868): <em>ist, war, wurde, werden, wird, wurden, sind, hat, hatte, waren</em>
 
 ### `X`
 

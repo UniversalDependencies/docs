@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-3410 tokens (0%) have a non-empty value of `Foreign`.
-2025 types (1%) occur at least once with a non-empty value of `Foreign`.
-2039 lemmas (4%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (2347; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1058; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+3407 tokens (0%) have a non-empty value of `Foreign`.
+2023 types (1%) occur at least once with a non-empty value of `Foreign`.
+2037 lemmas (4%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 6 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (2344; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1058; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-2347 <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+2344 <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2336; 100%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2336; 100%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2336; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2336; 100%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2333; 100%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2333; 100%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2333; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2333; 100%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (2347; 100% of non-empty `Foreign`): <em>MBA, FIA, ButtKicker, PM, RoboCup, FOXP2, Weta, XGR, Bazelevs, FAI</em>
-* `EMPTY` (53413): <em>России, США, СССР, Россия, Москве, Путин, В., А., Владимир, Москвы</em>
+* `Yes` (2344; 100% of non-empty `Foreign`): <em>MBA, FIA, ButtKicker, PM, RoboCup, FOXP2, Weta, XGR, Bazelevs, FAI</em>
+* `EMPTY` (53414): <em>России, США, СССР, Россия, Москве, Путин, В., А., Владимир, Москвы</em>
 
-`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1323) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1321) occur only with one value of `Foreign`.
 
 ### `X`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>ББ</em>
-* `EMPTY` (360028): <em>года, время, лет, году, человек, раз, жизни, людей, люди, власти</em>
+* `EMPTY` (360025): <em>года, время, лет, году, человек, раз, жизни, людей, люди, власти</em>
 
 ### `ADJ`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>daily</em>
-* `EMPTY` (143274): <em>нужно, других, должны, другой, должен, первый, другие, сам, второй, новые</em>
+* `EMPTY` (145731): <em>нужно, других, должны, другой, должен, первый, другие, сам, второй, новые</em>
 
 ### `PART`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Да</em>
-* `EMPTY` (49630): <em>не, и, же, только, даже, вот, ли, именно, лишь, просто</em>
+* `EMPTY` (49679): <em>не, и, же, только, даже, вот, ли, именно, лишь, просто</em>
 
 ### `VERB`
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Воскресе</em>
-* `EMPTY` (172888): <em>может, есть, нет, было, сказал, могут, стал, является, быть, говорит</em>
+* `EMPTY` (172825): <em>может, есть, нет, было, сказал, могут, стал, является, быть, говорит</em>
 
 ## Relations with Agreement in `Foreign`
 

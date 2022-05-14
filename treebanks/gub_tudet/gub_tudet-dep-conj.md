@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (1%) are attached to their parents as `conj`.
+74 nodes (1%) are attached to their parents as `conj`.
 
-16 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.875.
+74 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.44594594594595.
 
-The following 2 pairs of parts of speech are connected with `conj`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (15; 94% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `conj`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (42; 57% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (10; 14% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (10; 14% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (10; 14% instances), <tt><a href="gub_tudet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,12 +22,12 @@ The following 2 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 conj	color:blue
-1	Uwewe	wewe	VERB	v	Person=3	0	root	_	_
+1	Uwewe	wewe	VERB	v	Person[subj]=3	0	root	_	_
 2	kaʔa	kaʔa	NOUN	n	_	1	obl	_	_
 3	wi	wi	ADP	posp	Rel=Cont	2	case	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
-5	wapɨk	apɨk	VERB	v	Person=3	1	conj	_	_
-6	oho	ho	VERB	vi	Person=3	5	dep	_	_
+5	wapɨk	apɨk	VERB	vi	Person[subj]=3	1	conj	_	_
+6	oho	ho	AUX	aux	Person[subj]=3	5	aux	_	_
 7	wɨraka	wɨraka	NOUN	n	_	5	obl	_	_
 8	rehe	ehe	ADP	posp	Rel=Cont	7	case	_	_
 9	.	.	PUNCT	punct	_	5	punct	_	_
@@ -36,29 +36,40 @@ The following 2 pairs of parts of speech are connected with `conj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 16 conj	color:blue
-1	Aze	aze	SCONJ	sc	_	2	mark	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 conj	color:blue
+1	Nàzewe	nàzewe	ADV	adv	Evident=Nfh	2	advmod	_	_
 2	zekaipo	kwehe	ADV	adv	Evident=Nfh	4	advmod	_	_
-3	kwarahɨ	kwarahɨ	NOUN	n	_	4	obj	_	_
-4	ur	zur	VERB	v	Person=3	8	advcl	_	_
-5	zapɨte	zapɨte	ADV	adv	_	4	advmod	_	_
-6	katete	katete	ADV	adv	_	5	advmod	_	_
-7	,	,	PUNCT	punct	_	4	punct	_	_
-8	izɨwɨtu	zɨwɨtu	NOUN	n	Rel=NCont	0	root	_	_
-9	zekaipo	kwehe	ADV	adv	Evident=Nfh	8	advmod	_	_
-10	nerɨʔɨmete	nerɨʔɨmete	ADV	adv	_	8	advmod	_	_
-11	,	,	PUNCT	punct	_	8	punct	_	_
-12	aʔe	aʔe	PRON	pro	PronType=Dem	16	nsubj	_	_
-13	zekaipo	kwehe	ADV	adv	Evident=Nfh	16	advmod	_	_
-14	aʔe	aʔe	PRON	pro	PronType=Dem	16	det	_	_
-15	zawar	zawar	NOUN	n	_	16	nmod	_	_
-16	ɨwatehar	ɨwate	NOUN	n	Nomzr=Ag	8	conj	_	_
-17	wà	wà	PART	pcl	Number=Plur	16	discourse	_	_
-18	.	.	PUNCT	punct	_	16	punct	_	_
+3	zanezegar	zegar	NOUN	n	Clusivity=In|Number=Plur|Person[psor]=1|Poss=Yes|Rel=Cont	4	nmod	_	_
+4	hetawàm	eta	NOUN	n	Nomzr=Circ|Rel=NCont|Tense=Fut	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	naʔaw	naʔaw	PRON	pro	PronType=Dem	7	nmod	_	_
+7	imumeʔuhaw	mumeʔu	NOUN	n	Nomzr=Circ|Rel=NCont	8	nmod	_	_
+8	ipehegwer	pehegwer	NOUN	n	Rel=NCont	4	conj	_	_
+9	xe	xe	PART	pcl	_	8	discourse	_	_
+10	.	.	PUNCT	punct	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 conj	color:blue
+1	Hetateteaʔu	eta	NOUN	n	Emph=Yes|Rel=NCont	0	root	_	_
+2	imemɨr	memɨr	NOUN	n	Rel=NCont	1	nmod	_	_
+3	wa	wa	PART	pcl	Number=Plur	1	discourse	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	uhaz	haz	VERB	vi	Person[subj]=3	1	conj	_	_
+6	waiko	iko	AUX	aux	Aspect=Prog|Number=Plur|Person[subj]=3	5	aux	_	_
+7	wa	wa	PART	pcl	Number=Plur	5	discourse	_	_
+8	kurɨ	kurɨ	PART	pcl	_	5	discourse	_	_
+9	.	.	PUNCT	punct	_	5	punct	_	_
 
 ~~~
 

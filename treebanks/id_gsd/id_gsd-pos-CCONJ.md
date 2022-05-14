@@ -69,7 +69,7 @@ The 10 most frequent ambiguous types:  <em>serta</em> (<tt><a href="id_gsd-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.032258 (the average of all parts of speech is 1.119800).
+The form / lemma ratio of `CCONJ` is 1.032258 (the average of all parts of speech is 1.120254).
 
 The 1st highest number of forms (2) was observed with the lemma “dan”: <em>dam, dan</em>.
 

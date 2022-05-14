@@ -12,16 +12,16 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Number.html">Number</a></tt>, <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt>.
 
-2650 tokens (15%) have a non-empty value of `Number[subj]`.
-1607 types (29%) occur at least once with a non-empty value of `Number[subj]`.
-750 lemmas (28%) occur at least once with a non-empty value of `Number[subj]`.
-The feature is used with 7 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2180; 13% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (367; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (60; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (24; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances).
+2671 tokens (15%) have a non-empty value of `Number[subj]`.
+1616 types (29%) occur at least once with a non-empty value of `Number[subj]`.
+753 lemmas (28%) occur at least once with a non-empty value of `Number[subj]`.
+The feature is used with 7 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2197; 13% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (371; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (60; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (24; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-2180 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (70% of all `VERB` tokens) have a non-empty value of `Number[subj]`.
+2197 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (70% of all `VERB` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2180; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2155; 99%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2146; 98%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2012; 92%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1821; 84%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1744; 80%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1740; 80%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1293; 59%).
+The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2197; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2172; 99%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2163; 98%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2028; 92%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1837; 84%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1758; 80%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1754; 80%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1306; 59%).
 
 `VERB` tokens may have the following values of `Number[subj]`:
 
@@ -42,15 +42,16 @@ The most frequent other feature values with which `VERB` and `Number[subj]` co-o
 
 ### `AUX`
 
-367 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (53% of all `AUX` tokens) have a non-empty value of `Number[subj]`.
+371 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (53% of all `AUX` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `AUX` and `Number[subj]` co-occurred: <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (314; 86%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (293; 80%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (286; 78%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (222; 60%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (218; 59%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (188; 51%).
+The most frequent other feature values with which `AUX` and `Number[subj]` co-occurred: <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (317; 85%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (296; 80%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (288; 78%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (224; 60%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (221; 60%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (190; 51%).
 
 `AUX` tokens may have the following values of `Number[subj]`:
 
 
 <table>
   <tr><th>Paradigm <i>а</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td><em>илядо</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td><em>эзизь</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>эзинзе</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=1</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td><em>эзимизь</em></td><td></td></tr>
@@ -144,12 +145,12 @@ The most frequent other feature values with which `PRON` and `Number[subj]` co-o
 ## Relations with Agreement in `Number[subj]`
 
 The 10 most frequent relations where parent and child node agree in `Number[subj]`:
-<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (482; 74%),
-<tt>VERB --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (50; 52%),
-<tt>VERB --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> VERB</tt> (6; 75%),
+<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (484; 74%),
+<tt>VERB --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (55; 51%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 56%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 71%),
 <tt>VERB --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> VERB</tt> (5; 100%),
+<tt>VERB --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> VERB</tt> (4; 67%),
 <tt>AUX --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%),

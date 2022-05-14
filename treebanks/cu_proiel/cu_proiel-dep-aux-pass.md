@@ -22,19 +22,19 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 9 aux:pass	color:blue
-1	Ꙇ҅	и	CCONJ	C-	_	11	cc	_	ref=MARK_13.20
-2	аште	аще	SCONJ	G-	_	6	mark	_	ref=MARK_13.20
-3	не	не	ADV	Df	Polarity=Neg	6	advmod	_	ref=MARK_13.20
-4	би	бꙑти	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	ref=MARK_13.20
-5	г҃ъ	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MARK_13.20
-6	прѣкратилъ	прѣкратити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	11	advcl	_	ref=MARK_13.20
-7	дьнии	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	obj	_	ref=MARK_13.20
-8	не	не	ADV	Df	Polarity=Neg	11	advmod	_	ref=MARK_13.20
-9	би	бꙑти	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux:pass	_	ref=MARK_13.20
-10	бꙑла	бꙑти	AUX	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	11	cop	_	ref=MARK_13.20
-11	съпасена	съпасти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=MARK_13.20|LId=1
-12	вьсѣка	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	13	amod	_	ref=MARK_13.20
-13	плъть	плъть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubj:pass	_	ref=MARK_13.20
+1	Ꙇ҅	и	CCONJ	C-	_	11	cc	_	Ref=MARK_13.20
+2	аште	аще	SCONJ	G-	_	6	mark	_	Ref=MARK_13.20
+3	не	не	ADV	Df	Polarity=Neg	6	advmod	_	Ref=MARK_13.20
+4	би	бꙑти	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	Ref=MARK_13.20
+5	г҃ъ	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=MARK_13.20
+6	прѣкратилъ	прѣкратити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	11	advcl	_	Ref=MARK_13.20
+7	дьнии	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	obj	_	Ref=MARK_13.20
+8	не	не	ADV	Df	Polarity=Neg	11	advmod	_	Ref=MARK_13.20
+9	би	бꙑти	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux:pass	_	Ref=MARK_13.20
+10	бꙑла	бꙑти	AUX	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	11	cop	_	Ref=MARK_13.20
+11	съпасена	съпасти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	LId=1|Ref=MARK_13.20
+12	вьсѣка	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	13	amod	_	Ref=MARK_13.20
+13	плъть	плъть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubj:pass	_	Ref=MARK_13.20
 
 ~~~
 

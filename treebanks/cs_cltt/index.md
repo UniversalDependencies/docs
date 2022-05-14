@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman, Martin Popel.
 
 Repository: [UD_Czech-CLTT](https://github.com/UniversalDependencies/UD_Czech-CLTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt29)<br />
-Download all treebanks: [UD 2.9](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt210)<br />
+Download all treebanks: [UD 2.10](/#download)
 
 License: CC BY-SA 4.0
 
@@ -131,7 +131,7 @@ http://hdl.handle.net/11234/1-1516.
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as determiners (DET): jaký, jakýkoliv, jeho, jehož, jejichž, jejíž, každý, který, kterýkoliv, několik, některý, svůj, sám, takový, takovýto, ten, tento, týž, všechen, žádný</li>
+<li>This corpus contains 20 lemmas tagged as determiners (DET): jaký, jakýkoliv, jeho, jehož, jejichž, jejíž, každý, který, kterýkoliv, několik, některý, samý, svůj, takový, takovýto, ten, tento, týž, všechen, žádný</li>
 </ul>
 
 <ul>
@@ -142,7 +142,6 @@ http://hdl.handle.net/11234/1-1516.
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: být</li>
 </ul>
 
 <ul>
@@ -479,7 +478,6 @@ http://hdl.handle.net/11234/1-1516.
     <ul>
       <li>ADJ: účetní, účetních, účetního, konsolidované, finanční, účetním, výroční, právní, jiných, ostatní</li>
       <li>ADV: obdobně, případně, samostatně, bezprostředně, přímo, odděleně, bezúplatně, přiměřeně, současně, výhradně</li>
-      <li>DET: každou, každé, každého, každý, Každá</li>
     </ul>
   </li>
 </ul>
@@ -522,7 +520,6 @@ http://hdl.handle.net/11234/1-1516.
       <li>AUX-Fin: je, jsou, není, bude, budou</li>
       <li>AUX-Inf: být</li>
       <li>AUX-Part: byly, byl, bylo, byla</li>
-      <li>DET: každou, každé, každého, každý, Každá</li>
       <li>NOUN: jednotky, jednotka, majetku, období, ocenění, účetnictví, položka, závěrky, dni, ustanovení</li>
       <li>VERB-Conv: počínaje</li>
       <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
@@ -541,6 +538,7 @@ http://hdl.handle.net/11234/1-1516.
     <ul>
       <li>ADJ: povinny, povinna, stanoveno, sestavena, možno, zahrnuty, obchodovány, uvedeny, zavedena, oprávněn</li>
       <li>ADJ-Part: stanoveno, sestavena, zahrnuty, obchodovány, uvedeny, zavedena, oprávněn, uvedena, vykázány, účtovány</li>
+      <li>DET: sama, samo, samy</li>
       <li>PRON: se, ho, si</li>
     </ul>
   </li>
@@ -591,7 +589,6 @@ http://hdl.handle.net/11234/1-1516.
   <li>Fut
     <ul>
       <li>AUX-Fin: bude, budou</li>
-      <li>VERB-Fin: bude</li>
     </ul>
   </li>
 </ul>
@@ -963,8 +960,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (627)</li>
-      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Fin--NOUN-Nom (619)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--NOUN-Nom (42)</li>

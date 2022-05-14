@@ -22,14 +22,14 @@ The following 47 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 nmod	color:blue
-1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=MATT_5.3
-2	pauperes	pauper	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	ref=MATT_5.3
-3	spiritu	spiritus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	2	nmod	_	ref=MATT_5.3
-4	quoniam	quoniam	SCONJ	G-	_	5	mark	_	ref=MATT_5.3
-5	ipsorum	ipse	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	advcl	_	ref=MATT_5.3
-6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=MATT_5.3
-7	regnum	regnum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=MATT_5.3
-8	caelorum	caelum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	ref=MATT_5.3
+1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	Ref=MATT_5.3
+2	pauperes	pauper	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	Ref=MATT_5.3
+3	spiritu	spiritus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	2	nmod	_	Ref=MATT_5.3
+4	quoniam	quoniam	SCONJ	G-	_	5	mark	_	Ref=MATT_5.3
+5	ipsorum	ipse	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	advcl	_	Ref=MATT_5.3
+6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Ref=MATT_5.3
+7	regnum	regnum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Ref=MATT_5.3
+8	caelorum	caelum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	Ref=MATT_5.3
 
 ~~~
 
@@ -40,16 +40,16 @@ The following 47 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 nmod	color:blue
-1	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	obj	_	ref=LUKE_5.8
-2	cum	cum	SCONJ	G-	_	3	mark	_	ref=LUKE_5.8
-3	videret	video	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	ref=LUKE_5.8
-4	Simon	Simon	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=LUKE_5.8
-5	Petrus	Petrus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	ref=LUKE_5.8
-6	procidit	procido	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_5.8
-7	ad	ad	ADP	R-	_	8	case	_	ref=LUKE_5.8
-8	genua	genu	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	obl	_	ref=LUKE_5.8
-9	Iesu	Iesus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=LUKE_5.8
-10	dicens	dico	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=LUKE_5.8
+1	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	obj	_	Ref=LUKE_5.8
+2	cum	cum	SCONJ	G-	_	3	mark	_	Ref=LUKE_5.8
+3	videret	video	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	Ref=LUKE_5.8
+4	Simon	Simon	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=LUKE_5.8
+5	Petrus	Petrus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	Ref=LUKE_5.8
+6	procidit	procido	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_5.8
+7	ad	ad	ADP	R-	_	8	case	_	Ref=LUKE_5.8
+8	genua	genu	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	obl	_	Ref=LUKE_5.8
+9	Iesu	Iesus	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Ref=LUKE_5.8
+10	dicens	dico	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	Ref=LUKE_5.8
 
 ~~~
 
@@ -60,14 +60,14 @@ The following 47 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 nmod	color:blue
-1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=MATT_5.3
-2	pauperes	pauper	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	ref=MATT_5.3
-3	spiritu	spiritus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	2	nmod	_	ref=MATT_5.3
-4	quoniam	quoniam	SCONJ	G-	_	5	mark	_	ref=MATT_5.3
-5	ipsorum	ipse	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	advcl	_	ref=MATT_5.3
-6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=MATT_5.3
-7	regnum	regnum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=MATT_5.3
-8	caelorum	caelum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	ref=MATT_5.3
+1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	Ref=MATT_5.3
+2	pauperes	pauper	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	Ref=MATT_5.3
+3	spiritu	spiritus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	2	nmod	_	Ref=MATT_5.3
+4	quoniam	quoniam	SCONJ	G-	_	5	mark	_	Ref=MATT_5.3
+5	ipsorum	ipse	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	advcl	_	Ref=MATT_5.3
+6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Ref=MATT_5.3
+7	regnum	regnum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Ref=MATT_5.3
+8	caelorum	caelum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	Ref=MATT_5.3
 
 ~~~
 

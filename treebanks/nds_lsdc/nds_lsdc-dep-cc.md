@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-99 nodes (4%) are attached to their parents as `cc`.
+113 nodes (4%) are attached to their parents as `cc`.
 
-99 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.73737373737374.
+113 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.68141592920354.
 
-The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (69; 70% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (10; 10% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (8; 8% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (74; 65% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (13; 12% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (11; 10% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

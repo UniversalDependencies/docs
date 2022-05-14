@@ -16,12 +16,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fi_ood-pos-X.html">
 
 ### `X`
 
-67 <tt><a href="fi_ood-pos-X.html">X</a></tt> tokens (78% of all `X` tokens) have a non-empty value of `Foreign`.
+67 <tt><a href="fi_ood-pos-X.html">X</a></tt> tokens (75% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (67; 100% of non-empty `Foreign`): <em>LIST, All, Inclusive, author, baimbai, quote, time, #nature, Nix, pekato</em>
-* `EMPTY` (19): <em>#cmoref1, #ESLOneCologne, #SRVrakentaa, #amistenpuolella, #eurojatalous, #itsensäjohtaminen, #kansijaareena, #kott2016, #koulu17, #ostatyötäsuomeen</em>
+* `EMPTY` (22): <em>#cmoref1, #ESLOneCologne, #SRVrakentaa, #amistenpuolella, #eurojatalous, #itsensäjohtaminen, #kansijaareena, #kott2016, #koulu17, #ostatyötäsuomeen</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (44) occur only with one value of `Foreign`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Opamoxia</em>
-* `EMPTY` (966): <em>furesis, Esko, Tymppis, Tymppiksen, the, sp., Eskon, Suomi, suomessa, noradrenalina</em>
+* `EMPTY` (965): <em>furesis, Esko, Tymppis, Tymppiksen, the, sp., Eskon, Suomi, suomessa, noradrenalina</em>
 
 ## Relations with Agreement in `Foreign`
 

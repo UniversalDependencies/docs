@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-4064 tokens (1%) have a non-empty value of `Connegative`.
-970 types (1%) occur at least once with a non-empty value of `Connegative`.
+4065 tokens (1%) have a non-empty value of `Connegative`.
+971 types (1%) occur at least once with a non-empty value of `Connegative`.
 544 lemmas (1%) occur at least once with a non-empty value of `Connegative`.
-The feature is used with 2 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (2979; 1% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1085; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (2980; 1% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1085; 0% instances).
 
 ### `VERB`
 
-2979 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Connegative`.
+2980 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2979; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2937; 99%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2936; 99%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2797; 94%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2780; 93%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2054; 69%).
+The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2980; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2938; 99%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2937; 99%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2798; 94%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2781; 93%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2054; 69%).
 
 `VERB` tokens may have the following values of `Connegative`:
 
-* `Yes` (2979; 100% of non-empty `Connegative`): <em>tea, saa, taha, ole, suuda, oska, saanud, pruugi, suutnud, tule</em>
+* `Yes` (2980; 100% of non-empty `Connegative`): <em>tea, saa, taha, ole, suuda, oska, saanud, pruugi, suutnud, tule</em>
 
 `Connegative` seems to be **lexical feature** of `VERB`. 100% lemmas (541) occur only with one value of `Connegative`.
 

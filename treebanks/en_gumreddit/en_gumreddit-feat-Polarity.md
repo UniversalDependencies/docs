@@ -27,18 +27,18 @@ The feature is used with 6 part-of-speech tags: <tt><a href="en_gumreddit-pos-PA
 
 28 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (20; 71%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (20; 71%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (28; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (997): <em>_</em>
+* `EMPTY` (1016): <em>_</em>
 
 ### `DET`
 
 28 <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="en_gumreddit-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (28; 100%).
+The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="en_gumreddit-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (28; 100%).
 
 `DET` tokens may have the following values of `Polarity`:
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (19; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (977): <em>_</em>
+* `EMPTY` (973): <em>_</em>
 
 ### `INTJ`
 
@@ -74,5 +74,5 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (2738): <em>_</em>
+* `EMPTY` (2741): <em>_</em>
 

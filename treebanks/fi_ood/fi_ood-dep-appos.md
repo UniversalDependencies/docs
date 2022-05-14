@@ -44,7 +44,7 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	(	(	PUNCT	_	_	3	punct	_	SpaceAfter=No
 3	Tomi	Tomi	PROPN	_	Case=Nom|Number=Sing	1	appos	_	SpaceAfter=No
 4	)	)	PUNCT	_	_	3	punct	_	_
-5	soittanut	soittaa	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SENSE=0
+5	soittanut	soittaa	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	SENSE=0
 6	-	-	PUNCT	_	_	7	punct	_	_
 7	tulee	tulla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SENSE=0
 8	huomenna	huomenna	ADV	_	_	7	advmod	_	_

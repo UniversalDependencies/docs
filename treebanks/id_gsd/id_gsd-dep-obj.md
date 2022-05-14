@@ -22,12 +22,12 @@ The following 27 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 obj	color:blue
-1	Pinisi	pinisi	PROPN	X--	_	3	nsubj	_	MorphInd=^pinisi<x>_X--$
-2	sebenarnya	sebenarnya	ADV	D--	_	3	advmod	_	MorphInd=^sebenarnya<d>_D--$
-3	merupakan	merupakan	VERB	O--	_	0	root	_	MorphInd=^merupakan<o>_O--$
-4	nama	nama	NOUN	NSD	Number=Sing	3	obj	_	MorphInd=^nama<n>_NSD$
-5	layar	layar	NOUN	NSD	Number=Sing	4	compound	_	SpaceAfter=No|MorphInd=^layar<n>_NSD$
-6	.	.	PUNCT	Z--	_	3	punct	_	MorphInd=^.<z>_Z--$
+1	Pinisi	pinisi	PROPN	X--	_	3	nsubj	_	Morf=^pinisi<x>_X--$
+2	sebenarnya	sebenarnya	ADV	D--	_	3	advmod	_	Morf=^sebenarnya<d>_D--$
+3	merupakan	merupakan	VERB	O--	_	0	root	_	Morf=^merupakan<o>_O--$
+4	nama	nama	NOUN	NSD	Number=Sing	3	obj	_	Morf=^nama<n>_NSD$
+5	layar	layar	NOUN	NSD	Number=Sing	4	compound	_	SpaceAfter=No|Morf=^layar<n>_NSD$
+6	.	.	PUNCT	Z--	_	3	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -38,10 +38,10 @@ The following 27 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 obj	color:blue
-1	Kenapa	kenapa	ADV	W--	PronType=Int	2	advmod	_	MorphInd=^kenapa<w>_W--$
-2	Harus	harus	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	MorphInd=^harus<v>_VSA$
-3	Inul	inul	PROPN	X--	_	2	obj	_	SpaceAfter=No|MorphInd=^inul<x>_X--$
-4	?	?	PUNCT	Z--	_	2	punct	_	MorphInd=^?<z>_Z--$
+1	Kenapa	kenapa	ADV	W--	PronType=Int	2	advmod	_	Morf=^kenapa<w>_W--$
+2	Harus	harus	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^harus<v>_VSA$
+3	Inul	inul	PROPN	X--	_	2	obj	_	SpaceAfter=No|Morf=^inul<x>_X--$
+4	?	?	PUNCT	Z--	_	2	punct	_	Morf=^?<z>_Z--$
 
 ~~~
 
@@ -52,14 +52,14 @@ The following 27 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 obj	color:blue
-1	Apa	apa	PRON	W--	PronType=Int	0	root	_	MorphInd=^apa<w>_W--$
-2	kah	kah	PART	T--	_	1	advmod:emph	_	MorphInd=^kah<t>_T--$
-3	yang	yang	PRON	S--	PronType=Rel	5	obj	_	MorphInd=^yang<s>_S--$
-4	engkau	engkau	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	5	nsubj	_	MorphInd=^engkau<p>_PS2$
-5	serukan	seru	VERB	VSA	Mood=Ind|Voice=Act	1	acl:relcl	_	MorphInd=^seru<a>+kan_VSA$
-6	kepada	kepada	ADP	R--	_	7	case	_	MorphInd=^kepada<r>_R--$
-7	kami	kami	PRON	PP1	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	5	obl	_	SpaceAfter=No|MorphInd=^kami<p>_PP1$
-8	?	?	PUNCT	Z--	_	1	punct	_	MorphInd=^?<z>_Z--$
+1	Apa	apa	PRON	W--	PronType=Int	0	root	_	Morf=^apa<w>_W--$
+2	kah	kah	PART	T--	_	1	advmod:emph	_	Morf=^kah<t>_T--$
+3	yang	yang	PRON	S--	PronType=Rel	5	obj	_	Morf=^yang<s>_S--$
+4	engkau	engkau	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	5	nsubj	_	Morf=^engkau<p>_PS2$
+5	serukan	seru	VERB	VSA	Mood=Ind|Voice=Act	1	acl:relcl	_	Morf=^seru<a>+kan_VSA$
+6	kepada	kepada	ADP	R--	_	7	case	_	Morf=^kepada<r>_R--$
+7	kami	kami	PRON	PP1	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	5	obl	_	SpaceAfter=No|Morf=^kami<p>_PP1$
+8	?	?	PUNCT	Z--	_	1	punct	_	Morf=^?<z>_Z--$
 
 ~~~
 

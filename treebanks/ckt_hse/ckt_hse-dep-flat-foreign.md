@@ -23,16 +23,16 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat:foreign	color:blue
-1	Потом	_	X	_	_	5	discourse	_	Gloss=
-2	конечно	_	X	_	_	1	flat:foreign	_	Gloss=
-3	гымык	_	PRON	_	_	5	reparandum	_	Gloss=я-LOC
-4	э	_	PART	_	_	3	advmod:emph	_	Gloss=PTCL
-5	гымык	_	PRON	_	_	0	root	_	Gloss=я-LOC
-6	ъым	_	PART	_	_	5	advmod:emph	_	Gloss=EMPH
-7	э	_	PART	_	_	5	advmod:emph	_	Gloss=PTCL
-8	яачыкэнат	_	ADV	_	_	5	parataxis	_	Gloss=сзади-REL-PL
-9	э	_	PART	_	_	8	advmod:emph	_	Gloss=PTCL
-10	.	_	PUNCT	_	_	5	punct	_	_
+1	Потом	_	X	_	_	5	discourse	5:discourse	Gloss=
+2	конечно	_	X	_	_	1	flat:foreign	1:flat:foreign	Gloss=
+3	гымык	_	PRON	_	_	5	reparandum	5:reparandum	Gloss=я-LOC
+4	э	_	PART	_	_	3	advmod:emph	3:advmod:emph	Gloss=PTCL
+5	гымык	_	PRON	_	_	0	root	0:root	Gloss=я-LOC
+6	ъым	_	PART	_	_	5	advmod:emph	5:advmod:emph	Gloss=EMPH
+7	э	_	PART	_	_	5	advmod:emph	5:advmod:emph	Gloss=PTCL
+8	яачыкэнат	_	ADV	_	_	5	parataxis	5:parataxis	Gloss=сзади-REL-PL
+9	э	_	PART	_	_	8	advmod:emph	8:advmod:emph	Gloss=PTCL
+10	.	_	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -43,14 +43,14 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat:foreign	color:blue
-1	Нэрэнмык	_	VERB	_	_	0	root	_	Gloss=LOW.A-приносить-1PL.S/O
-2	ӈаанӄоры	_	ADV	_	_	1	advmod	_	Gloss=вон.там-ADV.ABL
-3	рамаеты	_	NOUN	_	_	1	obl	_	Gloss=жилище-PILE-DAT
-4	и	_	CCONJ	_	_	7	discourse	_	Gloss=
-5	я	_	X	_	_	4	flat:foreign	_	Gloss=
-6	и	_	CCONJ	_	_	7	cc	_	Gloss=и
-7	мытрэсӄивмык	_	VERB	_	_	1	parataxis	_	Gloss=1PL.S/A-входить-1PL.S/O|SpaceAfter=No
-8	.	_	PUNCT	_	_	1	punct	_	_
+1	Нэрэнмык	_	VERB	_	_	0	root	0:root	Gloss=LOW.A-приносить-1PL.S/O
+2	ӈаанӄоры	_	ADV	_	_	1	advmod	1:advmod	Gloss=вон.там-ADV.ABL
+3	рамаеты	_	NOUN	_	_	1	obl	1:obl	Gloss=жилище-PILE-DAT
+4	и	_	CCONJ	_	_	7	discourse	7:discourse	Gloss=
+5	я	_	X	_	_	4	flat:foreign	4:flat:foreign	Gloss=
+6	и	_	CCONJ	_	_	7	cc	7:cc	Gloss=и
+7	мытрэсӄивмык	_	VERB	_	_	1	parataxis	1:parataxis	Gloss=1PL.S/A-входить-1PL.S/O|SpaceAfter=No
+8	.	_	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -61,16 +61,16 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 flat:foreign	color:blue
-1	И	_	CCONJ	_	_	3	cc	_	Gloss=и
-2	гыр	_	X	_	_	3	reparandum	_	Gloss=FST
-3	мытръэтпэнрымык	_	VERB	_	_	0	root	_	Gloss=1PL.S/A-дорога-бросаться-1PL.S/O
-4	и	_	CCONJ	_	_	5	cc	_	Gloss=и
-5	ынкы	_	PRON	_	_	3	discourse	_	Gloss=тот-LOC
-6	как	_	X	_	_	3	parataxis	_	Gloss=
-7	же	_	X	_	_	6	flat:foreign	_	Gloss=
-8	мотоцикл	_	NOUN	_	_	6	flat:foreign	_	Gloss=
-9	ковԓёрвыӄай	_	NOUN	_	_	3	parataxis	_	Gloss=шар-нарта-DIM-NOM.SG|SpaceAfter=No
-10	.	_	PUNCT	_	_	3	punct	_	_
+1	И	_	CCONJ	_	_	3	cc	3:cc	Gloss=и
+2	гыр	_	X	_	_	3	reparandum	3:reparandum	Gloss=FST
+3	мытръэтпэнрымык	_	VERB	_	_	0	root	0:root	Gloss=1PL.S/A-дорога-бросаться-1PL.S/O
+4	и	_	CCONJ	_	_	5	cc	5:cc	Gloss=и
+5	ынкы	_	PRON	_	_	3	discourse	3:discourse	Gloss=тот-LOC
+6	как	_	X	_	_	3	parataxis	3:parataxis	Gloss=
+7	же	_	X	_	_	6	flat:foreign	6:flat:foreign	Gloss=
+8	мотоцикл	_	NOUN	_	_	6	flat:foreign	6:flat:foreign	Gloss=
+9	ковԓёрвыӄай	_	NOUN	_	_	3	parataxis	3:parataxis	Gloss=шар-нарта-DIM-NOM.SG|SpaceAfter=No
+10	.	_	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

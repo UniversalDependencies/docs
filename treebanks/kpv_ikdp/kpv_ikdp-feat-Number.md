@@ -168,7 +168,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `ADV` tokens may have the following values of `Number`:
 
 * `Sing` (12; 100% of non-empty `Number`): <em>вӧдзӧ, бӧрӧ, Неуна, бура, бӧр, водз, дзикедз</em>
-* `EMPTY` (195): <em>зэй, вот, и, нин, сэн, эні, кудз, сідз, ӧні, кор</em>
+* `EMPTY` (196): <em>зэй, вот, и, нин, сэн, эні, кудз, сідз, ӧні, кор</em>
 
 ### `DET`
 

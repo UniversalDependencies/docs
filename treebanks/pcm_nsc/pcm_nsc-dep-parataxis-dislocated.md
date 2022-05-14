@@ -24,19 +24,19 @@ The following 5 pairs of parts of speech are connected with `parataxis:dislocate
 # visual-style 11	fgColor:white
 # visual-style 11 2 parataxis:dislocated	color:blue
 1	#	#	X	_	_	11	dep	_	AlignBegin=341944|AlignEnd=342449|Gloss=PUNCT
-2	complete	complete	VERB	_	_	11	parataxis:dislocated	_	AlignBegin=342449|AlignEnd=342912|Gloss=complete
-3	almost	almost	ADV	_	_	4	advmod	_	AlignBegin=342912|AlignEnd=343242|Gloss=almost
-4	half	half	ADJ	_	_	6	amod	_	AlignBegin=343242|AlignEnd=343532|Gloss=half
-5	a	a	DET	_	Definite=Ind|PronType=Art	6	det	_	AlignBegin=343532|AlignEnd=343658|Gloss=INDF.ART
-6	year	year	NOUN	_	_	2	obj	_	AlignBegin=343658|AlignEnd=343884|Gloss=year
+2	complete	complete	VERB	_	_	11	parataxis:dislocated	_	AlignBegin=342449|AlignEnd=342912|Gloss=complete|SyllableCount=2|WordContour=mhh3
+3	almost	almost	ADV	_	_	4	advmod	_	AlignBegin=342912|AlignEnd=343242|Gloss=almost|SyllableCount=2|WordContour=hh
+4	half	half	ADJ	_	_	6	amod	_	AlignBegin=343242|AlignEnd=343532|Gloss=half|SyllableCount=1|WordContour=mm
+5	a	a	DET	_	Definite=Ind|PronType=Art	6	det	_	AlignBegin=343532|AlignEnd=343658|Gloss=INDF.ART|SyllableCount=1|WordContour=mm
+6	year	year	NOUN	_	_	2	obj	_	AlignBegin=343658|AlignEnd=343884|Gloss=year|SyllableCount=1|WordContour=ml
 7	<	<	X	_	_	2	dep	_	AlignBegin=343884|AlignEnd=343914|Gloss=PUNCT
 8	#	#	X	_	_	11	dep	_	AlignBegin=343914|AlignEnd=344230|Gloss=PUNCT
-9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	AlignBegin=344230|AlignEnd=344362|Gloss=NOM.SG.1
-10	no	no	AUX	_	Polarity=Neg	11	aux	_	AlignBegin=344362|AlignEnd=344512|Gloss=NEG
-11	see	see	VERB	_	_	0	root	_	AlignBegin=344512|AlignEnd=344692|Gloss=see
-12	any	any	DET	_	_	13	det	_	AlignBegin=344692|AlignEnd=344862|Gloss=any
-13	work	work	NOUN	_	_	11	obj	_	AlignBegin=344862|AlignEnd=345162|Gloss=work
-14	do	do	VERB	_	_	13	acl	_	AlignBegin=345162|AlignEnd=345348|Gloss=do
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	AlignBegin=344230|AlignEnd=344362|Gloss=NOM.SG.1|SyllableCount=1|WordContour=ll
+10	no	no	AUX	_	Polarity=Neg	11	aux	_	AlignBegin=344362|AlignEnd=344512|Gloss=NEG|SyllableCount=1|WordContour=lm
+11	see	see	VERB	_	_	0	root	_	AlignBegin=344512|AlignEnd=344692|Gloss=see|SyllableCount=1|WordContour=mm
+12	any	any	DET	_	_	13	det	_	AlignBegin=344692|AlignEnd=344862|Gloss=any|SyllableCount=2|WordContour=mm
+13	work	work	NOUN	_	_	11	obj	_	AlignBegin=344862|AlignEnd=345162|Gloss=work|SyllableCount=1|WordContour=ml
+14	do	do	VERB	_	_	13	acl	_	AlignBegin=345162|AlignEnd=345348|Gloss=do|SyllableCount=1|WordContour=ll
 15	//	//	X	_	_	11	dep	_	AlignBegin=345348|AlignEnd=345378|Gloss=PUNCT
 
 ~~~
@@ -48,15 +48,15 @@ The following 5 pairs of parts of speech are connected with `parataxis:dislocate
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 parataxis:dislocated	color:blue
-1	see	see	VERB	_	_	7	parataxis:dislocated	_	AlignBegin=37130|AlignEnd=37564|Gloss=see
-2	her	her	PRON	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	AlignBegin=37564|AlignEnd=37997|Gloss=POSS.F.SG.3
-3	thighs	thigh	NOUN	_	Number=Plur	1	obj	_	AlignBegin=37997|AlignEnd=38430|Gloss=thigh.PL
+1	see	see	VERB	_	_	7	parataxis:dislocated	_	AlignBegin=37130|AlignEnd=37564|Gloss=see|SyllableCount=1
+2	her	her	PRON	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	AlignBegin=37564|AlignEnd=37997|Gloss=POSS.F.SG.3|SyllableCount=1
+3	thighs	thigh	NOUN	_	Number=Plur	1	obj	_	AlignBegin=37997|AlignEnd=38430|Gloss=thigh.PL|SyllableCount=1
 4	<	<	X	_	_	1	dep	_	AlignBegin=38430|AlignEnd=38430|Gloss=PUNCT
-5	very	very	ADV	_	_	7	advmod	_	AlignBegin=38430|AlignEnd=38864|Gloss=very
+5	very	very	ADV	_	_	7	advmod	_	AlignBegin=38430|AlignEnd=38864|Gloss=very|SyllableCount=2
 6	{	{	X	_	_	7	dep	_	AlignBegin=38864|AlignEnd=38864|Gloss=PUNCT
-7	fat	fat	ADJ	_	_	0	root	_	AlignBegin=38864|AlignEnd=39298|Gloss=fat
+7	fat	fat	ADJ	_	_	0	root	_	AlignBegin=38864|AlignEnd=39298|Gloss=fat|SyllableCount=1
 8	|r	|r	X	_	_	9	dep	_	AlignBegin=39298|AlignEnd=39298|Gloss=PUNCT
-9	fat	fat	ADJ	_	_	7	compound:redup	_	AlignBegin=39298|AlignEnd=39731|Gloss=fat
+9	fat	fat	ADJ	_	_	7	compound:redup	_	AlignBegin=39298|AlignEnd=39731|Gloss=fat|SyllableCount=1
 10	}	}	X	_	_	7	dep	_	AlignBegin=39731|AlignEnd=39731|Gloss=PUNCT
 11	//	//	X	_	_	7	dep	_	AlignBegin=39731|AlignEnd=39731|Gloss=PUNCT
 
@@ -70,32 +70,32 @@ The following 5 pairs of parts of speech are connected with `parataxis:dislocate
 # visual-style 22	fgColor:white
 # visual-style 22 5 parataxis:dislocated	color:blue
 1	#	#	X	_	_	22	dep	_	AlignBegin=126360|AlignEnd=128620|Gloss=PUNCT
-2	because	because	SCONJ	_	_	22	discourse	_	AlignBegin=128620|AlignEnd=129060|Gloss=because
+2	because	because	SCONJ	_	_	22	discourse	_	AlignBegin=128620|AlignEnd=129060|Gloss=because|SyllableCount=2|WordContour=mml1
 3	#	#	X	_	_	2	dep	_	AlignBegin=129060|AlignEnd=129660|Gloss=PUNCT
-4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=129660|AlignEnd=129790|Gloss=NOM.SG.1
-5	remember	remember	VERB	_	_	22	parataxis:dislocated	_	AlignBegin=129790|AlignEnd=130230|Gloss=remember
-6	dat	dat	DET	_	Number=Sing	7	det	_	AlignBegin=130230|AlignEnd=130370|Gloss=SG.DEM
-7	time	time	NOUN	_	_	5	obj	_	AlignBegin=130370|AlignEnd=130720|Gloss=time
-8	when	wey	ADV	_	_	7	advmod	_	AlignBegin=130720|AlignEnd=130858|Gloss=when.Q
-9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=130858|AlignEnd=130960|Gloss=NOM.SG.1
-10	dey	dey	VERB	_	VerbType=Cop	8	ccomp	_	AlignBegin=130960|AlignEnd=131140|Gloss=be
-11	small	small	ADJ	_	_	10	xcomp	_	AlignBegin=131140|AlignEnd=131670|Gloss=small
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=129660|AlignEnd=129790|Gloss=NOM.SG.1|SyllableCount=1|WordContour=mm
+5	remember	remember	VERB	_	_	22	parataxis:dislocated	_	AlignBegin=129790|AlignEnd=130230|Gloss=remember|SyllableCount=3|WordContour=mmH2
+6	dat	dat	DET	_	Number=Sing	7	det	_	AlignBegin=130230|AlignEnd=130370|Gloss=SG.DEM|SyllableCount=1|WordContour=mm
+7	time	time	NOUN	_	_	5	obj	_	AlignBegin=130370|AlignEnd=130720|Gloss=time|SyllableCount=1|WordContour=mll3
+8	when	wey	ADV	_	_	7	advmod	_	AlignBegin=130720|AlignEnd=130858|Gloss=when.Q|SyllableCount=1|WordContour=mh
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=130858|AlignEnd=130960|Gloss=NOM.SG.1|SyllableCount=1|WordContour=ml
+10	dey	dey	VERB	_	VerbType=Cop	8	ccomp	_	AlignBegin=130960|AlignEnd=131140|Gloss=be|SyllableCount=1|WordContour=lm
+11	small	small	ADJ	_	_	10	xcomp	_	AlignBegin=131140|AlignEnd=131670|Gloss=small|SyllableCount=1|WordContour=mL
 12	<	<	X	_	_	5	dep	_	AlignBegin=131670|AlignEnd=131820|Gloss=PUNCT
 13	#	#	X	_	_	5	dep	_	AlignBegin=131820|AlignEnd=133060|Gloss=PUNCT
-14	everyting	everyting	PRON	_	_	22	dislocated	_	AlignBegin=133060|AlignEnd=133502|Gloss=everything
-15	wey	wey	SCONJ	_	_	16	mark	_	AlignBegin=133502|AlignEnd=133702|Gloss=REL
-16	concern	concern	VERB	_	_	14	acl:relcl	_	AlignBegin=133702|AlignEnd=134060|Gloss=concern
-17	eh	eh	INTJ	_	_	18	discourse	_	AlignBegin=134060|AlignEnd=134177|Gloss=eh
-18	electric	electric	ADJ	_	_	16	obj	_	AlignBegin=134177|AlignEnd=135209|Gloss=electric
+14	everyting	everyting	PRON	_	_	22	dislocated	_	AlignBegin=133060|AlignEnd=133502|Gloss=everything|SyllableCount=4|WordContour=mmH2
+15	wey	wey	SCONJ	_	_	16	mark	_	AlignBegin=133502|AlignEnd=133702|Gloss=REL|SyllableCount=1|WordContour=mh
+16	concern	concern	VERB	_	_	14	acl:relcl	_	AlignBegin=133702|AlignEnd=134060|Gloss=concern|SyllableCount=2|WordContour=mml1
+17	eh	eh	INTJ	_	_	18	discourse	_	AlignBegin=134060|AlignEnd=134177|Gloss=eh|SyllableCount=1|WordContour=mm
+18	electric	electric	ADJ	_	_	16	obj	_	AlignBegin=134177|AlignEnd=135209|Gloss=electric|SyllableCount=3|WordContour=ml
 19	<	<	X	_	_	14	dep	_	AlignBegin=135209|AlignEnd=135254|Gloss=PUNCT
 20	#	#	X	_	_	14	dep	_	AlignBegin=135254|AlignEnd=135740|Gloss=PUNCT
-21	na	na	AUX	_	PartType=Cop	22	cop	_	AlignBegin=135740|AlignEnd=135852|Gloss=be
-22	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	root	_	AlignBegin=135852|AlignEnd=135892|Gloss=NOM.SG.3
+21	na	na	AUX	_	PartType=Cop	22	cop	_	AlignBegin=135740|AlignEnd=135852|Gloss=be|SyllableCount=1|WordContour=mm
+22	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	root	_	AlignBegin=135852|AlignEnd=135892|Gloss=NOM.SG.3|SyllableCount=1|WordContour=mm
 23	>+	>+	X	_	_	26	dep	_	AlignBegin=135892|AlignEnd=135922|Gloss=PUNCT
-24	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	AlignBegin=135922|AlignEnd=136010|Gloss=NOM.SG.1
-25	dey	dey	AUX	_	Aspect=Imp	26	aux	_	AlignBegin=136010|AlignEnd=136090|Gloss=IPFV
-26	put	put	VERB	_	_	22	advcl:cleft	_	AlignBegin=136090|AlignEnd=136474|Gloss=put
-27	hand	hand	NOUN	_	_	26	obj	_	AlignBegin=136474|AlignEnd=136670|Gloss=hand
+24	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	AlignBegin=135922|AlignEnd=136010|Gloss=NOM.SG.1|SyllableCount=1|WordContour=mm
+25	dey	dey	AUX	_	Aspect=Imp	26	aux	_	AlignBegin=136010|AlignEnd=136090|Gloss=IPFV|SyllableCount=1|WordContour=ml
+26	put	put	VERB	_	_	22	advcl:cleft	_	AlignBegin=136090|AlignEnd=136474|Gloss=put|SyllableCount=1|WordContour=lm
+27	hand	hand	NOUN	_	_	26	obj	_	AlignBegin=136474|AlignEnd=136670|Gloss=hand|SyllableCount=1|WordContour=lL
 28	//	//	X	_	_	22	dep	_	AlignBegin=136670|AlignEnd=136700|Gloss=PUNCT
 
 ~~~

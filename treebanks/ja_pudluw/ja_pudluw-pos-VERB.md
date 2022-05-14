@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-PUDLUW: POS Tags: `VERB`
 
-There are 928 `VERB` lemmas (17%), 1261 `VERB` types (21%) and 2332 `VERB` tokens (10%).
-Out of 16 observed tags, the rank of `VERB` is: 2 in number of lemmas, 2 in number of types and 4 in number of tokens.
+There are 934 `VERB` lemmas (17%), 1250 `VERB` types (21%) and 2269 `VERB` tokens (10%).
+Out of 16 observed tags, the rank of `VERB` is: 2 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
-The 10 most frequent `VERB` lemmas: ある, なる, する, 言う, 事が出来る, みる, 述べる, 事に成る, 持つ, 知る
+The 10 most frequent `VERB` lemmas: 有る, 成る, する, 言う, 持つ, 見る, 述べる, 知る, 受ける, 考える
 
-The 10 most frequent `VERB` types:  ある, し, なっ, なる, あり, 述べ, 言っ, ことができる, 受け, 考え
+The 10 most frequent `VERB` types:  ある, し, なっ, なる, あり, 述べ, 言っ, 受け, 考え, あっ
 
-The 10 most frequent ambiguous lemmas: 
+The 10 most frequent ambiguous lemmas: する (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 70, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 5), 答える (<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 2), 通る (<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ある (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 73, <tt><a href="ja_pudluw-pos-DET.html">DET</a></tt> 6), し (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 49, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 5), なる (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 36, <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> 1), あり (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 32, <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> 1), 考え (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 18, <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> 1), い (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 10, <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 1), でき (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 8, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 1), なら (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> 1), 助け (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> 1), 行い (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  ある (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 73, <tt><a href="ja_pudluw-pos-DET.html">DET</a></tt> 6), し (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 49, <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 5), なる (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 36, <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> 1), あり (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 32, <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> 1), 考え (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 18, <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> 1), い (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 10, <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 1), でき (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 8, <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> 1), なら (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> 1), 助け (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> 1), 行い (<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * ある
@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  ある (<tt><a href="ja_pudluw-pos-VERB.h
   * <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> 1: 幸い な こと に 、 ソニー・オーストラリア に い た 誰 か は 、 「 おい 、 ところで 、 君たち は これ に 気づい た か <b>い</b> ？ 」 という 様子 だっ た 、 と ポール は 言っ た 。
 * でき
   * <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 8: 昨年 は 信じ られ ない ほど の 年 だっ た が 、 2017年 に は もっと いい 状態 で 戻っ てくる 準備 が <b>でき</b> ている 。
-  * <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> 1: 私 は モトクロス を 見 て 、 見れ ば 見る ほど 、 この 女性 の 顔 が 浮かん <b>でき</b> て 、 1970年代 の 写真 の 中 の よう だ 。
+  * <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> 1: 私 は モトクロス を 見 て 、 見れ ば 見る ほど 、 この 女性 の 顔 が 浮かん <b>でき</b> て 、 1970年代 の 写真 の 中 の よう だ 。
 * なら
   * <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> 3: これ は 、 投資家 に 資金 を ファンド に とどめ させる こと に は <b>なら</b> ない 。
   * <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> 1: それでも 、 イギリス の 法律 が 認め られ てい た <b>なら</b> ば 、 ルイ 10世 、 フェリペ 5世 、 カルロス 4世 の 娘たち は 、 フランス王室 の 叔母 の イサベラ より 上 に 立ち 、 より 強い 王位継承権 を 要求し た だろう 。
@@ -51,34 +51,34 @@ The 10 most frequent ambiguous types:  ある (<tt><a href="ja_pudluw-pos-VERB.h
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.358836 (the average of all parts of speech is 1.085751).
+The form / lemma ratio of `VERB` is 1.338330 (the average of all parts of speech is 1.079803).
 
-The 1st highest number of forms (6) was observed with the lemma “する”: さ, し, して, しよう, する, せ.
+The 1st highest number of forms (6) was observed with the lemma “取る”: とっ, とる, 取っ, 取ら, 取る, 執り.
 
-The 2nd highest number of forms (6) was observed with the lemma “なる”: なっ, なら, なり, なる, なれ, 成っ.
+The 2nd highest number of forms (6) was observed with the lemma “成る”: なっ, なら, なり, なる, なれ, 成っ.
 
-The 3rd highest number of forms (6) was observed with the lemma “取る”: とっ, とる, 取っ, 取ら, 取る, 執り.
+The 3rd highest number of forms (6) was observed with the lemma “行く”: いか, いく, ゆく, 行き, 行く, 行っ.
 
 `VERB` does not occur with any features.
 
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 11 different relations: <tt><a href="ja_pudluw-dep-root.html">root</a></tt> (844; 36% instances), <tt><a href="ja_pudluw-dep-acl.html">acl</a></tt> (733; 31% instances), <tt><a href="ja_pudluw-dep-advcl.html">advcl</a></tt> (610; 26% instances), <tt><a href="ja_pudluw-dep-compound.html">compound</a></tt> (69; 3% instances), <tt><a href="ja_pudluw-dep-ccomp.html">ccomp</a></tt> (51; 2% instances), <tt><a href="ja_pudluw-dep-csubj.html">csubj</a></tt> (8; 0% instances), <tt><a href="ja_pudluw-dep-nmod.html">nmod</a></tt> (7; 0% instances), <tt><a href="ja_pudluw-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="ja_pudluw-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`VERB` nodes are attached to their parents using 11 different relations: <tt><a href="ja_pudluw-dep-root.html">root</a></tt> (844; 37% instances), <tt><a href="ja_pudluw-dep-acl.html">acl</a></tt> (733; 32% instances), <tt><a href="ja_pudluw-dep-advcl.html">advcl</a></tt> (612; 27% instances), <tt><a href="ja_pudluw-dep-ccomp.html">ccomp</a></tt> (49; 2% instances), <tt><a href="ja_pudluw-dep-csubj.html">csubj</a></tt> (8; 0% instances), <tt><a href="ja_pudluw-dep-nmod.html">nmod</a></tt> (7; 0% instances), <tt><a href="ja_pudluw-dep-compound.html">compound</a></tt> (6; 0% instances), <tt><a href="ja_pudluw-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="ja_pudluw-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `VERB` nodes belong to 9 different parts of speech:  (844; 36% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (700; 30% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (682; 29% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (42; 2% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (41; 2% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (3; 0% instances)
+Parents of `VERB` nodes belong to 9 different parts of speech:  (844; 37% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (700; 31% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (619; 27% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (42; 2% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (41; 2% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (3; 0% instances)
 
-87 (4%) `VERB` nodes are leaves.
+24 (1%) `VERB` nodes are leaves.
 
 209 (9%) `VERB` nodes have one child.
 
-377 (16%) `VERB` nodes have two children.
+377 (17%) `VERB` nodes have two children.
 
-1659 (71%) `VERB` nodes have three or more children.
+1659 (73%) `VERB` nodes have three or more children.
 
 The highest child degree of a `VERB` node is 13.
 
-Children of `VERB` nodes are attached using 20 different relations: <tt><a href="ja_pudluw-dep-aux.html">aux</a></tt> (1456; 17% instances), <tt><a href="ja_pudluw-dep-obl.html">obl</a></tt> (1432; 16% instances), <tt><a href="ja_pudluw-dep-punct.html">punct</a></tt> (1340; 15% instances), <tt><a href="ja_pudluw-dep-nsubj.html">nsubj</a></tt> (1246; 14% instances), <tt><a href="ja_pudluw-dep-mark.html">mark</a></tt> (904; 10% instances), <tt><a href="ja_pudluw-dep-obj.html">obj</a></tt> (831; 9% instances), <tt><a href="ja_pudluw-dep-advcl.html">advcl</a></tt> (810; 9% instances), <tt><a href="ja_pudluw-dep-case.html">case</a></tt> (231; 3% instances), <tt><a href="ja_pudluw-dep-advmod.html">advmod</a></tt> (219; 2% instances), <tt><a href="ja_pudluw-dep-compound.html">compound</a></tt> (121; 1% instances), <tt><a href="ja_pudluw-dep-cc.html">cc</a></tt> (87; 1% instances), <tt><a href="ja_pudluw-dep-ccomp.html">ccomp</a></tt> (72; 1% instances), <tt><a href="ja_pudluw-dep-dislocated.html">dislocated</a></tt> (28; 0% instances), <tt><a href="ja_pudluw-dep-nmod.html">nmod</a></tt> (22; 0% instances), <tt><a href="ja_pudluw-dep-nummod.html">nummod</a></tt> (13; 0% instances), <tt><a href="ja_pudluw-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-dep-discourse.html">discourse</a></tt> (1; 0% instances)
+Children of `VERB` nodes are attached using 20 different relations: <tt><a href="ja_pudluw-dep-aux.html">aux</a></tt> (2101; 24% instances), <tt><a href="ja_pudluw-dep-obl.html">obl</a></tt> (1432; 16% instances), <tt><a href="ja_pudluw-dep-punct.html">punct</a></tt> (1340; 15% instances), <tt><a href="ja_pudluw-dep-nsubj.html">nsubj</a></tt> (1246; 14% instances), <tt><a href="ja_pudluw-dep-obj.html">obj</a></tt> (831; 9% instances), <tt><a href="ja_pudluw-dep-advcl.html">advcl</a></tt> (814; 9% instances), <tt><a href="ja_pudluw-dep-mark.html">mark</a></tt> (322; 4% instances), <tt><a href="ja_pudluw-dep-case.html">case</a></tt> (231; 3% instances), <tt><a href="ja_pudluw-dep-advmod.html">advmod</a></tt> (219; 2% instances), <tt><a href="ja_pudluw-dep-cc.html">cc</a></tt> (87; 1% instances), <tt><a href="ja_pudluw-dep-ccomp.html">ccomp</a></tt> (68; 1% instances), <tt><a href="ja_pudluw-dep-compound.html">compound</a></tt> (58; 1% instances), <tt><a href="ja_pudluw-dep-dislocated.html">dislocated</a></tt> (28; 0% instances), <tt><a href="ja_pudluw-dep-nmod.html">nmod</a></tt> (22; 0% instances), <tt><a href="ja_pudluw-dep-nummod.html">nummod</a></tt> (13; 0% instances), <tt><a href="ja_pudluw-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
-Children of `VERB` nodes belong to 16 different parts of speech: <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (2723; 31% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (1456; 17% instances), <tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (1340; 15% instances), <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> (841; 10% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (682; 8% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (505; 6% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (267; 3% instances), <tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (231; 3% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (223; 3% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (207; 2% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (191; 2% instances), <tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (87; 1% instances), <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> (63; 1% instances), <tt><a href="ja_pudluw-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Children of `VERB` nodes belong to 16 different parts of speech: <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (2723; 31% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (2101; 24% instances), <tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (1340; 15% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (619; 7% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (505; 6% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (267; 3% instances), <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> (259; 3% instances), <tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (231; 3% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (223; 3% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (207; 2% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (191; 2% instances), <tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (87; 1% instances), <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> (63; 1% instances), <tt><a href="ja_pudluw-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

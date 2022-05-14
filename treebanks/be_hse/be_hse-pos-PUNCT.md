@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Belarusian-HSE: POS Tags: `PUNCT`
 
-There are 64 `PUNCT` lemmas (0%), 64 `PUNCT` types (0%) and 57009 `PUNCT` tokens (19%).
+There are 65 `PUNCT` lemmas (0%), 65 `PUNCT` types (0%) and 57011 `PUNCT` tokens (19%).
 Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., «, », :, ", !, ), -, (</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., «, », :, ", !, ), -, (</em>
 
-The 10 most frequent ambiguous lemmas: <em>.</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 14803, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>»</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 3302, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>:</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 2373, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>)</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1818, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 5), <em>-</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1799, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 4, <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> 1), <em>(</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1765, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>—</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1732, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 2), <em>?</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1155, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>”</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 521, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>/</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 225, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 30)
+The 10 most frequent ambiguous lemmas: <em>.</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 14803, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>»</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 3302, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>:</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 2373, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>)</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1818, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 5), <em>-</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1800, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 4, <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> 1), <em>(</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1765, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>—</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1732, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 2), <em>?</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1155, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>”</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 521, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>/</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 225, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 30)
 
-The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 14803, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>»</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 3302, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>:</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 2373, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>)</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1818, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 5), <em>-</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1794, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 4, <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> 1), <em>(</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1765, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>—</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1737, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 2), <em>?</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1155, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>”</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 521, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>/</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 225, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 30)
+The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 14803, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>»</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 3302, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>:</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 2373, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>)</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1818, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 5), <em>-</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1795, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 4, <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> 1), <em>(</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1765, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>—</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1737, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 2), <em>?</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1155, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>”</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 521, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 1), <em>/</em> (<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 225, <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 30)
 
 
 * <em>.</em>
@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="be_hse-pos-PUNCT
   * <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1818: <em><strong> Мы жывем на краі ( 2002 ; рэжысёр – Віктар Аслюк <b>)</b> </strong></em>
   * <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 5: <em>Увага , па спасылцы ёсьць сьпякотныя фота дзяучынак <b>)</b></em>
 * <em>-</em>
-  * <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1794: <em>Квіткі тут <b>-</b></em>
+  * <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> 1795: <em>Квіткі тут <b>-</b></em>
   * <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> 4: <em>10/01/2019 Курапацкая варта трывае , негледзячы на <b>-</b> 17 мароза .</em>
   * <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> 1: <em>Затрыманы грамадскі дырэктар мемарыяла Курапаты і адказны сакратар КХП <b>-</b> БНФ Алесь Чахольскі .</em>
 * <em>(</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="be_hse-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.753662).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.754875).
 
 The 1st highest number of forms (2) was observed with the lemma “-”: <em>-, —</em>.
 
@@ -66,11 +66,11 @@ The 3rd highest number of forms (1) was observed with the lemma “!!”: <em>!!
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="be_hse-dep-punct.html">punct</a></tt> (56991; 100% instances), <tt><a href="be_hse-dep-root.html">root</a></tt> (18; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="be_hse-dep-punct.html">punct</a></tt> (56993; 100% instances), <tt><a href="be_hse-dep-root.html">root</a></tt> (18; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (25245; 44% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (16383; 29% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (4245; 7% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (3654; 6% instances), <tt><a href="be_hse-pos-X.html">X</a></tt> (3286; 6% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1413; 2% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (1210; 2% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (674; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (281; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (182; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (135; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> (98; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (73; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (44; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (34; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (19; 0% instances),  (18; 0% instances), <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances)
+Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (25245; 44% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (16383; 29% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (4245; 7% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (3656; 6% instances), <tt><a href="be_hse-pos-X.html">X</a></tt> (3286; 6% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1413; 2% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (1211; 2% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (674; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (281; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (181; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (135; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> (98; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (73; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (44; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (34; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (19; 0% instances),  (18; 0% instances), <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances)
 
-56995 (100%) `PUNCT` nodes are leaves.
+56997 (100%) `PUNCT` nodes are leaves.
 
 10 (0%) `PUNCT` nodes have one child.
 

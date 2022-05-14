@@ -54,7 +54,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>RT, dkk</em>
-* `EMPTY` (26429): <em>tahun, orang, desa, nama, kota, bagian, bahasa, wilayah, saat, tanggal</em>
+* `EMPTY` (26428): <em>tahun, orang, desa, nama, kota, bagian, bahasa, wilayah, saat, tanggal</em>
 
 ### `ADV`
 

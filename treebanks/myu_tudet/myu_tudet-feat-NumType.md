@@ -11,7 +11,7 @@ It occurs with 1 different values: `Card`.
 
 1 tokens (0%) have a non-empty value of `NumType`.
 1 types (0%) occur at least once with a non-empty value of `NumType`.
-1 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+1 lemmas (0%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="myu_tudet-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NUM`

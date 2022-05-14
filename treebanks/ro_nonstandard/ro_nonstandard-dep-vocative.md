@@ -22,17 +22,17 @@ The following 32 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 4 vocative	color:blue
-1	Zisără	zice	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT20.33
-2	Lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	iobj	_	ref=MATT20.33|SpaceAfter=No
-3	:	:	PUNCT	COLON	_	8	punct	_	ref=MATT20.33
-4	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	8	vocative	_	ref=MATT20.33|SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT20.33
-6	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	8	mark	_	ref=MATT20.33
-7	să	să	PART	Qs	PartType=Sub	6	fixed	_	ref=MATT20.33
-8	deșchizi	deschide	VERB	Vmsp2s	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	ref=MATT20.33
-9	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	obj	_	ref=MATT20.33
-10	noștri	meu	DET	Ds1mp-p	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|PronType=Prs	9	det	_	ref=MATT20.33|SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT20.33
+1	Zisără	zice	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=MATT20.33
+2	Lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	iobj	_	Ref=MATT20.33|SpaceAfter=No
+3	:	:	PUNCT	COLON	_	8	punct	_	Ref=MATT20.33
+4	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	8	vocative	_	Ref=MATT20.33|SpaceAfter=No
+5	,	,	PUNCT	COMMA	_	4	punct	_	Ref=MATT20.33
+6	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	8	mark	_	Ref=MATT20.33
+7	să	să	PART	Qs	PartType=Sub	6	fixed	_	Ref=MATT20.33
+8	deșchizi	deschide	VERB	Vmsp2s	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	Ref=MATT20.33
+9	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	obj	_	Ref=MATT20.33
+10	noștri	meu	DET	Ds1mp-p	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|PronType=Prs	9	det	_	Ref=MATT20.33|SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT20.33
 
 ~~~
 
@@ -43,20 +43,20 @@ The following 32 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 vocative	color:blue
-1	Zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	ref=MATT26.68|SpaceAfter=No
-2	:	:	PUNCT	COLON	_	3	punct	_	ref=MATT26.68
-3	Proroceaște	proroci	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	1	parataxis	_	ref=MATT26.68
-4	noao	eu	PRON	Pp1-pd--------s	Case=Dat|Number=Plur|Person=1|PronType=Prs|Strength=Strong	3	iobj	_	ref=MATT26.68|SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	6	punct	_	ref=MATT26.68
-6	Hristoase	Hristos	PROPN	Npmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	3	vocative	_	ref=MATT26.68|SpaceAfter=No
-7	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT26.68
-8	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	nsubj	_	ref=MATT26.68|SpaceAfter=No
-9	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	cop	_	ref=MATT26.68
-10	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	parataxis	_	ref=MATT26.68
-11	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	nsubj	_	ref=MATT26.68
-12	Te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	13	obj	_	ref=MATT26.68
-13	lovi	lovi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl	_	ref=MATT26.68|SpaceAfter=No
-14	?	?	PUNCT	QUEST	_	10	punct	_	ref=MATT26.68
+1	Zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	Ref=MATT26.68|SpaceAfter=No
+2	:	:	PUNCT	COLON	_	3	punct	_	Ref=MATT26.68
+3	Proroceaște	proroci	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	1	parataxis	_	Ref=MATT26.68
+4	noao	eu	PRON	Pp1-pd--------s	Case=Dat|Number=Plur|Person=1|PronType=Prs|Strength=Strong	3	iobj	_	Ref=MATT26.68|SpaceAfter=No
+5	,	,	PUNCT	COMMA	_	6	punct	_	Ref=MATT26.68
+6	Hristoase	Hristos	PROPN	Npmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	3	vocative	_	Ref=MATT26.68|SpaceAfter=No
+7	,	,	PUNCT	COMMA	_	10	punct	_	Ref=MATT26.68
+8	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	nsubj	_	Ref=MATT26.68|SpaceAfter=No
+9	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	cop	_	Ref=MATT26.68
+10	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	parataxis	_	Ref=MATT26.68
+11	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	nsubj	_	Ref=MATT26.68
+12	Te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	13	obj	_	Ref=MATT26.68
+13	lovi	lovi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl	_	Ref=MATT26.68|SpaceAfter=No
+14	?	?	PUNCT	QUEST	_	10	punct	_	Ref=MATT26.68
 
 ~~~
 
@@ -67,16 +67,16 @@ The following 32 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 vocative	color:blue
-1	Învățătoriule	învățător	NOUN	Ncmsvy	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	5	vocative	_	ref=MATT22.36|SpaceAfter=No
-2	,	,	PUNCT	COMMA	_	1	punct	_	ref=MATT22.36
-3	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	nsubj	_	ref=MATT22.36
-4	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	ref=MATT22.36
-5	poruncă	poruncă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	ref=MATT22.36
-6	mai	mai	ADV	Rg	_	7	advmod	_	ref=MATT22.36
-7	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	ref=MATT22.36
-8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT22.36
-9	leage	leage	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	ref=MATT22.36|SpaceAfter=No
-10	?	?	PUNCT	QUEST	_	5	punct	_	ref=MATT22.36
+1	Învățătoriule	învățător	NOUN	Ncmsvy	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	5	vocative	_	Ref=MATT22.36|SpaceAfter=No
+2	,	,	PUNCT	COMMA	_	1	punct	_	Ref=MATT22.36
+3	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	nsubj	_	Ref=MATT22.36
+4	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	Ref=MATT22.36
+5	poruncă	poruncă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	Ref=MATT22.36
+6	mai	mai	ADV	Rg	_	7	advmod	_	Ref=MATT22.36
+7	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	Ref=MATT22.36
+8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	Ref=MATT22.36
+9	leage	leage	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	Ref=MATT22.36|SpaceAfter=No
+10	?	?	PUNCT	QUEST	_	5	punct	_	Ref=MATT22.36
 
 ~~~
 

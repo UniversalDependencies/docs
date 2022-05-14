@@ -42,12 +42,12 @@ The following 51 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 appos	color:blue
-1	а	а	CCONJ	C-	_	0	root	_	ref=6
-2	люде	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	ref=6
-3	ꙋ	у	ADP	R-	_	4	case	_	ref=6
-4	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	ref=6
-5	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	nsubj	_	ref=6
-6	хорозанцевъ	хоросаньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	appos	_	ref=6
+1	а	а	CCONJ	C-	_	0	root	_	Ref=6
+2	люде	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	Ref=6
+3	ꙋ	у	ADP	R-	_	4	case	_	Ref=6
+4	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	Ref=6
+5	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	nsubj	_	Ref=6
+6	хорозанцевъ	хоросаньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	appos	_	Ref=6
 
 ~~~
 
@@ -58,16 +58,16 @@ The following 51 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 appos	color:blue
-1	и	и	CCONJ	C-	_	3	cc	_	ref=6
-2	тѹт	тутъ	ADV	Df	_	3	advmod	_	ref=6
-3	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-4	асатъ	асатъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=6
-5	хан	ханъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=6
-6	чюнерьскыѧ	чунерьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	ref=6
-7	индѣнскыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	appos	_	ref=6
-8	а	а	CCONJ	C-	_	5	cc	_	ref=6
-9	холопъ	холопъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	ref=6
-10	мекикътѹчѧровъ	меликътучаровъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	9	amod	_	ref=6
+1	и	и	CCONJ	C-	_	3	cc	_	Ref=6
+2	тѹт	тутъ	ADV	Df	_	3	advmod	_	Ref=6
+3	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=6
+4	асатъ	асатъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=6
+5	хан	ханъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	Ref=6
+6	чюнерьскыѧ	чунерьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	Ref=6
+7	индѣнскыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	appos	_	Ref=6
+8	а	а	CCONJ	C-	_	5	cc	_	Ref=6
+9	холопъ	холопъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	Ref=6
+10	мекикътѹчѧровъ	меликътучаровъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	9	amod	_	Ref=6
 
 ~~~
 

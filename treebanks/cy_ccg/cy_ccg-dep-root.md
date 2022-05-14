@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2111 nodes (5%) are attached to their parents as `root`.
+2338 nodes (5%) are attached to their parents as `root`.
 
-2111 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.58076740881099.
+2338 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.50940975192472.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1428; 68% instances), -<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (428; 20% instances), -<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (169; 8% instances), -<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (38; 2% instances), -<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (17; 1% instances), -<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (15; 1% instances), -<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), -<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (5; 0% instances), -<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1589; 68% instances), -<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (474; 20% instances), -<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (185; 8% instances), -<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (40; 2% instances), -<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (17; 1% instances), -<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (16; 1% instances), -<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), -<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (5; 0% instances), -<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

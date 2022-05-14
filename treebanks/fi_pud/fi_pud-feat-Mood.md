@@ -18,14 +18,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.htm
 
 1192 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1192; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1192; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1192; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1192; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1192; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (969; 81%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (919; 77%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (744; 62%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (717; 60%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1192; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1192; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1192; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1192; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (969; 81%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (919; 77%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (744; 62%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (717; 60%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (30; 3% of non-empty `Mood`): <em>haluaisi, antautuisi, auttaisi, eroaisi, haastateltaisiin, haluaisin, hyökkäisi, juoksisi, kuluisi, kuolisi</em>
 * `Imp` (4; 0% of non-empty `Mood`): <em>Sano, kiertele, räjähdä, vaikuta</em>
 * `Ind` (1158; 97% of non-empty `Mood`): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, johti, sai, syntyi, auttaa</em>
-* `EMPTY` (825): <em>tehdä, liittyen, lukien, olemassa, tullut, johtaa, johtuen, käytetty, käyttämällä, nähdä</em>
+* `EMPTY` (823): <em>tehdä, liittyen, lukien, olemassa, tullut, johtaa, johtuen, käytetty, käyttämällä, nähdä</em>
 
 <table>
   <tr><th>Paradigm <i>vaikuttaa</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>

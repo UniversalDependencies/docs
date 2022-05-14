@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1295; 100% of non-empty `Abbr`): <em>art., a., nr., CE, b., mg, lit., alin., ml, CEE</em>
-* `EMPTY` (52973): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
+* `EMPTY` (52975): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (293) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (19; 100% of non-empty `Abbr`): <em>etc., cca, pm, p.m., v</em>
-* `EMPTY` (9501): <em>mai, ca, când, cum, iar, astfel, nici, decât, numai, mult</em>
+* `EMPTY` (9500): <em>mai, ca, când, cum, iar, astfel, nici, decât, numai, mult</em>
 
 ### `ADJ`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (17; 100% of non-empty `Abbr`): <em>n., e-, am, a.m., univ.</em>
-* `EMPTY` (15274): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
+* `EMPTY` (15281): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
 
 ### `X`
 

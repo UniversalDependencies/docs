@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-509 nodes (1%) are attached to their parents as `ccomp`.
+644 nodes (1%) are attached to their parents as `ccomp`.
 
-493 instances of `ccomp` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.95481335952849.
+620 instances of `ccomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.34782608695652.
 
-The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (382; 75% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (55; 11% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (47; 9% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (481; 75% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (67; 10% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (60; 9% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (17; 3% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,18 +55,19 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 5 ccomp	color:blue
-1	Փորձառութիւնը	փորձառութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Translit=P’orjaṙowt’iwnë|LTranslit=p’orjaṙowt’iwn
-2	հաստատեց	հաստատել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=hastatec’|LTranslit=hastatel
-3	թէ	թէ	SCONJ	_	_	5	mark	_	Translit=t’ē|LTranslit=t’ē
-4	միշտ	միշտ	ADV	_	_	5	advmod:emph	_	Translit=mišt|LTranslit=mišt
-5	ոսկի	ոսկի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	2	ccomp	_	Translit=oski|LTranslit=oski
-6	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=čē|LTranslit=em|SpaceAfter=No
-7	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+# visual-style 2 6 ccomp	color:blue
+1	Կը	կը	AUX	_	Aspect=Imp|Mood=Ind	2	aux	_	Translit=Kë|LTranslit=kë
+2	մոռնանք	մոռնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=moṙnank’|LTranslit=moṙnal|SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
+4	որ	որ	SCONJ	_	_	6	mark	_	Translit=or|LTranslit=or
+5	մենք	մենք	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	Translit=menk’|LTranslit=menk’
+6	Հայ	Հայ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	2	ccomp	_	Translit=Hay|LTranslit=Hay
+7	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=enk’|LTranslit=em|SpaceAfter=No
+8	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

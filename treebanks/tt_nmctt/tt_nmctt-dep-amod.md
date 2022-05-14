@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-105 nodes (9%) are attached to their parents as `amod`.
+134 nodes (9%) are attached to their parents as `amod`.
 
-105 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26666666666667.
+134 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27611940298507.
 
-The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (69; 66% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (18; 17% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `amod`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (86; 64% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (18; 13% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (5; 4% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
-1	Ә	ә	CCONJ	_	_	6	cc	_	LangID=TT
+1	Ә	ә	CCONJ	_	_	5	cc	_	LangID=TT
 2	милләтле	милләтле	ADJ	_	_	3	amod	_	LangID=TT
-3	халык	халык	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	LangID=TT
+3	халык	халык	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
 4	телле	телле	NOUN	_	_	5	xcomp	_	LangID=TT
-5	булырга	бул	VERB	_	VerbForm=Inf	6	advcl	_	LangID=TT
-6	тиеш	тиеш	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
+5	булырга	бул	VERB	_	VerbForm=Inf	0	root	_	LangID=TT
+6	тиеш	тиеш	AUX	_	_	5	aux	_	LangID=TT|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
 
 ~~~
 

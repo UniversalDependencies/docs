@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 6 det:numgov	color:blue
 1	Při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	3:case	_
-2	každém	každý	DET	PLIS6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Tot	3	det	3:det	_
+2	každém	každý	DET	PLIS6----1A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	3	det	3:det	_
 3	závanu	závan	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	7	obl	7:obl:při:loc	_
 4	větru	vítr	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	3	nmod	3:nmod:gen	_
 5	jich	on	PRON	PPIP2--3-------	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
@@ -63,7 +63,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 # visual-style 12	fgColor:white
 # visual-style 12 10 det:numgov	color:blue
 1	Tehdy	tehdy	ADV	Db-------------	PronType=Dem	2	advmod	2:advmod	_
-2	byla	být	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+2	byla	být	AUX	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 3	velká	velký	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	4:amod	_
 4	nouze	nouze	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nsubj	2:nsubj	_
 5	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	6:case	_

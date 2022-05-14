@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hy_armtdp-dep-obl.html">obl</a></tt>.
 
-39 nodes (0%) are attached to their parents as `obl:agent`.
+38 nodes (0%) are attached to their parents as `obl:agent`.
 
-36 instances of `obl:agent` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.58974358974359.
+35 instances of `obl:agent` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.63157894736842.
 
-The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (35; 90% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 5% instances).
+The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (34; 89% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 5% instances).
 
 
 ~~~ conllu

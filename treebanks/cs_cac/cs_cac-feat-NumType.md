@@ -32,7 +32,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 863 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (607; 70%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (566; 66%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (607; 70%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (566; 66%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 * `Card` (651; 100% of non-empty `NumType`): <em>několik, mnoho, několika, mnoha, kolik, tolik, málo, nejeden, mála, nejednom</em>
 * `Ord` (3; 0% of non-empty `NumType`): <em>Kolikátý, kolikátá, kolikátém</em>
-* `EMPTY` (19108): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (19157): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ### `ADV`
 

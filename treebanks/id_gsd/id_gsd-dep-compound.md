@@ -23,14 +23,14 @@ The following 34 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 compound	color:blue
-1	Let	let	PROPN	F--	_	5	nsubj	_	MorphInd=^let<f>_F--$
-2	It	it	PROPN	F--	_	1	flat:name	_	MorphInd=^it<f>_F--$
-3	Shine	shine	PROPN	X--	_	2	flat:name	_	MorphInd=^shine<x>_X--$
-4	adalah	adalah	AUX	O--	_	5	cop	_	MorphInd=^adalah<o>_O--$
-5	film	film	NOUN	NSD	Number=Sing	0	root	_	MorphInd=^film<n>_NSD$
-6	televisi	televisi	NOUN	NSD	Number=Sing	5	compound	_	MorphInd=^televisi<n>_NSD$
-7	2012	2012	NUM	CC-	NumType=Card	6	nummod	_	SpaceAfter=No|MorphInd=^2012<c>_CC-$
-8	.	.	PUNCT	Z--	_	5	punct	_	MorphInd=^.<z>_Z--$
+1	Let	let	PROPN	F--	_	5	nsubj	_	Morf=^let<f>_F--$
+2	It	it	PROPN	F--	_	1	flat:name	_	Morf=^it<f>_F--$
+3	Shine	shine	PROPN	X--	_	2	flat:name	_	Morf=^shine<x>_X--$
+4	adalah	adalah	AUX	O--	_	5	cop	_	Morf=^adalah<o>_O--$
+5	film	film	NOUN	NSD	Number=Sing	0	root	_	Morf=^film<n>_NSD$
+6	televisi	televisi	NOUN	NSD	Number=Sing	5	compound	_	Morf=^televisi<n>_NSD$
+7	2012	2012	NUM	CC-	NumType=Card	6	nummod	_	SpaceAfter=No|Morf=^2012<c>_CC-$
+8	.	.	PUNCT	Z--	_	5	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -41,14 +41,14 @@ The following 34 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 compound	color:blue
-1	Syuting	syuting	PROPN	X--	_	4	nsubj:pass	_	MorphInd=^syuting<x>_X--$
-2	film	film	NOUN	NSD	Number=Sing	1	compound	_	MorphInd=^film<n>_NSD$
-3	ini	ini	DET	B--	PronType=Dem	2	det	_	MorphInd=^ini<b>_B--$
-4	dimulai	mulai	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	MorphInd=^di+mulai<v>_VSP$
-5	pada	pada	ADP	R--	_	6	case	_	MorphInd=^pada<r>_R--$
-6	Agustus	agustus	NOUN	NSD	Number=Sing	4	obl	_	MorphInd=^agustus<n>_NSD$
-7	2009	2009	NUM	CC-	NumType=Card	6	nummod	_	SpaceAfter=No|MorphInd=^2009<c>_CC-$
-8	.	.	PUNCT	Z--	_	4	punct	_	MorphInd=^.<z>_Z--$
+1	Syuting	syuting	PROPN	X--	_	4	nsubj:pass	_	Morf=^syuting<x>_X--$
+2	film	film	NOUN	NSD	Number=Sing	1	compound	_	Morf=^film<n>_NSD$
+3	ini	ini	DET	B--	PronType=Dem	2	det	_	Morf=^ini<b>_B--$
+4	dimulai	mulai	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+mulai<v>_VSP$
+5	pada	pada	ADP	R--	_	6	case	_	Morf=^pada<r>_R--$
+6	Agustus	agustus	NOUN	NSD	Number=Sing	4	obl	_	Morf=^agustus<n>_NSD$
+7	2009	2009	NUM	CC-	NumType=Card	6	nummod	_	SpaceAfter=No|Morf=^2009<c>_CC-$
+8	.	.	PUNCT	Z--	_	4	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -59,16 +59,16 @@ The following 34 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 compound	color:blue
-1	Saat	saat	NOUN	NSD	Number=Sing	5	compound	_	MorphInd=^saat<n>_NSD$
-2	ini	ini	DET	B--	PronType=Dem	1	det	_	SpaceAfter=No|MorphInd=^ini<b>_B--$
-3	,	,	PUNCT	Z--	_	1	punct	_	MorphInd=^,<z>_Z--$
-4	Padwa	padwa	PROPN	X--	_	5	nsubj	_	MorphInd=^padwa<x>_X--$
-5	bermain	main	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	MorphInd=^ber+main<v>_VSA$
-6	untuk	untuk	ADP	R--	_	7	case	_	MorphInd=^untuk<r>_R--$
-7	tim	tim	NOUN	NSD	Number=Sing	5	obl	_	MorphInd=^tim<n>_NSD$
-8	Sriwijaya	sriwijaya	PROPN	F--	_	7	nmod	_	MorphInd=^sriwijaya<f>_F--$
-9	FC	fc	PROPN	F--	_	8	flat:name	_	SpaceAfter=No|MorphInd=^fc<f>_F--$
-10	.	.	PUNCT	Z--	_	5	punct	_	MorphInd=^.<z>_Z--$
+1	Saat	saat	NOUN	NSD	Number=Sing	5	compound	_	Morf=^saat<n>_NSD$
+2	ini	ini	DET	B--	PronType=Dem	1	det	_	SpaceAfter=No|Morf=^ini<b>_B--$
+3	,	,	PUNCT	Z--	_	1	punct	_	Morf=^,<z>_Z--$
+4	Padwa	padwa	PROPN	X--	_	5	nsubj	_	Morf=^padwa<x>_X--$
+5	bermain	main	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^ber+main<v>_VSA$
+6	untuk	untuk	ADP	R--	_	7	case	_	Morf=^untuk<r>_R--$
+7	tim	tim	NOUN	NSD	Number=Sing	5	obl	_	Morf=^tim<n>_NSD$
+8	Sriwijaya	sriwijaya	PROPN	F--	_	7	nmod	_	Morf=^sriwijaya<f>_F--$
+9	FC	fc	PROPN	F--	_	8	flat:name	_	SpaceAfter=No|Morf=^fc<f>_F--$
+10	.	.	PUNCT	Z--	_	5	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 

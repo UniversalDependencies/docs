@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-385 nodes (0%) are attached to their parents as `compound`.
+407 nodes (0%) are attached to their parents as `compound`.
 
-343 instances of `compound` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07012987012987.
+364 instances of `compound` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07371007371007.
 
-The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (230; 60% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (67; 17% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (48; 12% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (20; 5% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (14; 4% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `compound`: <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (244; 60% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (67; 16% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (49; 12% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (23; 6% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (14; 3% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

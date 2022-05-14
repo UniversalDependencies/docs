@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-81974 tokens (45%) have a non-empty value of `Case`.
-26191 types (74%) occur at least once with a non-empty value of `Case`.
-11387 lemmas (78%) occur at least once with a non-empty value of `Case`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (66707; 36% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> (15253; 8% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (14; 0% instances).
+81964 tokens (45%) have a non-empty value of `Case`.
+26183 types (74%) occur at least once with a non-empty value of `Case`.
+11374 lemmas (78%) occur at least once with a non-empty value of `Case`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (66698; 36% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> (15252; 8% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (14; 0% instances).
 
 ### `NOUN`
 
-66707 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+66698 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (66707; 100%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54966; 82%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44947; 67%), <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (44947; 67%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (66698; 100%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54938; 82%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44943; 67%), <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (44943; 67%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Abl` (2576; 4% of non-empty `Case`): <em>dolardan, tarafından, milyondan, milyardan, azından, seviyesinden, Doları'ndan, üzerinden, açısından, ortadan</em>
-* `Acc` (6272; 9% of non-empty `Case`): <em>olduğunu, olacağını, olmadığını, yapmayı, ettiğini, gerektiğini, günü, fiyatları, doları, hisselerini</em>
+* `Acc` (6271; 9% of non-empty `Case`): <em>olduğunu, olacağını, olmadığını, yapmayı, ettiğini, gerektiğini, günü, fiyatları, doları, hisselerini</em>
 * `Dat` (5634; 8% of non-empty `Case`): <em>dolara, başına, sona, seviyesine, Doları'na, ortaya, hale, işe, hisseye, yıla</em>
 * `Gen` (4669; 7% of non-empty `Case`): <em>şirketin, yılın, yatırımcıların, piyasanın, şirketlerin, yılının, hükümetin, dünyanın, şirketinin, hisselerin</em>
 * `Ins` (938; 1% of non-empty `Case`): <em>artışla, düşüşle, itibariyle, nedenle, yükselişle, oranla, anlamıyla, hisseyle, deyişle, zamanla</em>
 * `Loc` (5181; 8% of non-empty `Case`): <em>şekilde, arasında, konusunda, ayında, altında, anda, yılında, durumda, zamanda, ölçüde</em>
-* `Nom` (41437; 62% of non-empty `Case`): <em>bay, hisse, dolar, yıl, şirket, satın, devam, gelir, dün, Amerikan</em>
+* `Nom` (41429; 62% of non-empty `Case`): <em>bay, hisse, dolar, yıl, şirket, satın, devam, gelir, dün, Amerikan</em>
 * `EMPTY` (27): <em>milyarlarca, düzinelerce, milyonlarca, Bince, Anca, Kanımca, edildiğince, geldiğince, ilkelerce, kanatça</em>
 
 <table>
@@ -46,9 +46,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-15253 <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Case`.
+15252 <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15170; 99%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15169; 99%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Gen` (1258; 8% of non-empty `Case`): <em>Japonya'nın, Bush'un, Journal'ın, Almanya'nın, Çin'in, ABD'nin, Co.'nun, Corp'un, Ford'un, Hazine'nin</em>
 * `Ins` (7; 0% of non-empty `Case`): <em>Toyota'yla, CFC'lerle, Doğu'yla, Ford'la, Hut'la, Rubens'le</em>
 * `Loc` (488; 3% of non-empty `Case`): <em>York'ta, ABD'de, Japonya'da, Tokyo'da, Kasım'da, Avrupa'da, Ağustos'ta, Ekim'de, Aralık'ta, Eylül'de</em>
-* `Nom` (12896; 85% of non-empty `Case`): <em>New, ABD, York, Corp., Dow, Jones, Wall, Cuma, Co., Inc.</em>
+* `Nom` (12895; 85% of non-empty `Case`): <em>New, ABD, York, Corp., Dow, Jones, Wall, Cuma, Co., Inc.</em>
 * `EMPTY` (306): <em>ABD'deki, ABD'li, Tokyo'daki, Kong'daki, York'taki, Avrupa'daki, Doları'ydı, Japonya'daki, Francisco'daki, Senato'daki</em>
 
 <table>
@@ -66,7 +66,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
   <tr><td><tt></tt></td><td><em>ABD</em></td><td><em>ABD'yi</em></td><td><em>ABD'ye</em></td><td><em>ABD'nin</em></td><td><em>ABD'de, ABD'deki</em></td><td><em>ABD'den</em></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `PROPN`. 90% lemmas (4846) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `PROPN`. 90% lemmas (4844) occur only with one value of `Case`.
 
 ### `AUX`
 
@@ -82,14 +82,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PROPN --[<tt><a href="tr_penn-dep-flat.html">flat</a></tt>]--> PROPN</tt> (3019; 88%),
+<tt>PROPN --[<tt><a href="tr_penn-dep-flat.html">flat</a></tt>]--> PROPN</tt> (3020; 88%),
 <tt>NOUN --[<tt><a href="tr_penn-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1172; 78%),
 <tt>PROPN --[<tt><a href="tr_penn-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1071; 79%),
-<tt>NOUN --[<tt><a href="tr_penn-dep-amod.html">amod</a></tt>]--> NOUN</tt> (905; 52%),
-<tt>PROPN --[<tt><a href="tr_penn-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (446; 74%),
+<tt>NOUN --[<tt><a href="tr_penn-dep-amod.html">amod</a></tt>]--> NOUN</tt> (904; 52%),
+<tt>PROPN --[<tt><a href="tr_penn-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (445; 73%),
 <tt>PROPN --[<tt><a href="tr_penn-dep-conj.html">conj</a></tt>]--> PROPN</tt> (343; 81%),
 <tt>PROPN --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> PROPN</tt> (255; 75%),
 <tt>PROPN --[<tt><a href="tr_penn-dep-flat.html">flat</a></tt>]--> NOUN</tt> (244; 84%),
 <tt>NOUN --[<tt><a href="tr_penn-dep-flat.html">flat</a></tt>]--> PROPN</tt> (208; 82%),
-<tt>NOUN --[<tt><a href="tr_penn-dep-appos.html">appos</a></tt>]--> PROPN</tt> (170; 92%).
+<tt>NOUN --[<tt><a href="tr_penn-dep-appos.html">appos</a></tt>]--> PROPN</tt> (169; 92%).
 

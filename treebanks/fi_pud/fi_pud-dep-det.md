@@ -28,7 +28,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 4	kuitenkaan	kuitenkaan	ADV	_	_	7	advmod	7:advmod	_
 5	vielä	vielä	ADV	_	_	7	advmod	7:advmod	_
 6	ole	olla	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	7:aux:pass	_
-7	vastattu	vastata	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
+7	vastattu	vastata	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 3	he	hän	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 4	molemmat	molemmat	PRON	_	Case=Nom|Number=Plur|PronType=Ind	3	det	3:det	_
 5	vaikuttavat	vaikuttaa	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-6	hallinneen	hallita	VERB	_	Case=Gen|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	xcomp	5:xcomp	_
+6	hallinneen	hallita	VERB	_	Case=Gen|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	xcomp	5:xcomp	_
 7	ainakin	ainakin	ADV	_	_	6	advmod	6:advmod	_
 8	osia	osa	NOUN	_	Case=Par|Number=Plur	6	obj	6:obj	_
 9	Ala-Egyptistä	Ala-Egypti	NOUN	_	Case=Ela|Number=Sing	8	nmod	8:nmod	SpaceAfter=No

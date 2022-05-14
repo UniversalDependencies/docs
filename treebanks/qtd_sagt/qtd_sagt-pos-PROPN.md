@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Englisch</em> (<tt><a href="qtd_sagt-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.301843 (the average of all parts of speech is 1.679170).
+The form / lemma ratio of `PROPN` is 1.301843 (the average of all parts of speech is 1.678698).
 
 The 1st highest number of forms (7) was observed with the lemma “İngilizce”: <em>İngilizce, İngilizce'de, İngilizce'yi, İngilizcelerini, İngilizcemi, İngilizcesini, İngilizceyi</em>.
 
