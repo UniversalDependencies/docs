@@ -12,7 +12,7 @@ This is an automatically generated list of features and values (both universal a
 [Abbr]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Arabic, Armenian, Belarusian, Czech, Danish, Dutch, English, Erzya, Estonian, Finnish, German, Greek, Hebrew, Indonesian, Irish, Javanese, Karelian, Kiche, Komi Zyrian, Latin, Latvian, Lithuanian, Moksha, Norwegian, Old East Slavic, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Swedish, Turkish, Ukrainian, Upper Sorbian, Welsh, Western Armenian, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Arabic, Armenian, Belarusian, Czech, Danish, Dutch, English, Erzya, Estonian, Finnish, German, Greek, Hebrew, Indonesian, Irish, Javanese, Karelian, Kiche, Komi Zyrian, Latin, Latvian, Lithuanian, Moksha, Norwegian, Old East Slavic, Polish, Pomak, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Turkish, Ukrainian, Upper Sorbian, Welsh, Western Armenian, Xibe</li>
 </ul>
 
 ## AdjType
@@ -31,9 +31,9 @@ This is an automatically generated list of features and values (both universal a
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Ambi</code>: Armenian, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Circ</code>: German</li>
-<li><code class="language-plaintext highlighter-rouge">Comadp</code>: Armenian, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Comadp</code>: Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Comprep</code>: Czech</li>
-<li><code class="language-plaintext highlighter-rouge">Post</code>: Armenian, Bhojpuri, Erzya, Estonian, Finnish, German, Hindi, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Livvi, Moksha, Polish, Skolt Sami, Tamil, Urdu, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Post</code>: Armenian, Bhojpuri, Erzya, Estonian, Finnish, German, Hindi, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Livvi, Moksha, Polish, Pomak, Skolt Sami, Tamil, Urdu, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Prep</code>: Afrikaans, Arabic, Armenian, Czech, Danish, Estonian, Finnish, Galician, German, Kurmanji, Latin, Lithuanian, Low Saxon, Polish, Romanian, Skolt Sami, Slovak, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Voc</code>: Czech, Slovak</li>
 </ul>
@@ -51,6 +51,7 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Man</code>: Erzya, Komi Permyak, Komi Zyrian, Moksha</li>
 <li><code class="language-plaintext highlighter-rouge">Mod</code>: Erzya, Upper Sorbian</li>
 <li><code class="language-plaintext highlighter-rouge">Sta</code>: Erzya</li>
+<li><code class="language-plaintext highlighter-rouge">Temp</code>: Tupinamba</li>
 <li><code class="language-plaintext highlighter-rouge">Tim</code>: Apurina, Catalan, Classical Chinese, Erzya, Komi Zyrian, Latin, Moksha, Skolt Sami, Spanish</li>
 </ul>
 
@@ -77,9 +78,9 @@ This is an automatically generated list of features and values (both universal a
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Anim</code>: Basque, Belarusian, Bulgarian, Croatian, Czech, Erzya, Hindi, Kaapor, Kiche, Komi Permyak, Old East Slavic, Russian, Serbian, Slovak, Slovenian, Tamil, Ukrainian, Upper Sorbian</li>
-<li><code class="language-plaintext highlighter-rouge">Hum</code>: Arabic, Armenian, Erzya, Kaapor, Komi Permyak, Komi Zyrian, Moksha, Norwegian, Polish, Skolt Sami, Tupinamba, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Hum</code>: Arabic, Armenian, Erzya, Kaapor, Komi Permyak, Komi Zyrian, Moksha, Norwegian, Polish, Pomak, Skolt Sami, Tupinamba, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Inan</code>: Basque, Belarusian, Croatian, Czech, Hindi, Komi Permyak, Polish, Russian, Serbian, Slovak, Slovenian, Ukrainian, Upper Sorbian</li>
-<li><code class="language-plaintext highlighter-rouge">Nhum</code>: Arabic, Armenian, Komi Permyak, Polish, Upper Sorbian, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Nhum</code>: Arabic, Armenian, Komi Permyak, Polish, Pomak, Upper Sorbian, Western Armenian</li>
 </ul>
 
 ## Animacy[gram]
@@ -91,27 +92,45 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Inan</code>: Ukrainian</li>
 </ul>
 
+## Antr
+
+[Antr]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Teko</li>
+</ul>
+
 ## Aspect
 
 [Aspect]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Aor</code>: Beja</li>
-<li><code class="language-plaintext highlighter-rouge">Compl</code>: Munduruku, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Compl</code>: Munduruku, Teko, Tupinamba</li>
 <li><code class="language-plaintext highlighter-rouge">Cons</code>: Naija</li>
+<li><code class="language-plaintext highlighter-rouge">Cont</code>: Teko</li>
 <li><code class="language-plaintext highlighter-rouge">Dec</code>: Munduruku</li>
-<li><code class="language-plaintext highlighter-rouge">Dur</code>: Armenian, Turkish, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Dur</code>: Armenian, Munduruku, Turkish, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">DurIprf</code>: Munduruku</li>
 <li><code class="language-plaintext highlighter-rouge">Frus</code>: Kaapor</li>
-<li><code class="language-plaintext highlighter-rouge">Hab</code>: Akuntsu, Breton, Buryat, Erzya, Irish, Kazakh, Lithuanian, Makurap, Marathi, Moksha, Tagalog, Turkish, Turkish German, Uyghur, Wolof, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Imp</code>: Albanian, Ancient Greek, Arabic, Armenian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Bulgarian, Buryat, Czech, Greek, Hindi, Irish, Italian, Kazakh, Kiche, Latin, Latvian, Makurap, Marathi, Munduruku, Naija, Old Church Slavonic, Old East Slavic, Polish, Russian, Slovak, Slovenian, Spanish, Tagalog, Turkish, Turkish German, Ukrainian, Urdu, Western Armenian, Wolof, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Hab</code>: Akuntsu, Breton, Buryat, Erzya, Irish, Kazakh, Lithuanian, Madi, Makurap, Marathi, Moksha, Tagalog, Turkish, Turkish German, Uyghur, Wolof, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Imp</code>: Albanian, Ancient Greek, Ancient Hebrew, Arabic, Armenian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Bulgarian, Buryat, Cebuano, Czech, Greek, Hindi, Hittite, Irish, Italian, Kazakh, Kiche, Latin, Latvian, Makurap, Marathi, Munduruku, Naija, Old Church Slavonic, Old East Slavic, Polish, Pomak, Russian, Slovak, Slovenian, Spanish, Tagalog, Turkish, Turkish German, Ukrainian, Urdu, Western Armenian, Wolof, Xibe</li>
 <li><code class="language-plaintext highlighter-rouge">Inch</code>: Erzya, Latin</li>
-<li><code class="language-plaintext highlighter-rouge">Iter</code>: Armenian, Hungarian, Karo, Tupinamba, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Perf</code>: Albanian, Ancient Greek, Arabic, Armenian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Bulgarian, Buryat, Chinese, Classical Chinese, Czech, German, Gothic, Greek, Guajajara, Hindi, Italian, Kaapor, Kazakh, Kiche, Kurmanji, Latin, Latvian, Lithuanian, Low Saxon, Makurap, Marathi, Moksha, Munduruku, Naija, North Sami, Old Church Slavonic, Old East Slavic, Polish, Russian, Sanskrit, Skolt Sami, Slovak, Slovenian, Spanish, Tagalog, Tatar, Thai, Turkish, Turkish German, Ukrainian, Urdu, Uyghur, Western Armenian, Wolof, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Iter</code>: Akuntsu, Armenian, Hungarian, Karo, Munduruku, Pomak, Tupinamba, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Lus</code>: Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Perf</code>: Albanian, Ancient Greek, Ancient Hebrew, Arabic, Armenian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Bulgarian, Buryat, Cebuano, Chinese, Classical Chinese, Czech, German, Gothic, Greek, Guajajara, Hindi, Italian, Kaapor, Kazakh, Kiche, Kurmanji, Latin, Latvian, Lithuanian, Low Saxon, Makurap, Marathi, Moksha, Munduruku, Naija, North Sami, Old Church Slavonic, Old East Slavic, Polish, Pomak, Russian, Sanskrit, Skolt Sami, Slovak, Slovenian, Spanish, Tagalog, Tatar, Thai, Turkish, Turkish German, Ukrainian, Umbrian, Urdu, Uyghur, Western Armenian, Wolof, Xibe</li>
 <li><code class="language-plaintext highlighter-rouge">Pfv</code>: Beja</li>
-<li><code class="language-plaintext highlighter-rouge">Prog</code>: Albanian, Apurina, Armenian, Bambara, Basque, Buryat, Chinese, Guajajara, Hindi, Kiche, Kurmanji, Tagalog, Tatar, Thai, Turkish, Turkish German, Western Armenian, Wolof, Xibe, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Prosp</code>: Armenian, Basque, Guajajara, Latin, Marathi, Naija, Tagalog, Turkish, Turkish German, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Prog</code>: Albanian, Apurina, Armenian, Bambara, Basque, Buryat, Chinese, Guajajara, Hebrew, Hindi, Kiche, Kurmanji, Pomak, Tagalog, Tatar, Thai, Turkish, Turkish German, Western Armenian, Wolof, Xibe, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Prosp</code>: Armenian, Basque, Cebuano, Guajajara, Latin, Marathi, Naija, Tagalog, Turkish, Turkish German, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Rapid</code>: Turkish</li>
+</ul>
+
+## Augm
+
+[Augm]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Akuntsu, Tupinamba</li>
 </ul>
 
 ## Case
@@ -119,54 +138,61 @@ This is an automatically generated list of features and values (both universal a
 [Case]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Abe</code>: Erzya, Estonian, Finnish, Karelian, Karo, Komi Zyrian, Livvi, Moksha, North Sami, Skolt Sami</li>
-<li><code class="language-plaintext highlighter-rouge">Abl</code>: Akuntsu, Albanian, Amharic, Armenian, Basque, Beja, Buryat, Erzya, Estonian, Finnish, Hindi, Hungarian, Karelian, Karo, Kazakh, Komi Zyrian, Latin, Livvi, Marathi, Moksha, Sanskrit, Tamil, Tatar, Turkish, Turkish German, Uyghur, Western Armenian, Xibe, Yakut, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Abs</code>: Basque, Hungarian, Marathi, Warlpiri, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Acc</code>: Afrikaans, Akkadian, Albanian, Ancient Greek, Arabic, Assyrian, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Croatian, Czech, Danish, Dutch, English, Faroese, Finnish, Galician, German, Gothic, Greek, Hebrew, Hindi, Hungarian, Icelandic, Italian, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Lithuanian, Livvi, Low Saxon, Marathi, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Western Armenian, Wolof, Xibe, Yakut, Yoruba</li>
+<li><code class="language-plaintext highlighter-rouge">Abe</code>: Erzya, Estonian, Finnish, Guajajara, Karelian, Karo, Komi Permyak, Komi Zyrian, Livvi, Moksha, North Sami, Skolt Sami</li>
+<li><code class="language-plaintext highlighter-rouge">Abl</code>: Akuntsu, Albanian, Amharic, Armenian, Basque, Beja, Buryat, Erzya, Estonian, Finnish, Guarani, Hindi, Hittite, Hungarian, Karelian, Karo, Kazakh, Komi Zyrian, Latin, Livvi, Marathi, Moksha, Sanskrit, Tamil, Tatar, Teko, Turkish, Turkish German, Umbrian, Uyghur, Western Armenian, Xibe, Yakut, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Abs</code>: Basque, Hittite, Hungarian, Marathi, Warlpiri, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Acc</code>: Afrikaans, Akkadian, Albanian, Ancient Greek, Arabic, Armenian, Assyrian, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Croatian, Czech, Danish, Dutch, English, Faroese, Finnish, Galician, German, Gothic, Greek, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Italian, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Lithuanian, Livvi, Low Saxon, Marathi, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Western Armenian, Wolof, Xibe, Yakut, Yoruba</li>
 <li><code class="language-plaintext highlighter-rouge">Add</code>: Estonian</li>
 <li><code class="language-plaintext highlighter-rouge">Ade</code>: Estonian, Finnish, Hungarian, Karelian, Livvi</li>
 <li><code class="language-plaintext highlighter-rouge">Adp</code>: Komi Zyrian</li>
 <li><code class="language-plaintext highlighter-rouge">Aff</code>: Kaapor</li>
-<li><code class="language-plaintext highlighter-rouge">All</code>: Akuntsu, Basque, Estonian, Finnish, Guajajara, Hungarian, Karo, Livvi, Tupinamba, Warlpiri, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">All</code>: Akuntsu, Basque, Estonian, Finnish, Guajajara, Guarani, Hittite, Hungarian, Karo, Livvi, Tupinamba, Warlpiri, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Apr</code>: Komi Permyak, Komi Zyrian</li>
 <li><code class="language-plaintext highlighter-rouge">AprIll</code>: Komi Zyrian</li>
 <li><code class="language-plaintext highlighter-rouge">Ben</code>: Amharic, Basque, Tamil</li>
-<li><code class="language-plaintext highlighter-rouge">Car</code>: Komi Permyak, Komi Zyrian</li>
 <li><code class="language-plaintext highlighter-rouge">Cau</code>: Basque, Hungarian, Moksha, Warlpiri</li>
 <li><code class="language-plaintext highlighter-rouge">Cmp</code>: Erzya, Komi Permyak, Komi Zyrian, Moksha, Xibe, Yakut</li>
 <li><code class="language-plaintext highlighter-rouge">Cns</code>: Komi Zyrian, Warlpiri</li>
 <li><code class="language-plaintext highlighter-rouge">Com</code>: Apurina, Basque, Beja, Buryat, Erzya, Estonian, Finnish, Karelian, Karo, Komi Permyak, Komi Zyrian, Livvi, Marathi, Moksha, North Sami, Skolt Sami, Spanish, Tamil, Warlpiri, Xibe</li>
 <li><code class="language-plaintext highlighter-rouge">Con</code>: Kurmanji</li>
-<li><code class="language-plaintext highlighter-rouge">Dat</code>: Akuntsu, Albanian, Ancient Greek, Apurina, Armenian, Basque, Beja, Belarusian, Bhojpuri, Bulgarian, Buryat, Catalan, Croatian, Czech, Dutch, Erzya, Faroese, Galician, German, Gothic, Greek, Guajajara, Hindi, Hungarian, Icelandic, Irish, Karo, Kazakh, Komi Permyak, Komi Zyrian, Latin, Latvian, Lithuanian, Low Saxon, Marathi, Moksha, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Tagalog, Tamil, Tatar, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Western Armenian, Xibe, Yakut</li>
+<li><code class="language-plaintext highlighter-rouge">Dat</code>: Akuntsu, Albanian, Ancient Greek, Apurina, Armenian, Basque, Beja, Belarusian, Bhojpuri, Bulgarian, Buryat, Catalan, Cebuano, Croatian, Czech, Dutch, Erzya, Faroese, Galician, German, Gothic, Greek, Guajajara, Guarani, Hindi, Hittite, Hungarian, Icelandic, Irish, Karo, Kazakh, Komi Permyak, Komi Zyrian, Latin, Latvian, Lithuanian, Low Saxon, Marathi, Moksha, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Tagalog, Tamil, Tatar, Teko, Tupinamba, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Western Armenian, Xibe, Yakut</li>
 <li><code class="language-plaintext highlighter-rouge">Del</code>: Hungarian</li>
 <li><code class="language-plaintext highlighter-rouge">Dis</code>: Beja, Hungarian</li>
 <li><code class="language-plaintext highlighter-rouge">Disp</code>: Karo</li>
+<li><code class="language-plaintext highlighter-rouge">Dub</code>: Teko</li>
 <li><code class="language-plaintext highlighter-rouge">Egr</code>: Komi Permyak, Komi Zyrian</li>
 <li><code class="language-plaintext highlighter-rouge">Ela</code>: Erzya, Estonian, Finnish, Hungarian, Karelian, Komi Permyak, Komi Zyrian, Livvi, Moksha, Warlpiri</li>
-<li><code class="language-plaintext highlighter-rouge">Equ</code>: Tatar, Turkish, Turkish German, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Equ</code>: Guajajara, Tatar, Turkish, Turkish German, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Erg</code>: Basque, Bhojpuri, Hindi, Marathi, Urdu, Warlpiri, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Ess</code>: Basque, Estonian, Finnish, Hungarian, Karelian, Livvi, North Sami, Skolt Sami</li>
-<li><code class="language-plaintext highlighter-rouge">Gen</code>: Akkadian, Albanian, Ancient Greek, Arabic, Armenian, Basque, Beja, Belarusian, Bengali, Bhojpuri, Buryat, Catalan, Chinese, Croatian, Czech, Danish, Dutch, Erzya, Estonian, Faroese, Finnish, German, Gothic, Greek, Hebrew, Hindi, Hungarian, Icelandic, Irish, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Latvian, Lithuanian, Livvi, Low Saxon, Makurap, Manx, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Swedish, Tagalog, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Western Armenian, Wolof, Xibe, Yoruba, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Gen</code>: Akkadian, Albanian, Ancient Greek, Arabic, Armenian, Basque, Beja, Belarusian, Bengali, Bhojpuri, Buryat, Catalan, Cebuano, Chinese, Croatian, Czech, Danish, Dutch, Erzya, Estonian, Faroese, Finnish, German, Gothic, Greek, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Irish, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Latvian, Lithuanian, Livvi, Low Saxon, Makurap, Manx, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Pomak, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Swedish, Tagalog, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Western Armenian, Wolof, Xibe, Yoruba, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Ill</code>: Erzya, Estonian, Finnish, Hungarian, Karelian, Komi Permyak, Komi Zyrian, Lithuanian, Livvi, Moksha, North Sami, Skolt Sami</li>
-<li><code class="language-plaintext highlighter-rouge">Ine</code>: Basque, Erzya, Estonian, Finnish, Hindi, Hungarian, Karelian, Komi Permyak, Komi Zyrian, Livvi, Moksha</li>
-<li><code class="language-plaintext highlighter-rouge">Ines</code>: Karo</li>
-<li><code class="language-plaintext highlighter-rouge">Ins</code>: Amharic, Armenian, Basque, Belarusian, Croatian, Czech, Finnish, Hindi, Hungarian, Karelian, Karo, Kazakh, Komi Permyak, Komi Zyrian, Lithuanian, Livvi, Marathi, Old Church Slavonic, Old East Slavic, Polish, Russian, Sanskrit, Serbian, Slovak, Slovenian, Tamil, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Warlpiri, Western Armenian, Xibe, Yakut</li>
-<li><code class="language-plaintext highlighter-rouge">Lat</code>: Basque, Erzya, Finnish, Moksha, Xibe</li>
-<li><code class="language-plaintext highlighter-rouge">Loc</code>: Akkadian, Akuntsu, Amharic, Ancient Greek, Apurina, Armenian, Basque, Beja, Belarusian, Bengali, Catalan, Classical Chinese, Croatian, Czech, Erzya, Guajajara, Hindi, Hungarian, Karo, Kazakh, Khunsari, Komi Zyrian, Latin, Latvian, Lithuanian, Marathi, Moksha, Nayini, North Sami, Old Church Slavonic, Old East Slavic, Persian, Polish, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Tamil, Tatar, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Uyghur, Warlpiri, Western Armenian, Xibe, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Ine</code>: Basque, Erzya, Estonian, Finnish, Hindi, Hungarian, Karelian, Karo, Komi Permyak, Komi Zyrian, Livvi, Moksha</li>
+<li><code class="language-plaintext highlighter-rouge">Ins</code>: Amharic, Armenian, Basque, Belarusian, Croatian, Czech, Finnish, Hindi, Hittite, Hungarian, Karelian, Karo, Kazakh, Komi Permyak, Komi Zyrian, Lithuanian, Livvi, Marathi, Munduruku, Old Church Slavonic, Old East Slavic, Polish, Russian, Sanskrit, Serbian, Slovak, Slovenian, Tamil, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Warlpiri, Western Armenian, Xibe, Yakut</li>
+<li><code class="language-plaintext highlighter-rouge">Lat</code>: Basque, Erzya, Finnish, Moksha, Teko, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Loc</code>: Akkadian, Akuntsu, Amharic, Ancient Greek, Apurina, Armenian, Basque, Beja, Belarusian, Bengali, Catalan, Classical Chinese, Croatian, Czech, Erzya, Guajajara, Guarani, Hindi, Hungarian, Karo, Kazakh, Khunsari, Komi Zyrian, Latin, Latvian, Lithuanian, Marathi, Moksha, Nayini, North Sami, Old Church Slavonic, Old East Slavic, Persian, Polish, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Tamil, Tatar, Teko, Tupinamba, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Uyghur, Warlpiri, Western Armenian, Xibe, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Mal</code>: Amharic</li>
-<li><code class="language-plaintext highlighter-rouge">Nom</code>: Afrikaans, Akkadian, Albanian, Ancient Greek, Apurina, Arabic, Armenian, Assyrian, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, Galician, German, Gothic, Greek, Hindi, Hungarian, Icelandic, Irish, Italian, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Lithuanian, Livvi, Low Saxon, Marathi, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Western Armenian, Wolof, Yakut, Yoruba</li>
+<li><code class="language-plaintext highlighter-rouge">Nom</code>: Afrikaans, Akkadian, Albanian, Ancient Greek, Apurina, Arabic, Armenian, Assyrian, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, Galician, German, Gothic, Greek, Hindi, Hittite, Hungarian, Icelandic, Irish, Italian, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Lithuanian, Livvi, Low Saxon, Marathi, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Western Armenian, Wolof, Yakut, Yoruba</li>
 <li><code class="language-plaintext highlighter-rouge">Par</code>: Basque, Estonian, Finnish, Karelian, Livvi, Russian, Skolt Sami, Yakut</li>
 <li><code class="language-plaintext highlighter-rouge">Per</code>: Tupinamba, Warlpiri, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Prl</code>: Erzya, Komi Permyak, Komi Zyrian, Moksha</li>
 <li><code class="language-plaintext highlighter-rouge">Prp</code>: Komi Zyrian</li>
-<li><code class="language-plaintext highlighter-rouge">Ref</code>: Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Ref</code>: Guajajara, Guarani, Teko, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Sbl</code>: Hungarian</li>
 <li><code class="language-plaintext highlighter-rouge">Sim</code>: Karo</li>
-<li><code class="language-plaintext highlighter-rouge">Sub</code>: Hungarian</li>
 <li><code class="language-plaintext highlighter-rouge">Sup</code>: Hungarian</li>
 <li><code class="language-plaintext highlighter-rouge">Tem</code>: Apurina, Classical Chinese, Erzya, Guajajara, Hebrew, Hungarian, Khunsari, Moksha, Nayini, Persian, Soi</li>
 <li><code class="language-plaintext highlighter-rouge">Ter</code>: Estonian, Hungarian, Komi Zyrian, Livvi</li>
 <li><code class="language-plaintext highlighter-rouge">Tra</code>: Akuntsu, Erzya, Estonian, Finnish, Guajajara, Hungarian, Karelian, Komi Zyrian, Livvi, Moksha, Tupinamba</li>
-<li><code class="language-plaintext highlighter-rouge">Voc</code>: Ancient Greek, Beja, Belarusian, Bulgarian, Croatian, Czech, Gothic, Greek, Irish, Kurmanji, Latin, Latvian, Lithuanian, Marathi, Old Church Slavonic, Old East Slavic, Persian, Polish, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Tupinamba, Ukrainian, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Voc</code>: Ancient Greek, Belarusian, Bulgarian, Croatian, Czech, Gothic, Greek, Hittite, Irish, Kurmanji, Latin, Latvian, Lithuanian, Marathi, Old Church Slavonic, Old East Slavic, Persian, Polish, Pomak, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Tupinamba, Ukrainian, Yupik</li>
+</ul>
+
+## Cfm
+
+[Cfm]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Morning</code>: Madi</li>
 </ul>
 
 ## Clas
@@ -226,7 +252,7 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">S</code>: Finnish</li>
 <li><code class="language-plaintext highlighter-rouge">So</code>: Komi Zyrian</li>
 <li><code class="language-plaintext highlighter-rouge">To</code>: Komi Zyrian</li>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Galician, Italian, Kiche, Latin, Polish, Warlpiri</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Galician, Italian, Kiche, Latin, Old East Slavic, Polish, Warlpiri</li>
 </ul>
 
 ## Clusivity
@@ -234,8 +260,8 @@ This is an automatically generated list of features and values (both universal a
 [Clusivity]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Ex</code>: Indonesian, Karo, Mbya Guarani, Munduruku, Tupinamba, Xibe</li>
-<li><code class="language-plaintext highlighter-rouge">In</code>: Akuntsu, Guajajara, Indonesian, Karo, Marathi, Mbya Guarani, Tagalog, Tupinamba, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Ex</code>: Cebuano, Guajajara, Guarani, Indonesian, Karo, Madi, Mbya Guarani, Munduruku, Teko, Tupinamba, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">In</code>: Akuntsu, Cebuano, Guajajara, Guarani, Indonesian, Karo, Madi, Marathi, Mbya Guarani, Tagalog, Teko, Tupinamba, Xibe</li>
 </ul>
 
 ## Clusivity[obj]
@@ -273,6 +299,14 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Yes</code>: Latin, Romanian, Sanskrit</li>
 </ul>
 
+## Comt
+
+[Comt]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Madi</li>
+</ul>
+
 ## ConjType
 
 [ConjType]()
@@ -294,12 +328,28 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Yes</code>: Armenian, Erzya, Estonian, Finnish, Karelian, Komi Permyak, Komi Zyrian, Livvi, Moksha, North Sami, Skolt Sami, Western Armenian</li>
 </ul>
 
+## Contrast
+
+[Contrast]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Teko</li>
+</ul>
+
+## Contv
+
+[Contv]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Munduruku</li>
+</ul>
+
 ## Corf
 
 [Corf]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Karo</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Guarani, Karo, Teko, Tupinamba</li>
 </ul>
 
 ## Decl
@@ -309,6 +359,7 @@ This is an automatically generated list of features and values (both universal a
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Assert</code>: Karo</li>
 <li><code class="language-plaintext highlighter-rouge">AssertFoc</code>: Karo</li>
+<li><code class="language-plaintext highlighter-rouge">F</code>: Madi</li>
 </ul>
 
 ## Definite
@@ -318,10 +369,18 @@ This is an automatically generated list of features and values (both universal a
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">2</code>: Hungarian</li>
 <li><code class="language-plaintext highlighter-rouge">Com</code>: Arabic</li>
-<li><code class="language-plaintext highlighter-rouge">Cons</code>: Arabic, Hebrew</li>
-<li><code class="language-plaintext highlighter-rouge">Def</code>: Afrikaans, Albanian, Ancient Greek, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Bulgarian, Catalan, Coptic, Croatian, Danish, Dutch, English, Erzya, Faroese, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kiche, Kurmanji, Latvian, Ligurian, Lithuanian, Low Saxon, Manx, Moksha, Naija, Norwegian, Old French, Portuguese, Romanian, Scottish Gaelic, Serbian, Slovenian, Spanish, Swedish, Turkish, Turkish German, Western Armenian, Wolof, Yakut</li>
-<li><code class="language-plaintext highlighter-rouge">Ind</code>: Afrikaans, Albanian, Arabic, Armenian, Assyrian, Basque, Beja, Bengali, Bulgarian, Catalan, Coptic, Croatian, Danish, Dutch, English, Erzya, Faroese, French, Galician, German, Greek, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kiche, Komi Permyak, Komi Zyrian, Latvian, Ligurian, Lithuanian, Low Saxon, Moksha, Naija, Norwegian, Old French, Portuguese, Romanian, Serbian, Slovenian, Spanish, Swedish, Turkish, Turkish German, Western Armenian, Wolof, Yakut</li>
+<li><code class="language-plaintext highlighter-rouge">Cons</code>: Arabic, Hebrew, Hittite</li>
+<li><code class="language-plaintext highlighter-rouge">Def</code>: Afrikaans, Albanian, Ancient Greek, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Bulgarian, Catalan, Coptic, Croatian, Danish, Dutch, English, Erzya, Faroese, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kiche, Kurmanji, Latvian, Ligurian, Lithuanian, Low Saxon, Manx, Moksha, Naija, Norwegian, Old French, Pomak, Portuguese, Romanian, Scottish Gaelic, Serbian, Slovenian, Spanish, Swedish, Turkish, Turkish German, Western Armenian, Wolof, Yakut</li>
+<li><code class="language-plaintext highlighter-rouge">Ind</code>: Afrikaans, Albanian, Arabic, Armenian, Assyrian, Basque, Beja, Bengali, Bulgarian, Catalan, Coptic, Croatian, Danish, Dutch, English, Erzya, Faroese, French, Galician, German, Greek, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kiche, Komi Permyak, Komi Zyrian, Latvian, Ligurian, Lithuanian, Low Saxon, Moksha, Naija, Norwegian, Old French, Pomak, Portuguese, Romanian, Serbian, Slovenian, Spanish, Swedish, Turkish, Turkish German, Western Armenian, Wolof, Yakut</li>
 <li><code class="language-plaintext highlighter-rouge">Spec</code>: Naija</li>
+</ul>
+
+## Definitizer
+
+[Definitizer]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Cebuano</li>
 </ul>
 
 ## Degree
@@ -329,13 +388,22 @@ This is an automatically generated list of features and values (both universal a
 [Degree]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Abs</code>: Basque, Danish, Italian, Latin, Ligurian, Portuguese, Spanish, Ukrainian, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Cmp</code>: Afrikaans, Ancient Greek, Armenian, Basque, Belarusian, Breton, Bulgarian, Catalan, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, Galician, German, Gothic, Greek, Hungarian, Icelandic, Irish, Italian, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Manx, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tatar, Turkish, Ukrainian, Upper Sorbian, Welsh, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Abs</code>: Armenian, Basque, Danish, Italian, Latin, Ligurian, Portuguese, Spanish, Ukrainian, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Cmp</code>: Afrikaans, Ancient Greek, Armenian, Basque, Belarusian, Breton, Bulgarian, Catalan, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, Galician, German, Gothic, Greek, Hungarian, Icelandic, Irish, Italian, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Manx, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tatar, Teko, Turkish, Ukrainian, Upper Sorbian, Welsh, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Dim</code>: Afrikaans</li>
 <li><code class="language-plaintext highlighter-rouge">Equ</code>: Classical Chinese, Sanskrit, Welsh</li>
 <li><code class="language-plaintext highlighter-rouge">Ints</code>: Kiche</li>
-<li><code class="language-plaintext highlighter-rouge">Pos</code>: Afrikaans, Ancient Greek, Armenian, Belarusian, Bengali, Bulgarian, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Faroese, Finnish, German, Gothic, Hungarian, Icelandic, Irish, Khunsari, Kurmanji, Latin, Latvian, Lithuanian, Livvi, Low Saxon, Nayini, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Romanian, Russian, Serbian, Slovak, Slovenian, Swedish, Tagalog, Ukrainian, Upper Sorbian, Welsh, Western Armenian, Xibe</li>
-<li><code class="language-plaintext highlighter-rouge">Sup</code>: Afrikaans, Ancient Greek, Armenian, Basque, Belarusian, Breton, Bulgarian, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, Galician, German, Gothic, Greek, Hungarian, Icelandic, Indonesian, Irish, Italian, Karelian, Komi Zyrian, Kurmanji, Latin, Latvian, Lithuanian, Low Saxon, Manx, Naija, North Sami, Norwegian, Old East Slavic, Persian, Polish, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Turkish, Ukrainian, Upper Sorbian, Welsh, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Pos</code>: Afrikaans, Ancient Greek, Armenian, Belarusian, Bengali, Bulgarian, Cebuano, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Faroese, Finnish, German, Gothic, Hungarian, Icelandic, Irish, Khunsari, Kurmanji, Latin, Latvian, Lithuanian, Livvi, Low Saxon, Nayini, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Romanian, Russian, Serbian, Slovak, Slovenian, Swedish, Tagalog, Ukrainian, Upper Sorbian, Welsh, Western Armenian, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Sup</code>: Afrikaans, Ancient Greek, Armenian, Basque, Belarusian, Breton, Bulgarian, Cebuano, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, Galician, German, Gothic, Greek, Hungarian, Icelandic, Indonesian, Irish, Italian, Karelian, Komi Zyrian, Kurmanji, Latin, Latvian, Lithuanian, Low Saxon, Manx, Naija, North Sami, Norwegian, Old East Slavic, Persian, Polish, Pomak, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Teko, Turkish, Ukrainian, Upper Sorbian, Welsh, Western Armenian</li>
+</ul>
+
+## DegreeModQpm
+
+[DegreeModQpm]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Dim</code>: Pomak</li>
+<li><code class="language-plaintext highlighter-rouge">Mag</code>: Pomak</li>
 </ul>
 
 ## Deixis
@@ -344,9 +412,9 @@ This is an automatically generated list of features and values (both universal a
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Dist</code>: Akuntsu</li>
-<li><code class="language-plaintext highlighter-rouge">Med</code>: Armenian, Tagalog, Western Armenian, Wolof</li>
-<li><code class="language-plaintext highlighter-rouge">Prox</code>: Akuntsu, Armenian, Beja, Makurap, Marathi, Tagalog, Western Armenian, Wolof</li>
-<li><code class="language-plaintext highlighter-rouge">Remt</code>: Armenian, Beja, Marathi, Tagalog, Western Armenian, Wolof</li>
+<li><code class="language-plaintext highlighter-rouge">Med</code>: Armenian, Cebuano, Tagalog, Western Armenian, Wolof</li>
+<li><code class="language-plaintext highlighter-rouge">Prox</code>: Akuntsu, Armenian, Beja, Cebuano, Makurap, Marathi, Pomak, Tagalog, Western Armenian, Wolof</li>
+<li><code class="language-plaintext highlighter-rouge">Remt</code>: Armenian, Beja, Cebuano, Marathi, Pomak, Tagalog, Western Armenian, Wolof</li>
 </ul>
 
 ## DeixisRef
@@ -354,8 +422,8 @@ This is an automatically generated list of features and values (both universal a
 [DeixisRef]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">1</code>: Wolof</li>
-<li><code class="language-plaintext highlighter-rouge">2</code>: Wolof</li>
+<li><code class="language-plaintext highlighter-rouge">1</code>: Pomak, Wolof</li>
+<li><code class="language-plaintext highlighter-rouge">2</code>: Pomak, Wolof</li>
 </ul>
 
 ## Deixis[psor]
@@ -364,6 +432,22 @@ This is an automatically generated list of features and values (both universal a
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Prox</code>: Armenian, Western Armenian</li>
+</ul>
+
+## Delib
+
+[Delib]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Tupinamba</li>
+</ul>
+
+## Deo
+
+[Deo]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Guajajara</li>
 </ul>
 
 ## Derivation
@@ -419,7 +503,7 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Ton</code>: Finnish</li>
 <li><code class="language-plaintext highlighter-rouge">Ttain</code>: Finnish</li>
 <li><code class="language-plaintext highlighter-rouge">U</code>: Finnish</li>
-<li><code class="language-plaintext highlighter-rouge">VCar</code>: Komi Permyak, Komi Zyrian</li>
+<li><code class="language-plaintext highlighter-rouge">VAbe</code>: Komi Permyak, Komi Zyrian</li>
 <li><code class="language-plaintext highlighter-rouge">VGen</code>: Erzya</li>
 <li><code class="language-plaintext highlighter-rouge">VSj</code>: Erzya</li>
 <li><code class="language-plaintext highlighter-rouge">VTer</code>: Komi Zyrian</li>
@@ -429,6 +513,14 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">VocKaj</code>: Erzya</li>
 <li><code class="language-plaintext highlighter-rouge">Vs</code>: Finnish</li>
 <li><code class="language-plaintext highlighter-rouge">Wife</code>: Moksha</li>
+</ul>
+
+## Determ
+
+[Determ]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Akuntsu</li>
 </ul>
 
 ## Detrans
@@ -444,7 +536,7 @@ This is an automatically generated list of features and values (both universal a
 [Dev]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Pass</code>: Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Pass</code>: Guarani</li>
 </ul>
 
 ## Dialect
@@ -465,6 +557,14 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Yes</code>: Guajajara</li>
 </ul>
 
+## Dist
+
+[Dist]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Madi</li>
+</ul>
+
 ## Echo
 
 [Echo]()
@@ -479,7 +579,7 @@ This is an automatically generated list of features and values (both universal a
 [Emph]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Guajajara, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Guajajara, Guarani, Teko, Tupinamba</li>
 </ul>
 
 ## Emphatic
@@ -495,8 +595,16 @@ This is an automatically generated list of features and values (both universal a
 [Evident]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Fh</code>: Buryat, Guajajara, Karo, Kazakh, Latvian, Makurap, Turkish, Turkish German</li>
-<li><code class="language-plaintext highlighter-rouge">Nfh</code>: Erzya, Guajajara, Karo, Komi Permyak, Komi Zyrian, Kurmanji, Latvian, Makurap, Munduruku, Turkish, Turkish German</li>
+<li><code class="language-plaintext highlighter-rouge">Fh</code>: Buryat, Guajajara, Karo, Kazakh, Latvian, Madi, Makurap, Tupinamba, Turkish, Turkish German</li>
+<li><code class="language-plaintext highlighter-rouge">Nfh</code>: Erzya, Guajajara, Guarani, Karo, Komi Permyak, Komi Zyrian, Kurmanji, Latvian, Madi, Makurap, Munduruku, Turkish, Turkish German</li>
+</ul>
+
+## Excl
+
+[Excl]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Teko</li>
 </ul>
 
 ## ExtPos
@@ -515,6 +623,14 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">PRON</code>: English</li>
 <li><code class="language-plaintext highlighter-rouge">PROPN</code>: Portuguese</li>
 <li><code class="language-plaintext highlighter-rouge">SCONJ</code>: English, Portuguese</li>
+</ul>
+
+## Foc
+
+[Foc]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Akuntsu, Guajajara, Teko, Tupinamba</li>
 </ul>
 
 ## Focus
@@ -540,7 +656,7 @@ This is an automatically generated list of features and values (both universal a
 [Foreign]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Arabic, Armenian, Beja, Belarusian, Bhojpuri, Bulgarian, Catalan, Chinese, Coptic, Croatian, Czech, Danish, English, Estonian, Faroese, Finnish, French, Galician, German, Greek, Guajajara, Hindi, Icelandic, Indonesian, Irish, Italian, Japanese, Javanese, Kiche, Latin, Latvian, Ligurian, Lithuanian, Low Saxon, Old East Slavic, Old French, Polish, Portuguese, Romanian, Russian, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tatar, Turkish, Turkish German, Ukrainian, Urdu, Welsh, Western Armenian, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Arabic, Armenian, Beja, Belarusian, Bhojpuri, Bulgarian, Catalan, Cebuano, Chinese, Coptic, Croatian, Czech, Danish, English, Estonian, Faroese, Finnish, French, Galician, German, Greek, Guajajara, Hebrew, Hindi, Icelandic, Indonesian, Irish, Italian, Japanese, Javanese, Kiche, Latin, Latvian, Ligurian, Lithuanian, Low Saxon, Old East Slavic, Old French, Polish, Pomak, Portuguese, Romanian, Russian, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tatar, Tupinamba, Turkish, Turkish German, Ukrainian, Urdu, Welsh, Western Armenian, Xibe</li>
 </ul>
 
 ## Form
@@ -565,10 +681,10 @@ This is an automatically generated list of features and values (both universal a
 [Gender]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Com</code>: Akkadian, Amharic, Danish, Dutch, Galician, Lithuanian, Swedish, Tamil</li>
-<li><code class="language-plaintext highlighter-rouge">Fem</code>: Akkadian, Albanian, Amharic, Ancient Greek, Apurina, Arabic, Assyrian, Basque, Beja, Belarusian, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Coptic, Croatian, Czech, English, Erzya, Faroese, French, Galician, German, Gothic, Greek, Hebrew, Hindi, Icelandic, Irish, Italian, Kazakh, Kiche, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Low Saxon, Manx, Marathi, Moksha, Naija, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Welsh, Wolof</li>
-<li><code class="language-plaintext highlighter-rouge">Masc</code>: Akkadian, Albanian, Amharic, Ancient Greek, Apurina, Arabic, Assyrian, Basque, Beja, Belarusian, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Coptic, Croatian, Czech, English, Faroese, French, Galician, German, Gothic, Greek, Hebrew, Hindi, Icelandic, Irish, Italian, Kazakh, Kiche, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Low Saxon, Manx, Marathi, Moksha, Naija, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Welsh, Wolof</li>
-<li><code class="language-plaintext highlighter-rouge">Neut</code>: Amharic, Ancient Greek, Belarusian, Bulgarian, Catalan, Croatian, Czech, Danish, Dutch, English, Faroese, Galician, German, Gothic, Greek, Icelandic, Latin, Lithuanian, Low Saxon, Marathi, Naija, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Russian, Sanskrit, Serbian, Slovak, Slovenian, Swedish, Tamil, Turkish German, Ukrainian, Upper Sorbian</li>
+<li><code class="language-plaintext highlighter-rouge">Com</code>: Akkadian, Amharic, Danish, Dutch, Galician, Hittite, Lithuanian, Swedish, Tamil</li>
+<li><code class="language-plaintext highlighter-rouge">Fem</code>: Akkadian, Albanian, Amharic, Ancient Greek, Ancient Hebrew, Apurina, Arabic, Assyrian, Basque, Beja, Belarusian, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Coptic, Croatian, Czech, English, Erzya, Faroese, French, Galician, German, Gothic, Greek, Hebrew, Hindi, Hittite, Icelandic, Irish, Italian, Kazakh, Kiche, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Low Saxon, Madi, Manx, Marathi, Moksha, Naija, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Welsh, Wolof</li>
+<li><code class="language-plaintext highlighter-rouge">Masc</code>: Akkadian, Albanian, Amharic, Ancient Greek, Ancient Hebrew, Apurina, Arabic, Assyrian, Basque, Beja, Belarusian, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Coptic, Croatian, Czech, English, Erzya, Faroese, French, Galician, German, Gothic, Greek, Hebrew, Hindi, Hittite, Icelandic, Irish, Italian, Kazakh, Kiche, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Low Saxon, Madi, Manx, Marathi, Moksha, Naija, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Welsh, Wolof</li>
+<li><code class="language-plaintext highlighter-rouge">Neut</code>: Amharic, Ancient Greek, Belarusian, Bulgarian, Catalan, Croatian, Czech, Danish, Dutch, English, Faroese, Galician, German, Gothic, Greek, Hittite, Icelandic, Latin, Lithuanian, Low Saxon, Marathi, Naija, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Pomak, Russian, Sanskrit, Serbian, Slovak, Slovenian, Swedish, Tamil, Turkish German, Ukrainian, Umbrian, Upper Sorbian</li>
 </ul>
 
 ## Gender[dat]
@@ -620,13 +736,14 @@ This is an automatically generated list of features and values (both universal a
 [HebBinyan]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">HIFIL</code>: Hebrew</li>
-<li><code class="language-plaintext highlighter-rouge">HITPAEL</code>: Hebrew</li>
+<li><code class="language-plaintext highlighter-rouge">HIFIL</code>: Ancient Hebrew, Hebrew</li>
+<li><code class="language-plaintext highlighter-rouge">HITPAEL</code>: Ancient Hebrew, Hebrew</li>
 <li><code class="language-plaintext highlighter-rouge">HUFAL</code>: Hebrew</li>
-<li><code class="language-plaintext highlighter-rouge">NIFAL</code>: Hebrew</li>
-<li><code class="language-plaintext highlighter-rouge">PAAL</code>: Hebrew</li>
-<li><code class="language-plaintext highlighter-rouge">PIEL</code>: Hebrew</li>
-<li><code class="language-plaintext highlighter-rouge">PUAL</code>: Hebrew</li>
+<li><code class="language-plaintext highlighter-rouge">NIFAL</code>: Ancient Hebrew, Hebrew</li>
+<li><code class="language-plaintext highlighter-rouge">NITPAEL</code>: Hebrew</li>
+<li><code class="language-plaintext highlighter-rouge">PAAL</code>: Ancient Hebrew, Hebrew</li>
+<li><code class="language-plaintext highlighter-rouge">PIEL</code>: Ancient Hebrew, Hebrew</li>
+<li><code class="language-plaintext highlighter-rouge">PUAL</code>: Ancient Hebrew, Hebrew</li>
 </ul>
 
 ## HebExistential
@@ -637,12 +754,28 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Yes</code>: Hebrew</li>
 </ul>
 
+## Hum
+
+[Hum]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Tupinamba</li>
+</ul>
+
 ## Hyph
 
 [Hyph]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Armenian, Czech, Estonian, German, Lithuanian, Polish, Slovak, Ukrainian, Upper Sorbian, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Armenian, Czech, Estonian, German, Lithuanian, Polish, Slovak, Spanish, Ukrainian, Upper Sorbian, Western Armenian</li>
+</ul>
+
+## Imprs
+
+[Imprs]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Teko</li>
 </ul>
 
 ## Incorp
@@ -670,7 +803,7 @@ This is an automatically generated list of features and values (both universal a
 [InflClass]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Ind</code>: Latin</li>
+<li><code class="language-plaintext highlighter-rouge">Ind</code>: Belarusian, Latin</li>
 <li><code class="language-plaintext highlighter-rouge">IndEurA</code>: Latin</li>
 <li><code class="language-plaintext highlighter-rouge">IndEurE</code>: Latin</li>
 <li><code class="language-plaintext highlighter-rouge">IndEurI</code>: Latin</li>
@@ -704,7 +837,7 @@ This is an automatically generated list of features and values (both universal a
 [Int]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Karo, Tupinamba, Yakut</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Guajajara, Guarani, Karo, Tupinamba, Yakut</li>
 </ul>
 
 ## Intens
@@ -712,7 +845,7 @@ This is an automatically generated list of features and values (both universal a
 [Intens]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Guarani, Teko, Tupinamba</li>
 </ul>
 
 ## Intense
@@ -723,12 +856,29 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Yes</code>: Kaapor</li>
 </ul>
 
+## Intension
+
+[Intension]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Madi</li>
+</ul>
+
 ## LangId
 
 [LangId]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Hy</code>: Western Armenian</li>
+</ul>
+
+## Language
+
+[Language]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Akk</code>: Hittite</li>
+<li><code class="language-plaintext highlighter-rouge">Sum</code>: Hittite</li>
 </ul>
 
 ## Link
@@ -753,33 +903,35 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">CndPot</code>: Turkish</li>
 <li><code class="language-plaintext highlighter-rouge">CndSub</code>: Erzya, Moksha</li>
 <li><code class="language-plaintext highlighter-rouge">Ctm</code>: Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Des</code>: Buryat, Classical Chinese, Erzya, Kazakh, Marathi, Mbya Guarani, Moksha, Turkish, Turkish German</li>
+<li><code class="language-plaintext highlighter-rouge">Des</code>: Buryat, Classical Chinese, Erzya, Guajajara, Kazakh, Marathi, Mbya Guarani, Moksha, Teko, Turkish, Turkish German</li>
 <li><code class="language-plaintext highlighter-rouge">DesPot</code>: Turkish</li>
 <li><code class="language-plaintext highlighter-rouge">Gen</code>: Turkish, Turkish German</li>
 <li><code class="language-plaintext highlighter-rouge">GenNec</code>: Turkish</li>
 <li><code class="language-plaintext highlighter-rouge">GenNecPot</code>: Turkish</li>
 <li><code class="language-plaintext highlighter-rouge">GenPot</code>: Turkish, Turkish German</li>
 <li><code class="language-plaintext highlighter-rouge">GenPotPot</code>: Turkish</li>
-<li><code class="language-plaintext highlighter-rouge">Imp</code>: Akkadian, Ancient Greek, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Belarusian, Bengali, Bulgarian, Buryat, Catalan, Croatian, Czech, Danish, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Karelian, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Thai, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Welsh, Western Armenian, Wolof, Xibe, Yakut</li>
-<li><code class="language-plaintext highlighter-rouge">Ind</code>: Akkadian, Akuntsu, Albanian, Ancient Greek, Arabic, Armenian, Assyrian, Basque, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Croatian, Czech, Danish, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Manx, Marathi, Mbya Guarani, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Imp</code>: Akkadian, Ancient Greek, Ancient Hebrew, Arabic, Armenian, Assyrian, Bambara, Basque, Belarusian, Bengali, Bulgarian, Buryat, Catalan, Cebuano, Croatian, Czech, Danish, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Karelian, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Thai, Tupinamba, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Welsh, Western Armenian, Wolof, Xibe, Yakut</li>
+<li><code class="language-plaintext highlighter-rouge">Ind</code>: Akkadian, Akuntsu, Albanian, Ancient Greek, Ancient Hebrew, Arabic, Armenian, Assyrian, Basque, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Croatian, Czech, Danish, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Manx, Marathi, Mbya Guarani, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Int</code>: Irish, Scottish Gaelic, Uyghur, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Irr</code>: Kiche, Tatar</li>
 <li><code class="language-plaintext highlighter-rouge">Jus</code>: Amharic, Arabic, Sanskrit</li>
 <li><code class="language-plaintext highlighter-rouge">Nec</code>: Armenian, Classical Chinese, Erzya, Latvian, Lithuanian, Naija, Turkish, Turkish German, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">NecPot</code>: Turkish</li>
 <li><code class="language-plaintext highlighter-rouge">NegCndSub</code>: Moksha</li>
-<li><code class="language-plaintext highlighter-rouge">Opt</code>: Ancient Greek, Beja, Breton, Erzya, Finnish, Gothic, Hindi, Karo, Kazakh, Kurmanji, Moksha, Naija, Sanskrit, Tamil, Turkish, Turkish German, Wolof, Xibe, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Perm</code>: Tupinamba</li>
-<li><code class="language-plaintext highlighter-rouge">Pot</code>: Basque, Classical Chinese, Finnish, Hungarian, Kazakh, Livvi, Naija, North Sami, Skolt Sami, Tagalog, Turkish, Turkish German</li>
+<li><code class="language-plaintext highlighter-rouge">Opt</code>: Ancient Greek, Beja, Breton, Erzya, Finnish, Gothic, Hindi, Karo, Kazakh, Kurmanji, Moksha, Naija, Sanskrit, Tamil, Tupinamba, Turkish, Turkish German, Wolof, Xibe, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Per</code>: Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Perm</code>: Guarani</li>
+<li><code class="language-plaintext highlighter-rouge">Pot</code>: Basque, Cebuano, Classical Chinese, Finnish, Hungarian, Kazakh, Livvi, Naija, North Sami, Skolt Sami, Tagalog, Turkish, Turkish German</li>
 <li><code class="language-plaintext highlighter-rouge">PotPot</code>: Turkish</li>
 <li><code class="language-plaintext highlighter-rouge">Prc</code>: Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Prec</code>: Akkadian, Erzya, Moksha</li>
 <li><code class="language-plaintext highlighter-rouge">Proh</code>: Akkadian, Erzya</li>
+<li><code class="language-plaintext highlighter-rouge">Prp</code>: Guajajara</li>
 <li><code class="language-plaintext highlighter-rouge">Prs</code>: Turkish, Turkish German</li>
 <li><code class="language-plaintext highlighter-rouge">Ptc</code>: Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Qot</code>: Estonian, Latvian</li>
 <li><code class="language-plaintext highlighter-rouge">Sbr</code>: Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Sub</code>: Albanian, Ancient Greek, Arabic, Armenian, Bambara, Basque, Bhojpuri, Catalan, English, Erzya, Faroese, French, Galician, German, Hindi, Icelandic, Irish, Italian, Khunsari, Kurmanji, Latin, Ligurian, Low Saxon, Marathi, Moksha, Nayini, Old Church Slavonic, Persian, Portuguese, Romanian, Sanskrit, Spanish, Swedish, Tupinamba, Turkish German, Urdu, Welsh, Western Armenian, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Sub</code>: Albanian, Ancient Greek, Arabic, Armenian, Bambara, Basque, Bhojpuri, Catalan, English, Erzya, Faroese, French, Galician, German, Hindi, Icelandic, Irish, Italian, Khunsari, Kurmanji, Latin, Ligurian, Low Saxon, Marathi, Moksha, Nayini, Old Church Slavonic, Persian, Portuguese, Romanian, Sanskrit, Spanish, Swedish, Teko, Tupinamba, Turkish German, Umbrian, Urdu, Welsh, Western Armenian, Xibe</li>
 </ul>
 
 ## Morph
@@ -811,6 +963,14 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">SM</code>: Welsh</li>
 </ul>
 
+## NCount
+
+[NCount]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Madi</li>
+</ul>
+
 ## NameType
 
 [NameType]()
@@ -819,14 +979,15 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Ast</code>: Latin</li>
 <li><code class="language-plaintext highlighter-rouge">Cal</code>: Latin</li>
 <li><code class="language-plaintext highlighter-rouge">Com</code>: Armenian, Czech, Latin, Russian, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Geo</code>: Armenian, Classical Chinese, Czech, Erzya, Komi Permyak, Latin, Moksha, Russian, Skolt Sami, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Giv</code>: Armenian, Classical Chinese, Czech, Erzya, Komi Permyak, Latin, Moksha, Russian, Skolt Sami, Ukrainian, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Geo</code>: Armenian, Classical Chinese, Czech, Erzya, Komi Permyak, Latin, Moksha, Old East Slavic, Russian, Skolt Sami, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Giv</code>: Armenian, Classical Chinese, Czech, Erzya, Komi Permyak, Latin, Moksha, Old East Slavic, Russian, Skolt Sami, Ukrainian, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Hom</code>: Erzya</li>
+<li><code class="language-plaintext highlighter-rouge">Hus</code>: Old East Slavic</li>
 <li><code class="language-plaintext highlighter-rouge">Let</code>: Latin</li>
 <li><code class="language-plaintext highlighter-rouge">Lit</code>: Latin</li>
-<li><code class="language-plaintext highlighter-rouge">Nat</code>: Classical Chinese, Czech, Latin</li>
+<li><code class="language-plaintext highlighter-rouge">Nat</code>: Classical Chinese, Czech, Latin, Old East Slavic</li>
 <li><code class="language-plaintext highlighter-rouge">Oth</code>: Armenian, Czech, Erzya, Latin, Russian, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Pat</code>: Erzya, Moksha, Ukrainian</li>
+<li><code class="language-plaintext highlighter-rouge">Pat</code>: Erzya, Moksha, Old East Slavic, Ukrainian</li>
 <li><code class="language-plaintext highlighter-rouge">Patrn</code>: Russian</li>
 <li><code class="language-plaintext highlighter-rouge">Pro</code>: Armenian, Czech, Russian, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Prs</code>: Armenian, Classical Chinese, Russian, Skolt Sami, Western Armenian</li>
@@ -843,6 +1004,14 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Contrastive</code>: Erzya</li>
 </ul>
 
+## Neutral
+
+[Neutral]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Cebuano</li>
+</ul>
+
 ## Nomzr
 
 [Nomzr]()
@@ -850,22 +1019,23 @@ This is an automatically generated list of features and values (both universal a
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Abs</code>: Guajajara</li>
 <li><code class="language-plaintext highlighter-rouge">Action</code>: Yakut</li>
-<li><code class="language-plaintext highlighter-rouge">Ag</code>: Guajajara, Makurap, Munduruku, Tupinamba</li>
-<li><code class="language-plaintext highlighter-rouge">CCirc</code>: Tupinamba</li>
-<li><code class="language-plaintext highlighter-rouge">Circ</code>: Akuntsu, Guajajara, Kaapor, Karo, Tupinamba</li>
-<li><code class="language-plaintext highlighter-rouge">DevPass</code>: Guajajara</li>
+<li><code class="language-plaintext highlighter-rouge">Ag</code>: Guajajara, Guarani, Makurap, Munduruku, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">CCirc</code>: Guarani, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Circ</code>: Akuntsu, Guajajara, Guarani, Kaapor, Karo, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">DevPass</code>: Guajajara, Guarani, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Hab</code>: Tupinamba</li>
 <li><code class="language-plaintext highlighter-rouge">Obj</code>: Akuntsu</li>
 <li><code class="language-plaintext highlighter-rouge">Pa</code>: Munduruku</li>
-<li><code class="language-plaintext highlighter-rouge">Pas</code>: Guajajara, Tupinamba</li>
-<li><code class="language-plaintext highlighter-rouge">Rel</code>: Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Pas</code>: Guajajara, Guarani, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Rel</code>: Guarani, Teko, Tupinamba</li>
 </ul>
 
-## Noun
+## NonFoc
 
-[Noun]()
+[NonFoc]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Clf</code>: Munduruku</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Guajajara, Tupinamba</li>
 </ul>
 
 ## NounBase
@@ -918,7 +1088,7 @@ This is an automatically generated list of features and values (both universal a
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Armenian</code>: Armenian, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Combi</code>: Lithuanian, Romanian, Russian, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Combi</code>: Armenian, Lithuanian, Romanian, Russian, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Cyril</code>: Old East Slavic</li>
 <li><code class="language-plaintext highlighter-rouge">Digit</code>: Arabic, Armenian, Catalan, Czech, English, Estonian, Latin, Lithuanian, Moksha, Old East Slavic, Polish, Romanian, Russian, Slovak, Slovenian, Spanish, Tamil, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Reference</code>: Latin</li>
@@ -932,16 +1102,16 @@ This is an automatically generated list of features and values (both universal a
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Appr</code>: Erzya, Komi Zyrian</li>
-<li><code class="language-plaintext highlighter-rouge">Card</code>: Akuntsu, Amharic, Armenian, Bambara, Basque, Belarusian, Bengali, Bhojpuri, Bulgarian, Buryat, Catalan, Chinese, Coptic, Croatian, Czech, Danish, English, Erzya, Estonian, Finnish, French, Galician, German, Greek, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Khunsari, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Serbian, Slovak, Slovenian, Soi, Spanish, Swedish, Tamil, Tatar, Telugu, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Vietnamese, Western Armenian, Wolof, Xibe, Yakut, Yoruba</li>
+<li><code class="language-plaintext highlighter-rouge">Card</code>: Akuntsu, Amharic, Ancient Hebrew, Armenian, Bambara, Basque, Belarusian, Bengali, Bhojpuri, Bulgarian, Buryat, Catalan, Chinese, Coptic, Croatian, Czech, Danish, English, Erzya, Estonian, Finnish, French, Galician, German, Greek, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Khunsari, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Serbian, Slovak, Slovenian, Soi, Spanish, Swedish, Tamil, Tatar, Telugu, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Vietnamese, Western Armenian, Wolof, Xibe, Yakut, Yoruba</li>
 <li><code class="language-plaintext highlighter-rouge">Coll</code>: Kazakh, Moksha, North Sami</li>
 <li><code class="language-plaintext highlighter-rouge">Dist</code>: Armenian, Erzya, Hungarian, Komi Permyak, Komi Zyrian, Latin, Moksha, Turkish, Turkish German, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Frac</code>: Armenian, Catalan, Czech, English, Erzya, Hungarian, Icelandic, Latvian, Polish, Portuguese, Romanian, Russian, Spanish, Western Armenian, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Frac</code>: Armenian, Catalan, Czech, English, Erzya, Estonian, Hungarian, Icelandic, Latvian, Polish, Portuguese, Romanian, Russian, Spanish, Western Armenian, Xibe</li>
 <li><code class="language-plaintext highlighter-rouge">Mult</code>: Croatian, Czech, English, Erzya, Greek, Komi Zyrian, Latin, Latvian, Lithuanian, Moksha, Portuguese, Romanian, Serbian, Slovak, Slovenian, Upper Sorbian, Xibe</li>
 <li><code class="language-plaintext highlighter-rouge">MultDist</code>: Komi Permyak</li>
-<li><code class="language-plaintext highlighter-rouge">Ord</code>: Armenian, Bambara, Basque, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Chinese, Classical Chinese, Croatian, Czech, Danish, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Greek, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Latvian, Ligurian, Lithuanian, Livvi, Moksha, Naija, Old French, Polish, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Welsh, Western Armenian, Wolof, Xibe, Yoruba</li>
+<li><code class="language-plaintext highlighter-rouge">Ord</code>: Armenian, Bambara, Basque, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Chinese, Classical Chinese, Croatian, Czech, Danish, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Greek, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Latvian, Ligurian, Lithuanian, Livvi, Moksha, Naija, Old French, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Welsh, Western Armenian, Wolof, Xibe, Yoruba</li>
 <li><code class="language-plaintext highlighter-rouge">OrdMult</code>: Erzya, Komi Permyak, Komi Zyrian</li>
 <li><code class="language-plaintext highlighter-rouge">OrdSets</code>: Erzya</li>
-<li><code class="language-plaintext highlighter-rouge">Range</code>: Armenian, Italian, Portuguese</li>
+<li><code class="language-plaintext highlighter-rouge">Range</code>: Armenian, Estonian, Italian, Portuguese</li>
 <li><code class="language-plaintext highlighter-rouge">Sets</code>: Belarusian, Czech, Erzya, Greek, Lithuanian, Moksha, Polish, Portuguese, Russian, Slovenian, Xibe</li>
 </ul>
 
@@ -961,13 +1131,13 @@ This is an automatically generated list of features and values (both universal a
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Assoc</code>: Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Coll</code>: Armenian, Guajajara, Latvian, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Count</code>: Bulgarian, Old East Slavic</li>
-<li><code class="language-plaintext highlighter-rouge">Dual</code>: Amharic, Ancient Greek, Arabic, Czech, Gothic, Hebrew, Lithuanian, North Sami, Old Church Slavonic, Old East Slavic, Sanskrit, Scottish Gaelic, Skolt Sami, Slovenian, Tagalog, Upper Sorbian, Warlpiri, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Coll</code>: Armenian, Guajajara, Latvian, Pomak, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Count</code>: Bulgarian, Old East Slavic, Pomak</li>
+<li><code class="language-plaintext highlighter-rouge">Dual</code>: Amharic, Ancient Greek, Ancient Hebrew, Arabic, Czech, Gothic, Hebrew, Lithuanian, North Sami, Old Church Slavonic, Old East Slavic, Sanskrit, Scottish Gaelic, Skolt Sami, Slovenian, Tagalog, Upper Sorbian, Warlpiri, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Pauc</code>: Warlpiri</li>
-<li><code class="language-plaintext highlighter-rouge">Plur</code>: Afrikaans, Akkadian, Albanian, Amharic, Ancient Greek, Apurina, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kaapor, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Plur</code>: Afrikaans, Akkadian, Akuntsu, Albanian, Amharic, Ancient Greek, Ancient Hebrew, Apurina, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kaapor, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Madi, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Teko, Tupinamba, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Ptan</code>: Bulgarian, Latvian, Polish, Ukrainian, Upper Sorbian, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Sing</code>: Afrikaans, Akkadian, Akuntsu, Albanian, Amharic, Ancient Greek, Apurina, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kaapor, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Makurap, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Sing</code>: Afrikaans, Akkadian, Akuntsu, Albanian, Amharic, Ancient Greek, Ancient Hebrew, Apurina, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kaapor, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Madi, Makurap, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Teko, Tupinamba, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
 </ul>
 
 ## Number[abs]
@@ -1003,8 +1173,8 @@ This is an automatically generated list of features and values (both universal a
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Dual</code>: Warlpiri, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Plur</code>: Apurina, Erzya, Kiche, Moksha, Warlpiri, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Sing</code>: Apurina, Erzya, Kiche, Moksha, Warlpiri, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Plur</code>: Apurina, Erzya, Kiche, Madi, Moksha, Teko, Warlpiri, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Sing</code>: Apurina, Erzya, Guajajara, Kiche, Madi, Moksha, Munduruku, Tupinamba, Warlpiri, Yupik</li>
 </ul>
 
 ## Number[psed]
@@ -1021,8 +1191,8 @@ This is an automatically generated list of features and values (both universal a
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Dual</code>: North Sami, Slovenian, Upper Sorbian, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Plur</code>: Apurina, Armenian, Catalan, Coptic, Croatian, Czech, Danish, Erzya, Finnish, French, Galician, German, Hindi, Hungarian, Italian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Low Saxon, Mbya Guarani, Moksha, North Sami, Polish, Portuguese, Romanian, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Tatar, Turkish, Turkish German, Upper Sorbian, Uyghur, Western Armenian, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Sing</code>: Apurina, Armenian, Buryat, Catalan, Coptic, Croatian, Czech, Danish, Erzya, Finnish, French, Galician, German, Hindi, Hungarian, Italian, Karelian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Livvi, Low Saxon, Mbya Guarani, Moksha, North Sami, Polish, Portuguese, Romanian, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Turkish, Turkish German, Upper Sorbian, Uyghur, Western Armenian, Yakut, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Plur</code>: Apurina, Armenian, Catalan, Coptic, Croatian, Czech, Danish, Erzya, Finnish, French, Galician, German, Hindi, Hungarian, Italian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Low Saxon, Mbya Guarani, Moksha, North Sami, Polish, Pomak, Portuguese, Romanian, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Tatar, Tupinamba, Turkish, Turkish German, Upper Sorbian, Uyghur, Western Armenian, Yakut, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Sing</code>: Apurina, Armenian, Buryat, Catalan, Coptic, Croatian, Czech, Danish, Erzya, Finnish, French, Galician, German, Guarani, Hindi, Hungarian, Italian, Karelian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Livvi, Low Saxon, Mbya Guarani, Moksha, North Sami, Polish, Pomak, Portuguese, Romanian, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Tatar, Tupinamba, Turkish, Turkish German, Umbrian, Upper Sorbian, Uyghur, Western Armenian, Yakut, Yupik</li>
 </ul>
 
 ## Number[subj]
@@ -1031,16 +1201,16 @@ This is an automatically generated list of features and values (both universal a
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Dual</code>: Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Plur</code>: Apurina, Erzya, Kiche, Komi Zyrian, Moksha, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Sing</code>: Apurina, Erzya, Kiche, Moksha, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Plur</code>: Apurina, Erzya, Guarani, Kiche, Komi Zyrian, Madi, Moksha, Munduruku, Tupinamba, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Sing</code>: Apurina, Erzya, Guarani, Kiche, Madi, Moksha, Munduruku, Teko, Tupinamba, Yupik</li>
 </ul>
 
-## OblTop
+## Obl
 
-[OblTop]()
+[Obl]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Guajajara, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Akuntsu</li>
 </ul>
 
 ## Orth
@@ -1078,7 +1248,7 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Emp</code>: Erzya, Latin</li>
 <li><code class="language-plaintext highlighter-rouge">Gen</code>: Afrikaans</li>
 <li><code class="language-plaintext highlighter-rouge">Inf</code>: Afrikaans, Danish, German, Irish, Low Saxon, Manx, Romanian, Scottish Gaelic</li>
-<li><code class="language-plaintext highlighter-rouge">Int</code>: Bengali, Chinese, Latin, Polish, Tagalog</li>
+<li><code class="language-plaintext highlighter-rouge">Int</code>: Bengali, Cebuano, Chinese, Latin, Polish, Tagalog</li>
 <li><code class="language-plaintext highlighter-rouge">Mod</code>: Polish</li>
 <li><code class="language-plaintext highlighter-rouge">Neg</code>: Afrikaans, Bengali, Low Saxon</li>
 <li><code class="language-plaintext highlighter-rouge">Nfh</code>: Tagalog</li>
@@ -1090,6 +1260,16 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Vb</code>: Irish, Manx, Scottish Gaelic</li>
 <li><code class="language-plaintext highlighter-rouge">Vbp</code>: German</li>
 <li><code class="language-plaintext highlighter-rouge">Voc</code>: Irish, Scottish Gaelic</li>
+</ul>
+
+## PartTypeQpm
+
+[PartTypeQpm]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Ind</code>: Pomak</li>
+<li><code class="language-plaintext highlighter-rouge">Neg</code>: Pomak</li>
+<li><code class="language-plaintext highlighter-rouge">Tot</code>: Pomak</li>
 </ul>
 
 ## Pcl
@@ -1106,12 +1286,11 @@ This is an automatically generated list of features and values (both universal a
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">0</code>: Breton, Finnish, Irish, Karo, Livvi, Polish, Scottish Gaelic, Ukrainian, Welsh, Wolof</li>
-<li><code class="language-plaintext highlighter-rouge">1</code>: Afrikaans, Akkadian, Akuntsu, Albanian, Amharic, Ancient Greek, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Chinese, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kaapor, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Makurap, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Tagalog, Tamil, Tatar, Thai, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">13</code>: Munduruku, Tupinamba</li>
-<li><code class="language-plaintext highlighter-rouge">2</code>: Afrikaans, Akkadian, Akuntsu, Amharic, Ancient Greek, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Chinese, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kaapor, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Makurap, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Tagalog, Tamil, Tatar, Thai, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">23</code>: Tupinamba</li>
-<li><code class="language-plaintext highlighter-rouge">3</code>: Afrikaans, Akkadian, Akuntsu, Albanian, Amharic, Ancient Greek, Apurina, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Chinese, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kaapor, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Makurap, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Thai, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">33</code>: Munduruku, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">1</code>: Afrikaans, Akkadian, Akuntsu, Albanian, Amharic, Ancient Greek, Ancient Hebrew, Apurina, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Chinese, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kaapor, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Madi, Makurap, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Tagalog, Tamil, Tatar, Teko, Thai, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">13</code>: Munduruku</li>
+<li><code class="language-plaintext highlighter-rouge">2</code>: Afrikaans, Akkadian, Akuntsu, Amharic, Ancient Greek, Ancient Hebrew, Apurina, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Chinese, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kaapor, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Madi, Makurap, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Tagalog, Tamil, Tatar, Teko, Thai, Tupinamba, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">3</code>: Afrikaans, Akkadian, Akuntsu, Albanian, Amharic, Ancient Greek, Ancient Hebrew, Apurina, Arabic, Armenian, Assyrian, Bambara, Basque, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Chinese, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kaapor, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Madi, Makurap, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Teko, Thai, Tupinamba, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">33</code>: Munduruku</li>
 <li><code class="language-plaintext highlighter-rouge">3Imp</code>: Karo</li>
 </ul>
 
@@ -1150,9 +1329,9 @@ This is an automatically generated list of features and values (both universal a
 [Person[obj]]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">1</code>: Erzya, Kiche, Mbya Guarani, Moksha, Warlpiri, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">2</code>: Erzya, Kiche, Mbya Guarani, Moksha, Warlpiri, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">3</code>: Apurina, Erzya, Kiche, Mbya Guarani, Moksha, Warlpiri, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">1</code>: Apurina, Erzya, Kiche, Madi, Mbya Guarani, Moksha, Tupinamba, Warlpiri, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">2</code>: Erzya, Guajajara, Kiche, Madi, Mbya Guarani, Moksha, Tupinamba, Warlpiri, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">3</code>: Apurina, Erzya, Guarani, Kiche, Mbya Guarani, Moksha, Munduruku, Tupinamba, Warlpiri, Yupik</li>
 </ul>
 
 ## Person[psor]
@@ -1160,9 +1339,9 @@ This is an automatically generated list of features and values (both universal a
 [Person[psor]]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">1</code>: Apurina, Armenian, Erzya, Finnish, French, German, Hungarian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Low Saxon, Moksha, North Sami, Skolt Sami, Tatar, Turkish, Turkish German, Uyghur, Western Armenian, Yakut, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">2</code>: Armenian, Erzya, Finnish, French, German, Karelian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Low Saxon, Moksha, North Sami, Skolt Sami, Turkish, Turkish German, Uyghur, Western Armenian, Yakut, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">3</code>: Apurina, Armenian, Buryat, Erzya, Finnish, French, German, Hungarian, Karelian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Livvi, Low Saxon, Moksha, North Sami, Skolt Sami, Tatar, Turkish, Turkish German, Uyghur, Western Armenian, Yakut, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">1</code>: Akuntsu, Apurina, Armenian, Erzya, Finnish, French, German, Guajajara, Guarani, Hungarian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Low Saxon, Madi, Moksha, North Sami, Skolt Sami, Tatar, Tupinamba, Turkish, Turkish German, Uyghur, Western Armenian, Yakut, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">2</code>: Akuntsu, Armenian, Erzya, Finnish, French, German, Guajajara, Guarani, Karelian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Low Saxon, Madi, Moksha, North Sami, Skolt Sami, Tatar, Tupinamba, Turkish, Turkish German, Uyghur, Western Armenian, Yakut, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">3</code>: Akuntsu, Apurina, Armenian, Buryat, Erzya, Finnish, French, German, Guajajara, Hungarian, Karelian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Latin, Livvi, Low Saxon, Moksha, North Sami, Skolt Sami, Tatar, Tupinamba, Turkish, Turkish German, Umbrian, Uyghur, Western Armenian, Yakut, Yupik</li>
 </ul>
 
 ## Person[subj]
@@ -1170,9 +1349,9 @@ This is an automatically generated list of features and values (both universal a
 [Person[subj]]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">1</code>: Erzya, Kiche, Mbya Guarani, Moksha, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">2</code>: Erzya, Kiche, Mbya Guarani, Moksha, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">3</code>: Apurina, Erzya, Kiche, Mbya Guarani, Moksha, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">1</code>: Erzya, Guajajara, Guarani, Kiche, Madi, Mbya Guarani, Moksha, Teko, Tupinamba, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">2</code>: Akuntsu, Apurina, Erzya, Guajajara, Guarani, Kiche, Madi, Mbya Guarani, Moksha, Tupinamba, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">3</code>: Apurina, Erzya, Guajajara, Guarani, Kiche, Mbya Guarani, Moksha, Munduruku, Tupinamba, Yupik</li>
 </ul>
 
 ## Polarity
@@ -1181,8 +1360,8 @@ This is an automatically generated list of features and values (both universal a
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">Aff</code>: Scottish Gaelic</li>
-<li><code class="language-plaintext highlighter-rouge">Neg</code>: Akuntsu, Albanian, Amharic, Ancient Greek, Arabic, Armenian, Bambara, Basque, Beja, Belarusian, Bhojpuri, Breton, Bulgarian, Catalan, Chinese, Classical Chinese, Coptic, Croatian, Czech, English, Erzya, Estonian, Finnish, French, Galician, German, Gothic, Guajajara, Hebrew, Hindi, Indonesian, Irish, Italian, Japanese, Javanese, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Lithuanian, Livvi, Makurap, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Thai, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Vietnamese, Western Armenian, Wolof, Xibe, Yakut, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Pos</code>: Armenian, Bambara, Basque, Croatian, Czech, Hebrew, Italian, Latvian, Lithuanian, Polish, Romanian, Slovak, Slovenian, Tagalog, Tamil, Turkish, Turkish German, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Neg</code>: Akuntsu, Albanian, Amharic, Ancient Greek, Ancient Hebrew, Arabic, Armenian, Bambara, Basque, Beja, Belarusian, Bhojpuri, Breton, Bulgarian, Catalan, Cebuano, Chinese, Classical Chinese, Coptic, Croatian, Czech, English, Erzya, Estonian, Finnish, French, Galician, German, Gothic, Guajajara, Guarani, Hebrew, Hindi, Indonesian, Irish, Italian, Japanese, Javanese, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Lithuanian, Livvi, Makurap, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Teko, Thai, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Vietnamese, Western Armenian, Wolof, Xibe, Yakut, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Pos</code>: Armenian, Bambara, Basque, Croatian, Czech, French, Guajajara, Hebrew, Italian, Latvian, Lithuanian, Polish, Romanian, Slovak, Slovenian, Tagalog, Tamil, Turkish, Turkish German, Western Armenian</li>
 </ul>
 
 ## Polite
@@ -1237,7 +1416,7 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Ali</code>: Munduruku</li>
 <li><code class="language-plaintext highlighter-rouge">Hum</code>: Tupinamba</li>
 <li><code class="language-plaintext highlighter-rouge">Ina</code>: Munduruku</li>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Afrikaans, Albanian, Amharic, Ancient Greek, Armenian, Assyrian, Beja, Belarusian, Bhojpuri, Breton, Bulgarian, Catalan, Coptic, Croatian, Czech, Danish, Dutch, English, Estonian, French, Galician, German, Gothic, Greek, Hindi, Hungarian, Icelandic, Irish, Italian, Latin, Latvian, Ligurian, Low Saxon, Manx, Naija, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Welsh, Western Armenian, Wolof, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Afrikaans, Albanian, Amharic, Ancient Greek, Armenian, Assyrian, Beja, Belarusian, Bhojpuri, Breton, Bulgarian, Catalan, Coptic, Croatian, Czech, Danish, Dutch, English, Estonian, French, Galician, German, Gothic, Greek, Guajajara, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Irish, Italian, Latin, Latvian, Ligurian, Low Saxon, Manx, Naija, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Welsh, Western Armenian, Wolof, Xibe, Yakut</li>
 </ul>
 
 ## Possessed
@@ -1247,6 +1426,14 @@ This is an automatically generated list of features and values (both universal a
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
 <li><code class="language-plaintext highlighter-rouge">No</code>: Apurina</li>
 <li><code class="language-plaintext highlighter-rouge">Yes</code>: Apurina</li>
+</ul>
+
+## Pred
+
+[Pred]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Teko</li>
 </ul>
 
 ## Prefix
@@ -1274,6 +1461,14 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Cmpd</code>: Irish</li>
 </ul>
 
+## Priv
+
+[Priv]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Guarani, Tupinamba</li>
+</ul>
+
 ## PronType
 
 [PronType]()
@@ -1282,16 +1477,16 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Add</code>: Mbya Guarani</li>
 <li><code class="language-plaintext highlighter-rouge">Art</code>: Afrikaans, Armenian, Assyrian, Bengali, Catalan, Coptic, English, French, Galician, German, Greek, Hebrew, Hungarian, Indonesian, Irish, Italian, Javanese, Kiche, Latin, Ligurian, Low Saxon, Manx, Naija, Norwegian, Old French, Portuguese, Romanian, Scottish Gaelic, Spanish, Swedish, Turkish, Turkish German, Western Armenian, Wolof</li>
 <li><code class="language-plaintext highlighter-rouge">Con</code>: Latin</li>
-<li><code class="language-plaintext highlighter-rouge">Dem</code>: Afrikaans, Albanian, Ancient Greek, Arabic, Armenian, Assyrian, Bambara, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yoruba, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">Emp</code>: Akuntsu, Albanian, Armenian, Bambara, Belarusian, Czech, Hebrew, Indonesian, Irish, Javanese, Karo, Lithuanian, Manx, Old East Slavic, Portuguese, Romanian, Russian, Slovak, Tagalog, Welsh, Western Armenian, Yoruba</li>
+<li><code class="language-plaintext highlighter-rouge">Dem</code>: Afrikaans, Albanian, Ancient Greek, Ancient Hebrew, Arabic, Armenian, Assyrian, Bambara, Beja, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Greek, Guajajara, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Manx, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tatar, Teko, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Emp</code>: Akuntsu, Albanian, Armenian, Bambara, Belarusian, Czech, English, Hebrew, Indonesian, Irish, Javanese, Karo, Lithuanian, Manx, Old East Slavic, Pomak, Portuguese, Romanian, Russian, Slovak, Tagalog, Welsh, Western Armenian, Yoruba</li>
 <li><code class="language-plaintext highlighter-rouge">Exc</code>: Armenian, Belarusian, French, Italian, Ligurian, Old East Slavic, Russian, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Ind</code>: Afrikaans, Albanian, Armenian, Belarusian, Bengali, Bhojpuri, Bulgarian, Buryat, Catalan, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Finnish, French, Galician, German, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Marathi, Mbya Guarani, Moksha, Munduruku, North Sami, Norwegian, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Serbian, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Welsh, Western Armenian, Wolof, Xibe, Yoruba</li>
-<li><code class="language-plaintext highlighter-rouge">Int</code>: Afrikaans, Albanian, Ancient Greek, Armenian, Assyrian, Basque, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Low Saxon, Marathi, Mbya Guarani, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Thai, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Ind</code>: Afrikaans, Akuntsu, Albanian, Armenian, Belarusian, Bengali, Bhojpuri, Bulgarian, Buryat, Catalan, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Finnish, French, Galician, German, Greek, Guajajara, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Marathi, Mbya Guarani, Moksha, Munduruku, North Sami, Norwegian, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Serbian, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Teko, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba</li>
+<li><code class="language-plaintext highlighter-rouge">Int</code>: Afrikaans, Albanian, Ancient Greek, Ancient Hebrew, Armenian, Assyrian, Basque, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Low Saxon, Marathi, Mbya Guarani, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tamil, Teko, Thai, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">Neg</code>: Armenian, Belarusian, Bhojpuri, Bulgarian, Croatian, Czech, English, French, German, Hindi, Hungarian, Italian, Kazakh, Latin, Latvian, Ligurian, Lithuanian, Low Saxon, Mbya Guarani, Norwegian, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Western Armenian, Wolof</li>
-<li><code class="language-plaintext highlighter-rouge">Prs</code>: Afrikaans, Akuntsu, Albanian, Ancient Greek, Apurina, Arabic, Armenian, Assyrian, Bambara, Basque, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Makurap, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba</li>
-<li><code class="language-plaintext highlighter-rouge">Rcp</code>: Afrikaans, Ancient Greek, Armenian, Bambara, Coptic, Danish, Dutch, Erzya, Estonian, Finnish, German, Gothic, Hungarian, Kazakh, Komi Zyrian, Kurmanji, Latin, Low Saxon, Moksha, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Russian, Swedish, Turkish, Welsh, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Rel</code>: Afrikaans, Albanian, Ancient Greek, Arabic, Armenian, Bambara, Belarusian, Bengali, Breton, Bulgarian, Catalan, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Hindi, Hungarian, Indonesian, Irish, Italian, Javanese, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Marathi, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Turkish German, Ukrainian, Upper Sorbian, Welsh, Western Armenian, Wolof, Yoruba</li>
-<li><code class="language-plaintext highlighter-rouge">Tot</code>: Albanian, Armenian, Belarusian, Bulgarian, Catalan, Coptic, Croatian, Czech, English, Erzya, Estonian, German, Guajajara, Hungarian, Indonesian, Italian, Javanese, Kazakh, Komi Permyak, Komi Zyrian, Latin, Latvian, Ligurian, Lithuanian, Low Saxon, Marathi, Mbya Guarani, Norwegian, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tagalog, Ukrainian, Upper Sorbian, Western Armenian, Wolof, Xibe, Yakut</li>
+<li><code class="language-plaintext highlighter-rouge">Prs</code>: Afrikaans, Akuntsu, Albanian, Ancient Greek, Ancient Hebrew, Apurina, Arabic, Armenian, Assyrian, Bambara, Basque, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Cebuano, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Madi, Makurap, Marathi, Mbya Guarani, Moksha, Munduruku, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tagalog, Tamil, Tatar, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yoruba</li>
+<li><code class="language-plaintext highlighter-rouge">Rcp</code>: Afrikaans, Ancient Greek, Armenian, Bambara, Coptic, Danish, Dutch, English, Erzya, Estonian, Finnish, German, Gothic, Hungarian, Kazakh, Komi Zyrian, Kurmanji, Latin, Low Saxon, Moksha, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Russian, Swedish, Tupinamba, Turkish, Welsh, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Rel</code>: Afrikaans, Albanian, Ancient Greek, Arabic, Armenian, Bambara, Belarusian, Bengali, Breton, Bulgarian, Catalan, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Hindi, Hittite, Hungarian, Indonesian, Irish, Italian, Javanese, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Marathi, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Turkish German, Ukrainian, Upper Sorbian, Welsh, Western Armenian, Wolof, Yakut, Yoruba</li>
+<li><code class="language-plaintext highlighter-rouge">Tot</code>: Albanian, Armenian, Belarusian, Bulgarian, Catalan, Coptic, Croatian, Czech, English, Erzya, Estonian, German, Guajajara, Guarani, Hittite, Hungarian, Indonesian, Italian, Javanese, Kazakh, Komi Permyak, Komi Zyrian, Latin, Latvian, Ligurian, Lithuanian, Low Saxon, Madi, Marathi, Mbya Guarani, Munduruku, Norwegian, Old East Slavic, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tagalog, Tatar, Teko, Tupinamba, Ukrainian, Upper Sorbian, Western Armenian, Wolof, Xibe, Yakut</li>
 </ul>
 
 ## Proper
@@ -1338,14 +1533,23 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Slsh</code>: Polish</li>
 </ul>
 
+## Recip
+
+[Recip]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Tupinamba</li>
+</ul>
+
 ## Red
 
 [Red]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Di</code>: Guajajara, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Di</code>: Guajajara, Guarani, Tupinamba</li>
 <li><code class="language-plaintext highlighter-rouge">Ex</code>: Munduruku</li>
 <li><code class="language-plaintext highlighter-rouge">Mo</code>: Guajajara, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Teko</li>
 </ul>
 
 ## Redup
@@ -1353,7 +1557,7 @@ This is an automatically generated list of features and values (both universal a
 [Redup]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Karo</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Akuntsu, Karo, Madi</li>
 </ul>
 
 ## Reflex
@@ -1361,7 +1565,7 @@ This is an automatically generated list of features and values (both universal a
 [Reflex]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Afrikaans, Akuntsu, Ancient Greek, Armenian, Beja, Belarusian, Breton, Bulgarian, Buryat, Catalan, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, German, Gothic, Guajajara, Hebrew, Hungarian, Indonesian, Irish, Italian, Javanese, Karelian, Karo, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Lithuanian, Livvi, Low Saxon, Makurap, Manx, Moksha, Munduruku, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Tagalog, Tamil, Tatar, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Uyghur, Western Armenian, Wolof, Xibe, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Afrikaans, Akuntsu, Ancient Greek, Armenian, Beja, Belarusian, Breton, Bulgarian, Buryat, Catalan, Classical Chinese, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, German, Gothic, Guajajara, Guarani, Hebrew, Hungarian, Indonesian, Irish, Italian, Javanese, Karelian, Karo, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Lithuanian, Livvi, Low Saxon, Makurap, Manx, Moksha, Munduruku, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Tagalog, Tamil, Tatar, Teko, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Uyghur, Western Armenian, Wolof, Xibe, Yakut, Yupik</li>
 </ul>
 
 ## Reflex[obj]
@@ -1385,10 +1589,27 @@ This is an automatically generated list of features and values (both universal a
 [Rel]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Abs</code>: Guajajara</li>
-<li><code class="language-plaintext highlighter-rouge">Cont</code>: Akuntsu, Guajajara, Kaapor, Makurap, Munduruku, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Abs</code>: Guajajara, Guarani, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Cont</code>: Akuntsu, Guajajara, Guarani, Kaapor, Makurap, Munduruku, Teko, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Corf</code>: Guajajara, Tupinamba</li>
 <li><code class="language-plaintext highlighter-rouge">Hum</code>: Tupinamba</li>
-<li><code class="language-plaintext highlighter-rouge">NCont</code>: Guajajara, Kaapor, Munduruku, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">NCont</code>: Guajajara, Guarani, Kaapor, Munduruku, Teko, Tupinamba</li>
+</ul>
+
+## Report
+
+[Report]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Madi</li>
+</ul>
+
+## Speech
+
+[Speech]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Man</code>: Tupinamba</li>
 </ul>
 
 ## Strength
@@ -1405,14 +1626,14 @@ This is an automatically generated list of features and values (both universal a
 [Style]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Arch</code>: Armenian, Czech, Danish, Erzya, Finnish, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Coll</code>: Armenian, Czech, Finnish, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Arch</code>: Armenian, Czech, Danish, English, Erzya, Finnish, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Coll</code>: Armenian, Czech, English, Finnish, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Expr</code>: Armenian, Czech, English, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Form</code>: Danish</li>
 <li><code class="language-plaintext highlighter-rouge">Ped</code>: Moksha</li>
 <li><code class="language-plaintext highlighter-rouge">Rare</code>: Armenian, Czech, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Slng</code>: Armenian, Czech, Estonian, Western Armenian</li>
-<li><code class="language-plaintext highlighter-rouge">Vrnc</code>: Armenian, Czech, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Slng</code>: Armenian, Czech, English, Estonian, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Vrnc</code>: Armenian, Czech, English, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">Vulg</code>: Armenian, Czech</li>
 </ul>
 
@@ -1451,14 +1672,24 @@ This is an automatically generated list of features and values (both universal a
 [Tense]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Fut</code>: Akuntsu, Ancient Greek, Arabic, Bambara, Belarusian, Bengali, Bhojpuri, Breton, Catalan, Classical Chinese, Czech, French, Galician, Guajajara, Hebrew, Hindi, Irish, Italian, Kaapor, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Makurap, Manx, Marathi, Munduruku, Nayini, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Soi, Spanish, Tamil, Tatar, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Warlpiri, Welsh, Wolof, Xibe, Yakut, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Fut</code>: Akuntsu, Ancient Greek, Arabic, Bambara, Belarusian, Bengali, Bhojpuri, Breton, Catalan, Classical Chinese, Czech, French, Galician, Guajajara, Guarani, Hebrew, Hindi, Irish, Italian, Kaapor, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Madi, Makurap, Manx, Marathi, Munduruku, Nayini, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Slovak, Slovenian, Soi, Spanish, Tamil, Tatar, Teko, Tupinamba, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Warlpiri, Welsh, Wolof, Xibe, Yakut, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">FutPast</code>: Guarani</li>
+<li><code class="language-plaintext highlighter-rouge">IPast</code>: Madi</li>
 <li><code class="language-plaintext highlighter-rouge">Imp</code>: Armenian, Bulgarian, Catalan, Croatian, Faroese, French, Galician, Italian, Ligurian, Old East Slavic, Portuguese, Romanian, Sanskrit, Spanish, Welsh, Western Armenian, Wolof</li>
 <li><code class="language-plaintext highlighter-rouge">NearPast</code>: Yakut</li>
-<li><code class="language-plaintext highlighter-rouge">Past</code>: Afrikaans, Akkadian, Albanian, Amharic, Ancient Greek, Arabic, Armenian, Assyrian, Bambara, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Irish, Italian, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Makurap, Manx, Marathi, Moksha, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Soi, Spanish, Swedish, Tamil, Tatar, Tupinamba, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">Past</code>: Afrikaans, Akkadian, Albanian, Amharic, Ancient Greek, Ancient Hebrew, Arabic, Armenian, Assyrian, Bambara, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Guarani, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Irish, Italian, Karelian, Karo, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Makurap, Manx, Marathi, Moksha, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Soi, Spanish, Swedish, Tamil, Tatar, Tupinamba, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yupik</li>
 <li><code class="language-plaintext highlighter-rouge">PastPart</code>: Yakut</li>
-<li><code class="language-plaintext highlighter-rouge">Pqp</code>: Ancient Greek, Galician, Kurmanji, Latin, Portuguese, Romanian, Sanskrit, Turkish, Turkish German, Welsh</li>
-<li><code class="language-plaintext highlighter-rouge">Pres</code>: Afrikaans, Akkadian, Albanian, Ancient Greek, Arabic, Armenian, Assyrian, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Hindi, Hungarian, Icelandic, Irish, Italian, Karelian, Kazakh, Khunsari, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Manx, Marathi, Moksha, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yupik</li>
-<li><code class="language-plaintext highlighter-rouge">RPast</code>: Karo</li>
+<li><code class="language-plaintext highlighter-rouge">Pqp</code>: Ancient Greek, Galician, Kurmanji, Latin, Old East Slavic, Portuguese, Romanian, Sanskrit, Turkish, Turkish German, Welsh</li>
+<li><code class="language-plaintext highlighter-rouge">Pres</code>: Afrikaans, Akkadian, Albanian, Ancient Greek, Arabic, Armenian, Assyrian, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Irish, Italian, Karelian, Kazakh, Khunsari, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Manx, Marathi, Moksha, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Yakut, Yupik</li>
+<li><code class="language-plaintext highlighter-rouge">RPast</code>: Karo, Madi</li>
+</ul>
+
+## Top
+
+[Top]()
+
+<ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Teko</li>
 </ul>
 
 ## Trans
@@ -1482,7 +1713,7 @@ This is an automatically generated list of features and values (both universal a
 [Typo]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Yes</code>: Armenian, Belarusian, Czech, English, Erzya, Estonian, Finnish, French, German, Indonesian, Irish, Karelian, Latvian, Manx, Moksha, Portuguese, Russian, Scottish Gaelic, Skolt Sami, Slovak, Spanish, Turkish German, Western Armenian, Xibe, Yoruba</li>
+<li><code class="language-plaintext highlighter-rouge">Yes</code>: Armenian, Belarusian, Czech, English, Erzya, Estonian, Finnish, French, German, Hebrew, Indonesian, Irish, Italian, Karelian, Latvian, Manx, Moksha, Old East Slavic, Portuguese, Russian, Scottish Gaelic, Skolt Sami, Slovak, Spanish, Turkish, Turkish German, Western Armenian, Xibe, Yoruba</li>
 </ul>
 
 ## Uninflect
@@ -1510,8 +1741,10 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Bound</code>: Slovenian</li>
 <li><code class="language-plaintext highlighter-rouge">Greek</code>: Latin</li>
 <li><code class="language-plaintext highlighter-rouge">Long</code>: Erzya, Moksha, Polish, Romanian</li>
+<li><code class="language-plaintext highlighter-rouge">Nomin</code>: Komi Zyrian</li>
 <li><code class="language-plaintext highlighter-rouge">Short</code>: Belarusian, Czech, Erzya, German, Lithuanian, Moksha, Old Church Slavonic, Old East Slavic, Polish, Romanian, Russian, Slovenian, Ukrainian</li>
 <li><code class="language-plaintext highlighter-rouge">Uncontr</code>: Ukrainian</li>
+<li><code class="language-plaintext highlighter-rouge">Vclause</code>: Komi Zyrian</li>
 </ul>
 
 ## Ventive
@@ -1536,14 +1769,14 @@ This is an automatically generated list of features and values (both universal a
 [VerbForm]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Conv</code>: Amharic, Apurina, Armenian, Beja, Belarusian, Bhojpuri, Buryat, Classical Chinese, Croatian, Czech, Erzya, Estonian, Greek, Hindi, Hungarian, Kazakh, Komi Permyak, Komi Zyrian, Latvian, Lithuanian, Marathi, Moksha, Old East Slavic, Polish, Russian, Sanskrit, Serbian, Slovak, Slovenian, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Conv</code>: Amharic, Apurina, Armenian, Belarusian, Bhojpuri, Buryat, Classical Chinese, Croatian, Czech, Erzya, Estonian, Greek, Hindi, Hungarian, Kazakh, Komi Permyak, Komi Zyrian, Latvian, Lithuanian, Marathi, Moksha, Old East Slavic, Polish, Pomak, Russian, Sanskrit, Serbian, Slovak, Slovenian, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Western Armenian, Xibe</li>
 <li><code class="language-plaintext highlighter-rouge">Cop</code>: Irish</li>
-<li><code class="language-plaintext highlighter-rouge">Fin</code>: Afrikaans, Akkadian, Ancient Greek, Arabic, Armenian, Assyrian, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Coptic, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, German, Gothic, Greek, Hindi, Hungarian, Icelandic, Italian, Karelian, Kazakh, Kiche, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Marathi, Mbya Guarani, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Serbian, Slovak, Slovenian, Spanish, Swedish, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Fin</code>: Afrikaans, Akkadian, Ancient Greek, Ancient Hebrew, Arabic, Armenian, Assyrian, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Buryat, Catalan, Coptic, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, German, Gothic, Greek, Hindi, Hittite, Hungarian, Icelandic, Italian, Karelian, Kazakh, Kiche, Komi Zyrian, Korean, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Marathi, Mbya Guarani, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Serbian, Slovak, Slovenian, Spanish, Swedish, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof, Xibe</li>
 <li><code class="language-plaintext highlighter-rouge">FinRel</code>: Welsh</li>
 <li><code class="language-plaintext highlighter-rouge">Gdv</code>: Ancient Greek, Armenian, Latin, Sanskrit</li>
-<li><code class="language-plaintext highlighter-rouge">Ger</code>: Albanian, Buryat, Catalan, Danish, English, Galician, Italian, Karelian, Karo, Kazakh, Korean, Latin, Ligurian, Lithuanian, Livvi, North Sami, Portuguese, Romanian, Skolt Sami, Spanish, Tamil, Tupinamba, Uyghur</li>
-<li><code class="language-plaintext highlighter-rouge">Inf</code>: Afrikaans, Akkadian, Albanian, Ancient Greek, Armenian, Basque, Belarusian, Bengali, Bhojpuri, Breton, Buryat, Catalan, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Guajajara, Hebrew, Hindi, Hungarian, Icelandic, Irish, Italian, Karelian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Marathi, Mbya Guarani, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tamil, Tatar, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Western Armenian, Wolof, Xibe</li>
-<li><code class="language-plaintext highlighter-rouge">Part</code>: Afrikaans, Albanian, Ancient Greek, Arabic, Armenian, Assyrian, Bambara, Basque, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Catalan, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Hebrew, Hindi, Icelandic, Irish, Italian, Karelian, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Marathi, Mbya Guarani, Moksha, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Western Armenian, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Ger</code>: Albanian, Buryat, Catalan, Danish, English, Galician, Guajajara, Guarani, Italian, Karelian, Karo, Kazakh, Korean, Latin, Ligurian, Lithuanian, Livvi, North Sami, Portuguese, Romanian, Skolt Sami, Spanish, Tamil, Tupinamba, Uyghur</li>
+<li><code class="language-plaintext highlighter-rouge">Inf</code>: Afrikaans, Akkadian, Albanian, Ancient Greek, Ancient Hebrew, Armenian, Basque, Belarusian, Bengali, Bhojpuri, Breton, Buryat, Catalan, Coptic, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Irish, Italian, Karelian, Kazakh, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Marathi, Mbya Guarani, Moksha, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Serbian, Skolt Sami, Slovak, Slovenian, Spanish, Swedish, Tamil, Tatar, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Warlpiri, Western Armenian, Wolof, Xibe, Yakut</li>
+<li><code class="language-plaintext highlighter-rouge">Part</code>: Afrikaans, Albanian, Ancient Greek, Ancient Hebrew, Arabic, Armenian, Assyrian, Bambara, Basque, Belarusian, Bengali, Bhojpuri, Breton, Bulgarian, Catalan, Classical Chinese, Croatian, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, Galician, German, Gothic, Greek, Hebrew, Hindi, Hittite, Icelandic, Irish, Italian, Karelian, Kazakh, Khunsari, Kiche, Komi Permyak, Komi Zyrian, Kurmanji, Latin, Latvian, Ligurian, Lithuanian, Livvi, Low Saxon, Marathi, Mbya Guarani, Moksha, Naija, Nayini, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Pomak, Portuguese, Romanian, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Slovenian, Soi, Spanish, Swedish, Tamil, Tatar, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Western Armenian, Xibe</li>
 <li><code class="language-plaintext highlighter-rouge">PartFut</code>: Hungarian</li>
 <li><code class="language-plaintext highlighter-rouge">PartPast</code>: Hungarian</li>
 <li><code class="language-plaintext highlighter-rouge">PartPres</code>: Hungarian</li>
@@ -1553,8 +1786,8 @@ This is an automatically generated list of features and values (both universal a
 <li><code class="language-plaintext highlighter-rouge">Ser</code>: Mbya Guarani</li>
 <li><code class="language-plaintext highlighter-rouge">Stat</code>: Akkadian</li>
 <li><code class="language-plaintext highlighter-rouge">Stem</code>: Swedish</li>
-<li><code class="language-plaintext highlighter-rouge">Sup</code>: Estonian, Faroese, Icelandic, Latin, Marathi, North Sami, Old Church Slavonic, Old East Slavic, Slovenian, Swedish</li>
-<li><code class="language-plaintext highlighter-rouge">Vnoun</code>: Amharic, Apurina, Bambara, Bengali, Erzya, Irish, Komi Zyrian, Mbya Guarani, Moksha, Polish, Scottish Gaelic, Skolt Sami, Tatar, Turkish, Turkish German, Welsh, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Sup</code>: Estonian, Faroese, Hittite, Icelandic, Latin, Marathi, North Sami, Old Church Slavonic, Old East Slavic, Slovenian, Swedish, Umbrian</li>
+<li><code class="language-plaintext highlighter-rouge">Vnoun</code>: Amharic, Apurina, Bambara, Bengali, Czech, Erzya, Hittite, Irish, Komi Zyrian, Mbya Guarani, Moksha, Polish, Scottish Gaelic, Skolt Sami, Tatar, Turkish, Turkish German, Welsh, Xibe</li>
 </ul>
 
 ## VerbStem
@@ -1592,26 +1825,27 @@ This is an automatically generated list of features and values (both universal a
 [Voice]()
 
 <ul style='list-style-position: inside; text-indent: -3em; margin-left: 3em;'>
-<li><code class="language-plaintext highlighter-rouge">Act</code>: Albanian, Ancient Greek, Arabic, Armenian, Belarusian, Bhojpuri, Bulgarian, Croatian, Czech, Danish, Estonian, Finnish, Gothic, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Javanese, Karelian, Komi Zyrian, Latin, Latvian, Lithuanian, Livvi, Old Church Slavonic, Old East Slavic, Persian, Polish, Russian, Sanskrit, Serbian, Slovak, Spanish, Swedish, Tagalog, Tamil, Ukrainian, Upper Sorbian, Urdu, Western Armenian, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Act</code>: Albanian, Ancient Greek, Arabic, Armenian, Belarusian, Bhojpuri, Bulgarian, Cebuano, Croatian, Czech, Danish, Estonian, Finnish, Gothic, Greek, Hebrew, Hindi, Hittite, Hungarian, Icelandic, Indonesian, Italian, Javanese, Karelian, Komi Zyrian, Latin, Latvian, Lithuanian, Livvi, Old Church Slavonic, Old East Slavic, Persian, Polish, Pomak, Russian, Sanskrit, Serbian, Slovak, Spanish, Swedish, Tagalog, Tamil, Ukrainian, Upper Sorbian, Urdu, Western Armenian, Xibe</li>
 <li><code class="language-plaintext highlighter-rouge">AgFoc</code>: Kiche</li>
 <li><code class="language-plaintext highlighter-rouge">Antip</code>: Kiche</li>
 <li><code class="language-plaintext highlighter-rouge">Bfoc</code>: Tagalog</li>
-<li><code class="language-plaintext highlighter-rouge">Cau</code>: Akuntsu, Amharic, Armenian, Bambara, Basque, Beja, Buryat, Chinese, Guajajara, Hungarian, Kaapor, Karo, Korean, Marathi, Munduruku, Sanskrit, Tatar, Tupinamba, Turkish, Turkish German, Western Armenian, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Cau</code>: Akuntsu, Amharic, Armenian, Bambara, Basque, Buryat, Chinese, Guajajara, Guarani, Hungarian, Kaapor, Karo, Korean, Marathi, Munduruku, Sanskrit, Tatar, Teko, Tupinamba, Turkish, Turkish German, Western Armenian, Xibe</li>
 <li><code class="language-plaintext highlighter-rouge">CauCau</code>: Turkish, Turkish German</li>
 <li><code class="language-plaintext highlighter-rouge">CauCauPass</code>: Turkish</li>
+<li><code class="language-plaintext highlighter-rouge">CauFact</code>: Teko</li>
 <li><code class="language-plaintext highlighter-rouge">CauPass</code>: Tatar, Turkish, Turkish German</li>
 <li><code class="language-plaintext highlighter-rouge">CauPassRcp</code>: Turkish</li>
 <li><code class="language-plaintext highlighter-rouge">CauRcp</code>: Turkish, Turkish German</li>
-<li><code class="language-plaintext highlighter-rouge">Com</code>: Guajajara, Tupinamba</li>
-<li><code class="language-plaintext highlighter-rouge">Ifoc</code>: Tagalog</li>
-<li><code class="language-plaintext highlighter-rouge">Lfoc</code>: Tagalog</li>
-<li><code class="language-plaintext highlighter-rouge">Mid</code>: Ancient Greek, Armenian, Beja, Belarusian, Hebrew, Icelandic, Munduruku, Old East Slavic, Russian, Sanskrit, Tupinamba, Western Armenian</li>
+<li><code class="language-plaintext highlighter-rouge">Com</code>: Guajajara, Guarani, Tupinamba</li>
+<li><code class="language-plaintext highlighter-rouge">Ifoc</code>: Cebuano, Tagalog</li>
+<li><code class="language-plaintext highlighter-rouge">Lfoc</code>: Cebuano, Tagalog</li>
+<li><code class="language-plaintext highlighter-rouge">Mid</code>: Ancient Greek, Armenian, Beja, Belarusian, Hebrew, Hittite, Icelandic, Munduruku, Old East Slavic, Russian, Sanskrit, Tatar, Tupinamba, Western Armenian</li>
 <li><code class="language-plaintext highlighter-rouge">MidCau</code>: Munduruku</li>
-<li><code class="language-plaintext highlighter-rouge">Pass</code>: Albanian, Amharic, Ancient Greek, Arabic, Armenian, Assyrian, Beja, Belarusian, Bengali, Bhojpuri, Bulgarian, Chinese, Classical Chinese, Croatian, Czech, Danish, English, Estonian, Faroese, Finnish, French, German, Gothic, Greek, Hebrew, Hindi, Icelandic, Indonesian, Italian, Javanese, Karelian, Karo, Kazakh, Kiche, Korean, Latin, Latvian, Lithuanian, Livvi, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Spanish, Swedish, Tagalog, Tamil, Tatar, Thai, Turkish, Turkish German, Ukrainian, Upper Sorbian, Urdu, Uyghur, Western Armenian, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Pass</code>: Albanian, Amharic, Ancient Greek, Ancient Hebrew, Arabic, Armenian, Assyrian, Belarusian, Bengali, Bhojpuri, Bulgarian, Cebuano, Chinese, Classical Chinese, Croatian, Czech, Danish, English, Estonian, Faroese, Finnish, French, German, Gothic, Greek, Hebrew, Hindi, Icelandic, Indonesian, Italian, Javanese, Karelian, Karo, Kazakh, Kiche, Korean, Latin, Latvian, Lithuanian, Livvi, Naija, North Sami, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Pomak, Portuguese, Russian, Sanskrit, Serbian, Skolt Sami, Slovak, Spanish, Swedish, Tagalog, Tamil, Tatar, Thai, Turkish, Turkish German, Ukrainian, Umbrian, Upper Sorbian, Urdu, Uyghur, Western Armenian, Xibe, Yakut</li>
 <li><code class="language-plaintext highlighter-rouge">PassPass</code>: Turkish, Turkish German</li>
 <li><code class="language-plaintext highlighter-rouge">PassRcp</code>: Turkish</li>
 <li><code class="language-plaintext highlighter-rouge">PassRfl</code>: Turkish</li>
-<li><code class="language-plaintext highlighter-rouge">Rcp</code>: Amharic, Armenian, Beja, Buryat, Kazakh, Tatar, Turkish, Turkish German, Western Armenian, Xibe</li>
+<li><code class="language-plaintext highlighter-rouge">Rcp</code>: Amharic, Armenian, Buryat, Kazakh, Tatar, Tupinamba, Turkish, Turkish German, Western Armenian, Xibe</li>
 <li><code class="language-plaintext highlighter-rouge">Rfl</code>: Turkish, Turkish German</li>
 <li><code class="language-plaintext highlighter-rouge">Trans</code>: Amharic</li>
 </ul>
