@@ -16,6 +16,7 @@ A verb typically denotes events and actions, can constitute a minimal predicate 
 Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag VERB  and the features Aspect=...|Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
 Ηowever, there are formations in *-μένος* not related to a verb in use in Modern Greek, e.g., *χιλιοτραγουδισμένος* / chiliotragoudismenos “storied”, *ξακουσμένος* / ksakousmenos “famous”, etc; these are assigned the  tag <code>ADJ</code>.  
 
+*είμαι* "to be" is assigned the tag [AUX]() when it supports a participle or an adjective and otherwise the tag [VERB]().
 
 Most verb forms inflect for <code>Number</code>, <code>Person</code> and are also tagged for <code>Aspect</code>, <code>Mood</code>, <code>Tense</code> and <code>Voice</code>. 
 
