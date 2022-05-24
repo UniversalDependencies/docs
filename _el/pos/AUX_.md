@@ -18,6 +18,6 @@ With auxiliary verbs like *μπορεί* / *bori* "may be", the value of the fea
 -	Tense auxiliaries: *έχει φύγει* / *echi figi* "he/she/it is gone", *θα φύγει* / *tha figi* "he/she/it will go"
 -	Auxiliaries with passive verb forms: *έχει γραφτεί* / *echi grafti* "he/she/it has been written", *θα γραφτεί* / *tha grafti* "he/she/it  will be written" 
 -	Auxiliary form of *είμαι*  “to be” when a participle depends on it: *Το κείμενο <b>είναι γραμμένο</b> στην κυπριακή διάλεκτο* "the text is written in the Cypriot dialect"
--	
+
 ### References
 <!-- Interlanguage links updated So kvě 14 19:01:45 CEST 2022 -->
