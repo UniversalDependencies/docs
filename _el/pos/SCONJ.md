@@ -14,19 +14,18 @@ A subordinating conjunction is a conjunction that links constructions by making 
 *που* and *να* are used in several ways:
 - *που* is assigned the tag <code>PRON</code> if it refers to a noun, e.g. *Έχουμε πολλές πληροφορίες, που*.PRON *δεν οδηγούν όμως πουθενά* "we have much information that, however, leads to nowhere". However, it is assigned the tag <code>SCONJ</code> when it introduces a  complement of saying or sense verbs  (criterion: in this case, it can be replaced with the word *ότι* with somewhat different implications), e.g., *Σε είδα που τον κοίταζες.* "I saw that you watched him.",  *Δεν άκουσες που είπε: «Ευχαριστώ, ωραία μου κυρία»;* "Haven't you heard him saying "Thanks my fair lady"?"
 - *να* is assigned the tagCwhen it is used any type of subordinate clause:
-   -	verb complement, e.g., *Του είπα <b>να</b> έρθει*.[ccomp]() *εδώ΄*``I told him <b>to</b> come.[ccomp]()  here',   *Το Λιμενικό είναι και το μόνο ικανό <b>να</b> ξεδιαλύνει.*[xcomp]() *την υπόθεση* `Only Maritime Police is able <b>to</b> shed.[xcomp]() light on this case",    *Έτυχε <b>να</b> τον συναντήσετε.*[csubj]() *ποτέ μόνο του;* "Have you happened <b>to</b> meet only him?"
+   -	verb argument, e.g., *Του είπα <b>να</b> έρθει*.[ccomp]() *εδώ΄*``I told him <b>to</b> come.[ccomp]()  here',   *Το Λιμενικό είναι και το μόνο ικανό <b>να</b> ξεδιαλύνει.*[xcomp]() *την υπόθεση* `Only Maritime Police is able <b>to</b> shed.[xcomp]() light on this case",    *Έτυχε <b>να</b> τον συναντήσετε.*[csubj]() *ποτέ μόνο του;* "Have you happened <b>to</b> meet only him?"
    -	clausal nominal modifiers e.g. *Η μόνη δυνατότητα <b>να</b> πλευρίσει.*[acl]() *σκάφος στην περιοχή είναι η Σκάλα Ωρωπού.* "The only possibility for a boat to dock in this area is going to Skala Oropou"
 	-  goal denoting clauses where *να* or  *για να* introduce the clause; *για* is tagged <code>ADP</code> and depends on *να* with the [fixed]() dependency, e.g., *Σηκώνεται <b>για</b>*.<code>ADP</code> *<b>να</b> με υποδεχτεί.* [advcl]() "He rises <b>to</b> welcome me". 
-   -  πρόταση που λειτουργούν ως επιρρηματικοί προσδιορισμοί, πάντα σε συνεμφάνιση με άλλες άκλιτες λέξεις:, αντί να, δίχως να, που να, πριν να, σαν να, χωρίς να, ώσπου να,  ώστε να. Οι άκλιτες λέξεις διατηρούν το μέρος του λόγου στο οποίο ανήκουν κανονικά αλλά εξαρτώνται από τον να σε συντακτικό επίπεδο με σχέση πολυλεκτικού fixed, πχ 
-Αντί να της δώσει τα παπούτσια σ το χέρι , έκανε και παιδί μαζί της.
-Με ακούει δίχως.adp να.Sconj[fixed] με διακόψει με ερωτήσεις.
-τη ρωτάω , χωρίς να μπω σε συζήτηση για την ανεπάρκεια του σιναφιού μας.
-Σαν να μη μου έφτανε η κούραση , νιώθω και το στομάχι μου ασήκωτο.
-Ψάξε , ώσπου να πιάσεις πάτο
-Βάζω πλώρη για την Αλεξάνδρας, μέσω Σούτσου, ώστε.Sconj  να.Sconj[fixed] φτάσω[advcl] από την Ιουλιανού στο σταθμό Λαρίσης.
--	Ειδικότερα και ο που στο που να χαρακτηρίζεται ως Sconj. 
-Οι περισσότεροι ανησυχούν αλλά όχι τόσο που να επηρεάζει την καθημερινή τους ζωή.
-e.	Aux όταν
+   -  all other cases where the *να*-introduced clauses function as adverbial modifiers and *να* co-occurs with other uniflected words, e.g.,  *αντί να, δίχως να, που να, πριν να, σαν να, χωρίς να, ώσπου να,  ώστε να*. The uniflected words are assigned their original tags and depend on *να* with the [fixed]() dependency, e.g.,  
+	-  Αντί να της δώσει τα παπούτσια σ το χέρι , έκανε και παιδί μαζί της.
+	-  Με ακούει δίχως.adp να.Sconj[fixed] με διακόψει με ερωτήσεις.
+	-  τη ρωτάω , χωρίς να μπω σε συζήτηση για την ανεπάρκεια του σιναφιού μας.
+	-  Σαν να μη μου έφτανε η κούραση , νιώθω και το στομάχι μου ασήκωτο.
+	-  Ψάξε , ώσπου να πιάσεις πάτο
+	-   Βάζω πλώρη για την Αλεξάνδρας, μέσω Σούτσου, ώστε.Sconj  να.Sconj[fixed] φτάσω[advcl] από την Ιουλιανού στο σταθμό Λαρίσης.
+-  Ειδικότερα και ο που στο που να χαρακτηρίζεται ως Sconj, e.g., Οι περισσότεροι ανησυχούν αλλά όχι τόσο που να επηρεάζει την καθημερινή τους ζωή.
+- Aux όταν
 i.	Εισάγει κύρια πρόταση, πχ. Να.Αux έρθεις[root] γρήγορα / Αλλά τι να.Αux πεις[root]  / Ούτε να.Αux τ' ακούσει[root]. 
 ii.	Εμφανίζεται σε αναφορικές προτάσεις με τον που ή το οποίος , πχ.  Δεν υπάρχει τίποτα παραπάνω που να έχει ανακαλύψει η άλλη δυάδα /Ληστές που να κάνουν λαμπίκο το αυτοκίνητο πριν το εγκαταλείψουν, δεν υπάρχουν/Στη συνέχεια γράψτε μια συνάρτηση η οποία να τυπώνει αυτά τα δεδομένα . Σε αυτήν την περίπτωση ο που χαρακτηρίζεται ως PRON, η πρόταση [acl:relcl] και ο να ως Aux . Σε αυτές τις προτάσεις ο να έχει  τον ρολο των modals της Αγγλικής.
 f.	αλλού PART, πχ. Λόλα, να ένα μήλο.
