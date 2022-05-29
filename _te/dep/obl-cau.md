@@ -5,7 +5,7 @@ shortdef : 'oblique modifier in causative clauses'
 udver: '2'
 ---
 
-The relation `obl:cmp` is used for oblique participants in the causative case (the causees).
+The relation `obl:cau` is used for oblique participants in the causative case (the causees).
 
 ~~~ sdparse
 రాము కమల-చేత నీళ్ళు కాయించేడు . \n rāmu kamala-ceta nīḷḷu kāyiṁceḍu . \n Ramu Kamala-to water makes-boil .
