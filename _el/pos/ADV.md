@@ -27,7 +27,7 @@ Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial partic
 
 *μετά* and *εντός* may appear with a noun in the genitive case: the first denotes accompaniment, e.g.,  *μετά ληστείας* / meta listias ‘together with a robbery' while both are structures inherited from older versions of the language, e.g. *εντός δευτερολέπτων* / entos defterolepton ‘within minutes'. In all these cases *μετά* and *εντός* are assigned the tag [ADV]().
 
-Repetition of an adverb is a degree modification structure, e.g., πάνω πάνω Lit.up up, πίσω πίσω Lit. back back, σιγά σιγά Lit. slowly slowly, πονηρά πονηρά Lit. cuningly cuningly. Each word is assigned the tag [ADV]() and the second word depends on the first one with the <code>Compound:redup</code> relation. 
+The structure consisting of a pair of identical adverbs is a degree modification one, e.g., *πάνω πάνω* Lit.up up "on the very top", *πίσω πίσω* Lit. back back "at the very back", *σιγά σιγά* Lit. slowly slowly "very very slowly", *πονηρά πονηρά* Lit. cuningly cuningly "very very cunningly". Each adverb is assigned the tag [ADV]() and the second adverb depends on the first one with the <code>Compound:redup</code> relation. 
 
 
 
