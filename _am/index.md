@@ -17,8 +17,8 @@ udver: '2'
 
 ### Tags
 
-* Amharic uses 15 of the 17 universal POS categories, including particles ([PART]()).
-  The [SYM]() and [X]() categories do not occur in the present data.
+* Amharic uses 16 of the 17 universal POS categories, including particles ([PART]()).
+  The [SYM]() category does not occur in the present data.
 * TODO: Auxiliaries.
 * There are three main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Finite verb `Fin`, tagged [VERB]().
