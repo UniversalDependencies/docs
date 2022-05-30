@@ -21,7 +21,7 @@ describes the case meaning that the adposition contributes to the phrase
 in which it appears.
 
 Not all Amharic adpositions are annotated with a `Case` feature. Some
-adpositions that that have the feature are incorporated in a [verb](u-pos/VERB)
+adpositions that have the feature are incorporated in a [verb](u-pos/VERB)
 form on the surface; they are treated as separate syntactic words in UD and
 may depend directly on the verb stem.
 
