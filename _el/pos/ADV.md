@@ -21,11 +21,16 @@ Adverbs may be assigned the <code>PronType</code> feature:
 - totality adverbs ([PronType=Tot]()): *παντού* / *pantou* ‘everywhere', *πάντα/πάντοτε* / *panta/pantote* ‘always'
 
 
-Modern Greek uses complex structures consisting of an adverb and an adposition: *(μέσα σε)* (lit: in to) μέσα: ADV σε: ADP, *(ενάντια σε)* (lit: contrary to) ενάντια: ADV σε: ADP.
+Modern Greek uses complex structures consisting of an adverb and an adposition: *(μέσα σε)* (lit: in to) μέσα: ADV σε: ADP, *(ενάντια σε)* (lit: contrary to) ενάντια: ADV σε: ADP. The  ADP depends on the ADV  wth the relation [fixed]().
 
 Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) share properties and usage of adverbs and verbs and are assigned the tag [VERB](), the specification <code>VerbForm=Conv</code> and are tagged for <code>Aspect</code> and <code>Voice</code>.  
 
 *μετά* and *εντός* may appear with a noun in the genitive case: the first denotes accompaniment, e.g.,  *μετά ληστείας* / meta listias ‘together with a robbery' while both are structures inherited from older versions of the language, e.g. *εντός δευτερολέπτων* / entos defterolepton ‘within minutes'. In all these cases *μετά* and *εντός* are assigned the tag [ADV]().
+
+The structure consisting of a pair of identical adverbs is a degree modification one, e.g., *πάνω πάνω* Lit. up up "on the very top", *πίσω πίσω* Lit. back back "at the very back", *σιγά σιγά* Lit. slowly slowly "very very slowly", *πονηρά πονηρά* Lit. cuningly cuningly "very very cunningly". Each adverb is assigned the tag [ADV]() and the second adverb depends on the first one with the <code>Compound:redup</code> relation. 
+
+
+
 
 ### Examples
 -	locative adverbs: *απέξω* / *apekso* ‘outside’, *εδώ* / *edo*  ‘here’, *εκεί* / *eki* ‘there’, *πάνω* / *pano* ‘up’, *κάτω* / *kato* ‘down’, *δεξιά* / *deksia* ‘right’, *αριστερά* / *aristera* ‘left’, *κάπου* / *kapou* ‘somewhere’, *παντού* / *pantou* ‘everywhere’, *πουθενά* / *pouthena* ‘nowhere’, *πού* / *pou* ‘where’
