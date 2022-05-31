@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>
+  <td><a href="#Int">Int</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Rcp">Rcp</a></td>
   <td><a href="#Rel">Rel</a></td>
@@ -40,7 +41,7 @@ Relative pronoun mín is used in [relative clause](bm-dep/acl).
 
 * _Fàntá bɛ́ dɔ́nkili <b>mín</b> dá, ò ká dí né má._ "A song which Fanta sings, I like it".
 
-### <a name="Dem">`Dem`</a>:  demonstratives
+### <a name="Dem">`Dem`</a>: demonstratives
 
 In Bamana, there are two demonstratives ò 'that' and  nín 'this'. They can be [pronouns](bm-pos/PRON) or [determinatives](bm-pos/DET).
 
@@ -55,5 +56,12 @@ Personal pronouns in Bamana have two series: basic one and emphatic one. The use
 #### Examples
 
 * _né, é, àlé, ánw, áw, òlu_
+
+### <a name="Int">`Int`</a>: interrogatives
+
+This value is used with the interrogative adverb _min_ "where".
+
+* _I bè taga <b>min</b>?_ "Where are you going?"
+
 
 <!-- Interlanguage links updated So kvě 14 19:02:35 CEST 2022 -->
