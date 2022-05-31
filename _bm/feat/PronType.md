@@ -61,6 +61,8 @@ Personal pronouns in Bamana have two series: basic one and emphatic one. The use
 
 This value is used with the interrogative adverb _min_ "where".
 
+#### Examples
+
 * _I bè taga <b>min</b>?_ "Where are you going?"
 
 
