@@ -44,21 +44,17 @@ and [Bambara features](feat/index.html).
 
 ### Features
 
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
+* The two main values of the [Number]() feature are `Sing` and `Plur`. The singular is annotated only for pronouns.
+  Nouns and other nominals have either no `Number` feature, or `Number=Plur` if the plural suffix _-w_ is present.
+* Verbal features such as [Tense](), [Aspect](), [Mood]() and [Polarity]() are typically provided by auxiliaries
+  ([AUX]()) and annotated on them.
+* [PronType]() applies to pronouns ([PRON]()), determiners ([DET]()), and to the interrogative adverb ([ADV]()) _min_ “where”.
 
 ## Syntax
 
-*
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
+* The default word order is subject – auxiliary – object – verb – oblique modifiers.
+  In nonverbal clauses, the auxiliary occurs between the subject and the nonverbal predicate.
+* Nominals may occur with postpositions but the core arguments (subject, object) are usually bare noun phrases.
 
 ## Treebanks
 
