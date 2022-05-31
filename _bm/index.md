@@ -24,11 +24,11 @@ and [Bambara features](feat/index.html).
 
 * Bambara uses all 17 universal POS categories, including particles ([PART]()).
   At present, the data does not contain any examples of the [SYM]() category.
-* Czech has just one auxiliary verb ([AUX]()), _být_ (“to be”), but lemmas _bývat_ and _bývávat_ are also possible.
-  The auxiliary verb is used in several types of constructions:
-  * The copula with non-verbal predicates.
+* Auxiliaries are used regularly in Bambara clauses. They appear between the subject nominal and the verb
+  (or, if an object is present, between subject and object). There is no designated copula; placing one of
+  the regular auxiliaries between two nominals creates a nonverbal clause.
   * _tùn_ for the periphrastic past tense.
-  * _bɛ́na_ is the future affirmative auxiliary.
+  * _bɛ́na, na_ is the future affirmative auxiliary.
   * _tɛ́na_ is the future negative auxiliary.
   * _bɛ_ is the imperfect affirmative auxiliary.
   * _tɛ_ is the imperfect negative auxiliary.
@@ -37,7 +37,6 @@ and [Bambara features](feat/index.html).
   * _mána_ for the conditional mood.
   * _kàna_ for the negative imperative (prohibitive).
   * _ka_ is used in multiple contexts, marking infinitive or subjunctive but also optative and simple affirmative.
-  * Periphrastic passive (any form of _být_, including periphrastic forms, + passive participle of the main verb).
 * Verbs with modal meaning are not considered auxiliary in Bambara.
 * There are two main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Participle `Part`, tagged [VERB]() or [ADJ]().
@@ -63,14 +62,6 @@ and [Bambara features](feat/index.html).
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There is 1 Bambara UD treebank:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Bambara-CRB](../treebanks/bm_crb/index.html)
