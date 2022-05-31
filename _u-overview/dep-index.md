@@ -36,10 +36,12 @@ way include but are not limited to the following:
 
 * [acl:relcl]() for relative adnominal clauses
 * [aux:pass]() for the passive auxiliary
+* [csubj:outer]() for outer clausal subjects of predicates that are clauses
 * [csubj:pass]() for clausal subjects of passive clauses
 * [expl:impers]() for reflexive markers of impersonal clauses
 * [expl:pass]() for reflexive markers of middle or passive clauses
 * [expl:pv]() for reflexive clitics with inherently reflexive verbs
+* [nsubj:outer]() for outer nominal subjects of predicates that are clauses
 * [nsubj:pass]() for nominal subjects of passive clauses
 * [obl:agent]() for demoted agents in passive clauses
 
