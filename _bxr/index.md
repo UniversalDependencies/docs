@@ -20,6 +20,10 @@ udver: '2'
 
 * All 17 universal POS categories are relevant for Buryat, although the current data does not contain any instance of [X]().
 * At present, 177 lemma types are tagged [PART]().
+* Buryat has the following auxiliary verbs ([AUX]()):
+  * _бай (bay)_ “to be” is the copula.
+  * _боло (bolo)_ “to become” is used in periphrastic future and other tenses; it also functions as a pseudo-copula (but is not annotated as copula in UD).
+  * _шада (šada)_ “can, be able” is a modal auxiliary.
 * There are four main types of verbal forms, distinguished by the value of the [VerbForm]() feature
   (all of them are tagged [VERB]() or [AUX](), not as other derived categories):
   * Finite verb `Fin` can act as a predicate of a main clause without an auxiliary; it inflects for the [Person]() of the subject.
