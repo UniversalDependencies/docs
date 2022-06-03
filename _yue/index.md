@@ -50,6 +50,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
   * [compound:quant]() for verb-quantifier compounds
   * [compound:vo]() for verb-object compounds
   * [compound:vv]() for verb-verb compounds
+  * [clf:det]() for classifiers used as determiners
   * [discourse:sp]() for sentence-final particles
 * The following relation types are not used in Cantonese at all:
   [expl](), [fixed]()
