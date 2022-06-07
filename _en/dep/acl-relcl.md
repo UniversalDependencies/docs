@@ -12,10 +12,7 @@ The head is said to be "extracted" from the RC.
 
 Most RCs are adnominal, hence the relation `acl:relcl`. Adverbial RCs attach as [advcl:relcl](), as discussed [below](#adverbial-relative-clauses).
 
-RCs are usually finite (*people who live in glass houses*), but may also be infinitival (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses.
-<!-- Infinitival RCs are discussed in CGEL pp. 1067-1068 -->
-
-☞ TODO: do we want to implement infinitival RCs? EWT only has them for free relatives. "nice people to meet here" is plain `acl(people,meet)`. Not marking it as an RC means there is no way to find that there is a gap/extracted element (cf. "the idea to meet").
+RCs are usually finite (*people who live in glass houses*), but may also be [infinitival](#infinitival-relatives) (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses.
 
 In the Basic Dependencies representation, the main predicate of the RC attaches to the head as `acl:relcl`. This is shown in the example on the left.
 
@@ -307,6 +304,47 @@ nmod(jewels, which)
 case(which, of)
 nsubj:pass(stolen, jewels)
 ~~~
+
+## Infinitival Relatives
+
+<!-- Infinitival RCs are discussed in CGEL pp. 1067-1068 -->
+
+Relative clauses may be infinitival, in which case they do not generally have a relativizer.
+
+~~~sdparse
+I found a bagel to eat
+acl:relcl(bagel, eat)
+~~~
+
+~~~sdparse
+I found someone to work on Saturdays
+acl:relcl(someone, work)
+~~~
+
+~~~sdparse
+I found a house (for my mother) to live in
+acl:relcl(house, live)
+obl(live, in)
+~~~
+
+Infinitival [prepositional relatives](#prepositional-relatives) with a relativizer are possible as an alternative to stranding:
+
+~~~sdparse
+I found a house in which to live
+acl:relcl(house, live)
+obl(live, which)
+case(which, in)
+~~~
+
+Note that an adnominal infinitival clause is only a relative clause if the head noun is understood to double as a dependent of the subordinate clause. 
+In the above examples, the bagel is the thing eaten (which corresponds to an `obj` in enhanced dependencies); *someone* is the person assigned to work (the enhanced `nsubj`); and so on.
+
+By contrast, the following is plain [acl]() because *suggestion* is not understood as playing any role in the infinitival clause:
+
+~~~sdparse
+your suggestion to eat early
+acl(suggestion, eat)
+~~~ 
 
 ## RCs Versus Non-relative Modifier Clauses
 
