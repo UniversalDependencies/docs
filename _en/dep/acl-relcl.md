@@ -374,9 +374,6 @@ advmod(resigned, when)
 acl(headlines, resigned)
 ~~~
 
-☞ TODO: the above (non-relative WH words) would be SCONJ/`mark` not ADV/`advmod` in EWT. Also, relativizers are inconsistent in EWT.
-<https://github.com/UniversalDependencies/UD_English-EWT/issues/88>, <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61bfec493c0d3&clustering=W.upos>
-
 However, it should be considered a relative construction if the WH-adverb can be paraphrased by *in which* or similar, or if the head noun reifies the kind of relation (*the time when*, *the place where*, *the reason why*).
 
 ~~~sdparse
@@ -481,8 +478,6 @@ mark(has-36, whether)
 conj(lives, here)
 advmod(here, why)
 ~~~
-
-☞ TODO: "how old he is": I think this is a good argument to treat WH words introducing an interrogative complement clause as `advmod`, not `mark`, because "how", "what", "which" can be NP dependents. cf. "it depends on [how good a horse] your horse is"
 
 Interrogative WH-clauses can also function as clause adjuncts:
 
