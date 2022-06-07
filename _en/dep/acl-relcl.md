@@ -7,7 +7,7 @@ udver: '2'
 
 ** UNDER REVISION **
 
-A relative clause (RC) is a finite clause modifying some head (typically a noun) that is understood to fulfill some grammatical role in the RC. 
+A relative clause (RC) is a clause modifying some head (typically a noun) that is understood to fulfill some grammatical role in the RC. 
 The head is said to be "extracted" from the RC.
 
 Most RCs are adnominal, hence the relation `acl:relcl`. Adverbial RCs attach as [advcl:relcl](), as discussed [below](#adverbial-relative-clauses).
