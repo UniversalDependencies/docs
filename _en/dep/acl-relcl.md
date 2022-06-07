@@ -208,18 +208,7 @@ Another such case occurs in *it*-clefts: see [below](#clefts).
 
 ## Predicate Ellipsis in the Relative Clause
 
-TBD: Option A: promote the aux, relativizer as mark
-
-~~~ sdparse
-If we lose ( which/PRON we probably will ) , I'm blaming you.
-advcl(blaming, lose)
-advcl:relcl(lose, will)
-nsubj(will, we-6)
-advmod(will, probably)
-mark(will, which)
-~~~
-
-Option B: relativizer as predicate
+A pronominal relativizer may stand for a predicate in a relative clause:
 
 ~~~ sdparse
 If we lose ( which/PRON we probably will ) , I'm blaming you.
@@ -230,8 +219,7 @@ advmod(which, probably)
 aux(which, will)
 ~~~
 
-Option B seems logical given how we normally treat the relativizer as standing for substantive material in the embedded clause, 
-but a clause-initial PRON standing for a predicate looks a bit odd.
+TODO: decide about advcl:relcl
 
 ## Preposition Stranding
 
