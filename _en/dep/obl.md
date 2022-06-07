@@ -25,7 +25,7 @@ case(brochure, to)
 
 ~~~ sdparse
 people afraid/ADJ of sharks
-acl(people, afraid)
+amod(people, afraid)
 obl(afraid, sharks)
 case(sharks, of)
 ~~~
