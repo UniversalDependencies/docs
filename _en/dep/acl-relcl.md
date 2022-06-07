@@ -384,15 +384,6 @@ obj(like, how)
 acl:relcl(how, looks)
 ~~~
 
-~~~sdparse
-I love how well everyone behaved .
-obj(love, well)
-advmod(well, how)
-acl:relcl(well, behaved)
-~~~
-
-☞ TODO: GKP: exclamative. CGEL p. 919: exclamatives license *very*: "I love how very well everyone behaved" (\*I wonder how very well everyone behaved). cf. "I love how appreciative everyone was" (cyclic example)
-
 ### Free Relatives Versus Interrogative/Exclamative Complement Clauses
 
 Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
@@ -478,44 +469,37 @@ det(jerk, a)
 nsubj(jerk, he)
 cop(jerk, is)
 ~~~
+- I love how well everyone behaved.
+~~~sdparse
+I love how well everyone behaved .
+ccomp(love, behaved)
+advmod(behaved, well)
+advmod(well, how)
+~~~
 - I noticed how big a car he has. ('I noticed that he has a remarkably big car.')
+~~~sdparse
+I noticed how big a car he has .
+ccomp(noticed, has)
+obj(has, car)
+amod(car, big)
+advmod(big, how)
+~~~
+
+☞ TODO: With the exclamative clause analysis [these results with BE as the RC predicate](http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c5129ddeaf0) should be revisited.
 
 ☞ TODO: plain `acl` for a WH-clause: is this limited to interrogative and exclamative complements of nouns, and non-RC adjuncts ("press conferences when the US forces were already inside Baghdad")? <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c1f3622bda6>
 
 
 ### Cyclic cases
 
-In some cases, the _wh_-phrase would be analyzed as the head of the _wh_-clause. For example, in the sentence _I love how appreciative everyone was_, the word _appreciative_ would normally be a predicative head (since the verb _was_ is a copula and would receive the `cop` relation). Since _appreciative_ cannot be an `acl:relcl` dependent on itself, the auxiliary is promoted to the head of the relative clause and assigned the `acl:relcl` relation.
+In some cases, promotion is required to avoid a cycle. For example, in the sentence _I want to sample whatever dish this is_, _whatever dish this is_ is a free relative with a copular embedded clause. The word _dish_ cannot simultaneously be treated as the copular predicate and the head of the free relative (because it cannot be an `acl:relcl` dependent on itself), so the auxiliary is promoted to the head of the embedded clause and assigned the `acl:relcl` relation.
 
 ~~~sdparse
-I love how appreciative everyone was .
-obj(love, appreciative)
-acl:relcl(appreciative, was)
-advmod(appreciative, how)
-~~~
-
-☞ TODO: If I am reading CGEL correctly this should be an exclamative complement clause, not a free relative, so the cyclicity problem goes away. If we adopt the exclamative clause analysis [these results with BE as the RC predicate](http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c5129ddeaf0) should be revisited.
-Maybe a better example: "I want to sample whatever dish this is". "Whatever dish" cannot be simultaneously the head of the RC and the predicate of the embedded clause, so "is" gets promoted.
-
-
-☞ TODO: Also copied from the v1 guidelines:
-
-~~~sdparse
-This is the key to how worthy the effort might be .
-nmod(key, worthy)
-case(worthy, to)
-advmod(worthy, how)
-acl:relcl(worthy, be)
-~~~
-
-But I am not sure whether this is a free relative. Cf. "This is the key to whether the effort might be worthy." (suggests clause-like) "This is the key to its worthiness." (suggests NP-like). Maybe it's ambiguous? How about:
-
-~~~sdparse
-This is the key to how worthy the effort might be .
-mark(worthy, to)
-advmod(worthy, how)
-acl(key, worthy)
-cop(worthy, be)
+I want to sample whatever dish this is .
+obj(sample, dish)
+det(dish, whatever)
+acl:relcl(dish, is)
+nsubj(is, this)
 ~~~
 
 
