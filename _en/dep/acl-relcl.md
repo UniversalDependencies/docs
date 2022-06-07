@@ -305,6 +305,11 @@ acl:relcl(bagel, eat)
 ~~~
 
 ~~~sdparse
+I have a suggestion to make
+acl:relcl(suggestion, make)
+~~~
+
+~~~sdparse
 I found someone to work on Saturdays
 acl:relcl(someone, work)
 ~~~
@@ -327,12 +332,31 @@ case(which, in)
 Note that an adnominal infinitival clause is only a relative clause if the head noun is understood to double as a dependent of the subordinate clause. 
 In the above examples, the bagel is the thing eaten (which corresponds to an `obj` in enhanced dependencies); *someone* is the person assigned to work (the enhanced `nsubj`); and so on.
 
-By contrast, the following is plain [acl]() because *suggestion* is not understood as playing any role in the infinitival clause:
+By contrast, the following are plain [acl]() because *suggestion* and *ability* are not understood as playing any role in the infinitival clause:
 
 ~~~sdparse
 your suggestion to eat early
 acl(suggestion, eat)
+~~~
+
+~~~sdparse
+your ability to navigate in the dark
+acl(ability, navigate)
+~~~
+
+Some infinitivals are ambiguous between two plausible readings. *A proposal to speed up the meeting* can be construed as a proposal *of* speeding up the meeting, i.e. speeding up is the content of the proposal ([acl]()); or the proposal can be understood to consist of some method of saving time, in which case the proposal is construed as speeding up the meeting—a subject relative interpretation (`acl:relcl`).
+
+With nouns like *proposal*, the *of*-paraphrase test can be used as a diagnostic for the non-relative interpretation.
+Another diagnostic is substituting *something*, *somewhere*, *some way*(?), or similar, which favors the relative clause interpretation:[^3]
+
+TODO: Currently [acl]() has "a simple way to get my discount". Is this an adjunct relative or a complement of "way"? It can be paraphrased as "way of getting my discount". Similarly: "reason to leave"/"reason for leaving".
+
+~~~sdparse
+something to speed up the meeting
+acl:relcl(something, speed)
 ~~~ 
+
+[^3]: However, this test fails for *a suggestion to make*: *\*something to make* is not a valid substitution because *make a suggestion* is a light verb construction.
 
 ## RCs Versus Non-relative Modifier Clauses
 
