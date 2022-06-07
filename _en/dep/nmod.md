@@ -5,19 +5,12 @@ shortdef : 'nominal modifier'
 udver: '2'
 ---
 
-The `nmod` relation is used for nominal modifiers of nouns or clausal
-predicates. `nmod` is a noun functioning as a non-core (oblique)
-argument or adjunct. In English, `nmod` is used
+The `nmod` relation is used for nominal dependents of another noun or noun phrase and functionally corresponds to
+an attribute, or genitive complement.
 
-- for prepositional complements (including datives and partitives):
+**New from v2:** The `nmod` relation was previously used also for nominal dependents of verbs, adjectives, and adverbs. These are now covered by the new [obl]() relation.
 
-~~~ sdparse
-the office of the Chair
-det(office-2, the-1)
-nmod(office-2, Chair-5)
-case(Chair-5, of-3)
-det(Chair-5, the-4)
-~~~
+In English, plain `nmod` applies to __prepositionally-marked__ dependents of nominals (the preposition itself attaches as [case]()):
 
 ~~~ sdparse
 toys for children
@@ -32,26 +25,31 @@ case(toys, of)
 det(toys, the)
 ~~~
 
-The `nmod` relation holds between the noun/predicate modified by the
-prepositional complement and the noun introduced by the preposition.
-
-- for 's genitives, use [nmod:poss]():
-
-~~~ sdparse
-the Chair 's office
-det(Chair-2, the-1)
-nmod:poss(office-4, Chair-2)
-case(Chair-2, 's-3)
-~~~
-
+The subtype [nmod:poss]() applies to nominals with possessive (genitive) marking instead of a preposition:
 
 ~~~ sdparse
 my office
 nmod:poss(office, my)
 ~~~
 
-Nominal modifiers not marked by a preposition or 's genitive
-are tagged [nmod:npmod](), a subtype of `nmod`. Temporal nominal
-modifiers are also marked with a separate relation [nmod:tmod](). See
+The possessive can alternate with the preposition *of*, in which case only the relation label differs:
+
+~~~ sdparse
+the president 's office
+det(president, the-1)
+nmod:poss(office-4, president)
+case(president, 's-3)
+~~~
+
+~~~ sdparse
+the office of the president
+det(office-2, the-1)
+nmod(office-2, president)
+case(president, of-3)
+det(president, the-4)
+~~~
+
+Prepositionless, non-possessive nominals serving as adnominal modifiers
+are tagged with subtypes [nmod:tmod]() (temporal) or [nmod:npmod]() (other). See
 the definitions of these relations.
 <!-- Interlanguage links updated So kvě 14 19:03:44 CEST 2022 -->
