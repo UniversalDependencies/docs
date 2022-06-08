@@ -22,7 +22,7 @@ The `Variant` feature helps to distinguish the alternate forms.
 
 * _<b>здатен</b>_ (instead of _здатний_) “able”
 * _<b>потрібен</b>_ (instead of _потрібний_) “necessary”
-* _<b>кожен</b>_ (instead of _кожний_) “necessary”
+* _<b>кожен</b>_ (instead of _кожний_) “everyone”
 
 
 ### <a name="Uncontr">`Uncontr`</a>: uncontracted form of adjectives
