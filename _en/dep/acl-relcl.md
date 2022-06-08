@@ -431,6 +431,8 @@ obj(like, how)
 acl:relcl(how, looks)
 ~~~
 
+TODO: *where* and *how* are ADVs, so is advcl:relcl more appropriate?
+
 ### Free Relatives Versus Interrogative/Exclamative Complement Clauses
 
 Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
