@@ -13,7 +13,7 @@ udver: '2'
 * A whitespace separating digits in a large number is not treated as a word separator. For example, _1&nbsp;000&nbsp;000_ (“1,000,000” by English rules) is one token.
 * There are two closed classes of contractions that are treated as multi-word tokens and segmented to individual syntactic words:
   1. Pronouns like _ні́де_ (_немає де_) “there is nowhere to”, _ні́кому_ (_немає кому_) “there is no one to” (not to confuse with _ніде́&nbsp;_ “nowhere”, _ніко́му&nbsp;_ “to no one”; notice the accent).
-  2. Nouns fused with a numeral _пів&nbsp;_ “half of”: _півметра&nbsp;_ “half a meter”. Such spelling is now deprecated in standart Ukrainian and it is now correct to write _пів метра_.
+  2. Nouns fused with a numeral _пів&nbsp;_ “half of”: _півметра&nbsp;_ “half a meter”. Such spelling is now deprecated in standard Ukrainian and it is now correct to use a whitespace: _пів метра_.
 
 ## Morphology
 
