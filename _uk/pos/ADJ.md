@@ -2,13 +2,14 @@
 layout: postag
 title: 'ADJ'
 shortdef: 'adjective'
+udver: '2'
 ---
 ### Definition
 
 Adjectives are words that typically modify nouns and specify their
 properties or attributes. They may also function as predicates, as in
 
-_Ця машина є зелена.&nbsp;_ “The car is green.”
+_Ця машина зелена.&nbsp;_ “The car [is] green.”
 
 The `ADJ` tag is intended for ordinary adjectives only. See [DET]()
 for determiners and [NUM]() for cardinal numerals.

@@ -2,6 +2,7 @@
 layout: postag
 title: 'PRON'
 shortdef: 'pronoun'
+udver: '2'
 ---
 
 ### Definition
@@ -11,7 +12,7 @@ Pronouns are words that substitute for [nouns](NOUN) or noun phrases, whose mean
 Pronouns under this definition function like nouns. Note that Ukrainian grammar traditionally extends the term _pronoun_ to words that
 substitute for [adjectives](ADJ). Such words are not tagged `PRON` under our universal scheme. They are tagged as [determiners](DET) in order to annotate the same thing same way across languages.
 
-For instance, _tohle&nbsp;_ “this” is traditionally called pronoun in Czech grammar, regardless of context (the notion of determiners does not exist in Ukrainian grammar). To make the annotation parallel across languages, it is now tagged `PRON` in _<b>Це</b> я бачила вчора.&nbsp;_ “I saw <b>this</b> yesterday.” and `DET` in _<b>Це</b> дерево я бачила вчора._&nbsp;_ “I saw <b>this</b> tree yesterday.”
+For instance, _це&nbsp;_ “this” is traditionally called pronoun in Ukrainian grammar, regardless of context (the notion of determiners does not exist in Ukrainian grammar). To make the annotation parallel across languages, it is now tagged `PRON` in _<b>Це</b> я бачила вчора.&nbsp;_ “I saw <b>this</b> yesterday.” and `DET` in _<b>Це</b> дерево я бачила вчора._&nbsp;_ “I saw <b>this</b> tree yesterday.”
 
 ### Examples
 

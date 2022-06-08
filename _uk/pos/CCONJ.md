@@ -3,6 +3,7 @@ layout: postag
 title: 'CCONJ'
 redirect_from: "uk/pos/CONJ.html"
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
 
 ### Definition
