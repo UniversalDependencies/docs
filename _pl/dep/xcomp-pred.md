@@ -25,6 +25,7 @@ The `xcomp:pred` relation is used in the Polish [PDB-UD](http://universaldepende
 13	i	i	CCONJ	conj	_	14	cc	_	_
 14	samotny	samotny	ADJ	adj:sg:nom:m1:pos	Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	conj	6:xcomp:pred	SpaceAfter=No
 15	.	.	PUNCT	interp	PunctType=Peri	6	punct	_	_
+
 ~~~
 
 ~~~ conllu
@@ -44,6 +45,7 @@ The `xcomp:pred` relation is used in the Polish [PDB-UD](http://universaldepende
 14	and	_	_	_	_	_	_	_	_
 15	lonely	_	_	_	_	_	_	_	_
 16	.	_	_	_	_	_	_	_	_
+
 ~~~	
 
 <!-- Interlanguage links updated So kvě 14 19:04:18 CEST 2022 -->
