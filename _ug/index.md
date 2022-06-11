@@ -21,10 +21,6 @@ udver: '2'
   a semantically weak verb with a non-finite form of a semantically prominent verb is analyzed
   as an [xcomp]() construction, not as auxiliary. The following verbs are currently treated as
   auxiliaries at least in some contexts:
-* Czech has just one auxiliary verb ([AUX]()), _být_ (“to be”), but lemmas _bývat_ and _bývávat_ are also possible.
-  They are in fact just variants of _být_, but they are separate lemmas because
-  the morphological process that relates them to _být_ is considered derivational.
-  The auxiliary verb is used in several types of constructions:
   * The copula بول _bol_ (“to be”) is used with non-verbal predicates wherever the suffixed copula cannot be used.
     It is also used in some periphrastic constructions with other verbs.
   * The suffixed copula ئى _i_ can provide only some forms.
