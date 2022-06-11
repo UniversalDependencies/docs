@@ -469,11 +469,11 @@ There is the fundamental issue that `acl` must depend on a nominal. I would pref
 If required by the syntactic relations within the RC, the relativizer bears case markers (morphological or
 adpositional), just as if the position were filled with a full nominal.
 
-* [cs] _nebezpečí, kterého se bojíte_ “danger which you fear” (lit. danger, which.`Gen` yourself you.fear)
-* [cs] _nebezpečí, kterému čelíte_ “danger which you are facing” (lit. danger, which.`Dat` you.face)
-* [cs] _nebezpečí, které překonáte_ “danger which you overcome” (lit. danger, which.`Acc` you.overcome)
-* [cs] _nebezpečí, o kterém nevíte_ “danger which you do not know about” (lit. danger, about which.`Loc` you.not.know)
-* [cs] _nebezpečí, se kterým se vyrovnáte_ “danger which you cope with” (lit. danger, with which.`Ins` yourself you.cope)
+* [cs] _nebezpečí, <b>kterého</b> se bojíte_ “danger which you fear” (lit. danger, which.`Gen` yourself you.fear)
+* [cs] _nebezpečí, <b>kterému</b> čelíte_ “danger which you are facing” (lit. danger, which.`Dat` you.face)
+* [cs] _nebezpečí, <b>které</b> překonáte_ “danger which you overcome” (lit. danger, which.`Acc` you.overcome)
+* [cs] _nebezpečí, <b>o kterém</b> nevíte_ “danger which you do not know about” (lit. danger, about which.`Loc` you.not.know)
+* [cs] _nebezpečí, <b>se kterým</b> se vyrovnáte_ “danger which you cope with” (lit. danger, with which.`Ins` yourself you.cope)
 
 The enhanced relations include deep syntactic relations. Therefore, in case marking languages the enhanced
 dependencies may link verb dependents that are not in the expected morphological case, required by surface syntax.
