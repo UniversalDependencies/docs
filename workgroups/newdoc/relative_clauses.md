@@ -950,13 +950,7 @@ Nevertheless, relative clausal subjects are still clausal subjects, and there is
 could not be attached via the [csubj]() relation. In particular, there is no indication that the relative
 pronoun belongs to the main clause (rather than to the RC).
 
-☞ TODO:
-Ohledně free relatives se v práci podívat jednak do Huddleston and Pullum, jednak do nějaké podobně
-silné autority pro češtinu (Akademická mluvnice nebo Štíchova mluvnice).
-
-☞ TODO: correlatives (also in Indian languages)
-_Koho chleba jíš, toho píseň zpívej._ “Sing the song of those whose bread you eat.”
-(a semantically equivalent English proverb: “Let every man praise the bridge he goes over.”)
+☞ TODO: Correlatives in Indian languages.
 
 ☞ TODO:
 Add examples from languages where the fullest representation of the common argument is in the relative
