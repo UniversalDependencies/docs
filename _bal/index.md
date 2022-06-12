@@ -6,6 +6,8 @@ udver: '2'
 
 # UD for Balochi <span class="flagspan"><img class="flag" src="../../flags/svg/PK.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/IR.svg" /></span>
 
+<!-- Carina Jahani, Agnes Korn (2009). Balochi. In: Gernot Windfuhr (ed.) The Iranian Languages, pp. 634–692. Routledge, Oxon, UK. ISBN 978-0-415-62235-6. -->
+
 ## Tokenization and Word Segmentation
 
 * Punctuation is written adjacent to a neighboring word like in English and many other languages.
@@ -17,7 +19,7 @@ Some morphemes that are treated as bound morphemes in the literature are in fact
 For example, the conjugation suffixes of Balochi verbs come out as auxiliaries that follow the main verb. Example:
 
 <table>
-<!-- I got these examples from Zahoor by e-mail (2022-06-07), except for 1-Plur-Pres, which I constructed following Iranian Languages p. 660. -->
+<!-- I got these examples from Zahoor by e-mail (2022-06-07), except for 1-Plur-Pres, which I constructed following Jahani and Korn (2009) p. 660. -->
 <tr><td>کندگ</td><td><i>kandag</i></td><td>to laugh / laughing</td><td><tt>VerbForm=Inf</tt></td></tr>
 <tr><td>من کندگا آں</td><td><i>man kandagā āñ</i></td><td>I am laughing</td><td>The auxiliary is <tt>Number=Sing|Person=1</tt>. The main verb should probably be some non-finite form, maybe a participle.</td></tr>
 <tr><td>تو کندگا ئے</td><td><i>tō kandagā ay</i></td><td>you (<tt>Sing</tt>) are laughing</td><td></td></tr>
@@ -28,6 +30,16 @@ For example, the conjugation suffixes of Balochi verbs come out as auxiliaries t
 <tr><td>تو کند اِت</td><td><i>tō kand it</i></td><td>you (<tt>Sing</tt>) laughed</td><td></td></tr>
 <tr><td>تو کند اِتگ</td><td><i>tō kand itag</i></td><td>you (<tt>Sing</tt>) have laughed</td><td></td></tr>
 </table>
+
+The infinitive can be used and inflected as a verbal noun.
+
+The auxiliary forms are similar or identical to the copula which would be used with non-verbal predicates.
+
+According to Jahani and Korn (2009), Balochi nouns have five cases, termed direct, oblique, object, genitive,
+and vocative. In ditransitive clauses, the object case marks the recipient, i.e., it corresponds to the
+dative. Its morpheme is را _rā_. It is written after the noun as a separate word, hence it should be tagged
+[ADP](). The genitive morpheme is ءِ _'i_ and it is also written separately. ءَ _'a_ seems to be what they call
+the oblique case. It is sometimes used for the direct object (`Case=Acc`).
 
 ### Tags
 
