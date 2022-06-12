@@ -41,6 +41,10 @@ dative. Its morpheme is را _rā_. It is written after the noun as a separate w
 [ADP](). The genitive morpheme is ءِ _'i_ and it is also written separately. ءَ _'a_ seems to be what they call
 the oblique case. It is sometimes used for the direct object (`Case=Acc`).
 
+The nominative of all intransitive verbs and of transitive verbs in the present and future, is the simple
+uninflected noun. (Balochi has split ergativity like Indian languages, hence transitive verbs in the past
+tense have the ergative alignment.)
+
 ### Tags
 
 *
