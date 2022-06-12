@@ -22,7 +22,7 @@ Degree: degree of comparison, positive degree, equative degree, comparative degr
 Evident: evidentiality, firsthand, non-firsthand, narrative
 Foreign: foreign word
 Gender: gender, masculine, feminine, neuter, uter, common gender
-Mood: mood, modality, indicative, imperative, injunctive, conditional, potential, subjunctive, conjunctive, jussive, purposive mood, quotative, optative, desiderative, necessitative, realis, irrealis, admirative
+Mood: mood, modality, indicative, imperative, injunctive, interrogative mood, conditional, potential, subjunctive, conjunctive, jussive, purposive mood, quotative, optative, desiderative, necessitative, realis, irrealis, admirative
 NounClass: noun class, bantu noun class
 Number: number, singular, plural, dual, trial, paucal, greater paucal, greater plural, inverse number, count plural, counting form, quantitative plural, plurale tantum, collective noun, mass noun, singulare tantum
 NumType: numeral type, quantifier, cardinal, ordinal, multiplicative numeral, fraction, set numeral, collective numeral, distributive numeral, range numeral
@@ -30,7 +30,7 @@ Person: person, first person, second person, third person, fourth person, zero p
 Polarity: polarity, affirmative, positive polarity, negative polarity
 Polite: politeness, register, informal, formal, elevated referent, humbled speaker
 Poss: possessive
-PronType: pronominal type, personal, reciprocal pronominal, article, interrogative, relative, demonstrative, total, collective pronominal, negative pronominal, indefinite pronominal, emphatic, exclamative
+PronType: pronominal type, personal, reciprocal pronominal, article, interrogative pronominal, relative, demonstrative, total, collective pronominal, negative pronominal, indefinite pronominal, emphatic, exclamative
 Reflex: reflexive
 Tense: tense, past, preterite, aorist, non-past, present, future, imperfect tense, pluperfect, past perfect
 Typo: typo

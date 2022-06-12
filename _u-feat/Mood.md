@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Des">Des</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Int">Int</a></td>
   <td><a href="#Irr">Irr</a></td>
   <td><a href="#Jus">Jus</a></td>
   <td><a href="#Nec">Nec</a></td>
@@ -161,6 +162,18 @@ have to": "He <b>must</b><b> come</b>."
 
 * [tr] _eve <b>gitmeli</b>_ “she should go home”
 * [tr] _eve <b>gitmeliydi</b>_ “she should have gone home”
+
+### <a name="Int">`Int`</a>: interrogative
+
+Verbs in some languages have a special interrogative form tha is used in yes-no questions.
+This is attested, for instance, in the Turkic languages. Celtic languages have it for the
+copula but not for normal verbs.
+
+#### Examples
+
+* [ug] يېدىڭىز<b>مۇ</b>؟ / _yëdingiz<b>mu</b>?_ “Have you eaten?”
+* [ga] _<b>Nach</b> in aghaidh easa atá sé ag snámh?_ “Isn't he swimming against the tide / fighting a losing battle?”
+* [gd] _Rudeigin mu dheidhinn sgrìob a Venezuela, <b>an</b> e?_ “Something about a trip to Venezuela, isn't it?”
 
 ### <a name="Irr">`Irr`</a>: irrealis
 
