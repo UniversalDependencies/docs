@@ -33,8 +33,8 @@ Also when acronyms are spelled out, e.g.,  #μου-μου-ε* (spelling out of t
 -	Augmentatives (μεγεθυντικά)  productively formed by a proper noun and a suffix such as *-άρας* / *-aras*, like *Στελάρας* / *Stelaras* "large/great Stelios", *Σουλάρα* /  *Soulara* "large/great Soula": they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code> takes the value <code>Magnifier</code>
 -	Names of anniversaries, bank holidays such as *Ανάσταση* / *Anastasi* "Resurrection", *Επιτάφιος* / *Epitafios* "Epitaph", *Μεγάλη Εβδομάδα* / *Meghali Bdhomadha* "Holy Week", *Πάσχα* / *Pascha* "Easter", *Χριστούγεννα* / *Christouyena* "Christmas", *Πρωτοχρονιά* / *Protochronia* "the first day of the year"  
 -	Place names: 
-  -	  Street names in the genitive case resulting from the drop of the noun *οδός* / *odos* "street", such as *(οδός) Ερμού* / *(odos) Ermou* "Ermou (street)". 
-  -	  Αθηνών-Κορίνθου: αυτό πάλι είναι σύνθετο και είναι παραγωγικό. Η εσωτερική δομή του είναι PROPN PROPN συνδεόμενα με την σχέση compound με κατεύθυνση από το πρώτο στο δεύτερο ενώ το όλον συνδέεται κατάλληλα με όποια λέξη πρέπει με σχέση επί του πρώτου συνθετικού, εδώ Αθηνών. 
+    - Street names in the genitive case resulting from the drop of the noun *οδός* / *odos* "street", such as *(οδός) Ερμού* / *(odos) Ermou* "Ermou (street)". 
+    -	Αθηνών-Κορίνθου: αυτό πάλι είναι σύνθετο και είναι παραγωγικό. Η εσωτερική δομή του είναι PROPN PROPN συνδεόμενα με την σχέση compound με κατεύθυνση από το πρώτο στο δεύτερο ενώ το όλον συνδέεται κατάλληλα με όποια λέξη πρέπει με σχέση επί του πρώτου συνθετικού, εδώ Αθηνών. 
 
 Surnames in the GENitive case, like *Κανέλλου* / *Kanelou*  (feminine)  and  *Δημητρίου* /  *Dimitriou* (masculine/femnine), do not inflect and are assigned their own form as a lemma, e.g., the lemma is *Κανέλλου*.  
 <!-- Interlanguage links updated So kvě 14 19:01:54 CEST 2022 -->
