@@ -47,19 +47,18 @@ For more information, see the list of [English relations](dep/index.html).
 
 ## Treebanks
 
-There are six English UD treebanks:
+There are [nine](../treebanks/en-comparison.html) English UD treebanks:
 
-  * UD_English-ESL
-  * UD_English-EWT
-  * UD_English-GUM
-  * UD_English-LinES
-  * UD_English-PUD
-  * UD_English-ParTUT
+  * [English-Atis](../treebanks/en_atis/index.html)
+  * [English-ESL](../treebanks/en_esl/index.html)
+  * [English-EWT](../treebanks/en_ewt/index.html)
+  * [English-GUM](../treebanks/en_gum/index.html)
+  * [English-GUMReddit](../treebanks/en_gumreddit/index.html)
+  * [English-LinES](../treebanks/en_lines/index.html)
+  * [English-ParTUT](../treebanks/en_partut/index.html)
+  * [English-Pronouns](../treebanks/en_pronouns/index.html)
+  * [English-PUD](../treebanks/en_pud/index.html)
 
 Comparative statistics for tags in the treebanks are available here:
 
 [https://universaldependencies.org/treebanks/en-comparison.html](/treebanks/en-comparison.html)
-
-
-
-
