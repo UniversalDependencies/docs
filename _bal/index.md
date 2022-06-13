@@ -29,7 +29,7 @@ For example, the conjugation suffixes of Balochi verbs come out as auxiliaries t
 <tr><td>آ کندگا اِنت</td><td><i>ā kandagā int</i></td><td>he is laughing</td><td></td></tr>
 <tr><td>ما کندگا اِن</td><td><i>mā kandagā in</i></td><td>we are laughing</td><td></td></tr>
 <tr><td>شُما کندگا اِت</td><td><i>šumā kandagā it</i></td><td>you (<tt>Plur</tt>) are laughing</td><td></td></tr>
-<tr><td>آ کندگا اَنت</td><td><i>ā kandagā ant</i></td><td>he is laughing</td><td></td></tr>
+<tr><td>آ کندگا اَنت</td><td><i>ā kandagā ant</i></td><td>they are laughing</td><td></td></tr>
 <tr><td>تو کند اِت</td><td><i>tō kand it</i></td><td>you (<tt>Sing</tt>) laughed</td><td></td></tr>
 <tr><td>تو کند اِتگ</td><td><i>tō kand itag</i></td><td>you (<tt>Sing</tt>) have laughed</td><td></td></tr>
 </table>
