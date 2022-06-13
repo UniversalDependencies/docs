@@ -70,7 +70,7 @@ personal pronouns in the third person. The reflexive pronoun is _wat_.
 Possessive pronouns are generally the personal pronouns with the genitive suffix _-ī_; but unlike nouns,
 they are written together with the suffix as one word. We treat them as distinct lexemes with their own
 lemma and with the `Poss=Yes` feature, not as genitive forms of the non-possessive personal pronouns.
-The form ending in _-ī_ are used attributively; there are also predicative forms with an additional _-g_.
+The forms ending in _-ī_ are used attributively; there are also predicative forms with an additional _-g_.
 **TODO: Is there a feature we can use to distinguish the predicative form?**
 
 At least for the distal demonstrative, the genitive/possessive form is also used before the oblique case
@@ -79,7 +79,7 @@ marker. For example, آئی ءَ <i>ā'ī 'a (áiá)</i> is the oblique/accusati
 
 <table>
 <tr><td>منی</td><td><i>manī</i></td><td>my</td><td><tt>Number=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td></tr>
-<tr><td>منیگ</td><td><i>manīg</i></td><td>my</td><td><tt>Number=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td></tr>
+<tr><td>منیگ</td><td><i>manīg</i></td><td>mine</td><td><tt>Number=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td></tr>
 <tr><td>تئی</td><td><i>ta'ī</i></td><td>your</td><td><tt>Number=Sing|Person=2|Poss=Yes|PronType=Prs</tt></td></tr>
 <tr><td>تئیگ</td><td><i>ta'īg</i></td><td>yours</td><td><tt>Number=Sing|Person=2|Poss=Yes|PronType=Prs</tt></td></tr>
 <tr><td>آئی</td><td><i>ā'ī</i></td><td>his/her/its/their/of that/of those</td><td><tt>Deixis=Remt|Poss=Yes|PronType=Dem</tt></td></tr>
@@ -157,7 +157,7 @@ authors), there are also “ordinary” adpositions.
 The negative particle نہ _nah_.
 
 Particle at the end of the sentence:
-ئے _ē_ (perhaps a question particle?)
+ئے _ē_ (perhaps a question particle? or is it in fact the auxiliary _ay_, 2nd person singular, see above?)
 ئِے _yie_ (the same or not?)
 
 ### Tags
