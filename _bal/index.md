@@ -6,7 +6,10 @@ udver: '2'
 
 # UD for Balochi <span class="flagspan"><img class="flag" src="../../flags/svg/PK.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/IR.svg" /></span>
 
-<!-- Carina Jahani, Agnes Korn (2009). Balochi. In: Gernot Windfuhr (ed.) The Iranian Languages, pp. 634–692. Routledge, Oxon, UK. ISBN 978-0-415-62235-6. -->
+Balochi is a dialect continuum and until recently, the language was rarely written, so there does not seem
+to be a written standard with enough prestige to prevail on the vast territory where Balochi is spoken.
+One standard was proposed by Jahani (2019); note however that the texts in our data follow a different
+orthography.
 
 ## Tokenization and Word Segmentation
 
@@ -35,15 +38,27 @@ The infinitive can be used and inflected as a verbal noun.
 
 The auxiliary forms are similar or identical to the copula which would be used with non-verbal predicates.
 
-According to Jahani and Korn (2009), Balochi nouns have five cases, termed direct, oblique, object, genitive,
-and vocative. In ditransitive clauses, the object case marks the recipient, i.e., it corresponds to the
-dative. Its morpheme is را _rā_. It is written after the noun as a separate word, hence it should be tagged
-[ADP](). The genitive morpheme is ءِ _'i_ and it is also written separately. ءَ _'a_ seems to be what they call
-the oblique case. It is sometimes used for the direct object (`Case=Acc`).
+According to Jahani and Korn (2009) p.&nbsp;652, Balochi nouns have five cases, termed direct, oblique, object, genitive,
+and vocative. We map the first three cases to other names in the UD terminology. Under the orthography used
+in our data, case suffixes are written as separate words, they are thus analyzed as postpositions ([ADP]()).
+The [Case]() feature is annotated on the postposition that contributes the case, not on the noun itself.
 
-The nominative of all intransitive verbs and of transitive verbs in the present and future, is the simple
-uninflected noun. (Balochi has split ergativity like Indian languages, hence transitive verbs in the past
-tense have the ergative alignment.)
+The direct case roughly corresponds to the nominative in UD. It is used for the subject of all intransitive
+verbs and of transitive verbs in the present and future. Balochi has split ergativity like Indian languages,
+hence transitive verbs in the past tense have the ergative alignment, meaning that the object rather than
+the subject has this case form there. It is the simple uninflected noun. In our orthography it means that
+there is no postposition, hence `Case=Nom` is not annotated anywhere.
+
+The oblique case is marked by the postposition ءَ _'a_. It is used as the accusative in the present and
+future, and as the ergative subject in the past tense. It is also placed between the noun and some more
+specific postpositions. We annotate it `Case=Erg`.
+
+In ditransitive clauses, the object case marks the recipient, i.e., it corresponds to the
+dative (`Case=Dat`). Its morpheme is را _rā_ and it may be combined with the oblique morpheme ءَ _'a_.
+
+The genitive morpheme is ءِ _'i_ and it is also written separately. We annotate it `Case=Gen`.
+
+Vocative is unmarked in singular.
 
 ### Tags
 
@@ -85,3 +100,8 @@ from the data in the latest release. Link to the respective `*-index.html` page 
 and the treebank code in the file name.
 
 ---
+
+## References
+
+* Carina Jahani, Agnes Korn (2009). Balochi. In: Gernot Windfuhr (ed.) The Iranian Languages, pp. 634–692. Routledge, Oxon, UK. ISBN 978-0-415-62235-6.
+* Carina Jahani (2019). [A Grammar of Modern Standard Balochi](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-397659). In: Acta Universitatis Upsaliensis. Studia Iranica Upsaliensia 36. 292 pp. Uppsala, Sweden. ISSN 1100-326X. ISBN 978-91-513-0820-3.
