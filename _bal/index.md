@@ -72,12 +72,12 @@ personal pronouns in the third person.
 
 <table>
 <tr><td>آ</td><td><i>ā</i></td><td>he/she/it/they/that/those</td><td><tt>Deixis=Remt|PronType=Dem</tt></td></tr>
-<tr><td>آئی</td><td><i>ā'ī</i></td><td>he/she/it/that</td><td><tt>Number=Sing|PronType=Dem</tt> or is it the possessive form?</td></tr>
+<tr><td>آئی</td><td><i>ā'ī</i></td><td>he/she/it/they/that/those</td><td><tt>Deixis=Remt|PronType=Dem</tt> This form seems to be used before case markers. For example, آئی ءَ <i>ā'ī 'a (áiá)</i> is the oblique/accusative/ergative case; آئی ءَ را <i>ā'ī 'a rā (áiárá)</i> is the object/dative case.</td></tr>
 <tr><td>اے</td><td><i>ē</i></td><td>this/these</td><td><tt>Deixis=Prox|PronType=Dem</tt></td></tr>
 <tr><td>منی</td><td><i>manī</i></td><td>my</td><td><tt>Number=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td></tr>
-<tr><td>تئی</td><td><i>ta'ī</i></td><td>my</td><td><tt>Number=Sing|Person=2|Poss=Yes|PronType=Prs</tt></td></tr>
-<tr><td>تئیگ</td><td><i>ta'īg</i></td><td>your</td><td><tt>Number=Sing|Person=2|Poss=Yes|PronType=Prs</tt> (Perhaps the <i>-g</i> makes the same difference as in English between <i>your</i> and <i>yours</i>.)</td></tr>
-<tr><td>وتی</td><td><i>watī</i></td><td>his/her</td><td><tt>Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td></tr>
+<tr><td>تئی</td><td><i>ta'ī</i></td><td>your</td><td><tt>Number=Sing|Person=2|Poss=Yes|PronType=Prs</tt></td></tr>
+<tr><td>تئیگ</td><td><i>ta'īg</i></td><td>yours</td><td><tt>Number=Sing|Person=2|Poss=Yes|PronType=Prs</tt> (The <i>-g</i> distinguishes predicative from attributive genitive form.)</td></tr>
+<tr><td>وتی</td><td><i>watī</i></td><td>his/her/its</td><td><tt>Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td></tr>
 <tr><td>یکے دومی</td><td><i>yakē dōmī</i></td><td>each other</td><td><tt>PronType=Rcp</tt></td></tr>
 <tr><td>کئیا</td><td><i>ka'iyā</i></td><td>who</td><td><tt>PronType=Int</tt></td></tr>
 <tr><td>چے</td><td><i>čē</i></td><td>what</td><td><tt>PronType=Int</tt></td></tr>
