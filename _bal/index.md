@@ -9,7 +9,7 @@ udver: '2'
 Balochi is a dialect continuum and until recently, the language was rarely written, so there does not seem
 to be a written standard with enough prestige to prevail on the vast territory where Balochi is spoken.
 One standard was proposed by Jahani (2019); note however that the texts in our data follow a different
-orthography.
+orthography. Unless specified otherwise, our data represent southeastern (Pakistani) Balochi.
 
 ## Tokenization and Word Segmentation
 
@@ -59,6 +59,29 @@ dative (`Case=Dat`). Its morpheme is را _rā_ and it may be combined with the 
 The genitive morpheme is ءِ _'i_ and it is also written separately. We annotate it `Case=Gen`.
 
 Vocative is unmarked in singular.
+
+Personal pronouns exist in the first and the second person. Distal demonstratives are used instead of
+personal pronouns in the third person.
+
+<table>
+<tr><td>من</td><td><i>man</i></td><td>I</td><td><tt>Number=Sing|Person=1|PronType=Prs</tt></td></tr>
+<tr><td>تو</td><td><i>tō</i></td><td>you</td><td><tt>Number=Sing|Person=2|PronType=Prs</tt></td></tr>
+<tr><td>ما</td><td><i>mā</i></td><td>we</td><td><tt>Number=Plur|Person=1|PronType=Prs</tt></td></tr>
+<tr><td>شُما</td><td><i>šumā</i></td><td>you</td><td><tt>Number=Plur|Person=2|PronType=Prs</tt></td></tr>
+</table>
+
+<table>
+<tr><td>آ</td><td><i>ā</i></td><td>he/she/it/they/that/those</td><td><tt>Deixis=Remt|PronType=Dem</tt></td></tr>
+<tr><td>آئی</td><td><i>ā'ī</i></td><td>he/she/it/that</td><td><tt>Number=Sing|PronType=Dem</tt> or is it the possessive form?</td></tr>
+<tr><td>اے</td><td><i>ē</i></td><td>this/these</td><td><tt>Deixis=Prox|PronType=Dem</tt></td></tr>
+<tr><td>منی</td><td><i>manī</i></td><td>my</td><td><tt>Number=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td></tr>
+<tr><td>تئی</td><td><i>ta'ī</i></td><td>my</td><td><tt>Number=Sing|Person=2|Poss=Yes|PronType=Prs</tt></td></tr>
+<tr><td>تئیگ</td><td><i>ta'īg</i></td><td>your</td><td><tt>Number=Sing|Person=2|Poss=Yes|PronType=Prs</tt> (Perhaps the <i>-g</i> makes the same difference as in English between <i>your</i> and <i>yours</i>.)</td></tr>
+<tr><td>وتی</td><td><i>watī</i></td><td>his/her</td><td><tt>Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td></tr>
+<tr><td>یکے دومی</td><td><i>yakē dōmī</i></td><td>each other</td><td><tt>PronType=Rcp</tt></td></tr>
+<tr><td>کئیا</td><td><i>ka'iyā</i></td><td>who</td><td><tt>PronType=Int</tt></td></tr>
+<tr><td>چے</td><td><i>čē</i></td><td>what</td><td><tt>PronType=Int</tt></td></tr>
+</table>
 
 ### Tags
 
