@@ -5,15 +5,13 @@ shortdef : 'relative clause modifier'
 udver: '2'
 ---
 
-There are two constructions that use a copula and a relative clause modifier.
-They differ from Irish in some respects.
+There are two constructions that use a copula and a relative clause modifier, _'S ann_ and _'S e_.
 
-* _'S ann_ or _Sann_ fronts anything that isn't an NP.
-This is then linked to the relative clause modifier by `csubj:cleft`.
+* _'S ann_ or _Sann_ fronts adjectives, adverbs, APs, PPs and adverbial clauses.
+** If what has been fronted has no overt subject, as is the case for adjectives, adverbs, APs and PPs, then it is linked to the relative clause modifier by `csubj:cleft`.
+** However, if it is itself a clause with an explicit head, then see `csubj:outer`.
 * _'S e_ or _'Se_ fronts an NP, which is linked to a relative clause modifier of indefinite reference by `csubj:cleft`.
 * Where there is a definite NP, this is not in a relative clause but linked by `nsubj`.
-
-Note that as in Irish the verbal particle that introduces `csubj:cleft` is always labelled `mark:prt`. 
 
 ### Examples
 
