@@ -12,7 +12,9 @@ Pronouns are words that substitute for nouns  or noun phrases, whose meaning is 
 
   - it is assigned the tag <code>SCONJ</code> when it introduces a  complement of saying or sense verbs  (criterion: in this case, it can be replaced with the word *ότι* with somewhat different implications), e.g., *Σε είδα που τον κοίταζες.* "I saw that you watched him.",  *Δεν άκουσες που είπε: «Ευχαριστώ, ωραία μου κυρία»;* "Haven't you heard him saying "Thanks my fair lady"?"
   
-  - it is assigned the tag <code>CCONJ</code> when it introduces an etiological clause  (criterion: in this case, it can be replaced with the word *γιατί* resulting into different style probably), e.g., *Δεν σε χωνεύει που έρχεσαι τακτικά στο Μοναστήρι.* "He does not like you because you are regular to the Monastery."
+  - it is assigned the tag <code>CCONJ</code> when it introduces 
+  -   an etiological clause  (criterion: in this case, it can be replaced with the word *γιατί* resulting into different style probably), e.g., *Δεν σε χωνεύει που έρχεσαι τακτικά στο Μοναστήρι.* "He does not like you because you are regular to the Monastery."
+  -   a temporal clause with *μετά*  (criterion: in this case, the multiword conjunction *μετά που* can be replaced with the [ADP]() *αφο΄ύ* resulting into different style probably), e.g., *Τον είδα μετά που χώρισε.* "I met him after he got divorced."
  
 ### Examples
 
