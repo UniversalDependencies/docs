@@ -14,7 +14,7 @@ Pronouns are words that substitute for nouns  or noun phrases, whose meaning is 
   
   - it is assigned the tag <code>CCONJ</code> when it introduces 
      -  an etiological clause  (criterion: in this case, it can be replaced with the word *γιατί* resulting into different style probably), e.g., *Δεν σε χωνεύει που έρχεσαι τακτικά στο Μοναστήρι.* "He does not like you because you are regular to the Monastery."
-     -  a temporal clause with *μετά*  (criterion: in this case, the multiword conjunction *μετά που* can be replaced with the [ADP]() *αφο΄ύ* resulting into different style probably), e.g., *Τον είδα μετά που χώρισε.* "I met him after he got divorced."
+     -  a temporal clause together with the [ADP]() *μετά*  (criterion: in this case, the multiword conjunction *μετά που* can be replaced with the [ADP]() *αφο΄ύ* resulting into different style probably), e.g., *Τον είδα μετά που χώρισε.* "I met him after he got divorced."
  
 ### Examples
 
