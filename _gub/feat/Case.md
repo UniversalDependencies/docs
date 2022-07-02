@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Abe">Abe</a></td>
   <td><a href="#Abl">Ref</a></td>
+  <td><a href="#All">Ref</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tem">Tem</a></td>
@@ -41,6 +42,15 @@ The ablative case is expressed with the morpheme "wi"
 
 
 * _<b>kaʔa-wi</b>&nbsp;_ “From the countryside”
+
+### <a name="All">`All`</a>: Allative 
+
+The ablative case is expressed with the morpheme "pe"
+
+#### Examples
+
+
+* _<b>kaʔa-pe</b>&nbsp;_ “To the countryside”
 
 
 ### <a name="Dat">`Dat`</a>: Dative
