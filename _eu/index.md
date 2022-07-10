@@ -8,23 +8,38 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
-
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+* In general, words are delimited by whitespace characters. Description of exceptions follows.
+* According to typographical rules, many punctuation marks are attached to a neighboring word. We normally tokenize them as separate tokens (words);
+  exceptions include hyphenated compounds such as _bat-batean_ “suddenly”, which are kept as a single token.
+* There are no multiword tokens and no words with spaces.
+  For more details, see [tokenization](tokenization.html).
 
 ## Morphology
 
 ### Tags
 
-*
+This is an overview only. For more detailed discussion and examples, see the list of [Basque POS tags](pos/index.html)
+and [Basque features](feat/index.html).
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* All 17 universal POS categories, including particles ([PART]()), are relevant for Basque.
+  However, the current data does not distinguish coordinating and subordinating conjunctions.
+  All conjunctions are tagged [CCONJ]() and the [SCONJ]() tag is not used at present.
+* Only a relatively small subset of Basque verbs have the full morphological paradigm.
+  Some of them can be used as auxiliaries ([AUX]()) to provide finite features to the other verbs.
+  A typical sentence thus contains a lexical verb in a non-finite form (participle),
+  accompanied by one or more auxiliaries. With non-verbal predicates, one of the auxiliaries
+  acts as a copula.
+  * _izan_ (“to be”) (example forms _da, zen, izan, dira, ziren, izango, dela, den_)
+  * _egon_ (“to be, to stay”) (example forms _dago, zegoen, daude, egon, dagoela, zeuden, egongo, dagoen_)
+  * _ukan_ (example forms _du, dute, dugu, zuen, dut, ditu, duen, duela_)
+  * _edun_ (example forms _zuen, du, dute, zuten, ditu, zituen, zion, dituzte_)
+  * _edin_ (example forms _daiteke, dadin, daitezke, daitezkeen, daitekeela, liteke, baliteke, litekeena_)
+  * _ezan_ (example forms _dezake, dezagun, dezan, itzazu, ezazu, ditzakete, dezakete, dezakeen_)
+  * _ari_ (uninflected)
+* There are three main (de)verbal forms, distinguished by the value of the [VerbForm]() feature:
+  * Participle `Part`, tagged [VERB]() or [AUX](), is also the citation form (lemma) of the verb.
+  * Infinitive `Inf`, tagged [VERB]() or [AUX]().
+  * Finite verb `Fin`, tagged [VERB]() or [AUX]().
 
 ### Features
 
@@ -46,14 +61,6 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There is 1 Basque UD treebank:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Basque-BDT](../treebanks/eu_bdt/index.html)
