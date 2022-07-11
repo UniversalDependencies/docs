@@ -19,7 +19,15 @@ udver: '2'
 
 ### Tags
 
-*
+* Most verbs have two inflected tenses, past and present, and a future form using an auxiliary verb.
+  The verb _lenni_ “to be” has three inflected tenses: past (_volt_ “was”), present (_van_ “is”) and future (_lesz_ “will be”).
+  However, _lesz_ is kept as a separate lemma in the data, and `Tense=Pres` is used with its present/future forms, not `Tense=Fut`;
+  it also has a past tense, _lett_ “became”.
+* The auxiliary _fog_ expresses future intention: _Fogok menni._ “I am going to go.”
+* The auxiliary _lehet_ “may, can” is used impersonally, as in _Oda lehet menni._ “One can go there.”
+  Otherwise, potential can also be expressed using the suffix -hat/-het, followed by regular conjugation: _Mehetek_ “I can/may go”.
+  <!-- https://en.wikipedia.org/wiki/Hungarian_verbs -->
+* Other modal verbs than _lehet_ are not analyzed as auxiliaries.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
