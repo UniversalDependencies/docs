@@ -91,9 +91,6 @@ However, if there is an externally-controlled complement then the object follows
 * _Bheil thu ga mo leantainn?_ 'Are you following me?' (V S asp O V)
 * _Bha esan air a bhean a chaill_ 'He had lost his wife' (V S asp O V)
 
-The same applies to the usual form of the passive:
-* _Chaidh rannsachadh a dhèanamh_ (V O V)
-
 ### Core arguments, oblique arguments and adjuncts
 
 The core arguments are marked by `nsubj` and `obj` if they are noun phrases. Oblique arguments and adjuncts are marked by `obl` when they are prepositional phrases. Occasionally they are noun phrases in which case we use `obl:tmod` if they indicate a stretch of time or `obl:smod` if they indicate a distance.
@@ -106,13 +103,15 @@ where _àbhaist do dhaoine_ is the root, _bu_ (here in the reduced form _b'_) is
 The expletive particle _e_ or _ann_ is linked to the copula with `fixed`.
 
 ### Language-specific labels
-With one exception, these follow Irish:
+With three exceptions, these follow Irish:
 * `acl:relcl` for relative clauses
+* `aux:pass` for _rach_-passives
 * `case:voc` for vocative particles
 * `csubj:cleft` for cleft subjects
 * `csubj:cop` for copular clausal subjects
 * `mark:prt` for particles not otherwise marked
 * `nmod:poss` for possessive pronouns (but we use `obj` where the use of the possessive pronoun indicates an object)
+* `nsubj:pass` for the subjects of _rach_-passives
 * `obl:smod` (not in Irish) for spatial modifiers
 * `obl:tmod` for temporal modifiers
 * `xcomp:pred` for predicates of the substantive verb _bi_ 'to be'. _bi_ does not take an object. To identify the predicate: the most likely is a verbal noun, followed by an existential prepositional phrase _ann_ or a prepositional phrase expressing location, a noun phrase expressing temporal extent, spatial extent or cost, and lastly an adverb.
@@ -199,7 +198,8 @@ Where you have a big long sentence with lots of "ars' esan" and "ars' ise"s in i
 
 ### _urrainn_
 
-In most dialects the person (or thing) that can follows the preposition _do_ so is of course `obl`. In some, however, you can say, for example, _'s urrainn mi_, so in this case _mi_ is `nmod` of _urrainn_.
+In most dialects the person (or thing) that can follows the preposition _do_ so is of course `nmod`.
+In some, however, you can say, for example, _'s urrainn mi_, so in this case _mi_ is `nmod` of _urrainn_.
 
 ---
 

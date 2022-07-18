@@ -9,7 +9,9 @@ A nominal subject is a noun phrase which is the syntactic subject of a clause an
 
 ### Examples
 
-_Bha <b>Ludovic</b> 'na chabhaig_  '<b>Ludovic</b> was in a hurry'
+_Bha <b>Ludovic</b> 'na chabhaig_
+
+'<b>Ludovic</b> was in a hurry'
 
 ~~~ conllu
 1	Bha	bi	VERB	V-s	Tense=Past	0	root	_	_
@@ -31,7 +33,9 @@ _Thiormaich <b>e</b> e fhéin_ '<b>He</b> dried himself'
 
 In a clefted copular construction, the relative particle takes `nsubj`:
 
-_Am b' i Mairearad <b>a</b> rinn an dàn seo?_ 'Was it Mairearad <b>who</b> made this song?'
+_Am b' i Mairearad <b>a</b> rinn an dàn seo?_
+
+'Was it Mairearad <b>who</b> made this song?'
 
 ~~~ conllu
 1	Am	am	PART	Qq	PartType=Vb|PronType=Int	4	mark:prt	_	_
@@ -48,7 +52,9 @@ _Am b' i Mairearad <b>a</b> rinn an dàn seo?_ 'Was it Mairearad <b>who</b> made
 
 In zero-copula constructions (_Sin e_, _Seo mise_) the first word is the root and the second word is the nominal subject:
 
-_Sin <b>e</b> dìreach mar a thachair do chroitearan Bheàrnaraigh._ 'That's it just as it happened to the crofters of Berneray.'
+_Sin <b>e</b> dìreach mar a thachair do chroitearan Bheàrnaraigh._
+
+'That's <b>it</b< just as it happened to the crofters of Berneray.'
 
 ~~~ conllu
 1	Sin	sin	PRON	Pd	_	0	root	_	_
