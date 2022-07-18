@@ -9,13 +9,15 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Abe">Abe</a></td>
-  <td><a href="#All">All</a></td>
+  <td><a href="#Abl">Ref</a></td>
+  <td><a href="#All">Ref</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tem">Tem</a></td>
   <td><a href="#Tra">Tra</a></td>
   <td><a href="#Ref">Ref</a></td>
   <td><a href="#Equ">Ref</a></td>
+  
 
 </tr>
 </table>
@@ -32,14 +34,23 @@ The abessive case is expressed with the morpheme "ʔɨm"
 * _<b>ɨ r-eta-naw-ʔɨm</b>&nbsp;_ “Where there is no water”
 
 
-### <a name="All">`All`</a>: Allative 
+### <a name="Abl">`Abl`</a>: Ablative 
 
-The allative case is expressed with the morpheme "pe"
+The ablative case is expressed with the morpheme "wi"
 
 #### Examples
 
 
-* _<b>ko-pe</b>&nbsp;_ “To the countryside”
+* _<b>kaʔa-wi</b>&nbsp;_ “From the countryside”
+
+### <a name="All">`All`</a>: Allative 
+
+The ablative case is expressed with the morpheme "pe"
+
+#### Examples
+
+
+* _<b>kaʔa-pe</b>&nbsp;_ “To the countryside”
 
 
 ### <a name="Dat">`Dat`</a>: Dative

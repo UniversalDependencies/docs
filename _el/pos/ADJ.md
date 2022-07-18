@@ -44,11 +44,11 @@ Non-periphrastic comparative and superlative degrees (el-feat/Degree) of Greek a
 -	(regular) *ακριβής – ακριβέστερος – ακριβέστατος* / *akrivis - akrivesteros - akrivestatos* "exact - more extact - most exact"
 -	(irregular) *μεγάλος – μεγαλύτερος – μέγιστος* / *megalos - megaliteros - megistos* "big - bigger - biggest"
 
-Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag [VERB] and the relevant features Aspect=...|Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
+Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag [VERB], the lemma in *-μένος*  and *-θείς*   and the relevant features Aspect=...|Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
 Ηowever, there are formations in *-μένος* not related to a verb in use in Modern Greek, e.g. *χιλιοτραγουδισμένος* / chiliotragoudismenos “storied”, *ξακουσμένος* / ksakousmenos “famous”, etc; these are assigned the  tag ADJ.  
 
 
-When a participle depends on the verb *είμαι* /ime “to be”, the tag <code>VERB</code> and the syntactic tag <code>aux</code> are assigned to *είμαι*  “to be”. The participle is assigned the tag <code>VERB</code> and bears values for the feature <code>Voice</code>.
+When a participle depends on the verb *είμαι* /ime “to be”, the tag <code>AUX</code> is assigned to *είμαι*  “to be”. The participle is assigned the tag <code>VERB</code> and bears values for the feature <code>Voice</code>.
 
 Modern Greek expresses degree modification of nouns with a variety of morphological (and syntactic) means:
 

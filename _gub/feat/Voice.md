@@ -8,12 +8,21 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="">Cau</a></td> 
-  <td><a href="">Com</a></td> 
+  <td><a href="Antip">Antip</a></td> 
+  <td><a href="Cau">Cau</a></td> 
+  <td><a href="Com">Com</a></td> 
 </tr>
 </table>
 
 `Voice` in Guajajara may take the the following values ...
+
+### <a name="Antip">`Antip`</a>: Antipassive
+
+Antipassive voice is marked by the prefix *puru* on the verb.
+
+#### Examples
+
+* _<b>i-puru-ʔu-wer</b>&nbsp;_ “He/She/They want to eat something” (R2-Antip-eat-Des)
 
 
 ### <a name="Cau">`Cau`</a>: causative

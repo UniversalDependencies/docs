@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Basque UD'
+title:  'Gheg UD'
 udver: '2'
 ---
 
-# UD for Basque <span class="flagspan"><img class="flag" src="../../flags/svg/ES-PV.svg" /></span>
+# UD for Gheg <span class="flagspan"><img class="flag" src="../../flags/svg/AL.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [N](../treebanks/aln-comparison.html) Gheg UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Gheg-A](../treebanks/aln_a/index.html)
+  * [Gheg-B](../treebanks/aln_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
