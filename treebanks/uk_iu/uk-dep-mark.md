@@ -47,7 +47,7 @@ The following 23 pairs of parts of speech are connected with `mark`: <tt><a href
 3	можна	можна	ADV	R	_	0	root	_	Id=0pej
 4	використовувати	використовувати	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	3	csubj	_	Id=0pek
 5	як	як	SCONJ	Css	_	6	mark	_	Id=0pel
-6	картину	картина	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	xcomp:sp	_	Id=0pem|SpaceAfter=No
+6	картину	картина	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	xcomp:pred	_	Id=0pem|SpaceAfter=No
 7	,	,	PUNCT	U	_	8	punct	_	Id=0pen
 8	вставку	вставка	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	conj	_	Id=0peo
 9	тощо	тощо	PART	Q	_	6	discourse	_	Id=0pep|SpaceAfter=No

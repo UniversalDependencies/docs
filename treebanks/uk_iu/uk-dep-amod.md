@@ -27,7 +27,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 3	декорування	декорування	NOUN	Ncnsgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	Id=0p6x
 4	деревини	деревина	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	Id=0p6y
 5	називається	називатися	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Id=0p6z
-6	піротипією	піротипія	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	xcomp:sp	_	Id=0p70|SpaceAfter=No
+6	піротипією	піротипія	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	xcomp:pred	_	Id=0p70|SpaceAfter=No
 7	.	.	PUNCT	U	_	5	punct	_	Id=0p71
 
 ~~~

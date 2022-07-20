@@ -64,7 +64,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 5	танка	танк	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	Id=1gg8|SpaceAfter=No
 6	,	,	PUNCT	U	_	11	punct	_	Id=1gg9
 7	бо	бо	SCONJ	Css	_	11	mark	_	Id=1gga
-8	самому	сам	DET	Px--m-sda	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	11	advcl:sp	_	Id=1ggb
+8	самому	сам	DET	Px--m-sda	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	11	advcl:pred	_	Id=1ggb
 9	йому	він	PRON	Pp-3m-sdn	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	Id=1ggc
 10	було	бути	AUX	Vapis-sn	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	cop	_	Id=1ggd
 11	важко	важко	ADV	Rp	Degree=Pos	2	advcl	_	Id=1gge|SpaceAfter=No

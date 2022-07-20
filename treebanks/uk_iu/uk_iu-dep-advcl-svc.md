@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Ukrainian-IU: Relations: `advcl:svc`
 
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-advcl.html">advcl</a></tt>.
-There are also 1 other language-specific subtypes of `advcl`: <tt><a href="uk_iu-dep-advcl-sp.html">advcl:sp</a></tt>.
+There are also 1 other language-specific subtypes of `advcl`: <tt><a href="uk_iu-dep-advcl-sp.html">advcl:pred</a></tt>.
 
 47 nodes (0%) are attached to their parents as `advcl:svc`.
 

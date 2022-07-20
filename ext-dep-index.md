@@ -40,7 +40,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [advcl:mcl](): Komi Permyak
 * [advcl:pred](): Latin
 * [advcl:relcl](): Armenian, Polish, Western Armenian
-* [advcl:sp](): Ukrainian
+* [advcl:pred](): Ukrainian
 * [advcl:svc](): Ukrainian
 * [advcl:tcl](): Apurina, Erzya, Komi Permyak, Komi Zyrian, Moksha, Romanian, Skolt Sami
 
@@ -404,5 +404,5 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [xcomp:ds](): Erzya, Finnish, Karelian, Komi Permyak, Livvi
 * [xcomp:obj](): North Sami, Polish
 * [xcomp:pred](): Irish, Latin, Manx, North Sami, Polish, Scottish Gaelic
-* [xcomp:sp](): Ukrainian
+* [xcomp:pred](): Ukrainian
 * [xcomp:subj](): Polish
