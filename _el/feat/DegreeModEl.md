@@ -1,13 +1,14 @@
 ---
 layout: feature
-title: 'DegreeModQpm'
-shortdef: 'DegreeModQpm'
+title: 'DegreeModEl'
+shortdef: 'DegreeModEl'
 udver: '2'
 ---
 
-## DegreeModQpm
+## DegreeModEl
 
-Greek expresses degree modification of nouns, adjectives and past participles and adverbs with a variety of morphological (and syntactic) means:
+Modern Greek expresses degree modification of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes;  suffixation may 
+ change the gender of the noun, e.g., _χέρι_ 'hand'(neutral), _χερούκλα_ 'large hand' (feminine)
 
 ### <a name="Dim">`Dim`</a>: diminutive
 
@@ -21,9 +22,11 @@ Greek expresses degree modification of nouns, adjectives and past participles an
   
 * Adjectives
 	* μεγαλούτσικος, μεγαλούτσικη, μεγαλούτσικο
-  * μικρούλης, μικρούλα, μικρούλι
-  
+  	* μικρούλης, μικρούλα, μικρούλι
 
+* Passive participles
+	* μισοδαγκωμένος
+	
 * Adverbs
 	* καλούτσικα
 	
@@ -33,13 +36,16 @@ Greek expresses degree modification of nouns, adjectives and past participles an
 #### Examples
 
 * Nouns
-	* γυναικάρα
+	* παίδαρος, γυναικάρα
+	* χερούκλα 
 
 * Adjectives
 	* κατακίτρινος
 	* πανέμορφος
 	* κακάσχημος
+	* ολόφωτος
 
 * Passive participles
 	* καταχτυπημένος
+	
 	
