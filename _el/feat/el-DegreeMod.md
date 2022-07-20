@@ -23,10 +23,10 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
 #### Examples
 
 * Nouns (suffixation): they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code> .  
-	*χταποδάκι* / *chtapodaki* "little octopus"
-	*παιδάκι* / *pedaki* "little child"
-	*μικρούλα* / *mikroula* "little girl" 
-	*φωνίτσα* / *fonitsa* "little voice"
+	* _χταποδάκι* / *chtapodaki* "little octopus"
+	* _παιδάκι* / *pedaki* "little child"
+	* _μικρούλα* / *mikroula* "little girl" 
+	* _φωνίτσα* / *fonitsa* "little voice"
 	
 * Adjectives (suffixation): they are assigned the lemma of the original adjective and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code>.
 	 *μικρούτσικος* / *mikroutsikos* "smallish" 
