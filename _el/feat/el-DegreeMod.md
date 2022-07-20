@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'el-DegreeMod'
+title: 'el-Degree Modification'
 shortdef: 'el-DegreeMod'
 udver: '2'
 ---
@@ -12,7 +12,7 @@ udver: '2'
   <td><a href="#Magnifier">Magnifier</a></td>
 </tr>
 </table>
-## DegreeModEl
+
 
 Modern Greek expresses degree modification of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes;  suffixation may 
  change the gender of the noun, e.g., _χέρι_ "hand" (neutral), _χερούκλα_ "large hand" (feminine)
@@ -31,7 +31,6 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
 * Adjectives (suffixation): they are assigned the lemma of the original adjective and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code>.
 	 *μικρούτσικος* / *mikroutsikos* "smallish" 
 	 *κιτρινούλης* / *kitrinoulis* "yellowish" 
-
 
 * Passive participles (prefixation)
 	* _μισοδαγκωμένος_ / _misodagkomenos_ "slightly bitten"
