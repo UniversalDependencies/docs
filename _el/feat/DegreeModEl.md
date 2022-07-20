@@ -14,20 +14,21 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
 
 #### Examples
 
-* Nouns
+* Nouns (suffixation)
 	* ανθρωπάκος
 	* γατούλης, γυναικούλα 
 	* παιδάκι
 	* μπαλίτσα
   
-* Adjectives
+* Adjectives (suffixation)
 	* μεγαλούτσικος, μεγαλούτσικη, μεγαλούτσικο
   	* μικρούλης, μικρούλα, μικρούλι
 
-* Passive participles
+* Passive participles (prefixation)
 	* μισοδαγκωμένος
+	* ψιλοθυμωμένος
 	
-* Adverbs
+* Adverbs (suffixation)
 	* καλούτσικα
 	
 
@@ -35,17 +36,18 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
 
 #### Examples
 
-* Nouns
+* Nouns (suffixation)
 	* παίδαρος, γυναικάρα
 	* χερούκλα 
 
-* Adjectives
+* Adjectives (prefixation)
 	* κατακίτρινος
 	* πανέμορφος
 	* κακάσχημος
 	* ολόφωτος
 
-* Passive participles
-	* καταχτυπημένος
+* Passive participles (prefixation)
+	* κατακουρασμένος
+	* χιλιοταλαιπωρημένος
 	
 	
