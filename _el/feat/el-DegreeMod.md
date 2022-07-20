@@ -5,13 +5,20 @@ shortdef: 'el-DegreeMod'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Diminutive">Diminutive</a></td>
+  <td><a href="#Magnifier">Magnifier</a></td>
+</tr>
+</table>
 ## DegreeModEl
 
 Modern Greek expresses degree modification of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes;  suffixation may 
  change the gender of the noun, e.g., _χέρι_ "hand" (neutral), _χερούκλα_ "large hand" (feminine)
 
 
-### <a name="Diminutive">`Diminutive`</a>: Diminutive
+### <a name="Diminutive">`Diminutive`</a>
 
 #### Examples
 
@@ -34,7 +41,7 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
 	* _καλούτσικα_ / _kaloutsika_ "slightly good"
 	
 
-### <a name="Magnifier">`Magnifier`</a>: Magnifier
+### <a name="Magnifier">`Magnifier`</a>
 
 #### Examples
 
