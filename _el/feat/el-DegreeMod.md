@@ -53,7 +53,7 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
 * Adjectives (prefixation): they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
 	 * _κατά-μαυρος_ / *katamavros "stark black"
 	 * _ολό-φωτος_ / *olofotos* "very bright"
-	 * 
+	
 * Passive participles (prefixation): they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
 	* _κατα-κουρασμένος_ / _katakourasmenos_ "very tired"
 	* _χιλιο-ταλαιπωρημένος_ / _chiliotalaiporimenos_ "exhausted, worn out" 
