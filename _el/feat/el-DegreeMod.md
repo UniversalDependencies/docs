@@ -29,8 +29,8 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
 	* _φωνίτσα_ / *fonitsa* "little voice"
 	
 * Adjectives (suffixation): they are assigned the lemma of the original adjective and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code>.
-	 *μικρούτσικος* / *mikroutsikos* "smallish" 
-	 *κιτρινούλης* / *kitrinoulis* "yellowish" 
+	 * _μικρούτσικος_ / *mikroutsikos* "smallish" 
+	 * _κιτρινούλης_ / *kitrinoulis* "yellowish" 
 
 * Passive participles (prefixation)
 	* _μισοδαγκωμένος_ / _misodagkomenos_ "slightly bitten"
