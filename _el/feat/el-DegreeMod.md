@@ -11,7 +11,7 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
  change the gender of the noun, e.g., _χέρι_ "hand" (neutral), _χερούκλα_ "large hand" (feminine)
 
 
-### <a name="Diminutive">`Diminutive`</a>: diminutive
+### <a name="Diminutive">`Diminutive`</a>: Diminutive
 
 #### Examples
 
@@ -34,7 +34,7 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
 	* _καλούτσικα_ / _kaloutsika_ "slightly good"
 	
 
-### <a name="Mag">`Mag`</a>: magnifier
+### <a name="Magnifier">`Magnifier`</a>: Magnifier
 
 #### Examples
 
