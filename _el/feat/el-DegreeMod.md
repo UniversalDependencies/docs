@@ -23,26 +23,26 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
 	
 * Adjectives (suffixation): they are assigned the lemma of the original adjective and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code>.
 	 *μικρούτσικος* / *mikroutsikos* "smallish" 
-	 *κιτρινούλης* / *kitrinoulis* "a bit yellow" 
+	 *κιτρινούλης* / *kitrinoulis* "yellowish" 
 
 
 * Passive participles (prefixation)
-	* _μισοδαγκωμένος_ / _misodagkomenos
-	* _ψιλοθυμωμένος_ / _
+	* _μισοδαγκωμένος_ / _misodagkomenos_ "slightly bitten"
+	* _ψιλοθυμωμένος_ / _psilothimomenos_ "slightly angry"
 	
 * Adverbs (suffixation)
-	* _καλούτσικα_ / _
+	* _καλούτσικα_ / _kaloutsika_ "slightly good"
 	
 
 ### <a name="Mag">`Mag`</a>: magnifier
 
 #### Examples
 
-* Nouns (suffixation)
+* Nouns (suffixation): they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
 	*  *τρυπάρα* / *tripara* "large hole"
 	*   *ψευταράς* / *pseftaras* "great lier"
-	*  _χερούκλα_/ *cheroukla* "large hand" (feminine)_: they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
-	*  
+	*  _χερούκλα_/ *cheroukla* "large hand"
+	  
 * Adjectives (prefixation): they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
 	 * _κατά-μαυρος_ / *katamavros "stark black"
 	 * _ολό-φωτος_ / *olofotos* "very bright"
