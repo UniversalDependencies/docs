@@ -369,7 +369,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 
 
 ## parataxis
-* [parataxis:appos](): Italian
+* [parataxis:appos](): Italian, Ukrainian
 * [parataxis:conj](): Naija
 * [parataxis:coord](): Beja
 * [parataxis:deletion](): Norwegian
