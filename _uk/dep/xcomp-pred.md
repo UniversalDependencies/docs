@@ -5,7 +5,7 @@ shortdef: 'open clausal complement for secondary predication'
 udver: '2'
 ---
 
-Ukrainian uses the `xcomp:pred` relation to distinguish the cases where `xcomp` is used for [secondary predication](http://universaldependencies.org/u/dep/xcomp.html#secondary-predicates). The secondary predication is encoded at the Enhanced level with [`nsubj:pred`](nsubj-sp.html)/[`csubj:pred`](csubj-sp.html). For optional depictives, see [`advcl:pred`](advcl-sp.html).
+Ukrainian uses the `xcomp:pred` relation to distinguish the cases where `xcomp` is used for [secondary predication](http://universaldependencies.org/u/dep/xcomp.html#secondary-predicates). The secondary predication is encoded at the Enhanced level with [`nsubj:pred`](nsubj-pred.html)/[`csubj:pred`](csubj-pred.html). For optional depictives, see [`advcl:pred`](advcl-pred.html).
 
 ~~~ conllu
 #	visual-style 6 2 nsubj:pred color:blue

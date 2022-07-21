@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Ukrainian: Relations: `xcomp`
 
 This relation is universal.
-There are 1 language-specific subtypes of `xcomp`: <tt><a href="uk-dep-xcomp-sp.html">xcomp:pred</a></tt>.
+There are 1 language-specific subtypes of `xcomp`: <tt><a href="uk-dep-xcomp-pred.html">xcomp:pred</a></tt>.
 
 824 nodes (1%) are attached to their parents as `xcomp`.
 

@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 
-`nsubj:pred` denotes a subject in a secondary predication and is always headed by either [`xcomp:pred`](xcomp-sp.html) or [`advcl:pred`](advcl-sp.html). `nsubj:pred` is an [**Enhanced**](http://universaldependencies.org/u/overview/enhanced-syntax.html) dependency. It is not a part of basic syntax tree.
+`nsubj:pred` denotes a subject in a secondary predication and is always headed by either [`xcomp:pred`](xcomp-pred.html) or [`advcl:pred`](advcl-pred.html). `nsubj:pred` is an [**Enhanced**](http://universaldependencies.org/u/overview/enhanced-syntax.html) dependency. It is not a part of basic syntax tree.
 
 ~~~ conllu
 #	visual-style 6 2 nsubj:pred color:blue
@@ -46,5 +46,5 @@ udver: '2'
 
 ~~~
 
-For clausal cases, there is [`csubj:pred`](csubj-sp.html). The basic subject is [`nsubj`](../../u/dep/nsubj.html).
+For clausal cases, there is [`csubj:pred`](csubj-pred.html). The basic subject is [`nsubj`](../../u/dep/nsubj.html).
 <!-- Interlanguage links updated So kvě 14 19:03:56 CEST 2022 -->

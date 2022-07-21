@@ -5,7 +5,7 @@ shortdef: 'controlling subject (enhanced dependency)'
 udver: '2'
 ---
 
-`nsubj:x` is an Enhanced dependency which distinguishes subjects of controlled verbs as described in _Controlled/raised subjects_ section of the Enhanced Dependencies [documentation](http://universaldependencies.org/u/overview/enhanced-syntax.html) and in [`xcomp`](../../u/dep/xcomp.html). This does not cover cases when `xcomp` is used for secondary predication, for which there is a separate [`xcomp:pred`](xcomp-sp.html) accompanied by [`nsubj:pred`](nsubj-sp.html).
+`nsubj:x` is an Enhanced dependency which distinguishes subjects of controlled verbs as described in _Controlled/raised subjects_ section of the Enhanced Dependencies [documentation](http://universaldependencies.org/u/overview/enhanced-syntax.html) and in [`xcomp`](../../u/dep/xcomp.html). This does not cover cases when `xcomp` is used for secondary predication, for which there is a separate [`xcomp:pred`](xcomp-pred.html) accompanied by [`nsubj:pred`](nsubj-pred.html).
 
 ~~~ conllu
 # visual-style 4 1 nsubj:x color:blue

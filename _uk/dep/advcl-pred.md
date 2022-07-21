@@ -5,7 +5,7 @@ shortdef: 'optional depictive'
 udver: '2'
 ---
 
-Ukrainian uses the `advcl:pred` relation for optional depictives. See issue [#476](https://github.com/UniversalDependencies/docs/issues/476) for full explanation. The secondary predication is encoded at the Enhanced level with [`nsubj:pred`](nsubj-sp.html)/[`csubj:pred`](csubj-sp.html). See also [`xcomp:pred`](xcomp-sp.html).
+Ukrainian uses the `advcl:pred` relation for optional depictives. See issue [#476](https://github.com/UniversalDependencies/docs/issues/476) for full explanation. The secondary predication is encoded at the Enhanced level with [`nsubj:pred`](nsubj-pred.html)/[`csubj:pred`](csubj-pred.html). See also [`xcomp:pred`](xcomp-pred.html).
 
 ~~~ conllu
 # visual-style 2 3 advcl:pred color:green
