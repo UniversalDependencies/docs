@@ -17,18 +17,19 @@ udver: '2'
 Modern Greek expresses degree modification of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes (and a set of syntactic means);  suffixation may 
  change the gender of the noun, e.g., _χέρι_ "hand" (neutral) vs. _χερούκλα_ "large hand" (feminine), _άντρας_ "man" (masculine) vs. _αντράκι_ "little/insignificant/bully man" (neuter).
 
+All affixation cases are assigned the lemma of the original word and the feature <code>el-DegreeMod</code>  takes one of the two available values. 
 
 ### <a name="Diminutive">`Diminutive`</a>
 
 #### Examples
 
-* Nouns (suffixation): they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code> .  
+* Nouns (suffixation).  
 	* _χταποδάκι_ / *chtapodaki* "little octopus"
 	* _πορτούλα_ / *portoula* "little door" 
 	* _φωνίτσα_ / *fonitsa* "little voice"
 	* _εικονίδιο_ / _ikonidio_  "little picture"
 	
-* Adjectives (suffixation): they are assigned the lemma of the original adjective and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code>.
+* Adjectives (suffixation).
 	 * _μικρούτσικος_ / *mikroutsikos* "smallish" 
 	 * _κιτρινούλης_ / *kitrinoulis* "yellowish" 
 	 * _ασπρουλιάρης_ / _asprouliaris_ "whitish"
@@ -45,16 +46,16 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
 
 #### Examples
 
-* Nouns (suffixation): they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
+* Nouns (suffixation)
 	*  *τρυπάρα* / *tripara* "large hole"
 	*   *ψευταράς* / *pseftaras* "great lier"
 	*  _χερούκλα_/ *cheroukla* "large hand"
 	  
-* Adjectives (prefixation): they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
+* Adjectives (prefixation)
 	 * _κατά-μαυρος_ / *katamavros "stark black"
 	 * _ολό-φωτος_ / *olofotos* "very bright"
 	
-* Passive participles (prefixation): they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
+* Passive participles (prefixation)
 	* _κατα-κουρασμένος_ / _katakourasmenos_ "very tired"
 	* _χιλιο-ταλαιπωρημένος_ / _chiliotalaiporimenos_ "exhausted, worn out" 
 	
