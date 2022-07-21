@@ -14,8 +14,8 @@ udver: '2'
 </table>
 
 
-Modern Greek expresses degree modification of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes;  suffixation may 
- change the gender of the noun, e.g., _χέρι_ "hand" (neutral), _χερούκλα_ "large hand" (feminine)
+Modern Greek expresses degree modification of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes (and a set of syntactic means);  suffixation may 
+ change the gender of the noun, e.g., _χέρι_ "hand" (neutral) vs. _χερούκλα_ "large hand" (feminine), _άντρας_ "man" (masculine) vs. _αντράκι_ "little/insignificant/bully man" (neuter).
 
 
 ### <a name="Diminutive">`Diminutive`</a>
@@ -24,13 +24,14 @@ Modern Greek expresses degree modification of nouns, adjectives, past participle
 
 * Nouns (suffixation): they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code> .  
 	* _χταποδάκι_ / *chtapodaki* "little octopus"
-	* _παιδάκι_ / *pedaki* "little child"
-	* _μικρούλα_ / *mikroula* "little girl" 
+	* _πορτούλα_ / *portoula* "little door" 
 	* _φωνίτσα_ / *fonitsa* "little voice"
+	* _εικονίδιο_ / _ikonidio_  "little picture"
 	
 * Adjectives (suffixation): they are assigned the lemma of the original adjective and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code>.
 	 * _μικρούτσικος_ / *mikroutsikos* "smallish" 
 	 * _κιτρινούλης_ / *kitrinoulis* "yellowish" 
+	 * _ασπρουλιάρης_ / _asprouliaris_ "whitish"
 
 * Passive participles (prefixation)
 	* _μισοδαγκωμένος_ / _misodagkomenos_ "slightly bitten"
