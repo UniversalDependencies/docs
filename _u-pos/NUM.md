@@ -25,9 +25,21 @@ are [adjectives](ADJ) _(first, second, third)_ or [adverbs](ADV) ([cs]
 _poprvé_ "for the first time"), multiplicative numerals are adverbs
 _(once, twice)_ etc.
 
+Word tokens consisting of digits and (optionally) punctuation characters are 
+generally considered cardinal numbers and tagged as `NUM`. 
+This includes numeric date/time formats (_11:00_) and phone numbers.
+Words mixing digits and alphabetic characters should, however, ordinarily 
+be excluded. In English, for example, pluralized numbers 
+(_the <b>1970s</b>_, _the <b>seventies</b>_) are treated as plural [NOUN]()s, 
+while mixed alphanumeric street addresses (_221B_) and product names 
+(_130XE_) are [PROPN]().
+
+Related features: [NumForm](), [NumType]()
+
 ### Examples
 
 - _0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359_
+- _11/11/1918_, _11:00_
 - _one, two, three, seventy-seven_
 - _I, II, III, IV, V, MMXIV_
 
