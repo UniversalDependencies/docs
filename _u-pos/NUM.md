@@ -41,6 +41,7 @@ Related features: [NumForm](), [NumType]()
 - _0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359_
 - _11/11/1918_, _11:00_
 - _one, two, three, seventy-seven_
+- _k_ (abbreviation for _thousand_), _m_ (abbreviation for _million_), etc.
 - _I, II, III, IV, V, MMXIV_
 
 ### References
