@@ -54,7 +54,7 @@ that is realized as a nominal, with or without copula. One has to distinguish wh
 whole predication of the matrix clause, or just the entity denoted by the nominal. Hence we have `advcl` in
 
 ~~~ sdparse
-He is a teacher, although he no longer teaches .
+He is a teacher , although he no longer teaches .
 advcl(teacher, teaches)
 ~~~
 
