@@ -8,10 +8,10 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Fem">Loc</a></td>
+  <td><a href="#Fem">Fem</a></td>
   <td><a href="#FF">FF</a></td>
-  <td><a href="#Masc">Tem</a></td>
-  <td><a href="#MM">Dat</a></td>
+  <td><a href="#Masc">Masc</a></td>
+  <td><a href="#MM">MM</a></td>
   
 
 </tr>
