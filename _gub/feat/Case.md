@@ -16,7 +16,7 @@ udver: '2'
   <td><a href="#Tem">Tem</a></td>
   <td><a href="#Tra">Tra</a></td>
   <td><a href="#Ref">Ref</a></td>
-  <td><a href="#Equ">Ref</a></td>
+  <td><a href="#Equ">Equ</a></td>
   
 
 </tr>
