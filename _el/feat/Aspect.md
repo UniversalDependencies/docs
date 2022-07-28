@@ -14,9 +14,9 @@ udver: '2'
 </table>
 
 
-Aspect in Modern Greek  specifies the point of view the speaker adopts, that is, whether he views and event as  a whole or whether he adopts a view from within the event. 
+Aspect in Modern Greek  specifies the point of view the speaker adopts, that is, whether he views the event as  a whole or whether he adopts a view from within the event. 
 
-In Modern Greek, aspect is not considered a lexical feature of [verbs](el-pos/VERB) so Greek verbs do not provide different lemmas for their various 
+In Modern Greek, aspect is not considered a lexical feature of [verbs](el-pos/VERB) and Greek verbs do not provide different lemmas for their various 
 aspectual types.
 
 ### <a name="Imp">`Imp`</a>: imperfect aspect
@@ -26,8 +26,7 @@ information whether and when it was / will be completed.
 
 #### Examples
 
-* _péci&nbsp;_ “to bake” (Imp); _<b>pekl</b> chleba&nbsp;_ “he baked / was
-  baking a bread”
+* 
 
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
