@@ -2,6 +2,7 @@
 layout: postag
 title: 'PRON'
 shortdef: 'pronoun'
+udver: '2'
 ---
 
 ## PRON: pronoun
