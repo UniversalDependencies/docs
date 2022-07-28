@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 
-`csubj:pred` denotes a subject in a secondary predication and is always headed by either [`xcomp:pred`](xcomp-pred.html) or [`advcl:pred`](advcl-pred.html). `csubj:pred` is an [**Enhanced**](http://universaldependencies.org/u/overview/enhanced-syntax.html) dependency. It is not a part of basic syntax tree.
+`csubj:pred` denotes a clausal subject in a secondary predication and is always headed by either [`xcomp:pred`](xcomp-pred.html) or [`advcl:pred`](advcl-pred.html). `csubj:pred` is an [**Enhanced**](http://universaldependencies.org/u/overview/enhanced-syntax.html) dependency. It is not a part of basic syntax tree.
 
 ~~~ conllu
 # visual-style 3 1 csubj:pred color:blue
