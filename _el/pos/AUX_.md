@@ -2,6 +2,7 @@
 layout: postag
 title: 'AUX'
 shortdef: 'auxiliary'
+udver: '2'
 ---
 
 ### Definition
