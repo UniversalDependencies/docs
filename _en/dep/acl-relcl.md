@@ -610,7 +610,7 @@ root(-ROOT-, transpired)
 ### *It*-clefts
 
 The __*it*-cleft construction__ serves a similar purpose—foregrounding one element (with expletive *it* plus copula). 
-The remainder of the sentence is a standard (not free) relative clause that elaborates on the copular predication. 
+The remainder of the sentence is a standard (not free[^4]) relative clause that elaborates on the copular predication. 
 CGEL (p. 416) describes it as a relative clause functioning as a dependent of the main clause (versus the canonical function of a relative clause as dependent within a nominal phrase). 
 In UD terms, the relative clause is *adverbial*; we therefore use `advcl:relcl`:
 
@@ -635,6 +635,20 @@ obl(went, that)
 ~~~
 
 ~~~sdparse
+-ROOT- Was it really that/SCONJ it was raining that/PRON bothered you ?
+root(-ROOT-, raining)
+expl:outer(raining, it-3)
+cop(raining, Was)
+advmod(raining, really)
+mark(raining, that-5)
+expl(raining, it-6)
+aux(raining, was)
+advcl:relcl(raining, bothered)
+csubj(bothered, that-9)
+obj(bothered, you)
+~~~
+
+~~~sdparse
 -ROOT- It 's that/SCONJ he 's so self-satisfied that/PRON I find offputting . (CGEL p. 1418)
 root(-ROOT-, self-satisfied)
 expl:outer(self-satisfied, It)
@@ -643,11 +657,14 @@ nsubj(self-satisfied, he)
 cop(self-satisfied, 's-6)
 cop(self-satisfied, 's-3)
 advcl:relcl(self-satisfied, find)
-obj(find, that-9)
+ccomp(find, that-9)
 xcomp(find, offputting)
 ~~~
 
-(Previous versions of the guidelines treated *who we want to help* in the *it*-cleft as a free relative. But note that the above can be paraphrased as *It's John __that__ we want to help* or even *It's John we want to help*, whereas free relatives require a WH-word to serve as the head.)
+Note that relativizer *that* receives the [PRON]() tag, but its antecedent may be a wide variety of constituent types.
+The relativizer should attach within the relative clause as its antecedent would, which may be [obl]() in the case of a prepositional phrase or [csubj](), [ccomp](), etc. in the case of a clausal antecedent, as shown above.
+
+[^4]: Previous versions of the *it*-cleft guidelines specified that for *It's John __who__ we want to help*, the phrase *who we want to help* should be treated as a free relative. But note that the sentence can be paraphrased as *It's John __that__ we want to help* or even *It's John we want to help*, whereas free relatives require a WH-word to serve as the head.
 
 ### *It*-clefts versus Extraposition
 
@@ -660,6 +677,18 @@ For *it*-clefts, this yields an ungrammatical result:
 - IT-CLEFT: _It is John that we want to help_ → _*That we want to help is John_
   * Additionally, the acceptability in this context of replacing _that_ with _who(m)_ shows that it is a relativizer, not a complementizer.
 - IT-CLEFT: _It was with John that I went to the movies_ → _*That I went to the movies was with John_
+- IT-CLEFT: _Was it really that it was raining that bothered you?_ → _*Was that bothered you really that it was raining?_
+- EXTRAPOSITION: _Did it bother you that it was raining?_ → _Did that it was raining bother you?_
+~~~sdparse
+Did it bother you that it was raining ?
+aux(bother, Did)
+expl(bother, it-2)
+obj(bother, you)
+csubj(bother, raining)
+mark(raining, that)
+expl(raining, it-6)
+aux(raining, was)
+~~~
 - IT-CLEFT: _It is that he's so self-satisfied that I find offputting_ → _*That I find offputting is that he's so self-satisfied_
 - EXTRAPOSITION: _I find it offputting that he's so self-satisfied_ → _I find that he's so self-satisfied offputting_
 ~~~sdparse
