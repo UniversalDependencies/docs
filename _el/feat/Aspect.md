@@ -13,17 +13,15 @@ udver: '2'
 </tr>
 </table>
 
-Aspect is a feature that specifies duration of the action in time,
-whether the action has been completed etc.
 
-In Modern Greek, aspect is considered a lexical feature of [verbs](el-pos/VERB).
-While many imperfective verbs have morphologically related perfective counterparts,
-it is not a regular system
-and the two verbs are represented by different lemmas.
+Aspect in Modern Greek  specifies the point of view the speaker adopts, that is, whether he views and event as  a whole or whether he adopts a view from within the event. 
+
+In Modern Greek, aspect is not considered a lexical feature of [verbs](el-pos/VERB) so Greek verbs do not provide different lemmas for their various 
+aspectual types.
 
 ### <a name="Imp">`Imp`</a>: imperfect aspect
 
-The action took / takes / will take some time span and there is no
+The event is viewed from within: it took / takes / will take some time span and there is no
 information whether and when it was / will be completed.
 
 #### Examples
@@ -33,10 +31,6 @@ information whether and when it was / will be completed.
 
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
-The action has been / will have been completed. Since there is
-emphasis on one point on the time scale (the point of completion),
-this aspect does not work well with the present tense.
-Czech morphology can create present forms of perfective verbs but
-these actually have a future meaning.
+The event is viewed as a whole. It is available for past and future tenses. 
 
 #### Examples
