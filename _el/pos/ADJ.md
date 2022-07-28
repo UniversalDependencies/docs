@@ -4,6 +4,8 @@ title: 'ADJ'
 shortdef: 'adjective'
 ---
 
+
+
 ### Definition 
 
 Adjectives are words that typically modify nouns and specify their
