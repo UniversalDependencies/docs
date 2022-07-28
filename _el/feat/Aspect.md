@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'DegreeModEl'
-shortdef: 'DegreeModEl'
+title: 'Aspect'
+shortdef: 'Aspect'
 udver: '2'
 ---
