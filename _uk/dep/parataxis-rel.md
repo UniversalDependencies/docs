@@ -26,20 +26,20 @@ udver: '2'
 15	.	.	PUNCT	U	_	4	punct	_	Id=25rq|LTranslit=.|Translit=.
 
 # visual-style 4 10 parataxis:rel color:green
-1	[The]-name	_	_	_	_	0	root	_	_
-2	of-Walter	_	_	_	_	0	root	_	_
+1	[The]_name	_	_	_	_	0	root	_	_
+2	of_Walter	_	_	_	_	0	root	_	_
 3	White	_	_	_	_	0	root	_	_
 4	reminds	_	_	_	_	0	root	_	_
-5	of-poet	_	_	_	_	0	root	_	_
+5	of_poet	_	_	_	_	0	root	_	_
 6	Walt	_	_	_	_	0	root	_	_
 7	Whitman	_	_	_	_	0	root	_	_
 8	,	_	_	_	_	0	root	_	_
 9	which	_	_	_	_	0	root	_	_
 10	played	_	Gender=Neut	_	_	4	parataxis:rel	_	_
-11	[an]-important	_	_	_	_	0	root	_	_
+11	[an]_important	_	_	_	_	0	root	_	_
 12	role	_	_	_	_	0	root	_	_
 13	in	_	_	_	_	0	root	_	_
-14	[the]-plot	_	_	_	_	0	root	_	_
+14	[the]_plot	_	_	_	_	0	root	_	_
 15	.	_	_	_	_	0	root	_	_
 
 ~~~

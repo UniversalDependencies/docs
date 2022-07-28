@@ -18,7 +18,7 @@ Ukrainian uses the `advcl:pred` relation for optional depictives. See issue [#47
 # visual-style 2 3 advcl:pred color:green
 # visual-style 3 1 nsubj:pred color:blue
 1	I	_	_	_	_	2	nsubj	3:nsubj:pred	_
-2	woke-up	_	_	_	_	0	root	_	_
+2	woke_up	_	_	_	_	0	root	_	_
 3	hungry	_	_	_	_	2	advcl:pred	_	_
 4	.	_	_	_	_	0	root	_	_
 

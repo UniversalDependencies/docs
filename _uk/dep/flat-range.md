@@ -19,8 +19,8 @@ Ukrainian uses `flat:range` for numerical, spacial and time ranges. Ranges are *
 8	.	.	PUNCT	U	_	2	punct	_	LTranslit=.|Translit=.
 
 # visual-style 3 5 flat:range color:green
-1	A-lunch	_	_	_	_	0	root	_	_
-2	costs-you	_	_	_	_	0	root	_	_
+1	A_lunch	_	_	_	_	0	root	_	_
+2	costs_you	_	_	_	_	0	root	_	_
 3	4	_	_	_	_	0	root	_	_
 4	–	_	_	_	_	0	root	_	_
 5	5	_	_	_	_	3	flat:range	_	_
@@ -38,7 +38,7 @@ Ukrainian uses `flat:range` for numerical, spacial and time ranges. Ranges are *
 4	Одеса	Одеса	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	flat:range	_	_
 
 # visual-style 2 4 flat:range color:green
-1	the-train	поїзд	NOUN	_	_	0	root	_	_
+1	the_train	поїзд	NOUN	_	_	0	root	_	_
 2	Kyiv	_	_	_	_	0	root	_	SpaceAfter=No
 3	—	—	PUNCT	_	_	0	root	_	SpaceAfter=No
 4	Odesa	_	_	_	_	2	flat:range	_	_

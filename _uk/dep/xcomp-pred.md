@@ -23,11 +23,11 @@ Ukrainian uses the `xcomp:pred` relation to distinguish the cases where `xcomp` 
 #	visual-style 6 2 nsubj:pred color:blue
 1	These	_	_	_	_	0	root	_	_
 2	lands	_	_	_	_	3	obj	6:nsubj:pred	_
-3	they-considered	_	_	_	_	0	root	_	_
-4	[the]-last	_	_	_	_	0	root	_	_
-5	non-christianized	_	_	_	_	0	root	_	_
+3	they_considered	_	_	_	_	0	root	_	_
+4	[the]_last	_	_	_	_	0	root	_	_
+5	non_christianized	_	_	_	_	0	root	_	_
 6	part	_	_	_	_	3	xcomp:pred	_	_
-7	of-Europe	_	_	_	_	0	root	_	_
+7	of_Europe	_	_	_	_	0	root	_	_
 8	.	_	_	_	_	0	root	_	_
 
 ~~~

@@ -23,23 +23,23 @@ amod(apple, green)
 <!--~~~-->
 
 ~~~ sdparse
-Ігор взяв десятитисячну позику . \n Igor has taken (a) ten-thousand loan .
+Ігор взяв десятитисячну позику . \n Igor has taken (a) ten_thousand loan .
 amod(позику, десятитисячну)
-amod(loan, ten-thousand)
+amod(loan, ten_thousand)
 ~~~
 
 ~~~ sdparse
-Перший бігун був швидкий . \n The-first racer was fast .
+Перший бігун був швидкий . \n The_first racer was fast .
 amod(бігун, Перший)
-amod(racer, The-first)
+amod(racer, The_first)
 nsubj(швидкий, бігун)
 nsubj(fast, racer)
 ~~~
 
 ~~~ sdparse
-Швидкий бігун був перший . \n The-fast racer was first .
+Швидкий бігун був перший . \n The_fast racer was first .
 amod(бігун, Швидкий)
-amod(racer, The-fast)
+amod(racer, The_fast)
 nsubj(перший, бігун)
 nsubj(first, racer)
 ~~~
