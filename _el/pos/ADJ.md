@@ -61,9 +61,9 @@ Modern Greek expresses degree modification of nouns with a variety of morphologi
 
 
 Greek adjectives inflect for
-[el-feat/Gender]() _(μεγάλος – μεγάλη – μεγάλο)_ “big”,
-[el-feat/Number]() _(μεγάλος – μεγάλοι)_ and
-[el-feat/Case]() _(μεγάλοι – μεγάλων – μεγάλους)_.
+[Gender]() _(μεγάλος – μεγάλη – μεγάλο)_ “big”,
+[Number]() _(μεγάλος – μεγάλοι)_ and
+[Case]() _(μεγάλοι – μεγάλων – μεγάλους)_.
 
 
 ### Examples
