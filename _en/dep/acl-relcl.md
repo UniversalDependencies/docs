@@ -356,7 +356,7 @@ acl:relcl(something, speed)
 
 [^3]: However, this test fails for *a suggestion to make*: *\*something to make* is not a valid substitution because *make a suggestion* is a light verb construction.
 
-## RCs Versus Non-relative Modifier Clauses
+## RCs versus Non-relative Modifier Clauses
 
 *When*, *where*, *why*, and *how* frequently introduce **adverbial clauses** ([advcl]()). They can also introduce non-relative **adnominal modifier clauses** ([acl]()) similarly providing time/place/manner information:
 
@@ -433,7 +433,7 @@ Note that [acl:relcl]() (rather than [advcl:relcl]()) applies even for free rela
 The WH-adverb typically is used to question a nominal (noun phrase or prepositional phrase), 
 so we use the adnominal clause label to highlight the corresponding structure.
 
-### Free Relatives Versus Interrogative/Exclamative Complement Clauses
+### Free Relatives versus Interrogative/Exclamative Complement Clauses
 
 Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
 Verbs such as *wonder*, *know*, and *tell* license interrogative complement clauses (including ones beginning with *whether*).
@@ -552,7 +552,11 @@ nsubj(is, this)
 
 ## Clefts
 
-A free relative can be used within a copular construction to background some material relative to a foregrounded element. *John* is foregrounded in the following two variants of the __pseudocleft construction__:
+A free relative can be used within a copular construction to background some material relative to a foregrounded element. 
+
+### Pseudoclefts
+
+*John* is foregrounded in the following two variants of the __pseudocleft construction__:
 
 ~~~sdparse
 -ROOT- John is who we want to help .
@@ -590,10 +594,6 @@ nsubj(worked, plan)
 root(-ROOT-, worked)
 ~~~
 
-☞ TODO: clefts vs. extraposition. 
-- CLEFT: "It’s [that he’s so self-satisfied] [that I find offputting]." (CGEL p. 1418). 
-- EXTRAPOSITION: "I find it offputting that he's so self-satisfied." expl(find, it), nsubj(find, I), ccomp(find, self-satisfied)
-
 
 <!--
 ~~~sdparse
@@ -606,6 +606,8 @@ nsubj(transpired, events)
 root(-ROOT-, transpired)
 ~~~
 -->
+
+### *It*-clefts
 
 The __*it*-cleft construction__ serves a similar purpose—foregrounding one element (with expletive *it* plus copula). 
 The remainder of the sentence is a standard (not free) relative clause that elaborates on the copular predication. 
@@ -622,7 +624,52 @@ xcomp(want, help)
 obj(help, who)
 ~~~
 
+~~~sdparse
+-ROOT- It was with John that/PRON I went to the movies .
+expl(John, It)
+cop(John, was)
+root(-ROOT-, John)
+case(John, with)
+advcl:relcl(John, went)
+obl(went, that)
+~~~
+
+~~~sdparse
+-ROOT- It 's that/SCONJ he 's so self-satisfied that/PRON I find offputting . (CGEL p. 1418)
+root(-ROOT-, self-satisfied)
+expl:outer(self-satisfied, It)
+mark(self-satisfied, that-4)
+nsubj(self-satisfied, he)
+cop(self-satisfied, 's-6)
+cop(self-satisfied, 's-3)
+advcl:relcl(self-satisfied, find)
+obj(find, that-9)
+xcomp(find, offputting)
+~~~
+
 (Previous versions of the guidelines treated *who we want to help* in the *it*-cleft as a free relative. But note that the above can be paraphrased as *It's John __that__ we want to help* or even *It's John we want to help*, whereas free relatives require a WH-word to serve as the head.)
+
+### *It*-clefts versus Extraposition
+
+*It*-clefts may resemble extraposition. *It is clear that we should decline* is an example of extraposition, discussed at [expl](): the heavy clausal subject *that we should decline* is postponed to the end of the sentence, with expletive *it* as placeholder in the usual subject position. By contrast, the *it*-clefts described above involve a relative clause (which may start with relativizer *that*, or another relativizer like *who* or *which*, or no relativizer at all).
+
+According to [Calude (2008, pp. 20-21)](http://icame.uib.no/ij32/ij32_7_34.pdf), the key test is that, for extraposition, *it* can be replaced by the delayed clause. 
+For *it*-clefts, this yields an ungrammatical result:
+
+- EXTRAPOSITION: _It is clear that we should decline_ → _That we should decline is clear_
+- IT-CLEFT: _It is John that we want to help_ → _*That we want to help is John_
+  * Additionally, the acceptability in this context of replacing _that_ with _who(m)_ shows that it is a relativizer, not a complementizer.
+- IT-CLEFT: _It was with John that I went to the movies_ → _*That I went to the movies was with John_
+- IT-CLEFT: _It is that he's so self-satisfied that I find offputting_ → _*That I find offputting is that he's so self-satisfied_
+- EXTRAPOSITION: _I find it offputting that he's so self-satisfied_ → _I find that he's so self-satisfied offputting_
+~~~sdparse
+I find it offputting that he 's so self-satisfied
+expl(find, it)
+nsubj(find, I)
+xcomp(find, offputting)
+ccomp(find, self-satisfied)
+mark(self-satisfied, that)
+~~~
 
 ## _No matter_ and similar
 
