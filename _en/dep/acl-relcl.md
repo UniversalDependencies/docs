@@ -219,8 +219,6 @@ advmod(which, probably)
 aux(which, will)
 ~~~
 
-TODO: decide about advcl:relcl
-
 ## Preposition Stranding
 
 A preposition may be left "stranded" in the relative clause (its object corresponding to the head of the RC):
@@ -397,7 +395,7 @@ Illustrating the contrast with *where*:
 
 ## Free Relatives
 
-NOTE: partially adapted from <https://universaldependencies.org/en/specific-syntax.html#free-relatives>
+<!-- NOTE: partially adapted from <https://universaldependencies.org/en/specific-syntax.html#free-relatives> -->
 
 **Free relatives** are noun phrases containing a relative clause modifying a WH-phrase. 
 There is no separate relativizer in the RC; it is "fused" with the head (thus these constructions are also known as **fused relatives**).
@@ -405,13 +403,13 @@ There is no separate relativizer in the RC; it is "fused" with the head (thus th
 <!-- In free relative constructions, the _wh_-clause functions as an argument in the higher clause. In these cases, the _wh_-phrase is deemed the head of the construction, thereby receiving a dependency relation reflective of its function in the higher clause, and the rest of the _wh_-clause is an `acl:relcl` dependent on it. -->
 
 ~~~sdparse
-I 'll have whatever she 's having .
+I 'll have whatever/PRON she 's having .
 obj(have, whatever)
 acl:relcl(whatever, having)
 ~~~
 
 ~~~sdparse
-You can go where you want and eat what you want .
+You can go where/ADV you want and eat what you want .
 advmod(go, where)
 acl:relcl(where, want-6)
 obj(eat, what)
@@ -419,19 +417,21 @@ acl:relcl(what, want-11)
 ~~~
 
 ~~~sdparse
-What money we have left will go to charity
+What/DET money we have left will go to charity
 det(money, What)
 acl:relcl(money, have)
 nsubj(go, money)
 ~~~
 
 ~~~sdparse
-I don't like how it looks (CGEL p. 1077)
+I don't like how/ADV it looks (CGEL p. 1077)
 obj(like, how)
 acl:relcl(how, looks)
 ~~~
 
-TODO: *where* and *how* are ADVs, so is advcl:relcl more appropriate?
+Note that [acl:relcl]() (rather than [advcl:relcl]()) applies even for free relatives headed by a WH-adverb (*where*, *when*, *why*, or *how*). 
+The WH-adverb typically is used to question a nominal (noun phrase or prepositional phrase), 
+so we use the adnominal clause label to highlight the corresponding structure.
 
 ### Free Relatives Versus Interrogative/Exclamative Complement Clauses
 
