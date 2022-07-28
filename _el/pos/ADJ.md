@@ -60,10 +60,10 @@ Modern Greek expresses degree modification of nouns with a variety of morphologi
 * Augmentatives may be formed with prefixes such as *κατά-* / *kata-*, *ολό-* / *olo-*, e.g., *κατά-μαυρος, ολό-μαυρος* / *katamavros, olomavros* "stark black": they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
 
 
-Greek adjectives inflect for
-[Gender]() _(μεγάλος – μεγάλη – μεγάλο)_ “big”,
-[Number]() _(μεγάλος – μεγάλοι)_ and
-[Case]() _(μεγάλοι – μεγάλων – μεγάλους)_.
+Greek adjectives inflect for 
+[el-feat/Gender]() _(μεγάλος – μεγάλη – μεγάλο)_ “big”,
+[el-feat/Number]() _(μεγάλος – μεγάλοι)_ and
+[el-feat/Case]() _(μεγάλοι – μεγάλων – μεγάλους)_.
 
 
 ### Examples
