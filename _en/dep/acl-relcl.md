@@ -552,10 +552,12 @@ nsubj(is, this)
 
 ## Clefts
 
-A free relative can be used within a copular construction to background some material relative to a foregrounded element. 
+Cleft constructions pertain to the information packaging of a clause. 
+They have the function of foregrounding some material relative to the rest of the clause.
 
 ### Pseudoclefts
 
+A free relative can be used within a copular construction to background some material relative to a foregrounded element. 
 *John* is foregrounded in the following two variants of the __pseudocleft construction__:
 
 ~~~sdparse
