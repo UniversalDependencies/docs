@@ -4,3 +4,12 @@ title: 'Number'
 shortdef: 'Number'
 udver: '2'
 ---
+
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Imp">Imp</a></td>
+  <td><a href="#Perf">Perf</a></td>
+</tr>
+</table>
