@@ -19,17 +19,17 @@ Case is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/P
 
 
 Case helps specify the role of the noun phrase in the sentence.
-For example, the nominative case is the typical case of nominal subjects and contrasts with the accusative case which typically marks objects. However, the accusative case is used to mark nouns in adverbial usages as well.
+For example,  typically nominative  is the case of nominal subjects and contrasts with the accusative case that typically marks objects. However, the accusative case is used to mark nouns in adverbial usages as well.
 
 Modern Greek morphology distinguishes four cases:
 `Nom`, `Gen`,  `Acc`, `Voc`. Dative was a case used in classical Greek; in Modern Greek it is occurs in fixed expressions inherited from classical Creek, e.g. γη _πυρί_ μιχθήτω 'let earth be mixed with fire". We have decided not to use the label 'Dat' in fixed expressions. 
 
 #### Examples
 
-* singular nominative _matka&nbsp;_ “mother”, genitive _matky&nbsp;,_ dative _matce,&nbsp;_
-  accusative _matku,&nbsp;_ vocative _matko,&nbsp;_ locative _matce,&nbsp;_ instrumental _matkou_
-* plural nominative _matky,&nbsp;_ genitive _matek,&nbsp;_ dative _matkám,&nbsp;_
-  accusative _matky,&nbsp;_ vocative _matky,&nbsp;_ locative _matkách,&nbsp;_ instrumental _matkami_
+* singular nominative _μητέρα_ “mother”, genitive _μητέρας_ 
+  accusative _μητ΄έρα_ vocative _μητέρα_ 
+* plural nominative μητέρες_ genitive _μητέρων_ 
+ accusative _μητ΄έρες_ vocative _μητέρες_ 
 
 The descriptions of the individual case values below include semantic
 hints about the prototypical meaning of the case. Bear in mind that
@@ -46,32 +46,14 @@ This is the word form used for subjects of clauses.
 
 #### Examples
 
-* _<b>Jan</b> spí._ “<b>Jan</b> sleeps.”
-* _<b>Jan</b> miluje Marii. “<b>Jan</b> loves Marie.”
+* _Η Χαρά κοιμάται._ “_Chara_ sleeps.”
+* _Η δασκάλα_ αγαπά τον Μάρκο._ “_The teacher_ loves Markos.”
 
 ### <a name="Gen">`Gen`</a>: genitive
 
-Prototypical meaning of genitive is that the noun phrase somehow
-belongs to its governor; it would often be translated by the English
-preposition _of._
+Genitives prototypically mark possessors. In Modern Greek it is the case of the indirect object (typically with verbs of giving and saying).
 
-Note that despite considerable semantic overlap, the genitive case is
-not the same as the feature of possessivity ([Poss]()). Possessivity
-is a lexical feature, i.e. it applies to lemma and its whole
-paradigm. Genitive is a feature of just a subset of word forms of the
-lemma. Semantics of possessivity is much more clearly defined while
-the genitive (as many other cases) may be required in situations that
-have nothing to do with possessing. For example, _bez
-prezidentovy dcery&nbsp;_ “without the president's daughter” is a
-prepositional phrase containing the preposition _bez&nbsp;_ “without”, the
-possessive adjective _prezidentovy&nbsp;_ “president's” and the noun _dcery&nbsp;_
-“daughter”. The possessive adjective is derived from the noun
-_prezident&nbsp;_ but it is really an adjective (with separate lemma and
-paradigm), not just a form of the noun. In addition, both the
-adjective and the noun are in their genitive forms (the nominative
-would be _prezidentova dcera_).  There is nothing possessive about
-this particular occurrence of the genitive. It is there because the
-preposition _bez&nbsp;_ always requires its argument to be in genitive.
+
 
 #### Examples
 
