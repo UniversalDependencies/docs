@@ -23,8 +23,8 @@ In general, a singular noun or proper noun denotes one entity.
 
 #### Examples
 
-* _ο παππούς είναι χαρούμενος_ “the grandfather is happy”: gender masculine, agreement between determiners and nouns (ο, παππούς), predicates (χαρούμενος) and their nominal subjects (παππούς) and, inflected auxiliaries (είναι) and  predicative categories supported by them (παππούς, χαρούμενος) 
-* _μια άγνωστη κοπέλα πέρασε_ “an unknown girl passed by”: gender feminine, agreement between nominal subjects and verbs (κοπέλα, πέρασε) and, nouns and their modifiers (άγνωστη, κοπέλα)  
+* _ο παππούς είναι χαρούμενος_ “the grandfather is happy”
+* _μια άγνωστη κοπέλα πέρασε_ “an unknown girl passed by”
 * _το αυτοκίνητο θέλει καθάρισμα_ “the car needs washing”: gender neuter
 * 
 ### <a name="Plur">`Plur`</a>: plural number
