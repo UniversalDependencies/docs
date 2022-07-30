@@ -19,20 +19,20 @@ udver: '2'
 
 ### <a name="Sing">`Sing`</a>: singular number
 
-A singular noun denotes one person, animal or thing.
+In general, a singular noun or proper noun denotes one entity.
 
 #### Examples
 
-* _ο παππούς είναι χαρούμενος_ “the grandfather slept” (:agreement between predicates (χαρούμενος) and their nominal subjects and, inflected auxiliaries and  predicative categories supported by them
-* _μια βιαστική οπέλα πέρασε_ “a young woman passed by”
-* _το αυτοκίνητο θέλει καθάρισμα_ “the car needs washing”
-
+* _ο παππούς είναι χαρούμενος_ “the grandfather is happy”: gender masculine, agreement between determiners and nouns (ο, παππούς), predicates (χαρούμενος) and their nominal subjects (παππούς) and, inflected auxiliaries (είναι) and  predicative categories supported by them (παππούς, χαρούμενος) 
+* _μια άγνωστη κοπέλα πέρασε_ “an unknown girl passed by”: gender feminine, agreement between nominal subjects and verbs (κοπέλα, πέρασε) and, nouns and their modifiers (άγνωστη, κοπέλα)  
+* _το αυτοκίνητο θέλει καθάρισμα_ “the car needs washing”: gender neuter
+* 
 ### <a name="Plur">`Plur`</a>: plural number
 
-A plural noun denotes several persons, animals or things.
+In general, a  plural noun  or proper noun denotes several entities.
 
 #### Examples
 
-* _<b>staří muži přišli</b>&nbsp;_ “old men came”
-* _<b>mladé ženy přišly</b>&nbsp;_ “young women came”
-* _<b>malá kuřata přišla</b>&nbsp;_ “small chickens came”
+* _οι παππούδες είναι χαρούμενοι_ “old men came”
+* _πολλές άγνωστες κοπέλες πέρασαν_ “several unknown girls passed by”
+* _τα τρία πρώτα αυτοκίνητα θ΄΄έλουν καθάρισμα_ “the first three cars need washing”
