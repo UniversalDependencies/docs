@@ -15,7 +15,7 @@ udver: '2'
 </table>
 
 
-`Number' is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN),([adjectives](el-pos/ADJ),[determiners](el-pos/DET),[pronouns](el-pos/PRON),[verbs](el-pos/VERB)) and [auxiliaries](el-pos/AUX)). It marks agreement betweeen nominal categories and their modifiers,   verbs and their  nominal subjects and, inflected auxiliaries and supported predicative categories. 
+`Number' is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN),[adjectives](el-pos/ADJ),[determiners](el-pos/DET),[pronouns](el-pos/PRON),[verbs](el-pos/VERB) and [auxiliaries](el-pos/AUX). It marks agreement betweeen nominal categories and their modifiers,   predicates and their nominal subjects and, inflected auxiliaries and  predicative categories supported by them. 
 
 ### <a name="Sing">`Sing`</a>: singular number
 
@@ -23,9 +23,9 @@ A singular noun denotes one person, animal or thing.
 
 #### Examples
 
-* _<b>ο παππούς κοιμήθηκε</b>&nbsp;_ “the grandfather slept”
-* _<b>μια κοπέλα πέρασε</b>&nbsp;_ “a young woman passed by”
-* _<b>το αυτοκίνητο θέλει καθάρισμα</b>&nbsp;_ “the car needs washing”
+* _ο παππούς είναι χαρούμενος_ “the grandfather slept” (:agreement between predicates (χαρούμενος) and their nominal subjects and, inflected auxiliaries and  predicative categories supported by them
+* _μια βιαστική οπέλα πέρασε_ “a young woman passed by”
+* _το αυτοκίνητο θέλει καθάρισμα_ “the car needs washing”
 
 ### <a name="Plur">`Plur`</a>: plural number
 
