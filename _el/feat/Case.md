@@ -15,21 +15,14 @@ udver: '2'
 </tr>
 </table>
 
-Case is an inflectional feature of [nouns](cs-pos/NOUN) and
-other parts of speech ([adjectives](cs-pos/ADJ),
-[numerals](cs-pos/NUM)) that mark agreement with nouns.
-It is also valency feature of [prepositions](cs-pos/ADP) (saying that
-the preposition requires its argument to be in that case).
+Case is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN), [adjectives](el-pos/ADJ), [determiners](el-pos/DET), [pronouns](el-pos/PRON),  [numerals ](el-pos/NUM) and [verbs](el-pos/VERB).
+
 
 Case helps specify the role of the noun phrase in the sentence.
-For example, the nominative
-and accusative cases often distinguish subject and object of the verb,
-while in fixed-word-order languages these functions would be
-distinguished merely by the positions of the nouns in the sentence.
+For example, the nominative case is the typical case of nominal subjects and contrasts with the accusative case which typically marks objects. However, the accusative case is used to mark nouns in adverbial usages as well.
 
-Czech morphology distinguishes seven cases:
-`Nom`, `Gen`, `Dat`, `Acc`, `Voc`, `Loc` and `Ins`
-(this ordering is fixed in the grammar and the cases are also referred to by numbers 1–7).
+Modern Greek morphology distinguishes four cases:
+`Nom`, `Gen`,  `Acc`, `Voc`. Dative was a case used in classical Greek; in Modern Greek it is occurs in fixed expressions inherited from classical Creek, e.g. γη _πυρί_ μιχθήτω 'let earth be mixed with fire". We have decided not to use the label 'Dat' in fixed expressions. 
 
 #### Examples
 
@@ -85,15 +78,7 @@ preposition _bez&nbsp;_ always requires its argument to be in genitive.
 * _Praha je hlavní město <b>České republiky</b>.&nbsp;_ “Prague is the
   capital <b>of the Czech Republic</b>.”
 
-### <a name="Dat">`Dat`</a>: dative
 
-This is the word form often used for indirect objects of verbs.
-
-#### Examples
-
-* _Dal jsem dárek <b>svému bratrovi</b>.&nbsp;_ “I gave my brother a present.”
-  (_svému bratrovi&nbsp;_ “my brother” is dative and
-  _dárek&nbsp;_ “present” is accusative.)
 
 ### <a name="Acc">`Acc`</a>: accusative
 
@@ -116,38 +101,3 @@ restriction and inanimate things can be addressed as well.
 * _Co myslíš, <b>Filipe</b>?&nbsp;_ “What do you think,
   <b>Filip</b>?”
 
-### <a name="Loc">`Loc`</a>: locative
-
-The locative case often expresses location in space or time, which
-gave it its name. As elsewhere, non-locational meanings also exist and
-they are not rare. On the other hand, some location roles
-may be expressed using other cases (e.g. because those cases are
-required by a preposition).
-
-This is the only Czech case that is used exclusively in
-combination with prepositions.
-
-#### Examples
-
-* _V <b>červenci</b> jsem byl ve <b>Švédsku</b>.&nbsp;_ “In <b>July</b>
-  I was in <b>Sweden</b>.”
-* _Mluvili jsme tam o <b>morfologii</b>.&nbsp;_ “We talked there about
-  <b>morphology</b>.” (Non-locational non-temporal example)
-
-### <a name="Ins">`Ins`</a>: instrumental
-
-The role from which the name of the instrumental case is derived is
-that the noun is used as instrument to do something (as in _psát
-<b>perem</b>&nbsp;_ “to write <b>using a pen</b>”).  Many other meanings are
-possible, for example the instrumental is required by the
-preposition _s&nbsp;_ “with” and thus it includes the meaning expressed in
-other languages by the comitative case.
-
-In Czech the instrumental is also used for the agent-object in passive
-constructions (cf. the English preposition _by_).
-
-#### Examples
-
-* _Tento zákon byl schválen <b>vládou</b>.&nbsp;_ “This bill has been
-  approved <b>by the government</b>.” (Passive example)
-<!-- Interlanguage links updated So kvě 14 19:02:04 CEST 2022 -->
