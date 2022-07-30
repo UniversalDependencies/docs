@@ -26,7 +26,7 @@ In general, a singular noun or proper noun denotes one entity.
 * _ο παππούς είναι χαρούμενος_ “the grandfather is happy”
 * _μια άγνωστη κοπέλα πέρασε_ “an unknown girl passed by”
 * _το αυτοκίνητο θέλει καθάρισμα_ “the car needs washing”: gender neuter
-* 
+
 ### <a name="Plur">`Plur`</a>: plural number
 
 In general, a  plural noun  or proper noun denotes several entities.
