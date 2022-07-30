@@ -15,7 +15,7 @@ udver: '2'
 </table>
 
 
-`Number` is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN),([adjectives](el-pos/ADJ),[determiners](el-pos/DET),[pronouns](el-pos/PRON),[verbs](el-pos/VERB)) and [auxiliaries](el-pos/AUX)). It marks agreement betweeen nominal categories and their modifiers,   verbs and their  nominal subjects and, inflected auxiliaries and supported predicative categories. 
+`Number' is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN),([adjectives](el-pos/ADJ),[determiners](el-pos/DET),[pronouns](el-pos/PRON),[verbs](el-pos/VERB)) and [auxiliaries](el-pos/AUX)). It marks agreement betweeen nominal categories and their modifiers,   verbs and their  nominal subjects and, inflected auxiliaries and supported predicative categories. 
 
 ### <a name="Sing">`Sing`</a>: singular number
 
