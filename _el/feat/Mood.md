@@ -8,7 +8,6 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
 </tr>
@@ -39,23 +38,9 @@ first person plural and second person plural.
 
 * _<b>Studuj</b> na univerzitě!&nbsp;_ “<b>Study</b> at the university!”
 
-### <a name="Cnd">`Cnd`</a>: conditional
-
-The conditional mood is used to express actions that would have taken
-place under some circumstances but they actually did not / do not
-happen.
-
-Czech has present conditional and past conditional, both formed periphrastically using
-the past participle of the content verb, and a special form of the [auxiliary verb](cs-pos/AUX)
-_být._ The special form resembles forms of the historic _aorist tense,_ which disappeared from
-Czech during the 15th century.
 
 The past participle of the content verb is not marked as conditional
 because it can also be used in past indicative.
 
-#### Examples
 
-* _Kdy<b>bych</b> byl chytrý, studoval <b>bych</b> na
-  univerzitě.&nbsp;_ “If I <b>were</b> smart I <b>would</b> study at the
-  university.”
 <!-- Interlanguage links updated So kvě 14 19:02:20 CEST 2022 -->
