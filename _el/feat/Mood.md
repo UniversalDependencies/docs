@@ -42,7 +42,8 @@ Modern Greek verbs morphologically mark the imperfective and perfective  singula
 
 Both the second and the third person of the imperative of perfective and imperfective passive and active verbs and be formed with *να*, which is tagged [AUX](,)  and the indicative mood.
 
-<b>Second person</b>
+#### Examples
+
 * Imperfective: _Να γράφεις το γράμμα!_ “Write (2nd, singular) the letter!”
 * Imperfective: _Να γράφετε το γράμμα!_ “Write (2nd, plural) the letter!”
 * Perfective: _Να γράψεις το γράμμα!_ “Write (2nd, singular)) the letter!”
