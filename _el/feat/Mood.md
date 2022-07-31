@@ -13,26 +13,23 @@ udver: '2'
 </tr>
 </table>
 
-Mood is a feature that expresses modality and subclassifies finite
-verb forms.
+Mood  expresses modality and subclassifies finite
+verb forms. Modern Greek morphologically distinguishes between two moods, Indicative and Imperative. 
 
 ### <a name="Ind">`Ind`</a>: indicative
 
-The indicative can be considered the default mood. A verb in
-indicative merely states that something happens, has happened or will
-happen, without adding any attitude of the speaker.
+The indicative can be considered the default mood. 
 
 #### Examples
 
-* _<b>Studuješ</b> na univerzitě.&nbsp;_ “<b>You study</b> at the university.”
+* _Πηγαίνεις στο Πανεπιστήμιο._ “_You study_ at the university.”
 
 ### <a name="Imp">`Imp`</a>: imperative
 
 The speaker uses imperative to order or ask the addressee to do the
 action of the verb.
 
-Czech verbs (except for modal verbs) have imperative forms of the second person singular,
-first person plural and second person plural.
+Modern Greek verbs have special morphology for the present tense second  singular and plural person of the active and passive voice. In addition, all imperatives can be formed periphrastically with the particle να (el-feat/sconj) and the type 
 
 #### Examples
 
