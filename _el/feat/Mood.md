@@ -45,14 +45,14 @@ Modern Greek verbs morphologically mark the imperfective and perfective  singula
 Both the second and the third person of the imperative of perfective and imperfective passive and active verbs and be formed with *να* and the indicative mood.
 
 <b>Second person</b>
-* Imperfective:_Γράφε το γράμμα!_ “Write (you, one person) the letter!”
-* Imperfective:_Γράφετε το γράμμα!_ “Write (you, many persons) the letter!”
-* Perfective:_Γράψε το γράμμα!_ “Write (you, one person) the letter!”
-* Perfective:_Γράψετε το γράμμα!_ “Write (you, many persons) the letter!”
-* _Κοιμήσου τώρα!_ "Sleep now!"
-* _Κοιμηθείτε τώρα!_ "Sleep now!"
-* _Χάσου να μη σε βλέπω!_ "Get lost (you, one person) so that I cannot see  you".
-* _Χαθείτε να μη σας βλέπω!_  "Get lost (you, o many persons) so that I cannot see  you".
+* Imperfective:_Να γράφεις το γράμμα!_ “Write (you, one person) the letter!”
+* Imperfective:_Να γράφετε το γράμμα!_ “Write (you, many persons) the letter!”
+* Perfective:_Να γράψεις το γράμμα!_ “Write (you, one person) the letter!”
+* Perfective:_Να γράψετε το γράμμα!_ “Write (you, many persons) the letter!”
+* _Να κοιμηθείς τώρα!_ "Sleep now!"
+* _Να κοιμηθείτε τώρα!_ "Sleep now!"
+* _Να χαθείς να μη σε βλέπω!_ "Get lost (you, one person) so that I cannot see  you".
+* _Να χαθείτε να μη σας βλέπω!_  "Get lost (you, o many persons) so that I cannot see  you".
 
  *να* is tagged [AUX]() when:	
 	- It introduces the verb of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."
