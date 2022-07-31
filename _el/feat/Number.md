@@ -35,4 +35,4 @@ In general, a  plural noun  or proper noun denotes several entities.
 
 * _οι παππούδες είναι χαρούμενοι_ “_the grandfathers_ are happy”
 * _πολλές άγνωστες κοπέλες πέρασαν_ “_several unknown girls_ passed by”
-* _τα τρία πρώτα αυτοκίνητα θ΄΄έλουν καθάρισμα_ “_the first three cars_ need washing”
+* _τα τρία πρώτα αυτοκίνητα θέλουν καθάρισμα_ “_the first three cars_ need washing”
