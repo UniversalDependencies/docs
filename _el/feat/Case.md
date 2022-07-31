@@ -15,14 +15,14 @@ udver: '2'
 </tr>
 </table>
 
-Case is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN), [adjectives](el-pos/ADJ), [determiners](el-pos/DET), [pronouns](el-pos/PRON),  [numerals ](el-pos/NUM) and [verbs](el-pos/VERB).
+Case is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN), [adjectives](el-pos/ADJ), [determiners](el-pos/DET), [pronouns](el-pos/PRON),  [numerals ](el-pos/NUM) and [verbs](el-pos/VERB)(participles).
 
 
 Case helps specify the role of the noun phrase in the sentence.
-For example,  typically nominative  is the case of nominal subjects and contrasts with the accusative case that typically marks objects. However, the accusative case is used to mark nouns in adverbial usages as well.
+For example,  in Modern Greek nominative  is the case of nominal subjects and contrasts with the accusative case that typically marks objects. However, the accusative is also used to mark nouns/proper nouns used as adverbs such as day names.
 
 Modern Greek morphology distinguishes four cases:
-`Nom`, `Gen`,  `Acc`, `Voc`. Dative was a case used in classical Greek; in Modern Greek it is occurs in fixed expressions inherited from classical Creek, e.g. γη _πυρί_ μιχθήτω 'let earth be mixed with fire". We have decided not to use the label 'Dat' in fixed expressions. 
+`Nom`, `Gen`,  `Acc`, `Voc`. Dative was a case used in classical Greek; in Modern Greek it  occurs only in fixed expressions inherited from classical Creek, e.g. γη _πυρί_ μιχθήτω 'let earth be mixed with fire". We have decided not to use the label 'Dat' in fixed expressions. 
 
 #### Examples
 
@@ -31,18 +31,12 @@ Modern Greek morphology distinguishes four cases:
 * plural nominative μητέρες_ genitive _μητέρων_ 
  accusative _μητ΄έρες_ vocative _μητέρες_ 
 
-The descriptions of the individual case values below include semantic
-hints about the prototypical meaning of the case. Bear in mind that
-quite often a case will be used for a meaning that is totally
-unrelated to the meaning mentioned here. Valency of verbs,
-adpositions and other words will determine that the noun phrase must
-be in a particular grammatical case to fill a particular valency slot
-(semantic role).
+
 
 ### <a name="Nom">`Nom`</a>: nominative
 
 The base form of the noun, also used as citation form (lemma).
-This is the word form used for subjects of clauses.
+This is the word form typically used for nominal subjects of clauses.
 
 #### Examples
 
@@ -51,35 +45,35 @@ This is the word form used for subjects of clauses.
 
 ### <a name="Gen">`Gen`</a>: genitive
 
-Genitives prototypically mark possessors. In Modern Greek it is the case of the indirect object (typically with verbs of giving and saying).
-
+Genitives prototypically mark possessors and arguments of deverbal nominals. In Modern Greek it is the case of the indirect object (typically with verbs of giving and saying). A handful of verbs and adverbs require a direct object in the genitive case.
 
 
 #### Examples
 
-* _Praha je hlavní město <b>České republiky</b>.&nbsp;_ “Prague is the
-  capital <b>of the Czech Republic</b>.”
-
+* _τα παιδιά της Ελ΄ένης_ "_Eleni's_ children”
+* _η καταστροφή της πόλης_ "the destruction _of the city_"
+* _της έδωσες το δε΄μα;_  "did you give _her_ the parcel?"
+* _το άρθρο βρίθει λαθών_ "the article is full _of mistakes_"
+* _κατόπιν του  ελέγχου της υποβολή σας_ "after checking your submission"
 
 
 ### <a name="Acc">`Acc`</a>: accusative
 
-Perhaps the second most widely spread morphological case.
-This is the word form most frequently used for direct objects of verbs.
+Accusative typically marks direct objects of verbs and preposition objects. It also marks nouns used as adverbials.
 
 #### Examples
 
-* _Jan miluje <b>Marii</b>. “Jan loves <b>Marie</b>.”
+* _΄έχτισε την πόλη_ "he built _the town_"
+* _γράμμα από την αδελφή μου_ "lettear from my _sister_"
+* _θα έρθει την επόμενη βδομάδα_ "he will come _next week_"
+
 
 ### <a name="Voc">`Voc`</a>: vocative
 
-The vocative case is a special form of noun used to address
-someone. Thus it predominantly appears with animate nouns (see the
-feature of [Animacy]()). Nevertheless this is not a grammatical
-restriction and inanimate things can be addressed as well.
+Vocative is used to address
+someone or, less frequently, something. 
 
 #### Examples
 
-* _Co myslíš, <b>Filipe</b>?&nbsp;_ “What do you think,
-  <b>Filip</b>?”
+* _Άγγελε, πρόσεχε!_ “_Άggelos_, watch out!"
 
