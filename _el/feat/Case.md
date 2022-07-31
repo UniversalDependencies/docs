@@ -52,7 +52,7 @@ Genitives prototypically mark possessors and arguments of deverbal nominals. In 
 
 * _τα παιδιά της Ελ΄ένης_ "_Eleni's_ children”
 * _η καταστροφή της πόλης_ "the destruction _of the city_"
-* _της έδωσες το δε΄μα;_  "did you give _her_ the parcel?"
+* _της έδωσες το δέμα;_  "did you give _her_ the parcel?"
 * _το άρθρο βρίθει λαθών_ "the article is full _of mistakes_"
 * _κατόπιν του  ελέγχου της υποβολή σας_ "after checking your submission"
 
@@ -63,7 +63,7 @@ Accusative typically marks direct objects of verbs and preposition objects. It a
 
 #### Examples
 
-* _΄έχτισε την πόλη_ "he built _the town_"
+* _είδε την πόλη_ "he saw_ the town_"
 * _γράμμα από την αδελφή μου_ "letter from my _sister_"
 * _θα έρθει την επόμενη βδομάδα_ "he will come _next week_"
 
