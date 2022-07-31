@@ -22,18 +22,44 @@ The indicative can be considered the default mood.
 
 #### Examples
 
-* _Πηγαίνεις στο Πανεπιστήμιο._ “_You study_ at the university.”
+* _Γράφω ένα γράμμα._ “_I write/I am writing a letter.”
 
 ### <a name="Imp">`Imp`</a>: imperative
 
 The speaker uses imperative to order or ask the addressee to do the
 action of the verb.
 
-Modern Greek verbs have special morphology for the present tense second  singular and plural person of the active and passive voice. In addition, all imperatives can be formed periphrastically with the particle να (el-feat/sconj) and the type 
+Modern Greek verbs morphologically mark the imperfective and perfective  singular and plural second person of the active and passive voices. 
 
 #### Examples
 
-* _<b>Studuj</b> na univerzitě!&nbsp;_ “<b>Study</b> at the university!”
+* Imperfective:_Γράφε το γράμμα!_ “Write (you, one person) the letter!”
+* Imperfective:_Γράφετε το γράμμα!_ “Write (you, many persons) the letter!”
+* Perfective:_Γράψε το γράμμα!_ “Write (you, one person) the letter!”
+* Perfective:_Γράψετε το γράμμα!_ “Write (you, many persons) the letter!”
+* _Κοιμήσου τώρα!_ "Sleep now!"
+* _Κοιμηθείτε τώρα!_ "Sleep now!"
+* _Χάσου να μη σε βλέπω!_ "Get lost (you, one person) so that I cannot see  you".
+* _Χαθείτε να μη σας βλέπω!_  "Get lost (you, o many persons) so that I cannot see  you".
+
+Both the second and the third person of the imperative of perfective and imperfective passive and active verbs and be formed with *να* and the indicative mood.
+
+<b>Second person</b>
+* Imperfective:_Γράφε το γράμμα!_ “Write (you, one person) the letter!”
+* Imperfective:_Γράφετε το γράμμα!_ “Write (you, many persons) the letter!”
+* Perfective:_Γράψε το γράμμα!_ “Write (you, one person) the letter!”
+* Perfective:_Γράψετε το γράμμα!_ “Write (you, many persons) the letter!”
+* _Κοιμήσου τώρα!_ "Sleep now!"
+* _Κοιμηθείτε τώρα!_ "Sleep now!"
+* _Χάσου να μη σε βλέπω!_ "Get lost (you, one person) so that I cannot see  you".
+* _Χαθείτε να μη σας βλέπω!_  "Get lost (you, o many persons) so that I cannot see  you".
+
+ *να* is tagged [AUX]() when:	
+	- It introduces the verb of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."
+	- When it  occurs in relative clauses after the relativisers *που*, *o οποίος*, e.g.,  *Δεν υπάρχει τίποτα παραπάνω* <b>που</b>.[PRON]() <b>να</b>.[AUX]() έχει ανακαλύψει η άλλη δυάδα "there is nothing more that.[PRON]()  the other couple would have discovered",  *Στη συνέχεια γράψτε μια συνάρτηση* <b>η οποία</b>. [PRON]() <b>να</b>.[AUX]()  *τυπώνει αυτά τα δεδομένα* "Next, write a function that.[PRON]() will print the data." 
+
+
+In addition, all imperatives can be formed periphrastically with the particle να (el-feat/sconj) and the type 
 
 
 The past participle of the content verb is not marked as conditional
