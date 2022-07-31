@@ -64,7 +64,7 @@ Accusative typically marks direct objects of verbs and preposition objects. It a
 #### Examples
 
 * _΄έχτισε την πόλη_ "he built _the town_"
-* _γράμμα από την αδελφή μου_ "lettear from my _sister_"
+* _γράμμα από την αδελφή μου_ "letter from my _sister_"
 * _θα έρθει την επόμενη βδομάδα_ "he will come _next week_"
 
 
@@ -75,5 +75,5 @@ someone or, less frequently, something.
 
 #### Examples
 
-* _Άγγελε, πρόσεχε!_ “_Άggelos_, watch out!"
+* _Άγγελε, πρόσεχε!_ “_Aggelos_, watch out!"
 
