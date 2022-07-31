@@ -15,7 +15,7 @@ udver: '2'
 </table>
 
 Gender is a lexical feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN), [adjectives](el-pos/ADJ), [determiners](el-pos/DET), [pronouns](el-pos/PRON),  [numerals ](el-pos/NUM) and [verbs](el-pos/VERB)(participles). There are three values of gender: masculine, feminine, and neuter.
-In Modern Greek Gender is grammatical in general although in the case of annimates it is more likely that  grammatical gender  agrees with sex. 
+In Modern Greek Gender is grammatical in general although in the case of annimates it is more likely that  grammatical gender denotes the sex. 
 
 ### <a name="Masc">`Masc`</a>: masculine gender
 
