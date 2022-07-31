@@ -22,7 +22,7 @@ Indicative can be considered the default mood.
 
 #### Examples
 
-* _Γράφω ένα γράμμα._ “_I write/I am writing a letter.”
+* _Γράφω ένα γράμμα._ “_I write/I am writing_ a letter.”
 
 ### <a name="Imp">`Imp`</a>: imperative
 
@@ -33,25 +33,25 @@ Modern Greek verbs morphologically mark the imperfective and perfective  singula
 
 #### Examples
 
-* Imperfective: _Γράφε το γράμμα!_ “Write (2nd, singular)  the letter!”
-* Imperfective: _Γράφετε το γράμμα!_ “Write (2nd, plural) the letter!”
-* Perfective: _Γράψε το γράμμα!_ “Write (2nd, singular) ) the letter!”
-* Perfective: _Γράψετε το γράμμα!_ “Write (2nd, plural) the letter!”
-* Perfective: _Χάσου να μη σε βλέπω!_ "Get lost (2nd, singular)  so that I cannot see  you".
-* Perfective: _Χαθείτε να μη σας βλέπω!_  "Get lost (2nd, plural) so that I cannot see  you".
+* Imperfective: _Γράφε το γράμμα!_ “_Write (2nd, singular)_  the letter!”
+* Imperfective: _Γράφετε το γράμμα!_ “_Write (2nd, plural)_ the letter!”
+* Perfective: _Γράψε το γράμμα!_ “_Write (2nd, singular) )_ the letter!”
+* Perfective: _Γράψετε το γράμμα!_ “_Write (2nd, plural)_ the letter!”
+* Perfective: _Χάσου να μη σε βλέπω!_ "_Get lost (2nd, singular)_  so that I cannot see  you".
+* Perfective: _Χαθείτε να μη σας βλέπω!_  "_Get lost (2nd, plural)_ so that I cannot see  you".
 
 Both the second and the third person of the imperative of perfective and imperfective passive and active verbs and be formed with *να*, which is tagged [AUX](,)  and the indicative mood.
 
 #### Examples
 
-* Imperfective: _Να γράφεις το γράμμα!_ “Write (2nd, singular) the letter!”
-* Imperfective: _Να γράφετε το γράμμα!_ “Write (2nd, plural) the letter!”
-* Perfective: _Να γράψεις το γράμμα!_ “Write (2nd, singular)) the letter!”
-* Perfective: _Να γράψετε το γράμμα!_ “Write (2nd, plural) the letter!”
-* Imperfective: _Να γράφει το γράμμα!_ “Write (3rd, singular) the letter!”
-* Imperfective: _Να γράφουν το γράμμα!_ “Write (3rd, plural) the letter!”
-* Perfective: _Να γράψει το γράμμα!_ “Write (3rd, singular) the letter!”
-* Perfective: _Να γράψουν το γράμμα!_ “Write (3rd, singular) the letter!”
+* Imperfective: _Να γράφεις το γράμμα!_ “_Write (2nd, singular)_ the letter!”
+* Imperfective: _Να γράφετε το γράμμα!_ “_Write (2nd, plural)_ the letter!”
+* Perfective: _Να γράψεις το γράμμα!_ “_Write (2nd, singular)_ the letter!”
+* Perfective: _Να γράψετε το γράμμα!_ “_Write (2nd, plural)_ the letter!”
+* Imperfective: _Να γράφει το γράμμα!_ “_Write (3rd, singular)_ the letter!”
+* Imperfective: _Να γράφουν το γράμμα!_ “_Write (3rd, plural)_ the letter!”
+* Perfective: _Να γράψει το γράμμα!_ “_Write (3rd, singular)_ the letter!”
+* Perfective: _Να γράψουν το γράμμα!_ “_Write (3rd, singular)_ the letter!”
 
 Participles are tagged as verbs but are not defined for the Mood feature.
 
