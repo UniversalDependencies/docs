@@ -40,7 +40,7 @@ Modern Greek verbs morphologically mark the imperfective and perfective  singula
 * Perfective: _Χάσου να μη σε βλέπω!_ "_Get lost (2nd, singular)_  so that I cannot see  you".
 * Perfective: _Χαθείτε να μη σας βλέπω!_  "_Get lost (2nd, plural)_ so that I cannot see  you".
 
-Both the second and the third person of the imperative of perfective and imperfective passive and active verbs and be formed with *να*, which is tagged [AUX](,)  and the indicative mood.
+Both the second and the third person of the imperative of perfective and imperfective passive and active verbs and be formed with *να*  and the indicative mood.
 
 #### Examples
 
