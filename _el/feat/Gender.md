@@ -14,11 +14,8 @@ udver: '2'
 </tr>
 </table>
 
-Gender is a lexical feature of [nouns](cs-pos/NOUN) and inflectional feature
-of other parts of speech ([adjectives](cs-pos/ADJ), [verbs](cs-pos/VERB)) that mark agreement with
-nouns. There are three values of gender: masculine, feminine, and neuter.
-
-See also the related feature of [Animacy]().
+Gender is a lexical feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN), [adjectives](el-pos/ADJ), [determiners](el-pos/DET), [pronouns](el-pos/PRON),  [numerals ](el-pos/NUM) and [verbs](el-pos/VERB)(participles). There are three values of gender: masculine, feminine, and neuter.
+In Modern Greek Gender is grammatical in general although in the case of annimates it is more likely that the grammatical and the biological genders  agree. 
 
 ### <a name="Masc">`Masc`</a>: masculine gender
 
@@ -27,12 +24,11 @@ grammatically masculine, without any relation to sex.
 
 #### Examples
 
-* _<b>pán</b>&nbsp;_ “gentleman”
-* _<b>hrad</b>&nbsp;_ “castle”
-* _<b>muž</b>&nbsp;_ “man”
-* _<b>stroj</b>&nbsp;_ “machine”
-* _<b>předseda</b>&nbsp;_ “chairman”
-* _<b>soudce</b>&nbsp;_ “judge”
+* _Γιώργος_ “Geogre”
+* _άντρας_ “man”
+* _δικαστής_ “judge”
+* _σωλήνας_ "pipe"
+
 
 ### <a name="Fem">`Fem`</a>: feminine gender
 
@@ -41,23 +37,22 @@ grammatically feminine, without any relation to sex.
 
 #### Examples
 
-* _<b>žena</b>&nbsp;_ “woman”
-* _<b>růže</b>&nbsp;_ “rose”
-* _<b>píseň</b>&nbsp;_ “song”
-* _<b>kost</b>&nbsp;_ “bone”
+* _Μαρία_ "Mary"
+* _γυναίκα_ “woman”
+* _νοσοκόμα_ “(female) nurse”
+* _αυλή_ “yard”
+
 
 ### <a name="Neut">`Neut`</a>: neuter gender
 
 This third gender is for nouns that are neither
-masculine nor feminine (grammatically).
-Nouns whose nominative suffix is _-o&nbsp;_ or _-í&nbsp;_
-(including a large group of deverbative nouns denoting actions)
-are usually neuter.
+masculine nor feminine (grammatically). They still may denote humans of either sex.
 
 #### Examples
 
-* _<b>město</b>&nbsp;_ “city”
-* _<b>moře</b>&nbsp;_ “sea”
-* _<b>kuře</b>&nbsp;_ “chicken”
-* _<b>stavení</b>&nbsp;_ “building”
+* _αγόρι_ "boy"
+* _κορίτσι_ "girl"
+* _το Λενιώ_ "Helen (diminutive)"
+* _χωριό_ "village"
+* _σχολείο_ "school"
 <!-- Interlanguage links updated So kvě 14 19:02:16 CEST 2022 -->
