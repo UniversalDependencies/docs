@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-Tense is a feature that specifies the time when the action took /
+Tense is a feature pertaining to finite verb and auxiliary forms and participles only; it specifies the time when the action took /
 takes / will take place, in relation to the current moment or to
 another action in the utterance.
 
@@ -28,7 +28,7 @@ moment. Modern Greek morphologically distinguishes between a perfective past ten
 * Perfective past tense: _έγραψα_ "I wrote"
 * Imperfective past tense: _έγραφα_ "I was writing"
 
-Modern Greek also forms periphrastic tenses with the use of auxiliaries, namely the verb 'have' in the active voice and the verb 'be' in the passive. 
+Modern Greek also forms periphrastic tenses describing situations occurring before a specified point in time, including the current one, with the use of auxiliaries, namely the verb 'have' in the active voice and the verb 'be' in the passive. 
 In these cases, each form (the auxiliary and the verb) are assigned their own tense feature.
 
 #### Examples
@@ -39,7 +39,6 @@ In these cases, each form (the auxiliary and the verb) are assigned their own te
 * _είμαι γραμμένος.PARTICIPLE_ "I _am.PRES_ written"
 * _ήμουν γραμμένος.PARTICIPLE_ "I _was.PAST_ written"
 
-Auxiliaries and participles are defined for `Tense=Past`.
 
 
 ### <a name="Pres">`Pres`</a>: present tense
