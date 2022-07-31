@@ -24,12 +24,10 @@ In Modern Greek this applies to indicative and imperative forms.
 
 #### Examples
 
-- _nesu, neseš, nese, neseme, nesete, nesou_ &nbsp;“I carry, you carry, he/she/it carries, we carry, you carry, they carry”
-- _nes, nesme, neste_ &nbsp;“carry” (imperative in different persons and numbers)
-- _jsem, jsi, je, jsme, jste, jsou_ &nbsp;“I am, you are, he/she/it is, we are, you are, they are”
-- _budu, budeš, bude, budeme, budete, budou_ &nbsp;“I will be, you will be, he/she/it will be, we will be, you will be, they will be”
-- _bych, bys, by, bychom, byste, by_ &nbsp;“I would, you would, he/she/it would, we would, you would, they would”
-- _buď, buďme, buďte_ &nbsp;“be” (imperative in different persons and numbers)
+- _γράφω, γράφεις, γράφει, γράφουμε, γράφετε, γράφουν_ ;“I write, you write, he/she/it writes, we write, you write, they write”
+- _γράφε, γράφετε, γράψε, γράψετε_ “carry” (imperative in different persons and numbers)
+- _είμαι, είσαι, είναι, είμαστε, είσαστε, είναι_ “I am, you are, he/she/it is, we are, you are, they are”
+- _έχω, έχεις, έχει, έχουμε, έχετε, έχουν_ “I have, you have, he/she/it has, we have, you have, they have”
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
@@ -38,8 +36,9 @@ Infinitive is used with the auxiliary έχω "have" to form periphrastic tenses 
 
 #### Examples
 
-- _nést_ &nbsp;“to carry”
-- _být_ &nbsp;“to be”
+- _έχω γράψει_ “Ι have written”
+- _είχα γράψει_ “Ι had written”
+
 
 ### <a name="Part">`Part`</a>: participle
 
