@@ -56,7 +56,7 @@ They are understood as determiners when they are followed by a noun.
 
 <b>Demonstrative adverbs</b>
   - *εδώ* ‘here'
-  - *εκεί*`there'
+  - *εκεί* ‘there'
   - *τώρα* ‘now'
   - *τότε* ‘then'
   
@@ -68,7 +68,24 @@ There are similarities with reflexive and demonstrative pronouns / determiners.
 #### Examples
 -	 *ίδιος* "himself" e.g.,  *ήρθε ο ίδιος και μου είπε*  "he himself came  and told me..."
   
-  
+### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner or adverb
+
+They are understood as determiners when they are followed by a noun. 
+
+#### Examples
+
+<b>Pronouns, Determiners</b>
+
+-    *άλλος* "other"
+- *κάποιος* "somebody"
+- *κάτι*  "some"
+
+<b>Indefinite adverbs</b>
+- *κάπου* ‘somewhere'
+- *κάποτε* ‘sometime'
+- *οπουδήποτε* ‘anywhere'
+- *οποτεδήποτε* ‘anytime'
+
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
 They introduce direct or indirect questions.
@@ -143,22 +160,4 @@ do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the
   one's_ (possessive negative determiner), _žádný / no, none, nikde /
   nowhere, nikdy / never, nijak / no way_ (lit. “no-how”)
 
-### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner, numeral or adverb
 
-Note that some tagsets might further subclassify this category to
-distinguish “some” from “any” etc. Such distinctions are not part of
-universal features but may be added in language-specific extensions.
-
-#### Examples
-
-* [cs/en] _někdo / somebody, něco / something, některý / some, něčí /
-  someone's_ (possessive indefinite pronoun), _několik / a few,
-  several_ (indefinite numeral/quantifier), _několikátý / “a fewth”,
-  “severalth”_ (indefinite ordinal numeral), _několikrát / a few
-  times, several times, někde / somewhere, někdy / sometimes, nějak /
-  somehow_
-* [cs/en] _kdokoli / anybody, cokoli / anything, kterýkoli / any,
-  číkoli / anyone's_ (possessive indefinite pronoun), _kdekoli /
-  anywhere, kdykoli / any time, jakkoli / anyhow_
-* [cs/en] _málokdo / few people, leckdo / quite a few people, kdosi /
-  somebody…_
