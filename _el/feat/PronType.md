@@ -23,23 +23,43 @@ udver: '2'
 This feature  applies to Modern Greek [pronouns](el-pos/PRON),
 [determiners](el-pos/DET) and pronominal [adverbs](el-pos/ADV).
 
-interrogative pronouns in direct questions: *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what", e.g., *Ποιο/Πόσο/Τι θέλεις;* / *Pio/Poso/What want.2SG*  "which/how much/what do you want?"
-* personal pronouns: both strong and weak types (clitics), e.g., the weak types *του το* in *του το έδωσα* / *tou to edosa* "I gave it to him"
+
+
 *	possessive pronouns: weak types, e.g., *μου* in *το σπίτι μου* / *to spiti mou* "my house"
 * reflexive pronouns: *εαυτός* / *eaftos* "self"
 *	relative pronouns <code>PronType=Rel</code>: *οποίος* / *opios* "who"
 *	definite pronouns <code>PronType= Emp</code>: *ίδιος* / *idios* "himself" e.g.,  *ήρθε ο ίδιος και μου είπε* / *irthe o idios ke mou ipe* "he himself came  and told me..."
 
+### <a name="Art">`Art`</a>: article
+
+Article is a special case of <b>determiner<\b> that bears the feature of
+[definiteness](Definite). Modern Greek has a definite and an indefinite article. 
+
+#### Examples
+
+* definite article: _ο,του, τον, η, της, την, το, οι, των, τους, τα_
+* indefinitie article _ένας, ενός, ένα, μία, μίας_ 
+
+
+### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
+
+They introduce direct or indirect questions.
+
+#### Examples: 
+
+* interrogative pronouns in direct questions: *ποιος*  "who", *πόσος* "how many/much", *τι*/ *ti* "what"
+* interrogative determiners: the interrogative pronouns when they are followed by a noun: *ποιος* "who", *πόσος* "how many/much", *τι* "what kind"
+*  interrogative adverb: *πού* ‘where', *πότε* ‘when', *πώς* ‘how', *γιατί*  ‘why'
 
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
 Μodern Greek have personal pronouns of two types: strong and weak  (clitics), e.g., 
-the weak types *του το* in *του το έδωσα* / *tou to edosa* "I gave it to him"
+the weak types *του το* in *του το έδωσα*  "I gave _it_ to _him_"
 
 #### Examples
 
 * the weak types: _μου, σου, με, σε, του, της, τον, την, το, μας, σας, τους, τις, τα_
-* _εγώ, εσύ, εμένα, εσένα, εμείς, εσείς, εμάς, εσάς_
+* the strong types: _εγώ, εσύ, εμένα, εσένα, εμείς, εσείς, εμάς, εσάς_
 
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
@@ -56,29 +76,8 @@ every other member of the group. A reciprocal pronoun is used in the object posi
 * [de] _einander_ “each other”
 * [da] _hinanden_ “each other”
 
-### <a name="Art">`Art`</a>: article
 
-Article is a special case of determiner that bears the feature of
-[definiteness](Definite) (in other languages, the feature may be
-marked directly on nouns).
 
-#### Examples
-
-* [en] _a, an, the_ 
-* [de] _ein, eine, der, die, das_ 
-* [es] _un, una, el, la_
-
-### <a name="Int">`Int`</a>: interrogative pronoun, determiner, numeral or adverb
-
-Note that possessive interrogative determiners (_whose_) can be
-distinguished by the [Poss]() feature.
-
-#### Examples: 
-
-* [cs/en] _kdo / who, co / what, který / which, čí / whose, kolik /
-  how many, how much, kolikátý / how-maniest_ (ordinal quantifier),
-  _kolikrát / how many times, kde / where, kam / where to, kdy / when,
-  jak / how, proč / why_
 
 ### <a name="Rel">`Rel`</a>: relative pronoun, determiner, numeral or adverb
 
