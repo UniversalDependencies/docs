@@ -55,7 +55,7 @@ Both the second and the third person of the imperative of perfective and imperfe
 * Perfective: _Να γράψει το γράμμα!_ “_Write (3rd, singular)_ the letter!”
 * Perfective: _Να γράψουν το γράμμα!_ “_Write (3rd, singular)_ the letter!”
 
-Participles and the so-called Infinitive of Modern Greek are assigned the tag [Verb]() but are not defined for the Mood feature.
+Participles and the so-called Infinitive of Modern Greek are assigned the tag <code>Verb</code> but are not defined for the Mood feature.
 
 
 <!-- Interlanguage links updated So kvě 14 19:02:20 CEST 2022 -->
