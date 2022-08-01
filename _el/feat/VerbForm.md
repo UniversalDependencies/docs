@@ -44,20 +44,14 @@ As Infinitive is marked a verb form of Modern Greek that is received from the pe
 ### <a name="Part">`Part`</a>: participle
 
 Participle is a non-finite verb form that shares properties of verbs
-and adjectives. Modern Greek has two types of participles:
+and adjectives. Modern Greek has a medio-/passive (or deponent) participle ending in -μένος/-μένη/-μένο that corresponds to the classic Greek present tense medio-/passive participle.  In limited use are some participles  ending in -θεις, -θείσα, -θεν inherited from classical Greek in the  medio-/passive past tense. 
 
-- The past participle (also called active participle or l-participle)
-  is used to form the past tense, and the conditional mood in present or past tense.
-- The passive participle
-  is used to form the passive voice (in any tense or mood).
-
-Participles inflect for [Gender]() and [Number]() but not for [Person]().
+Participles inflect for [Gender](el-feat/Gender) and [Number](el-feat/Number) and are marked for [Voice](el-feat/Voice) but not [Tense](el-feat/Tense).
 
 #### Examples
 
-- _nesl, nesla, neslo, nesli, nesly_ &nbsp;“carried” (past participle in different genders and numbers)
-- _nesen, nesena, neseno, neseni, neseny_ &nbsp;“carried” (passive participle in different genders and numbers)
-- _byl, byla, bylo, byli, byly_ &nbsp;“was/been” (past participle in different genders and numbers)
+- _γραμμένος, γραμμένη, γραμμένο_; “written” (medio-/passive (or deponent) participle lemma in the three genders)
+- _προαναφερθείς, προαναφερθεία, προαναφερθέν_ (past medio-/passive participle (or deponent) lemma in the three genders)
 
 ### <a name="Conv">`Conv`</a>: converb, transgressive
 
