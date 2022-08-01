@@ -13,8 +13,10 @@ udver: '2'
 </tr>
 </table>
 
-Mood  expresses modality and subclassifies finite
+Mood  expresses modality and subclassifies _finite_
 verb forms. Modern Greek morphologically distinguishes between two moods, Indicative and Imperative. 
+
+
 
 ### <a name="Ind">`Ind`</a>: indicative
 
@@ -53,7 +55,7 @@ Both the second and the third person of the imperative of perfective and imperfe
 * Perfective: _Να γράψει το γράμμα!_ “_Write (3rd, singular)_ the letter!”
 * Perfective: _Να γράψουν το γράμμα!_ “_Write (3rd, singular)_ the letter!”
 
-Participles are tagged as verbs but are not defined for the Mood feature.
+Participles and the so-called Infinitive of Modern Greek are assigned the tag [verb](el-pos/Verb) but are not defined for the Mood feature.
 
 
 <!-- Interlanguage links updated So kvě 14 19:02:20 CEST 2022 -->
