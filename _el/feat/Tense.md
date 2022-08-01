@@ -28,8 +28,7 @@ moment. Modern Greek morphologically distinguishes between a perfective past ten
 * Perfective past tense: _έγραψα_ "I wrote"
 * Imperfective past tense: _έγραφα_ "I was writing"
 
-Modern Greek also forms composite tenses describing situations occurring before a specified point in time, now, in the past or the future, with the use of auxiliaries, namely the verb 'have' in the active voice and the verb 'be' in the passive. 
-In these cases, each form (the auxiliary and the verb) are assigned their own tense features. In particular, the active composite tenses formed with the verb 'have' contain a form of the content verb  tagged as 'infinitive' [VerbForm](el-feature/VerbForm) and not specified for tense and mood.
+Modern Greek also forms composite tenses describing situations occurring before a specified point in time, now, in the past or the future, with the use of auxiliaries, namely the verbs 'have' and 'be'. In these cases, each form (the auxiliary and the verb) are assigned their own tense features. Certain composite tenses are formed with a form of the content verb  that is tagged as 'infinitive' [VerbForm](el-feature/VerbForm) and is not specified for tense and mood.
 
 #### Examples
 
@@ -61,15 +60,15 @@ the finite verbal formations of Modern Greek that preserve their normal taggs. �
 
 #### Examples
 * _θα γράφω_ "Ι will be writing"
-* _θα γράψω_ "Ι will write"
-* _θα είχα γράψει_ "Ι would have written"
+* _θα γράψω_ "Ι will write"* _θα είχα γράψει.INF_ "Ι would have written"
+* _θα έχω γράψει.INF_ "Ι will have written"
 * _θα έγραφα_ "Ι would write"
 * _θα έγραψα_ "Ι would have written"
 * _θα γράφομαι_ "Ι will be being written"
 *  _θα γραφτώ_ "Ι will be written"
 * _θα γραφόμουν_ "Ι would be being written"
 *  _θα γράφτηκα_ "Ι would be written"
-* _θα είχω γραφτεί_ "Ι will have been written"
-* _θα είχα γραφτεί_ "Ι would have been written"
+* _θα έχω γραφτεί.INF_ "Ι will have been written"
+* _θα είχα γραφτεί.INF_ "Ι would have been written"
 
 
