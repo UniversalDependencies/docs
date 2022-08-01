@@ -28,7 +28,7 @@ This feature  applies to Modern Greek [pronouns](el-pos/PRON),
 *	possessive pronouns: weak types, e.g., *μου* in *το σπίτι μου* / *to spiti mou* "my house"
 * reflexive pronouns: *εαυτός* / *eaftos* "self"
 *	relative pronouns <code>PronType=Rel</code>: *οποίος* / *opios* "who"
-*	definite pronouns <code>PronType= Emp</code>: *ίδιος* / *idios* "himself" e.g.,  *ήρθε ο ίδιος και μου είπε* / *irthe o idios ke mou ipe* "he himself came  and told me..."
+
 
 ### <a name="Art">`Art`</a>: article
 
@@ -40,16 +40,44 @@ Article is a special case of <b>determiner<\b> that bears the feature of
 * definite article: _ο,του, τον, η, της, την, το, οι, των, τους, τα_
 * indefinitie article _ένας, ενός, ένα, μία, μίας_ 
 
+### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner or adverb
 
+They are understood as determiners when they are followed by a noun. 
+
+#### Examples
+  
+<b>Pronouns, Determiners<\b>
+-	  *αυτός*  "this"
+- *εκείνος*  "that" 
+- *(ε)τούτος* "this/that"
+- *τέτοιος*  "such"
+- *τόσος*  "this/that many/much, so/as"
+- *ίδιος* "the same"
+
+<b>Demonstrative adverbs<\b>
+  - *εδώ* ‘here'
+  - *εκεί*`there'
+  - *τώρα* ‘now'
+  - *τότε* ‘then'
+  
+### <a name="Emp">`Emp`</a>: emphatic determiner
+
+Emphatic pro-adjectives (determiners) emphasize the nominal they depend on.
+There are similarities with reflexive and demonstrative pronouns / determiners.
+
+#### Examples
+-	 *ίδιος* "himself" e.g.,  *ήρθε ο ίδιος και μου είπε*  "he himself came  and told me..."
+  
+  
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
 They introduce direct or indirect questions.
 
 #### Examples: 
 
-* interrogative pronouns in direct questions: *ποιος*  "who", *πόσος* "how many/much", *τι*/ *ti* "what"
-* interrogative determiners: the interrogative pronouns when they are followed by a noun: *ποιος* "who", *πόσος* "how many/much", *τι* "what kind"
-*  interrogative adverb: *πού* ‘where', *πότε* ‘when', *πώς* ‘how', *γιατί*  ‘why'
+- interrogative pronouns in direct questions: *ποιος*  "who", *πόσος* "how many/much", *τι*/ *ti* "what"
+- interrogative determiners should be followed by a noun: *ποιος* "who", *πόσος* "how many/much", *τι* "what kind", e.g., _πόσο καιρό σε ξέρω;_ "_how long_ have I known you?"
+-  interrogative adverb: *πού* ‘where', *πότε* ‘when', *πώς* ‘how', *γιατί*  ‘why'
 
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
@@ -90,42 +118,10 @@ some languages (Bulgarian, Hindi) the two classes are distinct.
 * [cs] _jenž, což_ “which”, “that” (relative but not interrogative
   pronouns); _jehož_ “whose” (possessive relative pronoun)
 
-### <a name="Exc">`Exc`</a>: exclamative determiner
 
-Exclamative pro-adjectives (determiners) express the speaker’s surprise towards
-the modified noun, e.g. _what_ in “What a surprise!” In many languages,
-exclamative determiners are recruited from the set of interrogative determiners.
-Therefore, not all tagsets distinguish them.
 
-#### Examples: 
 
-* [it] _che_
-* [cs] _jaký_ as in “Jaké překvapení!”
-* [en] _what_ as in “What a surprise!”
 
-### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner, numeral or adverb
-
-These are often parallel to interrogatives. Some tagsets might also
-distinguish a separate feature of distance (_here / there_; [es] _aquí
-/ ahí / allí_).
-
-#### Examples
-
-* [cs/en] _tento / this, tamten / that, takový / such, týž / same,
-  tolik / so much, tolikátý / so-maniest_ (ordinal number), _tolikrát
-  / so many times, tady / here, tam / there, teď / now, tehdy / then,
-  tak / so_
-
-### <a name="Emp">`Emp`</a>: emphatic determiner
-
-Emphatic pro-adjectives (determiners) emphasize the nominal they depend on.
-There are similarities with reflexive and demonstrative pronouns / determiners.
-
-#### Examples
-
-* [ro] _însuși_
-* [cs] _sám_
-* [en] _himself_ as in “He himself did it.”
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
 
