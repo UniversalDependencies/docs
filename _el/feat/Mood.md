@@ -31,7 +31,7 @@ Indicative can be considered the default mood.
 Imperative is used to order or ask the addressee to do the
 action denoted by the verb.
 
-Modern Greek verbs morphologically mark the imperfective and perfective  singular and plural second person of the active and passive voice. 
+Modern Greek verbs morphologically mark the imperfective and perfective  singular and plural second person of the active and passive imperative. 
 
 #### Examples
 
@@ -39,8 +39,8 @@ Modern Greek verbs morphologically mark the imperfective and perfective  singula
 * Imperfective: _Γράφετε το γράμμα!_ “_Write (2nd, plural)_ the letter!”
 * Perfective: _Γράψε το γράμμα!_ “_Write (2nd, singular) )_ the letter!”
 * Perfective: _Γράψετε το γράμμα!_ “_Write (2nd, plural)_ the letter!”
-* Perfective: _Χάσου να μη σε βλέπω!_ "_Get lost (2nd, singular)_  so that I cannot see  you".
-* Perfective: _Χαθείτε να μη σας βλέπω!_  "_Get lost (2nd, plural)_ so that I cannot see  you".
+* Perfective: _Ντύσου!_ "_Get dressed (2nd, singular)_".
+* Perfective: _Ντυθείτε!_  "_Get dressed (2nd, plural)_".
 
 Both the second and the third person of the imperative of perfective and imperfective passive and active verbs and be formed with *να*  and the indicative mood.
 
