@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+   <td><a href="#Dem">Art</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>
   <td><a href="#Ind">Ind</a></td>
@@ -19,9 +20,11 @@ udver: '2'
 </tr>
 </table>
 
-This feature typically applies to [pronouns](cs-pos/PRON),
-[determiners](cs-pos/DET), pronominal [numerals](cs-pos/NUM)
-(quantifiers) and pronominal [adverbs](cs-pos/ADV).
+This feature typically applies to [pronouns](el-pos/PRON),
+[determiners](el-pos/DET) and pronominal [adverbs](el-pos/ADV).
+
+
+### <a name="Prs">`Art`</a>: article
 
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
