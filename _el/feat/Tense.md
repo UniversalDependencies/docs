@@ -32,11 +32,11 @@ Modern Greek also forms composite tenses describing situations occurring before 
 
 #### Examples
 
-* _έχω γράψει.INF_ "I _have.PRES_ written"
-* _είχα γράψει.INF_ "I _had.PAST_ written"
+* _έχω.PRES γράψει.INF_ "I have written"
+* _είχα.PAST γράψει.INF_ "I had written"
 
-* _είμαι γραμμένος.PARTICIPLE_ "I _am.PRES_ written"
-* _ήμουν γραμμένος.PARTICIPLE_ "I _was.PAST_ written"
+* _είμαι.PRES γραμμένος.(VerbForm=Part)_ "I am written"
+* _ήμουν.PAST γραμμένος.(VerbForm=Part)_ "I wa written"
 
 
 
