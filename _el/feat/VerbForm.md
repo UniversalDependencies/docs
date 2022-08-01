@@ -19,7 +19,7 @@ udver: '2'
 
 ### <a name="Fin">`Fin`</a>: finite verb
 
-Rule of thumb: if it has non-empty [Mood](), it is finite.
+Rule of thumb: if it has non-empty [Mood](el-feat/Mood), it is finite.
 In Modern Greek this applies to indicative and imperative forms.
 
 #### Examples
@@ -46,7 +46,7 @@ As Infinitive is marked a verb form of Modern Greek that is received from the pe
 Participle is a non-finite verb form that shares properties of verbs
 and adjectives. Modern Greek has a medio-/passive (or deponent) participle ending in -μένος/-μένη/-μένο that corresponds to the classic Greek present tense medio-/passive participle.  In limited use are some participles  ending in -θεις, -θείσα, -θεν inherited from classical Greek in the  medio-/passive past tense. 
 
-Participles inflect for [Gender](el-feat/Gender), [Case](el-feat/Case) and [Number](el-feat/Number) and are marked for [Voice](el-feat/Voice) but not [Tense](el-feat/Tense). 
+Participles inflect for [Gender](el-feat/Gender), [Case](el-feat/Case) and [Number](el-feat/Number) and are marked for [Voice](el-feat/Voice) but not [Tense](el-feat/Tense) and [Mood](el-feat/Mood). 
 
 #### Examples
 
