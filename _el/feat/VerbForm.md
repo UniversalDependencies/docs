@@ -60,14 +60,9 @@ Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial partic
 
 #### Examples
 
-- _nesa, nesouc, nesouce_ &nbsp;“carrying” (present transgressive in different genders and numbers)
-- _přines, přinesši, přinesše_ &nbsp;“having brought” (past transgressive in different genders and numbers)
-- _jsa, jsouc, jsouce_ &nbsp;“being” (present transgressive in different genders and numbers)
-- _byv, byvši, byvše_ &nbsp;“having been” (past transgressive in different genders and numbers)
-- _zírali na mne, pevně <b>svírajíce</b> své zbraně&nbsp;_ “they
-  stared at me <b>while gripping</b> their guns firmly”
-- _<b>udělavši</b> večeři, zavolala rodinu ke stolu&nbsp;_ “<b>having
-  prepared</b> the dinner, she called her family to the table”
+-	*τρέχοντας*  "running"
+-	_τρώγοντας_ "eating"
+-	_τραγουδώντας_ "singing"
 
 
 
