@@ -29,7 +29,7 @@ moment. Modern Greek morphologically distinguishes between a perfective past ten
 * Imperfective past tense: _έγραφα_ "I was writing"
 
 Modern Greek also forms composite tenses describing situations occurring before a specified point in time, now, in the past or the future, with the use of auxiliaries, namely the verb 'have' in the active voice and the verb 'be' in the passive. 
-In these cases, each form (the auxiliary and the verb) are assigned their own tense features. In particular, the active composite tenses formed with the verb 'have' contain a form of the content verb that is tagged as 'infinitive' [VerbForm](el-feature/VerbForm) that crucially is not specified for tense and mood.
+In these cases, each form (the auxiliary and the verb) are assigned their own tense features. In particular, the active composite tenses formed with the verb 'have' contain a form of the content verb  tagged as 'infinitive' [VerbForm](el-feature/VerbForm) and not specified for tense and mood.
 
 #### Examples
 
