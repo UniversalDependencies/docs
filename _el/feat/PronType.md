@@ -8,7 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-   <td><a href="#Dem">Art</a></td>
+   <td><a href="#Art">Art</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>
   <td><a href="#Ind">Ind</a></td>
@@ -20,53 +20,19 @@ udver: '2'
 </tr>
 </table>
 
-This feature typically applies to [pronouns](el-pos/PRON),
+This feature  applies to Modern Greek [pronouns](el-pos/PRON),
 [determiners](el-pos/DET) and pronominal [adverbs](el-pos/ADV).
 
-
----
-layout: feature
-title: 'PronType'
-shortdef: 'pronominal type'
-udver: '2'
----
-
-<table class="typeindex" border="1">
-<tr>
-  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Art">Art</a></td>
-  <td><a href="#Dem">Dem</a></td>
-  <td><a href="#Emp">Emp</a></td>
-  <td><a href="#Exc">Exc</a></td>
-  <td><a href="#Ind">Ind</a></td>
-  <td><a href="#Int">Int</a></td>
-  <td><a href="#Neg">Neg</a></td>
-  <td><a href="#Prs">Prs</a></td>
-  <td><a href="#Rcp">Rcp</a></td>
-  <td><a href="#Rel">Rel</a></td>
-  <td><a href="#Tot">Tot</a></td>
-</tr>
-</table>
-
-This feature typically applies to
-[pronouns](u-pos/PRON),
-pronominal adjectives ([determiners](u-pos/DET)),
-pronominal [numerals](u-pos/NUM) (quantifiers) and
-pronominal [adverbs](u-pos/ADV).
 
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
 See also the [Poss]() feature that distinguishes normal personal
-pronouns from possessives. Note that `Prs` also includes reflexive
-personal/possessive pronouns (e.g. [cs] _se / svůj;_ see the
-[Reflex]() feature).
+pronouns from possessives. 
 
 #### Examples
 
-* [en] _I, you, he, she, it, we, they, my, your, his, her, its, our,
-  their, mine, yours, hers, ours, theirs_
-* [cs] _já, ty, on, ona, ono, my, vy, oni, ony, se, můj, tvůj, jeho, její, náš,
-  váš, jejich, svůj_
+* _εγώ, εσύ, εμείς, εσείς_
+
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
