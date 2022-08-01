@@ -13,32 +13,29 @@ udver: '2'
 </tr>
 </table>
 
-Voice in Modern Greek is a feature of verbs that highlights the role of a participant in an event by relating the participant to the subject. 
-So the active voice relates the "doer" with the subject and the passive the "affected". However, the preceeding text describes strong tendencies only.
+Voice in Modern Greek is a feature of verbs that highlights the role of a certain participant in an event; the highlighted participant is related to the  syntactic subject of the verb. So, the active voice relates the "doer" with the subject and the passive voice relates the "affected" with the subject. However, these are strong tendencies only.
+
+
+All Modern Greek finite verb forms and the participles are tagged for Voice.
 
 ### <a name="Act">`Act`</a>: active voice
 
 The subject of the verb is the doer or the controller of the event (agent), the object
 is affected or controlled (patient).
 
-All finite verb forms and the active/past participles are tagged `Voice=Act`.
 
 #### Examples
 
-* _<b>Napadli</b> jsme nepřítele.&nbsp;_ “We <b>attacked</b> the enemy”
-  (the active participle _napadli&nbsp;_ can be used to form either past
-  tense or conditional mood; here it forms the past tense.)
+- _Ο Όμηρος έγραψε την Οδύσσεια._ "Homer wrote the Odyssey." (Homer is the doer/controller of the writing event and surfaces as the subject of the active verb. Odyssey is created, therefore affected by the writing event and surfaces as the object of the active verb.)
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
-The subject of the verb is affected by the action (patient). The doer
-(agent) is either unexpressed or it appears as an object of the verb.
+The subject of the verb is affected by the event (patient). The doer
+(agent) is either unexpressed or is introduced by the preposition από.
 
-Only the passive participle is tagged `Voice=Pass`.
 
 #### Examples
 
-* _Jsme <b>napadeni</b> nepřítelem.&nbsp;_ “We are <b>attacked</b> by
-  the enemy” (the passive participle _napadeni&nbsp;_ is used to form
-  passive in all tenses; here it forms the present passive.)
-<!-- Interlanguage links updated So kvě 14 19:02:45 CEST 2022 -->
+* _Η Οδύσσεια γράφτηκε από τον Όμηρο._ "Odyssey was written by Homer" (Homer is the doer/controller of the writing event and surfaces as the complemnt of the preposition από that is selected by the passive verb. Odyssey is created, therefore affected by the writing event and surfaces as the subject of the passive verb.)
+* 
+* <!-- Interlanguage links updated So kvě 14 19:02:45 CEST 2022 -->
