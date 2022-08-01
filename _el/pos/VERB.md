@@ -14,7 +14,7 @@ A verb typically denotes events and actions, can constitute a minimal predicate 
 Τhe uninflected form that is used with the auxiliary *έχω* to form periphrastic tenses (e.g. *έχω γράψει* "I have written", *είχα γράψει* "I had written", *θα έχω γράψει* "I will have written") is assigned the VerbForm=Inf feature-value pair. Mood=... and VerbForm=Inf are mutually exclusive feature-value pairs. 
 
 
-Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag VERB, the lemma in *-μένος*  and *-θείς*,  and the features Aspect=...|Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
+Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag VERB, the lemma in *-μένος*  and *-θείς*,  and the features Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
 Ηowever, there are formations in *-μένος* not related to a verb in use in Modern Greek, e.g., *χιλιοτραγουδισμένος* / chiliotragoudismenos “storied”, *ξακουσμένος* / ksakousmenos “famous”, etc; these are assigned the  tag <code>ADJ</code>.  
 
 *είμαι* "to be" is assigned the tag [AUX]() when it supports a participle or an adjective and otherwise the tag [VERB]().
