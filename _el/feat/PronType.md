@@ -23,15 +23,23 @@ udver: '2'
 This feature  applies to Modern Greek [pronouns](el-pos/PRON),
 [determiners](el-pos/DET) and pronominal [adverbs](el-pos/ADV).
 
+interrogative pronouns in direct questions: *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what", e.g., *Ποιο/Πόσο/Τι θέλεις;* / *Pio/Poso/What want.2SG*  "which/how much/what do you want?"
+* personal pronouns: both strong and weak types (clitics), e.g., the weak types *του το* in *του το έδωσα* / *tou to edosa* "I gave it to him"
+*	possessive pronouns: weak types, e.g., *μου* in *το σπίτι μου* / *to spiti mou* "my house"
+* reflexive pronouns: *εαυτός* / *eaftos* "self"
+*	relative pronouns <code>PronType=Rel</code>: *οποίος* / *opios* "who"
+*	definite pronouns <code>PronType= Emp</code>: *ίδιος* / *idios* "himself" e.g.,  *ήρθε ο ίδιος και μου είπε* / *irthe o idios ke mou ipe* "he himself came  and told me..."
+
 
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
-See also the [Poss]() feature that distinguishes normal personal
-pronouns from possessives. 
+Μodern Greek have personal pronouns of two types: strong and weak  (clitics), e.g., 
+the weak types *του το* in *του το έδωσα* / *tou to edosa* "I gave it to him"
 
 #### Examples
 
-* _εγώ, εσύ, εμείς, εσείς_
+* the weak types: _μου, σου, με, σε, του, της, τον, την, το, μας, σας, τους, τις, τα_
+* _εγώ, εσύ, εμένα, εσένα, εμείς, εσείς, εμάς, εσάς_
 
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
