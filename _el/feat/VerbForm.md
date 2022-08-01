@@ -55,12 +55,8 @@ Participles inflect for [Gender](el-feat/Gender), [Case](el-feat/Case) and [Numb
 
 ### <a name="Conv">`Conv`</a>: converb, transgressive
 
-The converb, also called transgressive, adverbial participle or gerund, is a non-finite
-verb form that shares properties of verbs and adverbs.
+Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) are non-finite forms that share properties of adverbs and verbs. They are assigned the tag VERB, the lemma in *-όντας, -ώντας*, the specification <code>VerbForm=Conv</code> and are tagged for <code>Aspect</code> and <code>Voice</code>. 
 
-Imperfective verbs form present converb, meaning “while doing”.
-
-Perfective verbs form past converb, meaning “having done”.
 
 #### Examples
 
