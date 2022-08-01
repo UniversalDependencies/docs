@@ -32,7 +32,7 @@ This feature  applies to Modern Greek [pronouns](el-pos/PRON),
 
 ### <a name="Art">`Art`</a>: article
 
-Article is a special case of <b>determiner<\b> that bears the feature of
+Article is a special case of <b>determiner</b> that bears the feature of
 [definiteness](Definite). Modern Greek has a definite and an indefinite article. 
 
 #### Examples
@@ -46,7 +46,7 @@ They are understood as determiners when they are followed by a noun.
 
 #### Examples
   
-<b>Pronouns, Determiners<\b>
+<b>Pronouns, Determiners</b>
 -	  *αυτός*  "this"
 - *εκείνος*  "that" 
 - *(ε)τούτος* "this/that"
@@ -54,7 +54,7 @@ They are understood as determiners when they are followed by a noun.
 - *τόσος*  "this/that many/much, so/as"
 - *ίδιος* "the same"
 
-<b>Demonstrative adverbs<\b>
+<b>Demonstrative adverbs</b>
   - *εδώ* ‘here'
   - *εκεί*`there'
   - *τώρα* ‘now'
