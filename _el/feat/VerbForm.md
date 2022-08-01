@@ -31,18 +31,20 @@ In Modern Greek this applies to indicative and imperative forms.
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
-As Infinitive is marked a verb form of Modern Greek that is received from the perfective form of the verb and is used with the auxiliary έχω "have" to form certain periphrastic tenses of the active voice. It has no other usage in the language and it is not  used as the lemma form (as infinitives are traditionally used).
+As Infinitive is marked a verb form of Modern Greek that is received from the perfective form of the verb and is used with the auxiliary έχω "have" to form certain composite tenses. It has no other usage in the language and it is not  used as the lemma form (as infinitives are traditionally used).
 
 #### Examples
 
 - _έχω γράψει_ “Ι have written”
 - _είχα γράψει_ “Ι had written”
+- _έχω γραφτεί_ "I have been written"
+- _είχα γραφτεί_ "I had been written"
 
 
 ### <a name="Part">`Part`</a>: participle
 
 Participle is a non-finite verb form that shares properties of verbs
-and adjectives. Czech has two types of participles:
+and adjectives. Modern Greek has two types of participles:
 
 - The past participle (also called active participle or l-participle)
   is used to form the past tense, and the conditional mood in present or past tense.
