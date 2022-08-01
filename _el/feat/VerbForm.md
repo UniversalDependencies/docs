@@ -31,8 +31,7 @@ In Modern Greek this applies to indicative and imperative forms.
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
-Infinitive is used with the auxiliary έχω "have" to form periphrastic tenses of the active voice.
-
+As Infinitive is marked a verb form of Modern Greek that is received from the perfective form of the verb and is used with the auxiliary έχω "have" to form certain periphrastic tenses of the active voice. It has no other usage in the language and it is not  used as the lemma form (as infinitives are traditionally used).
 
 #### Examples
 
