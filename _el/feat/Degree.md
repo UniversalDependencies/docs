@@ -50,7 +50,7 @@ object. The adverbs express a comparison of manners.
 The adjective expresses morphologically that the studied quality of
 the given object is so strong that there is hardly any other object
 exceeding it. The quality is not actually compared to any particular
-set of objects. The adverbs express a superb manner.
+set of objects. The adverbs express the highest degree of a manner.
 
 #### Examples
 
