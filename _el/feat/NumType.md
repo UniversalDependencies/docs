@@ -21,9 +21,9 @@ the following parts of speech:
 * [el-pos/NUM](): cardinal numerals
 * [el-pos/NOUN](): set denoting nouns
 * [el-pos/ADJ]():  ordinal and multiplicative adjectives
-* [el-pos/ADV]():  ordinal and multiplicative adverbs
+* [el-pos/ADV](): multiplicative adverbs
 
-### <a name="Card">`Card`</a>: cardinal number 
+### <a name="Card">`Card`</a>: cardinal number
 
 #### Examples
 
@@ -31,17 +31,14 @@ the following parts of speech:
 -	 *ένα, δύο, τρία, εβδομήντα πέντε* "one, two, three, seventy five"
 
 
-### <a name="Ord">`Ord`</a>: ordinal number
+### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
-This is a subtype of adjective or (in some languages) of adverb.
+This is a subtype of adjective.
 
 #### Examples
 
 <b>Adjectives</b>
 - _πρώτος, δεύτερος, τρίτος_  "first, second, third"
-
-<b>Adverbs></b>
-- _πρώτον_ "firstly"
 
 
 ### <a name="Mult">`Mult`</a>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
@@ -59,7 +56,7 @@ This is subtype of adjective or adverb.
 
 ### <a name="Sets">`Sets`</a>: number of sets of things; collective numeral
 
-These are tagged as [NOUN]().
+The feature is assigned to set denoting nouns.
 
 #### Examples
 
