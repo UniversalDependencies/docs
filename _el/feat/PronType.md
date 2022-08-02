@@ -47,7 +47,7 @@ They are understood as determiners when they are followed by a noun.
 #### Examples
   
 <b>Pronouns, Determiners</b>
--	  *αυτός*  "this"
+-	*αυτός*  "this"
 - *εκείνος*  "that" 
 - *(ε)τούτος* "this/that"
 - *τέτοιος*  "such"
