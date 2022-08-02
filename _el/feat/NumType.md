@@ -45,14 +45,13 @@ This is a subtype of adjective.
 
 This is a subtype of cardinal numbers, occasionally distinguished in
 corpora. It may denote a fraction or just the denominator of the
-fraction. In various languages these words may behave morphologically
-and syntactically as nouns or ordinal numerals.
+fraction. In Modern Greek these words may behave morphologically
+and syntactically as nouns or adjectives assigned the feature-value pair 'NumType=Ord' (aka ordinal numerals). 
 
 #### Examples
 
-* [en] _three-quarters_
-* [cs] _půl / polovina_ "half"; _třetina_ "one third"; _čtvrt /
-  čtvrtina_ "quarter"
+- _τρία τέταρτα_ "three _quarters_" (_τρία_ is a cardinal numeral  and _τέταρτα_ an adjective assigned the feature-value pair 'NumType=Frac')
+- _μία και μισή_ "half past one" (_μία_ is a cardinal numeral  and _μισή_ an adjective assigned the feature-value pair 'NumType=Frac')
 
 ### <a name="Mult">`Mult`</a>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
 
