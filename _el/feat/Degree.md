@@ -38,7 +38,7 @@ object.
 - _ο άντρας είναι νεώτερός μου_ "the man is _younger_ than me"
 - _το παιδί είναι ασχημότερο απο τον πατέρα_ "the child is _more ugly_ than the father"
 
-- 
+
 ### <a name="Abs">`Abs`</a>: absolute superlative
 
 The adjective expresses morphologically that the studied quality of
