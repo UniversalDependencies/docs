@@ -15,12 +15,12 @@ udver: '2'
 </table>
 
 Degree of comparison is typically an inflectional feature of some
-[adjectives](el-pos/ADJ) and [adverbs](el-pos/ADV).
+[adjectives](el-pos/ADJ) and [adverbs](el-pos/ADV). Modern Greek marks morphologically the positive, comparative and absolute superlative degree  while the superlative degree of adjectives is composite (definite article + comparative degree). 
 
 ### <a name="Pos">`Pos`</a>: positive, first degree
 
 This is the base form that merely states a quality of something,
-without comparing it to qualities of others.
+without comparing it to qualities of others. The adverbs express a manner.
 
 #### Examples
 
@@ -34,7 +34,7 @@ without comparing it to qualities of others.
 ### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
 The quality of one object is compared to the same quality of another
-object.
+object. The adverbs express a comparison of manners.
 
 #### Examples
 
@@ -50,7 +50,7 @@ object.
 The adjective expresses morphologically that the studied quality of
 the given object is so strong that there is hardly any other object
 exceeding it. The quality is not actually compared to any particular
-set of objects.
+set of objects. The adverbs express a superb manner.
 
 #### Examples
 
