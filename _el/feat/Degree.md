@@ -44,6 +44,7 @@ object. The adverbs express a comparison of manners.
 
 <b>Adverbs</b>
 - _εξυπνότερα, καλύτερα_ "more cleverly, better"
+- _πιο_ "more" (the adverb is used to form composite comparative degree of adjectives: _ο άντρας είναι πιο νέος από εμένα_ "the man is _younger_ than me")
 
 ### <a name="Abs">`Abs`</a>: absolute superlative
 
