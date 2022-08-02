@@ -9,11 +9,8 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Com">Com</a></td>
-  <td><a href="#Cons">Cons</a></td>
   <td><a href="#Def">Def</a></td>
   <td><a href="#Ind">Ind</a></td>
-  <td><a href="#Spec">Spec</a></td>
 </tr>
 </table>
 
