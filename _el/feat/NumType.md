@@ -17,32 +17,33 @@ udver: '2'
 
 
 From the syntactic point of view, some numtypes behave like adjectives
-and some behave like adverbs. We tag them [u-pos/ADJ]() and
-[u-pos/ADV]() respectively. Thus the `NumType` feature applies to
+and some behave like adverbs. We tag them [el-pos/ADJ]() and
+[el-pos/ADV]() respectively. Thus the `NumType` feature applies to
 several different parts of speech:
 
-* [u-pos/NUM](): cardinal numerals
-* [u-pos/DET](): quantifiers
-* [u-pos/ADJ](): definite adjectival, e.g. ordinal numerals
-* [u-pos/ADV](): adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal
+* [el-pos/NUM](): cardinal numerals
+* [el-pos/ADJ](): definite adjectival, e.g. ordinal numerals
+* [el-pos/ADV](): adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal
 
-### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
-
-Note that in some Indo-European languages there is a fuzzy borderline
-between numerals and nouns for _thousand, million_ and _billion._
+### <a name="Card">`Card`</a>: cardinal number 
 
 #### Examples
 
-- _ένα, δύο, τρία_ "one, two, three"
+-		0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359
+-	 *ένα, δύο, τρία, εβδομήντα πέντε* "one, two, three, seventy five"
 
 
-### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Ord">`Ord`</a>: ordinal number
 
 This is a subtype of adjective or (in some languages) of adverb.
 
 #### Examples
 
+<b>Adjectives</b>
 - _πρώτος, δεύτερος, τρίτος_  "first, second, third"
+
+<b>Adverbs></b>
+- _πρώτον_ "firstly"
 
 
 ### <a name="Mult">`Mult`</a>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
@@ -51,16 +52,16 @@ This is subtype of adjective or adverb.
 
 #### Examples
 
+<b>Adjectives</b>
 -  _διπλός_ "double, twofold"; _τριπλός_ "triple, threefold"; _τετραπλός_ "fourfold"
 
+<b>Adverbs></b>
 - _άπαξ_ "once"
 
 
 ### <a name="Sets">`Sets`</a>: number of sets of things; collective numeral
 
-Morphologically distinct class of numerals used to count sets of
-things, or nouns that are pluralia tantum. Some authors call this type
-collective numeral.
+These are tagged as [NOUN]().
 
 #### Examples
 
