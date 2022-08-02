@@ -13,7 +13,7 @@ udver: '2'
 </table>
 
 Boolean feature of pronouns.  It tells
-whether the word is a possessive. 
+whether the word is a possessive pronoun. 
 
 
 ### <a name="Yes">`Yes`</a>: it is possessive
