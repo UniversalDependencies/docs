@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Card">Card</a></td>
+  <td><a href="#Frac">Frac</a></td>
   <td><a href="#Mult">Mult</a></td>
   <td><a href="#Ord">Ord</a></td>
   <td><a href="#Sets">Sets</a></td>
@@ -40,6 +41,18 @@ This is a subtype of adjective.
 <b>Adjectives</b>
 - _πρώτος, δεύτερος, τρίτος_  "first, second, third"
 
+### <a name="Frac">`Frac`</a>: fraction
+
+This is a subtype of cardinal numbers, occasionally distinguished in
+corpora. It may denote a fraction or just the denominator of the
+fraction. In various languages these words may behave morphologically
+and syntactically as nouns or ordinal numerals.
+
+#### Examples
+
+* [en] _three-quarters_
+* [cs] _půl / polovina_ "half"; _třetina_ "one third"; _čtvrt /
+  čtvrtina_ "quarter"
 
 ### <a name="Mult">`Mult`</a>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
 
