@@ -24,9 +24,12 @@ without comparing it to qualities of others.
 
 #### Examples
 
+<b>Adjectives</b>
 - _νέος άντρας_ "_young_ man"
 - _άσχημο παιδί_ "_ugly_ child"
 
+<b>Adverbs</b>
+- _έξυπνα, καλά_ "cleverly, good"
 
 ### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
@@ -35,9 +38,12 @@ object.
 
 #### Examples
 
+<b>Adjectives</b>
 - _ο άντρας είναι νεώτερός μου_ "the man is _younger_ than me"
 - _το παιδί είναι ασχημότερο απο τον πατέρα_ "the child is _more ugly_ than the father"
 
+<b>Adverbs</b>
+- _εξυπνότερα, καλύτερα_ "more cleverly, better"
 
 ### <a name="Abs">`Abs`</a>: absolute superlative
 
@@ -48,6 +54,10 @@ set of objects.
 
 #### Examples
 
+<b>Adjectives</b>
 - _Η Μαρία ήταν ωραιότατη._ "Maria was _most beautiful_." 
 
+<b>Adverbs</b>
+
+- _εξυπνότατα, κάλλιστα_ "most cleverly, best"
 <!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->
