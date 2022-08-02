@@ -32,7 +32,7 @@ The structure consisting of a pair of identical adverbs is a degree modification
 
 Multiword adverbs such as *καλού-κακού* Lit. of good-of bad ‘just to make sure': both words are  assigned the tag [ADV]() and the second adverb depends on the first one with the <code>fixed</code> relation.  
 
-
+Adverbs may be specified for the feature [Degree](el-feat/Degree), e.g. _καλύτερα_ "better",  and for the feature [NumType](el-feat/NumType), e.g. *άπαξ* / *apaks* ‘once'.
 
 ### Examples
 -	locative adverbs: *απέξω* / *apekso* ‘outside’, *εδώ* / *edo*  ‘here’, *εκεί* / *eki* ‘there’, *πάνω* / *pano* ‘up’, *κάτω* / *kato* ‘down’, *δεξιά* / *deksia* ‘right’, *αριστερά* / *aristera* ‘left’, *κάπου* / *kapou* ‘somewhere’, *παντού* / *pantou* ‘everywhere’, *πουθενά* / *pouthena* ‘nowhere’, *πού* / *pou* ‘where’
