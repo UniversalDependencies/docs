@@ -15,15 +15,13 @@ udver: '2'
 </tr>
 </table>
 
-
-From the syntactic point of view, some numtypes behave like adjectives
-and some behave like adverbs. We tag them [el-pos/ADJ]() and
-[el-pos/ADV]() respectively. Thus the `NumType` feature applies to
-several different parts of speech:
+ Thus the `NumType` feature applies to
+the following parts of speech:
 
 * [el-pos/NUM](): cardinal numerals
-* [el-pos/ADJ](): definite adjectival, e.g. ordinal numerals
-* [el-pos/ADV](): adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal
+* [el-pos/NOUN](): set denoting nouns
+* [el-pos/ADJ]():  ordinal and multiplicative adjectives
+* [el-pos/ADV]():  ordinal and multiplicative adverbs
 
 ### <a name="Card">`Card`</a>: cardinal number 
 
