@@ -21,7 +21,7 @@ the following parts of speech:
 
 * [el-pos/NUM](): cardinal numerals
 * [el-pos/NOUN](): set denoting nouns
-* [el-pos/ADJ]():  ordinal and multiplicative adjectives
+* [el-pos/ADJ]():  ordinal and multiplicative adjectives, also fractions
 * [el-pos/ADV](): multiplicative adverbs
 
 ### <a name="Card">`Card`</a>: cardinal number
