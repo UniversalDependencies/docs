@@ -76,7 +76,7 @@ They are understood as determiners when they are followed by a noun.
 
 <b>Pronouns, Determiners</b>
 
--    *άλλος* "other"
+- *άλλος* "other"
 - *κάποιος* "somebody"
 - *κάτι*  "some"
 
@@ -92,9 +92,16 @@ They introduce direct or indirect questions.
 
 #### Examples: 
 
-- interrogative pronouns in direct questions: *ποιος*  "who", *πόσος* "how many/much", *τι*/ *ti* "what"
-- interrogative determiners should be followed by a noun: *ποιος* "who", *πόσος* "how many/much", *τι* "what kind", e.g., _πόσο καιρό σε ξέρω;_ "_how long_ have I known you?"
--  interrogative adverb: *πού* "where", *πότε* "when", *πώς* "how", *γιατί*  "why"
+<b>Pronouns, Determiners</b>
+- *ποιος*  "who"
+- *πόσος* "how many/much"
+- *τι* "what"
+
+<b>Interogative adverbs</b>
+- *πού* "where"
+- *πότε* "when"
+- *πώς* "how"
+- *γιατί*  "why"
 
 
 ### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
@@ -132,19 +139,23 @@ Pronouns never occur with the noun for which they stand and they cannot be repla
 
 
 #### Examples: 
-
+<b>Pronouns, Determiners</b>
 - _ο οποίος, η οποία, το οποίο_ “who, that"
 - _που_ is assigned the tag [PRON]() if it refers to a noun, e.g. _Έχουμε πολλές πληροφορίες, που.PRON δεν οδηγούν όμως πουθενά_ "we have much information _that_, however, leads to nowhere". 
 
+<b>Relative adverbs</b>
+- _όπως_ "as, in the way that"
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
 
 #### Examples
-
+<b>Pronouns, Determiners</b>
 - _καθείς, καθένας, καθεμία, καθένα_ "every, everybody, everyone, each"
 - _όλοι, όλες, όλα_ "all"
+
+<b>Collective adverbs</b>
 - _παντού_ "everywhere"
-- _πάνττε_ "always"
+- _πάντοτε_ "always"
 
 
 
