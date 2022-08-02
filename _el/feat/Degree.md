@@ -8,9 +8,9 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+   <td><a href="#Abs">Abs</a></td>
   <td><a href="#Cmp">Cmp</a></td>
   <td><a href="#Pos">Pos</a></td>
-  <td><a href="#Sup">Sup</a></td>
 </tr>
 </table>
 
@@ -38,15 +38,6 @@ object.
 - _ο άντρας είναι νεώτερός μου_ "the man is _younger_ than me"
 - _το παιδί είναι ασχημότερο απο τον πατέρα_ "the child is _more ugly_ than the father"
 
-### <a name="Sup">`Sup`</a>: superlative, third degree
-
-The quality of one object is compared to the same quality of all other
-objects within a set.
-
-#### Examples
-
-- _είναι ο νεώτερος άντρας στη γειτονιά_ "He is the _youngest_ man in the neighborhood"
-- _είναι το ασχημότερο παιδί στη τάξη της_  "She is the _ugliest_ child in her class" 
 - 
 ### <a name="Abs">`Abs`</a>: absolute superlative
 
