@@ -21,7 +21,7 @@ udver: '2'
 </table>
 
 This feature  applies to Modern Greek [pronouns](el-pos/PRON),
-[determiners](el-pos/DET) and pronominal [adverbs](el-pos/ADV).
+[determiners](el-pos/DET) and  [adverbs](el-pos/ADV).
 
 
 
@@ -55,10 +55,10 @@ They are understood as determiners when they are followed by a noun.
 - *ίδιος* "the same"
 
 <b>Demonstrative adverbs</b>
-  - *εδώ* ‘here'
-  - *εκεί* ‘there'
-  - *τώρα* ‘now'
-  - *τότε* ‘then'
+  - *εδώ* "here"
+  - *εκεί* "there"
+  - *τώρα* "now"
+  - *τότε* "then"
   
 ### <a name="Emp">`Emp`</a>: emphatic determiner
 
@@ -81,10 +81,10 @@ They are understood as determiners when they are followed by a noun.
 - *κάτι*  "some"
 
 <b>Indefinite adverbs</b>
-- *κάπου* ‘somewhere'
-- *κάποτε* ‘sometime'
-- *οπουδήποτε* ‘anywhere'
-- *οποτεδήποτε* ‘anytime'
+- *κάπου* "somewhere"
+- *κάποτε* "sometime"
+- *οπουδήποτε* "anywhere"
+- *οποτεδήποτε* "anytime"
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
@@ -94,58 +94,8 @@ They introduce direct or indirect questions.
 
 - interrogative pronouns in direct questions: *ποιος*  "who", *πόσος* "how many/much", *τι*/ *ti* "what"
 - interrogative determiners should be followed by a noun: *ποιος* "who", *πόσος* "how many/much", *τι* "what kind", e.g., _πόσο καιρό σε ξέρω;_ "_how long_ have I known you?"
--  interrogative adverb: *πού* ‘where', *πότε* ‘when', *πώς* ‘how', *γιατί*  ‘why'
+-  interrogative adverb: *πού* "where", *πότε* "when", *πώς* "how", *γιατί*  "why"
 
-### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
-
-Μodern Greek have personal pronouns of two types: strong and weak  (clitics), e.g., 
-the weak types *του το* in *του το έδωσα*  "I gave _it_ to _him_"
-
-#### Examples
-
-* the weak types: _μου, σου, με, σε, του, της, τον, την, το, μας, σας, τους, τις, τα_
-* the strong types: _εγώ, εσύ, εμένα, εσένα, εμείς, εσείς, εμάς, εσάς_
-
-
-### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
-
-This value is used for pronouns that are specifically reciprocal. If a reflexive pronoun can be used to convey reciprocal meaning,
-it is still labeled as reflexive (`PronType=Prs|Reflex=Yes`). It is not marked as reciprocal in contexts in which it is used
-reciprocally.
-
-Reciprocal means that there is a plural subject and every member of the group does the thing described by the predicate to
-every other member of the group. A reciprocal pronoun is used in the object position to signal such configuration.
-
-#### Examples
-
-* [de] _einander_ “each other”
-* [da] _hinanden_ “each other”
-
-
-
-
-### <a name="Rel">`Rel`</a>: relative pronoun, determiner, numeral or adverb
-
-Note that in many languages this class heavily overlaps with
-interrogatives, yet there are pronouns that are only relative, and in
-some languages (Bulgarian, Hindi) the two classes are distinct.
-
-#### Examples: 
-
-* [cs] _jenž, což_ “which”, “that” (relative but not interrogative
-  pronouns); _jehož_ “whose” (possessive relative pronoun)
-
-
-
-
-
-
-### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
-
-#### Examples
-
-* [cs/en] _každý / every, everybody, everyone, each, všechno /
-  everything, all, všude / everywhere, vždy / always_
 
 ### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
 
@@ -156,8 +106,45 @@ do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the
 
 #### Examples: 
 
-* [cs/en] _nikdo / nobody, nic / nothing, nijaký / no, ničí / no
-  one's_ (possessive negative determiner), _žádný / no, none, nikde /
-  nowhere, nikdy / never, nijak / no way_ (lit. “no-how”)
+<b>Pronouns, Determiners</b>
+- _κανείς, κανένας, καμιά_ "nobody"
+- _τίποτα, κανένα_ "nothing"
+- κανενός, καμιανής "no one's (negative possessive)
+  
+<b>Negative adverbs</b>
+- *πουθενά* / *pouthena* ‘nowhere', *ποτέ* / *pote* ‘never'
+
+### <a name="Prs">`Prs`</a>: personal pronoun or determiner
+
+Μodern Greek has two types of personal pronouns: strong and weak  (clitics), e.g., 
+the weak types *του το* in *του το έδωσα*  "I gave _it_ to _him_"
+
+#### Examples
+
+* the weak types: _μου, σου, με, σε, του, της, τον, την, το, μας, σας, τους, τις, τα_
+* the strong types: _εγώ, εσύ, εμένα, εσένα, εμείς, εσείς, εμάς, εσάς_
+
+
+
+### <a name="Rel">`Rel`</a>: relative pronoun, determiner or adverb
+
+Pronouns never occur with the noun for which they stand and they cannot be replaced with a synonymous nominal phrase; these facts offer a criterion for setting determiners apart from pronouns. As in many languages, in Modern Greek relative pronouns heavily overlap with interrogatives.
+
+
+#### Examples: 
+
+- _ο οποίος, η οποία, το οποίο_ “who, that"
+- _που_ is assigned the tag [PRON]() if it refers to a noun, e.g. _Έχουμε πολλές πληροφορίες, που.PRON δεν οδηγούν όμως πουθενά_ "we have much information _that_, however, leads to nowhere". 
+
+
+### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
+
+#### Examples
+
+- _καθείς, καθένας, καθεμία, καθένα_ "every, everybody, everyone, each"
+- _όλοι, όλες, όλα_ "all"
+- _παντού_ "everywhere"
+- _πάνττε_ "always"
+
 
 
