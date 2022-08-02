@@ -55,7 +55,7 @@ Participles inflect for [Gender](el-feat/Gender), [Case](el-feat/Case) and [Numb
 
 ### <a name="Conv">`Conv`</a>: converb, transgressive
 
-Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) are non-finite forms that share properties of adverbs and verbs. They are assigned the tag VERB, the lemma in *-όντας, -ώντας*, the specification <code>VerbForm=Conv</code> and are tagged for <code>Aspect</code> and <code>Voice</code>. 
+Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) are non-finite forms that share properties of adverbs and verbs. They are assigned the tag [VERB]() or [AUX](), a lemma in *-όντας, -ώντας*, the specification <code>VerbForm=Conv</code> and are tagged for <code>Aspect</code> and <code>Voice</code>. 
 
 
 #### Examples
