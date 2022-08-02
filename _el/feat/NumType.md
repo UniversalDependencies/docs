@@ -50,7 +50,7 @@ This is subtype of adjective or adverb.
 <b>Adjectives</b>
 -  _διπλός_ "double, twofold"; _τριπλός_ "triple, threefold"; _τετραπλός_ "fourfold"
 
-<b>Adverbs></b>
+<b>Adverbs</b>
 - _άπαξ_ "once"
 
 
