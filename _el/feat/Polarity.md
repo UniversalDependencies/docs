@@ -32,6 +32,7 @@ particle *not*, e.g., *φέρε τον αναπτήρα, όχι τα σπίρτ�
 #### Examples
 
 - _όχι_ "no/not"
+- _μη_ "no/not/non"
 
 
 
