@@ -44,7 +44,7 @@ object. The adverbs express a comparison of manners.
 
 <b>Adverbs</b>
 - _εξυπνότερα, καλύτερα_ "more cleverly, better"
-- _πιο_ "more" (the adverb is used to form composite comparative degree of adjectives and adverbs: _ο άντρας είναι πιο νέος από εμένα_ "the man is _younger_ than me"),   _η Μαρία μιλάει πιο δυνατά από τον Γιώργο_ "Maria speaks more loudly than George"
+- _πιο_ "more" (the adverb is used to form composite comparative degree of adjectives and adverbs: _ο άντρας είναι πιο νέος από εμένα_ "the man is _younger_ than me"),   _η Μαρία μιλάει πιο δυνατά από τον Γιώργο_ "Maria speaks _more loudly_ than George"
 
 ### <a name="Abs">`Abs`</a>: absolute superlative
 
