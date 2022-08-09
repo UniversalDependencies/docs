@@ -29,7 +29,7 @@ more detail.
 
 #### Examples
 
-*  _¿Γιατί? -, διερωτήθηκε<b>.</b>_ “Why? – she wondered.”
+*  _Γιατί?, διερωτήθηκε<b>.</b>_ “Why?, she wondered.”
 
 ### <a name="Elip">`Elip`</a>: ellipsis
 
@@ -41,7 +41,7 @@ more detail.
 
 #### Examples
 
-*  _<b>¿</b>Γιατί<b>?</b>_ “Why?”
+*  _Γιατί<b>?</b>_ “Why?”
 
 ### <a name="Excl">`Excl`</a>: exclamation mark
 
