@@ -10,7 +10,6 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
-   <td><a href="#Pot">Pot</a></td>
 </tr>
 </table>
 
@@ -58,16 +57,5 @@ Both the second and the third person of the imperative of perfective and imperfe
 * Perfective: _Να γράψουν το γράμμα!_ “_Write (3rd, singular)_ the letter!”
 
 
-
-### <a name="Pot">`Pot`</a>: potential
-
-The action of the verb is possible but not certain.
-This mood corresponds to the modal verbs _can, might, be able to_.
-Used e.g. in Finnish. See also the optative.
-
-#### Examples
-
-* [tr] *eve <b>gidebilir</b>* "she can go home"
-* [tr] *eve <b>gidemeyebilir</b>* "she may not be able to go home"
 
 <!-- Interlanguage links updated So kvě 14 19:02:20 CEST 2022 -->
