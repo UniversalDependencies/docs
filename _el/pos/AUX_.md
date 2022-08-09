@@ -13,7 +13,7 @@ The verb *έχω* / *echo* "have" and the particle *θα* are assigned the tag [
 When a participle depends on the verb *είμαι* /ime “to be”, the tag <code>VERB</code> and the syntactic tag <code>aux</code> are assigned to *είμαι*  “to be”. The participle is assigned the tag <code>VERB</code> and bears values for the feature <code>Voice</code>. 
 Also, *είμαι* "to be" is assigned the tag [AUX]() when it supports a an adjective. Otherwise, it is assigned the tag [VERB]().
 
-With auxiliary verbs like *μπορεί* / *bori* "may be", the value of the feature <code>Mood</code> is <code>Pot</code>.
+
 
 
 ### Examples
