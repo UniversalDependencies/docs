@@ -47,7 +47,7 @@ more detail.
 
 #### Examples
 
-*  _<b>¡</b>Πρόσεχε<b>!</b>._ “Watch out!”
+*  _Πρόσεχε<b>!</b>_ “Watch out!”
 
 ### <a name="Quot">`Quot`</a>: quotation marks (various sorts in various languages)
 
@@ -72,7 +72,7 @@ more detail.
 
 #### Examples
 
-* Οι εξής<b>:</b> _ “The following: ”
+* _Οι εξής<b>:</b>_ “The following:”
 
 
 ### <a name="Dash">`Dash`</a>: dash, hyphen
@@ -85,5 +85,5 @@ more detail.
 
 #### Examples
 
-* _Αθήνα<b>-</b>Αττική_ "Athens/Attica"
+* _Αθήνα<b>/</b>Αττική_ "Athens/Attica"
 <!-- Interlanguage links updated So kvě 14 19:02:36 CEST 2022 -->
