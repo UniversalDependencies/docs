@@ -30,6 +30,7 @@ The label <code>DET</code> is assigned to the two articles, certain traditional 
     *   (<code>PronType=Ind/Neg</code>) *κανείς (κανένας)*  /*kanis (kanenas)* "nobody", *τίποτα/ε* / *tipota/e* "nothing/anything"
 *   interrogative pronouns when followed by a noun (<code>PronType=Int</code>): *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what kind", e.g., *ποιο/πόσο/τι φαγητό θέλεις;* / *pio/poso/ti fagito thelis?* "which/how much/what kind of food do you want?"
 *   relative pronouns when followed by a noun (<code>PronType=Rel</code>): *όποιος/-δήποτε* / *opios/-dipote* "anyone/whoever", *όσος/-δήποτε* / *osos/-dipote* "no matter how many/much", *ό,τι/-δήποτε* / *oti/-dipote* "whichever"
+*   (<code>PronType=Emph</code>) _ίδιος_ / _idios_ "the same"
 
 
 Most of Greek determiners inflect for <code>el-feat/Gender</code>, <code>el-feat/Number</code> and <code>el-feat/Case</code>. They tend to inflect  like adjectives, in particular because they often have three genders. They agree in gender, number and case with the nouns they modify.  The DETs *κάτι* / *kati* "some",
