@@ -23,7 +23,7 @@ Modern Greek expresses degree modification of nouns with a variety of morphologi
 * Augmentatives  (*μεγεθυντικά* / *megethintika*)  productively formed with suffixes such as *-άρας* / *-aras*, *-αράς* / *-aras* like  *τρυπάρα* / *tripara* "large hole", *ψευταράς* / *pseftaras* "great lier": they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
 *	Lexicalised diminutives and augmentatives such as  *λακκάκι* ‘dimple’, *σουβλάκι* / *souvlaki* "roasted pieces of meat on a little spit", *παιχταράς* / *pechtaras* "excellent (football) player": they are not defined for the feature <code>el-DegreeMod</code>. 
 
-Greek nouns inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case](). Certain nouns do not inflect, but they can be assigned full morphological characterisation, e.g., *δοξαπατρί* / *doksapatri*  "right between the eyes", *τουμπεκί* / *toubeki* "tombako used in a hookah". Such words often occur as cranberry words in multiword expressions.  
+Greek nouns inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case](). Certain nouns do not inflect, e.g., *δοξαπατρί* / *doksapatri*  "right between the eyes", *τουμπεκί* / *toubeki* "tombako used in a hookah". Such words often occur as cranberry words in multiword expressions.  
 
 ###  Examples
 
