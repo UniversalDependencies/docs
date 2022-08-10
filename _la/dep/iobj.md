@@ -41,7 +41,7 @@ i?obj(was-teaching,many)
 obl(was-saying,to-those)
 ~~~
 
-'And he taught **them** at length in parables, and in the course of his instruction he said **to them**' (`PROIEL 10478`, *Jerome's Vulgate*, Mark 4)
+'And he taught **them** at length in parables, and in the course of his instruction he said **to them**' (`PROIEL 10478`, *Jerome's Vulgate* Mark 4)
 
 * literally 'he was teaching them many things', where both *eos* 'them (m)' and *multa* 'many [things]' are in the accusative case. This can be compared to the different behaviour of the following *dicebat* 'was saying', which takes a dative *illis* 'to those' (instead of accusative *illos*).
 
@@ -58,26 +58,36 @@ dislocated(you-have-given,piece)
 
 'that same portion of land - you have given **me** **those** integrally' (`LLCT test-s26`)
 
-* Sentence showing the indirective alignment of *do* 'I give' (here in a perfective form): *mihi* (from *ego* 'I') is in the dative case, and not in the accusative (*me*), like *eas*. Note: there is a topically dislocated argument, which is then reprised with an apparent mismatch re its [number](la-feat/Number) in the main clause (at last orthographically).  
+* Sentence showing the indirective alignment of *do* 'I give' (here in a perfective form): *mihi* (from *ego* 'I') is in the dative case, and not in the accusative (*me*), like *eas*. Note: there is a topically dislocated argument, which is then reprised with an apparent mismatch re its [number](la-feat/Number) in the main clause (at least orthographically).  
 
 
-For the aforementioned ditransitive verbs, we can indeed observe two arguments expressed in the accusative case, which in Latin is the necessary condition for a core object (while not sufficient: an argument in the accusative is not always an object). As for [passivisation](la-feat/Voice), even if we recognise strong tendencies in favour of either one of the objects as the candidate for the passive subject, in principle both the recipient and the theme can be selected, so there is no truly "primary" nor "indirect" object, and the choice to which one to apply `iobj` is ultimately arbitrary and dictated by tradition: it often falls on the recipient as the "accusative of person", which however is the most often passivised argument, and so a more ideal candidate for `obj`. In fact, simply allowing for the annotation of two `obj`s would be the most sensible solution (and this already happens when both an `obj` and a [`ccomp`](la-dep/ccomp)/[`xcomp`](la-dep/xcomp) relation are present). In passive constructions, the remaining object rarely stays as such, or is constrained (see also below), and more usually is expressed as an oblique argument.
+For the aforementioned ditransitive verbs, we can indeed observe two arguments expressed in the accusative case, which in Latin is the necessary condition to being a core object (while not sufficient: an argument in the accusative is not always an object). As for [passivisation](la-feat/Voice), even if we recognise strong tendencies in favour of either one of the objects as the candidate for the passive subject, in principle both the recipient and the theme can be selected, so there is no truly "primary" nor "indirect" object, and the choice to which one to apply `iobj` is ultimately arbitrary and dictated by tradition: it often falls on the recipient as the "accusative of person", which however is the most often passivised argument, and so a more ideal candidate for `obj` (if this is intended to mean "primary"). In fact, simply allowing for the annotation of two `obj`s would be the most sensible solution (and this already happens when both an `obj` and a [`ccomp`](la-dep/ccomp)/[`xcomp`](la-dep/xcomp) relation are present at the same time). In passive constructions, the remaining object rarely stays as such, or its realisation is limited: it is usually expressed as an oblique argument, or constrained to a (neutral) pronominal element, and this is what can be observed in all other sporadic cases where a verb sports two actual objects (Bennett 1914, p. 247 ff.). A kind of grammatical split seems at work here (Napoli 2016; cf. Haspelmath 2015, §4).
 
 ~~~ sdparse
 huc venient qui te pervisere gliscent Parrhasii iuvenesque senes et carmina leti qui nova mirari cupiantque antiqua doceri \n hither they-will-come that you to-contemplate they-will-swell Parrhasians youngsters-and elders and songs merry those new to-behold that-they-long-and ancient to-be-taught
 acl:relcl(qui-13, cupiantque)
 obj(doceri, antiqua)
-xcomp(cupiantque,doceri)
+xcomp(cupiantque,mirari)
+conj(mirari,doceri)
+nsubj(venient,qui-13)
+e:xcomp(cupiantque,doceri)
+e:nsubj(cupiantque,qui)
+e:nsubj(doceri,qui)
 acl:relcl(those, that-they-long-and)
 obj(to-be-taught, ancient)
-xcomp(that-they-long-and,to-be-taught)
+xcomp(that-they-long-and,to-behold)
+conj(to-behold,to-be-taught)
+nsubj(they-will-come,those)
+e:xcomp(that-they-long-and,to-be-taught)
+e:nsubj(that-they-long-and,those)
+e:nsubj(to-be-taught,those)
 ~~~
 
 it. 'qua verranno desiderosi di conoscerti giovani e vecchi parrasii, e quelli che vorranno lieti ammirare i nuovi carmi e studiare gli antichi.'
 
-eng. 'hither young and old Arcadians, desiring to know you, will come, and also those who will be gladly long to behold the new songs and to study the ancient ones.' (*Eclogues III 69*, UDante)
+eng. 'hither young and old Arcadians, desiring to know you, will come, and also those who will gladly long for beholding the new songs and studying the ancient ones.' (`UDante Egl-66`, *Eclogues* III 69, Dante Alighieri)
 
-* Complex sentence where the second *qui* 'those, that, who' acts as a double pronoun in the nominative case, and is thus 1) the explicit subject of the root *venient* 'they will come' in the main clause 2) the implicit subject of *cupiant* 'they long' in the relative clause. The verb *cupio* takes infinitive clauses as clausal complements with the same subject, so again *qui*; both *mirari* 'to behold' and *doceri* 'to be taught' are morphologically passive, but while the former is [deponent](https://github.com/UniversalDependencies/docs/issues/713), the second is not (the active form of the infinitve is *docere*), but still has an accusative argument which can only be an object. In the end, we can extrapolate the "transclause" *qui antiqua doceantur* 'who be taught ancient [songs]',  where the recipient is passivised and the theme is still expressed as an object. Poetic register might be a factor for the unusual construction here.
+* Complex sentence where the second *qui* 'those, that, who' acts as a double pronoun in the nominative case, and is thus 1) the explicit subject of the root *venient* 'they will come' in the main clause 2) the implicit subject of *cupiant* 'they long' in the relative clause. The verb *cupio* takes infinitive clauses as clausal complements with the same subject, so again *qui*; both *mirari* 'to behold' and *doceri* 'to be taught' are morphologically passive, but while the former is [deponent](https://github.com/UniversalDependencies/docs/issues/713), the second is not (the active form of the infinitve is *docere*), but still has an accusative argument which can only be an object. In the end, we can extrapolate the "transclause" *qui antiqua doceantur* 'who be taught ancient [songs]',  where the recipient is passivised and the theme is still expressed as an object. Poetic register might be a factor for the unusual construction at hand.
 
 ~~~ sdparse
 Itaque cum in dogmatibus moralis negotii amicitiam adequari et salvari analogo doceatur ad retribuendum pro collatis beneficiis plus quam semel analogiam sequi mihi votivum est \n Therefore as in doctrines moral of-business friendship to-be-equalized and to-be-saved it-be-taught to being-retributed for-the-sake-of collected off-favours more than once analogy to-follow to-me vowed is
@@ -110,8 +120,6 @@ advcl:abs(used,hidden)
 
 
 There are other cases in Latin where a verb shows two bare arguments in the accusative cases, but they are all distinct from ditransitive constructions: the most frequent cases are 1) when one of two arguments is a temporal or locative expression, and so an oblique argument, 2) when one of the arguments is a [secondary predication](la-dep/advcl-pred) of the object, and 3) when the verb is a so-called [copulative](la-dep/xcomp-pred) one and qualifies the object in some way. In the first case, the apparent object cannot be the target of passivisation; in the latter two cases, the two arguments are coreferent, so the construction is different from a ditransitive one and, further, the secondary predication cannot be passivised. Still, in the latter case the treatment of the copular complement as `xcomp` might be seen as a particular case of double-object construction.
-
-In a passivised ditransitive construction, it seems that the presence of an object is usually constrained to (neutral) pronominal elements, and this is what can be observed in all other sporadic cases where a verb sports two actual objects. A kind of grammatical split seems at work here. [cit]
 
 Latin does not seem  to have morphologically derived causative/benefactive verbs, instead relying on "biclausal" constructions making use of other lexical verbs, so that multiple objects there can always be described as depending on either verb. Many, if not all, Romance languages derived from Latin have eventually ousted those few neutrally aligned ditransitive constructions, replacing them regularly with indirective and, to a lesser extent, secundative ones (e.g. Italian *l'insegnante insegna matematica **ai** bambini* 'the teacher teaches mathematics **to** the children'). This has also been extended to periphrastic causatives, as e.g. in Italian *faccio leggere un libro **a** una mia amica* 'I make/let a friend of mine read a book', lit. 'I make read a book to a friend of mine', contrasted with possible Latin *amicam meam librum legere facio*, where we have the relations `obj(`*facio*`,`*amicam*`)`, `xcomp(`*facio*`,`*legere*`)`, `obj(`*legere*`,`*librum*`)`, i.e. the theme is an object, though of the subordinated verb (there could also be a parallel interpretation where *amicam meam librum legere* might be seen as an [accusativus cum infinitivo](la-dep/ccomp), and so as a whole as a clausal object of *facio* 'I make', where *amicam* is the subject).  
 
