@@ -13,9 +13,9 @@ The use of the relation `iobj` in Latin is inevitably marginal, if present at al
 * *flagito* 'I demand urgently'
 * *rogo* 'I ask', 
 
-and some of their derivations like *edoceo* 'I teach thouroughly' or *interrogo* 'I inquire'. There are other sparse attestations of verbs taking two objects, but some of them might be spurious, while they are generally strongly constrained anyway (see below).
+and some of their derivates like *edoceo* 'I teach thouroughly' or *interrogo* 'I inquire'. There are other sparse attestations of verbs taking two objects, but some of them might be spurious, while they are generally strongly constrained in their realisation anyway (see below).
 
-The Latin language is typologically peculiar in that the class of its neutrally aligned ditransitive verbs does not include *do* 'I give' and similar terms, which invariably follow an indirective alignment, i.e. the recipient is expressed as an oblique argument, most often a bare nominal in the [dative](la-feat/Case) case, while the theme is expressed as the core object. There are also verbs like *dono* 'I give as a present' with a secundative alignment, i.e. the recipient is expressed as the core object, while the theme is oblique. e.g. in the [ablative](la-feat/Case) case (where we can see an instrumental nuance). It seems so that Latin's neutrally aligned ditransitive verbs are restricted to those with a "maximal" asymmetry between the recipient and theme arguments: *doceo* is protoypical in this sense, since the recipient will almost invariably be an animate, specific referent, while the theme an inanimate, usually abstract entity; *celo* shares similar features as a verb of dispossession; *rogo*, *flagito* and *posco* might be regarded almost as opposites of 'give'-verbs where transitivity is high with respect to the theme, which is also mostly an abstract referent (often expressed as a [complement clause](la-dep/ccomp)) as opposed to the usually animate and specific recipient, and, further, we notice that *flagito* and *posco* both originally represent derived forms (respectively [diminutive](la-feat/Degree)/frequentative and [inchoative](la-feat/Aspect)) which give them a nuance of "urgence" and thus possibly heightened transitivity. All of these verbs also present indirective or secundative constructions, some of which can be seen as cases of lexical splits (e.g. *doceo aliquem **de** aliqua re* 'I inform someone **about** something', instead of 'I teach'). Conversely, other verbs of asking like *peto* 'I ask (to get something)' and *quaero* 'I ask (to know something)' are always indirectively aligned, possibly because the spatial analogy is stronger for them, as substantiated by the recipient being introduced by the prepositions *ab* or *ex* 'from', and not by the dative case as for *do*.
+The Latin language is typologically peculiar in that the class of its neutrally aligned ditransitive verbs does not include *do* 'I give' and similar terms, which invariably follow an indirective alignment, i.e. the recipient is expressed as an oblique argument, most often a bare nominal in the [dative](la-feat/Case) case, while the theme is expressed as the core object. There are also verbs like *dono* 'I give as a present' with a secundative alignment, i.e. the recipient is expressed as the core object, while the theme is oblique, e.g. in the [ablative](la-feat/Case) case (where we can see an instrumental nuance). It seems so that Latin's neutrally aligned ditransitive verbs are restricted to those with a "maximal" asymmetry between the recipient and theme arguments: *doceo* is protoypical in this sense, since the recipient will almost invariably be an animate, specific referent, while the theme an inanimate, usually abstract entity; *celo* shares similar features as a verb of dispossession; *rogo*, *flagito* and *posco* might be regarded almost as opposites of 'give'-verbs where transitivity is high with respect to the theme, which is also mostly an abstract referent (often expressed as a [complement clause](la-dep/ccomp)) as opposed to the usually animate and specific recipient, and, further, we notice that *flagito* and *posco* both originally represent derived forms (respectively [diminutive](la-feat/Degree)/frequentative and [inchoative](la-feat/Aspect)) which give them a nuance of "urgence" and thus possibly heightened transitivity. All of these verbs also present indirective or secundative constructions, some of which can be seen as cases of lexical splits (e.g. *doceo aliquem **de** aliqua re* 'I inform someone **about** something', instead of 'I teach'). Conversely, other verbs of asking like *peto* 'I ask (to get something)' and *quaero* 'I ask (to know something)' are always indirectively aligned, possibly because the spatial analogy is stronger for them, as substantiated by the recipient being introduced by the prepositions *ab* or *ex* 'from', and not by the dative case as for *do*.
 
 
 ~~~ sdparse
@@ -28,7 +28,7 @@ ccomp(we-ask,that-they-keep)
 
 'We were full of wonder and faith, and we kissed the table and prayed **the Night-riders** to **stay** at home as we returned from dinner.' (Perseus phi0972.phi001.perseus-lat1.xml@782 - *Satyricon 64.1*)
 
-* The sentence is actually in the present tense. Here one of the two objects is clausal and, regularly for a clause with a [finite](la-feat/VerbForm) head (*teneant*; i.e. agreeing in person and number, but not in case), it is introduced by a connector, a [subordinate conjunction](la-pos/SCONJ). It is questionable which relation between `obj` or `iobj` should be used here (see not below).
+* The sentence is actually in the present tense. Here one of the two objects is clausal and, regularly for a clause with a [finite](la-feat/VerbForm) head (*teneant*; i.e. agreeing in person and number, but not in case), it is introduced by a connector, a [subordinate conjunction](la-pos/SCONJ). It is questionable which relation between `obj` or `iobj` should be used here (see note below).
 
 ~~~ sdparse
 et docebat eos in parabolis multa et dicebat illis in doctrina sua \n and was-teaching them in parables many and was-saying to-those in doctrine his-own
@@ -37,7 +37,7 @@ i?obj(docebat,multa)
 obl(dicebat,illis)
 i?obj(was-teaching,them)
 i?obj(was-teaching,many)
-obl(was-saying,to-them)
+obl(was-saying,to-those)
 ~~~
 
 'And he taught **them** at length in parables, and in the course of his instruction he said **to them**' (PROIEL 10478 - *Jerome's Vulgate, Mark 4*)
@@ -55,7 +55,7 @@ obl(you-have-given,to-me)
 dislocated(you-have-given,piece)
 ~~~
 
-'that same portion of land - you have given **me** those integrally' (LLCT test-s26)
+'that same portion of land - you have given **me** **those** integrally' (LLCT test-s26)
 
 * Sentence showing the indirective alignment of *do* 'I give' (here in a perfect form): *mihi* (from *ego* 'I') is in the dative case, and not in the accusative (*me*), like *eas*. Note: there is a topically dislocated argument, which is then reprised with a mismatch re its [number](la-feat/Number) in the main clause.  
 
@@ -64,17 +64,19 @@ For the aforementioned verbs, we can indeed observe two arguments expressed in t
 
 ~~~ sdparse
 huc venient qui te pervisere gliscent Parrhasii iuvenesque senes et carmina leti qui nova mirari cupiantque antiqua doceri \n hither they-will-come that you to-contemplate they-will-swell Parrhasians youngsters-and elders and songs merry those new to-behold that-they-long-and ancient to-be-taught
-acl:relcl(qui, cupiantque)
+acl:relcl(qui-13, cupiantque)
 obj(doceri, antiqua)
+xcomp(cupiantque,doceri)
 acl:relcl(those, that-they-long-and)
 obj(to-be-taught, ancient)
+xcomp(that-they-long-and,to-be-taught)
 ~~~
 
 it. 'qua verranno desiderosi di conoscerti giovani e vecchi parrasii, e quelli che vorranno lieti ammirare i nuovi carmi e studiare gli antichi.'
 
 eng. 'hither young and old Arcadians, desiring to know you, will come, and also those who will be gladly long to behold the new songs and to study the ancient ones.' (*Eclogues III 69*, UDante)
 
-* Complex sentence where the second *qui* 'those, that, who' acts as a double pronoun in the nominative case, and is thus 1) the explicit subject of the root *venient* 'they will come' in the main clause 2) the implicit subject of *cupiant* 'they long' in the relative clause. The verb *cupio* takes infinitive clauses as clausal complements with the same subject, so again *qui*; both *mirari* 'to behold' and *doceri* 'to be taught' are morphologically passive, but while the former is [deponent](https://github.com/UniversalDependencies/docs/issues/713), the second is not (the active form of the infinitve is *docere*), but still has an accusative argument which can only be an object. In the end, we can extrapolate the "transclause" *qui antiqua docentur* 'who were taught ancient [songs]',  where the recipient is passivised and the theme is still expressed as an object. Poetic register might be a factor for the unusual construction here.
+* Complex sentence where the second *qui* 'those, that, who' acts as a double pronoun in the nominative case, and is thus 1) the explicit subject of the root *venient* 'they will come' in the main clause 2) the implicit subject of *cupiant* 'they long' in the relative clause. The verb *cupio* takes infinitive clauses as clausal complements with the same subject, so again *qui*; both *mirari* 'to behold' and *doceri* 'to be taught' are morphologically passive, but while the former is [deponent](https://github.com/UniversalDependencies/docs/issues/713), the second is not (the active form of the infinitve is *docere*), but still has an accusative argument which can only be an object. In the end, we can extrapolate the "transclause" *qui antiqua docentur* 'who are taught ancient [songs]',  where the recipient is passivised and the theme is still expressed as an object. Poetic register might be a factor for the unusual construction here.
 
 ~~~ sdparse
 et tamen circiter parte tertia ut postea perspectum est celata atque in oppido retenta portis patefactis eo die pace sunt usi \n and nevertheless around off-part third as after-that seen-through is hidden and in town kept off-doors opened that off-day off-peace are used
@@ -86,12 +88,12 @@ conj(hidden,kept)
 advcl:abs(used,hidden)
 ~~~
 
-'and nevertheless having retained and concealed, as we afterward discovered, about a third part in the town, the gates were opened, and they enjoyed peace for that day' (PROIEL 53139, *De Bello Gallico 2.32.4*, Caesar)
+'and nevertheless having retained and concealed, as we afterward discovered, about a third part in the town, the gates were opened, and they enjoyed peace for that day.' (PROIEL 53139, *De Bello Gallico 2.32.4*, Caesar)
 
-* Literally '... the third part being held back...' Here it is the theme *pars tertia* 'the third part' to become the passive subject of *celo* 'I hide', as seen from the gender and number agreement in the [embedded clause](la-dep/advcl-abs) and paralleled by the monotransitive *retineo* 'I hold back' in a passive form.
+* Literally '... the third part being held back...' Here it is the theme *pars tertia* 'the third part' to become the passive subject of *celo* 'I hide', as seen from the gender and number agreement in the [embedded clause](la-dep/advcl-abs) and paralleled by the monotransitive *retineo* 'I hold back' in a passive form. The possible second object is omitted (but it might theoretically be expressed by an accusative *nos* 'us' or a prepositional phrase *a nobis* 'from us', or similar), if any can be postulated, as e.g. in a possible active equivalent *partem tertiam (nos) celaverunt*.
 
 
-There are other cases in Latin where a verb shows two bare arguments in the accusative cases, but they are all distinct from ditransitive constructions: the most frequent cases are 1) when one of two arguments is a temporal or locative expression, and so an oblique argument, 2) when one of the arguments is a [secondary predication](la-dep/advcl-pred) of the object, and 3) when the verb is a so-called [copulative](la-dep/xcomp-pred) one and qualifies the object in some way. In the first case, the apparent object cannot be the target of passivisation; in the latter two cases, the two arguments are coreferent, so the construction is different from a ditransitive one and, further, the secondary predication cannot be passivised. 
+There are other cases in Latin where a verb shows two bare arguments in the accusative cases, but they are all distinct from ditransitive constructions: the most frequent cases are 1) when one of two arguments is a temporal or locative expression, and so an oblique argument, 2) when one of the arguments is a [secondary predication](la-dep/advcl-pred) of the object, and 3) when the verb is a so-called [copulative](la-dep/xcomp-pred) one and qualifies the object in some way. In the first case, the apparent object cannot be the target of passivisation; in the latter two cases, the two arguments are coreferent, so the construction is different from a ditransitive one and, further, the secondary predication cannot be passivised. Still, in the latter case the treatment of the copular complement as `xcomp` might be seen as a particular case of double-object construction.
 
 In a passivised ditransitive construction, it seems that the presence of an object is usually constrained to (neutral) pronominal elements, and this is what can be observed in all other sporadic cases where a verb sports two actual objects. A kind of grammatical split seems at work here. [cit]
 
@@ -112,11 +114,11 @@ xcomp(he-has-made, subjected)
 'his nobility of soul for long years past, as he willed, made me his servant.' (*Letters II 1*, UDante)
 
 
-Still, the contemporary presence of the two relations `obj` and [`xcomp`](la-dep/xcomp) might be seen as a special case of double object, even if `xcomp` leans more towards a serial or [periphrastic](la-dep/aux) verb construction than an object in a canonical sense. 
+Still, the contemporary presence of the two relations `obj` and [`xcomp`](la-dep/xcomp) might be seen as a special case of double object, even if the relation represented by `xcomp` here leans more towards a serial or [periphrastic](la-dep/aux) verb construction than an object in a canonical sense. 
 
 
 
-###About terminology and 'indirect objects'
+### About terminology and 'indirect objects'
 
 The use of the label "indirect", as opposed to "direct" or "primary", to label one of the objects in a construction like English *she teaches the students linguistics* is cause of confusion, since, formally speaking, it does not correspond to what is usually meant by "indirect object" in Latin and Romance languages. The latter is an argument (more precisely, a **complement** in a complement-adjunct distinction framework) of the verb in the **genitive, dative, ablative case or introduced by a preposition**; or equivalently, an argument which is not the subject of the clause and is not in the accusative case (temporal complements and similar are outside of this discussion, since they are usually adjuncts). As mentioned before, the 'give'-type verbs in Latin are regularly indirectively aligned, so that the recipient will be an "indirect object" in the traditional sense, i.e. a complement expressed in the dative case. This terminology has been taken over directly into English with regard to the recipient, considering only its semantic role, while, however, English often expresses this argument in the exact same way as the "regular" object, i.e. as a bare nominal or a non-nominative pronominal form. Despite this labeling, there is no way to distinguish the two objects from each other from a formal point of view, and, moreover, what is traditionally labeled as indirect object behaves  more as a "regular" object than the theme (e.g. passivisation preferences).
 
