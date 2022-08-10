@@ -71,8 +71,8 @@ xcomp(cupiantque,mirari)
 conj(mirari,doceri)
 nsubj(venient,qui-13)
 e:xcomp(cupiantque,doceri)
-e:nsubj(cupiantque,qui)
-e:nsubj(doceri,qui)
+e:nsubj(cupiantque,qui-13)
+e:nsubj(doceri,qui-13)
 acl:relcl(those, that-they-long-and)
 obj(to-be-taught, ancient)
 xcomp(that-they-long-and,to-behold)
@@ -99,9 +99,9 @@ conj(to-be-equalized, to-be-saved)
 advcl(vowed, it-be-taught)
 ~~~
 
-'Therefore, since it is a doctrine of ethics that friendship is equalized and preserved by reciprocity, it is my wish to preserve due reciprocity in making a return for the bounty more than once conferred upon me.' (Letters XIII 10, UDante) Epi-246
+'Therefore, since it is a doctrine of ethics that friendship is equalized and preserved by reciprocity, it is my wish to preserve due reciprocity in making a return for the bounty more than once conferred upon me.' (`UDante Epi-246`, *Letters* XIII 10, Dante Alighieri)
 
-* Literally '(it) is taught that friendship be equalized etc.' Here the reading can be ambiguous between an impersonal use with undetermined subject, in which the clause of *adequari* is still an object (and this is favoured by its subject *amicitiam* being in the accusative case as for a clausal complement and *doceatur* having singular [number](la-feat(Number)), or the passivisation of the theme, which might be the simplest analysis.
+* Literally '(it) is taught that friendship be equalized etc.' Here the reading can be ambiguous between an impersonal use of the predicate *doceo* 'I teach' with undetermined subject, in which the clause of *adequari* 'to be equalized' is still an object (and this is favoured by its subject *amicitiam* being in the accusative case like in a [clausal complement](la-dep/ccomp), and *doceatur* having singular [number](la-feat/Number)), or the passivisation of the theme, which might be the simplest analysis.
 
 
 ~~~ sdparse
