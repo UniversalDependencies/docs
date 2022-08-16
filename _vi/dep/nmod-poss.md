@@ -9,7 +9,7 @@ An adverbial modiﬁer of a word is a (non-clausal) adverb or adverbial phrase (
 
 ~~~ sdparse
 Cô ấy đẹp quá 。
-advmod(đẹp, quá)
+nmod:poss(đẹp, quá)
 det:pmod(Cô, ấy)
 nsubj(đẹp, Cô)
 punct(đẹp, 。)
