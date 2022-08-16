@@ -8,7 +8,7 @@ udver: '2'
 An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).
 
 ~~~ sdparse
-Cô ấy nhìn rất đẹp 。
+Cô ấy nhìn rất đẹp .
 advmod(đẹp, rất)
 compound:pron(Cô, ấy)
 nsubj:pass(nhìn, Cô)
