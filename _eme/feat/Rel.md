@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cont">Cont</a></td>
   <td><a href="#NCont">NCont</a></td>
+  <td><a href="#Abs">Abs</a></td>
  
   
   
@@ -21,8 +22,6 @@ adjacency or contiguity (Rel=Cont) and non-adjacency or non-contiguity of head a
 e.g., possessor-noun, object-postposition.
 
 ### <a name="Cont">`Cont`</a>: contiguous
-
-
 
 #### Examples
 
@@ -39,7 +38,14 @@ Non-contiguity is
 * _<b></b>&nbsp;_ “”
 * _<b></b>&nbsp;_ “ ”
 
+### <a name="Abs">`Abs`</a>: absolute
 
+Absolute is
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+* _<b></b>&nbsp;_ “ ”
 
 ## Diffs
 
