@@ -1,18 +1,15 @@
 ---
 layout: relation
 title: 'nmod:poss'
-shortdef: 'adverbial modifier'
+shortdef: 'possessive nominal modifier'
 udver: '2'
 ---
 
-An adverbial modiﬁer of a word is a (non-clausal) adverb or adverbial phrase (ADVP) that serves to modify the meaning of the word.
+The relation nmod:poss shows the relationship between the noun (indicating possessive thing) and the noun/pronoun (indicating the owner). nmod:poss is used for a nominal modifier which occurs before its head in the specifier position used for ‘s possessives. It is marked with the case ‘s or one of its variant forms. This relation isn’t used for other pre-head modifiers such as noun compounds or quotative phrases.
 
 ~~~ sdparse
-Cô ấy đẹp quá 。
-nmod:poss(đẹp, quá)
-det:pmod(Cô, ấy)
-nsubj(đẹp, Cô)
-punct(đẹp, 。)
+nhà tôi 。
+nmod:poss(tôi, nhà)
 ~~~
 
 <!-- Interlanguage links updated So kvě 14 19:02:54 CEST 2022 -->
