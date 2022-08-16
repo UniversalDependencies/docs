@@ -13,7 +13,7 @@ advmod(đẹp, rất)
 compound:pron(Cô, ấy)
 nsubj:pass(nhìn, Cô)
 acomp(nhìn, đẹp)
-punct(nhìn, 。)
+punct(nhìn, .)
 ~~~
 
 <!-- Interlanguage links updated So kvě 14 19:02:54 CEST 2022 -->
