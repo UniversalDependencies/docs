@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tra">Tra</a></td>
   <td><a href="#Dat">Dat</a></td>
+  <td><a href="#All">Dat</a></td>
   <td><a href="#Lat">Lat</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Dub">Dub</a></td>
@@ -48,7 +49,9 @@ Traslative
 
 #### Examples
 
+### <a name="All">`All`</a>: Allative
 
+#### Examples
 
 ### <a name="Lat">`Lat`</a>: Lative
 
