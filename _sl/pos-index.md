@@ -2,6 +2,7 @@
 layout: base
 title:  'POS tags'
 generated: 'true'
+udver: '2'
 permalink: sl/pos/index.html
 ---
 
