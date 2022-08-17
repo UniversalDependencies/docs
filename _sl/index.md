@@ -62,7 +62,7 @@ For more details on the syntactic annotation, see the [Slovenian UD treebanks ov
 
 There are [two](../treebanks/sl-comparison.html) Slovenian UD treebanks:
 
-  * [Slovenian-SSJ](../treebanks/sl_ssj/index.html) written language treebank
-  * [Slovenian-SST](../treebanks/sl_sst/index.html) spoken language treebank
+  * [Slovenian-SSJ](../treebanks/sl_ssj/) written language treebank 
+  * [Slovenian-SST](../treebanks/sl_sst/) spoken language treebank
 
 
