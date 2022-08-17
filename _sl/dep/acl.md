@@ -5,13 +5,10 @@ shortdef: 'clausal modifier of noun'
 udver: '2'
 ---
 
-`acl` stands for finite and non-finite clauses that modify a nominal.  The `acl` relation 
-contrasts with the [advcl]() relation, which is used for adverbial clauses
-that modify a predicate. The head of the `acl` relation is the noun
-that is modified, and the dependent is the head of the clause that
-modifies the noun.
+`acl` stands for finite and non-finite clauses that modify a nominal. The head of the `acl` relation is the noun
+that is modified, and the dependent is the head of the clause that modifies the noun.
 
-In Slovene, this relation is typically used for adjectival or relative clauses:
+In Slovene, this relation is typically used for **relative clauses**:
 
 ~~~ sdparse
 Točno tako je s standardi , ki nastajajo v internetu . \n Exactly like-this is with standards , which emerge on Internet
@@ -29,7 +26,8 @@ Kaj je tisto , kar bomo z vso odgovornostjo zapustili našim dedičem ?
 acl(tisto,zapustili)
 ~~~
 
-The relation is also used for optional depictives. The adjective is taken to modify the nominal of which it provides a secondary predication. In contrast to the obligatory predicatives ([`xcomp`]()), optional depictives can be omitted without the clause becoming ungrammatical, only its meaning changes. In such cases, the adjective is taken to modify the nominal of which it provides a secondary predication.
+The `acl` relation is currently also used for **optional depicatives**, where the adjective is taken to modify the nominal of which it provides a [secondary predication](https://universaldependencies.org/u/overview/complex-syntax.html#secondary-predicates). However, in line with recent [changes in the general UD guidelines](https://universaldependencies.org/changes.html#optional-depictives), such constructions should be reanalyzed as adverbial clause modifiers ([advcl]()) in the future, as there is no longer a need to distinguish between optional predicatives with (`acl`) and without (`advcl`) overt nominal heads.
+
 
 ~~~ sdparse
 Lase je imela pristrižene .
@@ -46,5 +44,3 @@ Ponesrečeno žensko so hudo ranjeno odpeljali v UKC .
 acl(žensko,ranjeno)
 obj(odpeljali,žensko)
 ~~~
-
-Note that this relation is only used for the annotation of optional depictives with overtly expressed nominals. If the nominal is not explicitely present, the depicative is analyzed as an adverbial clause modifier ([advcl]()).
