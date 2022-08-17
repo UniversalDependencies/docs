@@ -5,7 +5,7 @@ shortdef: 'clausal modifier of noun (adnominal clause): the noun is the subject'
 udver: '2'
 ---
 
-acl:subj is used for compound:pron is used for clausal modifier of noun (adnominal clause): the noun is the subject.
+acl:subj is used for clausal modifier of noun (adnominal clause): the noun is the subject.
 
 ~~~ sdparse
 Tôi đã gặp cô giáo dạy THCS .
