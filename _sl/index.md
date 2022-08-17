@@ -33,7 +33,7 @@ For more details, see the list of [Slovenian UPOS tags](pos/index.html) with a d
 
 
 ### Features
-
+* The Slovenian UD tagset includes all universal features except for [Voice](Voice), [Typo](Typo), [NounClass](NounClass), [Evident](Evident), [Polite](Polite) and [Clusivity](Clusivity). In addition to that, the set of universal features has been extended with four additional features to either describe language-specific features (such as [Gender[psor]](../../sl/feat/Gender-psor.html), [Number[psor]](../../sl/feat/Number-psor.html) and [Variant](../../sl/feat/Variant.html)) or preserve some finer-grained morphological information encoded in the original ssj500k treebank (such as [NumForm](../../sl/feat/NumForm.html)).
 * Nouns have inherent [Gender]() (feminine, masculine and neutral) and inflect for [Number]() (singular, dual or plural), [Case]() (nominative, genitive, dative, accusative, locative, instrumental), [Animacy](animate or inanimate) and [Definite]() (indefinite or definite).
 * Verbs have inherent [Aspect](). Non-finite forms include infinitives, supine forms and l-participles. Finite forms inflect for [Gender]() (feminine, masculine and neutral), [Number]() (singular, dual or plural), [Mood]() (indicative and imperative) and [Person]() (first, second and third). The verb *biti* (be) also inflects for conditional [Mood]() and future [Tense](), while the verbs *biti* (be), *imeti* (have) and *hoteti* (want) also inflect for [Polarity]() (positive and negative).
 
