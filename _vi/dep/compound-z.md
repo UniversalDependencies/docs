@@ -1,11 +1,11 @@
 ---
 layout: relation
-title: 'compound:Z'
+title: 'compound:z'
 shortdef: 'compound with Z (POS tag)'
 udver: '2'
 ---
 
-compound:Z is used for compound with Z (POS tag) such as "bất", "phi", "liên", ....
+compound:z is used for compound with Z (POS tag) such as "bất", "phi", "liên", ....
 
 ~~~ sdparse
 liên thôn 。
