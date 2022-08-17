@@ -11,7 +11,7 @@ that is modified, and the dependent is the head of the clause that modifies the 
 In Slovene, this relation is typically used for **relative clauses**:
 
 ~~~ sdparse
-Točno tako je s standardi , ki nastajajo v internetu . \n Exactly like-this is with standards , which emerge on Internet
+Točno tako je s standardi , ki nastajajo v internetu . \n Exactly such is with standards , which emerge on Internet
 acl(standardi, nastajajo)
 acl(standards, emerge)
 ~~~
