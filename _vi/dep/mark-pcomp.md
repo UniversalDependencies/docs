@@ -5,12 +5,12 @@ shortdef: 'marker for the purpose clause'
 udver: '2'
 ---
 
-marker:pcomp is used for the word marking a purpose clause as subordinate to another clause.
+An adverbial purpose clause modifier is a purpose clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement.
 
 ~~~ sdparse
 Đi học để mở mang kiến thức 。
 obj(mở mang, kiến thức)
-advcl(Đi, mở mang)
+advcl:objective(Đi, mở mang)
 marker:pcomp(mở mang, để)
 compound:svc(Đi, học)
 punct(Đi, 。)
