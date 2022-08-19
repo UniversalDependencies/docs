@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cau">Cau</a></td>
-  <td><a href="#CauFact">CauFact</a></td>
+  <td><a href="#SCau">SCau</a></td>
 
   
   
@@ -29,7 +29,7 @@ udver: '2'
 
 
 
-### <a name="CauFact">`CauFact`</a>: CauFact
+### <a name="SCau">`SCau`</a>: CauFact
 
 
 #### Examples
