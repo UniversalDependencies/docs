@@ -30,23 +30,21 @@ udver: '2'
     * चाहिए _cāhie_ (“needed, should, ought to”) <!-- Page 91, 164. -->
     * हो _ho_ (“to have to”) <!-- Page 165. -->
     * पड़ _paṛa_ (“must”) <!-- Pages 165, 166. -->
-  * Phase verbs:
-    * लग _laga_ (“to start”) <!-- Page 171 is mostly about other meaning, to strike, to like. -->
-    * चुक _cuka_ (“to finish”) <!-- Page 153. -->
-  * The current data treats as auxiliaries also some verbs that regularly appear in compound verbs
-    as the semantically less salient element. Since compound verbs are not periphrastic tense/aspect/voice
-    forms, these verbs do not fit well in the UD definition of auxiliaries, and they should be given
-    a different analysis in the future releases. The following verbs are used as semantic auxiliaries
-    in compound verbs:
-    * जा _jā_ (“to go”) (note that this verb can also be used as real auxiliary in passives)
-    * ले _le_ (“to take”)
-    * दे _de_ (“to give”)
-    * डाल _ḍāla_ (“to throw”) <!-- The second batch of compound verbs is described on pages 220–222. To throw gives a sense of vigorousness. -->
-    * पड़ _paṛa_ (“to fall”) (note that this verb can also be used as modal “must”) <!-- Adds a sense of suddenness or change of state. -->
-    * बैठ _baiṭha_ (“to sit”) <!-- Adds a sense of foolishness or stubbornness. -->
-    * उठ _uṭha_ (“to rise”)
-    * रख _rakha_ (“to keep”) <!-- Adds a sense of firmness. -->
-    * आ _ā_ (“to come”)
+* There are other verbs that are **not** auxiliaries under the UD definition, although some authors
+  would call them auxiliaries outside the UD context. Some of them regularly appear in compound
+  verbs as the semantically less salient element, others are control and raising verbs. Some
+  examples follow:
+  * लग _laga_ (“to start”) <!-- Page 171 is mostly about other meaning, to strike, to like. -->
+  * चुक _cuka_ (“to finish”) <!-- Page 153. -->
+  * जा _jā_ (“to go”) (note that this verb can also be used as real auxiliary in passives)
+  * ले _le_ (“to take”)
+  * दे _de_ (“to give”)
+  * डाल _ḍāla_ (“to throw”) <!-- The second batch of compound verbs is described on pages 220–222. To throw gives a sense of vigorousness. -->
+  * पड़ _paṛa_ (“to fall”) (note that this verb can also be used as modal “must”) <!-- Adds a sense of suddenness or change of state. -->
+  * बैठ _baiṭha_ (“to sit”) <!-- Adds a sense of foolishness or stubbornness. -->
+  * उठ _uṭha_ (“to rise”)
+  * रख _rakha_ (“to keep”) <!-- Adds a sense of firmness. -->
+  * आ _ā_ (“to come”)
 
 ### Features
 
