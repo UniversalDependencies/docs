@@ -7,6 +7,8 @@ udver: '2'
 
 ** UNDER REVISION **
 
+*This document presents detailed guidelines for **relative clauses and clefts in English**. It is a product of extensive deliberations among the UD Core Group, but is meant to apply to other languages only to the extent that constructions pattern similarly to English. Crosslinguistically, there is considerable variation in relative constructions and related phenomena; work on a separate typologically-oriented document is underway.*
+
 A relative clause (RC) is a clause modifying some head (typically a noun) that is understood to fulfill some grammatical role in the RC. 
 The head is said to be "extracted" from the RC.
 
@@ -411,7 +413,7 @@ acl:relcl(whatever, having)
 ~~~sdparse
 You can go where/ADV you want and eat what you want .
 advmod(go, where)
-acl:relcl(where, want-6)
+advcl:relcl(where, want-6)
 obj(eat, what)
 acl:relcl(what, want-11)
 ~~~
@@ -426,12 +428,10 @@ nsubj(go, money)
 ~~~sdparse
 I don't like how/ADV it looks (CGEL p. 1077)
 obj(like, how)
-acl:relcl(how, looks)
+advcl:relcl(how, looks)
 ~~~
 
-Note that [acl:relcl]() (rather than [advcl:relcl]()) applies even for free relatives headed by a WH-adverb (*where*, *when*, *why*, or *how*). 
-The WH-adverb typically is used to question a nominal (noun phrase or prepositional phrase), 
-so we use the adnominal clause label to highlight the corresponding structure.
+We adopt a simple rule that [advcl:relcl]() (rather than [acl:relcl]()) applies to all free relatives headed by a WH-adverb (*where*, *when*, *why*, or *how*). 
 
 ### Free Relatives versus Interrogative/Exclamative Complement Clauses
 
@@ -646,7 +646,7 @@ mark(raining, that-5)
 expl(raining, it-6)
 aux(raining, was)
 advcl:relcl(raining, bothered)
-csubj(bothered, that-9)
+nsubj(bothered, that-9)
 obj(bothered, you)
 ~~~
 
@@ -659,12 +659,14 @@ nsubj(self-satisfied, he)
 cop(self-satisfied, 's-6)
 cop(self-satisfied, 's-3)
 advcl:relcl(self-satisfied, find)
-ccomp(find, that-9)
+obj(find, that-9)
 xcomp(find, offputting)
 ~~~
 
 Note that relativizer *that* receives the [PRON]() tag, but its antecedent may be a wide variety of constituent types.
-The relativizer should attach within the relative clause as its antecedent would, which may be [obl]() in the case of a prepositional phrase or [csubj](), [ccomp](), etc. in the case of a clausal antecedent, as shown above.
+In (51), we are forced to use [obl]() for the attachment of the relativizer even though it is not marked by a preposition.
+
+The *it* is nonreferential, so we use [expl]() (though the applicability of the term "expletive" here is controversial).
 
 [^4]: Previous versions of the *it*-cleft guidelines specified that for *It's John __who__ we want to help*, the phrase *who we want to help* should be treated as a free relative. But note that the sentence can be paraphrased as *It's John __that__ we want to help* or even *It's John we want to help*, whereas free relatives require a WH-word to serve as the head.
 
