@@ -664,7 +664,7 @@ xcomp(find, offputting)
 ~~~
 
 Note that relativizer *that* receives the [PRON]() tag, but its antecedent may be a wide variety of constituent types.
-In (51), we are forced to use [obl]() for the attachment of the relativizer even though it is not marked by a preposition.
+In (50), we are forced to use [obl]() for the attachment of the relativizer even though it is not marked by a preposition.
 
 The *it* is nonreferential, so we use [expl]() (though the applicability of the term "expletive" here is controversial).
 
