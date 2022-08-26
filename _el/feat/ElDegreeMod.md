@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'el-Degree Modification'
-shortdef: 'el-DegreeMod'
+title: 'ElDegree Modification'
+shortdef: 'ElDegree'
 udver: '2'
 ---
 
