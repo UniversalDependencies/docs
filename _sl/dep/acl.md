@@ -40,8 +40,8 @@ obj(wore,hair)
 Vsa prestrašena je Mrvica stekla po pomoč . \n All scared Mrvica ran for help .
 acl(Mrvica-4,prestrašena)
 nsubj(stekla,Mrvica-4)
-acl(Mrvica-11,scared)
-nsubj(ran,Mrvica-11)
+acl(Mrvica-12,scared)
+nsubj(ran,Mrvica-12)
 ~~~
 ~~~ sdparse
 Ponesrečeno žensko so hudo ranjeno odpeljali v UKC . \n The injured woman they drove to the hospital badly hurt .
