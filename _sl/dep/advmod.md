@@ -29,7 +29,7 @@ advmod(reported,already)
 advmod(ima,rad)
 ~~~
 
-The advmod relation is also used for non-core elements of complex verb phrases expressing negation or modality. In particular, this refers to the adverb (`ADV`) _**lahko**_ and the particles (`PART`) _**ne**_ and _**naj**_.
+The `advmod` relation is also used for non-core elements of complex verb phrases expressing negation or modality. In particular, this refers to the adverb (`ADV`) _**lahko**_ and the particles (`PART`) _**ne**_ and _**naj**_.
 
 
 ~~~ sdparse
@@ -45,6 +45,9 @@ advmod(vlekli,lahko)
 Le zakaj naj bi ju porinila ven ?
 advmod(porinila,naj)
 ~~~
+
+The second group of expressions typically marked as `advmod` are adverbs acting as modifiers to other modifier words such as adjectives or adverbs. 
+
 ~~~ sdparse
 normalno delujoče mišice
 advmod(delujoče,normalno)
@@ -62,17 +65,19 @@ advmod(ljubi,prav)
 amod(časopisi,ljubi)
 ~~~
 
-
+The `advmod` relation is also used for emphasizing or intensifying adverbs, such as _celo, zlasti, samo, tudi, niti, predvsem ..._, which modify noun phrases, including prepositional phrases.
 
 
 ~~~ sdparse
 največji uspeh doslej
 advmod(uspeh,doslej)
 ~~~
+
 ~~~ sdparse
 v torek zvečer
 advmod(torek,zvečer)
 ~~~
+
 ~~~ sdparse
 popke takoj ob začetku sušenja hitro segrejejo
 advmod(začetku,takoj)
