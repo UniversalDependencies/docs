@@ -6,6 +6,10 @@ udver: '2'
 
 # UD Events
 
+## 2022
+
+  * [6th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw22/)
+
 ## 2021
 
   * [IWPT 2021 shared task on enhanced UD parsing](http://universaldependencies.org/iwpt21/)
