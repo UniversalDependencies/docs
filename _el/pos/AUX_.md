@@ -11,7 +11,7 @@ An auxiliary is a function word that accompanies the lexical verb of a verb phra
 The verb *έχω* / *echo* "have" and the particle *θα* are assigned the tag [AUX]() in periphrastic verb tenses, both active and passive ones. 
 
 When a participle depends on the verb *είμαι* /ime “to be”, the tag <code>VERB</code> and the syntactic tag <code>aux</code> are assigned to *είμαι*  “to be”. The participle is assigned the tag <code>VERB</code> and bears values for the feature <code>Voice</code>. 
-Also, *είμαι* "to be" is assigned the tag [AUX]() when it supports a an adjective. Otherwise, it is assigned the tag [VERB]().
+Also, *είμαι* "to be" is assigned the tag [AUX]() when it is used to assign a property to an entity; typically, properties are denoted with adjectives, e.g., *είμαι ψηλός* "I am tall". Otherwise,  *είμαι* "to be"  is assigned the tag [VERB](), e.g., *είμαι στο σπίτι μου* "I am at my place". 
 
 
 
