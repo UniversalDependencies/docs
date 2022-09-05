@@ -36,6 +36,7 @@ language-specific documentation.
 
 ### References
 
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an auxiliary verb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm)
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an auxiliary verb?](https://glossary.sil.org/term/auxiliary-verb)
 - [Wikipedia](http://en.wikipedia.org/wiki/Auxiliary_verb)
+
 <!-- Interlanguage links updated So kvě 14 19:01:45 CEST 2022 -->

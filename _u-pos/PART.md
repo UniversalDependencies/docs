@@ -40,6 +40,7 @@ should list the words classified as `PART` in the given language.
 
 ### References
 
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a particle?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAParticle.htm)
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a particle?](https://glossary.sil.org/term/particle)
 - [Wikipedia](http://en.wikipedia.org/wiki/Grammatical_particle)
+
 <!-- Interlanguage links updated So kvě 14 19:01:53 CEST 2022 -->

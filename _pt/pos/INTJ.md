@@ -27,8 +27,8 @@ such as _taí_, _não_, etc.
 - _pronto_
 - _é_
 
-<!-- ### References
 
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm)
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](https://glossary.sil.org/term/interjection)
 - [Wikipedia](http://en.wikipedia.org/wiki/Interjection) -->
+
 <!-- Interlanguage links updated So kvě 14 19:01:49 CEST 2022 -->

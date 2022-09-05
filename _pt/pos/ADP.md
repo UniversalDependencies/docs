@@ -26,8 +26,8 @@ multiword expressions are accounted for in the syntactic annotation. -->
 - _para_, _a_ (preposition)
 - _durante_
 
-<!--- ### References
 
-[Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adposition?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdposition.htm)
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adposition?](https://glossary.sil.org/term/adposition)
 - [Wikipedia](http://en.wikipedia.org/wiki/Preposition_and_postposition)-->
+
 <!-- Interlanguage links updated So kvě 14 19:01:43 CEST 2022 -->
