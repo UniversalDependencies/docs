@@ -11,6 +11,7 @@ In Gheg, this includes the voice-modulating particle *u* and the progressive par
 
 
 ~~~ conllu
+# sent_id = Z-A-G3-BEKA07_15
 # text = edhe tana u kry aj filmi .
 # translation = and then the film finished .
 1	edhe	edhe	CCONJ	_	_	4	cc	_	_
@@ -23,6 +24,7 @@ In Gheg, this includes the voice-modulating particle *u* and the progressive par
 ~~~
 
 ~~~ conllu
+# sent_id = Z-A-G1-IMRI65_1
 # text = y:shtë: ni nje:ri që po vilte da:dha .
 # translation = it was a man who was picking pears .
 1	y:shtë:	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	3	cop	_	_
