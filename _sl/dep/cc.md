@@ -36,4 +36,11 @@ A slednjega se pri Peugeotu gotovo ne bojijo več .
 cc(bojijo,A)
 ~~~
 
-In case of multi-word coordinating conjunctions, such as **_tako-kot_** (_both-and_), **_niti-niti** (_neither-nor_), **_ali-ali_** (_either-or_), only the second word is considered to be `cc`, while the first word is analysed as a preconjunct ([cc:preconj]()). 
+In case of multi-word coordinating conjunctions, such as **_tako-kot_** (_both-and_), **_niti-niti_**, **_ne-ne_** (_neither-nor_), **_ali-ali_** (_either-or_), only the second word is considered to be `cc`, while the first word is analysed as a preconjunct ([cc:preconj]()).
+
+~~~ sdparse
+Tudi zato s tovrstnim nasiljem ne ravnatelji ne učitelji nimajo izkušenj .
+cc(učitelji,ne-8)
+cc:preconj(ravnatelji,ne-6)
+conj(ravnatelji,učitelji)
+~~~
