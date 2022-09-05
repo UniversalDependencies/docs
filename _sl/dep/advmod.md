@@ -5,7 +5,7 @@ shortdef: 'adverbial modifier'
 udver: '2'
 ---
 
-An adverbial modifier is a (non-clausal) adverb or adverbial phrase that serves to modify a predicate or a modifier word. In contrast to adjectival and nominal modifiers ([amod]() and [nmod]()), which only appear as modifiers within phrases, the advmod relation is also used for adverbial modifiers of the main predicate. A detailed description of all these categories is provided below.
+An adverbial modifier is a (non-clausal) adverb or adverbial phrase that serves to modify a predicate or a modifier word. In contrast to adjectival ([amod]() and nominal [nmod]() modifiers, which only appear as phrase modifiers, the `advmod` relation is also used for adverbial modifiers of the predicate. 
 
 The `advmod` relation is typically used for modifiers of the main predicate in the form of adverbs or other kinds of adverbials. This applies to verbs as well as other types of predicates (adjectives, etc.).
 
