@@ -51,5 +51,5 @@ However, sometimes a word modifying an `ADJ` is still regarded as an `ADJ`. Thes
 
 ### References
 
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adjective?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdjective.htm)
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adjective?](https://glossary.sil.org/term/adjective)
 - [Wikipedia](http://en.wikipedia.org/wiki/Adjective)

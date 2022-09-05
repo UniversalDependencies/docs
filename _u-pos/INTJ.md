@@ -29,5 +29,5 @@ such as _yes_, _no_, _uhuh_, etc.
 
 ### References
 
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm)
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](https://glossary.sil.org/term/interjection)
 - [Wikipedia](http://en.wikipedia.org/wiki/Interjection)

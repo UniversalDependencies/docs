@@ -74,5 +74,5 @@ In particular:
 
 ### References
 
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a determiner?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsADeterminer.htm)
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a determiner?](https://glossary.sil.org/term/determiner)
 - [Wikipedia](http://en.wikipedia.org/wiki/Determiner)

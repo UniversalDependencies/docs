@@ -48,9 +48,10 @@ either `VERB` or [ADV](). -->
 
 !--
 ### References
-- Câmara Jr (1979, p. 163-170) for traditional Portuguese grammar
-- Wachowitz, T. C. AUXILIARY AND ASPECTUALIZER VERBS: SOME SYNTACTIC AND SEMANTIC DISTINCTIONS, 2007, for a perspective more aligned with English grammar
 
-<!--
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a verb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAVerbLinguistics.htm)
-- [Wikipedia](http://en.wikipedia.org/wiki/Verb) -->
+- Câmara Jr (1979, p. 163-170) for traditional Portuguese grammar
+
+- Wachowitz, T. C. AUXILIARY AND ASPECTUALIZER VERBS: SOME SYNTACTIC
+  AND SEMANTIC DISTINCTIONS, 2007, for a perspective more aligned with
+  English grammar
+

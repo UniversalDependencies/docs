@@ -27,5 +27,5 @@ and context, they may be classified as either [VERB]() or `NOUN`.
 
 ### References
 
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a noun?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANoun.htm)
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a noun?](https://glossary.sil.org/term/noun)
 - [Wikipedia](http://en.wikipedia.org/wiki/Noun)

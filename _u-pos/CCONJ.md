@@ -21,5 +21,5 @@ For _subordinating conjunctions,_ see [SCONJ]().
 
 ### References
 
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a coordinating conjunction?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsACoordinatingConjunction.htm)
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a coordinating conjunction?](https://glossary.sil.org/term/coordinating-conjunction)
 - [Wikipedia](http://en.wikipedia.org/wiki/Conjunction_(grammar))

@@ -46,5 +46,5 @@ In particular:
 
 ### References
 
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a pronoun?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAPronoun.htm)
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a pronoun?](https://glossary.sil.org/term/pronoun)
 - [Wikipedia](http://en.wikipedia.org/wiki/Pronoun)
