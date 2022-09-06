@@ -33,12 +33,10 @@ udver: '2'
 This is an overview only. For more detailed discussion and examples, see the list of [Ancient Greek POS tags](pos/index.html)
 and [Ancient Greek features](feat/index.html).
 
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* All 17 universal POS categories are relevant for Ancient Greek (perhaps except [SYM]()), but some categories are currently
+  not used in all Ancient Greek treebanks.
+  At present, 96 word types are tagged [PART](). This is a legacy of an existing Ancient Greek morphological analyzer
+  and many of these words should probably belong to another category in UD; however, the exact list has yet to be worked out.
 
 ### Features
 
