@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'compound:z'
+title: 'compound:Z'
 shortdef: 'compound with Z (POS tag)'
 udver: '2'
 ---
