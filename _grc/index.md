@@ -37,6 +37,14 @@ and [Ancient Greek features](feat/index.html).
   not used in all Ancient Greek treebanks.
   At present, 96 word types are tagged [PART](). This is a legacy of an existing Ancient Greek morphological analyzer
   and many of these words should probably belong to another category in UD; however, the exact list has yet to be worked out.
+* Ancient Greek has the following auxiliary verbs ([AUX]()):
+  * _εἰμί_ (“be”) is used as the copula.
+  * _ἔχω_ (“have”) is used together with a participle of a lexical verb to form periphrastic perfect.
+* Verbs with modal meaning are not considered auxiliary in Ancient Greek.
+* There are three main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
+  * Finite verb `Fin`, tagged [VERB]() or [AUX]().
+  * Infinitive `Inf`, tagged [VERB]() or [AUX]().
+  * Participle `Part`, tagged [VERB]() or [AUX]().
 
 ### Features
 
