@@ -66,14 +66,7 @@ and [Ancient Greek features](feat/index.html).
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [2](../treebanks/grc-comparison.html) Ancient Greek UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Ancient Greek-Perseus](../treebanks/grc_perseus/index.html)
+  * [Ancient Greek-PROIEL](../treebanks/grc_proiel/index.html)
