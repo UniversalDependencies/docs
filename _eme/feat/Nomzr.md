@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Nomzr'
+title: 'Nmzr'
 shortdef: 'nominalizer'
 udver: '2'
 ---
@@ -9,8 +9,9 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Rel">Rel</a></td>
-
-  
+  <td><a href="#Ag">Rel</a></td>
+  <td><a href="#Adv">Rel</a></td>
+  <td><a href="#Inst">Rel</a></td>
 
 </tr>
 </table>
@@ -25,6 +26,35 @@ The nominalizer of circumstance can be roughly translated as 'way / place of x'
 
 * _<b></b>&nbsp;_ “”
 
+
+
+### <a name="Ag">`Ag`</a>: Ag
+
+The nominalizer of circumstance can be roughly translated as 'way / place of x'
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+
+
+### <a name="Adv">`Adv`</a>: Adv
+
+The nominalizer of circumstance can be roughly translated as 'way / place of x'
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+
+
+### <a name="Inst">`Inst`</a>: Inst
+
+The nominalizer of circumstance can be roughly translated as 'way / place of x'
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
 
 
 
