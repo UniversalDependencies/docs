@@ -9,7 +9,7 @@ The relation `obl:arg` is used for oblique arguments and distinguishes them from
 adjuncts, which use the plain [obl]() relation. It is thus possible to preserve
 the notion of _object_ as it is defined in the traditional grammar of some
 languages, where it essentially follows the distinction between arguments and
-adjuncts (which otherwise not reflected in the main UD relation types — see the
+adjuncts (which is otherwise not reflected in the main UD relation types — see the
 discussion [here](../../u/overview/syntax.html#avoiding-an-argumentadjunct-distinction)).
 A Czech example:
 
