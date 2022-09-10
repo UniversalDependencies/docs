@@ -9,9 +9,9 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Rel">Rel</a></td>
-  <td><a href="#Ag">Rel</a></td>
-  <td><a href="#Adv">Rel</a></td>
-  <td><a href="#Inst">Rel</a></td>
+  <td><a href="#Ag">Ag</a></td>
+  <td><a href="#Adv">Adv</a></td>
+  <td><a href="#Inst">Inst</a></td>
 
 </tr>
 </table>
