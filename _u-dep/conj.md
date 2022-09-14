@@ -134,4 +134,40 @@ A B C
 conj(B, C)
 conj(A, B)
 ~~~
+
+### _Etc._
+
+The item _etc._, used as a set-expander—especially in coordinations after at least two other items, and typically not preceded by a conjunction (though _and etc._ is attested)—is treated as a [NOUN]() and final conjunct. Its distribution is, however, atypical of nouns in that it is restricted to enumeration contexts, does not permit modification except by reduplication, and may be post-coordinated with things that are not nominals.
+
+<div id="etc1" class="sd-parse">
+We have apples/NOUN , pears/NOUN , etc./NOUN
+obj(have, apples)
+conj(apples, pears)
+conj(apples, etc.)
+punct(pears, ,-4)
+punct(etc., ,-6)
+</div>
+
+<div id="etc2" class="sd-parse">
+People were running/VERB , jumping/VERB , dancing/VERB , etc./NOUN all around us .
+conj(running, jumping)
+conj(running, dancing)
+conj(running, etc.)
+</div>
+
+<div id="etc3" class="sd-parse">
+They gave Amy an apple , Bob a banana , Carl a carrot , etc./NOUN
+conj(Amy, Bob)
+conj(Amy, Carl)
+conj(Amy, etc.)
+orphan(Amy, apple)
+orphan(Bob, banana)
+orphan(Carl, carrot)
+</div>
+
+<div id="etc4" class="sd-parse">
+It is commonplace to buy flowers etc./NOUN for Valentine 's Day .
+conj(flowers, etc.)
+</div>
+
 <!-- Interlanguage links updated So kvě 14 19:03:19 CEST 2022 -->
