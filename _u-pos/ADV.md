@@ -46,6 +46,7 @@ either [VERB]() or `ADV`.
 - indefinite adverbs: _somewhere, sometime, anywhere, anytime_
 - totality adverbs: _everywhere, always_
 - negative adverbs: _nowhere, never_
+- [de] _usw._ “etc.” (see [conj]())
 
 ### References
 

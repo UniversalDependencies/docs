@@ -39,7 +39,8 @@ cc(went, and)
 
 Coordination may be _asyndetic,_ which means that the coordinating conjunction is omitted.
 Commas or other punctuation symbols will delimit the conjuncts in the typical case.
-Asyndetic coordination may be more frequent in some languages, while in others, conjunction will appear between every two conjuncts _(John and Mary and Bill)._
+Asyndetic coordination may be more frequent in some languages, while in others,
+conjunction will appear between every two conjuncts _(John and Mary and Bill)._
 
 ~~~ sdparse
 Veni , vidi , vici .
@@ -69,7 +70,7 @@ nsubj(met, He)
 nsubj(kissed, she)
 ~~~
 
-In contrast, the additional dependencies in the enhanced representation
+In contrast, the additional dependencies in the [enhanced representation](/u/overview/enhanced-syntax.html)
 can be used to encode the fact that in the first case, _he_ is also subject of _kissed:_
 
 ~~~ sdparse
@@ -119,7 +120,7 @@ Consider coordinations
 * (A, B), C
 * A, (B, C)
 
-The first two cases, i.e. (A, B, C) and ((A, B), C), lead to the same tree:
+The first two cases, i.e., (A, B, C) and ((A, B), C), lead to the same tree:
 
 ~~~ sdparse
 A B C
@@ -137,10 +138,20 @@ conj(A, B)
 
 ### _Etc._
 
-The item _etc._, used as a set-expander—especially in coordinations after at least two other items, and typically not preceded by a conjunction (though _and etc._ is attested)—is treated as a [NOUN]() and final conjunct. Its distribution is, however, atypical of nouns in that it is restricted to enumeration contexts, does not permit modification except by reduplication, and may be post-coordinated with things that are not nominals.
+The item _etc._, used as a set-expander—especially in coordinations after at least two other items,
+and typically not preceded by a conjunction (though _and etc._ is attested in English)—is treated
+as a [NOUN]() and final conjunct. Its distribution is, however, atypical of nouns in that it is
+restricted to enumeration contexts, does not permit modification except by reduplication, and may
+be post-coordinated with things that are not nominals. Note that this guideline applies to English
+and other languages that borrowed the string _etc._ from Latin. The situation may be different in
+languages that have their own equivalent of _etc._ For example, German _usw. (und so weiter)_ and
+Czech _atd. (a tak dále)_, both meaning literally “and so further”, are [ADV]() rather than `NOUN`,
+because their main element is an adverb; yet they are still attached as [conj]() to the head of
+the preceding list or coordination.
 
 <div id="etc1" class="sd-parse">
 We have apples/NOUN , pears/NOUN , etc./NOUN
+nsubj(have, We)
 obj(have, apples)
 conj(apples, pears)
 conj(apples, etc.)
@@ -148,21 +159,53 @@ punct(pears, ,-4)
 punct(etc., ,-6)
 </div>
 
+<div id="usw1" class="sd-parse">
+nur ein paar Minuten Fußmarsch zu Fisherman/PROPN 's Wharf , Lombard/PROPN Street , usw/ADV ...
+advmod(Minuten, nur)
+det(paar, ein)
+det(Minuten, paar)
+nmod(Minuten, Fußmarsch)
+case(Fisherman, zu)
+flat(Fisherman, 's)
+flat(Fisherman, Wharf)
+conj(Fisherman, Lombard)
+punct(Lombard, ,-10)
+flat(Lombard, Street)
+conj(Fisherman, usw)
+punct(usw, ,-13)
+punct(Minuten, ...)
+</div>
+
 <div id="etc2" class="sd-parse">
 People were running/VERB , jumping/VERB , dancing/VERB , etc./NOUN all around us .
+nsubj(running, People)
+aux(running, were)
 conj(running, jumping)
 conj(running, dancing)
 conj(running, etc.)
+punct(jumping, ,-4)
+punct(dancing, ,-6)
+punct(etc., ,-8)
+obl(running, us)
+case(us, around)
+punct(running, .)
 </div>
 
 <div id="etc3" class="sd-parse">
 They gave Amy an apple , Bob a banana , Carl a carrot , etc./NOUN
-conj(Amy, Bob)
-conj(Amy, Carl)
-conj(Amy, etc.)
-orphan(Amy, apple)
-orphan(Bob, banana)
-orphan(Carl, carrot)
+nsubj(gave, They)
+iobj(gave, Amy)
+obj(gave, apple)
+conj(gave, banana)
+conj(gave, carrot)
+conj(gave, etc.)
+orphan(banana, Bob)
+orphan(carrot, Carl)
+det(apple, an)
+det(banana, a-8)
+det(carrot, a-12)
+punct(banana, ,-6)
+punct(carrot, ,-10)
 </div>
 
 <div id="etc4" class="sd-parse">
