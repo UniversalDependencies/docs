@@ -20,10 +20,10 @@ and context, they may be classified as either [VERB]() or `NOUN`.
 ### Examples
 
 - _girl_
-- _cat_
 - _tree_
-- _air_
+- _etc._ (see [conj]())
 - _beauty_
+- _decision_
 
 ### References
 
