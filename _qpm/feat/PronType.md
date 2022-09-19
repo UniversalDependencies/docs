@@ -119,6 +119,6 @@ The composite determiners and adverbs formed by the particles `nǽ / nó / jéta
 Emphatic pro-adjectives (determiners) emphasize the nominal they depend on. There are similarities with reflexive and demonstrative pronouns / determiners.
 
 #### Examples
-* _samýj_ alone
+* _samýj_ "alone"
 
 <!-- Interlanguage links updated So kvě 14 19:02:35 CEST 2022 -->
