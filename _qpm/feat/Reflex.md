@@ -19,7 +19,7 @@ an empty value has the `No` meaning.
 * reflexive personal pronouns: _sá / sé / só, sí_
 
 In all Slavic languages, including Pomak, the middle voice of verbs is formed by means of a verb form preceded or followed by a 
- reflexive pronoun, whose Pomak variants are *sa, se, só, sí* (in East Slavic,like in North Germanic and Baltic languages, the reflexive pronoun is suffixed to the verb). This pronoun is the same for all persons and numbers and is governed by strict syntactic rules as to its position in the clause.
+ reflexive pronoun, whose Pomak variants are *sa, se, só, sí* (in East Slavic, like in North Germanic and Baltic languages, the reflexive pronoun is suffixed to the verb). This pronoun is the same for all persons and numbers and is governed by strict syntactic rules as to its position in the clause.
 
 #### Examples
 
