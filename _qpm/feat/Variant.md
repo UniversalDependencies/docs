@@ -17,8 +17,10 @@ The `Variant` feature helps distinguish alternate forms.
 
 #### Examples
 
-* _še tí kážom sétne_ "θα σου πω μετά"
-* _íšteš li da tó pójemom sas móne?_ "θέλεις να σε πάρω μαζί μου;"
-* _parǘkaho mó na svádbo_ "με κάλεσαν σε γάμο"
+#### Examples
+
+* _še tí kážom sétne_ "I'll tell you later" 
+* _íšteš li da tó pójemom sas móne?_ "Do you want me to take you with me?" 
+* _parǘkaho mó na svádbo_ "I have been invited to a wedding" 
 
 <!-- Interlanguage links updated So kvě 14 19:02:43 CEST 2022 -->
