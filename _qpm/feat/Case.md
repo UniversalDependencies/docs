@@ -37,7 +37,7 @@ Possessors:
 
 With the functions of the dative, namely as an indirect object and as  the complement of certain prepositions: <!--verify and exemplify accordingly-->
 
-* _<b>kóštojne</b> atvóriho póte isǽ skóra_ "only recenlty they opened the road<b>to the house</b>" <!--os that an indirect object or a complment of special preposition?-->
+* _<b>kóštojne</b> atvóriho póte isǽ skóra_ "only recenlty they opened the road <b>to the house</b>" <!--os that an indirect object or a complment of special preposition?-->
 * _<b>détenune</b> prevádot parý faf sǽko méseca_ "they send moneny <b>to the child</b> every month"
 * _<b>hórehune</b> púštot vódo čósto_ "they pour water <b>to the walnut-tree</b> often"
 
