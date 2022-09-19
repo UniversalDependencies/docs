@@ -7,7 +7,7 @@ udver: '2'
 
 ## Gender
 
-The possible values for Gender in Pomak is _masculine_, _feminine_ and _neuter_. It occurs with nouns, adjectives, past participles, determiners and pronouns.
+The possible values for Gender in Pomak is _masculine_, _feminine_ and _neuter_. It occurs with nominal parts of speech.
 
 
 
@@ -15,109 +15,109 @@ The possible values for Gender in Pomak is _masculine_, _feminine_ and _neuter_.
 
 Nouns denoting male persons are masculine. Other nouns may be also grammatically masculine, without any relation to sex.
 
-Examples:
+Examples [qpm]:
 
 Ουσιαστικά:
 
-- _<b>góram</b>_ "δέντρο"
-- _<b>pot</b>_ "δρόμος"
-- _<b>sólmen</b>_ "σαλιγκάρι"
-- _<b>mantár</b>_ "μανιτάρι"
-- _<b>hlæb</b>_ "ψωμί"
-- _<b>kóren</b>_ "ρίζα"
+- _<b>góram</b>_ "[a] tree"
+- _<b>pot</b>_ "[a] street, [a] road" 
+- _<b>sólmen</b>_ "[a] snail" 
+- _<b>mantár</b>_ "[a] mashroom"
+- _<b>hlæb</b>_ "[a] bread"
+- _<b>kóren</b>_ "[a] root" 
 
 Επίθετα:
 
-- _<b>koráv</b>_ "σκληρός"
-- _<b>suróv</b>_ "ωμός / χλωρός"
-- _<b>prav</b>_ "σωστός"
-- _<b>zelén</b>_ "πράσινος"
-- _<b>visók</b>_ "ψηλός"
-- _<b>star</b>_ "παλιός"
+- _<b>koráv</b>_ "hard" 
+- _<b>suróv</b>_  "raw / fresh" 
+- _<b>prav</b>_ "right" 
+- _<b>zelén</b>_ "green" 
+- _<b>visók</b>_ "tall" 
+- _<b>star</b>_ "old" 
 
 Παθητικές μετοχές:
 
-- _<b>umarén</b>_ "κουρασμένος"
-- _<b>adbáven</b>_ "χαλασμένος"
-- _<b>izgorǽt</b>_ "καμμένος"
-- _<b>písan</b>_ "γραμμένος"
-- _<b>kúpen</b>_ "αγορασμένος"
-- _<b>amýt</b>_ "πλυμένος"
+- _<b>umarén</b>_ "tired" 
+- _<b>adbáven</b>_ "spoiled / rotten" 
+- _<b>izgorǽt</b>_ "burnt" 
+- _<b>písan</b>_ "written" 
+- _<b>kúpen</b>_ "bought" 
+- _<b>amýt</b>_ "washed" 
 
 
 ### <a name="Fem">`Fem`</a>: feminine gender
 
 Nouns denoting female persons are feminine. Other nouns may be also grammatically feminine, without any relation to sex.
 
-Examples:
+Examples [qpm]:
 
 Ουσιαστικά:
 
-- _<b>glavá</b>_ "κεφάλι"
-- _<b>maglá</b>_ "ομίχλη"
-- _<b>godína</b>_ "έτος"
-- _<b>zemǽ</b>_ "έδαφος"
-- _<b>žaná</b>_ "γυναίκα"
-- _<b>kráva</b>_ "αγελάδα"
+- _<b>glavá</b>_ "[a]head" 
+- _<b>maglá</b>_ "[a] fog" 
+- _<b>godína</b>_ "[a] year" 
+- _<b>zemǽ</b>_ "[a] ground" 
+- _<b>žaná</b>_ "[a] woman" 
+- _<b>kráva</b>_ "[a] cow" 
 
 Επίθετα:
 
-- _<b>koráva</b>_ "σκληρή"
-- _<b>suróva</b>_ "ωμή / χλωρή"
-- _<b>pravá</b>_ "σωστή"
-- _<b>zeléna</b>_ "πράσινη"
-- _<b>visóka</b>_ "ψηλή"
-- _<b>stará</b>_ "παλιά"
+- _<b>koráva</b>_ "hard" 
+- _<b>suróva</b>_ "raw / fresh" 
+- _<b>pravá</b>_ "right"
+- _<b>zeléna</b>_ "green" 
+- _<b>visóka</b>_ "tall" 
+- _<b>stará</b>_ "old" 
 
 Παθητικές μετοχές:
 
-- _<b>umaréna</b>_ "κουρασμένη"
-- _<b>adbávena</b>_ "χαλασμένη"
-- _<b>izgorǽta</b>_ "καμμένη"
-- _<b>písana</b>_ "γραμμένη"
-- _<b>kúpena</b>_ "αγορασμένη"
-- _<b>amýta</b>_ "πλυμένη"
+- _<b>umaréna</b>_ "tired" 
+- _<b>adbávena</b>_ "spoiled / rotten" 
+- _<b>izgorǽta</b>_ "burnt" 
+- _<b>písana</b>_ "written" 
+- _<b>kúpena</b>_ "bought" 
+- _<b>amýta</b>_ "washed" 
 
 ### <a name="Neut">`Neut`</a>: neuter gender
 
 Neither masculine nor feminine (grammatically).
 
-Examples:
+Examples [qpm]:
 
 Απλά ουσιαστικά:
 
-- _<b>déte</b>_ "παιδί"
-- _<b>kóte</b>_ "γάτα"
-- _<b>sélo</b>_ "χωριό"
-- _<b>séme</b>_ "σπόρος"
-- _<b>lísto</b>_ "φύλλο"
-- _<b>krílo</b>_ "φτερούγα"
+- _<b>déte</b>_ "[a] chld"
+- _<b>kóte</b>_ "[a] cat" 
+- _<b>sélo</b>_ "[a] village" 
+- _<b>séme</b>_ "[a] seed" 
+- _<b>lísto</b>_ "[a] leaf" 
+- _<b>krílo</b>_ "[a] wing" 
 
 Ρηματικά ουσιαστικά:
 
-- _<b>dúmeņe</b>_ "ομιλία"
-- _<b>rábateņe</b>_ "εργασία"
-- _<b>sedéņe</b>_ "καθισιό"
-- _<b>vráštaņe</b>_ (επιστροφή)
-- _<b>znáņe</b>_ "γνώση"
-- _<b>spaņé</b>_ "ύπνος"
+- _<b>dúmeņe</b>_ "[a] speech"
+- _<b>rábateņe</b>_ "[a] work" 
+- _<b>sedéņe</b>_ "sitting around"
+- _<b>vráštaņe</b>_ "[a] return"
+- _<b>znáņe</b>_ "knowledge" 
+- _<b>spaņé</b>_ "sleep" 
 
 Επίθετα:
 
-- _<b>korávo</b>_ "σκληρό"
-- _<b>suróvo</b>_ "ωμό / χλωρό"
-- _<b>právo</b>_ "σωστό"
-- _<b>zeléno</b>_ "πράσινο"
-- _<b>visóko</b>_ "ψηλό"
-- _<b>stáro</b>_ "παλιό"
+- _<b>korávo</b>_ "hard"
+- _<b>suróvo</b>_ "spoiled / rotten" 
+- _<b>právo</b>_ "right" 
+- _<b>zeléno</b>_ "green"
+- _<b>visóko</b>_ "tall"
+- _<b>stáro</b>_ "old"
 
 Παθητικές μετοχές:
 
-- _<b>umaréno</b>_ "κουρασμένο"
-- _<b>adbáveno</b>_ "χαλασμένο"
-- _<b>izgorǽto</b>_ "καμμένο"
-- _<b>písano</b>_ "γραμμένο"
-- _<b>kúpeno</b>_ "αγορασμένο"
-- _<b>amýto</b>_ "πλυμένο"
+- _<b>umaréno</b>_ "tired" 
+- _<b>adbáveno</b>_ "spoilt / rotten" 
+- _<b>izgorǽto</b>_ 'burnt"
+- _<b>písano</b>_ "written" 
+- _<b>kúpeno</b>_ "bought" 
+- _<b>amýto</b>_ "washed" 
 
 <!-- Interlanguage links updated So kvě 14 19:02:16 CEST 2022 -->
