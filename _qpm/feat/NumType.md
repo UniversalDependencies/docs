@@ -21,8 +21,8 @@ In Pomak, the feature `NumType` is assigned to the following parts of speech:
 
 #### Examples
 
-- *annó / bir* "ένα", *dve / ikí* "δύο", *tri / üč* "τρία", *čétri / dørt* "τέσσερα", *beš * "πέντε", *altý* "έξι", *jedí* "επτά",
-*ellí* "πενήντα", *jus* "εκατό" *bin* "χίλια"
+- *annó / bir* "one", *dve / ikí*  "two", *tri / üč* "three", *čétri / dørt* "four", *beš * "five", *altý* "six", *jedí* "seven",
+*ellí* "fifty" , *jus* "hundred"  *bin* "thousand" 
 
 ### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
@@ -30,7 +30,7 @@ In Pomak, the feature `NumType` is assigned to the following parts of speech:
 
 #### Examples
 
-- *pórvyj* / birinǧí* "πρώτος", *ikinǧí* "δεύτερος", *üčünǧǘ* "τρίτος", *dørdünǧǘ* "τέταρτος", *bešinǧí* "πέμπτος", *altynǧí* "έκτος", *jedinǧí* "έβδομος", *ellinǧí* "πεντηκοστός", *juzünǧǘ* "εκατοστός", *bininǧí* "χιλιοστός"
+- *pórvyj* / birinǧí* "first", *ikinǧí* "second", *üčünǧǘ* "third", *dørdünǧǘ* "fourth", *bešinǧí* "fifth", *altynǧí* "sixth", *jedinǧí* "seventh", *ellinǧí* "fiftieth", *juzünǧǘ* "hundredth", *bininǧí* "thousandth" 
 
 ### <a name="Mult">`Mult`</a>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
 
@@ -38,6 +38,9 @@ In Pomak, the feature `NumType` is assigned to the following parts of speech:
 
 #### Examples
 
-- *annóš* "μια φορά", *dvaš* "δυο φορές / δις", *triš* "τρεις φορές / τρις", *čétriš "τέσσερις φορές / τετράκις"*, *beš keré(t)* "πεντάκις", *altý keré(t)* "εξάκις", *jedí keré(t)* "επτάκις", *ellí keré(t)* "πενήντα φορές", *jus keré(t)* "εκατό φορές", *bin keré(t)* "χίλιες φορές"
+- *annóš* "once", *dvaš* "twice", *triš* "thrice /three times", *čétriš "four times"*, *beš keré(t)* "five times", *altý keré(t)* "six times", *jedí keré(t)* "seven times", *ellí keré(t)* "fisty times", *jus keré(t)* "hundred times", *bin keré(t)* "thousand times" 
+
+<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->
+
 
 <!-- Interlanguage links updated So kvě 14 19:02:27 CEST 2022 -->
