@@ -12,7 +12,6 @@ Boolean feature of pronouns, determiners or adjectives.  It specifies a word as 
 While many tagsets would have "possessive" as one of the various pronoun types, this feature has been intentionally kept separate from [PronType](PronType.html), 
 as it is orthogonal to pronominal types. Several of the pronominal types can be optionally possessive, and adjectives can too.
 
-# Παναγιώτης:  orthogonal είναι όρος?
 
 ### <a name="Yes">`Yes`</a>: it is possessive
 
@@ -23,7 +22,6 @@ Note that there is no `No` value. If the word is not possessive, the `Poss` feat
 
 #### Examples [qpm]
 
-# Παναγιώτης:  Εδώ έχουμε θέμα, γιατί τα moj κ.λπ. είναι περισσότερο κτητικά επίθετα παρά κτητικές αντωνυμίες. Να το ψάξουμε περισσότερο.
 
 * possessive personal pronouns:
     * _moj, tvoj, tógov / tógav, tójin, naš, vаš, tǽhan_ "mine, yours, his / hers /its, our, yours, their"  
