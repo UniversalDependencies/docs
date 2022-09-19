@@ -21,11 +21,13 @@ Rule of thumb: if it has non-empty [Mood](Mood.html), it is finite.
 
 #### Examples
 
-* _vremǿso <b>je</b> óblačno_ "ο καιρός είναι συννεφιασμένος"
-* _navón <b>letí</b> snæg_ "έξω <b>ρίχνει</b> χιόνι"
-* _še <b>dójdeš</b> li da mí <b>pamógneš</b>?_ "θα έρθεις να με βοηθήσεις;"
-* _denése <b>so</b> bóržo <b>pamínot</b>_ "οι μέρες γήγορα περνούν"
-* _<b>valésavyj</b> da na <b>pánneš</b>_ "πρόσεχε να μην πέσεις"
+#### Examples
+
+* _vremǿso <b>je</b> óblačno_ "the weather is cloudy"  
+* _navón <b>letí</b> snæg_ "it is snowing outside" 
+* _še <b>dójdeš</b> li da mí <b>pamógneš</b>?_ "will you come to help me?" 
+* _denése <b>so</b> bóržo <b>pamínot</b>_ "the days go by quickly" 
+* _<b>valésavyj</b> da na <b>pánneš</b>_ "be careful so you do not fall"  
 
 ### <a name="Part">`Part`</a>: participle
 
@@ -40,45 +42,47 @@ their aspectual properties into perfective and imperfective ones.
 
 #### Examples
 
+#### Examples
+
 <b> Active participles:</b>
 
 Imperfective participles: `Aspect=Imp|Voice=Act`
 
-- *kázaval (kázavom)* "έλεγε, διηγούνταν"
-- *atkáraval (atkáravom)* "πηγαίνε, μετέφερε"
-- *písaval (písavom)* "έγραφε"
-- *danásel (danásem)* "έφερνε"
-- *prevádal (prevádom)* "έστελνε"
-- *dával (dávom)* "έδινε"
+- *kázaval (kázavom)* "he was saying, he was narrating" 
+- *atkáraval (atkáravom)* "he was going, he was carrying" 
+- *písaval (písavom)* "he was writing" 
+- *danásel (danásem)* "he was bringing" 
+- *prevádal (prevádom)* "he was sending" 
+- *dával (dávom)* "he was giving" 
 
 Perfective participles: `Aspect=Perf|Voice=Act`
 
-- *kázal (kážom)* "είπε, διηγήθηκε"
-- *atkáral (ótkarom)* "πήγε, μετέφερε"
-- *písal (píšom)* "έγραψε"
-- *danél (dónesom)* "έφερε"
-- *prevódil (prévadem)* "έστειλε"
-- *dal (dam)* "έδωσε"
+- *kázal (kážom)* "he said, he narrated"  
+- *atkáral (ótkarom)* "he went, he carried" 
+- *písal (píšom)* "he wrote" 
+- *danél (dónesom)* "he brought" 
+- *prevódil (prévadem)* "he sent" 
+- *dal (dam)* "he gave" 
 
 <b>Passive participles: </b>
 
 Imperfective participles: `Aspect=Imp|Voice=Pass`
 
-- *kázavan (kázavom)* "ειπωμένος κατ' επανάληψη"
-- *atkáravan (atkáravom)* "μεταφερμένος κατ' επανάληψη"
-- *písavan (písavom)* "γραμμένος κατ' επανάληψη"
-- *danásen (danásem)* "φερμένος κατ' επανάληψη"
-- *prevádan (prevádom)* "σταλμένος κατ' επανάληψη"
-- *dávan (dávom)* "δωσμένος κατ' επανάληψη"
+- *kázavan (kázavom)* "said continuously" 
+- *atkáravan (atkáravom)* "carried continuously" 
+- *písavan (písavom)* "written continuously" 
+- *danásen (danásem)* "brought continuously" 
+- *prevádan (prevádom)* "sent continuously" 
+- *dávan (dávom)* "given continuously" 
 
 Perfective participles:  `Aspect=Perf|Voice=Pass`
 
-- *kázan (kážom)* "ειπωμένος άπαξ"
-- *atkáran (ótkarom)* "μεταφερμένος άπαξ"
-- *písan (píšom)* "γραμμένος άπαξ"
-- *danésen (dónesom)* "φερμένος άπαξ"
-- *prevóden (prévadem)* "σταλμένος άπαξ"
-- *dáden (dam)* "δωσμένος άπαξ"
+- *kázan (kážom)* "said once" 
+- *atkáran (ótkarom)* "carried once" 
+- *písan (píšom)* "written once" 
+- *danésen (dónesom)* "brought once"
+- *prevóden (prévadem)* "sent once"  
+- *dáden (dam)* "given once"  
 
 
 ### <a name="Conv">`Conv`</a>: converb
@@ -88,13 +92,13 @@ It appears e.g. in Slavic and Indo-Aryan languages.
 
 In Pomak it is related only to imperfective verb forms.
 
-#### Examples
+### Examples
 
-- *patrǿsna mí só <b>sedǿva</b> (sédom)* "βαρέθηκα το καθισιό"
-- *zabalǽho nu nagýse <b>varvǿva</b> (vórvem)* "πόνεσαν τα πόδια μας από το περπάτημα"
-- *skócaho só <b>smǿva</b> (smøm so)* "ξεκαρδίστηκαν στα γέλια"
-- *ačíne ji so atékaly <b>plákava</b> (pláčem)* "τα μάτια της πρήστηκαν από το κλάμα"
-- *umaríh só mestá <b>méreva</b> (mérem)* "κουράστηκα χωράφια να μετράω"
+- *patrǿsna mí só <b>sedǿva</b> (sédom)* "I am bored of sitting around" 
+- *zabalǽho nu nagýse <b>varvǿva</b> (vórvem)* "our feet are sore from walking" 
+- *skócaho só <b>smǿva</b> (smøm so)* "they burst out in laughter" 
+- *ačíne ji so atékaly <b>plákava</b> (pláčem)* "her eyes are swollen from crying"
+- *umaríh só mestá <b>méreva</b> (mérem)* "I am tired of measuring fields" 
 
 
 ### <a name="Inf">`Inf`</a>: infinitive
@@ -104,28 +108,21 @@ the detering imperative [Imperative]() when it appears after the particle *namó
 
 #### Examples
 
-<!--Ritvan please explain the usage before eachh example-->
 
-- *ne mí só je <b>rabatí</b> naštése, alá trǽbava* "δεν θέλω / δεν μ' αρέσει να δουλεύω τη νύχτα, αλλά πρέπει"
-- *za tébe šom <b>attí</b> / <b>do</b> dur da Atíno* "για χάρη σου θα πήγαινα / ερχόμουν μέχρι την Αθήνα"
-- *<b>padjó</b> ti, májko, vaz drúman, <b>pytá</b> ti, májko drúmniceh* "θα ανηφορίσεις, μάνα, στο δρόμο, θα ρωτάς, μάνα, τους διαβάτες (δημ. τραγ.)"
-- *<b>račí</b> / <b>mog</b> li ti da mí zǿmeš annók hlǽba at fyrýnane?* "θα δεχόσουν / μπορούσες να μου πάρεις ένα ψωμί από τον φούρνο;"
-- Detering imperative: *namój <b>barzá</b>, še da fpréme* "μην βιάζεσαι, θα φτάσουμε"
+-  *ne mí só je <b>rabatí</b> naštése, alá trǽbava* "I do not want / like working at night, but I have to"  
+- *za tébe šom <b>attí</b> / <b>do</b> dur da Atíno* "for your sake I would go / come to Athens" 
+- *<b>padjó</b> ti, májko, vaz drúman, <b>pytá</b> ti, májko drúmniceh* "you will go uphill, mama, you will be asking, mama, the people passing by (folk song)" 
+- *<b>račí</b> / <b>mog</b> li ti da mí zǿmeš annók hlǽba at fyrýnane?* "would you accept / could you buy me a bread from the bakery?" 
+- Detering imperative: *namój <b>barzá</b>, še da fpréme* "do not rush, we shall arrive" 
 
 A very special type of Pomamk infinitives is related to a small number of imperfective verbs. These infinitives are repeated to form bilects that 
  denote the continuous/monotonous/rythmic repetition of a motion, activity etc. 
 
-<!-- Η Πομακική παρουσιάζει και μια ειδικότερη κατηγορία απαρεμφατικών τύπων που παράγονται από κάποια (λίγα σχετικά) ρήματα διαρκούς όψης.
-Το κύριο χαρακτηριστικό αυτών των τύπων είναι ότι χρησιμοποιούνται επαναλαμβανόμενα (εις διπλούν) και δηλώνουν μια ενέργεια / κίνηση / πράξη 
-που επαναλαμβάνεται αδιάκοπα / μονότονα / ρυθμικά κλπ.-->
 
 #### Examples
 
-<!--the greek translatoin is in fact a gloss, we need an english translation-->
-
-- *čúktiti čúktiti (čúkom)* "χτύπα και χτύπα"
-- *lǘštiti lǘštiti (lǘllem)* "κούνα και κούνα"
-- *vórttiti vórttiti (vórtem)* "γύρνα και γύρνα"
-- *séktiti séktiti (séčem)* "χτύπα και χτύπα (με το τσεκούρι)"
-
+- *čúktiti čúktiti (čúkom)* "hit and hit" 
+- *lǘštiti lǘštiti (lǘllem)* "swing and swing" 
+- *vórttiti vórttiti (vórtem)* "turn and turn" 
+- *séktiti séktiti (séčem)* "strike and strike (with an axe)" 
 <!-- Interlanguage links updated So kvě 14 19:02:44 CEST 2022 -->
