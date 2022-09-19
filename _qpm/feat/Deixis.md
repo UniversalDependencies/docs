@@ -11,35 +11,33 @@ udver: '2'
 ## Deixis
 
 Deixis is typically a feature of demonstrative [pronouns](../../u/pos/PRON), [determiners](../../u/pos/DET), and [adverbs](../../u/pos/ADV).
-Its value classifies the location of the referred entity with respect to the location of the speaker or of the hearer. The common distinction is distance (proximate vs. remote entities); in some languages, elevation is distinguished as well (e.g., the entity is located higher or lower than the speaker).
+It serves to indicate the location of the referred entity with respect to the location of the speaker or of the listener. The common distinction is distance (proximate vs. remote entities); in some languages, elevation is distinguished as well (e.g., the entity is located higher or lower than the speaker).
 
-If it is necessary to distinguish the person whose location is the reference point (speaker or hearer), the feature [DeixisRef](DeixisRef.html) can be used in addition to `Deixis`. See also the Wolof examples below. [DeixisRef](DeixisRef.html) is not needed if all deictic expressions in the language are relative to the same person (probably the speaker).
+If it is necessary to distinguish the person whose location is the reference point (speaker or listener), the feature [DeixisRef](DeixisRef.html) can be used in addition to `Deixis`. See also the Wolof examples below. [DeixisRef](DeixisRef.html) is not needed if all deictic expressions in the language are relative to the same person (probably the speaker).
 
-Η Πομακική χρησιμοποιεί το feature `Deixis` σε συνδυασμό με το feature [DeixisRef](DeixisRef.html) για τη σήμανση του τριπλού οριστικού άρθρου.
+In Pomak the `Deixis` feature is applied in combination with the [DeixisRef](DeixisRef.html) feature, in order to mark the triple definite article. 
+
+
 
 ### <a name="Prox">`Prox`</a>: proximate
 
-The entity is close to the reference point (e.g., to the speaker).
+The entity is close to the reference point (e.g., to the speaker) - proximal or medial.
 
 #### Examples
 
-* _górm<b>os</b>_ "το δέντρο (εδώ κοντά σ' εμένα ή το ίδιο κοντά στον ομιλητή και τον ακροατή)"
+* [qpm] _górm<b>os</b>_"the tree [here near me or near both the speaker and the listener - proximal]" 
 `Deixis=Prox|DeixisRef=1`
-* _górm<b>ot</b>_ "το δέντρο (εκεί κοντά σ' εσένα)"
+* [qpm] _górm<b>ot</b>_ "the tree [there near you or near the listener - medial]" 
 `Deixis=Prox|DeixisRef=2`
 
 
-### <a name="Remt">`Remt`</a>: remote, distal
+### <a name="Remt">`Remt`</a>: remote
 
-The entity is far away from the reference point (e.g., from the speaker).
+The entity is far away from the reference point (e.g., from the speaker) - distal.
 
 #### Examples
 
-* _górm<b>on</b>_ "το δέντρο (εκεί μακριά και από τον ομιλητή και από τον ακροατή)"
-`Deixis=Remt|DeixisRef=3`
-<!-- ΡΙΤΒΑΝ ΠΡΟΣ ΣΤΕΛΛΑ:
-Το '|DeixisRef=3' καταργείται από την περίπτωση 'Remt'
-Διόρθωσε τα αρχεία σου
+* [qpm] _górm<b>on</b>_ "the tree over there [far away from both the speaker and the listener - distal]" 
 -->
 
 <!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->
