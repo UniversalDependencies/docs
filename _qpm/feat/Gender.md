@@ -17,7 +17,7 @@ Nouns denoting male persons are masculine. Other nouns may be also grammatically
 
 Examples [qpm]:
 
-Ουσιαστικά:
+Nouns:
 
 - _<b>góram</b>_ "[a] tree"
 - _<b>pot</b>_ "[a] street, [a] road" 
@@ -26,7 +26,7 @@ Examples [qpm]:
 - _<b>hlæb</b>_ "[a] bread"
 - _<b>kóren</b>_ "[a] root" 
 
-Επίθετα:
+Adjectives:
 
 - _<b>koráv</b>_ "hard" 
 - _<b>suróv</b>_  "raw / fresh" 
@@ -35,7 +35,7 @@ Examples [qpm]:
 - _<b>visók</b>_ "tall" 
 - _<b>star</b>_ "old" 
 
-Παθητικές μετοχές:
+Passive Participles:
 
 - _<b>umarén</b>_ "tired" 
 - _<b>adbáven</b>_ "spoiled / rotten" 
@@ -51,7 +51,7 @@ Nouns denoting female persons are feminine. Other nouns may be also grammaticall
 
 Examples [qpm]:
 
-Ουσιαστικά:
+Nouns:
 
 - _<b>glavá</b>_ "[a]head" 
 - _<b>maglá</b>_ "[a] fog" 
@@ -60,7 +60,7 @@ Examples [qpm]:
 - _<b>žaná</b>_ "[a] woman" 
 - _<b>kráva</b>_ "[a] cow" 
 
-Επίθετα:
+Adjectives:
 
 - _<b>koráva</b>_ "hard" 
 - _<b>suróva</b>_ "raw / fresh" 
@@ -69,7 +69,7 @@ Examples [qpm]:
 - _<b>visóka</b>_ "tall" 
 - _<b>stará</b>_ "old" 
 
-Παθητικές μετοχές:
+Passive Participles:
 
 - _<b>umaréna</b>_ "tired" 
 - _<b>adbávena</b>_ "spoiled / rotten" 
@@ -84,7 +84,7 @@ Neither masculine nor feminine (grammatically).
 
 Examples [qpm]:
 
-Απλά ουσιαστικά:
+Simple Nouns:
 
 - _<b>déte</b>_ "[a] chld"
 - _<b>kóte</b>_ "[a] cat" 
@@ -93,7 +93,7 @@ Examples [qpm]:
 - _<b>lísto</b>_ "[a] leaf" 
 - _<b>krílo</b>_ "[a] wing" 
 
-Ρηματικά ουσιαστικά:
+Verbal Nouns:
 
 - _<b>dúmeņe</b>_ "[a] speech"
 - _<b>rábateņe</b>_ "[a] work" 
@@ -102,7 +102,7 @@ Examples [qpm]:
 - _<b>znáņe</b>_ "knowledge" 
 - _<b>spaņé</b>_ "sleep" 
 
-Επίθετα:
+Adjectives:
 
 - _<b>korávo</b>_ "hard"
 - _<b>suróvo</b>_ "spoiled / rotten" 
@@ -111,7 +111,7 @@ Examples [qpm]:
 - _<b>visóko</b>_ "tall"
 - _<b>stáro</b>_ "old"
 
-Παθητικές μετοχές:
+Passive Participles:
 
 - _<b>umaréno</b>_ "tired" 
 - _<b>adbáveno</b>_ "spoilt / rotten" 
