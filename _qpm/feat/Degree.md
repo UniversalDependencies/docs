@@ -10,7 +10,7 @@ udver: '2'
 
 Degree of comparison is typically an inflectional feature of some [adjectives](../../u/pos/ADJ) and [adverbs](../../u/pos/ADV).
 
-Στα Πομακικά ο συγκριτικός και υπερθετικός βαθμός των επιθέτων κι επιρρημάτων σχηματίζεται με τη βοήθεια των μορίων _pó_ "πιο" και _naj_ "ο πιο", τα οποία τίθενται πριν από το επίθετο ή το επίρρημα ως χωριστή λέξη και επισημαίνονται με τα features `Degree=Cmp` και `Degree=Sup` αντίστοιχα.
+In Pomak τηε comparative and superlative degree of adjectives and adverbs is formed by using the particles pó_ "more" και _naj_ "most", which are posed before an adjective or adverb as a separate word and are annoted by the `Degree=Cmp` and `Degree=Sup` correspondingly.
 
 ### <a name="Pos">`Pos`</a>: positive, first degree
 
@@ -18,11 +18,11 @@ Pomak adjectives are not tagged for positive degree.
 
 #### Examples
 
-- _<b>mlad</b> _čulǽk_ "νέος άνθρωπος"
-- _<b>slátko</b> _játo_ "νόστιμο φαγητό"
-- _<b>visóka</b> _barčína_ "ψηλό βουνό"
+- _<b>mlad</b> _čulǽk_ "[a] young man" 
+- _<b>slátko</b> _játo_ "[a] tasty food" 
+- _<b>visóka</b> _barčína_ "[a] high mountain" 
 
-- _<b>bóržo</b> _so_ _vórnahte_ "γρήγορα επιστρέψατε"
+- _<b>bóržo</b> _so_ _vórnahte_ "come back soon" 
 
 ### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
@@ -30,12 +30,12 @@ The quality of one object is compared to the same quality of another object.
 
 #### Examples
 
-- *újko je <b>pó mlad</b> ad báte ti* "ο θείος μου είναι νεότερος / πιο νέος από τον μεγάλο σου αδερφό"
-- *májčinono játo je <b>pó slátko</b> ad lélinono* "το φαγητό της μητέρας είναι νοστιμότερο / πιο νόστιμο από αυτό της θείας"
-- *hórehon je <b>pó visók</b> at čeréšono* "η καρυδιά είναι ψηλότερη / πιο ψηλή από την κερασιά"
+- *újko je <b>pó mlad</b> ad báte ti* "my uncle is younger / more young than your big brother" 
+- *májčinono játo je <b>pó slátko</b> ad lélinono* "[the] food of the mother is tastier / more tasty than [the one] of the aunt" 
+- *hórehon je <b>pó visók</b> at čeréšono* "the walnut-tree is higher /more high than the cherry-tree" 
 
-- *snóšti so naspáh <b>pó húbbe</b> ad annóvečera* "ψες κοιμήθηκα <b>καλύτερα / πιο καλά</b> απ' ό,τι την προηγούμενη νύχτα"
-- *dečjáta so vórnaho <b>pó bóržo</b> at tóga* "τα παιδιά επέστρεψαν <b>γρηγορότερα / πιο γρήγορα</b> απ' αυτόν"
+- *snóšti so naspáh <b>pó húbbe</b> ad annóvečera* "yesterday I slept better / more good than the night before" 
+- *dečjáta so vórnaho <b>pó bóržo</b> at tóga* "the children returned earlier / more early than him" 
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
@@ -43,11 +43,11 @@ The quality of one object is compared to the same quality of all other objects w
 
 #### Examples
 
-* _ty si <b>naj mlad</b> ad vritsǽh_ "εσύ είσαι <b>ο νεότερος / πιο νέος</b> απ' όλους"
-* _<b>naj slátkoto</b> játo go jédah u vámi_ "<b>το νοστιμότερο / πιο νόστιμο</b> φαγητό το έφαγα στο σπίτι σας"
-* _<b>naj visókyjes</b> hóreh je sadén naj sétne_ "<b>η ψηλότερη / πιο ψηλή</b> καρυδιά φυτεύτηκε τελευταία"
+* _ty si <b>naj mlad</b> ad vritsǽh_ 'you are the youngest / most young than all" 
+* _<b>naj slátkoto</b> játo go jédah u vámi_ "the tastier / most tasty food I have eaten at your place"
+* _<b>naj visókyjes</b> hóreh je sadén naj sétne_ "the highest / more high walnut-tree has been planted lately" 
 
-* _<b>naj húbbe</b> so naspávom u dumá_ "<b>τον καλύτερο / πιο καλό</b> ύπνο το έχω στο σπίτι μου"
-* _dečjáta so vórnaho <b>naj bóržo</b> ad vritsǽh_ "τα παιδιά επέστρεψαν <b>γρηγορότερα / πιο γρήγορα</b> απ' όλους"
+* _<b>naj húbbe</b> so naspávom u dumá_ "the best / more good sleep I have at my home" 
+* _dečjáta so vórnaho <b>naj bóržo</b> ad vritsǽh_ "the children returned earlier /most early than all" 
 
 <!-- Interlanguage links updated So kvě 14 19:02:10 CEST 2022 -->
