@@ -26,7 +26,7 @@ and, the detering imperative verb forms.
 * _<b>na</b> <b>sedáj</b> na zemǿto, mókro je_ "do not sit on the ground, it is wet" 
 * _<b>na</b> séštom tí so ní kaná_ "I do not understand anything of what your are talking about" 
 * _<b>na</b> trǽbava tí drug za inózi rábato_ "you do not need anyone else for that job" 
-* _<b>namój</b> mó nagadá da so smøm_ "do not make me laugh" "μη με κάνεις και γελάω"
+* _<b>namój</b> mó nagadá da so smøm_ "do not make me laugh"
 * _<b>namójte</b> bra kahóra, síčkono še stáne kákna trǽbava_ "do not worry, everything will be as it must be done" 
 * _<b>ne</b> danóseno déte_ "seven-months baby / early born child"  
 * _<b>ne</b> dazrǽt damatís_ "not fully ripe tomato" 
