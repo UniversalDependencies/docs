@@ -170,6 +170,22 @@ and morphosyntactic properties. Every feature has the form `Name=Value` and
 every word can have any number of features, separated by the vertical bar, as in
 `Gender=Masc|Number=Sing`.
 
+Analogically to part-of-speech tags, features describe the word form but not
+necessarily its exact function in the given sentence. Most of the features are
+for locating the form in a slot of a morphological paradigm, and are canonical
+labels for the slot. Thus, for example, the [Voice]() feature is used in Czech
+to distinguish passive participles (_prodán_ “sold” `Voice=Pass`), which are
+morphologically distinct from active participles (_prodal_ “sold” `Voice=Act`);
+however, the feature is not used in English, where the same form is used in
+active and passive constructions alike (cf. _he has sold it_ vs. _it was sold_).
+On the other hand, some word forms are homonymous and context must be used to
+identify the paradigm slot to which they belong. For example, the morphological
+paradigm of Czech nouns distinguishes nominative and accusative (among other
+[Case]() values), as in _matka_ “mother” `Case=Nom` vs. _matku_ `Case=Acc`.
+Nevertheless, due to case syncretism, some other lexemes have the same form in these
+two paradigm slots, e.g. _píseň_ “song” is either `Case=Nom` or `Case=Acc` and
+it has to be disambiguated by context.
+
 We provide an <a href="../../u/feat/index.html">inventory of
 features</a> that are attested in multiple corpora and it is thus
 desirable that they are encoded in a uniform way.
