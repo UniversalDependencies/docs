@@ -48,7 +48,7 @@ udver: '2'
 
 ## Syntax
 
-* The basic word order is SVO. 
+* The basic word order is SVO.
 
 * Nheengatu has postpositions. Analogously, subordinating conjunctions and relative pronouns are left-adjacent to the verb.
 
@@ -66,19 +66,8 @@ for person and number, as the main verb does.
 * Subtype relations used so far: acl:relcl and nmod:poss.  
 
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
-
 ## Treebanks
 
   There is one Nheengatu UD treebank:
 
     * [UD_Nheengatu-CompLin](../treebanks/yrl_complin/index.html)
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
