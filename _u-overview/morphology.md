@@ -107,8 +107,8 @@ Perhaps the most difficult part are ambiguous function words that do not inflect
 does not help us), yet they perform two or more _significantly_ different syntactic functions,
 which we normally associate with different parts of speech. The two functions may not be equally
 frequent but each of them is more frequent than what could be labeled as a mere exception (i.e.,
-the _wait for his ‘yes’_ example is exceptional). Disambiguating such pairs clearly depends on
-the context of the given sentence where the word is used.
+the _wait for his ‘yes’_ example below is exceptional). Disambiguating such pairs clearly depends
+on the context of the given sentence where the word is used.
 So how do we know that the difference is “significant enough”? One clue is that the word, when
 translated to another language, gets two different translations with different POS tags (e.g.,
 the English _no_ as response interjection, vs. negative determiner). Another clue comes from
