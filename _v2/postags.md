@@ -20,8 +20,8 @@ For related discussion see
 
 * [Morphology overview page](../u/overview/morphology.html) has a section on POS tags
 * [Current guidelines for POS tags](../u/pos/index.html)
-* [Form vs. function in POS tags](../v2/form_vs_function.html)
-* [Issue 159](http://github.com/UniversalDependencies/docs/issues/159) (`PRON` vs. `DET`) and the [Uppsala report on determiners](../2015-08-23-uppsala/determiners.html)
+* [Form vs. function in POS tags](../v2_prelim/form_vs_function.html)
+* [Issue 159](http://github.com/UniversalDependencies/docs/issues/159) (`PRON` vs. `DET`) and the [Uppsala report on determiners](/workgroups/2015-08-23-uppsala/determiners.html)
 * [Issue 178](http://github.com/UniversalDependencies/docs/issues/178#issuecomment-212822810) (question particles)
 * [Issue 237](http://github.com/UniversalDependencies/docs/issues/237) (`ADV` vs. `CONJ`)
 * [Issue 275](http://github.com/UniversalDependencies/docs/issues/275) (copula `VERB` vs. `AUX`)
@@ -76,7 +76,7 @@ Removing the tag means changing it to `VERB` in data, removing all the `AUX` pag
 Parts of speech have traditionally been defined using a mix of morphological, syntactic and semantic criteria. Given that UD is concerned with grammatical annotation, we in general want to give less priority to (purely) semantic criteria. Morphological criteria are very useful but are not applicable to all languages, or even to all categories within morphologically rich languages. It follows that, in many cases, we have to rely primarily on syntactic criteria. However, we believe that the part-of-speech classification is most useful if it captures regular, prevailing syntactic behavior and does not reflect sentence-specific exceptional behavior. Therefore, we should avoid completely functional guidelines for part-of-speech tags that make the tag completely predictable from the syntactic function. In addition to the obvious argument that such guidelines make (some) tags uninformative, they also make it harder to find interesting cross-lingual differences.
 For example, language X allows words of category A to have syntactic function b, but language Y doesn’t.
 
-We admit that there are ambiguous words that cannot be tagged without considering the context. However, we prefer distinctions based on *prevailing* syntactic behavior and (when relevant) morphological properties. We should avoid the extreme where (almost) all ambiguities between two categories are resolved solely by syntactic structure, as was the case with pronouns vs. determiners in v1. Here the current definition of `PRON` and `DET` should be loosened. It will be possible in many languages to enumerate words in both classes, and preferably the lists should be based on prevailing syntactic function and morphological properties, rather than the actual context in each sentence. 
+We admit that there are ambiguous words that cannot be tagged without considering the context. However, we prefer distinctions based on *prevailing* syntactic behavior and (when relevant) morphological properties. We should avoid the extreme where (almost) all ambiguities between two categories are resolved solely by syntactic structure, as was the case with pronouns vs. determiners in v1. Here the current definition of `PRON` and `DET` should be loosened. It will be possible in many languages to enumerate words in both classes, and preferably the lists should be based on prevailing syntactic function and morphological properties, rather than the actual context in each sentence.
 
 <!--The functional approach is not banned though, if there is no better way (reportedly Turkic languages). See below for more details.
   * Main verbs vs. auxiliary verbs. In many languages, (some of) the auxiliary verbs may also
