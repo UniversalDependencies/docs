@@ -10,7 +10,7 @@ udver: '2'
 
 * Words are generally delimited by whitespace or punctuation.
 
-* According to the ortographical conventions adopted, a hyphen separates the syntactic words of multiword tokens. These are cases of incorporation of an auxiliary verb into the main verb (e.g., *putari* 'to want' in *ayuíri-putari* 'I want o return').
+* According to the ortographical conventions adopted, a hyphen separates the syntactic words of multiword tokens. These are cases of incorporation of an auxiliary verb into the main verb (e.g., *putari* 'to want' in *ayuíri-putari* 'I want to return').
 
 ## Morphology
 
@@ -22,14 +22,14 @@ udver: '2'
 
 * Nheengatu has a rich system of particles, which convey a variety of grammatical notions, e.g., negation, tense, and aspect.
 
-* Determiners and pronouns seem to only differ in syntactic behavior, i.e., whether they modify a noun or function as head of the NP.
+* There are two classes of personal pronouns in Nheengatu, both tagged PRON. So-called first-class pronouns are free morphemes, while second-class pronouns are prefixes that attach to stative verbs, functioning as number-person agreement markers, or realize the internal argument of nouns (genitive complement) or postpositions.
+
+* Determiners and (non-personal) pronouns seem to only differ in syntactic behavior, i.e., whether they modify a noun or function as head of the NP.
 
 * The base form, i.e., the non-inflected, infinitive form of certain verbs (e.g., *kitika* 'to grate') can function as ADJ (and possibly also as ADV or NOUN), but this was not attested in the sentences hitherto annotated.
 
 
 ### Features
-
-* There are two classes of personal pronouns in Nheengatu. So-called first-class pronouns are free morphemes, while second-class pronouns are prefixes that attach to stative verbs, functioning as number-person agreement markers, or realize the internal argument of nouns (genitive complement) or postpositions.
 
 * Verbs inflect for the six logically possible combinations of the values 1, 2, and 3 for the  person feature and the values singular and plural for the number feature. In conservative or historical varieties of Nheengatu, the number distinction is neutralized in Person 3 of the active series. In innovative varieties, the opposition between singular and plural seems to be emerging due to the grammaticalization of the person 3 plural pronoun as an inflectional prefix, see Avila (2021) and Cruz (2011, 2015).     
 
