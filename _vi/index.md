@@ -50,7 +50,7 @@ Beside, Vietnamse has some subcategories: NNP (Proper noun), Nc (Classifier noun
 
 There is 1 Vietnamese UD treebank:
 
-  * [LANGUAGE-A](../treebanks/_vi/index.html)
+  * [LANGUAGE-A](../treebanks/vi_vtb/index.html)
 
 ---
 **Instruction**: 
