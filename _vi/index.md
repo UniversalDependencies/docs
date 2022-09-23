@@ -26,11 +26,22 @@ Some examples of words in Vietnamese: đi (go), chơi (play), ăn (eat), danh s�
 
 Beside, Vietnamse has some subcategories: NNP (Proper noun), Nc (Classifier noun), Nu (Unit Noun), Nux (Extended unit noun), Numx (Extended numeral), AUX (Auxiliary Verb),.
 
+This corpus contains some lemmas tagged as determiners (DET): Bấy nhiêu, chút, các, hầu hết, mấy, mọi, mỗi, một chút, một nửa, một số, một vài, một ít, những, nửa, phần lớn, toàn, toàn bộ, toàn thể, tất cả, vài, vài ba, vô số, vô vàn, đa số, đôi, ...
+
+This corpus contains some lemmas tagged as auxiliaries (AUX): là, cần, có thể, phải, nên, ...
+
 ---
 
 ### Features
 
-*
+* Degree and Polarity
+ Neg
+ ADV: không thể, không, không thể, chẳng
+
+
+* Pronouns, Determiners, Quantifiers
+NUM: một, hai, ba, mỗi, 2, 10, năm, 20, 5, bốn
+* Other Features
 
 ---
 **Instruction**: 
@@ -39,7 +50,10 @@ Beside, Vietnamse has some subcategories: NNP (Proper noun), Nc (Classifier noun
 
 ## Syntax
 
-*
+* This corpus uses lemma as copulas (cop). Examples: là.
+This corpus uses some lemmas as auxiliaries (aux). Examples: phải, có thể, Có lẽ, được, cần, nên,  ...
+
+This corpus uses some lemmas as passive auxiliaries (aux:pass),  Examples: được, bị, ...
 
 ---
 **Instruction**: 
