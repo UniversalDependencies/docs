@@ -10,6 +10,9 @@ udver: '2'
 
 * Most other languages use white spaces to separate words. However, Vietnamese puts spaces between syllables, not between words. A word can have one, two or more syllables. Therefore, the separation of words in Vietnamese is quite complicated because there are many ways to divide syllables into words, causing ambiguity.
 Some examples of words in Vietnamese: đi (go), chơi (play), ăn (eat), danh sách (list), điện thoại (phone), ban nhạc (band), ....
+* Some rules:
+* * 
+
 
 ## Morphology
 
@@ -28,21 +31,22 @@ Some examples of words in Vietnamese: đi (go), chơi (play), ăn (eat), danh s�
 
 ### Features
 
-* Degree and Polarity
- ** Neg
-*** ADV: không thể, không, không thể, chẳng
+#### Degree and Polarity 
+* (ADV): không thể, không, không thể, chẳng
 
-
-* Pronouns, Determiners, Quantifiers
-** NUM: một, hai, ba, mỗi, 2, 10, năm, 20, 5, bốn
-* Other Features
+#### Pronouns
+* Some Pronouns in Vietnamese: ông, bà, mình, ấy, này, kia, nọ, ...
+#### Determiners
+* Some determiners in Vietnamese: Bấy nhiêu, chút, các, hầu hết, mấy, mọi, mỗi, một chút, một nửa, một số, một vài, một ít, những, nửa, phần lớn, toàn, toàn bộ, toàn thể, tất cả, ...
+#### Quantifiers 
+* (NUM): một, hai, ba, mỗi, 2, 10, năm, 20, 5, bốn
+#### Other Features
 
 
 ## Syntax
 
 * This corpus uses lemma as copulas (cop). Examples: là.
 * This corpus uses some lemmas as auxiliaries (aux). Examples: phải, có thể, Có lẽ, được, cần, nên,  ...
-
 * This corpus uses some lemmas as passive auxiliaries (aux:pass),  Examples: được, bị, ...
 
 
