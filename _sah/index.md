@@ -157,17 +157,17 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 * Differential object-marking is found depending on definiteness. If the object of a transitive verb is definite, the accusative case is used. With an indefinite object, the nominative case is used:
 
 ```
-Уол кинигэни ааҕар
+Уол кинигэни ааҕар.
 Уол кинигэ-ни ааҕ-ар
-boy book-ACC  read.PRES-3.SG
-'A boy reads the book'
+boy book-ACC.SG  read-PRES.3.SG
+`A boy reads the book.'
 ```
 
 ```
-Уол кинигэ ааҕар
+Уол кинигэ ааҕар.
 Уол кинигэ ааҕ-ар
-boy book.NOM read.PRES-3.SG
-'A boy reads a book'
+boy book.NOM.SG read-PRES.3.SG
+`A boy reads a book.'
 ```
 
 * The following valency change devices (`voice`) are found: [passive](https://universaldependencies.org/u/feat/Voice.html#pass-passive-or-patient-focus-voice), [causative](https://universaldependencies.org/u/feat/Voice.html#cau-causative-voice), [reciprocal](https://universaldependencies.org/u/feat/Voice.html#rcp-reciprocal-voice).
