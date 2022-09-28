@@ -39,4 +39,12 @@ aux(lying-5, been-4)
 He should leave
 aux(leave-3, should-2)
 ~~~
+
+~~~ sdparse
+He was to be released before dawn
+nsubj:pass(released, He)
+aux(released, was)
+aux:pass(released, be)
+~~~
+
 <!-- Interlanguage links updated So kvě 14 19:03:03 CEST 2022 -->
