@@ -8,7 +8,10 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* The tokenization of the Korean UD treebanks follows the tokenization of the Korean data distributed
+  by the [SPMRL 2013 shared task](http://www.spmrl.org/category/spmrl2013.html), which is
+  a straightforward whitespace-based tokenization with conventional separation of punctuation.
+  Each token can contain one or more morphemes separated by plus (`+`) signs.
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
