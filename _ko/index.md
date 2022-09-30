@@ -46,14 +46,8 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [3](../treebanks/ko-comparison.html) Korean UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Korean-GSD](../treebanks/ko_gsd/index.html)
+  * [Korean-Kaist](../treebanks/ko_kaist/index.html)
+  * [Korean-PUD](../treebanks/ko_pud/index.html)
