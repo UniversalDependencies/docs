@@ -11,23 +11,33 @@ udver: '2'
 * The tokenization of the Korean UD treebanks follows the tokenization of the Korean data distributed
   by the [SPMRL 2013 shared task](http://www.spmrl.org/category/spmrl2013.html), which is
   a straightforward whitespace-based tokenization with conventional separation of punctuation.
-  Each token can contain one or more morphemes separated by plus (`+`) signs.
-
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+* There are no words with spaces.
+* There are currently no multi-word tokens. This may change in the future, as some words have no
+  space between them, and instead of indicating this by `SpaceAfter=No` in MISC, multi-word tokens
+  may be preferable.
 
 ## Morphology
 
+### Lemmas
+
+* At present, the lemma column in the GSD and Kaist treebanks violates the UD guidelines. Instead
+  of showing a selected surface form as the citation form for the lexeme, it shows the morphemes
+  delimited by the plus _(+)_ character. This should be fixed in future version and a real lemma
+  should be provided.
+
 ### Tags
 
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* All 17 universal POS categories are relevant in Korean, including particles ([PART]()).
+  At present, hundreds of word types are tagged [PART](). This is a legacy of an existing Korean
+  morphological analyzer and many of these words should probably belong to another category in UD;
+  however, the exact list has yet to be worked out.
+* The following words are treated as auxiliaries ([AUX]()):
+  * The affirmative copula 이 _i_ (“to be”) is written as a suffix to the nominal predicate but it
+    is treated as a separate auxiliary verb in UD.
+  * 않 _anh_ (“to not be”) is the negative copula or an auxiliary in a negative clause.
+  * 있 _iss_ (“to be”) is an auxiliary in affirmative clauses.
+  * 하 _ha_ (“must, should”) is a necessitative modal auxiliary.
+  * 싶 _sip_ (“will, to want”) is a desiderative modal auxiliary.
 
 ### Features
 
@@ -40,12 +50,24 @@ udver: '2'
 
 ## Syntax
 
-*
+### Core Arguments, Oblique Arguments and Adjuncts
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+* Korean uses a nominative-accusative alignment. Direct objects are marked by the accusative
+  morpheme 을 _eul_.
 
----
+### Relations Overview
+
+* The following relation subtypes are used in Korean:
+  * [nsubj:pass]() for nominal subjects of passive verbs
+  * [csubj:pass]() for clausal subjects of passive verbs
+  * [nmod:poss]() for possessive (genitive) modifiers
+  * [det:poss]() for possessive determiners
+  * [acl:relcl]() for relative clauses
+  * [obl:tmod]() for temporal adjuncts
+  * [compound:lvc]() for light verb constructions
+  * [flat:name]() for connection of parts of a flat multi-word named entity
+* The following relation types are not used in Korean at all:
+  [expl](), [list](), [parataxis](), [reparandum]()
 
 ## Treebanks
 
