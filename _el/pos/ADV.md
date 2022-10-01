@@ -11,7 +11,7 @@ udver: '2'
 
 Adverbs are words that typically modify verbs for place, time, manner or quantity. They may also modify adjectives and other adverbs, as in *πολύ έξυπνος* / *poli eksipnos* ‘very clever', *πολύ αργά* / *poli arga* ‘very late.ADV' respectively.
 
-Adeverbs are formed productively from adjectives  and  participles in _-μένος_ with the ending _-α_: _δίκτυο_.Noun, _δικτυακός_.Adjective, _δικτυακά_.Adverb ‘web, of-the-web, web(manner)'.
+Adverbs are formed productively from adjectives  and  participles in _-μένος_ with the ending _-α_: _δίκτυο_.Noun, _δικτυακός_.Adjective, _δικτυακά_.Adverb ‘web, of-the-web, web(manner)'.
 
 Some adverbs seem to form phrasal verbs (rare phenomenon in Greek),  such as *βάζω μπρος/μπροστά* / *vazo bros/brosta* ‘to start an engine/to start operating'. Although they function as particles in a multiword expression, they are assigned the tag ADV and the multiword status of the expression is accounted for in syntax.
 
