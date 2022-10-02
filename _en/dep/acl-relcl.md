@@ -206,7 +206,7 @@ advcl:relcl(tried, idea)
 nsubj(idea, which)
 ~~~
 
-Another such case occurs in *it*-clefts: see [below](#clefts).
+This relation can also be seen in [free relatives](#free-relatives) and [*it*-clefts](#clefts).
 
 ## Predicate Ellipsis in the Relative Clause
 
