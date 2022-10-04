@@ -17,9 +17,8 @@ udver: '2'
   <td><a href="#Neg">Neg</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Exc">Exc</a></td>
-  <td><a href="#Clit">Clit</a></td>
-  <td><a href="#Predet">Exc</a></td>
-  <td><a href="#Ord">Clit</a></td>
+  <td><a href="#Predet">Predet</a></td>
+  <td><a href="#Ord">Ord</a></td>
 </tr>
 </table>
 
@@ -30,7 +29,8 @@ This feature typically applies to [pronouns](u-pos/PRON),
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
 See also the [Poss]() feature that distinguishes normal personal
-pronouns from possessives. Note that `Prs` also includes reflexive
+pronouns from possessives and the [Clitic]() feature that tells 
+whether the pronoun is a clitic. Note that `Prs` also includes reflexive
 personal/possessive pronouns (see the [Reflex]() feature).
 
 #### Examples
@@ -38,8 +38,7 @@ personal/possessive pronouns (see the [Reflex]() feature).
 * Personal pronouns: _Uno di <b>loro</b>_ "One among them", _Per <b>lui</b> è utile_ "For him it's useful"
 * Possessive pronouns (`Poss=Yes`): _La <b>sua</b> è migliore_ "Hers is better", _I <b>suoi</b> sono felici_ "Her/his [parents] are happy"
 * Possessive determiners/adjectives (`Poss=Yes`): _La <b>sua</b> scuola è migliore_ "Her/his school is better", _I <b>loro</b> amici_ "Their friends".
-
-Note: the category clitic pronouns includes cases such as: _<b>Si</b> è trasformato_ "Has transformed itself" (reflexive), _<b>Ti</b> ho dato_ "I have given you" (indirect object), _Ora <b>si</b> cerca il colpevole_ "Now one/somebody searches for the culprit" (impersonal form), _<b>Lo</b> vediamo spesso_ "We often see him/it". These are not marked by the appropriate `PronType`.
+* Clitic pronouns (`Clitic=Yes`): _<b>Si</b> è trasformato_ "Has transformed itself" (reflexive), _<b>Ti</b> ho dato_ "I have given you" (indirect object), _Ora <b>si</b> cerca il colpevole_ "Now one/somebody searches for the culprit" (impersonal form), _<b>Lo</b> vediamo spesso_ "We often see him/it"
 
 ### <a name="Art">`Art`</a>: article
 
@@ -107,17 +106,6 @@ We distinguish only negative adverbs such as: _non_, _nemmeno_, _neppure_.
 
 * _che_ disastro "what a disaster", _che_ catastrofe "what a catastrophe"
 
-### <a name="Clit">`Clit`</a>: clitic pronouns. This value is language specific.
-
-Used for clitic pronouns, part of speech PRON/PC.
-
-#### Examples
-
-* _mi_ viene in mente "it comes to my mind"
-* capace di farl _lo_ "capable to do it"
-* _si_ convincono "they convince themselves"
-* _ci_ sono troppi ostacoli "there are too many obstacles"
-
 ### <a name="Predet">`Predet`</a>: predeterminer. This value is language specific.
 
 It is always used along with _det:predet_ dependency relations.
@@ -137,5 +125,3 @@ It is used to mark ordinal pronouns. Part of speech is PRON/NO. When ordinals ar
 * Il _primo_ sostiene che ...  "the first asserts that ...
 * Un _quarto_ d'ora "a quarter of an hour"
 * Valentina è _quinta_ "Valentina is fifth"
-
-<!-- Interlanguage links updated So kvě 14 19:02:35 CEST 2022 -->
