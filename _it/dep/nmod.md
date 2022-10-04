@@ -33,7 +33,7 @@ nmod(lezione, tolleranza)
 
 ~~~ sdparse
 Trascorrevo i giorni su una sedia a rotelle 
-obl(trascorrevo, sedia)
+obl(Trascorrevo, sedia)
 nmod(sedia, rotelle)
 ~~~
 
