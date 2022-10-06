@@ -43,6 +43,7 @@ In particular:
 - total pronouns: _everybody, everything_
 - negative pronouns: _nobody, nothing_
 - possessive pronouns (which usually stand alone as a nominal): _mine, yours, (his), hers, (its), ours, theirs_
+- attributive possessive pronouns (in some languages; others use [DET]() for similar words): _my, your_
 
 ### References
 
