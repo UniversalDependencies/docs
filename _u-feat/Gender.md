@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Com">Com</a></td>
   <td><a href="#Fem">Fem</a></td>
   <td><a href="#Masc">Masc</a></td>
   <td><a href="#Neut">Neut</a></td>
@@ -58,4 +59,36 @@ masculine nor feminine (grammatically).
 * [cs] _<b>dítě</b>_ "child"
 * [sv] _<b>barn</b>_ "child"
 
+### <a name="Com">`Com`</a>: common gender
 
+Some languages do not distinguish masculine/feminine most of the time
+but they do distinguish neuter vs. non-neuter (Swedish neutrum /
+utrum). The non-neuter is called common gender.
+
+Note that it could also be expressed as a combined value
+`Gender=Fem,Masc`. Nevertheless we keep `Com` also as a separate
+value. Combined feature values should only be used in exceptional,
+undecided cases, not for something that occurs systematically in the
+grammar. Language-specific extensions to these guidelines should
+determine whether the `Com` value is appropriate for a particular
+language.
+
+Note further that the `Com` value is not intended for cases where
+we just cannot derive the gender from the word itself (without seeing the context),
+while the language actually distinguishes `Masc` and `Fem`.
+For example, in Spanish, nouns distinguish two genders, masculine and feminine, and
+every noun can be classified as either `Masc` or `Fem`. Adjectives are supposed to
+agree with nouns in gender (and number), which they typically achieve by alternating _-o / -a._
+But then there are adjectives such as _grande_ or _feliz_ that have only one form for both genders.
+So we cannot tell whether they are masculine or feminine unless we see the context.
+Yet they are either masculine or feminine (feminine in _una ciudad grande,_ masculine in _un puerto grande)._
+Therefore in Spanish we should not tag _grande_ with `Gender=Com`.
+Instead, we should either drop the gender feature entirely
+(suggesting that this word does not inflect for gender)
+or tag individual instances of _grande_ as either masculine or feminine, depending on context.
+
+#### Examples
+
+* [sv] _<b>väg</b>_ "way"
+
+<!-- Interlanguage links updated So kvě 14 19:02:16 CEST 2022 -->
