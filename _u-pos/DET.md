@@ -66,7 +66,7 @@ In particular:
 ### Examples
 
 - articles (a closed class indicating definiteness, specificity or givenness): _a, an, the_
-- possessive determiners (which modify a nominal): [cs] _můj, tvůj, jeho, její, náš, váš, jejich_; [en] _my, your_
+- possessive determiners (which modify a nominal) (note that some languages use [PRON]() for similar words): [cs] _můj, tvůj, jeho, její, náš, váš, jejich_
 - demonstrative determiners: _this_ as in _I saw <b>this</b> car yesterday._
 - interrogative determiners: _which_ as in _"<b>Which</b> car do you like?"_
 - relative determiners: _which_ as in _"I wonder <b>which</b> car you like."_
