@@ -36,7 +36,7 @@ This is realized by a noun phrase or a second class pronoun.
 
 * _[...] pe ruayana yuruparí uyatimana <b>pe ruakí<b> kwayé leão usasemu waá yawé, [...].&nbsp;_  "[...] the devil, your enemy, walks around you like a roaring lion, [...]." (O Novo Testamento em nyengatu, 1 Pedro 5:8, adap., apud Avila 2021)
 * _[...] <b>aintá ruakí</b> rupí musapiri panapaná uyuyuíri.&nbsp;_ "[...] near them three butterflies came and went." (Amorim, 237, adap., apud Avila 2021)
-* _Kwá wasaí yayutima waá aité kwá yamaã waá <b>uka-itá ruakí</b>[...].&nbsp;_ "O açaí que plantamos é o que vemos perto das casas [...]." (Payema, 29, adap., apud Avila 2021) 
+* _Kwá wasaí yayutima waá aité kwá yamaã waá <b>uka-itá ruakí</b>[...].&nbsp;_ "O açaí que plantamos é o que vemos perto das casas [...]." (Payema, 29, adap., apud Avila 2021)
 
 
 <!-- Interlanguage links updated So kvě 14 19:02:31 CEST 2022 -->
