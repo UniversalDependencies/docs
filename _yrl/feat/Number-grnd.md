@@ -16,7 +16,7 @@ udver: '2'
 
 `Number[grnd]` encodes the number of the internal argument of a postpostion, i.e., the reference object, *relatum*  or *ground* (also *landmark* in cognitive grammar), which is realized in Nheengatu in certain circunstances by the non-contiguity prefix *s-*. These postpostion forms correspond to a prepositional phrase formed by a preposition and a personal pronoun in languages such as English.
 
-### <a name="1">`Sing`</a>: singular ground
+### <a name="Sing">`Sing`</a>: singular ground
 
 A pronominal third person singular ground is incorporated into the postpostion in form of the non-contiguity prefx *s*. Otherwise the ground is realized by a noun phrase or an inactive prefix, also called second class pronoun.
 
