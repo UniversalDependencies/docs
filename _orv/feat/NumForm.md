@@ -30,6 +30,12 @@ digits, letters, or as a word?
 
 * _1, 2, 3_
 
+### <a name="Combi">`Combi`</a>: digits combined with a suffix
+
+#### Examples
+
+* 177-го (177th)
+
 ### <a name="Roman">`Roman`</a>: Roman numeral
 
 #### Examples
