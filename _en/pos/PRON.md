@@ -16,12 +16,12 @@ Lemmas that differ from the inflected form are shown in brackets. (The accusativ
 
 Variant forms are italicized, with additional features described below the table.
 
-`PronType=Prs`* | Nominative<br> `Case=Nom` | Accusative<br> `Case=Acc` | Dependent Genitive/Possessive<br> `Case=Gen`,<br>`Poss=Yes` | Independent Genitive/Possessive<br> `Poss=Yes` | Reflexive<br> `Case=Acc`,<br>`Reflex=Yes` 
+`PronType=Prs`* | Nominative<br> `Case=Nom` | Accusative<br> `Case=Acc` | Dependent Possessive<br> `Case=Gen`, `Poss=Yes` | Independent Possessive<br> `Poss=Yes` | Reflexive<br> `Case=Acc`, `Reflex=Yes` 
 -- | -- | -- | -- | -- | -- 
 `Person=1`, `Number=Sing` | I | me [I] | my | mine [my] | myself 
 `Person=1`, `Number=Plur` | we | us [we] | our | ours [our] | ourselves 
 `Person=2` | you, _u_, _ya_ | you, _u_, _ya_ | your, _ur_, _yo_ | yours [your] | 
-`Person=2`, `Number=Sing` | _thou_ | _thee_ | _thy_ | _thine_ | yourself, _thyself_
+`Person=2`, `Number=Sing` | _thou_ | _thee_ [thou] | _thy_ | _thine_ | yourself, _thyself_
 `Person=2`, `Number=Plur` | _ye_ | _y'all_ |  |   | yourselves 
 `Person=3`, `Number=Sing`, `Gender=Masc` | he | him [he] | his | his | himself 
 `Person=3`, `Number=Sing`, `Gender=Fem` | she | her [she] | her | hers [her] | herself 
@@ -32,13 +32,13 @@ XPOS (PTB) | PRP | PRP | PRP$ | PRP | PRP
 \* Some reflexives (_I <b>myself</b> am..._) are [PronType]()=`Emp`.
 
 Variant 2nd person features (in addition to the features associated with the standard counterpart): 
-  - [Abbr]()=`Yes`: *u* 
+  - [Abbr]()=`Yes`: *u*, *ur*
   - [Style]()=`Arch`: archaic forms *ye*, *thou*, *thee*, *thy*, *thine*, *thyself* (from [Early Modern English](https://en.wikipedia.org/wiki/Early_Modern_English#Pronouns)) are retained in some idioms. These mark a combination of number and formality. The features only represent the number distinction. For *you*, *your*, etc., the modern, number-unspecified interpretation is assumed.
   - [Style]()=`Coll`: *ya*
   - [Style]()=`Slng`: *yo*
   - [Style]()=`Vrnc`: *y'all*
 
-TODO: Is *ur* treated like *u*?
+TODO: Is *ur* treated like *u* in the data?
 
 ## Relative/interrogative (WH) pronouns
 
