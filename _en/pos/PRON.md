@@ -21,7 +21,7 @@ Variant forms are italicized, with additional features described below the table
 `Person=1`, `Number=Sing` | I | me [I] | my | mine [my] | myself 
 `Person=1`, `Number=Plur` | we | us [we] | our | ours [our] | ourselves 
 `Person=2` | you, _u_, _ya_ | you, _u_, _ya_ | your, _ur_, _yo_ | yours [your] | 
-`Person=2`, `Number=Sing` | _thou_ | _thee_ [thou] | _thy_ | _thine_ | yourself, _thyself_
+`Person=2`, `Number=Sing` | _thou_ | _thee_ [thou] | _thy_ | _thine_ [thy] | yourself, _thyself_
 `Person=2`, `Number=Plur` | _ye_ | _y'all_ |  |   | yourselves 
 `Person=3`, `Number=Sing`, `Gender=Masc` | he | him [he] | his | his | himself 
 `Person=3`, `Number=Sing`, `Gender=Fem` | she | her [she] | her | hers [her] | herself 
