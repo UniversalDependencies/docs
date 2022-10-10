@@ -53,4 +53,6 @@ cc(will-7, and-5)
 nsubj(will-7, Mary-6)
 advmod(will-7, too-8)
 ~~~
+
+See further discussion of [ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis).
 <!-- Interlanguage links updated So kvě 14 19:04:08 CEST 2022 -->
