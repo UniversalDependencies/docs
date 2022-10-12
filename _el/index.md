@@ -47,7 +47,7 @@ udver: '2'
 ## Syntax
 
 * Nominal subjects ([nsubj]()) are in the nominative case, without adpositions.
-* Objects occur in the accusative case (direct objects) or in the genitive (indirect objects).
+* Objects occur in the accusative case (direct objects) or in the genitive (indirect objects). 
 * All prepositional objects are currently labeled with the oblique relation.
 * Case marking of subjects and objects allows all possible word order variations. However, when introducing new information the most frequent word orders are SVO and VSO. OVS sentences occur when the object is topicalized and they often involve a combination of an object and an object clitic.
 * The copula verb *είμαι* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. Different verbs like *υπάρχω* are typically used in existential clauses.
