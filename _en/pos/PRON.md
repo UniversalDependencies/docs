@@ -40,8 +40,6 @@ Variants associated with features (in addition to the features associated with t
 
 The contracted form of *us* in *let’s* is treated like other standard contractions (e.g. *n’t*), receiving the same lemma (*we*) and features as its noncontracted counterpart.
 
-TODO: Is *ur* treated like *u* in the data?
-
 ## Relative/interrogative (WH) pronouns
 
 These are either [PronType]()=`Int` (interrogative) or [PronType]()=`Rel` (relative). [PronType]() is the only feature except where shown below.
