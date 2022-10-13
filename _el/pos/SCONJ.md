@@ -36,7 +36,7 @@ For coordinating conjunctions, see [CCONJ]().
 ## Examples
 
 - complementizers, like *αν* / *an* "if", *άρα, αφού* / *ara, afou* "since/therefore", *γιατί* / *giati* "why/because", *ενώ* / *eno* "while", *καθώς* / *kathos* "as/while", *μήπως, ότι, πως* / *mipos, oti, pos* "that", *ώστε* / *oste* "so as", *ώσπου* / *ospou* "until"
--	adverbial clause introducers, like *όταν* / *otan* "when", *αφότου* / *afotou* "since", *πριν* / *prin* "before", *μόλις* / *molis* "just, as soon as" (when introducing a clause, not a nominal), *μια και* / *mia.SCONJ ke.CCONJ* (with a _fixed_ dep between them) "since" 
+-	adverbial clause introducers, like *όταν* / *otan* "when", *αφότου* / *afotou* "since", *πριν* / *prin* "before", *μόλις* / *molis* "just, as soon as" (when introducing a clause, not a nominal), *μια και* / *mia.SCONJ ke.CCONJ* (with the dependency _fixed_  between them) "since" 
 -	interrogative pronouns *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what kind of" that introduce an indirect question that serves as an argument of a verb or as a clausal modifier of a deverbal noun, e.g., VERB: *ρώτησα ποιο/πόσο/τι θέλεις;* / *rotisa pio/poso/ti theleis* "I asked which/how much/what do you want?", NOUN:  *έχω μείνει με την* <b>απορία τί</b> *στο καλό της είπες* "I am left with the <b>question what</b> on earth you told her"
 
 
