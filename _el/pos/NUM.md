@@ -19,5 +19,6 @@ Cardinal numerals are always assigned the tag [NUM]() whether they are used as d
 -		0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359
 -	 *ένα, δύο, τρία, εβδομήντα πέντε* "one, two, three, seventy five"
 -	I, II, III, IV, V, MMXIV
-
+- *δωδεκάμιση* "half past twelve" (with <code>NumType=Frac</code>)
+- 
 <!-- Interlanguage links updated So kvě 14 19:01:51 CEST 2022 -->
