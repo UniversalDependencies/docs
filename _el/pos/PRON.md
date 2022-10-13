@@ -20,7 +20,7 @@ Pronouns are words that substitute for nouns  or noun phrases, whose meaning is 
  
 ### Examples
 
-*	interrogative pronouns in direct and in indirect questions when there is a nominal target: *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what", e.g., Direct questions: *Ποιο/Πόσο/Τι θέλεις;* / *Pio/Poso/What want.2SG*  "which/how much/what do you want?" Indirect questions:*έχω μείνει με την απορία τί στο καλό της είπες* "I am left wtih the question what on earth you told her"
+*	interrogative pronouns in direct and in indirect questions when there is a nominal target: *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what", e.g., Direct questions: *Ποιο/Πόσο/Τι θέλεις;* / *Pio/Poso/What want.2SG*  "which/how much/what do you want?" Indirect questions: *έχω μείνει με την απορία* <b>τί<\b> *στο καλό της είπες* "I am left wtih the question what on earth you told her"
 * personal pronouns: both strong and weak types (clitics), e.g., the weak types *του το* in *του το έδωσα* / *tou to edosa* "I gave it to him"
 *	possessive pronouns: weak types, e.g., *μου* in *το σπίτι μου* / *to spiti mou* "my house"
 * reflexive pronouns: *εαυτός* / *eaftos* "self"
