@@ -27,7 +27,7 @@ This is realized by an inactive prefix, also called second class pronoun.
 
 ### <a name="2">`2`</a>: second person ground
 
-This is also realized by a second class pronoun.
+This is expressed by a second class pronoun.
 
 #### Examples
 
