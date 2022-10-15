@@ -28,7 +28,7 @@ Note that _you_ and _it_ can be either in the direct or oblique case. If they ap
 position, they are marked as `Nom`, while if they appear in object position or if they have a prepositional
 [case](en-dep/case) marker, they are marked as `Acc`.
 
-Reflexive pronouns only have this feature if they are used in object position and not if they are used as intensive pronouns ([PronType]=`Emph`).
+Reflexive pronouns only have this feature if they are used in object position and not if they are used as intensive pronouns ([PronType]=`Emp`).
 
 ### <a name="Gen">`Gen`</a>: dependent genitive
 
@@ -39,7 +39,7 @@ This value is specified for dependent possessives like _my_, to contrast with in
 
 The following are the main genitive case pronouns:
 
-* _my_, _your_, _his_, _her_, _its_, _our_, _their_
+* _my_, _your_, _his_, _her_, _its_, _our_, _their_, _whose_
 
 Note that _her_ is ambiguous between the oblique case and the genitive case, and _his_ is ambiguous between a dependent (`Case=Gen`) possessive and an independent possessive (no `Case`).
 
