@@ -13,6 +13,9 @@ udver: '2'
   <td><a href="#NearPast">NearPast</a></td>
   <td><a href="#PastPart">PastPart</a></td>
   <td><a href="#Past">Past</a></td>
+  <td><a href="#PastPerf">PastPerf</a></td>
+  <td><a href="#PastResultI">PastResultI</a></td>
+  
   
 </tr>
 </table>
@@ -82,6 +85,28 @@ The past participle is formed from the stem of the verb by the affix _-быт_, 
 
 </tr>
 </table>
+
+### <a name="PastPerf">`PastPerf`</a>: PastPerf
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+* _<b></b>&nbsp;_ “”
+
+</tr>
+</table>
+
+### <a name="PastResultI">`PastResultI`</a>: PastResultI
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+* _<b></b>&nbsp;_ “”
+
+</tr>
+</table>
+
+
 
 
 ## Diffs
