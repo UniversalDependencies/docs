@@ -28,7 +28,7 @@ Note that _you_ and _it_ can be either in the direct or oblique case. If they ap
 position, they are marked as `Nom`, while if they appear in object position or if they have a prepositional
 [case](en-dep/case) marker, they are marked as `Acc`.
 
-Reflexive pronouns only have this feature if they are used in object position and not if they are used as intensive pronouns ([PronType]=`Emp`).
+Reflexive pronouns only have this feature if they are used in object position and not if they are used as intensive pronouns ([PronType]()=`Emp`).
 
 ### <a name="Gen">`Gen`</a>: dependent genitive
 
