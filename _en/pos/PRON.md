@@ -16,7 +16,7 @@ Lemmas that differ from the inflected form are shown in brackets. (The accusativ
 
 Variant forms are italicized, with additional features described below the table.
 
-`PronType=Prs`* | Nominative<br> `Case=Nom` | Accusative<br> `Case=Acc` | Dependent Possessive<br> `Case=Gen`, `Poss=Yes` | Independent Possessive<br> `Poss=Yes` | Reflexive<br> `Case=Acc`, `Reflex=Yes` 
+`PronType=Prs`* | Nominative<br> `Case=Nom` | Accusative<br> `Case=Acc` | Dependent Possessive<br> `Case=Gen`, `Poss=Yes` | Independent<br> Possessive<br> `Poss=Yes` | Reflexive<br> `Case=Acc`,<br> `Reflex=Yes` 
 -- | -- | -- | -- | -- | -- 
 `Person=1`, `Number=Sing` | I | me [I] | my | mine [my] | myself 
 `Person=1`, `Number=Plur` | we | us [we], _’s_ [we] | our | ours [our] | ourselves 
@@ -81,7 +81,7 @@ INDEFINITE | one | body | thing
 Note that the `Ind` (indefinite) value of the [PronType]() feature is narrower in UD than the general use of the term "indefinite pronoun": `Ind` specifically refers to the *some-* and *any-* varieties.
 These two varieties are not currently distinguished with features.
 
-For *no one*, written as two words, *no* is tagged as [DET](), and *one* is tagged as [PRON]() with [PronType]()=`Neg`. (It can also be spelled as one hyphenated word.)
+For *no one*, written as two words, *no* is tagged as [DET](), and *one* is tagged as `PRON` with [PronType]()=`Neg`. (It can also be spelled as one hyphenated word.)
 
 N.B. *when*, *wherever*, *somewhere*, etc. are tagged as [ADV](), not PRON.
 
@@ -116,6 +116,7 @@ According to the PTB tagging guidelines, *one* should be
 - a pronoun if referring to a generic individual (roughly 'a person'): see personal pronoun table above
 - NN(S) "if it could be pluralized or modified by an adjective", and in _another one_
 
-We depart from PTB in treating *one* as a pronoun in *no one* and *one another*, as described above.
+These correspond to UPOS tags [NUM](), `PRON`, and [NOUN](), respectively.
+However, we depart from PTB in treating *one* as a pronoun in *no one* and *one another*, as described above.
 
 <!-- Interlanguage links updated So kvě 14 19:01:53 CEST 2022 -->
