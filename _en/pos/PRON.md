@@ -66,18 +66,19 @@ TODO: exclamative *what* is PRON+WDT?
 
 ## Indefinite pronouns
 
-These are NN in PTB but PRON in UD. The only feature at present is [Number]()=`Sing`, but it would be appropriate to add [PronType]()=`Ind`.
+These are NN in PTB but PRON in UD. A feature indicating the type of pronoun is provided as shown in the table below. These also receive the feature [Number]()=`Sing`.
 
 INDEFINITE | one | body | thing
 -- | -- | -- | --
-every | everyone | everybody | everything
-any | anyone | anybody | anything
-some | someone | somebody | something
-no | no one | nobody | nothing
+`PronType=Tot` | everyone | everybody | everything
+`PronType=Ind` (any) | anyone | anybody | anything
+`PronType=Ind` (some) | someone | somebody | something
+`PronType=Neg` | no one | nobody | nothing
 
-TODO: PronType=Ind
+Note that the `Ind` (indefinite) value of the [PronType]() feature is narrower in UD than the general use of the term "indefinite pronoun": `Ind` specifically refers to the *some-* and *any-* varieties.
+These two varieties are not currently distinguished with features.
 
-TODO: *No one* is currently analyzed as det(one/NOUN, no/DET). Perhaps *one* should be PRON. 
+For *no one*, written as two words, *no* is tagged as [DET](), and *one* is tagged as [PRON]() with [PronType]()=`Neg`. (It can also be spelled as one hyphenated word.)
 
 N.B. *when*, *wherever*, *somewhere*, etc. are tagged as [ADV](), not PRON.
 
