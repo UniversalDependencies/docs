@@ -26,12 +26,15 @@ Variant forms are italicized, with additional features described below the table
 `Person=3`, `Number=Sing`, `Gender=Masc` | he | him [he] | his | his | himself 
 `Person=3`, `Number=Sing`, `Gender=Fem` | she | her [she] | her | hers [her] | herself 
 `Person=3`, `Number=Sing`, `Gender=Neut` | it | it | its | its | itself 
+`Person=3`, `Number=Sing`, `Gender=Com` | one | one |  |  | oneself 
 `Person=3`, `Number=Plur` | they | them [they], _’em_ | their | theirs [their] | themselves 
 XPOS (PTB) | PRP | PRP | PRP$ | PRP | PRP
 
 \* Some reflexives (_I <b>myself</b> am..._) are [PronType]()=`Emp`.
 
-Variants associated with features (in addition to the features associated with the standard counterpart): 
+In the table, *one* is the use to refer to a generic individual (PRP in PTB); other uses are mentioned [below](#uses-of-one). [Gender]()=`Com` (common) specifies that the pronoun is used specifically for people but does not make a masculine/feminine distinction. Genericity is not made explicit in the features.
+
+Variant forms associated with features (in addition to the features associated with the standard counterpart): 
   - [Abbr]()=`Yes`: *u*, *ur*. As these are abbreviations, the lemma will reflect the standard spelling (*you*, *your*).
   - [Style]()=`Arch`: archaic forms *ye*, *thou*, *thee*, *thy*, *thine*, *thyself* (from [Early Modern English](https://en.wikipedia.org/wiki/Early_Modern_English#Pronouns)) are retained in some idioms. These mark a combination of number and formality. The features only represent the number distinction. For *you*, *your*, etc., the modern, number-unspecified interpretation is assumed.
   - [Style]()=`Coll`: *ya*, *’em*
@@ -101,12 +104,18 @@ Expletive *there* (EX) receives no features.
 
 By contrast, *it* is considered a personal pronoun (PRP) even when functioning as [expl]().
 
-## Generic *one*
-
-Currently, this pronoun (NN in PTB) receives no features, but it should probably be `Number=Sing` (TODO).
-
 ## Reciprocal pronouns
 
 *each other*, *one another*: TODO ([issue 183](https://github.com/UniversalDependencies/UD_English-EWT/issues/183))
+
+## Uses of *one*
+
+According to the PTB tagging guidelines, *one* should be
+
+- CD by default, even when not a prenominal modifier, e.g. _one of the best reasons_, BUT
+- a pronoun if referring to a generic individual (roughly 'a person'): see personal pronoun table above
+- NN(S) "if it could be pluralized or modified by an adjective", and in _another one_
+
+We depart from PTB in treating *one* as a pronoun in *no one* and *one another*, as described above.
 
 <!-- Interlanguage links updated So kvě 14 19:01:53 CEST 2022 -->
