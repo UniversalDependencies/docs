@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: 'dislocated:csubj'
-shortdef: 'dislocated clausal subject'
+title: 'dislocated:obl'
+shortdef: 'dislocated oblique argument'
 udver: '2'
 ---
 
@@ -10,15 +10,20 @@ Through different subtypes of [`dislocated`](u-dep/dislocated) we more precisely
 In the translation of the example, the bold passage corresponds to the dislocated element, and the underlined passage to the dislocating one.
 
 ~~~ sdparse
-contenebatur qualiter ipse Racchisi presbitero , pro anime sue remedium , offeruerat Deo et ipsius ecclesie sancte GAP Marie portione sua de res illa qui fuit de iura parentorum suorum , omnia et ex omnibus terris , vineis , silvis , virgareis , pratis , pascuis , cultum vel incultum , suam portionem in integrum offeruerat Deo et eidem ecclesie sancte Marie in prefinito .
-dislocated:csubj(contenebatur,offeruerat-56)
-csubj(contenebatur,offeruerat-12)
+omnia quantum ad ipsa ecclesia sancti Andree tam domnicatis casis et rebus quam et massariciis quantas ubique in qualibet locis vel vocabulis ad predicta ecclesia est pertenentes in integrum mihi eas dedisti
+case(ecclesia, ad)
+dislocated:obl(pertenentes, ecclesia)
+case(ecclesia, ad)
+obl:arg(pertenentes, ecclesia)
+acl(omnia, pertenentes)
 ~~~
 
-'There it was defined <u>how *presbyter* Ratchis himself, for the cure of his soul, offered to God and His holy church of Saint Mary his own portion of that property</u> which belonged to his relatives by law, everything and every piece of land, wineyards, woods, osiers, lawns, meadows, tended and untended - **his portion he offered integrally to God and His church of Saint Mary as determined before**.' (LLCT)
+'all what [pertains to] **to this same church of Saint Andrews**, houses and properties belonging to the demesne as also furnishings - how many and wherever, in any place or location soever they pertain <u>to the aforementioned church</u>, those things you have given me integrally.' (`LLCT dev-s562`)
 
 
 <u>Note:</u> in general, the dislocated element does not need to be of the same form as the corresponding argument appearing in the matrix clause, and there can be alternation between clausal and nominal realisations. The subtype of `dislocated` depends on the type of the dislocated element, not on that of the argument in the matrix clause.  
+
+* this sentence further has a dislocation of the subject, the noun co-ordination *casis et rebus* 'houses and properties' referred to after by the relative pronoun *quantas* 'those many (things)', and also the whole block starting with *omnia* 'all (things)' is a dislocated object resumed by *eas* 'them' (with different [gender](la-feat/Gender): neuter versus feminine, probably implying *res* 'things, properties'). 
 
 
 <!-- Interlanguage links updated So kvě 14 19:03:32 CEST 2022 -->
