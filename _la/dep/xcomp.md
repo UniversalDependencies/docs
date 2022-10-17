@@ -1,9 +1,11 @@
 ---
 layout: relation
-title: 'xcomp:pred'
+title: 'xcomp'
 shortdef: 'core secondary predication'
 udver: '2'
 ---
+
+(This page is still referring to the `pred` subtype, which was subsumed under the simple `xcomp` relation. It remains valid for this particular case and will be expanded.)
 
 The `pred` subrelation aims at unitarily representing the phenomenon of **secondary predications** (also "conjoined participles", it. *participio congiunto*, "double nominative/accusative", "subject/object complements", "adverbial appositions", "depictives", and so on) in its different realisations. 
 
@@ -17,9 +19,9 @@ In the following examples, the passages in the translations corresponding to cor
 
 ~~~ sdparse
 verbum caro factum est \n word flesh made is
-xcomp:pred(factum,caro)
+xcomp(factum,caro)
 nsubj(factum,verbum)
-xcomp:pred(made,flesh)
+xcomp(made,flesh)
 nsubj(word,made)
 ~~~
 
@@ -27,9 +29,9 @@ nsubj(word,made)
 
 ~~~ sdparse
 Huius quidem preconium , facta modernorum exsuperans , tanquam veri existentia latius arbitrabar aliquando superfluum . \n Of-this indeed public-cry , facts of-moderns surpassing , as-much-as of-true existence more-broadly I-was-deeming somewhat excessive .
-xcomp:pred(arbitrabar,superfluum)
+xcomp(arbitrabar,superfluum)
 obj(arbitrabar,preconium)
-xcomp:pred(I-was-deeming,excessive)
+xcomp(I-was-deeming,excessive)
 obj(I-was-deeming,public-cry)
 ~~~
 
@@ -37,7 +39,7 @@ obj(I-was-deeming,public-cry)
 
 ~~~ sdparse
 Et hii sunt quos Poeta Eneidorum sexto Dei dilectos et ab ardente virtute sublimatos ad ethera deorum que filios vocat , quanquam figurate loquatur . \n And these are whom Poet of-Aeneid in-sixth of-God beloved and by ardent virtue elevated to skies of-gods and sons calls , although figuratively speaks .
-xcomp:pred(vocat,dilectos)
+xcomp(vocat,dilectos)
 nmod(dilectos,Dei)
 conj(dilectos,sublimatos)
 obl:agent(sublimatos,virtute)
@@ -46,7 +48,7 @@ conj(dilectos,filios)
 nmod(filios,deorum)
 obj(vocat,quos)
 
-xcomp:pred(calls,beloved)
+xcomp(calls,beloved)
 nmod(beloved,of-God)
 conj(beloved,elevated)
 obl:agent(elevated,virtue)
