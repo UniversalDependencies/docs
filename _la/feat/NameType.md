@@ -15,6 +15,7 @@ udver: '2'
   <td><a href="#Giv">Giv</a></td>
   <td><a href="#Let">Let</a></td>
   <td><a href="#Lit">Lit</a></td>
+  <td><a href="#Met">Met</a></td>
   <td><a href="#Nat">Nat</a></td>
   <td><a href="#Rel">Rel</a></td>
   <td><a href="#Sur">Sur</a></td>
@@ -103,6 +104,15 @@ Specific *name* for a literary work, different from the *title* of a book or sim
 
 * ***Aeneis***, the Aeneid, the poem by Virgil
 * ***Vulgata***, the Latin translation of the Bible (actually a participle from *vulgata editio* 'popularised edition')
+
+### <a name="Met">`Lit`</a>: name of meteorological entity
+
+Specific name given to an entity related with meteorological, atmospheric or similar events, such as winds. 
+
+#### Examples
+
+* ***Auster***, the south wind (from which *australis* 'southern' is derived)
+* ***Eurus***, the (south-)east wind
 
 ### <a name="Nat">`Nat`</a>: designation of nationality
 
