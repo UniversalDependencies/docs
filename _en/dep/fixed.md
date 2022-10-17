@@ -27,7 +27,7 @@ At present, this relation is used inside the following expressions, semantically
 | [Exemplification](#exemplification) | *such as* |
 | [Reciprocal Pronouns](#reciprocal-pronouns) | *each other*, *one another* |
 | [Pragmatic/miscellaneous](#pragmaticmiscellaneous-markers) | *all but*, *as for*, *as if*, *as opposed to*, *as to*, *at least* (non-quantity), *in that*, *kind/sort of* (hedge), *not to mention*, *of course*, *that is* |
-| [NEED DISCUSSION](#need-discussion) | *had better* |
+| [NEEDS DISCUSSION](#needs-discussion) | *had better* |
 
 Below the description of `fixed` expressions are a few idiomatic combinations that are [analyzed without `fixed`](#not-fixed). These are summarized as follows:
 
@@ -291,8 +291,8 @@ The first word is marked as [PronType]()=`Rcp`. See discussion at [PRON]().
 
 ~~~ sdparse
 They saw each/DET other/ADJ
-fixed(each, another)
-aux(saw, each)
+fixed(each, other)
+obj(saw, each)
 ~~~
 
 *one another*
@@ -300,7 +300,7 @@ aux(saw, each)
 ~~~ sdparse
 They saw one/PRON another/DET
 fixed(one, another)
-aux(saw, one)
+obj(saw, one)
 ~~~
 
 
