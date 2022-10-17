@@ -9,6 +9,8 @@ As a subtype of [`parataxis`](u-dep/parataxis), `rep` is principally used to mar
 
 Direct or reported speech can be syntactically ambivalent, because on the one hand, as a whole, it behaves in a similar manner to a nominal argument (e.g. [`obj`](la-dep/obj) or [`nsubj`](la-dep/nsubj)), but, on the other hand, it constitutes a completely independent uttering with respect to the main sentence.
 
+This relation is no longer used as of UD v2.11: it is replaced by [ccomp:reported](la-dep/ccomp-reported) and [csubj:reported](la-dep/csubj-reported).
+
 ~~~ sdparse
 Virgilius primo Eneidorum dicit « Arma virumque cano » \n Virgil in-first of-Aeneis says « Arms and-man I-sing »
 parataxis:rep(dicit, cano)
