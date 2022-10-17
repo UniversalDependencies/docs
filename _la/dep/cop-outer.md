@@ -9,7 +9,7 @@ This subtype of [`cop`](la-dep/cop) is used alongside of [`nsubj:outer`](u-dep/n
 
 
 ~~~ sdparse
-perfectus enim modus intelligendi est ut intelligantur ea quae sunt secundum naturam suam intelligibilia \\ perfect then way of-understanding is that they-be-understood them which are according-to nature own
+perfectus enim modus intelligendi est ut intelligantur ea quae sunt secundum naturam suam intelligibilia \n perfect then way of-understanding is that they-be-understood them which are according-to nature own
 nsubj:outer(intelligantur, modus)
 cop:outer(intelligantur, est)
 mark(intelligantur, ut)
