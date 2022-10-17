@@ -16,7 +16,7 @@ Lemmas that differ from the inflected form are shown in brackets. (The accusativ
 
 Variant forms are italicized, with additional features described below the table.
 
-`PronType=Prs`* | Nominative<br> `Case=Nom` | Accusative<br> `Case=Acc` | Dependent Possessive<br> `Case=Gen`, `Poss=Yes` | Independent<br> Possessive<br> `Poss=Yes` | Reflexive<br> `Case=Acc`,<br> `Reflex=Yes` 
+`PronType=Prs`* | Nominative<br> `Case=Nom` | Accusative<br> `Case=Acc` | Dependent<br> Possessive<br> `Case=Gen`, `Poss=Yes` | Independent<br> Possessive<br> `Poss=Yes` | Reflexive<br> `Case=Acc`, `Reflex=Yes` 
 -- | -- | -- | -- | -- | -- 
 `Person=1`, `Number=Sing` | I | me [I] | my | mine [my] | myself 
 `Person=1`, `Number=Plur` | we | us [we], _’s_ [we] | our | ours [our] | ourselves 
@@ -26,13 +26,13 @@ Variant forms are italicized, with additional features described below the table
 `Person=3`, `Number=Sing`, `Gender=Masc` | he | him [he] | his | his | himself 
 `Person=3`, `Number=Sing`, `Gender=Fem` | she | her [she] | her | hers [her] | herself 
 `Person=3`, `Number=Sing`, `Gender=Neut` | it | it | its | its | itself 
-`Person=3`, `Number=Sing`, `Gender=Com` | one | one |  |  | oneself 
+`Person=3`, `Number=Sing` | one | one |  |  | oneself 
 `Person=3`, `Number=Plur` | they | them [they], _’em_ | their | theirs [their] | themselves 
 XPOS (PTB) | PRP | PRP | PRP$ | PRP | PRP
 
 \* Some reflexives (_I <b>myself</b> am..._) are [PronType]()=`Emp`.
 
-In the table, *one* is the use to refer to a generic individual (PRP in PTB); other uses are mentioned [below](#uses-of-one). [Gender]()=`Com` (common) specifies that the pronoun is used specifically for people but does not make a masculine/feminine distinction. Genericity is not made explicit in the features.
+In the table, *one* is the use to refer to a generic individual (PRP in PTB); other uses are mentioned [below](#uses-of-one). Genericity is not made explicit in the features.
 
 Variant forms associated with features (in addition to the features associated with the standard counterpart): 
   - [Abbr]()=`Yes`: *u*, *ur*. As these are abbreviations, the lemma will reflect the standard spelling (*you*, *your*).
