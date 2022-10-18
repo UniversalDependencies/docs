@@ -106,7 +106,23 @@ By contrast, *it* is considered a personal pronoun (PRP) even when functioning a
 
 ## Reciprocal pronouns
 
-*each other*, *one another*: TODO ([issue 183](https://github.com/UniversalDependencies/UD_English-EWT/issues/183))
+Reciprocal pronouns *each other* and *one another* receive the feature [PronType]()=`Rcp` and are analyzed structurally with [fixed]().
+
+Examples with tags:
+
+~~~ sdparse
+They saw each/DET other/ADJ
+fixed(each, other)
+obj(saw, each)
+~~~
+
+*one another*
+
+~~~ sdparse
+They saw one/PRON another/DET
+fixed(one, another)
+obj(saw, one)
+~~~
 
 ## Uses of *one*
 
