@@ -116,8 +116,6 @@ fixed(each, other)
 obj(saw, each)
 ~~~
 
-*one another*
-
 ~~~ sdparse
 They saw one/PRON another/DET
 fixed(one, another)
