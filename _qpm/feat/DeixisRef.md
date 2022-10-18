@@ -18,19 +18,19 @@ Pomak nouns, adjectives, pronouns and adverbs may be tagged with `DeixisRef` alo
 
 #### Examples
 
-* [qpm] _górm<b>os</b>_ "the tree [here near me or near both the speaker and the listener - proximal]" 
+* _górm<b>os</b>_ "the tree [here near me or near both the speaker and the listener - proximal]" 
 `Deixis=Prox|DeixisRef=1`
 
 ### <a name="2">`2`</a>: deixis relative to the second person participant (listener) - medial
 
 
-* [qpm] _górm<b>ot</b>_ "the tree [there near you or near the listener - medial]" 
+* _górm<b>ot</b>_ "the tree [there near you or near the listener - medial]" 
 `Deixis=Prox|DeixisRef=2`
 
 ### <a name="3">`3`</a>: deixis that marks the distance from both participants (speaker and listener) - distal
 
 
-* [qpm] _górm<b>on</b>_ "the tree over there [far away from both the speaker and the listener - distal]" 
+* _górm<b>on</b>_ "the tree over there [far away from both the speaker and the listener - distal]" 
 `Deixis=Remt'
 
 #### Examples
