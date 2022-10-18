@@ -105,7 +105,7 @@ Specific *name* for a literary work, different from the *title* of a book or sim
 * ***Aeneis***, the Aeneid, the poem by Virgil
 * ***Vulgata***, the Latin translation of the Bible (actually a participle from *vulgata editio* 'popularised edition')
 
-### <a name="Met">`Lit`</a>: name of meteorological entity
+### <a name="Met">`Met`</a>: name of meteorological entity
 
 Specific name given to an entity related with meteorological, atmospheric or similar events, such as winds. 
 
