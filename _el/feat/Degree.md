@@ -107,5 +107,5 @@ All affixation cases are assigned the lemma of the original word and the feature
 	
 * <b>Adverbs</b>
 - _εξυπνότατα, κάλλιστα_ "most cleverly, best"
-- 
+
 <!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->
