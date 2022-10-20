@@ -11,6 +11,8 @@ udver: '2'
    <td><a href="#Abs">Abs</a></td>
   <td><a href="#Cmp">Cmp</a></td>
   <td><a href="#Pos">Pos</a></td>
+  <td><a href="#Dim">Dim</a></td>
+  <td><a href="#Aug">Aug</a></td>
 </tr>
 </table>
 
@@ -58,7 +60,52 @@ set of objects. The adverbs express the highest degree of a manner.
 <b>Adjectives</b>
 - _Η Μαρία ήταν ωραιότατη._ "Maria was _most beautiful_." 
 
-<b>Adverbs</b>
+Modern Greek expresses degree modification of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes (and a set of syntactic means);  suffixation may 
+ change the gender of the noun, e.g., _χέρι_ "hand" (neutral) vs. _χερούκλα_ "large hand" (feminine), _άντρας_ "man" (masculine) vs. _αντράκι_ "little/insignificant/bully man" (neuter).
 
-- _εξυπνότατα, κάλλιστα_ "most cleverly, best"
+All affixation cases are assigned the lemma of the original word and the feature <code>el-DegreeMod</code>  takes one of the two available values. 
+
+### <a name="Dim">`Dim`</a>: diminutive
+
+#### Examples
+
+* <b>Nouns</b> (suffixation)  
+	* _χταποδάκι_ / *chtapodaki* "little octopus"
+	* _πορτούλα_ / *portoula* "little door" 
+	* _φωνίτσα_ / *fonitsa* "little voice"
+	* _εικονίδιο_ / _ikonidio_  "little picture"
+	
+* <b>Adjectives</b> (suffixation)
+	 * _μικρούτσικος_ / *mikroutsikos* "smallish" 
+	 * _κιτρινούλης_ / *kitrinoulis* "yellowish" 
+	 * _ασπρουλιάρης_ / _asprouliaris_ "whitish"
+
+* <b>Passive participles</b> (prefixation)
+	* _μισοδαγκωμένος_ / _misodagkomenos_ "slightly bitten"
+	* _ψιλοθυμωμένος_ / _psilothimomenos_ "slightly angry"
+	
+* <b>Adverbs</b> (suffixation)
+	* _καλούτσικα_ / _kaloutsika_ "slightly good"
+	
+
+### <a name="Aug">`Aug`</a>: augmentative
+
+#### Examples
+
+* <b>Nouns</b> (suffixation)
+	*  *τρυπάρα* / *tripara* "large hole"
+	*   *ψευταράς* / *pseftaras* "great lier"
+	*  _χερούκλα_/ *cheroukla* "large hand"
+	  
+* <b>Adjectives</b> (prefixation)
+	 * _κατά-μαυρος_ / *katamavros "stark black"
+	 * _ολό-φωτος_ / *olofotos* "very bright"
+	
+* <b>Passive participles</b> (prefixation)
+	* _κατα-κουρασμένος_ / _katakourasmenos_ "very tired"
+	* _χιλιο-ταλαιπωρημένος_ / _chiliotalaiporimenos_ "exhausted, worn out" 
+	
+* <b>Adverbs</b>
+	* _ωραιότατα, κάλλιστα_ "most nicely, best"
+
 <!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->
