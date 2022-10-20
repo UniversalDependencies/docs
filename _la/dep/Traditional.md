@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Degree'
-shortdef: 'degree'
+title: 'Traditional'
+shortdef: 'traditional denominations of grammatical categories and constructions'
 udver: '2'
 ---
 
@@ -9,16 +9,16 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cmp">Cmp</a></td>
-  <td><a href="#Dim">Dim</a></td>
-  <td><a href="#Equ">Equ</a></td>
-  <td><a href="#Pos">Pos</a></td>
-  <td><a href="#Abs">Abs</a></td>
+  <td><a href="#Gerundive">Gdv</a></td>
+  <td><a href="#Gerund">Gerund</a></td>
+  <td><a href="#Pos">PositiveDegree</a></td>
+  <td><a href="#Sup">SuperlativeDegree</a></td>
 </tr>
 </table>
 
 [Work in progress for `Abs`, `Cmp`]
 
-Degree of comparison is typically an inflectional feature of [adjectives](la-pos/ADJ) (or adjectival forms like [participles](la-feat/VerbForm)) and consequently of derived (and some "true") [adverbs](la-pos/ADV), and also [determiners](la-pos/DET) or similar elements conveying a notion of [quantity](la-feat/NumType) or intensity, but is not limited to them: also widespread are diminutive forms of nominals, including [nouns](la-pos/NOUN), and possibly [verbs](la-pos/VERB).
+Degree of comparison is typically an inflectional feature of [adjectives](la-pos/ADJ) (or adjectival forms like [participles](la-feat/VerbForm)) and consequently of derived (and some "true") [adverbs](la-pos/ADV), and also [determiners](la-pos/DET) or similar elements conveying a notion of [quantity](la-feat/NumType) or intensity but is not limited to them: also widespread are diminutive forms of nominals, including [nouns](la-pos/NOUN), and possibly [verb](la-pos/VERB).
 
 ### <a name="Abs">`Abs`</a>: absolute (traditionally "superlative")
 
@@ -28,8 +28,6 @@ This value implies the highest degree of a given quality or other aspect. It can
 
 * ***pulchrissimum*** 'most beautiful (n.)', , from *pulcher* 'beautiful' (`ADJ`)
     * so *pulchrissimum Romae templorum* would be the 'most beautiful' with respect to (all) Roman temples'
-* ***plurimus*** 'most, very many/much' from *multus* 'many/much' (`DET`)
-    * *multus* is also annotated for [`NumType=Card`](la-feat/NumType), as it is functionally equivalent to a [numeric expression](la-pos/NUM) (e.g. *centum* 'one hundred') and can be an answer to *quantus* 'how many/much'
 
 ### <a name="Cmp">`Cmp`</a>: comparative
 
@@ -38,9 +36,6 @@ This value implies a difference between two elements under a given property.
 #### Examples
 
 * ***pulchrior*** 'rather/more beautiful (f./m.)', from *pulcher* 'beautiful' (`ADJ`)
-* ***plures*** 'more' from *multus* 'many/much' (`DET`)
-    * *multus* is also annotated for [`NumType=Card`](la-feat/NumType), as it is functionally equivalent to a [numeric expression](la-pos/NUM) (e.g. *centum* 'one hundred') and can be an answer to *quantus* 'how many/much'
-* ***magis*** 'more', an intensifier (`ADV`) etymologically connected to *magnus* 'great' (`ADJ`), used to convey a degree to words that cannot bear one morphologically (see Note)
 
 ### <a name="Equ">`Equ`</a>: equative (debatable)
 
@@ -80,7 +75,7 @@ What are traditionally labelled as "frequentative" (or "iterative", or "intensiv
 * ***dormito*** 'to feel sleepy, to drowse', from *dormio* 'to sleep' (`VERB`)
 * ***quasso*** 'to move to and fro, to shake repeatedly', from *quatio* 'to shake, agitate' (`VERB`)
 
-### <a name="Pos">`Pos`</a>: positive (possibly deprecated; see Note)
+### <a name="Pos">`Pos`</a>: positive (outdated)
 
 This value is traditionally used to denote the form of an adjectival element (or the corresponding adverb) which is neither comparative nor "superlative" (i.e. absolute in UD terms). It is however problematic as any definition "by negation": a positive form is simply a form not marked for `Degree`, and as such no particular label should be needed, in a similar way that an [indeclinable noun](la-feat/InflClass) is not marked for [case](la-feat/Case). 
 

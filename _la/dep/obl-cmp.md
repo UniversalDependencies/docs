@@ -5,9 +5,9 @@ shortdef: 'comparative oblique argument'
 udver: '2'
 ---
 
-The `cmp` subtype is of semantic nature and is used to point out comparative constructions unitarily: [`advcl:cmp`](la-dep/advcl-cmp) for comparative adverbial clauses, `obl:cmp` for comparative oblique arguments.
+The `cmp` subtype is of semantic nature and is used to point out the **standards of comparison** in comparative constructions unitarily: [`advcl:cmp`](la-dep/advcl-cmp) for comparative adverbial clauses, `obl:cmp` for comparative oblique arguments.
 
-Oblique arguments as terms of comparison in comparative constructions are less used and more limited than comparative clauses in Latin. They always consist of a bare nominal element (including [nominal verbal forms](la-feat/VerbForm)) in the [ablative case](la-feat/Case). So, they are seen to be different from comparative clauses in that they are not introduced by a [conjunction](la-pos/SSCONJ) and are always inflected in the ablative, thus functioning as arguments in the main clause, directly depending on the term expressing degree or contrast, if any. This use of the ablative is related to, and sometimes difficult to distinguish from other, similar uses of the ablative.  
+Oblique arguments as standards of comparison in comparative constructions are less used and more limited than comparative clauses in Latin. They always consist of a bare nominal element (including [nominal verbal forms](la-feat/VerbForm)) in the [ablative case](la-feat/Case). So, they are seen to be different from comparative clauses in that they are not introduced by a [conjunction](la-pos/SSCONJ) and are always inflected in the ablative, thus functioning as arguments in the main clause, directly depending on the term expressing degree or contrast, if any. This use of the ablative is related to, and sometimes difficult to distinguish from other, similar uses of the ablative.  
 
 In the following examples, the passages in the translations corresponding to oblique comparative arguments are boldfaced. The element on which it depends is underlined.
 
