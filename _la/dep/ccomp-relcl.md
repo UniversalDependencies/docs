@@ -31,10 +31,10 @@ ccomp:relcl(habeat, ditetur)
 
 'For all men whom the Higher Nature has endowed with a love of truth, this above all seems to be a matter of concern, that just as they have been enriched by the efforts of their forebears, so they too may work for future generations, in order that posterity **may be enriched by their efforts**.'
 
-* Literally: 'so that posterity have what it be enriched by', where *quo* is the neuter singular ablative form of *qui* 'that, who, which', which is annotated with `Case=Abl` and acts as the agent of *dito* 'to enrich' in the passive voice. This is a case of very infrequent mismatch between the two functions of the pronoun: *habeat* 'so that it have' requires an object in the accusative (`Case=Acc`), which cannot coincide in form with the agent of a passive verb in the ablative. The "internal" function prevails. 
+* Literally: 'so that posterity have what it be enriched by', where *quo* is the neuter singular ablative form of *qui* 'that, who, which', which is annotated with `Case=Abl` and acts as the agent of *dito* 'to enrich' in the passive voice. This is a case of very infrequent mismatch between the two functions of the pronoun: *habeat* 'so that it have' requires an object in the accusative (`Case=Acc`), which cannot coincide in form (here: *quod*) with the agent of a passive verb in the ablative. The "internal" function prevails. 
 
 
-####Note on the former annotation style
+#### Note on the former annotation style
 
 In previous (pre v2.11) versions of some treebanks, especially UDante, the annotation of this construction followed a different logic. Noticing the constraints on the combination of internal and external functions of the relative pronoun, its position and making a parallelism with other relative construction with explicite double pronouns (i.e. *quod* 'what' = *id quod* 'that which'), the double pronoun was promoted as head, marked for its function in the matrix clause, and the rest of the clause made dependent as a relative clause where the relativised position is empty. So, the first example above appeared as:
 

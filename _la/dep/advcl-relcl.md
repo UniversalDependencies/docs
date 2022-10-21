@@ -14,17 +14,17 @@ This subtyped relation currently appears also in Armenian, Western Armenian and 
 
 ~~~ sdparse
 Cui ergo maxime recta dilectio inesse potest potissimum locum in illo potest habere iustitia ; huiusmodi est Monarcha : ergo eo existente iustitia potissima est vel esse potest
-obl:arg(potest-7, Cui)
+obl:arg(inesse, Cui)
 xcomp(potest-7, inesse)
 advcl:relcl(potest-12, potest-7)
 ~~~
 
 'So **the man in whom rightly ordered love can be strongest** is the one in whom justice can have its principal abode; the monarch is such a man; therefore justice is or can be at its strongest when he exists.' (`UDante Mon-107`, *De Monarchia* I xi 13, Dante Alighieri)
 
-* The translation needs to develop the double pronoun *cui* (any gender singular dative form of *qui* 'that, who, which') in two elements: an explicit external head *the man* and the relative nexus *in whom*. It is literally: 'to whom righteous love can belong at the maximum, justice can have the mightiest place in that one'.
+* The translation needs to develop the double pronoun *cui* (any gender singular dative form of *qui* 'that, who, which') in two elements: an explicit external head *the man* and the relative nexus *in whom*. It is literally: 'to whom righteous love can belong at the maximum, justice can have the mightiest place in that one'. We notice that the relative pronoun appears embedded two levels below the head of the free relative clause: Latin has no restrictions whatsoever to what can be relativised. 
 
 
-####Note on the former annotation style
+#### Note on the former annotation style
 
 In previous (pre v2.11) versions of some treebanks, especially UDante, the annotation of this construction followed a different logic. Noticing the constraints on the combination of internal and external functions of the relative pronoun, its position and making a parallelism with other relative construction with explicite double pronouns (i.e. *quod* 'what' = *id quod* 'that which'), the double pronoun was promoted as head, marked for its function in the matrix clause, and the rest of the clause made dependent as a relative clause where the relativised position is empty. So, the example above appeared as:
 

@@ -23,7 +23,7 @@ csubj:relcl(operationem, prodit)
 * *quicquid* is a neuter singular nominative/accusative form of *quisquis* 'whoever, whatever', which is annotated with `Case=Nom`, as it is the subject of *prodit* 'comes forth', lit. 'whatever comes forth into being'.
 
 
-####Note on the former annotation style
+#### Note on the former annotation style
 
 In previous (pre v2.11) versions of some treebanks, especially UDante, the annotation of this construction followed a different logic. Noticing the constraints on the combination of internal and external functions of the relative pronoun, its position and making a parallelism with other relative construction with explicite double pronouns (i.e. *quod* 'what' = *id quod* 'that which'), the double pronoun was promoted as head, marked for its function in the matrix clause, and the rest of the clause made dependent as a relative clause where the relativised position is empty. So, the example above appeared as:
 

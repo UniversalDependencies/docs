@@ -368,11 +368,13 @@ Infinitive   | *uelle*
 
 There are no anomalous nouns (including proper nouns), adjectives, or determiners: when not simply indeclinable (see **`Ind`**), their deviant forms can unproblematically be considered just variants inside their inflectional paradigms (e.g. *animabus* instead of *animis* for the plural dative/ablative of *anima*, first declension).
 
-### <a name="Ind">`Ind`</a>: indeclinable
+### <a name="Ind">`Ind`</a>: indeclinable (deprecated)
 
-A word belonging to a part of speech whose members are usually expected to inflect, but which itself does not (or is never attested in more than one form), receives the value `Ind`. At the same time, it is not marked for [case](la-feat/Case), but it might still retain [gender](la-feat/Gender) and/or [number](la-feat/Number) if it is a (proper) noun. The [infinitives](la-feat/VerbForm), as verbal nouns, are indeclinable.
+A word belonging to a part of speech whose members are usually expected to inflect, but which itself does not (or is never attested in more than one form), receives the value `Ind`. At the same time, it is not marked for [case](la-feat/Case), but it might still retain [gender](la-feat/Gender) and/or [number](la-feat/Number) if it is a (proper) noun, and thus possesses one inherently and not relationally. The [infinitives](la-feat/VerbForm), as verbal nouns, are indeclinable.
 
-Most nominal parts of speech are also represented by some indeclinable members to a greater or lesser extent. It is not uncommon for these latter, especially for nouns, to be foreign loanwords. Sometimes, such words appear both as indeclinable and as inflected forms (e.g. *Adam* can be either indeclinable, or associated to the first declension, taking genitive *Adae* etc.).
+Most nominal parts of speech are also represented by some indeclinable members to a greater or lesser extent. It is not uncommon for these latter, especially for nouns, to be foreign loanwords. Sometimes, such words appear both as indeclinable and as inflected forms (e.g. *Adam* can be either indeclinable, or associated which the first declension, taking genitive *Adae* etc.).
+
+The use of this value is deprecated and no longer implemented, as definitions by negative in general in UD: `InflClass=Ind` is actually not an inflectional class, but rather the absence of one. So, simply, nothing needs to be annotated, similarly to positive [degree](la-feat/Degree) or positive [polarity](la-feat/Polarity).
 
 #### Examples
 
