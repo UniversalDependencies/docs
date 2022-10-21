@@ -11,18 +11,19 @@ udver: '2'
   <td><a href="#Cont">Cont</a></td>
   <td><a href="#Compl">Compl</a></td>
   <td><a href="#Iter">Iter</a></td>
-
-  
-
   
 </tr>
 </table>
 
-`Aspect` is a 
+`Aspect` shows the internal temporal structure of a situation.
 
-### <a name="Cont">`Cont`</a>: Cont
+### <a name="Cont">`Continuative`</a>: Cont
 
+Continuative aspect expresses imperfectivity not occasioned by habit.
 
+The morpheme `-o` appears after a final consonant or vowel, only with a 3rd person subject predicate.
+
+The second morpheme marks the continuative aspect on action or state predicates whose subject is a 1st or 2nd person and is realized as `-ɲ` after a vowel, and `-iɲ` after a consonant.
 
 #### Examples
 
