@@ -339,6 +339,8 @@ git pull
 
 Once you do this, you are all set. Your copy will stay switched to the dev branch unless you call `git checkout master` (or other `git checkout`) again. You will probably mostly need just `git status`, `git diff`, `git add`, `git commit`, `git push` and `git pull` commands. All pushes and pulls will be done against the remote `dev` branch.
 
+<strong>Never ever modify history of the git commits!</strong> While this is a bad practice in a collaborative environment in general, the immediate consequence in UD is that you will break the automatic re-validation of your treebank. (The validation server has its own copy of your repository, with the whole history. If a previously existing commit disappears from Github, it will look as if that commit is a local change on the validation server, and the validation server will no longer be able to automatically update its copy from Github.) So if you accidentaly commit a modification that is later found wrong, do not remove the commit from the history. Instead, revert the changes of the commit so that the inverse changes appear in your working copy, then add these changes to a new commit and push it to Github.
+
 
 
 # Validation
