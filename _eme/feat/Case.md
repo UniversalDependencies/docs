@@ -25,9 +25,10 @@ The referential case is used for the referential marker (also called argumentati
 
 #### Examples
 
-_apam<b>abaʔekʷərakom</b>&nbsp;_ “hare hare” 
-_<b>bla bla</b>&nbsp;_ “hare hare” 
-_<b>bla bla</b>&nbsp;_ “hare hare” 
+* _apam<b>a</b>baʔekʷər<b>a</b>kom_&nbsp; “the customs of foreigners” 
+* _wane pitaŋkom<b>a</b>pe_&nbsp; “It is good for children.” 
+* _pitaŋ oʔar<b>a</b>nawe , eaɲ okakuwa ikiʔɨ_&nbsp; “Once the child is born, he/she grows up quickly then.”
+* _apam<b>a</b>nẽ nõdeapisitanẽ_&nbsp; “The foreigners wanted to kill us.”
 
 
 
