@@ -22,7 +22,7 @@ The feature `ACCOMP` expresses an anteriority in relation to a temporal marker, 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” - 
+* _<b>aipote , idʒe_ra_we am tam aiɲuŋeʔe</b>&nbsp;_ “hare hare” 
 
 
 
