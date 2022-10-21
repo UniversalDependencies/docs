@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Accomp'
-shortdef: 'accomp'
+shortdef: 'accomplished action'
 udver: '2'
 ---
 
