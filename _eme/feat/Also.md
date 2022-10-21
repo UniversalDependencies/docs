@@ -22,7 +22,7 @@ udver: '2'
 
 #### Examples
 
-* _zawar-a-<b>we</b>&nbsp o-ekar-uwe.;_ “And the dog also looks.” 
+* _zawar-a-<b>we</b>&nbspo-ekar-uwe.;_ “And the dog also looks.” 
 
 
 
