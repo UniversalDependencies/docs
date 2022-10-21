@@ -5,6 +5,9 @@ shortdef: 'accomp'
 udver: '2'
 ---
 
+The feature `ACCOMP` expresses an anteriority in relation to a temporal marker, which is not necessarily the moment of the utterance. It is marked with a particle _-ra_. Perhaps this particle also marks a perfect aspect.
+
+
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
