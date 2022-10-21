@@ -22,7 +22,7 @@ udver: '2'
 
 #### Examples
 
-* _wɨraʔa-uhu<b></b>&nbsp;_ “A giant comou”
+* _wɨraʔa<b>uhu</b>&nbsp;_ “A giant comou”
 
 
 
