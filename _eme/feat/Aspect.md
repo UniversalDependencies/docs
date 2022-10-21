@@ -27,10 +27,8 @@ The morpheme `-ɲ` (after a vowel) or `-iɲ` (after a consonant) marks the conti
 
 #### Examples
 
-* _oanô oiba<b>o</b> ki?i_&nbsp; “He is waiting for his pet now.” 
-
+* _oanõ oiba<b>o</b> kiʔi_&nbsp; “He is waiting for his pet now.” 
 * _dadʒaʔodʒi<b>ɲ</b>_&nbsp; “I am not crying.” 
-
 * _ezozopodʒ<b>iɲ</b>_&nbsp; “They feed me.” 
 
 
@@ -42,17 +40,16 @@ The completive aspect indicates that the action has been completely performed by
 #### Examples
 
 * _oho<b>pa</b>ŋ_&nbsp; “They all left.” 
-
 * _okuwa<b>pa</b> omanõ mãʔẽ_&nbsp; “He knows all the dead.” 
 
-### <a name="Iter">`Iter`</a>: Iter
+### <a name="Iter">`Iterative`</a>: Iter
 
-
+The iterative aspect expresses the repetition of an event observable on one single occasion. In Tekó, iterative aspect is represented by the morpheme _eʔe_ (after a consonant) and _ʔe_ (after a vowel).
 
 #### Examples
 
-
-
+* _oho<b>ʔe</b>_&nbsp; “He goes back.” 
+* _oiɲuŋbanam, opukudʒ opukudʒ<b>eʔe</b>_&nbsp; “When she has finished putting them on, she moved, she moved again.” 
 
 
 ## Diffs
