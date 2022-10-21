@@ -23,7 +23,7 @@ The continuative aspect expresses imperfectivity not occasioned by habit.
 
 The morpheme `-o` appears after a final consonant or vowel, only with a 3rd person subject.
 
-The second morpheme marks the continuative aspect of action or state predicates whose subject is a 1st or 2nd person and is realized as `-ɲ` after a vowel and `-iɲ` after a consonant.
+The morpheme `-ɲ` (after a vowel) or `-iɲ` (after a consonant) marks the continuative aspect of action or state predicates whose subject is a 1st or 2nd person.
 
 #### Examples
 
@@ -34,11 +34,16 @@ The second morpheme marks the continuative aspect of action or state predicates 
 * _ezozopodʒ<b>iɲ</b>&nbsp;_ “They feed me.” 
 
 
-### <a name="Compl">`Compl`</a>: Compl
+### <a name="Compl">`Completive`</a>: Compl
 
+The completive aspect indicates that the action has been completely performed by all referents of the subject of an intransitive verb or on all possible referents of the object of a transitive verb.
 
 
 #### Examples
+
+* _oho<b>pa</b>&nbsp;ŋ_ “They all left.” 
+
+* _okuwa<b>pa</b>&nbsp; omanõ mãʔẽ_ “He knows all the dead.” 
 
 ### <a name="Iter">`Iter`</a>: Iter
 
