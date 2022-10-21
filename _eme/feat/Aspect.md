@@ -27,11 +27,11 @@ The morpheme `-ɲ` (after a vowel) or `-iɲ` (after a consonant) marks the conti
 
 #### Examples
 
-* _oanô oiba<b>o</b>&nbsp; ki?i_ “He/she is waiting for his pet now.” 
+* _oanô oiba<b>o</b>&nbsp; ki?i_  “He/she is waiting for his pet now.” 
 
-* _dadʒaʔodʒi<b>ɲ</b>&nbsp;_ “I am not crying.” 
+* _dadʒaʔodʒi<b>ɲ</b>&nbsp;_  “I am not crying.” 
 
-* _ezozopodʒ<b>iɲ</b>&nbsp;_ “They feed me.” 
+* _ezozopodʒ<b>iɲ</b>&nbsp;_  “They feed me.” 
 
 
 ### <a name="Compl">`Completive`</a>: Compl
@@ -41,9 +41,9 @@ The completive aspect indicates that the action has been completely performed by
 
 #### Examples
 
-* _oho<b>pa</b>&nbsp;ŋ_ “They all left.” 
+* _oho<b>pa</b>&nbsp;ŋ_  “They all left.” 
 
-* _okuwa<b>pa</b>&nbsp; omanõ mãʔẽ_ “He knows all the dead.” 
+* _okuwa<b>pa</b>&nbsp; omanõ mãʔẽ_  “He knows all the dead.” 
 
 ### <a name="Iter">`Iter`</a>: Iter
 
