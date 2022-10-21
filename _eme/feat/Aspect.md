@@ -27,7 +27,7 @@ The morpheme `-ɲ` (after a vowel) or `-iɲ` (after a consonant) marks the conti
 
 #### Examples
 
-* _oanô oiba<b>o</b>&nbsp; ki?i_  “He/she is waiting for his pet now.” 
+* _oanô oiba<b>o</b>&nbsp; ki?i_  “He is waiting for his pet now.” 
 
 * _dadʒaʔodʒi<b>ɲ</b>&nbsp;_  “I am not crying.” 
 
