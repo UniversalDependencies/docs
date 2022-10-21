@@ -19,16 +19,16 @@ udver: '2'
 </tr>
 </table>
 
-`Case`
-
-
-
 ### <a name="Ref">`Ref`</a>: Referential (Argumentative)
 
-is used for the referential marker (also called argumentative, nominal).
-
+The referential case is used for the referential marker (also called argumentative, nominal). It is represented by the suffix _`-a`_/_`-aʔe`_ which appears between two noun elements forming a genitival structure, between a noun phrase and a postposition, between a proposition and a subordinate, and between a constituent and certain clitics.
 
 #### Examples
+
+_apam<b>abaʔekʷərakom</b>&nbsp;_ “hare hare” 
+_<b>bla bla</b>&nbsp;_ “hare hare” 
+_<b>bla bla</b>&nbsp;_ “hare hare” 
+
 
 
 ### <a name="Loc">`Loc`</a>: Locative
