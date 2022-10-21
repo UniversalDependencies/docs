@@ -21,7 +21,7 @@ udver: '2'
 
 Continuative aspect expresses imperfectivity not occasioned by habit.
 
-The morpheme `-o` appears after a final consonant or vowel, only with a 3rd person subject predicate.
+The morpheme `-o` appears after a final consonant or vowel, only with a 3rd person subject.
 
 The second morpheme marks the continuative aspect on action or state predicates whose subject is a 1st or 2nd person and is realized as `-ɲ` after a vowel, and `-iɲ` after a consonant.
 
