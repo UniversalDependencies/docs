@@ -15,14 +15,14 @@ udver: '2'
 </tr>
 </table>
 
-`Also` is 
+`Also` is a clitic which may be literally translated as 'also', 'true'. It is often found in sentences with coorditation.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” - 
+* _zawar-a-<b>we</b>&nbsp o-ekar-uwe.;_ “And the dog also looks.” 
 
 
 
