@@ -19,14 +19,15 @@ udver: '2'
 
 ### <a name="Cont">`Continuative`</a>: Cont
 
-Continuative aspect expresses imperfectivity not occasioned by habit.
+The continuative aspect expresses imperfectivity not occasioned by habit.
 
 The morpheme `-o` appears after a final consonant or vowel, only with a 3rd person subject.
 
-The second morpheme marks the continuative aspect on action or state predicates whose subject is a 1st or 2nd person and is realized as `-ɲ` after a vowel, and `-iɲ` after a consonant.
+The second morpheme marks the continuative aspect of action or state predicates whose subject is a 1st or 2nd person and is realized as `-ɲ` after a vowel and `-iɲ` after a consonant.
 
 #### Examples
 
+* _oanô oiba<b>o</b>&nbsp ki?i;_ “He/she is waiting for his pet now.” 
 
 
 
