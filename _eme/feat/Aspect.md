@@ -27,7 +27,7 @@ The second morpheme marks the continuative aspect of action or state predicates 
 
 #### Examples
 
-* _oanô oiba<b>o</b>&nbsp ki?i;_ “He/she is waiting for his pet now.” 
+* _oanô oiba<b>o</b>&nbsp; ki?i_ “He/she is waiting for his pet now.” 
 
 
 
