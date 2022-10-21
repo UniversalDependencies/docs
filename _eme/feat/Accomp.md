@@ -15,7 +15,7 @@ udver: '2'
 </tr>
 </table>
 
-The feature `Accomp` expresses an anteriority in relation to a temporal marker, which is not necessarily the moment of the utterance. It is marked with a particle _-ra_. Perhaps this particle also marks a perfect aspect.
+The feature `Accomp` expresses an anteriority in relation to a temporal marker, which is not necessarily the moment of the utterance. It is marked with a particle _`-ra`_. Perhaps this particle also marks a perfect aspect.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
