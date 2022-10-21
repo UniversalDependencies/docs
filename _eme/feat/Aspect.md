@@ -44,7 +44,7 @@ The completive aspect indicates that the action has been completely performed by
 
 ### <a name="Iter">`Iterative`</a>: Iter
 
-The iterative aspect expresses the repetition of an event observable on one single occasion. In Tekó, iterative aspect is represented by the morpheme `-eʔe` (after a consonant) and `-ʔe` (after a vowel).
+The iterative aspect expresses the repetition of an event observable on one single occasion. In Tekó, the iterative aspect is represented by the morpheme `-eʔe` (after a consonant) and `-ʔe` (after a vowel).
 
 #### Examples
 
