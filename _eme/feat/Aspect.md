@@ -29,6 +29,9 @@ The second morpheme marks the continuative aspect of action or state predicates 
 
 * _oanô oiba<b>o</b>&nbsp; ki?i_ “He/she is waiting for his pet now.” 
 
+* _ dadʒaʔodʒi<b>ɲ</b>&nbsp; _ “I am not crying.” 
+
+* _ ezozopodʒ<b>iɲ</b>&nbsp; _ “They feed me.” 
 
 
 ### <a name="Compl">`Compl`</a>: Compl
