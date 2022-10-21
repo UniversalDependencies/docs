@@ -15,7 +15,7 @@ udver: '2'
 </tr>
 </table>
 
-`Augm` is represented by a lexicalized suffix `-uhu` with augmentative meaning.
+`Augm` is represented by a lexicalized suffix `_-uhu_` with augmentative meaning.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
