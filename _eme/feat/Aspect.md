@@ -41,7 +41,7 @@ The completive aspect indicates that the action has been completely performed by
 
 #### Examples
 
-* _oho<b>pa</b>&nbsp;ŋ_  “They all left.” 
+* _oho<b>pa</b>&nbsp;ŋ _  “They all left.” 
 
 * _okuwa<b>pa</b>&nbsp; omanõ mãʔẽ_  “He knows all the dead.” 
 
