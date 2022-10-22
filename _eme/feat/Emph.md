@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Emph'
-shortdef: 'Emph'
+shortdef: 'Emphasis'
 udver: '2'
 ---
 
@@ -13,14 +13,15 @@ udver: '2'
 </tr>
 </table>
 
-`Emph`
-
-
 ### <a name="Yes">`Yes`</a>: Yes
 
+`Emph` intensifies the expression by suggesting a contrast or giving weight to a certain word. In Teko, it is marked with suffixes _`-eʔe`_ (after a cosonant)/_`-ʔe`_ (after a vowel), `-õwã`_/_`-ũwã`_ (lit. 'a little'). 
 
 #### Examples
 
+* _aŋ<b>eʔe</b> aŋ pazaru_&nbsp; “And here is some cashiri.”
+* _oɨruanẽ<b>ʔe</b> oiɲuŋoŋ_&nbsp; “They wear clothes.”
+* _sidʒapɨaka<b>õwãʃã</b> ikotɨ_&nbsp; “Let's think of him a little.”
 
 ## Diffs
 
