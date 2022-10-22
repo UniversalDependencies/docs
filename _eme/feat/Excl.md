@@ -8,12 +8,12 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Yes">Ref</a></td>
+  <td><a href="#Yes">Yes</a></td>
   
 </tr>
 </table>
 
-`Excl` is defined in Teko as particle -sipo, which both has interogative and exclamative features.
+`Excl` is defined in Tekó as particle _`-sipo`_, which both has interogative and exclamative features.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
@@ -21,7 +21,7 @@ udver: '2'
 #### Examples
 
 
-* _<b>mana-sipo</b>&nbsp;_ “”
+* _owa, emenate<b>sipo</b>sipo idʒe aʔu&nbsp;_ “Oh, it's my husband who I ate.”
 
 ## Diffs
 
