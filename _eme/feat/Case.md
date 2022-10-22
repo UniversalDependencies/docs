@@ -59,7 +59,7 @@ The dative case indicates the indirect object of a verb. In Tekó, it is express
 
 #### Examples
 
-* _wane pitakoma<b>pe</b>; “It is good for children.” 
+* _wane pitakoma<b>pe</b>_; “It is good for children.” 
 * _opoʔo ɨŋa i<b>dʒupe</b> omeʔeŋ_&nbsp; “He/she picks a sweet pea and gives it to him/her.” 
 
 ### <a name="All">`All`</a>: Allative
@@ -68,7 +68,7 @@ The allative case indicates movement onto, or to the adjacency of something. In 
 
 #### Examples
 
-* _pitaŋ onan oho apɨdʒa<b>kotɨ</b>; “The child runs to his house.” 
+* _pitaŋ onan oho apɨdʒa<b>kotɨ</b>_; “The child runs to his house.” 
 
 ### <a name="Abl">`Abl`</a>: Ablative
 
