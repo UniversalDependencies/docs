@@ -64,7 +64,7 @@ The dative case indicates the indirect object of a verb. In Tekó, it is express
 
 ### <a name="All">`All`</a>: Allative
 
-The allative case indicates movement onto, or to the adjacency of something. In Tekó, it is expressed with the suffix _`-kotɨ`_
+The allative case indicates a movement onto, or to the adjacency of something. In Tekó, it is expressed with the suffix _`-kotɨ`_.
 
 #### Examples
 
@@ -72,7 +72,12 @@ The allative case indicates movement onto, or to the adjacency of something. In 
 
 ### <a name="Abl">`Abl`</a>: Ablative
 
+The ablative case indicates a movement away from something, removal, separation, and the reference point of the comparison. It is marked with a suffix _`wi`_/_`-dʒuwi`_.
+
 #### Examples
+
+* _pitaŋ owir wɨra<b>wi</b> oʔa_&nbsp; “The child falls from the tree.” 
+* _dizeraʔenawe oker i<b>dʒuwi</b>ŋ_&nbsp; “At 10, they went to sleep without her.” 
 
 ### <a name="Dub">`Dub`</a>: Dubitative
 
