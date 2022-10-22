@@ -14,8 +14,8 @@ status of a (subordinate) clause.
 
 We follow [Loos et al. 2003](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsASubordinatingConjunctio.htm) in recognizing these three subclasses as subordinating conjunctions:
 
-* Complementizers, like [en] _that_ or _if_
-* Adverbial clause introducers, like [en] _when_, _since_, or _before_ (when introducing a clause, not a nominal)
+* Complementizers, like [en] _that_ or _whether_
+* Non-[ADV]() markers that introduce an adverbial clause, like [en] _because_, _since_, _before_, or _once_ (when introducing a clause, not a nominal)
 * Non-pronominal relativizers, like [he] _še_. Words in this category simply introduce a relative clause (and normally don't inflect). This excludes words that have a nominal function within the relative clause; relative and resumptive pronouns (e.g., English relative _that_ and _which_) are analyzed as [PRON]().
 
 For _coordinating conjunctions,_ see [CCONJ]().
