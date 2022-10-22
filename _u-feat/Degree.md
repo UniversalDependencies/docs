@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Degree'
-shortdef: 'degree of comparison'
+shortdef: 'degree'
 udver: '2'
 ---
 
@@ -9,7 +9,9 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Abs">Abs</a></td>
+  <td><a href="#Aug">Aug</a></td>
   <td><a href="#Cmp">Cmp</a></td>
+  <td><a href="#Dim">Dim</a></td>
   <td><a href="#Equ">Equ</a></td>
   <td><a href="#Pos">Pos</a></td>
   <td><a href="#Sup">Sup</a></td>
@@ -17,7 +19,9 @@ udver: '2'
 </table>
 
 Degree of comparison is typically an inflectional feature of some
-[adjectives](u-pos/ADJ) and [adverbs](u-pos/ADV).
+[adjectives](u-pos/ADJ) and [adverbs](u-pos/ADV). A different flavor of degree
+is diminutives and augmentatives, which often apply to [nouns](u-pos/NOUN)
+but are not restricted to them.
 
 ### <a name="Pos">`Pos`</a>: positive, first degree
 
@@ -73,4 +77,32 @@ set of objects.
 
 * [es] _guapo_ "handsome"; _<b>guapísimo</b>_ "<b>indescribably
   handsome</b>"
+
+### <a name="Dim">`Dim`</a>: diminutive
+
+Morphologically derived form of a noun that indicates small size, or,
+metaphorically, affection towards the entity described by the noun.
+While nouns are the prototypical category in which diminutives are
+formed, the feature is not restricted to nouns and in some languages
+similar morphology can be observed with other categories (adjectives,
+verbs).
+
+#### Examples
+
+* [cs] _člověk_ "man"; _<b>človíček</b>_ "<b>little man</b>"
+* [nl] _appel_ "apple"; _<b>appeltje</b>_ "<b>little apple</b>"
+
+### <a name="Aug">`Aug`</a>: augmentative
+
+Morphologically derived form of a noun that indicates large size or
+force. While nouns are the prototypical category in which augmentatives
+are formed, the feature is not restricted to nouns and in some languages
+similar morphology can be observed with other categories (adjectives,
+verbs).
+
+#### Examples
+
+* [cs] _chlap_ "guy"; _<b>chlapák</b>_ "<b>big guy, macho</b>"
+* [pt] _apartamento_ "apartment"; _<b>apartamentão</b>_ "<b>big apartment</b>"
+
 <!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->
