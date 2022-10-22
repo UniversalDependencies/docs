@@ -12,9 +12,10 @@ udver: '2'
 </tr>
 </table>
 
+`Dim` indicates the smallness of the object or quality. It is expressed with a suffix _`-ũwĩ`_/_`-wĩ`_.
+
 ### <a name="Yes">`Yes`</a>: Yes
 
-`Dim` indicates the smallness of the object or quality. It is expressed with a suffix _`-ũwĩ`_/_`-wĩ`_.
 
 
 #### Examples
