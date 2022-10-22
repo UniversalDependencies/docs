@@ -13,9 +13,9 @@ udver: '2'
 </tr>
 </table>
 
-### <a name="Yes">`Yes`</a>: Yes
-
 `Emph` intensifies the expression by suggesting a contrast or giving weight to a certain word. In Teko, it is marked with suffixes _`-eʔe`_ (after a cosonant)/_`-ʔe`_ (after a vowel), _`-õwã`_/_`-ũwã`_ (lit. 'a little'). 
+
+### <a name="Yes">`Yes`</a>: Yes
 
 #### Examples
 
