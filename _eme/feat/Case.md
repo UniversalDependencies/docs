@@ -32,10 +32,17 @@ The referential case is used for the referential marker (also called argumentati
 
 ### <a name="Loc">`Loc`</a>: Locative
 
-The locative case indicates the location. In Tekó, it is expressed with morphemes _`-pope`_ (marks the static location or arrival point), _`-kapɨrer`_ (lit. 'behind', used when two objects are in movement), _`-pɨteb`_/_`-bɨteb`_ (lit. 'in the middle of'), _`-pori`_/_`-puri`_ (lit. 'near', 'beside'), _`-ʔar`_ (lit. 'on'), _`-wɨb`_ ('under'), 
+The locative case indicates the location. In Tekó, it is expressed with morphemes _`-pope`_ (marks the static location or arrival point), _`-kapɨrer`_ (lit. 'behind', used when two objects are in movement), _`-pɨteb`_/_`-bɨteb`_ (lit. 'in the middle of'), _`-pori`_/_`-puri`_ (lit. 'near', 'beside'), _`-ʔar`_ (lit. 'on'), _`-wɨb`_/_`-wɨrakotɨ`_/_`-wɨrarupi`_ ('under'), _`-õãtʃã`_ (lit. 'in front of')
 
 #### Examples
 
+* _awakʷər kija<b>pope</b> oʔao_&nbsp; “A man is lying in a hammock.” 
+* _tapug ze<b>kapɨrer</b>nẽ ʔɨb opopor ohoŋ_&nbsp; “Splash, they dive into the water one behind the other.” 
+* _okara<b>bɨteb</b> wãĩwĩ õhem oapĩgo_&nbsp; “Women went out to sit in the middle of the yard.”
+* _epɨbɨrɨ Camopi<b>pori</b> Cayenneawinẽ_&nbsp; “It is more expensive in Camopi than in Cayenne.”
+* _ɨwɨ<b>ʔar</b> owedʒu kiʔɨ_&nbsp; “He then comes down to the ground.”
+* _obowɨg i<b>wɨb</b>_&nbsp; “She makes a fire down there.”
+* _sujeran<b>õãtʃã</b> wãĩwã oapɨg_&nbsp; “The woman sat down in front of the pot.”
 
 
 ### <a name="Tra">`Tra`</a>: Traslative
