@@ -30,10 +30,9 @@ The referential case is used for the referential marker (also called argumentati
 * _pitaŋ oʔar<b>a</b>nawe , eaɲ okakuwa ikiʔɨ_&nbsp; “Once the child is born, he/she grows up quickly then.”
 * _apam<b>a</b>nẽ nõdeapisitanẽ_&nbsp; “The foreigners wanted to kill us.”
 
-
-
 ### <a name="Loc">`Loc`</a>: Locative
 
+The locative case indicates the location. In Tekó, it is expressed with morphemes _`-pope`_ (marks the static location or arrival point), _`-kapɨrer`_ (lit. 'behind', used when two objects are in movement), _`-pɨteb`_/_`-bɨteb`_ (lit. 'in the middle of'), _`-pori`_/_`-puri`_ (lit. 'near', 'beside'), _`-ʔar`_ (lit. 'on'), _`-wɨb`_ ('under'), 
 
 #### Examples
 
