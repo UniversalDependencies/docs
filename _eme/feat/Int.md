@@ -15,7 +15,7 @@ udver: '2'
 </tr>
 </table>
 
-`Int` indicates interrogation and is defined in Tekó as a particle _`-sipo`_, which both has interogative and exclamative features, _`-so`_, and _`-po`_, which is used to express politeness.
+`Int` indicates interrogation and is defined in Tekó as particles _`-sipo`_, which both has interogative and exclamative features, _`-so`_, and _`-po`_, which is used to express politeness.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
