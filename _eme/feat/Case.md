@@ -55,17 +55,20 @@ The traslative case indicates that the object undergoes a transformation or will
 
 ### <a name="Dat">`Dat`</a>: Dative
 
+The dative case indicates the indirect object of a verb. In Tekó, it is expressed with the suffix _`pe`_/_`-upe`_/_`-dʒupe`_. 
+
 #### Examples
+
+* _wane pitakoma<b>pe</b>; “It is good for children.” 
+* _opoʔo ɨŋa i<b>dʒupe</b> omeʔeŋ_&nbsp; “He/she picks a sweet pea and gives it to him/her.” 
 
 ### <a name="All">`All`</a>: Allative
 
-#### Examples
-
-### <a name="Lat">`Lat`</a>: Lative
-
+The allative case indicates movement onto, or to the adjacency of something. In Tekó, it is expressed with the suffix _`-kotɨ`_
 
 #### Examples
 
+* _pitaŋ onan oho apɨdʒa<b>kotɨ</b>; “The child runs to his house.” 
 
 ### <a name="Abl">`Abl`</a>: Ablative
 
