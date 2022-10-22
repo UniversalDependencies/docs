@@ -41,6 +41,15 @@ advmod(go, later)
 ~~~
 
 ~~~ sdparse
+This is where/ADV I lived when/ADV I was born
+nsubj(where, This)
+cop(where, is)
+advcl:relcl(where, lived)
+advcl(lived, born)
+advmod(born, when)
+~~~
+
+~~~ sdparse
 About 200 people came to the party
 advmod(200, About)
 ~~~
