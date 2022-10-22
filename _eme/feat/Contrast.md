@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-`Contrast` indicates contrast when more than one option is available. In Tekó, it is expressed with a suffix _`-enã`_
+`Contrast` indicates contrast when more than one option is available. In Tekó, it is expressed with a suffix _`-enã`_.
 
 
 ### <a name="Yes">`Yes`</a>: Yes
