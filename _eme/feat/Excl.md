@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Excl'
-shortdef: 'Excl'
+shortdef: 'Exclamative'
 udver: '2'
 ---
 
