@@ -17,7 +17,7 @@ udver: '2'
 
 `Aspect` shows the internal temporal structure of a situation.
 
-### <a name="Continuative">`Cont`</a>: Cont
+### <a name="Cont">`Cont`</a>: Continuative
 
 The continuative aspect expresses imperfectivity not occasioned by habit.
 
@@ -32,7 +32,7 @@ The morpheme _`-ɲ`_ (after a vowel) or _`-iɲ`_ (after a consonant) marks the c
 * _ezozopodʒ<b>iɲ</b>_&nbsp; “They feed me.” 
 
 
-### <a name="Completive">`Compl`</a>: Compl
+### <a name="Compl">`Compl`</a>: Completive
 
 The completive aspect indicates that the action has been completely performed by all referents of the subject of an intransitive verb or on all possible referents of the object of a transitive verb.
 
@@ -42,7 +42,7 @@ The completive aspect indicates that the action has been completely performed by
 * _oho<b>pa</b>ŋ_&nbsp; “They all left.” 
 * _okuwa<b>pa</b> omanõ mãʔẽ_&nbsp; “He knows all the dead.” 
 
-### <a name="Iterative">`Iter`</a>: Iter
+### <a name="Iter">`Iter`</a>: Iterative
 
 The iterative aspect expresses the repetition of an event observable on one single occasion. In Tekó, the iterative aspect is represented by the morpheme `-eʔe` (after a consonant) and `-ʔe` (after a vowel).
 
