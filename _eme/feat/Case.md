@@ -44,13 +44,14 @@ The locative case indicates the location. In Tekó, it is expressed with morphem
 * _obowɨg i<b>wɨb</b>_&nbsp; “She makes a fire down there.”
 * _sujeran<b>õãtʃã</b> wãĩwã oapɨg_&nbsp; “The woman sat down in front of the pot.”
 
-
 ### <a name="Tra">`Tra`</a>: Traslative
 
-Traslative
+The traslative case indicates that the object undergoes a transformation or will be realized in the future. It is expressed with the suffix _`-am`_/_`-m`_. 
 
 #### Examples
 
+* _wiroate tapɨdʒ<b>am</b> obaʔeŋ_&nbsp; “They made the house of palm leaves.” 
+* _eredʒuwedʒ kara<b>am</b>_&nbsp; “You want yam.” 
 
 ### <a name="Dat">`Dat`</a>: Dative
 
