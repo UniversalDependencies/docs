@@ -14,7 +14,6 @@ udver: '2'
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#All">All</a></td>
   <td><a href="#Abl">Abl</a></td>
-  <td><a href="#Dub">Dub</a></td>
 </tr>
 </table>
 
@@ -77,11 +76,6 @@ The ablative case indicates a movement away from something, removal, separation,
 
 * _pitaŋ owir wɨra<b>wi</b> oʔa_&nbsp; “The child falls from the tree.” 
 * _dizeraʔenawe oker i<b>dʒuwi</b>ŋ_&nbsp; “At 10, they went to sleep without her.” 
-
-### <a name="Dub">`Dub`</a>: Dubitative
-
-#### Examples
-
 
 
 ## Diffs
