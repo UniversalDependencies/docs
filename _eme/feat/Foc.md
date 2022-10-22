@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Foc'
-shortdef: 'Foc'
+shortdef: 'Focus'
 udver: '2'
 ---
 
