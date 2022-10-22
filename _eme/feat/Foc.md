@@ -14,20 +14,13 @@ udver: '2'
 </tr>
 </table>
 
-`Foc` is a 
+In Tekó, the particle _`-te`_ is used to indicate focus.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
-
-The particle _te_ is used to indicate focus.
-
 #### Examples
 
-* _<b> </b>&nbsp;_ “”
-
- 
-
-
+* _zotunaʔɨɲa<b>te</b> wane poroiruwo_&nbsp; “It is the heart that gives life.”
 
 ## Diffs
 
