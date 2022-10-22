@@ -21,7 +21,7 @@ udver: '2'
 #### Examples
 
 
-* _owa, emenate<b>sipo</b>sipo idʒe aʔu&nbsp;_ “Oh, it's my husband who I ate.”
+* _owa, emenate<b>sipo</b> idʒe aʔu&nbsp;_ “Oh, it's my husband who I ate.”
 
 ## Diffs
 
