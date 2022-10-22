@@ -13,7 +13,6 @@ udver: '2'
   <td><a href="#Tra">Tra</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#All">All</a></td>
-  <td><a href="#Lat">Lat</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Dub">Dub</a></td>
 </tr>
@@ -55,21 +54,29 @@ The traslative case indicates that the object undergoes a transformation or will
 
 ### <a name="Dat">`Dat`</a>: Dative
 
+The dative case indicates the indirect object of a verb. In Tekó, it is expressed with the suffix _`pe`_/_`-upe`_/_`-dʒupe`_. 
+
 #### Examples
+
+* _wane pitakoma<b>pe</b>_&nbsp; “It is good for children.” 
+* _opoʔo ɨŋa i<b>dʒupe</b> omeʔeŋ_&nbsp; “He/she picks a sweet pea and gives it to him/her.” 
 
 ### <a name="All">`All`</a>: Allative
 
-#### Examples
-
-### <a name="Lat">`Lat`</a>: Lative
-
+The allative case indicates a movement onto, or to the adjacency of something. In Tekó, it is expressed with the suffix _`-kotɨ`_.
 
 #### Examples
 
+* _pitaŋ onan oho apɨdʒa<b>kotɨ</b>_&nbsp; “The child runs to his house.” 
 
 ### <a name="Abl">`Abl`</a>: Ablative
 
+The ablative case indicates a movement away from something, removal, separation, and the reference point of the comparison. It is marked with a suffix _`wi`_/_`-dʒuwi`_.
+
 #### Examples
+
+* _pitaŋ owir wɨra<b>wi</b> oʔa_&nbsp; “The child falls from the tree.” 
+* _dizeraʔenawe oker i<b>dʒuwi</b>ŋ_&nbsp; “At 10, they went to sleep without her.” 
 
 ### <a name="Dub">`Dub`</a>: Dubitative
 
