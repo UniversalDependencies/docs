@@ -9,7 +9,6 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Des">Des</a></td>
-  <td><a href="#Sub">Sub</a></td>
   <td><a href="#Per">Per</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Irr">Irr</a></td>
@@ -21,31 +20,20 @@ udver: '2'
 
 ### <a name="Des">`Des`</a>: Desiderative
 
-Desiderative mood is expressed with a suffix _`-tanẽ`_, which is a grammaticalization of the verb _potar_ 'to want', probably followed by the particle _-nẽ_.
-
-
-#### Examples
-
-* _<b></b>&nbsp;_ “” - 
-
-
-
-### <a name="Sub">`Sub`</a>: Subjunctive
-
-
+The desiderative mood is expressed with a suffix _`-tanẽ`_, which is a grammaticalization of the verb _potar_ 'to want', probably followed by the particle _-nẽ_.
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” - 
-
-
+* _erezaug<b>tanẽ</b>po ?_&nbsp; “Do you want to take a bath?”
 
 ### <a name="Per">`Per`</a>: Permissive
 
+The permissive mood is marked with a prefix _`t-`_/_`ta-`_/_`te-`_. 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” - 
+* _awurtar aho <b>t</b>apoʔo ɨŋam_&nbsp; “I'm going upstairs to pick a sweet pea.”
+* _wane te<b>pe</b>dʒapɨakaõwã wɨrakarakotɨ_&nbsp; “You have to think a little about God.”
 
 ### <a name="Imp">`Imp`</a>: Imperative
 
