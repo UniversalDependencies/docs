@@ -2,6 +2,7 @@
 layout: relation
 title: 'obj:cau'
 shortdef: 'direct object of an intransitive causative verb'
+udver: '2'
 ---
 
 This is a subtype of [obj]().

@@ -1,29 +1,29 @@
 ---
 layout: relation
-title: 'nmod:pass'
+title: 'obl:agent'
 shortdef: 'nominal modifier indicating the actor of a passive predicate'
+udver: '2'
 ---
 
-This subtype of [nmod]() is used for marking the performer of action (the subject in the corresponding active sentence) in a passive predicate.
-
+This subtype of [obl]() is used for marking the performer of action (the subject in the corresponding active sentence) in a passive predicate.
 
 ~~~ sdparse
 Kitap öğrenciler tarafından okundu . \n The book was read by the students
-nmod:pass(okundu, öğrenciler)
+obl:agent(okundu, öğrenciler)
 case(öğrenciler, tarafından)
-nsubjpass(okundu, Kitap)
+nsubj:pass(okundu, Kitap)
 ~~~
 
 ~~~ sdparse
 Kitap öğrenciler –ce okundu . \n The book was read by the students
-nmod:pass(okundu, öğrenciler)
+obl:agent(okundu, öğrenciler)
 case(öğrenciler, –ce)
-nsubjpass(okundu, Kitap)
+nsubj:pass(okundu, Kitap)
 ~~~
 
 ~~~ sdparse
 Araba aşırı sıcaktan bozulmuş . \n The car was broken by extreme heat
-nmod:pass(bozulmuş, sıcaktan)
+obl:agent(bozulmuş, sıcaktan)
 ~~~
 
 <!-- Interlanguage links updated So kvě 14 19:03:49 CEST 2022 -->
