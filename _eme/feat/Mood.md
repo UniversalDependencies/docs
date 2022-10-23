@@ -48,21 +48,18 @@ The permissive mood is marked with a prefix _`t-`_/_`ta-`_/_`te-`_.
 
 `Irr` is marked with suffixes _`itʃe-`_(_`ite-`_)/_`kuwa-`_. 
 
+#### Examples
+
 * _koba<b>itʃe</b> tarawadʒanam , dapɨhɨgi maire_&nbsp; “And if there was work, I would not take the post of mayor.”
 * _wane<b>kuwa</b> am zatarawadʒ_&nbsp; “It would be nice if we worked here.”
 
-#### Examples
-
-* _<b></b>&nbsp;_ “” - 
-
 ### <a name="Dub">`Dub`</a>: Dubitative
 
+`Dub` indicates if the statement is dubious. It is marked with a particle _`enã-`_. 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” - 
-
-
+* _kʷi<b>enã</b> oronekomuwe perupi orohotaruwe_&nbsp; “One day, perhaps, we will go there.”
 
 ## Diffs
 
