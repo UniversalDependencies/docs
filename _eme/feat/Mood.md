@@ -13,14 +13,15 @@ udver: '2'
   <td><a href="#Per">Per</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Irr">Irr</a></td>
-
-  
+  <td><a href="#Dub">Irr</a></td>
 </tr>
 </table>
 
-`Mood` is 
+`Mood` is used to signal modality.
 
 ### <a name="Des">`Des`</a>: Desiderative
+
+Desiderative mood is expressed with a suffix _`-tanẽ`_, which is a grammaticalization of the verb _potar_ 'to want', probably followed by the particle _-nẽ_.
 
 
 #### Examples
@@ -59,7 +60,16 @@ udver: '2'
 #### Examples
 
 * _<b></b>&nbsp;_ “” - 
-* 
+
+### <a name="Dub">`Dub`</a>: Dubitative
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “” - 
+
+
+
 ## Diffs
 
 ### Prague Dependency Treebank
