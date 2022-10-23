@@ -55,7 +55,7 @@ The permissive mood is marked with a prefix _`t-`_/_`ta-`_/_`te-`_.
 
 ### <a name="Dub">`Dub`</a>: Dubitative
 
-`Dub` indicates if the statement is dubious. It is marked with a particle _`enã-`_. 
+`Dub` indicates if the statement is dubious. It is marked with a particle _`-enã`_. 
 
 #### Examples
 
