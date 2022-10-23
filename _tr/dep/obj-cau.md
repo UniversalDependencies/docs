@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'dobj:cauhttps://github.com/UniversalDependencies/docs/tree/pages-source/_tr'
+title: 'obj:cau'
 shortdef: 'direct object of an intransitive causative verb'
 ---
 
@@ -13,16 +13,17 @@ If the verb is transitive the direct object is the entity that is acted upon as 
 
 ~~~ sdparse
 Annesi bebeği giydirdi . \n His mother dressed (caused to dress) the baby
-dobj:cau(giydirdi, bebeği)
+obj:cau(giydirdi, bebeği)
 ~~~
 
 ~~~ sdparse
 Bebek herkesi sevindirdi . \n The baby causes everyone to be happy
-dobj:cau(sevindirdi, herkesi)
-~~~ 
+obj:cau(sevindirdi, herkesi)
+~~~
 
 ~~~ sdparse
 Öğretmen dersi kolaylaştırdı . \n The teacher made the course easier
-dobj:cau(kolaylaştırdı, dersi)
+obj:cau(kolaylaştırdı, dersi)
 ~~~
+
 <!-- Interlanguage links updated So kvě 14 19:03:33 CEST 2022 -->
