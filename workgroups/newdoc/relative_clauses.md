@@ -353,6 +353,50 @@ _-ŋu_ replacing the tense suffix on the RC verb (Dixon vol. 2, p.&nbsp;323).
 </td></tr></tbody>
 </table>
 
+In Arabic, the relative pronoun may be combined with a _resumptive_ personal pronoun, as in the
+following example.
+<!-- There are interesting examples of relative clauses with what looks like resumptive pronouns
+in Arabic. See e.g. sentences n01029011, n01030006, n01083013, n01120008, n05003019 in the Arabic
+PUD treebank. -->
+
+<!--
+n01029011
+Seagal, whose grandmother was from Vladivostok...
+قام سيغال التي كانت جدته من مدينة فلاديفوستوك...
+qam segal alati kanat jadatuh min madinat fladifustuk...
+-->
+* [ar] سيغال التي كانت جدته من مدينة فلاديفوستوك _(segal alati kanat jadatuh min madinat fladifustuk)_
+  “Seagal, whose grandmother was from Vladivostok”
+
+<table> <!-- سيغال التي كانت جدته من مدينة فلاديفوستوك -->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+# visual-style 4 5 nmod color:orange
+1 سيغال      segal       PROPN _ _ 0 root _ Gloss=Seagal
+2 التي       alati       PRON  _ _ 5 det _ Gloss=who
+3 كانت       kanat       AUX   _ _ 7 cop _ Gloss=was
+4 جدت        jadatu      NOUN  _ _ 7 nsubj _ Gloss=grandmother
+5 ه          -h          PRON  _ _ 4 nmod _ Gloss=his
+6 من         min         ADP   _ _ 7 case _ Gloss=from
+7 مدينة      madinat     NOUN  _ _ 1 acl:relcl _ Gloss=city
+8 فلاديفوستوك fladifustuk PROPN _ _ 7 nmod _ Gloss=Vladivostok
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 4 1 nmod color:blue
+# visual-style 1 5 ref color:blue
+1 سيغال      segal       PROPN _ _ 0 root 4:nmod Gloss=Seagal
+2 التي       alati       PRON  _ _ 5 det _ Gloss=who
+3 كانت       kanat       AUX   _ _ 7 cop _ Gloss=was
+4 جدت        jadatu      NOUN  _ _ 7 nsubj _ Gloss=grandmother
+5 ه          -h          PRON  _ _ 1 ref _ Gloss=his
+6 من         min         ADP   _ _ 7 case _ Gloss=from
+7 مدينة      madinat     NOUN  _ _ 1 acl:relcl _ Gloss=city
+8 فلاديفوستوك fladifustuk PROPN _ _ 7 nmod _ Gloss=Vladivostok
+</div>
+</td></tr></tbody>
+</table>
+
 
 
 ## Notable Properties
