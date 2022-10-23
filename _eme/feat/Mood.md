@@ -37,10 +37,12 @@ The permissive mood is marked with a prefix _`t-`_/_`ta-`_/_`te-`_.
 
 ### <a name="Imp">`Imp`</a>: Imperative
 
+`Imp` is a mood expressing an order given to one or more interlocutors. In Teko, it is marked with a prefix _`e-`_ (2nd person singular) and _`pe-`_ (2nd person plural).
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” - 
+* _<b>e</b>kʷa wɨtʃɨ_&nbsp; “I'm going upstairs to pick a sweet pea.”
+* _<b>pe</b>koar tapɨdʒam taike_&nbsp; “You have to think a little about God.”
 
 ### <a name="Irr">`Irr`</a>: Irrealis
 
