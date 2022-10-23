@@ -41,11 +41,15 @@ The permissive mood is marked with a prefix _`t-`_/_`ta-`_/_`te-`_.
 
 #### Examples
 
-* _<b>e</b>kʷa wɨtʃɨ_&nbsp; “I'm going upstairs to pick a sweet pea.”
-* _<b>pe</b>koar tapɨdʒam taike_&nbsp; “You have to think a little about God.”
+* _<b>e</b>kʷa wɨtʃɨ_&nbsp; “Go away.”
+* _<b>pe</b>koar tapɨdʒam taike_&nbsp; “Find me a home for me to come back.”
 
 ### <a name="Irr">`Irr`</a>: Irrealis
 
+`Irr` is marked with suffixes _`itʃe-`_(_`ite-`_)/_`kuwa-`_. 
+
+* _koba<b>itʃe</b> tarawadʒanam , dapɨhɨgi maire_&nbsp; “And if there was work, I would not take the post of mayor.”
+* _wane<b>kuwa</b> am zatarawadʒ_&nbsp; “It would be nice if we worked here.”
 
 #### Examples
 
