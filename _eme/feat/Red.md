@@ -21,7 +21,7 @@ udver: '2'
 #### Examples
 
 * _o<b>pero</b>perog eiba owa_&nbsp; “The dog licks his face.”
-* _sujeran<b>õãtʃã</b> wãĩwã oapɨg_&nbsp; “The woman sat down in front of the pot.”
+* _e<b>zo</b>zopodʒ_&nbsp; “They feed me all the time.”
 
 
 
