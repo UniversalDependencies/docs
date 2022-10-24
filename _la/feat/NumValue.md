@@ -32,7 +32,7 @@ The term for 'one' is ambivalent, as traditionally it is interpreted as either r
 #### Examples
 
 * ***ambo*** 'both'
-    * two elements are involved, but the focus is on considering them together at the same time, as opposed to *uter* 'either one', and not on the exact number as for *duo* 'two', so it receives [PronType=Tot](la-feat/PronType#Tot)
+    * two elements are involved, but the focus is on considering them together at the same time, as opposed to *uter* 'either one', and not on the exact number as for *duo* 'two', so it receives [`PronType=Tot`](la-feat/PronType#Tot)
 
 ### References
 
