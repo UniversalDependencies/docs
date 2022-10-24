@@ -12,11 +12,10 @@ udver: '2'
   <td><a href="#Ag">Ag</a></td>
   <td><a href="#Adv">Adv</a></td>
   <td><a href="#Inst">Inst</a></td>
-
 </tr>
 </table>
 
-
+`Nmzr` is a morpheme that transformes another part of speech to a noun. 
 
 ### <a name="Rel">`Rel`</a>: Relativizer
 
@@ -24,11 +23,20 @@ The nominalizer of circumstance can be roughly translated as 'way / place of x'
 
 #### Examples
 
-* _<b></b>&nbsp;_ “”
+* _kob ibaʔe<b>har</b>&nbsp;_ “There is someone to do it”
+* _omõgʷera<b>har</b>anẽ oʔuo&nbsp;_ “He eats his saviour.”
 
 
+### <a name="Ag">`Ag`</a>: Agentive
 
-### <a name="Ag">`Ag`</a>: Ag
+The agentive nominalizer is expressed in Tekó with the suffix _`-har`_
+
+#### Examples
+
+* _kob ibaʔe<b>har</b>&nbsp;_ “There is someone to do it”
+* _omõgʷera<b>har</b>anẽ oʔuo&nbsp;_ “He eats his saviour.”
+
+### <a name="Adv">`Adv`</a>: Adverbial
 
 The nominalizer of circumstance can be roughly translated as 'way / place of x'
 
@@ -38,17 +46,7 @@ The nominalizer of circumstance can be roughly translated as 'way / place of x'
 
 
 
-### <a name="Adv">`Adv`</a>: Adv
-
-The nominalizer of circumstance can be roughly translated as 'way / place of x'
-
-#### Examples
-
-* _<b></b>&nbsp;_ “”
-
-
-
-### <a name="Inst">`Inst`</a>: Inst
+### <a name="Inst">`Inst`</a>: Instrumental
 
 The nominalizer of circumstance can be roughly translated as 'way / place of x'
 
