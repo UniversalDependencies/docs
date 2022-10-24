@@ -28,7 +28,7 @@ In Tekó, `Cont` is expressed with a morpheme _`re-`_ (used before a word with a
 #### Examples
 
 * _awakʷəraraʔɨr okero oiba<b>r</b>ehe_&nbsp; “The little boy sleeps with his pet.”
-* _sujeran<b>õãtʃã</b> wãĩwã oapɨg_&nbsp; “The woman sat down in front of the pot.”
+* _de<b>re</b>ibawesipo eremenõɲ ?_&nbsp; “Are you really sleeping with your beast?”
 
 ### <a name="NCont">`NCont`</a>: non-contiguous
 
