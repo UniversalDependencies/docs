@@ -23,11 +23,12 @@ e.g., possessor-noun, object-postposition.
 
 ### <a name="Cont">`Cont`</a>: contiguous
 
+In Tekó, `Cont` is expressed with a morpheme _`re-`_ (used before a word with an initial consonant and before a word beginning with the vowel /i/), _`n-`_ (in front of the roots that carry the nasal feature), _`r-`_ (in the rest of the cases).
+
 #### Examples
 
-* _<b>r-ehe</b>&nbsp;_ “”
-* _<b></b>&nbsp;_ “”
-
+* _awakʷəraraʔɨr okero oiba<b>r</b>ehe_&nbsp; “The little boy sleeps with his pet.”
+* _sujeran<b>õãtʃã</b> wãĩwã oapɨg_&nbsp; “The woman sat down in front of the pot.”
 
 ### <a name="NCont">`NCont`</a>: non-contiguous
 
