@@ -19,17 +19,17 @@ udver: '2'
 
 ### <a name="Rel">`Rel`</a>: Relativizer
 
-The nominalizer of circumstance can be roughly translated as 'way / place of x'
+The relativizing morpheme -mãʔẽ can be regarded as a "translative" which allows to convert a predicate into an argument.
 
 #### Examples
 
-* _kob ibaʔe<b>har</b>&nbsp;_ “There is someone to do it”
-* _omõgʷera<b>har</b>anẽ oʔuo&nbsp;_ “He eats his saviour.”
+* _okuwapa omanõ<b>mãʔẽ</b>&nbsp;_ “He knows all the dead.”
+* _owata<b>maʔẽ</b> oket&nbsp;_ “The walker is sleeping.”
 
 
 ### <a name="Ag">`Ag`</a>: Agentive
 
-The agentive nominalizer is expressed in Tekó with the suffix _`-har`_
+The agentive nominalizer is expressed in Tekó with the suffix _`-har`_.
 
 #### Examples
 
@@ -38,23 +38,22 @@ The agentive nominalizer is expressed in Tekó with the suffix _`-har`_
 
 ### <a name="Adv">`Adv`</a>: Adverbial
 
-The nominalizer of circumstance can be roughly translated as 'way / place of x'
+The adverbial nominalizer is marked in Tekó with suffixes _`-(e)war`_/_`-wan`_. It is often used to express the origin or place of being of an individual, or the usual location of a thing. It attaches to a demonstrative adverb or a postpositional group.
 
 #### Examples
 
-* _<b></b>&nbsp;_ “”
-
-
+* _am<b>ewar</b>&nbsp;_ “People here”
+* _ipope<b>war</b>&nbsp;_ “sth what is inside (the content)”
+* _tatape<b>wan</b>&nbsp;_ “ember (what is in the fire)”
 
 ### <a name="Inst">`Inst`</a>: Instrumental
 
-The nominalizer of circumstance can be roughly translated as 'way / place of x'
+The instrumental nominalizer with the suffix _`-a`_, which refers to an unanimate object. 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “”
-
-
+* _abaʔe baʔeraʔɨrapɨhɨk<b>a</b>&nbsp;_ “I made a bird trap. (lit. an instrument for catching birds)”
+* _wɨraʔazozog<b>a</b> ate&nbsp;_ “It is the instrument used to pound the comou.”
 
 ## Diffs
 
