@@ -18,7 +18,7 @@ Some adverbs seem to form phrasal verbs (rare phenomenon in Greek),  such as *β
 Adverbs may be assigned the <code>PronType</code> feature:
 - demonstrative adverbs ([PronType=Dem]()): *εδώ* / *edo* ‘here', *εκεί* / *eki* "there", *τώρα* / *tora* ‘now', *τότε* / *tote* "then"
 - indefinite adverbs ([PronType=Ind]()): *κάπου* / *kapou* "somewhere", *κάποτε* / *kapote* "sometime"', *οπουδήποτε* / *opoudipote* "anywhere", *οποτεδήποτε* / *opotedipote* "anytime"
-- interrogative adverbs ([PronType=Int]()): *πού* / *pou* "where", *πότε* / *pote* "when"', *πώς* / *pos* "howv, *γιατί* / *giati* "why"
+- interrogative adverbs ([PronType=Int]()): *πού* / *pou* "where", *πότε* / *pote* "when"', *πώς* / *pos* "how", *γιατί* / *giati* "why", *τι* / *ti* "what"
 - negative adverbs ([PronType=Neg]()): *πουθενά* / *pouthena* ‘nowhere", *ποτέ* / *pote* "never"
 - relative adverbs: *όπως* / *opos* `in the way that, as"
 - totality adverbs ([PronType=Tot]()): *παντού* / *pantou* "everywhere", *πάντα/πάντοτε* / *panta/pantote* "always"
