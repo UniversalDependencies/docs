@@ -67,19 +67,19 @@ Some more or less clearly assessable examples of passivisation of ditransitive c
 
 ~~~ sdparse
 huc venient qui te pervisere gliscent Parrhasii iuvenesque senes et carmina leti qui nova mirari cupiantque antiqua doceri \n hither they-will-come that you to-contemplate they-will-swell Parrhasians youngsters-and elders and songs merry those new to-behold that-they-long-and ancient to-be-taught
-acl:relcl(qui-13, cupiantque)
+conj(iuvenesque,cupiantque)
+nsubj(cupiantque,qui-13)
 obj(doceri, antiqua)
 xcomp(cupiantque,mirari)
 conj(mirari,doceri)
-nsubj(venient,qui-13)
 e:xcomp(cupiantque,doceri)
 e:nsubj(cupiantque,qui-13)
 e:nsubj(doceri,qui-13)
-acl:relcl(those, that-they-long-and)
+conj(youngsters-and,that-they-long-and)
+nsubj(that-they-long-and,those)
 obj(to-be-taught, ancient)
 xcomp(that-they-long-and,to-behold)
 conj(to-behold,to-be-taught)
-nsubj(they-will-come,those)
 e:xcomp(that-they-long-and,to-be-taught)
 e:nsubj(that-they-long-and,those)
 e:nsubj(to-be-taught,those)
@@ -90,7 +90,7 @@ it. 'qua verranno desiderosi di conoscerti giovani e vecchi parrasii, e quelli c
 eng. 'hither young and old Arcadians, desiring to know you, will come, and also those who will gladly long for beholding the new songs and studying the ancient ones.' (`UDante Egl-66`, *Eclogues* III 69, Dante Alighieri)
 
 * Relation labels with `e:` make explicit the enhanced dependencies discussed below.
-* Complex sentence where the second *qui* 'those, that, who' acts as a double pronoun in the nominative case, and is thus 1) the explicit subject of the root *venient* 'they will come' in the main clause 2) the implicit subject of *cupiant* 'they long' in the relative clause. The verb *cupio* takes infinitive clauses as clausal complements with the same subject, so again *qui*; both *mirari* 'to behold' and *doceri* 'to be taught' are morphologically passive, but while the former is [deponent](https://github.com/UniversalDependencies/docs/issues/713), the second is not (the active form of the infinitve is *docere*), but still has an accusative argument which can only be an object. In the end, we can extrapolate the "transclause" *qui antiqua doceantur* 'who be taught ancient [songs]',  where the recipient is passivised and the theme is still expressed as an object. Poetic register might be a factor for the unusual construction at hand.
+* Complex sentence where the second *qui* 'those, that, who' acts as a [double pronoun](la-dep/csubj-relcl) inside the free relative headed by *cupiant* 'they long', of which 1) it is subject and the internal head which 2) also acts as subject of the root *venient*. The verb *cupio* takes infinitive clauses as clausal complements with the same subject, so again *qui*; both *mirari* 'to behold' and *doceri* 'to be taught' are morphologically passive, but while the former is [deponent](https://github.com/UniversalDependencies/docs/issues/713), the second is not (the active form of the infinitve is *docere*), but still has an accusative argument which can only be an object. In the end, we can extrapolate the "transclause" *qui antiqua doceantur* 'who be taught ancient [songs]',  where the recipient is passivised and the theme is still expressed as an object. Poetic register might be a factor for the unusual construction at hand.
 
 ~~~ sdparse
 Itaque cum in dogmatibus moralis negotii amicitiam adequari et salvari analogo doceatur ad retribuendum pro collatis beneficiis plus quam semel analogiam sequi mihi votivum est \n Therefore as in doctrines moral of-business friendship to-be-equalized and to-be-saved it-be-taught to being-retributed for-the-sake-of collected off-favours more than once analogy to-follow to-me vowed is

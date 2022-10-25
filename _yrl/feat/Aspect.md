@@ -147,7 +147,7 @@ Salanova, Andrés Pablo. *A semantics for frustratives.* [https://www.mcgill.ca/
 
 #### Examples
 
-Examples cited by Avila (2021) (our English translation):
+Examples cited by Avila (2021) (our English translations):
 
 * [yrl] _Indé rewewé <b>yepé</b> kutara [...]&nbsp;_  “You were flying fast in vain [...]” (Casasnovas, 93)
 * [yrl] _Apurakí-putari <b>yepé</b>, ixé se maraari. &nbsp;_  “I wanted to work, but I'm tired.” (Magalhães, 96, adap.)

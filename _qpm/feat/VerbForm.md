@@ -19,7 +19,6 @@ Pomak has both finite verb forms  and non-finite ones. Non-finite verb forms inc
 
 Rule of thumb: if it has non-empty [Mood](Mood.html), it is finite.
 
-#### Examples
 
 #### Examples
 
@@ -92,7 +91,7 @@ It appears e.g. in Slavic and Indo-Aryan languages.
 
 In Pomak it is related only to imperfective verb forms.
 
-### Examples
+#### Examples
 
 - *patrǿsna mí só <b>sedǿva</b> (sédom)* "I am bored of sitting around" 
 - *zabalǽho nu nagýse <b>varvǿva</b> (vórvem)* "our feet are sore from walking" 

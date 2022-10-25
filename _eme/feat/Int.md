@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Int'
-shortdef: 'int'
+shortdef: 'interrogative'
 udver: '2'
 ---
 
@@ -15,14 +15,16 @@ udver: '2'
 </tr>
 </table>
 
-`Int` is 
+`Int` indicates interrogation and is defined in Tekó as particles _`-sipo`_, which both has interogative and exclamative features, _`-so`_, and _`-po`_, which is used to express politeness.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” - 
+* _tãõwã<b>po</b> pedʒuɲ ?_&nbsp; “How are you doing?.”
+* _dereibawe<b>sipo</b> eremenõɲ ?_&nbsp; “Are you really sleeping with your beast?”
+* _noidudʒi<b>so</b> ?_&nbsp; “Doesn't he hear?”
 
 
 

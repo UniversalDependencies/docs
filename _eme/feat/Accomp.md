@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Accomp'
-shortdef: 'accomp'
+shortdef: 'accomplished action'
 udver: '2'
 ---
 
@@ -15,14 +15,14 @@ udver: '2'
 </tr>
 </table>
 
-`Accomp` is 
+The feature `Accomp` expresses an anteriority in relation to a temporal marker, which is not necessarily the moment of the utterance. It is marked with a particle _`-ra`_. Perhaps this particle also marks a perfect aspect.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” - 
+* _aipote , idʒe<b>ra</b>&nbsp;we am tam aiɲuŋeʔe_ “And now, I have resettled a dwelling here too.” 
 
 
 

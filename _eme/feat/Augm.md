@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Augm'
-shortdef: 'augm'
+shortdef: 'augmentative'
 udver: '2'
 ---
 
@@ -15,14 +15,14 @@ udver: '2'
 </tr>
 </table>
 
-`Augm` is 
+`Augm` is represented by a lexicalized suffix _`-uhu`_ with augmentative meaning.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” - 
+* _wɨraʔa<b>uhu</b>&nbsp;_ “A giant comou”
 
 
 

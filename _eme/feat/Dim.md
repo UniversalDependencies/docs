@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Dim'
-shortdef: 'dim'
+shortdef: 'diminutive'
 udver: '2'
 ---
 
@@ -9,22 +9,19 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Yes</a></td>
-  
-
-  
 </tr>
 </table>
 
-`Dim` is 
+`Dim` indicates the smallness of the object or quality. It is expressed with a suffix _`-ũwĩ`_/_`-wĩ`_.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
 
+
 #### Examples
 
-* _<b></b>&nbsp;_ “” - 
-
-
+* _emõdura<b>wĩ</b> duriam epe_&nbsp; “Give me a bit of rice.”
+* _takuru<b>ũwĩ</b> otuiomãʔẽrehe owur_&nbsp; “He climbs on a small rock that is there.”
 
 
 ## Diffs

@@ -2,7 +2,7 @@
 # Generates index to Universal Features from possibly all alternative names of features and their
 # values (listed directly in the source code below). The output must be manually pasted to the
 # appropriate place in the file ../_includes/u-feat-table.html.
-# Copyright © 2016 Dan Zeman <zeman@ufal.mff.cuni.cz>
+# Copyright © 2016-2022 Dan Zeman <zeman@ufal.mff.cuni.cz>
 # License: GNU GPL
 
 use utf8;
@@ -11,6 +11,13 @@ binmode(STDIN, ':utf8');
 binmode(STDOUT, ':utf8');
 binmode(STDERR, ':utf8');
 
+sub usage
+{
+    print STDERR ("cd docs/gen_index\n");
+    print STDERR ("perl ./generate_feature_index.pl > feature_index.html\n");
+    print STDERR ("\# Launch an editor, open ../_includes/u-feat-table.html, locate the line saying <!-- The index was generated... -->, replace the text from that line to the line before the next </td> with the contents of feature_index.html.\n");
+}
+
 my $source = <<EOF
 Abbr: abbreviation
 Animacy: animate, inanimate, human, non-human
@@ -18,7 +25,7 @@ Aspect: aspect, imperfective aspect, perfective aspect, prospective, progressive
 Case: case, nominative, direct case, accusative, oblique case, absolutive, ergative, dative, genitive, vocative, locative, instrumental, instructive, partitive, distributive case, essive, prolative, translative, factive, comitative, associative, abessive, caritive, privative, inessive, illative, inlative, elative, inelative, additive, adessive, allative, adlative, ablative, adelative, superessive, superlative case, delative, superelative, subessive, sublative, subelative, lative, directional allative, perlative, temporal, terminative, terminal allative, causative case, motivative, purposive case, benefactive, destinative, considerative, comparative case, equative case
 Clusivity: clusivity, inclusive, exclusive
 Definite: definiteness, indefinite, non-specific indefinite, specific indefinite, definite, construct state, reduced definiteness, complex definiteness
-Degree: degree of comparison, positive degree, equative degree, comparative degree, superlative degree, absolute superlative
+Degree: degree of comparison, positive degree, equative degree, comparative degree, superlative degree, absolute superlative, diminutive, augmentative
 Evident: evidentiality, firsthand, non-firsthand, narrative
 Foreign: foreign word
 Gender: gender, masculine, feminine, neuter, uter, common gender

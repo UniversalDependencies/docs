@@ -87,8 +87,9 @@ The composite determiners and adverbs  formed by the particle `sǽ` and an inter
 
 ### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
 
-<!--Ritvan are these pronouns or determiners?-->
-
+#### Examples: 
+*_ní kutrí_ 
+*_ní kadé_
 
 The composite determiners and adverbs formed by the particle `ní` and an interrogative pronoun or adverb, e.g., ní kutrí_ , _ní kadé_ , are tagged as follows:
 -the particle is assigned the feature `PartType=Neg`
