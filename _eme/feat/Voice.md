@@ -16,11 +16,11 @@ udver: '2'
 </tr>
 </table>
 
-`Voice` is a 
-
+`Voice` indicates the relationship between the action and its participants
 
 ### <a name="Cau">`Cau`</a>: Causative
 
+In Tekó, the causative voice is marked with morphemes _`-bo`_/_`-okar`_/_`-ero`_. 
 
 #### Examples
 
@@ -29,8 +29,9 @@ udver: '2'
 
 
 
-### <a name="SCau">`SCau`</a>: CauFact
+### <a name="SCau">`SCau`</a>: 
 
+In Tekó, the sociative causative voice is marked with morphemes _`-bo`_/_`-okar`_/_`-ero`_. 
 
 #### Examples
 
