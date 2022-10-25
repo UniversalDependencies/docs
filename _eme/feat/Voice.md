@@ -26,7 +26,7 @@ The direct causation morpheme _`-bo`_ (_`-mo`_, _`-mõ`_) is located  between th
 
 #### Examples
 
-* _wane idʒe a<mo</b>zaug&nbsp;_ “I wash it well.”
+* _wane idʒe a<b>mo</b>zaug&nbsp;_ “I wash it well.”
 
 ### <a name="SCau">`SCau`</a>: 
 
