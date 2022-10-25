@@ -164,15 +164,3 @@ Names of other entities not covered by the existing features, such as buildings,
 
 * ***Colosseum***, originally named *Amphitheatrum Flavium*
 
-
-
-
-%Aggiungere: piante, animali, pietre varie
-
-
-
-
-
-
-
-<!-- Interlanguage links updated So kvě 14 19:02:22 CEST 2022 -->

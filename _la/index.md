@@ -109,7 +109,7 @@ TODO
 * There are five values of [`Tense`](la-feat/Tense): past `Past`, present `Pres`, pluperfect `Pqp` or future `Fut`.
 * There are two values of the [`Voice`](la-feat/Voice) feature: active `Act` and passive `Pass`. Diathesis (voice) is tied to morphology, not syntax: this means that deponent verbs are always tagged for a passive voice.
 * Verb forms are annotated by means of [VerbForm](la-feat/VerbForm), which distinguishes the so-called finite form `Fin` from nominal forms, oriented towards the possible other lexical parts of speech: participles `Part` (verbal `ADJ`; including gerundives and also gerunds), verb nouns (verbal `NOUN`; traditionally infinitives `Inf`, and possibly also supines) and converbs (verbal `ADV`; traditionally the active supine `Sup`).
-* Since the annotation of verbal features in the UD formalism deviates in some points from traditional denominations, a `Traditional` feature is implemented in the `MISC` field so as to ease the retrieval of verb forms according to a more classical schema.
+* Since the annotation of verbal features in the UD formalism deviates in some points from traditional denominations, `TraditionalMood` and `TraditionalTense` features are implemented in the `MISC` field so as to ease the retrieval of verb forms according to a more classical schema.
 
 **PROIEL**
 
