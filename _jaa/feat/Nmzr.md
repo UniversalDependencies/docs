@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'NCount'
-shortdef: 'non countable'
+title: 'Nmzr'
+shortdef: 'Nmzr'
 udver: '2'
 ---
 
@@ -9,22 +9,23 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Yes</a></td>
-  <td><a href="#Yes">Yes</a></td>
+ 
+  
   
 </tr>
 </table>
 
-`NCount` is a 
+`Nmzr` is a suffix
 
-### <a name="Yes">`Yes`</a>: Yes
+### <a name="Yes">`Yes`</a>: Ye
 
 
 
 #### Examples
 
-* _<b>nafi</b>&nbsp;_ “”
+* _<b>bla bla</b>&nbsp;_ “hare hare” 
 
- 
+
 
 
 ## Diffs
@@ -33,4 +34,4 @@ udver: '2'
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated So kvě 14 19:02:22 CEST 2022 -->
+<!-- Interlanguage links updated So kvě 14 19:02:03 CEST 2022 -->
