@@ -4,56 +4,58 @@ title:  'Abaza UD'
 udver: '2'
 ---
 
-# UD for Abaza <span class="flagspan"><img class="flag" src="../../flags/svg/RU-ABAZA.svg" /></span>
+# UD for Abaza <!-- <span class="flagspan"><img class="flag" src="../../flags/svg/RU-ABAZA.svg" /></span> -->
+
 
 ## Tokenization and Word Segmentation
 
-*
+* All words are converted to lower case.
+* All punctuation marks are removed from the texts.
+* Words are delimited by whitespace characters.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
 ### Tags
 
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+Abaza uses all universal POS tags except PUNCT and SYM.
 
 ### Features
 
-*
+Morphological features are added automatically based on glosses and then manually checked. Not all glosses are converted to morphological features. The selected morphological features available for most nouns and verbs are presented below.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
+#### Nominal features
 
----
+* Definite: `Def`, `Ind`.
+* Number: `Sing`, `Plur`.
+* Gender[psor]: `Fem`, `Masc`, `Neut`.
+* Number[psor]: `Sing`, `Plur`.
+* Person[psor]: `1`, `2`, `3`.
+
+#### Verbal features
+
+* Gender[abs], Gender[erg], Gender[io]: `Com`, `Fem`, `Masc`, `Neut`.
+* Number[abs], Number[erg], Number[io]: `Sing`, `Plur`.
+* Person[abs], Person[erg], Person[io]: `1`, `2`, `3`.
+* VermForm: `Fin`, `NonFin`, `Conv`.
+* Tense: `Pres`, `Aor`, `Imp`, `Past`, `Fut`, `Fut2`, `Subj`, `Subj2`.
+
 
 ## Syntax
 
-*
+#### Arguments
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+Abaza is a morphologically ergative but syntactically nominative-accusative language. Subjects are usually cross-referenced on the verb as absolutive (in intransitive clauses) or ergative (in transitive clauses) arguments, direct objects are usually cross-referenced on the verb as absolutive arguments (in transitive clauses), indirect objects are cross-referenced on the verb as indirect objects, oblique arguments are not marked on the verb.
 
----
+#### Relations Overview
+
+Abaza uses all universal UD relations except `appos`, `clf`, `compound`, `dep`, `expl`, `goeswith`, `list`, `orphan` and `punct`.
+
+One language-specific relation is introduced for the Abaza treebank: `dep:repeat`.
+
 
 ## Treebanks
 
-There are [N](../treebanks/abq-comparison.html) Abaza UD treebanks:
+There is just one Abaza UD treebank:
 
-  * [Abaza-A](../treebanks/abq_a/index.html)
-  * [Abaza-B](../treebanks/abq_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Abaza-ATB](../treebanks/abq/index.html)
