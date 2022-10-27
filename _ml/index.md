@@ -30,25 +30,25 @@ udver: '2'
             * കഴിയുക / kaḻiyuka “to be able, can”
             * വേണം / veṇaṃ “want”
 * There are five main (de)verbal forms, distinguished by the UPOS tag and the value of the VerbForm feature:
-    *  Infinitive [Inf](), tagged VERB or AUX. 
-    *  Finite verb [Fin](), tagged VERB or AUX. 
-    *  Verbal Noun [Vnoun](), tagged VERB or AUX. 
-    *  Participle [Part](), tagged VERB or AUX. 
-    *  Converb [Conv](), tagged VERB or AUX. 
+    * Infinitive [Inf](), tagged VERB or AUX. 
+    * Finite Verb [Fin](), tagged VERB or AUX.
+    * Verbal Noun [Vnoun](), tagged VERB or AUX.
+    * Participle [Part](), tagged VERB or AUX.
+    * Converb [Conv](), tagged VERB or AUX. 
 
 ### Nominal Features
 
 * Nominal words ([NOUN](),[PROPN]() and [PRON]()) have an inherent Gender feature with one of three values: Masc, Fem or Neut.
 * The two main values of the Number feature are Sing and Plur. The following parts of speech inflect for number: NOUN, PROPN, PRON. 
-* The Animacy features Anim and Inan are used for the Nominal words (NOUN,PROPN and PRON).  
-* Case has 13 possible values: [Nom](), [Acc](), [Ins](), [Dat](),[Abl](),[Loc](),[Voc](),[Gen](),[Cmp](),[Com](),[Ben](),[All](),[Abl](). Malayalam is an agglutinating language and the spatiotemporal and/or case-like morphemes are analyzed as postpositions. The first 9 cases (Nominative to Comparative) are analysed as bound affixes and the rest (Comitative to Ablative) are analysed as postpositions. The Case feature occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [NUM]() also with nominalized verb forms.  
+* The [Animacy]() features [Anim]() and [Inan]() are used for the Nominal words (NOUN,PROPN and PRON). 
+* [Case]() has 13 possible values: [Nom](), [Acc](), [Ins](), [Dat](), [Loc](), [Voc](), [Gen](), [Gen](), [Cmp](), [Com](), [Ben](), [All](), [Abl](). Malayalam is an agglutinating language and the spatiotemporal and/or case-like morphemes are analyzed as postpositions. The first 9 cases (Nominative to Comparative) are analysed as bound affixes and the rest (Comitative to Ablative) are analysed as postpositions. The Case feature occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [NUM]() also with nominalized verb forms.  
 
 ### Verbal Features
 
-* Finite verbs always have one of six values of Mood: [Ind](),[Irr](),[Cnd](),[Des](),[Nec]() or [Opt]().
-    * Verbs in the indicative mood always have one of three values of Tense: [Past](), [Pres]() or [Fut]().
-    * Aspect has five possible values: [Hab](),[Imp](),[Perf](),[Prog](),[Iter](). 
-    * Voice has two possible values: [Pass](),[Cau]().
+* Finite verbs always have one of six values of Mood: [Ind](), [Irr](), [Cnd](), [Des](), [Nec](), [Opt](). 
+    * Verbs in the indicative mood always have one of three values of Tense: [Past](), [Pres](), [Fut]().
+    * Aspect has five possible values: [Hab](), [Imp](), [Perf](), [Prog](), [Iter]().
+    * Voice has two possible values: [Pass](), [Cau]().
     * Polarity has two values: [Pos]() and [Neg](). 
 
 ### Pronouns, Determiners, Quantifiers
