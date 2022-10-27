@@ -15,7 +15,7 @@ udver: '2'
 
 ### Tags
 
-* Malayalam uses all the 17 POS tags, including particles [(PART)](). 
+* Malayalam uses all the 17 POS tags, including particles ([PART]()). 
 * The noun tag [(NOUN)]() is intended for common nouns only. The abstract nouns are also marked NOUN. The proper nouns include the name of a specific individual, place, or object and are tagged PROPN. The nouns in Malayalam are maked for case and number. Nouns marked for gender are not frequent. 
 * The pronouns are tagged [PRON](). The nominal reflexive താൻ / tān is also tagged PRON.  
 * The numerals like ‘one’ which functions as the indefinite artcle is covered by [DET](). For example, ഒരു വീട് / ŏru vīṭ  “a house” . The quantifiers like ഒരുപാട് / ŏrupāṭu “a lot” that act as modifiers are also tagged DET. Numerals that do not act as an attribute and can stand on its own are tagged [NUM](). 
@@ -66,11 +66,11 @@ udver: '2'
 * Malayalam is a verb-final language; both SOV and OSV orders are possible.
 * Core arguments are marked by the morphological cases nominative (subject) and accusative (object). Core arguments are bare noun phrases without postpositions.
 * Subjects have the following characteristics:
-       * Case marking: Subjects occur in nominative case without adpositions.
-       * Passivization: Subjects are suppressed when verbs are passivized.
+      * Case marking: Subjects occur in nominative case without adpositions.
+      * Passivization: Subjects are suppressed when verbs are passivized.
 * Objects have the following characteristics:
-       * Case marking: Objects occur in accusative case without adpositions.
-       * Passivization: Objects become (non-expletive) subjects when verbs are passivized.
+      * Case marking: Objects occur in accusative case without adpositions.
+      * Passivization: Objects become (non-expletive) subjects when verbs are passivized.
 * Bare nominal arguments (i.e., verb-licensed dependents) in the dative case are not considered core arguments. They are attached as [obl:arg]().
 * Prepositional arguments (i.e., verb-licensed dependents) are not considered core arguments. They are attached as [obl:arg]().
 
