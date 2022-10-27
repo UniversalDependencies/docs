@@ -33,6 +33,7 @@ The morpheme _`-okar`_ (_`-kar`_ after /o/ and /u/) is inserted between the pers
 * _okaʔar<b>okar</b>&nbsp;_ “We had it destroyed (the restaurant).”
 * _idʒeate lekol aiɲuŋ<b>okar</b>&nbsp;_ “It was I who made to establish the school.”
 
+
 ### <a name="SCau">`SCau`</a>: Sociative Causative
 
 In Tekó, the sociative causative voice is marked with a morpheme _`-ero`_.It is inserted between the person index and the verb and indicates that someone makes someone else perform the action while performing it himself.
