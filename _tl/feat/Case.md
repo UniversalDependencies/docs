@@ -5,6 +5,16 @@ shortdef: 'case'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Nom">Nom</a></td>
+  <td><a href="#Nom">Gen</a></td>
+  <td><a href="#Nom">Dat</a></td>
+  <td><a href="#Nom">Loc</a></td>
+</tr>
+</table>
+
 In full noun phrases, [Case]() is a lexical feature of the case-marking word or phrase, i.e., [ADP](). For pronouns ([PRON]()), [Case]() is their inflectional feature.
 
 ### <a name="Nom">`Nom`</a>: nominative
