@@ -35,14 +35,22 @@ The morpheme _`-okar`_ (_`-kar`_ after /o/ and /u/) is inserted between the pers
 
 ### <a name="SCau">`SCau`</a>: 
 
-In Tekó, the sociative causative voice is marked with morphemes _`-bo`_/_`-okar`_/_`-ero`_. 
+In Tekó, the sociative causative voice is marked with a morpheme _`-ero`_.It is inserted between the person index and the verb and indicates that someone makes someone else perform the action while performing it himself.
+
+This prefix has several variations:
+- the stem tends to lose the initial vowel /e/ in the 1st SG, 1st INCL, 2nd SG and 2nd PL
+- /w/ is often added between indices ending in /o/ and the stem
+- a tendency to nasalization before a morpheme with a nasal feature
+- the reduction to ir-, er- or r- in certain cases of lexicalization
+
+The morpheme_`-ero`_ combines only with intransitive verbs
 
 #### Examples
 
-* _<b>o-bo-tukuk-okat</b>&nbsp;_ “”
-
-
-
+* _zawarenam ka o<b>wero</b>nan&nbsp;_ “The dog runs with/makes the wasps run.”
+* _ko zawar o<b>ero</b>ʔar tupawər&nbsp;_ “And then the dog drops the box with a toad.”
+* _o<b>ero</b>kʷa baʔezaʔu&nbsp;_ “She passes with the food.”
+* _a<b>ro</b>ʔa&nbsp;_ “I sleep with someone.”
 
 ## Diffs
 
