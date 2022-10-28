@@ -19,7 +19,7 @@ udver: '2'
 
 ### <a name="Rel">`Rel`</a>: Relativizer
 
-The relativizing morpheme -mãʔẽ can be regarded as a "translative" which allows to convert a predicate into an argument.
+The relativizing morpheme _-mãʔẽ_ can be regarded as a "translative" which allows to convert a predicate into an argument.
 
 #### Examples
 
