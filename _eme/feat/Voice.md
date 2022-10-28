@@ -42,9 +42,9 @@ This prefix has several variations:
 - the stem tends to lose the initial vowel /e/ in the 1st SG, 1st INCL, 2nd SG and 2nd PL
 - /w/ is often added between indices ending in /o/ and the stem
 - a tendency to nasalization before a morpheme with a nasal feature
-- the reduction to ir-, er- or r- in certain cases of lexicalization
+- the reduction to _ir_-, _er_- or _r_- in certain cases of lexicalization
 
-The morpheme_`-ero`_ combines only with intransitive verbs
+The morpheme _`-ero`_ combines only with intransitive verbs
 
 #### Examples
 
