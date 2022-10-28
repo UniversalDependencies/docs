@@ -12,7 +12,7 @@ udver: '2'
   <td><a href="#Per">Per</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Irr">Irr</a></td>
-  <td><a href="#Dub">Irr</a></td>
+  <td><a href="#Dub">Dub</a></td>
 </tr>
 </table>
 
