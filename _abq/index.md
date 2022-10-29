@@ -26,19 +26,19 @@ Morphological features are added automatically based on glosses and then manuall
 
 #### Nominal features
 
-* Definite: `Def`, `Ind`.
-* Number: `Sing`, `Plur`.
-* Gender[psor]: `Fem`, `Masc`, `Neut`.
-* Number[psor]: `Sing`, `Plur`.
-* Person[psor]: `1`, `2`, `3`.
+* [Definite](): `Def`, `Ind`.
+* [Number](): `Sing`, `Plur`.
+* [Gender[psor]](): `Fem`, `Masc`, `Neut`.
+* [Number[psor]](): `Sing`, `Plur`.
+* [Person[psor]](): `1`, `2`, `3`.
 
 #### Verbal features
 
-* Gender[abs], Gender[erg], Gender[io]: `Com`, `Fem`, `Masc`, `Neut`.
-* Number[abs], Number[erg], Number[io]: `Sing`, `Plur`.
-* Person[abs], Person[erg], Person[io]: `1`, `2`, `3`.
-* VermForm: `Fin`, `NonFin`, `Conv`.
-* Tense: `Pres`, `Aor`, `Imp`, `Past`, `Fut`, `Fut2`, `Subj`, `Subj2`.
+* [Gender[abs]](), [Gender[erg]](), [Gender[io]](): `Com`, `Fem`, `Masc`, `Neut`.
+* [Number[abs]](), [Number[erg]](), [Number[io]](): `Sing`, `Plur`.
+* [Person[abs]](), [Person[erg]](), [Person[io]](): `1`, `2`, `3`.
+* [VerbForm](): `Fin`, `NonFin`, `Conv`.
+* [Tense](): `Pres`, `Aor`, `Imp`, `Past`, `Fut`, `Fut2`, `Subj`, `Subj2`.
 
 
 ## Syntax
@@ -51,7 +51,7 @@ Abaza is a morphologically ergative but syntactically nominative-accusative lang
 
 Abaza uses all universal UD relations except `appos`, `clf`, `compound`, `dep`, `expl`, `goeswith`, `list`, `orphan` and `punct`.
 
-One language-specific relation is introduced for the Abaza treebank: `dep:repeat`.
+One language-specific relation is introduced for the Abaza treebank: [dep:repeat]().
 
 
 ## Treebanks
