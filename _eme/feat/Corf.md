@@ -21,7 +21,7 @@ udver: '2'
 
 #### Examples
 
-* _<b>o</b>paʔawo iawu_&nbsp; “<b>He</b> talks like <b>his</b> brother.”
+* _<b>o</b>paʔawo iawu_&nbsp; “<b>He</b> talks like <b>his own</b> brother.”
 * _ka omõwaɲ zawar <b>o</b>ehe_&nbsp; “The dog scatters the wasps on itself.”
 
 ## Diffs

@@ -48,7 +48,7 @@ The iterative aspect expresses the repetition of an event observable on one sing
 
 #### Examples
 
-* _oho<b>ʔe</b>_&nbsp; “He goes back.” 
+* _oho<b>ʔe</b>_&nbsp; “He goes back (He goes and goes again).” 
 * _oiɲuŋbanam, opukudʒ opukudʒ<b>eʔe</b>_&nbsp; “When she has finished putting them on, she moved, she moved again.” 
 
 

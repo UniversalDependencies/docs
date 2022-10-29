@@ -12,7 +12,7 @@ udver: '2'
   <td><a href="#Per">Per</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Irr">Irr</a></td>
-  <td><a href="#Dub">Irr</a></td>
+  <td><a href="#Dub">Dub</a></td>
 </tr>
 </table>
 
@@ -33,7 +33,7 @@ The permissive mood is marked with a prefix _`t-`_/_`ta-`_/_`te-`_.
 #### Examples
 
 * _awurtar aho <b>t</b>apoʔo ɨŋam_&nbsp; “I'm going upstairs to pick a sweet pea.”
-* _wane te<b>pe</b>dʒapɨakaõwã wɨrakarakotɨ_&nbsp; “You have to think a little about God.”
+* _wane <b>te</b>pedʒapɨakaõwã wɨrakarakotɨ_&nbsp; “You have to think a little about God.”
 
 ### <a name="Imp">`Imp`</a>: Imperative
 

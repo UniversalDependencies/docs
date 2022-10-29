@@ -81,9 +81,9 @@ or exceeded; it shouldn't be difficult to reach with a translation of the exampl
 1. `README.md` or `README.txt`
 2. `LICENSE.txt`
 3. `CONTRIBUTING.md`
-4. `xx-ud-test.conllu`
-5. `xx-ud-train.conllu`
-6. `xx-ud-dev.conllu`
+4. `xx_y-ud-test.conllu`
+5. `xx_y-ud-train.conllu`
+6. `xx_y-ud-dev.conllu`
 
 The `README.md` file contains basic documentation of the treebank and machine-readable metadata
 for the UD main page (see below) and the `LICENSE.txt` specifies under what license the treebank

@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-`Excl` is defined in Tekó as particle _`-sipo`_, which both has interogative and exclamative features.
+`Excl` is a contrastive focus marker, marked by _`-sipo`_, also used interogative clauses.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
