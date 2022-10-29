@@ -11,6 +11,7 @@ udver: '2'
    <td><a href="#Abs">Abs</a></td>
   <td><a href="#Cmp">Cmp</a></td>
   <td><a href="#Pos">Pos</a></td>
+  <td><a href="#Sup">Sup</a></td>
   <td><a href="#Dim">Dim</a></td>
   <td><a href="#Aug">Aug</a></td>
 </tr>
