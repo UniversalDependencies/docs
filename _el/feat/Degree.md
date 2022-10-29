@@ -49,6 +49,17 @@ object. The adverbs express a comparison of manners.
 - _εξυπνότερα, καλύτερα_ "more cleverly, better"
 - _πιο_ "more" (the adverb is used to form composite comparative degree of adjectives and adverbs: _ο άντρας είναι πιο νέος από εμένα_ "the man is _younger_ than me"),   _η Μαρία μιλάει πιο δυνατά από τον Γιώργο_ "Maria speaks _more loudly_ than George"
 
+### <a name="Sup">`Sup`</a>: superlative, third degree
+
+The quality of one object is compared to the same quality of all other
+objects within a set.
+
+#### Examples
+
+<b>Adjectives</b>
+- _το ωραιότερο σπίτι του χωριού είναι της Ελένης_ "the most nice house in the village is that of Helen's"
+- _το ψηλότερο βουνότ της Ελλάδας είναι ο Όλυμπος_ "Olympus is the highest mountain of Greece"
+
 ### <a name="Abs">`Abs`</a>: absolute superlative
 
 The adjective expresses morphologically that the studied quality of
@@ -61,32 +72,35 @@ set of objects. The adverbs express the highest degree of a manner.
 <b>Adjectives</b>
 - _Η Μαρία ήταν ωραιότατη._ "Maria was _most beautiful_." 
 
+<b>Adverbs</b>
+- _ωραι-ότατα, κάλλιστα_(irregular) "most nicely, best"
+
 Modern Greek expresses degree modification of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes (and a set of syntactic means);  suffixation may 
  change the gender of the noun, e.g., _χέρι_ "hand" (neutral) vs. _χερούκλα_ "large hand" (feminine), _άντρας_ "man" (masculine) vs. _αντράκι_ "little/insignificant/bully man" (neuter).
 
-All affixation cases are assigned the lemma of the original word and the feature <code>el-DegreeMod</code>  takes one of the two available values. 
+All affixation cases are assigned the lemma of the original word and the feature <code>el-DegreeMod</code>  takes one of the two available values, namely Dim or Aug. 
 
 ### <a name="Dim">`Dim`</a>: diminutive
 
 #### Examples
 
 * <b>Nouns</b> (suffixation)  
-	* _χταποδάκι_ / *chtapodaki* "little octopus"
-	* _πορτούλα_ / *portoula* "little door" 
-	* _φωνίτσα_ / *fonitsa* "little voice"
-	* _εικονίδιο_ / _ikonidio_  "little picture"
+	* _χταποδ-άκι_ / *chtapodaki* "little octopus"
+	* _πορτ-ούλα_ / *portoula* "little door" 
+	* _φων-ίτσα_ / *fonitsa* "little voice"
+	* _εικον-ίδιο_ / _ikonidio_  "little picture"
 	
 * <b>Adjectives</b> (suffixation)
-	 * _μικρούτσικος_ / *mikroutsikos* "smallish" 
-	 * _κιτρινούλης_ / *kitrinoulis* "yellowish" 
-	 * _ασπρουλιάρης_ / _asprouliaris_ "whitish"
+	 * _μικρ-ούτσικος_ / *mikroutsikos* "smallish" 
+	 * _κιτριν-ούλης_ / *kitrinoulis* "yellowish" 
+	 * _ασπρ-ουλιάρης_ / _asprouliaris_ "whitish"
 
 * <b>Passive participles</b> (prefixation)
-	* _μισοδαγκωμένος_ / _misodagkomenos_ "slightly bitten"
-	* _ψιλοθυμωμένος_ / _psilothimomenos_ "slightly angry"
+	* _μισο-δαγκωμένος_ / _misodagkomenos_ "slightly bitten"
+	* _ψιλο-θυμωμένος_ / _psilothimomenos_ "slightly angry"
 	
 * <b>Adverbs</b> (suffixation)
-	* _καλούτσικα_ / _kaloutsika_ "slightly good"
+	* _καλ-ούτσικα_ / _kaloutsika_ "slightly good"
 	
 
 ### <a name="Aug">`Aug`</a>: augmentative
@@ -94,9 +108,9 @@ All affixation cases are assigned the lemma of the original word and the feature
 #### Examples
 
 * <b>Nouns</b> (suffixation)
-	*  *τρυπάρα* / *tripara* "large hole"
-	*   *ψευταράς* / *pseftaras* "great lier"
-	*  _χερούκλα_/ *cheroukla* "large hand"
+	*  *τρυπ-άρα* / *tripara* "large hole"
+	*   *ψευτ-αράς* / *pseftaras* "great lier"
+	*  _χερ-ούκλα_/ *cheroukla* "large hand"
 	  
 * <b>Adjectives</b> (prefixation)
 	 * _κατά-μαυρος_ / *katamavros "stark black"
@@ -106,7 +120,5 @@ All affixation cases are assigned the lemma of the original word and the feature
 	* _κατα-κουρασμένος_ / _katakourasmenos_ "very tired"
 	* _χιλιο-ταλαιπωρημένος_ / _chiliotalaiporimenos_ "exhausted, worn out" 
 	
-* <b>Adverbs</b>
-	* _ωραιότατα, κάλλιστα_ "most nicely, best"
 
 <!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->
