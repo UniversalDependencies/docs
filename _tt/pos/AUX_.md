@@ -9,11 +9,14 @@ redirect_from: "tt/pos/AUX.html"
 
 ### Definition
 
-In Tatar `AUX` is used for the modal auxiliary _иде-_ (when it functions as a past tense copula, it should be marked as `VERB`).
-A number of verbs (_бул-_, _бар-_, _тор-_, _җибәр-_, etc.) can function as an auxiliary verb,
-but they are tagged as `VERB`, and their dependency label indicates their use (auxiliary, copula or content verb).
+In Tatar `AUX` is used for auxiliary verbs _иде-_ (when it functions as a past tense copula, it should be marked as `VERB`)
+and a negation particle for non-verbal predicates _түгел_.
+In addition, a number of verbs (_бул-_, _бар-_, _тор-_, _җибәр-_, etc.) can function as an auxiliary verb
+to mean tense/aspect/modality/evidentiality (TAME) and are tagged as AUX.
 
 ### Examples
 
 * _Укырга теләр идек_ "We would like to study."
+* _Эшләргә бетердем_ "We finished working."
+* _Күрә алам_ "I can see"
 <!-- Interlanguage links updated So kvě 14 19:01:45 CEST 2022 -->
