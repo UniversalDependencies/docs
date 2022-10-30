@@ -12,13 +12,18 @@ udver: '2'
 * All words are converted to lower case.
 * All punctuation marks are removed from the texts.
 * Words are delimited by whitespace characters.
+* Nominal complexes, e.g. *хI-скIолкIа-кI* (three-splinter-UNIT), are treated as single words.
 
 
 ## Morphology
 
 ### Tags
 
-Abaza uses all universal POS tags except PUNCT and SYM.
+Abaza uses all universal POS tags except `PUNCT` and `SYM`.
+
+The POS tag `VERB` is applied to all word-forms which have at least some verbal affixes.
+
+Two predicates in the treebank are marked as auxiliaries: *акIвызлара* 'be' and *чпара* 'do'. The verb *чпара* 'do' is marked as an auxililiary when it is used in constructions with lexical verbs borrowed from Russian, e.g., *вязать й-с-чпа-тI* (knit.INF (Rus) 3PL.ABS-1SG.ERG-do-DCL) 'I knitted them'.
 
 ### Features
 
@@ -26,20 +31,21 @@ Morphological features are added automatically based on glosses and then manuall
 
 #### Nominal features
 
-* [Definite](): `Def`, `Ind`.
-* [Number](): `Sing`, `Plur`.
-* [Gender[psor]](): `Fem`, `Masc`, `Neut`.
-* [Number[psor]](): `Sing`, `Plur`.
-* [Person[psor]](): `1`, `2`, `3`.
+* Definite: `Def`, `Ind`.
+* Number: `Sing`, `Plur`.
+* Gender[psor]: `Fem`, `Masc`, `Neut`.
+* Number[psor]: `Sing`, `Plur`.
+* Person[psor]: `1`, `2`, `3`.
 
 #### Verbal features
 
-* [Gender[abs]](), [Gender[erg]](), [Gender[io]](): `Com`, `Fem`, `Masc`, `Neut`.
-* [Number[abs]](), [Number[erg]](), [Number[io]](): `Sing`, `Plur`.
-* [Person[abs]](), [Person[erg]](), [Person[io]](): `1`, `2`, `3`.
-* [VerbForm](): `Fin`, `NonFin`, `Conv`.
-* [Tense](): `Pres`, `Aor`, `Imp`, `Past`, `Fut`, `Fut2`, `Subj`, `Subj2`.
+* Gender[abs], Gender[erg], Gender[io]: `Com`, `Fem`, `Masc`, `Neut`.
+* Number[abs], Number[erg], Number[io]: `Sing`, `Plur`.
+* Person[abs], Person[erg], Person[io]: `1`, `2`, `3`.
+* VermForm: `Fin`, `NonFin`, `Conv`.
+* Tense: `Pres`, `Aor`, `Imp`, `Past`, `Fut`, `Fut2`, `Subj`, `Subj2`.
 
+Negative verbal forms have the feature `Polarity=Neg`. Verbal forms with the causative prefix have the feature `Caus=Yes`. Interrogative verbal forms have the feature `Int=Yes`. Imperative verbal forms have the feature `Mood=Imp`. For relative verbal forms, the type of the relative clause is specified: `RelType=Abs`, `RelType=Mnr`, `RelType=Tmp`, etc.
 
 ## Syntax
 
@@ -51,11 +57,13 @@ Abaza is a morphologically ergative but syntactically nominative-accusative lang
 
 Abaza uses all universal UD relations except `appos`, `clf`, `compound`, `dep`, `expl`, `goeswith`, `list`, `orphan` and `punct`.
 
-One language-specific relation is introduced for the Abaza treebank: [dep:repeat]().
+One language-specific relation is introduced for the Abaza treebank: `dep:repeat`. It is used when a word is repeated for no particular reason.
 
 
 ## Treebanks
 
 There is just one Abaza UD treebank:
 
-  * [Abaza-ATB](../treebanks/abq/index.html)
+  * [Abaza](../treebanks/abq/index.html)
+
+
