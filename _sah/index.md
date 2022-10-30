@@ -142,7 +142,7 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 
 ### Affirmative
 
-|   | Sg   |   ас    |   | Pl     | сиэ     |
+|   | Sing   |   ас    |   | Plur     | сиэ     |
 |---|--------|--------|---|----------|----------|
 | 1 | -бын | аһабын |   | -быт | сиибит |
 | 2 | -ҕын | аһаҕын |   | -гыт | сиигит |
@@ -151,7 +151,7 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 
 ### Negative
 
-|   | Sg   |    ас  |   | Pl     |   сиэ      |
+|   | Sing   |    ас  |   | Plur     |   сиэ      |
 |---|--------|--------|---|----------|----------|
 | 1 | -па -пын | аспаппын |   | -бэ -пит | сиэбэппит |
 | 2 | -па -кын | аспаккын |   | -бэ -кыт | сиэбэккит |
@@ -163,7 +163,7 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 
 ### Affirmative
 
-|   | Sg   |  бар, ас, кэл      |   | Pl     |     бар, сиэ     |
+|   | Sing   |  бар, ас, кэл      |   | Plur     |     бар, сиэ     |
 |---|--------|--------|---|----------|----------|
 | 1 | -ты -м | бардым, астым, кэл-л-им |   | -ты -быт | бардыбыт, сиэтибит |
 | 2 | -ты -ҥ | бардыҥ, астыҥ, кэл-л-иҥ |   | -ты -гыт | бардыгыт, сиэтигит |
@@ -172,7 +172,7 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 
 ### Negative
 
-|   | Sg   |    ас, кэл    |   | Pl     |   сиэ, кэл       |
+|   | Sing   |    ас, кэл    |   | Plur     |   сиэ, кэл       |
 |---|--------|--------|---|----------|----------|
 | 1 | -па -т -ым | аспатым, кэлбэтим |   | -бэ -т -ыбыт | сиэбэтибит, кэлбэтибит |
 | 2 | -па -т -ыҥ | аспатыҥ, кэлбэтиҥ |   | -бэ -т -ыгыт | сиэбэтигит, кэлбэтигит |
@@ -184,16 +184,16 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 
 ### Affirmative
 
-|   | Sg   |   ас, бар      |   | Pl     |     бар, кэл     |
+|   | Sing   |   ас, бар      |   | Plur     |     бар, кэл     |
 |---|--------|--------|---|----------|----------|
-| 1 | -пыт -ым |  аспытым, бар-быт-ым |   | - бип -пит | бар-бып-пыт,  |
-| 2 | -пыт -ыҥ | аспытыҥ,  бар-быт-ыҥ|   | -бик -кит | бар-бык-кыт,  |
-| 3 | -пыт -а    | аспыта,  бар-быт-а |   | -бит -тара | бар-быт-тара,  |
+| 1 | -пыт -ым |  аспытым, бар-быт-ым |   | - бип -пит | бар-бып-пыт  |
+| 2 | -пыт -ыҥ | аспытыҥ,  бар-быт-ыҥ|   | -бик -кит | бар-бык-кыт  |
+| 3 | -пыт -а    | аспыта,  бар-быт-а |   | -бит -тара | бар-быт-тара  |
 
 
 ### Negative
 
-|   | Sg   |    бар, туп    |   | Pl     |   бар, туп       |
+|   | Sing   |    бар, туп    |   | Plur     |   бар, туп       |
 |---|--------|--------|---|----------|----------|
 | 1 | -батаҕ -ым | бар-батаҕ-ым, туп-патаҕ-ым |   | -батаҕ -пыт | бар-батаҕ-пыт, туп-патах-пыт |
 | 2 | -батаҕ -ыҥ | бар-батаҕ-ыҥ, туп-патаҕ-ыҥ |   | -батаҕ -хыт | бар-батаҕ-хыт, туп-патах-хыт |
@@ -207,7 +207,7 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 
 ### Affirmative
 
-|   | Sg   |   бар      |   | Pl     |     бар     |
+|   | Sing   |   бар      |   | Plur     |     бар     |
 |---|--------|--------|---|----------|----------|
 | 1 | -бып -пын |  бар-бып-пын |   | - бып -пыт | бар-бып-пыт,  |
 | 2 | -бык -кыҥ |  бар-бык-кын |   | -бык -кыт | бар-бык-кыт,  |
@@ -216,7 +216,7 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 
 ### Negative
 
-|   | Sg   |    бар  |   | Pl     |   бар, туп       |
+|   | Sing   |    бар  |   | Plur     |   бар, туп       |
 |---|--------|--------|---|----------|----------|
 | 1 | -батах -пын | бар-батах-пын|   | -батах -пыт | бар-батах-пыт|
 | 2 | -батах -хын | бар-батах-хын |   | -батах -хыт | бар-батах-хыт |
@@ -231,7 +231,7 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 
 ### Affirmative
 
-|   | Sg   |   аһаа      |   | Pl     |     аһаа     |
+|   | Sing   |   аһаа      |   | Plur     |     аһаа     |
 |---|--------|--------|---|----------|----------|
 | 1 | -ыаҕым |  аһыаҕым |   | -ыахпыт | аһыахпыт,  |
 | 2 | -ыаҕыҥ |  аһыаҕыҥ |   | -ыаххыт | аһыаххыт,  |
@@ -240,6 +240,7 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 
 ### Negative
 
+---
 
 * `PronTypes` are [collective](https://universaldependencies.org/u/feat/PronType.html#tot-total-collective-pronoun-determiner-or-adverb), [demonstrative](https://universaldependencies.org/u/feat/PronType.html#dem-demonstrative-pronoun-determiner-numeral-or-adverb), [indefinite](https://universaldependencies.org/u/feat/PronType.html#ind-indefinite-pronoun-determiner-numeral-or-adverb), [interrogative](https://universaldependencies.org/u/feat/PronType.html#int-interrogative-pronoun-determiner-numeral-or-adverb), [personal/possessive](https://universaldependencies.org/u/feat/PronType.html#prs-personal-or-possessive-personal-pronoun-or-determiner).
 * `NumType` distinguish [ordinal](https://universaldependencies.org/u/feat/NumType.html#ord-ordinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word) and [cardinal](https://universaldependencies.org/u/feat/NumType.html#card-cardinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word).
@@ -266,7 +267,7 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 ```
 Уол кинигэни ааҕар.
 Уол кинигэ-ни ааҕ-ар
-boy book-ACC.SG  read-PRES.3.SG
+boy book-ACC.Sing  read-PRES.3.SG
 `A boy reads the book.'
 ```
 
