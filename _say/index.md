@@ -19,7 +19,31 @@ udver: '2'
 
 ### Tags
 
-*
+* The following auxiliaries are recognized in Zaar:
+  * _á_ for aorist (aspect)
+  * _ʧáːnaː_ for concomitant aspect
+  * _átâ_ for remote past tense
+  * _ánáː_ for recent past tense
+  * _áyí_ for immediate past tense
+  * _àːyi_ for perfect iterative aspect
+  * _àːyiká_ for perfect progressive aspect
+  * _ʧáːyi_ for imperfect iterative aspect
+  * _ʧáyiká_ for imperfect progressive aspect
+  * _wòyi_ for future iterative (tense + aspect)
+  * _wòyiká_ for future continuous (tense + aspect)
+  * _àːtá_ for remote past perfect (tense + aspect)
+  * _átâyáː_ for remote past imperfect (tense + aspect)
+  * _átáyi_ for remote past iterative (tense + aspect)
+  * _átáyiká_ for remote past progressive (tense + aspect)
+  * _àːnáː_ for recent past perfect (tense + aspect)
+  * _ánáːyáː_ for recent past imperfect (tense + aspect)
+  * _ánáːyi_ for recent past iterative (tense + aspect)
+  * _ánáːyiká_ for recent past progressive (tense + aspect)
+  * _àːyí_ for immediate past perfect (tense + aspect)
+  * _áyǎː_ for immediate past imperfect (tense + aspect)
+  * _á̙yyiká_ for immediate past progressive (tense + aspect)
+  * _ʧíta_ for remote past irrealis (tense + mood)
+  * _ʧínaː_ for recent past irrealis (tense + mood)
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
