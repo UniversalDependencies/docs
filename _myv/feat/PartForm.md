@@ -42,6 +42,14 @@ a determiner nuance and is the regular form.
 
 * [myv] _<b>лакыця</b> ведь_ "<b>boiling</b> water" (present participle)
 
+### <a name="PrsTra">`PrsTra`</a>: present translative participle
+
+The PrsTra = Yks participle is closely related to the Ycja, Yj, Y and Yshka participles. The participle
+conveys an idea of POTENTIAL, and it is frequently associated with the deontic-telic passive in OvOms.
+
+#### Examples
+
+* [myv] _, теке <b>вечкевикс</b> тейтерень паламо, лембе._ "like the kiss of a girl <b>[one] might fall in love with</b>, warm" (present translative participle)
 
 ### <a name="Telic">`Telic`</a>: the telic
 
