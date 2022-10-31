@@ -29,19 +29,18 @@ udver: '2'
     *  Modal auxiliaries:
             * കഴിയുക / kaḻiyuka “to be able, can”
             * വേണം / veṇaṃ “want”
-* There are five main (de)verbal forms, distinguished by the UPOS tag and the value of the VerbForm feature:
-   * Infinitive [Inf](), tagged VERB or AUX. 
-   * Finite Verb [Fin](), tagged VERB or AUX.
-   * Verbal Noun [Vnoun](), tagged VERB or AUX.
-   * Participle [PART](), tagged VERB or AUX. 
-   * Converb [Conv](), tagged VERB or AUX.
+* There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the VerbForm feature:
+   * Infinitive [Inf](https://universaldependencies.org/u/feat/VerbForm.html#Inf), tagged VERB or AUX. 
+   * Finite Verb [Fin](https://universaldependencies.org/u/feat/VerbForm.html#Fin), tagged VERB or AUX.
+   * Verbal Noun [Vnoun](https://universaldependencies.org/u/feat/VerbForm.html#Vnoun), tagged VERB or AUX.
+   * Participle [PART](https://universaldependencies.org/u/feat/VerbForm.html#Part), tagged VERB or AUX. 
 
 ### Nominal Features
 
-* [Nominal]() words ([NOUN](),[PROPN]() and [PRON]()) have an inherent Gender feature with one of three values: Masc, Fem or Neut.
-* The two main values of the Number feature are Sing and Plur. The following parts of speech inflect for number: NOUN, PROPN, PRON. 
-* The [Animacy]() features [Anim]() and [Inan]() are used for Nominal words (NOUN, PROPN, and PRON).  
-* Case hase 13 possible values: [Nom](), [Acc](), [Ins](), [Dat](), [Abl](), [Loc](), [Voc](), [Gen](), [Cmp](), [Com](), [Ben](), [All](), [Abl](). Malayalam is an agglutinative language and the spatiotemporal and/or case-like morphemes are analyzed as postpositions. The first 9 cases (Nominative to Comparative) are analyzed as bound affixes and the rest (Comitative to Ablative) are analyzed as postpositions. The Case feature occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [NUM]() and also with nominalized verb forms.  
+* Nominal words ([NOUN](),[PROPN]() and [PRON]()) have an inherent Gender feature with one of three values: Masc, Fem or Neut.
+* The two main values of the [Number]() feature are [Sing](https://universaldependencies.org/u/feat/Number.html#Sing) and [Plur](https://universaldependencies.org/u/feat/Number.html#plur-plural-number). The following parts of speech inflect for number: NOUN, PROPN, PRON. 
+* The [Animacy]() features [Anim](https://universaldependencies.org/u/feat/Animacy.html#Anim) and [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan) are used for Nominal words (NOUN, PROPN, and PRON).  
+* [Case]() has 13 possible values: [Nom](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [Acc](https://universaldependencies.org/u/feat/Case.html#Acc), [Ins](https://universaldependencies.org/u/feat/Case.html#Ins), [Dat](https://universaldependencies.org/u/feat/Case.html#Dat), [Abl](https://universaldependencies.org/u/feat/Case.html#Abl), [Loc](https://universaldependencies.org/u/feat/Case.html#Loc), [Voc](https://universaldependencies.org/u/feat/Case.html#Voc), [Gen](https://universaldependencies.org/u/feat/Case.html#Gen), [Cmp](https://universaldependencies.org/u/feat/Case.html#Cmp), [Com](https://universaldependencies.org/u/feat/Case.html#Com), [Ben](https://universaldependencies.org/u/feat/Case.html#Ben), [All](https://universaldependencies.org/u/feat/Case.html#All), [Abl](https://universaldependencies.org/u/feat/Case.html#Abl). Malayalam is an agglutinative language and the spatiotemporal and/or case-like morphemes are analyzed as postpositions. The first 9 cases (Nominative to Comparative) are analyzed as bound affixes and the rest (Comitative to Ablative) are analyzed as postpositions. The Case feature occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [NUM]() and also with nominalized verb forms.  
 
 ### Verbal Features
 * Finite verbs always have one of six values of [Mood](): [Ind](), [Irr](), [Cnd](), [Des](), [Nec]() or [Opt]().
@@ -75,9 +74,9 @@ udver: '2'
 
 ## Relations Overview
 
-* [advmod:emph]() for adverbials emphasizing noun phrases.
 * [nsubj:pass]() for nominal subjects in passive clauses.
 * [obl:arg]() for oblique arguments (to distinguish them from other oblique dependents, i.e., adjuncts).
+* [nmod:poss]() for possessive adjectives. 
 
 ## Treebanks
 
