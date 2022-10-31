@@ -29,7 +29,7 @@ The `:outer` subtype is *not* intended for most clausal subjects of copular clau
 Plain [csubj]() (or another subtype) will be appropriate if the copular clause predicate is a nominal, adjective, etc.:
 
 ~~~ sdparse
-Очень важно, чтобы ваши ученики уважали вас . \n It is very important that your students respect you .
+Очень важно , чтобы ваши ученики уважали вас . \n It is very important that your students respect you .
 csubj(важно, уважали)
 nsubj(уважали, ученики)
 expl(important, It)
