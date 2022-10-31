@@ -17,7 +17,7 @@ udver: '2'
 
 `Nmzr` is a suffix
 
-### <a name="Yes">`Yes`</a>: Ye
+### <a name="Yes">`Yes`</a>: Yes
 
 
 
