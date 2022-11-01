@@ -19,7 +19,7 @@ udver: '2'
 * The noun tag [NOUN]() is intended for common nouns only. The abstract nouns are also marked NOUN. The proper nouns include the name of a specific individual, place, or object and are tagged PROPN. The nouns in Malayalam are maked for case and number. Nouns marked for gender are not frequent. 
 * The pronouns are tagged [PRON](). The nominal reflexive താൻ / tān is also tagged PRON.  
 * The numerals like ‘one’ which functions as the indefinite artcle is covered by [DET](). For example, ഒരു വീട് / ŏru vīṭ  “a house” . The quantifiers like ഒരുപാട് / ŏrupāṭu “a lot” that act as modifiers are also tagged DET. Numerals that do not act as an attribute and can stand on its own are tagged [NUM](). 
-* The emphatic markers -ഏ / -ē and തന്നേ / tannē, the interrogative markers – ഓ / -ō and -ഏ / -ē in yes-no questions, the coordination clitics -ഉം / -um and – ഓ / -ō, and the quotative particle എന്ന് / ĕnn are tagged [PART]().
+* The emphatic markers -ഏ / -ē and തന്നേ / tannē, the coordination clitics -ഉം / -um and – ഓ / -ō, and the quotative particle എന്ന് / ĕnn are tagged [PART]().
 * The free പഴയ / paḻaya “old” and derived adjectives സന്തോഷകരമായ / santoṣakaramāya “pleasant” are covered by the tag [ADJ](). 
 * Adverbs like സങ്കടത്തോടെ / saṅkaṭattoṭĕ “sadly” , തീർച്ചയായും / tīrccayāyuṃ “certainly” are tagged [ADV](). 
 * Finite and nonfinite verb forms are tagged VERB.
