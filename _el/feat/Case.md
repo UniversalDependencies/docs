@@ -8,14 +8,15 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Acc">Acc</a></td>
-  <td><a href="#Gen">Gen</a></td>
-  <td><a href="#Nom">Nom</a></td>
-  <td><a href="#Voc">Voc</a></td>
+   <td><a href="#Nom">Nom</a></td>
+   <td><a href="#Gen">Gen</a></td>
+   <td><a href="#Dat">Dat</a></td>
+   <td><a href="#Acc">Acc</a></td>
+   <td><a href="#Voc">Voc</a></td>
 </tr>
 </table>
 
-Case is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN), [adjectives](el-pos/ADJ), [determiners](el-pos/DET), [pronouns](el-pos/PRON),  [numerals ](el-pos/NUM) and [verbs](el-pos/VERB)(participles).
+Case is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN), [adjectives](el-pos/ADJ), [determiners](el-pos/DET), [pronouns](el-pos/PRON),  [numerals ](el-pos/NUM) and [verbs](el-pos/VERB) (participles).
 
 
 Case helps specify the role of the noun phrase in the sentence.
@@ -55,6 +56,17 @@ Genitives prototypically mark possessors and arguments of deverbal nominals. In 
 * _της έδωσες το δέμα;_  "did you give _her_ the parcel?"
 * _το άρθρο βρίθει λαθών_ "the article is full _of mistakes_"
 * _κατόπιν του  ελέγχου της υποβολή σας_ "after checking your submission"
+
+### <a name="Dat">`Dat`</a>: dative
+
+Modern Greek does not mark the dative case morphologically. Datives occur only in fixed expressions inherited from older versions of the Greek language.
+
+
+#### Examples
+
+* _εν <b>τούτοις</b>_ "however, nevertheless"
+* _γαία <b>πυρί</b> μιχθήτω_  "(let earth mix with fire) After me, the flood."
+* _δόξα <b>τω θεώ</b>_ "(glory to the God) thank God"
 
 
 ### <a name="Acc">`Acc`</a>: accusative
