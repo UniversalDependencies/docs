@@ -57,7 +57,8 @@ Here are the most common families:
 ### Tags
 
 Standard UPOS tags are used throughout. Generally we follow the choices made in the Irish UD treebanks.
-* `AUX` is used for _is_ (the copula) only. _bi_ is tagged as `VERB`.
+* `AUX` is used for _is_ (the copula) and _rach_ (the passive copula).
+_bi_ is tagged as `VERB`.
 * The following words are tagged `PART`: the adverbialiser _gu_ (_gu math_ 'well'), the comparative particle _nas_, the superlative particle _as_, the agreement particle _a_ (_a dol_ 'to go'), the vocative particle _a_ (_a Sheumais_ 'James'), the patronymic particles _Mac_ and _Nic_, the numerical particle _a_ (_a h-aon) 'one'), the past tense marker _do_, the negative particles _cha_ and _nach_, the interrogative particles _a_ and _an_ and the relative particle _a_.
 * Verbal nouns are tagged as `NOUN` with `VerbType=Vnoun`.
 * Deverbal adjectives are tagged as `ADJ`.
@@ -111,6 +112,7 @@ With three exceptions, these follow Irish:
 * `csubj:cop` for copular clausal subjects
 * `mark:prt` for particles not otherwise marked
 * `nmod:poss` for possessive pronouns (but we use `obj` where the use of the possessive pronoun indicates an object)
+* `nsubj:outer` for where there are two subjects for a _rach_-passive.
 * `nsubj:pass` for the subjects of _rach_-passives
 * `obl:smod` (not in Irish) for spatial modifiers
 * `obl:tmod` for temporal modifiers
@@ -120,14 +122,19 @@ With three exceptions, these follow Irish:
 ## Some specific cases
 
 ### The verbal noun
-Annotate as a `NOUN` and an `xcomp:pred` of the `VERB`.
-
-In inversion structures, the object is `obj` of the verbal noun.
+Annotate as a `NOUN`.
 
 #### With aspect markers (continuous tenses and depictives)
+
+Here it has `VerbType=VNoun`.
 _ag_, _air_, _ri_ and so forth preceding it have a `case` relationship as in Irish.
-#### Inversion structures
-The noun preceding it is an `obj` of it.
+Here it is an `xcomp:pred` of the verb _bi_.
+
+#### Inversion structures and _rach_-passives
+
+Here it has `VerbType=Inf`.
+Usually it is preceded by an infinitive particle _a_ but this is elided where it begins with a vowel or _fh_.
+In inversion structures, the object is `obj` of the verbal noun, with the exception of _rach_-passives where it is `nsubj:pass` or exceptionally `nsubj:outer`.
 
 ### _agus_, _is_ and _'s'_
 
