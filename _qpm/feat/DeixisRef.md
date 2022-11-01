@@ -26,7 +26,7 @@ Pomak nouns, adjectives, pronouns and adverbs may be tagged with `DeixisRef` alo
 #### Examples
 
 * _górm<b>ot</b>_ "the tree [there near you or near the listener - medial]" 
-`Deixis=Prox|DeixisRef=2`
+`Deixis=Μed|DeixisRef=2`
 
 ### <a name="3">`3`</a>: deixis that marks the distance from both participants (speaker and listener) - distal
 
