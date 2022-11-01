@@ -86,6 +86,26 @@ udver: '2'
    punct(എഴുതി, .)
    ~~~
    'The girl wrote a letter to her friend'
+* [mark]() for the quotative particle introducing a finite clause subordinate to another clause.
+   ~~~sdparse
+   ആര് ആണ് എഴുതിയത് എന്ന് അവർക്ക് അറിയില്ല .
+   nsubj(എഴുതിയത്, ആര്)
+   aux(എഴുതിയത്, ആണ്)
+   ccomp(അറിയില്ല, എഴുതിയത്)
+   mark(എഴുതിയത്, എന്ന്)
+   obl(അറിയില്ല, അവർക്ക്)
+   punct(അറിയില്ല, .)
+   ~~~
+   'They don't know who wrote it'
+ * [cop]() for the copular or the non-verbal predicates.
+   ~~~sdparse
+   നിങ്ങൾ ഒരു വിദ്യാർത്ഥി ആണോ ?
+   nsubj(വിദ്യാർത്ഥി, നിങ്ങൾ)
+   det(വിദ്യാർത്ഥി, ഒരു)
+   cop(വിദ്യാർത്ഥി, ആണോ)
+   punct(വിദ്യാർത്ഥി, ?)
+   ~~~
+   'Are you a student?'
    
 ## Treebanks
 
