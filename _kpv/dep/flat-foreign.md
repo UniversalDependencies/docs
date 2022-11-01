@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'flat-foreign'
+title: 'flat:foreign'
 shortdef : 'flat phrase without a clear head, subcategory foreign words'
 udver: '2'
 ---

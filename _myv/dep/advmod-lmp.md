@@ -1,12 +1,12 @@
 ---
 layout: relation
-title: 'obl:lmp'
+title: 'advmod:lmp'
 shortdef: 'obl with locative to modality'
 udver: '2'
 ---
 
-The _obl:lmp_ relation is used for oblique spacial modifiers with path or multipoint locative modality,
-see also _advmod:lmp_.
+The _advmod:lmp_ relation is used for oblique spacial modifiers with path or multipoint locative modality,
+see also _obl:lmp_.
 This is distinguished from other locative dependency relations obl:lmod, obl:lfrom and obl:lto,
 and _advmod_ locative dependency relations advmod:lmod, advmod:lfrom and advmod:lto,
 which generally indicate locative, source and goal, respectively.
