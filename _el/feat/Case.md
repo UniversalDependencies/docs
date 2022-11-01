@@ -64,7 +64,7 @@ Modern Greek does not mark the dative case morphologically. Datives occur only i
 
 #### Examples
 
-* _εν τούτοις_ "however, nevertheless"
+* _εν <b>τούτοις</b>_ "however, nevertheless"
 * _γαία <b>πυρί</b> μιχθήτω_  "(let earth mix with fire) After me, the flood."
 * _δόξα <b>τω θεώ</b>_ "(glory to the God) thank God"
 
