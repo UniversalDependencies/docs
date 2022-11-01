@@ -8,11 +8,11 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Acc">Acc</a></td>
-  <td><a href="#Gen">Gen</a></td>
+   <td><a href="#Nom">Nom</a></td>
+   <td><a href="#Gen">Gen</a></td>
    <td><a href="#Dat">Dat</a></td>
-  <td><a href="#Nom">Nom</a></td>
-  <td><a href="#Voc">Voc</a></td>
+   <td><a href="#Acc">Acc</a></td>
+   <td><a href="#Voc">Voc</a></td>
 </tr>
 </table>
 
@@ -64,9 +64,9 @@ Modern Greek does not mark the dative case morphologically. Datives occur only i
 
 #### Examples
 
-* _εν τούτοις_ "despite of"
-* _γαία <b>πυρί</b> μιχθήτω_  "let earth mix with fire (after me the flood)"
-* _δόξα <b>τω θεώ</b>_ "glory to the God (fortunately)"
+* _εν τούτοις_ "however, nevertheless"
+* _γαία <b>πυρί</b> μιχθήτω_  "(let earth mix with fire) After me, the flood."
+* _δόξα <b>τω θεώ</b>_ "(glory to the God) thank God"
 
 
 ### <a name="Acc">`Acc`</a>: accusative
