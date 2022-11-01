@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Acc">Acc</a></td>
   <td><a href="#Gen">Gen</a></td>
+   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Nom">Nom</a></td>
   <td><a href="#Voc">Voc</a></td>
 </tr>
@@ -55,6 +56,17 @@ Genitives prototypically mark possessors and arguments of deverbal nominals. In 
 * _της έδωσες το δέμα;_  "did you give _her_ the parcel?"
 * _το άρθρο βρίθει λαθών_ "the article is full _of mistakes_"
 * _κατόπιν του  ελέγχου της υποβολή σας_ "after checking your submission"
+
+### <a name="Dat">`Dat`</a>: dative
+
+Modern Greek does not mark the dative case morphologically. Datives occur only in fixed expressions inherited from older versions of the Greek language.
+
+
+#### Examples
+
+* _εν τούτοις_ "despite of"
+* _γαία <b>πυρί</b> μιχθήτω_  "let earth mix with fire (after me the flood)"
+* _δόξα <b>τω θεώ</b>_ "glory to the God (fortunately)"
 
 
 ### <a name="Acc">`Acc`</a>: accusative
