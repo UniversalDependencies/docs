@@ -19,7 +19,7 @@ udver: '2'
 * The noun tag [NOUN]() is intended for common nouns only. The abstract nouns are also marked NOUN. The proper nouns include the name of a specific individual, place, or object and are tagged PROPN. The nouns in Malayalam are maked for case and number. Nouns marked for gender are not frequent. 
 * The pronouns are tagged [PRON](). The nominal reflexive താൻ / tān is also tagged PRON.  
 * The numerals like ‘one’ which functions as the indefinite artcle is covered by [DET](). For example, ഒരു വീട് / ŏru vīṭ  “a house” . The quantifiers like ഒരുപാട് / ŏrupāṭu “a lot” that act as modifiers are also tagged DET. Numerals that do not act as an attribute and can stand on its own are tagged [NUM](). 
-* The emphatic markers -ഏ / -ē and തന്നേ / tannē, the interrogative markers – ഓ / -ō and -ഏ / -ē in yes-no questions, the coordination clitics -ഉം / -um and – ഓ / -ō, and the quotative particle എന്ന് / ĕnn are tagged [PART]().
+* The emphatic markers -ഏ / -ē and തന്നേ / tannē, the coordination clitics -ഉം / -um and – ഓ / -ō, and the quotative particle എന്ന് / ĕnn are tagged [PART]().
 * The free പഴയ / paḻaya “old” and derived adjectives സന്തോഷകരമായ / santoṣakaramāya “pleasant” are covered by the tag [ADJ](). 
 * Adverbs like സങ്കടത്തോടെ / saṅkaṭattoṭĕ “sadly” , തീർച്ചയായും / tīrccayāyuṃ “certainly” are tagged [ADV](). 
 * Finite and nonfinite verb forms are tagged VERB.
@@ -37,7 +37,7 @@ udver: '2'
 
 ### Nominal Features
 
-* Nominal words ([NOUN](),[PROPN]() and [PRON]()) have an inherent Gender feature with one of three values: Masc, Fem or Neut.
+* Nominal words ([NOUN](),[PROPN]() and [PRON]()) have an inherent Gender feature with one of three values: [Masc](https://universaldependencies.org/u/feat/Gender.html#masc-masculine-gender), [Fem](https://universaldependencies.org/u/feat/Gender.html#fem-feminine-gender) or [Neut](https://universaldependencies.org/u/feat/Gender.html#neut-neuter-gender).
 * The two main values of the [Number]() feature are [Sing](https://universaldependencies.org/u/feat/Number.html#Sing) and [Plur](https://universaldependencies.org/u/feat/Number.html#plur-plural-number). The following parts of speech inflect for number: NOUN, PROPN, PRON. 
 * The [Animacy]() features [Anim](https://universaldependencies.org/u/feat/Animacy.html#Anim) and [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan) are used for Nominal words (NOUN, PROPN, and PRON).  
 * [Case]() has 13 possible values: [Nom](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [Acc](https://universaldependencies.org/u/feat/Case.html#Acc), [Ins](https://universaldependencies.org/u/feat/Case.html#Ins), [Dat](https://universaldependencies.org/u/feat/Case.html#Dat), [Abl](https://universaldependencies.org/u/feat/Case.html#Abl), [Loc](https://universaldependencies.org/u/feat/Case.html#Loc), [Voc](https://universaldependencies.org/u/feat/Case.html#Voc), [Gen](https://universaldependencies.org/u/feat/Case.html#Gen), [Cmp](https://universaldependencies.org/u/feat/Case.html#Cmp), [Com](https://universaldependencies.org/u/feat/Case.html#Com), [Ben](https://universaldependencies.org/u/feat/Case.html#Ben), [All](https://universaldependencies.org/u/feat/Case.html#All), [Abl](https://universaldependencies.org/u/feat/Case.html#Abl). Malayalam is an agglutinative language and the spatiotemporal and/or case-like morphemes are analyzed as postpositions. The Case feature occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [NUM]() and also with nominalized verb forms.  
@@ -69,13 +69,12 @@ udver: '2'
 * Objects have the following characteristics:
     * Case marking: Objects occur in accusative case without adpositions.
     * Passivization: Objects become (non-expletive) subjects when verbs are passivized.
-* Bare nominal arguments (i.e., verb-licensed dependents) in the dative case are considered as non-nominative subjects. They are attached as [nsubj]().
-* Prepositional arguments (i.e., verb-licensed dependents) are not considered core arguments. They are attached as [obl:arg]().
+* Non-nominative subjects are attached as [nsubj]().
+* Adjuncts and non-core arguments are attached as [obl]().
 
 ## Relations Overview
 
 * [nsubj:pass]() for nominal subjects in passive clauses.
-* [obl:arg]() for oblique arguments (to distinguish them from other oblique dependents, i.e., adjuncts).
 * [nmod:poss]() for possessive adjectives. 
    ~~~sdparse
    പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്ത് എഴുതി .
@@ -90,7 +89,7 @@ udver: '2'
    ~~~sdparse
    ആര് ആണ് എഴുതിയത് എന്ന് അവർക്ക് അറിയില്ല .
    nsubj(എഴുതിയത്, ആര്)
-   aux(എഴുതിയത്, ആണ്)
+   cop(എഴുതിയത്, ആണ്)
    ccomp(അറിയില്ല, എഴുതിയത്)
    mark(എഴുതിയത്, എന്ന്)
    obl(അറിയില്ല, അവർക്ക്)
@@ -106,6 +105,18 @@ udver: '2'
    punct(വിദ്യാർത്ഥി, ?)
    ~~~
    'Are you a student?'
+ * [cc]() for coordinating conjunctions.
+   ~~~sdparse
+   അവൻ പുകവലി ഉം മദ്യപാനം _ഉം നിർത്താൻ ശ്രമിച്ചു .
+   nsubj(ശ്രമിച്ചു, അവൻ)
+   obj(നിർത്താൻ, പുകവലി)
+   cc(പുകവലി, ഉം)
+   conj(പുകവലി, മദ്യപാനം)
+   cc(മദ്യപാനം, _ഉം)
+   xcomp(ശ്രമിച്ചു, നിർത്താൻ)
+   punct(ശ്രമിച്ചു, .) 
+   ~~~
+   'He tried to quit smoking and drinking'
    
 ## Treebanks
 
