@@ -105,6 +105,18 @@ udver: '2'
    punct(വിദ്യാർത്ഥി, ?)
    ~~~
    'Are you a student?'
+ * [cc]() for coordinating conjunctions.
+   ~~~sdparse
+   അവൻ പുകവലി ഉം മദ്യപാനം ഉം നിർത്താൻ ശ്രമിച്ചു .
+   nsubj(ശ്രമിച്ചു, അവൻ)
+   obj(നിർത്താൻ, പുകവലി)
+   cc(പുകവലി, ഉം)
+   conj(പുകവലി, മദ്യപാനം)
+   cc(മദ്യപാനം, ഉം)
+   xcomp(ശ്രമിച്ചു, നിർത്താൻ)
+   punct(ശ്രമിച്ചു, .)
+   ~~~
+   'He tried to quit smoking and drinking'
    
 ## Treebanks
 
