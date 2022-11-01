@@ -7,10 +7,10 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="Perf">Perf</a></td>
-  <td><a href="Imp">Imp</a></td>
-  <td><a href="Prog">Prog</a></td>
-  <td><a href="Iter">Iter</a></td>
+  <td><a href="#Perf">Perf</a></td>
+  <td><a href="#Imp">Imp</a></td>
+  <td><a href="#Prog">Prog</a></td>
+  <td><a href="#Iter">Iter</a></td>
 </tr>
 </table>
 
