@@ -77,19 +77,15 @@ udver: '2'
 * [nsubj:pass]() for nominal subjects in passive clauses.
 * [obl:arg]() for oblique arguments (to distinguish them from other oblique dependents, i.e., adjuncts).
 * [nmod:poss]() for possessive adjectives. 
-   ~~~conllu
-   # text = പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്തെഴുതി.
-# translit = pĕṇkuṭṭi tanṟĕ suhṛttin kattĕḻuti.
-# text_en = The girl wrote a letter to her friend.
-1	പെൺകുട്ടി	പെൺകുട്ടി	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Translit = pĕṇkuṭṭi
-2	തന്റെ	താൻ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	Translit = tanṟĕ
-3	സുഹൃത്തിന്	സുഹൃത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	5	obl	_	Translit = suhṛttin
-4-5	കത്തെഴുതി	_	_	_	_	_	_	_	SpaceAfter=No
-4	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit= katt
-5	എഴുതി	എഴുതുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit = ĕḻuti
-6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	SpaceAfter=No
-~~~
-     
+   ~~~sdparse
+   പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്ത് എഴുതി .
+   nsubj(എഴുതി, പെൺകുട്ടി)
+   nmod:poss(സുഹൃത്തിന്, തന്റെ)
+   obl(എഴുതി, സുഹൃത്തിന്)
+   obj(എഴുതി, കത്ത്)
+   punct(എഴുതി, .)
+   ~~~
+  
 ## Treebanks
 
 There is [1](../treebanks/ml-comparison.html) Malayalam UD treebank:
