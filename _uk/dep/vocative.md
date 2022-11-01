@@ -26,12 +26,12 @@ vocative(you-should-stop-it, President)
 7 . . PUNCT U _ 1 punct _ Id=02ab|LTranslit=.|Translit=.
 
 # visual-style 1 3 vocative color:green
-1 Make-yourself _ _ _ _ 0 root _ _
+1 Make_yourself _ _ _ _ 0 root _ _
 2 , _ _ _ _ 0 root _ _
 3 mate _ _ _ _ 1 vocative _ _
 4 , _ _ _ _ 0 root _ _
 5 like _ _ _ _ 0 root _ _
-6 at-home _ _ _ _ 0 root _ _
+6 at_home _ _ _ _ 0 root _ _
 7 . _ _ _ _ 0 root _ _
 ~~~
 <!-- Interlanguage links updated So kvě 14 19:04:16 CEST 2022 -->

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Ukrainian-IU: Relations: `advcl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `advcl`: <tt><a href="uk_iu-dep-advcl-sp.html">advcl:sp</a></tt>, <tt><a href="uk_iu-dep-advcl-svc.html">advcl:svc</a></tt>.
+There are 2 language-specific subtypes of `advcl`: <tt><a href="uk_iu-dep-advcl-pred.html">advcl:pred</a></tt>, <tt><a href="uk_iu-dep-advcl-svc.html">advcl:svc</a></tt>.
 
 1512 nodes (1%) are attached to their parents as `advcl`.
 

@@ -10,7 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#IPast">IPast</a></td>
   <td><a href="#RPast">RPast</a></td>
-  <td><a href="#Fut">Fut</a></td>
+  <td><a href="#FutF">FutF</a></td>
 </tr>
 </table>
 
@@ -37,13 +37,13 @@ udver: '2'
 * _<b></b>&nbsp;_ “”
 
 
-### <a name="Fut">`Fut`</a>: Future
+### <a name="FutF">`FutF`</a>: Future feminine
 
 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “”
+* _<b>example future feminine</b>&nbsp;_ “future feminine”
 
 ## Diffs
 

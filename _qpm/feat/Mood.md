@@ -17,11 +17,11 @@ has happened or will happen, without adding any attitude of the speaker.
 
 #### Examples
 
-* *Isén <b>rábati</b> faf bángono* "Ο Χουσεΐν <b>δουλεύει</b> στην τράπεζα"
-* *Vremǿso <b>so óblači</b> i móža da <b>zaletí</b>* "Ο καιρός <b>συννεφιάζει</b> και μπορεί να <b>βρέξει</b>"
-* *Rábatasa ní kugá na <b>svóršava</b>* "Η δουλειά ποτέ δεν <b>τελειώνει</b>"
-* *<b>Hódil je</b> mlóziš na Amériko* "<b>Έχει πάει</b> πολλές φορές στην Αμερική"
-* *Mlózi insán <b>vazgeštísaho</b> tütǘnese* "Πολύς κόσμος <b>εγκατέλειψε</b> την καλλιέργεια του καπνού"
+* *Isén <b>rábati</b> faf bángono* "Isen works at the bank" 
+* *Vremǿso <b>so óblači</b> i móža da <b>zaletí</b>* "The weather becomes cloudy and it might rain" 
+* *Rábatasa ní kugá na <b>svóršava</b>* "Work never ends [lit: the work never ends]"
+* *<b>Hódil je</b> mlóziš na Amériko* "He has been many times to America" 
+* *Mlózi insán <b>vazgeštísaho</b> tütǘnese* "Many people have abandoned the tobacco [cultivation]" 
 
 ### <a name="Imp">`Imp`</a>: imperative
 
@@ -36,26 +36,26 @@ particles `na / ne` (negative) and `namój / namójte` (prohibitive). The partic
 
 - Imperative:
 
-    - *<b>Zǿmijte</b> sí sas vámi šimšijó - móža da zaletí* "<b>Πάρτε</b> μαζί σας ομπρέλα - μπορεί να βρέξει"
-    - *<b>Daj</b> mí annók bardáka vódo, akú tí je ne zahmét* "<b>Δώσε</b> μου ένα ποτήρι νερό, αν δεν είναι κόπος"
-    - *<b>Valésavyj</b> kadé hódiš i kaná práviš* "<b>Πρόσεχε</b> πού πηγαίνεις και τί κάνεις"
-    - *<b>Pýtyj</b> mó kanáta íšteš* "Ρώτα με ό,τι θέλεις"
-    - *<b>Glǿdyj</b> kutrí dúmi!* "Κοίτα ποιος μιλάει!"
+    - *<b>Zǿmijte</b> sí sas vámi šimšijó - móža da zaletí* "Take the umbrella with you - it might rain" 
+    - *<b>Daj</b> mí annók bardáka vódo, akú tí je ne zahmét* "Give me a glass of water, if it is not difficult for you" 
+    - *<b>Valésavyj</b> kadé hódiš i kaná práviš* :Be careful where you go and what you do" 
+    - *<b>Pýtyj</b> mó kanáta íšteš* "Ask me whatever you want" 
+    - *<b>Glǿdyj</b> kutrí dúmi!* "Look who is talking" 
 
 - Prohibitive:
 
     - When`na / ne`precedes prohibitive verb forms:
-        - *<b>Na dumíj</b> huzlý, še razbudíš déteso* "<b>Μη μιλάς</b> δυνατά, θα ξυπνήσεις το παιδί"
-        - *<b>Na izlizáj</b> na gulǽma póte samýj* "Μην βγαίνεις σε μεγάλο ταξίδι μόνος σου"
-        - *<b>Na baráj</b> čúzdy rábaty* "<b>Μην πειράζεις / αγγίζεις</b> ξένα πράγματα"
-        - *Zǿmij isazí i <b>na pytáj</b> ní kaná* "Πάρε αυτό και <b>μην ρωτάς</b> τίποτα"
-        - *Akú tí dávot nǽko, <b>na zimáj</b> go* "Αν σου δίνουν κάτι, μην το παίρνεις"
+        - *<b>Na dumíj</b> huzlý, še razbudíš déteso* "Do not speak loud, you will wake up the child" 
+        - *<b>Na izlizáj</b> na gulǽma póte samýj* "Do not go to a long journey alone" 
+        - *<b>Na baráj</b> čúzdy rábaty* "Do not touch other people's things" 
+        - *Zǿmij isazí i <b>na pytáj</b> ní kaná* "Take this and do not ask anything" 
+        - *Akú tí dávot nǽko, <b>na zimáj</b> go* "If they give you something, do not take it" 
 
     - When`namój / namójte` precedes infinitives:
-        - *<b>Namójte kazavá</b> ní kutrómu* "<b>Μην το λέτε</b> σε κανέναν"
-        - *<b>Namój nagadá</b> mlógo játo, da na astáne* "<b>Μην φτιάχνεις</b> πολύ φαγητό, να μην μείνει"
-        - *<b>Namój slušá</b> kaná tí kázavot drúzine* "<b>Μην ακούς</b> τί σου λένε οι άλλοι"
-        - *<b>Namójte barzá</b>, ráno sí je* "<b>Μην βιάζεστε</b>, είναι νωρίς ακόμα"
-        - *<b>Namój zabaravǽ</b> kutrí tí pamógna da atvóriš dükǽnate* "<b>Μην ξεχνάς</b> ποιος σε βοήθησε να ανοίξεις το μαγαζί"
+        - *<b>Namójte kazavá</b> ní kutrómu* "Do not say [it] to anyone" 
+        - *<b>Namój nagadá</b> mlógo játo, da na astáne* "Do not cook a lot of food, so as not be left over" 
+        - *<b>Namój slušá</b> kaná tí kázavot drúzine* "Do not listen to what others tell you" 
+        - *<b>Namójte barzá</b>, ráno sí je* "Do not hurry, it is still early"   
+        - *<b>Namój zabaravǽ</b> kutrí tí pamógna da atvóriš dükǽnate* "Do not forget, who helped you open the shop" 
 
 <!-- Interlanguage links updated So kvě 14 19:02:21 CEST 2022 -->

@@ -7,6 +7,8 @@ udver: '2'
 
 ** UNDER REVISION **
 
+*This document presents detailed guidelines for **relative clauses and clefts in English**. It is a product of extensive deliberations among the UD Core Group, but is meant to apply to other languages only to the extent that constructions pattern similarly to English. Crosslinguistically, there is considerable variation in relative constructions and related phenomena; work on a separate typologically-oriented document is underway.*
+
 A relative clause (RC) is a clause modifying some head (typically a noun) that is understood to fulfill some grammatical role in the RC. 
 The head is said to be "extracted" from the RC.
 
@@ -204,7 +206,7 @@ advcl:relcl(tried, idea)
 nsubj(idea, which)
 ~~~
 
-Another such case occurs in *it*-clefts: see [below](#clefts).
+This relation can also be seen in [free relatives](#free-relatives) and [*it*-clefts](#clefts).
 
 ## Predicate Ellipsis in the Relative Clause
 
@@ -218,8 +220,6 @@ nsubj(which, we-6)
 advmod(which, probably)
 aux(which, will)
 ~~~
-
-TODO: decide about advcl:relcl
 
 ## Preposition Stranding
 
@@ -358,7 +358,7 @@ acl:relcl(something, speed)
 
 [^3]: However, this test fails for *a suggestion to make*: *\*something to make* is not a valid substitution because *make a suggestion* is a light verb construction.
 
-## RCs Versus Non-relative Modifier Clauses
+## RCs versus Non-relative Modifier Clauses
 
 *When*, *where*, *why*, and *how* frequently introduce **adverbial clauses** ([advcl]()). They can also introduce non-relative **adnominal modifier clauses** ([acl]()) similarly providing time/place/manner information:
 
@@ -397,7 +397,7 @@ Illustrating the contrast with *where*:
 
 ## Free Relatives
 
-NOTE: partially adapted from <https://universaldependencies.org/en/specific-syntax.html#free-relatives>
+<!-- NOTE: partially adapted from <https://universaldependencies.org/en/specific-syntax.html#free-relatives> -->
 
 **Free relatives** are noun phrases containing a relative clause modifying a WH-phrase. 
 There is no separate relativizer in the RC; it is "fused" with the head (thus these constructions are also known as **fused relatives**).
@@ -405,35 +405,35 @@ There is no separate relativizer in the RC; it is "fused" with the head (thus th
 <!-- In free relative constructions, the _wh_-clause functions as an argument in the higher clause. In these cases, the _wh_-phrase is deemed the head of the construction, thereby receiving a dependency relation reflective of its function in the higher clause, and the rest of the _wh_-clause is an `acl:relcl` dependent on it. -->
 
 ~~~sdparse
-I 'll have whatever she 's having .
+I 'll have whatever/PRON she 's having .
 obj(have, whatever)
 acl:relcl(whatever, having)
 ~~~
 
 ~~~sdparse
-You can go where you want and eat what you want .
+You can go where/ADV you want and eat what you want .
 advmod(go, where)
-acl:relcl(where, want-6)
+advcl:relcl(where, want-6)
 obj(eat, what)
 acl:relcl(what, want-11)
 ~~~
 
 ~~~sdparse
-What money we have left will go to charity
+What/DET money we have left will go to charity
 det(money, What)
 acl:relcl(money, have)
 nsubj(go, money)
 ~~~
 
 ~~~sdparse
-I don't like how it looks (CGEL p. 1077)
+I don't like how/ADV it looks (CGEL p. 1077)
 obj(like, how)
-acl:relcl(how, looks)
+advcl:relcl(how, looks)
 ~~~
 
-TODO: *where* and *how* are ADVs, so is advcl:relcl more appropriate?
+We adopt a simple rule that [advcl:relcl]() (rather than [acl:relcl]()) applies to all free relatives headed by a WH-adverb (*where*, *when*, *why*, or *how*). 
 
-### Free Relatives Versus Interrogative/Exclamative Complement Clauses
+### Free Relatives versus Interrogative/Exclamative Complement Clauses
 
 Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
 Verbs such as *wonder*, *know*, and *tell* license interrogative complement clauses (including ones beginning with *whether*).
@@ -552,7 +552,13 @@ nsubj(is, this)
 
 ## Clefts
 
-A free relative can be used within a copular construction to background some material relative to a foregrounded element. *John* is foregrounded in the following two variants of the __pseudocleft construction__:
+Cleft constructions pertain to the information packaging of a clause. 
+They have the function of foregrounding some material relative to the rest of the clause.
+
+### Pseudoclefts
+
+A free relative can be used within a copular construction to background some material relative to a foregrounded element. 
+*John* is foregrounded in the following two variants of the __pseudocleft construction__:
 
 ~~~sdparse
 -ROOT- John is who we want to help .
@@ -590,10 +596,6 @@ nsubj(worked, plan)
 root(-ROOT-, worked)
 ~~~
 
-☞ TODO: clefts vs. extraposition. 
-- CLEFT: "It’s [that he’s so self-satisfied] [that I find offputting]." (CGEL p. 1418). 
-- EXTRAPOSITION: "I find it offputting that he's so self-satisfied." expl(find, it), nsubj(find, I), ccomp(find, self-satisfied)
-
 
 <!--
 ~~~sdparse
@@ -607,8 +609,10 @@ root(-ROOT-, transpired)
 ~~~
 -->
 
+### *It*-clefts
+
 The __*it*-cleft construction__ serves a similar purpose—foregrounding one element (with expletive *it* plus copula). 
-The remainder of the sentence is a standard (not free) relative clause that elaborates on the copular predication. 
+The remainder of the sentence is a standard (not free[^4]) relative clause that elaborates on the copular predication. 
 CGEL (p. 416) describes it as a relative clause functioning as a dependent of the main clause (versus the canonical function of a relative clause as dependent within a nominal phrase). 
 In UD terms, the relative clause is *adverbial*; we therefore use `advcl:relcl`:
 
@@ -622,7 +626,83 @@ xcomp(want, help)
 obj(help, who)
 ~~~
 
-(Previous versions of the guidelines treated *who we want to help* in the *it*-cleft as a free relative. But note that the above can be paraphrased as *It's John __that__ we want to help* or even *It's John we want to help*, whereas free relatives require a WH-word to serve as the head.)
+~~~sdparse
+-ROOT- It was with John that/PRON I went to the movies .
+expl(John, It)
+cop(John, was)
+root(-ROOT-, John)
+case(John, with)
+advcl:relcl(John, went)
+obl(went, that)
+~~~
+
+~~~sdparse
+-ROOT- Was it really that/SCONJ it was raining that/PRON bothered you ?
+root(-ROOT-, raining)
+expl:outer(raining, it-3)
+cop(raining, Was)
+advmod(raining, really)
+mark(raining, that-5)
+expl(raining, it-6)
+aux(raining, was)
+advcl:relcl(raining, bothered)
+nsubj(bothered, that-9)
+obj(bothered, you)
+~~~
+
+~~~sdparse
+-ROOT- It 's that/SCONJ he 's so self-satisfied that/PRON I find offputting . (CGEL p. 1418)
+root(-ROOT-, self-satisfied)
+expl:outer(self-satisfied, It)
+mark(self-satisfied, that-4)
+nsubj(self-satisfied, he)
+cop(self-satisfied, 's-6)
+cop(self-satisfied, 's-3)
+advcl:relcl(self-satisfied, find)
+obj(find, that-9)
+xcomp(find, offputting)
+~~~
+
+Note that relativizer *that* receives the [PRON]() tag, but its antecedent may be a wide variety of constituent types.
+In (50), we are forced to use [obl]() for the attachment of the relativizer even though it is not marked by a preposition.
+
+The *it* is nonreferential, so we use [expl]() (though the applicability of the term "expletive" here is controversial).
+
+[^4]: Previous versions of the *it*-cleft guidelines specified that for *It's John __who__ we want to help*, the phrase *who we want to help* should be treated as a free relative. But note that the sentence can be paraphrased as *It's John __that__ we want to help* or even *It's John we want to help*, whereas free relatives require a WH-word to serve as the head.
+
+### *It*-clefts versus Extraposition
+
+*It*-clefts may resemble extraposition. *It is clear that we should decline* is an example of extraposition, discussed at [expl](): the heavy clausal subject *that we should decline* is postponed to the end of the sentence, with expletive *it* as placeholder in the usual subject position. By contrast, the *it*-clefts described above involve a relative clause (which may start with relativizer *that*, or another relativizer like *who* or *which*, or no relativizer at all).
+
+According to [Calude (2008, pp. 20-21)](http://icame.uib.no/ij32/ij32_7_34.pdf), the key test is that, for extraposition, *it* can be replaced by the delayed clause. 
+For *it*-clefts, this yields an ungrammatical result:
+
+- EXTRAPOSITION: _It is clear that we should decline_ → _That we should decline is clear_
+- IT-CLEFT: _It is John that we want to help_ → _*That we want to help is John_
+  * Additionally, the acceptability in this context of replacing _that_ with _who(m)_ shows that it is a relativizer, not a complementizer.
+- IT-CLEFT: _It was with John that I went to the movies_ → _*That I went to the movies was with John_
+- IT-CLEFT: _Was it really that it was raining that bothered you?_ → _*Was that bothered you really that it was raining?_
+- EXTRAPOSITION: _Did it bother you that it was raining?_ → _Did that it was raining bother you?_
+~~~sdparse
+Did it bother you that it was raining ?
+aux(bother, Did)
+expl(bother, it-2)
+obj(bother, you)
+csubj(bother, raining)
+mark(raining, that)
+expl(raining, it-6)
+aux(raining, was)
+~~~
+- IT-CLEFT: _It is that he's so self-satisfied that I find offputting_ → _*That I find offputting is that he's so self-satisfied_
+- EXTRAPOSITION: _I find it offputting that he's so self-satisfied_ → _I find that he's so self-satisfied offputting_
+~~~sdparse
+I find it offputting that he 's so self-satisfied
+expl(find, it)
+nsubj(find, I)
+xcomp(find, offputting)
+ccomp(find, self-satisfied)
+mark(self-satisfied, that)
+~~~
 
 ## _No matter_ and similar
 

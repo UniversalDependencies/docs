@@ -25,8 +25,9 @@ At present, this relation is used inside the following expressions, semantically
 | [Approximators](#approximators-quantity-modifiers) | with a quantity: *more than*, *less than*, *up to*, *as many/much/few/little as* |
 | [Attributional](#attributional-markers) | *according to* |
 | [Exemplification](#exemplification) | *such as* |
-| [Pragmatic/miscellaneous](#pragmaticmiscellaneous-markers) | *all but*, *as if*, *as opposed to*, *as to*, *at least* (non-quantity), *kind/sort of* (hedge), *not to mention*, *of course*, *that is* |
-| [NEED DISCUSSION](#need-discussion) | *one another*, *had better* |
+| [Reciprocal Pronouns](#reciprocal-pronouns) | *each other*, *one another* |
+| [Pragmatic/miscellaneous](#pragmaticmiscellaneous-markers) | *all but*, *as for*, *as if*, *as opposed to*, *as to*, *at least* (non-quantity), *in that*, *kind/sort of* (hedge), *not to mention*, *of course*, *that is* |
+| [NEEDS DISCUSSION](#needs-discussion) | *had better* |
 
 Below the description of `fixed` expressions are a few idiomatic combinations that are [analyzed without `fixed`](#not-fixed). These are summarized as follows:
 
@@ -282,6 +283,27 @@ fixed(such, as)
 ~~~
 
 
+## Reciprocal Pronouns
+
+The first word is marked as [PronType]()=`Rcp`. See discussion at [PRON]().
+
+*each other*
+
+~~~ sdparse
+They saw each/DET other/ADJ
+fixed(each, other)
+obj(saw, each)
+~~~
+
+*one another*
+
+~~~ sdparse
+They saw one/PRON another/DET
+fixed(one, another)
+obj(saw, one)
+~~~
+
+
 ### Pragmatic/miscellaneous markers
 
 *all but*
@@ -290,6 +312,15 @@ fixed(such, as)
 John has all but left
 fixed(all, but)
 advmod(left, all)
+~~~
+
+*as for*
+
+~~~ sdparse
+As for me , I love dogs!
+fixed(As, for)
+case(me, As)
+obl(love, me)
 ~~~
 
 *as if*
@@ -339,6 +370,15 @@ fixed(kind, of)
 advmod(like, kind)
 ~~~
 
+*in that*
+
+~~~ sdparse
+I agree in that the food is tasty
+fixed(in, that)
+mark(tasty, in)
+advcl(agree, tasty)
+~~~
+
 *not to mention*
 
 ~~~ sdparse
@@ -365,16 +405,7 @@ fixed(that, is)
 advmod(trained, that)
 ~~~
 
-
-### NEED DISCUSSION
-
-*one another* (as a reciprocal pronoun; however, `fixed` is not currently used for *each other*)
-
-~~~ sdparse
-They saw one another
-fixed(one, another)
-aux(saw, one)
-~~~
+### NEEDS DISCUSSION
 
 *had better* (and *'d better*)
 

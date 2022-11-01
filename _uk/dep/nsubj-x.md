@@ -5,7 +5,7 @@ shortdef: 'controlling subject (enhanced dependency)'
 udver: '2'
 ---
 
-`nsubj:x` is an Enhanced dependency which distinguishes subjects of controlled verbs as described in _Controlled/raised subjects_ section of the Enhanced Dependencies [documentation](http://universaldependencies.org/u/overview/enhanced-syntax.html) and in [`xcomp`](../../u/dep/xcomp.html). This does not cover cases when `xcomp` is used for secondary predication, for which there is a separate [`xcomp:sp`](xcomp-sp.html) accompanied by [`nsubj:sp`](nsubj-sp.html).
+`nsubj:x` is an Enhanced dependency which distinguishes subjects of controlled verbs as described in _Controlled/raised subjects_ section of the Enhanced Dependencies [documentation](http://universaldependencies.org/u/overview/enhanced-syntax.html) and in [`xcomp`](../../u/dep/xcomp.html). This does not cover cases when `xcomp` is used for secondary predication, for which there is a separate [`xcomp:pred`](xcomp-pred.html) accompanied by [`nsubj:pred`](nsubj-pred.html).
 
 ~~~ conllu
 # visual-style 4 1 nsubj:x color:blue
@@ -19,9 +19,9 @@ udver: '2'
 # visual-style 4 1 nsubj:x color:blue
 1	Winston 	_	_	_	_	3	nsubj	4:nsubj:x	_
 2	not	_	_	_	_	0	root	_	_
-3	got-used	_	_	_	_	0	root	_	_
-4	to-write	_	_	_	_	3	xcomp	_	_
-5	by-hand	_	_	_	_	0	root	_	_
+3	got_used	_	_	_	_	0	root	_	_
+4	to_write	_	_	_	_	3	xcomp	_	_
+5	by_hand	_	_	_	_	0	root	_	_
 6	.	_	_	_	_	0	root	_	_
 
 ~~~
@@ -34,9 +34,9 @@ udver: '2'
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 # visual-style 3 2 nsubj:x color:blue
-1	I-ask	_	_	_	_	0	root	_	_
+1	I_ask	_	_	_	_	0	root	_	_
 2	you	_	_	_	_	1	obj	3:nsubj:x	_
-3	to-stay	_	_	_	_	1	xcomp	_	_
+3	to_stay	_	_	_	_	1	xcomp	_	_
 4	.	_	_	_	_	1	punct	_	_
 
 ~~~

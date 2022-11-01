@@ -5,7 +5,7 @@ shortdef: 'DegreeModQpm'
 udver: '2'
 ---
 
-## DegreeModQpm
+## qpm-DegreeMod
 
 Pomak expresses degree modification of nouns, adjectives, past participles and adverbs with a variety of morphological (and syntactic) means:
 
@@ -14,71 +14,71 @@ Pomak expresses degree modification of nouns, adjectives, past participles and a
 #### Examples
 
 * Nouns
-	* _čulǽček (čulǽk)_ "ανθρωπάκος / ανθρωπάκι"
-	* _žanínka / žaníca (žaná)_ "γυνακούλα, γυναικάκι"
-	* _bábička / bábica_ "γιαγιούλα, γριούλα"
-	* _détence (déte)_ "παιδάκι"
-	* _tópček, tópčetište, tópčence (top)_ "μπαλάκι, μπαλίτσα"
-	* _kámenček (kámen)_ "πετρούλα, πετραδάκι"
-	* _pótček (pot)_ "δρομάκι"
-	* _góramček (góram)_ "δεντράκι"
-	* _tomofílček (tomofíl)_ "αυτοκινητάκι"
-	* _agledálce (agledálo)_ "καθρεφτάκι"
+	* _čulǽček  (čulǽk)_ "[a] little man (man)" 
+	* _žanínka / žaníca (žaná)_ "[a] little woman (woman)" 
+	* _bábička / bábica_ "[a] granny / grams" 
+	* _détence (déte)_ "[a] little child (child)" 
+	* _tópček, tópčetište, tópčence (top)_ "[a] little ball (ball)" 
+	* _kámenček (kámen)_ "[a] little stone (stone)"  
+	* _pótček (pot)_ "[a] little street (street)" 
+	* _góramček (góram)_ "[a] little tree (tree)" 
+	* _tomofílček (tomofíl)_ "[a] little car (car)" 
+	* _agledálce (agledálo)_ "[a] little mirror (mirror)" 
 
 * Adjectives
-	* _gulǽmček (gulǽm)_ "μεγαλούτσικος"
-	* _kámatonček (kámaton)_ "ομορφούτσικος"
-	* _parátiček (parátik)_ "κακούτσικος"
-	* _debélček (debél)_ "χοντρούτσικος"
-	* _červénček (červén)_ "κοκκινούτσικος"
-	* _cístček (cist)_ "καθαρούτσικος"
+	* _gulǽmček (gulǽm)_ "biggish (big)" 
+	* _kámatonček (kámaton)_ "cutish (cute, beautiful)" 
+	* _parátiček (parátik)_ "badish (bad)" 
+	* _debélček (debél)_ "fatish (fat)" 
+	* _červénček (červén)_ "reddish (red)" 
+	* _cístček (cist)_ "cleanish (clean)" 
 
 * Passive participles
-	* _udrítček (udrít)_ "χτυπημένος λίγο / ελαφρά"
-	* _avénatček (avénat)_ "μαραμένος λίγο / ελαφρά"
-	* _amýtček (amýt)_ "πλυμένος κάπως / πρόχειρα"
-	* _paledénček (paledén)_ "κρυωμένος λίγο / ελαφρά"
-	* _aprátček (aprát)_ "πλυμένος κάπως / πρόχειρα"
-	* _zamétenček (zaméten)_ "σκουπισμένος κάπως / πρόχειρα"
+	* _udrítček (udrít)_ "mildly hit (hit)" 
+	* _avénatček (avénat)_ "midly wilted (wilted)" 
+	* _amýtček (amýt)_ "somehow washed (washed)" 
+	* _paledénček (paledén)_ "a little cold (cold)"  
+	* _aprátček (aprát)_ "[wearing] a little washed [clothes] (washed)"  
+	* _zamétenček (zaméten)_ "somehow wiped (wiped)"  
 
 * Adverbs
-	* _duléčko (duléče)_ "λίγο μακριά"
-	* _adgórečko (adgóre)_ "λίγο πιο πάνω"
-	* _atsýčko (atsýj)_ "λίγο πιο πέρα"
-	* _húbbefce (húbbe)_ "καλούτσικα, καλά - καλά"
-	* _usulétanka (usulétna)_ "σιγά - σιγά"
-	* _bóržko (bóržo)_ "γρηγορούτσικα"
+	* _duléčko (duléče)_ "a little far away (far away)" 
+	* _adgórečko (adgóre)_ "a little far up (far up)"  
+	* _atsýčko (atsýj)_ "a little further (further)"  
+	* _húbbefce (húbbe)_ "goodish , so and so good (good)"  
+	* _usulétanka (usulétna)_ "slowly-slowly (slow)"  
+	* _bóržko (bóržo)_ "quickish (quick)"  
 
 ### <a name="Mag">`Mag`</a>: magnifier
 
 #### Examples
 
 * Nouns
-	* _čulǽčište / čulǽčištǽko (čulǽk)_ "άνθρωπος εύσωμος / κακός"
-	* _žaníšte / žanǽko (žaná)_ "γυναίκα εύσωμη / κακιά"
-	* _bábište / bábištæko (bába)_ "γιαγιά / γριά εύσωμη / κακιά"
-	* _détetište / détetæko (déte)_ "παιδί μεγάλο / κακό"
-	* _tópište / tópištæko (top)_ "μπάλα μεγάλη, μπαλάρα"
-	* _kámenište / kámenǽko (kámen)_ "πέτρα μεγάλη, βράχος"
-	* _pótište / pótištæko (pot)_ "δρόμος μεγάλος / κακός"
-	* _górmište / górmištæko (góram)_ "δέντρο μεγάλο"
-	* _tomofílište / tomofílištæko (tomofíl)_ "αυτοκίνητο μεγάλο"
-	* _agledálište / agledálištæko (agledálo)_ "καθρέπτης μεγάλος"
+	* _čulǽčište / čulǽčištǽko (čulǽk)_ "[a] big [bodied] man / [a] bad man (man)"  
+	* _žaníšte / žanǽko (žaná)_ "[a] big [bodied] woman / [a] bad woman (woman)" 
+	* _bábište / bábištæko (bába)_ "[a] big [bodied] old-woman / [a] bad old-woman (old-woman)" 
+	* _détetište / détetæko (déte)_ "[a] big [bodied] child / [a] bad child (child)"  
+	* _tópište / tópištæko (top)_ "[a] big ball (ball)"  
+	* _kámenište / kámenǽko (kámen)_ "[a] big stone / [a] rock (stone)" 
+	* _pótište / pótištæko (pot)_ "[a] big street / [s] bsf dtreet (street, road)"  
+	* _górmište / górmištæko (góram)_ "[a] big tree (tree)" 
+	* _tomofílište / tomofílištæko (tomofíl)_ "[a] big car (car)"  
+	* _agledálište / agledálištæko (agledálo)_ "[a] big mirror (mirroire)" 
 
 * Adjectives
-	* _žýltišiček (žolt)_ "κατακίτρινος"
-	* _kámatnišiček (kámaton)_ "πανέμορφος"
-	* _gróznišiček (grózan)_ "κακάσχημος"
-	* _parstívvišiček (parstív)_ "γεμάτος χώμα / μες στα χώματα"
-	* _mýkrišiček (mókar)_ "ολόβρεχτος"
-	* _prývvišiček (prav)_ "εντελώς ίσιος / ορθός"
+	* _žýltišiček (žolt)_ "very yellow (yellow)" 
+	* _kámatnišiček (kámaton)_ "very beautiful (cute, beautiful)" 
+	* _gróznišiček (grózan)_ "very ugly (ugly)"
+	* _parstívvišiček (parstív)_ "full of dust, full of sand (dusty, sandy)" 
+	* _mýkrišiček (mókar)_ "deeply wet / soaked (wet)"  
+	* _prývvišiček (prav)_ "completely straight (straight)"  
 
 * Passive participles
-	* _apráttišiček (aprát)_ "πλυμένος / μπουγαδιασμένος στην εντέλεια"
-	* _zagradénnišiček (zagradén)_ "περιφραγμένος από παντού"
-	* _udríttišiček (udrít)_ "καταχτυπημένος"
-	* _zaledénnišiček (zaledén)_ "καταπαγωμένος"
-	* _zavíttišiček (zavít)_ "σκεπασμένος / τυλιγμένος πολύ καλά"
-	* _zalǽttišiček (zalǽt)_ "ποτισμένος πολύ καλά"
+	* _apráttišiček (aprát)_ "[wearing] perfectly washed [clothes] (washed)"  
+	* _zagradénnišiček (zagradén)_ "fenced all around (fenced)"  
+	* _udríttišiček (udrít)_ "very wounded (wounded)"  
+	* _zaledénnišiček (zaledén)_ "extremely frozen (frozen)"  
+	* _zavíttišiček (zavít)_ "well covered (covered)" 
+	* _zalǽttišiček (zalǽt)_ "well watered (watered)"  
  
 <!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->

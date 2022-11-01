@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'nmod:lmod'
+title: 'obl:lmod'
 shortdef: 'nominal with locative modality'
 udver: '2'
 ---

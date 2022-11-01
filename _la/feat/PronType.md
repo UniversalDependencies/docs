@@ -72,7 +72,7 @@ Referring to a non-further specified entity.
 
 
 
-### <a name="Int">`Int`</a>: interrogative
+### <a name="Int">`Int`</a>: interrogative (debatable)
 
 Substituing for entities in interrogative or interrogative-like clauses. Often seen to alternate with relative uses.
 

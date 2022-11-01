@@ -2,7 +2,10 @@
 layout: postag
 title: 'ADJ'
 shortdef: 'adjective'
+udver: '2'
 ---
+
+
 
 ### Definition 
 
@@ -39,12 +42,12 @@ Certain proper nouns [PROPN]() are directly related with adjectives:
 	
 Ancient Greek adverbs are used as adjectives in Modern Greek: *νυν* / *nin* "current", *τέως* / *teos* "past"; also, pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper" (these are originally two words written as one word nowadays).
 
-Non-periphrastic comparative and superlative degrees (el-feat/Degree) of Greek adjectives are formed with a small set of suffixes or they have irregular forms:
+Non-periphrastic comparative and absolute superlative degrees [Degree](el-feat/Degree) of Greek adjectives are formed with a small set of suffixes or they have irregular forms:
 -	(regular) *ταχύς – ταχύτερος – ταχύτατος* / *tachis - tachiteros - tachitatos* "fast - faster -fastest"
 -	(regular) *ακριβής – ακριβέστερος – ακριβέστατος* / *akrivis - akrivesteros - akrivestatos* "exact - more extact - most exact"
 -	(irregular) *μεγάλος – μεγαλύτερος – μέγιστος* / *megalos - megaliteros - megistos* "big - bigger - biggest"
 
-Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag [VERB], the lemma in *-μένος*  and *-θείς*   and the relevant features Aspect=...|Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
+Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag [VERB], the lemma in *-μένος*  and *-θείς*   and the relevant features Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
 Ηowever, there are formations in *-μένος* not related to a verb in use in Modern Greek, e.g. *χιλιοτραγουδισμένος* / chiliotragoudismenos “storied”, *ξακουσμένος* / ksakousmenos “famous”, etc; these are assigned the  tag ADJ.  
 
 
@@ -52,12 +55,12 @@ When a participle depends on the verb *είμαι* /ime “to be”, the tag <co
 
 Modern Greek expresses degree modification of nouns with a variety of morphological (and syntactic) means:
 
-* Diminutives (*υποκοριστικά* / *ipokoristika*) productively formed with suffixes such as  *–ούτσικος* / *-outsikos*,  *–ούλης* / *-oulis*,  like *μικρούτσικος* / *mikroutsikos* "smallish", *κιτρινούλης* / *kitrinoulis* "a bit yellow": they are assigned the lemma of the original adjective and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code>. 
+* Diminutives (*υποκοριστικά* / *ipokoristika*) productively formed with suffixes such as  *–ούτσικος* / *-outsikos*,  *–ούλης* / *-oulis*,  like *μικρούτσικος* / *mikroutsikos* "smallish", *κιτρινούλης* / *kitrinoulis* "a bit yellow": they are assigned the lemma of the original adjective and the feature [Degree]() takes the value [Dim](). 
 
-* Augmentatives may be formed with prefixes such as *κατά-* / *kata-*, *ολό-* / *olo-*, e.g., *κατά-μαυρος, ολό-μαυρος* / *katamavros, olomavros* "stark black": they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
+* Augmentatives may be formed with prefixes such as *κατά-* / *kata-*, *ολό-* / *olo-*, e.g., *κατά-μαυρος, ολό-μαυρος* / *katamavros, olomavros* "stark black": they are assigned the lemma of the original adjective and the feature [Degree]()  takes the value [Aug]().
 
 
-Greek adjectives inflect for
+Greek adjectives inflect for 
 [el-feat/Gender]() _(μεγάλος – μεγάλη – μεγάλο)_ “big”,
 [el-feat/Number]() _(μεγάλος – μεγάλοι)_ and
 [el-feat/Case]() _(μεγάλοι – μεγάλων – μεγάλους)_.
@@ -67,7 +70,7 @@ Greek adjectives inflect for
 
 *	*μεγάλος* / *megalos* "big", *πράσινος* / *prasinos* "green", *ακατάληπτος* / *akataliptos* "incomprehensible"
 *	*πρώτος* / *protos* "first", *δεύτερος* / *defteros* "second", *τρίτος* / *tritos*  "third"
-*	(it is also assigned the tags [DET](), [PRON]()):  *ίδιος* / *idios* "same" in *Η Ελένη είναι ίδια με την μητέρα της* "Eleni has taken after her mother"
+*	(it is also assigned the tag [DET]()):  *ίδιος* / *idios* "same" in *Η Ελένη είναι ίδια με την μητέρα της* "Eleni has taken after her mother"
 
 
 ### References

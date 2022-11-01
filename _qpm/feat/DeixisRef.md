@@ -18,18 +18,24 @@ Pomak nouns, adjectives, pronouns and adverbs may be tagged with `DeixisRef` alo
 
 #### Examples
 
-* _górm<b>os</b>_ "το δέντρο (εδώ κοντά σ' εμένα ή το ίδιο κοντά στον ομιλητή και τον ακροατή)"
+* _górm<b>os</b>_ "the tree [here near me or near both the speaker and the listener - proximal]" 
 `Deixis=Prox|DeixisRef=1`
 
-### <a name="2">`2`</a>: deixis relative to the second person participant (hearer)
+### <a name="2">`2`</a>: deixis relative to the second person participant (listener) 
 
 #### Examples
 
-* _górm<b>ot</b>_ "το δέντρο (εκεί κοντά σ' εσένα)"
+* _górm<b>ot</b>_ "the tree [there near you or near the listener - proximal]" 
 `Deixis=Prox|DeixisRef=2`
 
+### <a name="3">`3`</a>: deixis that marks the distance from both participants (speaker and listener) - distal
 
-<!-- Please provide examples of adjectives, many adjectives, adverbs-->
+
+* _górm<b>on</b>_ "the tree over there [far away from both the speaker and the listener - distal]" 
+`Deixis=Remt'
+
+#### Examples
+
 
 
 

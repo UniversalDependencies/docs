@@ -17,7 +17,7 @@ In the following example, the predicate consists of two uncoordinated adjectives
 4	.	.	PUNCT	U	_	2	punct	_	Id=2056|LTranslit=.|Translit=.
 
 # visual-style 3 4 flat:sibl color:green
-1	The-leaves	_	_	_	_	0	root	_	_
+1	The_leaves	_	_	_	_	0	root	_	_
 2	[are]	_	_	_	_	0	root	_	_
 3	entire	_	_	_	_	0	root	_	_
 4	linear	_	_	_	_	3	flat:sibl	_	_
@@ -39,7 +39,7 @@ In the second example, `flat:sibl` is used to pack uncoordinated modifiers into 
 7	.	.	PUNCT	_	_	1	punct	_	_
 
 # visual-style 4 5 flat:sibl color:green
-1	I-like	_	_	_	_	0	root	_	_
+1	I_like	_	_	_	_	0	root	_	_
 2	olive	_	_	_	_	0	root	_	_
 3	or	_	_	_	_	0	root	_	_
 4	real	_	_	_	_	2	conj	_	_
@@ -54,7 +54,7 @@ In the second example, `flat:sibl` is used to pack uncoordinated modifiers into 
 Mention that the following analysis is incorrect:
 ~~~ conllu
 # visual-style 6 5 amod_(wrong) color:darkred
-1	I-like	_	_	_	_	0	root	_	_
+1	I_like	_	_	_	_	0	root	_	_
 2	olive	_	_	_	_	6	amod	_	_
 3	or	_	_	_	_	0	root	_	_
 4	real	_	_	_	_	2	conj	_	_

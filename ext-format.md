@@ -191,7 +191,7 @@ CoNLL-U file we are referring to.
 A few projects ran before this specification was created; their data probably do not
 comply with this specification.
 
-* [Universal Proposition Banks](https://github.com/System-T/UniversalPropositions) (IBM Research; see also [issue #344](https://github.com/UniversalDependencies/docs/issues/344))
+* [Universal Proposition Banks](https://universalpropositions.github.io) (IBM Research; see also [issue #344](https://github.com/UniversalDependencies/docs/issues/344))
 
 One extension was based on an early draft of this specification.
 It is not 100% compliant with the final version but it is close:

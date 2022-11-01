@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Red'
-shortdef: 'Red'
+shortdef: 'Reduplication'
 udver: '2'
 ---
 
@@ -12,7 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-`Case`
+`Red` expresses both internal repetition (rendered by monosyllabic reduplication) and external repetition (rendered by disyllabic reduplication).
 
 
 ### <a name="Yes">`Yes`</a>: Yes
@@ -20,7 +20,8 @@ udver: '2'
 
 #### Examples
 
-* _<b></b>&nbsp;_ “”
+* _o<b>pero</b>perog eiba owa_&nbsp; “The dog licks his face.”
+* _e<b>zo</b>zopodʒ_&nbsp; “They feed me all the time.”
 
 
 

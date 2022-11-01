@@ -15,20 +15,20 @@ udver: '2'
 </tr>
 </table>
 
-Latin morphologically distinguishes (at least) three aspects: imperfective, inchoative and perfective. 
+Latin distinguishes (at least) three aspects: **imperfective**, **perfective** and **prospective**, traditionally called present, perfect and future mixing them with [tense](la-feat/Tense). It can be debated if **inchoative** ("sco-verbs") also represents a morphologically expressed aspect (as opposed to a derivational Aktionsart). 
 
-The distinction between these three aspects can be made for every [tense](la-feat/Tense) and [mood](la-feat/Mood) of finite [verbal forms](la-feat/VerbForm), except for the imperative mood, where only the imperfective aspect appears. Aspect expresses the way the action, event or state of the verb is considered and presented in its development, and it is distinct both from [temporal reference](la-feat/Tense) and Aktionsart (which pertains to lexicon, and not to morphology).
+The distinction between imperfective and perfective, and also inchoative if considered, can be made for every [tense](la-feat/Tense) and [mood](la-feat/Mood) of finite [verbal forms](la-feat/VerbForm), except for the imperative mood, where only the imperfective aspect appears. Aspect expresses the way the action, event or state of the verb is considered and presented in its development, and it is distinct both from [temporal reference](la-feat/Tense) and Aktionsart (which pertains to lexicon, and not to morphology).
 
-The different [participial and infinitival forms](la-feat/VerbForm) (participles, gerundives/gerunds and infinitives) are principally distinguished by their aspects, since they do not actually express the grammatical category of [tense](la-feat/Tense) (even if this is implied by some of their traditional denominations). On the contrary, it does not seem justified to assign an aspect to the supine form, as this appears as a fully nominal form, not so different from common (and productive) deverbal [noun](la-pos/NOUN) formations with an [U-stem](la-feat/InflClass).
+The different [participial and infinitival forms](la-feat/VerbForm) (participles, including gerundives/gerunds, infinitives, i.e. verb nouns, and the active supine, a converb) are principally distinguished by their aspects, since they do not actually express the grammatical category of [tense](la-feat/Tense) (even if this is implied by some of their traditional denominations): their temporal value is always in relation to a main expression or implication of tense. 
 
 
 ### <a name="Imp">`Imp`</a>: imperfective aspect
 
-The imperfective aspect uses the simple verbal stem (root + possible thematic vowel; called *infectum* in Latin), to which the suffixes for [mood](la-feat/Mood)/[tense](la-feat/Tense) & [person](la-feat/Person)/[number](la-feat/Number) are attached. It expresses the unfinished, ongoing or continuous nature of an action, an event or a state, and can be regarded as the "basic" aspect in Latin.
+The imperfective aspect uses the simple verbal stem (root + possible thematic vowel; called *infectum* in Latin), to which the suffixes for [mood](la-feat/Mood)/[tense](la-feat/Tense) & [person](la-feat/Person)/[number](la-feat/Number) are attached. It expresses the unfinished, ongoing or continuous nature of an action, an event or a state, and can be regarded as the "basic" aspect in Latin, in that it is the least temporally characterised.
 
 The imperfective aspect is not to be confused with the so-called *imperfect* [tense](la-feat/Tense), which is the imperfective aspect of a past tense. 
 
-* Overview of imperfective finite forms for all five conjunctional paradigms and all different moods and tenses (1st pers. sing. act.), present participle, gerundive/gerund and infinitive:
+* Overview of imperfective finite forms for all five conjunctional paradigms and all different moods and tenses (1st pers. sing. act.), present participle and infinitive:
 
 Tense & Mood / Nominal form | 'to love' | 'to see' | 'to read'| 'to seize' | 'to hear'  
 --|--|--|--|--|--
@@ -40,12 +40,9 @@ Past subjunctive   | *amarem* | *uiderem* | *legerem* | *caperem* | *audirem*
 Present imperative (2nd pers. sing.)  | *ama* | *uide* | *lege* | *cape* | *audi*
 Future imperative (2nd pers. sing.)  | *amato* | *uideto* | *legĭto* | *capĭto* | *audīto*
 Present participle (masc. nom. sing.)  | *amans* | *uidens* | *legens* | *capiens* | *audiens*
-*Gerundive** (masc. nom. sing.)  | *amandus* | *uidendus* | *legendus* | *capiendus* | *audiendus*
 Infinitive (active)   | *amare* | *uidēre* | *legĕre* | *capĕre* | *audire* 
 
-\* see **Note** about non-traditional aspects
-
-Latin always expresses the imperfective aspect by means of synthetic (i.e. simple) verb forms, except possibly for an attested construction with the present participle and the [copula](la-pos/AUX_), of the type *amans sum*, of [durative](u-feat/Aspect) nuance.
+Latin always expresses the imperfective aspect by means of synthetic (i.e. simple) verb forms, except possibly for an attested construction with the present participle and the [copula](la-pos/AUX_), of the type *amans sum*, of [durative](u-feat/Aspect#Dur) nuance.
 
 Some verbal stems show irregular variations in their imperfective forms for historical reasons:
 
@@ -58,12 +55,12 @@ All Latin verbal stems inflect for imperfective in the active or passive [voice]
 
 * ***amo*** 'I love/am loving'
 * ***uidebatis*** 'you (pl.) were seeing'
-* ***capiendum**** 'to be seized' 
+* ***capĕre*** '(the) seizing' 
 
 
-### <a name="Inch">`Inch`</a>: inchoative aspect
+### <a name="Inch">`Inch`</a>: inchoative aspect (uncertain)
 
-The inchoative aspect is characterised by the suffix *-sc-*, and corresponding verb forms follow the third [conjugation](la-feat/InflClass) (the one of *legĕre*), i.e. have an athematic stem. It expresses the beginning or the unfolding of an action or event as it is happening. 
+The so-called inchoative aspect is characterised by the suffix *-sc-*, and corresponding verb forms follow the third [conjugation](la-feat/InflClass#LatX) (the one of *legĕre*), i.e. have an athematic stem. It expresses the beginning or the unfolding of an action or event as it is happening, but also the indeterminate progress thereof. It is as of yet unclear if inchoative should be annotated as an aspect, or if it does not pertain to derivation and can just be explained as an imperfective. 
 
 * Overview of finite forms for all different moods and tenses (1st pers. sing. act.), present participle and infinitive of the inchoative verb *albesco*:
 
@@ -93,9 +90,9 @@ The inchoative forms are seen to alternate with imperfective and perfective ones
 * imp. *lucet* 'it is clear, it shines' , inch. *lucescit* 'it begins to shine; day is breaking' ; perf. *luxit* 'it has shone; day has broken'
 * imp. *paueo* 'I am frightened' , inch. *pauesco* 'I begin to fear' ; perf. *paui* 'I have been struck with fear'
 
-Sometimes, an original inchoative meaning appears to have come to overlap with a more "basic" imperfective one, or it might even have shifted and no longer be so transparent (*pango* ~ *paciscor* is an example), but morphologically there still subsists a distinction. Verbs displaying an inchoative aspect are traditionally lemmatised directly under their inchoative forms (cfr. [VERB](la-pos/VERB)).
+Sometimes, an original inchoative meaning appears to have come to overlap with a more "basic" imperfective one, or it might even have shifted and no longer be so transparent (*pango* ~ *paciscor* is an example), but morphologically there still subsists a distinction. Verbs displaying an inchoative aspect are traditionally lemmatised directly under their inchoative forms (cf. [VERB](la-pos/VERB)).
 
-For some stems displaying an inchoative form, the respective imperfective form has fallen out of use (and is sometimes not even clearly retraceable anymore) or the ties between the two have gone completely lost with time, so that the once inchoative form has been absorbed into a new paradigm where it acts as the imperfective form, opposed to a perfective one; in such cases, we recognize the new configuration and label the verb with the imperfective aspect:
+For some stems displaying an inchoative form, the respective imperfective form has fallen out of use (and is sometimes not even clearly retraceable anymore) or the ties between the two have gone completely lost with time, so that the once inchoative form has been absorbed into a new paradigm where it acts as the imperfective form, opposed to a perfective one; in such cases, traditionally the new configuration is recognised and the verb labelled with the imperfective aspect:
 
 * imp. *disco* 'to learn', perf. *didici*: originally inchoative (with reduplication and zero-grade) \**di-dc-sco*, tied to the same root as *doceo* 'to teach' (perf. *docui*) 
 * imp. *cresco* 'to come into existence; to grow', intransitive, perf. *creui*: tied to the same root as *creo* 'to bring forth', originally 'to make grow', transitive (perf. *creaui*)
@@ -103,7 +100,7 @@ For some stems displaying an inchoative form, the respective imperfective form h
 #### Examples
 
 * ***albesces*** 'you will become white'
-* ***latesce*** 'go hide yourself!'
+* ***latesce*** 'stay in hiding!'
 * ***adulescens*** '(who/which) is growing up' (hence 'young person') 
 
 ### <a name="Perf">`Perf`</a>: perfective aspect
@@ -122,10 +119,7 @@ Future indicative   | *amauero* | *monuero* | *lēgero* | *cepero* | *audiuero*
 Present subjunctive (~past reference?)   | *amauerim* | *monuerim* | *lēgerim* | *ceperim* | *audiuerim*
 Past subjunctive   | *amauissem* | *monuissem* | *lēgissem* | *cepissem* | *audiuissem*
 Perfect participle (masc. nom. sing.) | *amatus* | *monitus* | *lectus* | *captus* | *auditus*
-*Future participle** (masc. nom. sing.) | *amaturus* | *moniturus* | *lecturus* | *capturus* | *auditurus*
 Infinitive  | *amauisse* | *monuisse* | *lēgisse* | *cepisse* | *audiuisse* 
-
-\* see **Note** about non-traditional aspects
 
 There are no synthetic forms for perfective [passive](la-feat/Voice) forms, so that, to express them, Latin resorts to a periphrastic construction putting together the perfect participle and the [copula](la-pos/AUX) in the given tense/mood and person/number, e.g. *amatus sum/eram/ero/sim/essem/es/esse* 'I have been/was/will be/... loved' etc.
 
@@ -144,7 +138,7 @@ Some verbal stems only appear in their perfective forms:  *memini* 'to remember'
 
 ### <a name="Prosp">`Prosp`</a>: prospective aspect
 
-If the prospective aspect is used in the annotation (see **Note**), it appears only in two [non-finite](la-feat/VerbForm) forms, i.e. the gerundive/gerund (morphologically just one form, with possibly different behaviours on the syntactic level) and the so-called "future" participle: the former is characterised by the affix *-nd-* and the latter by the affix *-(s/t)ur-*, both attached to the verbal stem (root + possible thematic vowel). An archaic infinitive form is also attested, with affix *-ssere*. The prospective aspect represents an action as yet to come, as impending, and as such, in Latin, it may often assume nuances of necessity and inevitability.
+If the prospective aspect is used in the annotation (see **Note**), it appears only in [non-finite](la-feat/VerbForm) forms, i.e. the participial gerundive/gerund (morphologically just one form, with possibly different behaviours on the syntactic level), the so-called "future" participle, and the so-called"active" supine: the first is characterised by the affix *-nd-*, the second by the affix *-(s/t)ur-*, both attached to the verbal stem (root + possible thematic vowel), and third has the same formation of a perfect participle, albeit following the [fourth nominal declension](la-feat/InflClass#IndEurU) paradigm (u-declension). An archaic infinitive form is also attested, with affix *-ssere*. The prospective aspect represents an action as yet to come, as impending, and as such, in Latin, it may often assume [modal](la-feat/Mood) nuances of necessity and inevitability.
 
 The prospective aspect differs from a future [tense](la-feat/Tense) in that, while the reference point of the latter is absolute and fixed at the moment of its utterance, the former is relative and is fixed independently by other means. So, a prospective aspect for the past tense would represent an action that, from the present perspective of the speaker, would have *yet* had to occur at the referred time, but probably has already occurred *now*. In Latin, this reference point always has to be specified by another element in the clause, as the prospective aspect (contrary to other aspects) is limited to a couple nominal verbal forms, which do not bear a temporal reference by themselves.
 
@@ -154,6 +148,7 @@ Nominal form | 'to love' | 'to remind' | 'to read'| 'to seize' | 'to hear'
 --|--|--|--|--|--
 Gerundive/gerund (passive)  | *amandus* | *monendus* | *legendus* | *capiendus* | *audiendus*
 Future participle (active)  | *amaturus* | *moniturus* | *lecturus* | *capturus* | *auditurus*
+Active supine (active; accusative)  | *amatum* | *monitum* | *lectum* | *captum* | *auditum*
 Infinitive (active; archaic)   | **amassere* | ?*monessere* | ?*legessere* | ?*capessere* | ?*audissere*
 
 Latin has no synthetic finite forms for the prospective aspect, but uses these nominal forms in periphrastic, [copular](la-dep/cop) constructions to make up for that, with the [auxiliary](la-pos/AUX) expressing [mood](la-feat/Mood)/[tense](la-feat/Tense) & [person](la-feat/Person)/[number](la-feat/Number) (itself usually in the imperfective, "neutral", aspect).
@@ -169,16 +164,16 @@ These forms can be regularly formed from any verbal stem, taking into account mo
 
 ##### Note: "non-traditional" aspects for Latin
 
-It might be argued that the nominal forms of gerundive/gerund (morphologically identical, syntactically possibly distinct) and future participle do not actually express the imperfective and perfective aspect respectively, as could be suggested by a possible reading of their forms (ger.: imperfective stem + *-nd-*; fut. part.: perfective stem + *-ur-*) and reflected by a more "conservative" annotation style. They seem instead to represent instances of some other aspect tied to the notion of relative, immediate future and/or necessity (as a secondary value). In UD, this aspect is well identified by the **prospective aspect**. 
+It is argued here that the nominal forms of gerundive/gerund (morphologically identical, syntactically possibly distinct) and future participle do not actually express the imperfective and perfective aspect respectively, as could be suggested by a possible "segmentative" reading of their forms (ger.: imperfective stem + *-nd-*; fut. part.: perfective stem + *-ur-*) and reflected by a more "conservative" annotation style. They seem instead to represent instances of some other aspect tied to the notion of relative, immediate future and/or necessity (as a secondary value). In UD, this aspect is well identified by the **prospective aspect**. 
 
-The gerundive is sometimes described as a "future passive participle", but, like for the *future* participle (active), this "future" cannot be actually identified with a future [tense](la-feat/Tense). In fact, while a Latin **finite** future verbal form has an "absolute" reference point (the moment of the utterance), one observes that no Latin [nominal verbal form](la-feat/VerbForm) (i.e. participles, gerundives, infinitives and supines) expresses the grammatical category of time by itself, while on the contrary it expresses the state of an action or event with respect to a main predicate, i.e. an aspect (except possibly for the supine). The introduction of the prospective aspect would acknowledge this matter of fact and supply the key to distinguishing all Latin participial forms from each other without misleadingly recurring to the `Tense` feature. One would have the following scheme for the traditional nomenclature, with *amo* 'to love' as an example:
+The gerundive is sometimes described as a "future passive participle", but, like for the *future* participle (active), this "future" cannot be actually identified with a future [tense](la-feat/Tense). In fact, while a Latin **finite** future verbal form has an "absolute" reference point (the moment of the utterance), one observes that no Latin [nominal verbal form](la-feat/VerbForm) (i.e. participles, gerundives, infinitives and supines) expresses the grammatical category of time by itself, while on the contrary it expresses the state of an action or event with respect to a main predicate, i.e. an aspect. The introduction of the prospective aspect would acknowledge this matter of fact and supply the key to distinguishing all Latin participial forms from each other without misleadingly recurring to the `Tense` feature. One would have the following scheme for the traditional nomenclature, with *amo* 'to love' as an example:
 
 Voice/Aspect | Imperfective | (Inchoative) | Perfective | Prospective 
 --|--|--|--|--
 **Active**  | Present participle: *amans* | (Present participle: *amascens*) | - | Future participle: *amaturus*  
 **Passive**  | - | - | Perfect participle: *amatus* | Gerundive: *amandus*
 
-("Voice" is intended as morphological, not syntactical, voice here.)
+("[Voice](la-feat/Voice)" is intended as morphological, not syntactical, voice here: so deponency is not annotated by itself)
 
 The use of both prospective participial forms in [periphrastical](la-dep/cop) constructions (*amaturus sum* 'I am [soon] going to love', distinguished from *amabo* 'I will love'; *amandus sum* 'I am [soon] going to be loved; I am to be loved, I need to be loved', distinct from *amabor* 'I will be loved') is also in line with the periphrastical formation of perfect [passive](la-feat/Voice) forms, which make use of the perfect participle in absence of any synthetic form; here, in the absence of synthetic prospective forms (e.g. a "future" infinitive, as opposed to the "present" one).
 

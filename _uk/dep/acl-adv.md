@@ -13,8 +13,8 @@ In Ukrainian, some adverbs often appear to be acting as adjectives.
 2	праворуч	праворуч	ADV	_	_	1	acl:adv	_	_
 
 # visual-style 1 2 acl:adv color:green
-1	[The]-doors	_	_	_	_	0	root	_	_
-2	on-the-right	_	which?	_	_	1	acl:adv	_	_
+1	[The]_doors	_	_	_	_	0	root	_	_
+2	on_the_right	_	which?	_	_	1	acl:adv	_	_
 
 ~~~
 

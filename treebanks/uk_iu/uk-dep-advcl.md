@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Ukrainian: Relations: `advcl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `advcl`: <tt><a href="uk-dep-advcl-sp.html">advcl:sp</a></tt>, <tt><a href="uk-dep-advcl-svc.html">advcl:svc</a></tt>.
+There are 2 language-specific subtypes of `advcl`: <tt><a href="uk-dep-advcl-pred.html">advcl:pred</a></tt>, <tt><a href="uk-dep-advcl-svc.html">advcl:svc</a></tt>.
 
 1248 nodes (1%) are attached to their parents as `advcl`.
 
@@ -46,7 +46,7 @@ The following 35 pairs of parts of speech are connected with `advcl`: <tt><a hre
 5	,	,	PUNCT	U	_	10	punct	_	Id=18ir
 6	щоб	щоб	SCONJ	Css	_	10	mark	_	Id=18is
 7	воно	воно	PRON	Pp-3n-snn	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Id=18it
-8	само	сам	DET	Px--n-sna	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs|Reflex=Yes	10	advcl:sp	_	Id=18iu
+8	само	сам	DET	Px--n-sna	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs|Reflex=Yes	10	advcl:pred	_	Id=18iu
 9	охоче	охоче	ADV	R	_	10	advmod	_	Id=18iv
 10	жертувало	жертувати	VERB	Vmpis-sn	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	advcl	_	Id=18iw|SpaceAfter=No
 11	.	.	PUNCT	U	_	1	punct	_	Id=18ix

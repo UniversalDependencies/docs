@@ -8,7 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Com">Com</a></td>
+  <td><a href="#SCau">SCau</a></td>
   <td><a href="#Cau">Cau</a></td>
   <td><a href="#Mid">Mid</a></td>
   <td><a href="#Rcp">Rcp</a></td>
@@ -19,7 +19,7 @@ udver: '2'
 
 `Voice` is a 
 
-### <a name="Com">`Com`</a>: Comitative
+### <a name="SCau">`SCau`</a>: Sociative Causative
 
 Contiguity is more often associated with
 

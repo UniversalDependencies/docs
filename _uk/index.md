@@ -133,7 +133,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 * The following relation subtypes are used in Ukrainian:
   * [acl:adv]() adverbs acting as amod
   * [acl:relcl]() relative clauses
-  * [advcl:sp]() `advcl` with secondary predication
+  * [advcl:pred]() `advcl` with secondary predication
   * [advcl:svc]() adverbial infinitive
   * [advmod:det]() adverbial modification by a determiner
   * [compound:svc]() 
@@ -152,7 +152,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
   * [parataxis:newsent]() connects sentences inside of a multi-sentence quote where it’s impossible to split the parent sentence
   * [parataxis:rel]() clauses relative to the whole parent sentence, that is, to the parent sentence predication itself
   * [vocative:cl]() clausal `vocative`
-  * [xcomp:sp]() `xcomp` with secondary predication
+  * [xcomp:pred]() `xcomp` with secondary predication
 * The following relation types are not used in Ukrainian at all:
   [clf]()
 

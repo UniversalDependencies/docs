@@ -162,7 +162,7 @@
   - label: 'hy/dep'
   - label: 'hyw/dep'
   - label: 'pl/dep'
-- label: 'advcl:sp'
+- label: 'advcl:pred'
   languages:
   - label: 'uk/dep'
 - label: 'advcl:svc'
@@ -1805,7 +1805,7 @@
 - label: 'nsubj:quasi'
   languages:
   - label: 'pcm/dep'
-- label: 'nsubj:sp'
+- label: 'nsubj:pred'
   languages:
   - label: 'uk/dep'
 - label: 'nsubj:x'
@@ -2395,7 +2395,7 @@
   - label: 'la/dep'
   - label: 'pl/dep'
   - label: 'sme/dep'
-- label: 'xcomp:sp'
+- label: 'xcomp:pred'
   languages:
   - label: 'uk/dep'
 - label: 'xcomp:subj'

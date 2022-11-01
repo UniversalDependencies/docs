@@ -4,6 +4,15 @@ title: 'Aspect'
 shortdef: 'aspect'
 udver: '2'
 ---
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Perf">Perf</a></td>
+  <td><a href="#Imp">Imp</a></td>
+  <td><a href="#Prog">Prog</a></td>
+  <td><a href="#Iter">Iter</a></td>
+</tr>
+</table>
 
 Aspect is a feature that specifies duration of the action in time, whether the action has been completed, ongoing etc.
 
@@ -39,4 +48,12 @@ Tatar distinguishes this aspect only in a converb construction ("while ...") wit
 
 * _Мин сиңа <b>бара-бара</b> сөйләрмен_ "I will tell you on the road (lit. while going)"
 * _Илнар Гөлнараны <b>озата</b> кайтты_ "Ilnar saw Gölnara off"
+
+### <a name="Iter">`Iter`</a>: iterative aspect
+The action or event is repeated iteratively.
+
+#### Examples
+
+* _<b>язгалый</b> башлады_ "(s/he) started to write (sometimes, repeatedly)"
+
 <!-- Interlanguage links updated So kvě 14 19:02:04 CEST 2022 -->

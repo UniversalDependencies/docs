@@ -27,6 +27,14 @@ Expresses _as we all know_.
 
 * [sms] _aalmi<b>-han</b> kâʹl jåått da teâtt._ "the people, <b>as we know</b>, will do just as you suspect"
 
+### <a name="Os">`Os`</a>: clitic -õs
+
+Expresses discourse nuance, perhaps topicalizer.
+
+#### Examples
+
+* [sms] _Näʹde ton<b>-õs</b> mõõnsââʹst_ "So you take a walk..."
+
 ### <a name="QstA">`QstA`</a>: question particle -a
 
 Is added to the core of the question.

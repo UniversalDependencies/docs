@@ -22,12 +22,12 @@ The following 37 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 nmod	color:blue
-1	Спосіб	спосіб	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj|6:nsubj:sp	Id=0p6v|LTranslit=sposib|Translit=Sposib
+1	Спосіб	спосіб	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj|6:nsubj:pred	Id=0p6v|LTranslit=sposib|Translit=Sposib
 2	термічного	термічний	ADJ	Ao-nsgf	Case=Gen|Gender=Neut|Number=Sing	3	amod	3:amod	Id=0p6w|LTranslit=termičnyj|Translit=termičnoho
 3	декорування	декорування	NOUN	Ncnsgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod	Id=0p6x|LTranslit=dekoruvanńа|Translit=dekoruvanńа
 4	деревини	деревина	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	3:nmod	Id=0p6y|LTranslit=derevyna|Translit=derevyny
 5	називається	називатися	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=0p6z|LTranslit=nazyvatyśа|Translit=nazyvaěťśа
-6	піротипією	піротипія	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	xcomp:sp	5:xcomp:sp	Id=0p70|LTranslit=pirotypija|SpaceAfter=No|Translit=pirotypiěju
+6	піротипією	піротипія	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	xcomp:pred	5:xcomp:pred	Id=0p70|LTranslit=pirotypija|SpaceAfter=No|Translit=pirotypiěju
 7	.	.	PUNCT	U	_	5	punct	5:punct	Id=0p71|LTranslit=.|Translit=.
 
 ~~~

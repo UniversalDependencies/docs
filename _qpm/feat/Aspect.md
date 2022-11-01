@@ -21,9 +21,9 @@ Imperfective verbs denote an action/event with no internal telic point.
 
 #### Examples
 
-* _kázavom_ "λέω / διηγούμαι"
-* _predávom_ "πουλώ"
-* _písavom_ "γράφω"
+* _kázavom_ "[to] say [always] / [to] tell [always]/ [to] narrate [always]" 
+* _predávom_ "[to] sell" 
+* _písavom_ "[to] write"
 
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
@@ -31,23 +31,13 @@ Perfective verbs denote an action/event with an internal telic point.
 
 #### Examples
 
-* _kážom_ "πω / διηγηθώ"
-* _prédadom_ "πουλήσω"
-* _píšom_ "γράψω"
+* _kážom_ "[to] say [once]/ [to] tell [once][to] narrate [once]" 
+* _prédadom_ "[to] sell [once]"  
+* _píšom_ "[to] write [once]" 
 
 The following combinations of tense and aspect features are available for Pomak:
-<!--Here provide a table with all the verbal paradigm and the combination of tense/aspect features, 
-or put the table in Tense and give a pointer -->
-
-
-<!--Χάριν μιας σωστότερης, ακριβέστερης και σαφέστερης περιγραφής του παρατατικού χρόνου των ρημάτων (σε σχέση με αυτόν του αορίστου), 
-υιοθετήθηκαν δυο επιπλέον κατηγορίες aspect (σε συνδυασμό με το feature `Tense=Past`), για τη μεν διαρκή όψη το feature `progressive aspect` 
-για τη δε συντελική / συνοπτική όψη το feature `iterative aspect`.-->
 
 In Pomak, iteration of an event in the past may be described from both an atelic and a telic point of view, as follows:  
-<!--Ritvan, Panagioti, check my english claims-->
-<!--Ritvan could you think of any temporal adverbs that would highlight the difference? Advrbs that would match the one type of the verb only?-->
-<!--Kαι πώς λές στα Πομακικά "τη στιγμή που μπήκες στο σπίτι έγραφα"-->
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
@@ -55,9 +45,9 @@ Atelic point of view: the description focuses on the (durative nature of the) it
 
 #### Examples
 
-* _kázavah_ "έλεγα / διηγούμουν (σε αόριστη / διαρκή επανάληψη)"  <!--δώσε προτάσεις που να έρχονται σε αντιθεση με τις πιο κάτω-->
-* _predávah_ "πουλούσα (σε αόριστη / διαρκή επανάληψη)"
-* _písavah_ "έγραφα (σε αόριστη / διαρκή επανάληψη)"
+* _kázavah_ "[I] was saying / narrating" 
+* _predávah_ :[I} was selling" 
+* _písavah_ "[I] was writing" 
 
 ### <a name="Iter">`Iter`</a>: iterative aspect
 
@@ -65,13 +55,11 @@ Telic point of view: the description focuses on the telic events in the iteratio
 
 #### Examples
 
-* _kážašo_ "έλεγε (σε μεμονωμένη επανάληψη)"
-    * _stáryjet dǽdo kážašo dečjómte annó meselǿ i to ištǽho i drúgo i drúgo_ "ο γέρο-παππούς διηγούνταν στα παιδιά ένα παραμύθι κι εκείνα 
-	ζητούσαν κι άλλο κι άλλο" <!--τί άλλο, παραμύθι ή διήγηση?-->
-* _predadǽšo_ "πουλούσε (σε μεμονωμένη επανάληψη)"
-    * _agá predadǽšo tütǘnete, naj napréš ídešo da sí platí kakváta bórče imǽšo_ "όταν πουλούσε τα καπνά (κάθε μεμονωμένη φορά που πουλούσε 
-	τα καπνά), πρώτα - πρώτα πήγαινε να εξοφλήσει ό,τι χρέη είχε". <!--μηπως καλύτερη μετάφραση είναι κάθε φορά που...-->
-* _píšašo_ "έγραφε (σε μεμονωμένη επανάληψη)" <!--πρόταση;;;;-->
+* _kážašo_ "[he] was saying [once]"
+    * _stáryjet dǽdo kážašo dečjómte annó meselǿ i to ištǽho i drúgo i drúgo_ "old grandfather was telling the children a story and they were asking for an other and an other" 
+* _predadǽšo_ "[he] was selling [once]" 
+    * _agá predadǽšo tütǘnete, naj napréš ídešo da sí platí kakváta bórče imǽšo_ "whenever he would sell his tobacco, he would first go and pay off all the depts he had [lit: when he was selling the tobacco, first he was going to pay off whatever dept he had]" 
+* _píšašo_ "[he] was writing [once]" 
 
 
 <!-- Interlanguage links updated So kvě 14 19:02:04 CEST 2022 -->

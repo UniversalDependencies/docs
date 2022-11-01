@@ -3,6 +3,7 @@ layout: postag
 title: 'CCONJ'
 redirect_from: "el/pos/CONJ.html"
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
 
 A coordinating conjunction is a word that links words or larger

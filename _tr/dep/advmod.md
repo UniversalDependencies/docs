@@ -23,4 +23,29 @@ advmod(konuşuyorlar, Sürekli)
 ~~~
 
 We use a special label, [tr-dep/advmod:emph]() for adverbial modifiers that are used for emphasis.
+
+## Negation
+
+In UD v1, there was a special relation `neg`. In UD v2, `advmod` is used in its place.
+The negation modifier is the relation between a negation word and the word it modifies.
+
+In Turkish, negation is typically done through suffixation.
+We use `advmod` only if the non-predicative use of  the word _değil_.
+
+~~~ sdparse
+Elma değil , armut al demiştim . \n I asked for pears, not for apples.
+advmod(Elma, değil)
+~~~
+
+~~~ sdparse
+En büyüğünü al dedim, küçük değil . \n I told you to get the biggest
+not small(est)
+advmod(küçük, değil)
+~~~
+
+~~~ sdparse
+Değil üniversite , orta okulu bile bitirmemiş . \n Let alone the university, he did not even finish the secondary school
+advmod(üniversite, Değil)
+~~~
+
 <!-- Interlanguage links updated So kvě 14 19:02:54 CEST 2022 -->

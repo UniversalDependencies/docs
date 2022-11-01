@@ -14,8 +14,7 @@ about something known and concrete, or something general or unknown. It can be m
 The Pomak definite article gives only enclitic forms; as an affix of the word on which 
 it depends syntactically, it forms a single morphological unit with it. Definiteness is realised with three different forms  
 (-s/-t/-n) depending on the [Deixis]() denoted(see <!--deixis pomak -- supply-->).  <!--definiteness and deixis are iseparable?-->
- Ας σημειωθεί ότι η Πομακική δεν έχει συμφωνία οριστικότητας, <!--I do not understand the meaning of this: would the following describe better the 
-intended meaning? 
+ 
 In an NP, the enclitic attaches to either the noun or the first adjective (if adjectives exist). 
 ---please  provide two or three examples and a detailed description of the examples-->
 e.g. *kámatnyj<b>en</b> červén trendráfel je zøl da véne* "the nice red roses are wilting".

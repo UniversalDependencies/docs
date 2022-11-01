@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Yes</a></td>
-  
+  <td><a href="#Yes">Yes</a></td>
   
 </tr>
 </table>
@@ -25,7 +25,6 @@ udver: '2'
 * _<b>nafi</b>&nbsp;_ “”
 
  
-
 
 
 ## Diffs

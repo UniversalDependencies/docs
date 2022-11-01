@@ -386,6 +386,16 @@ collections:
     output: true
   aln:
     output: true
+  gu:
+    output: true
+  xav:
+    output: true
+  yrl:
+    output: true
+  say:
+    output: true
+  ml:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 

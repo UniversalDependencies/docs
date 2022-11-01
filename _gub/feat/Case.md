@@ -9,14 +9,14 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Abe">Abe</a></td>
-  <td><a href="#Abl">Ref</a></td>
-  <td><a href="#All">Ref</a></td>
+  <td><a href="#Abl">Abl</a></td>
+  <td><a href="#All">All</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tem">Tem</a></td>
   <td><a href="#Tra">Tra</a></td>
   <td><a href="#Ref">Ref</a></td>
-  <td><a href="#Equ">Ref</a></td>
+  <td><a href="#Equ">Equ</a></td>
   
 
 </tr>

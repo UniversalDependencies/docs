@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Intens'
-shortdef: 'intens'
+shortdef: 'intensifier'
 udver: '2'
 ---
 
@@ -14,18 +14,15 @@ udver: '2'
 </tr>
 </table>
 
-
+`Intens` is marked in Tekó with suffixes _`-aɨ`_ (indicates a high degree of an important action realization, lit. 'much', 'very') and _`-katu`_ (indicates that an action is accomplished satisfactorily,  lit. 'completely', 'very'). 
 
 ### <a name="Yes">`Yes`</a>: Yes
 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “”
-
- 
-
-
+* _iɲuʔaŋ<b>aɨ</b>_&nbsp; “It is really cold.”
+* _aʔuwe tapɨdʒarowər dobaʔepa<b>katu</b>dʒi_&nbsp; “They haven't really finished the roof of the house yet.”
 
 ## Diffs
 

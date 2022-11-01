@@ -41,11 +41,12 @@ either [VERB]() or `ADV`.
 - _exactly_
 - _tomorrow_
 - _up, down_
-- interrogative adverbs: _where, when, how, why_
+- interrogative/relative adverbs: _where, when, how, why, whenever, wherever_ (including when used to mark a clause that is circumstantial, not interrogative or relative)
 - demonstrative adverbs: _here, there, now, then_
 - indefinite adverbs: _somewhere, sometime, anywhere, anytime_
 - totality adverbs: _everywhere, always_
 - negative adverbs: _nowhere, never_
+- [de] _usw._ “etc.” (see [conj]())
 
 ### References
 

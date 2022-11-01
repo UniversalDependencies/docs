@@ -81,9 +81,9 @@ or exceeded; it shouldn't be difficult to reach with a translation of the exampl
 1. `README.md` or `README.txt`
 2. `LICENSE.txt`
 3. `CONTRIBUTING.md`
-4. `xx-ud-test.conllu`
-5. `xx-ud-train.conllu`
-6. `xx-ud-dev.conllu`
+4. `xx_y-ud-test.conllu`
+5. `xx_y-ud-train.conllu`
+6. `xx_y-ud-dev.conllu`
 
 The `README.md` file contains basic documentation of the treebank and machine-readable metadata
 for the UD main page (see below) and the `LICENSE.txt` specifies under what license the treebank
@@ -338,6 +338,8 @@ git pull
 </pre>
 
 Once you do this, you are all set. Your copy will stay switched to the dev branch unless you call `git checkout master` (or other `git checkout`) again. You will probably mostly need just `git status`, `git diff`, `git add`, `git commit`, `git push` and `git pull` commands. All pushes and pulls will be done against the remote `dev` branch.
+
+<strong>Never ever modify the history of the git commits!</strong> While this is a bad practice in a collaborative environment in general, the immediate consequence in UD is that you will break the automatic re-validation of your treebank. (The validation server has its own copy of your repository, with the whole history. If a previously existing commit disappears from Github, it will look as if that commit is a local change on the validation server, and the validation server will no longer be able to automatically update its copy from Github.) So if you accidentaly commit a modification that is later found wrong, do not remove the commit from the history. Instead, revert the changes of the commit so that the inverse changes appear in your working copy, then add these changes to a new commit and push it to Github.
 
 
 

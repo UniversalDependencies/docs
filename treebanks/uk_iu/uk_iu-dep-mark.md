@@ -43,13 +43,13 @@ The following 24 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 5 mark	color:blue
 1	Готовий	готовий	ADJ	Ao-msafn	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	amod	2:amod	Id=0peh|LTranslit=hotovyj|Translit=Hotovyj
-2	виріб	виріб	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj|6:nsubj:sp	Id=0pei|LTranslit=vyrib|Translit=vyrib
+2	виріб	виріб	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj|6:nsubj:pred	Id=0pei|LTranslit=vyrib|Translit=vyrib
 3	можна	можна	ADV	R	_	0	root	0:root	Id=0pej|LTranslit=možna|Translit=možna
 4	використовувати	використовувати	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	3	csubj	3:csubj	Id=0pek|LTranslit=vykorystovuvaty|Translit=vykorystovuvaty
 5	як	як	SCONJ	Css	_	6	mark	6:mark	Id=0pel|LTranslit=jak|Translit=jak
-6	картину	картина	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	xcomp:sp	4:xcomp:sp	Id=0pem|LTranslit=kartyna|SpaceAfter=No|Translit=kartynu
+6	картину	картина	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	xcomp:pred	4:xcomp:pred	Id=0pem|LTranslit=kartyna|SpaceAfter=No|Translit=kartynu
 7	,	,	PUNCT	U	_	8	punct	8:punct	Id=0pen|LTranslit=,|Translit=,
-8	вставку	вставка	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	conj	4:xcomp:sp|6:conj	Id=0peo|LTranslit=vstavka|Translit=vstavku
+8	вставку	вставка	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	conj	4:xcomp:pred|6:conj	Id=0peo|LTranslit=vstavka|Translit=vstavku
 9	тощо	тощо	PART	Q	_	6	discourse	6:discourse	Id=0pep|LTranslit=toščo|SpaceAfter=No|Translit=toščo
 10	.	.	PUNCT	U	_	3	punct	3:punct	Id=0peq|LTranslit=.|Translit=.
 

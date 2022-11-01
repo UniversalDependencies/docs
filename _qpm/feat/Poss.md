@@ -9,8 +9,9 @@ udver: '2'
 
 Boolean feature of pronouns, determiners or adjectives.  It specifies a word as possessive or not possessive.
 
-While many tagsets would have "possessive" as one of the various pronoun types, this feature is intentionally separate from [PronType](PronType.html), 
+While many tagsets would have "possessive" as one of the various pronoun types, this feature has been intentionally kept separate from [PronType](PronType.html), 
 as it is orthogonal to pronominal types. Several of the pronominal types can be optionally possessive, and adjectives can too.
+
 
 ### <a name="Yes">`Yes`</a>: it is possessive
 
@@ -19,15 +20,16 @@ In Pomak, the feature 'Poss=Yes is assigned to some pronoun types.
 Note that there is no `No` value. If the word is not possessive, the `Poss` feature will just not be mentioned in the `FEAT` column:
  the empty value has the `No` meaning.
 
-#### Examples
+#### Examples [qpm]
 
-* κτητικές προσωπικές αντωνυμίες:
-    * _moj, tvoj, tógov / tógav, tójin, naš, vаš, tǽhan_ "δικός μου, δικός σου, δικός του, δικός της, δικός μας, δικός σας, δικός τους"
-* κτητικές ερωτηματικές αντωνυμίες:
-    * _číjje_ "ποιανού / τίνος"
-* κτητικές αναφορικές αντωνυμίες:
-    * _číjjeso / číjjeto / číjjeno_ "οποιανού, οποιανής, οποιανών"
-* κτητικά επίθετα:
-    * _bubájkov, brátov / bátev, dǽdov, kalékov, újkov, amíǧev, májčin, séstrin / búlin, nevǽstin, bábin, lélin, účinin, starčinín_ "του πατέρα, του αδερφού, του παππού, του θείου, του θείου, του θείου, της μητέρας, της αδερφής, της νύφης, της γιαγιάς, της θείας, της θείας, της θείας"
+
+* possessive personal pronouns:
+    * _moj, tvoj, tógov / tógav, tójin, naš, vаš, tǽhan_ "mine, yours, his / hers /its, our, yours, their"  
+* possesive interrogative pronouns:
+    * _číjje_ "who's ?"  
+* possesive relative pronouns:
+    * _číjjeso / číjjeto / číjjeno_ "whoever's"  
+* possesive adjectives:
+    * _bubájkov "of the father / father's", brátov / bátev "of the brother / brother's", dǽdov "of the grandfahter / grandfather's", kalékov "of the uncle / uncle's", újkov "of the uncle / uncle's", amíǧev "of the uncle / uncle's", májčin "of the mother / mother's", séstrin / búlin "of the sister / sister's", nevǽstin "of the daughter in law", bábin "of the grandmother / grandmother's" , lélin "of the aunt / aunt's", účinin "of the aunt / aunt's", starčinín "of the aunt / aunt's"_
 
 <!-- Interlanguage links updated So kvě 14 19:02:34 CEST 2022 -->

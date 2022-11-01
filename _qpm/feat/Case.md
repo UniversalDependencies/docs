@@ -37,7 +37,7 @@ Possessors:
 
 With the functions of the dative, namely as an indirect object and as  the complement of certain prepositions: <!--verify and exemplify accordingly-->
 
-* _<b>kóštojne</b> atvóriho póte isǽ skóra_ "only recenlty they opened the road<b>to the house</b>" <!--os that an indirect object or a complment of special preposition?-->
+* _<b>kóštojne</b> atvóriho póte isǽ skóra_ "only recenlty they opened the road <b>to the house</b>" <!--os that an indirect object or a complment of special preposition?-->
 * _<b>détenune</b> prevádot parý faf sǽko méseca_ "they send moneny <b>to the child</b> every month"
 * _<b>hórehune</b> púštot vódo čósto_ "they pour water <b>to the walnut-tree</b> often"
 
@@ -59,7 +59,6 @@ The vocative case is typically used to address someone.
 * _<b>žóno</b>, mólem ti so, namój so mesí na mósky rábaty!_ "<b>Woman</b>, please, do not interfere in men's affairs!"
 * _ah, bre <b>déte</b>, kaná ištǽšo da hódiš itám?_ "but my <b>child</b>, why should you go there?"
 * _tébe, <b>Asáne</b>, še to pójemom sas móne, da mi pamágaš_ "you <b>Chasan</b>, I am going to take with me to help me"
-* _kadé si, bre <b>dúšo</b>? - godíny tó som ne vídeval!_ "πού είσαι, βρε <b>ψυχή</b>; - χρόνια δεν σ' έχω δει!" 
-<!--Panagioti, this is too idiomatic and in fact I do not feel happy about any of these translations-->
+* kadé si, bre <b>dúšo</b>? - godíny tó som ne vídeval!_ "where have you been, my dearest? It is a very long time since I have seen you [lit: where are you, oh soul? years you [I] have not seen" 
 
 <!-- Interlanguage links updated So kvě 14 19:02:05 CEST 2022 -->

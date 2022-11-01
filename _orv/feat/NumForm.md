@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Combi">Combi</a></td>
   <td><a href="#Cyril">Cyril</a></td>
   <td><a href="#Digit">Digit</a></td>
   <td><a href="#Roman">Roman</a></td>
@@ -29,6 +30,12 @@ digits, letters, or as a word?
 #### Examples
 
 * _1, 2, 3_
+
+### <a name="Combi">`Combi`</a>: digits combined with a suffix
+
+#### Examples
+
+* 177-го (177th)
 
 ### <a name="Roman">`Roman`</a>: Roman numeral
 

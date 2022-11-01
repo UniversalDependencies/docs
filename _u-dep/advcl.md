@@ -47,6 +47,24 @@ She entered the room while sad
 advcl(entered, sad)
 ~~~
 
+## Modifying Nominal Predicates
+
+An `advcl` never modifies a nominal as such (then it would be [acl]() instead) but it can modify a clausal predicate
+that is realized as a nominal, with or without copula. One has to distinguish whether the modifier clause modifies the
+whole predication of the matrix clause, or just the entity denoted by the nominal. Hence we have `advcl` in
+
+~~~ sdparse
+He is a teacher , although he no longer teaches .
+advcl(teacher, teaches)
+~~~
+
+but [acl:relcl]() in
+
+~~~ sdparse
+He is a teacher whom the students really love .
+acl:relcl(teacher, love)
+~~~
+
 ## Optional Depictives
 
 This relation is also used for optional depictive adjectives, where the adjective is introduced in clause structure independently of the nominal it describes (contrast: [acl]() if the adjective is an adnominal predicate). The depictive adjective is treated as an adverbial clause modifier of the higher clause. The adjective also provides a secondary predication, where the nominal predicand may or may not be overt; if it is overt, the secondary predication can be represented with an enhanced dependency. See [xcomp]() for further discussion of resultatives and depictives.

@@ -22,7 +22,7 @@ different parts of speech):
 Czech _dělals (dělal + jsi_ ... main verb + auxiliary); _proň (pro + něj_ ... preposition + pronoun);
 German _zum (zu + dem_ ... preposition + article);
 Spanish _dámelo (da + me + lo_ ... verb + clitics) etc.
-The only truly general approach to fused words in UD is to exploit the distinction between tokens and (syntactic) words, 
+The only truly general approach to fused words in UD is to exploit the distinction between tokens and (syntactic) words,
 and to apply a language-specific processing step that splits tokens into syntactic words
 where necessary. Every syntactic word then gets its own part-of-speech tag
 and features. See also <a href="tokenization.html">Tokenization</a> and
@@ -31,7 +31,7 @@ and features. See also <a href="tokenization.html">Tokenization</a> and
 ## Lemmas
 
 The `LEMMA` field should contain the canonical or base form of the word, which is the form typically found in dictionaries.
-If a language is agglutinative, this is typically the form with no inflectional affixes; in fusional languages, 
+If a language is agglutinative, this is typically the form with no inflectional affixes; in fusional languages,
 the lemma is usually the result of a language-particular convention.
 If the lemma is not available, an underscore ("`_`") can be used to indicate its absence.
 
@@ -39,12 +39,12 @@ At present, treebanks have considerable leeway in interpreting what "canonical o
 Except perhaps in rare cases of suppletion, one form should be the chosen as the lemma of a verb, noun, determiner, or pronoun paradigm.
 The lemma of adjectives and adverbs should be the positive form (in languages with comparative and superlative forms).
 The lemma does not remove derivational morphology, so the lemma of [en] _organizations_ is _organization_ not _organize_ (nor _organ_).
-In general, a canonical form should collapse inflectional and minor orthographic/spelling variation 
-(such as casing, accents/diacritics, and typos). In the lemma field, some treebanks may choose 
-to aggressively normalize spelling variation that may reflect dialect or authorial style. 
+In general, a canonical form should collapse inflectional and minor orthographic/spelling variation
+(such as casing, accents/diacritics, and typos). In the lemma field, some treebanks may choose
+to aggressively normalize spelling variation that may reflect dialect or authorial style.
 
 Abbreviated/shortened forms can be mapped to their full spelling as the lemma
-in conjunction with the feature [`Abbr=Yes`](../feat/Abbr.html), provided that the full spelling 
+in conjunction with the feature [`Abbr=Yes`](../feat/Abbr.html), provided that the full spelling
 is a single word. Abbreviations that would expand to multiple words should be retained in the lemma.
 
 The `LEMMA` field should not be used to encode features or other similar properties of the word (use `FEATS` and `MISC` instead; see [format](../../format.html)).
@@ -58,23 +58,23 @@ If unique lemma identifiers are available, they can be preserved in the `MISC` c
 
 *Details at: [Typos and Other Errors](typos.html)*
 
-In addition to normalizing spelling in lemmas, treebanks are encouraged to adopt the optional morphological feature 
-[`Typo=Yes`](../feat/Typo.html) for clear accidental misspellings of a word (e.g. *ltake* for *take* or *too* for *to*). 
+In addition to normalizing spelling in lemmas, treebanks are encouraged to adopt the optional morphological feature
+[`Typo=Yes`](../feat/Typo.html) for clear accidental misspellings of a word (e.g. *ltake* for *take* or *too* for *to*).
 Typos of words in closed-class categories can be found in a corpus by inspecting word frequencies in each category.
-Treebank maintainers should take care not to use `Typo=Yes` for words that may reflect actual linguistic variation, 
+Treebank maintainers should take care not to use `Typo=Yes` for words that may reflect actual linguistic variation,
 e.g., dialect, style, or nonnative grammar.
 
-On occasion, a typo or abbreviation will apply to an inflected word (e.g. *hadd* for *had*), and thus the lemma 
+On occasion, a typo or abbreviation will apply to an inflected word (e.g. *hadd* for *had*), and thus the lemma
 should both normalize the spelling and remove the inflection.
 
-For incorrectly split words, the first segment should be treated as morphologically representing the entire word, 
+For incorrectly split words, the first segment should be treated as morphologically representing the entire word,
 so it should have the lemma for the entire word, as described at [Typos and Other Errors](typos.html).
 
 ## Part-of-Speech Tags
 
 The list of <a href="../../u/pos/index.html">universal POS tags</a> is a fixed list containing 17 tags.
 It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover
-language-specific extensions. Instead, more fine-grained classification of words can be achieved via the use of 
+language-specific extensions. Instead, more fine-grained classification of words can be achieved via the use of
 <a href="../../u/feat/index.html">features</a> (see below).
 
 Also, note that the <a href="../../format.html">CoNLL-U format</a>
@@ -85,6 +85,38 @@ data column and are not mixed with the universal POS tags.
 The universal POS tags consist of uppercase English letters `[A-Z]` only.
 Just one tag per word is expected, and it should not be empty. (Use the `X` tag
 instead of underscore if no other tag is appropriate.)
+
+### Tagging principles
+
+A word's category should be primarily determined by prototypical (expected) syntactic behavior,
+as typically recorded in a dictionary, rather than by the context of a particular sentence.
+Syntax still plays an important role, especially in cross-linguistic mapping of same-named categories.
+However, prototypical (expected) syntactic behavior is of more importance than function performed in exceptional contexts.
+
+Morphological behavior may be a good indicator in some languages.
+If, for example, a language uses distinct inflection patterns for nouns and adjectives, then
+morphology can be used to distinguish these two categories. Exceptions cannot be excluded but they
+should be really exceptional and well grounded; when in doubt, use the category determined by
+morphology (if available).
+
+Ambiguous words (belonging to two or more categories) do exist. Sometimes by pure coincidence
+([en] _the can_ vs. _can = to be able to_). Sometimes the two words are related but differ
+morphologically ([en] _the book(s)_ vs. _to book, booked, booking_).
+
+Perhaps the most difficult part are ambiguous function words that do not inflect (i.e. morphology
+does not help us), yet they perform two or more _significantly_ different syntactic functions,
+which we normally associate with different parts of speech. The two functions may not be equally
+frequent but each of them is more frequent than what could be labeled as a mere exception (i.e.,
+the _wait for his ‘yes’_ example below is exceptional). Disambiguating such pairs clearly depends
+on the context of the given sentence where the word is used.
+So how do we know that the difference is “significant enough”? One clue is that the word, when
+translated to another language, gets two different translations with different POS tags (e.g.,
+the English _no_ as response interjection, vs. negative determiner). Another clue comes from
+contrasting the UD relations used for the two functions. For example, distinguishing `PRON`
+from `SCONJ` ([en] _that_, [es] _que_, [ru] _что_ / _čto_) is important because pronouns, unlike
+conjunctions, may become core arguments and fill valency slots of verbs. Distinguishing `SCONJ`
+from `ADP`, or `CCONJ` from `ADV` seems less crucial and we can keep just one POS tag
+for each such word, based on prototypical usage.
 
 ### Using a word vs. mentioning it
 
@@ -138,6 +170,22 @@ and morphosyntactic properties. Every feature has the form `Name=Value` and
 every word can have any number of features, separated by the vertical bar, as in
 `Gender=Masc|Number=Sing`.
 
+Analogically to part-of-speech tags, features describe the word form but not
+necessarily its exact function in the given sentence. Most of the features are
+for locating the form in a slot of a morphological paradigm, and are canonical
+labels for the slot. Thus, for example, the [Voice]() feature is used in Czech
+to distinguish passive participles (_prodán_ “sold” `Voice=Pass`), which are
+morphologically distinct from active participles (_prodal_ “sold” `Voice=Act`);
+however, the feature is not used in English, where the same form is used in
+active and passive constructions alike (cf. _he has sold it_ vs. _it was sold_).
+On the other hand, some word forms are homonymous and context must be used to
+identify the paradigm slot to which they belong. For example, the morphological
+paradigm of Czech nouns distinguishes nominative and accusative (among other
+[Case]() values), as in _matka_ “mother” `Case=Nom` vs. _matku_ `Case=Acc`.
+Nevertheless, due to case syncretism, some other lexemes have the same form in these
+two paradigm slots, e.g. _píseň_ “song” is either `Case=Nom` or `Case=Acc` and
+it has to be disambiguated by context.
+
 We provide an <a href="../../u/feat/index.html">inventory of
 features</a> that are attested in multiple corpora and it is thus
 desirable that they are encoded in a uniform way.
@@ -156,10 +204,10 @@ Universal and language-specific features of a word are listed together in the FE
   occasionally, digits 0-9. The first letter is always uppercase.
   The other letters are generally lowercase, except for positions where new
   internal words are marked for better readability (e.g. `NumType`).
-  This makes features distinct from the 
-  <a href="../../u/pos/index.html">universal POS tags</a> 
-  (all uppercase) and from the 
-  <a href="../../u/dep/index.html">universal dependency relations</a> 
+  This makes features distinct from the
+  <a href="../../u/pos/index.html">universal POS tags</a>
+  (all uppercase) and from the
+  <a href="../../u/dep/index.html">universal dependency relations</a>
   (all lowercase).
 * A feature of a word should always be fully specified in the data, i.e. both
   the feature name and the value should be identified: `PronType=Prs`.

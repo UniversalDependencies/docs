@@ -17,7 +17,7 @@ udver: '2'
 </tr>
 </table>
 
-The `nominal` layer for `InflClass` uses the same values as [`InflClass`](la-feat/InflClass) to distinguish the declensions of nominal forms of verbs, whose first-layer `InflClass` already refers to a conjugation class. It can thus be observed that nominal forms of verbs belong to two inflectional paradigms at the same time.
+The `nominal` layer for `InflClass` uses the same values as [`InflClass`](la-feat/InflClass) to distinguish the declensions of nominal forms of verbs, whose first-layer `InflClass` already refers to a conjugation class. It can thus be observed that nominal forms of verbs can maximally belong to two inflectional paradigms at the same time.
 
 * Overview of possible `InflClass[nominal]` values with the verb *amo* 'to love' (`InflClass=LatA`) as an example:
 
@@ -26,9 +26,12 @@ The `nominal` layer for `InflClass` uses the same values as [`InflClass`](la-fea
 Perfect/future participle, gerundive/gerund  | *amatus*, *amaturus*, *amandus* | `IndEurA` or `IndEurO`, according to [`Gender`](la-feat/Gender) (`Fem` and `Masc`/`Neut` respectively) | Like first-class [adjectives](la-pos/ADJ)
 Present participle  | *amans*  | `IndEurI` | Like most second-class adjectives and third-declension [nouns](la-pos/NOUN) with *i* stem
 Supine   | *amatu*  | `IndEurU` | Only appears in the ablative and accusative [cases](la-feat/Case)
-Present/perfect infinitives   | *amare*, *amari*, *amauisse*  | `Ind` | Indeclinable verbal noun
+Present/perfect infinitives   | *amare*, *amari*, *amauisse*  | `Ind`° | Indeclinable verbal noun
 
 *(Note: in the following m = masculine gender, f = feminine, n =neuter.)*
+
+° deprecated
+
 
 ### <a name="IndEurA">`IndEurA`</a>: first declension of nominal forms
 
@@ -121,7 +124,7 @@ Supine | *amatum*, *amatu*
 * ***scriptum*** '[going/coming/... somewhere to] write (acc.)'
 
 
-### <a name="Ind">`Ind`</a>: indeclinable nominal forms
+### <a name="Ind">`Ind`</a>: indeclinable nominal forms (deprecated)
 
 All infinitives are indeclinable verbal nouns (and they are not marked for `Case`, `Gender` nor `Number`).
 

@@ -6,6 +6,14 @@ udver: '2'
 
 # UD Events
 
+## 2023
+
+  * [6th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw23/)
+
+## 2022
+
+  * [UniDive COST Action](https://www.cost.eu/actions/CA21167/) is a joint project of Universal Dependencies and PARSEME, seeking to reach to other communities, such as UniMorph
+
 ## 2021
 
   * [IWPT 2021 shared task on enhanced UD parsing](http://universaldependencies.org/iwpt21/)

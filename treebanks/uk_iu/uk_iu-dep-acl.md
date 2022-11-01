@@ -51,7 +51,7 @@ The following 16 pairs of parts of speech are connected with `acl`: <tt><a href=
 7	чому	чому	ADV	Pr------r	PronType=Rel	9	advmod	9:advmod	Id=2o4b|LTranslit=čomu|Translit=čomu
 8	не	не	PART	Q	Polarity=Neg	9	advmod	9:advmod	Id=2o4c|LTranslit=ne|Translit=ne
 9	став	стати	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	acl	5:acl	Id=2o4d|LTranslit=staty|Translit=stav
-10	медиком	медик	NOUN	Ncmsiy	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	9	xcomp:sp	9:xcomp:sp	Id=2o4e|LTranslit=medyk|SpaceAfter=No|Translit=medykom
+10	медиком	медик	NOUN	Ncmsiy	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	9	xcomp:pred	9:xcomp:pred	Id=2o4e|LTranslit=medyk|SpaceAfter=No|Translit=medykom
 11	.	.	PUNCT	U	_	3	punct	3:punct	Id=2o4f|LTranslit=.|Translit=.
 
 ~~~

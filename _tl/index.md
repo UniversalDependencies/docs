@@ -4,7 +4,7 @@ title:  'Tagalog UD'
 udver: '2'
 ---
 
-# UD for Tagalog <span class="flagspan"><img class="flag" src="../../flags/svg/PH.svg" /></span>
+# UD for Tagalog <span class="flagspan"><img class="flag" src="../flags/svg/PH.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -36,13 +36,12 @@ udver: '2'
 * Nouns ([NOUN]()) and proper nouns ([PROPN]()) do not have [Number]() because plural, if overtly expressed, is signaled by the function word _mga_ or by reduplication. In the former case, the pluralizel _mga_ bears the feature `Number=Plur`. In case of reduplication, there are two tokens connected via [compound:redup]() and neither bears a `Number` feature.
 * However, the [Number]() feature is marked for pronouns ([PRON]()), with three possible values: `Sing`, `Dual`, `Plur` (the dual is used only with one pronoun that refers to the speaker and the listener).
 * Some nouns have an inherent [Gender]() with one of two values: `Masc`, `Fem`. This involves mostly person-denoting loanwords from Spanish and personal first names. Other nouns do not have the feature.
-* [Case]() has 3 possible values: `Nom`, `Gen`, `Dat`. The case names are not without controversy, as some authors would argue for an ergative analysis of the Philippine languages (while others would either use the labels adopted here, or use `Acc` instead of `Gen`, or argue that the Philippine type is neither ergative-absolutive nor nominative-accusative).
-  Our nominative case corresponds to the subject of a clause regardless of voice (like in many European languages).
-  The genitive case is used for non-subject core participants in a clause, and for modifiers of other nominals.
-  The dative case is oblique and encompasses various locative and directional meanings.
-  In full noun phrases, `Case` is a lexical feature of the case-marking word, i.e., [ADP]().
-  Note that there are also other prepositions which are not tagged with any `Case` feature, although they are attached to a noun via the [case]() relation.
-  For pronouns ([PRON]()), `Case` is their inflectional feature.
+* [Case]() has 3 primary values: `Nom`, `Gen`, `Dat`. The case names are not without controversy, as some authors would argue for an ergative analysis of the Philippine languages (while others would either use the labels adopted here, or use `Acc` instead of `Gen`, or argue that the Philippine type is neither ergative-absolutive nor nominative-accusative).
+  * The nominative case corresponds to the subject of a clause regardless of voice (like in many European languages).
+  * The genitive case is used for non-subject core participants in a clause, and for modifiers of other nominals.
+  * The dative case is oblique and may encompass various locative and directional meanings.
+  * In full noun phrases, [Case]() is a lexical feature of the case-marking word or phrase, i.e., [ADP](). For case markers of obliques, more fine-grained values may be specified, e.g. `Loc` for locative *sa*, `Ben` for benefactive *para sa*, and `Ins` for instrumental *sa pamamagitan ng*. Note that there are also other prepositions which are not tagged with any [Case]() feature, although they are attached to a noun via the [case]() relation.
+  * For pronouns ([PRON]()), [Case]() is their inflectional feature.
 
 ### Degree and Polarity
 
@@ -56,7 +55,7 @@ udver: '2'
 * Verbs inflect for [Mood](), [Aspect]() (rather than [Tense]()) and [Voice]().
 * The current data contain only verbs in the indicative mood (`Ind`).
 * Aspect is perfective (`Perf`), imperfective (`Imp`), prospective (`Prosp`) and habitual (`Hab`).
-* The Austronesian [Voice]() system is quite different from the active-passive opposition in Indo-European languages. The morphological voice of the verb “focuses” on one particular argument, which is annotated as subject. However, the voices are symmetric in the sense that focusing on the more patient-like argument (“passive” voice) does not transform a transitive clause into intransitive: the more agent-like argument, if present, is still a core argument. Moreover, it is possible to focus on arguments with other semantic roles as well. (Note that the “focus” of the verb on a particular semantic role should not be confused with pragmatic focus as in topic-focus articulation. The focused argument here is actually always the topic, not the focus of the utterance.) The following `Voice` features are defined in the universal guidelines and apply to multiple Philippine languages. Not all verbs have forms for all the voices, though.
+* The Austronesian [Voice]() system is quite different from the active-passive opposition in Indo-European languages. The morphological voice of the verb “focuses” on one particular argument, which is annotated as subject. However, the voices are symmetric in the sense that focusing on the more patient-like argument (“passive” voice) does not transform a transitive clause into intransitive: the more agent-like argument, if present, is still a core argument. Moreover, it is possible to focus on arguments with other semantic roles as well. (Note that the “focus” of the verb on a particular semantic role should not be confused with pragmatic focus as in topic-focus articulation. The focused argument here is actually always the topic, not the focus of the utterance.) The following [Voice]() features are defined in the universal guidelines and apply to multiple Philippine languages. Not all verbs have forms for all the voices, though.
   * To reduce proliferation of feature values, the actor-focus voice uses the same label as the active voice in Indo-European languages, that is, `Voice=Act`.
   * Analogously, the undergoer-focus voice is conflated with Indo-European passive (`Voice=Pass`), although its grammatical behavior is different, as explained above.
   * The locative-focused voice (`Voice=Lfoc`) marks the location as the topic of the sentence.
