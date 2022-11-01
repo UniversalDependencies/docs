@@ -114,7 +114,7 @@ udver: '2'
    conj(പുകവലി, മദ്യപാനം)
    cc(മദ്യപാനം, ഉം)
    xcomp(ശ്രമിച്ചു, നിർത്താൻ)
-   punct(ശ്രമിച്ചു, .)
+   punct(ശ്രമിച്ചു, .) 
    ~~~
    'He tried to quit smoking and drinking'
    
