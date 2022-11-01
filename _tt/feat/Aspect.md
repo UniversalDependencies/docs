@@ -52,6 +52,8 @@ Tatar distinguishes this aspect only in a converb construction ("while ...") wit
 ### <a name="Iter">`Iter`</a>: iterative aspect
 The action or event is repeated iteratively.
 
+#### Examples
+
 * _<b>язгалый</b> башлады_ "(s/he) started to write (sometimes, repeatedly)"
 
 <!-- Interlanguage links updated So kvě 14 19:02:04 CEST 2022 -->
