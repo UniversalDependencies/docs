@@ -21,7 +21,7 @@ In Pomak the `Deixis` feature is applied in combination with the [DeixisRef](Dei
 
 ### <a name="Prox">`Prox`</a>: proximate
 
-The entity is close to the reference point (e.g., to the speaker) - proximal or medial.
+The entity is close to the reference point (e.g., to the speaker) - proximal.
 
 #### Examples
 
