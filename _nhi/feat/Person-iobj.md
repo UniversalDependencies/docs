@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Person[dat]'
+title: 'Person[iobj]'
 shortdef: 'person agreement with the indirect object argument'
 udver: '2'
 ---
