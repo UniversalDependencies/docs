@@ -27,8 +27,8 @@ The entity is close to the reference point (e.g., to the speaker) - proximal or 
 
 * [qpm] _górm<b>os</b>_"the tree [here near me or near both the speaker and the listener - proximal]" 
 `Deixis=Prox|DeixisRef=1`
-* [qpm] _górm<b>ot</b>_ "the tree [there near you or near the listener - medial]" 
-`Deixis=Med|DeixisRef=2`
+* [qpm] _górm<b>ot</b>_ "the tree [there near you or near the listener - proximal]" 
+`Deixis=Prox|DeixisRef=2`
 
 
 ### <a name="Remt">`Remt`</a>: remote
