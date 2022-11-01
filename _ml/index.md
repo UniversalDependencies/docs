@@ -77,6 +77,7 @@ udver: '2'
 * [nsubj:pass]() for nominal subjects in passive clauses.
 * [obl:arg]() for oblique arguments (to distinguish them from other oblique dependents, i.e., adjuncts).
 * [nmod:poss]() for possessive adjectives. 
+'The girl wrote a letter to her friend'
    ~~~sdparse
    പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്ത് എഴുതി .
    nsubj(എഴുതി, പെൺകുട്ടി)
@@ -85,7 +86,7 @@ udver: '2'
    obj(എഴുതി, കത്ത്)
    punct(എഴുതി, .)
    ~~~
-  
+   
 ## Treebanks
 
 There is [1](../treebanks/ml-comparison.html) Malayalam UD treebank:
