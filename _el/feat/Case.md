@@ -16,7 +16,7 @@ udver: '2'
 </tr>
 </table>
 
-Case is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN), [adjectives](el-pos/ADJ), [determiners](el-pos/DET), [pronouns](el-pos/PRON),  [numerals ](el-pos/NUM) and [verbs](el-pos/VERB)(participles).
+Case is an inflectional feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN), [adjectives](el-pos/ADJ), [determiners](el-pos/DET), [pronouns](el-pos/PRON),  [numerals ](el-pos/NUM) and [verbs](el-pos/VERB) (participles).
 
 
 Case helps specify the role of the noun phrase in the sentence.
