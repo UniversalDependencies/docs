@@ -53,6 +53,7 @@ You may also want to announce your tool in the
     * [CoNLL-U viewer](#conll-u-viewer)
     * [UDAPI](#udapi)
     * [TüNDRA](#tündra)
+    * [UDeasy](#udeasy)
 
 
 
@@ -513,3 +514,14 @@ TüNDRA (Tübingen aNnotated Data Retrieval Application) is a web application fo
 * Implementation: JavaScript, React (frontend), Java (backend)
 * Credit: Department of General and Computational Linguistics at the University of Tübingen
 * [Access here](https://weblicht.sfs.uni-tuebingen.de/Tundra/)
+
+#### UDeasy
+
+Udeasy is an application written in Python 3 whose main goal is to allow the user to easily query a treebank and extract patterns from a treebank in CoNLL-U format. To do this, users are prompted in a series of dialogs to enter relevant information about syntactic nodes, their properties, relationship, and positions. The functions to extract the occurrences from a treebank rely on the udapi Python package. The graphic interface is built using the GUI toolkit wxPython.
+Due to its ease of use it is a useful tool for the community of linguists who want to use a data-driven approach and for the students who approach dependency treebanks without almost any experience with queries.
+
+* Category: tree viewer and search engine
+* Platform: Linux, Windows, MacOS
+* Implementation: Python
+* Credit: Luca Brigada Villa
+* [Homepage here](https://unipv-larl.github.io/udeasy/)
