@@ -55,6 +55,6 @@ udver: '2'
 
 ## Treebanks
 
-There are [1](../treebanks/nhi-comparison.html) Western Sierra Puebla Nahuatl UD treebanks:
+There is 1 Western Sierra Puebla Nahuatl UD treebank:
 
-  * [Western Sierra Puebla Nahuatl-ITML](../treebanks/nhi_a/index.html)
+  * [Western Sierra Puebla Nahuatl-ITML](../treebanks/nhi_itml/index.html)
