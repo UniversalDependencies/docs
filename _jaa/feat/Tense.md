@@ -10,7 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#IPast">IPast</a></td>
   <td><a href="#RPast">RPast</a></td>
-  <td><a href="#FutF">FutF</a></td>
+  <td><a href="#Fut">Fut</a></td>
 </tr>
 </table>
 
@@ -37,18 +37,8 @@ udver: '2'
 * _<b></b>&nbsp;_ “”
 
 
-### <a name="FutF">`FutF`</a>: Future feminine
-
-
+### <a name="Fut">`Fut`</a>: Future
 
 #### Examples
 
-* _<b>example future feminine</b>&nbsp;_ “future feminine”
-
-## Diffs
-
-### Prague Dependency Treebank
-
-The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
-therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated So kvě 14 19:02:41 CEST 2022 -->
+* _<b>example future feminine (???!!!)</b>&nbsp;_ “future feminine”
