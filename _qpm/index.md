@@ -51,7 +51,7 @@ This is an overview only. For a more detailed discussion and examples, see the l
 	* <b><u>Note</u></b>: Certain adjectives (of turkish origins mainly) do not inflect.
 * Pomak has four cases: Nominative, Genitive, Accusative and Vocative.
 * Pomak nouns, adjectives, certain numerals, passive participles and the strong types of pronouns may be marked for the feature [Definite](feat/Definite.md).  When an article is attached to them they are assigned the value `Def` else the value `Ind`.
-* Pomak has a triple enclitic definite artile (-s, -t, -n) that occurs with nouns, adjectives, pronouns and passive participles and denotes deixis and definiteness.  The features [Deixis](feat/Deixis.md) και [DeixisRef](feat/DeixisRef.md) are used to tag deixis as follows:
+* Pomak has a triple enclitic definite artile (-s, -t, -n) that occurs with nouns, adjectives, pronouns and passive participles and denotes deixis and definiteness.  The features [Deixis](feat/Deixis.md) and [DeixisRef](feat/DeixisRef.md) are used to tag deixis as follows:
 	* Proximity to the speaker is denoted with the values  `Prox` and `1` respectively (e.g., _čulǽk<u>os</u>, žaná<u>sa</u>, déte<u>so</u>_).
 	* Proximity to the listener is denoted with the values  `Prox` and `2` respectively (e.g., _čulǽk<u>ot</u>, žaná<u>ta</u>, déte<u>to</u>_).
 	* Distance from both the speaker and the listener is denoted with the value `Remt` (e.g., _čulǽk<u>on</u>, žaná<u>na</u>, déte<u>no</u>_).
