@@ -8,15 +8,15 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Aor">aor</a></td>
-  <td><a href="#Conc">conc</a></td>
-  <td><a href="#Inch">inch</a></td>
-  <td><a href="#Imp">imp</a></td>
-  <td><a href="#ImpIter">impiter</a></td>
-  <td><a href="#Iter">iter</a></td>
-  <td><a href="#Perf">perf</a></td>
-  <td><a href="#Prog">prog</a></td>
-  <td><a href="#Res">res</a></td>
+  <td><a href="#Aor">Aor</a></td>
+  <td><a href="#Conc">Conc</a></td>
+  <td><a href="#Inch">Inch</a></td>
+  <td><a href="#Imp">Imp</a></td>
+  <td><a href="#ImpIter">Impiter</a></td>
+  <td><a href="#Iter">Iter</a></td>
+  <td><a href="#Perf">Perf</a></td>
+  <td><a href="#Prog">Prog</a></td>
+  <td><a href="#Res">Res</a></td>
 </tr>
 </table>
 
