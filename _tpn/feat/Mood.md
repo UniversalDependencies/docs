@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Per">Per</a></td>
   <td><a href="#Opt">Opt</a></td>
+  <td><a href="#Irr">Irr</a></td>
   
   
 </tr>
@@ -65,6 +66,14 @@ Successive aspect indicates that the action happens more than once, either the s
 
 * _<b></b>&nbsp;_ “” -
 
+
+### <a name="Irr">`Irr`</a>: Irrealis
+
+The Irrealis mood is marked by _-reme_  .
+
+#### Examples
+
+* _<b></b>&nbsp;_ “” -
 
 
 ## Diffs

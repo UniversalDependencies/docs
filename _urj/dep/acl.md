@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'acl:relcl'
+title: 'acl'
 shortdef : 'clausal modifier or relative clause (adjectival)'
 udver: '2'
 ---

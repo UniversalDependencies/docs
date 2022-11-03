@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Pred'
-shortdef: 'Pred'
+shortdef: 'Predicate'
 udver: '2'
 ---
 
@@ -13,14 +13,14 @@ udver: '2'
 </tr>
 </table>
 
-`Pred`
-
+TIn Tekó, the attributives require suffixes _`-i`_/_`-dʒi`_ to predicate. 
 
 ### <a name="Yes">`Yes`</a>: Yes
 
-
 #### Examples
 
+* _tukug<b>i</b>_&nbsp; “She is short.”
+* _tawa<b>dʒi</b>_&nbsp; “It's yellow.”
 
 ## Diffs
 

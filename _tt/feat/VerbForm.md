@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Inf">Inf</a></td>
   <td><a href="#Part">Part</a></td>
   <td><a href="#Vnoun">Vnoun</a></td>
+  <td><a href="#NomAg">NomAg</a></td>
 </tr>
 </table>
 
@@ -81,4 +82,14 @@ Tatar infinitive is marked by the suffix *-ырга/ергә*.
 #### Examples
 
 - _бар<b>ырга</b> кирәк "it is necessary to go"
+
+### <a name="NomAg">`NomAg`</a>: Nomen Agensis
+The Nomen Agensis is derived from a verb with an agent or performer, and it represents the nominalization of the subject.
+This feature is also used in Komi Zyrian UD.
+It can also modify an animate noun which is the agent of the verb.
+
+#### Examples
+
+- _бар<b>учы</b> кеше "the person who is going", "going person"
+- _бар<b>учы</b> "the one who goes
 <!-- Interlanguage links updated So kvě 14 19:02:44 CEST 2022 -->

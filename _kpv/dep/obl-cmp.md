@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'obl:comp'
+title: 'obl:cmp'
 shortdef: 'standard-of-comparison modifier of an adjective or adverb'
 udver: '2'
 ---
