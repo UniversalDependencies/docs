@@ -44,11 +44,11 @@ There are Pomak nouns of the `plurale tantum` type but the feature has not yet b
 
 Examples:
 
-* _pantóly_ "pants", _gášte_ "underwear", _biǧámy_ "pijamaσ", _diláve_ "fire tongs", _nallamý_ "pincers", _kléšte_ "pliers" 
+* _pantóly_ "pants", _gášte_ "underwear", _biǧámy_ "pijamas", _diláve_ "fire tongs", _nallamý_ "pincers", _kléšte_ "pliers" 
 
 ### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
-Collective nouns ending in -ja are always plural (pluralia tantum). Collective nouns ending in -(j)e, despite having always plural (collective) meaning, can be either grammatically singular(a less frequent case) or grammatically plural, depending on the speaker's perception of the set of objects as a whole or as distinct items (dialectal variation is possible). 
+Collective nouns ending in -ja are always plural (plurale tantum). Collective nouns ending in -(j)e, despite having always plural (collective) meaning, can be either grammatically singular(a less frequent case) or grammatically plural, depending on the speaker's perception of the set of objects as a whole or as distinct items (dialectal variation is possible). 
 
 
 Examples:
