@@ -87,7 +87,7 @@ This is an overview only. For a more detailed discussion and examples, see the l
 
 * Language-specific features of Pomak:
 
-  * Diminutive and augmentative forms of nouns, adjectives, adverbs and certain passive participles are assigned the feature [qpm-DegreeMod](feat/qpm-DegreeMod.md) and onee of the values `Dim` ή `Mag` respectively.
+  * Diminutive and augmentative forms of nouns, adjectives, adverbs and certain passive participles are assigned the feature [qpm-DegreeMod](feat/qpm-DegreeMod.md) and one of the values `Dim` ή `Mag` respectively.
 
   * Τhe feature [Variant](feat/Variant.md) with the value `Short` is assigned to the weak types of personal and possessive pronouns to set them apart from their corresponding strong types.  
 
