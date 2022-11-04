@@ -25,30 +25,37 @@ This is an overview only. For more detailed discussion and examples, see the lis
  * Zaar uses 16 of the universal tags (with the exception of `SYM`, which is not relevant for oral data)
  * As in other African languages (e.g. Hausa, Wolof), the verbal inflections in Zaar are gathered in a single `AUX` that precedes the `VERB`, and expresses various combinations of `Tense` (4 values), `Aspect` (7 values) and `Mood` (4 values). This relatively small treebank already shows 23 combinations, resulting in 23 different AUX. 
  The following auxiliaries are recognized in Zaar:
+   * _àː_ for perfect (aspect)
    * _á_ for aorist (aspect)
-   * _ʧáːnaː_ for concomitant aspect
-   * _átâ_ for remote past tense
-   * _ánáː_ for recent past tense
-   * _áyí_ for immediate past tense
-   * _àːyi_ for perfect iterative aspect
-   * _àːyiká_ for perfect progressive aspect
-   * _ʧáːyi_ for imperfect iterative aspect
-   * _ʧáyiká_ for imperfect progressive aspect
-   * _wòyi_ for future iterative (tense + aspect)
-   * _wòyiká_ for future continuous (tense + aspect)
-   * _àːtá_ for remote past perfect (tense + aspect)
-   * _átâyáː_ for remote past imperfect (tense + aspect)
-   * _átáyi_ for remote past iterative (tense + aspect)
-   * _átáyiká_ for remote past progressive (tense + aspect)
    * _àːnáː_ for recent past perfect (tense + aspect)
+   * _àːtá_ for remote past perfect (tense + aspect)
+   * _àːyi_ for perfect iterative aspect
+   * _àːyí_ for immediate past perfect (tense + aspect)
+   * _àːyiká_ for perfect progressive aspect
+   * _ánáː_ for recent past tense
    * _ánáːyáː_ for recent past imperfect (tense + aspect)
    * _ánáːyi_ for recent past iterative (tense + aspect)
-   * _ánáːyiká_ for recent past progressive (tense + aspect)
-   * _àːyí_ for immediate past perfect (tense + aspect)
+   * _átâ_ for remote past tense
+   * _átâyáː_ for remote past imperfect (tense + aspect)
+   * _átâyi_ for remote past iterative (tense + aspect)
+   * _átáyiká_ for remote past progressive (tense + aspect)
    * _áyǎː_ for immediate past imperfect (tense + aspect)
+   * _áyí_ for immediate past tense
    * _á̙yyiká_ for immediate past progressive (tense + aspect)
-   * _ʧíta_ for remote past irrealis (tense + mood)
+   * _ʧáː_ imperfect (aspect)
+   * _ʧáːnaː_ for concomitant (aspect)
+   * _ʧáːyi_ for imperfect iterative (aspect)
+   * _ʧáyiká_ for imperfect progressive (aspect)
+   * _tə̀_ for subjunctive (mood)
+   * _ʧiká_ for progressive (aspect)
    * _ʧínaː_ for recent past irrealis (tense + mood)
+   * _ʧíta_ for remote past irrealis (tense + mood)
+   * _wò_ for future (tense)
+   * _wòyi_ for future iterative (tense + aspect)
+   * _wòyiká_ for future continuous (tense + aspect)
+   * _yáː_ for conditional (mood)
+   * _yí_ for irrealis (mood)
+   * _yiː_ for iterative (aspect)
 
 
 ### Features
