@@ -8,65 +8,67 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+Since the dependencies presented in the Universal Dependencies framework are based on a lexical approach of syntax, the first step of the processing chain is to decide how to tokenize the language. The idea is, by breaking down the sentence into tokens, to extract the syntactic information related to words in the discourse chain.
+ * The Zaar treebank is an extension of an oral corpus (https://cortypo.huma-num.fr/index.html) interlinearized and glossed on a morphological basis. 
+ * Tokenization had to take into account the fact that syntactic information in Zaar can be spread in different ways in words, affixes and clitics. It has been decided to keep as tokens only words (with and without affixes) and clitics while the syntactic information contained in affixes is annotated by morphological features of the affixed words. Clitics are PRON conveying syntactic functions such as complement and modifier. They are preceded by an “=” sign in the transcription. 
+ * As we are dealing with oral data, we have chosen the illocutionary unit as the basic transcription unit. Punctuation tokens (e.g. <, >, //, etc.) organise the illocutionary unit into: pre-nucleus < nucleus > post-nucleus // 
 
----
-**Instruction**: general rules and exceptions for delimiting words. Specify whether words with spaces and/or multiword tokens occur.
-
----
 
 ## Morphology
 
+This is an overview only. For more detailed discussion and examples, see the list of [Zaar POS tags](pos/index.html) and [Zaar features](feat/index.html).
+
 ### Tags
 
-* The following auxiliaries are recognized in Zaar:
-  * _á_ for aorist (aspect)
-  * _ʧáːnaː_ for concomitant aspect
-  * _átâ_ for remote past tense
-  * _ánáː_ for recent past tense
-  * _áyí_ for immediate past tense
-  * _àːyi_ for perfect iterative aspect
-  * _àːyiká_ for perfect progressive aspect
-  * _ʧáːyi_ for imperfect iterative aspect
-  * _ʧáyiká_ for imperfect progressive aspect
-  * _wòyi_ for future iterative (tense + aspect)
-  * _wòyiká_ for future continuous (tense + aspect)
-  * _àːtá_ for remote past perfect (tense + aspect)
-  * _átâyáː_ for remote past imperfect (tense + aspect)
-  * _átáyi_ for remote past iterative (tense + aspect)
-  * _átáyiká_ for remote past progressive (tense + aspect)
-  * _àːnáː_ for recent past perfect (tense + aspect)
-  * _ánáːyáː_ for recent past imperfect (tense + aspect)
-  * _ánáːyi_ for recent past iterative (tense + aspect)
-  * _ánáːyiká_ for recent past progressive (tense + aspect)
-  * _àːyí_ for immediate past perfect (tense + aspect)
-  * _áyǎː_ for immediate past imperfect (tense + aspect)
-  * _á̙yyiká_ for immediate past progressive (tense + aspect)
-  * _ʧíta_ for remote past irrealis (tense + mood)
-  * _ʧínaː_ for recent past irrealis (tense + mood)
+ * The language specific tagset is the original annotation made from the extended version of the Leipzig Glossing Rules. (Available at [here](https://corpafroas.huma-num.fr/glosses.html))
+ * The UD tagset is based on a conversion from the previous annotation to UPOS.
+ * Zaar uses 16 of the universal tags (with the exception of `SYM`, which is not relevant for oral data)
+ * As in other African languages (e.g. Hausa, Wolof), the verbal inflections in Zaar are gathered in a single `AUX` that precedes the `VERB`, and expresses various combinations of `Tense` (4 values), `Aspect` (7 values) and `Mood` (4 values). This relatively small treebank already shows 23 combinations, resulting in 23 different AUX. 
+ The following auxiliaries are recognized in Zaar:
+   * _á_ for aorist (aspect)
+   * _ʧáːnaː_ for concomitant aspect
+   * _átâ_ for remote past tense
+   * _ánáː_ for recent past tense
+   * _áyí_ for immediate past tense
+   * _àːyi_ for perfect iterative aspect
+   * _àːyiká_ for perfect progressive aspect
+   * _ʧáːyi_ for imperfect iterative aspect
+   * _ʧáyiká_ for imperfect progressive aspect
+   * _wòyi_ for future iterative (tense + aspect)
+   * _wòyiká_ for future continuous (tense + aspect)
+   * _àːtá_ for remote past perfect (tense + aspect)
+   * _átâyáː_ for remote past imperfect (tense + aspect)
+   * _átáyi_ for remote past iterative (tense + aspect)
+   * _átáyiká_ for remote past progressive (tense + aspect)
+   * _àːnáː_ for recent past perfect (tense + aspect)
+   * _ánáːyáː_ for recent past imperfect (tense + aspect)
+   * _ánáːyi_ for recent past iterative (tense + aspect)
+   * _ánáːyiká_ for recent past progressive (tense + aspect)
+   * _àːyí_ for immediate past perfect (tense + aspect)
+   * _áyǎː_ for immediate past imperfect (tense + aspect)
+   * _á̙yyiká_ for immediate past progressive (tense + aspect)
+   * _ʧíta_ for remote past irrealis (tense + mood)
+   * _ʧínaː_ for recent past irrealis (tense + mood)
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN.
-
----
 
 ### Features
 
-*
+ * The Zaar treebank uses 34 universal features
+ * 8 language specific values associated with the Zaar `AUX` have been added to the scheme: 
+   * 3 for the `Tense` feature (`Imm` = Immediate Past ; `Rec` = Recent Past ; `Rem` = Remote Past;), 
+   * 3 for the `Aspect` feature (`Aor` = Aorist ; `Conc` = Concomitant ; `ImpIter` = Iterative Imperfect)
+   * 2 other `Aspect` features, used independently of the `AUX` upos, were added: 
+     * Inchoative (`Aspect=Inch`)
+     * Resultative (`Aspect=Res`)
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
-*
+ * The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://surfacesyntacticud.github.io/guidelines/u/).
+ * Zaar is mostly a SVO language. The only exception is found in the progressive Aspect, where the direct object of precedes the nominalized verb (a Vnoun). 
+ * Zaar is a prodrop language with a strong proportion of dislocated subjects and complements. In addition to a possible independent lexical or pronominal subject (tagged `nsubj`), the `AUX` contains agreement features for `Person` and `Number`. 
+ * We have direct object with `obj`, indirect object with `iobj`.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used.
-
----
 
 ## Treebanks
 
