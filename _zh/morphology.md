@@ -11,6 +11,7 @@ udver: '2'
 [Description not currently available.]
 
 
+
 ## UD Chinese-CFL
 
 ### Lemmas
@@ -36,6 +37,7 @@ However, we also include the "distributional POS tag" (in column 3 of the `.conl
 Features are not currently implemented.
 
 
+
 ## UD Chinese-HK
 
 ### Lemmas
@@ -45,3 +47,25 @@ Lemmas are not used in this treebank since Mandarin is majorly isolating.
 ### Features
 
 Features are not used in this treebank since Mandarin is majorly isolating.
+
+
+
+## UD Chinese-PatentChar
+
+### Lemmas
+
+Lemmas are not used in this treebank since Mandarin is majorly isolating.
+
+
+### Part-of-speech tags
+
+Like the tokenization, the part-of-speech tags are fistly automatically distributed by the vote of their corresponding POS taggers (SpaCy tagger, Trankit tagger and Stanza tagger), and then manually corrected.
+
+
+### Features
+
+Features are not used in this treebank since Mandarin is majorly isolating.
+
+
+
+

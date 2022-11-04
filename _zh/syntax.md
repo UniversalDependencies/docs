@@ -43,3 +43,10 @@ Marwa Ragheb and Markus Dickinson. 2014. Developing a Corpus of Syntactically-an
 ## UD Chinese-HK
 
 [Description not currently available.]
+
+
+## UD Chinese-PatentChar
+
+Automatacally converted from the primery character-level annoation using Grew-Match.
+
+
