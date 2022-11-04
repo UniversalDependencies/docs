@@ -116,15 +116,13 @@ Used in Latin and Ancient Greek. Not to confuse with gerund.
 
 ### <a name="Ger">`Ger`</a>: gerund
 
-Gerund is a non-finite verb form that shares properties of verbs and
-nouns. In English it shares the morphological form with present
-participle, which may mean that the tagset will not distinguish it
-from the participle.
-
 Using `VerbForm=Ger` is discouraged and alternatives should be considered first
-because the term _gerund_ is rather confusing: in Spanish (and other Romance
-languages) it denotes the present participle and should be thus labeled
-`Tense=Pres|VerbForm=Part`; some Slavists use it to denote converbs (adverbial
+because the term _gerund_ is rather confusing: the English gerund is a verbal
+noun or a converb, and it shares the morphological form with present participle
+(which may mean that the tagset will not distinguish it from the participle);
+the _gerundio_ in Spanish and other Romance languages shows some similarities
+with present participles and with converbs, but not with verbal nouns; likewise,
+some Slavists use the English term gerund to denote converbs (adverbial
 participles), which should be labeled `VerbForm=Conv`; and UD version 1
 recommended (inspired by English) to use it for verbal nouns, which in UD v2
 should use `VerbForm=Vnoun`.
