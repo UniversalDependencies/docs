@@ -5,7 +5,7 @@ shortdef: 'tense'
 udver: '2'
 ---
 
-Tense is an inflectional feature of [nouns](NOUN) and [auxiliaries](AUX) that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. In Slovenian, only `Present` tense and `Future` tense can be expressed morphologically, while past tense is formed syntactically, by a combination of a present auxiliary verb _biti_ "to be" and past participle (l-participle), e.g. _sem šel_ "I went".
+Tense is an inflectional feature of [verbs](VERB) and [auxiliaries](AUX) that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. In Slovenian, only `Present` tense and `Future` tense can be expressed morphologically, while past tense is formed syntactically, by a combination of a present auxiliary verb _biti_ "to be" and past participle (l-participle), e.g. _sem šel_ "I went".
 
 ### <a name="Pres">`Pres`</a>: present tense
 
