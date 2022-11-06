@@ -30,9 +30,11 @@ This is an overview only. For a more detailed discussion and examples, see the l
 	* The strong types of possessive pronouns (_moj, tvoj, tógav, tójin, naš, vaš, tǽhan_) and all other pronouns are assigned the PoS tag [DET](pos/DET.md).
 	* The adjective _adín/edín/idín_ is assigned the PoS tag [DET](pos/DET.md) when it is used as an indefinite article.
 
-* Pomak has only one auxiliary verb ([AUX](pos/AUX_.md)), _som_ (“to be”), but lemmas such as _býdom_ are also possible.
-* Τhe auxiliary verb šom / štom (δυνητικό θα) is assigned the PoS tag [AUX](pos/AUX_.md).
-* Auxiliary particles _še / ša_ ("will, shall") and _da_ ("to") are assigned the PoS tag [AUX](pos/AUX_.md).
+* Pomak has the following auxiliaries ([AUX](pos/AUX_.md)): 
+ 	* _som_ (“to be”) -but lemmas such as _býdom_ are also possible-
+	* _šom_ / _štom_ (it expresses possibility, very similartly to the Greek _θα_)  
+	*  _še / ša_ `will, shall' and _da_ `to' 
+	
 * Modal verbs are assigned the PoS tag [VERB](pos/VERB.md).
 * The  PoS tag [ADJ](pos/ADJ.md) is assigned to adjectives, ordinal numerals, adjectives derived from family names and ethnonyms.
 * The  PoS tag  [VERB](pos/VERB.md) is assigned to personal and impersonal verbs, participles, infinitives and converbs.
