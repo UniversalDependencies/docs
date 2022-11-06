@@ -52,11 +52,32 @@ udver: '2'
 * [Case]() has 13 possible values: [Nom](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [Acc](https://universaldependencies.org/u/feat/Case.html#Acc), [Ins](https://universaldependencies.org/u/feat/Case.html#Ins), [Dat](https://universaldependencies.org/u/feat/Case.html#Dat), [Abl](https://universaldependencies.org/u/feat/Case.html#Abl), [Loc](https://universaldependencies.org/u/feat/Case.html#Loc), [Voc](https://universaldependencies.org/u/feat/Case.html#Voc), [Gen](https://universaldependencies.org/u/feat/Case.html#Gen), [Cmp](https://universaldependencies.org/u/feat/Case.html#Cmp), [Com](https://universaldependencies.org/u/feat/Case.html#Com), [Ben](https://universaldependencies.org/u/feat/Case.html#Ben), [All](https://universaldependencies.org/u/feat/Case.html#All), [Abl](https://universaldependencies.org/u/feat/Case.html#Abl). Malayalam is an agglutinative language and the spatiotemporal and/or case-like morphemes are analyzed as postpositions. The Case feature occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [NUM]() and also with nominalized verb forms.
 
 ### Verbal Features
-* Finite verbs always have one of eight values of [Mood](): [Ind](https://universaldependencies.org/u/feat/Mood.html#Ind), [Irr](https://universaldependencies.org/u/feat/Mood.html#Irr), [Cnd](https://universaldependencies.org/u/feat/Mood.html#Cnd), [Des](https://universaldependencies.org/u/feat/Mood.html#Des), [Nec](https://universaldependencies.org/u/feat/Mood.html#Nec),[Imp](https://universaldependencies.org/u/feat/Mood.html#Imp), [Prp](https://universaldependencies.org/u/feat/Mood.html#Prp) or [Opt](https://universaldependencies.org/u/feat/Mood.html#Opt).
-   * Verbs in the indicative mood always have one of three values of [Tense](): [Past](https://universaldependencies.org/u/feat/Tense.html#Past), [Pres](https://universaldependencies.org/u/feat/Tense.html#Pres) or [Fut](https://universaldependencies.org/u/feat/Tense.html#fut-future-tense).
-   * [Aspect]() has five possible values: [Hab](https://universaldependencies.org/u/feat/Aspect.html#Hab), [Imp](https://universaldependencies.org/u/feat/Aspect.html#Imp), [Perf](https://universaldependencies.org/u/feat/Aspect.html#Perf), [Prog](https://universaldependencies.org/u/feat/Aspect.html#prog-progressive-aspect), [Iter](https://universaldependencies.org/u/feat/Aspect.html#iter-iterative--frequentative-aspect).
-   * [Voice]() has three possible values: [Act](https://universaldependencies.org/u/feat/Voice.html#Act), [Pass](https://universaldependencies.org/u/feat/Voice.html#pass-passive-or-patient-focus-voice), [Cau](https://universaldependencies.org/u/feat/Voice.html#cau-causative-voice).
-   * [Polarity]() has two values: [Pos](https://universaldependencies.org/u/feat/Polarity.html#Pos) and [Neg](https://universaldependencies.org/u/feat/Polarity.html#neg-negative).
+* Finite verbs always have one of eight values of [Mood]():
+  [Ind](https://universaldependencies.org/u/feat/Mood.html#Ind),
+  [Irr](https://universaldependencies.org/u/feat/Mood.html#Irr),
+  [Cnd](https://universaldependencies.org/u/feat/Mood.html#Cnd),
+  [Des](https://universaldependencies.org/u/feat/Mood.html#Des),
+  [Nec](https://universaldependencies.org/u/feat/Mood.html#Nec),
+  [Imp](https://universaldependencies.org/u/feat/Mood.html#Imp),
+  [Prp](https://universaldependencies.org/u/feat/Mood.html#Prp) or
+  [Opt](https://universaldependencies.org/u/feat/Mood.html#Opt).
+* Verbs in the indicative mood always have one of three values of [Tense]():
+  [Past](https://universaldependencies.org/u/feat/Tense.html#Past),
+  [Pres](https://universaldependencies.org/u/feat/Tense.html#Pres) or
+  [Fut](https://universaldependencies.org/u/feat/Tense.html#fut-future-tense).
+* [Aspect]() has five possible values:
+  [Hab](https://universaldependencies.org/u/feat/Aspect.html#Hab),
+  [Imp](https://universaldependencies.org/u/feat/Aspect.html#Imp),
+  [Perf](https://universaldependencies.org/u/feat/Aspect.html#Perf),
+  [Prog](https://universaldependencies.org/u/feat/Aspect.html#prog-progressive-aspect),
+  [Iter](https://universaldependencies.org/u/feat/Aspect.html#iter-iterative--frequentative-aspect).
+* [Voice]() has three possible values:
+  [Act](https://universaldependencies.org/u/feat/Voice.html#Act),
+  [Pass](https://universaldependencies.org/u/feat/Voice.html#pass-passive-or-patient-focus-voice),
+  [Cau](https://universaldependencies.org/u/feat/Voice.html#cau-causative-voice).
+* [Polarity]() has two values:
+  [Pos](https://universaldependencies.org/u/feat/Polarity.html#Pos) and
+  [Neg](https://universaldependencies.org/u/feat/Polarity.html#neg-negative).
 
 ### Pronouns, Determiners, Quantifiers
 
