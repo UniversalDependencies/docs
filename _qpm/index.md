@@ -33,7 +33,7 @@ This is an overview only. For a more detailed discussion and examples, see the l
 * The PoS tag [AUX](pos/AUX_.md) is assigned to the following lemmas (and their clitic paradigms, where it applies): 
  	* _som_ "to be" -but lemmas such as _býdom_ are also possible-
 	* _šom_ / _štom_ (it expresses possibility, very similartly to the Greek _θα_)  
-	*  _še / ša_ "will, shall" and _da_ "to" 
+	*  _še / ša_ "will, shall", _da_ "to" 
 	
 * Modal verbs are assigned the PoS tag [VERB](pos/VERB.md).
 * The  PoS tag [ADJ](pos/ADJ.md) is assigned to adjectives, ordinal numerals, adjectives derived from family names and ethnonyms.
