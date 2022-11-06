@@ -30,7 +30,7 @@ This is an overview only. For a more detailed discussion and examples, see the l
 	* The strong types of possessive pronouns (_moj, tvoj, tógav, tójin, naš, vaš, tǽhan_) and all other pronouns are assigned the PoS tag [DET](pos/DET.md).
 	* The adjective _adín/edín/idín_ is assigned the PoS tag [DET](pos/DET.md) when it is used as an indefinite article.
 
-* Pomak has the following auxiliaries that are assigned the PoS tag [AUX](pos/AUX_.md): 
+* The PoS tag [AUX](pos/AUX_.md) is assigned to the following lemmas (and their clitic paradigms, where it applies): 
  	* _som_ "to be" -but lemmas such as _býdom_ are also possible-
 	* _šom_ / _štom_ (it expresses possibility, very similartly to the Greek _θα_)  
 	*  _še / ša_ "will, shall" and _da_ "to" 
