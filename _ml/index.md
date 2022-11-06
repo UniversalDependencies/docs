@@ -32,26 +32,50 @@ udver: '2'
 * The tag [ADV]() covers adverbs like സങ്കടത്തോടെ / _saṅkaṭattoṭĕ_ “sadly”, തീർച്ചയായും / _tīrccayāyuṃ_ “certainly”.
 * Finite and nonfinite verb forms are tagged [VERB]() or [AUX]().
 * Malayalam has the following auxiliary verbs [AUX]():
-    *  ആക് / _āk_ “to be” is used as a copula to denote existential and stative meanings.
-    It can also function as lexical verb conveys the meanings of ‘to have’, ‘to take place’, ‘be able to’.
-    *  ഉണ്ട് / _uṇṭ_ “to be” is used as a copula to denote existential and stative meanings but additionally it has a possessive meaning ‘to have’.
-    *  Modal auxiliaries:
-            * കഴിയുക / _kaḻiyuka_ “to be able, can”
-            * വേണം / _veṇaṃ_ “want”
+  *  ആക് / _āk_ “to be” is used as a copula to denote existential and stative meanings.
+  It can also function as lexical verb conveys the meanings of ‘to have’, ‘to take place’, ‘be able to’.
+  *  ഉണ്ട് / _uṇṭ_ “to be” is used as a copula to denote existential and stative meanings but additionally it has a possessive meaning ‘to have’.
+  * Modal auxiliaries:
+    * കഴിയുക / _kaḻiyuka_ “to be able, can”
+    * വേണം / _veṇaṃ_ “want”
 * There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the VerbForm feature:
-   * Finite verb [Fin](https://universaldependencies.org/u/feat/VerbForm.html#Fin), tagged `VERB` or `AUX`.
-   * Infinitive [Inf](https://universaldependencies.org/u/feat/VerbForm.html#Inf), tagged `VERB` or `AUX`.
-   * Verbal noun [Vnoun](https://universaldependencies.org/u/feat/VerbForm.html#Vnoun), tagged `VERB` or `AUX`.
-   * Participle [Part](https://universaldependencies.org/u/feat/VerbForm.html#Part), tagged `VERB` or `AUX`.
+  * Finite verb [Fin](https://universaldependencies.org/u/feat/VerbForm.html#Fin), tagged `VERB` or `AUX`.
+  * Infinitive [Inf](https://universaldependencies.org/u/feat/VerbForm.html#Inf), tagged `VERB` or `AUX`.
+  * Verbal noun [Vnoun](https://universaldependencies.org/u/feat/VerbForm.html#Vnoun), tagged `VERB` or `AUX`.
+  * Participle [Part](https://universaldependencies.org/u/feat/VerbForm.html#Part), tagged `VERB` or `AUX`.
 
 ### Nominal Features
 
-* Nominal words ([NOUN](),[PROPN]() and [PRON]()) have an inherent Gender feature with one of three values: [Masc](https://universaldependencies.org/u/feat/Gender.html#masc-masculine-gender), [Fem](https://universaldependencies.org/u/feat/Gender.html#fem-feminine-gender) or [Neut](https://universaldependencies.org/u/feat/Gender.html#neut-neuter-gender).
-* The two main values of the [Number]() feature are [Sing](https://universaldependencies.org/u/feat/Number.html#Sing) and [Plur](https://universaldependencies.org/u/feat/Number.html#plur-plural-number). The following parts of speech inflect for number: NOUN, PROPN, PRON.
-* The [Animacy]() features [Anim](https://universaldependencies.org/u/feat/Animacy.html#Anim) and [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan) are used for Nominal words (NOUN, PROPN, and PRON).
-* [Case]() has 13 possible values: [Nom](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [Acc](https://universaldependencies.org/u/feat/Case.html#Acc), [Ins](https://universaldependencies.org/u/feat/Case.html#Ins), [Dat](https://universaldependencies.org/u/feat/Case.html#Dat), [Abl](https://universaldependencies.org/u/feat/Case.html#Abl), [Loc](https://universaldependencies.org/u/feat/Case.html#Loc), [Voc](https://universaldependencies.org/u/feat/Case.html#Voc), [Gen](https://universaldependencies.org/u/feat/Case.html#Gen), [Cmp](https://universaldependencies.org/u/feat/Case.html#Cmp), [Com](https://universaldependencies.org/u/feat/Case.html#Com), [Ben](https://universaldependencies.org/u/feat/Case.html#Ben), [All](https://universaldependencies.org/u/feat/Case.html#All), [Abl](https://universaldependencies.org/u/feat/Case.html#Abl). Malayalam is an agglutinative language and the spatiotemporal and/or case-like morphemes are analyzed as postpositions. The Case feature occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [NUM]() and also with nominalized verb forms.
+* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent Gender feature with one of three values:
+  [Masc](https://universaldependencies.org/u/feat/Gender.html#Masc),
+  [Fem](https://universaldependencies.org/u/feat/Gender.html#Fem) or
+  [Neut](https://universaldependencies.org/u/feat/Gender.html#Neut).
+* The two main values of the [Number]() feature are
+  [Sing](https://universaldependencies.org/u/feat/Number.html#Sing) and
+  [Plur](https://universaldependencies.org/u/feat/Number.html#Plur).
+  The following parts of speech inflect for number: NOUN, PROPN, PRON.
+* The [Animacy]() features
+  [Anim](https://universaldependencies.org/u/feat/Animacy.html#Anim) and
+  [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan) are used for Nominal words (NOUN, PROPN, and PRON).
+* [Case]() has 13 possible values:
+  [Nom](https://universaldependencies.org/u/feat/Case.html#Nom),
+  [Acc](https://universaldependencies.org/u/feat/Case.html#Acc),
+  [Ins](https://universaldependencies.org/u/feat/Case.html#Ins),
+  [Dat](https://universaldependencies.org/u/feat/Case.html#Dat),
+  [Abl](https://universaldependencies.org/u/feat/Case.html#Abl),
+  [Loc](https://universaldependencies.org/u/feat/Case.html#Loc),
+  [Voc](https://universaldependencies.org/u/feat/Case.html#Voc),
+  [Gen](https://universaldependencies.org/u/feat/Case.html#Gen),
+  [Cmp](https://universaldependencies.org/u/feat/Case.html#Cmp),
+  [Com](https://universaldependencies.org/u/feat/Case.html#Com),
+  [Ben](https://universaldependencies.org/u/feat/Case.html#Ben),
+  [All](https://universaldependencies.org/u/feat/Case.html#All),
+  [Abl](https://universaldependencies.org/u/feat/Case.html#Abl).
+  Malayalam is an agglutinative language and the spatiotemporal and/or case-like morphemes are analyzed as postpositions.
+  The Case feature occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [NUM]() and also with nominalized verb forms.
 
 ### Verbal Features
+
 * Finite verbs always have one of eight values of [Mood]():
   [Ind](https://universaldependencies.org/u/feat/Mood.html#Ind),
   [Irr](https://universaldependencies.org/u/feat/Mood.html#Irr),
@@ -64,20 +88,20 @@ udver: '2'
 * Verbs in the indicative mood always have one of three values of [Tense]():
   [Past](https://universaldependencies.org/u/feat/Tense.html#Past),
   [Pres](https://universaldependencies.org/u/feat/Tense.html#Pres) or
-  [Fut](https://universaldependencies.org/u/feat/Tense.html#fut-future-tense).
+  [Fut](https://universaldependencies.org/u/feat/Tense.html#Fut).
 * [Aspect]() has five possible values:
   [Hab](https://universaldependencies.org/u/feat/Aspect.html#Hab),
   [Imp](https://universaldependencies.org/u/feat/Aspect.html#Imp),
   [Perf](https://universaldependencies.org/u/feat/Aspect.html#Perf),
-  [Prog](https://universaldependencies.org/u/feat/Aspect.html#prog-progressive-aspect),
-  [Iter](https://universaldependencies.org/u/feat/Aspect.html#iter-iterative--frequentative-aspect).
+  [Prog](https://universaldependencies.org/u/feat/Aspect.html#Prog),
+  [Iter](https://universaldependencies.org/u/feat/Aspect.html#Iter).
 * [Voice]() has three possible values:
   [Act](https://universaldependencies.org/u/feat/Voice.html#Act),
-  [Pass](https://universaldependencies.org/u/feat/Voice.html#pass-passive-or-patient-focus-voice),
-  [Cau](https://universaldependencies.org/u/feat/Voice.html#cau-causative-voice).
+  [Pass](https://universaldependencies.org/u/feat/Voice.html#Pass),
+  [Cau](https://universaldependencies.org/u/feat/Voice.html#Cau).
 * [Polarity]() has two values:
   [Pos](https://universaldependencies.org/u/feat/Polarity.html#Pos) and
-  [Neg](https://universaldependencies.org/u/feat/Polarity.html#neg-negative).
+  [Neg](https://universaldependencies.org/u/feat/Polarity.html#Neg).
 
 ### Pronouns, Determiners, Quantifiers
 
