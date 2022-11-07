@@ -26,10 +26,7 @@ has happened or will happen, without adding any attitude of the speaker.
 ### <a name="Imp">`Imp`</a>: imperative
 
 The speaker uses imperative to order or ask the addressee to do the action denoted by the verb.
-Pomak distinguishes two types of imperative at the morphological level:  imperative mood and prohibitive mood. 
-Imperative is simpler and easier to use than the prohibitive, which is formed by means of the 
-particles `na / ne` (negative) and `namój / namójte` (prohibitive). The particle `na / ne` precedes prohibitive  verb forms while the particle 
-`namój / namójte` precedes infinitives. 
+Pomak  forms  deterring imperatives with the particles {\em na/ne} and {\em namój / namójte} `not' followd by infinitives. 
 
 
 #### Examples
@@ -42,16 +39,16 @@ particles `na / ne` (negative) and `namój / namójte` (prohibitive). The partic
     - *<b>Pýtyj</b> mó kanáta íšteš* "Ask me whatever you want" 
     - *<b>Glǿdyj</b> kutrí dúmi!* "Look who is talking" 
 
-- Prohibitive:
+- Deterring imperative:
 
-    - When`na / ne`precedes prohibitive verb forms:
+    - With `na / ne`:
         - *<b>Na dumíj</b> huzlý, še razbudíš déteso* "Do not speak loud, you will wake up the child" 
         - *<b>Na izlizáj</b> na gulǽma póte samýj* "Do not go to a long journey alone" 
         - *<b>Na baráj</b> čúzdy rábaty* "Do not touch other people's things" 
         - *Zǿmij isazí i <b>na pytáj</b> ní kaná* "Take this and do not ask anything" 
         - *Akú tí dávot nǽko, <b>na zimáj</b> go* "If they give you something, do not take it" 
 
-    - When`namój / namójte` precedes infinitives:
+    - With `namój / namójte`:
         - *<b>Namójte kazavá</b> ní kutrómu* "Do not say [it] to anyone" 
         - *<b>Namój nagadá</b> mlógo játo, da na astáne* "Do not cook a lot of food, so as not be left over" 
         - *<b>Namój slušá</b> kaná tí kázavot drúzine* "Do not listen to what others tell you" 
