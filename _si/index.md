@@ -32,7 +32,6 @@ STB 2.11 contains 100 sentences taken from various sources.
 * CCONJ
 * NUM
 
-
 ## Syntax
 The STB 2.11 has the following three types of contructions:
 
