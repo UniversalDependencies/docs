@@ -8,20 +8,17 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* Tokenize on whitespace.
-* Multiword tokens are not handled in this treebank.
+* In general, words are delimited by whitespace characters. 
+* Note: Multiword tokens are not handled in STB 2.11.
 
 ## Morphology
 
 ### Tags
 
 * Use all standard UPOS tags.
-* TODO: special XPOS tags for generating FEATS.
+* XPOS are not used in STB 2.11
 
 ### Features
 
 * TODO
 
-## Syntax
-
-* TODO
