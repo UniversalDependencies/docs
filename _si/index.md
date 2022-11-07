@@ -9,6 +9,7 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Tokenize on whitespace.
+* Multiword tokens are not handled in this treebank.
 
 ## Morphology
 
