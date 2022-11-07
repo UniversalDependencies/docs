@@ -25,9 +25,3 @@ udver: '2'
 ## Syntax
 
 * TODO
-
-## Treebanks
-
-There is [1](../treebanks/si-comparison.html) Sinhala UD treebanks:
-
-  * [Sinhala-IITS](../treebanks/si_iits/index.html)
