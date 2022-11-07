@@ -22,3 +22,43 @@ udver: '2'
 
 * TODO
 
+## Syntax
+The STB 2.11 has the following reltions:
+* abl
+* acl
+* advcl
+* advmod
+* advmod:emph
+* advmod:lmod
+* amod
+* aux
+* aux:pass
+* case
+* cc
+* ccomp
+* compound
+* compound:lvc
+* compound:prt
+* compound:svc
+* conj
+* cop
+* csubj
+* dep
+* det
+* det:poss
+* flat
+* flat:name
+* mark
+* nmod
+* nmod:poss
+* nmod:tmod
+* nsubj
+* nummod
+* obj
+* obl
+* obl:lmod
+* obl:tmod
+* punct
+* root
+* xcomp
+
