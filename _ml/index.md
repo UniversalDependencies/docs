@@ -27,7 +27,7 @@ udver: '2'
 * The numeral ‘one’ which functions as the indefinite artcle is tagged [DET]().
   For example, ഒരു വീട് / _ŏru vīṭ_ “a house”.
   Quantifiers like ഒരുപാട് / _ŏrupāṭu_ “a lot” that act as modifiers are also tagged `DET`.
-  Numerals that do not act as an attribute and can stand on their own are tagged [NUM]().
+  Cardinal numbers are covered by [NUM]().
 * The emphatic markers -ഏ / _-ē_ and തന്നേ / _tannē_, the coordination clitics -ഉം / _-um_ and ഓ / _-ō_, and the quotative particle എന്ന് / _ĕnn_ are tagged [PART]().
 * The tag [ADJ]() covers both free adjectives, such as പഴയ / _paḻaya_ “old”,
   and derived adjectives, such as സന്തോഷകരമായ / _santoṣakaramāya_ “pleasant”.
