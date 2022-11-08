@@ -42,16 +42,16 @@ udver: '2'
 * The IT-TB uses 15 universal POS categories.
   Interjections ([`INTJ`](u-pos/INTJ)) and Symbols ([`SYM`](u-pos/SYM)) are not used.
 * Among determiners ([`DET`](la-pos/DET)), we notice the peculiar  proto-article _ly_ (only IT-TB).
-* We register only one auxiliary verb ([`AUX`](la-pos/AUX)), the Classical _sum_ ("to be"). The form _iri_ (present passive infinitive of the verb _eo_, "to go"), Classically attested for the periphrastic future passive infinitive, is never used in the IT-TB. Also *habeo* 'to have', a later Romance innovation, does not appear as an auxiliary despite the time period, but does in the LLCT. The auxiliary *sum* is used in several types of constructions:
-      * The copula with non-verbal predicates.
-      * Periphrastic future active infinitive.
-      * Periphrastic passive perfect indicative.
-      * Periphrastic passive pluperfect indicative.
-      * Periphrastic passive future perfect indicative.
-      * Periphrastic passive perfect subjunctive.
-      * Periphrastic passive plusperfect subjunctive.
-      * Periphrastic perfect passive infinitive.
-* In the IT-TB, _sum_ is the only lemma that occurs with the [`AUX`](la-pos/AUX) tag. In some contexts, though (e.g. purely existential sentences), it is considered the head of the predication.
+* We generally register only one main auxiliary verb ([`AUX`](la-pos/AUX)), the Classical _sum_ ("to be"). The form _iri_ (present passive infinitive of the verb _eo_, "to go"), Classically attested for the periphrastic future passive infinitive, is never used in the IT-TB and neither in the LLCT nor UDante. Also *habeo* 'to have', a later Romance innovation, does not appear as an auxiliary in the IT-TB nor in UDante, despite the time period, but does in the LLCT. The auxiliary *sum* is used in several types of constructions:
+    * The copula with non-verbal predicates.
+    * Periphrastic future active infinitive.
+    * Periphrastic passive perfect indicative.
+    * Periphrastic passive pluperfect indicative.
+    * Periphrastic passive future perfect indicative.
+    * Periphrastic passive perfect subjunctive.
+    * Periphrastic passive plusperfect subjunctive.
+    * Periphrastic perfect passive infinitive.
+* In the IT-TB, _sum_ is the only lemma that occurs with the [`AUX`](la-pos/AUX) tag, and it always occurs as such. In some contexts, though (e.g. purely existential sentences), it is considered the head of the predication.
 * Verbs with modal meaning are not considered auxiliaries in Latin.
 
 **PROIEL**
@@ -72,7 +72,7 @@ udver: '2'
 
 * Nominal words (common/proper nouns [`NOUN`](la-pos/NOUN)/[`PROPN`](la-pos/PROPN)) have an inherent [`Gender`](la-feat/Gender) feature with one of three values: `Masc`, `Fem` or `Neut`; pronouns [`PRON`](la-pos/PRON) might have one, but can also not express one (e.g. *ego* 'I', first singular person).
   * The following parts of speech inflect for `Gender` because they must agree with nouns: [`ADJ`](la-pos/ADJ), [`DET`](la-pos/DET), [`NUM`](la-pos/NUM) (some),
-    [`VERB`](la-pos/VERB) and possibly [AUX](la-pos/AUX) ([nominal forms](la-feat/VerbForm)).Only participles (including gerundives) inflect for gender in agreement with some head; so'called finite forms do not express this category.
+    [`VERB`](la-pos/VERB) and possibly [AUX](la-pos/AUX) ([nominal forms](la-feat/VerbForm)).Only participles (including gerundives) inflect for gender in agreement with some head; so-called finite forms do not express this category.
 * The two values of the [`Number`](la-feat/Number) feature are `Sing` and `Plur`. The following parts of speech inflect for number: [`NOUN`](la-pos/NOUN), [`PROPN`](la-pos/PROPN), [`PRON`](la-pos/PRON), [`ADJ`](la-pos/ADJ), [`DET`](la-pos/DET), [`NUM`](la-pos/NUM), [`VERB`](la-pos/VERB), [`AUX`](la-pos/AUX).
 * [`Case`](la-feat/Case) has 7 possible values: nominative `Nom`, genitive `Gen`, dative `Dat`, accusative `Acc`, vocative `Voc` (marginal), locative `Loc` (marginal), ablative `Abl`.
   It occurs with nominal words, i.e., [`NOUN`](la-pos/NOUN), [`PROPN`](la-pos/PROPN), [`PRON`](la-pos/PRON), [`ADJ`](la-pos/ADJ), [`DET`](la-pos/DET), [`NUM`](la-pos/NUM), and also with attributive nominal forms of verbs ([`VERB`](la-pos/VERB)/[`AUX`](la-pos/AUX)) (participles, including gerundives/gerunds).
@@ -222,7 +222,7 @@ A selection of the more specific (and interesting) relation subtypes used in the
 * [`advcl:pred`](la-dep/advcl-pred) secondary predications of all kind, including e.g. "conjunct participles" or "floating quantifiers" (embedded non-finite, possibly nominal, clauses whose subject is co-referent to an argument in the matrix clause)
     * [`xcomp:pred`](la-dep/xcomp-pred) secondary predications which is a core extension of the main predication
 * [`ccomp:reported`](la-dep/ccomp-reported) for object clauses expressing direct speech
-    * * [`parataxis:reporting`](la-dep/parataxis-reporting) for the reversed phenomenon 
+    * [`parataxis:reporting`](la-dep/parataxis-reporting) for the reversed phenomenon 
 * [`csubj:relcl`](la-dep/csubj-relcl) for so-called free relatives acting as subjects, containing a "double pronoun"
     * so similarly [`ccomp:relcl`](la-dep/ccomp-relcl), [`xcomp:relcl`](la-dep/xcomp-relcl), [`advcl:relcl`](la-dep/advcl-relcl)
 * [`advmod:emph`](la-dep/advmod-emph) for adverbs or particles that modify noun phrases and emphasize or negate them (focalisers)
@@ -230,8 +230,6 @@ A selection of the more specific (and interesting) relation subtypes used in the
 * [`obl:arg`](la-dep/obl-arg) for oblique arguments which are considered complements
 * [`conj:expl`](la-dep/conj-expl) for appositive additions functioning as a expansions (also by repetition) of any element(the _scilicet 'that is' type)
 * various subtypes of [`dislocated`](la-dep/dislocated) according to the original relation of the displaced element
-
-
 * The following relation types are not used at all:
   [`clf`](), [`list`]()
 
