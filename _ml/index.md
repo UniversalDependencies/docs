@@ -11,7 +11,9 @@ udver: '2'
 * In general, words are delimited by whitespace characters or punctuations.
 * Multiword tokens are relatively common in Malayalam. As the orthographic tokens correspond to multiple syntactic words, we systematically split them.
   For example, the coordinating clitic  -ഉം / _-um_ is analyzed as a separate syntactic word.
-
+* In orthography sometimes the object and the verb of a sentence occur as a multiword token. For example, in the sentence പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്തെഴുതി. /   _peṇkuṭṭi tanṟe suhr̥ttin katteḻuti_. ”The girl wrote a letter to her friend”. കത്ത് / _katt_ ”letter” and എഴുതി / _eḻuti_ ”wrote” occur as a multiword     token and hence split.
+* The quotative particle or the complimentizer എന്ന് / _ĕnn_ usually occurs in a multiword token and is split to be analyzed as a separate syntactic word.
+     
 ## Morphology
 
 ### Tags
@@ -46,7 +48,7 @@ udver: '2'
 
 ### Nominal Features
 
-* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent Gender feature with one of three values:
+* The third person singular pronouns [PRON]() have an inherent Gender feature with one of three values:
   [Masc](https://universaldependencies.org/u/feat/Gender.html#Masc),
   [Fem](https://universaldependencies.org/u/feat/Gender.html#Fem) or
   [Neut](https://universaldependencies.org/u/feat/Gender.html#Neut).
