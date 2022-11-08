@@ -264,15 +264,15 @@ is from Malayalam.
 # translit = mēri veṅkalavuṁ pīṟṟaṟ veḷḷiyuṁ jeyin svaṟṇavuṁ nēṭi.
 # text_en = Mary won bronze, Peter silver, and Jane gold.
 1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=mēri|LTranslit=mēri
-2-3	വെങ്കലവും	_	_	_	_	_	_	_	Translit=veṅkalavuṁ
+2-3	വെങ്കലവും	_	_	_	_	_	_	_	_
 2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	1	orphan	_	Translit=veṅkalaṁ|LTranslit=veṅkalaṁ
 3	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
 4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Translit=pīṟṟaṟ|LTranslit=pīṟṟaṟ
-5-6	വെള്ളിയും	_	_	_	_	_	_	_	Translit=veḷḷiyuṁ
+5-6	വെള്ളിയും	_	_	_	_	_	_	_	_
 5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	orphan	_	Translit=veḷḷi|LTranslit=veḷḷi
 6	ഉം	ഉം	PART	_	_	4	cc	_	Translit=uṁ|LTranslit=uṁ
 7	ജെയിൻ	ജെയിൻ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	Translit=jeyin|LTranslit=jeyin
-8-9	സ്വർണവും	_	_	_	_	_	_	_	Translit=svaṟṇavuṁ
+8-9	സ്വർണവും	_	_	_	_	_	_	_	_
 8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=svaṟṇaṁ|LTranslit=svaṟṇaṁ
 9	ഉം	ഉം	PART	_	_	10	cc	_	Translit=uṁ|LTranslit=uṁ
 10	നേടി	നെടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|Translit=nēṭi|LTranslit=neṭuka
