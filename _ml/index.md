@@ -53,29 +53,30 @@ udver: '2'
   [Masc](https://universaldependencies.org/u/feat/Gender.html#Masc),
   [Fem](https://universaldependencies.org/u/feat/Gender.html#Fem) or
   [Neut](https://universaldependencies.org/u/feat/Gender.html#Neut).
-* The [Animacy]() features
+* Like `Gender`, [Animacy]() is also an inherent feature of nominal words ([NOUN](), [PROPN](), and [PRON]()). It has
+  two values:
   [Anim](https://universaldependencies.org/u/feat/Animacy.html#Anim) and
-  [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan) are used for nominal words ([NOUN](), [PROPN](), and [PRON]()).
-  Animacy is grammatically relevant because inanimate nouns may occur without accusative marking when used ad direct objects.
-  Animates include nouns denoting persons, animals, or trees.
-* The two main values of the [Number]() feature are
+  [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan).
+  Animacy is grammatically relevant because inanimate nouns may occur without accusative marking when used ad direct
+  objects. Animates include nouns denoting persons, animals, or trees.
+* The two values of the [Number]() feature are
   [Sing](https://universaldependencies.org/u/feat/Number.html#Sing) and
   [Plur](https://universaldependencies.org/u/feat/Number.html#Plur).
   The following parts of speech inflect for number: NOUN, PROPN, PRON, [VERB]().
 * [Case]() has 13 possible values:
   [Nom](https://universaldependencies.org/u/feat/Case.html#Nom),
   [Acc](https://universaldependencies.org/u/feat/Case.html#Acc),
-  [Ins](https://universaldependencies.org/u/feat/Case.html#Ins),
-  [Dat](https://universaldependencies.org/u/feat/Case.html#Dat),
-  [Abl](https://universaldependencies.org/u/feat/Case.html#Abl),
-  [Loc](https://universaldependencies.org/u/feat/Case.html#Loc),
-  [Voc](https://universaldependencies.org/u/feat/Case.html#Voc),
   [Gen](https://universaldependencies.org/u/feat/Case.html#Gen),
+  [Dat](https://universaldependencies.org/u/feat/Case.html#Dat),
+  [Ins](https://universaldependencies.org/u/feat/Case.html#Ins),
+  [Loc](https://universaldependencies.org/u/feat/Case.html#Loc),
+  [Abl](https://universaldependencies.org/u/feat/Case.html#Abl),
+  [All](https://universaldependencies.org/u/feat/Case.html#All),
   [Cmp](https://universaldependencies.org/u/feat/Case.html#Cmp),
   [Com](https://universaldependencies.org/u/feat/Case.html#Com),
   [Ben](https://universaldependencies.org/u/feat/Case.html#Ben),
-  [All](https://universaldependencies.org/u/feat/Case.html#All),
-  [Abl](https://universaldependencies.org/u/feat/Case.html#Abl).
+  [Cau](https://universaldependencies.org/u/feat/Case.html#Cau),
+  [Voc](https://universaldependencies.org/u/feat/Case.html#Voc).
   Malayalam is an agglutinative language and the spatiotemporal and/or case-like morphemes are analyzed as postpositions.
   The Case feature occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [NUM]() and also with nominalized verb forms.
 
