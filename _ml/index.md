@@ -9,10 +9,21 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * In general, words are delimited by whitespace characters or punctuations.
-* Multiword tokens are relatively common in Malayalam. As the orthographic tokens correspond to multiple syntactic words, we systematically split them.
-  For example, the coordinating clitic  -ഉം / _-um_ is analyzed as a separate syntactic word.
-* In orthography sometimes the object and the verb of a sentence occur as a multiword token. For example, in the sentence പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്തെഴുതി. /   _peṇkuṭṭi tanṟe suhr̥ttin katteḻuti_. ”The girl wrote a letter to her friend”. കത്ത് / _katt_ ”letter” and എഴുതി / _eḻuti_ ”wrote” occur as a multiword     token and hence split.
-* The quotative particle or the complimentizer എന്ന് / _ĕnn_ usually occurs in a multiword token and is split to be analyzed as a separate syntactic word.
+* Multiword tokens are relatively common in Malayalam. In the following situations, we understand orthographic tokens
+  as corresponding to multiple syntactic words and split them:
+  * The copula ആക് / _āk_ “to be” is written as a suffix of the nominal/adjectival predicate. However, sometimes
+    it is suffixed to another word in the clause, indicating that it is a clitic rather than a derivational morpheme
+    that would derive a verb from a noun/adjective.
+  * The quotative particle or the complimentizer എന്ന് / _enn_ “that” usually occurs as a suffix of the verb or the
+    copula. Given that we split the copula as a syntactic word, we split the complementizer as well. (Also, it
+    increases parallelism with languages where complementizers are independent words, and avoids having to define a
+    language-specific feature for verb with complementizer.)
+  * The coordinating clitics -ഉം / _-um_ and -ഓ / _-ō_ are written together with conjuncts but analyzed as separate
+    syntactic words.
+  * In orthography sometimes the object and the verb of a sentence occur as a multiword token. For example, in the
+    sentence പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്തെഴുതി. / _peṇkuṭṭi tanṟe suhr̥ttin katteḻuti._
+    “The girl wrote a letter to her friend”. കത്ത് / _katt_ “letter” and എഴുതി / _eḻuti_ ”wrote” occur as a multiword
+    token and are split.
 
 ## Morphology
 
