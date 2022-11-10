@@ -22,7 +22,7 @@ udver: '2'
     syntactic words.
   * In orthography sometimes the object and the verb of a sentence occur as a multiword token. For example, in the
     sentence പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്തെഴുതി. / _peṇkuṭṭi tanṟe suhr̥ttin katteḻuti._
-    “The girl wrote a letter to her friend”. കത്ത് / _katt_ “letter” and എഴുതി / _eḻuti_ ”wrote” occur as a multiword
+    “The girl wrote a letter to her friend.”, കത്ത് / _katt_ “letter” and എഴുതി / _eḻuti_ ”wrote” occur as a multiword
     token and are split.
 
 ## Morphology
