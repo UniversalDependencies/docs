@@ -59,10 +59,11 @@ udver: '2'
   [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan).
   Animacy is grammatically relevant because inanimate nouns may occur without accusative marking when used ad direct
   objects. Animates include nouns denoting persons, animals, or trees.
-* The two values of the [Number]() feature are
+* The two values of [Number]() are
   [Sing](https://universaldependencies.org/u/feat/Number.html#Sing) and
   [Plur](https://universaldependencies.org/u/feat/Number.html#Plur).
-  The following parts of speech inflect for number: NOUN, PROPN, PRON, [VERB]().
+  The following parts of speech inflect for number: [NOUN](), [PROPN](), [PRON](). There is no agreement in `Number`,
+  that is, the number of nouns is not reflected in the form of verbs or adjectives.
 * [Case]() has 13 possible values:
   [Nom](https://universaldependencies.org/u/feat/Case.html#Nom),
   [Acc](https://universaldependencies.org/u/feat/Case.html#Acc),
