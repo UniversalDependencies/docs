@@ -114,7 +114,7 @@ udver: '2'
 
 * [PronType]() is used with pronouns [PRON]().
 * [NumType]() is used with numerals [NUM]().
-* [Person]() is a lexical feature of personal pronouns (PRON) and has three values,1,2 and 3.
+* [Person]() is a lexical feature of personal pronouns (PRON) and has three values 1, 2 and 3.
 * [Clusivity]() distinguishes inclusive and exclusive 1st person plural pronouns.
 * [Deixis]() distinguishes proximate and remote demonstratives and 3rd person singular and plural pronouns.
 
@@ -123,7 +123,8 @@ udver: '2'
 ### Core Arguments, Oblique Arguments and Adjuncts
 
 * Malayalam is a verb-final language; both SOV and OSV orders are possible.
-* Core arguments are marked by the morphological cases nominative (subject) and accusative (object). Core arguments are bare noun phrases without postpositions.
+* Core arguments are marked by the morphological cases nominative (subject) and accusative (object). Core arguments
+  are bare noun phrases without postpositions. Neither subject nor object are cross-referenced by verbal morphology.
 * Subjects have the following characteristics:
     * Case marking: Subjects occur in nominative case without adpositions.
     * Passivization: Subjects are suppressed when verbs are passivized.
