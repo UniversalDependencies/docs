@@ -21,13 +21,12 @@ udver: '2'
 * Malayalam uses all the 17 POS tags, including particles ([PART]()).
 * The noun tag [NOUN]() is intended for common nouns only.
   Abstract nouns are also tagged `NOUN`.
-  Proper nouns include the name of a specific individual, place, or object and are tagged `PROPN`.
   The nouns in Malayalam are marked for case and number.
+* Proper nouns include the name of a specific individual, place, or object and are tagged [PROPN]().
 * Pronouns are tagged [PRON](). The nominal reflexive താൻ / _tān_ is also tagged `PRON`.
-* The numeral ‘one’ which functions as the indefinite artcle is tagged [DET]().
-  For example, ഒരു വീട് / _ŏru vīṭ_ “a house”.
+* The numeral “one” which functions as the indefinite article is tagged [DET](). For example, ഒരു വീട് / _ŏru vīṭ_ “a house”.
   Quantifiers like ഒരുപാട് / _ŏrupāṭu_ “a lot” that act as modifiers are also tagged `DET`.
-  Cardinal numbers are covered by [NUM]().
+* Cardinal numbers (including ഒരു / _ŏru_ “one” if it denotes primarily quantity) are tagged [NUM]().
 * The emphatic markers -ഏ / _-ē_ and തന്നേ / _tannē_, the coordination clitics -ഉം / _-um_ and ഓ / _-ō_, and the quotative particle എന്ന് / _ĕnn_ are tagged [PART]().
 * The tag [ADJ]() covers both free adjectives, such as പഴയ / _paḻaya_ “old”,
   and derived adjectives, such as സന്തോഷകരമായ / _santoṣakaramāya_ “pleasant”.
@@ -48,13 +47,12 @@ udver: '2'
 
 ### Nominal Features
 
-* The third-person singular pronouns ([PRON]()) have a [Gender]() feature with one of three values:
+* Inherent [Gender]() of nouns determines which personal pronoun can refer to the noun, and it is sometimes reflected
+  as agreement on adjectives. It is not reflected on verbs (unlike in related Tamil). We do not annotate the gender
+  of nouns in data but we do so for third-person pronouns with one of three values:
   [Masc](https://universaldependencies.org/u/feat/Gender.html#Masc),
   [Fem](https://universaldependencies.org/u/feat/Gender.html#Fem) or
   [Neut](https://universaldependencies.org/u/feat/Gender.html#Neut).
-  Inherent gender of nouns determines which personal pronoun can refer to the noun, and it is sometimes reflected
-  as agreement on adjectives. It is not reflected on verbs (unlike in related Tamil). We do not annotate the gender
-  of nouns in data but we do so for third-person pronouns.
 * The [Animacy]() features
   [Anim](https://universaldependencies.org/u/feat/Animacy.html#Anim) and
   [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan) are used for nominal words ([NOUN](), [PROPN](), and [PRON]()).
@@ -63,7 +61,7 @@ udver: '2'
 * The two main values of the [Number]() feature are
   [Sing](https://universaldependencies.org/u/feat/Number.html#Sing) and
   [Plur](https://universaldependencies.org/u/feat/Number.html#Plur).
-  The following parts of speech inflect for number: NOUN, PROPN, PRON.
+  The following parts of speech inflect for number: NOUN, PROPN, PRON, [VERB]().
 * [Case]() has 13 possible values:
   [Nom](https://universaldependencies.org/u/feat/Case.html#Nom),
   [Acc](https://universaldependencies.org/u/feat/Case.html#Acc),
