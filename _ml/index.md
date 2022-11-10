@@ -13,7 +13,7 @@ udver: '2'
   For example, the coordinating clitic  -ഉം / _-um_ is analyzed as a separate syntactic word.
 * In orthography sometimes the object and the verb of a sentence occur as a multiword token. For example, in the sentence പെൺകുട്ടി തന്റെ സുഹൃത്തിന് കത്തെഴുതി. /   _peṇkuṭṭi tanṟe suhr̥ttin katteḻuti_. ”The girl wrote a letter to her friend”. കത്ത് / _katt_ ”letter” and എഴുതി / _eḻuti_ ”wrote” occur as a multiword     token and hence split.
 * The quotative particle or the complimentizer എന്ന് / _ĕnn_ usually occurs in a multiword token and is split to be analyzed as a separate syntactic word.
-     
+
 ## Morphology
 
 ### Tags
@@ -22,7 +22,7 @@ udver: '2'
 * The noun tag [NOUN]() is intended for common nouns only.
   Abstract nouns are also tagged `NOUN`.
   Proper nouns include the name of a specific individual, place, or object and are tagged `PROPN`.
-  The nouns in Malayalam are maked for case and number. Nouns marked for gender are not frequent.
+  The nouns in Malayalam are marked for case and number.
 * Pronouns are tagged [PRON](). The nominal reflexive താൻ / _tān_ is also tagged `PRON`.
 * The numeral ‘one’ which functions as the indefinite artcle is tagged [DET]().
   For example, ഒരു വീട് / _ŏru vīṭ_ “a house”.
@@ -48,17 +48,21 @@ udver: '2'
 
 ### Nominal Features
 
-* The third person singular pronouns [PRON]() have an inherent Gender feature with one of three values:
+* The third-person singular pronouns ([PRON]()) have a [Gender]() feature with one of three values:
   [Masc](https://universaldependencies.org/u/feat/Gender.html#Masc),
   [Fem](https://universaldependencies.org/u/feat/Gender.html#Fem) or
   [Neut](https://universaldependencies.org/u/feat/Gender.html#Neut).
+  Inherent gender of nouns determines which personal pronoun can refer to the noun, and it is sometimes reflected
+  as agreement on adjectives. It is not reflected on verbs (unlike in related Tamil). We do not annotate the gender
+  of nouns in data but we do so for third-person pronouns.
+* The [Animacy]() features
+  [Anim](https://universaldependencies.org/u/feat/Animacy.html#Anim) and
+  [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan) are used for nominal words ([NOUN](), [PROPN](), and [PRON]()).
+  Animacy is grammatically relevant because inanimate nouns may occur without accusative marking when used ad direct objects.
 * The two main values of the [Number]() feature are
   [Sing](https://universaldependencies.org/u/feat/Number.html#Sing) and
   [Plur](https://universaldependencies.org/u/feat/Number.html#Plur).
   The following parts of speech inflect for number: NOUN, PROPN, PRON.
-* The [Animacy]() features
-  [Anim](https://universaldependencies.org/u/feat/Animacy.html#Anim) and
-  [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan) are used for Nominal words (NOUN, PROPN, and PRON).
 * [Case]() has 13 possible values:
   [Nom](https://universaldependencies.org/u/feat/Case.html#Nom),
   [Acc](https://universaldependencies.org/u/feat/Case.html#Acc),
