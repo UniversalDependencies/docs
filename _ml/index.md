@@ -59,6 +59,7 @@ udver: '2'
   [Anim](https://universaldependencies.org/u/feat/Animacy.html#Anim) and
   [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan) are used for nominal words ([NOUN](), [PROPN](), and [PRON]()).
   Animacy is grammatically relevant because inanimate nouns may occur without accusative marking when used ad direct objects.
+  Animates include nouns denoting persons, animals, or trees.
 * The two main values of the [Number]() feature are
   [Sing](https://universaldependencies.org/u/feat/Number.html#Sing) and
   [Plur](https://universaldependencies.org/u/feat/Number.html#Plur).
