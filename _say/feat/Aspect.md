@@ -20,7 +20,7 @@ udver: '2'
 </tr>
 </table>
 
-In Zaar, aspect is an inflexionnal feature ...
+In Zaar, the aspect features are expressed together with tense and mood features in a word functioning as a preverbal clitic tagged as an AUX. 
 
 ### <a name="Aor">`Aor`</a>: aorist
 
