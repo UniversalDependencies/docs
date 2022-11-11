@@ -16,7 +16,8 @@ udver: '2'
 </tr>
 </table>
 
-In Zaar, the tense feature…
+In Zaar, the tense features are expressed together with aspect and mood features in a word functioning as a preverbal clitic tagged as an AUX. 
+
 
 ### <a name="Fut">`Fut`</a>: Future
 
