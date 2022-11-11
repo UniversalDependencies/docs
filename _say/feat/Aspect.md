@@ -20,7 +20,7 @@ udver: '2'
 </tr>
 </table>
 
-In Zaar, aspect is an inflexionnal feature ...
+In Zaar, aspect is an inflexionnal feature mainly expressed by the AUX 
 
 ### <a name="Aor">`Aor`</a>: aorist
 
