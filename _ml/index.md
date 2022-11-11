@@ -35,26 +35,30 @@ udver: '2'
   The nouns in Malayalam are marked for case and number.
 * Proper nouns include the name of a specific individual, place, or object and are tagged [PROPN]().
 * Pronouns are tagged [PRON](). The nominal reflexive താൻ / _tān_ is also tagged `PRON`.
-* The numeral “one” which functions as the indefinite article is tagged [DET](). For example, ഒരു വീട് / _ŏru vīṭ_ “a house”.
-  Quantifiers like ഒരുപാട് / _ŏrupāṭu_ “a lot” that act as modifiers are also tagged `DET`.
+* The numeral “one” which functions as the indefinite article is tagged [DET](). For example, ഒരു വീട് / _oru vīṭ_ “a house”.
+  Quantifiers like ഒരുപാട് / _orupāṭ_ “a lot” that act as modifiers are also tagged `DET`.
 * Cardinal numbers (including ഒരു / _ŏru_ “one” if it denotes primarily quantity) are tagged [NUM]().
-* The emphatic markers -ഏ / _-ē_ and തന്നേ / _tannē_, the coordination clitics -ഉം / _-um_ and ഓ / _-ō_, and the quotative particle എന്ന് / _ĕnn_ are tagged [PART]().
+* The emphatic markers -ഏ / _-ē_ and തന്നേ / _tannē_, the coordination clitics -ഉം / _-um_ and ഓ / _-ō_, and the quotative particle എന്ന് / _enn_ are tagged [PART]().
 * The tag [ADJ]() covers both free adjectives, such as പഴയ / _paḻaya_ “old”,
-  and derived adjectives, such as സന്തോഷകരമായ / _santoṣakaramāya_ “pleasant”.
-* The tag [ADV]() covers adverbs like സങ്കടത്തോടെ / _saṅkaṭattoṭĕ_ “sadly”, തീർച്ചയായും / _tīrccayāyuṃ_ “certainly”.
+  and derived adjectives, such as സന്തോഷകരമായ / _santōṣakaramāya_ “pleasant”.
+* The tag [ADV]() covers adverbs like സങ്കടത്തോടെ / _saṅkaṭattōṭe_ “sadly”, തീർച്ചയായും / _tīṟ̕ccayāyuṁ_ “certainly”.
 * Finite and nonfinite verb forms are tagged [VERB]() or [AUX]().
 * Malayalam has the following auxiliary verbs [AUX]():
   *  ആക് / _āk_ “to be” is used as a copula to denote existential and stative meanings.
-  It can also function as lexical verb conveys the meanings of ‘to have’, ‘to take place’, ‘be able to’.
+  It can also function as lexical verb conveying the meanings of “to have”, “to take place”, “to be able to”.
   *  ഉണ്ട് / _uṇṭ_ “to be” is used as a copula to denote existential and stative meanings but additionally it has a possessive meaning ‘to have’.
   * Modal auxiliaries:
     * കഴിയുക / _kaḻiyuka_ “to be able, can”
-    * വേണം / _veṇaṃ_ “want”
+    * വേണം / _vēṇaṁ_ “want”
 * There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the VerbForm feature:
-  * Finite verb [Fin](https://universaldependencies.org/u/feat/VerbForm.html#Fin), tagged `VERB` or `AUX`.
-  * Infinitive [Inf](https://universaldependencies.org/u/feat/VerbForm.html#Inf), tagged `VERB` or `AUX`.
-  * Verbal noun [Vnoun](https://universaldependencies.org/u/feat/VerbForm.html#Vnoun), tagged `VERB` or `AUX`.
-  * Participle [Part](https://universaldependencies.org/u/feat/VerbForm.html#Part), tagged `VERB` or `AUX`.
+  * Finite verb [Fin](/u/feat/VerbForm.html#Fin), tagged [VERB]() or [AUX]().
+    It is marked for [Tense]() and it can occur in the main clause without an auxiliary.
+  * Nominalized form of a verb is annotated as [Vnoun](/u/feat/VerbForm.html#Vnoun) with the UPOS [VERB]().
+    These forms (sometimes also called gerunds in the literature) end in -ത് / _-t_. Despite being nominalized,
+    they are marked for [Tense]() and assign the nominative case to their subjects. They occur with the
+    auxiliary ആക് / _āk_ “to be”. <!-- DZ: I would contrast them with the deverbal nouns that are tagged [NOUN]() but I do not know any example so far. -->
+  * Infinitive [Inf](/u/feat/VerbForm.html#Inf), tagged `VERB` or `AUX`.
+  * Participle [Part](/u/feat/VerbForm.html#Part), tagged `VERB` or `AUX`.
 
 ### Nominal Features
 
