@@ -20,11 +20,11 @@ udver: '2'
 </tr>
 </table>
 
-In Zaar, the aspect features are expressed together with tense and mood features in a word functioning as a preverbal clitic tagged as an AUX. 
+In Zaar, the aspect features are expressed together with tense and mood features in a word functioning as a preverbal clitic tagged as an AUX. the exceptions are the inchoative and the resultative aspects which are directly attached to the verb, as a suffix for the inchoative, and a verbal particle (syntactic link = compound:prt) for the inchoative. 
 
 ### <a name="Aor">`Aor`</a>: aorist
 
-Zaar: The aorist is the default aspect, morphologically unmarked, and tonally associated with a low tone. It is used where TAM values are backgrounded, and in narration where TAM values are contextually recoverable. 
+Zaar: The aorist is the default aspect, morphologically unmarked, and tonally associated with a low tone. It is used where TAM values are backgrounded, and in narration where they are contextually recoverable. 
 
 #### Examples
 
@@ -34,11 +34,11 @@ Zaar: The aorist is the default aspect, morphologically unmarked, and tonally as
 
 ### <a name="Conc">`Conc`</a>: TODO
 
-Beja: The imperfective marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future.
+Zaar: In narrations, the concomitant marks an unbounded process functioning as a temporal frame for another process. 
 
 #### Example
 
-TODO
+- _kóː <b>kə</b> yé wuriː ?//_ "Or how do you see it?"
 
 ### <a name="Inch">`Inch`</a>: inchoative
 
