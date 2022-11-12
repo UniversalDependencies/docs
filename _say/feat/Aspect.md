@@ -50,11 +50,11 @@ Zaar: The inchoative marks the beginning of a process. It can also change the le
 
 ### <a name="Imp">`Imp`</a>: imperfect
 
-Zaar: The imperfect marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future.
+Zaar: The imperfect marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future. The inflection follows the pattern "pronoun+_yáː_".
 
 #### Example
 
-TODO
+- _<b>ʧáː</b> pol =əm á Kámʃâk fáː !// "I like Kamshak I do!"
 
 ### <a name="ImpIter">`ImpIter`</a>: TODO
 
