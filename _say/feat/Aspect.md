@@ -24,11 +24,13 @@ In Zaar, the aspect features are expressed together with tense and mood features
 
 ### <a name="Aor">`Aor`</a>: aorist
 
-Beja: The aorist expresses semantic values of habituality, repetition, general truth and anteriority. It can also be also used in backgrounded contexts, and for the expression of a wish. It is not time referenced.
+Zaar: The aorist is the default aspect, morphologically unmarked, and tonally associated with a low tone. It is used where TAM values are backgrounded, and in narration where TAM values are contextually recoverable. 
 
-#### Example
+#### Examples
 
 - _kóː <b>kə</b> yé wuriː ?//_ "Or how do you see it?"
+
+- _myáː mandá <b>mə</b> tawséytə mə́n sòːséy //_ "I began to pity him really."
 
 ### <a name="Conc">`Conc`</a>: TODO
 
