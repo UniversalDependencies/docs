@@ -30,19 +30,19 @@ Zaar: The aorist is the default aspect, morphologically unmarked, and tonally as
 
 - _kóː <b>kə</b> yé wuriː ?//_ "Or how do you see it?"
 
-- _myáː mandá <b>mə</b> tawséytə mə́n sòːséy //_ "I began to pity him really."
+- _myáː mandá <b>mə</b> tawséy =tə mə́n sòːséy //_ "I began to pity him really."
 
 ### <a name="Conc">`Conc`</a>: TODO
 
-Zaar: In narrations, the concomitant marks an unbounded process functioning as a temporal frame for another process. 
+Zaar: In narrations, the concomitant marks an unbounded process functioning as a temporal frame for another process. The inflection follows the pattern "pronoun+_yáː_+_náː_"
 
 #### Example
 
-- _kóː <b>kə</b> yé wuriː ?//_ "Or how do you see it?"
+- _<b>myáːnaː</b> tul gìp Kìmsə́ < káwây màːʃîn < fi mə́kə́p //_ "we had just entered Kimse when the motorcycle stopped."
 
 ### <a name="Inch">`Inch`</a>: inchoative
 
-TODO
+Zaar: The inchoative marks a change of state or the beginning of a process. It is expressed by the post-verbal particle _ni_.
 
 #### Example
 
