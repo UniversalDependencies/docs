@@ -54,7 +54,7 @@ Zaar: The imperfect marks an unbounded process or state, seen from the point of 
 
 #### Example
 
-- _<b>ʧáː</b> pol =əm á Kámʃâk fáː !// "I like Kamshak I do!"
+- _<b>ʧáː</b> pol =əm á Kámʃâk fáː !//_ "I like Kamshak I do!"
 
 ### <a name="ImpIter">`ImpIter`</a>: TODO
 
