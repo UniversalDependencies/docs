@@ -32,7 +32,7 @@ Zaar: The aorist is the default aspect, morphologically unmarked, and tonally as
 
 - _myáː mandá <b>mə</b> tawséy =tə mə́n sòːséy //_ "I began to pity him really."
 
-### <a name="Conc">`Conc`</a>: TODO
+### <a name="Conc">`Conc`</a>: concomitant
 
 Zaar: In narrations, the concomitant marks an unbounded process functioning as a temporal frame for another process. The inflection follows the pattern "pronoun+_yáː_+_náː_"
 
@@ -42,15 +42,15 @@ Zaar: In narrations, the concomitant marks an unbounded process functioning as a
 
 ### <a name="Inch">`Inch`</a>: inchoative
 
-Zaar: The inchoative marks a change of state or the beginning of a process. It is expressed by the post-verbal particle _ni_.
+Zaar: The inchoative marks the beginning of a process. It can also change the lexical meaning of a verb from a state verb to a process verb (e.g. from 'sit' to 'sit down'). It is expressed by the post-verbal particle _ni_.
 
 #### Example
 
-TODO
+- _ín yǎː gàmá ʃaɣndí < tə̀ tsə̌tn <b>ni</b> //= tə̀ ʧòpʃí //= tə̀ lyàː lyáːwàːsə̀n //_ "If they have finished cooking, they sit down, they wash and they rest."
 
 ### <a name="Imp">`Imp`</a>: imperfective
 
-Beja: The imperfective marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future.
+Zaar: The imperfective marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future.
 
 #### Example
 
