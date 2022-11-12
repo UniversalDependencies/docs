@@ -48,9 +48,9 @@ Zaar: The inchoative marks the beginning of a process. It can also change the le
 
 - _ín yǎː gàmá ʃaɣndí < tə̀ tsə̌tn <b>ni</b> //= tə̀ ʧòpʃí //= tə̀ lyàː lyáːwàːsə̀n //_ "If they have finished cooking, they sit down, they wash and they rest."
 
-### <a name="Imp">`Imp`</a>: imperfective
+### <a name="Imp">`Imp`</a>: imperfect
 
-Zaar: The imperfective marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future.
+Zaar: The imperfect marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future.
 
 #### Example
 
