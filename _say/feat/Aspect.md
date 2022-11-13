@@ -20,7 +20,7 @@ udver: '2'
 </tr>
 </table>
 
-In Zaar, the aspect features are expressed together with tense and mood features in a word functioning as a preverbal clitic tagged as an AUX. the exceptions are the inchoative and the resultative aspects which are directly attached to the verb, as a suffix for the inchoative, and a verbal particle (syntactic link = compound:prt) for the inchoative. 
+In Zaar, the aspect features are expressed together with tense and mood features in a word functioning as a preverbal clitic tagged as an AUX. The exceptions are the inchoative and the resultative aspects which are directly attached to the verb, as a suffix for the inchoative, and a verbal particle (syntactic link = compound:prt) for the inchoative. The AUX is followed by a finite form of the verb, except for the progressive aspect which is followed by a verbal noun.
 
 ### <a name="Aor">`Aor`</a>: aorist
 
@@ -50,7 +50,7 @@ Zaar: The inchoative marks the beginning of a process. It can also change the le
 
 ### <a name="Imp">`Imp`</a>: imperfect
 
-Zaar: The imperfect marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future. The inflection follows the pattern "pronoun+_yáː_".
+Zaar: The imperfect denotes a state or an unbounded process. It can be used in any temporal context, past, present or future. The inflection follows the pattern "pronoun+_yáː_".
 
 #### Example
 
@@ -70,29 +70,29 @@ Zaar: The iterative aspect denotes a repeated or habitual process. The inflectio
 
 #### Example
 
-wéy [ káwây ] myâːn miː nger mə ɗu bôːl ɗan tu kóː kúmá tá byǎ =m ni aː //
+- _wéy káwây myâːn <b>miː</b> nger mə ɗu bôːl ɗan tu kóː kúmá tá byǎ =m ni aː //_ "they said that me, I played football like a professional."
 
 ### <a name="Perf">`Perf`</a>: perfect
 
-Beja: The perfect has a resultative value. The process or state is considered as having an impact on the moment of enunciation or another moment given by the context.
+Zaar: The perfect aspect denotes a process completed with a resultative value: it has an impact on the state of affairs at the time referred to by the illocution. The inflection follows the pattern "pronoun+_áː_".
 
 #### Example
 
-TODO
+- _<b>àː</b> yaddéy wò ʧanʤá kə́lâːʃíː //_  "He has agreed to change class."
 
 ### <a name="Prog">`Prog`</a>: progressive
 
-TODO
+Zaar: The progressive aspect denotes an ongoing process. The AUX is etymologically analysed as the combination of the copular verb _yi_ 'be' and the ADP _ká_ 'at'. It is followed by a verbal noun. 
 
 #### Example
 
-TODO
+- _á < zaːr wò ɗyáː kap gə̀t àmáː tá mán ɓə̂líː tə́ gə̀ɗès kúmá <b>ʧìɣá</b> tsə́tngə̂n tə́ ŋáː =wôs áy //_ "Well, a man can marry but they can divorce and she will be living with her child."
 
 ### <a name="Res">`Res`</a>: resultative
 
-TODO
+Zaar: the resultative aspect denotes the complete achievement of the process denoted by the verb, and the intensity of its effect on the affected object or on the resulting state of affairs. It is marked by the suffix _-íː_ attached to the verb or its last dependant. 
 
 #### Example
 
-TODO
+- _wò kap =k<b>ə́y</b> ?//_ "He will abduct you ?"
 
