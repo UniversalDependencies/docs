@@ -56,13 +56,13 @@ Zaar: The imperfect marks an unbounded process or state, seen from the point of 
 
 - _<b>ʧáː</b> pol =əm á Kámʃâk fáː !//_ "I like Kamshak I do!"
 
-### <a name="ImpIter">`ImpIter`</a>: TODO
+### <a name="ImpIter">`ImpIter`</a>: iterative imperfect
 
-TODO
+Zaar: The iterative imperfect is the combination of the imperfect and iterative aspects in the corresponding AUX. The inflection follows the pattern "pronoun+_yǎː_+_yi_".
 
 #### Example
 
-TODO
+- _<b>myàːyi<:b> ɗu bôːl < átâyi nə góːla =wòpə̌n ǎn ?//_ "When we played football, didn 't he use to be our goal keeper?"
 
 ### <a name="Iter">`Iter`</a>: iterative
 
