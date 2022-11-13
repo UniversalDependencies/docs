@@ -28,9 +28,9 @@ Zaar: The aorist is the default aspect, morphologically unmarked, and tonally as
 
 #### Examples
 
-- _kóː <b>kə</b> yé wuriː ?//_  "Or how do you see it?"
+* _kóː <b>kə</b> yé wuriː ?//_  "Or how do you see it?"
 
-- _myáː mandá <b>mə</b> tawséy =tə mə́n sòːséy //_  "I began <b>to pity</b> him really."
+* _myáː mandá <b>mə</b> tawséy =tə mə́n sòːséy //_  "I began <b>to pity</b> him really."
 
 ### <a name="Conc">`Conc`</a>: concomitant
 
