@@ -16,7 +16,7 @@ udver: '2'
 </tr>
 </table>
 
-In Zaar, the tense features are expressed together with aspect and mood features in a word functioning as a preverbal clitic tagged as an AUX. Zaar has one fure tense and three past tenses, denoted Imm (immediate past), Rec (recent past), and Rem (remote past). 
+In Zaar, the tense features are expressed together with aspect, mood, person and number features in a word functioning as a preverbal clitic tagged as an AUX. Zaar has one fure tense and three past tenses, denoted Imm (immediate past), Rec (recent past), and Rem (remote past). 
 
 
 ### <a name="Fut">`Fut`</a>: Future
@@ -45,9 +45,8 @@ Zaar: The recent past tense denotes a process that took place the day before the
 
 ### <a name="Rem">`Rem`</a>: remote past
 
-
 Zaar: The immediate past tense denotes a process that took place two days or more before the speech time locus. The inflection follows the pattern "pronoun + _ta_"
 
 #### Examples
 
-* _əndá <b>kətá</b> mbwáː ɗi //_ “Then you arrived.”
+* _káy káː yel ɗan <b>mətá</b> ɬə á Kullây kwǎː <b>mətá</b> ɲol teː Zwàl //_ "Well you see as <b>I went</b> to see Kulla, see, <b>I followed</b> Zwal way.
