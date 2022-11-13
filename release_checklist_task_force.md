@@ -39,7 +39,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Check the [validation report](http://quest.ms.mff.cuni.cz/udvalidator/)
   for legacy exceptions that are no longer needed.
   Edit [valdan/dispensations.json](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/dispensations.json)
-  and remove those exceptions.
+  and remove those exceptions:<br />
+  <code>cd docs-automation/valdan ; git pull --no-edit ; update-dispensations.pl --json dispensations.json ; git commit -a -m 'Updated validation dispensations.' ;  git push ; cd ../..</code>
 * Save the list of the released treebanks in [valdan/releases.json](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/releases.json)
   by running<br />
   <code>docs-automation/valdan/save-release-json.pl --json docs-automation/valdan/releases.json --releasenum 2.11 --releasedate 2022-05-15 $(cat released_treebanks.txt)</code><br />
