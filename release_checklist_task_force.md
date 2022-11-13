@@ -43,7 +43,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>cd docs-automation/valdan ; git pull --no-edit ; update-dispensations.pl --json dispensations.json ; git commit -a -m 'Updated validation dispensations.' ;  git push ; cd ../..</code>
 * Save the list of the released treebanks in [valdan/releases.json](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/releases.json)
   by running<br />
-  <code>docs-automation/valdan/save-release-json.pl --json docs-automation/valdan/releases.json --releasenum 2.11 --releasedate 2022-11-15 $(cat released_treebanks.txt)</code><br />
+  <code>docs-automation/valdan/save-release-json.pl --json docs-automation/valdan/releases.json --releasenum 2.11 --releasedate 2022-11-15 $(cat released_treebanks.txt) ; cd docs-automation ; git commit -a -m 'Updated release list.' ; git push ; cd ..</code><br />
   Note that if a treebank was renamed between the last two releases, it must be hard-coded in the script before running it!
 
 ## Processing the data before releasing them
