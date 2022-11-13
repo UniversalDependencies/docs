@@ -66,11 +66,11 @@ Zaar: The iterative imperfect is the combination of the imperfect and iterative 
 
 ### <a name="Iter">`Iter`</a>: iterative
 
-TODO
+Zaar: The iterative aspect denotes a repeated or habitual process. The inflection follows the pattern "pronoun+_yi_".
 
 #### Example
 
-TODO
+wéy [ káwây ] myâːn miː nger mə ɗu bôːl ɗan tu kóː kúmá tá byǎ =m ni aː //
 
 ### <a name="Perf">`Perf`</a>: perfect
 
