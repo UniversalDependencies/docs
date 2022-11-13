@@ -62,7 +62,7 @@ Zaar: The iterative imperfect is the combination of the imperfect and iterative 
 
 #### Example
 
-- _<b>myàːyi<:b> ɗu bôːl < átâyi nə góːla =wòpə̌n ǎn ?//_ "When we played football, didn 't he use to be our goal keeper?"
+- _<b>myàːyi</b> ɗu bôːl < átâyi nə góːla =wòpə̌n ǎn ?//_ "When we played football, didn 't he use to be our goal keeper?"
 
 ### <a name="Iter">`Iter`</a>: iterative
 
