@@ -32,7 +32,7 @@ Zaar: The immediate past tense denotes a process that took place the same day as
 
 #### Examples
 
-* _kə yél yáːwón ɗan <b>mìyǎː</b> fúː =tə̀  ɗan <b>míyàː</b> ŋáːs =tə ɣáyíː <b>kíː</b> yèl láː áyǎː fi wuriː ?//_ "You see today as <b>we told</b> him, as <b>I teased</b> him, did you see what <b>he did</b>?"
+* _kə yél yáːwón ɗan <b>mìyǎː</b> fúː =tə̀  ɗan <b>míyàː</b> ŋáːs =tə ɣáyíː <b>kíː</b> yèl láː áyǎː fi wuriː ?//_ "You see today as <b>we told</b> him, as <b>I teased</b> him, <b>did you</b> see what <b>he did</b>?"
 
 
 ### <a name="Rec">`Rec`</a>: recent past
