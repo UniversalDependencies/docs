@@ -38,7 +38,7 @@ Zaar: In narrations, the concomitant marks an unbounded process functioning as a
 
 #### Example
 
-* _<b>myáːnaː</b> tul gìp Kìmsə́ < káwây màːʃîn < fi mə́kə́p //_  "we <b>had just entered Kimse when</b> the motorcycle stopped."
+* _<b>myáːnaː</b> tul gìp Kìmsə́ < káwây màːʃîn < fi mə́kə́p //_  "<b>we had just entered Kimse when</b> the motorcycle stopped."
 
 ### <a name="Inch">`Inch`</a>: inchoative
 
@@ -46,7 +46,7 @@ Zaar: The inchoative marks the beginning of a process. It can also change the le
 
 #### Example
 
-* _ín yǎː gàmá ʃaɣndí < tə̀ tsə̌tn <b>ni</b> //= tə̀ ʧòpʃí //= tə̀ lyàː lyáːwàːsə̀n //_  "If they have finished cooking, they <b>sit down</b>, they wash and they rest."
+* _ín yǎː gàmá ʃaɣndí < tə̀ <b>tsə̌tn ni</b> //= tə̀ ʧòpʃí //= tə̀ lyàː lyáːwàːsə̀n //_  "If they have finished cooking, they <b>sit down</b>, they wash and they rest."
 
 ### <a name="Imp">`Imp`</a>: imperfect
 
