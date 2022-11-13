@@ -28,9 +28,9 @@ Zaar: The aorist is the default aspect, morphologically unmarked, and tonally as
 
 #### Examples
 
-- _kóː <b>kə</b> yé wuriː ?//_ "Or how do you see it?"
+- _kóː <b>kə</b> yé wuriː ?//_  "Or how do you see it?"
 
-- _myáː mandá <b>mə</b> tawséy =tə mə́n sòːséy //_ "I began to pity him really."
+- _myáː mandá <b>mə</b> tawséy =tə mə́n sòːséy //_  "I began to pity him really."
 
 ### <a name="Conc">`Conc`</a>: concomitant
 
@@ -38,7 +38,7 @@ Zaar: In narrations, the concomitant marks an unbounded process functioning as a
 
 #### Example
 
-- _<b>myáːnaː</b> tul gìp Kìmsə́ < káwây màːʃîn < fi mə́kə́p //_ "we had just entered Kimse when the motorcycle stopped."
+- _<b>myáːnaː</b> tul gìp Kìmsə́ < káwây màːʃîn < fi mə́kə́p //_  "we had just entered Kimse when the motorcycle stopped."
 
 ### <a name="Inch">`Inch`</a>: inchoative
 
@@ -46,7 +46,7 @@ Zaar: The inchoative marks the beginning of a process. It can also change the le
 
 #### Example
 
-- _ín yǎː gàmá ʃaɣndí < tə̀ tsə̌tn <b>ni</b> //= tə̀ ʧòpʃí //= tə̀ lyàː lyáːwàːsə̀n //_ "If they have finished cooking, they sit down, they wash and they rest."
+- _ín yǎː gàmá ʃaɣndí < tə̀ tsə̌tn <b>ni</b> //= tə̀ ʧòpʃí //= tə̀ lyàː lyáːwàːsə̀n //_  "If they have finished cooking, they sit down, they wash and they rest."
 
 ### <a name="Imp">`Imp`</a>: imperfect
 
@@ -54,7 +54,7 @@ Zaar: The imperfect marks an unbounded process or state, seen from the point of 
 
 #### Example
 
-- _<b>ʧáː</b> pol =əm á Kámʃâk fáː !//_ "I like Kamshak I do!"
+- _<b>ʧáː</b> pol =əm á Kámʃâk fáː !//_  "I like Kamshak I do!"
 
 ### <a name="ImpIter">`ImpIter`</a>: iterative imperfect
 
@@ -62,7 +62,7 @@ Zaar: The iterative imperfect is the combination of the imperfect and iterative 
 
 #### Example
 
-- _<b>myàːyi</b> ɗu bôːl < átâyi nə góːla =wòpə̌n ǎn ?//_ "When we played football, didn 't he use to be our goal keeper?"
+- _<b>myàːyi</b> ɗu bôːl < átâyi nə góːla =wòpə̌n ǎn ?//_  "When we played football, didn 't he use to be our goal keeper?"
 
 ### <a name="Iter">`Iter`</a>: iterative
 
