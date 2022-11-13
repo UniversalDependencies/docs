@@ -23,7 +23,7 @@ In Zaar, the tense features are expressed together with aspect, mood, person and
 
 #### Examples
 
-* - _dzàŋ làːdì <b>má</b> ɬǐː Kində báː ?//_ "On Tuesday, <b>we'll</b> go to Kində no?"
+* _dzàŋ làːdì <b>má</b> ɬǐː Kində báː ?//_ "On Tuesday, <b>we'll</b> go to Kində no?"
 
 
 ### <a name="Imm">`Imm`</a>: immediate past
