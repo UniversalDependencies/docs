@@ -11,9 +11,9 @@ This relation is universal.
 1279 nodes (12%) are attached to their parents as `punct`.
 
 945 instances of `punct` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.26739640344019.
+Average distance between parent and child is 4.26661454261142.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (676; 53% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (322; 25% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (70; 5% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (67; 5% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (48; 4% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (41; 3% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (23; 2% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="kmr_mg-pos-PART.html">PART</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (718; 56% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (323; 25% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (67; 5% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (48; 4% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (41; 3% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (28; 2% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (23; 2% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="kmr_mg-pos-PART.html">PART</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,19 +49,25 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 punct	color:blue
-1	Îro	îro	ADV	adv	_	7	advmod	_	_
-2	bi	bi	ADP	pr	AdpType=Prep	3	case	_	_
-3	min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	7	nmod	_	_
-4	re	re	ADP	post	AdpType=Post	3	case	_	_
-5	tu	tu	DET	det	Polarity=Neg|PronType=Ind	6	det	_	_
-6	tişt	tişt	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
-7	nîne	hebûn	AUX	vbhaver	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	sent	_	7	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 14 punct	color:blue
+1	Ez	ez	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	Şerlok	Şerlok	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Holmes	Holmes	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
+4	im	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	SpaceAfter=No
+5	;	;	PUNCT	sent	_	8	punct	_	_
+6	ev	ev	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Plur,Sing|PronType=Dem	8	nsubj	_	_
+7	jî	jî	PART	emph	_	8	discourse	_	_
+8	hevalê	heval	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	2	parataxis	_	_
+9	min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	_
+10	ê	yê	ADP	con	AdpType=Post|Gender=Masc|Number=Sing	8	dep	_	_
+11	ezîz	ezîz	PROPN	np	Case=Acc|Gender=Masc|Number=Sing	8	nmod:poss	_	_
+12	Wetsin	Wetsin	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	_
+13	e	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No
+14	.	.	PUNCT	sent	_	2	punct	_	_
 
 ~~~
 

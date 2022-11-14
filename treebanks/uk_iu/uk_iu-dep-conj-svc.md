@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `conj:svc`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 conj:svc	color:blue
-1	Та	той	DET	Pd--f-sna	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	nsubj	2:nsubj	Id=0abx|LTranslit=toj|Translit=Ta
+1	Та	той	DET	Pd--f-sna	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	nsubj	2:nsubj|5:nsubj	Id=0abx|LTranslit=toj|Translit=Ta
 2	візьме	взяти	VERB	Vmeif3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	0:root	Id=0aby|LTranslit=vźаty|Translit=viźme
 3	та	та	CCONJ	Ccs	_	5	cc	5:cc	Id=0abz|LTranslit=ta|Translit=ta
 4	й	й	PART	Q	_	5	discourse	5:discourse	Id=0ac0|LTranslit=j|Translit=j

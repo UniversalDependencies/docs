@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="hr_set-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.041667 (the average of all parts of speech is 1.848223).
+The form / lemma ratio of `PUNCT` is 1.041667 (the average of all parts of speech is 1.848266).
 
 The 1st highest number of forms (3) was observed with the lemma “-”: <em>-, --, –</em>.
 
@@ -45,7 +45,7 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="hr_set-dep-punct.html">punct</a></tt> (24164; 100% instances), <tt><a href="hr_set-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (11297; 47% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (6233; 26% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2846; 12% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1441; 6% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1247; 5% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (314; 1% instances), <tt><a href="hr_set-pos-X.html">X</a></tt> (187; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (186; 1% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (181; 1% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (74; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (67; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt> (39; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (13; 0% instances), <tt><a href="hr_set-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (3; 0% instances),  (1; 0% instances)
+Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (11296; 47% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (6232; 26% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2846; 12% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1442; 6% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1247; 5% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (314; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (200; 1% instances), <tt><a href="hr_set-pos-X.html">X</a></tt> (187; 1% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (181; 1% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (74; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (67; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt> (39; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="hr_set-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (2; 0% instances),  (1; 0% instances)
 
 24160 (100%) `PUNCT` nodes are leaves.
 

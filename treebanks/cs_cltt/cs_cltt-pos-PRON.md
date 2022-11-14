@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_cltt-pos-PRO
 
 
 * <em>se</em>
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 472: <em>Výroční zpráva <b>se</b> nevyhotovuje v případech uvedených v §_20_odst._2 .</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 472: <em>Zbytkovou hodnotou <b>se</b> rozumí snížená předpokládaná zbytková hodnota .</em>
   * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 29: <em>Do nákladů nebo výnosů jsou zaúčtovány ve stejných obdobích , kdy jsou zaúčtovány náklady nebo výnosy spojené <b>se</b> zajišťovanými položkami .</em>
 * <em>je</em>
   * <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 209: <em>Spotřeba povolenek <b>je</b> vykázána bez ohledu na jejich následné vyřazení .</em>

@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 99232 tokens (50%) have a non-empty value of `Number`.
 35609 types (94%) occur at least once with a non-empty value of `Number`.
 16517 lemmas (82%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (43554; 22% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (18407; 9% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (15894; 8% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (10860; 6% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (5335; 3% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (3793; 2% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1195; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (194; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (43554; 22% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (18408; 9% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (15894; 8% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (10860; 6% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (5335; 3% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (3793; 2% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1194; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (194; 0% instances).
 
 ### `NOUN`
 
@@ -22,8 +22,8 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (11709; 27% of non-empty `Number`): <em>цены, лет, люди, раз, сотрудники, людей, детей, деньги, товаров, продавцы</em>
-* `Sing` (31845; 73% of non-empty `Number`): <em>магазин, день, время, место, выбор, персонал, раз, ассортимент, года, спасибо</em>
+* `Plur` (11708; 27% of non-empty `Number`): <em>цены, лет, люди, раз, сотрудники, людей, детей, деньги, товаров, продавцы</em>
+* `Sing` (31846; 73% of non-empty `Number`): <em>магазин, день, время, место, выбор, персонал, раз, ассортимент, года, спасибо</em>
 * `EMPTY` (702): <em>тц, г., см, мл, кг, с., р, р., км, м</em>
 
 <table>
@@ -38,14 +38,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-18407 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Number`.
+18408 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16767; 91%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15791; 86%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (13817; 75%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12523; 68%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11160; 61%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16768; 91%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15792; 86%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (13818; 75%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12523; 68%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11161; 61%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (5643; 31% of non-empty `Number`): <em>есть, здравствуйте, подскажите, работают, помогите, могут, говорят, сказали, бывают, делают</em>
-* `Sing` (12764; 69% of non-empty `Number`): <em>есть, может, могу, хочу, стоит, нравится, знаю, работает, сказал, было</em>
+* `Sing` (12765; 69% of non-empty `Number`): <em>есть, может, могу, хочу, стоит, нравится, знаю, работает, сказал, было</em>
 * `EMPTY` (6340): <em>можно, нет, надо, делать, найти, сделать, купить, быть, сказать, есть</em>
 
 <table>
@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (3715; 23% of non-empty `Number`): <em>хорошие, вежливые, грамотные, доступные, низкие, разных, большие, приемлемые, вкусные, приветливые</em>
 * `Sing` (12179; 77% of non-empty `Number`): <em>хороший, большой, нужно, отличный, неплохой, хорошая, хорошо, хорошее, вежливый, обычный</em>
-* `EMPTY` (991): <em>лучше, супер, хуже, дешевле, п., выше, норм, больше, 2, 1</em>
+* `EMPTY` (990): <em>лучше, супер, хуже, дешевле, п., выше, норм, больше, 2, 1</em>
 
 <table>
   <tr><th>Paradigm <i>хороший</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -205,14 +205,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `AUX`
 
-1195 <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Number`.
+1194 <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1195; 100%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1193; 100%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1179; 99%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (878; 73%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (718; 60%), <tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (718; 60%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (609; 51%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1194; 100%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1192; 100%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1178; 99%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (877; 73%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (717; 60%), <tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (717; 60%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (609; 51%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (228; 19% of non-empty `Number`): <em>были, будут, будем, есть, будете, будьте, будте</em>
-* `Sing` (967; 81% of non-empty `Number`): <em>было, был, будет, есть, была, буду, будь, будешь, бывшая, бывший</em>
+* `Sing` (966; 81% of non-empty `Number`): <em>было, был, будет, есть, была, буду, будь, будешь, бывшая, бывший</em>
 * `EMPTY` (379): <em>бы, быть, б, будучи</em>
 
 <table>
@@ -246,14 +246,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10424; 97%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4724; 61%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4264; 87%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-det.html">det</a></tt>]--> DET</tt> (3934; 91%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10423; 97%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4723; 61%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4261; 88%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-det.html">det</a></tt>]--> DET</tt> (3933; 91%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3520; 96%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2742; 72%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (2641; 74%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1245; 87%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (2642; 74%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1244; 87%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (807; 91%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (700; 55%).
 

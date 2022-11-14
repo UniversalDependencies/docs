@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-40 nodes (7%) are attached to their parents as `conj`.
+45 nodes (6%) are attached to their parents as `conj`.
 
-40 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.175.
+45 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.31111111111111.
 
-The following 5 pairs of parts of speech are connected with `conj`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (31; 78% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (5; 13% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `conj`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (34; 76% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (5; 11% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `conj`: <tt><a href=
 1	este	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
 2	persklum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
 3	aves	_	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
-4	anzeriates	_	VERB	_	Case=Abl|Number=Plur|Tense=Past|VerbForm=Part	3	dep	_	_
+4	anzeriates	_	VERB	_	Case=Abl|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
 5	enetu	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 6	pernaies	_	ADJ	_	Case=Abl|Number=Plur	3	amod	_	_
 7	pusnaes	_	ADJ	_	Case=Abl|Number=Plur	6	conj	_	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Maria Jesus Aranzabe, Aitziber Atutxa, Kepa Bengoetxea, Arantza Diaz de Ilarraza, Iakes Goenaga, Koldo Gojenola, Larraitz Uria.
 
 Repository: [UD_Basque-BDT](https://github.com/UniversalDependencies/UD_Basque-BDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeu_bdt210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeu_bdt211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -62,7 +62,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 
 ## POS Tags
 
-[ADJ](eu_bdt-pos-ADJ.html) – [ADP](eu_bdt-pos-ADP.html) – [ADV](eu_bdt-pos-ADV.html) – [AUX](eu_bdt-pos-AUX.html) – [CCONJ](eu_bdt-pos-CCONJ.html) – [DET](eu_bdt-pos-DET.html) – [INTJ](eu_bdt-pos-INTJ.html) – [NOUN](eu_bdt-pos-NOUN.html) – [NUM](eu_bdt-pos-NUM.html) – [PART](eu_bdt-pos-PART.html) – [PRON](eu_bdt-pos-PRON.html) – [PROPN](eu_bdt-pos-PROPN.html) – [PUNCT](eu_bdt-pos-PUNCT.html) – [SYM](eu_bdt-pos-SYM.html) – [VERB](eu_bdt-pos-VERB.html) – [X](eu_bdt-pos-X.html)
+[ADJ](eu_bdt-pos-ADJ.html) – [ADP](eu_bdt-pos-ADP.html) – [ADV](eu_bdt-pos-ADV.html) – [AUX](eu_bdt-pos-AUX.html) – [CCONJ](eu_bdt-pos-CCONJ.html) – [DET](eu_bdt-pos-DET.html) – [INTJ](eu_bdt-pos-INTJ.html) – [NOUN](eu_bdt-pos-NOUN.html) – [NUM](eu_bdt-pos-NUM.html) – [PART](eu_bdt-pos-PART.html) – [PRON](eu_bdt-pos-PRON.html) – [PROPN](eu_bdt-pos-PROPN.html) – [PUNCT](eu_bdt-pos-PUNCT.html) – [SCONJ](eu_bdt-pos-SCONJ.html) – [SYM](eu_bdt-pos-SYM.html) – [VERB](eu_bdt-pos-VERB.html) – [X](eu_bdt-pos-X.html)
 
 ## Features
 
@@ -70,7 +70,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 
 ## Relations
 
-[acl](eu_bdt-dep-acl.html) – [advcl](eu_bdt-dep-advcl.html) – [advmod](eu_bdt-dep-advmod.html) – [amod](eu_bdt-dep-amod.html) – [appos](eu_bdt-dep-appos.html) – [aux](eu_bdt-dep-aux.html) – [case](eu_bdt-dep-case.html) – [cc](eu_bdt-dep-cc.html) – [ccomp](eu_bdt-dep-ccomp.html) – [compound](eu_bdt-dep-compound.html) – [conj](eu_bdt-dep-conj.html) – [cop](eu_bdt-dep-cop.html) – [csubj](eu_bdt-dep-csubj.html) – [dep](eu_bdt-dep-dep.html) – [det](eu_bdt-dep-det.html) – [discourse](eu_bdt-dep-discourse.html) – [fixed](eu_bdt-dep-fixed.html) – [flat](eu_bdt-dep-flat.html) – [iobj](eu_bdt-dep-iobj.html) – [mark](eu_bdt-dep-mark.html) – [nmod](eu_bdt-dep-nmod.html) – [nsubj](eu_bdt-dep-nsubj.html) – [nummod](eu_bdt-dep-nummod.html) – [obj](eu_bdt-dep-obj.html) – [obl](eu_bdt-dep-obl.html) – [parataxis](eu_bdt-dep-parataxis.html) – [punct](eu_bdt-dep-punct.html) – [root](eu_bdt-dep-root.html) – [vocative](eu_bdt-dep-vocative.html) – [xcomp](eu_bdt-dep-xcomp.html)
+[acl](eu_bdt-dep-acl.html) – [advcl](eu_bdt-dep-advcl.html) – [advmod](eu_bdt-dep-advmod.html) – [amod](eu_bdt-dep-amod.html) – [appos](eu_bdt-dep-appos.html) – [aux](eu_bdt-dep-aux.html) – [case](eu_bdt-dep-case.html) – [cc](eu_bdt-dep-cc.html) – [ccomp](eu_bdt-dep-ccomp.html) – [compound](eu_bdt-dep-compound.html) – [conj](eu_bdt-dep-conj.html) – [cop](eu_bdt-dep-cop.html) – [csubj](eu_bdt-dep-csubj.html) – [dep](eu_bdt-dep-dep.html) – [det](eu_bdt-dep-det.html) – [discourse](eu_bdt-dep-discourse.html) – [dislocated](eu_bdt-dep-dislocated.html) – [fixed](eu_bdt-dep-fixed.html) – [flat](eu_bdt-dep-flat.html) – [iobj](eu_bdt-dep-iobj.html) – [mark](eu_bdt-dep-mark.html) – [nmod](eu_bdt-dep-nmod.html) – [nsubj](eu_bdt-dep-nsubj.html) – [nsubj:outer](eu_bdt-dep-nsubj-outer.html) – [nummod](eu_bdt-dep-nummod.html) – [obj](eu_bdt-dep-obj.html) – [obl](eu_bdt-dep-obl.html) – [orphan](eu_bdt-dep-orphan.html) – [parataxis](eu_bdt-dep-parataxis.html) – [punct](eu_bdt-dep-punct.html) – [root](eu_bdt-dep-root.html) – [vocative](eu_bdt-dep-vocative.html) – [xcomp](eu_bdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -99,8 +99,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: SCONJ</li>
+<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 </ul>
 
 <ul>
@@ -112,28 +111,37 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 </ul>
 
 <ul>
-<li>This corpus contains 61 lemmas tagged as determiners (DET): anitz, asko, askotxo, aunitz, batere, batzuk, bera, berak, berauek, berbera, bertze, beste, den-dena, dena, dezente, dozenaka, edozein, edozer, ehundaka, ehunka, ezein, franko, gehiago, gehiegi, gehiegitxo, gehien, gehientsu, gehitxo, gehixeago, guti, gutiz-gehien, gutxi, gutxiago, gutxien, guzi, guzti, haiek, hainbat, hainbertze, hainbeste, hau, hauek, hogeitaka, hori, horiek, horrenbeste, hura, larregi, milaka, milioika, nahiko, nahikoa, oro, pixka_bat, ugari, ze, zein, zeintzuk, zenbait, zenbat, zer</li>
+<li>This corpus contains 78 lemmas tagged as determiners (DET): 2x1, 4x100, anitz, apur, aska, asko, askotxo, aunitz, bakar, bat, batere, batzuk, bera, berak, berauek, berbera, bertze, beste, bilioi, den-dena, dena, dezente, dozena, dozenaka, edozein, edozer, ehundaka, ehunka, erdi, ezein, franko, gehiago, gehiegi, gehiegitxo, gehien, gehientsu, gehitxo, gehixeago, guti, gutiz-gehien, gutxi, gutxiago, gutxien, guzi, guzti, haiek, hainbat, hainbertze, hainbeste, hau, hauek, hogeitaka, hori, horiek, horrenbeste, hura, inguru, jarduera, jokaldi, larregi, milaka, miliar, milioi, milioika, nahiko, nahikoa, oro, pare, pilo, pixka, pixka_bat, ugari, ze, zein, zeintzuk, zenbait, zenbat, zer</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): *edin, *edun, *ezan, ari, ari_izan, egon, geratu, ibili, izan, onartu, sartu, sortu, ukan</li>
+<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): ari, edin, edun, egon, ezan, izan, ukan</li>
 </ul>
 
 <ul>
-<li>Out of the above, 11 lemmas occurred sometimes as AUX and sometimes as VERB: *edin, *edun, ari_izan, egon, geratu, ibili, izan, onartu, sartu, sortu, ukan</li>
+<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: edin, edun, egon, izan, ukan</li>
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Fin
+  <ul>
+    <li>AUX: da, zuen, zen, du, dira, dute, zuten, ziren, ari, ditu</li>
+    <li>VERB: du, beharko, da, dago, dute, dela, adierazi, egiteko, ariko, zuen</li>
+  </ul>
+  </li>
 </ul>
 
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: izan, izaten, egoten, egon, geratzen, izaki</li>
+    <li>AUX: izan, izaten, egoten, egon, izaki</li>
     <li>VERB: egiten, ematen, egin, erabiltzen, ikus, ikusten, izan, izaten, agertzen, esaten</li>
   </ul>
   </li>
@@ -142,8 +150,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Part
   <ul>
-    <li>ADV: Desesperatuki</li>
-    <li>AUX: izan, izango, egon, egongo, ibili, geratu, izanik, izanen, izanda, izandako</li>
+    <li>AUX: izan, izango, egon, izana, egongo, izanik, izanen, izanda, izandako, izanak</li>
     <li>VERB: egin, izan, esan, eman, izango, hartu, hasi, jokatu, joan, irabazi</li>
   </ul>
   </li>
@@ -159,8 +166,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Fem
     <ul>
-      <li>AUX: dinat, dun, naun, din, ditun, zion, ditin, gintunan, zaidan, zezaken</li>
-      <li>VERB: dun, dinat, niken, baditinagu, baditinat, bazaukan, dakinat, din, dinagu, naun</li>
+      <li>AUX-Fin: dinat, dun, naun, din, ditun, zion, ditin, gintunan, zaidan, zezaken</li>
+      <li>VERB-Fin: dun, dinat, niken, baditinagu, baditinat, bazaukan, dakinat, din, dinagu, naun</li>
     </ul>
   </li>
 </ul>
@@ -168,8 +175,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Masc
     <ul>
-      <li>AUX: duk, diat, nian, dik, nauk, zagok, zegoan, zegok</li>
-      <li>VERB: duk, zekiat, dik, ditik, dituk, gaudek, zeramatzaan, zeramatzak, zian</li>
+      <li>AUX-Fin: duk, diat, nian, dik, nauk, zagok, zegoan, zegok</li>
+      <li>VERB-Fin: duk, zekiat, dik, ditik, dituk, gaudek, zeramatzaan, zeramatzak, zian</li>
     </ul>
   </li>
 </ul>
@@ -193,6 +200,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>ADJ: ergatibodunak, harrotsu, hesidunetan, istilutsua, kotoitsua, latza, molduradunei, osasuntsuena, sabeldunak</li>
       <li>ADP: gabe, inguruan, bezala, arabera, artean, aurrean, barruan, gora, arte, aurka</li>
+      <li>AUX-Fin: izan</li>
+      <li>DET: inguruk, askotakoa, inguru, piloa</li>
       <li>NOUN: taldeak, urteko, urte, ondorioz, partidua, aukera, taldea, aurretik, garaipena, igandean</li>
       <li>PROPN: EAJk, EAk, EAJko, EAJri, ELAk, EAri, EAren, ELAko, Bilbaoko, EA</li>
       <li>SYM: m, m., km</li>
@@ -210,13 +219,14 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: nagusiak, handiak, onak, berriak, Batuetako, onenak, ezberdinak, bereziak, desberdinak, ezagunak</li>
       <li>ADP: artean, arteko, arabera, inguruan, aurrean, bidez, aurka, bezala, buruz, aurkako</li>
       <li>ADV: egungoak, goranzkoak, samarretan</li>
-      <li>AUX: dutenak, direnak, dituztenak, zirenak, dutenek, daitezkeenak, direnek, dutenen, zeudenak, zituztenak</li>
+      <li>AUX-Fin: dutenak, direnak, dituztenak, zirenak, dutenek, daitezkeenak, direnek, dutenen, zeudenak, zituztenak</li>
+      <li>AUX-Part: izanak</li>
       <li>DET: batzuk, guztiak, horiek, hauek, beren, gehienak, batzuek, guztiek, hauetan, haien</li>
       <li>NOUN: gauzak, urteetan, arazoak, egunetan, hauteskundeak, jokalariak, eskubideen, egunotan, jokalariek, urteotan</li>
       <li>PRON: geu, geure, zenbaitzuk, Geuregan, Geuri</li>
       <li>PROPN: EEBBetako, EEBBek, EEBBetan, EEBBak, EEBBetara, Filipinetako, Moluketan, Bahamak, Bahametako, EEBBen</li>
       <li>SYM: kv</li>
-      <li>VERB: eginak, atxilotuak, dituztenak, dutenak, eginez, gonbidatuak, ikasiak, jarriak, zaurituak, armatuak</li>
+      <li>VERB-Fin: dituztenak, dutenak, daudenak, daudenen, denez, dituztenei, zirenei, aurkeztekoak, azaltzekoak, dabiltzanen</li>
       <li>VERB-Part: eginak, atxilotuak, eginez, gonbidatuak, ikasiak, jarriak, zaurituak, armatuak, armatuen, baztertuak</li>
     </ul>
   </li>
@@ -228,16 +238,16 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: handia, ona, bakarra, nagusia, zaila, berria, onena, garrantzitsua, osoa, berezia</li>
       <li>ADP: arabera, aurka, kontra, inguruan, aurrean, aurkako, zehar, arte, buruz, kontrako</li>
       <li>ADV: samarra, adinakoa, atzokoa, atzokoan, atzokoaren, aurtengoa, aurtengoak, aurtengora, gaurkoa, kontrakoa</li>
-      <li>AUX: duena, dena, zuena, izateaz, dutena, zena, izateagatik, dituena, duenak, izateak</li>
-      <li>AUX-Part: izana, izanagatik, izandakoa, izandakoak, sortua</li>
+      <li>AUX-Fin: dena, duena, zuena, izateaz, dutena, zena, izateagatik, dituena, duenak, izateak</li>
+      <li>AUX-Part: izana, izanagatik, izanak, izanaren, izanaz, izandakoa, izandakoak</li>
       <li>DET: bere, hori, hau, horretan, honetan, horrek, bera, berak, haren, horren</li>
       <li>NOUN: partidua, taldea, taldeak, ostean, gobernuak, aurretik, aukera, garaipena, herrian, igandean</li>
       <li>NUM: 21na</li>
       <li>PRON: neure, norberak, neu, norberaren, Neuk, Zeu, Zeuk, heure, zeure</li>
       <li>PROPN: Europako, Espainiako, Frantziako, Israelgo, Nafarroako, Jugoslaviako, Miarritzek, EAJk, Osasunak, Realak</li>
       <li>SYM: cm-ko, kg, m, m., KV, cm, km</li>
-      <li>VERB: izana, egina, hasia, litekeena, egiteak, azpimarratzekoa, dagokionean, irekia, bateratua, esana</li>
-      <li>VERB-Part: izana, egina, hasia, irekia, bateratua, esana, galdua, gertatutakoa, izanak, orekatua</li>
+      <li>VERB-Fin: litekeena, egiteak, azpimarratzekoa, dagokionean, pentsatzekoa, sustatzearen, aztertzeari, dagokionari, duena, egitekoa</li>
+      <li>VERB-Part: egina, hasia, irekia, izana, bateratua, esana, galdua, gertatutakoa, orekatua, armatua</li>
     </ul>
   </li>
 </ul>
@@ -252,11 +262,11 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: onetik, Batutik, berritik, finkorik, gaztetatik, handirik, nagusitik, Garaitik, Nazionaletik, Zuritik</li>
       <li>ADP: aurretik, aldetik, gainetik, ondotik, atzetik, eskutik, azpitik, aitzinetik, barrutik, goitik</li>
       <li>ADV: handik, hortik, hemendik, aspalditik, Aspaldidanik, bihartik, gaurtik, gertutik, lehenagotik, oraindik</li>
-      <li>AUX: izatetik, dutenenetatik</li>
+      <li>AUX-Fin: izatetik, dutenenetatik, ginenekotik</li>
       <li>DET: bestetik, horretatik, honetatik, beretik, hartatik, haietatik, horietatik, askotatik, batzuetatik, berarengandik</li>
       <li>NOUN: aurretik, hasieratik, etxetik, urtetik, zalantzarik, arazorik, dudarik, goitik, egunetik, herritik</li>
       <li>PROPN: Espainiatik, Bermeotik, EBtik, Egiptotik, Europatik, Gomatik, Herritik, Iruñetik, Kosovotik, Oriorengandik</li>
-      <li>VERB: izatetik, egitetik, ginenekotik, mintzatutik, normalizatutik, zaurituetatik</li>
+      <li>VERB-Fin: izatetik, egitetik</li>
       <li>VERB-Part: mintzatutik, normalizatutik, zaurituetatik</li>
     </ul>
   </li>
@@ -268,16 +278,16 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: handia, ona, bakarra, nagusia, zaila, berria, onena, garrantzitsua, nagusi, osoa</li>
       <li>ADP: arte, aurka, gisa, gain, esker, alde, kanpo, inguru, esku, barru</li>
       <li>ADV: samarra, gaurko, adinakoa, atzokoa, aurtengoa, betirako, biharko, egungoak, gaurkoa, goranzkoak</li>
-      <li>AUX: izatea, duena, dena, dutenak, zuena, izateko, direnak, dituztenak, dutena, zena</li>
-      <li>AUX-Part: izana, izan, izandakoa, sortua</li>
+      <li>AUX-Fin: izatea, dena, duena, dutenak, zuena, izateko, direnak, dituztenak, dutena, zena</li>
+      <li>AUX-Part: izana, egon, izan, izanak, izandakoa</li>
       <li>DET: hori, hau, batzuk, zer, guztiak, gehiago, bera, asko, horiek, hauek</li>
       <li>NOUN: behar, nahi, uste, ezin, urte, partidua, aukera, taldea, garaipena, lana</li>
       <li>NUM: bana, 16na, 21na, 31na, bedera</li>
       <li>PRON: zerbait, ezer, inor, norbait, elkar, zertxobait, edonor, neu, deus, ezertxo</li>
-      <li>PROPN: EH, Alaves, Reala, Athletic, Bizkaia, Frantzia, Zaragoza, EEBBak, ETA, Errusia</li>
+      <li>PROPN: EH, Alaves, Reala, Athletic, Bizkaia, Frantzia, Zaragoza, EEBBak, Errusia, Espainia</li>
       <li>SYM: kg, kv, m, m., cm, km</li>
-      <li>VERB: izatea, egitea, egotea, ematea, sartzea, egiteko, lortzea, hartzea, irabaztea, emateko</li>
-      <li>VERB-Part: izana, egina, hasia, izan, irekia, bateratua, egin, eginak, esana, galdua</li>
+      <li>VERB-Fin: egiteko, izatea, egitea, egotea, ematea, emateko, izateko, sartzea, lortzea, hartzea</li>
+      <li>VERB-Part: egina, hasia, izan, irekia, izana, bateratua, egin, eginak, esana, galdua</li>
     </ul>
   </li>
 </ul>
@@ -288,12 +298,12 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: hobera, laburrera, politikora, Zurira, gorenera, onera, osora, publikora, Batuetara, Nagusira</li>
       <li>ADP: aurrera, batera, aldera, gainera, ingurura, kanpora, behera, erdira, antzera, alderat</li>
       <li>ADV: aurtengora</li>
-      <li>AUX: izatera, egotera</li>
+      <li>AUX-Fin: izatera, egotera</li>
       <li>DET: horretara, gutxira, honetara, bera, guztietara, zertara, batzuetara, bestera, hartara, guztira</li>
       <li>NOUN: behera, segundora, aurrera, etxera, herrira, kalera, urtera, atzera, kanpora, mailara</li>
       <li>PRON: norbaitengana</li>
       <li>PROPN: Sydneyra, Argentinara, Donostiara, Gasteizera, Iruñera, Madrilera, Oronozera, EEBBetara, Europara, Frantziara</li>
-      <li>VERB: egitera, ematera, irabaztera, hartzera, ikustera, jokatzera, deklaratzera, bizitzera, hastera, izatera</li>
+      <li>VERB-Fin: egitera, ematera, irabaztera, hartzera, ikustera, jokatzera, deklaratzera, bizitzera, hastera, izatera</li>
       <li>VERB-Part: gonbidatuetara, aginduetara, armatura, itxietara, jakinetara</li>
     </ul>
   </li>
@@ -303,7 +313,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
   <li>Ben
     <ul>
       <li>ADJ: Akziodunentzat, bahamatarrentzat, baionesentzat, bakarrarentzat, berriarentzat, berrientzat, britainiarrentzat, frantziarrarentzat, handirentzat, hungariarrarentzat</li>
-      <li>AUX: denarentzat, duenarentzat, nauenarentzat, zuenarentzat</li>
+      <li>AUX-Fin: denarentzat, duenarentzat, nauenarentzat, zuenarentzat</li>
       <li>DET: gehienentzat, guztientzat, harentzat, guztiontzat, horientzat, Zerendako, askorentzat, batzuentzat, berarentzat, beretzat</li>
       <li>NOUN: emakumeentzat, ertzainentzat, gorritxoentzat, jokalarientzat, Estatuarentzat, Greziarrentzat, Hegoaldekoentzat, Munduarentzat, Txirrindularitzarentzat, Zuzenbidearentzat</li>
       <li>PRON: norbaitentzat</li>
@@ -316,14 +326,13 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
   <li>Cau
     <ul>
       <li>ADJ: bikoitzagatik, eskasagatik, espainiarragatik, handiagatik, handiengatik, hutsagatik, ikusgarriarengatik, militarragatik, normal-normalengatik, politikoengatik</li>
-      <li>AUX: izateagatik, dutenagatik, gintuenagatik, izanagatik, zitzaionagatik</li>
+      <li>AUX-Fin: izateagatik, dutenagatik, gintuenagatik, zitzaionagatik</li>
       <li>AUX-Part: izanagatik</li>
       <li>DET: horregatik, beragatik, honengatik, Horrexegatik, batzuengatik, berarengatik, berberagatik, guztiagatik, hargatik, honegatik</li>
       <li>NOUN: arazoengatik, delituengatik, finantzaketagatik, gorrotoarengatik, hilketagatik, kasuengatik, Bartzelonakoengatik, Euriagatik, adierazpenengatik, arrazoiengatik</li>
       <li>PRON: zerbaitengatik</li>
       <li>PROPN: Batistutarengatik</li>
-      <li>VERB: aurkitzearren, azaltzearren, ekartzearren, emateagatik, formalizatzearren, hitzegitearren, hondatzearren, irudikatzearren, kontatzearren, lortzearren</li>
-      <li>VERB-Part: izanagatik</li>
+      <li>VERB-Fin: emateagatik, abusatzeagatik, aritzeagatik, aurkitzearren, azaltzearren, borrokatzeagatik, bultzatzeagatik, ekartzearren, formalizatzearren, haizatzeagatik</li>
     </ul>
   </li>
 </ul>
@@ -332,13 +341,13 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
   <li>Com
     <ul>
       <li>ADJ: handiarekin, onenekin, osoarekin, bakarrarekin, handiekin, ingelesarekin, koadroarekin, nagusiarekin, ohiarekin, onarekin</li>
-      <li>AUX: dituztenekin, dudanarekin, duzunarekin, egotearekin, zenarekin, zizkiotenekin</li>
+      <li>AUX-Fin: dituztenekin, dudanarekin, duzunarekin, egotearekin, zenarekin, zizkiotenekin</li>
       <li>DET: horrekin, honekin, batzuekin, horiekin, berarekin, gehiagorekin, hauekin, harekin, gutxiagorekin, haiekin</li>
       <li>NOUN: taldearekin, urterekin, punturekin, taldekideekin, aldearekin, lagunekin, selekzioarekin, erabakiarekin, kideekin, laguntzarekin</li>
       <li>NUM: banarekin</li>
       <li>PRON: elkarrekin, Norbaitekin, elgarrekin, ezerekin</li>
       <li>PROPN: Israelekin, Osasunarekin, Alavesekin, Alkortarekin, Arafatekin, Bartzelonarekin, EAJrekin, ETArekin, Eugirekin, Ibarretxerekin</li>
-      <li>VERB: aldentzearekin, erasoekin, handi-handituekin, igarotzearekin, irabaztearekin, kualifikatuarekin</li>
+      <li>VERB-Fin: aldentzearekin, igarotzearekin, irabaztearekin</li>
       <li>VERB-Part: erasoekin, handi-handituekin, kualifikatuarekin</li>
     </ul>
   </li>
@@ -349,12 +358,12 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>ADJ: ohiari, Batuari, politikoari, zaleei, bakoitzari, baltseroari, demokratikoari, fisikoari, onari, politikoei</li>
       <li>ADV: beti, Berriki, estetikoki, nahi, orai, supituki</li>
-      <li>AUX: denari, izateari, duenari, dugunari, zenari, zituenei</li>
+      <li>AUX-Fin: denari, izateari, duenari, dugunari, zenari, zituenei</li>
       <li>DET: horri, honi, hari, guztiei, horiei, hauei, batzuei, askori, berari, besteei</li>
       <li>NOUN: mahai, gobernuari, zelai, Jaurlaritzari, denboraldiari, buruari, palestinarrei, jokalariei, taldeari, aurrekontuei</li>
       <li>PRON: elkarri, elgarri, norbaiti, Geuri, inori</li>
       <li>PROPN: ETAri, Realari, Athletici, Aznarri, EAJri, Jerusalemi, Ibarretxeri, EAri, Kontxari, Lizasori</li>
-      <li>VERB: aztertzeari, dagokionari, dituztenei, prefabrikatuari, zimurtuari, zirenei, Eztabaidatzeari, afiliatuei, antolatzeari, aritzeari</li>
+      <li>VERB-Fin: aztertzeari, dagokionari, dituztenei, zirenei, Eztabaidatzeari, antolatzeari, aritzeari, aurkitzeari, batzeari, berreskuraketari</li>
       <li>VERB-Part: prefabrikatuari, zimurtuari, afiliatuei, elbarrituei, eroritakoei, eztabaidatutakoei, kaltetutakoei, zaurituei</li>
     </ul>
   </li>
@@ -365,14 +374,14 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>ADJ: bakoitzak, Gorenak, ohiak, nagusiak, gazteak, berriak, estatubatuarrak, sozialistak, zibilak, Batuek</li>
       <li>ADV: aurtengoak</li>
-      <li>AUX: dutenek, duenak, izateak, direnek, daudenek, denak, diotenek, dituztenek, dudanak, garenok</li>
-      <li>AUX-Part: izandakoak</li>
+      <li>AUX-Fin: dutenek, duenak, izateak, direnek, daudenek, denak, diotenek, dituztenek, dudanak, garenok</li>
+      <li>AUX-Part: izanak, izandakoak</li>
       <li>DET: horrek, berak, honek, horiek, batzuek, guztiek, hauek, hark, askok, gehienek</li>
       <li>NOUN: taldeak, gobernuak, presidenteak, ministroak, poliziak, lehendakariak, entrenatzaileak, jokalariek, agintariek, kideek</li>
       <li>PRON: inork, norbaitek, norberak, Neuk, Nornahik, Zeuk, ezerk, zerbaitek</li>
       <li>PROPN: Miarritzek, EAJk, Osasunak, Realak, Athleticek, Alavesek, EHk, Lotinak, PPk, ETAk</li>
-      <li>VERB: egiteak, izanak, izateak, armatuak, begiratzeak, ezabatzeak, ikusteak, inplikatuek, irabazteak, ixteak</li>
-      <li>VERB-Part: izanak, armatuak, inplikatuek, moderatuek, Abokatuek, aritutakoek, atxilotutakoek, defendituak, desplazatuak, eginikoak</li>
+      <li>VERB-Fin: egiteak, izateak, begiratzeak, ezabatzeak, ikusteak, irabazteak, ixteak, jakiteak, luzatzeak, agertzeak</li>
+      <li>VERB-Part: armatuak, inplikatuek, izanak, moderatuek, Abokatuek, aritutakoek, atxilotutakoek, defendituak, desplazatuak, eginikoak</li>
     </ul>
   </li>
 </ul>
@@ -394,13 +403,14 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: berriaren, bakoitzaren, zaleen, handien, nazionalaren, politikoaren, ohiaren, Batuen, atzerritarren, palestinarraren</li>
       <li>ADP: arabera, bezalakoen, gorakoen</li>
       <li>ADV: gainerakoen, atzokoaren, hemen</li>
-      <li>AUX: duenaren, dutenen, dagoenaren, daiteekenaren, daitekeenaren, daudenen, denaren, direnen, dituztenen, dutenaren</li>
+      <li>AUX-Fin: duenaren, dutenen, dagoenaren, daiteekenaren, daitekeenaren, daudenen, denaren, direnen, dituztenen, dutenaren</li>
+      <li>AUX-Part: izanaren</li>
       <li>DET: bere, horren, haren, honen, horien, beren, haien, guztien, hauen, batzuen</li>
       <li>NOUN: eskubideen, taldearen, gobernuaren, euskararen, abuztuaren, irailaren, hilaren, abertzaleen, epailearen, herriaren</li>
       <li>PRON: elkarren, norbere, norberaren, neure, norbaiten, inoren, geure, heure, zeure</li>
       <li>PROPN: ETAren, Rojoren, Athleticen, Alavesen, Houdaren, Valentziaren, EHren, Goreren, Osasunaren, PPren</li>
-      <li>VERB: sustatzearen, esandakoaren, armatuen, daudenen, egitearen, entzundakoaren, gertatutakoaren, izanaren, Bateratzearen, Gutxituen</li>
-      <li>VERB-Part: esandakoaren, armatuen, entzundakoaren, gertatutakoaren, izanaren, Gutxituen, Irekien, Jakinaren, afiliatuen, atxilotutakoen</li>
+      <li>VERB-Fin: sustatzearen, daudenen, egitearen, Bateratzearen, dabiltzanen, doakionaren, egotearen, euskalduntzearen, galdegitearen, ixtearen</li>
+      <li>VERB-Part: esandakoaren, armatuen, entzundakoaren, gertatutakoaren, Gutxituen, Irekien, Jakinaren, afiliatuen, atxilotutakoen, aukeratutakoen</li>
     </ul>
   </li>
 </ul>
@@ -411,12 +421,12 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: osoan, nagusian, zabalean, Batuetan, bakoitzean, onean, onenean, nagusietan, batuan, betean</li>
       <li>ADP: artean, aurrean, inguruan, barruan, gainean, atzean, erdian, bitartean, aldean, ondoan</li>
       <li>ADV: orain, sekulan, han, Aspaldian, ASPALDIAN, aurrerantzean, bertan, bezain, nonbaiten, atzokoan</li>
-      <li>AUX: izaten, egoten, geratzen, direnetan, naizenetan</li>
+      <li>AUX-Fin: izaten, direnetan, egoten, naizenetan</li>
       <li>DET: horretan, honetan, berean, hartan, hauetan, batzuetan, horietan, guztian, guztietan, haietan</li>
       <li>NOUN: ostean, igandean, herrian, taldean, urtean, moduan, egunetan, etxean, lanean, urteetan</li>
       <li>PRON: Geuregan</li>
       <li>PROPN: Gasteizen, Sydneyn, Mendizorrotzan, Madrilen, Mamesen, Nafarroan, Alemanian, Bilbon, Donostian, Europan</li>
-      <li>VERB: egiten, sartzen, jokatzen, ematen, aztertzen, ikertzen, ikusten, hartzen, sortzen, bilatzen</li>
+      <li>VERB-Fin: egiten, sartzen, jokatzen, ematen, aztertzen, ikertzen, ikusten, hartzen, sortzen, bilatzen</li>
       <li>VERB-Part: amaitutakoan, entzundakoan, Afizionatuetan, Irekian, aurreratuenetan, bilduetan, gertatutakoan, gutxituetan, idatzian, ihesian</li>
     </ul>
   </li>
@@ -427,13 +437,13 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>ADJ: handiz, onez, osoz, biziz, estreinakoz, azkenekoz, kulturalaz, naturalez, olinpiarrez, sozialaz</li>
       <li>ADP: bidez, bitartez, aldeaz, partez</li>
-      <li>AUX: izateaz, dagoenez, izanez</li>
-      <li>AUX-Part: izanez</li>
+      <li>AUX-Fin: izateaz, dagoenez</li>
+      <li>AUX-Part: izanaz, izanez</li>
       <li>DET: horretaz, horrez, Honetaz, hauez, horiez, batzuez, guztiaz, hainbatez, honez, horrezaz</li>
       <li>NOUN: ondorioz, aldiz, ustez, legez, asmoz, euskaraz, urtez, aburuz, iritziz, orduz</li>
       <li>PRON: ezertaz, inortaz</li>
       <li>PROPN: Cardosoz, Redondoz, Bidasoaz, Brivez, Leoz, Serjent-Iurtez, Txetxeniaz</li>
-      <li>VERB: eginez, erabiliz, esanez, utziz, eraginez, izanez, emanez, errespetatuz, idatziz, irabaziz</li>
+      <li>VERB-Fin: izateaz, arduratzeaz, denez, espiatzeaz, hiltzeaz, zauritzeaz, aipatzeaz, baketzeaz, betetzeaz, bultzatzeaz</li>
       <li>VERB-Part: eginez, erabiliz, esanez, utziz, eraginez, izanez, emanez, errespetatuz, idatziz, irabaziz</li>
     </ul>
   </li>
@@ -457,7 +467,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: handiko, Batuetako, Nazionaleko, bakoitzeko, zibileko, goreneko, Batuko, osoko, bakarreko, Demokratikoko</li>
       <li>ADP: arteko, aurkako, aldeko, kontrako, buruzko, inguruko, gabeko, aurreko, kanpoko, gaineko</li>
       <li>ADV: atzoko, egungo, iazko, hango, gaurko, aurtengo, antzinako, hurrengo, biharko, oraingo</li>
-      <li>AUX: izateko, izandako, delako, zuelako, egoteko, duteneko, zuteneko</li>
+      <li>AUX-Fin: izateko, delako, zuelako, duteneko, egoteko, zuteneko</li>
       <li>AUX-Part: izandako</li>
       <li>DET: horretako, bereko, honetako, horietako, hauetako, askotako, haietako, besteko, horretarako, guztietako</li>
       <li>NOUN: taldeko, munduko, herriko, urteko, mailako, aurreko, goizeko, ligako, batasuneko, arratsaldeko</li>
@@ -465,7 +475,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>PRON: elkarrekiko, zerbaitetarako</li>
       <li>PROPN: Europako, Espainiako, Frantziako, Israelgo, Nafarroako, EEBBetako, Jugoslaviako, Errusiako, Gasteizko, Italiako</li>
       <li>SYM: cm-ko</li>
-      <li>VERB: egiteko, egindako, jokatzeko, lortzeko, irabazteko, emateko, hartzeko, izandako, eginiko, sartzeko</li>
+      <li>VERB-Fin: egiteko, jokatzeko, lortzeko, irabazteko, emateko, hartzeko, sartzeko, hasteko, ikusteko, jarraitzeko</li>
       <li>VERB-Part: egindako, izandako, eginiko, lortutako, aurkeztutako, jokatutako, sortutako, aipatutako, emandako, hartutako</li>
     </ul>
   </li>
@@ -476,12 +486,12 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>ADJ: handirik, halakorik, onik, horrelakorik, berezirik, faboritorik, larririk, politikorik, ziurrenik, garbirik</li>
       <li>ADV: seguruenik</li>
-      <li>AUX: izanik, duenik</li>
+      <li>AUX-Fin: duenik</li>
       <li>AUX-Part: izanik</li>
       <li>DET: besterik, askorik, gehiegirik, nahikorik</li>
       <li>NOUN: aukerarik, arazorik, aldaketarik, asmorik, garaipenik, arriskurik, lekurik, unerik, zerikusirik, erantzunik</li>
       <li>PROPN: Emilionerik, NOBrik</li>
-      <li>VERB: osaturik, jokatzerik, erretiratzerik, harturik, izanik, utzirik, ezkutaturik, ikusirik, arrestaturik, ateratzerik</li>
+      <li>VERB-Fin: jokatzerik, erretiratzerik, ateratzerik, auzipetzerik, bizitzerik, botatzerik, egiterik, erortzerik, esaterik, gauzatzerik</li>
       <li>VERB-Part: osaturik, harturik, izanik, utzirik, ezkutaturik, ikusirik, arrestaturik, beterik, harriturik, hilik</li>
     </ul>
   </li>
@@ -498,15 +508,15 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: handia, ona, bakarra, nagusia, zaila, berria, onena, garrantzitsua, nagusiak, osoa</li>
       <li>ADP: arabera, artean, aurka, arteko, inguruan, kontra, aurrean, aurkako, buruz, zehar</li>
       <li>ADV: samarra, adinakoa, atzokoa, atzokoan, atzokoaren, aurtengoa, aurtengoak, aurtengora, egungoak, gaurkoa</li>
-      <li>AUX: duena, dena, dutenak, zuena, direnak, izateaz, dituztenak, dutena, zena, zirenak</li>
-      <li>AUX-Part: izana, izanagatik, izandakoa, izandakoak, sortua</li>
+      <li>AUX-Fin: dena, duena, dutenak, zuena, direnak, izateaz, dituztenak, dutena, zena, zirenak</li>
+      <li>AUX-Part: izana, izanak, izanagatik, izanaren, izanaz, izandakoa, izandakoak</li>
       <li>DET: hori, hau, horretan, batzuk, guztiak, honetan, horiek, horrek, bera, hauek</li>
       <li>NOUN: taldeak, partidua, taldea, ostean, gobernuak, aurretik, aukera, garaipena, herrian, igandean</li>
       <li>PRON: neure, norberak, neu, norberaren, geu, geure, zenbaitzuk, Geuregan, Geuri, Neuk</li>
       <li>PROPN: Europako, Espainiako, Frantziako, Israelgo, Nafarroako, EEBBetako, Jugoslaviako, Miarritzek, EAJk, Osasunak</li>
       <li>SYM: cm-ko, kg, kv, m, m., cm, km</li>
-      <li>VERB: izana, egina, hasia, litekeena, egiteak, azpimarratzekoa, dagokionean, irekia, izanak, armatuak</li>
-      <li>VERB-Part: izana, egina, hasia, irekia, izanak, armatuak, bateratua, eginak, esana, galdua</li>
+      <li>VERB-Fin: litekeena, egiteak, azpimarratzekoa, dagokionean, pentsatzekoa, sustatzearen, aztertzeari, dagokionari, dituztenak, duena</li>
+      <li>VERB-Part: egina, hasia, irekia, izana, armatuak, bateratua, eginak, esana, galdua, gertatutakoa</li>
     </ul>
   </li>
 </ul>
@@ -517,14 +527,14 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: nagusi, bizi, handirik, handiz, zuzen, ziur, berri, indartsu, sendo, ageri</li>
       <li>ADP: gabe, gabeko, kontra, aurka, artean, ezean, bezala, gain, gisan, kanpo</li>
       <li>ADV: seguruenik, gaurko, betirako, biharko, lehenbiziko, samar</li>
-      <li>AUX: izateko, izanik, duenik, dutenen, egoteko, izan, izanez</li>
-      <li>AUX-Part: izanik, izan, izanez</li>
+      <li>AUX-Fin: izateko, duenik, dutenen, egoteko, izan</li>
+      <li>AUX-Part: izanik, egon, izan, izanez</li>
       <li>DET: zer, gehiago, asko, ugari, horretarako, gutxi, beste, gehiegi, zein, askok</li>
       <li>NOUN: behar, nahi, uste, ezin, urte, ondorioz, aldiz, espero, lagun, ahal</li>
       <li>NUM: bana, 16na, 21na, 31na, banarekin, bedera</li>
       <li>PRON: zerbait, ezer, inork, inor, elkarrekin, norbait, elkar, elkarri, norbaitek, zertxobait</li>
       <li>PROPN: Briverekiko, EEBBetarako, Eurokoparako, Klodenekiko, Madrilen, OLBKren, Txetxeniarako, Vueltarako</li>
-      <li>VERB: egiteko, emateko, izateko, eginez, erabiliz, lortzeko, irabazteko, jokatzeko, izan, jakiteko</li>
+      <li>VERB-Fin: egiteko, emateko, izateko, lortzeko, irabazteko, jokatzeko, jakiteko, osatzeko, eskatzeko, hasteko</li>
       <li>VERB-Part: eginez, erabiliz, izan, esanez, osaturik, utziz, eraginez, izanez, emanez, errespetatuz</li>
     </ul>
   </li>
@@ -563,7 +573,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: onena, garrantzitsuena, handiena, onenak, indartsuena, onenean, azkarrena, garrantzitsuenak, onenetakoa, egokiena</li>
       <li>ADP: arteko, artean, pare, zain</li>
       <li>ADV: ondoen, seguruenik, Goren, Ondoren, berrikien, larrien</li>
-      <li>NOUN: onenetakoa, aktiboenetakoa, argienetakoa, bakarrenetakoa, eraginkorrenetakoa, oinarrizkoenetakoa</li>
+      <li>DET: bakarrenetakoa</li>
+      <li>NOUN: onenetakoa, aktiboenetakoa, argienetakoa, eraginkorrenetakoa, oinarrizkoenetakoa</li>
       <li>VERB-Part: orekatuenak, Txalotuena, aurreratuenak, erabiliena, ezagutuenetakoa, zabalduena, zabalduenetakoa</li>
     </ul>
   </li>
@@ -584,9 +595,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Pos
     <ul>
-      <li>AUX: bada, bazuen, badira, badirela, baditu, badu, badute, baliteke, balituzkete, baziren</li>
+      <li>AUX-Fin: bada, bazuen, badira, badirela, baditu, badu, badute, baliteke, balituzkete, baziren</li>
       <li>PART: bai, baietz</li>
-      <li>VERB: badu, baliteke, badago, badaude, bada, badakigu, badirudi, badaki, badakit, badira</li>
+      <li>VERB-Fin: badu, baliteke, badago, badaude, bada, badakigu, badirudi, badaki, badakit, badira</li>
     </ul>
   </li>
 </ul>
@@ -602,7 +613,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Inf: izaten, egoten, geratzen</li>
+      <li>AUX-Inf: izaten, egoten</li>
       <li>VERB-Inf: egiten, ematen, erabiltzen, ikusten, izaten, agertzen, esaten, hartzen, gertatzen, jarraitzen</li>
     </ul>
   </li>
@@ -611,7 +622,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Part: izan, ibili, geratu, egon</li>
+      <li>AUX-Part: izan, egon, ukan</li>
       <li>VERB-Inf: merezita</li>
       <li>VERB-Part: egin, izan, esan, eman, joan, lortu, hasi, hil, irabazi, azaldu</li>
     </ul>
@@ -621,8 +632,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Prog
     <ul>
-      <li>AUX: da, dira, dela, zen, dago, den, zegoen, du, direla, daude</li>
-      <li>VERB: da, du, dago, dute, dira, daude, dugu, dela, dut, zegoen</li>
+      <li>AUX-Fin: da, dira, dela, zen, dago, den, zegoen, du, direla, daude</li>
+      <li>VERB-Fin: du, da, dago, dute, dira, daude, dugu, dela, dut, zegoen</li>
     </ul>
   </li>
 </ul>
@@ -630,7 +641,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Prosp
     <ul>
-      <li>AUX-Part: izango, egongo, izanen, ibiliko, egonen</li>
+      <li>AUX-Part: izango, egongo, izanen, egonen</li>
       <li>VERB-Part: izango, egingo, jokatuko, hartuko, egongo, emango, hasiko, aurkeztuko, joango, saiatuko</li>
     </ul>
   </li>
@@ -643,8 +654,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: litzateke, balitz, luke, nuke, balu, lirateke, litzaidake, lukeela, lukete, lioke</li>
-      <li>VERB: nuke, luke, balitz, niken, Badakit, bagina, bailitzan, balego, banitu, bazekikeen</li>
+      <li>AUX-Fin: litzateke, balitz, luke, nuke, balu, lirateke, litzaidake, lukeela, lukete, genuke</li>
+      <li>VERB-Fin: nuke, luke, balitz, niken, Badakit, bagina, bailitzan, balego, banitu, bazekikeen</li>
     </ul>
   </li>
 </ul>
@@ -652,8 +663,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: ezazu, itzazu, zaitez, ezan, ezazue, iezaiezu, Zaude, iezaidazu, iezaion, iezaiozu</li>
-      <li>VERB: egizu, hago, Demagun, Hoa, emaidazu, zaude, zaudezte, zoaz, zoazte</li>
+      <li>AUX-Fin: ezazu, itzazu, zaitez, ezan, ezazue, iezaiezu, Zaude, iezaidazu, iezaion, iezaiozu</li>
+      <li>VERB-Fin: egizu, hago, Demagun, Hoa, emaidazu, zaude, zaudezte, zoaz, zoazte</li>
     </ul>
   </li>
 </ul>
@@ -661,8 +672,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: da, zuen, zen, du, dira, dute, zuten, ziren, ditu, zituen</li>
-      <li>VERB: da, du, dago, dute, dira, daude, dugu, dela, dut, zegoen</li>
+      <li>AUX-Fin: da, zuen, zen, du, dira, dute, zuten, ziren, ditu, zituen</li>
+      <li>VERB-Fin: du, da, dago, dute, dira, daude, dugu, dela, dut, zegoen</li>
     </ul>
   </li>
 </ul>
@@ -670,8 +681,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Pot
     <ul>
-      <li>AUX: daiteke, dezake, daitezke, daitekeela, daitezkeen, liteke, daitekeen, dezakeen, dezakete, ditzakete</li>
-      <li>VERB: baliteke, litekeena, lekarkioke, liteke</li>
+      <li>AUX-Fin: daiteke, dezake, daitezke, daitekeela, daitezkeen, liteke, daitekeen, dezakeen, dezakete, ditzakete</li>
+      <li>VERB-Fin: baliteke, litekeena, lekarkioke, liteke</li>
     </ul>
   </li>
 </ul>
@@ -679,8 +690,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: dadin, dezagun, dezan, dezala, dadila, daitezen, dezaten, ditzan, zezaten, daitezela</li>
-      <li>VERB: dagokionean, zioen, dabiltzen, dagola, dauden, nindoala, zegoela, zihoazen</li>
+      <li>AUX-Fin: dadin, dezagun, dezan, dezala, dadila, daitezen, dezaten, ditzan, zezaten, daitezela</li>
+      <li>VERB-Fin: dagokionean, zioen, dabiltzen, dagola, dauden, nindoala, zegoela, zihoazen</li>
     </ul>
   </li>
 </ul>
@@ -693,7 +704,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: adierazi, jakinarazi, adierazten, ohartarazi, jakinaraziko, geldiarazi, gogorarazi, galarazi, gogorarazten, oroitarazi</li>
+      <li>VERB-Fin: adierazi, jakinarazi, adierazten, ohartarazi, jakinaraziko, geldiarazi, gogorarazi, galarazi, gogorarazten, oroitarazi</li>
     </ul>
   </li>
 </ul>
@@ -738,7 +749,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Ord
     <ul>
-      <li>NUM: azken, lehen, bigarren, hirugarren, lehenengo, laugarren, bosgarren, seigarren, II.a, lehena</li>
+      <li>ADJ: azken, lehen, bigarren, hirugarren, lehenengo, laugarren, bosgarren, seigarren, II.a, lehena</li>
     </ul>
   </li>
 </ul>
@@ -784,9 +795,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Infm
     <ul>
-      <li>AUX: duk, dinat, dun, naun, diat, din, ditun, nian, zion, dik</li>
+      <li>AUX-Fin: duk, dinat, dun, naun, diat, din, ditun, nian, zion, dik</li>
       <li>PRON: heure</li>
-      <li>VERB: dun, dinat, duk, niken, zekiat, baditinagu, baditinat, bazaukan, dakinat, dik</li>
+      <li>VERB-Fin: dun, dinat, duk, niken, zekiat, baditinagu, baditinat, bazaukan, dakinat, dik</li>
     </ul>
   </li>
 </ul>
@@ -801,8 +812,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>Masc
         <ul>
-          <li>AUX: diat, nian, zaik</li>
-          <li>VERB: diagu</li>
+          <li>AUX-Fin: diat, nian, zaik</li>
+          <li>VERB-Fin: diagu</li>
         </ul>
       </li>
     </ul>
@@ -814,14 +825,14 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>Fem
         <ul>
-          <li>AUX: ezan, dun, dunala, iezaion, nazan</li>
-          <li>VERB: daukanan</li>
+          <li>AUX-Fin: ezan, dun, dunala, iezaion, nazan</li>
+          <li>VERB-Fin: daukanan</li>
         </ul>
       </li>
       <li>Masc
         <ul>
-          <li>AUX: duan, duk</li>
-          <li>VERB: Badakik, baduala, duk</li>
+          <li>AUX-Fin: duan, duk</li>
+          <li>VERB-Fin: Badakik, baduala, duk</li>
         </ul>
       </li>
     </ul>
@@ -833,14 +844,14 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>Plur
         <ul>
-          <li>AUX: dira, ziren, ditu, zituen, dituzte, zituzten, diren, direla, gara, ditugu</li>
-          <li>VERB: dira, daude, ditu, dauden, zeuden, ziren, dituzte, ditugu, datozen, zituen</li>
+          <li>AUX-Fin: dira, ziren, ditu, zituen, dituzte, zituzten, diren, direla, gara, ditugu</li>
+          <li>VERB-Fin: dira, daude, ditu, dauden, zeuden, ziren, dituzte, ditugu, datozen, zituen</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>AUX: da, zuen, zen, du, dute, zuten, den, dela, zion, duen</li>
-          <li>VERB: da, du, dago, dute, dugu, dela, dut, zegoen, zuen, dio</li>
+          <li>AUX-Fin: da, zuen, zen, du, dute, zuten, den, dela, zion, duen</li>
+          <li>VERB-Fin: du, da, dago, dute, dugu, dela, dut, zegoen, zuen, dio</li>
         </ul>
       </li>
     </ul>
@@ -852,14 +863,14 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>Plur
         <ul>
-          <li>AUX: zien, die, diete, zieten, zigun, digu, zaie, digute, zaigu, zitzaien</li>
-          <li>VERB: dagokienez, die, zaie, deritze, zaigu, dagokie, dagokienei, dagokigunez, dagozkie, dagozkien</li>
+          <li>AUX-Fin: zien, die, diete, zieten, zigun, digu, zaie, digute, zaigu, zitzaien</li>
+          <li>VERB-Fin: dagokienez, die, zaie, deritze, zaigu, dagokie, dagokienei, dagokigunez, dagozkie, dagozkien</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>AUX: zion, dio, zioten, diote, zaio, zitzaion, zait, zidan, diogu, dit</li>
-          <li>VERB: dagokionez, dio, dagokion, zaio, zait, dagokio, dagokionean, diot, diogu, dagokionari</li>
+          <li>AUX-Fin: zion, dio, zioten, diote, zaio, zitzaion, zait, zidan, diogu, dit</li>
+          <li>VERB-Fin: dagokionez, dio, dagokion, zaio, zait, dagokio, dagokionean, diot, diogu, dagokionari</li>
         </ul>
       </li>
     </ul>
@@ -871,14 +882,14 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>Plur
         <ul>
-          <li>AUX: dute, zuten, dituzte, dugu, zituzten, duten, zioten, ditugu, diote, genuen</li>
-          <li>VERB: dute, dugu, zuten, duten, dituzte, ditugu, genuen, dutela, diote, badakigu</li>
+          <li>AUX-Fin: dute, zuten, dituzte, dugu, zituzten, duten, zioten, ditugu, diote, genuen</li>
+          <li>VERB-Fin: dute, dugu, zuten, duten, dituzte, ditugu, genuen, dutela, diote, badakigu</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>AUX: zuen, du, ditu, zituen, zion, duen, dut, duela, dio, zuenez</li>
-          <li>VERB: du, dut, ditu, zuen, dio, duela, duen, dauka, dirudi, badu</li>
+          <li>AUX-Fin: zuen, du, ditu, zituen, zion, duen, dut, duela, dio, zuenez</li>
+          <li>VERB-Fin: du, dut, ditu, zuen, dio, duela, duen, dauka, dirudi, badu</li>
         </ul>
       </li>
     </ul>
@@ -890,20 +901,20 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>1
         <ul>
-          <li>AUX: naiz, gara, nintzen, ginen, nago, garela, naizela, nau, gaude, naiteke</li>
-          <li>VERB: nago, gaude, naiz, gara, goaz, nengoen, geunden, nagoela, nenbilen, noa</li>
+          <li>AUX-Fin: naiz, gara, nintzen, ginen, nago, garela, naizela, nau, gaude, naiteke</li>
+          <li>VERB-Fin: nago, gaude, naiz, gara, goaz, nengoen, geunden, nenbilen, nabil, nagoela</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>AUX: zara, haiz, zaitez, zinen, zaitu, zarela, zaitut, zarete, zintudan, Zaude</li>
-          <li>VERB: zaude, zoaz, hago, zatoz, Hoa, bazabiltza, zaitugunok, zaitut, zara, zarete</li>
+          <li>AUX-Fin: zara, haiz, zaitez, zinen, zaitu, zarela, zaitut, zarete, zintudan, Zaude</li>
+          <li>VERB-Fin: zaude, zoaz, hago, zatoz, Hoa, bazabiltza, zaitut, zara, zarete, zaudela</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX: da, zuen, zen, du, dira, dute, zuten, ziren, ditu, zituen</li>
-          <li>VERB: da, du, dago, dute, dira, daude, dugu, dela, dut, zegoen</li>
+          <li>AUX-Fin: da, zuen, zen, du, dira, dute, zuten, ziren, ditu, zituen</li>
+          <li>VERB-Fin: du, da, dago, dute, dira, daude, dugu, dela, dut, zegoen</li>
         </ul>
       </li>
     </ul>
@@ -915,20 +926,20 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>1
         <ul>
-          <li>AUX: zait, zidan, zigun, digu, dit, zitzaidan, digute, litzaidake, zaigu, didate</li>
-          <li>VERB: zait, zaigu, dabilkidalarik, dagokidan, dagokigunez, digute, emaidazu, zauzkigu, zitzaigun, zitzaizkidan</li>
+          <li>AUX-Fin: zait, zidan, zigun, digu, dit, zitzaidan, digute, litzaidake, zaigu, didate</li>
+          <li>VERB-Fin: zait, zaigu, dabilkidalarik, dagokidan, dagokigunez, digute, emaidazu, zauzkigu, zitzaizkidan</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>AUX: zaizu, dizu, dizute, dizuet, zaizkizun, diat, dizut, genizuen, zaizkizu, bazaizu</li>
-          <li>VERB: dagokizun, datorkizuna, diagu, diotsu, dizuet</li>
+          <li>AUX-Fin: zaizu, dizu, dizute, dizuet, zaizkizun, diat, dizut, genizuen, zaizkizu, bazaizu</li>
+          <li>VERB-Fin: dagokizun, datorkizuna, diagu, diotsu, dizuet</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX: zion, dio, zioten, diote, zaio, zien, die, zitzaion, diete, zieten</li>
-          <li>VERB: dagokionez, dagokienez, dio, dagokion, zaio, dagokio, dagokionean, diot, die, diogu</li>
+          <li>AUX-Fin: zion, dio, zioten, diote, zaio, zien, die, zitzaion, diete, zieten</li>
+          <li>VERB-Fin: dagokionez, dagokienez, dio, dagokion, zaio, dagokio, dagokionean, diot, die, diogu</li>
         </ul>
       </li>
     </ul>
@@ -940,20 +951,20 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>1
         <ul>
-          <li>AUX: dugu, dut, nuen, ditugu, genuen, ditut, diogu, dugun, ditugun, dezagun</li>
-          <li>VERB: dugu, dut, ditugu, genuen, dakit, nuen, badakigu, diot, badakit, daukagu</li>
+          <li>AUX-Fin: dugu, dut, nuen, ditugu, genuen, ditut, diogu, dugun, ditugun, badugu</li>
+          <li>VERB-Fin: dugu, dut, ditugu, genuen, dakit, nuen, badakigu, diot, badakit, daukagu</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>AUX: duzu, dituzu, duzue, ezazu, itzazu, zenuen, baduzu, dezakezu, dituzun, duzun</li>
-          <li>VERB: duzu, badakizu, dakizu, diozu, baduzu, daramazu, dituzu, dituzue, duzue, egizu</li>
+          <li>AUX-Fin: duzu, dituzu, duzue, ezazu, itzazu, zenuen, baduzu, dezakezu, dituzun, duzun</li>
+          <li>VERB-Fin: duzu, badakizu, dakizu, diozu, baduzu, daramazu, dituzu, dituzue, duzue, egizu</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX: zuen, du, dute, zuten, ditu, zituen, zion, dituzte, duen, zituzten</li>
-          <li>VERB: du, dute, ditu, zuen, dio, duela, duen, zuten, dauka, duten</li>
+          <li>AUX-Fin: zuen, du, dute, zuten, ditu, zituen, zion, dituzte, duen, zituzten</li>
+          <li>VERB-Fin: du, dute, ditu, zuen, dio, duela, duen, zuten, dauka, duten</li>
         </ul>
       </li>
     </ul>
@@ -965,8 +976,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>Infm
         <ul>
-          <li>AUX: haiz, haiteke, haudala, hinduan, hintzen</li>
-          <li>VERB: hago, Hoa</li>
+          <li>AUX-Fin: haiz, haiteke, haudala, hinduan, hintzen</li>
+          <li>VERB-Fin: hago, Hoa</li>
         </ul>
       </li>
     </ul>
@@ -978,8 +989,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>Infm
         <ul>
-          <li>AUX: diat, nian, zaik</li>
-          <li>VERB: diagu</li>
+          <li>AUX-Fin: diat, nian, zaik</li>
+          <li>VERB-Fin: diagu</li>
         </ul>
       </li>
     </ul>
@@ -991,8 +1002,8 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <ul>
       <li>Infm
         <ul>
-          <li>AUX: ezan, huan, duan, duk, dun, dunala, iezaion, nazan</li>
-          <li>VERB: Badakik, baduala, baheukan, daukanan, duk</li>
+          <li>AUX-Fin: ezan, huan, duan, duk, dun, dunala, iezaion, nazan</li>
+          <li>VERB-Fin: Badakik, baduala, baheukan, daukanan, duk</li>
         </ul>
       </li>
     </ul>
@@ -1004,11 +1015,11 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 13 lemmas as copulas (<a>cop</a>). Examples: izan, egon, ukan, ibili, geratu, apropos, ari_izan, aurkari, gizon, onartu, sartu, sortu, txiki.</li>
+<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: izan, egon, ukan.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 19 lemmas as auxiliaries (<a>aux</a>). Examples: *edun, izan, egin, *edin, *ezan, ari, ukan, baldin, ohi, egon, omen, jakin, eskertu, gelditu, geu, guzti, ibili, joan, oso.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: edun, izan, edin, ezan, ari, ukan, egon.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1017,37 +1028,37 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (332)</li>
-      <li>VERB--NOUN-Abs (436)</li>
-      <li>VERB--NOUN-Erg (376)</li>
-      <li>VERB--NOUN-Gen (2)</li>
-      <li>VERB--NOUN-Loc (1)</li>
-      <li>VERB--NOUN-Par (44)</li>
-      <li>VERB--PRON (57)</li>
-      <li>VERB--PRON-Abs (13)</li>
-      <li>VERB--PRON-Erg (11)</li>
-      <li>VERB-Inf--NOUN (160)</li>
-      <li>VERB-Inf--NOUN-Abs (202)</li>
-      <li>VERB-Inf--NOUN-Erg (228)</li>
+      <li>VERB-Fin--NOUN (330)</li>
+      <li>VERB-Fin--NOUN-Abs (434)</li>
+      <li>VERB-Fin--NOUN-Erg (377)</li>
+      <li>VERB-Fin--NOUN-Gen (2)</li>
+      <li>VERB-Fin--NOUN-Loc (1)</li>
+      <li>VERB-Fin--NOUN-Par (45)</li>
+      <li>VERB-Fin--PRON (57)</li>
+      <li>VERB-Fin--PRON-Abs (13)</li>
+      <li>VERB-Fin--PRON-Erg (11)</li>
+      <li>VERB-Inf--NOUN (159)</li>
+      <li>VERB-Inf--NOUN-Abs (204)</li>
+      <li>VERB-Inf--NOUN-Erg (229)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(_) (1)</li>
       <li>VERB-Inf--NOUN-Par (7)</li>
-      <li>VERB-Inf--PRON (22)</li>
+      <li>VERB-Inf--PRON (23)</li>
       <li>VERB-Inf--PRON-Abs (3)</li>
       <li>VERB-Inf--PRON-Erg (9)</li>
-      <li>VERB-Part--NOUN (627)</li>
+      <li>VERB-Part--NOUN (619)</li>
       <li>VERB-Part--NOUN-ADP(_) (1)</li>
       <li>VERB-Part--NOUN-ADP(inguru) (1)</li>
-      <li>VERB-Part--NOUN-Abs (873)</li>
+      <li>VERB-Part--NOUN-Abs (871)</li>
       <li>VERB-Part--NOUN-Dat (2)</li>
-      <li>VERB-Part--NOUN-Erg (1120)</li>
+      <li>VERB-Part--NOUN-Erg (1121)</li>
       <li>VERB-Part--NOUN-Gen (3)</li>
       <li>VERB-Part--NOUN-Gen-ADP(_) (1)</li>
       <li>VERB-Part--NOUN-Ine (1)</li>
       <li>VERB-Part--NOUN-Ine-ADP(inguru) (5)</li>
       <li>VERB-Part--NOUN-Loc (6)</li>
-      <li>VERB-Part--NOUN-Par (25)</li>
-      <li>VERB-Part--PRON (80)</li>
+      <li>VERB-Part--NOUN-Par (23)</li>
+      <li>VERB-Part--PRON (79)</li>
       <li>VERB-Part--PRON-Abs (11)</li>
       <li>VERB-Part--PRON-Cau (1)</li>
       <li>VERB-Part--PRON-Erg (13)</li>
@@ -1058,38 +1069,38 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (562)</li>
-      <li>VERB--NOUN-ADP(arte) (1)</li>
-      <li>VERB--NOUN-ADP(erdi) (1)</li>
-      <li>VERB--NOUN-Abl (1)</li>
-      <li>VERB--NOUN-Abs (1484)</li>
-      <li>VERB--NOUN-All (1)</li>
-      <li>VERB--NOUN-Erg (10)</li>
-      <li>VERB--NOUN-Gen (6)</li>
-      <li>VERB--NOUN-Par (111)</li>
-      <li>VERB--PRON (3)</li>
-      <li>VERB--PRON-Abs (22)</li>
-      <li>VERB-Inf--NOUN (214)</li>
+      <li>VERB-Fin--NOUN (567)</li>
+      <li>VERB-Fin--NOUN-ADP(arte) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(erdi) (1)</li>
+      <li>VERB-Fin--NOUN-Abl (1)</li>
+      <li>VERB-Fin--NOUN-Abs (1493)</li>
+      <li>VERB-Fin--NOUN-All (1)</li>
+      <li>VERB-Fin--NOUN-Erg (11)</li>
+      <li>VERB-Fin--NOUN-Gen (6)</li>
+      <li>VERB-Fin--NOUN-Par (111)</li>
+      <li>VERB-Fin--PRON (3)</li>
+      <li>VERB-Fin--PRON-Abs (22)</li>
+      <li>VERB-Inf--NOUN (217)</li>
       <li>VERB-Inf--NOUN-ADP(inguru) (1)</li>
-      <li>VERB-Inf--NOUN-Abs (491)</li>
+      <li>VERB-Inf--NOUN-Abs (494)</li>
       <li>VERB-Inf--NOUN-Erg (3)</li>
-      <li>VERB-Inf--NOUN-Gen (4)</li>
+      <li>VERB-Inf--NOUN-Gen (5)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(antzeko) (1)</li>
       <li>VERB-Inf--NOUN-Par (22)</li>
       <li>VERB-Inf--PRON (2)</li>
       <li>VERB-Inf--PRON-Abs (12)</li>
-      <li>VERB-Part--NOUN (966)</li>
+      <li>VERB-Part--NOUN (969)</li>
       <li>VERB-Part--NOUN-ADP(antzeko) (1)</li>
       <li>VERB-Part--NOUN-ADP(inguru) (2)</li>
       <li>VERB-Part--NOUN-Abl-ADP(gabe) (1)</li>
-      <li>VERB-Part--NOUN-Abs (2442)</li>
+      <li>VERB-Part--NOUN-Abs (2460)</li>
       <li>VERB-Part--NOUN-All (2)</li>
       <li>VERB-Part--NOUN-Erg (13)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--NOUN-Ins (1)</li>
-      <li>VERB-Part--NOUN-Loc (4)</li>
+      <li>VERB-Part--NOUN-Loc (5)</li>
       <li>VERB-Part--NOUN-Loc-ADP(inguru) (1)</li>
-      <li>VERB-Part--NOUN-Par (141)</li>
+      <li>VERB-Part--NOUN-Par (142)</li>
       <li>VERB-Part--PRON-Abs (38)</li>
     </ul>
   </li>
@@ -1098,16 +1109,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (43)</li>
-      <li>VERB--NOUN-Dat (137)</li>
-      <li>VERB--PRON (6)</li>
-      <li>VERB--PRON-Dat (3)</li>
-      <li>VERB-Inf--NOUN (20)</li>
-      <li>VERB-Inf--NOUN-Dat (58)</li>
+      <li>VERB-Fin--NOUN (43)</li>
+      <li>VERB-Fin--NOUN-Dat (139)</li>
+      <li>VERB-Fin--PRON (6)</li>
+      <li>VERB-Fin--PRON-Dat (3)</li>
+      <li>VERB-Inf--NOUN (21)</li>
+      <li>VERB-Inf--NOUN-Dat (59)</li>
       <li>VERB-Inf--NOUN-Par (1)</li>
       <li>VERB-Inf--PRON (5)</li>
-      <li>VERB-Part--NOUN (79)</li>
-      <li>VERB-Part--NOUN-Dat (329)</li>
+      <li>VERB-Part--NOUN (78)</li>
+      <li>VERB-Part--NOUN-Dat (330)</li>
       <li>VERB-Part--NOUN-Erg (1)</li>
       <li>VERB-Part--PRON (9)</li>
       <li>VERB-Part--PRON-Dat (7)</li>
@@ -1121,6 +1132,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 1 relation subtypes: <a>nsubj:outer</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

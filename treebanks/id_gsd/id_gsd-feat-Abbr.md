@@ -43,7 +43,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>yg</em>
-* `EMPTY` (6420): <em>yang, nya, ia, mereka, apa, dia, diri, kita, siapa, mana</em>
+* `EMPTY` (6414): <em>yang, nya, ia, mereka, apa, dia, diri, kita, siapa, mana</em>
 
 ### `NOUN`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>RT, dkk</em>
-* `EMPTY` (26428): <em>tahun, orang, desa, nama, kota, bagian, bahasa, wilayah, saat, tanggal</em>
+* `EMPTY` (26429): <em>tahun, orang, desa, nama, kota, bagian, bahasa, wilayah, saat, tanggal</em>
 
 ### `ADV`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>tsb</em>
-* `EMPTY` (3663): <em>ini, itu, sebuah, tersebut, nya, seorang, beberapa, para, berbagai, suatu</em>
+* `EMPTY` (3669): <em>ini, itu, sebuah, tersebut, nya, seorang, beberapa, para, berbagai, suatu</em>
 
 ## Relations with Agreement in `Abbr`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5262 nodes (13%) are attached to their parents as `det`.
+5266 nodes (13%) are attached to their parents as `det`.
 
-5259 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.74591410110224.
+5264 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.7426889479681.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (4427; 84% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (628; 12% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (113; 2% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (30; 1% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (24; 0% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-X.html">X</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-ADP.html">ADP</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (4426; 84% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (631; 12% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (117; 2% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (29; 1% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (24; 0% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-X.html">X</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

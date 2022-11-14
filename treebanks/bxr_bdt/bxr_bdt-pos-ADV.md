@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Buryat-BDT: POS Tags: `ADV`
 
-There are 276 `ADV` lemmas (11%), 301 `ADV` types (7%) and 774 `ADV` tokens (8%).
+There are 278 `ADV` lemmas (11%), 303 `ADV` types (7%) and 776 `ADV` tokens (8%).
 Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>ехэ, мүнөө, бэшэ, гэһэн, һайхан, эндэ, эгээл, үшөө, тэндэ, хадаа</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>гэһэн</em> (<tt><a href="bxr_bdt
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.090580 (the average of all parts of speech is 1.633129).
+The form / lemma ratio of `ADV` is 1.089928 (the average of all parts of speech is 1.638355).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>hэрюун, Одоол, Үргэлжэ, Үшөөл</em>.
 
@@ -67,27 +67,27 @@ The 3rd highest number of forms (3) was observed with the lemma “бэшэ”: 
 `ADV` occurs with 4 feature-value pairs: `Case=Nom`, `Number[psor]=Sing`, `Person[psor]=3`, `PronType=Int`
 
 `ADV` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (748 tokens).
+The most frequent feature combination is `_` (750 tokens).
 Examples: <em>ехэ, мүнөө, гэһэн, бэшэ, һайхан, эндэ, эгээл, хадаа, үшөө, ганса</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 17 different relations: <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (580; 75% instances), <tt><a href="bxr_bdt-dep-amod.html">amod</a></tt> (73; 9% instances), <tt><a href="bxr_bdt-dep-discourse.html">discourse</a></tt> (44; 6% instances), <tt><a href="bxr_bdt-dep-root.html">root</a></tt> (19; 2% instances), <tt><a href="bxr_bdt-dep-advmod-neg.html">advmod:neg</a></tt> (13; 2% instances), <tt><a href="bxr_bdt-dep-aux.html">aux</a></tt> (7; 1% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (7; 1% instances), <tt><a href="bxr_bdt-dep-advcl.html">advcl</a></tt> (6; 1% instances), <tt><a href="bxr_bdt-dep-parataxis.html">parataxis</a></tt> (6; 1% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="bxr_bdt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 17 different relations: <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (589; 76% instances), <tt><a href="bxr_bdt-dep-amod.html">amod</a></tt> (73; 9% instances), <tt><a href="bxr_bdt-dep-discourse.html">discourse</a></tt> (44; 6% instances), <tt><a href="bxr_bdt-dep-root.html">root</a></tt> (18; 2% instances), <tt><a href="bxr_bdt-dep-advmod-neg.html">advmod:neg</a></tt> (13; 2% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (7; 1% instances), <tt><a href="bxr_bdt-dep-advcl.html">advcl</a></tt> (6; 1% instances), <tt><a href="bxr_bdt-dep-parataxis.html">parataxis</a></tt> (6; 1% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="bxr_bdt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (430; 56% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (164; 21% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (85; 11% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (61; 8% instances),  (19; 2% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (435; 56% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (164; 21% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (83; 11% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (61; 8% instances),  (18; 2% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-627 (81%) `ADV` nodes are leaves.
+629 (81%) `ADV` nodes are leaves.
 
-108 (14%) `ADV` nodes have one child.
+109 (14%) `ADV` nodes have one child.
 
 19 (2%) `ADV` nodes have two children.
 
-20 (3%) `ADV` nodes have three or more children.
+19 (2%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 5.
 
-Children of `ADV` nodes are attached using 19 different relations: <tt><a href="bxr_bdt-dep-punct.html">punct</a></tt> (73; 33% instances), <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (52; 24% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (17; 8% instances), <tt><a href="bxr_bdt-dep-discourse.html">discourse</a></tt> (16; 7% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (10; 5% instances), <tt><a href="bxr_bdt-dep-case.html">case</a></tt> (7; 3% instances), <tt><a href="bxr_bdt-dep-advmod-neg.html">advmod:neg</a></tt> (5; 2% instances), <tt><a href="bxr_bdt-dep-conj.html">conj</a></tt> (5; 2% instances), <tt><a href="bxr_bdt-dep-obl.html">obl</a></tt> (5; 2% instances), <tt><a href="bxr_bdt-dep-advcl.html">advcl</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-dep-cop.html">cop</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-dep-csubj.html">csubj</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-aux.html">aux</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 20 different relations: <tt><a href="bxr_bdt-dep-punct.html">punct</a></tt> (73; 33% instances), <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (49; 22% instances), <tt><a href="bxr_bdt-dep-discourse.html">discourse</a></tt> (17; 8% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (16; 7% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (10; 5% instances), <tt><a href="bxr_bdt-dep-case.html">case</a></tt> (7; 3% instances), <tt><a href="bxr_bdt-dep-advcl.html">advcl</a></tt> (5; 2% instances), <tt><a href="bxr_bdt-dep-advmod-neg.html">advmod:neg</a></tt> (5; 2% instances), <tt><a href="bxr_bdt-dep-conj.html">conj</a></tt> (5; 2% instances), <tt><a href="bxr_bdt-dep-obl.html">obl</a></tt> (5; 2% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-dep-csubj.html">csubj</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-dep-cop.html">cop</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 11 different parts of speech: <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (73; 33% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (61; 28% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (32; 15% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (14; 6% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (9; 4% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (8; 4% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (8; 4% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Children of `ADV` nodes belong to 11 different parts of speech: <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (73; 33% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (61; 28% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (31; 14% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (17; 8% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (9; 4% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (8; 4% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

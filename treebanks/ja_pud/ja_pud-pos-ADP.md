@@ -71,17 +71,17 @@ The 3rd highest number of forms (1) was observed with the lemma “が”: が.
 
 Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (5056; 76% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (782; 12% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (369; 6% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (223; 3% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (86; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (37; 1% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (27; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (27; 0% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances)
 
-6339 (95%) `ADP` nodes are leaves.
+6333 (95%) `ADP` nodes are leaves.
 
-112 (2%) `ADP` nodes have one child.
+114 (2%) `ADP` nodes have one child.
 
-187 (3%) `ADP` nodes have two children.
+191 (3%) `ADP` nodes have two children.
 
 4 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (498; 100% instances)
+Children of `ADP` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (508; 100% instances)
 
-Children of `ADP` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (243; 49% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (169; 34% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (77; 15% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4; 1% instances)
+Children of `ADP` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (247; 49% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (172; 34% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (80; 16% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4; 1% instances)
 

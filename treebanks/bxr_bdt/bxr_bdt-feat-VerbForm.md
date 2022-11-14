@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Ger`, `Inf`.
 
-1034 tokens (10%) have a non-empty value of `VerbForm`.
-602 types (15%) occur at least once with a non-empty value of `VerbForm`.
+1040 tokens (10%) have a non-empty value of `VerbForm`.
+603 types (15%) occur at least once with a non-empty value of `VerbForm`.
 289 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (923; 9% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (111; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (935; 9% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (105; 1% instances).
 
 ### `VERB`
 
-923 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+935 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (617; 67%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (617; 67%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (593; 64%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (509; 55%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (622; 67%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (622; 67%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (604; 65%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (510; 55%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (8; 1% of non-empty `VerbForm`): <em>болобол, гэбэл, байбал, оруулбал, хэлэбэл, шиидхэбэл</em>
-* `Fin` (406; 44% of non-empty `VerbForm`): <em>бии, гээшэ, байна, ерээ, ерээд, түрэһэн, ябаһан, байһан, болоно, бэлэй</em>
-* `Ger` (195; 21% of non-empty `VerbForm`): <em>гэхэдэ, дүүргээд, дүүргээ, үзэе, һананам, байхада, ерэхэб, ошоходоо, хэлэхэдэ, абанги</em>
+* `Fin` (417; 45% of non-empty `VerbForm`): <em>бии, бэлэй, гээшэ, байна, ерээ, ерээд, түрэһэн, ябаһан, байһан, болоно</em>
+* `Ger` (196; 21% of non-empty `VerbForm`): <em>гэхэдэ, дүүргээд, үзэе, дүүргээ, һананам, байхада, ерэхэб, ошоходоо, хэлэхэдэ, абанги</em>
 * `Inf` (314; 34% of non-empty `VerbForm`): <em>гэжэ, хэжэ, боложо, ошожо, хүдэлжэ, заажа, һуража, абажа, дүүргэжэ, ерэжэ</em>
-* `EMPTY` (574): <em>байгаа, ажаһуудаг, эхилээ, ябаа, ябаха, хэлсэдэг, байдаг, болонхой, болоо, болохо</em>
+* `EMPTY` (595): <em>байгаа, ажаһуудаг, эхилээ, ябаа, ябаха, гээшэб, хэлсэдэг, байдаг, болонхой, болоо</em>
 
 <table>
   <tr><th>Paradigm <i>гэ</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Ger</tt></th><th><tt>Conv</tt></th></tr>
@@ -39,17 +39,17 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-111 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (38% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+105 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (54% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (89; 80%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (78; 70%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (68; 61%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (58; 52%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (88; 84%), <tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (85; 81%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (77; 73%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (67; 64%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (57; 54%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Conv` (1; 1% of non-empty `VerbForm`): <em>байбал</em>
-* `Fin` (101; 91% of non-empty `VerbForm`): <em>байна, байһан, болоно, бай, байгааб, байба, баатай, байнабди, бэлэй, байгаагүйб</em>
-* `Ger` (7; 6% of non-empty `VerbForm`): <em>байхада, байхадаа, үзэе, байхал, байхаһаа</em>
+* `Fin` (96; 91% of non-empty `VerbForm`): <em>байна, байһан, болоно, бай, байгааб, байба, байнабди, байгаагүйб, байгаад, байгааш</em>
+* `Ger` (6; 6% of non-empty `VerbForm`): <em>байхада, байхадаа, байхал, байхаһаа</em>
 * `Inf` (2; 2% of non-empty `VerbForm`): <em>байжа, боложо</em>
-* `EMPTY` (185): <em>юм, байгаа, болоо, гээшэб, байдаг, бэлэй, болонхой, шадаа, шадаха, һэм</em>
+* `EMPTY` (88): <em>байгаа, болоо, байдаг, болонхой, шадаа, шадаха, байнхаар, болоод, болохо, байтараа</em>
 
 <table>
   <tr><th>Paradigm <i>бай</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Ger</tt></th><th><tt>Conv</tt></th></tr>
@@ -76,5 +76,5 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="bxr_bdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (17; 68%).
+<tt>VERB --[<tt><a href="bxr_bdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (16; 64%).
 

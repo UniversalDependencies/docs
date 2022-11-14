@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-120 nodes (1%) are attached to their parents as `dep`.
+114 nodes (1%) are attached to their parents as `dep`.
 
-120 instances of `dep` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.01666666666667.
+114 instances of `dep` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.01754385964912.
 
-The following 11 pairs of parts of speech are connected with `dep`: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (77; 64% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (16; 13% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (10; 8% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (6; 5% instances), <tt><a href="kk_ktb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (5; 4% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-DET.html">DET</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (77; 68% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (16; 14% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (10; 9% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (6; 5% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-DET.html">DET</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt>-<tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

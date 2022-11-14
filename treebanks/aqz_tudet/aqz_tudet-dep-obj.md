@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-84 nodes (8%) are attached to their parents as `obj`.
+117 nodes (9%) are attached to their parents as `obj`.
 
-76 instances of `obj` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20238095238095.
+109 instances of `obj` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18803418803419.
 
-The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (79; 94% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (110; 94% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,6 +25,20 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	ep	ep	NOUN	n	_	2	obj	_	_
 2	koa	ko	VERB	vt	_	0	root	_	_
 3	jẽ	jẽ	DET	dem	Deixis=Prox	2	nsubj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 obj	color:blue
+1	Aramĩɾa	Aramĩɾa	PROPN	pn	_	3	nsubj	_	_
+2	kani	kani	PROPN	pn	_	3	obj	_	_
+3	wɨbɨka	wɨbɨ	VERB	vt	Trans=Yes	0	root	_	_
+4	.	.	PUNCT	punct	_	3	punct	_	_
 
 ~~~
 
@@ -42,19 +56,6 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 5	tʃop	tʃop	VERB	vi	_	2	xcomp	_	_
 6	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 obj	color:blue
-1	oiko	ko	NOUN	n	Nomzr=Obj|Person=1	3	obj	_	_
-2	tokwa	tok	VERB	vt	Trans=Yes	3	ccomp	_	_
-3	ojã	jã	AUX	aux	Person=1	0	root	_	_
 
 ~~~
 

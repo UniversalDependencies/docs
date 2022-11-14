@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="et_ewt-dep-compound-prt.html">compound:prt</a></tt>.
 
-40 nodes (0%) are attached to their parents as `compound`.
+42 nodes (0%) are attached to their parents as `compound`.
 
-33 instances of `compound` (83%) are right-to-left (child precedes parent).
+35 instances of `compound` (83%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (34; 85% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (36; 86% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -74,7 +74,7 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound	color:blue
 1	Sai	saama	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
-2	Inglismaa	Inglis_maa	PROPN	S	Case=Gen|Number=Sing	4	nmod	4:nmod	_
+2	Inglismaa	Inglis_maa	PROPN	S	Case=Gen|Number=Sing	4	nmod	4:nmod	NE=B-Gep
 3	õppimis	õppimis	NOUN	S	Case=Nom|Number=Sing	4	compound	4:compound	_
 4	eelistustest	eelistus	NOUN	S	Case=Ela|Number=Plur	5	obl	5:obl	_
 5	räägitud	rääkima	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No

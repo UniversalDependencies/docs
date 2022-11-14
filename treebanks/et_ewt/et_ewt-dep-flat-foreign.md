@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="et_ewt-dep-flat.html">flat</a></tt>.
 
-72 nodes (0%) are attached to their parents as `flat:foreign`.
+73 nodes (0%) are attached to their parents as `flat:foreign`.
 
-72 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.68055555555556.
+73 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.65753424657534.
 
-The following 8 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (52; 72% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (9; 13% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (4; 6% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (55; 75% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (9; 12% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (3; 4% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -51,16 +51,16 @@ The following 8 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat:foreign	color:blue
-1	Angel7	Angel7	PROPN	S	_	4	parataxis	4:parataxis	SpaceAfter=No
+1	Angel7	Angel7	PROPN	S	_	4	parataxis	4:parataxis	NE=B-Per|SpaceAfter=No
 2	:	:	PUNCT	Z	_	1	punct	1:punct	_
 3	nii	nii	ADV	D	_	4	advmod	4:advmod	_
 4	seletati	seletama	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 5	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	4	obj	4:obj	_
-6	filmis	film	NOUN	S	Case=Ine|Number=Sing	4	obl	4:obl	_
-7	Back	Back	PROPN	S	Case=Nom|Number=Sing	6	appos	6:appos	_
-8	to	to	X	T	_	7	flat:foreign	7:flat	_
-9	the	the	X	T	_	7	flat:foreign	7:flat	_
-10	future	future	X	T	_	7	flat:foreign	7:flat	_
+6	filmis	film	NOUN	S	Case=Ine|Number=Sing	4	obl	4:obl	NE=B-Prod
+7	Back	Back	PROPN	S	Case=Nom|Number=Sing	6	appos	6:appos	NE=I-Prod
+8	to	to	X	T	_	7	flat:foreign	7:flat	NE=I-Prod
+9	the	the	X	T	_	7	flat:foreign	7:flat	NE=I-Prod
+10	future	future	X	T	_	7	flat:foreign	7:flat	NE=I-Prod
 
 ~~~
 

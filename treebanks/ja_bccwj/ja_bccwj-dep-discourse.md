@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-405 nodes (0%) are attached to their parents as `discourse`.
+428 nodes (0%) are attached to their parents as `discourse`.
 
-395 instances of `discourse` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.68148148148148.
+418 instances of `discourse` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.22897196261682.
 
-The following 13 pairs of parts of speech are connected with `discourse`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (202; 50% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (109; 27% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (32; 8% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (31; 8% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (8; 2% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (7; 2% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (6; 1% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `discourse`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (208; 49% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (116; 27% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (35; 8% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (34; 8% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (10; 2% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (9; 2% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (6; 1% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -68,14 +68,26 @@ The following 13 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 discourse	color:blue
-1	_	_	INTJ	_	_	2	discourse	_	BBIL=B|BPT=0|LBIL=B|LPOS=60|SpaceAfter=No|UI=15834
-2	_	_	INTJ	_	_	0	root	_	BBIL=I|BPT=4|LBIL=B|LPOS=60|SpaceAfter=No|UI=15834
-3	_	_	SYM	_	_	2	dep	_	BBIL=I|BPT=0|LBIL=B|LPOS=19|SpaceAfter=No|UI=134
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 2 discourse	color:blue
+1	_	_	PUNCT	_	_	2	punct	_	BBIL=B|BPT=0|LBIL=B|LPOS=14|SpaceAfter=No|UI=13
+2	_	_	INTJ	_	_	11	discourse	_	BBIL=I|BPT=1|LBIL=B|LPOS=60|SpaceAfter=No|UI=8731
+3	_	_	PUNCT	_	_	2	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=2|SpaceAfter=No|UI=1
+4	_	_	PRON	_	_	11	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=22|SpaceAfter=No|UI=4300
+5	_	_	ADP	_	_	4	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=16|SpaceAfter=No|UI=105
+6	_	_	ADV	_	_	11	advmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=10|SpaceAfter=No|UI=867
+7	_	_	PUNCT	_	_	6	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=2|SpaceAfter=No|UI=1
+8	_	_	ADV	_	_	9	advmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=10|SpaceAfter=No|UI=1192
+9	_	_	VERB	_	_	10	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=23|SpaceAfter=No|UI=61
+10	_	_	NOUN	_	_	11	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=141
+11	_	_	ADJ	_	_	0	root	_	BBIL=B|BPT=4|LBIL=B|LPOS=15|SpaceAfter=No|UI=369
+12	_	_	AUX	_	_	11	aux	_	BBIL=I|BPT=2|LBIL=B|LPOS=8|SpaceAfter=No|UI=17
+13	_	_	SCONJ	_	_	11	mark	_	BBIL=I|BPT=3|LBIL=B|LPOS=37|SpaceAfter=No|UI=0
+14	_	_	PART	_	_	11	mark	_	BBIL=I|BPT=3|LBIL=B|LPOS=29|SpaceAfter=No|UI=66
+15	_	_	PUNCT	_	_	11	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|SpaceAfter=No|UI=14
 
 ~~~
 

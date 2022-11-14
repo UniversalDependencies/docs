@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Count` are language-specific.
 It occurs with 4 different values: `Count`, `Plur`, `Ptan`, `Sing`.
 
-87763 tokens (56%) have a non-empty value of `Number`.
+87764 tokens (56%) have a non-empty value of `Number`.
 27713 types (105%) occur at least once with a non-empty value of `Number`.
-14048 lemmas (94%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33927; 22% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (16828; 11% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13504; 9% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8363; 5% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (5368; 3% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (4739; 3% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (2433; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2101; 1% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (499; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+14050 lemmas (94%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33927; 22% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (16828; 11% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13504; 9% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8363; 5% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (5368; 3% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (4739; 3% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (2433; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2102; 1% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (499; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -206,17 +206,17 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `NUM`
 
-2101 <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Number`.
+2102 <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="bg_btb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2101; 100%), <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1956; 93%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1586; 75%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="bg_btb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2102; 100%), <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1957; 93%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1587; 75%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (1862; 89% of non-empty `Number`): <em>две, два, 2, 3, три, 10, двамата, 20, двете, 000</em>
+* `Plur` (1863; 89% of non-empty `Number`): <em>две, два, 2, 3, три, 10, двамата, 20, двете, 000</em>
 * `Sing` (239; 11% of non-empty `Number`): <em>един, една, 1, едно, половин, 0, Единият, едното, 0,1, 0.00</em>
-* `EMPTY` (5): <em>-, 02, 08, 2000, 3</em>
+* `EMPTY` (3): <em>02, 08, 2000</em>
 
-`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (412) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (414) occur only with one value of `Number`.
 
 ### `ADV`
 

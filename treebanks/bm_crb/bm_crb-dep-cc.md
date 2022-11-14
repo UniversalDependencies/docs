@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-66 nodes (0%) are attached to their parents as `cc`.
+65 nodes (0%) are attached to their parents as `cc`.
 
-65 instances of `cc` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.63636363636364.
+65 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46153846153846.
 
-The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (52; 79% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (6; 9% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (5; 8% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (52; 80% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (6; 9% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (5; 8% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances).
 
 
 ~~~ conllu

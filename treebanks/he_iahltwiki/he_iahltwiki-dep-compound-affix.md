@@ -46,7 +46,7 @@ The following 14 pairs of parts of speech are connected with `compound:affix`: <
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound:affix	color:blue
 1	סיבוכים	סיבוך	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	_
-2	של	של	ADP	ADP	_	4	case	_	_
+2	של	של	ADP	ADP	Case=Gen	4	case	_	_
 3	המו	המו	ADV	ADV	_	4	compound:affix	_	_
 4	דיאליזה	דיאליזה	NOUN	NOUN	Gender=Fem|Number=Sing	1	nmod:poss	_	_
 
@@ -67,7 +67,7 @@ The following 14 pairs of parts of speech are connected with `compound:affix`: <
 6	וועד	ועד	NOUN	NOUN	Gender=Masc|Number=Sing	4	obl	_	_
 7	ה	ה	SCONJ	SCONJ	_	8	mark	_	_
 8	מייעץ	ייעץ	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	acl:relcl	_	_
-9	של	של	ADP	ADP	_	10	case	_	_
+9	של	של	ADP	ADP	Case=Gen	10	case	_	_
 10	Welltech1	Welltech1	PROPN	PROPN	_	6	nmod:poss	_	SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	14	punct	_	_
 12	מיקרו	מיקרו	ADJ	ADJ	_	14	compound:affix	_	SpaceAfter=No

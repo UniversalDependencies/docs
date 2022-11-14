@@ -7,25 +7,28 @@ udver: '2'
 ## Treebank Statistics: UD_English-GUMReddit: Features: `PronType`
 
 This feature is universal.
-It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
+It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-3288 tokens (20%) have a non-empty value of `PronType`.
+3356 tokens (21%) have a non-empty value of `PronType`.
 1 types (0) occur at least once with a non-empty value of `PronType`.
 1 lemmas (0) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1862; 11% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1234; 8% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (116; 1% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> (76; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1931; 12% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1234; 8% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (158; 1% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> (33; 0% instances).
 
 ### `PRON`
 
-1862 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+1931 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1584; 85%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1442; 77%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1253; 67%), <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (932; 50%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1658; 86%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1507; 78%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1397; 72%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (188; 10% of non-empty `PronType`): <em>_</em>
+* `Dem` (189; 10% of non-empty `PronType`): <em>_</em>
+* `Ind` (36; 2% of non-empty `PronType`): <em>_</em>
 * `Int` (26; 1% of non-empty `PronType`): <em>_</em>
-* `Prs` (1494; 80% of non-empty `PronType`): <em>_</em>
+* `Neg` (11; 1% of non-empty `PronType`): <em>_</em>
+* `Prs` (1494; 77% of non-empty `PronType`): <em>_</em>
 * `Rel` (154; 8% of non-empty `PronType`): <em>_</em>
+* `Tot` (21; 1% of non-empty `PronType`): <em>_</em>
 
 ### `DET`
 
@@ -42,25 +45,25 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-116 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (11% of all `ADV` tokens) have a non-empty value of `PronType`.
+158 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (15% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (116; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (158; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (63; 54% of non-empty `PronType`): <em>_</em>
-* `Int` (37; 32% of non-empty `PronType`): <em>_</em>
-* `Rel` (16; 14% of non-empty `PronType`): <em>_</em>
-* `EMPTY` (928): <em>_</em>
+* `Dem` (62; 39% of non-empty `PronType`): <em>_</em>
+* `Int` (84; 53% of non-empty `PronType`): <em>_</em>
+* `Rel` (12; 8% of non-empty `PronType`): <em>_</em>
+* `EMPTY` (926): <em>_</em>
 
 ### `SCONJ`
 
-76 <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> tokens (16% of all `SCONJ` tokens) have a non-empty value of `PronType`.
+33 <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> tokens (8% of all `SCONJ` tokens) have a non-empty value of `PronType`.
 
 `SCONJ` tokens may have the following values of `PronType`:
 
-* `Int` (66; 87% of non-empty `PronType`): <em>_</em>
-* `Rel` (10; 13% of non-empty `PronType`): <em>_</em>
+* `Int` (19; 58% of non-empty `PronType`): <em>_</em>
+* `Rel` (14; 42% of non-empty `PronType`): <em>_</em>
 * `EMPTY` (403): <em>_</em>
 
 ## Relations with Agreement in `PronType`

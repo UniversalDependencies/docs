@@ -80,7 +80,7 @@ The following 7 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 17 16 advmod	color:blue
 1	有名人	有名人	NOUN	名詞-普通名詞-一般	_	3	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,有名;人,有名;人,有名;人,ユーメー;ジン,;,;,ユウメイ;ジン,ユウメイジン,有名人
 2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の
-3	名前	名前	NOUN	名詞-普通名詞-一般	_	9	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,名前,名前,名前,ナマエ,,,ナマエ,ナマエ,名前
+3	名前	名前	NOUN	名詞-普通名詞-一般	_	9	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,名前,名前,名前,ナマエ,,,ナマエ,ナマエ,名前
 4	が	が	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,が,が,が,ガ,,,ガ,ガ,が
 5	当初	当初	NOUN	名詞-普通名詞-一般	_	9	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,当初,当初,当初,トーショ,,,トウショ,トウショ,当初
 6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は

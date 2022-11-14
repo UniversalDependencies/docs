@@ -9,7 +9,7 @@ udver: '2'
 This feature is language-specific.
 It occurs with 7 different values: `Ana`, `CompMod`, `Dimin`, `Ik`, `Omon`, `ProprietiveMod`, `VAbe`.
 
-15 tokens (2%) have a non-empty value of `Derivation`.
+15 tokens (1%) have a non-empty value of `Derivation`.
 15 types (3%) occur at least once with a non-empty value of `Derivation`.
 15 lemmas (4%) occur at least once with a non-empty value of `Derivation`.
 The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (7; 1% instances).

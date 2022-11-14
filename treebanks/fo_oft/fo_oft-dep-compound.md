@@ -59,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 compound	color:blue
-1	Veitin	veit	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
+1	Veitin	veit	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	_
 2	skal	skula	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
 3	kappast	kappa	VERB	V	VerbForm=Inf|Voice=Pass	0	root	_	_
 4	við	við	ADP	Pr	_	5	case	_	_

@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (28; 100% of non-empty `Polite`): <em>De, Dem, Deres</em>
-* `EMPTY` (6772): <em>det, han, jeg, der, vi, de, man, sig, hun, som</em>
+* `EMPTY` (7174): <em>det, der, han, jeg, vi, de, man, sig, hun, som</em>
 
 ### `DET`
 

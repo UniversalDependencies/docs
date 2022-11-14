@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hungarian-Szeged: POS Tags: `CCONJ`
 
-There are 46 `CCONJ` lemmas (0%), 46 `CCONJ` types (0%) and 1832 `CCONJ` tokens (4%).
+There are 45 `CCONJ` lemmas (0%), 46 `CCONJ` types (0%) and 1832 `CCONJ` tokens (4%).
 Out of 16 observed tags, the rank of `CCONJ` is: 9 in number of lemmas, 10 in number of types and 8 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>és, is, s, de, pedig, azonban, hiszen, hanem, vagy, illetve</em>
 
 The 10 most frequent `CCONJ` types:  <em>és, is, s, de, pedig, azonban, hiszen, hanem, vagy, illetve</em>
 
-The 10 most frequent ambiguous lemmas: <em>és</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 547, <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> 11), <em>is</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 408, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 55, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 2), <em>vagy</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 39, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 2), <em>így</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 34, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 27), <em>sem</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 62, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 14), <em>majd</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 36, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 13), <em>nemcsak</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 11, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 3), <em>mind</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 3), <em>ezért</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 24, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 9), <em>meg</em> (<tt><a href="hu_szeged-pos-PART.html">PART</a></tt> 105, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 9)
+The 10 most frequent ambiguous lemmas: <em>és</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 547, <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> 11), <em>is</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 408, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 55, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 2), <em>vagy</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 39, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 2), <em>így</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 34, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 27), <em>sem</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 62, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 14), <em>majd</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 36, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 13), <em>nemcsak</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 3), <em>mind</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 3), <em>ezért</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 24, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 9), <em>meg</em> (<tt><a href="hu_szeged-pos-PART.html">PART</a></tt> 105, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 9)
 
 The 10 most frequent ambiguous types:  <em>és</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 538, <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> 11), <em>is</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 408, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 55, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 2), <em>vagy</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 38, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 2), <em>így</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 23, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 21), <em>sem</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 62, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 14), <em>majd</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 36, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 13), <em>nemcsak</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 2), <em>mind</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 3), <em>ezért</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 15, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 7), <em>meg</em> (<tt><a href="hu_szeged-pos-PART.html">PART</a></tt> 102, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 9)
 
@@ -52,34 +52,40 @@ The 10 most frequent ambiguous types:  <em>és</em> (<tt><a href="hu_szeged-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.503135).
+The form / lemma ratio of `CCONJ` is 1.022222 (the average of all parts of speech is 1.503840).
 
-The 1st highest number of forms (1) was observed with the lemma “azaz”: <em>azaz</em>.
+The 1st highest number of forms (2) was observed with the lemma “nemcsak”: <em>nem, nemcsak</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “azonban”: <em>azonban</em>.
+The 2nd highest number of forms (1) was observed with the lemma “azaz”: <em>azaz</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “aztán”: <em>Aztán</em>.
+The 3rd highest number of forms (1) was observed with the lemma “azonban”: <em>azonban</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="hu_szeged-feat-Typo.html">Typo</a></tt> (2; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (1830 tokens).
+Examples: <em>és, is, s, de, pedig, azonban, hiszen, hanem, vagy, illetve</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (1809; 99% instances), <tt><a href="hu_szeged-dep-flat-name.html">flat:name</a></tt> (13; 1% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (3; 0% instances), <tt><a href="hu_szeged-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="hu_szeged-dep-goeswith.html">goeswith</a></tt> (2; 0% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (1811; 99% instances), <tt><a href="hu_szeged-dep-flat-name.html">flat:name</a></tt> (13; 1% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (3; 0% instances), <tt><a href="hu_szeged-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (741; 40% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (625; 34% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (194; 11% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (140; 8% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (69; 4% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (36; 2% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (21; 1% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (741; 40% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (623; 34% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (195; 11% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (144; 8% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (69; 4% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (35; 2% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-1811 (99%) `CCONJ` nodes are leaves.
+1810 (99%) `CCONJ` nodes are leaves.
 
-16 (1%) `CCONJ` nodes have one child.
+18 (1%) `CCONJ` nodes have one child.
 
-2 (0%) `CCONJ` nodes have two children.
+1 (0%) `CCONJ` nodes have two children.
 
 3 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 4.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (23; 77% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (5; 17% instances), <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="hu_szeged-dep-nmod-obl.html">nmod:obl</a></tt> (1; 3% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (23; 77% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (5; 17% instances), <tt><a href="hu_szeged-dep-goeswith.html">goeswith</a></tt> (2; 7% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (23; 77% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 3% instances)
+Children of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (23; 77% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="hu_szeged-pos-X.html">X</a></tt> (2; 7% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 

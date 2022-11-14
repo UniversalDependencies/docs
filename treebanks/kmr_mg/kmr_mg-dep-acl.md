@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-68 nodes (1%) are attached to their parents as `acl`.
+69 nodes (1%) are attached to their parents as `acl`.
 
-67 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.25.
+68 instances of `acl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.17391304347826.
 
-The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (51; 75% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (9; 13% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (52; 75% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (10; 14% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -74,7 +74,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	Lê	lê	CCONJ	cnjcoo	_	4	cc	_	_
 2	hin	hin	DET	det	Gender=Fem,Masc|Number=Plur,Sing|PronType=Ind	3	det	_	_
 3	tişt	tişt	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	_
-4	hene	hebûn	AUX	vbhaver	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	hene	hebûn	VERB	vbhaver	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	ko	ku	SCONJ	cnjsub	_	12	mark	_	_
 6	ji	ji	ADP	pr	AdpType=Prep	7	case	_	_
 7	xwendevanan	xwendevan	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	12	nmod	_	_

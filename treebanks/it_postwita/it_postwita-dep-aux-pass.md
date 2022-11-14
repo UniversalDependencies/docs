@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 7	dannosa	dannoso	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
 8	va	andare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
 9	tolta	togliere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
-10	http://t.co/7klJ49BVBj	http://t.co/7klJ49BVBj	SYM	X	_	7	dep	_	_
+10	http://t.co/7klJ49BVBj	http://t.co/7klJ49BVBj	SYM	X	_	7	parataxis	_	_
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 24	,	,	PUNCT	FF	_	20	punct	_	_
 25	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux:pass	_	_
 26	governa...	governa...	X	X	_	2	parataxis	_	_
-27	http://t.co/9Qfg6RsM	http://t.co/9Qfg6RsM	SYM	X	_	2	dep	_	_
+27	http://t.co/9Qfg6RsM	http://t.co/9Qfg6RsM	SYM	X	_	2	parataxis	_	_
 
 ~~~
 
@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 4 aux:pass	color:blue
-1	@user	@user	SYM	SYM	_	9	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	9	vocative	_	_
 2	si	sì	INTJ	I	_	9	discourse	_	CorrectForm=sì
 3	si	sì	INTJ	I	_	9	discourse	_	CorrectForm=sì
 4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Neslihan Cesur, Aslı Kuzgun, Olcay Taner Yıldız, Büşra Marşan, Neslihan Kara, Bilge Nas Arıcan, Merve Özçelik, Deniz Baran Aslan.
 
 Repository: [UD_Turkish-Penn](https://github.com/UniversalDependencies/UD_Turkish-Penn)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_penn210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_penn211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -75,7 +75,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 
 ## Relations
 
-[acl](tr_penn-dep-acl.html) – [advcl](tr_penn-dep-advcl.html) – [advmod](tr_penn-dep-advmod.html) – [amod](tr_penn-dep-amod.html) – [appos](tr_penn-dep-appos.html) – [aux](tr_penn-dep-aux.html) – [case](tr_penn-dep-case.html) – [cc](tr_penn-dep-cc.html) – [ccomp](tr_penn-dep-ccomp.html) – [clf](tr_penn-dep-clf.html) – [compound](tr_penn-dep-compound.html) – [conj](tr_penn-dep-conj.html) – [csubj](tr_penn-dep-csubj.html) – [dep](tr_penn-dep-dep.html) – [det](tr_penn-dep-det.html) – [discourse](tr_penn-dep-discourse.html) – [dislocated](tr_penn-dep-dislocated.html) – [fixed](tr_penn-dep-fixed.html) – [flat](tr_penn-dep-flat.html) – [goeswith](tr_penn-dep-goeswith.html) – [iobj](tr_penn-dep-iobj.html) – [list](tr_penn-dep-list.html) – [mark](tr_penn-dep-mark.html) – [nmod](tr_penn-dep-nmod.html) – [nsubj](tr_penn-dep-nsubj.html) – [nummod](tr_penn-dep-nummod.html) – [obj](tr_penn-dep-obj.html) – [obl](tr_penn-dep-obl.html) – [orphan](tr_penn-dep-orphan.html) – [parataxis](tr_penn-dep-parataxis.html) – [punct](tr_penn-dep-punct.html) – [root](tr_penn-dep-root.html) – [vocative](tr_penn-dep-vocative.html) – [xcomp](tr_penn-dep-xcomp.html)
+[acl](tr_penn-dep-acl.html) – [advcl](tr_penn-dep-advcl.html) – [advmod](tr_penn-dep-advmod.html) – [amod](tr_penn-dep-amod.html) – [appos](tr_penn-dep-appos.html) – [aux](tr_penn-dep-aux.html) – [case](tr_penn-dep-case.html) – [cc](tr_penn-dep-cc.html) – [ccomp](tr_penn-dep-ccomp.html) – [clf](tr_penn-dep-clf.html) – [compound](tr_penn-dep-compound.html) – [conj](tr_penn-dep-conj.html) – [csubj](tr_penn-dep-csubj.html) – [dep](tr_penn-dep-dep.html) – [det](tr_penn-dep-det.html) – [discourse](tr_penn-dep-discourse.html) – [dislocated](tr_penn-dep-dislocated.html) – [fixed](tr_penn-dep-fixed.html) – [flat](tr_penn-dep-flat.html) – [goeswith](tr_penn-dep-goeswith.html) – [iobj](tr_penn-dep-iobj.html) – [list](tr_penn-dep-list.html) – [mark](tr_penn-dep-mark.html) – [nmod](tr_penn-dep-nmod.html) – [nsubj](tr_penn-dep-nsubj.html) – [nsubj:outer](tr_penn-dep-nsubj-outer.html) – [nummod](tr_penn-dep-nummod.html) – [obj](tr_penn-dep-obj.html) – [obl](tr_penn-dep-obl.html) – [orphan](tr_penn-dep-orphan.html) – [parataxis](tr_penn-dep-parataxis.html) – [punct](tr_penn-dep-punct.html) – [root](tr_penn-dep-root.html) – [vocative](tr_penn-dep-vocative.html) – [xcomp](tr_penn-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -952,6 +952,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
+<li>This corpus uses 1 relation subtypes: <a>nsubj:outer</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a>, <a>reparandum</a></li>
 </ul>

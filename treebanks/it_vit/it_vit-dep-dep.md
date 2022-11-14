@@ -65,9 +65,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 41	a	a	ADP	E	_	43	case	_	_
 42	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	43	det	_	_
 43	urne	urna	NOUN	S	Gender=Fem|Number=Plur	38	obl	_	_
-44	da	da	ADP	E	_	45	mark	_	_
-45	riempire	riempire	VERB	V	VerbForm=Inf	38	advcl	_	SpaceAfter=No
-46	.	.	PUNCT	FS	_	14	punct	_	_
+44	...	...	PUNCT	FS	_	14	punct	_	_
 
 ~~~
 
@@ -97,7 +95,6 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 17	diciamo	dire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	che	che	SCONJ	CS	_	17	dep	_	_
 19	...	...	PUNCT	FC	_	18	punct	_	SpaceAfter=No
-20	.	.	PUNCT	FS	_	17	punct	_	_
 
 ~~~
 

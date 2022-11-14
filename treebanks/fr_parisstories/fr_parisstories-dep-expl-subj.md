@@ -7,97 +7,84 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParisStories: Relations: `expl:subj`
 
 This relation is a language-specific subtype of <tt><a href="fr_parisstories-dep-expl.html">expl</a></tt>.
+There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_parisstories-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="fr_parisstories-dep-expl-pv.html">expl:pv</a></tt>.
 
-88 nodes (0%) are attached to their parents as `expl:subj`.
+311 nodes (1%) are attached to their parents as `expl:subj`.
 
-84 instances of `expl:subj` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.21590909090909.
+297 instances of `expl:subj` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.33440514469453.
 
-The following 5 pairs of parts of speech are connected with `expl:subj`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (81; 92% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `expl:subj`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (268; 86% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (15; 5% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (14; 5% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (9; 3% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 expl:subj	color:blue
-1	euh	euh	INTJ	_	_	3	obj	_	_
-2	qu'	que	PRON	_	Person=3|PronType=Int	3	xcomp	_	SpaceAfter=No
-3	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	expl:subj	_	_
-5	qu'	que	SCONJ	_	_	8	dep:comp	_	SpaceAfter=No
-6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_
-7	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
-8	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl:cleft	_	_
-9	bah	bah	INTJ	_	_	3	discourse	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	3	punct	_	_
+# visual-style 3 1 expl:subj	color:blue
+1	il	_	PRON	_	_	3	expl:subj	_	_
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl	_	_
+3	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	beaucoup	beaucoup	ADV	_	_	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	violences	violence	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+7	sexuelles	sexuel	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
+8	là-bas	là-bas	ADV	_	_	3	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	fait	fait	NOUN	_	Gender=Masc|Number=Sing	3	discourse	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 expl:subj	color:blue
-1	mais	mais	CCONJ	_	_	2	cc	_	_
-2	qu'	que	PRON	_	Person=3|PronType=Int	0	root	_	SpaceAfter=No
-3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	SpaceAfter=No
-4	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	expl:subj	_	_
-5	que	que	SCONJ	_	_	7	xcomp	_	_
-6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	SpaceAfter=No
-7	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl:cleft	_	_
-8	?	?	PUNCT	_	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 expl:subj	color:blue
+1	donc	donc	ADV	_	_	5	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	expl:subj	_	SpaceAfter=No
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	qu'	que	SCONJ	_	_	10	mark	_	SpaceAfter=No
+7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	_
+9	toujours	toujours	ADV	_	_	10	advmod	_	_
+10	resté	rester	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	csubj	_	_
+11	là-dessus	là	ADV	_	_	10	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 18 expl:subj	color:blue
-1	en	en	ADP	_	_	9	discourse	_	ExtPos=ADV|Idiom=Yes
-2	fait	faire	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	InIdiom=Yes|SpaceAfter=No
-3	,	,	PUNCT	_	_	1	punct	_	_
-4	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	9	dislocated	_	_
-5	sur	sur	ADP	_	_	6	case	_	_
-6	place	place	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	_
-9	savait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-10	même	même	ADV	_	_	11	advmod	_	_
-11	pas	pas	ADV	_	_	9	advmod	_	_
-12	alors	alors	ADV	_	_	16	mark	_	ExtPos=SCONJ|Idiom=Yes
-13	qu'	que	SCONJ	_	_	12	fixed	_	InIdiom=Yes|SpaceAfter=No
-14	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	16	nsubj	_	_
-15	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	cop	_	_
-16	là	là	ADV	_	_	9	advcl	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	21	punct	_	_
-18	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	21	expl:subj	_	SpaceAfter=No
-19	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
-20	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	21	det	_	SpaceAfter=No
-21	haut-parleur	haut-parleur	NOUN	_	Gender=Masc|Number=Sing	9	parataxis	_	_
-22	qui	qui	PRON	_	PronType=Rel	26	nsubj	_	_
-23	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	26	iobj	_	_
-24	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	26	obj	_	SpaceAfter=No
-25	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
-26	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	advcl:cleft	_	SpaceAfter=No
-27	,	,	PUNCT	_	_	28	punct	_	_
-28	enfin	enfin	ADV	_	_	33	discourse	_	SpaceAfter=No
-29	,	,	PUNCT	_	_	33	punct	_	_
-30	qu'	que	SCONJ	_	_	33	mark	_	SpaceAfter=No
-31	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	33	nsubj	_	_
-32	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux	_	_
-33	su	savoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	reparandum	_	_
-34	grâce	grâce	ADV	_	_	33	advmod	_	_
-35	à	à	ADP	_	_	37	case	_	_
-36	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	37	det	_	SpaceAfter=No
-37	haut-parleur	haut-parleur	NOUN	_	Gender=Masc|Number=Sing	34	obj	_	SpaceAfter=No
-38	.	.	PUNCT	_	_	9	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 12 expl:subj	color:blue
+1	et	et	CCONJ	_	_	4	cc	_	_
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	oh	oh	INTJ	_	_	8	discourse	_	_
+7	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	8	det	_	_
+8	dieu	dieu	NOUN	_	Gender=Masc|Number=Sing	10	discourse	_	ExtPos=INTJ
+9	mais	mais	CCONJ	_	_	10	cc	_	_
+10	qu'	que	PRON	_	Person=3|PronType=Int	4	ccomp	_	SpaceAfter=No
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Reported=Yes|SpaceAfter=No
+12	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	expl:subj	_	_
+13	qu'	que	SCONJ	_	_	17	mark	_	SpaceAfter=No
+14	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+15	s'	se	PRON	_	Person=3|PronType=Prs	17	expl	_	SpaceAfter=No
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:tense	_	_
+17	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl:cleft	_	_
+18	?	?	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

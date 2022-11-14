@@ -11,53 +11,56 @@ It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
 17259 tokens (5%) have a non-empty value of `Mood`.
 374 types (2%) occur at least once with a non-empty value of `Mood`.
-142 lemmas (1%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 6 part-of-speech tags: <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (14405; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2848; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+139 lemmas (1%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 6 part-of-speech tags: <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (14314; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2939; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `AUX`
 
-14405 <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> tokens (55% of all `AUX` tokens) have a non-empty value of `Mood`.
+14314 <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> tokens (60% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (14405; 100%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14405; 100%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (11970; 83%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11741; 82%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (10894; 76%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10878; 76%), <tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10598; 74%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (14314; 100%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14314; 100%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (11897; 83%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11680; 82%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10840; 76%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (10803; 75%), <tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10598; 74%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Imp` (1; 0% of non-empty `Mood`): दो
-* `Ind` (14063; 98% of non-empty `Mood`): है, हैं, था, थी, थे, जाएगा, जाएगी, होगा, थीं, जाएंगे
-* `Sub` (341; 2% of non-empty `Mood`): जाए, सके, जाएं, दें, हुए, रहे, सकें, लें, चुके, पड़े
-* `EMPTY` (11625): गया, गई, गए, हुए, जा, दिया, रहे, रही, रहा, जाने
+* `Ind` (14012; 98% of non-empty `Mood`): है, हैं, था, थी, थे, जाएगा, जाएगी, होगा, थीं, जाएंगे
+* `Sub` (302; 2% of non-empty `Mood`): जाए, सके, जाएं, हुए, रहे, सकें, पड़े, रहें, गए, जाएँ
+* `EMPTY` (9442): गया, गई, गए, हुए, जा, रहे, रही, रहा, जाने, चाहिए
 
 <table>
-  <tr><th>Paradigm <i>दे</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>दूंगा</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>देंगे</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>देगा</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>देंगे</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>देंगे</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>दूंगी</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>देंगी</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>देगी</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td></td><td>दीजिए, दें</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Infm</tt></tt></td><td></td><td>दो</td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td></td><td>दें</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td>दें, दे</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td></td><td>दें</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td>दें</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>दें</td></tr>
+  <tr><th>Paradigm <i>जा</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएँगे, जाएंगे</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएंगे</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td>गए</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएगा, जायेगा</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>जाए, जाय</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएंगे, जाएगा</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>जाए, गए</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएंगे, जाएँगे, जाएँगीं, जाएगें, जायेंगे</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएंगें</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>गए, जाए</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएंगी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएगी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएगी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएंगी, जाएँगी, जाएंगीं, जाएगी, जायेंगी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td>जाएँ, जाएं</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td>जाएं</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>जाए, जाये</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>जाएं, जाए, जाएँ</td></tr>
+  <tr><td><tt></tt></td><td></td><td>जाए, जाय</td></tr>
 </table>
 
 ### `VERB`
 
-2848 <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Mood`.
+2939 <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2848; 100%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2848; 100%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2848; 100%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2816; 99%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (2532; 89%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2340; 82%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2939; 100%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2939; 100%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2939; 100%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2816; 96%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (2605; 89%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2401; 82%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (10; 0% of non-empty `Mood`): करो, बताओ, जाओ, दो, बचाओ, लो
-* `Ind` (2517; 88% of non-empty `Mood`): है, करेंगे, होगा, होगी, हैं, था, करेगी, करेगा, होंगे, मिलेगा
-* `Sub` (321; 11% of non-empty `Mood`): करें, करे, दें, जाएँ, मिले, रहे, रहें, आए, कराए, दे
-* `EMPTY` (30905): कहा, किया, कर, करने, की, हो, बताया, होने, हुई, करते
+* `Imp` (11; 0% of non-empty `Mood`): करो, दो, बताओ, जाओ, बचाओ, लो
+* `Ind` (2568; 87% of non-empty `Mood`): है, करेंगे, होगा, होगी, हैं, था, करेगी, करेगा, होंगे, मिलेगा
+* `Sub` (360; 12% of non-empty `Mood`): करें, करे, दें, जाएँ, मिले, रहे, लें, दे, रहें, आए
+* `EMPTY` (33020): कहा, किया, कर, करने, की, दिया, हो, बताया, दी, होने
 
 <table>
   <tr><th>Paradigm <i>कर</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -94,7 +97,7 @@ The most frequent other feature values with which `PROPN` and `Mood` co-occurred
 
 * `Imp` (2; 67% of non-empty `Mood`): बताओ
 * `Ind` (1; 33% of non-empty `Mood`): बनेगा
-* `EMPTY` (42938): सिंह, भारत, प्रधानमंत्री, कांग्रेस, पाकिस्तान, दिल्ली, मंत्री, भाजपा, सरकार, कश्मीर
+* `EMPTY` (42937): सिंह, भारत, प्रधानमंत्री, कांग्रेस, पाकिस्तान, दिल्ली, मंत्री, भाजपा, सरकार, कश्मीर
 
 ### `ADP`
 
@@ -105,7 +108,7 @@ The most frequent other feature values with which `ADP` and `Mood` co-occurred: 
 `ADP` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): के
-* `EMPTY` (74144): के, में, की, को, ने, से, का, पर, लिए, तक
+* `EMPTY` (73214): के, में, की, को, ने, से, का, पर, लिए, तक
 
 ### `PRON`
 

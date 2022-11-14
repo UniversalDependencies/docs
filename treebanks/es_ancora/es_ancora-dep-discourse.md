@@ -148,7 +148,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 30	Reino	reino	PROPN	_	_	33	nsubj	33:nsubj	_
 31	Unido	unido	PROPN	_	_	30	flat	30:flat	_
 32	no	no	PART	_	_	33	advmod	33:advmod	_
-33	forma	forma	VERB	_	VerbForm=Fin	22	conj	22:conj	_
+33	forma	formar	VERB	_	VerbForm=Fin	22	conj	22:conj	_
 34	parte	parte	NOUN	_	_	33	obj	33:obj	_
 35	de	de	ADP	_	_	36	case	36:case	_
 36	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nmod	34:nmod	SpaceAfter=No

@@ -20,23 +20,23 @@ The feature is used with 3 part-of-speech tags: <tt><a href="eu_bdt-pos-AUX.html
 
 41 <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `AUX` and `Polite` co-occurred: <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (40; 98%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (37; 90%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (35; 85%), <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (30; 73%), <tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=EMPTY</tt> (22; 54%), <tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=EMPTY</tt> (22; 54%).
+The most frequent other feature values with which `AUX` and `Polite` co-occurred: <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (41; 100%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (40; 98%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (37; 90%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (35; 85%), <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (30; 73%), <tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=EMPTY</tt> (22; 54%), <tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=EMPTY</tt> (22; 54%).
 
 `AUX` tokens may have the following values of `Polite`:
 
 * `Infm` (41; 100% of non-empty `Polite`): <em>duk, dinat, dun, naun, diat, din, ditun, nian, zion, dik</em>
-* `EMPTY` (12449): <em>da, zuen, zen, du, dira, dute, izan, zuten, ziren, ditu</em>
+* `EMPTY` (12507): <em>da, zuen, zen, du, dira, izan, dute, zuten, ziren, ditu</em>
 
 ### `VERB`
 
 30 <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (30; 100%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (28; 93%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (28; 93%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (23; 77%).
+The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (30; 100%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (30; 100%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (28; 93%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (28; 93%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (23; 77%).
 
 `VERB` tokens may have the following values of `Polite`:
 
 * `Infm` (30; 100% of non-empty `Polite`): <em>dun, dinat, duk, niken, zekiat, baditinagu, baditinat, bazaukan, dakinat, dik</em>
-* `EMPTY` (19096): <em>egin, izan, esan, egiten, da, du, izango, eman, dago, hasi</em>
+* `EMPTY` (19037): <em>egin, izan, esan, egiten, du, da, izango, eman, dago, hasi</em>
 
 ### `PRON`
 

@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Abs` (84; 99% of non-empty `Degree`): <em>bellissimo, bellissima, bravissimo, felicissima, gentilissimo, grandissima, grandissimo, bellissime, bravissimi, dolcissimo</em>
 * `Cmp` (1; 1% of non-empty `Degree`): <em>peggiori</em>
-* `EMPTY` (4911): <em>nuovo, grande, bella, buon, buona, primo, vero, nuova, prima, giusto</em>
+* `EMPTY` (4913): <em>nuovo, grande, bella, buon, buona, primo, vero, nuova, prima, giusto</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (38) occur only with one value of `Degree`.
 

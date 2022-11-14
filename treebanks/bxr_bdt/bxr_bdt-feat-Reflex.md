@@ -47,7 +47,7 @@ The most frequent other feature values with which `VERB` and `Reflex` co-occurre
 `VERB` tokens may have the following values of `Reflex`:
 
 * `Yes` (24; 100% of non-empty `Reflex`): <em>ошоходоо, байхадаа, ерэхэдээ, хүдэлхэдөө, ябахадаа, Ошохоо, абаһандаа, айлшалхадаа, байһанаа, болоходоо</em>
-* `EMPTY` (1473): <em>гэжэ, бии, байгаа, гээшэ, ажаһуудаг, эхилээ, байна, ерээ, хэжэ, ябаа</em>
+* `EMPTY` (1506): <em>гэжэ, бии, байгаа, бэлэй, гээшэ, ажаһуудаг, эхилээ, ябаа, байна, ерээ</em>
 
 `Reflex` seems to be **lexical feature** of `VERB`. 100% lemmas (16) occur only with one value of `Reflex`.
 
@@ -66,12 +66,12 @@ The most frequent other feature values with which `PROPN` and `Reflex` co-occurr
 
 2 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `AUX` and `Reflex` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Reflex` co-occurred: <tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Reflex`:
 
 * `Yes` (2; 100% of non-empty `Reflex`): <em>байхадаа</em>
-* `EMPTY` (294): <em>юм, байгаа, байна, байһан, болоно, бай, болоо, байгааб, бэлэй, гээшэб</em>
+* `EMPTY` (191): <em>байгаа, байна, байһан, болоно, бай, болоо, байгааб, байба, байдаг, болонхой</em>
 
 ### `ADJ`
 

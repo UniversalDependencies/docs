@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Jenna Kanerva.
 
 Repository: [UD_Finnish-OOD](https://github.com/UniversalDependencies/UD_Finnish-OOD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -77,7 +77,7 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
 
 ## Relations
 
-[acl](fi_ood-dep-acl.html) – [acl:relcl](fi_ood-dep-acl-relcl.html) – [advcl](fi_ood-dep-advcl.html) – [advmod](fi_ood-dep-advmod.html) – [amod](fi_ood-dep-amod.html) – [appos](fi_ood-dep-appos.html) – [aux](fi_ood-dep-aux.html) – [aux:pass](fi_ood-dep-aux-pass.html) – [case](fi_ood-dep-case.html) – [cc](fi_ood-dep-cc.html) – [cc:preconj](fi_ood-dep-cc-preconj.html) – [ccomp](fi_ood-dep-ccomp.html) – [compound](fi_ood-dep-compound.html) – [compound:nn](fi_ood-dep-compound-nn.html) – [compound:prt](fi_ood-dep-compound-prt.html) – [conj](fi_ood-dep-conj.html) – [cop](fi_ood-dep-cop.html) – [cop:own](fi_ood-dep-cop-own.html) – [csubj](fi_ood-dep-csubj.html) – [csubj:cop](fi_ood-dep-csubj-cop.html) – [dep](fi_ood-dep-dep.html) – [det](fi_ood-dep-det.html) – [discourse](fi_ood-dep-discourse.html) – [fixed](fi_ood-dep-fixed.html) – [flat](fi_ood-dep-flat.html) – [flat:foreign](fi_ood-dep-flat-foreign.html) – [flat:name](fi_ood-dep-flat-name.html) – [goeswith](fi_ood-dep-goeswith.html) – [mark](fi_ood-dep-mark.html) – [nmod](fi_ood-dep-nmod.html) – [nmod:gobj](fi_ood-dep-nmod-gobj.html) – [nmod:gsubj](fi_ood-dep-nmod-gsubj.html) – [nmod:poss](fi_ood-dep-nmod-poss.html) – [nsubj](fi_ood-dep-nsubj.html) – [nsubj:cop](fi_ood-dep-nsubj-cop.html) – [nummod](fi_ood-dep-nummod.html) – [obj](fi_ood-dep-obj.html) – [obl](fi_ood-dep-obl.html) – [orphan](fi_ood-dep-orphan.html) – [parataxis](fi_ood-dep-parataxis.html) – [punct](fi_ood-dep-punct.html) – [root](fi_ood-dep-root.html) – [vocative](fi_ood-dep-vocative.html) – [xcomp](fi_ood-dep-xcomp.html) – [xcomp:ds](fi_ood-dep-xcomp-ds.html)
+[acl](fi_ood-dep-acl.html) – [acl:relcl](fi_ood-dep-acl-relcl.html) – [advcl](fi_ood-dep-advcl.html) – [advmod](fi_ood-dep-advmod.html) – [amod](fi_ood-dep-amod.html) – [appos](fi_ood-dep-appos.html) – [aux](fi_ood-dep-aux.html) – [aux:pass](fi_ood-dep-aux-pass.html) – [case](fi_ood-dep-case.html) – [cc](fi_ood-dep-cc.html) – [cc:preconj](fi_ood-dep-cc-preconj.html) – [ccomp](fi_ood-dep-ccomp.html) – [compound](fi_ood-dep-compound.html) – [compound:nn](fi_ood-dep-compound-nn.html) – [compound:prt](fi_ood-dep-compound-prt.html) – [conj](fi_ood-dep-conj.html) – [cop](fi_ood-dep-cop.html) – [cop:own](fi_ood-dep-cop-own.html) – [csubj](fi_ood-dep-csubj.html) – [csubj:cop](fi_ood-dep-csubj-cop.html) – [dep](fi_ood-dep-dep.html) – [det](fi_ood-dep-det.html) – [discourse](fi_ood-dep-discourse.html) – [dislocated](fi_ood-dep-dislocated.html) – [fixed](fi_ood-dep-fixed.html) – [flat](fi_ood-dep-flat.html) – [flat:foreign](fi_ood-dep-flat-foreign.html) – [flat:name](fi_ood-dep-flat-name.html) – [goeswith](fi_ood-dep-goeswith.html) – [mark](fi_ood-dep-mark.html) – [nmod](fi_ood-dep-nmod.html) – [nmod:gobj](fi_ood-dep-nmod-gobj.html) – [nmod:gsubj](fi_ood-dep-nmod-gsubj.html) – [nmod:poss](fi_ood-dep-nmod-poss.html) – [nsubj](fi_ood-dep-nsubj.html) – [nsubj:cop](fi_ood-dep-nsubj-cop.html) – [nsubj:outer](fi_ood-dep-nsubj-outer.html) – [nummod](fi_ood-dep-nummod.html) – [obj](fi_ood-dep-obj.html) – [obl](fi_ood-dep-obl.html) – [orphan](fi_ood-dep-orphan.html) – [parataxis](fi_ood-dep-parataxis.html) – [punct](fi_ood-dep-punct.html) – [root](fi_ood-dep-root.html) – [vocative](fi_ood-dep-vocative.html) – [xcomp](fi_ood-dep-xcomp.html) – [xcomp:ds](fi_ood-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -1194,6 +1194,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>xcomp:ds</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

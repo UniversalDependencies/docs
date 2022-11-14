@@ -8,74 +8,84 @@ udver: '2'
 
 This relation is universal.
 
-4078 nodes (9%) are attached to their parents as `obj`.
+3429 nodes (8%) are attached to their parents as `obj`.
 
-3916 instances of `obj` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.77930358018637.
+3406 instances of `obj` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.48556430446194.
 
-The following 23 pairs of parts of speech are connected with `obj`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (3414; 84% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (327; 8% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (169; 4% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (88; 2% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 obj	color:blue
-1	Tôi	Tôi	PROPN	P	_	4	nsubj	_	_
-2	cũng	cũng	X	R	_	4	advmod	_	_
-3	đã	đã	X	R	_	4	advmod	_	_
-4	tham gia	tham gia	VERB	V	_	0	root	_	_
-5	quân đội	quân đội	NOUN	N	_	4	obj	_	_
-6	để	để	ADP	E	_	7	case	_	_
-7	chống	chống	VERB	V	_	4	mark	_	_
-8	phát xít	phát xít	NOUN	N	_	7	obj	_	_
-9	Đức	Đức	NOUN	Np	_	8	compound	_	_
-10	tại	tại	ADP	E	_	11	case	_	_
-11	Pháp	Pháp	NOUN	Np	_	8	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	4	punct	_	_
-
-~~~
+The following 24 pairs of parts of speech are connected with `obj`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (2873; 84% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (188; 5% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (144; 4% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (116; 3% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (22; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PART.html">PART</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 obj	color:blue
-1	lúc	lúc	NOUN	N	_	5	nmod	_	_
-2	đó	đó	PROPN	P	_	1	det	_	_
-3	nước	nước	NOUN	N	_	5	nsubj	_	_
-4	Pháp	Pháp	NOUN	Np	_	3	compound	_	_
-5	chuẩn bị	chuẩn bị	ADJ	A	_	0	root	_	_
-6	tấn công	tấn công	VERB	V	_	5	xcomp	_	_
-7	Ai Cập	Ai Cập	NOUN	Np	_	5	obj	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 11 obj	color:blue
-1	ấp úng	ấp úng	VERB	V	_	8	advcl	_	_
-2	trong	trong	ADP	E	_	3	case	_	_
-3	phòng	phòng	NOUN	N	_	1	obl	_	_
-4	giám đốc	giám đốc	NOUN	N	_	3	compound	_	SpaceAfter=No
-5	,	,	PUNCT	,	_	8	punct	_	_
-6	Tuấn	Tuấn	NOUN	Np	_	8	nsubj	_	_
-7	không	không	X	R	Polarity=Neg	8	advmod	_	_
-8	biết	biết	VERB	V	_	0	root	_	_
-9	cần	cần	VERB	V	_	8	xcomp	_	_
-10	hỏi	hỏi	VERB	V	_	9	xcomp	_	_
-11	gì	gì	PROPN	P	_	9	obj	_	_
-12	cho	cho	ADP	E	_	13	case	_	_
-13	đủ	đủ	ADJ	A	_	9	amod	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	8	punct	_	_
+# visual-style 9 10 obj	color:blue
+1	Đêm	đêm	NOUN	N	_	7	obl:tmod	_	_
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	đội	đội	NOUN	N	_	7	nsubj	_	_
+4	quân	quân	NOUN	N	_	3	compound	_	_
+5	từ	từ	ADP	Pre	_	6	case	_	_
+6	mặt đất	mặt đất	NOUN	N	_	7	obl:comp	_	_
+7	tỏa	tỏa	VERB	V	_	0	root	_	_
+8	lên	lên	ADV	Adv	_	7	compound:prt	_	_
+9	đặt	đặt	VERB	V	_	7	xcomp	_	_
+10	mìn	mìn	NOUN	N	_	9	obj	_	_
+11	gạt	gạt	VERB	V	_	10	compound:vmod	_	_
+12	,	,	PUNCT	,	_	13	punct	_	_
+13	gài	gài	VERB	V	_	9	conj	_	_
+14	chông	chông	NOUN	N	_	13	obj	_	_
+15	.	.	PUNCT	.	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 obj	color:blue
+1	Mục đích	mục đích	NOUN	N	_	5	nsubj	_	_
+2	của	của	ADP	Pre	_	4	case	_	_
+3	hai	hai	NUM	Num	_	4	nummod	_	_
+4	bà	bà	NOUN	N	_	1	nmod:poss	_	_
+5	là	là	AUX	V	_	0	root	_	_
+6	ông	ông	NOUN	Nc	_	7	clf:det	_	_
+7	Chương	Chương	PROPN	NNP	_	8	nsubj	_	_
+8	chán	chán	VERB	V	_	5	ccomp	_	_
+9	Hà Nội	Hà Nội	PROPN	NNP	_	8	obj	_	_
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	xin	xin	VERB	V	_	8	conj	_	_
+12	về	về	VERB	V	_	11	compound:svc	_	_
+13	.	.	PUNCT	.	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 obj	color:blue
+1	Cái	cái	NOUN	Nc	_	2	clf:det	_	_
+2	bẫy	bẫy	NOUN	N	_	4	nsubj	_	_
+3	"	"	PUNCT	``	_	4	punct	_	_
+4	sập	sập	VERB	V	_	0	root	_	_
+5	lại	lại	ADV	Adv	_	4	compound:prt	_	_
+6	"	"	PUNCT	``	_	4	punct	_	_
+7	và	và	CCONJ	CC	_	12	cc	_	_
+8	chính	chính	PART	Prt	_	10	discourse	_	_
+9	bọn	bọn	NOUN	Nc	_	10	clf:det	_	_
+10	Mỹ	Mỹ	PROPN	NNP	_	12	nsubj	_	_
+11	đã	đã	ADV	Adv	_	12	advmod	_	_
+12	đưa	đưa	VERB	V	_	4	conj	_	_
+13	mình	mình	PRON	Pro	_	12	obj	_	_
+14	vào	vào	ADP	Pre	_	15	case	_	_
+15	rọ	rọ	NOUN	N	_	12	obl:comp	_	_
+16	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

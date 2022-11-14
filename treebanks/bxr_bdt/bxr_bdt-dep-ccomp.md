@@ -11,7 +11,7 @@ This relation is universal.
 22 nodes (0%) are attached to their parents as `ccomp`.
 
 15 instances of `ccomp` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.77272727272727.
+Average distance between parent and child is 3.81818181818182.
 
 The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (20; 91% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (2; 9% instances).
 

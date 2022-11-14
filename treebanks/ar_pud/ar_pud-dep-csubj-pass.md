@@ -22,16 +22,16 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 csubj:pass	color:blue
-1	يعتقد	{iEotaqad_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	_
-2	أن	>an~a_1	SCONJ	IN	_	7	mark	_	_
-3	آخر	|xir_1	DET	PDT	Case=Acc	4	det	_	_
-4	دورة	daworap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
-5	ألعابٍ	laEob_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	4	nmod	_	_
-6	أولمبية	>uwlimobiy~_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	amod	_	_
-7	أقيمت	>aqAm_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	1	csubj:pass	_	_
-8	عام	EAm_1	ADV	RB	_	7	obl:tmod	_	_
-9	393	393_0	NUM	CD	Case=Gen	8	obl	_	SpaceAfter=No
-10	.	._0	PUNCT	.	_	1	punct	_	_
+1	يعتقد	اِعتَقَد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LId=ٱِعْتَقَد_1
+2	أن	أَنَّ	SCONJ	IN	_	7	mark	_	LId=أَنَّ_1
+3	آخر	آخِر	DET	PDT	Case=Acc	4	det	_	LId=آخِر_1
+4	دورة	دَورَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj:pass	_	LId=دَوْرَة_1
+5	ألعابٍ	لَعب	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	4	nmod	_	LId=لَعْب_1
+6	أولمبية	أُولِمبِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	amod	_	LId=أُولِمْبِيّ_1
+7	أقيمت	أَقَام	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	1	csubj:pass	_	LId=أَقام_1
+8	عام	عام	ADV	RB	_	7	obl:tmod	_	LId=عام_1
+9	393	393	NUM	CD	Case=Gen	8	obl	_	LId=٣٩٣_0|SpaceAfter=No
+10	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 ~~~
 
@@ -42,28 +42,28 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 csubj:pass	color:blue
-1	ثم	vum~a_1	PART	RP	_	2	compound:prt	_	_
-2	هناك	hunAka_1	ADV	RB	_	0	root	_	_
-3	قصص	qiS~ap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	2	nsubj	_	_
-4	يزعم	zaEam-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	acl:relcl	_	_
-5	أن	>an~a_1	SCONJ	IN	_	7	mark	_	SpaceAfter=No
-6	ها	hA	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
-7	حقيقية	Haqiyqiy~_1	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	csubj:pass	_	_
-8	تنشر	na$ar-u_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	acl:relcl	_	_
-9	ب	b	ADP	IN	_	10	case	_	SpaceAfter=No
-10	رفقة	rifoqap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	_
-11	سلسلة	silosilap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	_
-12	من	min_1	ADP	IN	_	13	case	_	_
-13	الصور	Suwrap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	nmod	_	_
-14	ذات	*At_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	amod	_	_
-15	المغزى	magozaY_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	_
-16	التي	Al~a*iy_1	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	17	nsubj	_	_
-17	تضم	Dam~-u_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	acl:relcl	_	_
-18	نصوصاً	naS~_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	17	obj	_	_
-19	متحركة	mutaHar~ik_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	18	amod	_	_
-20	تحت	taHota_1	ADP	IN	_	21	case	_	SpaceAfter=No
-21	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	17	obl	_	SpaceAfter=No
-22	.	._0	PUNCT	.	_	2	punct	_	_
+1	ثم	ثُمَّ	PART	RP	_	2	compound:prt	_	LId=ثُمَّ_1
+2	هناك	هُنَاكَ	ADV	RB	_	0	root	_	LId=هُناكَ_1
+3	قصص	قِصَّة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	2	nsubj	_	LId=قِصَّة_1
+4	يزعم	زَعَم	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	acl:relcl	_	LId=زَعَم-ُ_1
+5	أن	أَنَّ	SCONJ	IN	_	7	mark	_	LId=أَنَّ_1|SpaceAfter=No
+6	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
+7	حقيقية	حَقِيقِيّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	csubj:pass	_	LId=حَقِيقِيّ_1
+8	تنشر	نَشَر	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	acl:relcl	_	LId=نَشَر-ُ_1
+9	ب	بِ	ADP	IN	_	10	case	_	SpaceAfter=No
+10	رفقة	رِفقَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	LId=رِفْقَة_1
+11	سلسلة	سِلسِلَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	LId=سِلْسِلَة_1
+12	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
+13	الصور	صُورَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	nmod	_	LId=صُورَة_1
+14	ذات	ذات	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	amod	_	LId=ذات_1
+15	المغزى	مَغزَى	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	LId=مَغْزَى_1
+16	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	17	nsubj	_	LId=الَّذِي_1
+17	تضم	ضَمّ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	acl:relcl	_	LId=ضَمّ-ُ_1
+18	نصوصاً	نَصّ	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	17	obj	_	LId=نَصّ_1
+19	متحركة	مُتَحَرِّك	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	18	amod	_	LId=مُتَحَرِّك_1
+20	تحت	تَحتَ	ADP	IN	_	21	case	_	LId=تَحْتَ_1|SpaceAfter=No
+21	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	17	obl	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
 ~~~
 
@@ -74,22 +74,22 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 13 csubj:pass	color:blue
-1	عندما	Einod_1	ADP	IN	_	2	mark	_	_
-2	يموت	mAt-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	advcl	_	_
-3	الناس	nAs_1	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	_
-4	جراء	jar~A'_1	ADP	IN	_	5	case	_	_
-5	الشيخوخة	$ayoxuwxap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
-6	في	fiy_1	ADP	IN	_	7	case	_	_
-7	الهند	hinod_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
-8	,	,_0	PUNCT	,	_	2	punct	_	_
-9	يفترض	{ifotaraD_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	_
-10	ذلك	*`lika_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	9	mark	_	_
-11	أن	>an~a_1	SCONJ	IN	_	13	mark	_	_
-12	يكون	kAn-u_1	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	cop	_	_
-13	مدعاةً	madoEAp_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	9	csubj:pass	_	_
-14	ل	l	ADP	IN	_	15	case	_	SpaceAfter=No
-15	لاحتفال	{iHotifAl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
-16	.	._0	PUNCT	.	_	9	punct	_	_
+1	عندما	عِند	ADP	IN	_	2	mark	_	LId=عِنْد_1
+2	يموت	مات	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	advcl	_	LId=مات-ُ_1
+3	الناس	إِنسَان	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	LId=ناس_1
+4	جراء	جَرَّاء	ADP	IN	_	5	case	_	LId=جَرّاء_1
+5	الشيخوخة	شَيخُوخَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	LId=شَيْخُوخَة_1
+6	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
+7	الهند	هِند	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	LId=هِنْد_1|SpaceAfter=No
+8	,	,	PUNCT	,	_	2	punct	_	LId=,_0
+9	يفترض	اِفتَرَض	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	Gloss=supposed|LId=ٱِفْتَرَض_1
+10	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Gloss=that|LId=ذٰلِكَ_1
+11	أن	أَنَّ	SCONJ	IN	_	13	mark	_	Gloss=that|LId=أَنَّ_1
+12	يكون	كَان	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	cop	_	Gloss=is|LId=كان-ُ_1
+13	مدعاةً	مَدعاة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	9	csubj:pass	_	Gloss=pretense|LId=مَدْعاة_1
+14	ل	لِ	ADP	IN	_	15	case	_	Gloss=to|SpaceAfter=No
+15	لاحتفال	ٱِحتِفال	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	Gloss=celebration|LId=ٱِحْتِفال_1|SpaceAfter=No
+16	.	.	PUNCT	.	_	9	punct	_	LId=._0
 
 ~~~
 

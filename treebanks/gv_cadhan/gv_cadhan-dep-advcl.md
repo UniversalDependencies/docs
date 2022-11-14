@@ -17,23 +17,25 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 advcl	color:blue
-1	Ren	jean	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
-2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	gearey	gearey	NOUN	_	_	1	obj	_	_
-4	choud	choud	SCONJ	_	_	6	mark	_	_
-5	as	as	SCONJ	_	_	4	fixed	_	_
-6	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	1	advcl	_	_
-7	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
-8	jeeaghyn	jeeaghyn	NOUN	_	_	6	xcomp	_	_
-9	cour	cour	ADP	_	_	11	case	_	_
-10	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
-11	tholtan	tholtan	NOUN	_	_	6	obl	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 10 advcl	color:blue
+1	Cha	cha	PART	_	PartType=Vb|Polarity=Neg	2	mark	_	_
+2	row	bee	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
+3	çhengey	çhengey	NOUN	_	_	2	nsubj	_	_
+4	elley	elley	ADJ	_	_	3	amod	_	_
+5	erbee	erbee	ADJ	_	_	3	amod	_	_
+6	foshlit	foshlit	ADJ	_	_	2	xcomp:pred	_	_
+7	da	da	ADP	_	_	8	case	_	_
+8	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	6	obl	_	_
+9	tra	tra	SCONJ	_	_	10	mark	_	_
+10	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	2	advcl	_	_
+11	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+12	ny	ny	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	_
+13	aegid	aegid	NOUN	_	_	10	xcomp:pred	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

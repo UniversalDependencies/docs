@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (6%) are attached to their parents as `nsubj`.
+10 nodes (6%) are attached to their parents as `nsubj`.
 
-5 instances of `nsubj` (56%) are right-to-left (child precedes parent).
+6 instances of `nsubj` (60%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.
 
-The following 2 pairs of parts of speech are connected with `nsubj`: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-PRON.html">PRON</a></tt> (6; 67% instances), <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (3; 33% instances).
+The following 2 pairs of parts of speech are connected with `nsubj`: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-PRON.html">PRON</a></tt> (7; 70% instances), <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (3; 30% instances).
 
 
 ~~~ conllu

@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-GSDLUW: Relations: `csubj`
 
 This relation is universal.
+There are 1 language-specific subtypes of `csubj`: <tt><a href="ja_gsdluw-dep-csubj-outer.html">csubj:outer</a></tt>.
 
-161 nodes (0%) are attached to their parents as `csubj`.
+158 nodes (0%) are attached to their parents as `csubj`.
 
-161 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.11180124223602.
+158 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.05696202531646.
 
-The following 13 pairs of parts of speech are connected with `csubj`: <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (91; 57% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (19; 12% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (14; 9% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (11; 7% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (8; 5% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `csubj`: <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (89; 56% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (19; 12% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (14; 9% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (11; 7% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (8; 5% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -47,7 +48,7 @@ The following 13 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 14 10 csubj	color:blue
 1	店舗	店舗	NOUN	名詞-普通名詞-一般	_	3	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,店舗,店舗,店舗,テンポ,,,テンポ,テンポ,店舗
 2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の
-3	見た目	見た目	NOUN	名詞-普通名詞-一般	_	14	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;;,見る;た;目,見;た;目,見る;た;目,ミ;タ;メ,;;,;;,ミル;タ;メ,ミタメ,見た目
+3	見た目	見た目	NOUN	名詞-普通名詞-一般	_	14	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;;,見る;た;目,見;た;目,見る;た;目,ミ;タ;メ,;;,;;,ミル;タ;メ,ミタメ,見た目
 4	が	が	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,が,が,が,ガ,,,ガ,ガ,が
 5	居酒屋大	居酒屋大	NOUN	名詞-普通名詞-一般	_	7	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,居酒屋;大,居酒屋;大,居酒屋;大,イザカヤ;ダイ,;,;,イザカヤ;ダイ,イザカヤダイ,居酒屋大
 6	の	の	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の

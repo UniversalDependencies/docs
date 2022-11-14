@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `dislocated`.
+4 nodes (0%) are attached to their parents as `dislocated`.
 
-2 instances of `dislocated` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.33333333333333.
+3 instances of `dislocated` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.5.
 
-The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 25% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -31,6 +31,29 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 7	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	2	dislocated	_	GTtags=Sem/Hum,Sg,Nom
 8	Peʹll	Peʹll	NOUN	N	Case=Nom|Number=Sing	7	appos	_	GTtags=Prop,Sg,Nom|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 dislocated	color:blue
+1	Peʹll	Peʹll	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	tõt-i	tõt	PRON	_	Case=Nom|Clitic=AddI|Number=Sing|PronType=Dem	1	dislocated	_	_
+3	mõõni	mõõnnâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	kuâŋŋa	kuâŋŋa	ADV	_	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	ceälkk	ceäʹlǩǩed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	11	punct	_	_
+8	”	”	PUNCT	_	_	11	punct	_	SpaceAfter=No
+9	Mâiʹd	mâiʹd	PRON	_	_	11	obj	_	_
+10	ooumaž	ooumaž	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing	11	nsubj	_	_
+11	tuejjad	tuejjeed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	parataxis	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+13	”	”	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

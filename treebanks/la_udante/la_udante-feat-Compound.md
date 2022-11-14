@@ -9,94 +9,94 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-1479 tokens (3%) have a non-empty value of `Compound`.
+1469 tokens (3%) have a non-empty value of `Compound`.
 332 types (3%) occur at least once with a non-empty value of `Compound`.
-179 lemmas (3%) occur at least once with a non-empty value of `Compound`.
-The feature is used with 13 part-of-speech tags: <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (368; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (351; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (182; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (146; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (117; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (116; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (76; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (27; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+180 lemmas (3%) occur at least once with a non-empty value of `Compound`.
+The feature is used with 13 part-of-speech tags: <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (402; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (342; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (181; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (118; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (117; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (109; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (77; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (27; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-368 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (12% of all `ADV` tokens) have a non-empty value of `Compound`.
+402 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (13% of all `ADV` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `ADV` and `Compound` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (359; 98%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (277; 75%).
+The most frequent other feature values with which `ADV` and `Compound` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (399; 99%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (340; 85%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (275; 68%).
 
 `ADV` tokens may have the following values of `Compound`:
 
-* `Yes` (368; 100% of non-empty `Compound`): <em>etiam, deinde, adhuc, ideo, preterea, forsan, adeo, postea, quasi, proinde</em>
+* `Yes` (402; 100% of non-empty `Compound`): <em>etiam, deinde, quare, ideo, adhuc, preterea, forsan, adeo, postea, aliquando</em>
 
 `Compound` seems to be **lexical feature** of `ADV`. 100% lemmas (57) occur only with one value of `Compound`.
 
 ### `SCONJ`
 
-351 <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> tokens (14% of all `SCONJ` tokens) have a non-empty value of `Compound`.
+342 <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> tokens (14% of all `SCONJ` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `SCONJ` and `Compound` co-occurred: <tt><a href="la_udante-feat-ConjType.html">ConjType</a></tt><tt>=Cmpr</tt> (243; 69%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (179; 51%).
+The most frequent other feature values with which `SCONJ` and `Compound` co-occurred: <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (174; 51%).
 
 `SCONJ` tokens may have the following values of `Compound`:
 
-* `Yes` (351; 100% of non-empty `Compound`): <em>sicut, prout, tanquam, quemadmodum, velut, quoniam, etsi, quasi, quamvis, postquam</em>
+* `Yes` (342; 100% of non-empty `Compound`): <em>sicut, velut, prout, tanquam, quemadmodum, quoniam, quasi, quamvis, postquam, dummodo</em>
 
-`Compound` seems to be **lexical feature** of `SCONJ`. 100% lemmas (19) occur only with one value of `Compound`.
+`Compound` seems to be **lexical feature** of `SCONJ`. 100% lemmas (18) occur only with one value of `Compound`.
 
 ### `DET`
 
-182 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Compound`.
+181 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `DET` and `Compound` co-occurred: <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (182; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (182; 100%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (148; 81%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (140; 77%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (140; 77%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (107; 59%).
+The most frequent other feature values with which `DET` and `Compound` co-occurred: <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (181; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (181; 100%), <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (173; 96%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (148; 82%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (139; 77%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (139; 77%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (107; 59%).
 
 `DET` tokens may have the following values of `Compound`:
 
-* `Yes` (182; 100% of non-empty `Compound`): <em>huiusmodi, aliqua, aliquod, aliquo, quilibet, quicunque, quodcunque, aliquam, quelibet, qualibet</em>
+* `Yes` (181; 100% of non-empty `Compound`): <em>huiusmodi, aliqua, aliquod, aliquo, quilibet, quodcunque, aliquam, quelibet, quicunque, qualibet</em>
 
 `Compound` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `Compound`.
 
-### `CCONJ`
-
-146 <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> tokens (5% of all `CCONJ` tokens) have a non-empty value of `Compound`.
-
-`CCONJ` tokens may have the following values of `Compound`:
-
-* `Yes` (146; 100% of non-empty `Compound`): <em>scilicet, quare, videlicet, quapropter, quinetiam, idest, Atqui</em>
-
 ### `ADJ`
 
-117 <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Compound`.
+118 <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `ADJ` and `Compound` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (110; 94%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (98; 84%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt> (73; 62%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (72; 62%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (64; 55%).
+The most frequent other feature values with which `ADJ` and `Compound` co-occurred: <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (118; 100%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (112; 95%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (99; 84%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt> (73; 62%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (73; 62%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (64; 54%).
 
 `ADJ` tokens may have the following values of `Compound`:
 
-* `Yes` (117; 100% of non-empty `Compound`): <em>manifestum, manifesta, duplex, duplici, duplicem, manifestam, manifestis, manifestissimam, participes, primogenitus</em>
+* `Yes` (118; 100% of non-empty `Compound`): <em>manifestum, manifesta, duplex, duplici, duplicem, manifestam, manifestis, manifestissimam, participes, primogenitus</em>
 
-`Compound` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `Compound`.
+`Compound` seems to be **lexical feature** of `ADJ`. 100% lemmas (32) occur only with one value of `Compound`.
 
 ### `NOUN`
 
-116 <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Compound`.
+117 <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `NOUN` and `Compound` co-occurred: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt> (92; 79%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (88; 76%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (78; 67%).
+The most frequent other feature values with which `NOUN` and `Compound` co-occurred: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt> (92; 79%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (88; 75%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (79; 68%).
 
 `NOUN` tokens may have the following values of `Compound`:
 
-* `Yes` (116; 100% of non-empty `Compound`): <em>principem, iurisdictio, iurisdictionem, princeps, principe, principibus, principes, principum, Pontificis, iurisdictionis</em>
+* `Yes` (117; 100% of non-empty `Compound`): <em>principem, iurisdictio, iurisdictionem, princeps, principe, principibus, principes, principum, Pontificis, iurisdictionis</em>
 
-`Compound` seems to be **lexical feature** of `NOUN`. 100% lemmas (24) occur only with one value of `Compound`.
+`Compound` seems to be **lexical feature** of `NOUN`. 100% lemmas (25) occur only with one value of `Compound`.
+
+### `CCONJ`
+
+109 <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> tokens (4% of all `CCONJ` tokens) have a non-empty value of `Compound`.
+
+`CCONJ` tokens may have the following values of `Compound`:
+
+* `Yes` (109; 100% of non-empty `Compound`): <em>scilicet, videlicet, quapropter, quinetiam, idest, Atqui</em>
 
 ### `PRON`
 
-76 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Compound`.
+77 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `PRON` and `Compound` co-occurred: <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (65; 86%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57; 75%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (52; 68%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (48; 63%).
+The most frequent other feature values with which `PRON` and `Compound` co-occurred: <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (77; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (68; 88%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (65; 84%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58; 75%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (52; 68%).
 
 `PRON` tokens may have the following values of `Compound`:
 
-* `Yes` (76; 100% of non-empty `Compound`): <em>aliquid, invicem, alicuius, aliquo, aliqua, aliquis, aliquorum, aliquam, aliquos, cuiuscunque</em>
+* `Yes` (77; 100% of non-empty `Compound`): <em>aliquid, invicem, alicuius, aliquo, aliqua, aliquis, aliquorum, quicunque, aliquam, aliquos</em>
 
 ### `VERB`
 
 76 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `VERB` and `Compound` co-occurred: <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (58; 76%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatA</tt> (53; 70%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (50; 66%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (48; 63%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (47; 62%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (47; 62%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (40; 53%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (40; 53%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (39; 51%).
+The most frequent other feature values with which `VERB` and `Compound` co-occurred: <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (53; 70%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (47; 62%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (47; 62%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (47; 62%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatA</tt> (46; 61%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (40; 53%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (40; 53%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (40; 53%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (39; 51%).
 
 `VERB` tokens may have the following values of `Compound`:
 
@@ -126,9 +126,9 @@ The most frequent other feature values with which `X` and `Compound` co-occurred
 
 ### `NUM`
 
-6 <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Compound`.
+6 <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> tokens (4% of all `NUM` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `NUM` and `Compound` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=Ind</tt> (6; 100%), <tt><a href="la_udante-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (6; 100%), <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (6; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt> (6; 100%).
+The most frequent other feature values with which `NUM` and `Compound` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (6; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%).
 
 `NUM` tokens may have the following values of `Compound`:
 
@@ -148,8 +148,6 @@ The most frequent other feature values with which `PROPN` and `Compound` co-occu
 
 1 <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `ADP` and `Compound` co-occurred: <tt><a href="la_udante-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (1; 100%).
-
 `ADP` tokens may have the following values of `Compound`:
 
 * `Yes` (1; 100% of non-empty `Compound`): <em>pridie</em>
@@ -157,5 +155,5 @@ The most frequent other feature values with which `ADP` and `Compound` co-occurr
 ## Relations with Agreement in `Compound`
 
 The 10 most frequent relations where parent and child node agree in `Compound`:
-<tt>ADJ --[<tt><a href="la_udante-dep-discourse.html">discourse</a></tt>]--> CCONJ</tt> (1; 100%).
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (1; 100%).
 

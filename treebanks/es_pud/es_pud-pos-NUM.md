@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>_, dos, 1, 10, 3, cuatro, mil, tres, seis
 
 The 10 most frequent `NUM` types:  <em>dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1335, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1314, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 863, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 307, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 200, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 54, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_pud-pos-X.html">X</a></tt> 1), <em>iii</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>2º</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>v</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1332, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1309, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 862, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 307, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 200, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 53, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_pud-pos-X.html">X</a></tt> 1), <em>iii</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>2º</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>v</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>III</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>un</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 242, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>2º</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>V</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>una</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 172, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1)
 
@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>III</em> (<tt><a href="es_pud-pos-ADJ
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.084906 (the average of all parts of speech is 1.680707).
+The form / lemma ratio of `NUM` is 1.084906 (the average of all parts of speech is 1.678426).
 
 The 1st highest number of forms (33) was observed with the lemma “_”: <em>10, 10.000, 12.000, 125, 15.001, 168 000, 19.999, 23:45, 3.000, 3000, 33, 330, 330 000, 34, 36, 360, 5.000, 500, 6.30, 760, 90, cincuenta, cuarenta, cuatro, diez, dos, nueve, ocho, seis, siete, treinta, tres, una</em>.
 

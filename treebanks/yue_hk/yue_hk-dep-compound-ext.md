@@ -55,35 +55,35 @@ The following 6 pairs of parts of speech are connected with `compound:ext`: <tt>
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 14 compound:ext	color:blue
-1	選	_	VERB	_	_	5	reparandum	_	SpaceAfter=No
-2	-	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	《	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
-4	議事	_	VERB	_	_	5	acl	_	SpaceAfter=No
-5	規則	_	NOUN	_	_	9	obl	_	SpaceAfter=No
-6	》	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
-7	裏便	_	NOUN	_	_	5	case:loc	_	SpaceAfter=No
-8	，	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	係	_	VERB	_	_	0	root	_	SpaceAfter=No
-10	有	_	VERB	_	_	13	reparandum	_	SpaceAfter=No
-11	清楚	_	ADJ	_	_	10	obj	_	SpaceAfter=No
-12	-	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-13	講	_	VERB	_	_	9	ccomp	_	SpaceAfter=No
-14	到	_	ADP	_	_	15	compound:ext	_	SpaceAfter=No
-15	明	_	ADJ	_	_	13	xcomp	_	SpaceAfter=No
-16	，	_	PUNCT	_	_	13	punct	_	SpaceAfter=No
-17	我哋	_	PRON	_	_	28	nmod	_	SpaceAfter=No
-18	呢	_	DET	_	_	28	det	_	SpaceAfter=No
-19	一	_	NUM	_	_	28	nummod	_	SpaceAfter=No
-20	個	_	NOUN	_	NounType=Clf	19	clf	_	SpaceAfter=No
-21	，	_	PUNCT	_	_	28	punct	_	SpaceAfter=No
-22	由	_	ADP	_	_	23	mark	_	SpaceAfter=No
-23	宣誓	_	VERB	_	_	28	acl	_	SpaceAfter=No
-24	去到	_	ADP	_	_	25	mark	_	SpaceAfter=No
-25	選	_	VERB	_	_	28	acl	_	SpaceAfter=No
-26	主席	_	NOUN	_	_	25	obj	_	SpaceAfter=No
-27	嘅	_	PART	_	_	23	mark:rel	_	SpaceAfter=No
-28	程序	_	NOUN	_	_	13	obj	_	SpaceAfter=No
-29	。	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
+1	選	選	VERB	_	_	5	reparandum	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	《	《	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	議事	議事	VERB	_	_	5	acl	_	SpaceAfter=No
+5	規則	規則	NOUN	_	_	9	obl	_	SpaceAfter=No
+6	》	》	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	裏便	裏便	NOUN	_	_	5	case:loc	_	SpaceAfter=No
+8	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	係	係	VERB	_	_	0	root	_	SpaceAfter=No
+10	有	有	VERB	_	_	13	reparandum	_	SpaceAfter=No
+11	清楚	清楚	ADJ	_	_	10	obj	_	SpaceAfter=No
+12	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+13	講	講	VERB	_	_	9	ccomp	_	SpaceAfter=No
+14	到	到	ADP	_	_	15	compound:ext	_	SpaceAfter=No
+15	明	明	ADJ	_	_	13	xcomp	_	SpaceAfter=No
+16	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
+17	我哋	我哋	PRON	_	_	28	nmod	_	SpaceAfter=No
+18	呢	呢	DET	_	_	28	det	_	SpaceAfter=No
+19	一	一	NUM	_	_	28	nummod	_	SpaceAfter=No
+20	個	個	NOUN	_	NounType=Clf	19	clf	_	SpaceAfter=No
+21	，	，	PUNCT	_	_	28	punct	_	SpaceAfter=No
+22	由	由	ADP	_	_	23	mark	_	SpaceAfter=No
+23	宣誓	宣誓	VERB	_	_	28	acl	_	SpaceAfter=No
+24	去到	去到	ADP	_	_	25	mark	_	SpaceAfter=No
+25	選	選	VERB	_	_	28	acl	_	SpaceAfter=No
+26	主席	主席	NOUN	_	_	25	obj	_	SpaceAfter=No
+27	嘅	嘅	PART	_	_	23	mark:rel	_	SpaceAfter=No
+28	程序	程序	NOUN	_	_	13	obj	_	SpaceAfter=No
+29	。	。	PUNCT	_	_	9	punct	_	SpaceAfter=No
 
 ~~~
 

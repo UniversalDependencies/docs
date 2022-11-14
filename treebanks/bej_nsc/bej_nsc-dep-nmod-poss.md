@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 5	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=1085|AlignEnd=1815|TokenType=Break
 6	hoː	_	PRON	PRO	Case=Dat|Number=Sing|Person=1	7	iobj	_	AlignBegin=1815|AlignEnd=2092|GE=[1SG].[DAT]|RX=[PRO]|TokenType=Stem
 7	kʷiɖja	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	8	parataxis	_	AlignBegin=2092|AlignEnd=2370|GE=disappear-[PFV].[3SG].[M]|Gloss=disappear|MGloss=disappear-PFV.3SG.M|MSeg=kʷiɖ-ja|ReportedSpeech=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Stem
-8	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=2370|AlignEnd=2648|GE=[3SG].[M]-say\[PFV]|Gloss=say|MGloss=3SG.M-say\[PFV]|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Stem
+8	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=2370|AlignEnd=2648|GE=[3SG].[M]-say\[PFV]|Gloss=say|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Stem
 9	//	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=2648|AlignEnd=2926|TokenType=Break
 
 ~~~
@@ -66,14 +66,14 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 23	ti=	_	DET	DET	Definite=Def|Gender=Fem	24	det	_	AlignBegin=151006|AlignEnd=151181|GE=[DEF].[F]=|RX=[DET]=|TokenType=Clit
 24	sitoːboːj	_	NOUN	V1,IRG	_	26	obj	_	AlignBegin=151181|AlignEnd=151533|GE=convey-[N].[AC]|Gloss=convey|MGloss=convey-N.AC|MSeg=sitoːb-oːj|RX=[V1].[IRG]-[N].[V]|TokenType=Stem
 25	ti=	_	SCONJ	REL	Definite=Def|Gender=Fem	26	mark	_	AlignBegin=151533|AlignEnd=151664|GE=[DEF].[F]=|RX=[REL]=|TokenType=Clit
-26	astoːbi	_	VERB	V1,IRG	Aspect=Imp|Number=Sing|VerbClass=1	28	ccomp	_	AlignBegin=151664|AlignEnd=151928|GE=[1SG]-convey\[IPFV]|Gloss=convey|MGloss=1SG-convey\[IPFV]|MSeg=a-stoːbi|RX=[PNG]-[V1].[IRG]|TokenType=Stem
+26	astoːbi	_	VERB	V1,IRG	Aspect=Imp|Number=Sing|VerbClass=1	28	ccomp	_	AlignBegin=151664|AlignEnd=151928|GE=[1SG]-convey\[IPFV]|Gloss=convey|MGloss=1SG-convey\IPFV|MSeg=a-stoːbi|RX=[PNG]-[V1].[IRG]|TokenType=Stem
 27	=jeːt	_	SCONJ	CONJ	Gender=Fem	26	mark	_	AlignBegin=151928|AlignEnd=152060|GE==[REL].[F]|RX==[CONJ]|TokenType=Clit
-28	akteːn	_	VERB	V1,IRG	Aspect=Imp|Number=Sing|VerbClass=1|Voice=Mid	31	advcl	_	AlignBegin=152060|AlignEnd=152411|GE=[1SG]-know\[MID].[IPFV]|Gloss=know|MGloss=1SG-know\[MID].[IPFV]|MSeg=a-kteːn|RX=[PNG]-[V1].[DER].[IRG]|TokenType=Stem
+28	akteːn	_	VERB	V1,IRG	Aspect=Imp|Number=Sing|VerbClass=1|Voice=Mid	31	advcl	_	AlignBegin=152060|AlignEnd=152411|GE=[1SG]-know\[MID].[IPFV]|Gloss=know|MGloss=1SG-know\MID.IPFV|MSeg=a-kteːn|RX=[PNG]-[V1].[DER].[IRG]|TokenType=Stem
 29	=aj	_	SCONJ	CONJ	_	28	mark	_	AlignBegin=152411|AlignEnd=152587|GE==[CSL]|RX==[CONJ]|TokenType=Clit
 30	//	_	PUNCT	PUNCT	_	28	punct	_	AlignBegin=152587|AlignEnd=153596|TokenType=Break
 31	sallama	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	33	parataxis	_	AlignBegin=153596|AlignEnd=153882|GE=give-[IMP].[SG].[M]|Gloss=give|MGloss=give-IMP.SG.M|MSeg=sallam-a|ReportedSpeech=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Stem
 32	=heːb	_	PRON	PRO	Number=Sing|Person=1	31	obj	_	AlignBegin=153882|AlignEnd=154026|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
-33	tini	_	VERB	V1,IRG	Aspect=Perf|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=154026|AlignEnd=154241|GE=[3SG].[F]-say\[PFV]|Gloss=say|MGloss=3SG.F-say\[PFV]|MSeg=ti-ni|RX=[PNG]-[V1].[IRG]|TokenType=Stem
+33	tini	_	VERB	V1,IRG	Aspect=Perf|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=154026|AlignEnd=154241|GE=[3SG].[F]-say\[PFV]|Gloss=say|MGloss=3SG.F-say\PFV|MSeg=ti-ni|RX=[PNG]-[V1].[IRG]|TokenType=Stem
 34	=t	_	CCONJ	CCONJ	_	33	cc	_	AlignBegin=154241|AlignEnd=154348|GE==[COORD]|RX==[CONJ]|TokenType=Clit
 35	=heːb	_	PRON	PRO	Number=Sing|Person=1	33	obj	_	AlignBegin=154348|AlignEnd=154456|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
 36	/	_	PUNCT	PUNCT	_	33	punct	_	AlignBegin=154456|AlignEnd=154887|TokenType=Break

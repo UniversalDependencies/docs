@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-26 nodes (1%) are attached to their parents as `nummod`.
+34 nodes (1%) are attached to their parents as `nummod`.
 
-26 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.03846153846154.
+34 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17647058823529.
 
-The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt> (26; 100% instances).
+The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt> (34; 100% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	,	,	PUNCT	CLB	_	4	punct	_	_
 6	касат	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	10	punct	_	_
-8	козонга	козонга	ADV	Adv	PronType=Ind	10	advmod:lto	_	_
+8	козонга	козонга	ADV	Adv	PronType=Ind	10	advmod:lmod	_	_
 9	аф	аф	AUX	Aux	Polarity=Neg	10	aux:neg	_	_
 10	туят	тумс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	6	conj	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	6	punct	_	_

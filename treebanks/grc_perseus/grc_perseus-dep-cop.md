@@ -10,10 +10,10 @@ This relation is universal.
 
 1864 nodes (1%) are attached to their parents as `cop`.
 
-1235 instances of `cop` (66%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.14538626609442.
+1236 instances of `cop` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.14592274678112.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1017; 55% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (527; 28% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (158; 8% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (117; 6% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (33; 2% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (1017; 55% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (527; 28% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (158; 8% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (117; 6% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (33; 2% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 3	ταῦτα	οὗτος	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
 4	τῶν	ὁ	DET	l-p---ng-	Case=Gen|Gender=Neut|Number=Plur	5	det	_	_
 5	ναυτικῶν	ναυτικός	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
-6	ἦν	εἰμί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
+6	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
 7	.	.	PUNCT	u--------	_	1	punct	_	_
 
 ~~~
@@ -40,7 +40,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
 1	Ἐπίδαμνός	Ἐπίδαμνος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	ἐστι	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+2	ἐστι	εἰμί	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
 3	πόλις	πόλις	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 4	ἐν	εἰς	ADP	r--------	_	5	case	_	_
 5	δεξιᾷ	δεξιά	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 7	δἰ	διά	ADP	r--------	_	8	case	_	_
 8	Ἀλκιβιάδην	Ἀλκιβιάδης	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
 9	λόγος	λόγος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-10	ἦν	εἰμί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No
+10	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No
 11	·	·	PUNCT	u--------	_	4	punct	_	_
 
 ~~~

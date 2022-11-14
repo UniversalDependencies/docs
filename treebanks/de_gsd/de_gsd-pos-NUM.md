@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>zwei</em> (<tt><a href="de_gsd-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.005859 (the average of all parts of speech is 1.187208).
+The form / lemma ratio of `NUM` is 1.005859 (the average of all parts of speech is 1.187276).
 
 The 1st highest number of forms (5) was observed with the lemma “ein”: <em>ein, eine, einem, einen, einer</em>.
 

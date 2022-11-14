@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_rhapsodie-dep-nsubj-caus.html">nsubj:caus</a></tt>.
 
-136 nodes (0%) are attached to their parents as `nsubj:pass`.
+134 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-132 instances of `nsubj:pass` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.33088235294118.
+131 instances of `nsubj:pass` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.33582089552239.
 
-The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (94; 69% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (40; 29% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (93; 69% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (39; 29% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -53,7 +53,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 10	dont	dont	PRON	_	PronType=Rel	14	obj	_	_
 11	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 12	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	14	iobj	_	_
-13	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux:tense	_	_
 14	parlé	parler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -67,11 +67,11 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 4 nsubj:pass	color:blue
 1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	Overlap=Rhap_D2010-52|SpaceAfter=No
-2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlap=Rhap_D2010-52|SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	Overlap=Rhap_D2010-52|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Overlap=Rhap_D2010-52
 4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj:pass	_	Overlap=Rhap_D2010-52|SpaceAfter=No
-5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	reparandum	_	Overlap=Rhap_D2010-52|SpaceAfter=No
-6	…	…	PUNCT	_	_	2	punct	_	Overlap=Rhap_D2010-52
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlap=Rhap_D2010-52|SpaceAfter=No
+6	…	…	PUNCT	_	_	5	punct	_	Overlap=Rhap_D2010-52
 
 ~~~
 

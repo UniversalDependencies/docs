@@ -9,23 +9,23 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Deg`, `Loc`, `Man`, `Tim`.
 
-119 tokens (4%) have a non-empty value of `AdvType`.
+121 tokens (4%) have a non-empty value of `AdvType`.
 52 types (3%) occur at least once with a non-empty value of `AdvType`.
 42 lemmas (4%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (117; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (119; 3% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-117 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (34% of all `ADV` tokens) have a non-empty value of `AdvType`.
+119 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (33% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (114; 97%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (116; 97%).
 
 `ADV` tokens may have the following values of `AdvType`:
 
-* `Deg` (30; 26% of non-empty `AdvType`): <em>пяк, сяда, сяшкава, конашкава, тяшкава, ёфcи, ёфси</em>
+* `Deg` (32; 27% of non-empty `AdvType`): <em>пяк, сяда, сяшкава, конашкава, тяшкава, ёфcи, ёфси</em>
 * `Loc` (4; 3% of non-empty `AdvType`): <em>тов, алу, тяза</em>
 * `Man` (9; 8% of non-empty `AdvType`): <em>цебярьста, мазыста, весяласта, павазуста, хитрайста, цебярняста</em>
-* `Tim` (74; 63% of non-empty `AdvType`): <em>нинге, ни, эста, тага, рана, Кизонда, илять, шобдава, обедшкада, сёксенда</em>
+* `Tim` (74; 62% of non-empty `AdvType`): <em>нинге, ни, эста, тага, рана, Кизонда, илять, шобдава, обедшкада, сёксенда</em>
 
 <table>
   <tr><th>Paradigm <i>тяшкава</i></th><th><tt>Deg</tt></th><th><tt>Tim</tt></th></tr>
@@ -46,9 +46,7 @@ The most frequent other feature values with which `NOUN` and `AdvType` co-occurr
 
 ### `SCONJ`
 
-1 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (6% of all `SCONJ` tokens) have a non-empty value of `AdvType`.
-
-The most frequent other feature values with which `SCONJ` and `AdvType` co-occurred: <tt><a href="mdf_jr-feat-Style.html">Style</a></tt><tt>=Ped</tt> (1; 100%).
+1 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (5% of all `SCONJ` tokens) have a non-empty value of `AdvType`.
 
 `SCONJ` tokens may have the following values of `AdvType`:
 

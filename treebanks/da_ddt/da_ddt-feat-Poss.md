@@ -36,5 +36,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (16; 100% of non-empty `Poss`): <em>deres, hans, min, sin, sine, hendes, mit, sit, vore</em>
-* `EMPTY` (6784): <em>det, han, jeg, der, vi, de, man, sig, hun, som</em>
+* `EMPTY` (7186): <em>det, der, han, jeg, vi, de, man, sig, hun, som</em>
 

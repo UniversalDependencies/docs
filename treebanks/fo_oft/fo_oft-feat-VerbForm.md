@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fo_oft-pos-VERB.htm
 
 ### `VERB`
 
-189 <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+189 <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fo_oft-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (189; 100%), <tt><a href="fo_oft-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (182; 96%), <tt><a href="fo_oft-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (173; 92%), <tt><a href="fo_oft-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (173; 92%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Inf` (107; 57% of non-empty `VerbForm`): <em>síggja, fáa, gera, koma, byggja, eta, hava, ganga, kasta, styrkja</em>
 * `Part` (16; 8% of non-empty `VerbForm`): <em>nevndur, Sameindu, fingin, flettir, fluttur, framdur, gjørdur, hóskandi, kendastur, keyptir</em>
 * `Sup` (66; 35% of non-empty `VerbForm`): <em>gjørt, kent, lagt, sæst, dyrkað, endurreist, friðað, funnið, havt, loyvt</em>
-* `EMPTY` (372): <em>býr, hevur, liggur, Sí, kom, eru, fer, fór, er, stendur</em>
+* `EMPTY` (384): <em>býr, hevur, kom, liggur, Sí, eru, fer, varð, fór, er</em>
 
 <table>
   <tr><th>Paradigm <i>gera</i></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Inf` (7; 39% of non-empty `VerbForm`): <em>vera</em>
 * `Sup` (11; 61% of non-empty `VerbForm`): <em>verið</em>
-* `EMPTY` (961): <em>er, eru, var, vóru, varð, verður, hevur, kann, skal, hava</em>
+* `EMPTY` (949): <em>er, eru, var, vóru, hevur, verður, varð, kann, skal, hava</em>
 
 <table>
   <tr><th>Paradigm <i>vera</i></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th></tr>

@@ -8,56 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-56 nodes (0%) are attached to their parents as `compound`.
+66 nodes (0%) are attached to their parents as `compound`.
 
-56 instances of `compound` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21428571428571.
+66 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1969696969697.
 
-The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (28; 50% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (12; 21% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (4; 7% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (32; 48% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (12; 18% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (5; 8% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (4; 6% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (3; 5% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 25 23 compound	color:blue
-1	А	а	CCONJ	_	_	2	cc	_	_
-2	привито	привити	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	г.	государь	NOUN	_	Abbr=Yes	2	parataxis	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	к	къ	ADP	_	_	8	case	_	_
-7	тем	тотъ	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	_
-8	пенькам	пенекъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	2	obl	_	_
-9	московским	московский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
-10	150	150	NUM	_	Case=Nom|NumForm=Digit	11	nummod:gov	_	_
-11	черенков	черенокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nsubj:pass	_	SpaceAfter=No
-12	;	;	PUNCT	_	_	17	punct	_	_
-13	да	да	CCONJ	_	_	17	cc	_	_
-14	к	къ	ADP	_	_	16	case	_	_
-15	старым	старый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	16	amod	_	_
-16	пенькам	пенекъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	17	obl	_	_
-17	привито	привити	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	conj	_	_
-18	в	въ	ADP	_	_	19	case	_	_
-19	Павловском	Павловское	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	17	obl	_	_
-20	и	и	CCONJ	_	_	22	cc	_	_
-21	на	на	ADP	_	_	22	case	_	_
-22	Силине	Силино	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	19	conj	_	_
-23	100	100	NUM	_	Case=Nom|NumForm=Digit	25	compound	_	_
-24	же	же	PART	_	_	23	advmod	_	_
-25	50	50	NUM	_	Case=Nom|NumForm=Digit	26	nummod:gov	_	_
-26	черенков	черенокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	nsubj:pass	_	SpaceAfter=No
-27	;	;	PUNCT	_	_	33	punct	_	_
-28	и	и	CCONJ	_	_	33	cc	_	_
-29	всево	всего	ADV	_	Degree=Pos	33	advmod	_	SpaceAfter=No
-30	,	,	PUNCT	_	_	31	punct	_	_
-31	г.	государь	NOUN	_	Abbr=Yes	29	parataxis	_	SpaceAfter=No
-32	,	,	PUNCT	_	_	31	punct	_	_
-33	привито	привити	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	conj	_	_
-34	300	300	NUM	_	Case=Nom|NumForm=Digit	33	nummod:gov	_	_
-35	черенков	черенокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	33	nsubj:pass	_	SpaceAfter=No
-36	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 compound	color:blue
+1	Да	да	CCONJ	_	_	4	cc	_	wf="Да"|SpaceAfter=Yes
+2	пят(ь)сот	пятьсотъ	NUM	_	Case=Acc|NumForm=Word|NumType=Card	3	compound	_	wf="пятьсот"|SpaceAfter=Yes
+3	дватцат(ь)	двадцать	NUM	_	Case=Acc|NumForm=Word|NumType=Card	4	nummod:gov	_	wf="дватцать"|SpaceAfter=Yes
+4	скал	скала	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	0	root	_	wf="скал"|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	wf="."|SpaceAfter=Yes
 
 ~~~
 
@@ -82,48 +51,43 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 compound	color:blue
-1	Бил	бити	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
-2	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	1	iobj	_	_
-3	челом	чело	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	1	iobj	_	_
-4	и	и	CCONJ	_	_	6	cc	_	_
-5	всей	весь	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Tot	6	det	_	_
-6	земле	земля	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	conj	_	_
-7	Суюш	Суюшъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	compound	_	_
-8	мурза	мурза	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-9	Иль	Иль	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	compound	_	_
-10	мурзин	мурзинъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	11	amod	_	_
-11	сын	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
-12	Исуповича	Исуповичь	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	_	_
-14	дано	дати	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	conj	_	_
-15	де	де	PART	_	_	14	advmod	_	_
-16	ему	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	iobj	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	18	punct	_	_
-18	Суюшу	Суюшъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	16	appos	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	18	punct	_	_
-20	да	да	CCONJ	_	_	21	cc	_	_
-21	брату	братъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	conj	_	_
-22	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	det	_	_
-23	Ибай	Ибай	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	24	compound	_	_
-24	мурзе	мурза	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	21	appos	_	_
-25	на	на	ADP	_	_	26	case	_	_
-26	Романове	Романово	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	14	obl	_	_
-27	отца	отецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
-28	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	27	det	_	_
-29	помесье	помѣсье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
-30	село	село	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	29	appos	_	_
-31	Богородицкое	Богородицкое	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	30	appos	_	_
-32	и	и	CCONJ	_	_	34	cc	_	_
-33	иные	иной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	34	amod	_	_
-34	села	село	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	30	conj	_	_
-35	и	и	CCONJ	_	_	36	cc	_	_
-36	деревни	деревня	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	34	conj	_	SpaceAfter=No
-37	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 28	bgColor:blue
+# visual-style 28	fgColor:white
+# visual-style 29	bgColor:blue
+# visual-style 29	fgColor:white
+# visual-style 29 28 compound	color:blue
+1	Роспис(ь)	роспись	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="Роспись"|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	wf=","|SpaceAfter=Yes
+3	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	10	det	_	wf="что"|SpaceAfter=Yes
+4	на	на	ADP	_	_	5	case	_	wf="на"|SpaceAfter=Yes
+5	Москве	Москва	PROPN	_	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	1	acl:relcl	_	wf="Москве"|SpaceAfter=No
+6	-	-	PUNCT	_	_	7	punct	_	wf="-"|SpaceAfter=No
+7	реке	рѣка	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	5	appos	_	wf="реке"|SpaceAfter=Yes
+8	н[а]	на	ADP	_	_	9	case	_	wf="на"|SpaceAfter=Yes
+9	берегу	берегъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	wf="берегу"|SpaceAfter=Yes
+10	лесу	лѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	wf="лесу"|SpaceAfter=No
+11	:	:	PUNCT	_	_	15	punct	_	wf=":"|SpaceAfter=Yes
+12	четырех	четыре	NUM	_	Case=Gen|Gender=Masc|NumForm=Word|NumType=Card	13	compound	_	wf="четырех"|SpaceAfter=Yes
+13	саженных	саженный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	15	amod	_	wf="саженных"|SpaceAfter=Yes
+14	230	230	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	15	nummod:gov	_	wf="230"|SpaceAfter=Yes
+15	бревен	бревно	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	wf="бревен"|SpaceAfter=No
+16	,	,	PUNCT	_	_	20	punct	_	wf=","|SpaceAfter=Yes
+17	трех	трие	NUM	_	Case=Gen|Gender=Masc|NumForm=Word|NumType=Card	18	compound	_	wf="трех"|SpaceAfter=Yes
+18	саженных	саженный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	20	amod	_	wf="саженных"|SpaceAfter=Yes
+19	180	180	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	20	nummod:gov	_	wf="180"|SpaceAfter=Yes
+20	бревен	бревно	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	15	conj	_	wf="бревен"|SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	wf=","|SpaceAfter=Yes
+22	пяти	пять	NUM	_	Case=Gen|NumForm=Word|NumType=Card	23	compound	_	wf="пяти"|SpaceAfter=Yes
+23	саженных	саженный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	25	amod	_	wf="саженных"|SpaceAfter=Yes
+24	15	15	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	25	nummod:gov	_	wf="15"|SpaceAfter=Yes
+25	бревен	бревно	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	15	conj	_	wf="бревен"|SpaceAfter=No
+26	,	,	PUNCT	_	_	31	punct	_	wf=","|SpaceAfter=Yes
+27	да	да	CCONJ	_	_	31	cc	_	wf="да"|SpaceAfter=Yes
+28	пяти	пять	NUM	_	Case=Gen|NumForm=Word|NumType=Card	29	compound	_	wf="пяти"|SpaceAfter=Yes
+29	саженных	саженный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	31	amod	_	wf="саженных"|SpaceAfter=Yes
+30	16	16	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	31	nummod:gov	_	wf="16"|SpaceAfter=Yes
+31	брусов	брусъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	15	conj	_	wf="брусов"|SpaceAfter=No
+32	.	.	PUNCT	_	_	1	punct	_	wf="."|SpaceAfter=Yes
 
 ~~~
 

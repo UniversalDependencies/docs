@@ -72,7 +72,7 @@ The following 5 pairs of parts of speech are connected with `obl:dat`: <tt><a hr
 4	e	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	SpaceAfter=No
 5	,	,	PUNCT	cm	_	10	punct	_	_
 6	emê	em	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
-7	ê	dê	PART	fut	Tense=Fut	10	aux	_	_
+7	dê	dê	AUX	fut	Tense=Fut	10	aux	_	_
 8	tev	tev	ADV	adv	_	10	advmod	_	_
 9	de	de	ADP	post	AdpType=Post	8	fixed	_	_
 10	herin	çûn	VERB	vblex	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_

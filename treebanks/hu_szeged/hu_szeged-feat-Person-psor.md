@@ -77,5 +77,7 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
+<tt>NOUN --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> NOUN</tt> (98; 51%),
+<tt>NOUN --[<tt><a href="hu_szeged-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="hu_szeged-dep-list.html">list</a></tt>]--> NOUN</tt> (1; 100%).
 

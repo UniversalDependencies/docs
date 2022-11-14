@@ -33,7 +33,7 @@ The following 10 pairs of parts of speech are connected with `parataxis:nsubj`: 
 8	Fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
 10	'	'	PUNCT	FB	_	8	punct	_	_
-11	http://t.co/HA1ePo8P	http://t.co/HA1ePo8P	SYM	X	_	8	dep	_	_
+11	http://t.co/HA1ePo8P	http://t.co/HA1ePo8P	SYM	X	_	8	parataxis	_	_
 
 ~~~
 

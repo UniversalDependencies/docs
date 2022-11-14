@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_East_Slavic-Birchbark: POS Tags: `AUX`
 
-There are 2 `AUX` lemmas (0%), 150 `AUX` types (1%) and 372 `AUX` tokens (1%).
+There are 2 `AUX` lemmas (0%), 150 `AUX` types (1%) and 375 `AUX` tokens (1%).
 Out of 17 observed tags, the rank of `AUX` is: 16 in number of lemmas, 11 in number of types and 14 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>быти, бы</em>
 
 The 10 most frequent `AUX` types:  <em>еси, ѥси, есмь, бꙑ, ѥсмь, есте, есть, есемо, бꙑло, ѥсме</em>
 
-The 10 most frequent ambiguous lemmas: <em>быти</em> (<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 360, <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> 65), <em>бы</em> (<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 12, <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>быти</em> (<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 363, <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> 65), <em>бы</em> (<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 12, <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>бꙑ</em> (<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 13, <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> 1, <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> 1), <em>есте</em> (<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 10, <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> 1), <em>есть</em> (<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 10, <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> 2), <em>бꙑло</em> (<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 6, <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> 4), <em>бꙑлъ</em> (<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 5, <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> 1), <em>бъ</em> (<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 4, <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> 1), <em>буде</em> (<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> 4, <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 3), <em>бꙑле</em> (<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 3, <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> 1), <em>е</em> (<tt><a href="orv_birchbark-pos-X.html">X</a></tt> 17, <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 3, <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> 2, <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> 1, <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> 1, <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> 1), <em>будь</em> (<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> 2, <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> 1)
 
@@ -58,28 +58,28 @@ The 10 most frequent ambiguous types:  <em>бꙑ</em> (<tt><a href="orv_birchbar
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 75.000000 (the average of all parts of speech is 2.412613).
+The form / lemma ratio of `AUX` is 75.000000 (the average of all parts of speech is 2.410435).
 
 The 1st highest number of forms (148) was observed with the lemma “быти”: <em>(бꙑ)<lbr/>ло, (ес)мъ, (ес)мь, (еси, (ѥ)[с]ми, (ѥ)[си], (ѥс)м(ь, (ѥсмь), [бе]шь, [ес]и, [еси], [ѥ](см-, [ѥс]м[е], [ѥсе]м<lbr/>о, ·є·смꙑ, б(у)[д](е, б[уд]…, б[ꙑ]<lbr/>ло, б]ѹде, б]ꙑ[лъ], бу<lbr/>[де], бу[д]е, буд[е], буд[еть], буде, буде[ш]е, будете, будешъ, будешь, буди, будь, будьть, будьше, буть, буше, былъ, бьшь, бѫди, бѹ[дешь, бѹде, бѹде)[ш]и, бѹдете, бѹдеѹть, бѹдьть, бѹдьше, бѹдѫть, бѹдѹ, бѹд…, б…, бꙋде, бꙋди, бꙋдꙋ, бꙑ, бꙑ[хъ], бꙑла, бꙑле, бꙑли, бꙑло, бꙑлъ, бꙑл, бꙑс, бꙑхо, бꙑховь, бꙑхъ, бꙑша, е, е:с]и, е:си, е<lbr/>свѣ, е<lbr/>си, е<lbr/>смо, е<lbr/>сть, е[с]и, е[с]мь, е[си, е[си], е], е]с[ь]мь, е]см[ъ, е·сте, ес[ь]м[ь], ес]--, есве, есвѣ, есевь, есем-, есем[ъ], есеме, есемо, еси, еси], есм)[ь], есм[ь], есм](ь), есме, есмо, есмъ, есмь, есмѣ, есмꙑ, есо<lbr/>(мо, еста, есте, есть, ест…, есь)[м]о, есьм[ь], есьмо, есьмъ, есьмь, ес…, си, см[ь], сѹте, сѹть, єси, єсме, єсмь, ѥ, ѥ)<lbr/>си, ѥ[с](ме), ѥ](си, ѥмь, ѥс<lbr/>омо, ѥс[те], ѥсе<lbr/>мь, ѥсем-, ѥсемо, ѥсемъ, ѥсемь, ѥси, ѥсм(ь, ѥсм[о, ѥсм·ь, ѥсме, ѥсми, ѥсмъ, ѥсмь, ѥсомо, ѥсомъ, ѥсте, ѥстѣ, ѥсь, ѥсьмо, ѥсьмъ, ѥсѣ, …<lbr/>е, …м[о]</em>.
 
 The 2nd highest number of forms (3) was observed with the lemma “бы”: <em>би, бъ, бꙑ</em>.
 
-`AUX` occurs with 8 features: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt> (357; 96% instances), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt> (356; 96% instances), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt> (354; 95% instances), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt> (353; 95% instances), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt> (331; 89% instances), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt> (320; 86% instances), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt> (28; 8% instances), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt> (22; 6% instances)
+`AUX` occurs with 8 features: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt> (360; 96% instances), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt> (359; 96% instances), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt> (357; 95% instances), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt> (356; 95% instances), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt> (334; 89% instances), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt> (323; 86% instances), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt> (28; 7% instances), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt> (22; 6% instances)
 
 `AUX` occurs with 19 feature-value pairs: `Analyt=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=PartRes`, `Voice=Act`
 
 `AUX` occurs with 50 feature combinations.
-The most frequent feature combination is `Analyt=Yes|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act` (100 tokens).
+The most frequent feature combination is `Analyt=Yes|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act` (103 tokens).
 Examples: <em>еси, ѥси, е<lbr/>си, (еси, (ѥ)[си], [ес]и, е[с]и, е[си, е[си], еси]</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 11 different relations: <tt><a href="orv_birchbark-dep-aux.html">aux</a></tt> (269; 72% instances), <tt><a href="orv_birchbark-dep-cop.html">cop</a></tt> (75; 20% instances), <tt><a href="orv_birchbark-dep-orphan.html">orphan</a></tt> (15; 4% instances), <tt><a href="orv_birchbark-dep-aux-pass.html">aux:pass</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-dep-dep.html">dep</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-dep-reparandum.html">reparandum</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-dep-iobj.html">iobj</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 11 different relations: <tt><a href="orv_birchbark-dep-aux.html">aux</a></tt> (272; 73% instances), <tt><a href="orv_birchbark-dep-cop.html">cop</a></tt> (75; 20% instances), <tt><a href="orv_birchbark-dep-orphan.html">orphan</a></tt> (15; 4% instances), <tt><a href="orv_birchbark-dep-aux-pass.html">aux:pass</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-dep-dep.html">dep</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-dep-reparandum.html">reparandum</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-dep-iobj.html">iobj</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (271; 73% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (34; 9% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (22; 6% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (12; 3% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt> (11; 3% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (6; 2% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (274; 73% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (34; 9% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (22; 6% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (12; 3% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt> (11; 3% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (6; 2% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances)
 
-368 (99%) `AUX` nodes are leaves.
+371 (99%) `AUX` nodes are leaves.
 
 3 (1%) `AUX` nodes have one child.
 

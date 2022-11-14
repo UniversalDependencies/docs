@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-85 nodes (1%) are attached to their parents as `dep`.
+76 nodes (1%) are attached to their parents as `dep`.
 
-60 instances of `dep` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.74117647058824.
+51 instances of `dep` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.82894736842105.
 
-The following 23 pairs of parts of speech are connected with `dep`: <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_oft-pos-X.html">X</a></tt> (34; 40% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt>-<tt><a href="fo_oft-pos-X.html">X</a></tt> (6; 7% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (6; 7% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fo_oft-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt>-<tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 20 pairs of parts of speech are connected with `dep`: <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_oft-pos-X.html">X</a></tt> (34; 45% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (6; 8% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (5; 7% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (5; 7% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,22 +41,6 @@ The following 23 pairs of parts of speech are connected with `dep`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 dep	color:blue
-1	Landið	land	NOUN	N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	5	nsubj	_	_
-2	var	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
-3	fram	fram	X	x	_	4	dep	_	_
-4	við	við	ADP	Pr	_	5	case	_	_
-5	Kyrrahavi	Kyrrahav	PROPN	N	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	CLB	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
@@ -70,6 +54,23 @@ The following 23 pairs of parts of speech are connected with `dep`: <tt><a href=
 6	á	á	ADP	Pr	_	7	case	_	_
 7	honum	hann	PRON	Pron	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 dep	color:blue
+1	Verður	verða	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	aux:pass	_	_
+2	samanborið	samanbera	VERB	V	VerbForm=Sup	0	root	_	_
+3	við	við	ADP	Pr	_	4	case	_	_
+4	fýrakant	fýrurkantur	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	_
+5	ella	ella	CCONJ	CC	_	6	cc	_	_
+6	terning	terningur	NOUN	N	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	dep	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-11135 tokens (9%) have a non-empty value of `Mood`.
-2738 types (16%) occur at least once with a non-empty value of `Mood`.
-982 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (6968; 6% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4167; 3% instances).
+11142 tokens (9%) have a non-empty value of `Mood`.
+2745 types (16%) occur at least once with a non-empty value of `Mood`.
+987 lemmas (7%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (6973; 6% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4169; 3% instances).
 
 ### `VERB`
 
-6968 <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Mood`.
+6973 <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6968; 100%), <tt><a href="it_postwita-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6966; 100%), <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6174; 89%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5536; 79%), <tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt> (4298; 62%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6973; 100%), <tt><a href="it_postwita-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6971; 100%), <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6175; 89%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5537; 79%), <tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt> (4295; 62%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (135; 2% of non-empty `Mood`): <em>vorrei, direi, farebbe, bisognerebbe, vorrebbe, andrebbero, faresti, andrebbe, avrebbe, avremmo</em>
-* `Imp` (829; 12% of non-empty `Mood`): <em>speriamo, fate, segui, Controlla, dite, scusa, guarda, vai, scusate, vediamo</em>
+* `Imp` (834; 12% of non-empty `Mood`): <em>speriamo, fate, segui, Controlla, dite, scusa, guarda, vai, scusate, vediamo</em>
 * `Ind` (5761; 83% of non-empty `Mood`): <em>fa, è, ha, dice, piace, va, ho, parla, amo, fanno</em>
 * `Sub` (243; 3% of non-empty `Mood`): <em>faccia, sia, vada, dica, abbia, fosse, dia, arrivi, duri, facciano</em>
 * `EMPTY` (4292): <em>fare, fatto, far, dire, detto, vedere, andare, avere, pagare, parlare</em>
@@ -52,15 +52,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-4167 <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
+4169 <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_postwita-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4167; 100%), <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3751; 90%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3429; 82%), <tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt> (3012; 72%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_postwita-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4169; 100%), <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3753; 90%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3429; 82%), <tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt> (3014; 72%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (201; 5% of non-empty `Mood`): <em>sarebbe, dovrebbe, potrebbe, vorrei, avrebbe, avrebbero, avrei, potrebbero, potrei, potremmo</em>
 * `Imp` (35; 1% of non-empty `Mood`): <em>abbiamo, siate, Siamo, vogliamo, Sii, stai, state, stiamo</em>
-* `Ind` (3731; 90% of non-empty `Mood`): <em>è, sono, ha, e', ho, sei, siamo, può, hanno, sarà</em>
+* `Ind` (3733; 90% of non-empty `Mood`): <em>è, sono, ha, e', ho, sei, siamo, può, hanno, sarà</em>
 * `Sub` (200; 5% of non-empty `Mood`): <em>sia, fosse, siano, abbia, possa, stia, fossi, avesse, dobbiamo, fossero</em>
 * `EMPTY` (269): <em>essere, stato, aver, stata, voler, stati, esser, poter, state, essendo</em>
 
@@ -75,6 +75,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>sarà, sara', Sará, sara, starà</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era, stava</em></td><td></td><td></td><td><em>fosse, stesse</em></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fu</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_postwita-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>e</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>è, e', sta, é, e, STA'</em></td><td></td><td><em>sarebbe</em></td><td><em>sia, stia, si</em></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>saremo, staremo</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>eravamo</em></td><td></td><td></td><td></td></tr>
@@ -82,7 +83,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>siete, state, ziete, ztate</em></td><td><em>siate, state</em></td><td></td><td><em>siate</em></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>saranno, staranno</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>erano</em></td><td></td><td></td><td><em>fossero</em></td></tr>
-  <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sono, stanno, son, so', so, sn</em></td><td></td><td><em>sarebbero</em></td><td><em>siano</em></td></tr>
+  <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sono, stanno, son, so', sn, so</em></td><td></td><td><em>sarebbero</em></td><td><em>siano</em></td></tr>
   <tr><td><tt></tt></td><td><em>è, e'</em></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -90,12 +91,10 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (468; 60%),
-<tt>VERB --[<tt><a href="it_postwita-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (12; 52%),
 <tt>AUX --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="it_postwita-dep-dep.html">dep</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="it_postwita-dep-list.html">list</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="it_postwita-dep-dep.html">dep</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="it_postwita-dep-flat.html">flat</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="it_postwita-dep-parataxis-appos.html">parataxis:appos</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).

@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Cantonese-HK: Relations: `clf`
 
 This relation is universal.
+There are 1 language-specific subtypes of `clf`: <tt><a href="yue_hk-dep-clf-det.html">clf:det</a></tt>.
 
 212 nodes (2%) are attached to their parents as `clf`.
 
 211 instances of `clf` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.04245283018868.
 
-The following 5 pairs of parts of speech are connected with `clf`: <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (117; 55% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (83; 39% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `clf`: <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (117; 55% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (84; 40% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

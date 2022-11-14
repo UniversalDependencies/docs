@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Vinit Ravishankar.
 
 Repository: [UD_Marathi-UFAL](https://github.com/UniversalDependencies/UD_Marathi-UFAL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmr_ufal210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmr_ufal211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -46,7 +46,7 @@ UD Marathi is a manually annotated treebank consisting primarily of stories from
 
 
 
-UD Marathi is a manually annotated treebank consisting primarily of stories from Wikisource, and parts of an article on Wikipediaj
+UD Marathi is a manually annotated treebank consisting primarily of stories from Wikisource, and parts of an article on Wikipedia.
 
 ## Acknowledgments
 
@@ -57,11 +57,11 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 
 ## POS Tags
 
-[ADJ](mr_ufal-pos-ADJ.html) – [ADP](mr_ufal-pos-ADP.html) – [ADV](mr_ufal-pos-ADV.html) – [AUX](mr_ufal-pos-AUX.html) – [CCONJ](mr_ufal-pos-CCONJ.html) – [DET](mr_ufal-pos-DET.html) – [INTJ](mr_ufal-pos-INTJ.html) – [NOUN](mr_ufal-pos-NOUN.html) – [NUM](mr_ufal-pos-NUM.html) – [PART](mr_ufal-pos-PART.html) – [PRON](mr_ufal-pos-PRON.html) – [PROPN](mr_ufal-pos-PROPN.html) – [PUNCT](mr_ufal-pos-PUNCT.html) – [SCONJ](mr_ufal-pos-SCONJ.html) – [VERB](mr_ufal-pos-VERB.html)
+[ADJ](mr_ufal-pos-ADJ.html) – [ADP](mr_ufal-pos-ADP.html) – [ADV](mr_ufal-pos-ADV.html) – [AUX](mr_ufal-pos-AUX.html) – [CCONJ](mr_ufal-pos-CCONJ.html) – [DET](mr_ufal-pos-DET.html) – [INTJ](mr_ufal-pos-INTJ.html) – [NOUN](mr_ufal-pos-NOUN.html) – [NUM](mr_ufal-pos-NUM.html) – [PART](mr_ufal-pos-PART.html) – [PRON](mr_ufal-pos-PRON.html) – [PROPN](mr_ufal-pos-PROPN.html) – [PUNCT](mr_ufal-pos-PUNCT.html) – [SCONJ](mr_ufal-pos-SCONJ.html) – [VERB](mr_ufal-pos-VERB.html) – [X](mr_ufal-pos-X.html)
 
 ## Features
 
-[Aspect](mr_ufal-feat-Aspect.html) – [Case](mr_ufal-feat-Case.html) – [Clusivity](mr_ufal-feat-Clusivity.html) – [Deixis](mr_ufal-feat-Deixis.html) – [Gender](mr_ufal-feat-Gender.html) – [InfForm](mr_ufal-feat-InfForm.html) – [Mood](mr_ufal-feat-Mood.html) – [Number](mr_ufal-feat-Number.html) – [Person](mr_ufal-feat-Person.html) – [Polarity](mr_ufal-feat-Polarity.html) – [PronType](mr_ufal-feat-PronType.html) – [Tense](mr_ufal-feat-Tense.html) – [VerbForm](mr_ufal-feat-VerbForm.html) – [Voice](mr_ufal-feat-Voice.html)
+[Aspect](mr_ufal-feat-Aspect.html) – [Case](mr_ufal-feat-Case.html) – [Clusivity](mr_ufal-feat-Clusivity.html) – [Deixis](mr_ufal-feat-Deixis.html) – [Gender](mr_ufal-feat-Gender.html) – [InfForm](mr_ufal-feat-InfForm.html) – [Mood](mr_ufal-feat-Mood.html) – [Number](mr_ufal-feat-Number.html) – [Person](mr_ufal-feat-Person.html) – [Polarity](mr_ufal-feat-Polarity.html) – [PronType](mr_ufal-feat-PronType.html) – [Tense](mr_ufal-feat-Tense.html) – [Typo](mr_ufal-feat-Typo.html) – [VerbForm](mr_ufal-feat-VerbForm.html) – [Voice](mr_ufal-feat-Voice.html)
 
 ## Relations
 
@@ -71,7 +71,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 
 
 <ul>
-<li>This corpus contains 466 sentences, 3506 tokens and 3849 syntactic words.</li>
+<li>This corpus contains 466 sentences, 3506 tokens and 3847 syntactic words.</li>
 </ul>
 
 <ul>
@@ -87,8 +87,8 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 </ul>
 
 <ul>
-<li>This corpus contains 331 multi-word tokens. On average, one multi-word token consists of 2.04 syntactic words.</li>
-<li>There are 231 types of multi-word tokens. Examples: माझी, तुझी, त्याच्या, त्याचे, आपल्या, तिच्या, राजाच्या, कानावर, तुमचा, माझा, अंतरावर, तुझे, त्याची, माझ्या, राजपुत्राची, रात्रभर, विहिरीच्या, शहराबाहेर, आईचा, आईच्या, आजूबाजूच्या, आपला, आपली, केशवचंद्रांच्या, कोसांतील, खरेच, गावातील, गावाबाहेर, गेल्यावर, चितेवर, झाल्यावर, तिची, तुझ्या, तुमची, तुमचे, तुमच्या, तूही, त्याच, त्याचा, त्याप्रमाणे, दरीतील, पाचपन्नास, पित्याच्या, भाऊही, भीमाची, भीमाच्या, मलाही, मांडीचा, माझे, मेरीकडे.</li>
+<li>This corpus contains 329 multi-word tokens. On average, one multi-word token consists of 2.04 syntactic words.</li>
+<li>There are 230 types of multi-word tokens. Examples: माझी, तुझी, त्याच्या, त्याचे, आपल्या, तिच्या, राजाच्या, कानावर, तुमचा, माझा, अंतरावर, तुझे, त्याची, माझ्या, राजपुत्राची, रात्रभर, विहिरीच्या, शहराबाहेर, आईचा, आईच्या, आजूबाजूच्या, आपला, आपली, केशवचंद्रांच्या, कोसांतील, खरेच, गावातील, गावाबाहेर, गेल्यावर, चितेवर, झाल्यावर, तिची, तुझ्या, तुमची, तुमचे, तुमच्या, तूही, त्याच, त्याचा, त्याप्रमाणे, दरीतील, पित्याच्या, भाऊही, भीमाची, भीमाच्या, मलाही, मांडीचा, माझे, मेरीकडे, राखेवर.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -96,12 +96,12 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: SYM, X</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: SYM</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 word types tagged as particles (PART): _</li>
+<li>This corpus contains 5 word types tagged as particles (PART): च, च्या, तरी, सुद्धा, ही</li>
 </ul>
 
 <ul>
@@ -117,11 +117,11 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 </ul>
 
 <ul>
-<li>This corpus contains 15 lemmas tagged as auxiliaries (AUX): असणे, झालोत, देणे, नका, नको, नकोस, नये, नसणे, नाही, निघाला, पाहिजे, येणे, लागणे, शकणे, होणे</li>
+<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): असणे, जाणे, नको, पाहिजे, येणे, शकणे</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: देणे, निघाला, येणे, लागणे, शकणे, होणे</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: जाणे, येणे</li>
 </ul>
 
 <ul>
@@ -139,8 +139,8 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: आहे, नाही, होती, होता, होते, लागली, आहेत, नका, नाहीत, लागला</li>
-    <li>VERB: म्हणाला, आला, गेला, आली, _, म्हणाली, बसला, दे, विचारले, जा</li>
+    <li>AUX: आहे, नाही, होती, होता, होते, आहेत, नका, नाहीत, असतो, नको</li>
+    <li>VERB: म्हणाला, आला, गेला, आली, म्हणाली, दे, बसला, विचारले, निघाला, लागली</li>
   </ul>
   </li>
 </ul>
@@ -148,7 +148,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: _, होऊ, कळविण्यात, ऐकू, करू, चालू, येऊ, उडवण्यात, उभारण्यात, करण्यात</li>
+    <li>VERB: होऊ, कळविण्यात, ऐकू, करू, चालू, येऊ, उडवण्यात, उभारण्यात, करण्यात, खेळू</li>
   </ul>
   </li>
 </ul>
@@ -156,8 +156,8 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Part
   <ul>
-    <li>AUX: असलेली, शकत</li>
-    <li>VERB: येत, चालत, दिसत, करत, करीत, जात, बघत, रडत, होत, _</li>
+    <li>AUX: शकत, असलेली</li>
+    <li>VERB: येत, चालत, दिसत, करत, करीत, जात, बघत, रडत, होत, कळत</li>
   </ul>
   </li>
 </ul>
@@ -180,15 +180,15 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: सारी, _, इतकी, उभी, एवढी, कायमची, केवढी, गिधाडी, छोटी, बरी</li>
-      <li>ADP: _</li>
-      <li>AUX-Fin: होती, झाली, आली</li>
+      <li>ADJ: सारी, इतकी, उभी, एवढी, कायमची, केवढी, गिधाडी, छोटी, बरी, भोळी</li>
+      <li>ADP: ची</li>
+      <li>AUX-Fin: होती, आली</li>
       <li>AUX-Part: असलेली</li>
-      <li>DET: ती, ही, त्या, _</li>
-      <li>NOUN: _, बहीण, जमीन, आई, राणी, आईला, भूक, हरिणी, राख, आठवण</li>
-      <li>PRON: ती, _, तिला, तिने, ही</li>
-      <li>PROPN: मेरी, _, मेरीला, भीमी</li>
-      <li>VERB-Fin: आली, म्हणाली, गेली, बघते, केली, झाली, देते, निघाली, बसली, म्हणते</li>
+      <li>DET: ती, ही, त्या</li>
+      <li>NOUN: बहीण, आई, जमीन, राणी, आईला, भूक, हरिणी, मांडी, राख, रात्र</li>
+      <li>PRON: ती, ति, तिला, तिने, ही</li>
+      <li>PROPN: मेरी, मेरीला, भीमी</li>
+      <li>VERB-Fin: आली, म्हणाली, झाली, गेली, बघते, केली, देते, निघाली, बसली, म्हणते</li>
       <li>VERB-Part: आलेली, झालेली, द्यायची, पडलेली, व्हावयाची, शमवायची, सांगायचे</li>
     </ul>
   </li>
@@ -197,14 +197,14 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: अर्धा, _, छोटा, शहाणा, सारे, असा, उभा, एकटा, एकुलता, कुठला</li>
-      <li>ADP: _</li>
-      <li>AUX-Fin: होता, होते, लागला, असतो, आला, लागले, होती, होतो, झाले, झालो</li>
-      <li>DET: तो, हा, _</li>
-      <li>NOUN: _, राजपुत्र, भाऊ, लाडू, दादा, राजपुत्राने, राजाने, राजाला, राजपुत्राला, देव</li>
-      <li>PRON: तो, _, त्याला, त्याने, ते, त्यांना, त्यांनी, जो, कोणता, दोघं</li>
-      <li>PROPN: _, भीमा, जेम्स, केशवचंद्राने, केशवचंद्र, जेम्सला, केशवचंद्रांना, केशवचंद्राला, केशवबाबा, भीमाला</li>
-      <li>VERB-Fin: म्हणाला, आला, गेला, बसला, निघाला, मेला, बनला, आले, गेले, झाले</li>
+      <li>ADJ: अर्धा, असा, एकटा, छोटा, शहाणा, सारे, उभा, एकुलता, कुठला, जुने</li>
+      <li>ADP: चा, चे</li>
+      <li>AUX-Fin: होता, होते, असतो, आला, होती, होतो, गेला, शकले, होतास</li>
+      <li>DET: तो, हा</li>
+      <li>NOUN: राजपुत्र, भाऊ, राजा, लाडू, दादा, राजपुत्राने, राजाने, राजाला, राजपुत्राला, देव</li>
+      <li>PRON: तो, त्या, त्याला, त्याने, ते, त्यां, त्यांना, त्यांनी, जो, कोणता</li>
+      <li>PROPN: भीमा, जेम्स, केशवचंद्राने, केशवचंद्र, केशवचंद्रां, जेम्सला, केशवचंद्रा, केशवचंद्रांना, केशवचंद्राला, केशवबाबा</li>
+      <li>VERB-Fin: म्हणाला, आला, गेला, बसला, निघाला, मेला, लागला, झाले, बनला, आले</li>
       <li>VERB-Part: आलेला, करणारा, केलेले, राहिलेला, शोधायचा</li>
     </ul>
   </li>
@@ -213,13 +213,14 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: असे, चांगले, पांढरी, _, आडवे, खरे, खोटे, चौघे, जागे, जुने</li>
-      <li>ADP: _</li>
-      <li>AUX-Fin: होते, होती, लागली, असले, दिले, नव्हते</li>
+      <li>ADJ: असे, खरे, चांगले, पांढरी, आडवे, खोटे, जागे, जुने, दुसरी, मेले</li>
+      <li>ADP: चे, ची, चं</li>
+      <li>AUX-Fin: होते, होती, आले, असले, नव्हते</li>
       <li>DET: ती, हे, काही, ते, या, ही</li>
-      <li>NOUN: _, राजा, फुले, शेत, उत्तर, मनात, घरात, तोंडात, मांजर, रत्ने</li>
-      <li>PRON: _, हे, ते, त्याला, काही, ती, त्यांना, त्यांनी, दोघे</li>
-      <li>VERB-Fin: विचारले, आले, धरले, वाटले, सांगितले, केले, झाले, निघाली, निघाले, पाठविले</li>
+      <li>NOUN: राजा, फुले, शेत, उत्तर, मनात, अंतरा, घरात, झाडा, तोंडात, मांजर</li>
+      <li>NUM: चौघे</li>
+      <li>PRON: ते, हे, त्या, त्याला, काही, ती, त्यां, त्यांना, त्यांनी, त्याने</li>
+      <li>VERB-Fin: विचारले, लागली, धरले, वाटले, सांगितले, केले, झाले, दिले, निघाली, निघाले</li>
       <li>VERB-Part: चमकणारी, जायचे</li>
     </ul>
   </li>
@@ -233,14 +234,15 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: सारे, पांढरी, चौघे, जुने, दुसरी, मूळचे, मोठमोठी, म्हातारे, लाखो, शहाणे</li>
-      <li>ADP: _</li>
-      <li>AUX-Fin: होती, होते, लागली, आहेत, नका, नाहीत, लागले, असतील, आहोत, झाले</li>
-      <li>DET: त्या, ती, _, आम्ही, तुम्हा, दोघा, दोघे, या, ही</li>
-      <li>NOUN: _, फुले, रुपये, लाडू, शेतकरी, उपकार, मोती, रत्ने, लोक, उड्या</li>
-      <li>PRON: _, तुम्ही, ते, त्यांना, त्यांनी, दोघे, आपण, आम्ही, चौघे, सर्वांना</li>
-      <li>PROPN: _, केशवचंद्रांना</li>
-      <li>VERB-Fin: आले, करा, गेले, घ्या, झाले, द्या, पाठवा, जा, ठेवले, ठेवा</li>
+      <li>ADJ: सारे, पांढरी, जुने, दुसरी, मूळचे, मोठमोठी, म्हातारे, शहाणे</li>
+      <li>ADP: चे, ची</li>
+      <li>AUX-Fin: होती, होते, आहेत, नका, नाहीत, असतील, आहोत, शकले</li>
+      <li>DET: त्या, ती, आम्ही, तुम्हा, दोघा, दोघे, या, ही</li>
+      <li>NOUN: फुले, रुपये, लाडू, शेतकरी, उपकार, कोसां, मोती, रत्ने, लोक, वाडवडिलां</li>
+      <li>NUM: चौघे, लाखो, हजारो</li>
+      <li>PRON: तुम, तुम्ही, त्यां, ते, त्यांना, त्यांनी, दोघे, आपल, आपण, आम</li>
+      <li>PROPN: केशवचंद्रां, केशवचंद्रांना</li>
+      <li>VERB-Fin: लागली, झाले, द्या, आले, करा, गेले, घ्या, पाठवा, जा, ठेवले</li>
       <li>VERB-Part: केलेले, चमकणारी</li>
     </ul>
   </li>
@@ -249,15 +251,15 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: _, सारी, अर्धा, असे, चांगले, छोटा, शहाणा, असा, आडवे, इतकी</li>
-      <li>ADP: _</li>
-      <li>AUX-Fin: आहे, नाही, होता, होते, होती, लागला, असतो, झाली, असेल, आला</li>
+      <li>ADJ: सारी, अर्धा, असा, असे, एकटा, खरे, चांगले, छोटा, शहाणा, आडवे</li>
+      <li>ADP: ची, चा, चे, चं</li>
+      <li>AUX-Fin: आहे, नाही, होता, होते, होती, असतो, नको, असेल, आला, आले</li>
       <li>AUX-Part: असलेली</li>
-      <li>DET: एक, तो, ती, ही, एका, हा, हे, काही, ते, _</li>
-      <li>NOUN: _, राजपुत्र, राजा, बहीण, जमीन, भाऊ, दादा, राजपुत्राने, राजाने, राजाला</li>
-      <li>PRON: _, तो, ती, मी, त्याला, मला, त्याने, तिला, तुला, तू</li>
-      <li>PROPN: _, भीमा, जेम्स, मेरी, केशवचंद्राने, केशवचंद्र, जेम्सला, मेरीला, केशवचंद्राला, केशवबाबा</li>
-      <li>VERB-Fin: म्हणाला, आला, गेला, आली, म्हणाली, बसला, दे, विचारले, निघाला, जा</li>
+      <li>DET: एक, तो, ती, ही, एका, हा, हे, काही, ते, या</li>
+      <li>NOUN: राजा, राजपुत्र, बहीण, भाऊ, आई, जमीन, दादा, राजपुत्राने, राजाने, राजाला</li>
+      <li>PRON: तो, ती, त्या, मी, त्याला, माझ, मला, तुझ, त्याने, ति</li>
+      <li>PROPN: भीमा, जेम्स, मेरी, केशवचंद्राने, केशवचंद्र, जेम्सला, मेरीला, केशवचंद्रा, केशवचंद्रां, केशवचंद्राला</li>
+      <li>VERB-Fin: म्हणाला, आला, गेला, आली, म्हणाली, दे, बसला, निघाला, विचारले, जा</li>
       <li>VERB-Part: आलेला, आलेली, करणारा, जायचे, झालेली, द्यायची, पडलेली, राहिलेला, व्हावयाची, शमवायची</li>
     </ul>
   </li>
@@ -279,14 +281,13 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
   <li>Abs
     <ul>
       <li>ADJ: थोड्या, अंधाऱ्या, जुन्या, मोठ्या, साऱ्या, उमद्या, कुठल्या, जवळच्या, मागील, म्हाताऱ्या</li>
-      <li>ADP: _</li>
-      <li>AUX-Fin: _</li>
-      <li>DET: त्या, एका, या, _, तुम्हा, दोघा, ह्या</li>
-      <li>NOUN: _, शेतकरी, भाऊ, पैसे, माणसे, हाका</li>
-      <li>PRON: _, येथल्या</li>
-      <li>PROPN: _</li>
-      <li>VERB-Fin: _</li>
-      <li>VERB-Inf: _</li>
+      <li>ADP: च्या</li>
+      <li>DET: त्या, एका, या, तुम्हा, दोघा, ह्या</li>
+      <li>NOUN: राजा, राजपुत्रा, आई, गावा, काना, अंतरा, कोसां, झाडा, देवी, मांडी</li>
+      <li>PRON: ति, त्या, त्यां, तुम, माझ्या, आपल, आपल्या, तुझ, माझ, येथल्या</li>
+      <li>PROPN: भीमा, मेरी, केशवचंद्रां, केशवचंद्रा, जेम्स</li>
+      <li>VERB-Fin: गेल्या, झाल्या, केल्या, जाई, थकल्या, पडल्या, बोलल्या, मिळवल्या, मेल्या, लावल्या</li>
+      <li>VERB-Inf: नेण्या, फेडण्या, मांडण्या, येण्या, शमविण्या</li>
       <li>VERB-Part: झळाळणाऱ्या, वाहणाऱ्या</li>
     </ul>
   </li>
@@ -295,8 +296,8 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Acc
     <ul>
-      <li>NOUN: जमीन, निरोप, बहीण, लाडू, फुले, उपकार, भाऊ, भूक, रुपये, _</li>
-      <li>PRON: काय, हे, त्याला, _, आम्ही, ती, तू, ते, तो, मला</li>
+      <li>NOUN: जमीन, निरोप, बहीण, लाडू, फुले, उपकार, भाऊ, भूक, रुपये, उत्तर</li>
+      <li>PRON: काय, त्याला, हे, आम्ही, ती, तू, ते, तो, मला, ही</li>
       <li>PROPN: जेम्स, जेम्सला</li>
     </ul>
   </li>
@@ -314,7 +315,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
   <li>Dat
     <ul>
       <li>NOUN: राजाला, राजपुत्राला, आईला, अंगाला, कुत्र्याला, खुशमस्कऱ्याला, देवाला, मुलाला, राणीला, वडिलांना</li>
-      <li>PRON: त्याला, मला, तिला, तुला, त्यांना, _, सर्वांना, तुम्हांला, याला</li>
+      <li>PRON: त्याला, मला, तिला, तुला, त्यांना, सर्वांना, तुम्हांला, तुम्हाला, याला</li>
       <li>PROPN: मेरीला, केशवचंद्रांना, केशवचंद्राला, जेम्सला, भीमाला</li>
     </ul>
   </li>
@@ -334,7 +335,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
   <li>Ins
     <ul>
       <li>NOUN: पैशाने, मार्गाने, गुरवाने, चिंतेने, तलवारीने, दुःखाने, नम्रतेने, रस्त्याने, लगबगीने, वेळाने</li>
-      <li>PRON: _, कशाने, त्याने</li>
+      <li>PRON: त्याने, कशाने</li>
     </ul>
   </li>
 </ul>
@@ -342,9 +343,9 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Loc
     <ul>
-      <li>NOUN: मनात, _, काठी, घरात, तोंडात, राजवाड्यात, स्वर्गात, न्यायालयात, पाया, बागेत</li>
+      <li>NOUN: मनात, काठी, घरात, तोंडात, राजवाड्यात, वनात, स्वर्गात, न्यायालयात, पाया, बागेत</li>
       <li>VERB-Inf: कळविण्यात, उडवण्यात, उभारण्यात, करण्यात, ठेवण्यात, देण्यात, पाठविण्यात, बोलावण्यात, राहण्यात, वाजविण्यात</li>
-      <li>VERB-Part: _, चालता</li>
+      <li>VERB-Part: ऐकता, चालता</li>
     </ul>
   </li>
 </ul>
@@ -352,12 +353,13 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: _, सुखी, सारी, काही, दूर, सुंदर, अर्धा, सारे, अलग, असे</li>
-      <li>ADP: _</li>
-      <li>DET: तो, ती, _, आम्ही, त्या, दोघे</li>
-      <li>NOUN: राजपुत्र, राजा, _, दादा, बहीण, भाऊ, देव, आई, जमीन, कुत्रा</li>
-      <li>PRON: तो, ती, मी, कोण, तुम्ही, तू, आपण, ते, _, काय</li>
-      <li>PROPN: भीमा, जेम्स, मेरी, _, केशवचंद्र, केशवबाबा, भीमी</li>
+      <li>ADJ: सुखी, सारी, काही, दूर, सुंदर, अर्धा, सारे, अलग, असा, असे</li>
+      <li>ADP: चा, ची</li>
+      <li>DET: तो, ती, आम्ही, कोणी, त्या, दोघे</li>
+      <li>NOUN: राजपुत्र, राजा, दादा, भाऊ, बहीण, देव, आई, कुत्रा, जमीन, खुशमस्कऱ्या</li>
+      <li>NUM: चौघे, लाखो, हजारो</li>
+      <li>PRON: तो, ती, मी, कोण, तू, तुम्ही, ते, आपण, काय, दोघे</li>
+      <li>PROPN: भीमा, जेम्स, मेरी, केशवचंद्र, केशवबाबा, भीमी</li>
       <li>VERB-Inf: देणे, बोलावणे, म्हणणे, विकणे</li>
     </ul>
   </li>
@@ -384,8 +386,16 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Neg
     <ul>
-      <li>AUX-Fin: नाही, नका, नाहीत, नको, नकोस, नये, नसे, नाहीस</li>
-      <li>VERB-Fin: म्हणू, रडू, घालवू, घेऊस, फिरकू, मानू, सोडू</li>
+      <li>AUX-Fin: नाही, नका, नाहीत, नको, नकोस, नये, नव्हते, नसे, नाहीस</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pos
+    <ul>
+      <li>AUX-Fin: आहे, होती, होता, होते, आहेत, असतो, असेल, होतो, असतील, असले</li>
+      <li>AUX-Part: असलेली</li>
     </ul>
   </li>
 </ul>
@@ -415,7 +425,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
       <li>AUX-Part: शकत</li>
       <li>VERB-Conv: खेळताना</li>
       <li>VERB-Fin: बघते, दिसतो, सांगतो, देते, म्हणते, येते, येतो, रडतोस, सांगतात, आणतो</li>
-      <li>VERB-Part: येत, चालत, दिसत, करत, करीत, जात, बघत, रडत, होत, _</li>
+      <li>VERB-Part: येत, चालत, दिसत, करत, करीत, जात, बघत, रडत, होत, कळत</li>
     </ul>
   </li>
 </ul>
@@ -423,10 +433,10 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Fin: लागली, लागला, झाली, आला, लागले, _, असले, आली, झाले, झालो</li>
+      <li>AUX-Fin: आला, आले, असले, आली, गेला, शकले</li>
       <li>AUX-Part: असलेली</li>
       <li>VERB-Conv: घेऊन, करून, निघून, येऊन, जाऊन, म्हणून, बसून, कापून, देऊन, धरून</li>
-      <li>VERB-Fin: म्हणाला, आला, गेला, आली, म्हणाली, _, बसला, विचारले, निघाला, आले</li>
+      <li>VERB-Fin: म्हणाला, आला, गेला, आली, म्हणाली, बसला, विचारले, निघाला, लागली, झाले</li>
       <li>VERB-Part: आलेला, आलेली, केलेले, झालेली, पडलेली, राहिलेला</li>
     </ul>
   </li>
@@ -455,8 +465,8 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: नका, दे, द्या</li>
-      <li>VERB-Fin: दे, जा, हो, करा, घ्या, द्या, पाठवा, सांग, करूस, जाऊ</li>
+      <li>AUX-Fin: नका, नको, नकोस</li>
+      <li>VERB-Fin: दे, जा, द्या, हो, करा, घ्या, पाठवा, सांग, करूस, जाऊ</li>
     </ul>
   </li>
 </ul>
@@ -486,7 +496,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
   <li>Fut
     <ul>
       <li>AUX-Fin: असेल, असतील, येईल</li>
-      <li>VERB-Fin: येईल, _, उडवीन, करशील, घालतील, जाल, देईल, मागशील, मिळतील, लागेल</li>
+      <li>VERB-Fin: येईल, उडवीन, करशील, घालतील, जाई, जाल, देईल, मागशील, मिळतील, लागेल</li>
     </ul>
   </li>
 </ul>
@@ -533,7 +543,8 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Dem
     <ul>
-      <li>DET: तो, त्या, ती, या, ही, _, हा, हे, ते, आम्ही</li>
+      <li>DET: तो, त्या, ती, या, ही, हा, हे, ते, आम्ही, तुम्हा</li>
+      <li>PRON: तो, ती, त्या, त्याला, त्याने, ति, तिला, ते, त्यां, हे</li>
     </ul>
   </li>
 </ul>
@@ -541,8 +552,8 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Ind
     <ul>
-      <li>DET: एक, एका, काही, _</li>
-      <li>PRON: कोणी</li>
+      <li>DET: एक, एका, काही, कोणी</li>
+      <li>PRON: काही, कोणी</li>
     </ul>
   </li>
 </ul>
@@ -550,7 +561,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Int
     <ul>
-      <li>PRON: काय, कोण, कोणी, _, कशाने, कोणता</li>
+      <li>PRON: काय, कोण, कोणी, कोणा, कशाने, कोणता</li>
     </ul>
   </li>
 </ul>
@@ -558,7 +569,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: _, आपण, आपापल्या</li>
+      <li>PRON: मी, माझ, मला, आपल, तुझ, तुम, तुला, तू, तुम्ही, आपण</li>
     </ul>
   </li>
 </ul>
@@ -566,7 +577,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: जो, ते</li>
+      <li>PRON: जो</li>
     </ul>
   </li>
 </ul>
@@ -574,7 +585,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>Tot
     <ul>
-      <li>PRON: सर्वांना, सर्वांनी</li>
+      <li>PRON: सर्वांना, सर्वांनी, सारे</li>
     </ul>
   </li>
 </ul>
@@ -589,9 +600,9 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: नाही, होतो, आहे, आहोत, झालो, झालोत</li>
-      <li>PRON: _, मी, मला, आपण, आम्ही</li>
-      <li>VERB-Fin: जाऊ, झालो, सांगतो, आणतो, आणू, आलो, उडवीन, करूया, घालू, जाते</li>
+      <li>AUX-Fin: नाही, होतो, आहे, आहोत</li>
+      <li>PRON: मी, माझ, मला, आपल, आपण, आम, आम्ही, माझ्या</li>
+      <li>VERB-Fin: झालो, जाऊ, सांगतो, आणतो, आणू, आलो, उडवीन, करूया, घालू, जाते</li>
     </ul>
   </li>
 </ul>
@@ -599,9 +610,9 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: नका, नकोस, दे, द्या, नको, नाहीस, होतास</li>
-      <li>PRON: _, तुला, तुम्ही, तू, तुम्हांला</li>
-      <li>VERB-Fin: दे, जा, हो, करा, घ्या, द्या, पाठवा, सांग, करूस, ठेवा</li>
+      <li>AUX-Fin: नका, नको, नकोस, नाहीस, होतास</li>
+      <li>PRON: तुझ, तुम, तुला, तू, तुम्ही, तुम्हांला, तुम्हाला</li>
+      <li>VERB-Fin: दे, जा, द्या, हो, करा, घ्या, पाठवा, सांग, करूस, ठेवा</li>
     </ul>
   </li>
 </ul>
@@ -609,10 +620,10 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: आहे, नाही, होती, होता, होते, लागली, आहेत, नाहीत, लागला, असतो</li>
+      <li>AUX-Fin: आहे, नाही, होती, होता, होते, आहेत, नाहीत, असतो, असेल, आला</li>
       <li>AUX-Part: असलेली</li>
-      <li>PRON: _, तो, ती, त्याला, त्याने, तिला, ते, हे, त्यांना, त्यांनी</li>
-      <li>VERB-Fin: म्हणाला, आला, गेला, आली, म्हणाली, बसला, विचारले, निघाला, आले, गेली</li>
+      <li>PRON: तो, ती, त्या, त्याला, त्याने, ति, तिला, ते, त्यां, हे</li>
+      <li>VERB-Fin: म्हणाला, आला, गेला, आली, म्हणाली, बसला, विचारले, निघाला, लागली, झाले</li>
       <li>VERB-Part: आलेला, आलेली, केलेले, जायचे, झालेली, द्यायची, पडलेली, राहिलेला, व्हावयाची, शमवायची</li>
     </ul>
   </li>
@@ -629,7 +640,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
     <ul>
       <li>In
         <ul>
-          <li>PRON: _, आपण</li>
+          <li>PRON: आपल, आपण</li>
         </ul>
       </li>
     </ul>
@@ -647,8 +658,8 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
       </li>
       <li>Remt
         <ul>
-          <li>DET: त्या, तो, ती, _, ते</li>
-          <li>PRON: तो, _, ती, त्याला, त्याने, तिला, ते, त्यांना, त्यांनी, तिने</li>
+          <li>DET: त्या, तो, ती, ते</li>
+          <li>PRON: तो, ती, त्या, त्याला, त्याने, ति, तिला, ते, त्यां, त्यांना</li>
         </ul>
       </li>
     </ul>
@@ -660,12 +671,24 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
     <ul>
       <li>Dict
         <ul>
-          <li>VERB-Inf: _, कळविण्यात, उडवण्यात, उभारण्यात, करण्यात, ठेवण्यात, देणे, देण्यात, पाठविण्यात, बोलावणे</li>
+          <li>VERB-Inf: कळविण्यात, उडवण्यात, उभारण्यात, करण्यात, ठेवण्यात, देणे, देण्यात, नेण्या, पाठविण्यात, फेडण्या</li>
         </ul>
       </li>
       <li>Incp
         <ul>
-          <li>VERB-Inf: होऊ, ऐकू, करू, चालू, येऊ, _, खेळू, चालवू, जाऊ, देऊ</li>
+          <li>VERB-Inf: होऊ, ऐकू, करू, चालू, येऊ, खेळू, चालवू, जाऊ, देऊ, बोलू</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>INTJ: फण्</li>
         </ul>
       </li>
     </ul>
@@ -677,11 +700,11 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: असणे, नाही, झालोत, होणे.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: असणे.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: असणे, नाही, लागणे, नको, देणे, शकणे, नका, नकोस, नसणे, होणे, नये, निघाला, पाहिजे, येणे.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: असणे, नको, शकणे, पाहिजे.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: येणे, जाणे.</li>
 </ul>
 
@@ -697,20 +720,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Erg (1)</li>
       <li>VERB-Conv--PRON-Nom (3)</li>
       <li>VERB-Fin--NOUN-Abs (3)</li>
+      <li>VERB-Fin--NOUN-Abs-ADP(चा) (1)</li>
       <li>VERB-Fin--NOUN-Dat (5)</li>
-      <li>VERB-Fin--NOUN-Erg (31)</li>
+      <li>VERB-Fin--NOUN-Erg (32)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (107)</li>
+      <li>VERB-Fin--NOUN-Nom (115)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-ADP(चा) (1)</li>
-      <li>VERB-Fin--PRON-Dat (17)</li>
+      <li>VERB-Fin--PRON-Dat (18)</li>
       <li>VERB-Fin--PRON-Erg (23)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
-      <li>VERB-Fin--PRON-Nom (93)</li>
-      <li>VERB-Inf--NOUN-Erg (2)</li>
-      <li>VERB-Inf--NOUN-Nom (6)</li>
-      <li>VERB-Inf--PRON-Dat (3)</li>
-      <li>VERB-Inf--PRON-Nom (7)</li>
+      <li>VERB-Fin--PRON-Nom (100)</li>
+      <li>VERB-Inf--NOUN-Erg (1)</li>
+      <li>VERB-Inf--NOUN-Nom (2)</li>
+      <li>VERB-Inf--PRON-Dat (2)</li>
+      <li>VERB-Inf--PRON-Nom (2)</li>
       <li>VERB-Part--NOUN-Dat (7)</li>
       <li>VERB-Part--NOUN-Nom (18)</li>
       <li>VERB-Part--PRON (1)</li>
@@ -718,7 +742,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Erg (1)</li>
       <li>VERB-Part--PRON-Ins (1)</li>
       <li>VERB-Part--PRON-Nom (11)</li>
-      <li>VERB-Sup--NOUN-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -734,9 +757,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Dat (3)</li>
       <li>VERB-Fin--NOUN-Abs (1)</li>
       <li>VERB-Fin--NOUN-Abs-ADP(चा) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (95)</li>
+      <li>VERB-Fin--NOUN-Acc (96)</li>
       <li>VERB-Fin--NOUN-Com (1)</li>
       <li>VERB-Fin--NOUN-Dat (18)</li>
+      <li>VERB-Fin--NOUN-Nom (1)</li>
       <li>VERB-Fin--PRON (4)</li>
       <li>VERB-Fin--PRON-Acc (15)</li>
       <li>VERB-Fin--PRON-Dat (15)</li>
@@ -745,7 +769,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Part--NOUN-Abs-ADP(चा) (1)</li>
-      <li>VERB-Part--NOUN-Acc (14)</li>
+      <li>VERB-Part--NOUN-Acc (15)</li>
       <li>VERB-Part--PRON (2)</li>
       <li>VERB-Part--PRON-Acc (3)</li>
       <li>VERB-Sup--NOUN-Acc (4)</li>
@@ -757,9 +781,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Conv--NOUN-Dat (6)</li>
-      <li>VERB-Fin--NOUN-Dat (11)</li>
+      <li>VERB-Fin--NOUN-Dat (12)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--PRON-Dat (6)</li>
+      <li>VERB-Fin--PRON-Dat (7)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
       <li>VERB-Sup--PRON-Dat (1)</li>

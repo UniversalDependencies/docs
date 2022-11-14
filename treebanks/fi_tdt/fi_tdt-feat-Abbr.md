@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (89; 100% of non-empty `Abbr`): <em>mm., esim., n., jne, oik., yms, esim, jne., ym</em>
-* `EMPTY` (15523): <em>myös, niin, vain, nyt, jo, vielä, kuitenkin, sitten, hyvin, ihan</em>
+* `EMPTY` (15525): <em>myös, niin, vain, nyt, jo, vielä, kuitenkin, sitten, hyvin, ihan</em>
 
 ### `VERB`
 

@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 expl	color:blue
 1	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	miliardi	miliardo	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	miliardi	miliardo	NOUN	S	Gender=Masc|Number=Plur	5	nsubj:outer	_	_
 3	che	che	PRON	PR	_	5	nsubj	_	_
 4	si	si	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 5	spenderanno	spendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -85,18 +85,18 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 10	ad	ad	ADP	E	_	11	mark	_	_
 11	aiutar	aiutare	VERB	V	VerbForm=Inf	9	advcl	_	_
 12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
-13	ed	ed	CCONJ	CC	_	14	cc	_	_
-14	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
-15	proprio	proprio	ADV	B	_	14	advmod	_	_
+13	ed	ed	CCONJ	CC	_	24	cc	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
+15	proprio	proprio	ADV	B	_	18	advmod	_	_
 16	in	in	ADP	E	_	18	case	_	_
 17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	momento	momento	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+18	momento	momento	NOUN	S	Gender=Masc|Number=Sing	24	obl	_	_
 19	di	di	ADP	E	_	21	case	_	_
 20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
 22	che	che	SCONJ	CS	_	24	mark	_	_
 23	si	si	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	expl	_	_
-24	vedono	vedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl	_	_
+24	vedono	vedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
 25	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
 26	veri	vero	ADJ	A	Gender=Masc|Number=Plur	27	amod	_	_
 27	amici	amico	NOUN	S	Gender=Masc|Number=Plur	24	nsubj	_	_

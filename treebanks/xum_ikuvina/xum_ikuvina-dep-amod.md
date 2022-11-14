@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-78 nodes (13%) are attached to their parents as `amod`.
+102 nodes (13%) are attached to their parents as `amod`.
 
-69 instances of `amod` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.41025641025641.
+87 instances of `amod` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.34313725490196.
 
-The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (61; 78% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (10; 13% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (82; 80% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (10; 10% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	este	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
 2	persklum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
 3	aves	_	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
-4	anzeriates	_	VERB	_	Case=Abl|Number=Plur|Tense=Past|VerbForm=Part	3	dep	_	_
+4	anzeriates	_	VERB	_	Case=Abl|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
 5	enetu	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 6	pernaies	_	ADJ	_	Case=Abl|Number=Plur	3	amod	_	_
 7	pusnaes	_	ADJ	_	Case=Abl|Number=Plur	6	conj	_	_
@@ -52,11 +52,11 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 amod	color:blue
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 amod	color:blue
 1	kapiř	_	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
 2	purtitaf	_	VERB	_	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part	1	amod	_	_
 3	sakref	_	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	1	amod	_	_

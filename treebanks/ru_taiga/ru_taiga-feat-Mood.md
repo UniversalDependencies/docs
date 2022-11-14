@@ -12,18 +12,18 @@ It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 18502 tokens (9%) have a non-empty value of `Mood`.
 7148 types (19%) occur at least once with a non-empty value of `Mood`.
 3268 lemmas (16%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (16769; 9% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1451; 1% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (282; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (16770; 9% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1450; 1% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (282; 0% instances).
 
 ### `VERB`
 
-16769 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (68% of all `VERB` tokens) have a non-empty value of `Mood`.
+16770 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (68% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16767; 100%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (13352; 80%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11942; 71%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11707; 70%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (10748; 64%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16768; 100%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (13353; 80%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11942; 71%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11708; 70%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (10749; 64%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (978; 6% of non-empty `Mood`): <em>здравствуйте, подскажите, помогите, скажите, посоветуйте, дайте, давай, давайте, объясните, дай</em>
-* `Ind` (15791; 94% of non-empty `Mood`): <em>есть, может, могу, хочу, стоит, нравится, знаю, работает, сказал, было</em>
+* `Ind` (15792; 94% of non-empty `Mood`): <em>есть, может, могу, хочу, стоит, нравится, знаю, работает, сказал, было</em>
 * `EMPTY` (7978): <em>можно, нет, надо, делать, найти, сделать, купить, быть, сказать, есть</em>
 
 <table>
@@ -46,15 +46,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-1451 <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Mood`.
+1450 <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1193; 82%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1193; 82%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (974; 67%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (965; 67%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (876; 60%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (867; 60%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1192; 82%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1192; 82%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (973; 67%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (964; 66%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (875; 60%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (867; 60%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (258; 18% of non-empty `Mood`): <em>бы, б</em>
 * `Imp` (14; 1% of non-empty `Mood`): <em>будь, будьте, будте</em>
-* `Ind` (1179; 81% of non-empty `Mood`): <em>было, был, будет, есть, была, были, будут, буду, будем, будете</em>
+* `Ind` (1178; 81% of non-empty `Mood`): <em>было, был, будет, есть, была, были, будут, буду, будем, будете</em>
 * `EMPTY` (123): <em>быть, будучи, бывшая, бывший</em>
 
 <table>
@@ -89,7 +89,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (3005; 86%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (3006; 86%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (841; 66%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (430; 60%),
 <tt>AUX --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (30; 86%),

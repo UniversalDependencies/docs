@@ -7,15 +7,15 @@ udver: '2'
 ## Treebank Statistics: UD_Amharic-ATT: POS Tags: `INTJ`
 
 There are 23 `INTJ` lemmas (1%), 23 `INTJ` types (1%) and 66 `INTJ` tokens (1%).
-Out of 15 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 7 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 7 in number of types and 14 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: ስ, ኣ, እንዴ, ምነው, ማ, ሳ, ወይ, እንደሆን, እኮ, ምናልባት
 
 The 10 most frequent `INTJ` types:  ስ, ኣ, እንዴ, ምነው, ማ, ሳ, ወይ, እንደሆን, እኮ, ምናልባት
 
-The 10 most frequent ambiguous lemmas: ስ (<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 44, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 18, <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 10), ኣ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 59, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="am_att-pos-PART.html">PART</a></tt> 2), ምነው (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 6, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1, <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> 1), ሳ (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 1), ምናልባት (<tt><a href="am_att-pos-ADV.html">ADV</a></tt> 2, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), በል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 9, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንኳን (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 1), እንጂ (<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንጃ (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 4, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንግዲያ (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ስ (<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 44, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 18, <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 10), ኣ (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 1), ምነው (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 6, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1, <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> 1), ሳ (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 1), ምናልባት (<tt><a href="am_att-pos-ADV.html">ADV</a></tt> 2, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), በል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 9, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንኳን (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 1), እንጂ (<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንጃ (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 4, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንግዲያ (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ስ (<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 44, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 18, <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 10), ኣ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 59, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="am_att-pos-PART.html">PART</a></tt> 2), ምነው (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 6, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1, <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> 1), ሳ (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 1), ምናልባት (<tt><a href="am_att-pos-ADV.html">ADV</a></tt> 2, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), በል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 9, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንኳን (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 1), እንጂ (<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንጃ (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 4, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንግዲያ (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  ስ (<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 44, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 18, <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 10), ኣ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 59, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1, <tt><a href="am_att-pos-X.html">X</a></tt> 1), ምነው (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 6, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1, <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> 1), ሳ (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 1), ምናልባት (<tt><a href="am_att-pos-ADV.html">ADV</a></tt> 2, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), በል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 9, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንኳን (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 1), እንጂ (<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንጃ (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 4, <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1), እንግዲያ (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 1)
 
 
 * ስ
@@ -25,7 +25,8 @@ The 10 most frequent ambiguous types:  ስ (<tt><a href="am_att-pos-SCONJ.html">
 * ኣ
   * <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 59: ልብ ኡ ል ይ ፈነድ <b>ኣ</b> ትንሽ ቀረ ው ።
   * <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 7: ተቀጥር ኧህ ን ኧው <b>ኣ</b> የ እም ት ሠራ ው ።
-  * <tt><a href="am_att-pos-PART.html">PART</a></tt> 2: የ ገዝ <b>ኣ</b> ልብስ ኤ ን የ መስፋት ችሎታ ምነው በኖር ኧኝ ።
+  * <tt><a href="am_att-pos-PART.html">PART</a></tt> 1: የ ገዝ <b>ኣ</b> ልብስ ኤ ን የ መስፋት ችሎታ ምነው በኖር ኧኝ ።
+  * <tt><a href="am_att-pos-X.html">X</a></tt> 1: እንደ እም እ መጥ <b>ኣ</b> ለ አልማዝ ነገር ኩ ኣት ።
 * ምነው
   * <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 6: <b>ምነው</b> እውነት ኡ ን ብ ይ ናገር ኖር ኦ ።
   * <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 6: ይህ ምስኪን <b>ምነው</b> በ ደንብ በልት ኦ አይት ኤ ው ።
@@ -55,7 +56,7 @@ The 10 most frequent ambiguous types:  ስ (<tt><a href="am_att-pos-SCONJ.html">
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.000000).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.029841).
 
 The 1st highest number of forms (1) was observed with the lemma “ማ”: ማ.
 
@@ -63,7 +64,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ምነው”:
 
 The 3rd highest number of forms (1) was observed with the lemma “ምናልባት”: ምናልባት.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: <tt><a href="am_att-feat-Typo.html">Typo</a></tt> (1; 2% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `Typo=Yes`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (65 tokens).
+Examples: ስ, ኣ, እንዴ, ምነው, ማ, ሳ, ወይ, እንደሆን, እኮ, ምናልባት
 
 
 ## Relations
@@ -84,5 +91,5 @@ The highest child degree of a `INTJ` node is 3.
 
 Children of `INTJ` nodes are attached using 7 different relations: <tt><a href="am_att-dep-punct.html">punct</a></tt> (2; 25% instances), <tt><a href="am_att-dep-case.html">case</a></tt> (1; 13% instances), <tt><a href="am_att-dep-det.html">det</a></tt> (1; 13% instances), <tt><a href="am_att-dep-discourse.html">discourse</a></tt> (1; 13% instances), <tt><a href="am_att-dep-fixed.html">fixed</a></tt> (1; 13% instances), <tt><a href="am_att-dep-goeswith.html">goeswith</a></tt> (1; 13% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (1; 13% instances)
 
-Children of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (2; 25% instances), <tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 13% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> (1; 13% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (1; 13% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 13% instances)
+Children of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (2; 25% instances), <tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 13% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> (1; 13% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="am_att-pos-X.html">X</a></tt> (1; 13% instances)
 

@@ -28,7 +28,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Lem=happen|Len=8
 5	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=2
 6	_	_	PROPN	NNP	Number=Sing	4	obl	4:obl:in	Entity=(60-place-new-cf3-1-coref-Zimbabwe)|Lem=_|Len=8
-7	_	_	SCONJ	WRB	PronType=Rel	13	mark	13:mark	Discourse=elaboration-attribute:55->54:0|Lem=_|Len=5
+7	_	_	ADV	WRB	PronType=Rel	13	advmod	13:advmod	Discourse=elaboration-attribute:55->54:0|Lem=_|Len=5
 8	_	_	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(61-event-new-cf2-4-sgl|Lem=_|Len=1
 9	_	_	NUM	CD	NumForm=Word|NumType=Card	10	nummod	10:nummod	Lem=_|Len=7
 10	_	_	NOUN	NN	Number=Sing	11	compound	11:compound	Lem=_|Len=6
@@ -53,7 +53,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 13 14 nummod	color:blue
 1	_	_	CCONJ	CC	_	11	cc	11:cc	Discourse=context-circumstance:48->49:0|Lem=*LOWER*|Len=3
 2	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Entity=(23-organization-giv:inact-cf2-2-coref|Lem=_|Len=3
-3	_	_	NOUN	NN	Number=Sing	4	nsubj	4:nsubj|5:nsubj:xsubj	CorrectForm=government|Entity=23)|Lem=government|Len=5|XML=<sic ana:::"government"></sic>
+3	_	_	NOUN	NN	Number=Sing|Typo=Yes	4	nsubj	4:nsubj|5:nsubj:xsubj	CorrectForm=government|Entity=23)|Lem=government|Len=5|XML=<sic ana:::"government"></sic>
 4	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=keep|Len=5
 5	_	_	VERB	VBG	VerbForm=Ger	4	xcomp	4:xcomp	Lem=issue|Len=7
 6	_	_	ADJ	JJR	Degree=Cmp	7	amod	7:amod	Entity=(56-abstract-new-cf4-2-sgl|Lem=_|Len=4
@@ -63,12 +63,12 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 10	_	_	ADV	RB	Degree=Pos	11	advmod	11:advmod	Lem=_|Len=5
 11	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	4:conj:but	Lem=_|Len=4
 12	_	_	ADP	IN	_	13	case	13:case	Lem=_|Len=2
-13	_	_	SYM	SYM	_	11	obl	11:obl:at	Entity=(57-object-new-cf1-1-coref|Lem=_|Len=1
+13	_	_	SYM	$	_	11	obl	11:obl:at	Entity=(57-object-new-cf1-1-coref|Lem=_|Len=1
 14	_	_	NUM	CD	NumForm=Digit|NumType=Card	13	nummod	13:nummod	Entity=57)|Lem=_|Len=2
 15	_	_	SCONJ	IN	_	18	mark	18:mark	Lem=_|Len=4
 16	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	Entity=(57-object-giv:act-cf1-1-ana)|Lem=_|Len=2
 17	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	18:cop	Lem=be|Len=2
-18	_	_	SYM	SYM	_	11	advcl	11:advcl:like	Entity=(57-object-giv:act-cf1-1-coref|Lem=_|Len=1
+18	_	_	SYM	$	_	11	advcl	11:advcl:like	Entity=(57-object-giv:act-cf1-1-coref|Lem=_|Len=1
 19	_	_	NUM	CD	NumForm=Digit|NumType=Card	18	nummod	18:nummod	Entity=57)|Lem=_|Len=2|SpaceAfter=No
 20	_	_	PUNCT	,	_	21	punct	21:punct	Lem=_|Len=1
 21	_	_	ADJ	JJ	Degree=Pos	4	discourse	4:discourse	Discourse=organization-phatic:50->49:1|Lem=_|Len=5|SpaceAfter=No
@@ -88,11 +88,11 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	_	_	SCONJ	IN	_	31	mark	31:mark	Lem=_|Len=4
 4	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=contingency-condition:19->22:0|Entity=(22-event-new-cf6-28-disc|Lem=_|Len=2
 5	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Bridge=3<23|Entity=(23-organization-acc:inf-cf3-2-coref|Lem=_|Len=3
-6	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj|9:nsubj:xsubj	CorrectForm=government|Entity=23)|Lem=government|Len=4|XML=<sic ana:::"government"></sic>
+6	_	_	NOUN	NN	Number=Sing|Typo=Yes	7	nsubj	7:nsubj|9:nsubj:xsubj	CorrectForm=government|Entity=23)|Lem=government|Len=4|XML=<sic ana:::"government"></sic>
 7	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	advcl	31:advcl:if	Lem=decide|Len=7
 8	_	_	PART	TO	_	9	mark	9:mark	Lem=_|Len=2
 9	_	_	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	Lem=_|Len=5
-10	_	_	SYM	SYM	_	9	obj	9:obj	Entity=(24-abstract-new-cf2-1-coref|Lem=_|Len=1
+10	_	_	SYM	$	_	9	obj	9:obj	Entity=(24-abstract-new-cf2-1-coref|Lem=_|Len=1
 11	_	_	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	10:nummod	Entity=24)|Lem=100000000000000000|Len=23
 12	_	_	PUNCT	-LRB-	_	15	punct	15:punct	Discourse=restatement-partial:20->19:0|Lem=_|Len=1|SpaceAfter=No
 13	_	_	NUM	CD	NumForm=Digit|NumType=Card	14	compound	14:compound	Entity=(24-abstract-giv:act-cf2-3-appos|Lem=_|Len=1

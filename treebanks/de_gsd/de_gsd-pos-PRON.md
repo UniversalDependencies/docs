@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="de_gsd-pos-PRON
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.700787 (the average of all parts of speech is 1.187208).
+The form / lemma ratio of `PRON` is 1.700787 (the average of all parts of speech is 1.187276).
 
 The 1st highest number of forms (10) was observed with the lemma “der”: <em>das, dem, den, denen, der, deren, derer, des, dessen, die</em>.
 

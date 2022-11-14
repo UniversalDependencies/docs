@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-133 nodes (0%) are attached to their parents as `appos`.
+132 nodes (0%) are attached to their parents as `appos`.
 
-133 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.7218045112782.
+132 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.75.
 
-The following 15 pairs of parts of speech are connected with `appos`: <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (54; 41% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (25; 19% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (15; 11% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt> (13; 10% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (8; 6% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `appos`: <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (54; 41% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (25; 19% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (14; 11% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt> (13; 10% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (8; 6% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -55,7 +55,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	di	di	ADP	E	_	3	case	_	_
 3	rilievo	rilievo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	discorso	discorso	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+5	discorso	discorso	NOUN	S	Gender=Masc|Number=Sing	3	nsubj:outer	_	_
 6	che	che	PRON	PR	_	13	obj	_	_
 7	Robert	Robert	PROPN	SP	_	13	nsubj	_	_
 8	Kennedy	Kennedy	PROPN	SP	_	7	flat:name	_	_
@@ -63,7 +63,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 10	ex-senatore	ex-senatore	NOUN	S	Gender=Masc|Number=Sing	7	appos	_	_
 11	statunitense	statunitense	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
 12	,	,	PUNCT	FF	_	7	punct	_	_
-13	tenne	tenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	_	_
+13	tenne	tenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
 14	in	in	ADP	E	_	16	case	_	_
 15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	1968	1968	NUM	N	_	13	obl	_	_

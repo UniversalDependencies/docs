@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-aux.html">aux</a></tt>.
 There are also 4 other language-specific subtypes of `aux`: <tt><a href="mdf_jr-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="mdf_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="mdf_jr-dep-aux-opt.html">aux:opt</a></tt>, <tt><a href="mdf_jr-dep-aux-q.html">aux:q</a></tt>.
 
-8 nodes (0%) are attached to their parents as `aux:nec`.
+10 nodes (0%) are attached to their parents as `aux:nec`.
 
-8 instances of `aux:nec` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75.
+10 instances of `aux:nec` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6.
 
-The following 1 pairs of parts of speech are connected with `aux:nec`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (8; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:nec`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (10; 100% instances).
 
 
 ~~~ conllu

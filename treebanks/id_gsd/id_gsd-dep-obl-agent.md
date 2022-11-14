@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="id_gsd-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="id_gsd-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-64 nodes (0%) are attached to their parents as `obl:agent`.
+65 nodes (0%) are attached to their parents as `obl:agent`.
 
-64 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.015625.
+65 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03076923076923.
 
-The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (59; 92% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 3% instances).
+The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (59; 91% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (4; 6% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 3% instances).
 
 
 ~~~ conllu

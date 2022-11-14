@@ -22,7 +22,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hr_set-pos-PART.htm
 
 * `Neg` (842; 99% of non-empty `Polarity`): <em>ne, niti, ni</em>
 * `Pos` (9; 1% of non-empty `Polarity`): <em>da</em>
-* `EMPTY` (1240): <em>i, li, sve, čak, tek, ni, bilo, to, baš, niti</em>
+* `EMPTY` (1241): <em>i, li, sve, čak, tek, ni, bilo, to, baš, niti</em>
 
 ### `AUX`
 

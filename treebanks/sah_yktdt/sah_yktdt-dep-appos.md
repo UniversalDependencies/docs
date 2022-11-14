@@ -22,16 +22,16 @@ The following 1 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 appos	color:blue
-1	Коперник	Коперник	PROPN	propn	Case=Nom|Number=Sing	6	nmod	_	_
+1	Коперник	Коперник	PROPN	propn	_	6	nmod	_	_
 2	сүрүн	сүрүн	ADJ	adj	_	6	amod	_	fundamental
 3	уонна	уонна	CCONJ	cconj	_	4	cc	_	_
 4	соҕотох	соҕотох	ADJ	adj	_	6	amod	_	single
 5	кэриэтэ	кэриэтэ	ADV	adv	_	4	advmod	_	almost
-6	айымньыта	айымньыта	NOUN	n	Case=Nom|Number=Sing	0	root	_	creation
-7	-	_	PUNCT	punct	_	6	punct	_	_
-8	Халлаан	xаллаан	NOUN	n	Case=Nom|Number=Sing	9	nmod	_	sky
-9	эргимтэлэрин	эргимтэ	NOUN	n	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	nmod	_	sphere
-10	хамсааһына	хамсаа	NOUN	n	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	appos	_	movement
+6	айымньыта	айымньы	NOUN	n	Case=Par|Number=Sing	0	root	_	creation
+7	-	-	PUNCT	punct	_	6	punct	_	_
+8	Халлаан	халлаан	NOUN	n	Case=Nom|Number=Sing	9	nmod	_	sky
+9	эргимтэлэрин	эргимтэ	NOUN	n	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=3	10	nmod	_	sphere
+10	хамсааһына	хамсааһын	NOUN	n	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	appos	_	movement
 
 ~~~
 

@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
-10579 tokens (9%) have a non-empty value of `PronType`.
+10573 tokens (9%) have a non-empty value of `PronType`.
 151 types (1%) occur at least once with a non-empty value of `PronType`.
 90 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (6423; 5% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (3664; 3% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (404; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (88; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (6417; 5% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (3664; 3% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (404; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (88; 0% instances).
 
 ### `PRON`
 
-6423 <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+6417 <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="id_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3604; 56%), <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3564; 55%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="id_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3598; 56%), <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3558; 55%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (49; 1% of non-empty `PronType`): <em>seseorang, sesuatu, seorang, sejumlah, beberapa, Banyak</em>
 * `Int` (217; 3% of non-empty `PronType`): <em>apa, siapa, mana, Berapa, Dimana, Kenapa, apa-apa</em>
 * `Prs` (2904; 45% of non-empty `PronType`): <em>nya, ia, mereka, dia, diri, kita, ku, kamu, aku, mu</em>
-* `Rel` (3058; 48% of non-empty `PronType`): <em>yang, siapa, yg, apa</em>
+* `Rel` (3052; 48% of non-empty `PronType`): <em>yang, siapa, yg, apa</em>
 * `Tot` (43; 1% of non-empty `PronType`): <em>semua, keseluruhan, segala, kesemuanya, segenap</em>
 
 <table>
@@ -50,6 +50,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Emp` (51; 1% of non-empty `PronType`): <em>sendiri</em>
 * `Ind` (576; 16% of non-empty `PronType`): <em>beberapa, para, berbagai, sebagian, banyak, sejumlah, sekelompok, kebanyakan, serangkaian, semacam</em>
 * `Tot` (259; 7% of non-empty `PronType`): <em>semua, setiap, seluruh, masing-masing, segala, per, tiap, berdua, keseluruhan, masing</em>
+* `EMPTY` (6): <em>yang</em>
 
 `PronType` seems to be **lexical feature** of `DET`. 100% lemmas (52) occur only with one value of `PronType`.
 
@@ -80,7 +81,7 @@ The most frequent other feature values with which `NUM` and `PronType` co-occurr
 `NUM` tokens may have the following values of `PronType`:
 
 * `Tot` (88; 100% of non-empty `PronType`): <em>kedua, ketiga, keempat, Ke-400, ke-2, keenam, kelima, ketujuh</em>
-* `EMPTY` (4181): <em>satu, dua, 1, 2, 3, tiga, 5, 2010, 4, 2006</em>
+* `EMPTY` (4179): <em>satu, dua, 1, 2, 3, tiga, 5, 2010, 4, 2006</em>
 
 ## Relations with Agreement in `PronType`
 

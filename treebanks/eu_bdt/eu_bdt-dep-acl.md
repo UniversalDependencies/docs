@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1147 nodes (1%) are attached to their parents as `acl`.
+1127 nodes (1%) are attached to their parents as `acl`.
 
-1095 instances of `acl` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.06277244986922.
+1094 instances of `acl` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.04259094942325.
 
-The following 28 pairs of parts of speech are connected with `acl`: <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (916; 80% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (30; 3% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (29; 3% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (28; 2% instances), <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (25; 2% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (23; 2% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt>-<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt>-<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt>-<tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="eu_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `acl`: <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (944; 84% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (31; 3% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (29; 3% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (24; 2% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (23; 2% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt>-<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt>-<tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt>-<tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="eu_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,50 +22,51 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 acl	color:blue
-1	Bigarren	bigarren	NUM	_	NumType=Ord	2	amod	_	_
+1	Bigarren	bigarren	ADJ	_	NumType=Ord	2	amod	_	_
 2	marrazkian	marrazki	NOUN	_	Animacy=Inan|Case=Ine|Definite=Def|Number=Sing	3	obl	_	_
 3	agertzen	agertu	VERB	_	Aspect=Imp|VerbForm=Inf	5	acl	_	_
-4	den	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Person[abs]=3	3	aux	_	_
+4	den	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin	3	aux	_	_
 5	muntaia	muntaia	NOUN	_	Case=Abs|Definite=Def|Number=Sing	6	obj	_	_
-6	egizu	egin	VERB	_	Aspect=Prog|Mood=Imp|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1	0	root	_	SpaceAfter=No
+6	egizu	egin	VERB	_	Aspect=Prog|Mood=Imp|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 9 acl	color:blue
-1	Gauak	gau	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Plur	2	nsubj	_	_
-2	luzeak	luze	ADJ	_	Case=Abs|Definite=Def|Number=Plur	0	root	_	_
-3	ziren	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Plur|Person[abs]=3	2	cop	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	2	punct	_	_
-5	eta	eta	CCONJ	_	_	3	cc	_	_
-6	egunak	egun	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Plur	5	nsubj	_	_
-7	are	are	ADV	_	_	9	advmod	_	_
-8	eta	eta	CCONJ	_	_	7	dep	_	_
-9	luzeagoak	luze	ADJ	_	Case=Abs|Definite=Def|Degree=Cmp|Number=Plur	6	acl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 acl	color:blue
+1	Mahoma	Mahoma	PROPN	_	Case=Abs|Definite=Def|Number=Sing	8	nsubj	_	_
+2	izan	izan	AUX	_	Aspect=Perf|VerbForm=Part	8	cop	_	_
+3	zen	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin	8	aux	_	_
+4	islamaren	islam	NOUN	_	Case=Gen|Definite=Def|Number=Sing	5	nmod	_	_
+5	fedea	fede	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	6	obj	_	_
+6	zabaldu	zabaldu	VERB	_	Aspect=Perf|VerbForm=Part	8	acl	_	_
+7	zuen	edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin	6	aux	_	ReconstructedLemma=Yes
+8	lehena	lehen	ADJ	_	NumType=Ord	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 acl	color:blue
-1	Ugalketa	ugalketa	NOUN	_	Case=Abs|Definite=Def|Number=Sing	2	obj	_	_
-2	xede	xede	NOUN	_	Animacy=Inan|Case=Abs|Definite=Ind	4	acl	_	_
-3	duen	ukan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	2	cop	_	_
-4	klonazioa	klonazio	NOUN	_	Case=Abs|Definite=Def|Number=Sing	5	obj	_	_
-5	debekatzen	debekatu	VERB	_	Aspect=Imp|VerbForm=Inf	0	root	_	_
-6	du	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	5	aux	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 acl	color:blue
+1	Horregatik	horregatik	ADV	_	_	2	advmod	_	_
+2	hasi	hasi	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+3	zen	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin	2	aux	_	_
+4	bi	bi	NUM	_	NumType=Card	5	nummod	_	_
+5	aldeentzat	alde	NOUN	_	Animacy=Inan|Case=Ben|Definite=Def|Number=Plur	6	obl	_	_
+6	onuragarria	onuragarri	ADJ	_	Case=Abs|Definite=Def|Number=Sing	8	acl	_	_
+7	zen	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin	6	cop	_	_
+8	harremana	harreman	NOUN	_	Case=Abs|Definite=Def|Number=Sing	2	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

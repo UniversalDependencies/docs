@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Carolina Aragon, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Makurap-TuDeT](https://github.com/UniversalDependencies/UD_Makurap-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmpu_tudet210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmpu_tudet211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,14 +44,14 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. The project is a work in progress and the treebank is being updated on a regular basis.
+UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. The project is a work in progress and the treebank is being updated on a regular basis. The sentences are being annotated by Carolina Aragon, Fabrício Ferraz Gerardi, Luana dos Santos, and Luan Cabral.
 
 
 
 
 
 
-UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The sentences are being annotated by Carolina Aragon and Fabrício Ferraz Gerardi.
+UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The sentences are being annotated by Carolina Aragon, Fabrício Ferraz Gerardi, Luana dos Santos, and Luan Cabral.
 
 ## Text sources
 
@@ -86,7 +86,7 @@ The development of the treebank is supported by the by European Research Council
 
 
 <ul>
-<li>This corpus contains 31 sentences and 146 tokens.</li>
+<li>This corpus contains 37 sentences and 178 tokens.</li>
 </ul>
 
 <ul>
@@ -114,7 +114,7 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus contains 6 word types tagged as particles (PART): eya, ke, koa, nitēt, xēke, xēt</li>
+<li>This corpus contains 7 word types tagged as particles (PART): eya, ke, koa, nitēt, pet, xēke, xēt</li>
 </ul>
 
 <ul>
@@ -163,7 +163,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Gen
     <ul>
-      <li>NOUN: urot, xiaret, oxepngoret, worawiget, xauwet</li>
+      <li>NOUN: mokaraet, urot, xiaret, oxepngoret, worawiget, xauwet</li>
     </ul>
   </li>
 </ul>
@@ -299,7 +299,7 @@ The development of the treebank is supported by the by European Research Council
       <li>AUX: ota</li>
       <li>NOUN: oxepngoret</li>
       <li>PRON: on, õn</li>
-      <li>VERB: opũãtemwã</li>
+      <li>VERB: opũãtemwã, ouga</li>
     </ul>
   </li>
 </ul>
@@ -368,7 +368,7 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>Cont
         <ul>
-          <li>NOUN: urot, xiaret, oxepngoret, worawiget, xauwet</li>
+          <li>NOUN: kupngaporet, urot, xiaret, oxepngoret, worawiget, xauwet</li>
           <li>VERB: xagara</li>
         </ul>
       </li>
@@ -396,7 +396,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (2)</li>
       <li>VERB--NOUN-Gen (1)</li>
-      <li>VERB--PRON (6)</li>
+      <li>VERB--PRON (7)</li>
     </ul>
   </li>
 </ul>
@@ -405,7 +405,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (9)</li>
-      <li>VERB--NOUN-Gen (1)</li>
+      <li>VERB--NOUN-Gen (2)</li>
     </ul>
   </li>
 </ul>

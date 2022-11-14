@@ -12,9 +12,9 @@ There are also 2 other language-specific subtypes of `compound`: <tt><a href="pc
 366 nodes (0%) are attached to their parents as `compound:prt`.
 
 366 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.31147540983607.
+Average distance between parent and child is 1.31693989071038.
 
-The following 8 pairs of parts of speech are connected with `compound:prt`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (350; 96% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `compound:prt`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (351; 96% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,22 +24,22 @@ The following 8 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 4	fgColor:white
 # visual-style 4 7 compound:prt	color:blue
 1	#	#	X	_	_	4	dep	_	AlignBegin=214469|AlignEnd=215220|Gloss=PUNCT
-2	make	make	AUX	_	Mood=Opt	4	aux	_	AlignBegin=215220|AlignEnd=215310|Gloss=SBJV|SyllableCount=1|WordContour=Hm
-3	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=215310|AlignEnd=215536|Gloss=NOM.PL.3|SyllableCount=1|WordContour=mm
-4	keep	keep	VERB	_	_	0	root	_	AlignBegin=215536|AlignEnd=215716|Gloss=keep|SyllableCount=1|WordContour=X
-5	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	_	AlignBegin=215716|AlignEnd=215857|Gloss=ACC.SG.3|SyllableCount=1|WordContour=hm
-6	{	{	X	_	_	7	dep	_	AlignBegin=215857|AlignEnd=215887|Gloss=PUNCT
-7	up	up	ADP	_	_	4	compound:prt	_	AlignBegin=215887|AlignEnd=215996|Gloss=up|SyllableCount=1|WordContour=mm
-8	|r	|r	X	_	_	10	dep	_	AlignBegin=215996|AlignEnd=216026|Gloss=PUNCT
+2	make	make	AUX	_	Mood=Opt	4	aux	_	AlignBegin=215220|AlignEnd=215310|Gloss=SBJV|LeftOverlap=False|RightOverlap=False|Syl1=HH|SyllableCount=1|WordContour=Hm
+3	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=215310|AlignEnd=215536|Gloss=NOM.PL.3|LeftOverlap=False|RightOverlap=False|Syl1=hm|SyllableCount=1|WordContour=mm
+4	keep	keep	VERB	_	_	0	root	_	AlignBegin=215536|AlignEnd=215716|Gloss=keep|LeftOverlap=False|RightOverlap=True|Syl1=X|Syl2=mm|SyllableCount=1|WordContour=X
+5	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	_	AlignBegin=215716|AlignEnd=215887|Gloss=ACC.SG.3|LeftOverlap=True|RightOverlap=True|Syl1=mm|Syl2=mm|SyllableCount=1|WordContour=hm
+6	{	{	X	_	_	7	dep	_	AlignBegin=215887|AlignEnd=215887|Gloss=PUNCT
+7	up	up	ADP	_	_	4	compound:prt	_	AlignBegin=215887|AlignEnd=216026|Gloss=up|LeftOverlap=True|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+8	|r	|r	X	_	_	10	dep	_	AlignBegin=216026|AlignEnd=216026|Gloss=PUNCT
 9	#	#	X	_	_	10	dep	_	AlignBegin=216026|AlignEnd=216332|Gloss=PUNCT
-10	up	up	ADP	_	_	7	compound:redup	_	AlignBegin=216332|AlignEnd=216669|Gloss=up|SyllableCount=1|WordContour=hl
-11	}	}	X	_	_	7	dep	_	AlignBegin=216669|AlignEnd=216699|Gloss=PUNCT
-12	as	as	ADP	_	_	14	mark	_	AlignBegin=216699|AlignEnd=216957|Gloss=as|SyllableCount=1|WordContour=hml2
-13	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	AlignBegin=216957|AlignEnd=217042|Gloss=NOM.SG.3|SyllableCount=1|WordContour=ml
-14	dey	dey	VERB	_	VerbType=Cop	4	advcl	_	AlignBegin=217042|AlignEnd=217211|Gloss=be|SyllableCount=1|WordContour=mmh1
-15	like	like	ADP	_	_	16	case	_	AlignBegin=217211|AlignEnd=217429|Gloss=like|SyllableCount=1|WordContour=ml
-16	dat	dat	PRON	_	Number=Sing	14	xcomp	_	AlignBegin=217429|AlignEnd=217586|Gloss=SG.DEM|SyllableCount=1|WordContour=lmh1
-17	//	//	X	_	_	4	dep	_	AlignBegin=217586|AlignEnd=217616|Gloss=PUNCT
+10	up	up	ADP	_	_	7	compound:redup	_	AlignBegin=216332|AlignEnd=216699|Gloss=up|LeftOverlap=False|RightOverlap=False|Syl1=hh|SyllableCount=1|WordContour=hl
+11	}	}	X	_	_	7	dep	_	AlignBegin=216699|AlignEnd=216699|Gloss=PUNCT
+12	as	as	ADP	_	_	14	mark	_	AlignBegin=216699|AlignEnd=216957|Gloss=as|LeftOverlap=False|RightOverlap=True|Syl1=hh|Syl2=mmh2|SyllableCount=1|WordContour=hml2
+13	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	AlignBegin=216957|AlignEnd=217042|Gloss=NOM.SG.3|LeftOverlap=True|RightOverlap=False|Syl1=mmh2|SyllableCount=1|WordContour=ml
+14	dey	dey	VERB	_	VerbType=Cop	4	advcl	_	AlignBegin=217042|AlignEnd=217211|Gloss=be|LeftOverlap=False|RightOverlap=False|Syl1=hhh1|SyllableCount=1|WordContour=mmh1
+15	like	like	ADP	_	_	16	case	_	AlignBegin=217211|AlignEnd=217429|Gloss=like|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=ml
+16	dat	dat	PRON	_	Number=Sing	14	xcomp	_	AlignBegin=217429|AlignEnd=217616|Gloss=SG.DEM|LeftOverlap=False|RightOverlap=False|Syl1=mmh1|SyllableCount=1|WordContour=lmh1
+17	//	//	X	_	_	4	dep	_	AlignBegin=217616|AlignEnd=217616|Gloss=PUNCT
 
 ~~~
 

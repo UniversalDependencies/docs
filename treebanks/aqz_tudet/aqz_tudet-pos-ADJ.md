@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Akuntsu-TuDeT: POS Tags: `ADJ`
 
-There are 5 `ADJ` lemmas (2%), 5 `ADJ` types (1%) and 5 `ADJ` tokens (0%).
+There are 5 `ADJ` lemmas (1%), 5 `ADJ` types (1%) and 5 `ADJ` tokens (0%).
 Out of 13 observed tags, the rank of `ADJ` is: 9 in number of lemmas, 9 in number of types and 13 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>atʃi, kipɨ, pagop, perek, tʃame</em>
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>atʃi</em> (<tt><a href="aqz_tudet-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.376582).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.420613).
 
 The 1st highest number of forms (1) was observed with the lemma “atʃi”: <em>atʃi</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-30 nodes (1%) are attached to their parents as `advcl`.
+33 nodes (1%) are attached to their parents as `advcl`.
 
-27 instances of `advcl` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.76666666666667.
+28 instances of `advcl` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.48484848484848.
 
-The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (13; 43% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (5; 17% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> (3; 10% instances), <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt>-<tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (14; 42% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (5; 15% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (4; 12% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> (3; 9% instances), <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt>-<tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

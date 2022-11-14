@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-83 nodes (3%) are attached to their parents as `root`.
+95 nodes (3%) are attached to their parents as `root`.
 
-83 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.46987951807229.
+95 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (66; 80% instances), -<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (8; 10% instances), -<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (6; 7% instances), -<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 1% instances), -<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), -<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (75; 79% instances), -<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (10; 11% instances), -<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (6; 6% instances), -<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), -<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 1% instances), -<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,8 +27,8 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 3	skynst	skynen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	lemma[gml]=schînen
 4	neet	nich	PART	_	PartType=Neg	3	advmod	_	lemma[gml]=nicht¹
 5	in	in	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=in²
-6	dyn	dyn	DET	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	7	det:poss	_	Case[regional]=Acc|lemma[gml]=dîn
-7	hümöör	humoor	NOUN	_	Case=Dat|Number=Sing	3	xcomp	_	Case[regional]=Acc
+6	dyn	dyn	DET	_	Case=Acc,Dat|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	7	det:poss	_	lemma[gml]=dîn
+7	hümöör	humoor	NOUN	_	Case=Acc,Dat|Number=Sing	3	xcomp	_	_
 8	te	to	PART	_	PartType=Inf	3	mark	_	lemma[gml]=tô⁵
 9	weasen	weasen	AUX	_	VerbForm=Inf	7	cop	_	lemma[gml]=wēsen²|SpaceAfter=No
 10	'	'	PUNCT	_	_	3	punct	_	SpaceAfter=No

@@ -11,7 +11,7 @@ It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
 43124 tokens (8%) have a non-empty value of `Mood`.
 7600 types (20%) occur at least once with a non-empty value of `Mood`.
-1917 lemmas (7%) occur at least once with a non-empty value of `Mood`.
+1912 lemmas (7%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (30472; 5% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (12652; 2% instances).
 
 ### `VERB`

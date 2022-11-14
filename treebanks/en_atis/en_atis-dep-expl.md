@@ -24,10 +24,10 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 1 2 expl	color:blue
 1	are	be	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	there	there	PRON	_	PronType=Dem	1	expl	_	_
-3	delta	delta	PROPN	_	Number=Sing	4	compound	_	_
+3	delta	Delta	PROPN	_	Number=Sing	4	compound	_	_
 4	flights	flight	NOUN	_	Number=Plur	1	nsubj	_	_
 5	leaving	leave	VERB	_	Tense=Pres|VerbForm=Part	4	acl:relcl	_	_
-6	atlanta	atlanta	PROPN	_	Number=Sing	5	obj	_	_
+6	atlanta	Atlanta	PROPN	_	Number=Sing	5	obj	_	_
 
 ~~~
 
@@ -43,8 +43,8 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 3	limo	limo	NOUN	_	Number=Sing	4	compound	_	_
 4	service	service	NOUN	_	Number=Sing	1	nsubj	_	_
 5	at	at	ADP	_	_	6	case	_	_
-6	pittsburgh	pittsburgh	PROPN	_	Number=Sing	1	obl	_	_
-7	airport	airport	PROPN	_	Number=Sing	6	flat	_	_
+6	pittsburgh	Pittsburgh	PROPN	_	Number=Sing	1	obl	_	_
+7	airport	Airport	PROPN	_	Number=Sing	6	flat	_	_
 
 ~~~
 
@@ -60,12 +60,12 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 3	a	a	DET	_	PronType=Art	4	det	_	_
 4	flight	flight	NOUN	_	Number=Sing	0	root	_	_
 5	on	on	ADP	_	_	6	case	_	_
-6	continental	continental	PROPN	_	Number=Sing	4	nmod	_	_
+6	continental	Continental	PROPN	_	Number=Sing	4	nmod	_	_
 7	airlines	airline	PROPN	_	Number=Plur	6	flat	_	_
 8	from	from	ADP	_	_	9	case	_	_
-9	boston	boston	PROPN	_	Number=Sing	6	nmod	_	_
+9	boston	Boston	PROPN	_	Number=Sing	6	nmod	_	_
 10	to	to	ADP	_	_	11	case	_	_
-11	denver	denver	PROPN	_	Number=Sing	6	nmod	_	_
+11	denver	Denver	PROPN	_	Number=Sing	6	nmod	_	_
 
 ~~~
 

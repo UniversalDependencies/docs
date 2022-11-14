@@ -11,9 +11,9 @@ This relation is universal.
 5476 nodes (5%) are attached to their parents as `det`.
 
 5465 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75073046018992.
+Average distance between parent and child is 1.75018261504748.
 
-The following 3 pairs of parts of speech are connected with `det`: <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-DET.html">DET</a></tt> (4977; 91% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-DET.html">DET</a></tt> (341; 6% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="da_ddt-pos-DET.html">DET</a></tt> (158; 3% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-DET.html">DET</a></tt> (4976; 91% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-DET.html">DET</a></tt> (335; 6% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="da_ddt-pos-DET.html">DET</a></tt> (158; 3% instances), <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt>-<tt><a href="da_ddt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="da_ddt-pos-X.html">X</a></tt>-<tt><a href="da_ddt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

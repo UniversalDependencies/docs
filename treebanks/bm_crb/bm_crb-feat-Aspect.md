@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="bm_crb-pos-AUX.html
 
 ### `AUX`
 
-811 <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> tokens (57% of all `AUX` tokens) have a non-empty value of `Aspect`.
+811 <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> tokens (58% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
 The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="bm_crb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (641; 79%), <tt><a href="bm_crb-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (441; 54%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 * `Imp` (360; 44% of non-empty `Aspect`): <em>bè, tè, be, bɛ, te, tɛ, b'</em>
 * `Perf` (451; 56% of non-empty `Aspect`): <em>ye, ma, y'</em>
-* `EMPTY` (610): <em>ka, tun, diye, kana, mana, k', bèna, na, ba, dòn</em>
+* `EMPTY` (590): <em>ka, tun, kana, mana, k', bèna, na, k, man, n'</em>
 
 ### `VERB`
 

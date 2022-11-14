@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (10%) are attached to their parents as `parataxis`.
+16 nodes (9%) are attached to their parents as `parataxis`.
 
-14 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.92857142857143.
+15 instances of `parataxis` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.8125.
 
-The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt> (10; 71% instances), <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-PRON.html">PRON</a></tt> (3; 21% instances), <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt> (12; 75% instances), <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-PRON.html">PRON</a></tt> (3; 19% instances), <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

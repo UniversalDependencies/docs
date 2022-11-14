@@ -28,6 +28,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="da_ddt-pos-ADP.html
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
 <tt>ADP --[<tt><a href="da_ddt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (24; 100%),
+<tt>ADP --[<tt><a href="da_ddt-dep-case.html">case</a></tt>]--> ADP</tt> (15; 83%),
 <tt>ADP --[<tt><a href="da_ddt-dep-conj.html">conj</a></tt>]--> ADP</tt> (8; 100%),
 <tt>ADP --[<tt><a href="da_ddt-dep-appos.html">appos</a></tt>]--> ADP</tt> (1; 100%).
 

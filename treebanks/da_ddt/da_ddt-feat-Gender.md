@@ -12,7 +12,7 @@ It occurs with 2 different values: `Com`, `Neut`.
 29231 tokens (29%) have a non-empty value of `Gender`.
 10157 types (57%) occur at least once with a non-empty value of `Gender`.
 7063 lemmas (53%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 5 part-of-speech tags: <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (18611; 18% instances), <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (4804; 5% instances), <tt><a href="da_ddt-pos-DET.html">DET</a></tt> (4203; 4% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (1611; 2% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (18611; 18% instances), <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (4802; 5% instances), <tt><a href="da_ddt-pos-DET.html">DET</a></tt> (4203; 4% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (1605; 2% instances), <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Com` (12925; 69% of non-empty `Gender`): <em>kr., gang, dag, tid, del, mand, måde, verden, dage, gange</em>
 * `Neut` (5686; 31% of non-empty `Gender`): <em>år, folk, går, par, børn, mennesker, stedet, fald, arbejde, sted</em>
-* `EMPTY` (114): <em>lov, Jordens, forvejen, vest, øst, Jorden, fjor, mahogni, slut, Nord</em>
+* `EMPTY` (115): <em>lov, Jordens, forvejen, vest, øst, Jorden, fjor, mahogni, slut, Nord</em>
 
 <table>
   <tr><th>Paradigm <i>dag</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -40,15 +40,15 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `PRON`
 
-4804 <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Gender`.
+4802 <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="da_ddt-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (4804; 100%), <tt><a href="da_ddt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3965; 83%), <tt><a href="da_ddt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3870; 81%), <tt><a href="da_ddt-feat-Person.html">Person</a></tt><tt>=3</tt> (2488; 52%), <tt><a href="da_ddt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2455; 51%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="da_ddt-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (4802; 100%), <tt><a href="da_ddt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3965; 83%), <tt><a href="da_ddt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3868; 81%), <tt><a href="da_ddt-feat-Person.html">Person</a></tt><tt>=3</tt> (2488; 52%), <tt><a href="da_ddt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2455; 51%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Com` (3307; 69% of non-empty `Gender`): <em>han, jeg, vi, man, hun, den, du, ham, mig, os</em>
+* `Com` (3305; 69% of non-empty `Gender`): <em>han, jeg, vi, man, hun, den, du, ham, mig, os</em>
 * `Neut` (1497; 31% of non-empty `Gender`): <em>det, noget, andet, dette, et, hvilket, hvert, intet, a., dét</em>
-* `EMPTY` (1996): <em>der, de, sig, som, hvad, selv, dem, andre, hinanden, nogle</em>
+* `EMPTY` (2400): <em>der, de, sig, som, hvad, selv, dem, andre, hinanden, nogle</em>
 
 <table>
   <tr><th>Paradigm <i>den</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -76,19 +76,36 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-1611 <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> tokens (25% of all `ADJ` tokens) have a non-empty value of `Gender`.
+1605 <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> tokens (24% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="da_ddt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1611; 100%), <tt><a href="da_ddt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1611; 100%), <tt><a href="da_ddt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1495; 93%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="da_ddt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1605; 100%), <tt><a href="da_ddt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1605; 100%), <tt><a href="da_ddt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1489; 93%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Com` (1024; 64% of non-empty `Gender`): <em>stor, ny, klar, lang, god, egen, sådan, al, halv, almindelig</em>
-* `Neut` (587; 36% of non-empty `Gender`): <em>alt, stort, godt, nyt, svært, muligt, eget, klart, halvt, vigtigt</em>
-* `EMPTY` (4960): <em>alle, mange, danske, store, flere, samme, hele, første, nye, sidste</em>
+* `Com` (1020; 64% of non-empty `Gender`): <em>stor, ny, klar, lang, god, egen, sådan, al, almindelig, fri</em>
+* `Neut` (585; 36% of non-empty `Gender`): <em>alt, stort, godt, nyt, svært, muligt, eget, klart, vigtigt, halvt</em>
+* `EMPTY` (4954): <em>alle, mange, danske, store, samme, flere, hele, første, nye, sidste</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
   <tr><td><tt></tt></td><td><em>stort</em></td><td><em>stor</em></td></tr>
+</table>
+
+### `NUM`
+
+8 <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="da_ddt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (8; 100%).
+
+`NUM` tokens may have the following values of `Gender`:
+
+* `Com` (6; 75% of non-empty `Gender`): <em>halv, en, halvanden, én</em>
+* `Neut` (2; 25% of non-empty `Gender`): <em>halvt</em>
+* `EMPTY` (1497): <em>to, tre, fire, 20, fem, seks, 10, otte, 100, 1</em>
+
+<table>
+  <tr><th>Paradigm <i>halv</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>halvt</em></td><td><em>halv</em></td></tr>
 </table>
 
 ### `VERB`
@@ -100,19 +117,19 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 `VERB` tokens may have the following values of `Gender`:
 
 * `Com` (2; 100% of non-empty `Gender`): <em>foretrukne, udskårne</em>
-* `EMPTY` (10710): <em>er, har, siger, var, få, får, fik, sagde, kommer, se</em>
+* `EMPTY` (10896): <em>er, har, siger, var, få, får, fik, sagde, bliver, kommer</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="da_ddt-dep-det.html">det</a></tt>]--> DET</tt> (3744; 75%),
-<tt>NOUN --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1837; 57%),
-<tt>NOUN --[<tt><a href="da_ddt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (624; 64%),
+<tt>NOUN --[<tt><a href="da_ddt-dep-det.html">det</a></tt>]--> DET</tt> (3743; 75%),
+<tt>NOUN --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1852; 57%),
+<tt>NOUN --[<tt><a href="da_ddt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (628; 64%),
 <tt>NOUN --[<tt><a href="da_ddt-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (340; 55%),
-<tt>ADJ --[<tt><a href="da_ddt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (189; 57%),
-<tt>NOUN --[<tt><a href="da_ddt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (100; 60%),
-<tt>PRON --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (77; 57%),
-<tt>NOUN --[<tt><a href="da_ddt-dep-mark.html">mark</a></tt>]--> PRON</tt> (49; 74%),
+<tt>ADJ --[<tt><a href="da_ddt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (177; 57%),
+<tt>NOUN --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (93; 52%),
+<tt>NOUN --[<tt><a href="da_ddt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (91; 57%),
+<tt>PRON --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (78; 58%),
 <tt>NOUN --[<tt><a href="da_ddt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (33; 59%),
-<tt>PRON --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (27; 53%).
+<tt>PRON --[<tt><a href="da_ddt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (29; 57%).
 

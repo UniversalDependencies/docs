@@ -30,7 +30,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	יש	יש	VERB	VERB	Polarity=Pos	0	root	_	_
 7	לבדוק	בדק	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	6	csubj	_	_
 8	תאימות	תאימות	NOUN	NOUN	Gender=Fem|Number=Sing	7	obj	_	_
-9	של	של	ADP	ADP	_	10	case	_	_
+9	של	של	ADP	ADP	Case=Gen	10	case	_	_
 10	נוגדנים	נוגדן	NOUN	NOUN	Gender=Masc|Number=Plur	8	nmod:poss	_	_
 11	אצל	אצל	ADP	ADP	_	13	case	_	_
 12	ה	ה	DET	DET	Definite=Def|PronType=Art	13	det	_	_
@@ -50,7 +50,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	ה	ה	DET	DET	Definite=Def|PronType=Art	3	det	_	_
 3	לוואי	לוואי	NOUN	NOUN	Gender=Fem|Number=Plur	1	compound	_	_
 4	עלולות	עלול	AUX	AUX	Gender=Fem|Number=Plur	6	aux	_	_
-5	להיות	היה	AUX	AUX	Polarity=Pos|VerbForm=Inf	6	cop	_	_
+5	להיות	היה	AUX	AUX	HebBinyan=PAAL|Polarity=Pos|VerbForm=Inf	6	cop	_	_
 6	בחילות	בחילה	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	_
 7	ו	ו	CCONJ	CCONJ	_	8	cc	_	_
 8	תחושת	תחושה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	conj	_	_

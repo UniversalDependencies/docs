@@ -27,7 +27,7 @@ The most frequent other feature values with which `ADP` and `Person` co-occurred
 * `1` (17; 61% of non-empty `Person`): <em>artean, inguruan, aldetik, begira, bezala, atzeko, barneko, buruan, zai, zain</em>
 * `2` (5; 18% of non-empty `Person`): <em>artean, barneko, gain, gisara, inguruan</em>
 * `3` (6; 21% of non-empty `Person`): <em>arteko, aitzinean, artean, esku, kontra</em>
-* `EMPTY` (1848): <em>artean, arabera, aurka, arteko, arte, gabe, aurrean, inguruan, kontra, bezala</em>
+* `EMPTY` (1847): <em>artean, arabera, aurka, arteko, arte, gabe, aurrean, inguruan, kontra, bezala</em>
 
 <table>
   <tr><th>Paradigm <i>arte</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -57,5 +57,5 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `NOUN` tokens may have the following values of `Person`:
 
 * `1` (2; 100% of non-empty `Person`): <em>geurea, nireak</em>
-* `EMPTY` (29775): <em>behar, nahi, euskal, urte, talde, aukera, uste, jokalari, lan, egoera</em>
+* `EMPTY` (29711): <em>behar, nahi, euskal, urte, talde, aukera, uste, jokalari, lan, egoera</em>
 

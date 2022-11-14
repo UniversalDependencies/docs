@@ -24,14 +24,14 @@ The following 17 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound	color:blue
 1	嗰陣時	嗰陣時	NOUN	_	_	4	nmod	_	SpaceAfter=No
-2	啲	啲	NOUN	_	NounType=Clf	4	det	_	SpaceAfter=No
+2	啲	啲	NOUN	_	NounType=Clf	4	clf:det	_	SpaceAfter=No
 3	CD	CD	NOUN	_	_	4	compound	_	SpaceAfter=No
 4	舖	舖	NOUN	_	_	6	nsubj	_	SpaceAfter=No
 5	仲	仲	ADV	_	_	6	advmod	_	SpaceAfter=No
 6	多	多	ADJ	_	_	0	root	_	SpaceAfter=No
 7	過	過	ADP	_	_	10	case	_	SpaceAfter=No
 8	而家	而家	NOUN	_	_	10	nmod	_	SpaceAfter=No
-9	啲	啲	NOUN	_	NounType=Clf	10	det	_	SpaceAfter=No
+9	啲	啲	NOUN	_	NounType=Clf	10	clf:det	_	SpaceAfter=No
 10	七十一	七十一	PROPN	_	_	6	obl	_	SpaceAfter=No
 11	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 

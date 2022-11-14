@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="hi_hdtb-pos-X.html"
 
 ### `X`
 
-121 <tt><a href="hi_hdtb-pos-X.html">X</a></tt> tokens (82% of all `X` tokens) have a non-empty value of `Foreign`.
+121 <tt><a href="hi_hdtb-pos-X.html">X</a></tt> tokens (86% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (121; 100% of non-empty `Foreign`): पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, आउट, आफ, इंटरसेप्ट, रेफर
-* `EMPTY` (27): अलग, अपने, बड़े, बार, 50, आधा, इतना, इतनी, कभी, खासी
+* `EMPTY` (19): अलग, अपने, बार, 50, आधा, कभी, गरज, तीन, दर्जन, दो
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (61) occur only with one value of `Foreign`.
 

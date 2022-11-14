@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-875 nodes (9%) are attached to their parents as `cop`.
+863 nodes (9%) are attached to their parents as `cop`.
 
-778 instances of `cop` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.88.
+768 instances of `cop` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.87833140208575.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (599; 68% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (117; 13% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (97; 11% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (36; 4% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (16; 2% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (592; 69% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (118; 14% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (95; 11% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (35; 4% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (15; 2% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,19 +55,17 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 cop	color:blue
-1	Í	í	ADP	Pr	_	2	case	_	_
-2	2011	2011	NUM	Num	Case=Dat	5	obl	_	_
-3	varð	verða	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
-4	hann	hann	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-5	útbúgvin	útbúgvin	ADJ	A	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-6	sum	sum	SCONJ	CS	_	7	mark	_	_
-7	lærari	lærari	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	advcl	_	SpaceAfter=No
-8	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 3 2 cop	color:blue
+1	Skøkjulevnaður	skøkjulevnaður	NOUN	N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+3	ólógligur	ólógligur	ADJ	A	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+4	í	í	ADP	Pr	_	5	case	_	_
+5	Norra	Norra	PROPN	N	Case=Nom|Number=Sing	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3588 nodes (1%) are attached to their parents as `nummod`.
+3582 nodes (1%) are attached to their parents as `nummod`.
 
-3583 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09810479375697.
+3577 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.09798994974874.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (3113; 87% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (402; 11% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (42; 1% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (3111; 87% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (402; 11% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (45; 1% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	wordform=ce
 2	taux	taux	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	atteint	atteindre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	même	même	ADV	_	_	5	advmod	_	_
+4	même	même	ADV	_	_	3	advmod	_	_
 5	50	50	NUM	_	Number=Plur	6	nummod	_	SpaceAfter=No
 6	%	%	SYM	_	Number=Plur	3	obj	_	ExtPos=NOUN
 7	dans	dans	ADP	_	_	9	case	_	_
@@ -58,24 +58,20 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nummod	color:blue
-1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	wordform=le
-2	restaurant	restaurant	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
-3	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
-4	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	à	à	ADP	_	_	8	case	_	_
-6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	289	289	NUM	_	Number=Plur	8	nummod	_	_
-8	Boul	Boul	PROPN	_	Gender=Masc|Number=Sing	4	obl:arg	_	_
-9	Curé	curé	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	wordform=curé
-10	Labelle	Labelle	PROPN	_	_	9	appos	_	_
-11	SAINTE	SAINTE	PROPN	_	_	9	nmod	_	_
-12	ROSE	ROSE	PROPN	_	_	11	flat:name	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nummod	color:blue
+1	2000	2000	NUM	_	Number=Plur	2	nummod	_	_
+2	OK67	OK67	PROPN	_	_	3	nsubj	_	_
+3	mesure	mesurer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	environ	environ	ADV	_	_	5	advmod	_	_
+5	160	160	NUM	_	Number=Plur	6	nummod	_	SpaceAfter=No
+6	km	km	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	diamètre	diamètre	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

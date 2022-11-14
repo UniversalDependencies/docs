@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hebrew-IAHLTwiki: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="he_iahltwiki-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
 860 nodes (1%) are attached to their parents as `nsubj:pass`.
 
@@ -30,7 +31,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 6	יש	יש	VERB	VERB	Polarity=Pos	0	root	_	_
 7	לבדוק	בדק	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	6	csubj	_	_
 8	תאימות	תאימות	NOUN	NOUN	Gender=Fem|Number=Sing	7	obj	_	_
-9	של	של	ADP	ADP	_	10	case	_	_
+9	של	של	ADP	ADP	Case=Gen	10	case	_	_
 10	נוגדנים	נוגדן	NOUN	NOUN	Gender=Masc|Number=Plur	8	nmod:poss	_	_
 11	אצל	אצל	ADP	ADP	_	13	case	_	_
 12	ה	ה	DET	DET	Definite=Def|PronType=Art	13	det	_	_

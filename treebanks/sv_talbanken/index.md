@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Aaron Smith.
 
 Repository: [UD_Swedish-Talbanken](https://github.com/UniversalDependencies/UD_Swedish-Talbanken)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -679,7 +679,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON (197)</li>
       <li>VERB-Inf--PRON-Nom (521)</li>
       <li>VERB-Sup--NOUN (3)</li>
-      <li>VERB-Sup--NOUN-Nom (275)</li>
+      <li>VERB-Sup--NOUN-Nom (274)</li>
       <li>VERB-Sup--PRON (100)</li>
       <li>VERB-Sup--PRON-Nom (152)</li>
     </ul>

@@ -11,14 +11,14 @@ It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `No
 
 4467 tokens (42%) have a non-empty value of `Case`.
 2920 types (67%) occur at least once with a non-empty value of `Case`.
-1526 lemmas (63%) occur at least once with a non-empty value of `Case`.
-The feature is used with 10 part-of-speech tags: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (3002; 28% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (559; 5% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (476; 5% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (270; 3% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (48; 0% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (47; 0% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (46; 0% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+1525 lemmas (63%) occur at least once with a non-empty value of `Case`.
+The feature is used with 10 part-of-speech tags: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (2999; 28% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (562; 5% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (476; 5% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (275; 3% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (48; 0% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (46; 0% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (42; 0% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-3002 <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Case`.
+2999 <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2604; 87%), <tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1870; 62%), <tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1870; 62%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2601; 87%), <tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1867; 62%), <tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1867; 62%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Gen` (297; 10% of non-empty `Case`): <em>жылдың, ғасырдың, халықтың, адамның, елдің, Жобаның, ағаштың, еліміздің, қазақтың, қаланың</em>
 * `Ins` (78; 3% of non-empty `Case`): <em>сезіммен, Асумен, Жорғалықпенен, Күнмен, Нашақорлықпен, Патшамен, Тәсілмен, абыроймен, ерлікпен, жолмен</em>
 * `Loc` (299; 10% of non-empty `Case`): <em>елде, ғасырда, түрде, елдегі, кезде, жерде, арасында, кезінде, баспасөзде, бақшада</em>
-* `Nom` (1631; 54% of non-empty `Case`): <em>мемлекет, ел, орыс, қазақ, Президент, адам, бала, кісі, мал, орын</em>
+* `Nom` (1628; 54% of non-empty `Case`): <em>мемлекет, ел, орыс, қазақ, Президент, адам, бала, кісі, мал, орын</em>
 * `EMPTY` (101): <em>ж., М., б.з.б., млрд., бала, млн., т.б., А., Р., тастай</em>
 
 <table>
@@ -46,7 +46,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-559 <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+562 <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="kk_ktb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (369; 66%).
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Gen` (65; 12% of non-empty `Case`): <em>Қазақстанның, Иранның, Астананың, Ерназардың, Азаматтың, Азияның, Еуропаның, Айгүлдің, Алматының, Бекболаттың</em>
 * `Ins` (7; 1% of non-empty `Case`): <em>АҚШ-пен, Ауғанстанмен, Грузиямен, Қазақстанмен, Өзбекстанмен, Назарбаевпен</em>
 * `Loc` (36; 6% of non-empty `Case`): <em>Қазақстанда, Астанада, Тегеранда, Қазақстандағы, Алматыда, Бразилияда, Иранда, Азияда, Азиядағы, Америкада</em>
-* `Nom` (405; 72% of non-empty `Case`): <em>Иран, Қазақстан, АҚШ, Алматы, Астана, Бекболат, Азамат, Нұрсұлтан, Ұлыбритания, Айгүл</em>
+* `Nom` (408; 73% of non-empty `Case`): <em>Иран, Қазақстан, АҚШ, Алматы, Астана, Бекболат, Азамат, Нұрсұлтан, Ұлыбритания, Айгүл</em>
 
 <table>
   <tr><th>Paradigm <i>Қазақстан</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -80,7 +80,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Ins` (9; 2% of non-empty `Case`): <em>осымен, Онымен, Сізбен, бір-бірімен, бұлармен, кіммен, немен, соныменен</em>
 * `Loc` (19; 4% of non-empty `Case`): <em>мұнда, Сізде, осында, өзінде, онда, Бізде, Менде, сонда</em>
 * `Nom` (252; 53% of non-empty `Case`): <em>біз, мен, ол, бұл, не, кім, олар, өзі, ешкім, бәрі</em>
-* `EMPTY` (16): <em>қандай, олай, өзінше, Меніңше, Осылай, былай, ешқандай, манағыдай, солай, өзіндей</em>
+* `EMPTY` (17): <em>қандай, олай, өзінше, Меніңше, Осылай, Содан, былай, ешқандай, манағыдай, солай</em>
 
 <table>
   <tr><th>Paradigm <i>ол</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
@@ -91,20 +91,20 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `VERB`
 
-270 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Case`.
+275 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (270; 100%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (269; 100%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (266; 99%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (266; 99%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (265; 98%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (225; 83%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (195; 72%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (275; 100%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (274; 100%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (271; 99%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (271; 99%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (270; 98%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (230; 84%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (199; 72%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Abl` (12; 4% of non-empty `Case`): <em>кеткеннен, алмастан, басталғаннан, бақылаудан, жетіспеушілігінен, жолыққаннан, жөндеуден, сөйлегеннен, тұрғызылғандықтан, қорыққаннан</em>
-* `Acc` (22; 8% of non-empty `Case`): <em>біткенді, ойнағанды, алуды, алғанын, білгенді, демократияландыруды, етуді, жазылмасын, жолдауыңызды, жымиғанын</em>
-* `Dat` (74; 27% of non-empty `Case`): <em>алуға, қорғалуға, атауға, білуге, орнатуға, табуға, тұруға, Блоктарға, азапталуға, айналуға</em>
+* `Abl` (13; 5% of non-empty `Case`): <em>кеткеннен, алмастан, басталғаннан, бақылаудан, біткеннен, жетіспеушілігінен, жолыққаннан, жөндеуден, сөйлегеннен, тұрғызылғандықтан</em>
+* `Acc` (23; 8% of non-empty `Case`): <em>біткенді, ойнағанды, алуды, алғанын, білгенді, демократияландыруды, етуді, жазылмасын, жолдауыңызды, жымиғанын</em>
+* `Dat` (76; 28% of non-empty `Case`): <em>алуға, қорғалуға, атауға, білуге, орнатуға, табуға, тұруға, Блоктарға, азапталуға, айналуға</em>
 * `Gen` (7; 3% of non-empty `Case`): <em>жүргізудің, тартудың, теңелуінің, тырысуының, қосылудың, қосылуының, әкелудің</em>
 * `Ins` (10; 4% of non-empty `Case`): <em>берумен, болуымен, бояумен, жеумен, кигенмен, оқығанменен, сайлануыңызбен, сорумен, қаруымен, өткізілуімен</em>
 * `Loc` (25; 9% of non-empty `Case`): <em>келгенде, салыстырғанда, Сөйткенде, араздасқанда, асқанда, ашқанда, дамуда, дамытуда, дегенде, жүргенде</em>
-* `Nom` (120; 44% of non-empty `Case`): <em>жасау, келген, оқу, шешуі, алу, асыру, ашылу, көрсету, салу, сақтау</em>
-* `EMPTY` (1317): <em>деп, деді, алып, біледі, болды, бастап, келді, өтті, береді, болған</em>
+* `Nom` (121; 44% of non-empty `Case`): <em>жасау, келген, оқу, шешуі, алу, асыру, ашылу, көрсету, салу, сақтау</em>
+* `EMPTY` (1368): <em>деп, бастады, кетті, деді, алып, біледі, болды, бастап, келді, шықты</em>
 
 <table>
   <tr><th>Paradigm <i>ал</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Abl</tt></th></tr>
@@ -134,33 +134,6 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
   <tr><td><tt><tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>барыңды</em></td></tr>
 </table>
 
-### `AUX`
-
-47 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (11% of all `AUX` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (47; 100%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (45; 96%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (25; 53%).
-
-`AUX` tokens may have the following values of `Case`:
-
-* `Abl` (3; 6% of non-empty `Case`): <em>алғаннан, болғандықтан, біткеннен</em>
-* `Acc` (13; 28% of non-empty `Case`): <em>екенін, болғанын, болмасымды, болғанымды, екендіктерін, жатқанын, жүргенін, шығуды</em>
-* `Dat` (11; 23% of non-empty `Case`): <em>болуға, алатынына, алғаныма, болғаныма, екеніне, кетпесіне, тұруға, шығуға, қалғанына</em>
-* `Ins` (1; 2% of non-empty `Case`): <em>екенімен</em>
-* `Loc` (4; 9% of non-empty `Case`): <em>болғанда, алмауда, жүргенде</em>
-* `Nom` (15; 32% of non-empty `Case`): <em>болуы, болу, болатыны, білу, екені, жатқаны, жүрген, көруіміз, отырғаным, қалған</em>
-* `EMPTY` (370): <em>болып, болды, еді, жатыр, бастады, кетті, емес, келеді, отыр, екен</em>
-
-<table>
-  <tr><th>Paradigm <i>бол</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>болатыны</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>болмасымды</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>болғанымды</em></td><td><em>болғаныма</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>болғанын</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>болуы</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td></td><td><em>болғанда</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td><em>болу</em></td><td></td><td><em>болуға</em></td><td></td><td><em>болғандықтан</em></td></tr>
-</table>
-
 ### `NUM`
 
 46 <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> tokens (12% of all `NUM` tokens) have a non-empty value of `Case`.
@@ -186,6 +159,33 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 `Case` seems to be **lexical feature** of `NUM`. 92% lemmas (23) occur only with one value of `Case`.
 
+### `AUX`
+
+42 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (12% of all `AUX` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (42; 100%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (40; 95%), <tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (40; 95%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (25; 60%).
+
+`AUX` tokens may have the following values of `Case`:
+
+* `Abl` (2; 5% of non-empty `Case`): <em>алғаннан, болғандықтан</em>
+* `Acc` (12; 29% of non-empty `Case`): <em>екенін, болғанын, болмасымды, болғанымды, екендіктерін, жатқанын, жүргенін</em>
+* `Dat` (9; 21% of non-empty `Case`): <em>болуға, алатынына, алғаныма, болғаныма, екеніне, тұруға, қалғанына</em>
+* `Ins` (1; 2% of non-empty `Case`): <em>екенімен</em>
+* `Loc` (4; 10% of non-empty `Case`): <em>болғанда, алмауда, жүргенде</em>
+* `Nom` (14; 33% of non-empty `Case`): <em>болуы, болу, болатыны, болған, екені, жатқаны, жүрген, отырғаным, қалған</em>
+* `EMPTY` (319): <em>болып, болды, еді, жатыр, емес, келеді, отыр, екен, болады, жатқан</em>
+
+<table>
+  <tr><th>Paradigm <i>бол</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>болатыны</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>болмасымды</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>болғанымды</em></td><td><em>болғаныма</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>болғанын</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>болуы</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>болған</em></td><td></td><td></td><td><em>болғанда</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>болу</em></td><td></td><td><em>болуға</em></td><td></td><td><em>болғандықтан</em></td></tr>
+</table>
+
 ### `ADV`
 
 14 <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Case`.
@@ -195,7 +195,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 `ADV` tokens may have the following values of `Case`:
 
 * `Nom` (14; 100% of non-empty `Case`): <em>қазіргі, соңғы, Арғы, Бүгінгі, Ендігі, Жоғарғы, бергі, биылғы, ежелгі, күндізгі</em>
-* `EMPTY` (289): <em>да, де, қайда, бүгін, енді, тағы, ғана, қазір, қайдан, өте</em>
+* `EMPTY` (290): <em>да, де, қайда, бүгін, енді, тағы, ғана, қазір, қайдан, өте</em>
 
 `Case` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `Case`.
 
@@ -208,7 +208,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 `DET` tokens may have the following values of `Case`:
 
 * `Nom` (3; 100% of non-empty `Case`): <em>не</em>
-* `EMPTY` (216): <em>осы, бұл, бір, өз, ол, сол, барлық, әр, мына, бүкіл</em>
+* `EMPTY` (217): <em>осы, бұл, бір, өз, ол, сол, барлық, әр, мына, бүкіл</em>
 
 ### `ADP`
 
@@ -222,8 +222,8 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="kk_ktb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (132; 86%),
-<tt>NOUN --[<tt><a href="kk_ktb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (53; 69%),
+<tt>NOUN --[<tt><a href="kk_ktb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (133; 86%),
+<tt>NOUN --[<tt><a href="kk_ktb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (52; 69%),
 <tt>NOUN --[<tt><a href="kk_ktb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (40; 61%),
 <tt>PROPN --[<tt><a href="kk_ktb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (39; 89%),
 <tt>PROPN --[<tt><a href="kk_ktb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (32; 76%),

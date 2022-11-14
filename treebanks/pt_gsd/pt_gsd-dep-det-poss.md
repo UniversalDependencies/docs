@@ -22,7 +22,7 @@ The following 18 pairs of parts of speech are connected with `det:poss`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 det:poss	color:blue
-1	A	o	DET	DET	_	2	det	_	_
+1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	ideia	ideia	NOUN	NOUN	_	0	root	_	_
 3	é	ser	AUX	AUX	_	2	cop	_	_
 4	de	_	ADP	ADP	_	7	mark	_	_
@@ -42,7 +42,7 @@ The following 18 pairs of parts of speech are connected with `det:poss`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 det:poss	color:blue
-1	O	o	DET	DET	_	2	det	_	_
+1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	depoimento	depoimento	NOUN	NOUN	_	4	nsubj	_	_
 3	dela	_	X	ADPPRON	_	2	det:poss	_	_
 4	ficou	ficar	VERB	VERB	_	0	root	_	_

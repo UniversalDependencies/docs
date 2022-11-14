@@ -33,11 +33,17 @@ The 1st highest number of forms (2) was observed with the lemma “_”: <em>/, 
 
 ## Relations
 
-`X` nodes are attached to their parents using 2 different relations: <tt><a href="bej_nsc-dep-fixed.html">fixed</a></tt> (2; 67% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (1; 33% instances)
+`X` nodes are attached to their parents using 2 different relations: <tt><a href="bej_nsc-dep-fixed.html">fixed</a></tt> (2; 67% instances), <tt><a href="bej_nsc-dep-dep.html">dep</a></tt> (1; 33% instances)
 
-Parents of `X` nodes belong to 2 different parts of speech: <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 67% instances), <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (1; 33% instances)
+Parents of `X` nodes belong to 2 different parts of speech: <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 67% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (1; 33% instances)
 
-3 (100%) `X` nodes are leaves.
+2 (67%) `X` nodes are leaves.
 
-The highest child degree of a `X` node is 0.
+1 (33%) `X` nodes have one child.
+
+The highest child degree of a `X` node is 1.
+
+Children of `X` nodes are attached using 1 different relations: <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (1; 100% instances)
+
+Children of `X` nodes belong to 1 different parts of speech: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (1; 100% instances)
 

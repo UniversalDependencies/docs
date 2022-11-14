@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Riyaz Ahmad Bhat, Daniel Zeman.
 
 Repository: [UD_Urdu-UDTB](https://github.com/UniversalDependencies/UD_Urdu-UDTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udur_udtb210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udur_udtb211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -87,7 +87,7 @@ year={2009}
 
 ## Relations
 
-[acl](ur_udtb-dep-acl.html) – [acl:relcl](ur_udtb-dep-acl-relcl.html) – [advcl](ur_udtb-dep-advcl.html) – [advmod](ur_udtb-dep-advmod.html) – [amod](ur_udtb-dep-amod.html) – [aux](ur_udtb-dep-aux.html) – [case](ur_udtb-dep-case.html) – [cc](ur_udtb-dep-cc.html) – [compound](ur_udtb-dep-compound.html) – [conj](ur_udtb-dep-conj.html) – [cop](ur_udtb-dep-cop.html) – [dep](ur_udtb-dep-dep.html) – [det](ur_udtb-dep-det.html) – [dislocated](ur_udtb-dep-dislocated.html) – [flat](ur_udtb-dep-flat.html) – [iobj](ur_udtb-dep-iobj.html) – [mark](ur_udtb-dep-mark.html) – [nmod](ur_udtb-dep-nmod.html) – [nsubj](ur_udtb-dep-nsubj.html) – [nummod](ur_udtb-dep-nummod.html) – [obj](ur_udtb-dep-obj.html) – [obl](ur_udtb-dep-obl.html) – [punct](ur_udtb-dep-punct.html) – [root](ur_udtb-dep-root.html) – [vocative](ur_udtb-dep-vocative.html) – [xcomp](ur_udtb-dep-xcomp.html)
+[acl](ur_udtb-dep-acl.html) – [acl:relcl](ur_udtb-dep-acl-relcl.html) – [advcl](ur_udtb-dep-advcl.html) – [advmod](ur_udtb-dep-advmod.html) – [amod](ur_udtb-dep-amod.html) – [aux](ur_udtb-dep-aux.html) – [case](ur_udtb-dep-case.html) – [cc](ur_udtb-dep-cc.html) – [ccomp](ur_udtb-dep-ccomp.html) – [compound](ur_udtb-dep-compound.html) – [conj](ur_udtb-dep-conj.html) – [cop](ur_udtb-dep-cop.html) – [dep](ur_udtb-dep-dep.html) – [det](ur_udtb-dep-det.html) – [discourse](ur_udtb-dep-discourse.html) – [dislocated](ur_udtb-dep-dislocated.html) – [flat](ur_udtb-dep-flat.html) – [iobj](ur_udtb-dep-iobj.html) – [mark](ur_udtb-dep-mark.html) – [nmod](ur_udtb-dep-nmod.html) – [nsubj](ur_udtb-dep-nsubj.html) – [nummod](ur_udtb-dep-nummod.html) – [obj](ur_udtb-dep-obj.html) – [obl](ur_udtb-dep-obl.html) – [punct](ur_udtb-dep-punct.html) – [root](ur_udtb-dep-root.html) – [vocative](ur_udtb-dep-vocative.html) – [xcomp](ur_udtb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -137,11 +137,11 @@ year={2009}
 </ul>
 
 <ul>
-<li>This corpus contains 83 lemmas tagged as auxiliaries (AUX): آ, آنہ, اٹھ, اٹھا, بن, بنا, بیٹھ, تھ, تھا, تھی, تھیں, تھے, جا, جاؤ, جائی, جائے, جات, جاتا, جاتی, جاتے, جان, جانا, دکھ, دکھا, دی, دیا, دیت, دیکھ, دے, رکھ, رہ, رہا, رہی, رہے, سربراہ, سڑ, سک, سکت, سکتا, سکی, سکے, لئے, لا, لو, لگ, لگا, لی, لیا, لیجیے, لے, والا, والی, پا, پڑ, پڑے, پھرے, پھینک, پہنچ, چاہ, چاہئیں, چاہئے, چاہیئے, چاہیے, چاہے, چل, چڑھ, چک, چکا, ڈال, کا, کر, کے, گا, گی, گیا, گے, ہ, ہو, ہوا, ہوں, ہیں, ہے, ۔</li>
+<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): تھا, جا, رہ, سک, پا, پڑ, چاہئے, کر, گا, ہو, ہے</li>
 </ul>
 
 <ul>
-<li>Out of the above, 49 lemmas occurred sometimes as AUX and sometimes as VERB: آ, اٹھ, اٹھا, بن, بنا, بیٹھ, تھا, تھی, تھے, جا, جائے, جان, دکھ, دکھا, دی, دیا, دیکھ, دے, رکھ, رہ, سڑ, سک, لا, لگ, لگا, لی, لے, پا, پڑ, پھینک, پہنچ, چاہ, چاہئے, چاہیئے, چاہیے, چاہے, چل, چڑھ, چک, چکا, ڈال, کا, کر, گا, ہو, ہوا, ہوں, ہیں, ہے</li>
+<li>Out of the above, 11 lemmas occurred sometimes as AUX and sometimes as VERB: تھا, جا, رہ, سک, پا, پڑ, چاہئے, کر, گا, ہو, ہے</li>
 </ul>
 
 <ul>
@@ -161,7 +161,7 @@ year={2009}
   <ul>
     <li>AUX: ہے, ہیں, تھا, ہےں, تھی, تھے, گے, جائےگا, جائے, گا</li>
     <li>PROPN: رکھیں, کریں, ہیں</li>
-    <li>VERB: ہے, کریں, ہیں, کریں_گے, ہےں, تھے, تھا, کرے, تھی, کرےگی</li>
+    <li>VERB: ہے, کریں, ہیں, کریں_گے, ہےں, تھے, تھا, دیں, کرے, تھی</li>
   </ul>
   </li>
 </ul>
@@ -170,11 +170,10 @@ year={2009}
   <li>Inf
   <ul>
     <li>ADJ: سلجھے</li>
-    <li>AUX: جانے, جانا, دینے, کرنے, جانی, دینا, لینا, لینے, پڑنے, پھینکنے</li>
+    <li>AUX: جانے, جانا, کرنے, جانی, پڑنے, رہنے, سکنے, پانے, کرنا</li>
     <li>NOUN: پینے, جلنے, سراہنا, ڈرا</li>
     <li>PROPN: رہنے, لگنا</li>
-    <li>VERB: کرنے, ہونے, کرنا, دینے, رکھنے, بنانے, کہنا, آنے, ہونا, لینے</li>
-    <li>X: جانے</li>
+    <li>VERB: کرنے, ہونے, کرنا, دینے, رکھنے, بنانے, کہنا, آنے, لینے, ہونا</li>
   </ul>
   </li>
 </ul>
@@ -185,14 +184,14 @@ year={2009}
     <li>ADJ: بھرے, برساتی, بڑی, بھری, دکھتی, رنگے, سمجھے, سوچے, لکھی, پڑھی</li>
     <li>ADP: کی, گئے</li>
     <li>ADV: چاہے</li>
-    <li>AUX: ہوئے, گیا, گئی, گئے, دیا, رہی, رہے, رہا, لیا, سکتا</li>
+    <li>AUX: ہوئے, گیا, گئی, گئے, رہی, رہے, رہا, سکتا, جاتا, سکے</li>
     <li>CCONJ: آیا</li>
     <li>DET: کیا</li>
     <li>NOUN: بجے, چھایا, گئے, گرمائی</li>
     <li>PART: گئے</li>
     <li>PRON: آیا, کیا</li>
     <li>PROPN: آتے</li>
-    <li>VERB: کیا, کہا, کی, کرتے, بتایا, دیا, دی, کیے, ہوا, ہوئی</li>
+    <li>VERB: کیا, کہا, کی, دیا, کرتے, دی, بتایا, لیا, کیے, ہوا</li>
   </ul>
   </li>
 </ul>
@@ -207,15 +206,15 @@ year={2009}
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: دوسری, بڑی, پہلی, پوری, نئی, آخری, خصوصی, اچھی, سیاسی, علاقائی</li>
+      <li>ADJ: والی, دوسری, بڑی, پہلی, پوری, نئی, آخری, خصوصی, اچھی, سیاسی</li>
       <li>ADJ-Part: برساتی, بڑی, بھری, دکھتی, لکھی, پڑھی</li>
-      <li>ADP: کی, وجہ, والی, جانب, حیثیت, مدد, طرف, غرض, کو, کے</li>
+      <li>ADP: کی, وجہ, جانب, حیثیت, والی, مدد, طرف, غرض, کو, کے</li>
       <li>ADP-Part: کی</li>
       <li>ADV: بڑی, جانب, آس, کافی</li>
-      <li>AUX: گئی, تھی, رہی, دی, گی, سکتی, جاتی, جائےگی, لی, چکی</li>
-      <li>AUX-Fin: تھی, گی, جائےگی, تھیں, ہیں, جائیگی, جائیں_گی, دیں, سکےگی, لیں</li>
-      <li>AUX-Inf: جانی, جانے, لینی</li>
-      <li>AUX-Part: گئی, رہی, دی, سکتی, جاتی, لی, چکی, ہوئی, گئیں, تھی</li>
+      <li>AUX: گئی, تھی, رہی, گی, سکتی, جاتی, جائےگی, تھیں, ہوئی, گئیں</li>
+      <li>AUX-Fin: تھی, گی, جائےگی, تھیں, ہیں, جائیگی, جائیں_گی, سکےگی, سکیں, پائیں</li>
+      <li>AUX-Inf: جانی, جانے</li>
+      <li>AUX-Part: گئی, رہی, سکتی, جاتی, ہوئی, گئیں, تھی, سکی, پڑی, سکیں</li>
       <li>CCONJ: و</li>
       <li>DET: ایسی, اسی, انہیں, بڑی, تھوڑی, جتنی, ساری</li>
       <li>NOUN: حکومت, پولیس, بات, پارٹی, کارروائی, کمیٹی, ریاست, ٹیم, کوشش, ہدایت</li>
@@ -224,10 +223,10 @@ year={2009}
       <li>PART: مسٹر, ویں</li>
       <li>PRON: اپنی, ہماری, میری, انہیں, تمہاری, اتنی, اسی, ان, اُس, ایسی</li>
       <li>PROPN: پارٹی, مسجد, دہلی, کانگریس, اردو, سونیا, سبھا, کمیٹی, حکومت, ریاست</li>
-      <li>VERB: کی, دی, ہوئی, ہوگی, ہوتی, بتائی, رہی, آئی, کرتی, رکھی</li>
-      <li>VERB-Fin: تھی, کرےگی, کریں_گی, آئےگی, دیں, ہوں_گی, رہیں_گے, رہےگی, کریگی, آئیں</li>
+      <li>VERB: کی, دی, ہوئی, ہوگی, ہوتی, بتائی, لی, چکی, رہی, آئی</li>
+      <li>VERB-Fin: تھی, کرےگی, دیں, کریں_گی, آئےگی, ہوں_گی, لیں, رہیں_گے, رہےگی, کریگی</li>
       <li>VERB-Inf: کرنی, ہونی, لینی, اٹھانی, جانی, نبھانی, پائی, چلنی, چکی, کروانی</li>
-      <li>VERB-Part: کی, دی, ہوئی, ہوتی, بتائی, رہی, آئی, کرتی, رکھی, کہی</li>
+      <li>VERB-Part: کی, دی, ہوئی, ہوتی, بتائی, لی, رہی, چکی, آئی, کرتی</li>
     </ul>
   </li>
 </ul>
@@ -235,16 +234,16 @@ year={2009}
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: بڑے, دوسرے, نئے, پہلے, پہلا, دوسرا, بڑا, تیسرے, پرانے, پچھلے</li>
+      <li>ADJ: والے, بڑے, والا, دوسرے, والوں, نئے, پہلے, پہلا, دوسرا, بڑا</li>
       <li>ADJ-Inf: سلجھے</li>
       <li>ADJ-Part: بھرے, رنگے, سمجھے, سوچے</li>
-      <li>ADP: کے, کا, بعد, والے, جانب, ساتھ, دوران, قبل, ذریعہ, پاس</li>
+      <li>ADP: کے, کا, بعد, جانب, ساتھ, دوران, قبل, ذریعہ, پاس, زیر</li>
       <li>ADP-Part: گئے</li>
       <li>ADV: پیش, بعد, پہلے, دوران, جانب, طرف, آگے, باہر, سامنے, قبل</li>
-      <li>AUX: گیا, تھا, دیا, تھے, گئے, ہیں, رہے, رہا, لیا, سکتا</li>
+      <li>AUX: گیا, تھا, تھے, گئے, ہیں, رہے, رہا, سکتا, جائےگا, گے</li>
       <li>AUX-Fin: تھا, تھے, ہیں, جائےگا, گے, گا, جائے, جائیں_گے, ہے, تھی</li>
-      <li>AUX-Inf: جانا, جانے, دینا, دینے, سکنے, لانے, کرنا</li>
-      <li>AUX-Part: گیا, دیا, گئے, رہے, رہا, لیا, سکتا, جاتا, سکتے, سکے</li>
+      <li>AUX-Inf: جانا, جانے, سکنے, کرنا</li>
+      <li>AUX-Part: گیا, گئے, رہے, رہا, سکتا, جاتا, سکتے, سکے, ہوا, پڑا</li>
       <li>CCONJ: و, آیا, اور, تاہم</li>
       <li>CCONJ-Part: آیا</li>
       <li>DET: ایسے, ایسا, یہ, اتنا, اسی, سارے, پورے, ایسی, دوسرے, کیا</li>
@@ -259,13 +258,12 @@ year={2009}
       <li>PRON-Part: آیا, کیا</li>
       <li>PROPN: پی, سی, آئی, ایس, کانگریس, بی, ہندوستان, اے, ٹی, ریڈی</li>
       <li>SCONJ: ،</li>
-      <li>VERB: کیا, کہا, کرتے, بتایا, دیا, ہوا, کیے, ہوگا, کرنا, ہوتا</li>
+      <li>VERB: کیا, کہا, دیا, کرتے, بتایا, لیا, ہوا, کیے, ہوگا, کرنا</li>
       <li>VERB-Conv: دیکر, بناکر, دےکر</li>
       <li>VERB-Fin: تھے, کریں, ہیں, تھا, کریں_گے, ہوگا, آئےگا, رہےگا, لےگا, بنیں</li>
-      <li>VERB-Inf: کرنا, کرنے, کہنا, ہونے, ہونا, بنانا, آنے, رکھنے, رہنا, رہنے</li>
-      <li>VERB-Part: کیا, کہا, کرتے, بتایا, دیا, ہوا, کیے, ہوتا, آیا, رہے</li>
-      <li>X: کاش, افسوس, جانے</li>
-      <li>X-Inf: جانے</li>
+      <li>VERB-Inf: کرنا, کرنے, کہنا, ہونے, ہونا, بنانا, آنے, رکھنے, رہنا, دینے</li>
+      <li>VERB-Part: کیا, کہا, دیا, کرتے, بتایا, لیا, ہوا, کیے, ہوتا, آیا</li>
+      <li>X: افسوس</li>
     </ul>
   </li>
 </ul>
@@ -278,16 +276,16 @@ year={2009}
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: بڑے, دونوں, نئے, دوسرے, پورے, تیسرے, جڑے, سارے, پرانے, کھلے</li>
+      <li>ADJ: والے, والوں, بڑے, دونوں, نئے, دوسرے, پورے, تیسرے, جڑے, سارے</li>
       <li>ADJ-Inf: سلجھے</li>
       <li>ADJ-Part: بھرے, رنگے</li>
-      <li>ADP: والے, کے, والوں, کی, بارے, ہاتھوں, جیسے, اوائل, حوالے, ذریعے</li>
+      <li>ADP: کے, کی, بارے, ہاتھوں, جیسے, اوائل, حوالے, ذریعے, گئے, اطراف</li>
       <li>ADP-Part: گئے</li>
       <li>ADV: جیسے, اطراف, اکناف, صدیوں</li>
-      <li>AUX: ہیں, ہےں, ہوئے, گئے, رہے, تھے, گے, سکتے, سکے, چکے</li>
-      <li>AUX-Fin: ہیں, ہےں, تھے, گے, جائے, جائیں_گے, جائیں, تھیں, جائےگا, دیں</li>
+      <li>AUX: ہیں, ہےں, ہوئے, گئے, رہے, تھے, گے, سکتے, سکے, جائے</li>
+      <li>AUX-Fin: ہیں, ہےں, تھے, گے, جائے, جائیں_گے, جائیں, تھیں, جائےگا, گی</li>
       <li>AUX-Inf: جانے, سکنے</li>
-      <li>AUX-Part: ہوئے, گئے, رہے, سکتے, چکے, سکے, جاتے, گئیں, دیے, چاہتے</li>
+      <li>AUX-Part: ہوئے, گئے, رہے, سکتے, سکے, جاتے, گئیں, سکیں, کرتے, گیا</li>
       <li>DET: ان, یہ, جن, ایسے, اُن, اتنے, ایسی, سارے, ہم, اس</li>
       <li>NOUN: افراد, ارکان, انتخابات, عہدیداروں, قائدین, مسائل, ممالک, عوام, مسلمانوں, علاقوں</li>
       <li>NOUN-Part: گئے</li>
@@ -297,10 +295,10 @@ year={2009}
       <li>PRON: ان, ہم, جن, انہیں, ہمارے, اُن, یہ, انھیں, انہوں, وہ</li>
       <li>PROPN: مسلمانوں, طیاروں, تعلقات, خطابات, قائدین, گیمس, ہندوؤں, آسٹریلیا, آواکس, ارکان</li>
       <li>PROPN-Fin: رکھیں, کریں, ہیں</li>
-      <li>VERB: کرتے, کیے, ہوئے, ہیں, کرنے, کریں, رہے, ہےں, کئے, رکھتے</li>
-      <li>VERB-Fin: ہیں, کریں, ہےں, تھے, کریں_گے, دیں, بنائیں, رہیں_گے, رہےگی, کریںگے</li>
+      <li>VERB: کرتے, کیے, ہوئے, کرنے, ہیں, کریں, رہے, چکے, ہےں, کئے</li>
+      <li>VERB-Fin: ہیں, کریں, ہےں, تھے, دیں, کریں_گے, لیں, دیں_گے, بنائیں, رکھیں</li>
       <li>VERB-Inf: کرنے, ہونے, آنے, دینے, رکھنے, رہنے, پینے, بنانے, گھبرانے, بھاگنے</li>
-      <li>VERB-Part: کرتے, کیے, ہوئے, رہے, کئے, رکھتے, ہوتے, دیتے, دیئے, رہیں</li>
+      <li>VERB-Part: کرتے, کیے, ہوئے, رہے, چکے, کئے, رکھتے, ہوتے, دیے, دیتے</li>
       <li>X: کتنے</li>
     </ul>
   </li>
@@ -309,16 +307,16 @@ year={2009}
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: بڑے, دوسرے, پہلی, پہلے, پہلا, دوسرا, نئے, بڑا, دوسری, نئی</li>
+      <li>ADJ: والے, والی, والا, بڑے, دوسرے, پہلی, پہلے, پہلا, دوسرا, نئے</li>
       <li>ADJ-Part: برساتی, بھری, دکھتی, سمجھے, سوچے, لکھی, پڑھی</li>
-      <li>ADP: کی, کے, کا, بعد, جانب, ساتھ, دوران, والے, قبل, وجہ</li>
+      <li>ADP: کی, کے, کا, بعد, جانب, ساتھ, دوران, قبل, وجہ, ذریعہ</li>
       <li>ADP-Part: کی</li>
       <li>ADV: پیش, بعد, پہلے, دوران, جانب, طرف, آگے, باہر, سامنے, قبل</li>
       <li>ADV-Part: چاہے</li>
-      <li>AUX: ہے, گیا, تھا, ہوئے, گئی, تھی, دیا, رہی, رہا, ہیں</li>
+      <li>AUX: ہے, گیا, تھا, ہوئے, گئی, تھی, رہی, رہا, ہیں, تھے</li>
       <li>AUX-Fin: ہے, تھا, تھی, ہیں, تھے, جائےگا, ہےں, گا, گی, جائےگی</li>
-      <li>AUX-Inf: جانا, جانی, جانے, دینا, لانے, لینا, لینی, کرنا</li>
-      <li>AUX-Part: گیا, ہوئے, گئی, دیا, رہی, رہا, لیا, سکتا, دی, رہے</li>
+      <li>AUX-Inf: جانا, جانی, جانے, کرنا</li>
+      <li>AUX-Part: گیا, ہوئے, گئی, رہی, رہا, سکتا, رہے, جاتا, سکتی, گئے</li>
       <li>CCONJ: و, آیا, اور, تاہم</li>
       <li>CCONJ-Part: آیا</li>
       <li>DET: اس, یہ, ایسے, کوئی, اسی, وہ, جو, ان, ایسا, جس</li>
@@ -332,12 +330,12 @@ year={2009}
       <li>PRON-Part: آیا, کیا</li>
       <li>PROPN: پی, سی, آئی, ایس, کانگریس, بی, ہندوستان, ریڈی, اے, سنگھ</li>
       <li>SCONJ: ،, تو</li>
-      <li>VERB: کیا, کہا, کی, ہے, بتایا, دیا, کرتے, دی, ہوا, ہوئی</li>
+      <li>VERB: کیا, کہا, کی, دیا, ہے, دی, بتایا, کرتے, لیا, ہوا</li>
       <li>VERB-Conv: دیکر, بناکر, دےکر</li>
       <li>VERB-Fin: ہے, کریں, کریں_گے, تھا, تھی, کرے, کرےگی, تھے, ہیں, کرےگا</li>
-      <li>VERB-Inf: کرنا, کہنا, ہونا, کرنی, بنانا, رہنا, ہونی, لانا, جاننا, دینا</li>
-      <li>VERB-Part: کیا, کہا, کی, بتایا, دیا, کرتے, دی, ہوا, ہوئی, ہوتا</li>
-      <li>X: کاش, افسوس</li>
+      <li>VERB-Inf: کرنا, کہنا, ہونا, کرنی, بنانا, رہنا, ہونی, دینا, لانا, جاننا</li>
+      <li>VERB-Part: کیا, کہا, کی, دیا, دی, بتایا, کرتے, لیا, ہوا, ہوئی</li>
+      <li>X: افسوس</li>
     </ul>
   </li>
 </ul>
@@ -349,13 +347,13 @@ year={2009}
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: سرکاری, سابق, دیگر, مختلف, ریاستی, مقامی, سیاسی, تمام, امریکی, مسلم</li>
+      <li>ADJ: والے, سرکاری, سابق, دیگر, مختلف, ریاستی, مقامی, سیاسی, تمام, امریکی</li>
       <li>ADJ-Part: دکھتی</li>
-      <li>ADP: کے, کی, کا, والے, جانب, وجہ, بارے, تعلق, والوں, حیثیت</li>
+      <li>ADP: کے, کی, کا, جانب, وجہ, بارے, تعلق, حیثیت, مےں, طرف</li>
       <li>ADV: جانب, پہلے, بعد, خاصکر, دن, اندر, زاید, سب, قبل_ازیں, کلیدی</li>
-      <li>AUX: جانے, دینے, کے, کرنے, لینے, پڑنے, والے, پڑا, آنے, جانا</li>
-      <li>AUX-Inf: جانے, دینے, کرنے, لینے, پڑنے, آنے, جانا, رہنے, سڑنے, لگانے</li>
-      <li>AUX-Part: پڑا, جانے, دئے</li>
+      <li>AUX: جانے, کرنے, پڑنے, پڑا, کے, جانا, رہنے, پانے</li>
+      <li>AUX-Inf: جانے, کرنے, پڑنے, جانا, رہنے, پانے</li>
+      <li>AUX-Part: پڑا, جانے</li>
       <li>CCONJ: اور, و</li>
       <li>DET: اس, ان, ایسے, اسی, دیگر, کسی, جن, جس, ایسی, اُس</li>
       <li>NOUN: حکومت, عوام, پولیس, طور, انتخابات, ملک, عہدیداروں, عمل, اجلاس, پارٹی</li>
@@ -367,11 +365,11 @@ year={2009}
       <li>PROPN: کانگریس, ہندوستان, ریڈی, سنگھ, پاکستان, پی, امریکہ, آئی, مئی, اپریل</li>
       <li>PROPN-Inf: لگنا</li>
       <li>SCONJ: تو</li>
-      <li>VERB: کرنے, ہونے, رکھنے, دینے, بنانے, لینے, آنے, رہنے, جانے, لگانے</li>
+      <li>VERB: کرنے, ہونے, دینے, رکھنے, بنانے, لینے, آنے, رہنے, جانے, لگانے</li>
       <li>VERB-Fin: ہو</li>
-      <li>VERB-Inf: کرنے, ہونے, رکھنے, دینے, بنانے, لینے, آنے, رہنے, لگانے, کرنا</li>
-      <li>VERB-Part: کی, کیے, بولی, جانے, کئے, اُٹھائے, اگلتے, بھیجی, دلوائے, دکھائے</li>
-      <li>X: کتنے, افسوس, کاش</li>
+      <li>VERB-Inf: کرنے, ہونے, دینے, رکھنے, بنانے, لینے, آنے, رہنے, لگانے, کرنا</li>
+      <li>VERB-Part: کی, کیے, بولی, جانے, کئے, اُٹھائے, اگلتے, بھیجی, دئے, دلوائے</li>
+      <li>X: کتنے, افسوس</li>
     </ul>
   </li>
 </ul>
@@ -416,9 +414,8 @@ year={2009}
       <li>ADP: کی, کا, بعد, ساتھ, کے, دوران, جانب, خلاف, قبل, ذریعہ</li>
       <li>ADP-Part: کی</li>
       <li>ADV: پیش, بعد, پہلے, دوران, طرف, آگے, باہر, جانب, سامنے, قبل</li>
-      <li>AUX: دیا, جا, والا, والی, کی, کے, تھا, لو, والے, چکے</li>
+      <li>AUX: جا, تھا, کی, ہیں</li>
       <li>AUX-Fin: ہیں</li>
-      <li>AUX-Part: دیا</li>
       <li>CCONJ: و, تاہم</li>
       <li>DET: یہ, اس, اسی, کوئی, جو, وہ, ان, ایسے, ایسا, یہی</li>
       <li>NOUN: حاصل, آج, بات, کام, پولیس, وزیر, چیف, وقت, ضلع, ڈاکٹر</li>
@@ -428,11 +425,10 @@ year={2009}
       <li>PRON: وہ, جو, یہ, کوئی, اب, یہاں, اپنے, جب, اپنی, جہاں</li>
       <li>PROPN: پی, سی, بی, ایس, آئی, ٹی, ڈی, محمد, آر, جے</li>
       <li>SCONJ: ،, اگر, تب, گویا</li>
-      <li>VERB: کی, کرنے, کرنا, جانا, پڑھنا, کر, کھیل, گھرے, آنے, اٹھانا</li>
+      <li>VERB: کی, دیا, کرنے, کرنا, جانا, پڑھنا, کر, کھیل, گھرے, آنے</li>
       <li>VERB-Inf: کرنے, کرنا, جانا, پڑھنا, آنے, اٹھانا, بنانا, بننے, بڑھنے, جاننا</li>
-      <li>VERB-Part: کی, بنے, دی, دیا, دیدی, دیکھتے</li>
-      <li>X: کاش, افسوس, جانے</li>
-      <li>X-Inf: جانے</li>
+      <li>VERB-Part: دیا, کی, بنے, دی, دیدی, دیکھتے</li>
+      <li>X: افسوس</li>
     </ul>
   </li>
 </ul>
@@ -468,9 +464,9 @@ year={2009}
   <li>Imp
     <ul>
       <li>ADJ-Part: برساتی, دکھتی</li>
-      <li>AUX-Part: سکتا, جاتا, سکتے, سکتی, جاتی, جاتے, تھی, چاہتی, کرتے, تھے</li>
+      <li>AUX-Part: سکتا, جاتا, سکتے, سکتی, جاتی, جاتے, تھی, کرتے, تھے, تھا</li>
       <li>PROPN-Part: آتے</li>
-      <li>VERB-Part: کرتے, ہوتا, دیتے, ہوتی, رکھتے, ہوتے, کرتا, کرتی, رہتے, رکھتا</li>
+      <li>VERB-Part: کرتے, ہوتا, دیتے, ہوتی, رکھتے, ہوتے, کرتا, کرتی, چاہتے, رہتے</li>
     </ul>
   </li>
 </ul>
@@ -481,13 +477,13 @@ year={2009}
       <li>ADJ-Part: بھرے, بڑی, بھری, رنگے, سمجھے, سوچے, لکھی, پڑھی</li>
       <li>ADP-Part: کی, گئے</li>
       <li>ADV-Part: چاہے</li>
-      <li>AUX-Part: ہوئے, گیا, گئی, گئے, دیا, رہی, رہے, رہا, لیا, دی</li>
+      <li>AUX-Part: ہوئے, گیا, گئی, گئے, رہی, رہے, رہا, سکے, جائے, ہوئی</li>
       <li>CCONJ-Part: آیا</li>
       <li>DET-Part: کیا</li>
       <li>NOUN-Part: بجے, چھایا, گئے, گرمائی</li>
       <li>PART-Part: گئے</li>
       <li>PRON-Part: آیا, کیا</li>
-      <li>VERB-Part: کیا, کہا, کی, بتایا, دیا, دی, کیے, ہوا, ہوئی, ہوئے</li>
+      <li>VERB-Part: کیا, کہا, کی, دیا, دی, بتایا, لیا, کیے, ہوا, ہوئی</li>
     </ul>
   </li>
 </ul>
@@ -499,8 +495,8 @@ year={2009}
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: جاؤ, رہو, آؤ, لو, چاہو</li>
-      <li>VERB-Fin: کرو, رکھو, جاؤں, دیکھو, سناؤ</li>
+      <li>AUX-Fin: جاؤ, رہو</li>
+      <li>VERB-Fin: کرو, رکھو, آؤ, جاؤں, دیکھو, سناؤ, لو, چاہو</li>
     </ul>
   </li>
 </ul>
@@ -510,7 +506,7 @@ year={2009}
     <ul>
       <li>AUX-Fin: ہے, ہیں, تھا, ہےں, تھی, تھے, گے, جائےگا, گا, گی</li>
       <li>PROPN-Fin: ہیں</li>
-      <li>VERB-Fin: ہے, ہیں, کریں_گے, ہےں, تھے, تھا, تھی, کرےگی, کریںگے, دیں_گے</li>
+      <li>VERB-Fin: ہے, ہیں, کریں_گے, ہےں, تھے, تھا, تھی, کرےگی, دیں_گے, کریںگے</li>
     </ul>
   </li>
 </ul>
@@ -518,9 +514,9 @@ year={2009}
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: جائے, جائیں, چاہیے, چاہئے, چاہیئے, دیں, سکے, لیں, سکیں, پائیں</li>
+      <li>AUX-Fin: جائے, جائیں, چاہیے, چاہئے, چاہیئے, سکے, سکیں, پائیں, چاہئیں, جائےں</li>
       <li>PROPN-Fin: رکھیں, کریں</li>
-      <li>VERB-Fin: کریں, کرے, دیں, بنائیں, چاہیئے, رکھیں, رہے, چاہیے, آئیں, بنیں</li>
+      <li>VERB-Fin: کریں, دیں, کرے, لیں, بنائیں, رکھیں, چاہیئے, رہے, چاہیے, آئیں</li>
     </ul>
   </li>
 </ul>
@@ -533,7 +529,7 @@ year={2009}
   <li>Fut
     <ul>
       <li>AUX-Fin: گے, جائےگا, گا, گی, جائےگی, جائیں_گے, جائیگی, ہوں_گے, جائیں_گی, جائے_گا</li>
-      <li>VERB-Fin: کریں_گے, کرےگی, کریںگے, دیں_گے, رہےگا, کرےگا, ہوگا, آئےگا, رہیں_گے, کریں_گی</li>
+      <li>VERB-Fin: کریں_گے, کرےگی, دیں_گے, کریںگے, رہےگا, کرےگا, ہوگا, آئےگا, رہیں_گے, کریں_گی</li>
     </ul>
   </li>
 </ul>
@@ -688,13 +684,13 @@ year={2009}
   <li>1
     <ul>
       <li>ADP: مےں</li>
-      <li>AUX: ہوں, ہےں, ہے, گی, ہیں, دیتے</li>
+      <li>AUX: ہوں, ہےں, ہے, گی, ہیں</li>
       <li>AUX-Fin: ہوں, ہےں, ہے, گی, ہیں</li>
-      <li>AUX-Part: دیتے</li>
       <li>DET: ہم</li>
       <li>PRON: ہم, مےں, ہماری, ہمارے, میں, اپنے, مجھے, ہمارا, ہمیں, میری</li>
-      <li>VERB: کروں, کروںگا, کریں_گے, ہے</li>
+      <li>VERB: کروں, دیتے, کروںگا, کریں_گے, ہے</li>
       <li>VERB-Fin: کروںگا, کریں_گے, ہے</li>
+      <li>VERB-Part: دیتے</li>
     </ul>
   </li>
 </ul>
@@ -703,13 +699,13 @@ year={2009}
   <li>2
     <ul>
       <li>ADJ: ہوئے</li>
-      <li>AUX-Fin: ہو, ہے, چاہو</li>
+      <li>AUX-Fin: ہو, ہے</li>
       <li>AUX-Part: ہوئے</li>
       <li>DET: آپ</li>
       <li>PRON: آپ, تم, تمہاری, تمہارے, تمہیں, تجھے, تیرے</li>
       <li>SCONJ: تو</li>
-      <li>VERB: مانگوگے, ہوئے, دیکھو, مانگے, پڑے, پہنچے, کہو, ہوگا, ہوں, ہوں_گی</li>
-      <li>VERB-Fin: مانگوگے, دیکھو, مانگے, ہوں_گی</li>
+      <li>VERB: مانگوگے, ہوئے, دیکھو, مانگے, پڑے, پہنچے, چاہو, کہو, ہوگا, ہوں</li>
+      <li>VERB-Fin: مانگوگے, دیکھو, مانگے, چاہو, ہوں_گی</li>
       <li>VERB-Part: ہوئے, پہنچے</li>
     </ul>
   </li>
@@ -718,7 +714,7 @@ year={2009}
 <ul>
   <li>3
     <ul>
-      <li>ADJ: ریاستی, پہلے, جملہ, خبررساں, بلدی, امریکی, فوجی, مرکزی, حامی, زخمی</li>
+      <li>ADJ: ریاستی, والی, پہلے, جملہ, خبررساں, بلدی, امریکی, فوجی, مرکزی, والا</li>
       <li>ADJ-Part: بڑی, دکھتی</li>
       <li>ADP: بعد, جانب, ساتھ, دوران, قبل, پاس, زیر, درمیان, طرف, کے</li>
       <li>ADP-Part: کی</li>
@@ -727,7 +723,7 @@ year={2009}
       <li>AUX: ہے, ہیں, ہےں, تھا, ہوئے, تھے, تھی, گے, گیا, جائےگا</li>
       <li>AUX-Fin: ہے, ہیں, ہےں, تھا, تھے, تھی, گے, جائےگا, گا, گی</li>
       <li>AUX-Inf: جانا, جانے, کرنا</li>
-      <li>AUX-Part: ہوئے, گیا, گئے, دیا, رہے, جاتا, گئی, لیا, سکے, رہا</li>
+      <li>AUX-Part: ہوئے, گیا, گئے, رہے, جاتا, گئی, سکے, رہا, جاتے, رہی</li>
       <li>CCONJ: و, اور, تاہم</li>
       <li>DET: اس, یہ, ان, کوئی, جو, وہ, اسی, جس, جن, کسی</li>
       <li>NOUN: حکومت, حاصل, پولیس, آج, بات, عوام, ضلع, پارٹی, اجلاس, افراد</li>
@@ -739,12 +735,12 @@ year={2009}
       <li>PROPN: پی, سی, آئی, ایس, کانگریس, بی, ہندوستان, ریڈی, اے, سنگھ</li>
       <li>PROPN-Fin: کریں, ہیں</li>
       <li>SCONJ: ،</li>
-      <li>VERB: ہے, ہوگا, کیا, ہیں, ہوگی, کریں, کی, کرے, ہوئے, ہےں</li>
+      <li>VERB: ہے, ہوگا, کیا, ہیں, ہوگی, کریں, دیا, کی, کرے, ہوئے</li>
       <li>VERB-Conv: بناکر, دیکر</li>
       <li>VERB-Fin: ہے, ہیں, کریں, ہےں, کریں_گے, تھے, تھا, کرے, کرےگی, کرےگا</li>
       <li>VERB-Inf: دینے, دینا, لینی, لینا, کرنی, بیلنے, جانا, دیکھنا, لینے, نہانا</li>
-      <li>VERB-Part: کیا, کی, ہوئے, کئے, کہا, رہے, کیے, دیا, دی, ہوا</li>
-      <li>X: کاش, افسوس</li>
+      <li>VERB-Part: کیا, دیا, کی, ہوئے, کئے, کہا, لیا, دی, رہے, کیے</li>
+      <li>X: افسوس</li>
     </ul>
   </li>
 </ul>
@@ -758,16 +754,16 @@ year={2009}
     <ul>
       <li>ADJ: نئے, ہوئے</li>
       <li>ADP: کے</li>
-      <li>AUX: ہیں, ہےں, تھے, ہوئے, رہے, گے, چکے, گئے, تھیں, تھا</li>
-      <li>AUX-Fin: ہیں, ہےں, تھے, گے, تھیں, تھا, ہوں_گے, تھی, جائیں_گے, چاہیں_گے</li>
-      <li>AUX-Part: ہوئے, رہے, چکے, گئے, تھے, سکے, کرتے, جاتے, دیتے, رہیں</li>
+      <li>AUX: ہیں, ہےں, تھے, ہوئے, رہے, گے, گئے, تھیں, تھا, سکے</li>
+      <li>AUX-Fin: ہیں, ہےں, تھے, گے, تھیں, تھا, ہوں_گے, تھی, جائیں_گے, گی</li>
+      <li>AUX-Part: ہوئے, رہے, گئے, تھے, سکے, کرتے, جاتے, رہیں, گئیں</li>
       <li>DET: آپ</li>
       <li>NOUN: اُن, افتتاح, اُنھوں, جنھوں, پوتے, کپتان</li>
       <li>PRON: انہوں, انہیں, انھوں, ان, آپ, انھیں, اُنھوں, جنہوں, اپنے, اُنھیں</li>
       <li>PROPN: کیمون</li>
-      <li>VERB: کریں_گے, ہوئے, رہے, کریں, ہیں, آتے, بنے, تھے, دیتے, رکھتے</li>
-      <li>VERB-Fin: کریں_گے, ہیں, تھے, مانگوگے, کریں, کریںگے, فرمائیں, لیں_گے, پہونچیں_گے, چلائیں_گے</li>
-      <li>VERB-Part: ہوئے, رہے, آتے, بنے, دیتے, رکھتے, رہتے, رہیں, پہنچے, چاہتے</li>
+      <li>VERB: کریں_گے, ہوئے, چکے, دیتے, رہے, کریں, ہیں, آتے, بنے, تھے</li>
+      <li>VERB-Fin: کریں_گے, ہیں, تھے, مانگوگے, کریں, کریںگے, فرمائیں, لیں_گے, پہونچیں_گے, چاہیں_گے</li>
+      <li>VERB-Part: ہوئے, چکے, دیتے, رہے, آتے, بنے, رکھتے, رہتے, رہیں, پہنچے</li>
     </ul>
   </li>
 </ul>
@@ -775,8 +771,8 @@ year={2009}
 <ul>
   <li>Infm
     <ul>
-      <li>AUX-Fin: جاؤ, رہو, آؤ, لو, چاہو</li>
-      <li>VERB-Fin: کرو, رکھو, جاؤں, دیکھو, سناؤ</li>
+      <li>AUX-Fin: جاؤ, رہو</li>
+      <li>VERB-Fin: کرو, رکھو, آؤ, جاؤں, دیکھو, سناؤ, لو, چاہو</li>
     </ul>
   </li>
 </ul>
@@ -850,11 +846,11 @@ year={2009}
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: ہے، تھا، ہیں، تھی، ہ، ۔.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ہے، تھا.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 102 lemmas as auxiliaries (<a>aux</a>). Examples: ہے، جا، تھا، ہو، رہ، دے، سک، کر، لے، گا، چک، پڑ، گے، چاہ، چاہئے، چاہیے، جائے، گی، چاہیئے، لگ، ہیں، تھی، پا، کا، آ، والا، رکھ، جاتا، جان، دیا، رہا، تھے، چکا، کیوں، بنا، جاتی، سربراہ، لا، چاہئیں، گیا، یہ، رہے، لیا، ناٹ، چل، کوئی، کے، اپنا، بن، بیٹھ.</li>
+<li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: ہے، جا، تھا، ہو، رہ، سک، کر، گا، چاہئے، پڑ، پا.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -863,25 +859,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (7)</li>
+      <li>VERB--NOUN (5)</li>
       <li>VERB--NOUN-ADP(نے) (1)</li>
-      <li>VERB--NOUN-Acc (97)</li>
+      <li>VERB--NOUN-Acc (92)</li>
       <li>VERB--NOUN-Acc-ADP(سے) (2)</li>
       <li>VERB--NOUN-Acc-ADP(نے) (150)</li>
       <li>VERB--NOUN-Acc-ADP(کا) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(کو) (33)</li>
+      <li>VERB--NOUN-Acc-ADP(کو) (32)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(ساتھ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(سبب) (1)</li>
-      <li>VERB--NOUN-Nom (518)</li>
-      <li>VERB--NOUN-Nom-ADP(100)-ADP(سے)-ADP(زائد) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(تقریبا)-ADP(بارہ)-ADP(سو) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(جو) (1)</li>
+      <li>VERB--NOUN-Nom (481)</li>
+      <li>VERB--NOUN-Nom-ADP(100)-ADP(سے) (1)</li>
       <li>VERB--NOUN-Nom-ADP(نے) (4)</li>
-      <li>VERB--NOUN-Nom-ADP(کوئی) (3)</li>
-      <li>VERB--PRON (10)</li>
-      <li>VERB--PRON-ADP(مےں) (2)</li>
+      <li>VERB--PRON (12)</li>
       <li>VERB--PRON-ADP(نے) (4)</li>
-      <li>VERB--PRON-Acc (14)</li>
+      <li>VERB--PRON-Acc (13)</li>
       <li>VERB--PRON-Acc,Dat (12)</li>
       <li>VERB--PRON-Acc,Dat-ADP(نے) (1)</li>
       <li>VERB--PRON-Acc,Gen (2)</li>
@@ -889,9 +881,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc-ADP(نے) (42)</li>
       <li>VERB--PRON-Acc-ADP(کا) (1)</li>
       <li>VERB--PRON-Acc-ADP(کو) (8)</li>
-      <li>VERB--PRON-Nom (262)</li>
-      <li>VERB-Conv--NOUN-Nom (5)</li>
-      <li>VERB-Conv--NOUN-Nom-ADP(کئی) (1)</li>
+      <li>VERB--PRON-Nom (237)</li>
+      <li>VERB-Conv--NOUN-Nom (6)</li>
       <li>VERB-Conv--PRON-Acc-ADP(نے) (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN (1)</li>
@@ -901,73 +892,59 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(کا)-ADP(وجہ) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(کو) (29)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(کو)-ADP(کو) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (217)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(جو) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(موثر) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(کوئی) (1)</li>
+      <li>VERB-Fin--NOUN-Nom (220)</li>
       <li>VERB-Fin--PRON (10)</li>
-      <li>VERB-Fin--PRON-Acc (8)</li>
+      <li>VERB-Fin--PRON-Acc (9)</li>
       <li>VERB-Fin--PRON-Acc,Dat (19)</li>
       <li>VERB-Fin--PRON-Acc,Gen (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(سے) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(مےں) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(کو) (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(کے)-ADP(پاس) (1)</li>
-      <li>VERB-Fin--PRON-Nom (167)</li>
+      <li>VERB-Fin--PRON-Nom (170)</li>
       <li>VERB-Fin--PRON-Nom-ADP(پاس) (1)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Acc (14)</li>
+      <li>VERB-Inf--NOUN-Acc (13)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(سے) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(نے) (7)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(کا) (15)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(کو) (58)</li>
-      <li>VERB-Inf--NOUN-Nom (114)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(کو) (57)</li>
+      <li>VERB-Inf--NOUN-Nom (97)</li>
       <li>VERB-Inf--PRON (2)</li>
       <li>VERB-Inf--PRON-Acc (3)</li>
-      <li>VERB-Inf--PRON-Acc,Dat (35)</li>
-      <li>VERB-Inf--PRON-Acc,Dat-ADP(نے) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(نے) (4)</li>
+      <li>VERB-Inf--PRON-Acc,Dat (34)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(نے) (3)</li>
       <li>VERB-Inf--PRON-Acc-ADP(کا) (7)</li>
       <li>VERB-Inf--PRON-Acc-ADP(کو) (8)</li>
-      <li>VERB-Inf--PRON-Nom (42)</li>
-      <li>VERB-Part--NOUN (9)</li>
+      <li>VERB-Inf--PRON-Nom (28)</li>
+      <li>VERB-Part--NOUN (10)</li>
       <li>VERB-Part--NOUN-ADP(نے) (6)</li>
-      <li>VERB-Part--NOUN-Acc (122)</li>
+      <li>VERB-Part--NOUN-Acc (129)</li>
       <li>VERB-Part--NOUN-Acc-ADP(بشمول)-ADP(نے) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(جتنا) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(سے) (3)</li>
       <li>VERB-Part--NOUN-Acc-ADP(عملہ) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(مےں) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(نے) (633)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(والا) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(نے) (636)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کا) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کمانڈر) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کو) (38)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کوئی) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کوئی)-ADP(نے) (2)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(کو) (40)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(دوران) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(ذرائع)-ADP(نے) (1)</li>
-      <li>VERB-Part--NOUN-Nom (588)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(اللہ) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(جو) (3)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(دوسرا) (1)</li>
+      <li>VERB-Part--NOUN-Nom (643)</li>
       <li>VERB-Part--NOUN-Nom-ADP(سمیت) (1)</li>
       <li>VERB-Part--NOUN-Nom-ADP(سے) (1)</li>
       <li>VERB-Part--NOUN-Nom-ADP(نے) (26)</li>
       <li>VERB-Part--NOUN-Nom-ADP(کو) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(کوئی) (2)</li>
-      <li>VERB-Part--PRON (25)</li>
-      <li>VERB-Part--PRON-ADP(ایسا) (1)</li>
+      <li>VERB-Part--PRON (26)</li>
       <li>VERB-Part--PRON-ADP(نے) (12)</li>
       <li>VERB-Part--PRON-Acc (11)</li>
-      <li>VERB-Part--PRON-Acc,Dat (32)</li>
-      <li>VERB-Part--PRON-Acc,Dat-ADP(نے) (16)</li>
+      <li>VERB-Part--PRON-Acc,Dat (33)</li>
+      <li>VERB-Part--PRON-Acc,Dat-ADP(نے) (17)</li>
       <li>VERB-Part--PRON-Acc,Gen (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(سے) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(نے) (547)</li>
+      <li>VERB-Part--PRON-Acc-ADP(نے) (548)</li>
       <li>VERB-Part--PRON-Acc-ADP(کا) (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(کو) (5)</li>
-      <li>VERB-Part--PRON-Nom (276)</li>
+      <li>VERB-Part--PRON-Nom (313)</li>
       <li>VERB-Part--PRON-Nom-ADP(نے) (18)</li>
       <li>VERB-Part--PRON-Nom-ADP(وہ) (1)</li>
       <li>VERB-Part--PRON-Nom-ADP(کو) (1)</li>
@@ -979,41 +956,33 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (2)</li>
-      <li>VERB--NOUN-Acc (47)</li>
-      <li>VERB--NOUN-Acc-ADP(اپنا)-ADP(سے) (1)</li>
+      <li>VERB--NOUN-Acc (48)</li>
       <li>VERB--NOUN-Acc-ADP(تک) (1)</li>
       <li>VERB--NOUN-Acc-ADP(سی) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(سے) (59)</li>
-      <li>VERB--NOUN-Acc-ADP(وہ)-ADP(کو) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(سے) (56)</li>
       <li>VERB--NOUN-Acc-ADP(پر) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(کو) (205)</li>
-      <li>VERB--NOUN-Acc-ADP(کوئی) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(کو) (207)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(تعلق)-ADP(سے) (1)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(خلاف) (2)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(ذریعہ) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(کے)-ADP(ساتھ) (6)</li>
-      <li>VERB--NOUN-Nom (538)</li>
-      <li>VERB--NOUN-Nom-ADP(جو) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(سب)-ADP(سے)-ADP(زیادہ) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(کے)-ADP(ساتھ) (5)</li>
+      <li>VERB--NOUN-Nom (529)</li>
+      <li>VERB--NOUN-Nom-ADP(سب)-ADP(سے) (1)</li>
       <li>VERB--NOUN-Nom-ADP(سے) (2)</li>
-      <li>VERB--NOUN-Nom-ADP(والا) (1)</li>
       <li>VERB--NOUN-Nom-ADP(کو) (6)</li>
-      <li>VERB--NOUN-Nom-ADP(کوئی) (9)</li>
       <li>VERB--PRON (5)</li>
       <li>VERB--PRON-ADP(کو) (1)</li>
       <li>VERB--PRON-Acc,Dat (36)</li>
-      <li>VERB--PRON-Acc-ADP(اپنا)-ADP(کو) (4)</li>
-      <li>VERB--PRON-Acc-ADP(اپنے)-ADP(کو) (1)</li>
       <li>VERB--PRON-Acc-ADP(سے) (5)</li>
       <li>VERB--PRON-Acc-ADP(کا) (3)</li>
-      <li>VERB--PRON-Acc-ADP(کو) (26)</li>
+      <li>VERB--PRON-Acc-ADP(کو) (30)</li>
       <li>VERB--PRON-Acc-ADP(کے)-ADP(ساتھ) (1)</li>
-      <li>VERB--PRON-Nom (12)</li>
+      <li>VERB--PRON-Nom (11)</li>
       <li>VERB-Conv--NOUN-Acc-ADP(سے) (1)</li>
       <li>VERB-Conv--NOUN-Acc-ADP(کو) (2)</li>
       <li>VERB-Conv--NOUN-Nom (6)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Acc (19)</li>
+      <li>VERB-Fin--NOUN-Acc (20)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(سے) (34)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(سے)-ADP(سے) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(پر) (1)</li>
@@ -1021,44 +990,41 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(کے) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(کے)-ADP(حوالہ)-ADP(سے) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(کے)-ADP(ساتھ) (4)</li>
-      <li>VERB-Fin--NOUN-Nom (182)</li>
+      <li>VERB-Fin--NOUN-Nom (185)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(زیر) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(کوئی) (2)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-Acc,Dat (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(سے) (4)</li>
       <li>VERB-Fin--PRON-Acc-ADP(کا) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(کو) (3)</li>
-      <li>VERB-Fin--PRON-Nom (6)</li>
+      <li>VERB-Fin--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--NOUN-ADP(کو) (1)</li>
-      <li>VERB-Inf--NOUN-Acc (70)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(بعض)-ADP(کے)-ADP(ساتھ) (1)</li>
+      <li>VERB-Inf--NOUN-Acc (68)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(سے) (56)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(کا) (6)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(کا)-ADP(ساتھ) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(کو) (266)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(کوئی)-ADP(کو) (2)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(کو) (263)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(کے)-ADP(ذریعہ) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(کے)-ADP(ساتھ) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(کے)-ADP(ہاتھ) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (432)</li>
-      <li>VERB-Inf--NOUN-Nom-ADP(جو) (1)</li>
+      <li>VERB-Inf--NOUN-Nom (406)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(زیر) (1)</li>
-      <li>VERB-Inf--NOUN-Nom-ADP(سب)-ADP(سے)-ADP(زیادہ) (1)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(سب)-ADP(سے) (1)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(نسبتاً) (1)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(کو) (11)</li>
       <li>VERB-Inf--PRON (3)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Acc,Dat (26)</li>
+      <li>VERB-Inf--PRON-Acc,Dat (25)</li>
       <li>VERB-Inf--PRON-Acc-ADP(سے) (3)</li>
       <li>VERB-Inf--PRON-Acc-ADP(کو) (15)</li>
       <li>VERB-Inf--PRON-Acc-ADP(کے)-ADP(ساتھ) (1)</li>
-      <li>VERB-Inf--PRON-Nom (15)</li>
+      <li>VERB-Inf--PRON-Nom (13)</li>
       <li>VERB-Part--NOUN (5)</li>
       <li>VERB-Part--NOUN-ADP(کو) (2)</li>
-      <li>VERB-Part--NOUN-Acc (133)</li>
+      <li>VERB-Part--NOUN-Acc (138)</li>
       <li>VERB-Part--NOUN-Acc-ADP(جیسے)-ADP(کو) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(سے) (94)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(سے) (98)</li>
       <li>VERB-Part--NOUN-Acc-ADP(میں) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(پر) (6)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کا) (3)</li>
@@ -1066,35 +1032,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc-ADP(کا)-ADP(لگ) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کا)-ADP(وجہ) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کا)-ADP(کو) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کو) (380)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کوئی) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کوئی)-ADP(ایسی) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کوئی)-ADP(کو) (2)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(کو) (386)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(بموجب) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(خلاف) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(ساتھ) (9)</li>
-      <li>VERB-Part--NOUN-Nom (1328)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(اتنا) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(جو) (5)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(ساتھ) (10)</li>
+      <li>VERB-Part--NOUN-Nom (1399)</li>
       <li>VERB-Part--NOUN-Nom-ADP(زیر) (2)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(سب) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(سے) (2)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(فلاں) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(وہ)-ADP(سے) (1)</li>
+      <li>VERB-Part--NOUN-Nom-ADP(سے) (3)</li>
       <li>VERB-Part--NOUN-Nom-ADP(کا) (1)</li>
       <li>VERB-Part--NOUN-Nom-ADP(کو) (19)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(کوئی) (17)</li>
-      <li>VERB-Part--PRON (7)</li>
-      <li>VERB-Part--PRON-ADP(جو) (1)</li>
+      <li>VERB-Part--PRON (8)</li>
       <li>VERB-Part--PRON-ADP(کو) (2)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Acc,Dat (67)</li>
+      <li>VERB-Part--PRON-Acc,Dat (68)</li>
       <li>VERB-Part--PRON-Acc,Dat-ADP(سے) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(اپنا)-ADP(کو) (2)</li>
-      <li>VERB-Part--PRON-Acc-ADP(اےک)-ADP(کو) (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(سے) (5)</li>
-      <li>VERB-Part--PRON-Acc-ADP(کو) (41)</li>
-      <li>VERB-Part--PRON-Nom (59)</li>
+      <li>VERB-Part--PRON-Acc-ADP(کو) (45)</li>
+      <li>VERB-Part--PRON-Nom (61)</li>
     </ul>
   </li>
 </ul>
@@ -1107,7 +1061,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc-ADP(سے) (11)</li>
       <li>VERB--NOUN-Acc-ADP(کا) (2)</li>
       <li>VERB--NOUN-Acc-ADP(کا)-ADP(ہاتھ) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(کو) (44)</li>
+      <li>VERB--NOUN-Acc-ADP(کو) (45)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(حوالے) (1)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(لئے) (2)</li>
       <li>VERB--NOUN-Acc-ADP(کے)-ADP(پاس) (1)</li>
@@ -1116,9 +1070,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc,Dat (13)</li>
       <li>VERB--PRON-Acc-ADP(سے) (4)</li>
       <li>VERB--PRON-Acc-ADP(کو) (3)</li>
-      <li>VERB--PRON-Nom (7)</li>
+      <li>VERB--PRON-Nom (6)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(سے) (8)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(سے) (9)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(کو) (19)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(سے) (3)</li>
       <li>VERB-Fin--PRON-Acc,Dat (8)</li>
@@ -1127,24 +1081,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Fin--PRON-Nom-ADP(کو) (1)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(سے) (7)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(کو) (46)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(سے) (4)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(کو) (45)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(کو) (1)</li>
-      <li>VERB-Inf--PRON-Acc,Dat (10)</li>
+      <li>VERB-Inf--PRON-Acc,Dat (9)</li>
       <li>VERB-Inf--PRON-Acc,Gen (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(کو) (3)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(کو) (2)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-ADP(سے) (1)</li>
       <li>VERB-Part--NOUN-ADP(کو) (1)</li>
       <li>VERB-Part--NOUN-Acc (12)</li>
       <li>VERB-Part--NOUN-Acc-ADP(تک) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(سے) (116)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(سے) (118)</li>
       <li>VERB-Part--NOUN-Acc-ADP(مےں) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(نے) (4)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کا) (4)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کو) (174)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(کوئی)-ADP(کو) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(کو) (176)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(ساتھ) (2)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(لئے) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(کے)-ADP(لیے) (1)</li>
@@ -1152,14 +1105,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Nom-ADP(سے) (2)</li>
       <li>VERB-Part--NOUN-Nom-ADP(کو) (4)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Acc,Dat (56)</li>
+      <li>VERB-Part--PRON-Acc,Dat (57)</li>
       <li>VERB-Part--PRON-Acc,Dat-ADP(سے) (1)</li>
       <li>VERB-Part--PRON-Acc,Gen-ADP(سے) (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(سے) (9)</li>
       <li>VERB-Part--PRON-Acc-ADP(نے) (2)</li>
-      <li>VERB-Part--PRON-Acc-ADP(کو) (9)</li>
+      <li>VERB-Part--PRON-Acc-ADP(کو) (10)</li>
       <li>VERB-Part--PRON-Acc-ADP(کے)-ADP(لئے) (1)</li>
-      <li>VERB-Part--PRON-Nom (5)</li>
+      <li>VERB-Part--PRON-Nom (6)</li>
     </ul>
   </li>
 </ul>
@@ -1171,5 +1124,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 1 relation subtypes: <a>acl:relcl</a></li>
-<li>The following 12 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>expl</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 10 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

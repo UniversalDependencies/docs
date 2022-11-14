@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="mpu_tudet-pos-PRON.
 
 ### `PRON`
 
-3 <tt><a href="mpu_tudet-pos-PRON.html">PRON</a></tt> tokens (27% of all `PRON` tokens) have a non-empty value of `Polarity`.
+3 <tt><a href="mpu_tudet-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="mpu_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mpu_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mpu_tudet-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>pit</em>
-* `EMPTY` (8): <em>on, õn, en, xeke</em>
+* `EMPTY` (9): <em>on, õn, en, xeke</em>
 

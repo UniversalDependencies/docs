@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7060 nodes (6%) are attached to their parents as `root`.
+7092 nodes (6%) are attached to their parents as `root`.
 
-7060 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.1671388101983.
+7092 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.17005076142132.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (5096; 72% instances), -<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (768; 11% instances), -<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (430; 6% instances), -<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (421; 6% instances), -<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (97; 1% instances), -<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (62; 1% instances), -<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (55; 1% instances), -<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (51; 1% instances), -<tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (33; 0% instances), -<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> (23; 0% instances), -<tt><a href="uk_iu-pos-X.html">X</a></tt> (16; 0% instances), -<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (6; 0% instances), -<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (5119; 72% instances), -<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (776; 11% instances), -<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (433; 6% instances), -<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (419; 6% instances), -<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (97; 1% instances), -<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (63; 1% instances), -<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (55; 1% instances), -<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (51; 1% instances), -<tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (33; 0% instances), -<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> (22; 0% instances), -<tt><a href="uk_iu-pos-X.html">X</a></tt> (16; 0% instances), -<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (6; 0% instances), -<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 7 root	color:blue
 1	Дідусь	дідусь	NOUN	Ncmsny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj|9:nsubj	Id=02tp|LTranslit=diduś|SpaceAfter=No|Translit=Diduś
 2	,	,	PUNCT	U	_	3	punct	3:punct	Id=02tq|LTranslit=,|Translit=,
-3	той	той	DET	Pd--m-sna	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	dislocated	5:nsubj:rel|7:dislocated|9:dislocated	Id=02tr|LTranslit=toj|Translit=toj
+3	той	той	DET	Pd--m-sna	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	dislocated	5:nsubj|7:dislocated|9:dislocated	Id=02tr|LTranslit=toj|Translit=toj
 4	що	що	SCONJ	Css	_	5	mark	5:mark	Id=02ts|LTranslit=ščo|Translit=ščo
 5	атестував	атестувати	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Id=02tt|LTranslit=atestuvaty|SpaceAfter=No|Translit=atestuvav
 6	,	,	PUNCT	U	_	5	punct	5:punct	Id=02tu|LTranslit=,|Translit=,

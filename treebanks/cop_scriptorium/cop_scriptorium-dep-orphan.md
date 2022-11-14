@@ -31,7 +31,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 7	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	3	obl	_	Entity=person)
 8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
 9	ϩⲟⲟⲩⲧ	ϩⲟⲟⲩⲧ	NOUN	N	_	3	xcomp	_	_
-10	·	·	PUNCT	PUNCT	_	14	punct	_	_
+10	·	·	PUNCT	PUNCT	_	9	punct	_	_
 11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
 12	ⲙⲁⲁⲃⲧⲏ	ⲙⲁⲁⲃⲧⲏ	NUM	NUM	NumType=Card	14	nummod	_	Entity=(person|MSeg=ⲙⲁⲁⲃ-ⲧⲏ|Orig=ⲙⲁⲃⲧⲏ
 13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲛ̄

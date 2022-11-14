@@ -42,7 +42,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 18	аларга	ул	PRON	_	Case=Dat|Number=Plur|PronType=Prs	20	nmod	_	LangID=TT
 19	яхшы	яхшы	ADJ	_	_	20	amod	_	LangID=TT
 20	караш	караш	NOUN	_	Case=Nom|Number=Sing	21	nsubj	_	LangID=TT
-21	булмаса	бул	VERB	_	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg	25	advcl	_	LangID=TT|SpaceAfter=No
+21	булмаса	бул	VERB	_	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|VerbForm=Conv	25	advcl	_	LangID=TT|SpaceAfter=No
 22	,	,	PUNCT	_	_	25	punct	_	LangID=OTHER
 23	ул	ул	PRON	_	Case=Nom|Number=Sing|PronType=Prs	25	nsubj	_	LangID=TT
 24	бик	бик	ADV	_	_	25	advmod	_	LangID=TT

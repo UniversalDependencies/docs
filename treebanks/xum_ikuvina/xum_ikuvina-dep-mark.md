@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (3%) are attached to their parents as `mark`.
+26 nodes (3%) are attached to their parents as `mark`.
 
-18 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.83333333333333.
+26 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.23076923076923.
 
-The following 3 pairs of parts of speech are connected with `mark`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-SCONJ.html">SCONJ</a></tt> (16; 89% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances).
+The following 3 pairs of parts of speech are connected with `mark`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-SCONJ.html">SCONJ</a></tt> (23; 88% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-SCONJ.html">SCONJ</a></tt> (2; 8% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

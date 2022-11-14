@@ -11,17 +11,19 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 2462 tokens (4%) have a non-empty value of `Degree`.
 127 types (14%) occur at least once with a non-empty value of `Degree`.
-117 lemmas (15%) occur at least once with a non-empty value of `Degree`.
+118 lemmas (15%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 2 part-of-speech tags: <tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (2079; 3% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (383; 1% instances).
 
 ### `ADJ`
 
 2079 <tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="en_atis-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1558; 75%).
+
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (33; 2% of non-empty `Degree`): <em>less, more, earlier</em>
-* `Pos` (1489; 72% of non-empty `Degree`): <em>first, available, next, seventh, early, like, many, expensive, daily, last</em>
+* `Pos` (1489; 72% of non-empty `Degree`): <em>available, first, next, early, like, many, expensive, daily, seventh, last</em>
 * `Sup` (557; 27% of non-empty `Degree`): <em>cheapest, earliest, latest, least, lowest, shortest, smallest, most, closest, highest</em>
 
 <table>
@@ -40,7 +42,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (3; 1% of non-empty `Degree`): <em>less</em>
-* `Pos` (364; 95% of non-empty `Degree`): <em>o'clock, now, first, much, back, also, early, then, only, again</em>
+* `Pos` (364; 95% of non-empty `Degree`): <em>o'clock, now, much, back, also, early, then, only, first, again</em>
 * `Sup` (16; 4% of non-empty `Degree`): <em>most, earliest</em>
 * `EMPTY` (183): <em>how, where, when</em>
 

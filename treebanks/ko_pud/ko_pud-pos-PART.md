@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Korean-PUD: POS Tags: `PART`
 
-There are 98 `PART` lemmas (4%), 101 `PART` types (1%) and 496 `PART` tokens (3%).
-Out of 13 observed tags, the rank of `PART` is: 4 in number of lemmas, 7 in number of types and 8 in number of tokens.
+There are 91 `PART` lemmas (3%), 94 `PART` types (1%) and 478 `PART` tokens (3%).
+Out of 13 observed tags, the rank of `PART` is: 4 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PART` lemmas: 는, 의, 고, 에, 도, 라고, 가, 와, 에서, 이
 
 The 10 most frequent `PART` types:  는, 의, 고, 에, 도, 라고, 가, 와, 에서, 이
 
-The 10 most frequent ambiguous lemmas: 도 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 26, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2), 가 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 20, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 이 (<tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 23, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 16), 과 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 10, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 만 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 있다 (<tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 4), 열기 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 도 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 26, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2), 가 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 20, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 이 (<tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 23, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 16), 과 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 10, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 만 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 열기 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  고 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 38, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 1), 도 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 26, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 가 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 20, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 7), 와 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 19, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1), 이 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 52, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1), 만 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 있다고 (<tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 4), 보다 (<tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 2), 들 (<tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 1), 뿐 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  고 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 38, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 1), 도 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 26, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 가 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 20, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 7), 와 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 19, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1), 이 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 52, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1), 만 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 보다 (<tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 2), 있음을 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 2, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 1), 들 (<tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 1), 뿐 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 1)
 
 
 * 고
@@ -40,12 +40,12 @@ The 10 most frequent ambiguous types:  고 (<tt><a href="ko_pud-pos-PART.html">P
   * <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 12: 그해 성공 보수 및 상여금 총액은 150 <b>만</b> 달러 였고 이는 2015 - 2016 년과 비슷한 수준 이었다 .
   * <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5: 이전에는 이런 제트기들을 블로그에서 <b>만</b> 볼 수 있었다 .
   * <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1: 아시아와 태평양 지역의 경우 , 3 백만에서 1 천만 명 정도 ( 약 750 <b>만</b> 정도로 추산 ) 가 일본군에 의해 학살을 당했으며 이 중 대부분이 중국인 이었다 .
-* 있다고
-  * <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 8: 많은 과학자들은 이제는 공기에서 탄소를 제거하는 기술이 있어야 파리 기후 협약의 목표를 달성할 수 <b>있다고</b> 말한다 .
-  * <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 4: NHS가 지금 " 엄청난 압력 " 을 받고 <b>있다고</b> 경고하면서 그는 국민들에게 자신의 건강을 더 책임감 있게 돌볼 것을 권고했다 .
 * 보다
   * <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 2: 자유의 보장은 지역 간 갈등을 해소하고 제국을 <b>보다</b> 조화로운 곳으로 만들 것을 약속했다 .
   * <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 2: 점점 더 많은 기술 회사들이 심지어 실리콘 밸리에서 <b>보다</b> 월가에 전보다 더 많이 진출하려 하고 있다 .
+* 있음을
+  * <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 2: 블로흐는 자신이 갖고 있던 맑시즘이 인생의 지침으로 자리 잡을 것 이라 믿었으며 신비 주의적 인 전통에 인류애가 내재되어 <b>있음을</b> 강조하였다 .
+  * <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 1: 그 추정치는 임대 시장에 진입한 새로운 콘도미니엄의 퍼센트와 일치하는데 이는 GTA 주택 시장에서 ( 국내 ) 투자자들이 중요한 역할을 하고 <b>있음을</b> 말해 준다 .
 * 들
   * <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 3: 태평양의 라인 군도와 인도양의 몰디브를 예로 <b>들</b> 수 있다 .
   * <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 1: 그러한 인터넷계의 노력이 그 장치에 대한 자본 지출의 주된 동력 이라 고 <b>들</b> 한다 .
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  고 (<tt><a href="ko_pud-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.030612 (the average of all parts of speech is 3.165468).
+The form / lemma ratio of `PART` is 1.032967 (the average of all parts of speech is 3.187571).
 
 The 1st highest number of forms (2) was observed with the lemma “되기”: 되기를, 되기에.
 
@@ -63,7 +63,7 @@ The 2nd highest number of forms (2) was observed with the lemma “됨”: 됨�
 
 The 3rd highest number of forms (2) was observed with the lemma “쓰기”: 쓰기도, 쓰기로.
 
-`PART` occurs with 8 features: <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt> (282; 57% instances), <tt><a href="ko_pud-feat-Case.html">Case</a></tt> (167; 34% instances), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt> (72; 15% instances), <tt><a href="ko_pud-feat-Mood.html">Mood</a></tt> (40; 8% instances), <tt><a href="ko_pud-feat-Tense.html">Tense</a></tt> (22; 4% instances), <tt><a href="ko_pud-feat-Form.html">Form</a></tt> (18; 4% instances), <tt><a href="ko_pud-feat-Voice.html">Voice</a></tt> (3; 1% instances), <tt><a href="ko_pud-feat-PronType.html">PronType</a></tt> (2; 0% instances)
+`PART` occurs with 8 features: <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt> (278; 58% instances), <tt><a href="ko_pud-feat-Case.html">Case</a></tt> (166; 35% instances), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt> (54; 11% instances), <tt><a href="ko_pud-feat-Mood.html">Mood</a></tt> (26; 5% instances), <tt><a href="ko_pud-feat-Tense.html">Tense</a></tt> (19; 4% instances), <tt><a href="ko_pud-feat-Form.html">Form</a></tt> (18; 4% instances), <tt><a href="ko_pud-feat-Voice.html">Voice</a></tt> (3; 1% instances), <tt><a href="ko_pud-feat-PronType.html">PronType</a></tt> (2; 0% instances)
 
 `PART` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Form=Aux`, `Form=Compl`, `Mood=Imp`, `Mood=Ind`, `Polite=Form`, `PronType=Int`, `Tense=Fut`, `Tense=Past`, `VerbForm=Fin`, `VerbForm=Ger`, `Voice=Cau`, `Voice=Pass`
 
@@ -74,21 +74,21 @@ Examples: 는, 고, 도, 라고, 만, 까지, 이라고, 밖에, 들, 마다
 
 ## Relations
 
-`PART` nodes are attached to their parents using 9 different relations: <tt><a href="ko_pud-dep-case.html">case</a></tt> (404; 81% instances), <tt><a href="ko_pud-dep-advcl.html">advcl</a></tt> (61; 12% instances), <tt><a href="ko_pud-dep-aux.html">aux</a></tt> (9; 2% instances), <tt><a href="ko_pud-dep-ccomp.html">ccomp</a></tt> (9; 2% instances), <tt><a href="ko_pud-dep-root.html">root</a></tt> (4; 1% instances), <tt><a href="ko_pud-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ko_pud-dep-csubj.html">csubj</a></tt> (3; 1% instances), <tt><a href="ko_pud-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="ko_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 10 different relations: <tt><a href="ko_pud-dep-case.html">case</a></tt> (404; 85% instances), <tt><a href="ko_pud-dep-advcl.html">advcl</a></tt> (49; 10% instances), <tt><a href="ko_pud-dep-ccomp.html">ccomp</a></tt> (8; 2% instances), <tt><a href="ko_pud-dep-root.html">root</a></tt> (7; 1% instances), <tt><a href="ko_pud-dep-csubj.html">csubj</a></tt> (3; 1% instances), <tt><a href="ko_pud-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="ko_pud-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ko_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="ko_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ko_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (257; 52% instances), <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> (172; 35% instances), <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> (37; 7% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="ko_pud-pos-PART.html">PART</a></tt> (8; 2% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (6; 1% instances),  (4; 1% instances), <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (246; 51% instances), <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> (172; 36% instances), <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> (30; 6% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (11; 2% instances),  (7; 1% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="ko_pud-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-411 (83%) `PART` nodes are leaves.
+402 (84%) `PART` nodes are leaves.
 
 20 (4%) `PART` nodes have one child.
 
-26 (5%) `PART` nodes have two children.
+24 (5%) `PART` nodes have two children.
 
-39 (8%) `PART` nodes have three or more children.
+32 (7%) `PART` nodes have three or more children.
 
-The highest child degree of a `PART` node is 7.
+The highest child degree of a `PART` node is 6.
 
-Children of `PART` nodes are attached using 15 different relations: <tt><a href="ko_pud-dep-advmod.html">advmod</a></tt> (51; 23% instances), <tt><a href="ko_pud-dep-obj.html">obj</a></tt> (40; 18% instances), <tt><a href="ko_pud-dep-advcl.html">advcl</a></tt> (39; 17% instances), <tt><a href="ko_pud-dep-nsubj.html">nsubj</a></tt> (35; 16% instances), <tt><a href="ko_pud-dep-aux.html">aux</a></tt> (25; 11% instances), <tt><a href="ko_pud-dep-punct.html">punct</a></tt> (14; 6% instances), <tt><a href="ko_pud-dep-case.html">case</a></tt> (5; 2% instances), <tt><a href="ko_pud-dep-compound-lvc.html">compound:lvc</a></tt> (4; 2% instances), <tt><a href="ko_pud-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="ko_pud-dep-iobj.html">iobj</a></tt> (3; 1% instances), <tt><a href="ko_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="ko_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="ko_pud-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="ko_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="ko_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `PART` nodes are attached using 14 different relations: <tt><a href="ko_pud-dep-advcl.html">advcl</a></tt> (37; 19% instances), <tt><a href="ko_pud-dep-obj.html">obj</a></tt> (35; 18% instances), <tt><a href="ko_pud-dep-obl.html">obl</a></tt> (35; 18% instances), <tt><a href="ko_pud-dep-nsubj.html">nsubj</a></tt> (30; 16% instances), <tt><a href="ko_pud-dep-advmod.html">advmod</a></tt> (16; 8% instances), <tt><a href="ko_pud-dep-punct.html">punct</a></tt> (14; 7% instances), <tt><a href="ko_pud-dep-aux.html">aux</a></tt> (9; 5% instances), <tt><a href="ko_pud-dep-case.html">case</a></tt> (3; 2% instances), <tt><a href="ko_pud-dep-ccomp.html">ccomp</a></tt> (3; 2% instances), <tt><a href="ko_pud-dep-compound-lvc.html">compound:lvc</a></tt> (3; 2% instances), <tt><a href="ko_pud-dep-iobj.html">iobj</a></tt> (3; 2% instances), <tt><a href="ko_pud-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="ko_pud-dep-csubj.html">csubj</a></tt> (1; 1% instances), <tt><a href="ko_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 1% instances)
 
-Children of `PART` nodes belong to 9 different parts of speech: <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (110; 49% instances), <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> (41; 18% instances), <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> (17; 8% instances), <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> (14; 6% instances), <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> (12; 5% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (11; 5% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (10; 4% instances), <tt><a href="ko_pud-pos-PART.html">PART</a></tt> (8; 4% instances), <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `PART` nodes belong to 11 different parts of speech: <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (105; 55% instances), <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> (22; 12% instances), <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> (14; 7% instances), <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> (14; 7% instances), <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> (9; 5% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (7; 4% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="ko_pud-pos-PART.html">PART</a></tt> (5; 3% instances), <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

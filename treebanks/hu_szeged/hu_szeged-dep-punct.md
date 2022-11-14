@@ -10,10 +10,10 @@ This relation is universal.
 
 5807 nodes (14%) are attached to their parents as `punct`.
 
-3065 instances of `punct` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.95212674358533.
+3079 instances of `punct` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.95402100912692.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (3522; 61% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (1063; 18% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (588; 10% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (325; 6% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (132; 2% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (72; 1% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (43; 1% instances), <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="hu_szeged-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-X.html">X</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (3524; 61% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (1058; 18% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (583; 10% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (323; 6% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (132; 2% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (71; 1% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (53; 1% instances), <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="hu_szeged-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-X.html">X</a></tt>-<tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -40,18 +40,18 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 punct	color:blue
-1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	rendezvény	rendezvény	NOUN	_	Case=Nom|Number=Sing	3	nmod:att	_	_
-3	szónoka	szónok	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	_
-4	Tamás	Tamás	PROPN	_	Case=Nom|Number=Sing	7	appos	_	_
-5	Gáspár	Gáspár	PROPN	_	Case=Nom|Number=Sing	4	flat:name	_	_
-6	Miklós	Miklós	PROPN	_	Case=Nom|Number=Sing	4	flat:name	_	_
-7	filozófus	filozófus	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
-8	lesz	lesz	AUX	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 punct	color:blue
+1	Kiszivárogtatott	ki+szivárog	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	2	amod:att	_	_
+2	információ	információ	NOUN	_	Case=Nom|Number=Sing	8	nmod	_	ToDo=nmod
+3	szerint	szerint	ADP	_	_	2	case	_	_
+4	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
+5	valódi	valódi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
+6	ok	ok	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+7	az	az	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	értékesítés	értékesítés	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

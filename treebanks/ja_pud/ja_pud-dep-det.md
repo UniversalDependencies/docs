@@ -11,7 +11,7 @@ This relation is universal.
 210 nodes (1%) are attached to their parents as `det`.
 
 210 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31428571428571.
+Average distance between parent and child is 1.3047619047619.
 
 The following 4 pairs of parts of speech are connected with `det`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-DET.html">DET</a></tt> (204; 97% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
@@ -86,7 +86,7 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 det	color:blue
-1	それ	其れ	PRON	代名詞	_	24	dislocated	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No|UnidicInfo=,其れ,それ,それ,ソレ,,,ソレ,ソレ,其れ
+1	それ	其れ	PRON	代名詞	_	24	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No|UnidicInfo=,其れ,それ,それ,ソレ,,,ソレ,ソレ,其れ
 2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
 3	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 4	あり	有り	NOUN	名詞-普通名詞-一般	_	6	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=,有り,あり,あり,アリ,,,アリ,アリ,蟻

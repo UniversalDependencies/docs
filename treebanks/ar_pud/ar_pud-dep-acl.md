@@ -23,24 +23,24 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 acl	color:blue
-1	استبعدت	{isotaboEad_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	الرقابة	raqAbap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
-3	كل	kul~_1	DET	PDT	Case=Acc	4	det	_	_
-4	الآراء	ra>oy_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	_
-5	غير	gayor_1	PART	RP	Polarity=Neg	6	advmod	_	_
-6	المرغوب	maroguwb_1	NOUN	VBN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	_
-7	ب	bi_1	ADP	IN	_	8	case	_	SpaceAfter=No
-8	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	6	obl	_	SpaceAfter=No
-9	,	,_0	PUNCT	,	_	17	punct	_	_
-10	و	w	CCONJ	CC	_	17	cc	_	SpaceAfter=No
-11	باتت	bAt-i_1	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	17	cop	_	_
-12	المشاركة	mu$Arakap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	17	nsubj	_	_
-13	في	fiy_1	ADP	IN	_	14	case	_	_
-14	الحياة	HayAp_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	_
-15	العامة	EAm~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	amod	_	_
-16	شبه	$iboh_1	DET	PDT	Case=Acc	17	det	_	_
-17	مستحيلة	musotaHiyl_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
-18	.	._0	PUNCT	.	_	1	punct	_	_
+1	استبعدت	اِستَبعَد	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِسْتَبْعَد_1
+2	الرقابة	رَقَابَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	LId=رَقابَة_1
+3	كل	كُلّ	DET	PDT	Case=Acc	4	det	_	LId=كُلّ_1
+4	الآراء	رَأي	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	LId=رَأْي_1
+5	غير	غَير	PART	RP	Polarity=Neg	6	advmod	_	LId=غَيْر_1
+6	المرغوب	مَرغُوب	NOUN	VBN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	LId=مَرْغُوب_1
+7	ب	بِ	ADP	IN	_	8	case	_	LId=بِ_1|SpaceAfter=No
+8	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	11	punct	_	LId=,_0
+10	و	وَ	CCONJ	CC	_	11	cc	_	SpaceAfter=No
+11	باتت	بات	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	LId=بات-ِ_1
+12	المشاركة	مُشارَكَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	LId=مُشارَكَة_1
+13	في	فِي	ADP	IN	_	14	case	_	LId=فِي_1
+14	الحياة	حَيَاة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	LId=حَياة_1
+15	العامة	عَامّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	amod	_	LId=عامّ_1
+16	شبه	شِبه	DET	PDT	Case=Acc	17	det	_	LId=شِبْه_1
+17	مستحيلة	مُستَحِيل	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	xcomp	_	LId=مُسْتَحِيل_1|SpaceAfter=No
+18	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 ~~~
 
@@ -51,18 +51,18 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 acl	color:blue
-1	قالت	qAl-u_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	ليف	liyf_1	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
-3	:	:_0	PUNCT	:	_	5	punct	_	_
-4	"	"_0	PUNCT	``	_	5	punct	_	SpaceAfter=No
-5	دار	dAr_1	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	acl	_	_
-6	صوت	Sawot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
-7	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	6	nmod	_	_
-8	حول	Hawol_1	ADP	IN	_	9	case	_	_
-9	العالم	EAlam_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	_
-10	حرفياً	Harofiy~_1	ADV	RB	_	5	advmod	_	SpaceAfter=No
-11	"	"_0	PUNCT	''	_	5	punct	_	SpaceAfter=No
-12	.	._0	PUNCT	.	_	1	punct	_	_
+1	قالت	قَال	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=قال-ُ_1
+2	ليف	لِيف	PROPN	NNP	Gender=Fem|Number=Sing	1	nsubj	_	LId=لِيف_1|SpaceAfter=No
+3	:	:	PUNCT	:	_	5	punct	_	LId=:_0
+4	"	"	PUNCT	``	_	5	punct	_	LId="_0|SpaceAfter=No
+5	دار	دَار	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	acl	_	LId=دار_1
+6	صوت	صَوت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	LId=صَوْت_1|SpaceAfter=No
+7	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	6	nmod	_	_
+8	حول	حَولَ	ADP	IN	_	9	case	_	LId=حَوْل_1
+9	العالم	عالَم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	LId=عالَم_1
+10	حرفياً	حَرفِيّ	ADV	RB	_	5	advmod	_	LId=حَرْفِيّ_1|SpaceAfter=No
+11	"	"	PUNCT	''	_	5	punct	_	LId="_0|SpaceAfter=No
+12	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 ~~~
 
@@ -73,27 +73,27 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 4 acl	color:blue
-1	بما	mA_1	PART	RP	_	4	compound:prt	_	_
-2	أن	>an~a_1	PART	RP	_	4	compound:prt	_	SpaceAfter=No
-3	ها	hA	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	nsubj:pass	_	_
-4	ممولة	mumaw~al_1	ADJ	VBN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Voice=Pass	12	acl	_	_
-5	كلياً	kul~iy~_1	ADV	RB	_	4	advmod	_	_
-6	ب	b	ADP	IN	_	7	case	_	SpaceAfter=No
-7	أموال	mAl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	obl	_	_
-8	برنار	bironAr_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	7	nmod	_	_
-9	تابي	>abaY-a_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	8	flat	_	_
-10	الخاصة	xAS~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
-11	,	,_0	PUNCT	,	_	4	punct	_	_
-12	أغلقت	>agolaq_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-13	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	14	det	_	_
-14	المدارس	madorasap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	12	nsubj:pass	_	_
-15	عام	EAm_1	ADV	RB	_	12	obl:tmod	_	_
-16	1994	1994_0	NUM	CD	Case=Gen	15	obl	_	_
-17	عند	Einod_1	ADP	IN	_	18	case	_	_
-18	إعلان	<iEolAn_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	_
-19	إفلاس	<ifolAs_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
-20	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	19	nmod	_	SpaceAfter=No
-21	.	._0	PUNCT	.	_	12	punct	_	_
+1	بما	ما	PART	RP	_	4	compound:prt	_	LId=ما_1
+2	أن	أَنَّ	PART	RP	_	4	compound:prt	_	LId=أَنَّ_1|SpaceAfter=No
+3	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	nsubj:pass	_	_
+4	ممولة	مُمَوَّل	ADJ	VBN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Voice=Pass	12	acl	_	LId=مُمَوَّل_1
+5	كلياً	كُلِّيّ	ADV	RB	_	4	advmod	_	LId=كُلِّيّ_1
+6	ب	بِ	ADP	IN	_	7	case	_	SpaceAfter=No
+7	أموال	مَال	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	obl	_	LId=مال_1
+8	برنار	بِرنار	PROPN	NNP	Gender=Masc|Number=Sing	7	nmod	_	LId=بِرْنار_1
+9	تابي	أَبَى	PROPN	NNP	Gender=Masc|Number=Sing	8	flat	_	LId=أَبَى-َ_1
+10	الخاصة	خَاصّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	LId=خاصّ_1|SpaceAfter=No
+11	,	,	PUNCT	,	_	4	punct	_	LId=,_0
+12	أغلقت	أَغلَق	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	LId=أَغْلَق_1
+13	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	14	det	_	LId=هٰذا_1
+14	المدارس	مَدرَسَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	12	nsubj:pass	_	LId=مَدْرَسَة_1
+15	عام	عام	ADV	RB	_	12	obl:tmod	_	LId=عام_1
+16	1994	1994	NUM	CD	Case=Gen	15	obl	_	LId=١٩٩٤_0
+17	عند	عِندَ	ADP	IN	_	18	case	_	LId=عِنْد_1
+18	إعلان	إِعلان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	LId=إِعْلان_1
+19	إفلاس	إِفلَاس	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	LId=إِفْلاس_1|SpaceAfter=No
+20	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	19	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	12	punct	_	LId=._0
 
 ~~~
 

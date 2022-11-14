@@ -57,12 +57,12 @@ The 2nd highest number of forms (1) was observed with the lemma “Altus”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “BUENOS”: <em>BUENOS</em>.
 
-`X` occurs with 5 features: <tt><a href="fr_ftb-feat-Person.html">Person</a></tt> (2; 0% instances), <tt><a href="fr_ftb-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="fr_ftb-feat-Number.html">Number</a></tt> (1; 0% instances), <tt><a href="fr_ftb-feat-Tense.html">Tense</a></tt> (1; 0% instances), <tt><a href="fr_ftb-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances)
+`X` occurs with 4 features: <tt><a href="fr_ftb-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="fr_ftb-feat-Number.html">Number</a></tt> (1; 0% instances), <tt><a href="fr_ftb-feat-Tense.html">Tense</a></tt> (1; 0% instances), <tt><a href="fr_ftb-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances)
 
-`X` occurs with 5 feature-value pairs: `Mood=Ind`, `Number=Plur`, `Person=3`, `Tense=Pres`, `VerbForm=Fin`
+`X` occurs with 4 feature-value pairs: `Mood=Ind`, `Number=Plur`, `Tense=Pres`, `VerbForm=Fin`
 
-`X` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (2190 tokens).
+`X` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2191 tokens).
 Examples: <em>_, NEW, New, British, Grand, In, A, Altus, BUENOS, Body</em>
 
 

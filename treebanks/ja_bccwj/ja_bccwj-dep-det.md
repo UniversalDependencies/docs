@@ -68,7 +68,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 7	_	_	ADP	_	_	4	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=6|SpaceAfter=No|UI=495
 8	_	_	PUNCT	_	_	4	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=2|SpaceAfter=No|UI=1
 9	_	_	NOUN	_	_	10	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=5741
-10	_	_	NOUN	_	_	14	dislocated	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=5609
+10	_	_	NOUN	_	_	14	nsubj:outer	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=5609
 11	_	_	ADP	_	_	10	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=6|SpaceAfter=No|UI=4
 12	_	_	NOUN	_	_	14	nsubj	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=1873
 13	_	_	ADP	_	_	12	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=6

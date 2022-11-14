@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.000681).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.001499).
 
 The 1st highest number of forms (1) was observed with the lemma “글쎄”: 글쎄.
 
@@ -34,9 +34,9 @@ The 3rd highest number of forms (1) was observed with the lemma “에이”: �
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 2 different relations: <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (2; 67% instances), <tt><a href="ko_gsd-dep-root.html">root</a></tt> (1; 33% instances)
+`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="ko_gsd-dep-advcl.html">advcl</a></tt> (1; 33% instances), <tt><a href="ko_gsd-dep-discourse.html">discourse</a></tt> (1; 33% instances), <tt><a href="ko_gsd-dep-root.html">root</a></tt> (1; 33% instances)
 
-Parents of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (1; 33% instances),  (1; 33% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (1; 33% instances)
+Parents of `INTJ` nodes belong to 2 different parts of speech: <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (2; 67% instances),  (1; 33% instances)
 
 0 (0%) `INTJ` nodes are leaves.
 
@@ -46,9 +46,9 @@ Parents of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="ko_g
 
 3 (100%) `INTJ` nodes have three or more children.
 
-The highest child degree of a `INTJ` node is 4.
+The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 6 different relations: <tt><a href="ko_gsd-dep-punct.html">punct</a></tt> (5; 50% instances), <tt><a href="ko_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 10% instances), <tt><a href="ko_gsd-dep-advcl.html">advcl</a></tt> (1; 10% instances), <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (1; 10% instances), <tt><a href="ko_gsd-dep-nsubj.html">nsubj</a></tt> (1; 10% instances), <tt><a href="ko_gsd-dep-obj.html">obj</a></tt> (1; 10% instances)
+Children of `INTJ` nodes are attached using 6 different relations: <tt><a href="ko_gsd-dep-punct.html">punct</a></tt> (6; 46% instances), <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (3; 23% instances), <tt><a href="ko_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 8% instances), <tt><a href="ko_gsd-dep-advcl.html">advcl</a></tt> (1; 8% instances), <tt><a href="ko_gsd-dep-nsubj.html">nsubj</a></tt> (1; 8% instances), <tt><a href="ko_gsd-dep-obj.html">obj</a></tt> (1; 8% instances)
 
-Children of `INTJ` nodes belong to 4 different parts of speech: <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (5; 50% instances), <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (2; 20% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (2; 20% instances), <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> (1; 10% instances)
+Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (6; 46% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (3; 23% instances), <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> (1; 8% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (1; 8% instances)
 

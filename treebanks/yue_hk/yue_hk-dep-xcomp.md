@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-141 nodes (1%) are attached to their parents as `xcomp`.
+150 nodes (1%) are attached to their parents as `xcomp`.
 
-141 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.6241134751773.
+150 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.48.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (116; 82% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (14; 10% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (124; 83% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (15; 10% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 8	你	你	PRON	_	_	7	obj	_	SpaceAfter=No
 9	對	對	VERB	_	_	1	conj	_	SpaceAfter=No
 10	晒	晒	PART	_	_	9	compound:quant	_	SpaceAfter=No
-11	啲	啲	NOUN	_	NounType=Clf	12	det	_	SpaceAfter=No
+11	啲	啲	NOUN	_	NounType=Clf	12	clf:det	_	SpaceAfter=No
 12	功課	功課	NOUN	_	_	9	obj	_	SpaceAfter=No
 13	先	先	ADV	_	_	14	advmod	_	SpaceAfter=No
 14	睇	睇	VERB	_	_	0	root	_	SpaceAfter=No
@@ -43,17 +43,29 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 xcomp	color:blue
-1	唱	唱	VERB	_	_	0	root	_	SpaceAfter=No
-2	得	得	PART	_	_	1	compound:ext	_	SpaceAfter=No
-3	幾	幾	ADV	_	_	4	advmod	_	SpaceAfter=No
-4	好	好	ADJ	_	_	1	xcomp	_	SpaceAfter=No
-5	㗎	㗎	PART	_	_	1	discourse:sp	_	SpaceAfter=No
-6	！	！	PUNCT	_	_	1	punct	_	SpaceAfter=No
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 xcomp	color:blue
+1	噉	噉	ADV	_	_	7	discourse	_	SpaceAfter=No
+2	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No
+3	當時	當時	NOUN	_	_	7	obl:tmod	_	SpaceAfter=No
+4	個	個	NOUN	_	NounType=Clf	5	clf:det	_	SpaceAfter=No
+5	內心	內心	NOUN	_	_	7	obl	_	SpaceAfter=No
+6	都	都	ADV	_	_	7	advmod	_	SpaceAfter=No
+7	覺得	覺得	VERB	_	_	0	root	_	SpaceAfter=No
+8	好	好	ADV	_	_	10	advmod	_	SpaceAfter=No
+9	唔	唔	ADV	_	_	10	advmod	_	SpaceAfter=No
+10	開心	開心	ADJ	_	_	7	xcomp	_	SpaceAfter=No
+11	呀	呀	PART	_	_	7	discourse:sp	_	SpaceAfter=No
+12	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	覺得	覺得	VERB	_	_	7	conj	_	SpaceAfter=No
+14	好似	好似	ADV	_	_	16	advmod	_	SpaceAfter=No
+15	好	好	ADV	_	_	16	advmod	_	SpaceAfter=No
+16	委屈	委屈	VERB	_	_	13	xcomp	_	SpaceAfter=No
+17	自己	自己	PRON	_	_	16	obj	_	SpaceAfter=No
+18	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No
 
 ~~~
 

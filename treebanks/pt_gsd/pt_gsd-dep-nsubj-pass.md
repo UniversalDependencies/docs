@@ -73,7 +73,7 @@ The following 18 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 6	será	ser	AUX	AUX	_	7	aux:pass	_	_
 7	levada	levar	VERB	VERB	_	0	root	_	_
 8	para	para	ADP	ADP	_	10	case	_	_
-9	a	o	DET	DET	_	10	det	_	_
+9	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	mesa	mesa	NOUN	NOUN	_	7	nmod	_	_
 11	de	de	ADP	ADP	_	12	case	_	_
 12	cirurgia	cirurgia	NOUN	NOUN	_	10	nmod	_	SpaceAfter=No

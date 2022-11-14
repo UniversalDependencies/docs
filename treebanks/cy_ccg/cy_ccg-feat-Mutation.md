@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `AM`, `NM`, `SM`.
 
-5830 tokens (13%) have a non-empty value of `Mutation`.
-2130 types (32%) occur at least once with a non-empty value of `Mutation`.
-1483 lemmas (33%) occur at least once with a non-empty value of `Mutation`.
-The feature is used with 12 part-of-speech tags: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3810; 8% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (912; 2% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (458; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (250; 1% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (111; 0% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (104; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (59; 0% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (55; 0% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (48; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+6290 tokens (13%) have a non-empty value of `Mutation`.
+2226 types (32%) occur at least once with a non-empty value of `Mutation`.
+1543 lemmas (33%) occur at least once with a non-empty value of `Mutation`.
+The feature is used with 12 part-of-speech tags: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4115; 8% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1006; 2% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (478; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (271; 1% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (116; 0% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (105; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (64; 0% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (61; 0% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (49; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-3810 <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> tokens (28% of all `NOUN` tokens) have a non-empty value of `Mutation`.
+4115 <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> tokens (28% of all `NOUN` tokens) have a non-empty value of `Mutation`.
 
-The most frequent other feature values with which `NOUN` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3299; 87%), <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2545; 67%).
+The most frequent other feature values with which `NOUN` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3566; 87%), <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2752; 67%).
 
 `NOUN` tokens may have the following values of `Mutation`:
 
-* `AM` (344; 9% of non-empty `Mutation`): <em>chael, phobl, chynnal, chymorth, phlant, chadw, chymunedau, hangen, hannog, hiaith</em>
-* `NM` (163; 4% of non-empty `Mutation`): <em>mod, mlynedd, mae, nghanolfan, Mhrifysgol, ne, nghyfnod, ngogledd, nhŷ, marn</em>
-* `SM` (3303; 87% of non-empty `Mutation`): <em>fod, gael, Gymraeg, gyfer, ddod, wneud, fynd, beth, bobl, weld</em>
+* `AM` (366; 9% of non-empty `Mutation`): <em>chael, phobl, chynnal, chymorth, hiaith, phlant, chadw, chymunedau, hangen, hannog</em>
+* `NM` (178; 4% of non-empty `Mutation`): <em>mlynedd, mod, mae, Mhrifysgol, nghanolfan, ne, nghyfnod, ngogledd, nhŷ, marn</em>
+* `SM` (3571; 87% of non-empty `Mutation`): <em>fod, gael, Gymraeg, gyfer, wneud, ddod, fynd, beth, bobl, weld</em>
 
 <table>
   <tr><th>Paradigm <i>plentyn</i></th><th><tt>AM</tt></th><th><tt>NM</tt></th><th><tt>SM</tt></th></tr>
@@ -35,15 +35,15 @@ The most frequent other feature values with which `NOUN` and `Mutation` co-occur
 
 ### `ADJ`
 
-912 <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> tokens (30% of all `ADJ` tokens) have a non-empty value of `Mutation`.
+1006 <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> tokens (30% of all `ADJ` tokens) have a non-empty value of `Mutation`.
 
-The most frequent other feature values with which `ADJ` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (810; 89%), <tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (798; 88%), <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (794; 87%).
+The most frequent other feature values with which `ADJ` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (890; 88%), <tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (889; 88%), <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (888; 88%).
 
 `ADJ` tokens may have the following values of `Mutation`:
 
-* `AM` (30; 3% of non-empty `Mutation`): <em>phob, Chernyweg, Chymraeg, Chymreig, chenedlaethol, pheryglus, phosib, phrif, chadarn, chasach</em>
+* `AM` (35; 3% of non-empty `Mutation`): <em>phob, chymdeithasol, Chernyweg, Chymraeg, Chymreig, chenedlaethol, pheryglus, phosib, phrif, chadarn</em>
 * `NM` (6; 1% of non-empty `Mutation`): <em>mhob</em>
-* `SM` (876; 96% of non-empty `Mutation`): <em>bob, Gymraeg, fawr, genedlaethol, dda, ogystal, wahanol, leol, gwbl, fwy</em>
+* `SM` (965; 96% of non-empty `Mutation`): <em>Gymraeg, bob, fawr, genedlaethol, ogystal, dda, wahanol, fwy, leol, gwbl</em>
 
 <table>
   <tr><th>Paradigm <i>pob</i></th><th><tt>AM</tt></th><th><tt>NM</tt></th><th><tt>SM</tt></th></tr>
@@ -51,19 +51,19 @@ The most frequent other feature values with which `ADJ` and `Mutation` co-occurr
   <tr><td><tt><tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>mhob</em></td><td></td></tr>
 </table>
 
-`Mutation` seems to be **lexical feature** of `ADJ`. 95% lemmas (233) occur only with one value of `Mutation`.
+`Mutation` seems to be **lexical feature** of `ADJ`. 95% lemmas (242) occur only with one value of `Mutation`.
 
 ### `VERB`
 
-458 <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Mutation`.
+478 <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Mutation`.
 
-The most frequent other feature values with which `VERB` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (458; 100%), <tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (407; 89%), <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (361; 79%), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt> (284; 62%), <tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (241; 53%).
+The most frequent other feature values with which `VERB` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (477; 100%), <tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (426; 89%), <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (379; 79%), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt> (298; 62%), <tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (248; 52%).
 
 `VERB` tokens may have the following values of `Mutation`:
 
-* `AM` (26; 6% of non-empty `Mutation`): <em>chafodd, chaiff, cheir, chafwyd, chasglodd, chlywaist, chollodd, chredir, chuddiwyd, chyflëwyd</em>
+* `AM` (26; 5% of non-empty `Mutation`): <em>chafodd, chaiff, cheir, chafwyd, chasglodd, chlywaist, chollodd, chredir, chuddiwyd, chyflëwyd</em>
 * `NM` (1; 0% of non-empty `Mutation`): <em>mreuddwyd</em>
-* `SM` (431; 94% of non-empty `Mutation`): <em>fydd, ddaru, fu, ddaeth, ddylai, gafodd, wnaeth, ddaw, wnes, allai</em>
+* `SM` (451; 94% of non-empty `Mutation`): <em>fydd, fu, ddaru, ddaeth, ddylai, gafodd, wnaeth, ddaw, wnes, fyddai</em>
 
 <table>
   <tr><th>Paradigm <i>cael</i></th><th><tt>AM</tt></th><th><tt>SM</tt></th></tr>
@@ -74,42 +74,41 @@ The most frequent other feature values with which `VERB` and `Mutation` co-occur
   <tr><td><tt><tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>ges, gefais</em></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>Gest</em></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>chaiff</em></td><td><em>gaiff, ga'</em></td></tr>
-  <tr><td><tt><tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>chafodd</em></td><td><em>gafodd, Gafon, gaent</em></td></tr>
+  <tr><td><tt><tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>chafodd</em></td><td><em>gafodd, Gafon, gaent, gawson</em></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>gawsoch</em></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=0</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>cheir</em></td><td><em>geir</em></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=0</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>chafwyd</em></td><td></td></tr>
 </table>
 
-`Mutation` seems to be **lexical feature** of `VERB`. 92% lemmas (76) occur only with one value of `Mutation`.
+`Mutation` seems to be **lexical feature** of `VERB`. 92% lemmas (79) occur only with one value of `Mutation`.
 
 ### `PROPN`
 
-250 <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> tokens (15% of all `PROPN` tokens) have a non-empty value of `Mutation`.
+271 <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> tokens (14% of all `PROPN` tokens) have a non-empty value of `Mutation`.
 
-The most frequent other feature values with which `PROPN` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (190; 76%).
+The most frequent other feature values with which `PROPN` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (212; 78%).
 
 `PROPN` tokens may have the following values of `Mutation`:
 
-* `AM` (6; 2% of non-empty `Mutation`): <em>Chynllaith, Phenfro, Chaerwys, Chymru, Phwllheli, Threwen</em>
-* `NM` (115; 46% of non-empty `Mutation`): <em>Nghymru, Mangor, Nghaerdydd, Ngwynedd, Mlaenau, Nghaernarfon, Mhatagonia, Mangladesh, Mhenmaenmawr, Nghaerfyrddin</em>
-* `SM` (129; 52% of non-empty `Mutation`): <em>Gymru, Gaerdydd, DU, Fangor, Fôn, Gaerfyrddin, Brydain, Gaernarfon, Drawsfynydd, Feirionydd</em>
+* `AM` (7; 3% of non-empty `Mutation`): <em>Chynllaith, Phenfro, Phwllheli, Chaerwys, Chymru, Threwen</em>
+* `NM` (123; 45% of non-empty `Mutation`): <em>Nghymru, Mangor, Nghaerdydd, Ngwynedd, Mlaenau, Nghaernarfon, Mhatagonia, Nhregaron, Mangladesh, Mhenmaenmawr</em>
+* `SM` (141; 52% of non-empty `Mutation`): <em>Gymru, Gaerdydd, DU, Fangor, Fôn, Gaerfyrddin, Brydain, Gaernarfon, Drawsfynydd, Feirionydd</em>
 
 <table>
   <tr><th>Paradigm <i>Cymru</i></th><th><tt>AM</tt></th><th><tt>NM</tt></th><th><tt>SM</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>Nghymru</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Chymru</em></td><td><em>Nghymru</em></td><td><em>Gymru</em></td></tr>
+  <tr><td><tt></tt></td><td><em>Chymru</em></td><td><em>Nghymru</em></td><td><em>Gymru</em></td></tr>
 </table>
 
 ### `AUX`
 
-111 <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Mutation`.
+116 <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Mutation`.
 
-The most frequent other feature values with which `AUX` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (111; 100%), <tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (70; 63%), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (70; 63%), <tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (70; 63%), <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (70; 63%).
+The most frequent other feature values with which `AUX` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (116; 100%), <tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (73; 63%), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (73; 63%), <tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (73; 63%), <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (73; 63%).
 
 `AUX` tokens may have the following values of `Mutation`:
 
 * `NM` (3; 3% of non-empty `Mutation`): <em>mod</em>
-* `SM` (108; 97% of non-empty `Mutation`): <em>fod, fu, fydd, fyddai, fo</em>
+* `SM` (113; 97% of non-empty `Mutation`): <em>fod, fydd, fu, fyddai, fo</em>
 
 <table>
   <tr><th>Paradigm <i>bod</i></th><th><tt>NM</tt></th><th><tt>SM</tt></th></tr>
@@ -122,20 +121,22 @@ The most frequent other feature values with which `AUX` and `Mutation` co-occurr
 
 ### `PART`
 
-104 <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> tokens (5% of all `PART` tokens) have a non-empty value of `Mutation`.
+105 <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> tokens (5% of all `PART` tokens) have a non-empty value of `Mutation`.
 
 `PART` tokens may have the following values of `Mutation`:
 
-* `SM` (104; 100% of non-empty `Mutation`): <em>ddim</em>
+* `SM` (105; 100% of non-empty `Mutation`): <em>ddim</em>
 
 ### `NUM`
 
-59 <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> tokens (10% of all `NUM` tokens) have a non-empty value of `Mutation`.
+64 <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> tokens (10% of all `NUM` tokens) have a non-empty value of `Mutation`.
+
+The most frequent other feature values with which `NUM` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (64; 100%), <tt><a href="cy_ccg-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (64; 100%).
 
 `NUM` tokens may have the following values of `Mutation`:
 
-* `AM` (12; 20% of non-empty `Mutation`): <em>hugain, chan, thair, phedair, thri</em>
-* `SM` (47; 80% of non-empty `Mutation`): <em>ddau, ddwy, bymtheg, bum, bump, filiwn, dri, bedair, dair, bedwar</em>
+* `AM` (13; 20% of non-empty `Mutation`): <em>hugain, thair, chan, phedair, thri</em>
+* `SM` (51; 80% of non-empty `Mutation`): <em>ddau, ddwy, bymtheg, dair, dri, bedair, bum, bump, filiwn, bedwar</em>
 
 <table>
   <tr><th>Paradigm <i>tri</i></th><th><tt>AM</tt></th><th><tt>SM</tt></th></tr>
@@ -145,12 +146,12 @@ The most frequent other feature values with which `AUX` and `Mutation` co-occurr
 
 ### `ADP`
 
-55 <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Mutation`.
+61 <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Mutation`.
 
 `ADP` tokens may have the following values of `Mutation`:
 
-* `AM` (6; 11% of non-empty `Mutation`): <em>thua, chan, than, thros, thrwy</em>
-* `SM` (49; 89% of non-empty `Mutation`): <em>dan, fewn, ledled, drwy</em>
+* `AM` (7; 11% of non-empty `Mutation`): <em>thros, thua, chan, than, thrwy</em>
+* `SM` (54; 89% of non-empty `Mutation`): <em>dan, fewn, ledled, drwy</em>
 
 <table>
   <tr><th>Paradigm <i>trwy</i></th><th><tt>AM</tt></th><th><tt>SM</tt></th></tr>
@@ -159,12 +160,12 @@ The most frequent other feature values with which `AUX` and `Mutation` co-occurr
 
 ### `ADV`
 
-48 <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Mutation`.
+49 <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Mutation`.
 
 `ADV` tokens may have the following values of `Mutation`:
 
 * `AM` (2; 4% of non-empty `Mutation`): <em>phryd, throsodd</em>
-* `SM` (46; 96% of non-empty `Mutation`): <em>bynnag, ddoe, draw, gyntaf, ddigon, gynt, drachefn, drannoeth, drennydd, drosodd</em>
+* `SM` (47; 96% of non-empty `Mutation`): <em>bynnag, ddoe, draw, gyntaf, ddigon, gynt, drachefn, drannoeth, drennydd, drosodd</em>
 
 <table>
   <tr><th>Paradigm <i>trosodd</i></th><th><tt>AM</tt></th><th><tt>SM</tt></th></tr>
@@ -175,14 +176,14 @@ The most frequent other feature values with which `AUX` and `Mutation` co-occurr
 
 ### `PRON`
 
-17 <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Mutation`.
+19 <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Mutation`.
 
-The most frequent other feature values with which `PRON` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14; 82%), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 65%), <tt><a href="cy_ccg-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (11; 65%).
+The most frequent other feature values with which `PRON` and `Mutation` co-occurred: <tt><a href="cy_ccg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15; 79%), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13; 68%), <tt><a href="cy_ccg-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (12; 63%), <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 58%).
 
 `PRON` tokens may have the following values of `Mutation`:
 
-* `AM` (2; 12% of non-empty `Mutation`): <em>e, phawb</em>
-* `SM` (15; 88% of non-empty `Mutation`): <em>bawb, rai, Beth, chi, e, i, ni</em>
+* `AM` (2; 11% of non-empty `Mutation`): <em>e, phawb</em>
+* `SM` (17; 89% of non-empty `Mutation`): <em>bawb, rai, Beth, chi, e, hwy, i, ni</em>
 
 <table>
   <tr><th>Paradigm <i>e</i></th><th><tt>AM</tt></th><th><tt>SM</tt></th></tr>

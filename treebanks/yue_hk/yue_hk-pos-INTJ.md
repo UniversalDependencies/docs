@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cantonese-HK: POS Tags: `INTJ`
 
-There are 28 `INTJ` lemmas (3%), 36 `INTJ` types (2%) and 216 `INTJ` tokens (2%).
-Out of 15 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 9 in number of types and 12 in number of tokens.
+There are 36 `INTJ` lemmas (2%), 36 `INTJ` types (2%) and 216 `INTJ` tokens (2%).
+Out of 15 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: _、 誒、 呀、 喂、 哦、 吓、 哎吔、 嗱、 唏、 可
+The 10 most frequent `INTJ` lemmas: 誒、 呀、 喂、 嗱、 吓、 哦、 哎吔、 唏、 欸、 下馬
 
 The 10 most frequent `INTJ` types:  誒、 呀、 喂、 嗱、 吓、 哦、 哎吔、 唏、 欸、 下馬
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> 1377, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1352, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1283, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 853, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 764, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 662, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 335, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 217, <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 209, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 140, <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 93, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 92, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 52), 呀 (<tt><a href="yue_hk-pos-PART.html">PART</a></tt> 211, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 16), 嗱 (<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 可 (<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 2, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 下 (<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 19, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 1, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 呀 (<tt><a href="yue_hk-pos-PART.html">PART</a></tt> 249, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 30, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 嗱 (<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 可 (<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 下 (<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 27, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 6, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 2), 對唔住 (<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 殊 (<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 誒m (<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  呀 (<tt><a href="yue_hk-pos-PART.html">PART</a></tt> 249, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 30, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 嗱 (<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 可 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 8, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 下 (<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 27, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 6, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 2), 對唔住 (<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 殊 (<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 誒m (<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1)
 
@@ -46,9 +46,9 @@ The 10 most frequent ambiguous types:  呀 (<tt><a href="yue_hk-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.285714 (the average of all parts of speech is 1.624294).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.001746).
 
-The 1st highest number of forms (16) was observed with the lemma “_”: aam6, em6, 下, 下馬, 吓, 呀, 呀m, 唔好意思, 喂, 喔, 嗱, 對唔住, 欸, 殊, 誒, 誒m.
+The 1st highest number of forms (1) was observed with the lemma “aam6”: aam6.
 
 The 2nd highest number of forms (1) was observed with the lemma “e1”: e1.
 
@@ -61,7 +61,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ei1”: ei1.
 
 `INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="yue_hk-dep-discourse.html">discourse</a></tt> (194; 90% instances), <tt><a href="yue_hk-dep-root.html">root</a></tt> (11; 5% instances), <tt><a href="yue_hk-dep-reparandum.html">reparandum</a></tt> (6; 3% instances), <tt><a href="yue_hk-dep-discourse-sp.html">discourse:sp</a></tt> (4; 2% instances), <tt><a href="yue_hk-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 11 different parts of speech: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (144; 67% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (27; 13% instances),  (11; 5% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (9; 4% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (9; 4% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (145; 67% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (28; 13% instances),  (11; 5% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (10; 5% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (9; 4% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 40 (19%) `INTJ` nodes are leaves.
 

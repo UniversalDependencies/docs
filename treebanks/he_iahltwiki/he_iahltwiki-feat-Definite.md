@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Cons` are language-specific.
 It occurs with 2 different values: `Cons`, `Def`.
 
-29361 tokens (21%) have a non-empty value of `Definite`.
+29362 tokens (21%) have a non-empty value of `Definite`.
 2091 types (15%) occur at least once with a non-empty value of `Definite`.
 1676 lemmas (18%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 7 part-of-speech tags: <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (13843; 10% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (9397; 7% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (2572; 2% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (2314; 2% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (861; 1% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (246; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (128; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (13843; 10% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (9397; 7% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (2572; 2% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (2315; 2% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (861; 1% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (246; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (128; 0% instances).
 
 ### `DET`
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Cons` (9397; 100% of non-empty `Definite`): בית, שנת, ידי, פי, שנות, סוג, חוק, בתי, חברי, ראש
-* `EMPTY` (25227): משפט, חלק, אלבום, שימוש, שנים, דם, סוכרת, שיר, שירים, כנסייה
+* `EMPTY` (25228): משפט, חלק, אלבום, שימוש, שנים, דם, סוכרת, שיר, שירים, כנסייה
 
 `Definite` seems to be **lexical feature** of `NOUN`. 100% lemmas (1567) occur only with one value of `Definite`.
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 2572 <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> tokens (11% of all `ADP` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADP` and `Definite` co-occurred: <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2572; 100%).
+The most frequent other feature values with which `ADP` and `Definite` co-occurred: <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2572; 100%), <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2568; 100%).
 
 `ADP` tokens may have the following values of `Definite`:
 
@@ -61,14 +61,14 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 
 ### `PRON`
 
-2314 <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Definite`.
+2315 <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2306; 100%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (2272; 98%), <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt> (2130; 92%), <tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (2129; 92%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1801; 78%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1571; 68%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2308; 100%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (2273; 98%), <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt> (2131; 92%), <tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (2130; 92%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1801; 78%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1571; 68%).
 
 `PRON` tokens may have the following values of `Definite`:
 
-* `Def` (2314; 100% of non-empty `Definite`): ו, ה, ם, אותה, הם, ן, אותו, הן, י, נו
-* `EMPTY` (3319): ו, הוא, הם, ה, זה, היא, זו, כך, זאת, אלו
+* `Def` (2315; 100% of non-empty `Definite`): ו, ה, ם, אותה, הם, ן, אותו, הן, י, נו
+* `EMPTY` (3318): ו, הוא, הם, ה, זה, היא, זו, כך, זאת, אלו
 
 ### `PROPN`
 

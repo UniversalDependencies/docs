@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-AnCora: POS Tags: `ADJ`
 
-There are 4808 `ADJ` lemmas (17%), 8212 `ADJ` types (19%) and 36423 `ADJ` tokens (7%).
+There are 4803 `ADJ` lemmas (17%), 8212 `ADJ` types (19%) and 36423 `ADJ` tokens (7%).
 Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>primero, nuevo, último, pasado, próximo, español, gran, mayor, segundo, buen</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>pasado</em> (<tt><a href="es_ancora-p
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.707987 (the average of all parts of speech is 1.501603).
+The form / lemma ratio of `ADJ` is 1.709765 (the average of all parts of speech is 1.503003).
 
 The 1st highest number of forms (5) was observed with the lemma “buen”: <em>buen, buena, buenas, bueno, buenos</em>.
 
@@ -61,7 +61,7 @@ The 2nd highest number of forms (5) was observed with the lemma “chino”: <em
 
 The 3rd highest number of forms (5) was observed with the lemma “primero”: <em>primer, primera, primeras, primero, primeros</em>.
 
-`ADJ` occurs with 7 features: <tt><a href="es_ancora-feat-Number.html">Number</a></tt> (35621; 98% instances), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt> (24222; 67% instances), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt> (6501; 18% instances), <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt> (1960; 5% instances), <tt><a href="es_ancora-feat-Degree.html">Degree</a></tt> (900; 2% instances), <tt><a href="es_ancora-feat-AdvType.html">AdvType</a></tt> (13; 0% instances), <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt> (4; 0% instances)
+`ADJ` occurs with 7 features: <tt><a href="es_ancora-feat-Number.html">Number</a></tt> (35622; 98% instances), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt> (24223; 67% instances), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt> (6501; 18% instances), <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt> (1960; 5% instances), <tt><a href="es_ancora-feat-Degree.html">Degree</a></tt> (900; 2% instances), <tt><a href="es_ancora-feat-AdvType.html">AdvType</a></tt> (13; 0% instances), <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt> (4; 0% instances)
 
 `ADJ` occurs with 11 feature-value pairs: `AdvType=Tim`, `Degree=Abs`, `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumForm=Digit`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `VerbForm=Part`
 

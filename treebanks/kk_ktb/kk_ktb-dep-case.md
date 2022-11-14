@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-178 nodes (2%) are attached to their parents as `case`.
+179 nodes (2%) are attached to their parents as `case`.
 
-174 instances of `case` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.0561797752809.
+175 instances of `case` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05586592178771.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (112; 63% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (26; 15% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (22; 12% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (7; 4% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (6; 3% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt>-<tt><a href="kk_ktb-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-SYM.html">SYM</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `case`: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (112; 63% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (26; 15% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (22; 12% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (7; 4% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (6; 3% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt>-<tt><a href="kk_ktb-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt>-<tt><a href="kk_ktb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

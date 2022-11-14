@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>değil</em> (<tt><a href="tr_penn-pos
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 16.500000 (the average of all parts of speech is 2.011905).
+The form / lemma ratio of `AUX` is 16.500000 (the average of all parts of speech is 2.011961).
 
 The 1st highest number of forms (19) was observed with the lemma “mi”: <em>Mİ, mi, midir, misin, misiniz, miydi, miyiz, mu, mudur, musunuz, muyuz, mü, müydünüz, mı, mıdır, mısın, mısınız, mıydı, mıydık</em>.
 

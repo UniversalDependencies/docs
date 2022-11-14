@@ -22,9 +22,9 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
-* `Inf` (1552; 37% of non-empty `VerbForm`): <em>bhith, chur, dhèanamh, thoirt, dhol, feuchainn, cur, ràdh, toirt, thogail</em>
-* `Vnoun` (2658; 63% of non-empty `VerbForm`): <em>dol, ràdh, tighinn, feuchainn, iarraidh, faighinn, cur, dèanamh, coimhead, ruith</em>
-* `EMPTY` (14646): <em>duine, fear, fhios, taobh, ais, rud, daoine, latha, àite, bliadhna</em>
+* `Inf` (1555; 37% of non-empty `VerbForm`): <em>bhith, chur, dhèanamh, thoirt, dhol, feuchainn, cur, ràdh, toirt, thogail</em>
+* `Vnoun` (2655; 63% of non-empty `VerbForm`): <em>dol, ràdh, tighinn, feuchainn, iarraidh, faighinn, cur, dèanamh, coimhead, ruith</em>
+* `EMPTY` (14651): <em>duine, fear, fhios, taobh, ais, rud, daoine, latha, àite, bliadhna</em>
 
 <table>
   <tr><th>Paradigm <i>rach</i></th><th><tt>Inf</tt></th><th><tt>Vnoun</tt></th></tr>
@@ -34,6 +34,5 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (73; 51%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (4; 100%).
 

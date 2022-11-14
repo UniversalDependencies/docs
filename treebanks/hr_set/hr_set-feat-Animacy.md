@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 * `Anim` (225; 7% of non-empty `Animacy`): <em>predsjednika, kandidata, ministra, premijera, čovjeka, izvođača, sina, povjerenika, ravnatelja, savjetnika</em>
 * `Inan` (2925; 93% of non-empty `Animacy`): <em>način, ponedjeljak, utorak, petak, četvrtak, rad, posao, život, sustav, razvoj</em>
-* `EMPTY` (45428): <em>godine, milijuna, godina, eura, zemlje, ljudi, kuna, dana, predsjednik, zemalja</em>
+* `EMPTY` (45427): <em>godine, milijuna, godina, eura, zemlje, ljudi, kuna, dana, predsjednik, zemalja</em>
 
 <table>
   <tr><th>Paradigm <i>igrač</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 * `Anim` (110; 9% of non-empty `Animacy`): <em>bivšeg, najboljeg, novog, glavnog, drugog, drugoga, britanskog, kosovskog, optuženog, popularnog</em>
 * `Inan` (1067; 91% of non-empty `Animacy`): <em>prvi, novi, drugi, veći, veliki, gospodarski, velik, najbolji, isti, najveći</em>
-* `EMPTY` (22960): <em>sve, svi, drugi, vanjskih, novi, novih, glavni, prošle, nove, druge</em>
+* `EMPTY` (22961): <em>sve, svi, drugi, vanjskih, novi, novih, glavni, prošle, druge, nove</em>
 
 <table>
   <tr><th>Paradigm <i>nov</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -116,7 +116,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Anim` (1; 100% of non-empty `Animacy`): <em>nikoga</em>
-* `EMPTY` (5333): <em>se, što, ih, mi, ga, im, mu, on, njih, nam</em>
+* `EMPTY` (5301): <em>se, što, ih, mi, ga, im, mu, on, njih, nam</em>
 
 ## Relations with Agreement in `Animacy`
 
@@ -127,7 +127,7 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (50; 54%),
 <tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (37; 95%),
 <tt>PROPN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (36; 61%),
-<tt>NOUN --[<tt><a href="hr_set-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (33; 61%),
+<tt>NOUN --[<tt><a href="hr_set-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (33; 75%),
 <tt>PROPN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (26; 96%),
 <tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> NOUN</tt> (8; 67%),
 <tt>PROPN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> PROPN</tt> (7; 100%).

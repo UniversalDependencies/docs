@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="fo_oft-dep-nmod.htm
 89 nodes (1%) are attached to their parents as `nmod:poss`.
 
 64 instances of `nmod:poss` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.50561797752809.
+Average distance between parent and child is 1.49438202247191.
 
-The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (44; 49% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (27; 30% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (11; 12% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (44; 49% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (27; 30% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (12; 13% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

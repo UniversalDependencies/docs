@@ -72,17 +72,17 @@ The 3rd highest number of forms (2) was observed with the lemma “且つ”: �
 
 Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (544; 66% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (207; 25% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (49; 6% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-360 (44%) `CCONJ` nodes are leaves.
+359 (44%) `CCONJ` nodes are leaves.
 
 400 (49%) `CCONJ` nodes have one child.
 
-50 (6%) `CCONJ` nodes have two children.
+51 (6%) `CCONJ` nodes have two children.
 
 9 (1%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 4.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (378; 71% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (151; 29% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (380; 72% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (151; 28% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (378; 71% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (99; 19% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (47; 9% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances)
+Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (380; 72% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (99; 19% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (47; 9% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances)
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-AnCora: POS Tags: `SYM`
 
-There are 228 `SYM` lemmas (1%), 197 `SYM` types (0%) and 387 `SYM` tokens (0%).
+There are 218 `SYM` lemmas (1%), 197 `SYM` types (0%) and 387 `SYM` tokens (0%).
 Out of 17 observed tags, the rank of `SYM` is: 7 in number of lemmas, 7 in number of types and 14 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>%, 50/100, 30/100, 60/100, 20/100, 10/100, 80/100, 20, 25/100, 5/100</em>
+The 10 most frequent `SYM` lemmas: <em>%, 30/100, 50/100, 60/100, 20/100, 10/100, 80/100, 25/100, 5/100, 20</em>
 
 The 10 most frequent `SYM` types:  <em>%, 20%, 50%, 10%, 60%, 25%, 30%, 80%, 5%, 2%</em>
 
-The 10 most frequent ambiguous lemmas: <em>20</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 133, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 6), <em>10</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 93, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 4, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 2), <em>25</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 66, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 4), <em>2.2</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 3, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 3), <em>95</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 11, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 3), <em>1.5</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 7, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2), <em>15</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 86, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2), <em>3.1</em> (<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2, <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 1), <em>40</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 37, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2), <em>50</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 62, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>20</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 133, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 5), <em>10</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 93, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 3, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 2), <em>2.2</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 3, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 3), <em>25</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 66, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 3), <em>95</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 11, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 3), <em>15</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 86, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2), <em>3.1</em> (<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2, <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 1), <em>40</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 37, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2), <em>50</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 62, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2), <em>90</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 22, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> 12951, <tt><a href="es_ancora-pos-DET.html">DET</a></tt> 6, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2), <em>b</em> (<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 2, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 1), <em>22</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 39, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 1), <em>23</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 46, <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 1), <em>8</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 30, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 1), <em>9</em> (<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> 30, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 1), <em>c</em> (<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> 1)
 
@@ -45,21 +45,21 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="es_ancora-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 0.864035 (the average of all parts of speech is 1.501603).
+The form / lemma ratio of `SYM` is 0.903670 (the average of all parts of speech is 1.503003).
 
-The 1st highest number of forms (2) was observed with the lemma “9”: <em>9, 9%</em>.
+The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
+The 2nd highest number of forms (1) was observed with the lemma “*”: <em>*</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “*”: <em>*</em>.
+The 3rd highest number of forms (1) was observed with the lemma “-0.7”: <em>-0,7%</em>.
 
-`SYM` occurs with 2 features: <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt> (375; 97% instances), <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt> (270; 70% instances)
+`SYM` occurs with 2 features: <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt> (375; 97% instances), <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt> (279; 72% instances)
 
 `SYM` occurs with 2 feature-value pairs: `NumForm=Digit`, `NumType=Frac`
 
 `SYM` occurs with 3 feature combinations.
-The most frequent feature combination is `NumForm=Digit|NumType=Frac` (270 tokens).
-Examples: <em>50%, 10%, 30%, 60%, 20%, 80%, 25%, 5%, 3%, 2%</em>
+The most frequent feature combination is `NumForm=Digit|NumType=Frac` (279 tokens).
+Examples: <em>50%, 60%, 10%, 20%, 30%, 80%, 25%, 5%, 3%, 2%</em>
 
 
 ## Relations

@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.
 
 ### `VERB`
 
-10 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Red`.
+10 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Red`.
 
 The most frequent other feature values with which `VERB` and `Red` co-occurred: <tt><a href="tpn_tudet-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="tpn_tudet-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="tpn_tudet-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (9; 90%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (9; 90%), <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="tpn_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (6; 60%).
 
 `VERB` tokens may have the following values of `Red`:
 
-* `Di` (8; 80% of non-empty `Red`): <em>imosɨkɨjekɨjeβo, jajebɨjebɨ, mojeβɨjeβɨra, ojekajeka, ojoporuporwaβo, opwaopwa, otumũtumunga, owasẽasẽmamo</em>
-* `Mo` (2; 20% of non-empty `Red`): <em>neiʃusupa, oβuoβur</em>
+* `Di` (8; 80% of non-empty `Red`): <em>imosɨkɨjekɨjeβo, jajebɨjebɨ, mojeβɨjeβɨra, ojekajeka, ojoporuporwaβo, opwaopwa, otumũtumuŋa, owasẽasẽmamo</em>
+* `Mo` (2; 20% of non-empty `Red`): <em>neisusupa, oβuoβur</em>
 
 `Red` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Red`.
 

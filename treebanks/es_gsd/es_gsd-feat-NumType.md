@@ -9,35 +9,36 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-12905 tokens (3%) have a non-empty value of `NumType`.
-2494 types (5%) occur at least once with a non-empty value of `NumType`.
-2328 lemmas (7%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (11017; 3% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (941; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (539; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (408; 0% instances).
+13040 tokens (3%) have a non-empty value of `NumType`.
+2530 types (6%) occur at least once with a non-empty value of `NumType`.
+2358 lemmas (7%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (11060; 3% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1033; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (539; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (408; 0% instances).
 
 ### `NUM`
 
-11017 <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+11060 <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9390; 85%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9432; 85%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (11017; 100% of non-empty `NumType`): <em>dos, 2010, 0, 3, 1, 2, 10, 4, tres, 5</em>
+* `Card` (11060; 100% of non-empty `NumType`): <em>dos, 2010, 0, 3, 1, 2, 10, tres, 4, 5</em>
+* `EMPTY` (1): <em>727-200</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (2276) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (2302) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-941 <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
+1033 <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (833; 89%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (886; 86%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (941; 100% of non-empty `NumType`): <em>primer, primera, segunda, segundo, primeros, primeras, tercera, tercer, cuarto, cuarta</em>
-* `EMPTY` (23955): <em>gran, mismo, mayor, nuevo, estadounidense, total, mejor, nacional, grandes, nueva</em>
+* `Ord` (1033; 100% of non-empty `NumType`): <em>primera, primer, segunda, segundo, tercera, primeros, primeras, tercer, cuarto, cuarta</em>
+* `EMPTY` (23950): <em>gran, mismo, mayor, nuevo, estadounidense, total, mejor, nacional, grandes, nueva</em>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (35) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (49) occur only with one value of `NumType`.
 
 ### `PRON`
 
@@ -48,9 +49,9 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (539; 100% of non-empty `NumType`): <em>tanto, poco, mucho, muchos, ambos, bastante, muchas, demasiado, ambas, pocos</em>
-* `EMPTY` (13497): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
+* `EMPTY` (13479): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
 
-`NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `NumType`.
 
 ### `DET`
 
@@ -61,19 +62,18 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (408; 100% of non-empty `NumType`): <em>muchos, muchas, ambos, mucha, pocos, poco, ambas, mucho, poca, tanto</em>
-* `EMPTY` (60449): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (60474): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
-`NumType` seems to be **lexical feature** of `DET`. 100% lemmas (14) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> NUM</tt> (353; 100%),
-<tt>NUM --[<tt><a href="es_gsd-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (113; 100%),
+<tt>NUM --[<tt><a href="es_gsd-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (115; 100%),
 <tt>NUM --[<tt><a href="es_gsd-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (100; 100%),
 <tt>NUM --[<tt><a href="es_gsd-dep-dep.html">dep</a></tt>]--> NUM</tt> (49; 100%),
 <tt>NUM --[<tt><a href="es_gsd-dep-appos.html">appos</a></tt>]--> NUM</tt> (16; 100%),
 <tt>ADJ --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> ADJ</tt> (7; 64%),
-<tt>NUM --[<tt><a href="es_gsd-dep-cc.html">cc</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="es_gsd-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%).
 

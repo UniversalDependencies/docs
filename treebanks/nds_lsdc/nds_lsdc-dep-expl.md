@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `expl`: <tt><a href="nds_lsdc-dep-expl-pv.html">expl:pv</a></tt>.
 
-10 nodes (0%) are attached to their parents as `expl`.
+17 nodes (1%) are attached to their parents as `expl`.
 
-9 instances of `expl` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.4.
+15 instances of `expl` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.64705882352941.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (4; 40% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (3; 30% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2; 20% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 10% instances).
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (11; 65% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (3; 18% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2; 12% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -108,8 +108,8 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 18	un	un	CCONJ	_	_	19	cc	_	lemma[gml]=unde²
 19	Janhiarm	Janhiarm	PROPN	_	Number=Sing	17	conj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	_
-21	iaren	ear	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Case[regional]=Acc|lemma[gml]=ēr¹
-22	man	man	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	19	appos	_	Case[regional]=Acc|lemma[gml]=man¹|SpaceAfter=No
+21	iaren	ear	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	lemma[gml]=ēr¹
+22	man	man	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	19	appos	_	lemma[gml]=man¹|SpaceAfter=No
 23	,	,	PUNCT	_	_	27	punct	_	_
 24	in	in	ADP	_	AdpType=Prep	26	case	_	lemma[gml]=in²
 25	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	lemma[gml]=dê¹

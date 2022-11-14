@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1107 nodes (1%) are attached to their parents as `advcl`.
+1630 nodes (2%) are attached to their parents as `advcl`.
 
-1068 instances of `advcl` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.6639566395664.
+1425 instances of `advcl` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.81717791411043.
 
-The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (530; 48% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (323; 29% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (220; 20% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (15; 1% instances), <tt><a href="da_ddt-pos-X.html">X</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="da_ddt-pos-ADP.html">ADP</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (4; 0% instances).
+The following 14 pairs of parts of speech are connected with `advcl`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (1000; 61% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (364; 22% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (217; 13% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (15; 1% instances), <tt><a href="da_ddt-pos-ADP.html">ADP</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="da_ddt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="da_ddt-pos-X.html">X</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,14 +24,14 @@ The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 6 11 advcl	color:blue
 1	Dommeren	dommer	NOUN	_	Definite=Def|Gender=Com|Number=Sing	2	nsubj	_	_
 2	siger	sige	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
 4	at	at	SCONJ	_	_	6	mark	_	_
 5	man	man	PRON	_	Case=Nom|Gender=Com|PronType=Ind	6	nsubj	_	_
 6	giver	give	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	obj	_	_
 7	40	40	NUM	_	NumType=Card	8	nummod	_	_
 8	kr.	krone	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	6	obj	_	_
 9	for	for	ADP	_	AdpType=Prep	11	mark	_	_
-10	hver	hver	PRON	_	Gender=Com|Number=Sing|PronType=Ind	11	mark	_	_
+10	hver	hver	PRON	_	Gender=Com|Number=Sing|PronType=Ind	11	nsubj	_	_
 11	påbegyndt	påbegynde	VERB	_	Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
 12	to	to	NUM	_	NumType=Card	13	nummod	_	_
 13	timer	time	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	11	obl	_	SpaceAfter=No

@@ -43,13 +43,13 @@ Examples: <em>dh, geːb, =da, baːji, dh#, dhaːj, harʔiː, suːr, whiː</em>
 
 Parents of `ADP` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (15; 60% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (5; 20% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (4; 16% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (1; 4% instances)
 
-24 (96%) `ADP` nodes are leaves.
+23 (92%) `ADP` nodes are leaves.
 
-1 (4%) `ADP` nodes have one child.
+2 (8%) `ADP` nodes have one child.
 
 The highest child degree of a `ADP` node is 1.
 
-Children of `ADP` nodes are attached using 1 different relations: <tt><a href="bej_nsc-dep-punct.html">punct</a></tt> (1; 100% instances)
+Children of `ADP` nodes are attached using 1 different relations: <tt><a href="bej_nsc-dep-punct.html">punct</a></tt> (2; 100% instances)
 
-Children of `ADP` nodes belong to 1 different parts of speech: <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
+Children of `ADP` nodes belong to 1 different parts of speech: <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> (2; 100% instances)
 

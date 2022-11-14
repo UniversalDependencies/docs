@@ -66,7 +66,7 @@ The 3rd highest number of forms (8) was observed with the lemma “calendar.expr
 
 `ADV` occurs with 3 features: <tt><a href="la_proiel-feat-Polarity.html">Polarity</a></tt> (3536; 17% instances), <tt><a href="la_proiel-feat-Degree.html">Degree</a></tt> (2143; 10% instances), <tt><a href="la_proiel-feat-PronType.html">PronType</a></tt> (1684; 8% instances)
 
-`ADV` occurs with 6 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Polarity=Neg`, `PronType=Int`, `PronType=Rel`
+`ADV` occurs with 6 feature-value pairs: `Degree=Abs`, `Degree=Cmp`, `Degree=Pos`, `Polarity=Neg`, `PronType=Int`, `PronType=Rel`
 
 `ADV` occurs with 7 feature combinations.
 The most frequent feature combination is `_` (13828 tokens).

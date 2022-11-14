@@ -12,7 +12,7 @@ It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Loc`, `Nom`, `Vo
 13618 tokens (47%) have a non-empty value of `Case`.
 6718 types (67%) occur at least once with a non-empty value of `Case`.
 3547 lemmas (77%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (7014; 24% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2778; 10% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (2457; 8% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1287; 4% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (81; 0% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (7014; 24% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2778; 10% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (2457; 8% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1284; 4% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (81; 0% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>maiores</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>maius</em></td><td></td><td></td><td><em>maioris</em></td><td></td><td><em>maiore</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>maiora</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>maximus</em></td><td></td><td><em>Maximo</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Abs</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>maximus</em></td><td></td><td><em>Maximo</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>magnus</em></td><td><em>magnum</em></td><td></td><td><em>magni</em></td><td><em>magne, maxime</em></td><td><em>magno</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>magnos</em></td><td></td><td><em>magnorum</em></td><td></td><td><em>maxumis</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>magna, maxuma</em></td><td><em>magnam, maxumam</em></td><td></td><td><em>magnae</em></td><td></td><td><em>magna, maxuma</em></td></tr>
@@ -98,19 +98,19 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `VERB`
 
-1287 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (21% of all `VERB` tokens) have a non-empty value of `Case`.
+1284 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1287; 100%), <tt><a href="la_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1287; 100%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1197; 93%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (854; 66%), <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (823; 64%), <tt><a href="la_perseus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (823; 64%), <tt><a href="la_perseus-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (799; 62%), <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (654; 51%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1284; 100%), <tt><a href="la_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1284; 100%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1194; 93%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (852; 66%), <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (823; 64%), <tt><a href="la_perseus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (823; 64%), <tt><a href="la_perseus-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (799; 62%), <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (654; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 
 * `Abl` (270; 21% of non-empty `Case`): <em>falso, posito, actis, interfecto, adverso, advocata, aperto, cantante, confirmata, data</em>
-* `Acc` (373; 29% of non-empty `Case`): <em>dicentem, sedentem, amantis, habentem, contentum, delatum, descendentem, dicens, facta, facturum</em>
+* `Acc` (372; 29% of non-empty `Case`): <em>dicentem, sedentem, amantis, habentem, contentum, delatum, descendentem, dicens, facta, facturum</em>
 * `Dat` (50; 4% of non-empty `Case`): <em>audienti, habenti, monitis, querenti, reposcenti, victis, Afflictis, Docto, absenti, adeuntibus</em>
 * `Gen` (90; 7% of non-empty `Case`): <em>amantis, dicentis, dicentium, perditorum, sedentis, transeundi, Dictorum, Periturae, abrupti, agitantis</em>
-* `Nom` (498; 39% of non-empty `Case`): <em>dicentes, dicens, mota, natus, ardens, contenta, existumans, locutus, nactus, obliti</em>
+* `Nom` (496; 39% of non-empty `Case`): <em>dicentes, dicens, mota, natus, ardens, contenta, existumans, locutus, nactus, obliti</em>
 * `Voc` (6; 0% of non-empty `Case`): <em>conscripti, factura</em>
-* `EMPTY` (4877): <em>est, esse, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit</em>
+* `EMPTY` (4513): <em>habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, habere, dicere</em>
 
 <table>
   <tr><th>Paradigm <i>habeo</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Abl</tt></th></tr>
@@ -146,6 +146,24 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
   <tr><td><tt><tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>unum</em></td><td></td><td></td><td><em>uno</em></td></tr>
 </table>
 
+### `AUX`
+
+3 <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="la_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="la_perseus-feat-Tense.html">Tense</a></tt><tt>=Fut</tt> (3; 100%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3; 100%), <tt><a href="la_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3; 100%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
+
+`AUX` tokens may have the following values of `Case`:
+
+* `Acc` (1; 33% of non-empty `Case`): <em>futuram</em>
+* `Nom` (2; 67% of non-empty `Case`): <em>futura</em>
+* `EMPTY` (364): <em>est, esse, erat, fuit, sunt, sit, esset, erit, es, fuerunt</em>
+
+<table>
+  <tr><th>Paradigm <i>sum</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>futura</em></td><td><em>futuram</em></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>futura</em></td><td></td></tr>
+</table>
+
 ### `PROPN`
 
 1 <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
@@ -165,7 +183,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="la_perseus-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (205; 90%),
 <tt>NOUN --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> VERB</tt> (171; 96%),
 <tt>ADJ --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (74; 97%),
-<tt>ADJ --[<tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (65; 93%),
+<tt>ADJ --[<tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (67; 93%),
 <tt>PRON --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (55; 89%),
 <tt>ADJ --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (51; 89%),
 <tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (49; 77%).

@@ -71,8 +71,8 @@ The following 7 pairs of parts of speech are connected with `compound:lvc`: <tt>
 # visual-style 11 10 compound:lvc	color:blue
 1	Holmes	Holmes	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 2	:	:	PUNCT	sent	_	13	punct	_	_
-3	Emê	em	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
-4	_	dê	PART	fut	Tense=Fut	13	aux	_	_
+3	Em	em	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
+4	dê	dê	AUX	fut	Tense=Fut	13	aux	_	_
 5	li	li	ADP	pr	AdpType=Prep	7	case	_	_
 6	wî	ew	DET	det	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 7	dengê	deng	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-919 nodes (2%) are attached to their parents as `det`.
+907 nodes (2%) are attached to their parents as `det`.
 
-918 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26659412404788.
+903 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2800441014333.
 
-The following 16 pairs of parts of speech are connected with `det`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (566; 62% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (247; 27% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (21; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (15; 2% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `det`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (565; 62% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (251; 28% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (21; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 6	كۆرگۈم	_	VERB	V	_	7	acl	_	Translit=körgüm|Morf=Unknown
 7	يوق	يوق	ADJ	A	_	0	root	_	Translit=yoq
 8	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=idi
-9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
+9	.	.	PUNCT	Y	_	7	punct	_	Translit=.
 
 ~~~
 

@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>Filiz</em> (<tt><a href="tr_gb-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.639269 (the average of all parts of speech is 2.331716).
+The form / lemma ratio of `PROPN` is 1.639269 (the average of all parts of speech is 2.332745).
 
 The 1st highest number of forms (10) was observed with the lemma “Ahmet”: <em>Ahmet, Ahmete, Ahmetin, Ahmet’e, Ahmet’i, Ahmet’in, Ahmet’le, Ahmet’ler, Ahmet’te, Ahmet’ten</em>.
 
@@ -47,20 +47,20 @@ The 2nd highest number of forms (7) was observed with the lemma “Ayşe”: <em
 
 The 3rd highest number of forms (7) was observed with the lemma “Semra”: <em>Semra, Semranın, Semra’lar, Semra’nın, Semra’ya, Semra’yla, Semra’yı</em>.
 
-`PROPN` occurs with 4 features: <tt><a href="tr_gb-feat-Number.html">Number</a></tt> (914; 100% instances), <tt><a href="tr_gb-feat-Case.html">Case</a></tt> (392; 43% instances), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt> (3; 0% instances), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt> (3; 0% instances)
+`PROPN` occurs with 4 features: <tt><a href="tr_gb-feat-Number.html">Number</a></tt> (914; 100% instances), <tt><a href="tr_gb-feat-Case.html">Case</a></tt> (392; 43% instances), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
 
-`PROPN` occurs with 12 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=2`, `Person[psor]=3`
+`PROPN` occurs with 11 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`
 
-`PROPN` occurs with 11 feature combinations.
+`PROPN` occurs with 10 feature combinations.
 The most frequent feature combination is `Number=Sing` (512 tokens).
 Examples: <em>Ahmet, Ali, Ayşe, Semra, Mehmet, Necla, Erol, Türk, Fatma, İngiliz</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 20 different relations: <tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt> (430; 47% instances), <tt><a href="tr_gb-dep-nmod.html">nmod</a></tt> (172; 19% instances), <tt><a href="tr_gb-dep-obl.html">obl</a></tt> (163; 18% instances), <tt><a href="tr_gb-dep-obj.html">obj</a></tt> (53; 6% instances), <tt><a href="tr_gb-dep-conj.html">conj</a></tt> (39; 4% instances), <tt><a href="tr_gb-dep-root.html">root</a></tt> (22; 2% instances), <tt><a href="tr_gb-dep-flat.html">flat</a></tt> (7; 1% instances), <tt><a href="tr_gb-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="tr_gb-dep-nsubj-cop.html">nsubj:cop</a></tt> (4; 0% instances), <tt><a href="tr_gb-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="tr_gb-dep-vocative.html">vocative</a></tt> (3; 0% instances), <tt><a href="tr_gb-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="tr_gb-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="tr_gb-dep-obl-agent.html">obl:agent</a></tt> (2; 0% instances), <tt><a href="tr_gb-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-nmod-comp.html">nmod:comp</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 20 different relations: <tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt> (430; 47% instances), <tt><a href="tr_gb-dep-obl.html">obl</a></tt> (168; 18% instances), <tt><a href="tr_gb-dep-nmod.html">nmod</a></tt> (167; 18% instances), <tt><a href="tr_gb-dep-obj.html">obj</a></tt> (53; 6% instances), <tt><a href="tr_gb-dep-conj.html">conj</a></tt> (39; 4% instances), <tt><a href="tr_gb-dep-root.html">root</a></tt> (22; 2% instances), <tt><a href="tr_gb-dep-flat.html">flat</a></tt> (7; 1% instances), <tt><a href="tr_gb-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="tr_gb-dep-nsubj-cop.html">nsubj:cop</a></tt> (4; 0% instances), <tt><a href="tr_gb-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="tr_gb-dep-vocative.html">vocative</a></tt> (3; 0% instances), <tt><a href="tr_gb-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="tr_gb-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="tr_gb-dep-obl-agent.html">obl:agent</a></tt> (2; 0% instances), <tt><a href="tr_gb-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-nmod-comp.html">nmod:comp</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (597; 65% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (192; 21% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (47; 5% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (39; 4% instances),  (22; 2% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (15; 2% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (597; 65% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (193; 21% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (47; 5% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (38; 4% instances),  (22; 2% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (15; 2% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 744 (81%) `PROPN` nodes are leaves.
 

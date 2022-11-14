@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2093 nodes (5%) are attached to their parents as `advmod`.
+2089 nodes (5%) are attached to their parents as `advmod`.
 
-1724 instances of `advmod` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.12613473483039.
+1726 instances of `advmod` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.19195787458114.
 
-The following 17 pairs of parts of speech are connected with `advmod`: <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (942; 45% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (592; 28% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (338; 16% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (91; 4% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (76; 4% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (23; 1% instances), <tt><a href="it_markit-pos-DET.html">DET</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="it_markit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_markit-pos-AUX.html">AUX</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `advmod`: <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (953; 46% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (581; 28% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (339; 16% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (88; 4% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (75; 4% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (23; 1% instances), <tt><a href="it_markit-pos-DET.html">DET</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="it_markit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_markit-pos-AUX.html">AUX</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,17 +45,17 @@ The following 17 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 advmod	color:blue
-1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 2	proprio	proprio	ADV	B	_	5	advmod	_	_
 3	a	a	ADP	E	_	5	case	_	_
 4	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
-5	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
 6	che	che	SCONJ	CS	_	10	mark	_	_
 7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	scienziati	scienziato	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
 9	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
-10	lavorando	lavorare	VERB	V	VerbForm=Ger	5	acl	_	_
-11	.	.	PUNCT	FS	_	5	punct	_	_
+10	lavorando	lavorare	VERB	V	VerbForm=Ger	0	root	_	_
+11	.	.	PUNCT	FS	_	10	punct	_	_
 
 ~~~
 

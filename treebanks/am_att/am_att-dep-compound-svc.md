@@ -26,14 +26,14 @@ The following 2 pairs of parts of speech are connected with `compound:svc`: <tt>
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4	ጠርተ	ጠርተ	VERB	VERB	VerbForm=Conv	11	compound:svc	_	Translit=ţärətä|LTranslit=ţärətä
-5	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	4	nsubj	_	Translit=hə|LTranslit=hə
+5	ህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	LTranslit='änətä|Translit=hə
 6	እህል	እህል	NOUN	NOUN	_	11	obj	_	Translit='əhələ|LTranslit='əhələ
 7	ኡ	ኡ	DET	DET	_	6	det	_	Translit='u|LTranslit='u
 8	ን	ን	PART	ACC	_	6	case	_	Translit=nə|LTranslit=nə
 9	እ	እ	ADP	ADP	Case=Loc	10	case	_	Translit='ə|LTranslit='ə
 10	ጎተራ	ጎተራ	NOUN	NOUN	_	11	obl	_	Translit=gotära|LTranslit=gotära
-11	አስገባ	አስገባ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəgäba|LTranslit='äsəgäba
-12	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	expl	_	Translit='ă|LTranslit='ă
+11	አስገባ	አስገባ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəgäba|LTranslit='äsəgäba
+12	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	_	LTranslit='əsu|Translit='ă
 13	።	።	PUNCT	PUNCT	_	11	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -48,20 +48,20 @@ The following 2 pairs of parts of speech are connected with `compound:svc`: <tt>
 1	እረኛ	እረኛ	NOUN	NOUN	_	4	obj	_	Translit='əräňa|LTranslit='əräňa
 2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
-4	አይት	አይት	VERB	VERB	_	13	compound:svc	_	Translit='äjətə|LTranslit='äjətə
-5	ኤ	ኤ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	Translit='e|LTranslit='e
-6	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	Translit=wə|LTranslit=wə
+4	አይት	አይት	VERB	VERB	Mood=Ind|VerbForm=Fin	13	compound:svc	_	Translit='äjətə|LTranslit='äjətə
+5	ኤ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	LTranslit='əne|Translit='e
+6	ው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=wə
 7	ኣል	ኣል	AUX	AUX	_	4	aux	_	Translit='alə|LTranslit='alə
-8	ሁ	ሁ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=3	4	nsubj	_	Translit=hu|LTranslit=hu
+8	ሁ	እሱ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=hu
 9	ብል	ብል	VERB	VERB	VerbForm=Conv	4	parataxis	_	Translit=bələ|LTranslit=bələ
-10	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	Translit='o|LTranslit='o
+10	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit='o
 11	የ	የ	ADP	ADP	_	12	case	_	Translit=jä|LTranslit=jä
 12	ምስክርነት	ምስክርነት	NOUN	NOUN	_	13	nmod	_	Translit=məsəkərənätə|LTranslit=məsəkərənätə
 13	ቃል	ቃል	NOUN	NOUN	_	16	obj	_	Translit=qalə|LTranslit=qalə
-14	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	nmod	_	Translit='u|LTranslit='u
+14	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod	_	LTranslit='əsu|Translit='u
 15	ን	ን	PART	ACC	_	13	case	_	Translit=nə|LTranslit=nə
-16	ሰጥ	ሰጥ	VERB	VERB	_	0	root	_	Translit=säţə|LTranslit=säţə
-17	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	16	nsubj	_	Translit='ă|LTranslit='ă
+16	ሰጥ	ሰጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=säţə|LTranslit=säţə
+17	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	LTranslit='əsu|Translit='ă
 18	።	።	PUNCT	PUNCT	_	16	punct	_	Translit=.|LTranslit=.
 
 ~~~

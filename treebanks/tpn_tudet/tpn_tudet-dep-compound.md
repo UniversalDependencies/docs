@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (1%) are attached to their parents as `compound`.
+31 nodes (1%) are attached to their parents as `compound`.
 
-20 instances of `compound` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03125.
+19 instances of `compound` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03225806451613.
 
-The following 7 pairs of parts of speech are connected with `compound`: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (15; 47% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (5; 16% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `compound`: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (15; 48% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (4; 13% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -65,8 +65,8 @@ The following 7 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound	color:blue
-1	Aikoβe	ikó	VERB	n	Number=Sing|Person[subj]=1	0	root	_	_
-2	niʃe	niʃe	ADP	posp	_	1	obl:subj	_	_
+1	Aikoβe	iko	VERB	n	Number=Sing|Person[subj]=1	0	root	_	_
+2	nise	nise	ADP	posp	_	1	nsubj	_	_
 3	sarõana	arõan	NOUN	v	Case=Ref|Nomzr=Ag|Rel=NCont	1	obl	_	_
 4	,	,	PUNCT	punct	_	7	punct	_	_
 5	São	são	PROPN	propn	_	6	compound	_	_

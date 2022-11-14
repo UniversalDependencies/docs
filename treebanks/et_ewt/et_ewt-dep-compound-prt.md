@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="et_ewt-dep-compound.html">compound</a></tt>.
 
-1026 nodes (1%) are attached to their parents as `compound:prt`.
+1216 nodes (1%) are attached to their parents as `compound:prt`.
 
-553 instances of `compound:prt` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.80214424951267.
+652 instances of `compound:prt` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.80756578947368.
 
-The following 4 pairs of parts of speech are connected with `compound:prt`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1002; 98% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `compound:prt`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1185; 97% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (18; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 7	fgColor:white
 # visual-style 7 6 compound:prt	color:blue
 1	see	see	DET	P	Case=Nom|Number=Sing|PronType=Dem	2	det	2:det	_
-2	vasur	Vasur	PROPN	S	Case=Nom|Number=Sing|Typo=Yes	8	nsubj:cop	8:nsubj	CorrectForm=Lutsar
+2	vasur	Vasur	PROPN	S	Case=Nom|Number=Sing|Typo=Yes	8	nsubj:cop	8:nsubj	NE=B-Per|CorrectForm=Lutsar
 3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
 4	nagu	nagu	ADV	D	_	8	advmod	8:advmod	_
 5	jama	jama	NOUN	S	Case=Nom|Number=Sing	7	obj	7:obj	_

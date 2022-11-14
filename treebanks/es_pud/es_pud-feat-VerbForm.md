@@ -11,7 +11,7 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
 2899 tokens (12%) have a non-empty value of `VerbForm`.
 1562 types (26%) occur at least once with a non-empty value of `VerbForm`.
-415 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
+418 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (2189; 9% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (710; 3% instances).
 
 ### `VERB`

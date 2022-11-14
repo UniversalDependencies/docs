@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (0%) are attached to their parents as `orphan`.
+14 nodes (0%) are attached to their parents as `orphan`.
 
-15 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.53333333333333.
+14 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.57142857142857.
 
-The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (8; 53% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (3; 20% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (1; 7% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (1; 7% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `orphan`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (8; 57% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (3; 21% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (1; 7% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (1; 7% instances).
 
 
 ~~~ conllu

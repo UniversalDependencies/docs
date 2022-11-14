@@ -70,11 +70,11 @@ Examples: <em>=hoːb, =aj, =it, =ajt, =eː, =i, =jeː, =ji, =t, naː</em>
 
 `SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="bej_nsc-dep-mark.html">mark</a></tt> (48; 94% instances), <tt><a href="bej_nsc-dep-case.html">case</a></tt> (2; 4% instances), <tt><a href="bej_nsc-dep-acl-relcl.html">acl:relcl</a></tt> (1; 2% instances)
 
-Parents of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (46; 90% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> (2; 4% instances)
+Parents of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (45; 88% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> (2; 4% instances)
 
-46 (90%) `SCONJ` nodes are leaves.
+45 (88%) `SCONJ` nodes are leaves.
 
-0 (0%) `SCONJ` nodes have one child.
+1 (2%) `SCONJ` nodes have one child.
 
 3 (6%) `SCONJ` nodes have two children.
 
@@ -82,7 +82,7 @@ Parents of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="bej
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="bej_nsc-dep-fixed.html">fixed</a></tt> (12; 100% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="bej_nsc-dep-fixed.html">fixed</a></tt> (12; 92% instances), <tt><a href="bej_nsc-dep-punct.html">punct</a></tt> (1; 8% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (5; 42% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (5; 42% instances), <tt><a href="bej_nsc-pos-X.html">X</a></tt> (2; 17% instances)
+Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (5; 38% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (5; 38% instances), <tt><a href="bej_nsc-pos-X.html">X</a></tt> (2; 15% instances), <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> (1; 8% instances)
 

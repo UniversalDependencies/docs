@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ug_udt-pos-PROPN.ht
 
 ### `PROPN`
 
-19 <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> tokens (29% of all `PROPN` tokens) have a non-empty value of `Gender`.
+19 <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> tokens (23% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17; 89%).
 
@@ -24,5 +24,5 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 * `Fem` (1; 5% of non-empty `Gender`): نەزىرىدە
 * `Masc` (18; 95% of non-empty `Gender`): مىرزا، ئالىم، ئالىمى، ئىمامنى
-* `EMPTY` (47): جۇڭگو، جۇڭگونىڭ، قەشقەر، شاپتۇل، ئامېرىكا، جۇڭگودا، شىنجاڭ، قەشقەرگە، ئامېرىكىنىڭ، جۇڭگودىكى
+* `EMPTY` (62): جۇڭگو، جۇڭگونىڭ، قەشقەر، شاپتۇل، ئامېرىكا، جۇڭگودا، شىنجاڭ، قەشقەرگە، ئارىستوتېل، ئامېرىكىنىڭ
 

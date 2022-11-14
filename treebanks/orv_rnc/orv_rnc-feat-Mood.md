@@ -9,49 +9,49 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-1533 tokens (4%) have a non-empty value of `Mood`.
-906 types (9%) occur at least once with a non-empty value of `Mood`.
-530 lemmas (11%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1275; 4% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (236; 1% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (22; 0% instances).
+1586 tokens (3%) have a non-empty value of `Mood`.
+922 types (8%) occur at least once with a non-empty value of `Mood`.
+538 lemmas (9%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1314; 3% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (250; 1% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (22; 0% instances).
 
 ### `VERB`
 
-1275 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (39% of all `VERB` tokens) have a non-empty value of `Mood`.
+1314 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (32% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1275; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1268; 99%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1263; 99%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1103; 87%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (886; 69%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt> (837; 66%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (639; 50%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1314; 100%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1314; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1307; 99%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1302; 99%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1134; 86%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (912; 69%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt> (874; 67%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (11; 1% of non-empty `Mood`): <em>было, сбирали, высылали, платили, присылали, стала, сталъ</em>
-* `Imp` (208; 16% of non-empty `Mood`): <em>пожалуй, пожалꙋи, вели, пожалуи, смилуйся, походи, возми, здравствꙋи, Возведи, виж(д)</em>
-* `Ind` (1056; 83% of non-empty `Mood`): <em>бьет, есть, бьетъ, бью, нет, учнутъ, рече, бꙋдет, даде, нетъ</em>
-* `EMPTY` (2034): <em>велѣно, велѣлъ, имати, написано, послал, писал, платить, поколол, приложил, сбирать</em>
+* `Imp` (209; 16% of non-empty `Mood`): <em>пожалуй, пожалꙋи, вели, пожалуи, смилуйся, походи, возми, здравствꙋи, Возведи, виж(д)</em>
+* `Ind` (1094; 83% of non-empty `Mood`): <em>бьет, есть, бьетъ, бью, нет, платит, учнутъ, рече, бꙋдет, згодитца</em>
+* `EMPTY` (2829): <em>смерено, взято, принето, велѣно, привез, велѣлъ, сказал, велено, велет(ь), взят</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt></tt></td><td></td><td></td><td><em>было</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>буди, будь, бꙋдꙋщіи</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>бꙋдет, будеть, будет, будетъ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>бꙋдет, будет, будеть, будетъ</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>бысть, бяше</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>есть, естъ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>есть, [е]сть, естъ</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Быша</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>есть</em></td><td></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 91% lemmas (475) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 91% lemmas (483) occur only with one value of `Mood`.
 
 ### `AUX`
 
-236 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Mood`.
+250 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (228; 97%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (171; 72%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (165; 70%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (132; 56%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (122; 52%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (242; 97%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (175; 70%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (169; 68%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (136; 54%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (126; 50%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (70; 30% of non-empty `Mood`): <em>бы, б, бъ, было, былъ, были</em>
+* `Cnd` (80; 32% of non-empty `Mood`): <em>бы, б, бъ, было, былъ, были</em>
 * `Imp` (12; 5% of non-empty `Mood`): <em>буди, бꙋд, бꙋдь, бꙋдꙋ</em>
-* `Ind` (154; 65% of non-empty `Mood`): <em>есть, бы, еси, есте, будет, бысть, будутъ, суть, бꙋдетъ, бы(ст)</em>
-* `EMPTY` (76): <em>было, были, былъ, быть, будучи, быти, была, был, бъ, бывшіꙗ</em>
+* `Ind` (158; 63% of non-empty `Mood`): <em>есть, бы, будет, еси, есте, бысть, будутъ, суть, бꙋдетъ, бы(ст)</em>
+* `EMPTY` (90): <em>было, были, былъ, была, быть, будучи, был, быти, быт(ь), бъ</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
@@ -93,18 +93,18 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `SCONJ`
 
-22 <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> tokens (6% of all `SCONJ` tokens) have a non-empty value of `Mood`.
+22 <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> tokens (5% of all `SCONJ` tokens) have a non-empty value of `Mood`.
 
 `SCONJ` tokens may have the following values of `Mood`:
 
 * `Cnd` (22; 100% of non-empty `Mood`): <em>чтобъ, чтоб, чтобы, кабы, обыся</em>
-* `EMPTY` (367): <em>что, ꙗко, чтобъ, яко, егда, аще, ино, как, буде, ꙋбо</em>
+* `EMPTY` (397): <em>что, ꙗко, чтобъ, яко, егда, аще, ино, как, буде, чтоб</em>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (330; 66%),
-<tt>VERB --[<tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (45; 60%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (330; 65%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (45; 59%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (24; 92%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-flat.html">flat</a></tt>]--> VERB</tt> (2; 100%).
 

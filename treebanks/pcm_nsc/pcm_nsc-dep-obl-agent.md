@@ -12,9 +12,9 @@ There are also 2 other language-specific subtypes of `obl`: <tt><a href="pcm_nsc
 18 nodes (0%) are attached to their parents as `obl:agent`.
 
 18 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.94444444444444.
+Average distance between parent and child is 4.27777777777778.
 
-The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (16; 89% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 6% instances).
+The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (17; 94% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -97,71 +97,6 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 48	o	o	PART	_	PartType=Disc	44	advmod	_	AlignBegin=48290|AlignEnd=48510|Gloss=EMPH|SyllableCount=1|WordContour=hm
 49	]	]	X	_	_	44	dep	_	AlignBegin=48510|AlignEnd=48540|Gloss=PUNCT
 50	//	//	X	_	_	4	dep	_	AlignBegin=48510|AlignEnd=48540|Gloss=PUNCT
-
-~~~
-
-
-~~~ conllu
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 28 obl:agent	color:blue
-1	#	#	X	_	_	3	dep	_	AlignBegin=213860|AlignEnd=214160|Gloss=PUNCT
-2	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=214160|AlignEnd=214373|Gloss=NOM.PL.3|SyllableCount=1|WordContour=lLm1
-3	say	say	VERB	_	_	0	root	_	AlignBegin=214373|AlignEnd=214511|Gloss=say|SyllableCount=1|WordContour=mh
-4	[	[	X	_	_	22	dep	_	AlignBegin=214511|AlignEnd=214541|Gloss=PUNCT
-5	one	one	DET	_	Definite=Spec|PronType=Art	7	det	_	AlignBegin=214541|AlignEnd=214800|Gloss=SPEC.ART|SyllableCount=1|WordContour=hh
-6	sales	sale	NOUN	_	Number=Plur	7	compound	_	AlignBegin=214800|AlignEnd=215082|Gloss=sale.PL|SyllableCount=1|WordContour=hmh2
-7	man	man	NOUN	_	_	22	dislocated	_	AlignBegin=215082|AlignEnd=215607|Gloss=man|SyllableCount=1|WordContour=mLh2
-8	for	for	ADP	_	_	10	case	_	AlignBegin=215607|AlignEnd=215752|Gloss=for|SyllableCount=1|WordContour=ll
-9	one	one	DET	_	Definite=Spec|PronType=Art	10	det	_	AlignBegin=215752|AlignEnd=215981|Gloss=SPEC.ART|SyllableCount=1|WordContour=lh
-10	restaurant	restaurant	NOUN	_	_	7	nmod	_	AlignBegin=215981|AlignEnd=216549|Gloss=restaurant|SyllableCount=3|WordContour=hL
-11	for	for	ADP	_	_	12	case	_	AlignBegin=216549|AlignEnd=216750|Gloss=for|SyllableCount=1|WordContour=ll
-12	Awoyaya	Awoyaya	PROPN	_	_	10	nmod	_	AlignBegin=216750|AlignEnd=217520|Gloss=Awoyaya|SyllableCount=2|WordContour=lmh2
-13	Ibeju	Ibeju	PROPN	_	_	12	flat	_	AlignBegin=217520|AlignEnd=218000|Gloss=Ibeju|SyllableCount=3|WordContour=mL
-14	Lekki	Lekki	PROPN	_	_	12	flat	_	AlignBegin=218000|AlignEnd=218293|Gloss=Lekki|SyllableCount=2|WordContour=Lmh3
-15	for	for	ADP	_	_	16	case	_	AlignBegin=218293|AlignEnd=218460|Gloss=for|SyllableCount=1|WordContour=ml
-16	Lagos	Lagos	PROPN	_	_	14	nmod	_	AlignBegin=218460|AlignEnd=218836|ExtPos=PROPN|Gloss=Lagos|SyllableCount=2|Title=Yes|WordContour=Lmh3
-17	State	state	NOUN	_	_	16	flat	_	AlignBegin=218836|AlignEnd=219210|Gloss=state|InTitle=Yes|SyllableCount=1|WordContour=ml
-18	<	<	X	_	_	7	dep	_	AlignBegin=219210|AlignEnd=219240|Gloss=PUNCT
-19	#	#	X	_	_	7	dep	_	AlignBegin=219240|AlignEnd=219540|Gloss=PUNCT
-20	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	AlignBegin=219540|AlignEnd=219661|Gloss=NOM.PL.3|SyllableCount=1|WordContour=mh
-21	don	don	AUX	_	Aspect=Perf	22	aux	_	AlignBegin=219661|AlignEnd=219870|Gloss=PRF|SyllableCount=1|WordContour=hhH2
-22	catch	catch	VERB	_	_	3	parataxis	_	AlignBegin=219870|AlignEnd=220110|Gloss=catch|SyllableCount=1|WordContour=hm
-23	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	22	obj	_	AlignBegin=220110|AlignEnd=220340|Gloss=ACC.SG.3|SyllableCount=1|WordContour=hl
-24	o	o	PART	_	PartType=Disc	22	advmod	_	AlignBegin=220340|AlignEnd=220480|Gloss=EMPH|SyllableCount=1|WordContour=ll
-25	#	#	X	_	_	28	dep	_	AlignBegin=220480|AlignEnd=220656|Gloss=PUNCT
-26	by	by	ADP	_	_	28	case	_	AlignBegin=220656|AlignEnd=220946|Gloss=by|SyllableCount=1|WordContour=ll
-27	{	{	X	_	_	28	dep	_	AlignBegin=220946|AlignEnd=220976|Gloss=PUNCT
-28	oro~	X	X	_	_	22	obl:agent	_	AlignBegin=220976|AlignEnd=221206|Gloss=X|SyllableCount=2|WordContour=hm
-29	||	||	X	_	_	30	dep	_	AlignBegin=221206|AlignEnd=221236|Gloss=PUNCT
-30	operatives	operative	NOUN	_	Number=Plur	28	reparandum	_	AlignBegin=221236|AlignEnd=221942|Gloss=operative.PL|SyllableCount=4|WordContour=mlh2
-31	}	}	X	_	_	28	dep	_	AlignBegin=221942|AlignEnd=221972|Gloss=PUNCT
-32	of	of	ADP	_	_	34	case	_	AlignBegin=221972|AlignEnd=222136|Gloss=of|SyllableCount=1|WordContour=lL
-33	di	di	DET	_	Definite=Def|PronType=Art	34	det	_	AlignBegin=222136|AlignEnd=222237|Gloss=DEF.ART|SyllableCount=1|WordContour=LL
-34	Lagos	Lagos	PROPN	_	_	30	nmod	_	AlignBegin=222237|AlignEnd=222600|ExtPos=PROPN|Gloss=Lagos|SyllableCount=2|Title=Yes|WordContour=Lmh3
-35	State	state	NOUN	_	_	34	flat	_	AlignBegin=222600|AlignEnd=222786|Gloss=state|InTitle=Yes|SyllableCount=1|WordContour=hm
-36	Command	command	NOUN	_	_	34	flat	_	AlignBegin=222786|AlignEnd=223350|ExtPos=PROPN|Gloss=command|InTitle=Yes|SyllableCount=2|WordContour=mLh2
-37	#	#	X	_	_	44	dep	_	AlignBegin=223350|AlignEnd=223541|Gloss=PUNCT
-38	on	on	ADP	_	_	44	mark	_	AlignBegin=223541|AlignEnd=223731|ExtPos=ADP|Gloss=on|Idiom=Yes|SyllableCount=1|WordContour=lL
-39	top	top	NOUN	_	_	38	fixed	_	AlignBegin=223731|AlignEnd=223973|Gloss=top|InIdiom=Yes|SyllableCount=1|WordContour=hl
-40	sey	sey	SCONJ	_	_	38	fixed	_	AlignBegin=223973|AlignEnd=224241|Gloss=COMP|InIdiom=Yes|SyllableCount=1|WordContour=lmh2
-41	[	[	X	_	_	44	dep	_	AlignBegin=224241|AlignEnd=224271|Gloss=PUNCT
-42	di	di	DET	_	Definite=Def|PronType=Art	43	det	_	AlignBegin=224271|AlignEnd=224421|Gloss=DEF.ART|SyllableCount=1|WordContour=lL
-43	guy	guy	NOUN	_	_	44	nsubj	_	AlignBegin=224421|AlignEnd=224741|Gloss=guy|SyllableCount=1|WordContour=Llh2
-44	rob	rob	VERB	_	_	22	ccomp	_	AlignBegin=224741|AlignEnd=225081|Gloss=rob|SyllableCount=1|WordContour=lmh3
-45	{	{	X	_	_	47	dep	_	AlignBegin=225081|AlignEnd=225111|Gloss=PUNCT
-46	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	47	nmod:poss	_	AlignBegin=225111|AlignEnd=225390|Gloss=NOM.SG.3|SyllableCount=1|WordContour=lL
-47	oga	oga	NOUN	_	_	44	obj	_	AlignBegin=225390|AlignEnd=225842|Gloss=boss|SyllableCount=2|WordContour=LmL2
-48	|a	|a	X	_	_	50	dep	_	AlignBegin=225842|AlignEnd=225872|Gloss=PUNCT
-49	one	one	DET	_	Definite=Spec|PronType=Art	50	det	_	AlignBegin=225872|AlignEnd=226130|Gloss=SPEC.ART|SyllableCount=1|WordContour=mmh2
-50	Paulina	Paulina	PROPN	_	_	47	appos	_	AlignBegin=226130|AlignEnd=226773|Gloss=Paulina|SyllableCount=3|WordContour=mLh2
-51	Paul	Paul	PROPN	_	_	50	flat	_	AlignBegin=226773|AlignEnd=227385|Gloss=Paul|SyllableCount=1|WordContour=mLh1
-52	}	}	X	_	_	47	dep	_	AlignBegin=227385|AlignEnd=227415|Gloss=PUNCT
-53	]	]	X	_	_	44	dep	_	AlignBegin=227385|AlignEnd=227415|Gloss=PUNCT
-54	]	]	X	_	_	22	dep	_	AlignBegin=227385|AlignEnd=227415|Gloss=PUNCT
-55	//	//	X	_	_	3	dep	_	AlignBegin=227385|AlignEnd=227415|Gloss=PUNCT
 
 ~~~
 

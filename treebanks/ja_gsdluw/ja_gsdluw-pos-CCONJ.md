@@ -70,15 +70,15 @@ The 3rd highest number of forms (2) was observed with the lemma “即ち”: �
 
 Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (547; 67% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (185; 23% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (55; 7% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (16; 2% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-434 (53%) `CCONJ` nodes are leaves.
+437 (53%) `CCONJ` nodes are leaves.
 
-383 (47%) `CCONJ` nodes have one child.
+380 (46%) `CCONJ` nodes have one child.
 
 2 (0%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="ja_gsdluw-dep-punct.html">punct</a></tt> (383; 99% instances), <tt><a href="ja_gsdluw-dep-fixed.html">fixed</a></tt> (4; 1% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="ja_gsdluw-dep-punct.html">punct</a></tt> (380; 99% instances), <tt><a href="ja_gsdluw-dep-fixed.html">fixed</a></tt> (4; 1% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> (383; 99% instances), <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (4; 1% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> (380; 99% instances), <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (4; 1% instances)
 

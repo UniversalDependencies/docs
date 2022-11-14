@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 1 different values: `Arch`.
 
 29 tokens (0%) have a non-empty value of `Style`.
-29 types (1%) occur at least once with a non-empty value of `Style`.
+29 types (0%) occur at least once with a non-empty value of `Style`.
 28 lemmas (1%) occur at least once with a non-empty value of `Style`.
 The feature is used with 5 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.htm
 
 14 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (11; 79%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (11; 79%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=2</tt> (9; 64%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (8; 57%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (8; 57%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (11; 79%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (11; 79%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=2</tt> (9; 64%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (8; 57%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (8; 57%).
 
 `VERB` tokens may have the following values of `Style`:
 
@@ -38,9 +38,9 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 
 ### `ADJ`
 
-4 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Style`.
+4 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3; 75%).
 
 `ADJ` tokens may have the following values of `Style`:
 

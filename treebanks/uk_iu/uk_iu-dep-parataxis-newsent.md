@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:newsent`:
 10	«	«	PUNCT	U	PunctType=Quot	15	punct	15:punct	Id=2hcp|LTranslit=«|SpaceAfter=No|Translit=«
 11	Ні	ні	INTJ	I	_	15	discourse	15:discourse	Id=2hcq|LTranslit=ni|SpaceAfter=No|Translit=Ni
 12	,	,	PUNCT	U	_	11	punct	11:punct	Id=2hcr|LTranslit=,|Translit=,
-13	я	я	PRON	Pp-1-ysnn	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj|16:nsubj:x	Id=2hcs|LTranslit=ja|Translit=ja
+13	я	я	PRON	Pp-1-ysnn	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj|16:nsubj:xsubj	Id=2hcs|LTranslit=ja|Translit=ja
 14	не	не	PART	Q	Polarity=Neg	15	advmod	15:advmod	Id=2hct|LTranslit=ne|Translit=ne
 15	хочу	хотіти	VERB	Vmpip1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	parataxis	6:parataxis	Id=2hcu|LTranslit=chotity|Translit=choču
 16	зніматися	зніматися	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	15	xcomp	15:xcomp	Id=2hcv|LTranslit=znimatyśа|Translit=znimatyśа
@@ -57,7 +57,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:newsent`:
 # visual-style 38	fgColor:white
 # visual-style 38 43 parataxis:newsent	color:blue
 1	Це	це	PRON	Pd--nnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	2:nsubj	Id=36zy|LTranslit=ce|Translit=Ce
-2	один	один	DET	Pi--m-sna	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	0	root	0:root|13:nsubj:rel	Id=36zz|LTranslit=odyn|Promoted=Yes|Translit=odyn
+2	один	один	DET	Pi--m-sna	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	0	root	0:root|13:nsubj	Id=36zz|LTranslit=odyn|Promoted=Yes|Translit=odyn
 3	з	з	ADP	Spsg	Case=Gen	4	case	4:case	Id=3700|LTranslit=z|Translit=z
 4	інструментів	інструмент	NOUN	Ncmpgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	2:nmod	Id=3701|LTranslit=instrument|Translit=instrumentiv
 5	принесення	принесення	NOUN	Ncnsgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	4:nmod	Id=3702|LTranslit=prynesenńа|Translit=prynesenńа
@@ -134,7 +134,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:newsent`:
 5	мила	милий	ADJ	Afpfsns	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	8:amod	Id=2b5a|LTranslit=mylyj|Translit=myla
 6	й	й	CCONJ	Ccs	_	7	cc	7:cc	Id=2b5b|LTranslit=j|Translit=j
 7	безпосередня	безпосередній	ADJ	Afpfsns	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	conj	5:conj|8:amod	Id=2b5c|LTranslit=bezposerednij|Translit=bezposeredńа
-8	журналістка	журналістка	NOUN	Ncfsny	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	44	nsubj	15:nsubj:rel|44:nsubj	Id=2b5d|LTranslit=žurnalistka|SpaceAfter=No|Translit=žurnalistka
+8	журналістка	журналістка	NOUN	Ncfsny	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	44	nsubj	15:nsubj|44:nsubj	Id=2b5d|LTranslit=žurnalistka|SpaceAfter=No|Translit=žurnalistka
 9	,	,	PUNCT	U	_	10	punct	10:punct	Id=2b5e|LTranslit=,|Translit=,
 10	яка	який	DET	Pr--f-sna	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	8:ref|15:nsubj	Id=2b5f|LTranslit=jakyj|Translit=jaka
 11	під	під	ADP	Spsa	Case=Acc	12	case	12:case	Id=2b5g|LTranslit=pid|Translit=pid
@@ -184,7 +184,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:newsent`:
 55	Ехо	Ехо	PROPN	Npfsny	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing|Uninflect=Yes	54	flat:title	54:flat:title	Id=2b6p|LTranslit=Echo|SpaceAfter=No|Translit=Echo
 56	,	,	PUNCT	U	_	54	punct	54:punct	Id=2b6q|LTranslit=,|Translit=,
 57	повторила	повторити	VERB	Vmeis-sf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	44	conj	0:root|44:conj	Id=2b6r|LTranslit=povtoryty|Translit=povtoryla
-58	те	те	PRON	Pd--nnsan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	57	obj	57:obj|66:nsubj:rel	Id=2b6s|LTranslit=te|SpaceAfter=No|Translit=te
+58	те	те	PRON	Pd--nnsan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	57	obj	57:obj|66:nsubj	Id=2b6s|LTranslit=te|SpaceAfter=No|Translit=te
 59	,	,	PUNCT	U	_	66	punct	66:punct	Id=2b6t|LTranslit=,|Translit=,
 60	що	що	SCONJ	Css	_	66	mark	66:mark	Id=2b6u|LTranslit=ščo|Translit=ščo
 61	найголосніше	найголосніше	ADV	Rs	Degree=Sup	66	advmod	66:advmod	Id=2b6v|LTranslit=najholosniše|Translit=najholosniše

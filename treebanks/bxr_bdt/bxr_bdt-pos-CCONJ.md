@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Buryat-BDT: POS Tags: `CCONJ`
 
 There are 15 `CCONJ` lemmas (1%), 15 `CCONJ` types (0%) and 83 `CCONJ` tokens (1%).
-Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ба, болон, аад, али, харин, хамта, баһа, гадна, гү, и</em>
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>болон</em> (<tt><a href="bxr_bdt
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.633129).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.638355).
 
 The 1st highest number of forms (1) was observed with the lemma “аад”: <em>аад</em>.
 
@@ -69,13 +69,13 @@ The 3rd highest number of forms (1) was observed with the lemma “ба”: <em>
 
 Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (36; 43% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (19; 23% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (16; 19% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (8; 10% instances), <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 
-67 (81%) `CCONJ` nodes are leaves.
+69 (83%) `CCONJ` nodes are leaves.
 
-16 (19%) `CCONJ` nodes have one child.
+14 (17%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="bxr_bdt-dep-punct.html">punct</a></tt> (13; 81% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (2; 13% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (1; 6% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="bxr_bdt-dep-punct.html">punct</a></tt> (11; 79% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (2; 14% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (1; 7% instances)
 
-Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (13; 81% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (11; 79% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (2; 14% instances), <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 7% instances)
 

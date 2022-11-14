@@ -13,7 +13,7 @@ This relation is universal.
 155 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.4.
 
-The following 11 pairs of parts of speech are connected with `goeswith`: <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (62; 40% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (32; 21% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (16; 10% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (15; 10% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (11; 7% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (6; 4% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (5; 3% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (3; 2% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `goeswith`: <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (62; 40% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (31; 20% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (17; 11% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (16; 10% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (11; 7% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (7; 5% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (6; 4% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -44,16 +44,22 @@ The following 11 pairs of parts of speech are connected with `goeswith`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 goeswith	color:blue
-1	Over	overpriced	ADJ	GW	Degree=Pos|Typo=Yes	0	root	0:root	_
-2	priced	_	X	JJ	_	1	goeswith	1:goeswith	_
-3	for	for	ADP	IN	_	5	case	5:case	_
-4	Mexican	Mexican	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
-5	food	food	NOUN	NN	Number=Sing	1	obl	1:obl:for	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 goeswith	color:blue
+1	when	when	ADV	WRB	PronType=Int	3	advmod	3:advmod	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+3	turn	turn	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:when	_
+4	21	21	NUM	CD	NumForm=Digit|NumType=Card	3	obj	3:obj	_
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
+6	can	can	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+7	party	party	VERB	VB	VerbForm=Inf	0	root	0:root	_
+8	any	anywhere	ADV	GW	Typo=Yes	7	advmod	7:advmod	CorrectForm=anywhere
+9	were	_	X	RB	_	8	goeswith	8:goeswith	_
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	11:nsubj	_
+11	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl:relcl	8:advcl:relcl	_
 
 ~~~
 

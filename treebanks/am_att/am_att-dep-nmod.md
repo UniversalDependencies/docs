@@ -26,10 +26,10 @@ The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4	ማሸነፍ	ማሸነፍ	NOUN	NOUN	VerbForm=Vnoun	6	xcomp	_	Translit=mašänäfə|LTranslit=mašänäfə
-5	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod	_	Translit='u|LTranslit='u
-6	አስደሰት	አስደሰት	VERB	VERB	Voice=Cau	0	root	_	Translit='äsədäsätə|LTranslit='äsədäsätə
-7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Translit='ă|LTranslit='ă
-8	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	6	iobj	_	Translit=wə|LTranslit=wə
+5	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	_	LTranslit='əsu|Translit='u
+6	አስደሰት	አስደሰት	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsədäsätə|LTranslit='äsədäsätə
+7	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit='ă
+8	ው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	LTranslit='əsu|Translit=wə
 9	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -43,17 +43,17 @@ The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 9 8 nmod	color:blue
 1	ሱቅ	ሱቅ	NOUN	NOUN	_	5	obl	_	Translit=suqə|LTranslit=suqə
 2	መሄድ	መሄድ	NOUN	NOUN	VerbForm=Vnoun	5	ccomp	_	Translit=mähedə|LTranslit=mähedə
-3	ህ	ህ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes	2	nmod	_	Translit=hə|LTranslit=hə
+3	ህ	አንተ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	LTranslit='änətä|Translit=hə
 4	እነደ	እነደ	SCONJ	SCONJ	_	5	mark	_	Translit='ənädä|LTranslit='ənädä
-5	ሆን	ሆን	VERB	VERB	_	10	advcl	_	Translit=honə|LTranslit=honə
-6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit='ă|LTranslit='ă
+5	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	10	advcl	_	Translit=honə|LTranslit=honə
+6	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit='ă
 7	አንድ	አንድ	NUM	NUM	NumType=Card	8	nummod	_	Translit='änədə|LTranslit='änədə
 8	ኪሎ	ኪሎ	NOUN	NOUN	_	9	nmod	_	Translit=kilo|LTranslit=kilo
 9	ስኳር	ስኳር	NOUN	NOUN	_	10	obj	_	Translit=səkwarə|LTranslit=səkwarə
-10	አምጥ	አምጥ	VERB	VERB	_	0	root	_	Translit='äməţə|LTranslit='äməţə
-11	ኣ	ኣ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	Translit='a|LTranslit='a
+10	አምጥ	አምጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='äməţə|LTranslit='äməţə
+11	ኣ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	LTranslit='əsu|Translit='a
 12	ል	ል	ADP	ADP	_	10	case	_	Translit=lə|LTranslit=lə
-13	ኝ	ኝ	PRON	OBJC	Gender=Com|Number=Sing|Person=1	10	expl	_	Translit=ňə|LTranslit=ňə
+13	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	10	expl	_	LTranslit='əne|Translit=ňə
 14	?	?	PUNCT	PUNCT	_	10	punct	_	Translit=?|LTranslit=?
 
 ~~~
@@ -71,8 +71,8 @@ The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href
 4	ምክንያት	ምክንያት	ADP	ADP	_	2	case	_	Translit=məkənəjatə|LTranslit=məkənəjatə
 5	ጨዋታ	ጨዋታ	NOUN	NOUN	_	7	nsubj:pass	_	Translit=ćäwata|LTranslit=ćäwata
 6	ው	ው	DET	DET	_	5	det	_	Translit=wə|LTranslit=wə
-7	ተላለፍ	ተላለፍ	VERB	VERB	Voice=Pass	0	root	_	Translit=tälaläfə|LTranslit=tälaläfə
-8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	Translit='ă|LTranslit='ă
+7	ተላለፍ	ተላለፍ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tälaläfə|LTranslit=tälaläfə
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ă
 9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~

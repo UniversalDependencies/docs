@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Uyghur-UDT: POS Tags: `PART`
 
-There are 2 `PART` lemmas (0%), 24 `PART` types (0%) and 121 `PART` tokens (0%).
-Out of 16 observed tags, the rank of `PART` is: 16 in number of lemmas, 12 in number of types and 12 in number of tokens.
+There are 1 `PART` lemmas (0%), 22 `PART` types (0%) and 119 `PART` tokens (0%).
+Out of 16 observed tags, the rank of `PART` is: 16 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
-The 10 most frequent `PART` lemmas: _، ئوخشى
+The 10 most frequent `PART` lemmas: _
 
 The 10 most frequent `PART` types:  دە، مانا، گويا، قېنى، بوپتۇ، قارىسىلا، ئىشقىلىپ، ئېھتىمال، ئەجەبا، ئەمەسمۇ
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 4247, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 4246, <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> 501, <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> 479, <tt><a href="ug_udt-pos-PUNCT.html">PUNCT</a></tt> 396, <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> 326, <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> 157, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 119, <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> 77, <tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> 75, <tt><a href="ug_udt-pos-X.html">X</a></tt> 64, <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> 56, <tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 47, <tt><a href="ug_udt-pos-DET.html">DET</a></tt> 28), ئوخشى (<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 6, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 2)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 4560, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 4224, <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> 479, <tt><a href="ug_udt-pos-PUNCT.html">PUNCT</a></tt> 434, <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> 326, <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> 185, <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> 157, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 119, <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> 75, <tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> 72, <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> 52, <tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 47, <tt><a href="ug_udt-pos-DET.html">DET</a></tt> 28, <tt><a href="ug_udt-pos-X.html">X</a></tt> 27)
 
-The 10 most frequent ambiguous types:  دە (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 54, <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 2), مانا (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 14, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> 5), گويا (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 11, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 3), قېنى (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 8, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 1), بوپتۇ (<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> 17, <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 17, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 6), قارىسىلا (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 3, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 1), ئېھتىمال (<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 2), ئەمەسمۇ (<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> 6, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 2), ئەنە (<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> 13, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 2), چېغى (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 2, <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  دە (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 54, <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 2), مانا (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 14, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> 5), گويا (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 11, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 3), قېنى (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 8, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 1), بوپتۇ (<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 24, <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> 10, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 6), قارىسىلا (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 3, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 1), ئېھتىمال (<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 2), ئەمەسمۇ (<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> 6, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 2), ئەنە (<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> 13, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 2), چېغى (<tt><a href="ug_udt-pos-PART.html">PART</a></tt> 2, <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> 1)
 
 
 * دە
@@ -32,8 +32,8 @@ The 10 most frequent ambiguous types:  دە (<tt><a href="ug_udt-pos-PART.html">
   * <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 8: <b>قېنى</b> ، ئېيتىڭلارچۇ ، بۇ نېمە ئۈچۈن ؟
   * <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 1: <b>قېنى</b> ئۇ كىتاب ؟ !
 * بوپتۇ
-  * <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> 17: سوپىسوپىياڭ ۋە تاغ قۇشقىچىنىڭ بالىلىرى چوڭ <b>بوپتۇ</b> .
-  * <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 17: ئاڭلىسام سەن ئىشلەيدىغان زاۋۇت ۋەيران <b>بوپتۇ</b> ،
+  * <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 24: ئاڭلىسام سەن ئىشلەيدىغان زاۋۇت ۋەيران <b>بوپتۇ</b> ،
+  * <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> 10: سوپىسوپىياڭ ۋە تاغ قۇشقىچىنىڭ بالىلىرى چوڭ <b>بوپتۇ</b> .
   * <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 6: - <b>بوپتۇ</b> ، شۇنداقمۇ دەيلى ، ئەمما ئۇنىڭ ئۈستىدە خەت يوققۇ ؟
 * قارىسىلا
   * <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 3: _ _ ئالىيلىرى ، <b>قارىسىلا</b> ، نېمىدېگەن نەپىس گۈللەر ! نېمىدېگەن ئېسىل رەڭ ! _ _
@@ -53,38 +53,30 @@ The 10 most frequent ambiguous types:  دە (<tt><a href="ug_udt-pos-PART.html">
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 12.000000 (the average of all parts of speech is 4.182394).
+The form / lemma ratio of `PART` is 22.000000 (the average of all parts of speech is 4.089932).
 
 The 1st highest number of forms (22) was observed with the lemma “_”: ئىشقىلىپ, ئېھتىمال, ئەجەبا, ئەمسە, ئەمەسمۇ, ئەنە, ئەپسۇس, بوپتۇ, بەس, بەلكىم, دېمىسىمۇ, دېگىنە, دە, دەيسىز, قاراڭ, قارىسىلا, قېنى, مانا, يۇ, چېغى, گويا, گوياكى.
 
-The 2nd highest number of forms (2) was observed with the lemma “ئوخشى”: ئوخشىمامدۇ, ئوخشىمامسەن.
-
-`PART` occurs with 7 features: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Number.html">Number</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Person.html">Person</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Polarity.html">Polarity</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt> (2; 2% instances)
-
-`PART` occurs with 8 feature-value pairs: `Aspect=Hab`, `Mood=Ind`, `Number=Sing`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Pres`, `VerbForm=Fin`
-
-`PART` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (119 tokens).
-Examples: دە، مانا، گويا، قېنى، بوپتۇ، قارىسىلا، ئىشقىلىپ، ئېھتىمال، ئەجەبا، ئەمەسمۇ
+`PART` does not occur with any features.
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 13 different relations: <tt><a href="ug_udt-dep-mark.html">mark</a></tt> (84; 69% instances), <tt><a href="ug_udt-dep-discourse.html">discourse</a></tt> (20; 17% instances), <tt><a href="ug_udt-dep-advmod.html">advmod</a></tt> (4; 3% instances), <tt><a href="ug_udt-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="ug_udt-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="ug_udt-dep-parataxis.html">parataxis</a></tt> (2; 2% instances), <tt><a href="ug_udt-dep-advmod-emph.html">advmod:emph</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-compound-redup.html">compound:redup</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-root.html">root</a></tt> (1; 1% instances)
+`PART` nodes are attached to their parents using 12 different relations: <tt><a href="ug_udt-dep-mark.html">mark</a></tt> (83; 70% instances), <tt><a href="ug_udt-dep-discourse.html">discourse</a></tt> (20; 17% instances), <tt><a href="ug_udt-dep-advmod.html">advmod</a></tt> (5; 4% instances), <tt><a href="ug_udt-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="ug_udt-dep-parataxis.html">parataxis</a></tt> (2; 2% instances), <tt><a href="ug_udt-dep-advmod-emph.html">advmod:emph</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-compound-redup.html">compound:redup</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-root.html">root</a></tt> (1; 1% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (88; 73% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (22; 18% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (89; 75% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (20; 17% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 1% instances),  (1; 1% instances)
 
-38 (31%) `PART` nodes are leaves.
+32 (27%) `PART` nodes are leaves.
 
-75 (62%) `PART` nodes have one child.
+34 (29%) `PART` nodes have one child.
 
-4 (3%) `PART` nodes have two children.
+47 (39%) `PART` nodes have two children.
 
-4 (3%) `PART` nodes have three or more children.
+6 (5%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 4.
 
-Children of `PART` nodes are attached using 5 different relations: <tt><a href="ug_udt-dep-punct.html">punct</a></tt> (93; 96% instances), <tt><a href="ug_udt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-vocative.html">vocative</a></tt> (1; 1% instances)
+Children of `PART` nodes are attached using 5 different relations: <tt><a href="ug_udt-dep-punct.html">punct</a></tt> (144; 97% instances), <tt><a href="ug_udt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="ug_udt-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Children of `PART` nodes belong to 4 different parts of speech: <tt><a href="ug_udt-pos-PUNCT.html">PUNCT</a></tt> (93; 96% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 1% instances)
+Children of `PART` nodes belong to 4 different parts of speech: <tt><a href="ug_udt-pos-PUNCT.html">PUNCT</a></tt> (144; 97% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 1% instances)
 

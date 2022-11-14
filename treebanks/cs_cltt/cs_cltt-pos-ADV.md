@@ -29,10 +29,10 @@ The 10 most frequent ambiguous types:  <em>tak</em> (<tt><a href="cs_cltt-pos-AD
   * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 7: <em>Účetní jednotka popíše <b>tuto</b> skutečnost v příloze v účetní závěrce .</em>
 * <em>včetně</em>
   * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 47: <em>(5) Položka „ C.I.5. Zboží “ obsahuje movité věci <b>včetně</b> zvířat , nabyté za účelem prodeje , pokud účetní jednotka s těmito věcmi obchoduje .</em>
-  * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 7: <em>4 . Ustanovení bodu_11 této vyhlášky s výjimkou bodů 100 a 105 této vyhlášky a ustanovení bodů 82 a 112 této vyhlášky se použijí pro účetní závěrky sestavované po 1 . lednu 2004 , <b>včetně</b> .</em>
+  * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 7: <em>Účetní jednotka dále v příloze uvede změnu uplatňované zásady <b>včetně</b> změny v modelu , konstrukci a obsahové náplni ukazatelů oproti předchozímu účetnímu období včetně pravděpodobných účinků .</em>
 * <em>výše</em>
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 35: <em>Uvedený majetek se odpisuje jen do <b>výše</b> jeho ocenění v účetnictví .</em>
-  * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 6: <em>(1) V konsolidovaném výkazu zisku a ztráty se uvádí <b>výše</b> nákladů a výnosů odděleně za běžné účetní období a minulé účetní období .</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 35: <em>(5) Rezervy není možné používat k úpravám <b>výše</b> ocenění aktiv .</em>
+  * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 6: <em>(5) Vlastními náklady se rozumí buď skutečná výše nákladů nebo <b>výše</b> nákladů podle způsobu kalkulace výroby stanoveného účetní jednotkou .</em>
 * <em>jednou</em>
   * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 3: <em>Takovouto změnu účetního období může účetní jednotka v běžném účetním období provést pouze <b>jednou</b> .</em>
   * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 3: <em>(3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou §_54 obdobně .</em>

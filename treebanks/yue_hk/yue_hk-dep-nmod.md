@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-237 nodes (2%) are attached to their parents as `nmod`.
+239 nodes (2%) are attached to their parents as `nmod`.
 
-237 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.65400843881857.
+237 instances of `nmod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.64853556485356.
 
-The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (110; 46% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (91; 38% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (11; 5% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (110; 46% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (91; 38% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (11; 5% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href
 8	你	你	PRON	_	_	7	obj	_	SpaceAfter=No
 9	對	對	VERB	_	_	1	conj	_	SpaceAfter=No
 10	晒	晒	PART	_	_	9	compound:quant	_	SpaceAfter=No
-11	啲	啲	NOUN	_	NounType=Clf	12	det	_	SpaceAfter=No
+11	啲	啲	NOUN	_	NounType=Clf	12	clf:det	_	SpaceAfter=No
 12	功課	功課	NOUN	_	_	9	obj	_	SpaceAfter=No
 13	先	先	ADV	_	_	14	advmod	_	SpaceAfter=No
 14	睇	睇	VERB	_	_	0	root	_	SpaceAfter=No
@@ -51,11 +51,11 @@ The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	咪	咪	ADV	_	_	2	advmod	_	SpaceAfter=No
 2	執	執	VERB	_	_	0	root	_	SpaceAfter=No
 3	返	返	VERB	_	_	2	compound:dir	_	SpaceAfter=No
-4	啲	啲	NOUN	_	NounType=Clf	5	det	_	SpaceAfter=No
+4	啲	啲	NOUN	_	NounType=Clf	5	clf:det	_	SpaceAfter=No
 5	嘢	嘢	NOUN	_	_	3	obj	_	SpaceAfter=No
 6	去	去	VERB	_	_	2	conj	_	SpaceAfter=No
 7	阿哥	阿哥	NOUN	_	_	10	nmod	_	SpaceAfter=No
-8	個	個	NOUN	_	NounType=Clf	10	det	_	SpaceAfter=No
+8	個	個	NOUN	_	NounType=Clf	10	clf:det	_	SpaceAfter=No
 9	新	新	ADJ	_	_	10	amod	_	SpaceAfter=No
 10	屋	屋	NOUN	_	_	6	obj	_	SpaceAfter=No
 11	度	度	ADP	_	_	10	case:loc	_	SpaceAfter=No

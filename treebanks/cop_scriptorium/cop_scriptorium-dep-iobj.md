@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-72 nodes (0%) are attached to their parents as `iobj`.
+73 nodes (0%) are attached to their parents as `iobj`.
 
-72 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13888888888889.
+73 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.13698630136986.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (65; 90% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (66; 90% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3 4 iobj	color:blue
 1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	dislocated	_	Entity=(person
 2	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	3	mark	_	_
-3	ⲩⲛⲧ	ⲟⲩⲛⲧⲁ	VERB	EXIST	_	1	acl:relcl	_	_
+3	ⲩⲛⲧ	ⲟⲩⲛⲧⲉ	VERB	EXIST	_	1	acl:relcl	_	_
 4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 5	ⲙⲁⲁϫⲉ	ⲙⲁⲁϫⲉ	NOUN	N	_	3	nsubj	_	Entity=(object)
 6	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	3	advmod	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-30 nodes (1%) are attached to their parents as `xcomp`.
+34 nodes (1%) are attached to their parents as `xcomp`.
 
-24 instances of `xcomp` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.
+25 instances of `xcomp` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.76470588235294.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (17; 57% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (8; 27% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (20; 59% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (9; 26% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -78,9 +78,9 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 5	,	,	PUNCT	_	_	12	punct	_	_
 6	altyd	altyd	ADV	_	_	12	advmod	_	lemma[gml]=al(le)tît
 7	in	in	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=in²
-8	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Case[regional]=Acc|lemma[gml]=dê¹
-9	swarte	swart	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	Case[regional]=Acc|lemma[gml]=swart¹
-10	aerde	aerde	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	Case[regional]=Acc|lemma[gml]=ērde
+8	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma[gml]=dê¹
+9	swarte	swart	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	lemma[gml]=swart¹
+10	aerde	aerde	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	12	obl	_	lemma[gml]=ērde
 11	te	to	PART	_	PartType=Inf	12	mark	_	lemma[gml]=tô⁵
 12	wölen	wölen	VERB	_	VerbForm=Inf	4	xcomp	_	lemma[gml]=wö̂len
 13	en	un	CCONJ	_	_	23	cc	_	lemma[gml]=unde²
@@ -89,8 +89,8 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 16	des	de	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê¹
 17	åvends	åvend	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	23	obl	_	lemma[gml]=âvent
 18	in	in	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=in²
-19	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	Case[regional]=Acc|lemma[gml]=dê¹
-20	keyte	keyte	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	23	obl	_	Case[regional]=Acc
+19	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	lemma[gml]=dê¹
+20	keyte	keyte	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	23	obl	_	_
 21	doud	doud	ADJ	_	Degree=Pos	23	xcomp	_	lemma[gml]=dôt¹
 22	te	to	PART	_	PartType=Inf	23	mark	_	lemma[gml]=tô⁵
 23	vervealen	vorvealen	VERB	_	VerbForm=Inf	12	conj	_	lemma[gml]=vorvēlen|SpaceAfter=No

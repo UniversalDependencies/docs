@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `PROPN`
 
-There are 19 `PROPN` lemmas (5%), 20 `PROPN` types (4%) and 29 `PROPN` tokens (3%).
-Out of 15 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 6 in number of types and 8 in number of tokens.
+There are 19 `PROPN` lemmas (4%), 20 `PROPN` types (4%) and 29 `PROPN` tokens (3%).
+Out of 15 observed tags, the rank of `PROPN` is: 6 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Петя, Мери, Питер, Париж, Сэм, Франция, Браун, Ворошилов, Джейн, Дёма</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Митя</em> (<tt><a href="koi_uh-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.052632 (the average of all parts of speech is 1.228365).
+The form / lemma ratio of `PROPN` is 1.052632 (the average of all parts of speech is 1.250569).
 
 The 1st highest number of forms (2) was observed with the lemma “Франция”: <em>Франция, Франциялӧн</em>.
 
@@ -43,7 +43,7 @@ Examples: <em>Мери, Питер, Сэм, Джейн</em>
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 10 different relations: <tt><a href="koi_uh-dep-nmod.html">nmod</a></tt> (6; 21% instances), <tt><a href="koi_uh-dep-conj.html">conj</a></tt> (5; 17% instances), <tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt> (5; 17% instances), <tt><a href="koi_uh-dep-flat-name.html">flat:name</a></tt> (3; 10% instances), <tt><a href="koi_uh-dep-obl-lmod.html">obl:lmod</a></tt> (3; 10% instances), <tt><a href="koi_uh-dep-list.html">list</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-vocative.html">vocative</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-dislocated.html">dislocated</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-obj.html">obj</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-root.html">root</a></tt> (1; 3% instances)
+`PROPN` nodes are attached to their parents using 11 different relations: <tt><a href="koi_uh-dep-conj.html">conj</a></tt> (5; 17% instances), <tt><a href="koi_uh-dep-nmod.html">nmod</a></tt> (5; 17% instances), <tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt> (5; 17% instances), <tt><a href="koi_uh-dep-flat-name.html">flat:name</a></tt> (3; 10% instances), <tt><a href="koi_uh-dep-obl-lmod.html">obl:lmod</a></tt> (3; 10% instances), <tt><a href="koi_uh-dep-list.html">list</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-vocative.html">vocative</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-dislocated.html">dislocated</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-nmod-poss.html">nmod:poss</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-obj.html">obj</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-root.html">root</a></tt> (1; 3% instances)
 
 Parents of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (13; 45% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (8; 28% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (6; 21% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 3% instances),  (1; 3% instances)
 

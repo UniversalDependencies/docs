@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_rrt-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_rrt-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_rrt-dep-expl-poss.html">expl:poss</a></tt>.
 
-2247 nodes (1%) are attached to their parents as `expl:pv`.
+2245 nodes (1%) are attached to their parents as `expl:pv`.
 
-2139 instances of `expl:pv` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26479750778816.
+2137 instances of `expl:pv` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26503340757238.
 
-The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2246; 100% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2244; 100% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 6	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	apa	apă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
 8	sclipitoare	sclipitor	ADJ	Afpf--n	Definite=Ind|Degree=Pos|Gender=Fem	7	amod	_	_
-9	ca	ca	ADV	Rc	_	11	advmod	_	_
+9	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 10	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	11	det	_	_
 11	cordică	cordică	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
 12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_

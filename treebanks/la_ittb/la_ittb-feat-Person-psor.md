@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="la_ittb-pos-DET.htm
 
 ### `DET`
 
-2933 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Person[psor]`.
+2933 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Person[psor]`.
 
 The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="la_ittb-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (2933; 100%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2931; 100%), <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (2909; 99%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2539; 87%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=IndEurA</tt> (1684; 57%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1682; 57%).
 

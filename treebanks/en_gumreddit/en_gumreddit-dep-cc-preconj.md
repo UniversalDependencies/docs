@@ -106,7 +106,7 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 11	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	Entity=(45-person-giv:act-cf1*-1-ana)|Lem=_|Len=1
 12	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	13	aux	13:aux	Lem=be|Len=3
 13	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	4	csubj	4:csubj|9:csubj	Lem=tell|Len=7
-14	_	_	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	Entity=(55-person-new-cf7-2-sgl(45-person-giv:act-cf1*-1-ana)|Lem=_|Len=2
+14	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	Entity=(55-person-new-cf7-2-sgl(45-person-giv:act-cf1*-1-ana)|Lem=_|Len=2
 15	_	_	NOUN	NN	Number=Sing	13	iobj	13:iobj	Entity=55)|Lem=_|Len=9
 16	_	_	ADP	IN	_	18	case	18:case	Discourse=causal-cause:59->62:3|Lem=_|Len=5
 17	_	_	SCONJ	WRB	PronType=Int	18	obl	18:obl	Lem=_|Len=3

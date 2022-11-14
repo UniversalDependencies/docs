@@ -10,8 +10,8 @@ This relation is universal.
 
 145 nodes (1%) are attached to their parents as `cc`.
 
-144 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 14.1172413793103.
+145 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 14.1655172413793.
 
 The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (87; 60% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (42; 29% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (8; 6% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (5; 3% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
@@ -28,7 +28,7 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="j
 4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の
 5	女性	女性	NOUN	名詞-普通名詞-一般	_	7	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,女性,女性,女性,ジョセー,,,ジョセイ,ジョセイ,女性
 6	の	の	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の
-7	1人	1人	NOUN	名詞-普通名詞-一般	_	17	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,一人,1人,1人,ヒトリ,,,ヒトリ,ヒトリ,1人
+7	1人	1人	NOUN	名詞-普通名詞-一般	_	17	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,一人,1人,1人,ヒトリ,,,ヒトリ,ヒトリ,1人
 8	が	が	ADP	助詞-格助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,が,が,が,ガ,,,ガ,ガ,が
 9	、	、	PUNCT	補助記号-読点	_	7	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 10	それから	其れから	CCONJ	接続詞	_	17	cc	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,其れ;から,それ;から,それ;から,ソレ;カラ,;,;,ソレ;カラ,ソレカラ,其れから

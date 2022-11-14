@@ -28,10 +28,10 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	ሥራ	ሥራ	NOUN	NOUN	_	7	obj	_	Translit=śəra|LTranslit=śəra
 5	ው	ው	DET	DET	_	4	det	_	Translit=wə|LTranslit=wə
 6	ን	ን	PART	ACC	_	4	case	_	Translit=nə|LTranslit=nə
-7	አስጨርስ	አስጨርስ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəćärəsə|LTranslit='äsəćärəsə
-8	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	7	nsubj	_	Translit='ăwə|LTranslit='ăwə
+7	አስጨርስ	አስጨርስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəćärəsə|LTranslit='äsəćärəsə
+8	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ăwə
 9	ኣል	ኣል	AUX	AUX	_	7	aux	_	Translit='alə|LTranslit='alə
-10	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	7	expl	_	Translit='ăhu|LTranslit='ăhu
+10	ኧሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	7	expl	_	LTranslit='əne|Translit='ăhu
 11	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -46,9 +46,9 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	4	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
-4	አስያዝ	አስያዝ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəjazə|LTranslit='äsəjazə
-5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit='ă|LTranslit='ă
-6	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	4	iobj	_	Translit='atə|LTranslit='atə
+4	አስያዝ	አስያዝ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəjazə|LTranslit='äsəjazə
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ă
+6	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	LTranslit='əsu|Translit='atə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -63,9 +63,9 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	ከበደ	ከበደ	PROPN	PROPN	_	4	iobj	_	Translit=käbädä|LTranslit=käbädä
 2	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 3	እንጀራ	እንጀራ	NOUN	NOUN	_	4	obj	_	Translit='ənədžära|LTranslit='ənədžära
-4	አስበላ	አስበላ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəbäla|LTranslit='äsəbäla
-5	ሁ	ሁ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	Translit=hu|LTranslit=hu
-6	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	Translit=tə|LTranslit=tə
+4	አስበላ	አስበላ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəbäla|LTranslit='äsəbäla
+5	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	LTranslit='əne|Translit=hu
+6	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=tə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~

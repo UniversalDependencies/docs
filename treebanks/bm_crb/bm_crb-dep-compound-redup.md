@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="bm_crb-dep-compound.html">compound</a></tt>.
 
-74 nodes (1%) are attached to their parents as `compound:redup`.
+75 nodes (1%) are attached to their parents as `compound:redup`.
 
-74 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.56756756756757.
+75 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.57333333333333.
 
-The following 5 pairs of parts of speech are connected with `compound:redup`: <tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt> (61; 82% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt> (6; 8% instances), <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (4; 5% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `compound:redup`: <tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt> (61; 81% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt> (6; 8% instances), <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (4; 5% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

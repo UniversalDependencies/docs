@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>wurde</em> (<tt><a href="de_gsd-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.903250 (the average of all parts of speech is 1.187208).
+The form / lemma ratio of `VERB` is 1.903250 (the average of all parts of speech is 1.187276).
 
 The 1st highest number of forms (13) was observed with the lemma “sein”: <em>bin, bist, gewesen, ist, sei, seien, sein, seyn, sind, war, waren, wart, wären</em>.
 

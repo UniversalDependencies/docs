@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Korean-GSD: POS Tags: `CCONJ`
 
 There are 15 `CCONJ` lemmas (0%), 14 `CCONJ` types (0%) and 223 `CCONJ` tokens (0%).
-Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: 및, 또는, 그리고, 과, 와, 혹은, 물론, 겸, 그러나, 나
 
@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  또는 (<tt><a href="ko_gsd-pos-CCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.933333 (the average of all parts of speech is 1.000681).
+The form / lemma ratio of `CCONJ` is 0.933333 (the average of all parts of speech is 1.001499).
 
 The 1st highest number of forms (1) was observed with the lemma “겸”: 겸.
 
@@ -77,15 +77,15 @@ The 3rd highest number of forms (1) was observed with the lemma “그러나”:
 
 `CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="ko_gsd-dep-cc.html">cc</a></tt> (223; 100% instances)
 
-Parents of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (169; 76% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (20; 9% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (16; 7% instances), <tt><a href="ko_gsd-pos-PROPN.html">PROPN</a></tt> (13; 6% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (168; 75% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (20; 9% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (16; 7% instances), <tt><a href="ko_gsd-pos-PROPN.html">PROPN</a></tt> (15; 7% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (2; 1% instances)
 
-219 (98%) `CCONJ` nodes are leaves.
+217 (97%) `CCONJ` nodes are leaves.
 
-4 (2%) `CCONJ` nodes have one child.
+6 (3%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="ko_gsd-dep-punct.html">punct</a></tt> (4; 100% instances)
+Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="ko_gsd-dep-punct.html">punct</a></tt> (6; 100% instances)
 
-Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (4; 100% instances)
+Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (6; 100% instances)
 

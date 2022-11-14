@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="nds_lsdc-dep-obl-agent.html">obl:agent</a></tt>.
 
-146 nodes (6%) are attached to their parents as `obl`.
+168 nodes (6%) are attached to their parents as `obl`.
 
-95 instances of `obl` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.30821917808219.
+109 instances of `obl` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.30952380952381.
 
-The following 15 pairs of parts of speech are connected with `obl`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (97; 66% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (12; 8% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (9; 6% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (8; 5% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `obl`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (112; 67% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (15; 9% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (11; 7% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (9; 5% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (6; 4% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,14 +24,14 @@ The following 15 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 8 obl	color:blue
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=ik
-2	wol	willen	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Past	0	root	_	lemma[gml]=willen¹|Mood[regional]=Ind|SpaceAfter=No
+2	wol	willen	VERB	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	0	root	_	lemma[gml]=willen¹|SpaceAfter=No
 3	,	,	PUNCT	_	_	9	punct	_	_
 4	dat	dat	SCONJ	_	_	9	mark	_	lemma[gml]=dat²
 5	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	lemma[gml]=ik
 6	in	in	ADP	_	AdpType=Prep	8	case	_	lemma[gml]=in²
-7	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Case[regional]=Acc|lemma[gml]=dê¹
-8	stad	stad	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	Case[regional]=Acc|lemma[gml]=stat⁴
-9	sat	sitten	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Past	2	advcl	_	lemma[gml]=sitten|Mood[regional]=Ind|SpaceAfter=No
+7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	lemma[gml]=dê¹
+8	stad	stad	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	9	obl	_	lemma[gml]=stat⁴
+9	sat	sitten	VERB	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	2	advcl	_	lemma[gml]=sitten|SpaceAfter=No
 10	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
 11	"	"	PUNCT	_	_	2	punct	_	_
 
@@ -56,8 +56,8 @@ The following 15 pairs of parts of speech are connected with `obl`: <tt><a href=
 10	wän	wan	SCONJ	_	_	15	mark	_	lemma[gml]=wan³
 11	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma[gml]=et¹
 12	uut	uut	ADP	_	AdpType=Prep	14	case	_	lemma[gml]=ût¹
-13	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	Case[regional]=Acc|lemma[gml]=dê¹
-14	küäke	köäke	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	Case[regional]=Acc|lemma[gml]=kȫke²
+13	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	lemma[gml]=dê¹
+14	küäke	köäke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	15	obl	_	lemma[gml]=kȫke²
 15	kaem	koamen	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	7	acl	_	lemma[gml]=kōmen¹|SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -65,27 +65,24 @@ The following 15 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 15 obl	color:blue
-1	'	'	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	Du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	lemma[gml]=dû¹
-3	skynst	skynen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	lemma[gml]=schînen
-4	neet	nich	PART	_	PartType=Neg	3	advmod	_	lemma[gml]=nicht¹
-5	in	in	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=in²
-6	dyn	dyn	DET	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	7	det:poss	_	Case[regional]=Acc|lemma[gml]=dîn
-7	hümöör	humoor	NOUN	_	Case=Dat|Number=Sing	3	xcomp	_	Case[regional]=Acc
-8	te	to	PART	_	PartType=Inf	3	mark	_	lemma[gml]=tô⁵
-9	weasen	weasen	AUX	_	VerbForm=Inf	7	cop	_	lemma[gml]=wēsen²|SpaceAfter=No
-10	'	'	PUNCT	_	_	3	punct	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	lemma[gml]=seggen
-13	Jouke	Jouke	PROPN	_	Case=Nom|Number=Sing	12	nsubj	_	_
-14	teagen	geagen	ADP	_	AdpType=Prep	15	case	_	lemma[gml]=gēgen
-15	Garrelt	Garrelt	PROPN	_	Case=Acc|Number=Sing	12	obl	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 obl	color:blue
+1	Bronswik	Bronswik	PROPN	_	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	edrukked	drukken	VERB	_	Aspect=Perf|VerbForm=Part	1	parataxis	_	_
+4	by	by	ADP	_	AdpType=Prep	5	case	_	_
+5	Friedrich	Friedrich	PROPN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	Otto	Otto	PROPN	_	Number=Sing	5	flat	_	_
+7	un	un	CCONJ	_	_	9	cc	_	lemma[gml]=unde²
+8	te	to	PART	_	PartType=Inf	9	mark	_	_
+9	hebben	hebben	VERB	_	VerbForm=Inf	3	conj	_	lemma[gml]=hebben
+10	by	by	ADP	_	AdpType=Prep	11	case	_	_
+11	G.	G.	PROPN	_	Number=Sing	9	obl	_	_
+12	Rademaker	Rademaker	PROPN	_	Number=Sing	11	flat	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

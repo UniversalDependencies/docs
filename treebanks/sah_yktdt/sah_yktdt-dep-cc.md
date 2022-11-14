@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (3%) are attached to their parents as `cc`.
+34 nodes (2%) are attached to their parents as `cc`.
 
-13 instances of `cc` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42857142857143.
+33 instances of `cc` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.47058823529412.
 
-The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (6; 43% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (3; 21% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (2; 14% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (2; 14% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 7% instances).
+The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (18; 53% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (9; 26% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (4; 12% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -23,11 +23,24 @@ The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="s
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
 1	Биир	биир	NUM	num	NumType=Card	2	nummod	_	_
-2	уол	уол	NOUN	n	Number=Sing	3	nsubj	_	_
-3	турар	тур	VERB	vi	Person=3|Tense=Pres	0	root	_	_
+2	уол	уол	NOUN	n	Case=Nom|Number=Sing	3	nsubj	_	_
+3	турар	тур	VERB	vi	Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	уонна	уонна	CCONJ	cconj	_	5	cc	_	_
-5	ааҕар	аах	VERB	vt	Person=3|Tense=Pres	3	conj	_	SpaceAfter=No
-6	.	.	PUNCT	punct	_	3	punct	_	_
+5	ааҕар	аах	VERB	vt	Number=Sing|Person=3|Tense=Pres	3	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 cc	color:blue
+1	Быраатым	быраат	NOUN	n	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
+2	уонна	уонна	CCONJ	cconj	_	3	cc	_	_
+3	балтым	балыс	NOUN	n	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	1	conj	_	_
+4	үөрэнэллэр	үөрэн	VERB	vi	Number=Plur|Person=3|Tense=Pres	0	root	_	_
 
 ~~~
 
@@ -49,24 +62,6 @@ The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="s
 9	кылгас	кылгас	ADJ	adj	_	3	conj	_	_
 10	уонна	уонна	CCONJ	cconj	_	11	cc	_	_
 11	суон	суон	ADJ	adj	_	9	conj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 cc	color:blue
-1	Онуоха	ол	DET	det	Case=Dat	8	obj	_	this
-2	кини	кини	PRON	pron	_	8	nsubj	_	_
-3	симиктик	симик	ADV	adv	_	8	advmod	_	shy
-4	эрээри	эрээри	CCONJ	cconj	_	6	cc	_	_
-5	,	,	PUNCT	punct	_	6	punct	_	_
-6	оттомноохтук	оттомноох	ADV	adv	_	3	conj	_	reasonable
-7	хат	хат	ADV	adv	_	8	advmod	_	again
-8	көрдөстө	көрдөс	VERB	v	Number=Sing|Person=3|Tense=Past	0	root	_	request
 
 ~~~
 

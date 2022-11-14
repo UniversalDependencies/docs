@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-483 nodes (2%) are attached to their parents as `amod`.
+646 nodes (2%) are attached to their parents as `amod`.
 
-315 instances of `amod` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.43064182194617.
+456 instances of `amod` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39009287925697.
 
-The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (437; 90% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (27; 6% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (587; 91% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (33; 5% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,11 +49,11 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	là	là	ADV	_	_	4	advmod	_	_
 3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
 4	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	être	être	AUX	_	VerbForm=Inf	7	cop	_	_
+5	être	être	AUX	_	VerbForm=Inf	7	cop	_	Subject=SubjRaising
 6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	galère	galère	NOUN	_	Gender=Fem|Number=Sing	4	xcomp	_	_
 8	pour	pour	ADP	_	_	9	mark	_	_
-9	mélanger	mélanger	VERB	_	VerbForm=Inf	7	acl	_	_
+9	mélanger	mélanger	VERB	_	VerbForm=Inf	7	acl	_	Subject=NoRaising
 10	et	et	CCONJ	_	_	12	cc	_	_
 11	tout	tout	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
 12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	conj	_	SpaceAfter=No
@@ -63,38 +63,23 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 21 amod	color:blue
-1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	advmod	_	ExtPos=ADV|Idiom=Yes
-2	peu	peu	NOUN	_	_	1	fixed	_	InIdiom=Yes
-3	en	en	ADP	_	_	4	case	_	_
-4	hauteur	hauteur	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-5	pour	pour	ADP	_	_	7	mark	_	_
-6	bien	bien	ADV	_	_	7	advmod	_	_
-7	voir	voir	VERB	_	VerbForm=Inf	4	acl	_	_
-8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	scène	scène	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	15	punct	_	_
-11	même	même	ADV	_	_	15	advmod	_	_
-12	si	si	SCONJ	_	_	15	mark	_	_
-13	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	expl:subj	_	_
-14	y	y	PRON	_	Person=3|PronType=Prs	15	iobj	_	_
-15	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl	_	_
-16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-17	bon	bon	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	_
-18	gros	gros	ADJ	_	Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	23	punct	_	_
-20	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-21	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	_
-22	grosse	gros	ADJ	_	Gender=Fem|Number=Sing	23	amod	_	_
-23	sono	sono	NOUN	_	Gender=Fem|Number=Sing	18	reparandum	_	_
-24	à	à	ADP	_	_	26	case	_	_
-25	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-26	milieu	milieu	NOUN	_	Gender=Masc|Number=Sing	15	obl:mod	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	15	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 amod	color:blue
+1	et	et	CCONJ	_	_	10	cc	_	AlignBegin=81083|AlignEnd=81312
+2	petit	petit	ADJ	_	_	4	amod	_	AlignBegin=81312|AlignEnd=81540
+3	à	à	ADP	_	_	4	case	_	AlignBegin=81540|AlignEnd=81540
+4	petit	petit	ADJ	_	_	10	obl:mod	_	AlignBegin=81540|AlignEnd=81769|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	AlignBegin=81769|AlignEnd=81769
+6	bah	bah	INTJ	_	_	4	discourse	_	AlignBegin=81769|AlignEnd=81998|SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	AlignBegin=81998|AlignEnd=81998
+8	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj:pass	_	AlignBegin=81998|AlignEnd=82227
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	AlignBegin=82227|AlignEnd=82455
+10	devenue	devenir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignBegin=82455|AlignEnd=82684
+11	amie	ami	NOUN	_	Gender=Fem|Number=Sing	10	xcomp	_	AlignBegin=82684|AlignEnd=82913|SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	AlignBegin=82913|AlignEnd=82913
 
 ~~~
 

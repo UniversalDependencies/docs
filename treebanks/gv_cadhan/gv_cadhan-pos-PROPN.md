@@ -13,19 +13,19 @@ The 10 most frequent `PROPN` lemmas: <em>Gaelg, Jee, Ealish, Mannin, manninagh, 
 
 The 10 most frequent `PROPN` types:  <em>Ealish, Gaelg, Ghaelg, Jee, Yee, Baarle, Israel, Juan, Mannin, Nerin</em>
 
-The 10 most frequent ambiguous lemmas: <em>cashtal</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 2), <em>Frangagh</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Sostynagh</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Yernagh</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>ayr</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>balley</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>eddeyder</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>thalloo</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>cashtal</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 2), <em>Frangagh</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Sostynagh</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Yernagh</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>ayr</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>balley</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>eddeyder</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>thalloo</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>Vanninagh</em> (<tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1), <em>Chashtal</em> (<tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1), <em>Manninagh</em> (<tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1), <em>Ayr</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Balley</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Eddeyder</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Ellan</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Noo</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Sostynagh</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>Vanninagh</em> (<tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1), <em>Chashtal</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 2), <em>Manninagh</em> (<tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1), <em>Ayr</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Balley</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Eddeyder</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Ellan</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Noo</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1), <em>Sostynagh</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1)
 
 
 * <em>Vanninagh</em>
-  * <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 4: <em>T' eh ny <b>Vanninagh</b> dooie .</em>
+  * <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 4: <em>T' eh ny <b>Vanninagh</b> veih yn chlean .</em>
   * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1: <em>Ta 'n Ghaelg <b>Vanninagh</b> er y chengey ec eh .</em>
 * <em>Chashtal</em>
+  * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 2: <em>T' eh ayns yn <b>Chashtal</b> .</em>
   * <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 2: <em>Va cloie corrym ayns eh eddyr Balley <b>Chashtal</b> as Doolish .</em>
-  * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1: <em>T' eh ayns yn <b>Chashtal</b> .</em>
 * <em>Manninagh</em>
-  * <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 2: <em>Cha nel <b>Manninagh</b> rieau creeney derrey 'n laa lurg y vargee .</em>
+  * <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 2: <em>Myr she <b>Manninagh</b> mish ta Gaelg ec mee .</em>
   * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1: <em>T' eh ny henn ghooinney seyr <b>Manninagh</b> jeh yn chenn jannoo .</em>
 * <em>Ayr</em>
   * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1: <em>Eisht dooyrt paart jeh e ostyllyn eddyr ad hene , Cre shoh t' eh dy ghra rish shin , Tammylt beg as cha vaik shiu mee : as reesht , tammylt beg , as hee shiu mee : as , Er yn oyr dy vel mee goll roish mee gys yn <b>Ayr</b> ?</em>
@@ -37,13 +37,13 @@ The 10 most frequent ambiguous types:  <em>Vanninagh</em> (<tt><a href="gv_cadha
   * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 2: <em>“ Cha lhisagh oo loayrt eisht , ” dooyrt yn <b>Eddeyder</b> .</em>
   * <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1: <em>“ Vel oo er veaysley y raa dorraghey foast ? ” dooyrt yn <b>Eddeyder</b> as eh chyndaa gys Ealish reesht .</em>
 * <em>Ellan</em>
-  * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 6: <em>T' eh cummal ayns yn <b>Ellan</b> .</em>
+  * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 6: <em>Daag eh yn <b>Ellan</b> .</em>
   * <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1: <em>Fy yerrey hooar ad magh liorish peeikearyn dy row Gorree er ellan dy row enmyssit <b>Ellan</b> Cholumb Killey marish kuse dy gheiney , gyn goaill aggle roish gaue erbee .</em>
 * <em>Noo</em>
   * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1: <em>Agh nee Fer-ny-gherjagh , ta shen , yn Spyrryd <b>Noo</b> , eh nee yn Ayr y choyrt ayns yn ennym ec mish , gynsaghey da shiu dy chooilley nhee , as tayrnee eh dy chooilley nhee gys nyn gooinaghtyn , cre erbee ta mish er ghra rish shiu .</em>
   * <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1: <em>Va preeu-valley yn reeriaght soit er Ellan <b>Noo</b> Perick , raad dy row Cashtal Phurt ny h-Inshey troggit er boayl mannishter Cheltiagh .</em>
 * <em>Sostynagh</em>
-  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3: <em>T' eh jeh sluight <b>Sostynagh</b> .</em>
+  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3: <em>She sampleyr yn offishear <b>Sostynagh</b> eh .</em>
   * <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> 1: <em>She <b>Sostynagh</b> veih yn chlean eh .</em>
 
 ## Morphology

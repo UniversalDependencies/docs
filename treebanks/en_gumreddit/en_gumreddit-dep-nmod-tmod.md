@@ -34,9 +34,9 @@ The following 5 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 9	_	_	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	10:nummod	Entity=(133-time-new-cf5-2-coref|Lem=_|Len=1
 10	_	_	NOUN	NNS	Number=Plur	1	parataxis	1:parataxis	Lem=second|Len=7
 11	_	_	ADP	IN	_	13	case	13:case	Lem=_|Len=2
-12	_	_	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	Entity=(36-person-giv:act-cf1*-1-ana)|Lem=_|Len=4
+12	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	Entity=(36-person-giv:act-cf1*-1-ana)|Lem=_|Len=4
 13	_	_	NOUN	NN	Number=Sing|Typo=Yes	10	nmod	10:nmod:of	CorrectForm=life, but|Entity=133)|Lem=_|Len=4|SpaceAfter=No|XML=<sic ana:::"life, but"><w>
-14	_	_	PUNCT	,	_	22	punct	22:punct	CorrectForm=_|Lem=_|Len=1|SpaceAfter=No
+14	_	_	PUNCT	,	Typo=Yes	22	punct	22:punct	CorrectForm=_|Lem=_|Len=1|SpaceAfter=No
 15	_	_	CCONJ	CC	Typo=Yes	22	cc	22:cc	CorrectForm=_|Discourse=adversative-contrast_m:131->130:0|Lem=_|Len=3|XML=</w></sic>
 16	_	_	ADV	RB	Degree=Pos	22	advmod	22:advmod	Lem=_|Len=8
 17	_	_	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	Entity=(134-abstract-new-cf7-6-sgl|Lem=_|Len=1
@@ -67,7 +67,7 @@ The following 5 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 # visual-style 14 16 nmod:tmod	color:blue
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:31->32:1|Entity=(29-person-giv:act-cf1*-1-ana)|Lem=_|Len=1|XML=<w></w>
 2	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=_|Len=6
-3	_	_	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Entity=(35-person-new-cf4-2-sgl(29-person-giv:act-cf1*-1-ana)|Lem=_|Len=2
+3	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Entity=(35-person-new-cf4-2-sgl(29-person-giv:act-cf1*-1-ana)|Lem=_|Len=2
 4	_	_	NOUN	NN	Number=Sing	2	iobj	2:iobj	Entity=35)|Lem=_|Len=6
 5	_	_	SCONJ	IN	_	8	mark	8:mark	Discourse=explanation-justify:32->23:2|Lem=_|Len=4
 6	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	8:expl	Entity=(36-event-new-cf2-1-cata)|Lem=_|Len=2
@@ -82,8 +82,8 @@ The following 5 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 15	_	_	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(37-time-new-cf6-2-sgl|Lem=_|Len=1
 16	_	_	NOUN	NN	Number=Sing	14	nmod:tmod	14:nmod:tmod	Entity=37)36)|Lem=_|Len=4
 17	_	_	ADP	IN	_	19	case	19:case	Lem=_|Len=3
-18	_	_	DET	DT	Number=Plur|PronType=Dem	19	det	19:det	Entity=(38-abstract-new-cf3-2-sgl|Lem=this|Len=5
-19	_	_	NOUN	NN	Number=Sing	10	obl	10:obl:for	CorrectForm=purposes|Entity=38)|Lem=_|Len=7|XML=<sic ana:::"purposes"></sic>
+18	_	_	DET	DT	Number=Plur|PronType=Dem	19	det	19:det	Entity=(38-abstract-new-cf3-2-sgl|Lem=that|Len=5
+19	_	_	NOUN	NN	Number=Sing|Typo=Yes	10	obl	10:obl:for	CorrectForm=purposes|Entity=38)|Lem=_|Len=7|XML=<sic ana:::"purposes"></sic>
 20	_	_	SCONJ	IN	_	21	mark	21:mark	Discourse=elaboration-attribute:33->32:0|Lem=_|Len=2
 21	_	_	VERB	VBG	VerbForm=Ger	19	acl	19:acl:of	Lem=network|Len=10
 22	_	_	CCONJ	CC	_	23	cc	23:cc	Discourse=attribution-positive:34->35:0|Lem=_|Len=3

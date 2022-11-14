@@ -22,7 +22,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="gv_cadhan-pos-ADJ.h
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp,Sup` (69; 100% of non-empty `Degree`): <em>share, smoo, smessey, sloo, s'gilley, s'messey, s'keoiey, s'odjey, messey, s'anvenkey</em>
-* `EMPTY` (927): <em>mie, erbee, mooar, elley, vie, beg, currit, drogh, jeant, ennagh</em>
+* `EMPTY` (930): <em>mie, erbee, mooar, elley, vie, beg, currit, drogh, jeant, ennagh</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `Degree`.
 

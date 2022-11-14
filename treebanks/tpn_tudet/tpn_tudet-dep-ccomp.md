@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (1%) are attached to their parents as `ccomp`.
+20 nodes (0%) are attached to their parents as `ccomp`.
 
-18 instances of `ccomp` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.57142857142857.
+17 instances of `ccomp` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.05.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (12; 57% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (7; 33% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (11; 55% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (7; 35% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -24,14 +24,14 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 10 1 ccomp	color:blue
 1	Taʃepeʔa	peʔa	NOUN	n	Mood=Per|Number=Sing|Person=1	10	ccomp	_	_
 2	Tupã	Tupã	PROPN	propn	_	1	nsubj	_	_
-3	tekoangajpaβa	ekoangajpab	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Hum	1	obl	_	_
+3	tekoaŋajpaβa	ekoaŋajpaβ	NOUN	n	Case=Ref|Nomzr=Circ|Rel=Hum	1	obl	_	_
 4	swi	swi	ADP	posp	Rel=Cont	3	case	_	_
 5	,	,	PUNCT	punct	_	3	punct	_	_
 6	ase	ase	PRON	pro	PronType=Prs	7	nmod	_	_
 7	jɨʔã	jɨʔã	NOUN	n	_	9	nmod	_	_
 8	swi	swi	ADP	posp	Rel=Cont	7	case	_	_
 9	osemaʔe	sem	NOUN	n	Nomzr=Rel|Person=3	3	appos	_	_
-10	ojaβo	ʔi	VERB	v	VerbForm=Ger	0	root	_	_
+10	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	0	root	_	_
 
 ~~~
 
@@ -43,8 +43,8 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 1 ccomp	color:blue
 1	tojpeʔa	peʔa	VERB	v	Mood=Per|Person[obj]=3|Person[subj]=3	6	ccomp	_	_
-2	Tupã	Tupã	PROPN	propn	_	1	obl:subj	_	_
-3	jeʔẽmemwã	jeʔẽmemwã	NOUN	n	_	1	obl:obj	_	_
+2	Tupã	Tupã	PROPN	propn	_	1	nsubj	_	_
+3	jeʔẽmemwã	jeʔẽmemwã	NOUN	n	_	1	obj	_	_
 4	ʃejuru	juru	NOUN	n	Number=Sing|Person=1|Rel=Cont	1	obl	_	_
 5	swi	swi	ADP	posp	Rel=Cont	4	case	_	_
 6	ojaβo	ʔi	VERB	v	Person=3|VerbForm=Ger	0	root	_	_

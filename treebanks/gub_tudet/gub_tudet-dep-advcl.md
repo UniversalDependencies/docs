@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-121 nodes (1%) are attached to their parents as `advcl`.
+108 nodes (1%) are attached to their parents as `advcl`.
 
-87 instances of `advcl` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.08264462809917.
+78 instances of `advcl` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.0462962962963.
 
-The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (80; 66% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (25; 21% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (8; 7% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (8; 7% instances).
+The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (76; 70% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (25; 23% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 5 8 advcl	color:blue
 1	Epɨhɨk	pɨhɨk	VERB	vt	Mood=Imp	5	ccomp	_	_
 2	mukaw	mukaw	NOUN	n	_	1	obj	_	_
-3	tɨ	tɨ	PART	pcl	_	1	discourse	_	_
+3	tɨ	tɨ	PART	pcl	Speech=MM	1	discourse	_	_
 4	,	,	PUNCT	punct	_	1	punct	_	_
 5	iʔi	ʔi	NOUN	n	Rel=NCont	0	root	_	_
 6	upe	u	NOUN	n	Case=Dat|Rel=Corf	5	obl	_	_
@@ -52,17 +52,22 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 advcl	color:blue
-1	Ipiraʔi	pira	NOUN	n	Dimin=Yes|Rel=Abs	2	obl:subj	_	_
-2	ikatu	katu	NOUN	n	Rel=NCont	0	root	_	_
-3	arakurpe	arakur	NOUN	n	Case=Dat	2	obl	_	_
-4	iʔu	uʔu	NOUN	n	Person[subj]=3	2	advcl	_	_
-5	mehe	mehe	SCONJ	sc	_	4	mark	_	_
-6	.	.	PUNCT	punct	_	2	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 advcl	color:blue
+1	Aze	aze	SCONJ	sc	_	2	mark	_	_
+2	zanepɨtuhem	pɨtuhem	NOUN	n	Clusivity=In|Number=Plur|Person[subj]=1	7	advcl	_	_
+3	ɨ	ʔɨ	NOUN	n	_	4	nmod	_	_
+4	pɨpe	pɨ	NOUN	n	Case=Loc|Rel=Cont	2	obl	_	_
+5	zane	zane	PRON	pro	Clusivity=In|Number=Plur|Person=1|PronType=Prs	2	discourse	_	_
+6	,	,	PUNCT	punct	_	2	punct	_	_
+7	zanezuka	uka	NOUN	n	Clusivity=In|Number=Plur|Person[psor]=1|Poss=Yes	0	root	_	_
+8	tue	tue	PART	pcl	Emph=Yes	7	discourse	_	_
+9	ɨ	ʔɨ	NOUN	n	_	7	obl:subj	_	_
+10	aʔe	aʔe	PRON	pro	PronType=Dem	7	obl:subj	_	_
+11	.	.	PUNCT	punct	_	7	punct	_	_
 
 ~~~
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `MultDist`, `OrdMult` are language-specific.
 It occurs with 5 different values: `Card`, `Dist`, `MultDist`, `Ord`, `OrdMult`.
 
-14 tokens (2%) have a non-empty value of `NumType`.
+14 tokens (1%) have a non-empty value of `NumType`.
 11 types (2%) occur at least once with a non-empty value of `NumType`.
-10 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+10 lemmas (2%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `NUM`
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 * `Card` (1; 20% of non-empty `NumType`): <em>ӧтикӧ</em>
 * `MultDist` (2; 40% of non-empty `NumType`): <em>кыкисьӧн, кыкисьӧн-куимисьӧн</em>
 * `OrdMult` (2; 40% of non-empty `NumType`): <em>дасöтiсь</em>
-* `EMPTY` (78): <em>кыдз, ни, кӧр, сэсся, сё, талун, чожа, эшӧ, кынымкӧ, кытӧн</em>
+* `EMPTY` (82): <em>кыдз, ни, сэсся, кӧр, сё, талун, чожа, эшӧ, кынымкӧ, кытӧн</em>
 
 ### `ADJ`
 
@@ -52,5 +52,5 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (2; 100% of non-empty `NumType`): <em>Куимӧдз, витӧдз</em>
-* `EMPTY` (31): <em>буржык, ыджыт, важ, честнӧй, бур, быльнӧй, веськытлань, гажаӧсь, долыт, июльскӧй</em>
+* `EMPTY` (33): <em>буржык, ыджыт, важ, честнӧй, бур, быльнӧй, веськытлань, гажаӧсь, долженöсь, долыт</em>
 

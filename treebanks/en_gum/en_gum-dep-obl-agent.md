@@ -14,7 +14,7 @@ There are also 2 other language-specific subtypes of `obl`: <tt><a href="en_gum-
 313 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.75079872204473.
 
-The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (223; 71% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (78; 25% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (221; 71% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (78; 25% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -64,27 +64,22 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 obl:agent	color:blue
-1	Replication	replication	NOUN	NN	Number=Sing	2	compound	2:compound	Discourse=context-background:3->73:4|Entity=(6-abstract-new-cf1-2-coref(7-abstract-new-cf5-1-coref)
-2	studies	study	NOUN	NNS	Number=Plur	4	nsubj:pass	4:nsubj:pass|8:nsubj:xsubj	Entity=6)
-3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
-4	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
-5	by	by	ADP	IN	_	6	case	6:case	_
-6	many	many	ADJ	JJ	Degree=Pos	4	obl:agent	4:obl:agent	Entity=(8-person-new-cf4-1-sgl)
-7	to	to	PART	TO	_	8	mark	8:mark	_
-8	play	play	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
-9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(9-abstract-new-cf2-3-sgl
-10	fundamental	fundamental	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
-11	role	role	NOUN	NN	Number=Sing	8	obj	8:obj	Entity=9)
-12	in	in	ADP	IN	_	15	case	15:case	_
-13	any	any	DET	DT	PronType=Ind	15	det	15:det	Entity=(10-abstract-new-cf3-3-sgl
-14	scientific	scientific	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
-15	endeavor	endeavor	NOUN	NN	Number=Sing	8	obl	8:obl:in	Entity=10)|SpaceAfter=No
-16	.	.	PUNCT	.	_	4	punct	4:punct	_
+# visual-style 6 8 obl:agent	color:blue
+1	Professor	Professor	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	Discourse=attribution-positive:89->90:0|Entity=(50-person-giv:inact-cf1-1,2-coref-Creswell_Eastman
+2	Eastman	Eastman	PROPN	NNP	Number=Sing	1	flat	1:flat	Entity=50)
+3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj:pass	6:nsubj:pass	Discourse=evaluation-comment:90->91:4|Entity=(50-person-giv:act-cf1-1-ana-Creswell_Eastman)
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+6	alarmed	alarm	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	3:ccomp	_
+7	by	by	ADP	IN	_	8	case	8:case	_
+8	what	what	PRON	WP	PronType=Rel	6	obl:agent	6:obl:agent	_
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	Entity=(8-person-giv:inact-cf2-1-ana)
+10	found	find	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	8:acl:relcl	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 

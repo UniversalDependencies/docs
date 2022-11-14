@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-176 tokens (1%) have a non-empty value of `Polarity`.
+177 tokens (1%) have a non-empty value of `Polarity`.
 5 types (0%) occur at least once with a non-empty value of `Polarity`.
 4 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> (174; 1% instances), <tt><a href="gv_cadhan-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> (175; 1% instances), <tt><a href="gv_cadhan-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `PART`
 
-174 <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> tokens (38% of all `PART` tokens) have a non-empty value of `Polarity`.
+175 <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> tokens (38% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="gv_cadhan-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (159; 91%).
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="gv_cadhan-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (160; 91%).
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (174; 100% of non-empty `Polarity`): <em>cha, nagh, Nar</em>
+* `Neg` (175; 100% of non-empty `Polarity`): <em>cha, nagh, Nar</em>
 * `EMPTY` (287): <em>dy, ny, N'</em>
 
 ### `AUX`

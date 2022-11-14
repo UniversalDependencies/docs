@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt>, <tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt>.
 
-131901 tokens (65%) have a non-empty value of `Number`.
+131899 tokens (65%) have a non-empty value of `Number`.
 52525 types (97%) occur at least once with a non-empty value of `Number`.
 23026 lemmas (88%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (56356; 28% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (24233; 12% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13477; 7% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (13251; 7% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (12112; 6% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (11187; 6% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1285; 1% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (56356; 28% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (24233; 12% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13475; 7% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (13251; 7% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (12112; 6% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (11187; 6% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1285; 1% instances).
 
 ### `NOUN`
 
@@ -133,14 +133,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-13477 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+13475 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10688; 79%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10686; 79%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (3310; 25% of non-empty `Number`): <em>ne, jotka, niiden, he, meidän, niitä, joita, me, heidän, joiden</em>
-* `Sing` (10167; 75% of non-empty `Number`): <em>se, hän, sen, joka, sitä, siitä, tämän, tämä, hänen, kaikki</em>
+* `Sing` (10165; 75% of non-empty `Number`): <em>se, hän, sen, joka, sitä, siitä, tämän, tämä, hänen, kaikki</em>
 * `EMPTY` (6): <em>jonne, ainoatakaan, muineen, toisensa, toistaan</em>
 
 <table>
@@ -406,12 +406,12 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fi_tdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9265; 94%),
 <tt>VERB --[<tt><a href="fi_tdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7945; 61%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5505; 85%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5501; 85%),
 <tt>VERB --[<tt><a href="fi_tdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4905; 54%),
 <tt>NOUN --[<tt><a href="fi_tdt-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (4521; 68%),
 <tt>NOUN --[<tt><a href="fi_tdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (3300; 97%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (3186; 65%),
-<tt>NOUN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3080; 78%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (3185; 65%),
+<tt>NOUN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3082; 78%),
 <tt>NOUN --[<tt><a href="fi_tdt-dep-det.html">det</a></tt>]--> PRON</tt> (2991; 94%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2577; 84%).
+<tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2575; 84%).
 

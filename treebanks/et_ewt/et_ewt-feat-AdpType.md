@@ -9,19 +9,19 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Post`, `Prep`.
 
-1215 tokens (2%) have a non-empty value of `AdpType`.
-136 types (1%) occur at least once with a non-empty value of `AdpType`.
-116 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1209; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (6; 0% instances).
+1429 tokens (2%) have a non-empty value of `AdpType`.
+139 types (1%) occur at least once with a non-empty value of `AdpType`.
+118 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1423; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (6; 0% instances).
 
 ### `ADP`
 
-1209 <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> tokens (99% of all `ADP` tokens) have a non-empty value of `AdpType`.
+1423 <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> tokens (99% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Post` (974; 81% of non-empty `AdpType`): <em>eest, kohta, jaoks, peale, puhul, pärast, vastu, all, järgi, tagasi</em>
-* `Prep` (235; 19% of non-empty `AdpType`): <em>üle, peale, ilma, enne, pärast, koos, läbi, tänu, mööda, kuni</em>
+* `Post` (1145; 80% of non-empty `AdpType`): <em>eest, kohta, jaoks, peale, pärast, puhul, all, järgi, vastu, juurde</em>
+* `Prep` (278; 20% of non-empty `AdpType`): <em>üle, peale, enne, ilma, koos, pärast, läbi, kuni, tänu, mööda</em>
 
 <table>
   <tr><th>Paradigm <i>peale</i></th><th><tt>Post</tt></th><th><tt>Prep</tt></th></tr>

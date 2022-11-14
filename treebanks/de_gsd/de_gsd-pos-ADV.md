@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-GSD: POS Tags: `ADV`
 
-There are 993 `ADV` lemmas (2%), 1011 `ADV` types (2%) and 14844 `ADV` tokens (5%).
+There are 992 `ADV` lemmas (2%), 1010 `ADV` types (2%) and 14844 `ADV` tokens (5%).
 Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>auch</em> (<tt><a href="de_gsd-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.018127 (the average of all parts of speech is 1.187208).
+The form / lemma ratio of `ADV` is 1.018145 (the average of all parts of speech is 1.187276).
 
 The 1st highest number of forms (4) was observed with the lemma “lang”: <em>lang, lange, länger, längerer</em>.
 

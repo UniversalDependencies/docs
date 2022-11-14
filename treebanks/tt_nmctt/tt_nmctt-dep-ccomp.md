@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `ccomp`.
+7 nodes (0%) are attached to their parents as `ccomp`.
 
-3 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.66666666666667.
+7 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.
 
-The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (2; 67% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (5; 71% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 14% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 22	fgColor:white
 # visual-style 22 8 ccomp	color:blue
 1	Хәзер	хәзер	ADV	_	_	8	advmod	_	LangID=TT
-2	тикшерүчеләр	тикшер	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part	8	nsubj	_	LangID=TT
+2	тикшерүчеләр	тикшер	VERB	_	Case=Nom|Number=Plur|VerbForm=NomAg	8	nsubj	_	LangID=TT
 3	бу	бу	DET	_	_	4	det	_	LangID=TT
 4	хәл	хәл	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	LangID=TT
 5	килеп	кил	VERB	_	VerbForm=Conv	7	nmod	_	LangID=TT
@@ -77,6 +77,36 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 32	Андрей	Андрей	PROPN	_	Case=Nom|Number=Sing	31	appos	_	LangID=RU
 33	Шептицкий	Шептицкий	PROPN	_	Case=Nom|Number=Sing	32	flat	_	LangID=RU|SpaceAfter=No
 34	.	.	PUNCT	_	_	21	punct	_	LangID=OTHER
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 5 ccomp	color:blue
+1	Халыкка	халык	NOUN	_	Case=Dat|Number=Sing	2	obl	_	LangID=TT
+2	күрсәтелә	күрсәт	VERB	_	Aspect=Prog|VerbForm=Conv|Voice=Pass	4	acl	_	LangID=TT
+3	торган	тор	AUX	_	Tense=Past|VerbForm=Part	2	aux	_	LangID=TT
+4	хезмәтләр	хезмәт	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	LangID=TT
+5	сыйфатлы	сыйфатлы	ADJ	_	_	15	ccomp	_	LangID=TT|SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
+7	билгеләнгән	билгелә	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	LangID=TT
+8	таләпләргә	таләп	NOUN	_	Case=Dat|Number=Plur	10	obl	_	LangID=TT
+9	җавап	җавап	NOUN	_	Case=Nom|Number=Sing	10	obj	_	LangID=TT
+10	бирергә	бир	VERB	_	VerbForm=Inf	5	parataxis	_	LangID=TT
+11	тиеш	тиеш	AUX	_	_	10	aux	_	LangID=TT|SpaceAfter=No
+12	»	»	PUNCT	_	_	5	punct	_	LangID=OTHER|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	LangID=OTHER
+14	–	–	PUNCT	_	_	15	punct	_	LangID=TT
+15	диде	ди	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT
+16	шәһәр	шәһәр	NOUN	_	Case=Nom|Number=Sing	17	nmod	_	LangID=TT
+17	башлыгы	башлык	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	15	nsubj	_	LangID=TT
+18	Наил	Наил	PROPN	_	Case=Nom|Number=Sing	17	appos	_	LangID=TT
+19	Мәһдиев	Мәһдиев	PROPN	_	Case=Nom|Number=Sing	18	flat	_	CSPoint=Мәһди§ев|LangID=MIXED[TT§RU]|SpaceAfter=No
+20	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
 
 ~~~
 

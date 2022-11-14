@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 137715 tokens (47%) have a non-empty value of `Gender`.
 40675 types (80%) occur at least once with a non-empty value of `Gender`.
-34990 lemmas (83%) occur at least once with a non-empty value of `Gender`.
+34989 lemmas (83%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 9 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (50882; 17% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (36989; 13% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (26292; 9% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14256; 5% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (8962; 3% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (175; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (86; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (64; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (9; 0% instances).
 
 ### `NOUN`
@@ -105,7 +105,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 14256 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (69% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="de_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (13335; 94%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9936; 70%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="de_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (13200; 93%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9936; 70%).
 
 `ADJ` tokens may have the following values of `Gender`:
 

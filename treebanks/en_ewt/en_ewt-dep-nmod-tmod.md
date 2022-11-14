@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_ewt-dep-nmod-npmod.html">nmod:npmod</a></tt>, <tt><a href="en_ewt-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-371 nodes (0%) are attached to their parents as `nmod:tmod`.
+370 nodes (0%) are attached to their parents as `nmod:tmod`.
 
-356 instances of `nmod:tmod` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.61725067385445.
+355 instances of `nmod:tmod` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.61621621621622.
 
-The following 13 pairs of parts of speech are connected with `nmod:tmod`: <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (189; 51% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (73; 20% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (35; 9% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (28; 8% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (11; 3% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (10; 3% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (10; 3% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `nmod:tmod`: <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (189; 51% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (72; 19% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (35; 9% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (28; 8% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (11; 3% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (10; 3% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (10; 3% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,9 +23,9 @@ The following 13 pairs of parts of speech are connected with `nmod:tmod`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 nmod:tmod	color:blue
-1	02/13/2001	02/13/2001	NUM	CD	NumType=Card	0	root	0:root	_
-2	08:02	08:02	NUM	CD	NumType=Card	3	nummod	3:nummod	_
-3	PM	pm	NOUN	NN	Number=Sing	1	nmod:tmod	1:nmod:tmod	_
+1	02/13/2001	02/13/2001	NUM	CD	NumForm=Digit|NumType=Card	0	root	0:root	_
+2	08:02	08:02	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	_
+3	PM	p.m.	NOUN	NN	Number=Sing	1	nmod:tmod	1:nmod:tmod	_
 
 ~~~
 
@@ -39,7 +39,7 @@ The following 13 pairs of parts of speech are connected with `nmod:tmod`: <tt><a
 1	Game	game	NOUN	NN	Number=Sing	0	root	0:root	_
 2	tonight	tonight	NOUN	NN	Number=Sing	1	nmod:tmod	1:nmod:tmod	_
 3	at	at	ADP	IN	_	4	case	4:case	_
-4	7	7	NUM	CD	NumType=Card	1	nmod	1:nmod:at	SpaceAfter=No
+4	7	7	NUM	CD	NumForm=Digit|NumType=Card	1	nmod	1:nmod:at	SpaceAfter=No
 5	,	,	PUNCT	,	_	1	punct	1:punct	_
 6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
@@ -60,8 +60,8 @@ The following 13 pairs of parts of speech are connected with `nmod:tmod`: <tt><a
 # visual-style 1	fgColor:white
 # visual-style 1 3 nmod:tmod	color:blue
 1	November	November	PROPN	NNP	Number=Sing	0	root	0:root	_
-2	22th	22nd	NOUN	NN	Number=Sing|NumType=Ord|Typo=Yes	1	nummod	1:nummod	_
-3	2005	2005	NUM	CD	NumType=Card	1	nmod:tmod	1:nmod:tmod	_
+2	22th	22nd	NOUN	NN	Number=Sing|NumType=Ord|Typo=Yes	1	nummod	1:nummod	CorrectForm=22nd
+3	2005	2005	NUM	CD	NumForm=Digit|NumType=Card	1	nmod:tmod	1:nmod:tmod	_
 
 ~~~
 

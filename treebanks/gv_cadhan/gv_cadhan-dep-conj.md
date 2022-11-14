@@ -23,63 +23,56 @@ The following 21 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 8 conj	color:blue
 1	As	as	CCONJ	_	_	2	cc	_	_
-2	chroym	croym	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-3	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-4	sheese	sheese	ADV	_	_	2	advmod	_	_
-5	reesht	reesht	ADV	_	_	2	advmod	_	SpaceAfter=No
+2	scugh	scugh	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
+3	ad	ad	PRON	_	Number=Plur|Person=3	2	nsubj	_	_
+4	veih	veih	ADP	_	_	5	case	_	_
+5	Jotbathah	Jotbathah	PROPN	_	_	2	obl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	as	as	CCONJ	_	_	8	cc	_	_
-8	scrieu	scrieu	VERB	_	Mood=Ind|Tense=Past	2	conj	_	_
-9	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
-10	er	er	ADP	_	_	12	case	_	_
-11	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
-12	laare	laare	NOUN	_	_	8	obl	_	SpaceAfter=No
+8	ren	jean	VERB	_	Mood=Ind|Tense=Past	2	conj	_	_
+9	ad	ad	PRON	_	Number=Plur|Person=3	8	nsubj	_	_
+10	campal	campal	NOUN	_	_	8	xcomp	_	_
+11	ec	ec	ADP	_	_	12	case	_	_
+12	Ebronah	Ebronah	PROPN	_	_	10	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 13 conj	color:blue
-1	Ren	jean	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
-2	Mwarree	mwarree	PROPN	_	_	1	nsubj	_	_
-3	ginsh	insh	NOUN	_	_	1	xcomp	_	_
-4	red	red	NOUN	_	_	3	obj	_	_
-5	beg	beg	ADJ	_	_	4	amod	_	_
-6	da	da	ADP	_	_	7	case	_	_
-7	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	3	obl	_	_
-8	mychione	mychione	ADP	_	_	10	case	_	_
-9	e	e	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	10	nmod:poss	_	_
-10	mac	mac	NOUN	_	_	4	nmod	_	_
-11	as	as	CCONJ	_	_	13	cc	_	_
-12	e	e	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	_
-13	hinneenyn	inneen	NOUN	_	Form=HPref	10	conj	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 conj	color:blue
+1	Cha	cha	PART	_	PartType=Vb|Polarity=Neg	2	mark	_	_
+2	jean	jean	VERB	_	Mood=Ind|Tense=Fut	0	root	_	_
+3	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+4	gee	ee	NOUN	_	_	2	xcomp	_	_
+5	ny	ny	CCONJ	_	_	6	cc	_	_
+6	giu	iu	NOUN	_	_	4	conj	_	_
+7	noadyr	noadyr	ADV	_	_	2	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 conj	color:blue
-1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
-2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	ny	ny	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
-4	phaarteeas	paarteeas	NOUN	_	Form=Len	1	xcomp:pred	_	_
-5	jeh	jeh	ADP	_	_	7	case	_	_
-6	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
-7	rheynnag	rheynnag	NOUN	_	_	4	nmod	_	_
-8	theayagh	theayagh	ADJ	_	_	7	amod	_	_
-9	as	as	CCONJ	_	_	10	cc	_	_
-10	arryltagh	arryltagh	ADJ	_	_	8	conj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 conj	color:blue
+1	Cre	cre	PRON	_	_	0	root	_	_
+2	'n	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	aght	aght	NOUN	_	_	1	nsubj	_	_
+4	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	3	acl:relcl	_	_
+5	ou	ou	PRON	_	Number=Sing|Person=2	4	nsubj	_	_
+6	cho	cho	ADV	_	_	7	advmod	_	_
+7	mie	mie	ADJ	_	_	4	xcomp:pred	_	_
+8	as	as	CCONJ	_	_	9	cc	_	_
+9	schleioil	schleioil	ADJ	_	_	7	conj	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

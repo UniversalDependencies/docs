@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-35 nodes (2%) are attached to their parents as `flat`.
+56 nodes (2%) are attached to their parents as `flat`.
 
-35 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.91428571428571.
+56 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.60714285714286.
 
-The following 7 pairs of parts of speech are connected with `flat`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (13; 37% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (11; 31% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (4; 11% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `flat`: <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (28; 50% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt> (15; 27% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (4; 7% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat	color:blue
+1	Марат	Марат	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	LangID=TT
+2	Әхмәтов	Әхмәтов	PROPN	_	Case=Nom|Number=Sing	1	flat	_	CSPoint=Әхмәт§ов|LangID=MIXED[TT§RU]
+3	Туган	туган	ADJ	_	_	4	amod	_	LangID=TT
+4	телләр	тел	NOUN	_	Case=Nom|Number=Plur	5	nmod	_	LangID=TT
+5	елы	ел	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nmod	_	LangID=TT
+6	кысаларында	кыса	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	9	obl	_	LangID=TT
+7	матур	матур	ADJ	_	_	8	amod	_	LangID=TT
+8	эшләргә	эш	NOUN	_	Case=Dat|Number=Plur	9	obl	_	LangID=TT
+9	өндәде	өндә	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
+
+~~~
 
 
 ~~~ conllu
@@ -38,26 +58,6 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 14	соң	соң	ADP	_	_	13	case	_	LangID=TT
 15	әйтте	әйт	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	LangID=OTHER
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat	color:blue
-1	Марат	Марат	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	LangID=TT
-2	Әхмәтов	Әхмәтов	PROPN	_	Case=Nom|Number=Sing	1	flat	_	CSPoint=Әхмәт§ов|LangID=MIXED[TT§RU]
-3	Туган	туган	ADJ	_	_	4	amod	_	LangID=TT
-4	телләр	тел	NOUN	_	Case=Nom|Number=Plur	5	nmod	_	LangID=TT
-5	елы	ел	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nmod	_	LangID=TT
-6	кысаларында	кыса	NOUN	_	Case=Loc|Number=Plur|Person[psor]=3	9	obl	_	LangID=TT
-7	матур	матур	ADJ	_	_	8	amod	_	LangID=TT
-8	эшләргә	эш	NOUN	_	Case=Dat|Number=Plur	9	obl	_	LangID=TT
-9	өндәде	өндә	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
 
 ~~~
 

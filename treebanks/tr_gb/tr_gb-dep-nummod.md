@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nummod	color:blue
-1	Ahmet’te	Ahmet	PROPN	_	Case=Loc|Number=Sing	6	nmod	_	_
+1	Ahmet’te	Ahmet	PROPN	_	Case=Loc|Number=Sing	6	obl	_	_
 2	de	de	ADV	_	_	1	advmod:emph	_	_
 3	bunlardan	bu	PRON	_	Case=Abl|Number=Plur|PronType=Dem	5	nmod:part	_	_
 4	bir	bir	NUM	_	NumType=Card	5	nummod	_	_

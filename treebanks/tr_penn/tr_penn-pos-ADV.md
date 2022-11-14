@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>olarak</em> (<tt><a href="tr_penn-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.325503 (the average of all parts of speech is 2.011905).
+The form / lemma ratio of `ADV` is 1.325503 (the average of all parts of speech is 2.011961).
 
 The 1st highest number of forms (13) was observed with the lemma “et”: <em>edemeyince, ederek, ederken, edilip, edilmeden, edince, edip, ediyor, etmeden, etmedikçe, etmeksizin, ettikçe, ettirerek</em>.
 

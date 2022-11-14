@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Count` are language-specific.
 It occurs with 4 different values: `Count`, `Dual`, `Plur`, `Sing`.
 
-12807 tokens (47%) have a non-empty value of `Number`.
-8865 types (78%) occur at least once with a non-empty value of `Number`.
-3470 lemmas (74%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (4707; 17% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2672; 10% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2294; 8% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1004; 4% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (880; 3% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (693; 3% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (354; 1% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (203; 1% instances).
+12848 tokens (47%) have a non-empty value of `Number`.
+8889 types (78%) occur at least once with a non-empty value of `Number`.
+3483 lemmas (74%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (4719; 17% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2683; 10% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2300; 8% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1011; 4% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (882; 3% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (693; 3% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (357; 1% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (203; 1% instances).
 
 ### `NOUN`
 
-4707 <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
+4719 <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Count` (376; 8% of non-empty `Number`): <em>грв҃нѣ, гривьнѣ, кнѣ, кꙋници, гривене, кад, грвне, гривне, гривни, гривнь</em>
 * `Dual` (25; 1% of non-empty `Number`): <em>(бьрковьс)ка, [к]руж[ивѣ, бьрькъвьскѹ, г)осподина, гривен[е], гривна<lbr/>ма, гривнѣ, гривьнѹ, же<lbr/>-[ебе]цѧ, икѹнокѹ</em>
-* `Plur` (929; 20% of non-empty `Number`): <em>кѹно, кѹнъ, гривьнъ, гривено, блъ, кони, гривьно, кно, грв҃нъ, деже</em>
-* `Sing` (3377; 72% of non-empty `Number`): <em>ржи, поклонъ, гн҃е, поклоно, соли, покланѧние, грамота, жита, конь, рожи</em>
+* `Plur` (931; 20% of non-empty `Number`): <em>кѹно, кѹнъ, гривьнъ, гривено, блъ, кони, гривьно, кно, грв҃нъ, деже</em>
+* `Sing` (3387; 72% of non-empty `Number`): <em>ржи, поклонъ, гн҃е, поклоно, соли, покланѧние, грамота, жита, конь, рожи</em>
 * `EMPTY` (146): <em>(кѹ)не, [к], гривьнѣ, грив…, дитьи, коробьи, (б)ерекове(ск)-, (бе)<lbr/>рковеска, (бл҃)гослв(лениѥ), (бьр)ковьскь</em>
 
 <table>
@@ -39,14 +39,14 @@ The feature is used with 8 part-of-speech tags: <tt><a href="orv_birchbark-pos-N
 
 ### `PROPN`
 
-2672 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (97% of all `PROPN` tokens) have a non-empty value of `Number`.
+2683 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (97% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (2257; 84%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2160; 81%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (2268; 85%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2171; 81%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (87; 3% of non-empty `Number`): <em>кшетахъ, мълъвотицѣхъ, озеревахъ, шидовицихъ, (д)[орож]иньжичь, [п]елем<lbr/>чѧхъ, алюѥвиць, братиловиць, бриханици, вавоцо</em>
-* `Sing` (2585; 97% of non-empty `Number`): <em>ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</em>
+* `Sing` (2596; 97% of non-empty `Number`): <em>ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</em>
 * `EMPTY` (81): <em>в…, ж…, ли…, мароѳу, м…, са…, (к)оромилице, (…)турки(нѣ), -------, -осогорꙋ</em>
 
 <table>
@@ -55,20 +55,20 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>лѹках[о]</em></td><td><em>лѹкахъ</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (1382) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (1387) occur only with one value of `Number`.
 
 ### `VERB`
 
-2294 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
+2300 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2062; 90%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1547; 67%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1482; 65%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1439; 63%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2068; 90%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1552; 67%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1484; 65%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1441; 63%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Dual` (37; 2% of non-empty `Number`): <em>торговала, (исправит-), [б]ерита, [в]ъзѧла, [мъ](л)[ви]та, ведаета, водаита, восол[и]та, въдаита, вь]з[л]а</em>
 * `Plur` (365; 16% of non-empty `Number`): <em>взѧлѣ, бѹдѹ, послали, пришли, хотѧ, били, бью, взѧли, даите, дали</em>
-* `Sing` (1892; 82% of non-empty `Number`): <em>даи, далъ, возми, шло, възьми, пришли, посли, присъли, дале, иди</em>
-* `EMPTY` (287): <em>дати, нѣ, ѧти, взѧти, надоби, возѧти, дать, ити, надобе, нѣту</em>
+* `Sing` (1898; 83% of non-empty `Number`): <em>даи, далъ, возми, шло, възьми, пришли, посли, присъли, възѧле, дале</em>
+* `EMPTY` (289): <em>дати, нѣ, ѧти, взѧти, надоби, возѧти, възѧти, дать, ити, надобе</em>
 
 <table>
   <tr><th>Paradigm <i>взѧти</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -93,15 +93,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-1004 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Number`.
+1011 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1002; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (862; 86%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (798; 79%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1007; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (867; 86%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (805; 80%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Dual` (12; 1% of non-empty `Number`): <em>ва, (вꙑ, в[а]ю, ва:ма, вꙑ, на, нама, нѧ</em>
-* `Plur` (126; 13% of non-empty `Number`): <em>намъ, насъ, вꙑ, вамъ, вамо, мꙑ, васо, васъ, имъ, намо</em>
-* `Sing` (866; 86% of non-empty `Number`): <em>ми, тꙑ, ти, ѧ, мене, тобѣ, мнѣ, ѧзъ, мѧ, тѧ</em>
+* `Plur` (126; 12% of non-empty `Number`): <em>намъ, насъ, вꙑ, вамъ, вамо, мꙑ, васо, васъ, имъ, намо</em>
+* `Sing` (873; 86% of non-empty `Number`): <em>ми, тꙑ, ти, ѧ, мене, тобѣ, мнѣ, ѧзъ, мѧ, тѧ</em>
 * `EMPTY` (254): <em>сѧ, что, цто, собѣ, цето, се, себе, цо, кого, себѣ</em>
 
 <table>
@@ -126,16 +126,16 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADJ`
 
-880 <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> tokens (94% of all `ADJ` tokens) have a non-empty value of `Number`.
+882 <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> tokens (94% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (636; 72%), <tt><a href="orv_birchbark-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (588; 67%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (638; 72%), <tt><a href="orv_birchbark-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (590; 67%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Count` (9; 1% of non-empty `Number`): <em>бѣла, вецѣрашенеи, воислали, къромьнье, недьланꙑ, просо<lbr/>лни, сидърови, цереленаѧ, шестокрї<lbr/>ленаѧ</em>
 * `Dual` (11; 1% of non-empty `Number`): <em>б]ол[ъ]шии, виновата, ладьнѣ, лѹ<lbr/>боцеве, обои, пълънѣ, сморочьва, стова, сторова, сторова{а}</em>
-* `Plur` (151; 17% of non-empty `Number`): <em>коневꙑхъ, лживꙑѧ, лоньскиѥ, страднꙑх, турабьѥвꙑх, (до)ро[г]а[ѧ], (ко)невꙑхъ, (л)юдними, (с)тар[ѣ]шимъ, (с)траднꙑх</em>
-* `Sing` (709; 81% of non-empty `Number`): <em>добро, проста, велика, ст҃ѣ, гнѣд, добра, здорово, ст҃го, ѡстровескои, бж҃и</em>
+* `Plur` (152; 17% of non-empty `Number`): <em>коневꙑхъ, лживꙑѧ, лоньскиѥ, страднꙑх, турабьѥвꙑх, (до)ро[г]а[ѧ], (ко)невꙑхъ, (л)юдними, (с)тар[ѣ]шимъ, (с)траднꙑх</em>
+* `Sing` (710; 80% of non-empty `Number`): <em>добро, проста, велика, ст҃ѣ, гнѣд, добра, здорово, ст҃го, ѡстровескои, бж҃и</em>
 * `EMPTY` (58): <em>трьтиѧ, десѧтаꙗ, пѧть, семѣ, (д)митрову, (св)[об]однꙑхо, :ѕ҃:, [д]рѹ[г]…, [дь]в[ѧ]т[ь], [д҃:]</em>
 
 <table>
@@ -145,7 +145,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>сторо<lbr/>ва</em></td><td></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `ADJ`. 91% lemmas (437) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 91% lemmas (438) occur only with one value of `Number`.
 
 ### `DET`
 
@@ -182,15 +182,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `AUX`
 
-354 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Number`.
+357 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (354; 100%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (326; 92%), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (318; 90%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (281; 79%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (357; 100%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (329; 92%), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (321; 90%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (284; 80%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Dual` (13; 4% of non-empty `Number`): <em>есвѣ, еста, бꙑховь, е<lbr/>свѣ, есве, есевь, ѥсм[о</em>
 * `Plur` (39; 11% of non-empty `Number`): <em>есте, есме, ѥсме, ѥсте, есмꙑ, есть, ѥсми, ѥсмь, (ѥ)[с]ми, ·є·смꙑ</em>
-* `Sing` (302; 85% of non-empty `Number`): <em>еси, ѥси, есмь, ѥсмь, есть, есемо, бꙑ, бꙑло, бꙑлъ, есте</em>
+* `Sing` (305; 85% of non-empty `Number`): <em>еси, ѥси, есмь, ѥсмь, есть, есемо, бꙑ, бꙑло, бꙑлъ, есте</em>
 * `EMPTY` (18): <em>бꙑ, бъ, б(у)[д](е, б[уд]…, би, бѹд…, ес]--, есем-, есо<lbr/>(мо</em>
 
 <table>
@@ -241,7 +241,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 * `Dual` (8; 4% of non-empty `Number`): <em>дьсѧть, в҃е, десѧтьма, дъвои, дьсѧт…</em>
 * `Plur` (19; 9% of non-empty `Number`): <em>двои, десѧте, десѧтъ, дьсѧ, дьсѧто, [д]-сѧтъ, дво<lbr/>и, двое, десѧ, десѧто</em>
 * `Sing` (176; 87% of non-empty `Number`): <em>поло, полъ, пло, полѹ, десѧте, десѧть, пол, (п)олъ, двоѥ, одинои</em>
-* `EMPTY` (1055): <em>·в҃·, три, ·г҃·, :в҃:, :в:, ·г·, в҃, ·ӏ҃·, г҃, :г҃:</em>
+* `EMPTY` (1058): <em>·в҃·, три, ·г҃·, :в҃:, :в:, ·г·, в҃, ·ӏ҃·, г҃, :г҃:</em>
 
 <table>
   <tr><th>Paradigm <i>десѧть</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -257,14 +257,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>PROPN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> PROPN</tt> (487; 92%),
+<tt>PROPN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> PROPN</tt> (490; 92%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-obj.html">obj</a></tt>]--> NOUN</tt> (423; 52%),
 <tt>NOUN --[<tt><a href="orv_birchbark-dep-amod.html">amod</a></tt>]--> ADJ</tt> (403; 94%),
 <tt>NOUN --[<tt><a href="orv_birchbark-dep-det.html">det</a></tt>]--> DET</tt> (341; 96%),
 <tt>NOUN --[<tt><a href="orv_birchbark-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (298; 92%),
-<tt>NOUN --[<tt><a href="orv_birchbark-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (296; 55%),
-<tt>NOUN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> NOUN</tt> (289; 54%),
+<tt>NOUN --[<tt><a href="orv_birchbark-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (297; 55%),
+<tt>NOUN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> NOUN</tt> (290; 54%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> VERB</tt> (283; 82%),
-<tt>VERB --[<tt><a href="orv_birchbark-dep-obl.html">obl</a></tt>]--> NOUN</tt> (254; 63%),
-<tt>VERB --[<tt><a href="orv_birchbark-dep-aux.html">aux</a></tt>]--> AUX</tt> (239; 93%).
+<tt>VERB --[<tt><a href="orv_birchbark-dep-obl.html">obl</a></tt>]--> NOUN</tt> (255; 63%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-aux.html">aux</a></tt>]--> AUX</tt> (242; 93%).
 

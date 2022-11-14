@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_Italian-PoSTWITA](https://github.com/UniversalDependencies/UD_Italian-PoSTWITA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -50,7 +50,7 @@ PoSTWITA-UD is a collection of Italian tweets annotated in Universal Dependencie
 
 
 PoSTWITA-UD has been created by enriching the dataset used for the EVALITA 2016 task of Part-of-Speech tagging of Social Media (see (Bosco et al. 2016)).
-The original corpus consists of 6,438 tweets of the development set (114,967 tokens) and 300 tweets of the test set (4,759 tokens), annotated at PoS level only.
+The original corpus consists of 6,438 tweets of the development set (114,967 tokens) and 300 tweets of the test set (4,759 tokens), annotated at POS level only.
 The conversion and syntactic annotation process was carried out through alternating steps of automatic scripting and manual revision, and finally with some out-of-domain parsing experiments. Parsing results also underwent a manual revision by two independent annotators.
 
 **New since v2.3**: In order to meet the requirements of the EU General Data Protection Regulation (GDPR), entered into force on May 2018, the resource content has been pseudonymized, by substituting original tweet IDs and user names.
@@ -69,21 +69,21 @@ The treebank development has also been possible thanks to the contribution of Fa
 
 ## Features
 
-[Clitic](it_postwita-feat-Clitic.html) – [Definite](it_postwita-feat-Definite.html) – [Degree](it_postwita-feat-Degree.html) – [Gender](it_postwita-feat-Gender.html) – [Mood](it_postwita-feat-Mood.html) – [Number](it_postwita-feat-Number.html) – [NumType](it_postwita-feat-NumType.html) – [Person](it_postwita-feat-Person.html) – [Poss](it_postwita-feat-Poss.html) – [PronType](it_postwita-feat-PronType.html) – [Tense](it_postwita-feat-Tense.html) – [VerbForm](it_postwita-feat-VerbForm.html)
+[Clitic](it_postwita-feat-Clitic.html) – [Definite](it_postwita-feat-Definite.html) – [Degree](it_postwita-feat-Degree.html) – [Foreign](it_postwita-feat-Foreign.html) – [Gender](it_postwita-feat-Gender.html) – [Mood](it_postwita-feat-Mood.html) – [Number](it_postwita-feat-Number.html) – [NumType](it_postwita-feat-NumType.html) – [Person](it_postwita-feat-Person.html) – [Poss](it_postwita-feat-Poss.html) – [PronType](it_postwita-feat-PronType.html) – [Tense](it_postwita-feat-Tense.html) – [Typo](it_postwita-feat-Typo.html) – [VerbForm](it_postwita-feat-VerbForm.html)
 
 ## Relations
 
-[acl](it_postwita-dep-acl.html) – [acl:relcl](it_postwita-dep-acl-relcl.html) – [advcl](it_postwita-dep-advcl.html) – [advmod](it_postwita-dep-advmod.html) – [amod](it_postwita-dep-amod.html) – [appos](it_postwita-dep-appos.html) – [aux](it_postwita-dep-aux.html) – [aux:pass](it_postwita-dep-aux-pass.html) – [case](it_postwita-dep-case.html) – [cc](it_postwita-dep-cc.html) – [ccomp](it_postwita-dep-ccomp.html) – [compound](it_postwita-dep-compound.html) – [conj](it_postwita-dep-conj.html) – [cop](it_postwita-dep-cop.html) – [csubj](it_postwita-dep-csubj.html) – [dep](it_postwita-dep-dep.html) – [det](it_postwita-dep-det.html) – [det:poss](it_postwita-dep-det-poss.html) – [det:predet](it_postwita-dep-det-predet.html) – [discourse](it_postwita-dep-discourse.html) – [discourse:emo](it_postwita-dep-discourse-emo.html) – [dislocated](it_postwita-dep-dislocated.html) – [expl](it_postwita-dep-expl.html) – [expl:impers](it_postwita-dep-expl-impers.html) – [expl:pass](it_postwita-dep-expl-pass.html) – [fixed](it_postwita-dep-fixed.html) – [flat](it_postwita-dep-flat.html) – [flat:foreign](it_postwita-dep-flat-foreign.html) – [flat:name](it_postwita-dep-flat-name.html) – [goeswith](it_postwita-dep-goeswith.html) – [iobj](it_postwita-dep-iobj.html) – [list](it_postwita-dep-list.html) – [mark](it_postwita-dep-mark.html) – [nmod](it_postwita-dep-nmod.html) – [nsubj](it_postwita-dep-nsubj.html) – [nsubj:pass](it_postwita-dep-nsubj-pass.html) – [nummod](it_postwita-dep-nummod.html) – [obj](it_postwita-dep-obj.html) – [obl](it_postwita-dep-obl.html) – [obl:agent](it_postwita-dep-obl-agent.html) – [orphan](it_postwita-dep-orphan.html) – [parataxis](it_postwita-dep-parataxis.html) – [parataxis:appos](it_postwita-dep-parataxis-appos.html) – [parataxis:discourse](it_postwita-dep-parataxis-discourse.html) – [parataxis:hashtag](it_postwita-dep-parataxis-hashtag.html) – [parataxis:insert](it_postwita-dep-parataxis-insert.html) – [parataxis:nsubj](it_postwita-dep-parataxis-nsubj.html) – [parataxis:obj](it_postwita-dep-parataxis-obj.html) – [punct](it_postwita-dep-punct.html) – [root](it_postwita-dep-root.html) – [vocative](it_postwita-dep-vocative.html) – [vocative:mention](it_postwita-dep-vocative-mention.html) – [xcomp](it_postwita-dep-xcomp.html)
+[acl](it_postwita-dep-acl.html) – [acl:relcl](it_postwita-dep-acl-relcl.html) – [advcl](it_postwita-dep-advcl.html) – [advmod](it_postwita-dep-advmod.html) – [amod](it_postwita-dep-amod.html) – [appos](it_postwita-dep-appos.html) – [aux](it_postwita-dep-aux.html) – [aux:pass](it_postwita-dep-aux-pass.html) – [case](it_postwita-dep-case.html) – [cc](it_postwita-dep-cc.html) – [ccomp](it_postwita-dep-ccomp.html) – [compound](it_postwita-dep-compound.html) – [conj](it_postwita-dep-conj.html) – [cop](it_postwita-dep-cop.html) – [csubj](it_postwita-dep-csubj.html) – [dep](it_postwita-dep-dep.html) – [det](it_postwita-dep-det.html) – [det:poss](it_postwita-dep-det-poss.html) – [det:predet](it_postwita-dep-det-predet.html) – [discourse](it_postwita-dep-discourse.html) – [dislocated](it_postwita-dep-dislocated.html) – [expl](it_postwita-dep-expl.html) – [expl:impers](it_postwita-dep-expl-impers.html) – [expl:pass](it_postwita-dep-expl-pass.html) – [fixed](it_postwita-dep-fixed.html) – [flat](it_postwita-dep-flat.html) – [flat:foreign](it_postwita-dep-flat-foreign.html) – [flat:name](it_postwita-dep-flat-name.html) – [goeswith](it_postwita-dep-goeswith.html) – [iobj](it_postwita-dep-iobj.html) – [list](it_postwita-dep-list.html) – [mark](it_postwita-dep-mark.html) – [nmod](it_postwita-dep-nmod.html) – [nsubj](it_postwita-dep-nsubj.html) – [nsubj:outer](it_postwita-dep-nsubj-outer.html) – [nsubj:pass](it_postwita-dep-nsubj-pass.html) – [nummod](it_postwita-dep-nummod.html) – [obj](it_postwita-dep-obj.html) – [obl](it_postwita-dep-obl.html) – [obl:agent](it_postwita-dep-obl-agent.html) – [orphan](it_postwita-dep-orphan.html) – [parataxis](it_postwita-dep-parataxis.html) – [parataxis:appos](it_postwita-dep-parataxis-appos.html) – [parataxis:discourse](it_postwita-dep-parataxis-discourse.html) – [parataxis:hashtag](it_postwita-dep-parataxis-hashtag.html) – [parataxis:insert](it_postwita-dep-parataxis-insert.html) – [parataxis:nsubj](it_postwita-dep-parataxis-nsubj.html) – [parataxis:obj](it_postwita-dep-parataxis-obj.html) – [punct](it_postwita-dep-punct.html) – [reparandum](it_postwita-dep-reparandum.html) – [root](it_postwita-dep-root.html) – [vocative](it_postwita-dep-vocative.html) – [xcomp](it_postwita-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 6712 sentences, 119342 tokens and 124523 syntactic words.</li>
+<li>This corpus contains 6712 sentences, 119346 tokens and 124527 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 13279 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 13284 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -91,7 +91,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 </ul>
 
 <ul>
-<li>This corpus contains 4116 types of words that contain both letters and punctuation. Examples: @user, l', #grillo, #monti, @user1, @user2, #governo, e', c', #serviziopubblico, @user3, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, #mario, #politica, @user4, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, #bersani, #rimontiamo, #pdl, @user5, B., #fullmonti, #bossi, c:, #rt, #crisi, #m5stour, #news, #roma, #fatepresto, #liberalizzazioni, #ballarò, #movimento5stelle, #antipolitica, #cinemaInChiesa, #opencamera, #postofisso</li>
+<li>This corpus contains 4115 types of words that contain both letters and punctuation. Examples: @user, l', #grillo, #monti, @user1, @user2, #governo, e', c', #serviziopubblico, @user3, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, #mario, #politica, @user4, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, #bersani, #rimontiamo, #pdl, @user5, B., #fullmonti, #bossi, c:, #rt, #crisi, #m5stour, #news, #roma, #fatepresto, #liberalizzazioni, #ballarò, #movimento5stelle, #antipolitica, #cinemaInChiesa, #opencamera, #postofisso</li>
 </ul>
 
 <ul>
@@ -112,11 +112,11 @@ The treebank development has also been possible thanks to the contribution of Fa
 </ul>
 
 <ul>
-<li>This corpus contains 70 lemmas tagged as pronouns (PRON): alcuno, altro, ce, che, chi, chiunque, ché, ci, ciò, coloro, cosa, costui, cui, c’, egli, entrambi, esso, gli, il, io, la, le, lei, li, lo, loro, lui, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ognuno, parecchio, poco, qual, qualche, qualcosa, qualcosaltro, qualcuno, quale, quando, quanto, quello, questo, se, si, stesso, suo, sé, tanto, te, terzo, ti, tu, tuo, tutto, una, uni, uno, ve, vi, voi, voialtri, vostro</li>
+<li>This corpus contains 71 lemmas tagged as pronouns (PRON): alcuno, altro, ce, che, chi, chiunque, ché, ci, ciò, coloro, cosa, costui, cui, c’, egli, entrambi, esso, gli, i, il, io, la, le, lei, li, lo, loro, lui, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ognuno, parecchio, poco, qual, qualche, qualcosa, qualcosaltro, qualcuno, quale, quando, quanto, quello, questo, se, si, stesso, suo, sé, tanto, te, terzo, ti, tu, tuo, tutto, una, uni, uno, ve, vi, voi, voialtri, vostro</li>
 </ul>
 
 <ul>
-<li>This corpus contains 43 lemmas tagged as determiners (DET): 1, alcuno, altro, certo, che, del, della, di, diverso, il, l', lo, loro, mio, molto, nessuno, niente, nostro, ogni, poco, proprio, qualche, quale, qualsiasi, qualunque, quanto, quello, questo, simile, stesso, sto, suo, tale, tantissimo, tanto, troppo, tuo, tutto, un, uno, vario, vostro, ‎lo</li>
+<li>This corpus contains 45 lemmas tagged as determiners (DET): 1, alcuno, altro, certo, che, del, della, di, diverso, er, il, l', lo, loro, mio, molto, nessuno, niente, nostro, ogni, poco, proprio, qualche, quale, qualsiasi, qualunque, quanto, que, quello, questo, simile, stesso, sto, suo, tale, tantissimo, tanto, troppo, tuo, tutto, un, uno, vario, vostro, ‎lo</li>
 </ul>
 
 <ul>
@@ -558,6 +558,40 @@ The treebank development has also been possible thanks to the contribution of Fa
   </li>
 </ul>
 
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: Same</li>
+          <li>NOUN: Mistakes, project</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: ideal</li>
+          <li>ADP: dii</li>
+          <li>ADV: sta, gia, no</li>
+          <li>AUX-Fin: e</li>
+          <li>INTJ: daii</li>
+          <li>NOUN: cazo, meet, po, provvidemento</li>
+          <li>PRON: c'</li>
+          <li>SCONJ: per</li>
+          <li>VERB-Fin: ombottivo, voleve, volio</li>
+          <li>VERB-Part: cosnigliato</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -577,10 +611,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1169)</li>
+      <li>VERB-Fin--NOUN (1166)</li>
       <li>VERB-Fin--NOUN-ADP(di) (4)</li>
       <li>VERB-Fin--NOUN-ADP(senza) (1)</li>
-      <li>VERB-Fin--PRON (912)</li>
+      <li>VERB-Fin--PRON (908)</li>
       <li>VERB-Fin--PRON-ADP(a) (1)</li>
       <li>VERB-Fin--PRON-ADP(in) (1)</li>
       <li>VERB-Ger--NOUN (28)</li>
@@ -590,7 +624,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-ADP(per) (1)</li>
       <li>VERB-Part--NOUN (177)</li>
       <li>VERB-Part--NOUN-ADP(oltre) (1)</li>
-      <li>VERB-Part--PRON (151)</li>
+      <li>VERB-Part--PRON (150)</li>
     </ul>
   </li>
 </ul>
@@ -598,18 +632,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1670)</li>
+      <li>VERB-Fin--NOUN (1674)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN-ADP(di) (3)</li>
       <li>VERB-Fin--NOUN-ADP(su) (1)</li>
-      <li>VERB-Fin--PRON (949)</li>
+      <li>VERB-Fin--PRON (955)</li>
       <li>VERB-Fin--PRON-ADP(contro) (1)</li>
       <li>VERB-Ger--NOUN (76)</li>
       <li>VERB-Ger--PRON (28)</li>
-      <li>VERB-Inf--NOUN (815)</li>
-      <li>VERB-Inf--PRON (342)</li>
+      <li>VERB-Inf--NOUN (816)</li>
+      <li>VERB-Inf--PRON (343)</li>
       <li>VERB-Inf--PRON-ADP(a) (1)</li>
-      <li>VERB-Part--NOUN (350)</li>
+      <li>VERB-Part--NOUN (351)</li>
       <li>VERB-Part--PRON (151)</li>
     </ul>
   </li>
@@ -639,6 +673,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>discourse:emo</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>parataxis:appos</a>, <a>parataxis:discourse</a>, <a>parataxis:hashtag</a>, <a>parataxis:insert</a>, <a>parataxis:nsubj</a>, <a>parataxis:obj</a>, <a>vocative:mention</a></li>
-<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
+<li>This corpus uses 17 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>parataxis:appos</a>, <a>parataxis:discourse</a>, <a>parataxis:hashtag</a>, <a>parataxis:insert</a>, <a>parataxis:nsubj</a>, <a>parataxis:obj</a></li>
+<li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
 </ul>

@@ -12,7 +12,7 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 13613 tokens (47%) have a non-empty value of `Gender`.
 6697 types (67%) occur at least once with a non-empty value of `Gender`.
 3541 lemmas (76%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 6 part-of-speech tags: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (7035; 24% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2773; 10% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (2457; 8% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1266; 4% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (81; 0% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (7035; 24% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2773; 10% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (2457; 8% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1263; 4% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (81; 0% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>maiores</em></td><td><em>maiora</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>magnum</em></td><td><em>magnam, maxumam</em></td><td><em>magnum</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>magnos</em></td><td><em>magnas, maxumas</em></td><td><em>magna</em></td></tr>
-  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Maximo</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Abs</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Maximo</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>magnis</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>maioris</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>maiorum</em></td><td></td><td></td></tr>
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>magnorum</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>maior</em></td><td><em>maior</em></td><td><em>maius</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>maiores</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>maximus</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Abs</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>maximus</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>magnus</em></td><td><em>magna, maxuma</em></td><td><em>magnum, maxumum</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>magnae</em></td><td><em>magna</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>magne, maxime</em></td><td></td><td></td></tr>
@@ -107,16 +107,16 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `VERB`
 
-1266 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (21% of all `VERB` tokens) have a non-empty value of `Gender`.
+1263 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1266; 100%), <tt><a href="la_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1266; 100%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1197; 95%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (849; 67%), <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (824; 65%), <tt><a href="la_perseus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (824; 65%), <tt><a href="la_perseus-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (800; 63%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1263; 100%), <tt><a href="la_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1263; 100%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1194; 95%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (847; 67%), <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (824; 65%), <tt><a href="la_perseus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (824; 65%), <tt><a href="la_perseus-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (800; 63%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (379; 30% of non-empty `Gender`): <em>dicentem, ardens, contenta, data, diversa, mota, visa, advocata, cognita, composita</em>
+* `Fem` (377; 30% of non-empty `Gender`): <em>dicentem, ardens, contenta, data, diversa, mota, visa, advocata, cognita, composita</em>
 * `Masc` (654; 52% of non-empty `Gender`): <em>dicentes, conscripti, dicens, sedentem, amantis, natus, dicentem, existumans, interfecto, locutus</em>
-* `Neut` (233; 18% of non-empty `Gender`): <em>facta, scriptum, falso, dicens, faciendum, facto, factum, interposito, iussa, mandata</em>
-* `EMPTY` (4898): <em>est, esse, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit</em>
+* `Neut` (232; 18% of non-empty `Gender`): <em>facta, scriptum, falso, dicens, faciendum, facto, factum, interposito, iussa, mandata</em>
+* `EMPTY` (4534): <em>habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, habere, dicere</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -153,6 +153,25 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>unus</em></td><td><em>una</em></td><td></td></tr>
 </table>
 
+### `AUX`
+
+3 <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="la_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="la_perseus-feat-Tense.html">Tense</a></tt><tt>=Fut</tt> (3; 100%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3; 100%), <tt><a href="la_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3; 100%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
+
+`AUX` tokens may have the following values of `Gender`:
+
+* `Fem` (2; 67% of non-empty `Gender`): <em>futura, futuram</em>
+* `Neut` (1; 33% of non-empty `Gender`): <em>futura</em>
+* `EMPTY` (364): <em>est, esse, erat, fuit, sunt, sit, esset, erit, es, fuerunt</em>
+
+<table>
+  <tr><th>Paradigm <i>sum</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>futuram</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>futura</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>futura</em></td></tr>
+</table>
+
 ### `PROPN`
 
 1 <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Gender`.
@@ -166,13 +185,13 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1732; 97%),
+<tt>NOUN --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1731; 97%),
 <tt>NOUN --[<tt><a href="la_perseus-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (524; 85%),
 <tt>NOUN --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (244; 54%),
 <tt>NOUN --[<tt><a href="la_perseus-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (211; 92%),
 <tt>NOUN --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> VERB</tt> (168; 94%),
 <tt>ADJ --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (73; 96%),
-<tt>ADJ --[<tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (67; 96%),
+<tt>ADJ --[<tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (68; 94%),
 <tt>PRON --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59; 95%),
 <tt>ADJ --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (53; 93%),
 <tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (45; 71%).

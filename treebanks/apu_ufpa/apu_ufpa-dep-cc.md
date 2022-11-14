@@ -8,28 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (1%) are attached to their parents as `cc`.
+10 nodes (1%) are attached to their parents as `cc`.
 
-9 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.33333333333333.
+10 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.2.
 
-The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (4; 44% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (3; 33% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 11% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 cc	color:blue
-1	Txamary	txamary	CCONJ	XPOS=AUX-FRUSTR	Number[obj]=Sing|Person[obj]=3	2	cc	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
-2	aapanhika	awa	VERB	XPOS=existir-IPFTV-PRED	_	0	root	_	gloss[pt]=existir-IPFTV-PRED
-3	kaiãpukury	kaiãpuku	DET	XPOS=muito-DISTR-M	_	4	det	_	gloss[pt]=muito-DISTR-M
-4	arẽka	herẽka	NOUN	N	Gender=Masc|Gender[psor]=Masc	5	nsubj	_	gloss[pt]=3SG.M-sangue.de
-5	awa	awa	VERB	XPOS=existir	_	2	conj	_	gloss[pt]=existir|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	2	punct	_	_
-
-~~~
+The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (4; 40% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (4; 40% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 10% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -44,6 +28,22 @@ The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="a
 4	i	i	CCONJ	XPOS=e	_	5	cc	_	gloss[pt]=e
 5	ỹarỹa	ỹarỹa	NOUN	XPOS=bebida	_	3	conj	_	gloss[pt]=bebida|SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 cc	color:blue
+1	Txamary	txamary	CCONJ	XPOS=AUX-FRUSTR	Number[obj]=Sing|Person[obj]=3	2	cc	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
+2	aapanhika	awa	VERB	XPOS=existir-IPFTV-PRED	_	0	root	_	gloss[pt]=existir-IPFTV-PRED
+3	kaiãpukury	kaiãpuku	DET	XPOS=muito-DISTR-M	_	4	det	_	gloss[pt]=muito-DISTR-M
+4	arẽka	herẽka	NOUN	N	Gender=Masc|Gender[psor]=Masc	5	nsubj	_	gloss[pt]=3SG.M-sangue.de
+5	awa	awa	VERB	XPOS=existir	_	2	conj	_	gloss[pt]=existir|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

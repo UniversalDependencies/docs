@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="tr_penn-pos-PUNC
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.083333 (the average of all parts of speech is 2.011905).
+The form / lemma ratio of `PUNCT` is 1.083333 (the average of all parts of speech is 2.011961).
 
 The 1st highest number of forms (4) was observed with the lemma “,”: <em>", '', ,, :</em>.
 

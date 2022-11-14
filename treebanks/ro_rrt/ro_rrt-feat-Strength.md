@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ro_rrt-pos-PRON.htm
 
 7195 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (61% of all `PRON` tokens) have a non-empty value of `Strength`.
 
-The most frequent other feature values with which `PRON` and `Strength` co-occurred: <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7195; 100%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (6042; 84%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5609; 78%), <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5137; 71%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (4872; 68%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4040; 56%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (3936; 55%).
+The most frequent other feature values with which `PRON` and `Strength` co-occurred: <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7195; 100%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (6042; 84%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5609; 78%), <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5138; 71%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (4835; 67%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4040; 56%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (3936; 55%).
 
 `PRON` tokens may have the following values of `Strength`:
 

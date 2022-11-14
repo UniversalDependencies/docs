@@ -1,0 +1,46 @@
+---
+layout: base
+title:  'Statistics of PRON in UD_Chinese-PatentChar'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Chinese-PatentChar: POS Tags: `PRON`
+
+There are 1 `PRON` lemmas (7%), 1 `PRON` types (0%) and 19 `PRON` tokens (1%).
+Out of 15 observed tags, the rank of `PRON` is: 10 in number of lemmas, 15 in number of types and 12 in number of tokens.
+
+The 10 most frequent `PRON` lemmas: _
+
+The 10 most frequent `PRON` types:  其
+
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> 720, <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> 371, <tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> 255, <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> 212, <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> 195, <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> 110, <tt><a href="zh_patentchar-pos-NUM.html">NUM</a></tt> 102, <tt><a href="zh_patentchar-pos-CCONJ.html">CCONJ</a></tt> 54, <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> 49, <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt> 25, <tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt> 22, <tt><a href="zh_patentchar-pos-PRON.html">PRON</a></tt> 19, <tt><a href="zh_patentchar-pos-X.html">X</a></tt> 15, <tt><a href="zh_patentchar-pos-DET.html">DET</a></tt> 8, <tt><a href="zh_patentchar-pos-SCONJ.html">SCONJ</a></tt> 3)
+
+The 10 most frequent ambiguous types:  
+
+
+
+## Morphology
+
+The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 30.466667).
+
+The 1st highest number of forms (1) was observed with the lemma “_”: 其.
+
+`PRON` does not occur with any features.
+
+
+## Relations
+
+`PRON` nodes are attached to their parents using 2 different relations: <tt><a href="zh_patentchar-dep-nmod.html">nmod</a></tt> (18; 95% instances), <tt><a href="zh_patentchar-dep-obj.html">obj</a></tt> (1; 5% instances)
+
+Parents of `PRON` nodes belong to 2 different parts of speech: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (18; 95% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (1; 5% instances)
+
+18 (95%) `PRON` nodes are leaves.
+
+1 (5%) `PRON` nodes have one child.
+
+The highest child degree of a `PRON` node is 1.
+
+Children of `PRON` nodes are attached using 1 different relations: <tt><a href="zh_patentchar-dep-case.html">case</a></tt> (1; 100% instances)
+
+Children of `PRON` nodes belong to 1 different parts of speech: <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (1; 100% instances)
+

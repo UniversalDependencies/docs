@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-aux.html">aux</a></tt>.
 There are also 6 other language-specific subtypes of `aux`: <tt><a href="myv_jr-dep-aux-aspect.html">aux:aspect</a></tt>, <tt><a href="myv_jr-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="myv_jr-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="myv_jr-dep-aux-q.html">aux:q</a></tt>.
 
-8 nodes (0%) are attached to their parents as `aux:opt`.
+10 nodes (0%) are attached to their parents as `aux:opt`.
 
-8 instances of `aux:opt` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25.
+10 instances of `aux:opt` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.1.
 
-The following 2 pairs of parts of speech are connected with `aux:opt`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (6; 75% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 25% instances).
+The following 2 pairs of parts of speech are connected with `aux:opt`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (8; 80% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 20% instances).
 
 
 ~~~ conllu

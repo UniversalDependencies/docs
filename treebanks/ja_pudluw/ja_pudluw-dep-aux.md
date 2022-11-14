@@ -11,9 +11,9 @@ This relation is universal.
 2701 nodes (12%) are attached to their parents as `aux`.
 
 2701 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33395038874491.
+Average distance between parent and child is 1.3346908552388.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (2101; 78% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (380; 14% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (184; 7% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (2100; 78% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (380; 14% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (185; 7% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

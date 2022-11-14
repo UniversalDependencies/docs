@@ -7,26 +7,26 @@ udver: '2'
 ## Treebank Statistics: UD_Tupinamba-TuDeT: POS Tags: `CCONJ`
 
 There are 4 `CCONJ` lemmas (0%), 4 `CCONJ` types (0%) and 6 `CCONJ` tokens (0%).
-Out of 15 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 14 in number of tokens.
+Out of 14 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>kojpo, aʔe, konipo, ʔnaroj</em>
 
 The 10 most frequent `CCONJ` types:  <em>kojpo, aʔe, konipo, narojaj</em>
 
-The 10 most frequent ambiguous lemmas: <em>aʔe</em> (<tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> 21, <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 6, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 5, <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 3, <tt><a href="tpn_tudet-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>aʔe</em> (<tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> 24, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 8, <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 6, <tt><a href="tpn_tudet-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>aʔe</em> (<tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> 18, <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 2, <tt><a href="tpn_tudet-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>aʔe</em>
-  * <tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> 18: <em>Marãpe serekow <b>aʔe</b> takwara meʔeng ire ?</em>
+  * <tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> 18: <em>Marãpe serekow <b>aʔe</b> takwara meʔeŋ ire ?</em>
   * <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 2: <em><b>aʔe</b> ipo maʔe repɨ́ramo ojmoariβeukar ʃeswi , ʃemomwerapane rea , ojaβo</em>
   * <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 2: <em>Aβape <b>aʔe</b> ?</em>
   * <tt><a href="tpn_tudet-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Karaiβa nasetaj , São Sebastião <b>aʔe</b> omonɨk tata sese , imonɨja</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.435484).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.577170).
 
 The 1st highest number of forms (1) was observed with the lemma “aʔe”: <em>aʔe</em>.
 

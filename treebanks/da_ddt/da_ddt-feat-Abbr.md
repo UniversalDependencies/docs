@@ -12,18 +12,29 @@ It occurs with 1 different values: `Yes`.
 32 tokens (0%) have a non-empty value of `Abbr`.
 23 types (0%) occur at least once with a non-empty value of `Abbr`.
 23 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 1 part-of-speech tags: <tt><a href="da_ddt-pos-X.html">X</a></tt> (32; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="da_ddt-pos-X.html">X</a></tt> (31; 0% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `X`
 
-32 <tt><a href="da_ddt-pos-X.html">X</a></tt> tokens (7% of all `X` tokens) have a non-empty value of `Abbr`.
+31 <tt><a href="da_ddt-pos-X.html">X</a></tt> tokens (9% of all `X` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="da_ddt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (32; 100%).
+The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="da_ddt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (31; 100%).
 
 `X` tokens may have the following values of `Abbr`:
 
-* `Yes` (32; 100% of non-empty `Abbr`): <em>fru, km/t., vind., B, cand.-jur., kl, o/m., 4-cyl., E, G</em>
-* `EMPTY` (407): <em>of, MEDARB, en, vivaldi, we, allesammen, are, at, hel, med</em>
+* `Yes` (31; 100% of non-empty `Abbr`): <em>fru, km/t., vind., B, cand.-jur., kl, o/m., E, G, M</em>
+* `EMPTY` (312): <em>of, MEDARB, en, we, are, med, the, vivaldi, Statskundskab/Samfundsfag, aller</em>
 
-`Abbr` seems to be **lexical feature** of `X`. 100% lemmas (23) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `X`. 100% lemmas (22) occur only with one value of `Abbr`.
+
+### `ADV`
+
+1 <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="da_ddt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`ADV` tokens may have the following values of `Abbr`:
+
+* `Yes` (1; 100% of non-empty `Abbr`): <em>4-cyl.</em>
+* `EMPTY` (8069): <em>ikke, så, også, hvor, nu, ud, op, der, ind, meget</em>
 

@@ -12,17 +12,17 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 27028 tokens (14%) have a non-empty value of `Degree`.
 8800 types (23%) occur at least once with a non-empty value of `Degree`.
 4026 lemmas (20%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (16287; 8% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (10684; 5% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (57; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (16286; 8% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (10685; 5% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (57; 0% instances).
 
 ### `ADJ`
 
-16287 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
+16286 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (13925; 85%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12179; 75%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (13924; 85%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12179; 75%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (407; 2% of non-empty `Degree`): <em>лучше, хуже, дешевле, выше, больше, ниже, дороже, старше, ближе, вкуснее</em>
+* `Cmp` (406; 2% of non-empty `Degree`): <em>лучше, хуже, дешевле, выше, больше, ниже, дороже, старше, ближе, вкуснее</em>
 * `Pos` (15620; 96% of non-empty `Degree`): <em>хороший, большой, нужно, отличный, неплохой, хорошая, хорошо, хорошее, вежливый, обычный</em>
 * `Sup` (260; 2% of non-empty `Degree`): <em>лучший, лучших, высшем, лучшая, лучшие, лучшего, лучшее, красивейший, лучшей, лучшем</em>
 * `EMPTY` (598): <em>супер, п., норм, 2, 1, 3, мини, 2020, ст., 12</em>
@@ -54,13 +54,13 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-10684 <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> tokens (98% of all `ADV` tokens) have a non-empty value of `Degree`.
+10685 <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> tokens (98% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (6492; 61%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (6493; 61%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (608; 6% of non-empty `Degree`): <em>раньше, больше, более, скорее, дальше, лучше, далее, чаще, короче, менее</em>
+* `Cmp` (609; 6% of non-empty `Degree`): <em>раньше, больше, более, скорее, дальше, лучше, далее, чаще, короче, менее</em>
 * `Pos` (10068; 94% of non-empty `Degree`): <em>очень, уже, так, как, еще, там, ещё, где, часто, вообще</em>
 * `Sup` (8; 0% of non-empty `Degree`): <em>наиболее, наименее</em>
 * `EMPTY` (174): <em>т., д., к., оч., тд, д, оч, Крч, к, в/м</em>
@@ -87,10 +87,10 @@ The most frequent other feature values with which `NUM` and `Degree` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1122; 86%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (894; 97%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (893; 97%),
 <tt>ADV --[<tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (361; 86%),
 <tt>ADV --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (154; 98%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (38; 70%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (38; 69%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (34; 85%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> ADJ</tt> (28; 88%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (22; 92%),

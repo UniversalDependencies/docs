@@ -19,12 +19,12 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Teresa Paccosi, Alessio Palmero Aprosio, Sara Tonelli.
 
 Repository: [UD_Italian-MarkIT](https://github.com/UniversalDependencies/UD_Italian-MarkIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_markit210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_markit211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY 4.0
 
-Genre: learner-essays
+Genre: grammar-examples
 
 Questions, comments?
 General annotation questions (either Italian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -48,7 +48,7 @@ The MarkIT resource contains around 800 sentences extracted from students' essay
 
 
 
-MarkIT is a treebank of marked constructions in Italian, containing around 800 sentences with dependency annotation.
+MarkIT is a treebank of marked constructions in Italian, containing around 1,300 sentences with dependency annotation.
 First we automatically annotate the sentences using Tint, then a manual fix of the errors is performed on the whole dataset.
 The resource covers seven types of marked constructions plus some ambiguous sentences, whose syntax can be wrongly classified as marked.
 
@@ -69,13 +69,13 @@ The selection, extraction, and annotation of the dataset have been performed by 
 
 ## Relations
 
-[acl](it_markit-dep-acl.html) – [acl:relcl](it_markit-dep-acl-relcl.html) – [advcl](it_markit-dep-advcl.html) – [advmod](it_markit-dep-advmod.html) – [amod](it_markit-dep-amod.html) – [appos](it_markit-dep-appos.html) – [aux](it_markit-dep-aux.html) – [aux:pass](it_markit-dep-aux-pass.html) – [case](it_markit-dep-case.html) – [cc](it_markit-dep-cc.html) – [ccomp](it_markit-dep-ccomp.html) – [compound](it_markit-dep-compound.html) – [conj](it_markit-dep-conj.html) – [cop](it_markit-dep-cop.html) – [csubj](it_markit-dep-csubj.html) – [det](it_markit-dep-det.html) – [det:poss](it_markit-dep-det-poss.html) – [det:predet](it_markit-dep-det-predet.html) – [discourse](it_markit-dep-discourse.html) – [dislocated](it_markit-dep-dislocated.html) – [expl](it_markit-dep-expl.html) – [expl:impers](it_markit-dep-expl-impers.html) – [expl:pass](it_markit-dep-expl-pass.html) – [fixed](it_markit-dep-fixed.html) – [flat](it_markit-dep-flat.html) – [flat:foreign](it_markit-dep-flat-foreign.html) – [flat:name](it_markit-dep-flat-name.html) – [iobj](it_markit-dep-iobj.html) – [mark](it_markit-dep-mark.html) – [nmod](it_markit-dep-nmod.html) – [nsubj](it_markit-dep-nsubj.html) – [nsubj:pass](it_markit-dep-nsubj-pass.html) – [nummod](it_markit-dep-nummod.html) – [obj](it_markit-dep-obj.html) – [obl](it_markit-dep-obl.html) – [obl:agent](it_markit-dep-obl-agent.html) – [orphan](it_markit-dep-orphan.html) – [parataxis](it_markit-dep-parataxis.html) – [punct](it_markit-dep-punct.html) – [root](it_markit-dep-root.html) – [xcomp](it_markit-dep-xcomp.html)
+[acl](it_markit-dep-acl.html) – [acl:relcl](it_markit-dep-acl-relcl.html) – [advcl](it_markit-dep-advcl.html) – [advmod](it_markit-dep-advmod.html) – [amod](it_markit-dep-amod.html) – [appos](it_markit-dep-appos.html) – [aux](it_markit-dep-aux.html) – [aux:pass](it_markit-dep-aux-pass.html) – [case](it_markit-dep-case.html) – [cc](it_markit-dep-cc.html) – [ccomp](it_markit-dep-ccomp.html) – [compound](it_markit-dep-compound.html) – [conj](it_markit-dep-conj.html) – [cop](it_markit-dep-cop.html) – [csubj](it_markit-dep-csubj.html) – [det](it_markit-dep-det.html) – [det:poss](it_markit-dep-det-poss.html) – [det:predet](it_markit-dep-det-predet.html) – [discourse](it_markit-dep-discourse.html) – [dislocated](it_markit-dep-dislocated.html) – [expl](it_markit-dep-expl.html) – [expl:impers](it_markit-dep-expl-impers.html) – [expl:pass](it_markit-dep-expl-pass.html) – [fixed](it_markit-dep-fixed.html) – [flat](it_markit-dep-flat.html) – [flat:foreign](it_markit-dep-flat-foreign.html) – [flat:name](it_markit-dep-flat-name.html) – [iobj](it_markit-dep-iobj.html) – [mark](it_markit-dep-mark.html) – [nmod](it_markit-dep-nmod.html) – [nsubj](it_markit-dep-nsubj.html) – [nsubj:outer](it_markit-dep-nsubj-outer.html) – [nsubj:pass](it_markit-dep-nsubj-pass.html) – [nummod](it_markit-dep-nummod.html) – [obj](it_markit-dep-obj.html) – [obl](it_markit-dep-obl.html) – [obl:agent](it_markit-dep-obl-agent.html) – [orphan](it_markit-dep-orphan.html) – [parataxis](it_markit-dep-parataxis.html) – [punct](it_markit-dep-punct.html) – [root](it_markit-dep-root.html) – [xcomp](it_markit-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1295 sentences, 38360 tokens and 40613 syntactic words.</li>
+<li>This corpus contains 1292 sentences, 38237 tokens and 40488 syntactic words.</li>
 </ul>
 
 <ul>
@@ -91,8 +91,8 @@ The selection, extraction, and annotation of the dataset have been performed by 
 </ul>
 
 <ul>
-<li>This corpus contains 2248 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 239 types of multi-word tokens. Examples: della, del, nel, dell', al, alla, nella, all', dei, delle, nell', dal, dalla, ai, nei, alle, degli, sul, dall', nelle, dello, negli, agli, sulla, dalle, sull', allo, dagli, nello, dai, sulle, farlo, farsi, sugli, col, dallo, focalizzarsi, sentirsi, sui, sullo, sviluppatasi, vederla, attivarsi, aumentarla, avvicinarci, avvicinarsi, considerarla, essendoci, esserlo, giudicarti.</li>
+<li>This corpus contains 2246 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 239 types of multi-word tokens. Examples: della, del, nel, dell', al, alla, nella, all', dei, delle, nell', dal, dalla, ai, nei, alle, degli, sul, dall', nelle, dello, negli, agli, sulla, dalle, sull', allo, dagli, dai, nello, sulle, farlo, farsi, sugli, col, dallo, focalizzarsi, sentirsi, sui, sullo, sviluppatasi, vederla, attivarsi, aumentarla, avvicinarci, avvicinarsi, considerarla, essendoci, esserlo, giudicarti.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -154,7 +154,7 @@ The selection, extraction, and annotation of the dataset have been performed by 
   <li>Inf
   <ul>
     <li>AUX: essere, aver, poter, dover, esser, voler, avere</li>
-    <li>VERB: far, fare, dare, essere, trovare, avere, capire, vivere, raggiungere, dire</li>
+    <li>VERB: far, fare, essere, trovare, dare, avere, capire, vivere, raggiungere, dire</li>
   </ul>
   </li>
 </ul>
@@ -165,7 +165,7 @@ The selection, extraction, and annotation of the dataset have been performed by 
     <li>ADJ: diffuso</li>
     <li>AUX: stata, stato, stati, potuto, state, voluto, potuta</li>
     <li>NOUN: stato</li>
-    <li>VERB: avuto, dato, fatto, visto, stato, creata, fatta, inteso, porta, cercato</li>
+    <li>VERB: avuto, dato, fatto, visto, creata, inteso, stato, fatta, porta, cercato</li>
   </ul>
   </li>
 </ul>
@@ -180,15 +180,15 @@ The selection, extraction, and annotation of the dataset have been performed by 
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: stessa, diverse, prima, moderna, seconda, unica, italiana, umana, vera, nuova</li>
+      <li>ADJ: stessa, diverse, moderna, prima, seconda, unica, italiana, umana, nuova, nuove</li>
       <li>ADP: a</li>
       <li>AUX-Part: stata, state, potuta</li>
       <li>CCONJ: e</li>
       <li>DET: la, le, una, questa, sua, l', nostra, queste, sue, propria</li>
       <li>NOUN: vita, società, persone, scienza, felicità, parte, amicizia, ricerca, storia, filosofia</li>
-      <li>PRON: ci, la, questa, vi, essa, quella, le, mi, qualcosa, ti</li>
-      <li>VERB: creata, fatta, porta, sviluppata, considerata, sentita, vista, avuta, composta, fatte</li>
-      <li>VERB-Part: creata, fatta, porta, sviluppata, considerata, sentita, vista, avuta, composta, fatte</li>
+      <li>PRON: ci, la, questa, vi, essa, quella, le, mi, qualcosa, sé</li>
+      <li>VERB: creata, fatta, porta, sviluppata, considerata, vista, avuta, composta, fatte, sentita</li>
+      <li>VERB-Part: creata, fatta, porta, sviluppata, considerata, vista, avuta, composta, fatte, sentita</li>
     </ul>
   </li>
 </ul>
@@ -200,13 +200,13 @@ The selection, extraction, and annotation of the dataset have been performed by 
       <li>ADJ-Part: diffuso</li>
       <li>ADV: parecchio</li>
       <li>AUX-Part: stato, stati, potuto, voluto</li>
-      <li>DET: il, un, i, questo, gli, lo, suo, questi, ogni, l'</li>
+      <li>DET: il, un, i, gli, questo, lo, suo, questi, ogni, l'</li>
       <li>NOUN: uomo, tempo, esempio, anni, modo, mondo, amico, paese, stato, motivo</li>
       <li>NOUN-Part: stato</li>
       <li>PRON: si, lo, questo, ci, ciò, quello, tutti, altri, lui, tutto</li>
       <li>PROPN: Human, brain, project</li>
       <li>SCONJ: perché</li>
-      <li>VERB-Part: avuto, dato, fatto, visto, stato, inteso, cercato, detto, legati, permesso</li>
+      <li>VERB-Part: avuto, dato, fatto, visto, inteso, stato, cercato, detto, legati, permesso</li>
     </ul>
   </li>
 </ul>
@@ -224,7 +224,7 @@ The selection, extraction, and annotation of the dataset have been performed by 
       <li>AUX-Part: stati, state</li>
       <li>CCONJ: e</li>
       <li>DET: i, le, gli, questi, queste, tutti, dei, molti, sue, alcuni</li>
-      <li>NOUN: persone, anni, cose, stati, uomini, forme, cittadini, giovani, paesi, artisti</li>
+      <li>NOUN: persone, anni, cose, stati, uomini, cittadini, forme, giovani, paesi, artisti</li>
       <li>PRON: ci, noi, cui, vi, tutti, altri, quali, molti, le, li</li>
       <li>VERB: abbiamo, troviamo, sono, hanno, sorpassano, fanno, siano, erano, nascono, pensano</li>
       <li>VERB-Fin: abbiamo, troviamo, sono, hanno, sorpassano, fanno, siano, erano, nascono, pensano</li>
@@ -236,7 +236,7 @@ The selection, extraction, and annotation of the dataset have been performed by 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: stesso, grande, importante, possibile, primo, stessa, umano, difficile, piccolo, prima</li>
+      <li>ADJ: stesso, grande, importante, possibile, primo, stessa, umano, difficile, piccolo, moderna</li>
       <li>ADJ-Part: diffuso</li>
       <li>ADP: a</li>
       <li>ADV: parecchio</li>
@@ -246,12 +246,12 @@ The selection, extraction, and annotation of the dataset have been performed by 
       <li>DET: la, il, un, una, l', questo, lo, questa, suo, sua</li>
       <li>NOUN: vita, uomo, tempo, società, scienza, felicità, esempio, parte, modo, amicizia</li>
       <li>NOUN-Part: stato</li>
-      <li>PRON: si, lo, questo, ciò, la, quello, quale, questa, essa, quella</li>
+      <li>PRON: si, lo, questo, ciò, la, quello, quale, questa, essa, chi</li>
       <li>PROPN: Human, brain, project</li>
       <li>SCONJ: perché</li>
       <li>VERB: è, ha, fa, porta, dice, avuto, rende, sta, era, trova</li>
       <li>VERB-Fin: è, ha, fa, dice, rende, sta, era, trova, porta, spinge</li>
-      <li>VERB-Part: avuto, dato, fatto, visto, stato, creata, fatta, inteso, porta, cercato</li>
+      <li>VERB-Part: avuto, dato, fatto, visto, creata, inteso, stato, fatta, porta, cercato</li>
     </ul>
   </li>
 </ul>
@@ -274,7 +274,7 @@ The selection, extraction, and annotation of the dataset have been performed by 
 <ul>
   <li>Ind
     <ul>
-      <li>DET: un, una, uno, dei, delle, degli, un', di, del, della</li>
+      <li>DET: un, una, uno, dei, delle, degli, un', del, della, di</li>
     </ul>
   </li>
 </ul>
@@ -358,7 +358,7 @@ The selection, extraction, and annotation of the dataset have been performed by 
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: sarà, potrà, saranno, verrà, dovrà, potranno, dovranno</li>
+      <li>AUX-Fin: sarà, potrà, saranno, verrà, dovrà, dovranno, potranno</li>
       <li>VERB-Fin: sarà, porterà, avrà, daranno, farà, impedirà, permetterà, saranno, troverà, accadrà</li>
     </ul>
   </li>
@@ -381,7 +381,7 @@ The selection, extraction, and annotation of the dataset have been performed by 
       <li>AUX-Part: stata, stato, stati, potuto, state, voluto, potuta</li>
       <li>NOUN-Part: stato</li>
       <li>VERB-Fin: fu, affermò, diede, fece, portò, ebbe, furono, iniziarono, nacquero, portarono</li>
-      <li>VERB-Part: avuto, dato, fatto, visto, stato, creata, fatta, inteso, cercato, detto</li>
+      <li>VERB-Part: avuto, dato, fatto, visto, creata, inteso, stato, fatta, cercato, detto</li>
     </ul>
   </li>
 </ul>
@@ -418,7 +418,6 @@ The selection, extraction, and annotation of the dataset have been performed by 
 <ul>
   <li>Dem
     <ul>
-      <li>ADJ: questa</li>
       <li>DET: questo, questa, questi, queste, quest', quel, quella, quei, quell', quelle</li>
       <li>PRON: questo, ciò, quello, questa, quella, queste, quelli, colui, coloro, quelle</li>
     </ul>
@@ -533,7 +532,7 @@ The selection, extraction, and annotation of the dataset have been performed by 
   <li>2
     <ul>
       <li>AUX-Fin: abbiate, avresti</li>
-      <li>PRON: vi, ti, te, Ve, voi</li>
+      <li>PRON: vi, ti, Ve, te, voi</li>
       <li>VERB-Fin: basti, cerchi, diventi, fai, accorgi, allarghi, arrivi, derivi, invariate, migliorate</li>
     </ul>
   </li>
@@ -591,14 +590,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (1)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB-Fin--NOUN (510)</li>
-      <li>VERB-Fin--PRON (735)</li>
-      <li>VERB-Ger--NOUN (9)</li>
+      <li>VERB-Fin--NOUN (504)</li>
+      <li>VERB-Fin--PRON (732)</li>
+      <li>VERB-Ger--NOUN (10)</li>
       <li>VERB-Ger--PRON (5)</li>
-      <li>VERB-Inf--NOUN (75)</li>
-      <li>VERB-Inf--PRON (59)</li>
+      <li>VERB-Inf--NOUN (74)</li>
+      <li>VERB-Inf--PRON (58)</li>
       <li>VERB-Part--NOUN (102)</li>
-      <li>VERB-Part--PRON (113)</li>
+      <li>VERB-Part--PRON (112)</li>
     </ul>
   </li>
 </ul>
@@ -608,18 +607,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (2)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB-Fin--NOUN (514)</li>
+      <li>VERB-Fin--NOUN (515)</li>
       <li>VERB-Fin--NOUN-ADP(di) (1)</li>
       <li>VERB-Fin--NOUN-ADP(durante) (1)</li>
-      <li>VERB-Fin--PRON (285)</li>
+      <li>VERB-Fin--PRON (283)</li>
       <li>VERB-Ger--NOUN (81)</li>
       <li>VERB-Ger--PRON (19)</li>
-      <li>VERB-Inf--NOUN (448)</li>
+      <li>VERB-Inf--NOUN (446)</li>
       <li>VERB-Inf--NOUN-ADP(a) (2)</li>
       <li>VERB-Inf--NOUN-ADP(quale) (1)</li>
       <li>VERB-Inf--PRON (180)</li>
       <li>VERB-Part--NOUN (118)</li>
-      <li>VERB-Part--PRON (58)</li>
+      <li>VERB-Part--PRON (59)</li>
     </ul>
   </li>
 </ul>
@@ -627,10 +626,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (106)</li>
+      <li>VERB-Fin--PRON (105)</li>
       <li>VERB-Ger--PRON (9)</li>
       <li>VERB-Inf--PRON (27)</li>
-      <li>VERB-Part--PRON (23)</li>
+      <li>VERB-Part--PRON (22)</li>
     </ul>
   </li>
 </ul>
@@ -646,6 +645,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

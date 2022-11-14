@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hungarian-Szeged: POS Tags: `AUX`
 
-There are 8 `AUX` lemmas (0%), 29 `AUX` types (0%) and 206 `AUX` tokens (0%).
-Out of 16 observed tags, the rank of `AUX` is: 14 in number of lemmas, 11 in number of types and 13 in number of tokens.
+There are 4 `AUX` lemmas (0%), 25 `AUX` types (0%) and 202 `AUX` tokens (0%).
+Out of 16 observed tags, the rank of `AUX` is: 15 in number of lemmas, 11 in number of types and 13 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>van, lesz, fog, volna, lehet, marad, elszenved, hoz</em>
+The 10 most frequent `AUX` lemmas: <em>van, lesz, fog, lehet</em>
 
-The 10 most frequent `AUX` types:  <em>volt, volna, lesz, lenne, voltak, lehet, legyen, lett, fog, fogja</em>
+The 10 most frequent `AUX` types:  <em>volt, volna, lesz, lenne, voltak, lehet, legyen, lett, fog, lehetett</em>
 
-The 10 most frequent ambiguous lemmas: <em>van</em> (<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 102, <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 92, <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> 1), <em>lesz</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 61, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 53), <em>fog</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 19, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 2), <em>lehet</em> (<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 14, <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 10), <em>marad</em> (<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 13, <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 3), <em>hoz</em> (<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 17, <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>van</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 111, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 102, <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> 1), <em>lesz</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 61, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 53), <em>fog</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 19, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 2), <em>lehet</em> (<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 13, <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 11)
 
-The 10 most frequent ambiguous types:  <em>volt</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 70, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 29, <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> 8), <em>volna</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 20, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 2), <em>lesz</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 16, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 8), <em>lenne</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 14, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 4), <em>voltak</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 12, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 2), <em>lehet</em> (<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 31, <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 10), <em>legyen</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 4), <em>lett</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 4), <em>lehetett</em> (<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 8, <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 5), <em>vagyok</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 3, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>volt</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 70, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 29, <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> 8), <em>volna</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 20, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 2), <em>lesz</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 16, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 8), <em>lenne</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 14, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 4), <em>voltak</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 12, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 2), <em>lehet</em> (<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 31, <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 10), <em>legyen</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 4), <em>lett</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 4), <em>lehetett</em> (<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 7, <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 6), <em>vagyok</em> (<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 3, <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 1)
 
 
 * <em>volt</em>
@@ -44,15 +44,15 @@ The 10 most frequent ambiguous types:  <em>volt</em> (<tt><a href="hu_szeged-pos
   * <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 8: <em>Jorge Faliba atya a rendőrségen bevallotta , hogy ez már az ötödik nemzetközi csempészútja <b>lett</b> volna , ám jó ügyet szolgál .</em>
   * <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 4: <em>Ebből <b>lett</b> a Tui .</em>
 * <em>lehetett</em>
-  * <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 8: <em>És amint <b>lehetett</b> , el is jött érte a " meseautó " .</em>
-  * <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 5: <em>— Azért nem <b>lehetett</b> olyan rossz közelről élvezni a nehézsúly Lewis-Holyfield-csúcsrangadóját !</em>
+  * <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 7: <em>És amint <b>lehetett</b> , el is jött érte a " meseautó " .</em>
+  * <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 6: <em>— Azért nem <b>lehetett</b> olyan rossz közelről élvezni a nehézsúly Lewis-Holyfield-csúcsrangadóját !</em>
 * <em>vagyok</em>
   * <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> 3: <em>Egyrészt tényleg rejtőzködő <b>vagyok</b> , irtózom a megmutatkozástól .</em>
   * <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> 1: <em>De kaptam felkérést a Budapesti Csellóegyüttestől és egy férfi-énekszextettől is , úgyhogy szerencsére bőven el <b>vagyok</b> látva feladatokkal .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.625000 (the average of all parts of speech is 1.503135).
+The form / lemma ratio of `AUX` is 6.250000 (the average of all parts of speech is 1.503840).
 
 The 1st highest number of forms (12) was observed with the lemma “lesz”: <em>legyen, legyenek, lehet, lenne, lenni, lennének, lesz, leszek, lesznek, leszünk, lett, lettem</em>.
 
@@ -60,32 +60,32 @@ The 2nd highest number of forms (8) was observed with the lemma “van”: <em>v
 
 The 3rd highest number of forms (4) was observed with the lemma “fog”: <em>fog, fogja, fogják, fognak</em>.
 
-`AUX` occurs with 7 features: <tt><a href="hu_szeged-feat-Voice.html">Voice</a></tt> (206; 100% instances), <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt> (204; 99% instances), <tt><a href="hu_szeged-feat-Mood.html">Mood</a></tt> (204; 99% instances), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt> (204; 99% instances), <tt><a href="hu_szeged-feat-Person.html">Person</a></tt> (204; 99% instances), <tt><a href="hu_szeged-feat-Tense.html">Tense</a></tt> (204; 99% instances), <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt> (177; 86% instances)
+`AUX` occurs with 7 features: <tt><a href="hu_szeged-feat-Voice.html">Voice</a></tt> (202; 100% instances), <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt> (201; 100% instances), <tt><a href="hu_szeged-feat-Mood.html">Mood</a></tt> (201; 100% instances), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt> (201; 100% instances), <tt><a href="hu_szeged-feat-Person.html">Person</a></tt> (201; 100% instances), <tt><a href="hu_szeged-feat-Tense.html">Tense</a></tt> (201; 100% instances), <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt> (189; 94% instances)
 
 `AUX` occurs with 15 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Pot`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `Voice=Act`
 
-`AUX` occurs with 22 feature combinations.
-The most frequent feature combination is `Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act` (85 tokens).
-Examples: <em>volt, lett, lehetett, maradt</em>
+`AUX` occurs with 20 feature combinations.
+The most frequent feature combination is `Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act` (84 tokens).
+Examples: <em>volt, lett, lehetett</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 7 different relations: <tt><a href="hu_szeged-dep-cop.html">cop</a></tt> (168; 82% instances), <tt><a href="hu_szeged-dep-aux.html">aux</a></tt> (31; 15% instances), <tt><a href="hu_szeged-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-ccomp-obl.html">ccomp:obl</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-csubj.html">csubj</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 7 different relations: <tt><a href="hu_szeged-dep-cop.html">cop</a></tt> (163; 81% instances), <tt><a href="hu_szeged-dep-aux.html">aux</a></tt> (32; 16% instances), <tt><a href="hu_szeged-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-ccomp-obl.html">ccomp:obl</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-csubj.html">csubj</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (79; 38% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (66; 32% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (36; 17% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (11; 5% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (3; 1% instances)
+Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (77; 38% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (66; 33% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (34; 17% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (10; 5% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (3; 1% instances)
 
-196 (95%) `AUX` nodes are leaves.
+195 (97%) `AUX` nodes are leaves.
 
-1 (0%) `AUX` nodes have one child.
+0 (0%) `AUX` nodes have one child.
 
-2 (1%) `AUX` nodes have two children.
+1 (0%) `AUX` nodes have two children.
 
-7 (3%) `AUX` nodes have three or more children.
+6 (3%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 6.
 
-Children of `AUX` nodes are attached using 9 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (8; 21% instances), <tt><a href="hu_szeged-dep-xcomp.html">xcomp</a></tt> (8; 21% instances), <tt><a href="hu_szeged-dep-nsubj.html">nsubj</a></tt> (5; 13% instances), <tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt> (4; 11% instances), <tt><a href="hu_szeged-dep-mark.html">mark</a></tt> (4; 11% instances), <tt><a href="hu_szeged-dep-advmod.html">advmod</a></tt> (3; 8% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (2; 5% instances), <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (2; 5% instances), <tt><a href="hu_szeged-dep-obj.html">obj</a></tt> (2; 5% instances)
+Children of `AUX` nodes are attached using 8 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (7; 23% instances), <tt><a href="hu_szeged-dep-xcomp.html">xcomp</a></tt> (7; 23% instances), <tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt> (4; 13% instances), <tt><a href="hu_szeged-dep-nsubj.html">nsubj</a></tt> (4; 13% instances), <tt><a href="hu_szeged-dep-advmod.html">advmod</a></tt> (3; 10% instances), <tt><a href="hu_szeged-dep-mark.html">mark</a></tt> (3; 10% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (2; 6% instances), <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (1; 3% instances)
 
-Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (12; 32% instances), <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (8; 21% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (5; 13% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (4; 11% instances), <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> (4; 11% instances), <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> (2; 5% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 3% instances)
+Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (11; 35% instances), <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (7; 23% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (5; 16% instances), <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> (3; 10% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 

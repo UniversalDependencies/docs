@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1763 nodes (6%) are attached to their parents as `root`.
+2803 nodes (7%) are attached to their parents as `root`.
 
-1763 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.11003970504821.
+2803 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.36532286835533.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1281; 73% instances), -<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (157; 9% instances), -<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (120; 7% instances), -<tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (81; 5% instances), -<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (45; 3% instances), -<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (34; 2% instances), -<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (16; 1% instances), -<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), -<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (7; 0% instances), -<tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), -<tt><a href="fr_parisstories-pos-X.html">X</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1932; 69% instances), -<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (283; 10% instances), -<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (226; 8% instances), -<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (95; 3% instances), -<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (85; 3% instances), -<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (70; 2% instances), -<tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (39; 1% instances), -<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (26; 1% instances), -<tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (23; 1% instances), -<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (8; 0% instances), -<tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), -<tt><a href="fr_parisstories-pos-X.html">X</a></tt> (4; 0% instances), -<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	donc	donc	ADV	_	_	4	discourse	_	_
+1	donc	donc	ADV	_	_	4	advmod	_	_
 2	comment	comment	ADV	_	_	4	advmod	_	_
 3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -57,7 +57,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 9 root	color:blue
-1	parce	parce	SCONJ	_	_	9	mark	_	ExtPos=SCONJ|Idiom=Yes
+1	parce	parce	ADV	_	_	9	mark	_	ExtPos=SCONJ|Idiom=Yes
 2	que	que	SCONJ	_	_	1	fixed	_	InIdiom=Yes
 3	euh	euh	INTJ	_	_	9	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_

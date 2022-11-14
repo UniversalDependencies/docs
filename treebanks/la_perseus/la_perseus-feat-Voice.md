@@ -11,19 +11,19 @@ It occurs with 2 different values: `Act`, `Pass`.
 
 5984 tokens (21%) have a non-empty value of `Voice`.
 4120 types (41%) occur at least once with a non-empty value of `Voice`.
-1375 lemmas (30%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5984; 21% instances).
+1374 lemmas (30%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5617; 19% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (367; 1% instances).
 
 ### `VERB`
 
-5984 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
+5617 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4876; 81%), <tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4875; 81%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4094; 68%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3945; 66%), <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3322; 56%), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3238; 54%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4512; 80%), <tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4511; 80%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3783; 67%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3686; 66%), <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3066; 55%), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2985; 53%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (4705; 79% of non-empty `Voice`): <em>est, esse, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit</em>
-* `Pass` (1279; 21% of non-empty `Voice`): <em>videtur, afferri, cogor, fieri, videbatur, conscripti, datur, dicitur, fertur, scriptum</em>
+* `Act` (4338; 77% of non-empty `Voice`): <em>habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, habere, iussit</em>
+* `Pass` (1279; 23% of non-empty `Voice`): <em>videtur, afferri, cogor, fieri, videbatur, conscripti, datur, dicitur, fertur, scriptum</em>
 * `EMPTY` (180): <em>amantis, iactans, maerens, metuens, patiens, potentes, reposcenti, sapiens, simulans, trahens</em>
 
 <table>
@@ -73,16 +73,25 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><tt><a href="la_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>dicere</em></td><td><em>dici</em></td></tr>
 </table>
 
+### `AUX`
+
+367 <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (311; 85%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (259; 71%), <tt><a href="la_perseus-feat-Person.html">Person</a></tt><tt>=3</tt> (259; 71%), <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (256; 70%), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (253; 69%), <tt><a href="la_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (215; 59%).
+
+`AUX` tokens may have the following values of `Voice`:
+
+* `Act` (367; 100% of non-empty `Voice`): <em>est, esse, erat, fuit, sunt, sit, esset, erit, es, fuerunt</em>
+
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (560; 58%),
+<tt>VERB --[<tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (566; 58%),
 <tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (515; 84%),
-<tt>VERB --[<tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (303; 64%),
+<tt>VERB --[<tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (303; 65%),
 <tt>VERB --[<tt><a href="la_perseus-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (227; 71%),
 <tt>VERB --[<tt><a href="la_perseus-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (156; 84%),
-<tt>VERB --[<tt><a href="la_perseus-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (78; 70%),
-<tt>VERB --[<tt><a href="la_perseus-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (5; 56%),
+<tt>VERB --[<tt><a href="la_perseus-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (77; 70%),
 <tt>VERB --[<tt><a href="la_perseus-dep-acl.html">acl</a></tt>]--> VERB</tt> (4; 80%),
 <tt>VERB --[<tt><a href="la_perseus-dep-obl.html">obl</a></tt>]--> VERB</tt> (3; 60%).
 

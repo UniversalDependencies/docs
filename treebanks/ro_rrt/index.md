@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Verginica Barbu Mititelu, Elena Irimia, Cenel-Augusto Perez, Radu Ion, Radu Simionescu, Martin Popel.
 
 Repository: [UD_Romanian-RRT](https://github.com/UniversalDependencies/UD_Romanian-RRT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_rrt210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_rrt211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -63,7 +63,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
 
 ## Features
 
-[Abbr](ro_rrt-feat-Abbr.html) – [AdpType](ro_rrt-feat-AdpType.html) – [Case](ro_rrt-feat-Case.html) – [Definite](ro_rrt-feat-Definite.html) – [Degree](ro_rrt-feat-Degree.html) – [Foreign](ro_rrt-feat-Foreign.html) – [Gender](ro_rrt-feat-Gender.html) – [Mood](ro_rrt-feat-Mood.html) – [Number](ro_rrt-feat-Number.html) – [Number[psor]](ro_rrt-feat-Number-psor.html) – [NumForm](ro_rrt-feat-NumForm.html) – [NumType](ro_rrt-feat-NumType.html) – [PartType](ro_rrt-feat-PartType.html) – [Person](ro_rrt-feat-Person.html) – [Polarity](ro_rrt-feat-Polarity.html) – [Position](ro_rrt-feat-Position.html) – [Poss](ro_rrt-feat-Poss.html) – [PronType](ro_rrt-feat-PronType.html) – [Reflex](ro_rrt-feat-Reflex.html) – [Strength](ro_rrt-feat-Strength.html) – [Tense](ro_rrt-feat-Tense.html) – [Variant](ro_rrt-feat-Variant.html) – [VerbForm](ro_rrt-feat-VerbForm.html)
+[Abbr](ro_rrt-feat-Abbr.html) – [AdpType](ro_rrt-feat-AdpType.html) – [Case](ro_rrt-feat-Case.html) – [Definite](ro_rrt-feat-Definite.html) – [Degree](ro_rrt-feat-Degree.html) – [Foreign](ro_rrt-feat-Foreign.html) – [Gender](ro_rrt-feat-Gender.html) – [Mood](ro_rrt-feat-Mood.html) – [Number](ro_rrt-feat-Number.html) – [Number[psor]](ro_rrt-feat-Number-psor.html) – [NumForm](ro_rrt-feat-NumForm.html) – [NumType](ro_rrt-feat-NumType.html) – [PartType](ro_rrt-feat-PartType.html) – [Person](ro_rrt-feat-Person.html) – [Polarity](ro_rrt-feat-Polarity.html) – [Position](ro_rrt-feat-Position.html) – [Poss](ro_rrt-feat-Poss.html) – [PronType](ro_rrt-feat-PronType.html) – [Reflex](ro_rrt-feat-Reflex.html) – [Strength](ro_rrt-feat-Strength.html) – [Tense](ro_rrt-feat-Tense.html) – [Typo](ro_rrt-feat-Typo.html) – [Variant](ro_rrt-feat-Variant.html) – [VerbForm](ro_rrt-feat-VerbForm.html)
 
 ## Relations
 
@@ -73,11 +73,11 @@ This work was supported by a grant of the Romanian National Authority for Scient
 
 
 <ul>
-<li>This corpus contains 9524 sentences and 218510 tokens.</li>
+<li>This corpus contains 9524 sentences and 218522 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29755 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 29773 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -85,7 +85,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
 </ul>
 
 <ul>
-<li>This corpus contains 699 types of words that contain both letters and punctuation. Examples: s-, într-, și-, -i, -și, -l, art., -se, a., n-, -o, l-, dintr-, nr., i-, de-, m-, -a, b., -mi, printr-, lit., -ți, mi-, -n, -lea, alin., le-, ne-, -ul, I., v-, O'Brien, n., c., D., ți-, -ului, pct., -vă, te-, 17-beta, într-adevăr, Al., a-, de-a, -mă, etc., tele-ecran, -le</li>
+<li>This corpus contains 695 types of words that contain both letters and punctuation. Examples: s-, într-, și-, -i, -și, -l, art., -se, a., n-, -o, l-, dintr-, nr., i-, de-, m-, -a, b., -mi, printr-, lit., -ți, mi-, -n, -lea, alin., le-, ne-, -ul, I., O'Brien, v-, n., c., D., ți-, -ului, pct., -vă, te-, 17-beta, într-adevăr, Al., a-, de-a, -mă, etc., tele-ecran, -le</li>
 </ul>
 
 <ul>
@@ -105,11 +105,11 @@ This work was supported by a grant of the Romanian National Authority for Scient
 </ul>
 
 <ul>
-<li>This corpus contains 49 lemmas tagged as pronouns (PRON): acela, același, acesta, altceva, altcineva, altul, atât, care, ce, cel, celălalt, ceva, cine, cineva, cutare, cât, câtva, destul, domnia-sa, dumnealui, dumneata, dumneavoastră, dânsul, el, eu, fiecare, lui, meu, mult, nici_unul, nimeni, nimic, oricare, orice, oricine, oricât, orișice, orișicine, puțin, sine, său, tot, tu, tău, unul, vreunul, Înalt_Preasfințit, însul, și_alții</li>
+<li>This corpus contains 50 lemmas tagged as pronouns (PRON): acela, același, acesta, altceva, altcineva, altul, atât, care, ce, cel, celălalt, ceva, cine, cineva, cutare, cât, câtva, destul, domnia-sa, dumnealui, dumneata, dumneavoastră, dânsul, el, eu, fiecare, lui, meu, mult, nici_unul, niciunul, nimeni, nimic, oricare, orice, oricine, oricât, orișice, orișicine, puțin, sine, său, tot, tu, tău, unul, vreunul, Înalt_Preasfințit, însul, și_alții</li>
 </ul>
 
 <ul>
-<li>This corpus contains 45 lemmas tagged as determiners (DET): -a, -ilor, -lea, -ul, -ului, -uri, -urile, -urilor, a, acel, acela, același, acest, acesta, al, alt, anumit, atât, care, ce, cel, celelat, celălalt, cest, cutare, cât, câtva, destul, fiecare, lui, meu, mult, nici_un, niște, oarecare, oricare, orice, puțin, său, tot, tău, un, vreun, însumi, însuși</li>
+<li>This corpus contains 46 lemmas tagged as determiners (DET): -a, -ilor, -lea, -ul, -ului, -uri, -urile, -urilor, a, acel, acela, același, acest, acesta, al, alt, anumit, atât, care, ce, cel, celelat, celălalt, cest, cutare, cât, câtva, destul, fiecare, lui, meu, mult, nici_un, niciun, niște, oarecare, oricare, orice, puțin, său, tot, tău, un, vreun, însumi, însuși</li>
 </ul>
 
 <ul>
@@ -210,12 +210,12 @@ This work was supported by a grant of the Romanian National Authority for Scient
     <ul>
       <li>ADJ: necesare, mari, mici, chimice, diferite, disponibile, specifice, suplimentare, contractante, noi</li>
       <li>AUX: au, sunt, vor, erau, ați, vom, veți, sunteți, -au, suntem</li>
-      <li>AUX-Fin: sunt, erau, sunteți, suntem, fuseseră, fim, fură, -s, aveau, fiți</li>
+      <li>AUX-Fin: sunt, erau, sunteți, suntem, fuseseră, aveau, fim, fură, -s, fiți</li>
       <li>DET: ale, toate, unor, aceste, cele, alte, multe, ai, câteva, anumite</li>
       <li>NOUN: ani, membre, statele, date, pacienții, informații, zile, ori, ore, condițiile</li>
       <li>NUM: două, trei, doi, patru, cinci, primele, milioane, șase, opt, ambele</li>
       <li>PRON: le, ne, vă, acestea, ei, ele, toate, cele, noi, cei</li>
-      <li>PROPN: Carpaților, Iașilor, Iașii, Carpații, Subcarpații</li>
+      <li>PROPN: Carpaților, Iașilor, Iașii, Carpații, Nibelungilor, Subcarpații</li>
       <li>VERB-Fin: pot, au, luați, fac, sunt, aveți, aveau, iau, utilizați, erau</li>
       <li>VERB-Part: prevăzute, menționate, stabilite, legate, utilizate, prezentate, asociate, puse, obținute, aflate</li>
     </ul>
@@ -226,12 +226,12 @@ This work was supported by a grant of the Romanian National Authority for Scient
   <li>Sing
     <ul>
       <li>ADJ: mare, prezentul, nou, prezenta, europene, europeană, european, prezentului, mică, general</li>
-      <li>AUX: a, este, fost, era, va, e, ai, fusese, -a, aș</li>
+      <li>AUX: a, este, fost, era, va, e, ai, fusese, -a, avea</li>
       <li>AUX-Fin: este, era, e, fusese, avea, -i, sunt, ești, fii, fu</li>
       <li>AUX-Part: fost, este</li>
       <li>DET: o, un, a, al, lui, unei, unui, acest, cel, această</li>
       <li>NOUN: timp, cazul, conformitate, loc, timpul, mod, acord, Comisia, parte, b</li>
-      <li>NUM: 1, 2, 3, 4, 5, 6, primul, 7, 8, ii</li>
+      <li>NUM: 1, 2, 3, 4, 5, 6, primul, 7, 8, i</li>
       <li>PRON: el, o, -l, îl, ea, îi, -i, i, ceea, mă</li>
       <li>PROPN: României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</li>
       <li>VERB-Fin: poate, are, avea, era, putea, face, este, privește, conține, pare</li>
@@ -247,9 +247,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
 <ul>
   <li>Acc
     <ul>
-      <li>ADP: de, în, la, cu, din, pe, pentru, prin, după, într-</li>
+      <li>ADP: de, în, la, cu, din, pe, pentru, prin, după, ca</li>
       <li>NOUN: țări</li>
-      <li>PRON: se, s-, o, -l, îl, le, -se, mă, ne, te</li>
+      <li>PRON: se, s-, o, -l, îl, le, -se, mă, te, -o</li>
     </ul>
   </li>
 </ul>
@@ -270,8 +270,8 @@ This work was supported by a grant of the Romanian National Authority for Scient
 <ul>
   <li>Dat
     <ul>
-      <li>ADP: conform, datorită, potrivit, aidoma, gratie</li>
-      <li>PRON: își, -și, și-, îi, -i, i, i-, -mi, le, -ți</li>
+      <li>ADP: conform, datorită, potrivit, aidoma, grație</li>
+      <li>PRON: își, -și, și-, îi, -i, i, i-, -mi, ne, le</li>
     </ul>
   </li>
 </ul>
@@ -337,7 +337,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
       <li>ADJ: mare, europene, nou, necesare, europeană, mari, european, mică, naționale, general</li>
       <li>NOUN: ani, timp, conformitate, loc, membre, mod, acord, parte, b, lucru</li>
       <li>NUM: milioane, mii, miliarde, o, sute, prim-, primă, zeci, sută, milion</li>
-      <li>PROPN: Americi, Britanii, Eladă, Făt-frumos, Iugoslavie, Mediterane, Napoleon</li>
+      <li>PROPN: Britanii, Americi, Eladă, Făt-frumos, Iugoslavie, Mediterane, Napoleon</li>
     </ul>
   </li>
 </ul>
@@ -393,7 +393,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
   <li>Pos
     <ul>
       <li>CCONJ: și, sau, dar, însă, ci, și-, ori, fie, deci, căci</li>
-      <li>SCONJ: că, dacă, până, încât, deoarece, deși, fără, fiindcă, întrucât, de</li>
+      <li>SCONJ: că, dacă, ca, până, încât, deoarece, deși, fără, fiindcă, întrucât</li>
     </ul>
   </li>
 </ul>
@@ -407,8 +407,8 @@ This work was supported by a grant of the Romanian National Authority for Scient
     <ul>
       <li>ADJ: -ntregi, -ndelungate</li>
       <li>ADP: într-, dintr-, de-, printr-, -n, pe-, d-, n, p-, c-</li>
-      <li>ADV: așa-, -nainte, ne-, -aici, -așa, -ncoace, -ntotdeauna, cân'</li>
-      <li>AUX: -a, -i, -au, -ai, -ar, -aș, E-, fiindu, -am, -ați</li>
+      <li>ADV: așa-, -nainte, -aici, -așa, -ncoace, -ntotdeauna, cân'</li>
+      <li>AUX: -a, -i, -au, -ai, -aș, -ar, E-, fiindu, -am, -ați</li>
       <li>AUX-Fin: -i, E-, -s</li>
       <li>AUX-Ger: fiindu</li>
       <li>CCONJ: da', Ș-</li>
@@ -476,7 +476,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: era, erau, avea, eram, erai, aveau</li>
+      <li>AUX-Fin: era, erau, avea, eram, erai, aveau, aveam</li>
       <li>VERB-Fin: avea, era, putea, trebuia, făcea, stătea, știa, părea, aveau, erau</li>
     </ul>
   </li>
@@ -568,8 +568,8 @@ This work was supported by a grant of the Romanian National Authority for Scient
   <li>Neg
     <ul>
       <li>ADV: nici, niciodată, nicăieri, nicicând</li>
-      <li>DET: niciun, nicio, niciunui</li>
-      <li>PRON: nimic, nimeni, nimica, Niciunul, niciuna, nime, nimenea</li>
+      <li>DET: niciun, nicio, nici, niciunui</li>
+      <li>PRON: nimic, nimeni, nimica, Niciunul, nici, niciuna, nime, nimenea</li>
     </ul>
   </li>
 </ul>
@@ -606,7 +606,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
 <ul>
   <li>Ord
     <ul>
-      <li>NUM: primul, ii, prima, i, doilea, doua, primele, iii, iv, treia</li>
+      <li>NUM: primul, i, ii, prima, doilea, doua, primele, iii, iv, treia</li>
     </ul>
   </li>
 </ul>
@@ -631,7 +631,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: se, s-, își, -și, și-, -se, sine, și, se-, să</li>
+      <li>PRON: se, s-, își, -și, și-, -se, și, sine, se-, să</li>
     </ul>
   </li>
 </ul>
@@ -644,7 +644,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
   <li>1
     <ul>
       <li>AUX: am, aș, vom, eram, sunt, voi, suntem, fiu, -aș, fim</li>
-      <li>AUX-Fin: eram, sunt, suntem, fiu, fim, am</li>
+      <li>AUX-Fin: eram, sunt, suntem, fiu, fim, am, aveam</li>
       <li>DET: mea, meu, noastre, nostru, noastră, mele, mei, noștri, însumi, -mea</li>
       <li>PRON: ne, mă, eu, noi, m-, -mi, mi-, mine, ne-, îmi</li>
       <li>VERB-Fin: știu, putem, avem, cred, rog, spun, așteptam, rugăm, vedem, văd</li>
@@ -708,8 +708,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: n., e-, am, a.m., univ.</li>
+          <li>ADJ: n., e-, am, P.S., a.m., univ.</li>
           <li>ADV: etc., cca, pm, p.m., v</li>
+          <li>CCONJ: ș.</li>
           <li>NOUN: art., a., nr., CE, b., mg, lit., alin., ml, CEE</li>
           <li>PRON: ș.a., dvs., Î.P.S.</li>
           <li>X: mp, 5a, K., Rev, ș.a.</li>
@@ -724,7 +725,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
     <ul>
       <li>Prep
         <ul>
-          <li>ADP: de, în, la, cu, din, pe, pentru, prin, după, într-</li>
+          <li>ADP: de, în, la, cu, din, pe, pentru, prin, după, ca</li>
           <li>PUNCT: /, ;, *</li>
         </ul>
       </li>
@@ -743,7 +744,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
           <li>NUM: II</li>
           <li>PROPN: Act, Albion, Award, Awards, Beauty, Book, Boyer, Breisgau, Bromwich, Carlo</li>
           <li>VERB-Inf: Face</li>
-          <li>X: A­, Book, IN, LEARNING, Mode, OUT, Records, Road, Sybir, alia</li>
+          <li>X: alia, A­, Book, IN, LEARNING, Mode, OUT, Records, Road, Sybir</li>
         </ul>
       </li>
     </ul>
@@ -755,7 +756,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
     <ul>
       <li>Combi
         <ul>
-          <li>NUM: 91/493/CEE, 000, 1999/468/CE, 3.4.1.5, 3.4.2.2, 72/462/CEE, 1.1.1, 100, 1720/1999/CE, 2.1.2</li>
+          <li>NUM: 91/493/CEE, 1999/468/CE, 3.4.1.5, 3.4.2.2, 72/462/CEE, 1.1.1, 1720/1999/CE, 2.1.2, 2002/96/CE, 2003/390/CE</li>
         </ul>
       </li>
       <li>Digit
@@ -765,7 +766,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </li>
       <li>Roman
         <ul>
-          <li>NUM: ii, i, iii, iv, V, XX, XIX, VI, VII, XIII</li>
+          <li>NUM: i, ii, iii, iv, V, XX, XIX, VI, VII, VIII</li>
         </ul>
       </li>
       <li>Word
@@ -823,6 +824,25 @@ This work was supported by a grant of the Romanian National Authority for Scient
   </li>
 </ul>
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: N-, O-, fi, ne-, post, sub</li>
+          <li>ADP: în</li>
+          <li>ADV: o, de-</li>
+          <li>DET: nici</li>
+          <li>NOUN: A-, L-, după, soarele</li>
+          <li>NUM: 1, 3, 2, 100, 5, 11, 12, 15, 4, 50</li>
+          <li>PRON: nici</li>
+          <li>PROPN: CYP, I-, L03AA02, P450</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -843,14 +863,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (783)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom (3125)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (3128)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(în) (1)</li>
       <li>VERB-Fin--NOUN-Dat,Gen (6)</li>
       <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Acc (4)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (1559)</li>
+      <li>VERB-Fin--PRON-Acc (3)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (1560)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(cu) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(la) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(în) (1)</li>
@@ -868,14 +887,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN (289)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-ADP(peste) (1)</li>
-      <li>VERB-Part--NOUN-Acc,Nom (1067)</li>
+      <li>VERB-Part--NOUN-Acc,Nom (1069)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(din) (1)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(la) (1)</li>
       <li>VERB-Part--NOUN-Dat,Gen (1)</li>
       <li>VERB-Part--NOUN-Voc (2)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
-      <li>VERB-Part--PRON-Acc,Nom (381)</li>
+      <li>VERB-Part--PRON-Acc,Nom (382)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(de) (1)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(pentru) (1)</li>
       <li>VERB-Part--PRON-Dat (2)</li>
@@ -887,20 +906,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1052)</li>
+      <li>VERB-Fin--NOUN (1050)</li>
+      <li>VERB-Fin--NOUN-ADP(ca) (2)</li>
       <li>VERB-Fin--NOUN-ADP(de) (9)</li>
       <li>VERB-Fin--NOUN-ADP(din) (1)</li>
       <li>VERB-Fin--NOUN-ADP(pe) (36)</li>
       <li>VERB-Fin--NOUN-ADP(în) (2)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom (2551)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (2554)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (28)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(întru) (1)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
       <li>VERB-Fin--PRON-ADP(pe) (1)</li>
-      <li>VERB-Fin--PRON-Acc (544)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (118)</li>
+      <li>VERB-Fin--PRON-Acc (548)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (121)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(cu) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (3)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (155)</li>
@@ -916,32 +936,33 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Acc (42)</li>
       <li>VERB-Ger--PRON-Acc,Nom (3)</li>
       <li>VERB-Ger--PRON-Acc,Nom-ADP(pe) (7)</li>
-      <li>VERB-Inf--NOUN (230)</li>
+      <li>VERB-Inf--NOUN (229)</li>
+      <li>VERB-Inf--NOUN-ADP(ca) (1)</li>
       <li>VERB-Inf--NOUN-ADP(de) (2)</li>
       <li>VERB-Inf--NOUN-ADP(pe) (7)</li>
       <li>VERB-Inf--NOUN-Acc,Nom (663)</li>
       <li>VERB-Inf--NOUN-Acc,Nom-ADP(pe) (4)</li>
-      <li>VERB-Inf--PRON-Acc (67)</li>
+      <li>VERB-Inf--PRON-Acc (69)</li>
       <li>VERB-Inf--PRON-Acc,Nom (17)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(pe) (15)</li>
       <li>VERB-Inf--PRON-Dat (4)</li>
       <li>VERB-Part--NOUN (287)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-ADP(pe) (8)</li>
-      <li>VERB-Part--NOUN-Acc,Nom (640)</li>
+      <li>VERB-Part--NOUN-Acc,Nom (639)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(din) (2)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(dintre) (1)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(pe) (8)</li>
       <li>VERB-Part--NOUN-Voc-ADP(pe) (1)</li>
       <li>VERB-Part--PRON-ADP(pe) (1)</li>
-      <li>VERB-Part--PRON-Acc (156)</li>
-      <li>VERB-Part--PRON-Acc,Nom (29)</li>
+      <li>VERB-Part--PRON-Acc (161)</li>
+      <li>VERB-Part--PRON-Acc,Nom (28)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(cu) (1)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(din) (1)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(pe) (33)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(în) (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(pe) (2)</li>
-      <li>VERB-Part--PRON-Dat (12)</li>
+      <li>VERB-Part--PRON-Dat (7)</li>
       <li>VERB-Part--PRON-Dat-ADP(pe) (1)</li>
     </ul>
   </li>
@@ -968,28 +989,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat,Gen (289)</li>
       <li>VERB-Fin--NOUN-Dat,Gen-ADP(asupra) (1)</li>
       <li>VERB-Fin--NOUN-Dat,Gen-ADP(conform) (1)</li>
-      <li>VERB-Fin--PRON-Acc (82)</li>
+      <li>VERB-Fin--PRON-Acc (53)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(la) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(în) (1)</li>
-      <li>VERB-Fin--PRON-Dat (346)</li>
-      <li>VERB-Fin--PRON-Dat,Gen (28)</li>
+      <li>VERB-Fin--PRON-Dat (368)</li>
+      <li>VERB-Fin--PRON-Dat,Gen (26)</li>
       <li>VERB-Fin--PRON-Dat,Gen-ADP(asupra) (1)</li>
       <li>VERB-Fin--PRON-Dat,Gen-ADP(potrivit) (1)</li>
       <li>VERB-Ger--NOUN (3)</li>
       <li>VERB-Ger--NOUN-Dat,Gen (24)</li>
-      <li>VERB-Ger--PRON-Acc (6)</li>
-      <li>VERB-Ger--PRON-Dat (21)</li>
+      <li>VERB-Ger--PRON-Acc (4)</li>
+      <li>VERB-Ger--PRON-Dat (22)</li>
       <li>VERB-Inf--NOUN (13)</li>
       <li>VERB-Inf--NOUN-ADP(la) (1)</li>
       <li>VERB-Inf--NOUN-Acc,Nom (3)</li>
       <li>VERB-Inf--NOUN-Acc,Nom-ADP(de) (2)</li>
       <li>VERB-Inf--NOUN-Acc,Nom-ADP(la) (1)</li>
       <li>VERB-Inf--NOUN-Dat,Gen (57)</li>
-      <li>VERB-Inf--PRON-Acc (18)</li>
+      <li>VERB-Inf--PRON-Acc (13)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(din) (1)</li>
-      <li>VERB-Inf--PRON-Dat (36)</li>
+      <li>VERB-Inf--PRON-Dat (40)</li>
       <li>VERB-Inf--PRON-Dat,Gen (2)</li>
       <li>VERB-Part--NOUN (26)</li>
       <li>VERB-Part--NOUN-ADP(conform) (1)</li>
@@ -1013,10 +1034,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Dat,Gen-ADP(conform) (1)</li>
       <li>VERB-Part--NOUN-Dat,Gen-ADP(datorită) (2)</li>
       <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Acc (21)</li>
+      <li>VERB-Part--PRON-Acc (17)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(pe) (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(pentru) (1)</li>
-      <li>VERB-Part--PRON-Dat (103)</li>
+      <li>VERB-Part--PRON-Dat (107)</li>
       <li>VERB-Part--PRON-Dat,Gen (22)</li>
     </ul>
   </li>
@@ -1025,19 +1046,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 885 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: afla se, putea se, întâmpla se, numi se, întoarce se, părea se, termina s-, duce se, opri se, îneca s-, apropia se, uita se, așeza se, referi se, face se, gândi se, ridica se, întâmpla s-, asigura se, petrece se, încheia s-, îngroșa se, întâlni se, angaja se, descompune se, găsi se, răni s-, termina se, întinde se, simți se, îneca se, desfășura se, dovedi se, lăsa se, produce se, scurge se, îndrepta se, baza se, conforma se, mișca se, ocupa se, putea s-, răni se, încheia se, întări se, apuca se, deschide se, hotărî se, lega se, mări se</li>
+  <li>This corpus contains 884 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: afla se, putea se, întâmpla se, numi se, întoarce se, părea se, termina s-, duce se, opri se, îneca s-, apropia se, uita se, așeza se, referi se, face se, gândi se, ridica se, întâmpla s-, asigura se, petrece se, încheia s-, îngroșa se, întâlni se, angaja se, descompune se, găsi se, răni s-, termina se, întinde se, simți se, îneca se, desfășura se, dovedi se, lăsa se, produce se, scurge se, îndrepta se, baza se, conforma se, mișca se, ocupa se, putea s-, răni se, încheia se, întări se, apuca se, deschide se, hotărî se, lega se, mări se</li>
 </ul>
 
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 439 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: aplica se, putea se, face se, stabili se, acorda se, administra se, modifica se, prevedea se, recomanda se, folosi se, înlocui se, publica se, utiliza se, vedea se, auzi se, citi se, lua se, realiza se, adăuga se, constata s-, cunoaște se, efectua s-, institui se, înțelege se, da se, efectua se, elimina se, găsi se, interpreta se, obține se, specifica se, administra s-, asigura se, calcula se, consulta se, defini se, elibera se, recunoaște se, ține se, atașa se, determina se, dovedi s-, evita se, face s-, impune se, lansa se, păstra se, stabili s-, adopta se, considera se</li>
+  <li>This corpus contains 441 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: aplica se, putea se, face se, stabili se, acorda se, administra se, modifica se, prevedea se, recomanda se, folosi se, înlocui se, publica se, utiliza se, vedea se, auzi se, citi se, lua se, realiza se, adăuga se, constata s-, cunoaște se, efectua s-, institui se, înțelege se, da se, efectua se, elimina se, găsi se, interpreta se, obține se, specifica se, administra s-, asigura se, calcula se, consulta se, defini se, elibera se, recunoaște se, ține se, atașa se, determina se, dovedi s-, evita se, face s-, impune se, lansa se, păstra se, stabili s-, adopta se, considera se</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 82 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: răni s-, răni se, aminti -și, opri se, face -și, rezerva își, aminti își, aminti și-, asigura se, cumpăra -și, face își, lovi s-, lua își, lăsa se, propune își, ridica se, răni -se, salva se, înscrie s-, întoarce se, abandona -se, alege își, amenaja și-, apropia se, apăra -se, apăra se, arunca -și, ascunde se, asigura -și, asuma își, băga se, considera se, croi -și, cumpăra și-, da își, deștepta se, dori își, fixa se, furniza -și, găsi își, indica și, integra și-, intrebându -se, izbi -se, justifica se, legăna își, lua -și, lua și-, lumina -se, menține se</li>
+  <li>This corpus contains 82 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: răni s-, răni se, aminti -și, opri se, face -și, rezerva își, aminti își, aminti și-, asigura se, cumpăra -și, face își, lovi s-, lua își, lăsa se, propune își, ridica se, răni -se, salva se, înscrie s-, întoarce se, abandona -se, alege își, amenaja și-, apropia se, apăra -se, apăra se, arunca -și, ascunde se, asigura -și, asuma își, băga se, considera se, croi -și, cumpăra și-, da își, deștepta se, dori își, fixa se, furniza -și, găsi își, indica și, integra și, intrebându -se, izbi -se, justifica se, legăna își, lua -și, lua și-, lumina -se, menține se</li>
 </ul>
 
 <h3>Relations Overview</h3>

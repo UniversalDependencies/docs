@@ -8,29 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `expl`.
+9 nodes (1%) are attached to their parents as `expl`.
 
-7 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.42857142857143.
+9 instances of `expl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.88888888888889.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="gsw_uzh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (3; 43% instances), <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (2; 29% instances), <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (1; 14% instances), <tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (1; 14% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 expl	color:blue
-1	es	_	PRON	PPER	_	5	expl	_	_
-2	isch	_	AUX	VAFIN	_	5	aux	_	_
-3	nämli	_	ADV	ADV	_	5	advmod	_	_
-4	echt	_	ADV	ADV	_	5	advmod	_	_
-5	usgstorbe	_	ADJ	ADJD	_	0	root	_	_
-6	gsi	_	AUX	VAPP	_	5	cop	_	SpaceAfter=No
-7	.	_	PUNCT	$.	_	5	punct	_	_
-
-~~~
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (4; 44% instances), <tt><a href="gsw_uzh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (3; 33% instances), <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (1; 11% instances), <tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -54,6 +37,23 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 13	ufhört	_	VERB	VVFIN	_	7	ccomp	_	_
 14	drääje	_	VERB	VVINF	_	13	xcomp	_	SpaceAfter=No
 15	!	_	PUNCT	$.	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 expl	color:blue
+1	es	_	PRON	PPER	_	5	expl	_	_
+2	isch	_	AUX	VAFIN	_	5	aux	_	_
+3	nämli	_	ADV	ADV	_	5	advmod	_	_
+4	echt	_	ADV	ADV	_	5	advmod	_	_
+5	usgstorbe	_	ADJ	ADJD	_	0	root	_	_
+6	gsi	_	AUX	VAPP	_	5	cop	_	SpaceAfter=No
+7	.	_	PUNCT	$.	_	5	punct	_	_
 
 ~~~
 

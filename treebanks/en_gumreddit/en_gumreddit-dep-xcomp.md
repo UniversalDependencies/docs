@@ -60,7 +60,7 @@ The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 10	_	_	NOUN	NN	Number=Sing	2	obl	2:obl:without	Lem=_|Len=7
 11	_	_	ADP	IN	_	13	case	13:case	Lem=_|Len=2
 12	_	_	DET	DT	Definite=Def|PronType=Art	13	det	13:det	Bridge=60<66|Entity=(66-organization-acc:inf-cf3-2-sgl|Lem=_|Len=3
-13	_	_	NOUN	NN	Number=Sing	10	nmod	10:nmod:by	CorrectForm=government|Entity=66)65)|Lem=government|Len=5|SpaceAfter=No|XML=<sic ana:::"government"></sic>
+13	_	_	NOUN	NN	Number=Sing|Typo=Yes	10	nmod	10:nmod:by	CorrectForm=government|Entity=66)65)|Lem=government|Len=5|SpaceAfter=No|XML=<sic ana:::"government"></sic>
 14	_	_	PUNCT	-RRB-	_	10	punct	10:punct	Lem=_|Len=1
 15	_	_	SCONJ	IN	_	18	mark	18:mark	Discourse=causal-result:58->56:1|Lem=_|Len=4
 16	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj|19:nsubj:xsubj	Entity=(64-object-giv:act-cf1-1-ana)|Lem=_|Len=2

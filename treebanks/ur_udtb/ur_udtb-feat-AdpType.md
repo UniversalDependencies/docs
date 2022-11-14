@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Post`.
 
-27467 tokens (20%) have a non-empty value of `AdpType`.
-153 types (1%) occur at least once with a non-empty value of `AdpType`.
-169 lemmas (2%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (27078; 20% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (389; 0% instances).
+27103 tokens (20%) have a non-empty value of `AdpType`.
+150 types (1%) occur at least once with a non-empty value of `AdpType`.
+168 lemmas (2%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (26714; 19% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (389; 0% instances).
 
 ### `ADP`
 
-27078 <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> tokens (96% of all `ADP` tokens) have a non-empty value of `AdpType`.
+26714 <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> tokens (96% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16865; 62%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16813; 62%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16771; 62%).
+The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16848; 63%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16806; 63%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16736; 63%).
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Post` (27078; 100% of non-empty `AdpType`): کے، نے، سے، مےں، کو، کی، پر، میں، کا، لیے
+* `Post` (26714; 100% of non-empty `AdpType`): کے، نے، سے، مےں، کو، کی، پر، میں، کا، لیے
 
-`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (158) occur only with one value of `AdpType`.
+`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (157) occur only with one value of `AdpType`.
 
 ### `ADV`
 
@@ -41,11 +41,9 @@ The most frequent other feature values with which `ADV` and `AdpType` co-occurre
 ## Relations with Agreement in `AdpType`
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
-<tt>ADV --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> ADP</tt> (28; 74%),
-<tt>ADP --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> ADP</tt> (1; 100%),
+<tt>ADV --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> ADP</tt> (29; 74%),
 <tt>ADP --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> ADP</tt> (1; 100%),
+<tt>ADV --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> ADV</tt> (1; 100%),
 <tt>ADV --[<tt><a href="ur_udtb-dep-dislocated.html">dislocated</a></tt>]--> ADP</tt> (1; 100%),
-<tt>ADV --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> ADP</tt> (1; 100%),
-<tt>ADV --[<tt><a href="ur_udtb-dep-punct.html">punct</a></tt>]--> ADP</tt> (1; 100%),
-<tt>ADV --[<tt><a href="ur_udtb-dep-punct.html">punct</a></tt>]--> ADV</tt> (1; 100%).
+<tt>ADV --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> ADP</tt> (1; 100%).
 

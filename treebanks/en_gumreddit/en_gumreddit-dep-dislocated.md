@@ -65,13 +65,13 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 12	_	_	AUX	MD	VerbForm=Fin	13	aux	13:aux	Lem=_|Len=4
 13	_	_	VERB	VB	VerbForm=Inf	8	conj	2:dislocated|8:conj:and	Lem=_|Len=9
 14	_	_	NOUN	NNS	Number=Plur	13	obj	13:obj	Entity=(2-person-giv:act-cf1*-1-coref)|Lem=human|Len=6
-15	_	_	SCONJ	WRB	PronType=Int	17	mark	17:mark	Discourse=context-circumstance:56->55:0|Lem=_|Len=4
+15	_	_	ADV	WRB	PronType=Int	17	advmod	17:advmod	Discourse=context-circumstance:56->55:0|Lem=_|Len=4
 16	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	17:nsubj	Entity=(2-person-giv:act-cf1*-1-ana)|Lem=_|Len=2
 17	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	13:advcl:when	Lem=_|Len=7
 18	_	_	SCONJ	IN	_	22	mark	22:mark	Discourse=elaboration-additional:57->56:0|Lem=_|Len=4
 19	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	22	nsubj	22:nsubj	Entity=(2-person-giv:act-cf1*-1-ana)|Lem=_|Len=2|SpaceAfter=No
 20	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	cop	22:cop	Lem=be|Len=3
-21	_	_	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	Entity=(2-person-giv:act-cf1*-2-coref(68-animal-giv:act-cf2-1-ana)|Lem=_|Len=5
+21	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	Entity=(2-person-giv:act-cf1*-2-coref(68-animal-giv:act-cf2-1-ana)|Lem=_|Len=5
 22	_	_	NOUN	NNS	Number=Plur	17	ccomp	17:ccomp	Entity=2)66)|Lem=servant|Len=8|SpaceAfter=No
 23	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1
 

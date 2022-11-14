@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-181 nodes (2%) are attached to their parents as `mark`.
+186 nodes (2%) are attached to their parents as `mark`.
 
-173 instances of `mark` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.69060773480663.
+178 instances of `mark` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.96774193548387.
 
-The following 16 pairs of parts of speech are connected with `mark`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (121; 67% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (20; 11% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (8; 4% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (7; 4% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (7; 4% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (6; 3% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `mark`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (129; 69% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (20; 11% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (10; 5% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (9; 5% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 6 4 mark	color:blue
 1	Kî	kî	PRON	prn	PronType=Int	2	nsubj	_	_
 2	zane	zanîn	VERB	vblex	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	_
-3	heye	hebûn	AUX	vbhaver	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	heye	hebûn	VERB	vbhaver	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	ko	ku	SCONJ	cnjsub	_	6	mark	_	_
 5	dengê	deng	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	3	ccomp	_	_
 6	cinan	cin	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	5	nmod:poss	_	_
@@ -58,23 +58,21 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 mark	color:blue
-1	Walê	walê	ADV	adv	_	2	advmod	_	_
-2	dixuye	xuyan	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	ko	ku	SCONJ	cnjsub	_	5	mark	_	_
-4	gelek	gelek	ADV	preadv	_	5	advmod	_	_
-5	xemxwar	xemxwar	ADJ	adj	Degree=Pos	2	ccomp	_	_
-6	e	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-7	û	û	CCONJ	cnjcoo	_	5	cc	_	_
-8	misîbetin	musîbet	NOUN	n	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	11	nsubj	_	_
-9	lê	li	ADP	pr	AdpType=Prep	10	case	_	_
-10	_	ew	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|PronType=Dem	11	nmod	_	_
-11	qewimîne	qewimin	VERB	vblex	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	SpaceAfter=No
-12	.	.	PUNCT	sent	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 mark	color:blue
+1	Piştî	piştî	ADP	pr	AdpType=Prep	6	mark	_	_
+2	ko	ku	SCONJ	cnjsub	_	1	fixed	_	_
+3	me	em	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+4	cihên	cih	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Plur	6	obj	_	_
+5	xwe	xwe	PRON	prn	Gender=Fem,Masc|Number=Plur,Sing|PronType=Prs|Reflex=Yes	4	nmod:poss	_	_
+6	girtin	girtin	VERB	vblex	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	advcl	_	_
+7	Holmes	Holmes	PROPN	np	Case=Acc|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	çira	çira	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	obj	_	_
+9	vemirand	vemirandin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	sent	_	9	punct	_	_
 
 ~~~
 

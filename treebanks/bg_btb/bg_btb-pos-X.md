@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>_</em>
 
 The 10 most frequent `X` types:  <em>бир, дакика</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> 2, <tt><a href="bg_btb-pos-X.html">X</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="bg_btb-pos-X.html">X</a></tt> 2)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.000000 (the average of all parts of speech is 1.727418).
+The form / lemma ratio of `X` is 2.000000 (the average of all parts of speech is 1.727244).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>бир, дакика</em>.
 

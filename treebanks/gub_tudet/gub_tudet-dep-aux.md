@@ -10,10 +10,10 @@ This relation is universal.
 
 183 nodes (2%) are attached to their parents as `aux`.
 
-174 instances of `aux` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.87978142076503.
+176 instances of `aux` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.85792349726776.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (170; 93% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (12; 7% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (169; 92% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (12; 7% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	aipo	aipo	PART	pcl	Int=Yes	1	discourse	_	_
 3	ur	ur	VERB	vi	Person[subj]=3	0	root	_	_
 4	iko	iko	AUX	aux	Aspect=Prog|Person[subj]=3	3	aux	_	_
-5	aʔe	aʔe	PRON	pro	Person=3|PronType=Dem	3	obl:subj	_	_
+5	aʔe	aʔe	PRON	pro	PronType=Dem	1	discourse	_	_
 
 ~~~
 
@@ -37,11 +37,11 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 aux	color:blue
-1	Maʔemaʔe	maʔe	NOUN	n	Red=Di	2	nmod	_	_
+1	Maʔemaʔe	maʔe	PRON	pro	Red=Di	2	nmod	_	_
 2	xixi	xiro	NOUN	n	Red=Mo|Rel=Cont	6	obl	_	_
 3	gatu	katu	NOUN	n	Rel=Cont	2	nmod	_	_
 4	rumu	romo	ADP	posp	Rel=Cont	2	case	_	_
-5	zekaipo	kwehe	ADV	adv	Evident=Nfh	2	advmod	_	_
+5	zekaipo	kwehe	ADV	adv	Evident=Nfh|Int=Yes	2	advmod	_	_
 6	zeapo	apo	NOUN	n	Reflex=Yes|Rel=Cont	0	root	_	_
 7	iko	iko	AUX	aux	Aspect=Prog|Person[subj]=3	6	aux	_	_
 8	aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	6	obl	_	_
@@ -62,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	hupi	upi	ADP	posp	Rel=NCont	0	root	_	_
 4	ʔa	ʔa	NOUN	n	_	3	nmod	_	_
 5	upa	pa	AUX	aux	Person[subj]=3	3	aux	_	_
-6	aʔe	aʔe	PRON	pro	Person=3|PronType=Dem	3	discourse	_	_
+6	aʔe	aʔe	PRON	pro	PronType=Dem	3	discourse	_	_
 7	kurɨ	kurɨ	PART	pcl	_	3	discourse	_	_
 8	.	.	PUNCT	punct	_	3	punct	_	_
 

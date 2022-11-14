@@ -196,7 +196,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 
 `ADV` tokens may have the following values of `Person`:
 
-* `3` (8; 100% of non-empty `Person`): <em>kennen, aussen, bevorzugt, herausstellte, scheint, ﻿Auch</em>
+* `3` (8; 100% of non-empty `Person`): <em>kennen, Auch, aussen, bevorzugt, herausstellte, scheint</em>
 * `EMPTY` (14836): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ### `PART`
@@ -228,7 +228,7 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 `CCONJ` tokens may have the following values of `Person`:
 
 * `1` (1; 33% of non-empty `Person`): <em>hatte</em>
-* `3` (2; 67% of non-empty `Person`): <em>bzw, ﻿Um</em>
+* `3` (2; 67% of non-empty `Person`): <em>Um, bzw</em>
 * `EMPTY` (8840): <em>und, oder, sowie, aber, sondern, als, wie, sowohl, doch, and</em>
 
 ### `PUNCT`

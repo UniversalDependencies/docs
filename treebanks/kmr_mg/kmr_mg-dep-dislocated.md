@@ -13,7 +13,7 @@ This relation is universal.
 2 instances of `dislocated` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 12.5.
 
-The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 50% instances).
+The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -25,8 +25,8 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Piştre	piştre	ADV	adv	_	12	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	cm	_	10	punct	_	_
 3	heçko	heçko	SCONJ	cnjsub	_	10	mark	_	_
-4	bi	bi	X	x	_	5	dep	_	_
-5	tenê	tenê	ADP	pr	AdpType=Prep	7	case	_	_
+4	bi	bi	ADP	x	_	7	case	_	_
+5	tenê	tenê	ADP	pr	AdpType=Prep	4	fixed	_	_
 6	ji	ji	ADP	pr	AdpType=Prep	7	case	_	_
 7	nefsa	nefs	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	_
 8	xwe	xwe	PRON	prn	Gender=Fem,Masc|Number=Plur,Sing|PronType=Prs|Reflex=Yes	7	nmod:poss	_	_
@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 30	_	ew	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	31	nmod	_	_
 31	xeternaktir	xeternak	ADJ	adj	Degree=Cmp	32	amod	_	_
 32	kes	kes	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	33	nsubj	_	_
-33	nîne	hebûn	AUX	vbhaver	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	14	ccomp	_	SpaceAfter=No
+33	nîne	hebûn	VERB	vbhaver	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	14	ccomp	_	SpaceAfter=No
 34	.	.	PUNCT	sent	_	12	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 2 dislocated	color:blue
-1	Heçî	herçî	PRON	prn	Gender=Fem,Masc|Number=Sing|PronType=Ind	10	advmod	_	_
+1	Heçî	herçî	ADV	adv	_	10	advmod	_	_
 2	Hêlên	Hêlên	PROPN	np	Case=Nom|Gender=Fem|Number=Sing	10	dislocated	_	SpaceAfter=No
 3	;	;	PUNCT	sent	_	2	punct	_	_
 4	piştî	piştî	ADP	pr	AdpType=Prep	10	mark	_	_

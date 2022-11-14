@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Relations: `acl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `acl`: <tt><a href="sms_giellagas-dep-acl-relcl.html">acl:relcl</a></tt>.
 
 1 nodes (0%) are attached to their parents as `acl`.
 

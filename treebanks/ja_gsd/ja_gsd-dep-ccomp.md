@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-392 nodes (0%) are attached to their parents as `ccomp`.
+390 nodes (0%) are attached to their parents as `ccomp`.
 
-392 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.73979591836735.
+390 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.72820512820513.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (274; 70% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (78; 20% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (39; 10% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (272; 70% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (78; 20% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (39; 10% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -68,7 +68,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 17 ccomp	color:blue
-1	麺棒	麺棒	NOUN	名詞-普通名詞-一般	_	20	dislocated	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=,麺棒,麺棒,麺棒,メンボー,,,メンボウ,メンボウ,麺棒
+1	麺棒	麺棒	NOUN	名詞-普通名詞-一般	_	20	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=,麺棒,麺棒,麺棒,メンボー,,,メンボウ,メンボウ,麺棒
 2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
 3	直径	直径	NOUN	名詞-普通名詞-一般	_	7	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=,直径,直径,直径,チョッケー,,,チョッケイ,チョッケイ,直径
 4	2	2	NUM	名詞-数詞	_	7	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=,二,2,2,ニ,,,ニ,ニサンセンチメートル,2~3cm

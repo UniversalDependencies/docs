@@ -32,7 +32,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 8	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Graça	_	PROPN	PNOUN	_	6	nmod	_	_
 10	--	_	PUNCT	.	_	6	punct	_	_
-11	08	_	NUM	NUM	NumType=Card	6	nmod	_	_
+11	08	08	NUM	NUM	NumType=Card	6	nmod	_	_
 12	de	de	ADP	ADP	_	13	case	_	_
 13	Setembro	_	PROPN	PNOUN	_	11	nmod	_	SpaceAfter=No
 14	;	_	PUNCT	.	_	1	punct	_	_
@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 15	Lago	_	PROPN	PNOUN	_	12	nmod	_	_
 16	Michigan	_	PROPN	PNOUN	_	15	flat	_	_
 17	e	e	CCONJ	CONJ	_	21	cc	_	_
-18	a	o	DET	DET	_	19	det	_	_
+18	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	cidade	cidade	NOUN	NOUN	_	21	nsubj	_	_
 20	se	_	PRON	PRON	_	21	obj	_	_
 21	prepara	preparar	VERB	VERB	_	4	conj	_	_
@@ -71,7 +71,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 23	receber	receber	VERB	VERB	_	21	xcomp	_	_
 24	ventos	vento	NOUN	NOUN	_	23	obj	_	_
 25	de	de	ADP	ADP	_	27	case	_	_
-26	96	_	NUM	NUM	NumType=Card	27	nummod	_	_
+26	96	96	NUM	NUM	NumType=Card	27	nummod	_	_
 27	km	km	NOUN	NOUN	_	24	nmod	_	SpaceAfter=No
 28	/	/	PUNCT	.	_	27	punct	_	SpaceAfter=No
 29	h	h	NOUN	_	_	27	conj	_	_
@@ -80,7 +80,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 32	de	de	ADP	ADP	_	36	case	_	_
 33	mais	mais	ADV	ADV	_	35	advmod	_	_
 34	de	de	ADP	ADP	_	35	case	_	_
-35	7	_	NUM	NUM	NumType=Card	36	nummod	_	_
+35	7	7	NUM	NUM	NumType=Card	36	nummod	_	_
 36	m	m	NOUN	NOUN	_	31	nmod	_	_
 37	até	_	ADP	ADP	_	38	case	_	_
 38	quarta	_	NOUN	PNOUN	_	23	obl	_	SpaceAfter=No

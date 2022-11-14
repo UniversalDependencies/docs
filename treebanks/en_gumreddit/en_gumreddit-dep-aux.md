@@ -102,7 +102,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 13	_	_	NOUN	NN	Number=Sing	14	compound	14:compound	Lem=_|Len=7
 14	_	_	NOUN	NN	Number=Sing	3	conj	3:conj:but	Lem=_|Len=11
 15	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=3
-16	_	_	NOUN	NN	Number=Sing	14	nmod	14:nmod:for	Entity=(152-person-new-cf4-1-sgl|Lem=_|Len=7
+16	_	_	PRON	NN	Number=Sing|PronType=Ind	14	nmod	14:nmod:for	Entity=(152-person-new-cf4-1-sgl|Lem=_|Len=7
 17	_	_	VERB	VBG	VerbForm=Ger	16	acl	16:acl	Discourse=elaboration-attribute:158->157:0|Lem=try|Len=6
 18	_	_	PART	TO	_	19	mark	19:mark	Lem=_|Len=2
 19	_	_	VERB	VB	VerbForm=Inf	17	xcomp	17:xcomp	Lem=_|Len=10

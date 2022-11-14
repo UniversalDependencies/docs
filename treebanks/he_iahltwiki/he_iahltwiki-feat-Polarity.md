@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="he_iahltwiki-pos-AU
 
 590 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (62% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (496; 84%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (476; 81%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (432; 73%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (386; 65%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (374; 63%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (366; 62%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (496; 84%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (476; 81%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (432; 73%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt> (429; 73%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (386; 65%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (374; 63%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (366; 62%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 264 <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (264; 100%), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (264; 100%), <tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (264; 100%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (226; 86%), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (220; 83%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (213; 81%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (150; 57%).
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (264; 100%), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (264; 100%), <tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (264; 100%), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (264; 100%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (226; 86%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (213; 81%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (150; 57%).
 
 `PRON` tokens may have the following values of `Polarity`:
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 
 207 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (202; 98%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (166; 80%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=EMPTY</tt> (164; 79%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (136; 66%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (110; 53%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (108; 52%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (107; 52%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (202; 98%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (166; 80%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (136; 66%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=EMPTY</tt> (135; 65%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (110; 53%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (108; 52%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (107; 52%).
 
 `VERB` tokens may have the following values of `Polarity`:
 

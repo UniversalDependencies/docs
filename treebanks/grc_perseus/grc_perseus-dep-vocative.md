@@ -22,7 +22,7 @@ The following 16 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 vocative	color:blue
-1	ὦ	ὦ	INTJ	i--------	_	2	advmod	_	_
+1	ὦ	ὦ	INTJ	i--------	_	2	discourse	_	_
 2	ξένε	ξένος	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	2	punct	_	_
 4	οὐδεὶς	οὐδείς	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	_
@@ -46,7 +46,7 @@ The following 16 pairs of parts of speech are connected with `vocative`: <tt><a 
 3	,	,	PUNCT	u--------	_	2	punct	_	_
 4	εἶπεν	εἶπον	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	u--------	_	7	punct	_	_
-6	ὦ	ὦ	INTJ	i--------	_	7	advmod	_	_
+6	ὦ	ὦ	INTJ	i--------	_	7	discourse	_	_
 7	ξένοι	ξένος	ADJ	a-p---mv-	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	SpaceAfter=No
 8	·	·	PUNCT	u--------	_	4	punct	_	_
 
@@ -64,7 +64,7 @@ The following 16 pairs of parts of speech are connected with `vocative`: <tt><a 
 3	τιν̓	τις	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	_
 4	ἐξήνεγκας	ἐκφέρω	VERB	v2saia---	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	u--------	_	7	punct	_	_
-6	ὦ	ὦ	INTJ	i--------	_	7	advmod	_	_
+6	ὦ	ὦ	INTJ	i--------	_	7	discourse	_	_
 7	τέκνον	τέκνον	NOUN	n-s---nv-	Case=Voc|Gender=Neut|Number=Sing	4	vocative	_	SpaceAfter=No
 8	,	,	PUNCT	u--------	_	7	punct	_	_
 9	λόγον	λόγος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No

@@ -64,7 +64,7 @@ The following 2 pairs of parts of speech are connected with `list`: <tt><a href=
 17	,	,	PUNCT	_	_	16	punct	_	_
 18	гүн	гүн	ADJ	_	_	19	amod	_	_
 19	ухаан	ухаан	NOUN	_	Case=Nom	0	root	_	_
-20	юм	юм	AUX	_	Evident=Fh	19	discourse	_	SpaceAfter=No
+20	юм	юм	PART	_	Evident=Fh	19	discourse	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	19	punct	_	_
 
 ~~~

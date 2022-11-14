@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.290924).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.292021).
 
 The 1st highest number of forms (1) was observed with the lemma “antin”: <em>antin</em>.
 
@@ -38,13 +38,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ella”: <em>
 
 Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (174; 59% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (45; 15% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (33; 11% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (22; 7% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (13; 4% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-296 (100%) `CCONJ` nodes are leaves.
+297 (100%) `CCONJ` nodes are leaves.
 
-1 (0%) `CCONJ` nodes have one child.
-
-The highest child degree of a `CCONJ` node is 1.
-
-Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="fo_oft-dep-nmod-poss.html">nmod:poss</a></tt> (1; 100% instances)
-
-Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 100% instances)
+The highest child degree of a `CCONJ` node is 0.
 

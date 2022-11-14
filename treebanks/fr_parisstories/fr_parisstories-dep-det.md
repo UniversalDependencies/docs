@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2393 nodes (8%) are attached to their parents as `det`.
+3228 nodes (8%) are attached to their parents as `det`.
 
-2391 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16715419974927.
+3227 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11524163568773.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2246; 94% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (83; 3% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3018; 93% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (100; 3% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (27; 1% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (25; 1% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 det	color:blue
-1	donc	donc	ADV	_	_	4	discourse	_	_
+1	donc	donc	ADV	_	_	4	advmod	_	_
 2	comment	comment	ADV	_	_	4	advmod	_	_
 3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -54,25 +54,25 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 ~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 det	color:blue
-1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	y	y	PRON	_	Person=3|PronType=Prs	3	obl:mod	_	_
-3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
-5	cours	cours	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
-6	que	que	PRON	_	_	8	obj	_	_
-7	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No
-8	aime	aimer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
-10	d'	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	11	det	_	SpaceAfter=No
-11	autres	autre	PRON	_	Gender=Masc|Number=Plur	5	conj	_	_
-12	que	que	PRON	_	_	14	obj	_	_
-13	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	SpaceAfter=No
-14	aime	aimer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
-15	moins	moins	ADV	_	_	14	advmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 10 det	color:blue
+1	de	de	ADP	_	_	3	case	_	AlignBegin=15302|AlignEnd=15662|wordform=du
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	coup	coup	NOUN	_	Gender=Masc|Number=Sing	9	discourse	_	AlignBegin=15662|AlignEnd=16022|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=16022|AlignEnd=16022
+5	ben	ben	INTJ	_	_	9	discourse	_	AlignBegin=16022|AlignEnd=16383|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=16383|AlignEnd=16383
+7	XXX	XXX	PROPN	_	_	9	dep	_	AlignBegin=16383|AlignEnd=16743|Scrap=Yes|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	AlignBegin=16743|AlignEnd=16743
+9	truc	truc	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=16743|AlignEnd=17103
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	AlignBegin=17103|AlignEnd=17463
+11	plus	plus	ADV	_	_	12	advmod	_	AlignBegin=17463|AlignEnd=17823
+12	ridicule	ridicule	ADJ	_	_	9	nmod	_	AlignBegin=17823|AlignEnd=18184
+13	à	à	ADP	_	_	15	case	_	AlignBegin=18184|AlignEnd=18544|wordform=au
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	monde	monde	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	AlignBegin=18544|AlignEnd=18904
+16	!	!	PUNCT	_	_	9	punct	_	AlignBegin=18904|AlignEnd=18904
 
 ~~~
 

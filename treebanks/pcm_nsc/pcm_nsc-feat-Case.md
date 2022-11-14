@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 
-14750 tokens (10%) have a non-empty value of `Case`.
-66 types (1%) occur at least once with a non-empty value of `Case`.
-39 lemmas (1%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (14728; 10% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+14749 tokens (10%) have a non-empty value of `Case`.
+67 types (1%) occur at least once with a non-empty value of `Case`.
+40 lemmas (1%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (14727; 10% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-14728 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Case`.
+14727 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="pcm_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14728; 100%), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14710; 100%), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8162; 55%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="pcm_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14727; 100%), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14709; 100%), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8162; 55%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (2840; 19% of non-empty `Case`): <em>am, me, dem, us, una, her, yourself, mysef, oursef, yoursef</em>
-* `Nom` (11888; 81% of non-empty `Case`): <em>I, you, e, we, de, im, dem, me, she, una</em>
+* `Nom` (11887; 81% of non-empty `Case`): <em>I, you, e, we, de, im, dem, me, she, una</em>
 * `EMPTY` (3634): <em>my, your, wetin, dat, our, deir, dis, everybody, all, her</em>
 
 <table>
@@ -38,7 +38,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 `X` tokens may have the following values of `Case`:
 
 * `Nom` (6; 100% of non-empty `Case`): <em>>+, [, de, {, ||, }</em>
-* `EMPTY` (40224): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40225): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ### `NOUN`
 
@@ -48,8 +48,8 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Gen` (5; 100% of non-empty `Case`): <em>guy's, Champions', childs, people's</em>
-* `EMPTY` (14740): <em>people, one, money, ting, school, time, man, person, house, work</em>
+* `Gen` (5; 100% of non-empty `Case`): <em>Champions', childs, guy, guy's, people's</em>
+* `EMPTY` (14739): <em>people, one, money, ting, school, time, man, person, house, work</em>
 
 ### `PROPN`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `AUX` tokens may have the following values of `Case`:
 
 * `Nom` (4; 100% of non-empty `Case`): <em>'m, Don, be</em>
-* `EMPTY` (13716): <em>dey, go, na, no, con, don, be, make, fit, come</em>
+* `EMPTY` (13717): <em>dey, go, na, no, con, don, be, make, fit, come</em>
 
 ### `PART`
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 `PART` tokens may have the following values of `Case`:
 
 * `Acc` (1; 100% of non-empty `Case`): <em>masef</em>
-* `EMPTY` (1353): <em>o, sef, no, sha, not, dem, ma, n't, shey, ni</em>
+* `EMPTY` (1356): <em>o, sef, no, sha, not, dem, ma, n't, shey, ni</em>
 
 ### `SCONJ`
 
@@ -89,17 +89,16 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 `SCONJ` tokens may have the following values of `Case`:
 
 * `Nom` (1; 100% of non-empty `Case`): <em>sey</em>
-* `EMPTY` (4930): <em>sey, wey, if, because, make, so, dat, wen, meh, take</em>
+* `EMPTY` (4929): <em>sey, wey, if, because, make, so, dat, wen, meh, take</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (103; 93%),
+<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (111; 90%),
 <tt>PRON --[<tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt>]--> PRON</tt> (10; 83%),
 <tt>PRON --[<tt><a href="pcm_nsc-dep-dep.html">dep</a></tt>]--> PRON</tt> (3; 60%),
-<tt>PRON --[<tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt>]--> PRON</tt> (3; 100%),
 <tt>PRON --[<tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="pcm_nsc-dep-flat.html">flat</a></tt>]--> AUX</tt> (1; 100%).
+<tt>PRON --[<tt><a href="pcm_nsc-dep-flat.html">flat</a></tt>]--> AUX</tt> (1; 100%),
+<tt>PRON --[<tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt>]--> PRON</tt> (1; 100%).
 

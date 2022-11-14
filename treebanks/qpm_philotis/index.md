@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Ritván Karahóǧa, Vivian Stamou, Stella Markantonatou.
 
 Repository: [UD_Pomak-Philotis](https://github.com/UniversalDependencies/UD_Pomak-Philotis)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqpm_philotis210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqpm_philotis211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -52,8 +52,9 @@ R.C. (http://www.ilsp.gr).
 
 The Pomak UD treebank consists of 6351 sentences (86782 tokens). The
 data in the current release derive from primary texts that will be made available soon on the repositories of the Philotis project (https://www.ilsp.gr/en/projects/filotis-en/). The treebank is licensed under the terms of [Creative
-Commons Attribution-NonCommercial-ShareAlike, CC BY-NC-SA
-3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 
 The morphological annotation of the Pomak UD treebank
 was originally created by applying the morphological database Rodopsky to the texts and then by extensive manual correction by two annotators.

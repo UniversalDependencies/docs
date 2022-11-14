@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3 2 det	color:blue
 1	Öğrencilerin	öğrenci	NOUN	_	Case=Gen|Number=Plur	3	nmod:part	_	_
 2	her	her	DET	_	Definite=Def|PronType=Art	3	det	_	_
-3	birinin	biri	PRON	_	Case=Gen|Number=Sing|PronType=Ind	6	nmod	_	_
+3	birinin	biri	PRON	_	Case=Gen|Number=Sing|PronType=Ind	6	obl	_	_
 4	ayrı	ayrı	ADJ	_	_	6	amod	_	_
 5	bir	bir	DET	_	Definite=Ind|PronType=Art	6	det	_	_
 6	mazereti	mazeret	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	_

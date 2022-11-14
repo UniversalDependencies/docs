@@ -6,27 +6,27 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: POS Tags: `CCONJ`
 
-There are 9 `CCONJ` lemmas (0%), 9 `CCONJ` types (0%) and 349 `CCONJ` tokens (2%).
+There are 9 `CCONJ` lemmas (0%), 9 `CCONJ` types (0%) and 389 `CCONJ` tokens (2%).
 Out of 16 observed tags, the rank of `CCONJ` is: 15 in number of lemmas, 15 in number of types and 10 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>ды, эли, но, а, и, куть, ансяк, или, прок</em>
+The 10 most frequent `CCONJ` lemmas: <em>ды, эли, но, а, и, или, куть, ансяк, прок</em>
 
-The 10 most frequent `CCONJ` types:  <em>ды, эли, но, а, и, куть, ансяк, или, прок</em>
+The 10 most frequent `CCONJ` types:  <em>ды, эли, но, а, и, или, куть, ансяк, прок</em>
 
-The 10 most frequent ambiguous lemmas: <em>ды</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 288, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1), <em>но</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1, <tt><a href="myv_jr-pos-X.html">X</a></tt> 1), <em>а</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 347, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>и</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1), <em>куть</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1), <em>ансяк</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 86, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1), <em>прок</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 35, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 12, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> 1, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ды</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 321, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1), <em>но</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1, <tt><a href="myv_jr-pos-X.html">X</a></tt> 1), <em>а</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 426, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>и</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1), <em>куть</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1), <em>ансяк</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 98, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1), <em>прок</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 37, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 12, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> 1, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ды</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 270, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1), <em>но</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 11, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1, <tt><a href="myv_jr-pos-X.html">X</a></tt> 1), <em>а</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 158, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 5), <em>и</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1), <em>куть</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1), <em>ансяк</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 58, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1), <em>прок</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 32, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 10, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> 1, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ды</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 301, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1), <em>но</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 11, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1, <tt><a href="myv_jr-pos-X.html">X</a></tt> 1), <em>а</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 207, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 5), <em>и</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1), <em>куть</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1), <em>ансяк</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 66, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1), <em>прок</em> (<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 33, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 10, <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> 1, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>ды</em>
-  * <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 270: <em>Аволь пек шумазь охаесь <b>ды</b> кувсесь .</em>
+  * <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 301: <em>Аволь пек шумазь охаесь <b>ды</b> кувсесь .</em>
   * <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1: <em>Кодамо сон илязо уле , виде эли кадык тей-тов менчевиця , козоньгак <b>ды</b> ветятанзат .</em>
 * <em>но</em>
   * <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 11: <em>Эрьвейкень сэредсь седеезэ Любань кис , <b>но</b> лездамс а кода те тевентень .</em>
   * <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1: <em>Читькак лиснить , <b>но</b> сехте сеедьстэ — веть .</em>
   * <tt><a href="myv_jr-pos-X.html">X</a></tt> 1: <em>Сень лангсо сёрмадовксонтькак ловнызь : « Ни тебе , ни мне , <b>но</b> имени твоему » .</em>
 * <em>а</em>
-  * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 158: <em>― Конат <b>а</b> молить мартонзо ― ледни , ули-парост сайни .</em>
+  * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 207: <em>― Конат <b>а</b> молить мартонзо ― ледни , ули-парост сайни .</em>
   * <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 5: <em>Колияк <b>а</b> паро ёндо , <b>а</b> берянь ёндо эссе ледстне советэнь властенть .</em>
 * <em>и</em>
   * <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 4: <em>И сорны , <b>и</b> дивси народось .</em>
@@ -35,10 +35,10 @@ The 10 most frequent ambiguous types:  <em>ды</em> (<tt><a href="myv_jr-pos-CC
   * <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Кода ледить мельган винтовкасо , мон лоткинь ды кедень кепединь , арьсян : <b>куть</b> чийть , <b>куть</b> иля — яла теке сасатадызь ды ломатнеяк , арьсян , паряк , миньсинек .</em>
   * <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 1: <em>Саемс <b>куть</b> течинь чинть : Федоров служась обеднятнень истя парсте , истя парсте , кода колияк эзь служа .</em>
 * <em>ансяк</em>
-  * <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 58: <em>Аволь <b>ансяк</b> « кузтеминеть » ды « кузнэть » кедьгесэнзэ .</em>
+  * <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 66: <em>Аволь <b>ансяк</b> « кузтеминеть » ды « кузнэть » кедьгесэнзэ .</em>
   * <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Сон варштась удалов , <b>ансяк</b> виев кандыловонть экшстэ эзизе нее аванзо ...</em>
 * <em>прок</em>
-  * <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 32: <em>Аштесть чатьмонезь <b>прок</b> кундадость весень келест .</em>
+  * <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> 33: <em>Аштесть чатьмонезь <b>прок</b> кундадость весень келест .</em>
   * <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 10: <em>Лишмезэ <b>прок</b> щука кал уйсь роштятнень юткова .</em>
   * <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Лужаня вайгелезэ ацазь ацавсь ловонть ланга , <b>прок</b> лайшесь .</em>
   * <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> 1: <em>Ломантне кувать тердема эзть учо : веленть эрьва ёндо <b>прок</b> реветь мольсть церьковантень .</em>
@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>ды</em> (<tt><a href="myv_jr-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 2.042397).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 2.080808).
 
 The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 
@@ -59,11 +59,11 @@ The 3rd highest number of forms (1) was observed with the lemma “ды”: <em>
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="myv_jr-dep-cc.html">cc</a></tt> (340; 97% instances), <tt><a href="myv_jr-dep-cc-preconj.html">cc:preconj</a></tt> (5; 1% instances), <tt><a href="myv_jr-dep-mark.html">mark</a></tt> (3; 1% instances), <tt><a href="myv_jr-dep-advmod.html">advmod</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="myv_jr-dep-cc.html">cc</a></tt> (380; 98% instances), <tt><a href="myv_jr-dep-cc-preconj.html">cc:preconj</a></tt> (5; 1% instances), <tt><a href="myv_jr-dep-mark.html">mark</a></tt> (3; 1% instances), <tt><a href="myv_jr-dep-advmod.html">advmod</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (237; 68% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (65; 19% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (15; 4% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (12; 3% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (261; 67% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (74; 19% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (14; 4% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 1% instances)
 
-348 (100%) `CCONJ` nodes are leaves.
+388 (100%) `CCONJ` nodes are leaves.
 
 1 (0%) `CCONJ` nodes have one child.
 

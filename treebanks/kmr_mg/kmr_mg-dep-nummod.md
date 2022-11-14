@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	û	û	CCONJ	cnjcoo	_	6	cc	_	_
 8	hin	hin	DET	det	Gender=Fem,Masc|Number=Plur,Sing|PronType=Ind	9	det	_	_
 9	salan	sal	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	11	nmod	_	_
-10	hate	hatin	VERB	vblex	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
+10	hate	hatin	AUX	vblex	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
 11	ava kirin	avakirin	VERB	vblex	VerbForm=Inf	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	sent	_	11	punct	_	_
 

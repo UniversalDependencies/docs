@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-76 nodes (0%) are attached to their parents as `ccomp`.
+75 nodes (0%) are attached to their parents as `ccomp`.
 
-76 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.01315789473684.
+75 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.02666666666667.
 
-The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (54; 71% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (17; 22% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (5; 7% instances).
+The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (53; 71% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (17; 23% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (5; 7% instances).
 
 
 ~~~ conllu
@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 14	fgColor:white
 # visual-style 14 8 ccomp	color:blue
 1	「	「	PUNCT	補助記号-括弧開	_	2	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧開|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
-2	私	私	PRON	代名詞	_	8	dislocated	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No|UnidicInfo=,私,私,私,ワタシ,,,ワタシ,ワタシ,私
+2	私	私	PRON	代名詞	_	8	nsubj:outer	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No|UnidicInfo=,私,私,私,ワタシ,,,ワタシ,ワタシ,私
 3	は	は	ADP	助詞-係助詞	_	2	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
 4	、	、	PUNCT	補助記号-読点	_	2	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 5	トロピカル	トロピカル	NOUN	名詞-普通名詞-一般	_	6	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=,トロピカル,トロピカル,トロピカル,トロピカル,,,トロピカル,トロピカルカラー,トロピカルカラー

@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 11 12 goeswith	color:blue
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=adversative-contrast_m:101->96:1|Entity=(101-abstract-new-cf2-3-sgl
 2	simplest	simple	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
-3	way	way	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=101)
+3	way	way	NOUN	NN	Number=Sing	7	nsubj:outer	7:nsubj:outer	Entity=101)
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 5	to	to	PART	TO	_	7	mark	7:mark	_
 6	just	just	ADV	RB	_	7	advmod	7:advmod	_
@@ -80,7 +80,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 8	people	person	NOUN	NNS	Number=Plur	12	nsubj	12:nsubj|14:nsubj:xsubj	Entity=(103-person-new-cf5-1-sgl
 9	in	in	ADP	IN	_	11	case	11:case	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	Entity=(65-abstract-giv:inact-cf4-2-coref
-11	residential	residential	ADJ	JJ	Degree=Pos	8	nmod	8:nmod:in	CorrectForm=residential sector|Entity=65)103)|XML=<sic ana:::"residential sector"></sic>
+11	residential	residential	ADJ	JJ	Degree=Pos|Typo=Yes	8	nmod	8:nmod:in	CorrectForm=residential sector|Entity=65)103)|XML=<sic ana:::"residential sector"></sic>
 12	end	end	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 13	up	up	ADP	RP	_	12	compound:prt	12:compound:prt	_
 14	choosing	choose	VERB	VBG	VerbForm=Ger	12	xcomp	12:xcomp	Entity=(104-event-new-cf1-1-disc
@@ -88,12 +88,12 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 16	lamp	lamp	NOUN	NN	Number=Sing	14	obj	14:obj	Entity=105)
 17	based	base	VERB	VBN	Tense=Past|VerbForm=Part	14	advcl	14:advcl	Discourse=elaboration-additional:64->63:0
 18	on	on	ADP	IN	_	21	case	21:case	_
-19	it	its	PRON	PRP$	PronType=Prs|Typo=Yes	21	nmod:poss	21:nmod:poss	CorrectForm=its|Entity=(106-abstract-new-cf6-3-sgl(105-object-giv:act-cf3-1-ana|XML=<sic ana:::"its">
+19	it	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Typo=Yes	21	nmod:poss	21:nmod:poss	CorrectForm=its|Entity=(106-abstract-new-cf6-3-sgl(105-object-giv:act-cf3-1-ana|XML=<sic ana:::"its">
 20	is	_	X	POS	_	19	goeswith	19:goeswith	CorrectForm=_|Entity=105)|XML=</sic>
 21	price	price	NOUN	NN	Number=Sing	17	obl	17:obl:on	Entity=106)
 22	rather	rather	ADV	RB	_	25	cc	25:cc	_
 23	than	than	ADP	IN	_	22	fixed	22:fixed	_
-24	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	Entity=(107-abstract-new-cf7-2-coref(105-object-giv:act-cf3-1-ana)
+24	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	Entity=(107-abstract-new-cf7-2-coref(105-object-giv:act-cf3-1-ana)
 25	efficiency	efficiency	NOUN	NN	Number=Sing	21	conj	17:obl:on|21:conj:rather_than	Entity=107)104)
 26	and	and	CCONJ	CC	_	28	cc	28:cc	Discourse=elaboration-additional:65->61:1
 27	this	this	PRON	DT	Number=Sing|PronType=Dem	28	nsubj	28:nsubj	Entity=(104-event-giv:act-cf1-1-coref)
@@ -102,7 +102,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 30	to	to	PART	TO	_	31	mark	31:mark	_
 31	pay	pay	VERB	VB	VerbForm=Inf	28	xcomp	28:xcomp	_
 32	for	for	ADP	IN	_	34	case	34:case	_
-33	our	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	34	nmod:poss	34:nmod:poss	Entity=(109-abstract-new-cf8-2-sgl(108-person-giv:act-cf2-1-ana)
+33	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	34	nmod:poss	34:nmod:poss	Entity=(109-abstract-new-cf8-2-sgl(108-person-giv:act-cf2-1-ana)
 34	lighting	lighting	NOUN	NN	Number=Sing	31	obl	31:obl:for	Entity=109)
 35	more	more	ADJ	JJR	Degree=Cmp	31	obj	31:obj	_
 36	than	than	ADP	IN	_	37	case	37:case	_

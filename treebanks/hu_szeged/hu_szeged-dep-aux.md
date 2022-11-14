@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-31 nodes (0%) are attached to their parents as `aux`.
+32 nodes (0%) are attached to their parents as `aux`.
 
-21 instances of `aux` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.12903225806452.
+22 instances of `aux` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.21875.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (30; 97% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (1; 3% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (29; 91% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (3; 9% instances).
 
 
 ~~~ conllu
@@ -25,40 +25,40 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Bár	bár	SCONJ	_	_	3	mark	_	_
 2	name	ne	ADV	_	PronType=Neg	3	advmod	_	_
 3	tettem	tesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	volna	volna	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	aux	_	SpaceAfter=No
+4	volna	van	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 16 aux	color:blue
-1	Jorge	Jorge	PROPN	_	Case=Nom|Number=Sing	3	appos	_	_
-2	Faliba	Faliba	PROPN	_	Case=Nom|Number=Sing	1	flat:name	_	_
-3	atya	atya	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
-4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
-5	rendőrségen	rendőrség	NOUN	_	Case=Sup|Number=Sing	6	obl	_	_
-6	bevallotta	be+vall	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	14	punct	_	_
-8	hogy	hogy	SCONJ	_	_	14	mark	_	_
-9	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_
-10	már	már	ADV	_	_	14	advmod:tlocy	_	_
-11	az	az	DET	_	Definite=Def|PronType=Art	14	det	_	_
-12	ötödik	ötödik	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	14	amod:att	_	_
-13	nemzetközi	nemzetközi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	amod:att	_	_
-14	csempészútja	csempészút	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	ccomp:obj	_	_
-15	lett	lesz	AUX	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	_
-16	volna	volna	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	14	aux	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	21	punct	_	_
-18	ám	ám	CCONJ	_	_	21	cc	_	_
-19	jó	jó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	20	amod:att	_	_
-20	ügyet	ügy	NOUN	_	Case=Acc|Number=Sing	21	obj	_	_
-21	szolgál	szolgál	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 21 aux	color:blue
+1	Ezzel	ez	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	5	obl	_	_
+2	csak	csak	ADV	_	_	5	advmod:mode	_	_
+3	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	5	obj	_	_
+4	akarjuk	akar	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	mondani	mond	VERB	_	VerbForm=Inf|Voice=Act	4	xcomp	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	18	punct	_	_
+7	ha	ha	SCONJ	_	_	12	mark	_	_
+8	elbeszélésünk	elbeszélés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	10	nmod:att	_	_
+9	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	10	amod:att	_	_
+10	embere	ember	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	_
+11	magára	maga	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	obl	_	_
+12	ölti	ölt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	_
+13	a	a	DET	_	Definite=Def|PronType=Art	14	det	_	_
+14	partizán-módit	partizán-módi	NOUN	_	Case=Acc|Number=Sing	12	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	12	punct	_	_
+16	akár	akár	ADV	_	_	18	advmod:mode	_	_
+17	még	még	ADV	_	_	18	advmod:tlocy	_	_
+18	képviselő	képviselő	NOUN	_	Case=Nom|Number=Sing	4	ccomp:obj	_	_
+19	is	is	ADV	_	_	18	advmod:mode	_	_
+20	lehetett	lehet	AUX	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	aux	_	_
+21	volna	van	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	aux	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

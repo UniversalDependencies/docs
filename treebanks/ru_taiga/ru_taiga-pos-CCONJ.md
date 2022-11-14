@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Russian-Taiga: POS Tags: `CCONJ`
 
-There are 27 `CCONJ` lemmas (0%), 32 `CCONJ` types (0%) and 8146 `CCONJ` tokens (4%).
+There are 27 `CCONJ` lemmas (0%), 32 `CCONJ` types (0%) and 8147 `CCONJ` tokens (4%).
 Out of 17 observed tags, the rank of `CCONJ` is: 16 in number of lemmas, 16 in number of types and 8 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>и, но, а, или, да, ни, то, однако, либо, причем</em>
@@ -80,17 +80,17 @@ The 3rd highest number of forms (2) was observed with the lemma “либо”: 
 `CCONJ` occurs with 2 feature-value pairs: `Polarity=Neg`, `Typo=Yes`
 
 `CCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (8048 tokens).
+The most frequent feature combination is `_` (8049 tokens).
 Examples: <em>и, но, а, или, да, то, однако, либо, зато, причем</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="ru_taiga-dep-cc.html">cc</a></tt> (8006; 98% instances), <tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt> (56; 1% instances), <tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt> (55; 1% instances), <tt><a href="ru_taiga-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="ru_taiga-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="ru_taiga-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="ru_taiga-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="ru_taiga-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="ru_taiga-dep-cc.html">cc</a></tt> (8007; 98% instances), <tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt> (56; 1% instances), <tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt> (55; 1% instances), <tt><a href="ru_taiga-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="ru_taiga-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="ru_taiga-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="ru_taiga-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="ru_taiga-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 17 different parts of speech: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (3671; 45% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2487; 31% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (956; 12% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (330; 4% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (203; 2% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (198; 2% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (85; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (61; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (59; 1% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (38; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (17; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (8; 0% instances),  (8; 0% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 17 different parts of speech: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (3673; 45% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2488; 31% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (954; 12% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (330; 4% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (203; 2% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (198; 2% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (85; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (61; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (59; 1% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (38; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (17; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (8; 0% instances),  (8; 0% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-7967 (98%) `CCONJ` nodes are leaves.
+7968 (98%) `CCONJ` nodes are leaves.
 
 166 (2%) `CCONJ` nodes have one child.
 

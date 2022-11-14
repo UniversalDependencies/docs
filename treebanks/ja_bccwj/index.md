@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Masayuki Asahara, Yusuke Miyao, Takaaki Tanaka, Hiroshi Kanayama, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Yugo Murawaki.
 
 Repository: [UD_Japanese-BCCWJ](https://github.com/UniversalDependencies/UD_Japanese-BCCWJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwj210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwj211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -51,7 +51,7 @@ The original sentences are from `Balanced Corpus of Contemporary Written Japanes
 
 
 The Japanese UD treebank contains the sentences from BCCWJ [1]
-http://pj.ninjal.ac.jp/corpus_center/bccwj/en/
+https://clrd.ninjal.ac.jp/bccwj/en/
 with BCCWJ-DepPara[2] annotation.
 
 The word units is based on Short Unit Word in BCCWJ [1].
@@ -74,7 +74,7 @@ the script requires Python (3.x)
 or
 
 The BCCWJ DVD edition purchaser can download the data with the original text
-from https://bccwj-data.ninjal.ac.jp/mdl/
+from https://bccwj-data.ninjal.ac.jp/
 
 ## Spliting
 
@@ -119,8 +119,7 @@ through discussion and validation with
 - Kaoru Ito
 - Taishi Chika
 
-This work was supported by JSPS KAKENHI Grants Numbers JP17H00917
-and is a project of the Center for Corpus Development, NINJAL.
+This work was supported by JSPS KAKENHI Grants Numbers JP17H00917 and NINJAL Annotation Project.
 
 
 # Statistics of UD Japanese BCCWJ
@@ -135,7 +134,7 @@ and is a project of the Center for Corpus Development, NINJAL.
 
 ## Relations
 
-[acl](ja_bccwj-dep-acl.html) – [advcl](ja_bccwj-dep-advcl.html) – [advmod](ja_bccwj-dep-advmod.html) – [amod](ja_bccwj-dep-amod.html) – [appos](ja_bccwj-dep-appos.html) – [aux](ja_bccwj-dep-aux.html) – [case](ja_bccwj-dep-case.html) – [cc](ja_bccwj-dep-cc.html) – [ccomp](ja_bccwj-dep-ccomp.html) – [compound](ja_bccwj-dep-compound.html) – [cop](ja_bccwj-dep-cop.html) – [csubj](ja_bccwj-dep-csubj.html) – [dep](ja_bccwj-dep-dep.html) – [det](ja_bccwj-dep-det.html) – [discourse](ja_bccwj-dep-discourse.html) – [dislocated](ja_bccwj-dep-dislocated.html) – [fixed](ja_bccwj-dep-fixed.html) – [mark](ja_bccwj-dep-mark.html) – [nmod](ja_bccwj-dep-nmod.html) – [nsubj](ja_bccwj-dep-nsubj.html) – [nummod](ja_bccwj-dep-nummod.html) – [obj](ja_bccwj-dep-obj.html) – [obl](ja_bccwj-dep-obl.html) – [punct](ja_bccwj-dep-punct.html) – [reparandum](ja_bccwj-dep-reparandum.html) – [root](ja_bccwj-dep-root.html)
+[acl](ja_bccwj-dep-acl.html) – [advcl](ja_bccwj-dep-advcl.html) – [advmod](ja_bccwj-dep-advmod.html) – [amod](ja_bccwj-dep-amod.html) – [appos](ja_bccwj-dep-appos.html) – [aux](ja_bccwj-dep-aux.html) – [case](ja_bccwj-dep-case.html) – [cc](ja_bccwj-dep-cc.html) – [ccomp](ja_bccwj-dep-ccomp.html) – [compound](ja_bccwj-dep-compound.html) – [cop](ja_bccwj-dep-cop.html) – [csubj](ja_bccwj-dep-csubj.html) – [csubj:outer](ja_bccwj-dep-csubj-outer.html) – [dep](ja_bccwj-dep-dep.html) – [det](ja_bccwj-dep-det.html) – [discourse](ja_bccwj-dep-discourse.html) – [dislocated](ja_bccwj-dep-dislocated.html) – [fixed](ja_bccwj-dep-fixed.html) – [mark](ja_bccwj-dep-mark.html) – [nmod](ja_bccwj-dep-nmod.html) – [nsubj](ja_bccwj-dep-nsubj.html) – [nsubj:outer](ja_bccwj-dep-nsubj-outer.html) – [nummod](ja_bccwj-dep-nummod.html) – [obj](ja_bccwj-dep-obj.html) – [obl](ja_bccwj-dep-obl.html) – [punct](ja_bccwj-dep-punct.html) – [reparandum](ja_bccwj-dep-reparandum.html) – [root](ja_bccwj-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -275,10 +274,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-ADP(_) (28332)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (5)</li>
-      <li>VERB--PRON-ADP(_) (1999)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--NOUN-ADP(_) (27762)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_) (4)</li>
+      <li>VERB--PRON-ADP(_) (1907)</li>
     </ul>
   </li>
 </ul>
@@ -314,6 +312,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
+<li>This corpus uses 2 relation subtypes: <a>csubj:outer</a>, <a>nsubj:outer</a></li>
 <li>The following 11 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

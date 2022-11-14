@@ -12,15 +12,15 @@ It occurs with 2 different values: `Plur`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ro_simonero-feat-Number.html">Number</a></tt>, <tt><a href="ro_simonero-feat-Number-psor.html">Number[psor]</a></tt>.
 
 80540 tokens (55%) have a non-empty value of `Number`.
-16117 types (90%) occur at least once with a non-empty value of `Number`.
-8597 lemmas (81%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (39911; 27% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (16869; 12% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (7248; 5% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (6499; 4% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (4603; 3% instances), <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (4116; 3% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (1281; 1% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (13; 0% instances).
+16119 types (90%) occur at least once with a non-empty value of `Number`.
+8598 lemmas (81%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (39911; 27% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (16869; 12% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (7248; 5% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (6500; 4% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (4603; 3% instances), <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (4115; 3% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (1281; 1% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (13; 0% instances).
 
 ### `NOUN`
 
 39911 <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> tokens (93% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (24915; 62%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (21801; 55%), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20629; 52%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (24915; 62%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (21800; 55%), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20629; 52%).
 
 `NOUN` tokens may have the following values of `Number`:
 
@@ -78,15 +78,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-6499 <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Number`.
+6500 <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3900; 60%), <tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3889; 60%), <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3888; 60%), <tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3888; 60%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3901; 60%), <tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3890; 60%), <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3889; 60%), <tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3889; 60%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (2096; 32% of non-empty `Number`): <em>pot, au, legate, apar, tratați, asociate, fac, diagnosticate, cresc, efectuate</em>
-* `Sing` (4403; 68% of non-empty `Number`): <em>poate, are, arătat, privește, crește, demonstrat, produce, face, asociată, rămâne</em>
-* `EMPTY` (3710): <em>trebuie, există, reprezintă, prezintă, putea, determină, având, asociază, necesită, sugerează</em>
+* `Sing` (4404; 68% of non-empty `Number`): <em>poate, are, arătat, privește, crește, demonstrat, produce, face, asociată, rămâne</em>
+* `EMPTY` (3708): <em>trebuie, există, reprezintă, prezintă, putea, determină, având, asociază, necesită, sugerează</em>
 
 <table>
   <tr><th>Paradigm <i>putea</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -119,15 +119,15 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ### `AUX`
 
-4116 <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Number`.
+4115 <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt> (3694; 90%), <tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2814; 68%), <tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2091; 51%), <tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2091; 51%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt> (3694; 90%), <tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2814; 68%), <tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2090; 51%), <tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2090; 51%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (1414; 34% of non-empty `Number`): <em>au, sunt, vor, erau, veți, vom, ați, suntem, sunteți, a</em>
-* `Sing` (2702; 66% of non-empty `Number`): <em>este, a, fost, va, era, e, Aș, esti, fii, i</em>
-* `EMPTY` (841): <em>fi, fiind, ar, fie, am, nefiind, putea, ﬁe</em>
+* `Sing` (2701; 66% of non-empty `Number`): <em>este, a, fost, va, era, e, Aș, esti, fii, i</em>
+* `EMPTY` (843): <em>fi, fiind, ar, fie, am, nefiind, putea, ﬁe</em>
 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -173,14 +173,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13702; 96%),
-<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9468; 56%),
-<tt>NOUN --[<tt><a href="ro_simonero-dep-det.html">det</a></tt>]--> DET</tt> (5450; 80%),
-<tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2978; 70%),
-<tt>VERB --[<tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1690; 52%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13709; 96%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9476; 56%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-det.html">det</a></tt>]--> DET</tt> (5451; 80%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2988; 70%),
+<tt>VERB --[<tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1677; 52%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-acl.html">acl</a></tt>]--> VERB</tt> (1429; 59%),
-<tt>VERB --[<tt><a href="ro_simonero-dep-aux.html">aux</a></tt>]--> AUX</tt> (950; 56%),
-<tt>VERB --[<tt><a href="ro_simonero-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (895; 72%),
+<tt>VERB --[<tt><a href="ro_simonero-dep-aux.html">aux</a></tt>]--> AUX</tt> (949; 56%),
+<tt>VERB --[<tt><a href="ro_simonero-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (887; 73%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-cop.html">cop</a></tt>]--> AUX</tt> (716; 83%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (643; 95%).
+<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (645; 95%).
 

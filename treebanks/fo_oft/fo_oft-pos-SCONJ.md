@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-OFT: POS Tags: `SCONJ`
 
 There are 7 `SCONJ` lemmas (0%), 7 `SCONJ` types (0%) and 48 `SCONJ` tokens (0%).
-Out of 16 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>sum, at, ið, meðan, tí, hóast, um</em>
 
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>sum</em> (<tt><a href="fo_oft-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.290924).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.292021).
 
 The 1st highest number of forms (1) was observed with the lemma “at”: <em>at</em>.
 
@@ -48,17 +48,11 @@ The 3rd highest number of forms (1) was observed with the lemma “ið”: <em>i
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="fo_oft-dep-mark.html">mark</a></tt> (45; 94% instances), <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (2; 4% instances), <tt><a href="fo_oft-dep-cc.html">cc</a></tt> (1; 2% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="fo_oft-dep-mark.html">mark</a></tt> (43; 90% instances), <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (2; 4% instances), <tt><a href="fo_oft-dep-fixed.html">fixed</a></tt> (2; 4% instances), <tt><a href="fo_oft-dep-cc.html">cc</a></tt> (1; 2% instances)
 
-Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (20; 42% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (18; 38% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (8; 17% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 2% instances)
+Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (18; 38% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (18; 38% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (8; 17% instances), <tt><a href="fo_oft-pos-X.html">X</a></tt> (2; 4% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 
-46 (96%) `SCONJ` nodes are leaves.
+48 (100%) `SCONJ` nodes are leaves.
 
-2 (4%) `SCONJ` nodes have one child.
-
-The highest child degree of a `SCONJ` node is 1.
-
-Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (2; 100% instances)
-
-Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="fo_oft-pos-X.html">X</a></tt> (2; 100% instances)
+The highest child degree of a `SCONJ` node is 0.
 

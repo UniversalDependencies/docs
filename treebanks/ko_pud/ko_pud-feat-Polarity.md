@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ko_pud-pos-ADV.html
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (7; 100% of non-empty `Polarity`): 안, 못
-* `EMPTY` (522): 더, 또한, 가장, 거의, 다시, 특히, 함께, 이미, 결국, 바로
+* `EMPTY` (521): 더, 또한, 가장, 거의, 다시, 특히, 함께, 이미, 결국, 바로
 

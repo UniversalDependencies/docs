@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="pt_bosque-pos-PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.952381 (the average of all parts of speech is 1.421073).
+The form / lemma ratio of `PUNCT` is 0.952381 (the average of all parts of speech is 1.423132).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -59,7 +59,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (30035; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (13490; 45% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (8162; 27% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (4146; 14% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1635; 5% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (873; 3% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (596; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (508; 2% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (141; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (123; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (117; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (105; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (29; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (8; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (13490; 45% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (8160; 27% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (4147; 14% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1638; 5% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (870; 3% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (596; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (509; 2% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (141; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (123; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (117; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (105; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (29; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (8; 0% instances)
 
 30025 (100%) `PUNCT` nodes are leaves.
 

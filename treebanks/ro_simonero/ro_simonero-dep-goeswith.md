@@ -8,52 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-27 nodes (0%) are attached to their parents as `goeswith`.
+4 nodes (0%) are attached to their parents as `goeswith`.
 
-27 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+4 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (21; 78% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 4% instances).
-
-
-~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 21 goeswith	color:blue
-1	Timpul	timp	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	22	nsubj	_	_
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
-3	recuperare	recuperare	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	_
-4	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	_
-5	indicilor	indice	NOUN	Ncmpoy	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	3	nmod	_	_
-6	ECG	ECG	NOUN	Yn	Abbr=Yes	5	nmod	_	BioNERLabel=B-PROC
-7	până	până	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
-8	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	7	fixed	_	_
-9	cei	acela	PRON	Pd3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	10	det	_	_
-10	inițiali	inițial	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	1	nmod	_	_
-11	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
-12	încetarea	încetare	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	_
-13	efortului	efort	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	_
-14	a	avea	AUX	Va--3s	Number=Sing|Person=3	22	aux	_	_
-15	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	22	cop	_	_
-16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
-17	4.1	4.1	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	22	nummod	_	_
-18	0.4	0.4	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	17	goeswith	_	_
-19	și	și	CCONJ	Crssp	Polarity=Pos	20	cc	_	_
-20	4.2	4.2	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	22	nummod	_	_
-21	0.5	0.5	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	20	goeswith	_	_
-22	min	min	NOUN	Yn	Abbr=Yes	0	root	_	SpaceAfter=No
-23	,	,	PUNCT	COMMA	_	24	punct	_	_
-24	respectiv	respectiv	ADV	Rgp	Degree=Pos	22	advmod	_	_
-25	(	(	PUNCT	LPAR	_	26	punct	_	SpaceAfter=No
-26	p	p	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	22	appos	_	_
-27	>	>	PUNCT	GT	_	26	punct	_	_
-28	0.1	0.1	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	26	nummod	_	SpaceAfter=No
-29	)	)	PUNCT	RPAR	_	26	punct	_	SpaceAfter=No
-30	.	.	PUNCT	PERIOD	_	22	punct	_	_
-
-~~~
+The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (2; 50% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 25% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -88,8 +48,8 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 24	comparativ	comparativ	ADV	Rgp	Degree=Pos	26	case	_	_
 25	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	24	fixed	_	_
 26	tratamentul	tratament	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	_
-27	non	non	X	X	_	26	dep	_	BioNERLabel=amod
-28	chirurgical	chirurgical	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	27	goeswith	_	_
+27	non	nonchirurgical	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Typo=Yes	26	amod	_	BioNERLabel=amod
+28	chirurgical	_	X	X	_	27	goeswith	_	_
 29	(	(	PUNCT	LPAR	_	30	punct	_	SpaceAfter=No
 30	115	115	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	16	parataxis	_	SpaceAfter=No
 31	,	,	PUNCT	COMMA	_	32	punct	_	SpaceAfter=No
@@ -138,8 +98,8 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 30	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	31	expl:pv	_	_
 31	manifestă	manifesta	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	26	acl	_	_
 32	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	33	case	_	_
-33	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	31	obl	_	_
-34	compensarea	compensare	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	33	goeswith	_	_
+33	de	decompensare	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	31	obl	_	_
+34	compensarea	_	X	X	_	33	goeswith	_	_
 35	reglării	reglare	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	33	nmod	_	_
 36	glicemice	glicemic	ADJ	Afpfson	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	SpaceAfter=No
 37	,	,	PUNCT	COMMA	_	40	punct	_	_
@@ -150,6 +110,51 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 42	clinic	clinic	ADV	Rgp	Degree=Pos	43	advmod	_	_
 43	manifest	manifest	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	SpaceAfter=No
 44	.	.	PUNCT	PERIOD	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 16 goeswith	color:blue
+1	Pacienții	pacient	NOUN	Ncmpry	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	_
+2	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
+3	boli	boală	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	1	nmod	_	BioNERLabel=B-DISO
+4	hepatice	hepatic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	BioNERLabel=I-DISO
+5	au	avea	AUX	Va--3p	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+6	risc	risc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	obj	_	BioNERLabel=B-DISO
+7	mai	mai	ADV	Rp	_	8	advmod	_	_
+8	mare	mare	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
+10	acidoză	acidoză	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	BioNERLabel=B-DISO
+11	lactică	lactic	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	BioNERLabel=I-DISO
+12	deoarece	deoarece	SCONJ	Csssp	Polarity=Pos	25	mark	_	_
+13	nivelele	nivel	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	25	nsubj	_	_
+14	serice	seric	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	13	amod	_	_
+15	a	a_jeun	X	X	Typo=Yes	13	amod	_	_
+16	jeun	_	X	X	_	15	goeswith	_	_
+17	ale	al	DET	Tsfp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det	_	_
+18	glicerolului	glicerol	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	BioNERLabel=B-CHEM
+19	și	și	CCONJ	Crssp	Polarity=Pos	22	cc	_	_
+20	ale	al	DET	Tsfp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	22	det	_	_
+21	altor	alt	DET	Di3-po---e	Case=Gen|Number=Plur|Person=3|Position=Prenom|PronType=Ind	22	det	_	_
+22	precursori	precursor	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	18	conj	_	_
+23	gluconeogenetici	gluconeogenetic	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	22	amod	_	_
+24	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+25	mari	mare	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	5	advcl	_	_
+26	(	(	PUNCT	LPAR	_	27	punct	_	SpaceAfter=No
+27	2	2	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	25	appos	_	SpaceAfter=No
+28	,	,	PUNCT	COMMA	_	29	punct	_	SpaceAfter=No
+29	3	3	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	27	conj	_	SpaceAfter=No
+30	,	,	PUNCT	COMMA	_	31	punct	_	SpaceAfter=No
+31	10	10	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	27	conj	_	SpaceAfter=No
+32	,	,	PUNCT	COMMA	_	33	punct	_	SpaceAfter=No
+33	22	22	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	27	conj	_	SpaceAfter=No
+34	)	)	PUNCT	RPAR	_	27	punct	_	SpaceAfter=No
+35	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 ~~~
 

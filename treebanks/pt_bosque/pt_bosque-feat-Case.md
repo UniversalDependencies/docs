@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Acc` (1780; 70% of non-empty `Case`): <em>se, o, me, a, nos, lo, os, la, as, los</em>
 * `Dat` (228; 9% of non-empty `Case`): <em>lhe, me, nos, lhes, se, Ihe, vos</em>
 * `Nom` (534; 21% of non-empty `Case`): <em>ele, eu, eles, ela, você, nós, elas, vocês, voce, vós</em>
-* `EMPTY` (4926): <em>que, o, isso, onde, quem, tudo, os, isto, nada, a</em>
+* `EMPTY` (4924): <em>que, o, isso, onde, quem, tudo, os, isto, nada, a</em>
 
 <table>
   <tr><th>Paradigm <i>ele</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>

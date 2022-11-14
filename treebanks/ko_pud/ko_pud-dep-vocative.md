@@ -23,15 +23,15 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 9 vocative	color:blue
 1	그것은	그것	PRON	PRD+CM	Case=Nom|Polite=Form	7	nsubj	_	MSeg=그것-은|Translit=.geu.geos.eun|LTranslit=.geu.geos
-2	우리	_	NOUN	NN	_	5	advmod	_	Translit=.u.ri|LTranslit=_
-3	나라	_	NOUN	_	_	2	goeswith	_	SpaceAfter=No|Translit=.na.ra|LTranslit=_
-4	에	에	PART	CM	Polite=Form	2	case	_	Translit=.e|LTranslit=_
-5	필요한	_	NOUN	NN	_	6	dep	_	SpaceAfter=No|Translit=.pil.yo.han|LTranslit=_
+2	우리	_	NOUN	NN	Typo=Yes	5	obl	_	Translit=.u.ri
+3	나라	_	X	_	_	2	goeswith	_	SpaceAfter=No|Translit=.na.ra
+4	에	에	PART	CM	Polite=Form	2	case	_	Translit=.e|LTranslit=.e
+5	필요한	_	NOUN	NN	_	6	dep	_	SpaceAfter=No|Translit=.pil.yo.han
 6	것이	것	NOUN	NNB+CM	Polite=Form	7	compound:lvc	_	MSeg=것-이|Translit=.geos.i|LTranslit=.geos
-7	아닙니다	_	ADJ	JJ	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=.a.nib.ni.da|LTranslit=_
-8	,	,	PUNCT	,	_	9	punct	_	Translit=,|LTranslit=_
-9	여러분	_	PRON	PRP	Person=2	7	vocative	_	SpaceAfter=No|Translit=.yeo.reo.bun|LTranslit=_
-10	.	.	PUNCT	.	_	7	punct	_	Translit=.|LTranslit=_
+7	아닙니다	_	ADJ	JJ	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=.a.nib.ni.da
+8	,	,	PUNCT	,	_	9	punct	_	Translit=,|LTranslit=,
+9	여러분	_	PRON	PRP	Person=2	7	vocative	_	SpaceAfter=No|Translit=.yeo.reo.bun
+10	.	.	PUNCT	.	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -48,7 +48,7 @@ The following 12 pairs of parts of speech are connected with `obl:npmod`: <tt><a
 # visual-style 28 27 obl:npmod	color:blue
 1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=joint-other_m:145->133:5|Entity=(138-abstract-new-cf2-3-coref|Lem=*LOWER*|Len=3
 2	_	_	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	Lem=*LOWER*|Len=3|XML=<hi rend:::"bold"></hi>
-3	_	_	NOUN	NN	Number=Sing	15	nsubj	15:nsubj|30:nsubj:xsubj	Lem=_|Len=10
+3	_	_	NOUN	NN	Number=Sing	15	nsubj:outer	15:nsubj:outer|30:nsubj:xsubj	Lem=_|Len=10
 4	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=7
 5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Entity=(139-object-new-cf5-2-sgl|Lem=_|Len=5
 6	_	_	NOUN	NN	Number=Sing	3	nmod	3:nmod:between	Entity=139)|Lem=_|Len=8
@@ -56,7 +56,7 @@ The following 12 pairs of parts of speech are connected with `obl:npmod`: <tt><a
 8	_	_	NOUN	NN	Number=Sing	6	conj	3:nmod:between|6:conj:and	Entity=(98-substance-giv:act-cf1*-1-coref)138)|Lem=_|Len=4
 9	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	Lem=be|Len=2
 10	_	_	SCONJ	IN	_	15	mark	15:mark	Entity=(138-abstract-giv:act-cf2-6,19-coref|Lem=_|Len=4
-11	_	_	SYM	SYM	_	15	nsubj	15:nsubj|30:nsubj:xsubj	Entity=(140-object-new-cf3-1-sgl|Lem=_|Len=1
+11	_	_	SYM	$	_	15	nsubj	15:nsubj|30:nsubj:xsubj	Entity=(140-object-new-cf3-1-sgl|Lem=_|Len=1
 12	_	_	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	11:nummod	Lem=100000|Len=7
 13	_	_	ADP	IN	_	14	case	14:case	Lem=_|Len=2
 14	_	_	NOUN	NN	Number=Sing	11	nmod	11:nmod:in	Entity=(141-object-new-cf6-1-sgl)140)|Lem=_|Len=4
@@ -65,7 +65,7 @@ The following 12 pairs of parts of speech are connected with `obl:npmod`: <tt><a
 17	_	_	NOUN	NN	Number=Sing	18	obl:npmod	18:obl:npmod	Lem=_|Len=3
 18	_	_	ADV	RBR	Degree=Cmp	21	advmod	21:advmod	Lem=_|Len=4
 19	_	_	ADP	IN	_	18	fixed	18:fixed	Lem=_|Len=4
-20	_	_	SYM	SYM	_	15	obj	15:obj	Entity=(142-substance-new-cf4-1-sgl|Lem=_|Len=1
+20	_	_	SYM	$	_	15	obj	15:obj	Entity=(142-substance-new-cf4-1-sgl|Lem=_|Len=1
 21	_	_	NUM	CD	NumForm=Digit|NumType=Card	20	nummod	20:nummod	Lem=100000|Len=7
 22	_	_	ADP	IN	_	23	case	23:case	Lem=_|Len=2
 23	_	_	NOUN	NN	Number=Sing	20	nmod	20:nmod:in	Entity=(98-substance-giv:act-cf1*-1-coref)142)|Lem=_|Len=4

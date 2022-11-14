@@ -11,21 +11,27 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt>, <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt>.
 
-25 tokens (3%) have a non-empty value of `Number[subj]`.
-20 types (7%) occur at least once with a non-empty value of `Number[subj]`.
-20 lemmas (9%) occur at least once with a non-empty value of `Number[subj]`.
-The feature is used with 5 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (19; 2% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+34 tokens (4%) have a non-empty value of `Number[subj]`.
+28 types (9%) occur at least once with a non-empty value of `Number[subj]`.
+25 lemmas (10%) occur at least once with a non-empty value of `Number[subj]`.
+The feature is used with 5 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (28; 3% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-19 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (11% of all `VERB` tokens) have a non-empty value of `Number[subj]`.
+28 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (18; 95%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (17; 89%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (17; 89%).
+The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (26; 93%), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (25; 89%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (23; 82%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (23; 82%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (23; 82%).
 
 `VERB` tokens may have the following values of `Number[subj]`:
 
 
-`Number[subj]` seems to be **lexical feature** of `VERB`. 100% lemmas (15) occur only with one value of `Number[subj]`.
+<table>
+  <tr><th>Paradigm <i>awa</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt></tt></td><td><em>awana</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>awa, awapeka</em></td></tr>
+</table>
+
+`Number[subj]` seems to be **lexical feature** of `VERB`. 95% lemmas (19) occur only with one value of `Number[subj]`.
 
 ### `AUX`
 
@@ -47,7 +53,7 @@ The most frequent other feature values with which `NOUN` and `Number[subj]` co-o
 
 ### `ADJ`
 
-1 <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> tokens (33% of all `ADJ` tokens) have a non-empty value of `Number[subj]`.
+1 <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> tokens (25% of all `ADJ` tokens) have a non-empty value of `Number[subj]`.
 
 The most frequent other feature values with which `ADJ` and `Number[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1; 100%), <tt><a href="apu_ufpa-feat-VerbType.html">VerbType</a></tt><tt>=Vido</tt> (1; 100%).
 

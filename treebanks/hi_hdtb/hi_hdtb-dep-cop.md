@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3512 nodes (1%) are attached to their parents as `cop`.
+3511 nodes (1%) are attached to their parents as `cop`.
 
 3511 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.49715261958998.
+Average distance between parent and child is 1.49473084591285.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (2129; 61% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (1028; 29% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (116; 3% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (114; 3% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (61; 2% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (33; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (19; 1% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (2129; 61% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (1028; 29% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (116; 3% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (114; 3% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (61; 2% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (33; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (19; 1% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

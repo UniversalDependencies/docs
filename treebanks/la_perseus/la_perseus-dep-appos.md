@@ -31,7 +31,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 7	ludere	ludo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	LId=ludo1
 8	saepe	saepe	ADV	d--------	_	9	advmod	_	LId=saepe1
 9	solebat	soleo	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	SpaceAfter=No|LId=soleo1
-10	,	,	PUNCT	u--------	_	4	punct	_	LId=comma1
+10	,	,	PUNCT	u--------	_	12	punct	_	LId=comma1
 11	Inachidas	Inachis	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	amod	_	LId=Inachis1
 12	ripas	ripa	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	appos	_	SpaceAfter=No|LId=ripa1
 13	;	;	PUNCT	u--------	_	1	punct	_	LId=punc1
@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	poena	poena	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	LId=poena1
 2	placet	placeo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=placeo1
 3	diversa	diverto	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	nmod	_	SpaceAfter=No|LId=diverto1
-4	,	,	PUNCT	u--------	_	1	punct	_	LId=comma1
+4	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
 5	genus	genus	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	LId=genus1
 6	mortale	mortalis	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	amod	_	LId=mortalis1
 7	sub	sub	ADP	r--------	_	8	case	_	LId=sub1
@@ -73,7 +73,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2 4 appos	color:blue
 1	Et	et	CCONJ	c--------	_	10	cc	_	LId=et1
 2	ego	ego	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No|LId=ego1
-3	,	,	PUNCT	u--------	_	2	punct	_	LId=comma1
+3	,	,	PUNCT	u--------	_	4	punct	_	LId=comma1
 4	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	LId=homo1
 5	dipundiarius	dipundarius	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No|LId=dipundarius1
 6	,	,	PUNCT	u--------	_	2	punct	_	LId=comma1

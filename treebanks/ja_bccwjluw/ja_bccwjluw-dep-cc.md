@@ -10,10 +10,10 @@ This relation is universal.
 
 5606 nodes (1%) are attached to their parents as `cc`.
 
-5517 instances of `cc` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 15.1534070638602.
+5519 instances of `cc` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 15.1373528362469.
 
-The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (3144; 56% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (1713; 31% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (536; 10% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (62; 1% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (58; 1% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (41; 1% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (39; 1% instances), <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (3143; 56% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (1713; 31% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (536; 10% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (63; 1% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (58; 1% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (41; 1% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (39; 1% instances), <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -77,8 +77,8 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 19	_	_	NOUN	_	_	23	nmod	_	BBIL=I|BPT=0|SpaceAfter=No|UI=34497
 20	_	_	PUNCT	_	_	19	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=13
 21	_	_	PUNCT	_	_	19	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=24
-22	_	_	PUNCT	_	_	19	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=12
-23	_	_	NOUN	_	_	28	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=72024
+22	_	_	PUNCT	_	_	23	punct	_	BBIL=B|BPT=2|SpaceAfter=No|UI=12
+23	_	_	NOUN	_	_	28	obl	_	BBIL=I|BPT=0|SpaceAfter=No|UI=72024
 24	_	_	PUNCT	_	_	23	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=13
 25	_	_	ADP	_	_	23	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=49
 26	_	_	NOUN	_	_	28	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=293

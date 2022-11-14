@@ -18,16 +18,16 @@ The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.h
 
 43554 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (37106; 85%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31845; 73%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (37106; 85%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31846; 73%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (8405; 19% of non-empty `Case`): <em>время, день, раз, деньги, год, пару, работу, жизнь, вкус, месяц</em>
-* `Dat` (1924; 4% of non-empty `Case`): <em>детям, сожалению, людям, поводу, телефону, городу, мере, словам, времени, мнению</em>
+* `Acc` (8407; 19% of non-empty `Case`): <em>время, день, раз, деньги, год, пару, работу, жизнь, вкус, месяц</em>
+* `Dat` (1925; 4% of non-empty `Case`): <em>детям, сожалению, людям, поводу, телефону, городу, мере, словам, времени, мнению</em>
 * `Gen` (10299; 24% of non-empty `Case`): <em>лет, года, раз, дня, воды, города, товаров, людей, времени, детей</em>
 * `Ins` (3232; 7% of non-empty `Case`): <em>вечером, зимой, летом, ночью, утром, помощью, водой, домом, днем, друзьями</em>
 * `Loc` (4059; 9% of non-empty `Case`): <em>месте, уровне, году, городе, жизни, случае, целом, итоге, магазинах, центре</em>
-* `Nom` (15575; 36% of non-empty `Case`): <em>магазин, цены, место, выбор, персонал, ассортимент, спасибо, люди, обслуживание, сотрудники</em>
+* `Nom` (15572; 36% of non-empty `Case`): <em>магазин, цены, место, выбор, персонал, ассортимент, спасибо, люди, обслуживание, сотрудники</em>
 * `Par` (46; 0% of non-empty `Case`): <em>разу, народу, виду, толку, сраму, чаю, Воску, азу, кофейку, краю</em>
 * `Voc` (14; 0% of non-empty `Case`): <em>боже, ребят, господи</em>
 * `EMPTY` (702): <em>тц, г., см, мл, кг, с., р, р., км, м</em>
@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Ins` (989; 7% of non-empty `Case`): <em>большим, первым, хорошим, большой, главным, новым, огромным, тяжелым, хорошими, доступными</em>
 * `Loc` (954; 7% of non-empty `Case`): <em>общем, высшем, высоком, основном, втором, новом, первом, хорошем, данном, первых</em>
 * `Nom` (7109; 52% of non-empty `Case`): <em>хороший, большой, отличный, хорошая, неплохой, вежливый, обычный, хорошее, добрый, вежливые</em>
-* `EMPTY` (3342): <em>нужно, лучше, хорошо, дорого, вкусно, удобно, чисто, интересно, нужен, должен</em>
+* `EMPTY` (3341): <em>нужно, лучше, хорошо, дорого, вкусно, удобно, чисто, интересно, нужен, должен</em>
 
 <table>
   <tr><th>Paradigm <i>хороший</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -192,7 +192,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ins` (122; 12% of non-empty `Case`): <em>состоявшимися, вытекающими, закрытыми, оперирующим, Назначенной, Рокочущим, Узаконенными, благоустроенными, бьющейся, верующим</em>
 * `Loc` (41; 4% of non-empty `Case`): <em>закрытой, возглашавших, выделенных, вынужденной, действующем, запомнившемся, заряженной, затерявшемся, затуманенном, написанном</em>
 * `Nom` (385; 38% of non-empty `Case`): <em>знающие, работающие, сопутствующие, Стоявшие, Управляющая, влекомый, забытый, завышенные, казавшаяся, намоленное</em>
-* `EMPTY` (23736): <em>есть, можно, нет, может, надо, могу, делать, хочу, здравствуйте, нравится</em>
+* `EMPTY` (23737): <em>есть, можно, нет, может, надо, могу, делать, хочу, здравствуйте, нравится</em>
 
 <table>
   <tr><th>Paradigm <i>стоять</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th></tr>
@@ -213,15 +213,15 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `AUX` tokens may have the following values of `Case`:
 
 * `Nom` (2; 100% of non-empty `Case`): <em>бывшая, бывший</em>
-* `EMPTY` (1572): <em>бы, было, был, будет, есть, была, были, быть, будут, буду</em>
+* `EMPTY` (1571): <em>бы, было, был, будет, есть, была, были, быть, будут, буду</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10454; 97%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-det.html">det</a></tt>]--> DET</tt> (3934; 91%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10453; 97%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-det.html">det</a></tt>]--> DET</tt> (3933; 91%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3386; 89%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (791; 56%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (792; 56%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (554; 88%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (450; 68%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-acl.html">acl</a></tt>]--> VERB</tt> (418; 64%),

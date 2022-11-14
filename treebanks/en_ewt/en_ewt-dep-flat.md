@@ -46,7 +46,7 @@ The following 11 pairs of parts of speech are connected with `flat`: <tt><a href
 1	-	-	PUNCT	NFP	_	2	punct	2:punct	_
 2	ENRON-CPS	enron-cps	NOUN	GW	_	0	root	0:root	_
 3	(	(	X	GW	_	2	flat	2:flat	SpaceAfter=No
-4	GISB	gisb	X	GW	_	2	flat	2:flat	_
+4	GISB	GISB	X	GW	_	2	flat	2:flat	_
 5	rev1	rev1	X	GW	_	2	flat	2:flat	SpaceAfter=No
 6	)	)	X	GW	_	2	flat	2:flat	SpaceAfter=No
 7	.doc	.doc	X	NN	Number=Sing	2	flat	2:flat	_
@@ -60,7 +60,7 @@ The following 11 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat	color:blue
-1	One	one	NUM	CD	NumType=Card	6	nsubj	6:nsubj	_
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	6	nsubj	6:nsubj	_
 2	of	of	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	Wesley	Wesley	PROPN	NNP	Number=Sing	1	nmod	1:nmod:of	_

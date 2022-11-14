@@ -49,9 +49,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Ind	6	det:predet	_	_
 5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	equivoco	equivoco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
-7	da	da	ADP	E	_	8	mark	_	_
-8	riempire	riempire	VERB	V	VerbForm=Inf	6	advcl	_	SpaceAfter=No
-9	.	.	PUNCT	FS	_	6	punct	_	_
+7	...	...	PUNCT	FS	_	6	punct	_	_
 
 ~~~
 

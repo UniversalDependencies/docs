@@ -16,14 +16,14 @@ The feature is used with 4 part-of-speech tags: <tt><a href="ko_pud-pos-AUX.html
 
 ### `AUX`
 
-12 <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `PronType`.
+12 <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `AUX` and `PronType` co-occurred: <tt><a href="ko_pud-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="ko_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="ko_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12; 100%).
 
 `AUX` tokens may have the following values of `PronType`:
 
 * `Int` (12; 100% of non-empty `PronType`): 가, 인가, 일까
-* `EMPTY` (446): 인, 이다, 이었다, 이라, 였다, 이며, 일, 라, 이고, 이지만
+* `EMPTY` (651): 인, 이다, 이었다, 이라, 였다, 있다, 있는, 이며, 일, 라
 
 ### `DET`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 `DET` tokens may have the following values of `PronType`:
 
 * `Int` (7; 100% of non-empty `PronType`): 있는가, 아닌가, 어떠한가, 어떤가, 있겠는가, 있는가를
-* `EMPTY` (458): 그, 이, 두, 한, 다른, 여러, 모든, 만, 몇, 세
+* `EMPTY` (457): 그, 이, 두, 한, 다른, 여러, 모든, 만, 몇, 세
 
 ### `PART`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 `PART` tokens may have the following values of `PronType`:
 
 * `Int` (2; 100% of non-empty `PronType`): 나뉘어졌는가를, 나왔나요
-* `EMPTY` (494): 는, 의, 고, 에, 도, 라고, 가, 와, 에서, 이
+* `EMPTY` (476): 는, 의, 고, 에, 도, 라고, 가, 와, 에서, 이
 
 ### `VERB`
 
@@ -54,5 +54,5 @@ The most frequent other feature values with which `VERB` and `PronType` co-occur
 `VERB` tokens may have the following values of `PronType`:
 
 * `Int` (1; 100% of non-empty `PronType`): 되었나
-* `EMPTY` (1624): 대한, 있다, 되었다, 대해, 한다, 있는, 위해, 통해, 위한, 된
+* `EMPTY` (1438): 대한, 되었다, 대해, 있다, 위해, 통해, 한다, 위한, 된, 라는
 

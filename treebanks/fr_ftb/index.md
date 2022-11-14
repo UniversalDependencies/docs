@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Bruno Guillaume, Teresa Lynn, Héctor Martínez Alonso, Benoît Sagot, Djamé Seddah, Eric Villemonte de la Clergerie.
 
 Repository: [UD_French-FTB](https://github.com/UniversalDependencies/UD_French-FTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_ftb210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_ftb211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: LGPL-LR. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -529,15 +529,12 @@ Marie Candito: marie.candito@linguist.univ-paris-diderot.fr
 <ul>
   <li>3
     <ul>
-      <li>ADP: _, À</li>
       <li>AUX-Fin: _, Peut, Est, Peuvent, Seront, Sont, A, Doit, Fût, Ont</li>
       <li>DET: _, Son, Leur, Ses, Sa, Certains, Leurs</li>
       <li>PRON: _, il, c', On, Elle, ils, ce, Cela, elles, Certains</li>
       <li>VERB-Fin: _, Reste, Est, Peut, Voilà, faut, Suivent, Entrent, Faudra, Sait</li>
       <li>VERB-Inf: _</li>
       <li>VERB-Part: _</li>
-      <li>X: _</li>
-      <li>X-Fin: _</li>
     </ul>
   </li>
 </ul>

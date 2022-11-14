@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-640 nodes (7%) are attached to their parents as `nmod`.
+669 nodes (7%) are attached to their parents as `nmod`.
 
-355 instances of `nmod` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.2984375.
+367 instances of `nmod` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.28101644245142.
 
-The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (515; 80% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (67; 10% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (22; 3% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-PART.html">PART</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (511; 76% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (67; 10% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (43; 6% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (22; 3% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (14; 2% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-PART.html">PART</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,17 +49,18 @@ The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 nmod	color:blue
-1	Wexak	exak	VERB	vt	Person[subj]=3	0	root	_	_
-2	xu	xu	NOUN	n	_	1	obj	_	_
-3	pe	pe	NOUN	n	_	4	nmod	_	_
-4	iwɨrhar	wɨr	ADP	posp	Nomzr=Ag|Rel=NCont	1	obl	_	_
-5	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
-6	.	.	PUNCT	punct	_	1	punct	_	_
+# visual-style 4 2 nmod	color:blue
+1	Aʔe	aʔe	DET	dem	PronType=Dem	2	det	_	_
+2	maʔe	maʔe	PRON	pro	_	4	nmod	_	_
+3	ʔɨw	ʔɨw	NOUN	n	_	2	compound	_	_
+4	iʔa	ʔa	NOUN	n	Rel=NCont	0	root	_	_
+5	ʔar	ʔar	NOUN	n	_	4	obl	_	_
+6	katu	katu	NOUN	n	Rel=Cont	5	nmod	_	_
+7	mehe	mehe	ADP	posp	_	5	case	_	_
 
 ~~~
 

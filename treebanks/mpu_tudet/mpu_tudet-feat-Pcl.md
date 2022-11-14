@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="mpu_tudet-pos-PART.
 
 ### `PART`
 
-1 <tt><a href="mpu_tudet-pos-PART.html">PART</a></tt> tokens (7% of all `PART` tokens) have a non-empty value of `Pcl`.
+1 <tt><a href="mpu_tudet-pos-PART.html">PART</a></tt> tokens (6% of all `PART` tokens) have a non-empty value of `Pcl`.
 
 The most frequent other feature values with which `PART` and `Pcl` co-occurred: <tt><a href="mpu_tudet-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mpu_tudet-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt>.
 There are also 3 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-gsubj.html">nmod:gsubj</a></tt>, <tt><a href="myv_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="myv_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-12 nodes (0%) are attached to their parents as `nmod:gobj`.
+26 nodes (0%) are attached to their parents as `nmod:gobj`.
 
-12 instances of `nmod:gobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+26 instances of `nmod:gobj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23076923076923.
 
-The following 2 pairs of parts of speech are connected with `nmod:gobj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (8; 67% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 33% instances).
+The following 2 pairs of parts of speech are connected with `nmod:gobj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (22; 85% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 15% instances).
 
 
 ~~~ conllu

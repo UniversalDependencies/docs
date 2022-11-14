@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-25752 tokens (11%) have a non-empty value of `VerbForm`.
+25753 tokens (11%) have a non-empty value of `VerbForm`.
 7596 types (29%) occur at least once with a non-empty value of `VerbForm`.
-1914 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (20764; 9% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4987; 2% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+1915 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (20764; 9% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4988; 2% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -91,13 +91,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-4987 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+4988 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (4035; 81%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3760; 75%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3158; 63%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (4036; 81%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3761; 75%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3159; 63%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (4109; 82% of non-empty `VerbForm`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
+* `Fin` (4110; 82% of non-empty `VerbForm`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
 * `Ger` (77; 2% of non-empty `VerbForm`): <em>sendo, tendo, estando</em>
 * `Inf` (688; 14% of non-empty `VerbForm`): <em>ser, ter, estar, serem, ir, terem, haver, estarem, tê, estarmos</em>
 * `Part` (113; 2% of non-empty `VerbForm`): <em>sido, estado, ido</em>
@@ -119,7 +119,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>foi, foram</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td><em>fora</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>é, eis, Sou, çe</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>é, eis, Sou</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="pt_bosque-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>çe</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>seremos</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fomos</em></td><td></td><td></td><td></td></tr>
@@ -150,13 +151,13 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `SCONJ` tokens may have the following values of `VerbForm`:
 
 * `Ger` (1; 100% of non-empty `VerbForm`): <em>sendo</em>
-* `EMPTY` (5356): <em>que, a, de, para, se, porque, como, por, em, quando</em>
+* `EMPTY` (5357): <em>que, a, de, para, se, porque, como, por, em, quando</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (1190; 83%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (652; 59%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (653; 59%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (265; 79%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-acl.html">acl</a></tt>]--> VERB</tt> (16; 52%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (6; 67%),

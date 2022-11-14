@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  שלום (<tt><a href="he_iahltwiki-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.479084).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.479265).
 
 The 1st highest number of forms (1) was observed with the lemma “נא”: נא.
 

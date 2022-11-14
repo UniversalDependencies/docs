@@ -69,7 +69,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (98; 14% of non-empty `Person`): <em>mi, nam, nas, ja, me, mene, nama, Meni</em>
 * `2` (11; 2% of non-empty `Person`): <em>vam, vama, vas, vi</em>
 * `3` (573; 84% of non-empty `Person`): <em>on, ona, oni, ga, ih, im, njega, njih, mu, ono</em>
-* `EMPTY` (1744): <em>se, što, šta, ko, ništa, nešto, niko, sebe, čime, neko</em>
+* `EMPTY` (1721): <em>se, što, šta, ko, ništa, nešto, niko, sebe, čime, neko</em>
 
 ### `DET`
 

@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Sup` (3; 100% of non-empty `Degree`): <em>best, størsta</em>
-* `EMPTY` (412): <em>eisini, ikki, har, nú, so, enn, tó, tá, fyrr, ofta</em>
+* `EMPTY` (423): <em>eisini, ikki, har, nú, so, enn, tó, tá, fyrr, ofta</em>
 
 ### `VERB`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Sup` (1; 100% of non-empty `Degree`): <em>kendastur</em>
-* `EMPTY` (560): <em>býr, hevur, liggur, Sí, kom, eru, fer, fór, er, stendur</em>
+* `EMPTY` (572): <em>býr, hevur, kom, liggur, Sí, eru, fer, varð, fór, er</em>
 

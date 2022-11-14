@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `ADP`
 
 There are 34 `ADP` lemmas (1%), 40 `ADP` types (0%) and 1329 `ADP` tokens (5%).
-Out of 13 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 8 in number of tokens.
+Out of 14 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>in, ad, ab, de, ex, per, cum, super, pro, inter</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="la_perseus-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.176471 (the average of all parts of speech is 2.099410).
+The form / lemma ratio of `ADP` is 1.176471 (the average of all parts of speech is 2.099614).
 
 The 1st highest number of forms (3) was observed with the lemma “ab”: <em>a, ab, abs</em>.
 
@@ -66,19 +66,17 @@ The 3rd highest number of forms (2) was observed with the lemma “adversus”: 
 
 `ADP` nodes are attached to their parents using 2 different relations: <tt><a href="la_perseus-dep-case.html">case</a></tt> (1328; 100% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1082; 81% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (151; 11% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (67; 5% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (25; 2% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1083; 81% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (151; 11% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (67; 5% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (25; 2% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (1; 0% instances)
 
-1294 (97%) `ADP` nodes are leaves.
+1326 (100%) `ADP` nodes are leaves.
 
-31 (2%) `ADP` nodes have one child.
+2 (0%) `ADP` nodes have one child.
 
-3 (0%) `ADP` nodes have two children.
+1 (0%) `ADP` nodes have two children.
 
-1 (0%) `ADP` nodes have three or more children.
+The highest child degree of a `ADP` node is 2.
 
-The highest child degree of a `ADP` node is 3.
+Children of `ADP` nodes are attached using 1 different relations: <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (4; 100% instances)
 
-Children of `ADP` nodes are attached using 2 different relations: <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (31; 78% instances), <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (9; 23% instances)
-
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (23; 57% instances), <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (9; 23% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (7; 18% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances)
+Children of `ADP` nodes belong to 1 different parts of speech: <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (4; 100% instances)
 

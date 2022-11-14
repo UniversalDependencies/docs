@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `dislocated`.
+15 nodes (0%) are attached to their parents as `dislocated`.
 
-10 instances of `dislocated` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.23076923076923.
+10 instances of `dislocated` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.
 
-The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-X.html">X</a></tt> (5; 38% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (3; 23% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
+The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-X.html">X</a></tt> (5; 33% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (3; 20% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -26,10 +26,10 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 2	مۇزىكاتنىڭ	_	NOUN	N	_	3	nmod:poss	_	Translit=muzikatning|Morf=Unknown
 3	ئوغلى	_	NOUN	N	_	13	parataxis	_	Translit=oghli|Morf=Unknown
 4	بولسىمۇ	بول	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	3	cop	_	SpaceAfter=No|Translit=bolsimu
-5	،	،	PUNCT	Y	_	4	punct	_	Translit=,
+5	،	،	PUNCT	Y	_	3	punct	_	Translit=,
 6	لېكىن	لېكىن	CCONJ	C	_	13	cc	_	Translit=lëkin
 7	كىچىكىدىن	كىچىك	ADJ	N	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	13	obl	_	Translit=kichikidin
-8	«	«	PUNCT	Y	_	7	punct	_	SpaceAfter=No|Translit=«
+8	«	«	PUNCT	Y	_	10	punct	_	SpaceAfter=No|Translit=«
 9	بوشلۇقتىكى	بوشلۇق	NOUN	N	Case=Nom	10	amod	_	Translit=boshluqtiki
 10	مۇزىكا	مۇزىكا	NOUN	N	Case=Nom	13	obl	_	SpaceAfter=No|Translit=muzika
 11	»	»	PUNCT	Y	_	10	punct	_	Translit=»
@@ -59,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 11	سوراپتۇ	_	VERB	V	_	19	parataxis	_	Translit=soraptu|Morf=Unknown
 12	ئالدامچىلار	ئالدامچى	NOUN	V	Case=Nom|Number=Plur	11	nsubj	_	Translit=aldamchilar
 13	بىرمۇنچە	_	NUM	M	_	16	nummod	_	Translit=birmunche|Morf=Unknown
-14	«	«	PUNCT	Y	_	13	punct	_	SpaceAfter=No|Translit=«
+14	«	«	PUNCT	Y	_	16	punct	_	SpaceAfter=No|Translit=«
 15	گۈزەل	گۈزەل	ADJ	A	_	16	amod	_	Translit=güzel
 16	نۇسخىلار	نۇسخا	NOUN	N	Case=Nom|Number=Plur	19	obj	_	SpaceAfter=No|Translit=nusxilar
 17	»	»	PUNCT	Y	_	16	punct	_	Translit=»
@@ -78,10 +78,10 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 dislocated	color:blue
-1	بىزنىڭ	بىز	PRON	P	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	case	_	Translit=bizning
-2	سوراپ-سوراپ	_	NOUN	N	_	3	advmod	_	Translit=sorap-sorap|Morf=Unknown
+1	بىزنىڭ	بىز	PRON	P	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	obl	_	Translit=bizning
+2	سوراپ-سوراپ	_	NOUN	N	_	3	obl	_	Translit=sorap-sorap|Morf=Unknown
 3	تۈگىتەلمەيدىغان	_	NOUN	N	_	6	acl	_	Translit=tügitelmeydighan|Morf=Unknown
-4	"	"	PUNCT	Y	_	3	punct	_	SpaceAfter=No|Translit="
+4	"	"	PUNCT	Y	_	6	punct	_	SpaceAfter=No|Translit="
 5	نېمە	نېمە	NOUN	P	Case=Nom	6	compound	_	Translit=nëme
 6	ئۈچۈن	ئۈچۈن	ADP	C	_	9	nsubj	_	SpaceAfter=No|Translit=üchün
 7	"	"	PUNCT	Y	_	6	punct	_	Translit="

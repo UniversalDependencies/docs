@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Makurap-TuDeT: POS Tags: `PRON`
 
-There are 5 `PRON` lemmas (6%), 5 `PRON` types (6%) and 11 `PRON` tokens (8%).
+There are 5 `PRON` lemmas (5%), 5 `PRON` types (5%) and 12 `PRON` tokens (7%).
 Out of 11 observed tags, the rank of `PRON` is: 5 in number of lemmas, 5 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>on, pit, õn, en, xeke</em>
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>pit</em> (<tt><a href="mpu_tudet-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.024691).
+The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.010000).
 
 The 1st highest number of forms (1) was observed with the lemma “en”: <em>en</em>.
 
@@ -32,26 +32,26 @@ The 2nd highest number of forms (1) was observed with the lemma “on”: <em>on
 
 The 3rd highest number of forms (1) was observed with the lemma “pit”: <em>pit</em>.
 
-`PRON` occurs with 4 features: <tt><a href="mpu_tudet-feat-Person.html">Person</a></tt> (8; 73% instances), <tt><a href="mpu_tudet-feat-PronType.html">PronType</a></tt> (8; 73% instances), <tt><a href="mpu_tudet-feat-Number.html">Number</a></tt> (7; 64% instances), <tt><a href="mpu_tudet-feat-Polarity.html">Polarity</a></tt> (3; 27% instances)
+`PRON` occurs with 4 features: <tt><a href="mpu_tudet-feat-Person.html">Person</a></tt> (9; 75% instances), <tt><a href="mpu_tudet-feat-Number.html">Number</a></tt> (8; 67% instances), <tt><a href="mpu_tudet-feat-PronType.html">PronType</a></tt> (8; 67% instances), <tt><a href="mpu_tudet-feat-Polarity.html">Polarity</a></tt> (3; 25% instances)
 
 `PRON` occurs with 6 feature-value pairs: `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `PronType=Prs`
 
-`PRON` occurs with 4 feature combinations.
+`PRON` occurs with 5 feature combinations.
 The most frequent feature combination is `Number=Sing|Person=1|PronType=Prs` (6 tokens).
 Examples: <em>on, õn</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 3 different relations: <tt><a href="mpu_tudet-dep-nsubj.html">nsubj</a></tt> (6; 55% instances), <tt><a href="mpu_tudet-dep-parataxis.html">parataxis</a></tt> (3; 27% instances), <tt><a href="mpu_tudet-dep-root.html">root</a></tt> (2; 18% instances)
+`PRON` nodes are attached to their parents using 3 different relations: <tt><a href="mpu_tudet-dep-nsubj.html">nsubj</a></tt> (7; 58% instances), <tt><a href="mpu_tudet-dep-parataxis.html">parataxis</a></tt> (3; 25% instances), <tt><a href="mpu_tudet-dep-root.html">root</a></tt> (2; 17% instances)
 
-Parents of `PRON` nodes belong to 2 different parts of speech: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt> (9; 82% instances),  (2; 18% instances)
+Parents of `PRON` nodes belong to 2 different parts of speech: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt> (10; 83% instances),  (2; 17% instances)
 
-9 (82%) `PRON` nodes are leaves.
+10 (83%) `PRON` nodes are leaves.
 
 0 (0%) `PRON` nodes have one child.
 
-2 (18%) `PRON` nodes have two children.
+2 (17%) `PRON` nodes have two children.
 
 The highest child degree of a `PRON` node is 2.
 

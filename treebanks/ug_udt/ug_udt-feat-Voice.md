@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (60; 100% of non-empty `Voice`): بىلىنىپ، قىلىنغان، ھېسابلىنىدۇ، ئاڭلىنىپ، تىكىلىپ، بىلىنىدۇ، چايقىلىپ، بىلىندى، تاشلىنىپ، قىلىندى
-* `EMPTY` (8061): دەپ، بولۇپ، دېدى، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، دېگەن، كېلىپ
+* `EMPTY` (8268): دەپ، دېدى، بولۇپ، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، دېگەن، كېلىپ
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (19) occur only with one value of `Voice`.
 

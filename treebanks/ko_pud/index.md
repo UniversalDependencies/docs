@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Sookyoung Kwak, Yongseok Cho, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Korean-PUD](https://github.com/UniversalDependencies/UD_Korean-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_pud210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_pud211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 3.0
 
@@ -88,7 +88,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Case](ko_pud-feat-Case.html) – [Form](ko_pud-feat-Form.html) – [Mood](ko_pud-feat-Mood.html) – [Number](ko_pud-feat-Number.html) – [NumType](ko_pud-feat-NumType.html) – [Person](ko_pud-feat-Person.html) – [Polarity](ko_pud-feat-Polarity.html) – [Polite](ko_pud-feat-Polite.html) – [PronType](ko_pud-feat-PronType.html) – [Tense](ko_pud-feat-Tense.html) – [VerbForm](ko_pud-feat-VerbForm.html) – [Voice](ko_pud-feat-Voice.html)
+[Case](ko_pud-feat-Case.html) – [Form](ko_pud-feat-Form.html) – [Mood](ko_pud-feat-Mood.html) – [Number](ko_pud-feat-Number.html) – [NumType](ko_pud-feat-NumType.html) – [Person](ko_pud-feat-Person.html) – [Polarity](ko_pud-feat-Polarity.html) – [Polite](ko_pud-feat-Polite.html) – [PronType](ko_pud-feat-PronType.html) – [Tense](ko_pud-feat-Tense.html) – [Typo](ko_pud-feat-Typo.html) – [VerbForm](ko_pud-feat-VerbForm.html) – [Voice](ko_pud-feat-Voice.html)
 
 ## Relations
 
@@ -126,7 +126,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 101 word types tagged as particles (PART): 가, 가르치기보다, 거둠으로써, 고, 과, 까지, 나뉘어졌는가를, 나는군요, 나왔나요, 내리겠다고, 높아진다고, 는, 다녔다고, 달라고, 대해서는, 도, 돌지만, 돕는다고, 되기를, 되기에, 된다고, 됨으로써, 됨은, 들, 떠나겠다고, 띤다고, 라고, 로, 를, 마다, 만, 만든다고, 만들었다고, 만들지는, 말고를, 말라고, 물었다고, 믿지는, 바라요, 밖에, 벌어졌다고, 보기로, 보냄으로써, 보다, 보였다고, 보지도, 뿐, 사라지지는, 세움으로써, 솟구침이, 쉰다고, 싸웠다고, 쓰기도, 쓰기로, 쓰라고, 아는지와, 않겠다고, 않기로, 않는다고, 않았어요, 알면서도, 애먹지도, 얻었다고, 없앤다고, 에, 에게, 에서, 열기로, 와, 요, 위해서는, 으로, 은, 을, 의, 이, 이라고, 일어나지는, 임하면서도, 입는데도, 있는지에, 있다고, 있음을, 좋겠어요, 좋아하지, 좋아했어요, 주기를, 주어서는, 즐겼다고, 찾아갔어요, 처럼, 친다고, 커졌다고, 통해서도, 틀렸다고, 한다고, 할지에, 했는지도, 했다고, 했을지도, 화도</li>
+<li>This corpus contains 94 word types tagged as particles (PART): 가, 가르치기보다, 거둠으로써, 고, 과, 까지, 나뉘어졌는가를, 나는군요, 나왔나요, 내리겠다고, 높아진다고, 는, 다녔다고, 대해서는, 도, 돌지만, 돕는다고, 되기를, 되기에, 된다고, 됨으로써, 됨은, 들, 떠나겠다고, 띤다고, 라고, 로, 를, 마다, 만, 만든다고, 만들었다고, 만들지는, 말고를, 물었다고, 믿지는, 바라요, 밖에, 벌어졌다고, 보기로, 보냄으로써, 보다, 보였다고, 보지도, 뿐, 사라지지는, 세움으로써, 솟구침이, 쉰다고, 싸웠다고, 쓰기도, 쓰기로, 쓰라고, 아는지와, 않겠다고, 않기로, 알면서도, 애먹지도, 얻었다고, 없앤다고, 에, 에게, 에서, 열기로, 와, 요, 위해서는, 으로, 은, 을, 의, 이, 이라고, 일어나지는, 임하면서도, 입는데도, 있음을, 좋겠어요, 좋아하지, 좋아했어요, 주기를, 주어서는, 즐겼다고, 찾아갔어요, 처럼, 친다고, 커졌다고, 통해서도, 틀렸다고, 한다고, 할지에, 했는지도, 했을지도, 화도</li>
 </ul>
 
 <ul>
@@ -156,11 +156,11 @@ employ ten-fold cross-validation.
 <ul>
   <li>Fin
   <ul>
-    <li>ADJ: 있다, 있었다, 아니다, 있다고, 없었다, 없다, 같다, 않다, 상관, 아니었다</li>
-    <li>AUX: 이다, 이었다, 이라, 였다, 라, 가, 인지, 인가, 일지, 였는지</li>
+    <li>ADJ: 있다, 있었다, 아니다, 있다고, 없었다, 없다, 같다, 아니었다, 아닐지도, 않다</li>
+    <li>AUX: 이다, 이었다, 이라, 였다, 있다, 라, 가, 않았다, 한다, 못했다</li>
     <li>DET: 있는가, 아닌가, 어떠한가, 어떤가, 있겠는가, 있는가를</li>
-    <li>PART: 있다고, 달라고, 된다고, 한다고, 말라고, 않는다고, 않았어요, 나뉘어졌는가를, 나는군요, 나왔나요</li>
-    <li>VERB: 있다, 되었다, 한다, 했다, 않았다, 못했다, 받았다, 된다, 밝혔다, 일어났다</li>
+    <li>PART: 된다고, 나뉘어졌는가를, 나는군요, 나왔나요, 내리겠다고, 높아진다고, 다녔다고, 돕는다고, 떠나겠다고, 띤다고</li>
+    <li>VERB: 되었다, 있다, 한다, 했다, 받았다, 된다, 밝혔다, 않았다, 일어났다, 못했다</li>
   </ul>
   </li>
 </ul>
@@ -169,9 +169,9 @@ employ ten-fold cross-validation.
   <li>Ger
   <ul>
     <li>ADJ: 그렇기, 높기, 그럼에, 아니기, 엄청나기, 없기, 없었기, 있기, 놀랍기는, 심각함은</li>
-    <li>AUX: 이기, 였음, 였기, 이었기, 이었음</li>
-    <li>PART: 있음을, 쓰기도, 않기로, 가르치기보다, 거둠으로써, 되기를, 되기에, 됨으로써, 됨은, 보기로</li>
-    <li>VERB: 만들기, 있기, 있었기, 벗어나기, 하기, 가기, 가하기, 갖기, 거두기, 그리기</li>
+    <li>AUX: 이기, 있었기, 내기, 않기, 였음, 있기, 였기, 이었기, 이었음, 있음을</li>
+    <li>PART: 쓰기도, 않기로, 있음을, 가르치기보다, 거둠으로써, 되기를, 되기에, 됨으로써, 됨은, 보기로</li>
+    <li>VERB: 만들기, 벗어나기, 있기, 하기, 가기, 가하기, 갖기, 거두기, 그리기, 나왔기</li>
   </ul>
   </li>
 </ul>
@@ -204,6 +204,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ-Fin: 쌀쌀한지를</li>
       <li>ADJ-Ger: 있기를</li>
+      <li>AUX-Ger: 있음을</li>
       <li>DET-Fin: 있는가를</li>
       <li>NOUN: 것을, 영향을, 모습을, 일을, 걸, 역할을, %를, 강을, 승리를, 시간을</li>
       <li>NUM: 하나를</li>
@@ -272,7 +273,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>PART-Fin: 달라고, 말라고, 쓰라고</li>
+      <li>AUX-Fin: 달라고, 말라고</li>
+      <li>PART-Fin: 쓰라고</li>
       <li>VERB-Fin: 떨어뜨려라, 합시다</li>
     </ul>
   </li>
@@ -281,10 +283,10 @@ employ ten-fold cross-validation.
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ-Fin: 있다, 있었다, 아니다, 있다고, 없었다, 없다, 같다, 않다, 아니었다, 있습니다</li>
-      <li>AUX-Fin: 이다, 이었다, 이라, 였다, 라, 이다.</li>
-      <li>PART-Fin: 있다고, 된다고, 한다고, 않는다고, 내리겠다고, 높아진다고, 다녔다고, 돕는다고, 떠나겠다고, 띤다고</li>
-      <li>VERB-Fin: 있다, 되었다, 한다, 했다, 않았다, 못했다, 받았다, 된다, 밝혔다, 일어났다</li>
+      <li>ADJ-Fin: 있다, 있었다, 아니다, 있다고, 없었다, 없다, 같다, 아니었다, 않다, 있습니다</li>
+      <li>AUX-Fin: 이다, 이었다, 이라, 였다, 있다, 라, 않았다, 한다, 못했다, 했다</li>
+      <li>PART-Fin: 된다고, 내리겠다고, 높아진다고, 다녔다고, 돕는다고, 떠나겠다고, 띤다고, 만든다고, 만들었다고, 물었다고</li>
+      <li>VERB-Fin: 되었다, 있다, 한다, 했다, 받았다, 된다, 밝혔다, 않았다, 일어났다, 못했다</li>
     </ul>
   </li>
 </ul>
@@ -297,6 +299,7 @@ employ ten-fold cross-validation.
   <li>Fut
     <ul>
       <li>ADJ: 있을</li>
+      <li>AUX: 않을, 있을</li>
       <li>PART-Fin: 내리겠다고, 떠나겠다고, 않겠다고</li>
       <li>VERB: 될, 일어날, 나갈, 날, 내릴, 늦추어질, 다가올, 돌아올, 드러낼, 만들</li>
     </ul>
@@ -307,15 +310,15 @@ employ ten-fold cross-validation.
   <li>Past
     <ul>
       <li>ADJ: 있었다, 없었다, 아니었다, 없었던, 있던, 있었던, 있었으며, 갑갑했던, 같았다, 많았다</li>
-      <li>ADJ-Fin: 있었다, 없었다, 아니었다, 같았다, 많았다, 분분했다, 비슷했다, 않았다, 없었다고, 있었다고</li>
+      <li>ADJ-Fin: 있었다, 없었다, 아니었다, 같았다, 많았다, 분분했다, 비슷했다, 없었다고, 있었다고, 컸다</li>
       <li>ADJ-Ger: 있었기</li>
-      <li>AUX: 이었다, 였다, 이었던, 였고, 였던, 였으며, 이었고, 이었는데, 이었으며, 였기</li>
-      <li>AUX-Fin: 이었다, 였다, 였는지, 였어</li>
+      <li>AUX: 이었다, 였다, 않았다, 못했다, 있던, 했다, 이었던, 냈다, 놓은, 버린</li>
+      <li>AUX-Fin: 이었다, 였다, 않았다, 못했다, 했다, 냈다, 않았어요, 놓았다, 버렸다, 였는지</li>
       <li>AUX-Ger: 였기, 이었기, 이었음</li>
-      <li>PART: 않았어요, 나뉘어졌는가를, 나는군요, 나왔나요, 만들었다고, 물었다고, 벌어졌다고, 보였다고, 싸웠다고, 얻었다고</li>
-      <li>PART-Fin: 않았어요, 나뉘어졌는가를, 나는군요, 나왔나요, 만들었다고, 물었다고, 벌어졌다고, 보였다고, 싸웠다고, 얻었다고</li>
-      <li>VERB: 되었다, 했다, 된, 않았다, 못했다, 받았다, 한, 밝혔다, 있던, 않은</li>
-      <li>VERB-Fin: 되었다, 했다, 않았다, 못했다, 받았다, 밝혔다, 일어났다, 냈다, 밝혀졌다, 보냈다</li>
+      <li>PART: 나뉘어졌는가를, 나는군요, 나왔나요, 만들었다고, 물었다고, 벌어졌다고, 보였다고, 싸웠다고, 얻었다고, 좋아했어요</li>
+      <li>PART-Fin: 나뉘어졌는가를, 나는군요, 나왔나요, 만들었다고, 물었다고, 벌어졌다고, 보였다고, 싸웠다고, 얻었다고, 좋아했어요</li>
+      <li>VERB: 되었다, 된, 했다, 받았다, 한, 밝혔다, 않았다, 일어난, 일어났다, 가진</li>
+      <li>VERB-Fin: 되었다, 했다, 받았다, 밝혔다, 않았다, 일어났다, 못했다, 밝혀졌다, 보냈다, 하였다</li>
       <li>VERB-Ger: 거뒀기, 있었기</li>
     </ul>
   </li>
@@ -417,14 +420,15 @@ employ ten-fold cross-validation.
       <li>ADJ-Fin: 같아요, 쌀쌀한지를, 있을지는</li>
       <li>ADJ-Ger: 그럼에, 놀랍기는, 심각함은, 아름다움에, 있기를</li>
       <li>ADV: 불과했어요</li>
-      <li>AUX-Fin: 이세요</li>
+      <li>AUX-Fin: 않았어요, 이세요, 있는지에</li>
+      <li>AUX-Ger: 있음을</li>
       <li>DET: 총으로, 있는가를</li>
       <li>DET-Fin: 있는가를</li>
       <li>NOUN: 때문에, 것으로, 것이, 월에, 것을, 년에, 사이에, 것은, 방식으로, 정도로</li>
       <li>NUM: 하나는, 하나와, 1은, 50에, 만에, 백만에서, 하나를, 하나에는</li>
       <li>PART: 에, 의, 는, 와, 에서, 가, 과, 이, 은, 로</li>
-      <li>PART-Fin: 않았어요, 나뉘어졌는가를, 나는군요, 나왔나요, 말고를, 바라요, 아는지와, 있는지에, 좋겠어요, 좋아했어요</li>
-      <li>PART-Ger: 있음을, 않기로, 가르치기보다, 거둠으로써, 되기를, 되기에, 됨으로써, 됨은, 보기로, 보냄으로써</li>
+      <li>PART-Fin: 나뉘어졌는가를, 나는군요, 나왔나요, 말고를, 바라요, 아는지와, 좋겠어요, 좋아했어요, 찾아갔어요, 할지에</li>
+      <li>PART-Ger: 않기로, 있음을, 가르치기보다, 거둠으로써, 되기를, 되기에, 됨으로써, 됨은, 보기로, 보냄으로써</li>
       <li>PRON: 그는, 자신의, 그의, 그녀는, 나는, 그것은, 그들은, 이는, 그녀가, 그녀의</li>
       <li>PROPN: 중국의, 미국에, 영국에서, 영국의, 마케도니아의, 글래스고에서, 독일과, 스위스에서, 아프리카에서, 알래스카에</li>
       <li>VERB: 눈</li>
@@ -443,25 +447,44 @@ employ ten-fold cross-validation.
       <li>Adn
         <ul>
           <li>ADJ: 있는, 같은, 새로운, 큰, 많은, 이러한, 없는, 높은, 작은, 다른</li>
-          <li>AUX: 인, 일, 이라는, 이란, 라는, 이었던, 이던, 였던, 이었을</li>
-          <li>VERB: 대한, 있는, 위한, 라는, 될, 된, 볼, 할, 한, 주는</li>
+          <li>AUX: 인, 있는, 일, 이라는, 이란, 않은, 가는, 있던, 내는, 낼</li>
+          <li>VERB: 대한, 위한, 라는, 될, 된, 볼, 있는, 한, 할, 관한</li>
         </ul>
       </li>
       <li>Aux
         <ul>
-          <li>ADJ: 그렇지, 싶어, 같지, 기쁘게, 달갑지, 독실하지, 따스하게, 싶지, 있어야, 흔치</li>
-          <li>AUX: 이지, 이어야, 이진</li>
+          <li>ADJ: 그렇지, 같지, 기쁘게, 달갑지, 독실하지, 따스하게, 싶지, 있어야, 흔치</li>
+          <li>AUX: 이지, 싶어, 하지, 놓고, 못하게, 못하고, 않게, 이어야, 이진, 치우고</li>
           <li>NOUN: 결혼하고</li>
           <li>PART: 돌지만, 만들지는, 믿지는, 보지도, 사라지지는, 애먹지도, 일어나지는, 좋아하지</li>
-          <li>VERB: 하지, 되어, 만들어, 하고, 갖고, 남아, 받고, 알려져, 기울이지, 나와야</li>
+          <li>VERB: 되어, 만들어, 하고, 갖고, 하지, 남아, 받고, 알려져, 기울이지, 나와야</li>
         </ul>
       </li>
       <li>Compl
         <ul>
           <li>ADJ: 아니라, 있게, 있도록, 있으며, 그렇다면, 다르게, 어떻게, 크게, 빠르게, 아니면</li>
-          <li>AUX: 이며, 이고, 이지만, 인데, 인지, 고, 니, 라면, 여서, 였고</li>
+          <li>AUX: 이며, 이고, 이지만, 있고, 있으며, 인데, 있는데, 하는데, 않아, 인지</li>
           <li>PART: 대해서는, 알면서도, 위해서는, 임하면서도, 입는데도, 주어서는, 통해서도, 했을지도</li>
-          <li>VERB: 대해, 위해, 통해, 따르면, 따라, 되면, 있으며, 불구하고, 보면, 않고</li>
+          <li>VERB: 대해, 위해, 통해, 따르면, 따라, 되면, 불구하고, 보면, 갖게, 대해선</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: 그만, 상관, 형편</li>
+          <li>ADJ-Fin: 상관, 형편</li>
+          <li>ADV: 한</li>
+          <li>DET: 서른</li>
+          <li>NOUN: 그, 이, 지난, 한, 년, 명, 반투, 생, 수, 요일</li>
+          <li>PROPN: 북, 북서, 남, 동, 홍콩</li>
+          <li>VERB: 주고, 눈, 둘러, 들고, 따라, 물어, 살아, 차려</li>
+          <li>VERB-Fin: 둘러, 물어</li>
         </ul>
       </li>
     </ul>
@@ -477,7 +500,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: _, 결혼, 돌지, 만들지, 믿지, 보지, 사라지지, 생각하지, 쓰기, 애먹지, 의미하기, 일어나지, 존재하기, 좋아하지, 참여해야, 초래하기.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -486,21 +509,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (19)</li>
+      <li>VERB--NOUN (23)</li>
       <li>VERB--NOUN-ADP(가) (2)</li>
       <li>VERB--NOUN-ADP(은) (1)</li>
       <li>VERB--NOUN-ADP(이) (2)</li>
-      <li>VERB--NOUN-Nom (164)</li>
-      <li>VERB--PRON (1)</li>
-      <li>VERB--PRON-Nom (32)</li>
-      <li>VERB-Fin--NOUN (14)</li>
+      <li>VERB--NOUN-Nom (189)</li>
+      <li>VERB--PRON (2)</li>
+      <li>VERB--PRON-Nom (44)</li>
+      <li>VERB-Fin--NOUN (9)</li>
       <li>VERB-Fin--NOUN-ADP(가) (1)</li>
       <li>VERB-Fin--NOUN-ADP(는) (2)</li>
-      <li>VERB-Fin--NOUN-Nom (132)</li>
+      <li>VERB-Fin--NOUN-Nom (107)</li>
       <li>VERB-Fin--PRON (2)</li>
-      <li>VERB-Fin--PRON-Nom (39)</li>
+      <li>VERB-Fin--PRON-Nom (28)</li>
       <li>VERB-Ger--NOUN (1)</li>
-      <li>VERB-Ger--NOUN-Nom (9)</li>
+      <li>VERB-Ger--NOUN-Nom (7)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -509,21 +532,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (27)</li>
-      <li>VERB--NOUN-ADP(를) (2)</li>
-      <li>VERB--NOUN-ADP(을) (1)</li>
-      <li>VERB--NOUN-Acc (333)</li>
+      <li>VERB--NOUN (30)</li>
+      <li>VERB--NOUN-ADP(를) (3)</li>
+      <li>VERB--NOUN-ADP(을) (2)</li>
+      <li>VERB--NOUN-Acc (366)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB--PRON-Acc (10)</li>
-      <li>VERB-Fin--NOUN (15)</li>
+      <li>VERB--PRON-Acc (12)</li>
+      <li>VERB-Fin--NOUN (11)</li>
       <li>VERB-Fin--NOUN-ADP(과) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(를) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(를) (1)</li>
       <li>VERB-Fin--NOUN-ADP(을) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (108)</li>
+      <li>VERB-Fin--NOUN-Acc (81)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (2)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Ger--NOUN (2)</li>
-      <li>VERB-Ger--NOUN-Acc (20)</li>
+      <li>VERB-Ger--NOUN-Acc (16)</li>
     </ul>
   </li>
 </ul>

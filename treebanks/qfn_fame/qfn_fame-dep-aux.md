@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="qfn_fame-dep-aux-pass.html">aux:pass</a></tt>.
 
-72 nodes (2%) are attached to their parents as `aux`.
+71 nodes (2%) are attached to their parents as `aux`.
 
-54 instances of `aux` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.72222222222222.
+53 instances of `aux` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.61971830985915.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> (71; 99% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> (70; 99% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

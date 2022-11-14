@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	what	what	PRON	_	PronType=Int,Rel	0	root	_	_
 2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	restriction	restriction	NOUN	_	Number=Sing	4	compound	_	_
-4	ap57	ap57	PROPN	_	Number=Sing	1	nsubj	_	_
+4	ap57	Ap57	PROPN	_	Number=Sing	1	nsubj	_	_
 
 ~~~
 
@@ -58,12 +58,12 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	how	how	ADV	_	PronType=Int,Rel	2	advmod	_	_
 2	many	many	ADJ	_	Degree=Pos	10	nsubj	_	_
 3	of	of	ADP	_	_	7	case	_	_
-4	delta	delta	PROPN	_	Number=Sing	6	nmod:poss	_	_
+4	delta	Delta	PROPN	_	Number=Sing	6	nmod:poss	_	_
 5	's	be	PART	_	_	4	case	_	_
 6	night	night	NOUN	_	Number=Sing	7	compound	_	_
 7	flights	flight	NOUN	_	Number=Plur	2	nmod	_	_
 8	are	be	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
-9	first	first	ADJ	_	Degree=Pos	10	amod	_	_
+9	first	one	ADJ	_	Degree=Pos|NumType=Ord	10	amod	_	_
 10	class	class	NOUN	_	Number=Sing	0	root	_	_
 
 ~~~

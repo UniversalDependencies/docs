@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="es_ancora-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.277778 (the average of all parts of speech is 1.501603).
+The form / lemma ratio of `DET` is 2.277778 (the average of all parts of speech is 1.503003).
 
 The 1st highest number of forms (5) was observed with the lemma “alguno”: <em>alguna, algunas, alguno, algunos, algún</em>.
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advcl`: <tt><a href="apu_ufpa-dep-advcl-tcl.html">advcl:tcl</a></tt>.
 
-5 nodes (1%) are attached to their parents as `advcl`.
+6 nodes (1%) are attached to their parents as `advcl`.
 
-3 instances of `advcl` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.2.
+3 instances of `advcl` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 2 pairs of parts of speech are connected with `advcl`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (4; 80% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (4; 67% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -48,6 +48,23 @@ The following 2 pairs of parts of speech are connected with `advcl`: <tt><a href
 6	patsukarepyryna	tsuka	ADJ	XPOS=ATRIB.INTENS-??-POSSD-???	_	0	root	_	gloss[pt]=ATRIB.INTENS-??-POSSD-???
 7	awinhinã	awinhitxi	NOUN	XPOS=casa.de	Case=Loc|Number=Sing|Possessed=Yes	6	nsubj	_	gloss[pt]=casa.de-?LOC|SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 advcl	color:blue
+1	Hãty	hãty	NUM	Num	_	2	nummod	_	gloss[pt]=um
+2	ũty	ũty	NOUN	XPOS=dia	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	3	obl:tmod	_	gloss[pt]=dia
+3	ukatsaãta	ukatsaã	VERB	XPOS=3SG.M-pescar-VBLZ	_	0	root	_	gloss[pt]=3SG.M-pescar-VBLZ
+4	imãĩkary	mãĩka	VERB	XPOS=3SG.M-pegar	Gender[obj]=Masc|Gender[subj]=Masc|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	3	conj	_	gloss[pt]=3SG.M-pegar-3SG.M.O
+5	kaiãũpuku	kaiãu	VERB	XPOS=muito-DISTR	_	6	advcl	_	gloss[pt]=muito-DISTR
+6	ximaky	ximaky	NOUN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	4	obj	_	gloss[pt]=peixe|SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

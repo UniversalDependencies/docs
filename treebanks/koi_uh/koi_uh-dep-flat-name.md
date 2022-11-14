@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-5 nodes (1%) are attached to their parents as `flat:name`.
+5 nodes (0%) are attached to their parents as `flat:name`.
 
 5 instances of `flat:name` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat:name	color:blue
 1	Эз	оз	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux:neg	_	GTtags=Prt1,3
-2	позь	позьны	AUX	_	Connegative=Yes	3	aux	_	GTtags=ConNeg
+2	позь	позьны	AUX	_	Connegative=Yes	3	aux:pot	_	GTtags=ConNeg
 3	бӧрйыны	бӧрйыны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf
 4	не	не	CCONJ	Polarity=Neg	_	5	cc:preconj	_	_
 5	Питер	Питер	PROPN	_	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	3	obj	_	GTtags=Prop,Sg,Nom

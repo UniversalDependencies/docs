@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="mpu_tudet-pos-DET.h
 
 ### `DET`
 
-1 <tt><a href="mpu_tudet-pos-DET.html">DET</a></tt> tokens (17% of all `DET` tokens) have a non-empty value of `Deixis`.
+1 <tt><a href="mpu_tudet-pos-DET.html">DET</a></tt> tokens (14% of all `DET` tokens) have a non-empty value of `Deixis`.
 
 `DET` tokens may have the following values of `Deixis`:
 

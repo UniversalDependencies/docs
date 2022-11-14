@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Thai-PUD: POS Tags: `AUX`
 
-There are 1 `AUX` lemmas (7%), 43 `AUX` types (1%) and 1449 `AUX` tokens (6%).
-Out of 15 observed tags, the rank of `AUX` is: 4 in number of lemmas, 8 in number of types and 5 in number of tokens.
+There are 1 `AUX` lemmas (6%), 43 `AUX` types (1%) and 1449 `AUX` tokens (6%).
+Out of 16 observed tags, the rank of `AUX` is: 4 in number of lemmas, 8 in number of types and 5 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: _
 
 The 10 most frequent `AUX` types:  เป็น, ได้, จะ, ถูก, ต้อง, สามารถ, อยู่, คือ, แล้ว, ยัง
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 6052, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 4361, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 3134, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1495, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 1449, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1040, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 969, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 951, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 683, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 608, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 592, <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> 581, <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> 272, <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> 134, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 6052, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 4361, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 3134, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1491, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 1449, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1026, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 969, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 951, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 683, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 608, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 606, <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> 581, <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> 272, <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> 134, <tt><a href="th_pud-pos-X.html">X</a></tt> 4, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  เป็น (<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 346, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 16, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 3), ได้ (<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 338, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 25), จะ (<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 242, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 1), ถูก (<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 73, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 1), อยู่ (<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 59, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 44), คือ (<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 39, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 6), แล้ว (<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 29, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4), ยัง (<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 26, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 13), กำลัง (<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 25, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 9), ทรง (<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 22, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 5)
 
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  เป็น (<tt><a href="th_pud-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 43.000000 (the average of all parts of speech is 287.266667).
+The form / lemma ratio of `AUX` is 43.000000 (the average of all parts of speech is 269.375000).
 
 The 1st highest number of forms (43) was observed with the lemma “_”: การต้อง, การถูก, การเป็น, การได้, กำลัง, คง, คล้าย, คล้ายคลึง, ควร, ความเป็น, คือ, ค่อนข้าง, จะ, ชวน, ชื่อ, ดอนท์, ดินท์, ดู, ต้อง, ถูก, ทรง, น่า, ป็น, พึง, พูด, มา, ยัง, ยังคง, รู้สึก, สามารถ, ห้าม, อยู่, อย่างเป็น, อาจ, เคย, เช่น, เป็น, เหมือน, แลัว, แล้ว, ใช่, ได้, ได้รับ.
 
@@ -73,17 +73,17 @@ Examples: เป็น, จะ, ได้, ต้อง, สามารถ, ค
 
 `AUX` nodes are attached to their parents using 4 different relations: <tt><a href="th_pud-dep-aux.html">aux</a></tt> (929; 64% instances), <tt><a href="th_pud-dep-cop.html">cop</a></tt> (432; 30% instances), <tt><a href="th_pud-dep-aux-pass.html">aux:pass</a></tt> (87; 6% instances), <tt><a href="th_pud-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (993; 69% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (349; 24% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (39; 3% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (36; 2% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (16; 1% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (994; 69% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (349; 24% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (39; 3% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (36; 2% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (16; 1% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-1386 (96%) `AUX` nodes are leaves.
+1389 (96%) `AUX` nodes are leaves.
 
-61 (4%) `AUX` nodes have one child.
+59 (4%) `AUX` nodes have one child.
 
-2 (0%) `AUX` nodes have two children.
+1 (0%) `AUX` nodes have two children.
 
 The highest child degree of a `AUX` node is 2.
 
-Children of `AUX` nodes are attached using 5 different relations: <tt><a href="th_pud-dep-advmod.html">advmod</a></tt> (58; 89% instances), <tt><a href="th_pud-dep-punct.html">punct</a></tt> (3; 5% instances), <tt><a href="th_pud-dep-aux.html">aux</a></tt> (2; 3% instances), <tt><a href="th_pud-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="th_pud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
+Children of `AUX` nodes are attached using 4 different relations: <tt><a href="th_pud-dep-advmod.html">advmod</a></tt> (56; 92% instances), <tt><a href="th_pud-dep-punct.html">punct</a></tt> (3; 5% instances), <tt><a href="th_pud-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="th_pud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 6 different parts of speech: <tt><a href="th_pud-pos-PART.html">PART</a></tt> (56; 86% instances), <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 5% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="th_pud-pos-PART.html">PART</a></tt> (56; 92% instances), <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 5% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 

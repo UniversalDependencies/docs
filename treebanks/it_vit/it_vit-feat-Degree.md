@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Abs` (7; 100% of non-empty `Degree`): <em>benissimo, moltissimo, pochissimo</em>
-* `EMPTY` (10754): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
+* `EMPTY` (10768): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
 
 ### `DET`
 
@@ -48,5 +48,5 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Abs` (2; 100% of non-empty `Degree`): <em>moltissime, moltissimi</em>
-* `EMPTY` (43907): <em>il, la, l', i, le, un, gli, una, lo, questo</em>
+* `EMPTY` (43908): <em>il, la, l', i, le, un, gli, una, lo, questo</em>
 

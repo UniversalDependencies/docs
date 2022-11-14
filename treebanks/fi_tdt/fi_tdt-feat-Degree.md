@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Cmp` (107; 80% of non-empty `Degree`): <em>paremmin, useammin, nopeammin, laajemmin, enemmän, pidemmälle, pidempään, huonommin, alempana, etäämmällä</em>
 * `Sup` (26; 20% of non-empty `Degree`): <em>parhaiten, helpoimmin, nopeimmin, yleisimmin, ahkerimmin, ilmeisimmin, keskeisimmin, taitavimmin, todennäköisimmin, vaikeimmin</em>
-* `EMPTY` (15479): <em>myös, niin, vain, nyt, jo, vielä, kuitenkin, sitten, hyvin, ihan</em>
+* `EMPTY` (15481): <em>myös, niin, vain, nyt, jo, vielä, kuitenkin, sitten, hyvin, ihan</em>
 
 <table>
   <tr><th>Paradigm <i>hyvin</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

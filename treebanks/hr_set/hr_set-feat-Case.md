@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
-116528 tokens (58%) have a non-empty value of `Case`.
+116496 tokens (58%) have a non-empty value of `Case`.
 30251 types (85%) occur at least once with a non-empty value of `Case`.
-14915 lemmas (80%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48387; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22931; 11% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (19089; 10% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12826; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7332; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (5334; 3% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (629; 0% instances).
+14914 lemmas (80%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48386; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22932; 11% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (19089; 10% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12826; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7332; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (5302; 3% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (629; 0% instances).
 
 ### `NOUN`
 
-48387 <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+48386 <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34528; 71%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (10767; 22% of non-empty `Case`): <em>način, ponedjeljak, vrijeme, srijedu, godinu, utorak, petak, mjesto, četvrtak, pomoć</em>
+* `Acc` (10766; 22% of non-empty `Case`): <em>način, ponedjeljak, vrijeme, srijedu, godinu, utorak, petak, mjesto, četvrtak, pomoć</em>
 * `Dat` (1101; 2% of non-empty `Case`): <em>novinarima, zemlji, djeci, građanima, javnosti, integraciji, premijeru, uniji, zajednici, članstvu</em>
 * `Gen` (16635; 34% of non-empty `Case`): <em>godine, milijuna, eura, godina, kuna, dana, zemalja, poslova, ljudi, tjedna</em>
 * `Ins` (2463; 5% of non-empty `Case`): <em>obzirom, ljudima, predsjednikom, zemljama, nazivom, godinama, kolegom, sporazumom, pritiskom, zakonom</em>
@@ -39,13 +39,13 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-22931 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Case`.
+22932 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21823; 95%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20684; 90%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15101; 66%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21824; 95%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20684; 90%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15101; 66%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (4236; 18% of non-empty `Case`): <em>sve, prvi, novi, novu, nove, druge, veliku, ratne, drugi, brojne</em>
+* `Acc` (4237; 18% of non-empty `Case`): <em>sve, prvi, novi, novu, nove, druge, veliku, ratne, drugi, brojne</em>
 * `Dat` (511; 2% of non-empty `Case`): <em>svim, drugima, europskoj, međunarodnim, svima, drugim, gospodarskom, bivšem, državnim, europskim</em>
 * `Gen` (6402; 28% of non-empty `Case`): <em>vanjskih, novih, prošle, svih, drugih, prošlog, novog, unutarnjih, europske, hrvatske</em>
 * `Ins` (1143; 5% of non-empty `Case`): <em>drugim, ostalim, velikim, novim, političkim, brojnim, međunarodnim, samim, većim, najvećim</em>
@@ -136,9 +136,9 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PRON`
 
-5334 <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+5302 <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4487; 84%), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3785; 71%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3746; 70%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3745; 70%), <tt><a href="hr_set-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (2899; 54%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4487; 85%), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3785; 71%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3714; 70%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3713; 70%), <tt><a href="hr_set-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (2899; 55%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -147,7 +147,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (176; 3% of non-empty `Case`): <em>njih, čega, njega, ih, nas, sebe, nje, koga, nečeg, nečega</em>
 * `Ins` (106; 2% of non-empty `Case`): <em>čime, njima, sobom, njim, njom, nama, njime, kim, kime, mnom</em>
 * `Loc` (91; 2% of non-empty `Case`): <em>njemu, sebi, čemu, njima, nama, njoj, meni, nečemu, nečem, svačemu</em>
-* `Nom` (938; 18% of non-empty `Case`): <em>što, on, mi, ona, oni, tko, ono, ja, nitko, netko</em>
+* `Nom` (906; 17% of non-empty `Case`): <em>što, on, mi, ona, oni, tko, ono, ja, nitko, netko</em>
 * `Voc` (1; 0% of non-empty `Case`): <em>ti</em>
 
 <table>
@@ -186,14 +186,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17188; 95%),
-<tt>NOUN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (14020; 96%),
+<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17185; 95%),
+<tt>NOUN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (14022; 96%),
 <tt>NOUN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3447; 94%),
-<tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3214; 98%),
+<tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3217; 98%),
 <tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2352; 98%),
-<tt>PROPN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (2342; 98%),
-<tt>ADJ --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1449; 93%),
-<tt>NOUN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1290; 72%),
-<tt>PROPN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (960; 99%),
+<tt>PROPN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (2341; 98%),
+<tt>ADJ --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1450; 93%),
+<tt>NOUN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1292; 72%),
+<tt>PROPN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (959; 99%),
 <tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (813; 99%).
 

@@ -24,7 +24,7 @@ The following 28 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 10 11 amod	color:blue
 1	Ver	ver	VERB	VERB	_	0	root	_	_
 2	também	também	ADV	ADV	_	1	advmod	_	_
-3	a	o	DET	DET	_	4	det	_	_
+3	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	lista	lista	NOUN	NOUN	_	1	obj	_	_
 5	de	de	ADP	ADP	_	6	case	_	_
 6	entidades	entidade	NOUN	NOUN	_	4	nmod	_	_
@@ -66,7 +66,7 @@ The following 28 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 amod	color:blue
-1	O	o	DET	DET	_	2	det	_	_
+1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	caso	caso	NOUN	NOUN	_	4	nsubj:pass	_	_
 3	será	ser	AUX	AUX	_	4	aux:pass	_	_
 4	investigado	investigar	VERB	VERB	_	0	root	_	_

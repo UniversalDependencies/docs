@@ -37,6 +37,6 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>PROPN --[<tt><a href="bxr_bdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (130; 80%),
-<tt>PROPN --[<tt><a href="bxr_bdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (14; 52%),
+<tt>PROPN --[<tt><a href="bxr_bdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (15; 52%),
 <tt>PROPN --[<tt><a href="bxr_bdt-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1; 100%).
 

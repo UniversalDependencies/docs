@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Maria Mitrofan, Verginica Barbu Mititelu.
 
 Repository: [UD_Romanian-SiMoNERo](https://github.com/UniversalDependencies/UD_Romanian-SiMoNERo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_simonero210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_simonero211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,7 +73,7 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
 
 ## Features
 
-[Abbr](ro_simonero-feat-Abbr.html) – [AdpType](ro_simonero-feat-AdpType.html) – [Case](ro_simonero-feat-Case.html) – [Definite](ro_simonero-feat-Definite.html) – [Degree](ro_simonero-feat-Degree.html) – [Gender](ro_simonero-feat-Gender.html) – [Mood](ro_simonero-feat-Mood.html) – [Number](ro_simonero-feat-Number.html) – [Number[psor]](ro_simonero-feat-Number-psor.html) – [NumForm](ro_simonero-feat-NumForm.html) – [NumType](ro_simonero-feat-NumType.html) – [PartType](ro_simonero-feat-PartType.html) – [Person](ro_simonero-feat-Person.html) – [Polarity](ro_simonero-feat-Polarity.html) – [Position](ro_simonero-feat-Position.html) – [Poss](ro_simonero-feat-Poss.html) – [PronType](ro_simonero-feat-PronType.html) – [Reflex](ro_simonero-feat-Reflex.html) – [Strength](ro_simonero-feat-Strength.html) – [Tense](ro_simonero-feat-Tense.html) – [Variant](ro_simonero-feat-Variant.html) – [VerbForm](ro_simonero-feat-VerbForm.html)
+[Abbr](ro_simonero-feat-Abbr.html) – [AdpType](ro_simonero-feat-AdpType.html) – [Case](ro_simonero-feat-Case.html) – [Definite](ro_simonero-feat-Definite.html) – [Degree](ro_simonero-feat-Degree.html) – [Gender](ro_simonero-feat-Gender.html) – [Mood](ro_simonero-feat-Mood.html) – [Number](ro_simonero-feat-Number.html) – [Number[psor]](ro_simonero-feat-Number-psor.html) – [NumForm](ro_simonero-feat-NumForm.html) – [NumType](ro_simonero-feat-NumType.html) – [PartType](ro_simonero-feat-PartType.html) – [Person](ro_simonero-feat-Person.html) – [Polarity](ro_simonero-feat-Polarity.html) – [Position](ro_simonero-feat-Position.html) – [Poss](ro_simonero-feat-Poss.html) – [PronType](ro_simonero-feat-PronType.html) – [Reflex](ro_simonero-feat-Reflex.html) – [Strength](ro_simonero-feat-Strength.html) – [Tense](ro_simonero-feat-Tense.html) – [Typo](ro_simonero-feat-Typo.html) – [Variant](ro_simonero-feat-Variant.html) – [VerbForm](ro_simonero-feat-VerbForm.html)
 
 ## Relations
 
@@ -798,6 +798,21 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
   </li>
 </ul>
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: &b.beta;, non</li>
+          <li>ADV: comparativ</li>
+          <li>NOUN: de</li>
+          <li>X: a</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -817,25 +832,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (458)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (2)</li>
-      <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Nom (1874)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(decât) (1)</li>
-      <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Nom (934)</li>
-      <li>VERB-Ger--NOUN (10)</li>
-      <li>VERB-Ger--NOUN-Nom (42)</li>
+      <li>VERB-Fin--NOUN (451)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
+      <li>VERB-Fin--NOUN-Gen (1)</li>
+      <li>VERB-Fin--NOUN-Nom (1858)</li>
+      <li>VERB-Fin--PRON-Nom (930)</li>
+      <li>VERB-Ger--NOUN (11)</li>
+      <li>VERB-Ger--NOUN-Nom (43)</li>
       <li>VERB-Ger--PRON-Nom (19)</li>
-      <li>VERB-Inf--NOUN (37)</li>
-      <li>VERB-Inf--NOUN-Nom (121)</li>
-      <li>VERB-Inf--PRON-Nom (32)</li>
-      <li>VERB-Part--NOUN (167)</li>
+      <li>VERB-Inf--NOUN (34)</li>
+      <li>VERB-Inf--NOUN-Nom (118)</li>
+      <li>VERB-Inf--PRON-Nom (28)</li>
+      <li>VERB-Part--NOUN (164)</li>
       <li>VERB-Part--NOUN-ADP(dintre) (1)</li>
       <li>VERB-Part--NOUN-ADP(la) (2)</li>
-      <li>VERB-Part--NOUN-Gen (1)</li>
-      <li>VERB-Part--NOUN-Nom (591)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(la) (1)</li>
+      <li>VERB-Part--NOUN-Nom (585)</li>
       <li>VERB-Part--PRON-Nom (229)</li>
     </ul>
   </li>
@@ -844,18 +855,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (566)</li>
+      <li>VERB-Fin--NOUN (571)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(pe) (2)</li>
       <li>VERB-Fin--NOUN-ADP(în) (2)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (1309)</li>
+      <li>VERB-Fin--NOUN-Nom (1315)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(la) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(pe) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(în) (1)</li>
-      <li>VERB-Fin--PRON-Acc (26)</li>
+      <li>VERB-Fin--PRON-Acc (24)</li>
       <li>VERB-Fin--PRON-Dat (5)</li>
-      <li>VERB-Fin--PRON-Nom (9)</li>
+      <li>VERB-Fin--PRON-Nom (10)</li>
       <li>VERB-Fin--PRON-Nom-ADP(a) (1)</li>
       <li>VERB-Fin--PRON-Nom-ADP(pe) (19)</li>
       <li>VERB-Ger--NOUN (76)</li>
@@ -876,7 +887,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN (197)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-ADP(pe) (1)</li>
-      <li>VERB-Part--NOUN-Nom (302)</li>
+      <li>VERB-Part--NOUN-Nom (303)</li>
       <li>VERB-Part--NOUN-Nom-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-Nom-ADP(decât) (1)</li>
       <li>VERB-Part--NOUN-Nom-ADP(pe) (2)</li>
@@ -893,11 +904,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN (9)</li>
-      <li>VERB-Fin--NOUN-Gen (42)</li>
+      <li>VERB-Fin--NOUN-Gen (41)</li>
       <li>VERB-Fin--NOUN-Nom (1)</li>
       <li>VERB-Fin--PRON-Acc (11)</li>
       <li>VERB-Fin--PRON-Dat (8)</li>
-      <li>VERB-Fin--PRON-Gen (5)</li>
+      <li>VERB-Fin--PRON-Gen (6)</li>
       <li>VERB-Ger--NOUN (4)</li>
       <li>VERB-Ger--NOUN-Gen (9)</li>
       <li>VERB-Ger--PRON-Dat (1)</li>
@@ -905,12 +916,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen (11)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--PRON-Acc (4)</li>
-      <li>VERB-Inf--PRON-Dat (4)</li>
+      <li>VERB-Inf--PRON-Dat (3)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Part--NOUN (27)</li>
       <li>VERB-Part--NOUN-ADP(de) (2)</li>
       <li>VERB-Part--NOUN-ADP(din) (1)</li>
-      <li>VERB-Part--NOUN-Gen (93)</li>
+      <li>VERB-Part--NOUN-Gen (94)</li>
       <li>VERB-Part--NOUN-Gen-ADP(asupra) (1)</li>
       <li>VERB-Part--PRON-Acc (3)</li>
       <li>VERB-Part--PRON-Dat (8)</li>

@@ -9,34 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-328 tokens (1%) have a non-empty value of `Abbr`.
-40 types (0%) occur at least once with a non-empty value of `Abbr`.
-25 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 4 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (287; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (32; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 0% instances).
+356 tokens (1%) have a non-empty value of `Abbr`.
+43 types (0%) occur at least once with a non-empty value of `Abbr`.
+27 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 4 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (310; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (37; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-287 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+310 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (215; 75%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (215; 75%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (215; 75%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (238; 77%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (238; 77%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (238; 77%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (287; 100% of non-empty `Abbr`): <em>г., х., де, алт., гсдрю, гсдрни, гсдрь, с., кнзь, кнзю</em>
-* `EMPTY` (7395): <em>государь, государю, государя, году, день, людей, указу, денги, земли, челом</em>
+* `Yes` (310; 100% of non-empty `Abbr`): <em>г., х., л., об., де, алт., гсдрю, гсдрни, гсдрь, с.</em>
+* `EMPTY` (11049): <em>чети, весу, году, гривенок, воза, государь, государю, государя, гривенки, де[нь]</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (20) occur only with one value of `Abbr`.
 
 ### `DET`
 
-32 <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Abbr`.
+37 <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="orv_rnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (32; 100%), <tt><a href="orv_rnc-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (32; 100%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (30; 94%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (30; 94%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (30; 94%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (30; 94%).
+The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="orv_rnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (35; 95%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (35; 95%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (35; 95%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (30; 81%).
 
 `DET` tokens may have the following values of `Abbr`:
 
-* `Yes` (32; 100% of non-empty `Abbr`): <em>т., с., вши, вших</em>
-* `EMPTY` (1862): <em>твой, сей, мои, то, тѣхъ, тѣ, всѣхъ, того, твоему, всꙗ</em>
+* `Yes` (37; 100% of non-empty `Abbr`): <em>т., др., с., вши, вших</em>
+* `EMPTY` (2022): <em>твой, то, сей, мои, тѣхъ, тово, тѣ, всѣхъ, те, того</em>
 
 ### `ADJ`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>бжиі, бжия, др, гсдрвыми</em>
-* `EMPTY` (3221): <em>великого, великому, государева, великихъ, приказной, государеву, прошломъ, стрѣлецкіе, великомꙋ, земскимъ</em>
+* `EMPTY` (4288): <em>великого, великому, оржанои, 178-г(о), вытным, люцкои, медные, государева, великихъ, приказной</em>
 
 ### `ADV`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>отннѣ</em>
-* `EMPTY` (692): <em>тако, как, гдѣ, какъ, нн҃ѣ, тогда, здѣ, нынѣ, всегда, ныне</em>
+* `EMPTY` (790): <em>всего, тако, как, гдѣ, какъ, нн҃ѣ, тогда, здѣ, ныне, нынѣ</em>
 
 ## Relations with Agreement in `Abbr`
 

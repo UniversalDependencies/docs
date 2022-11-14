@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (1262; 100% of non-empty `Voice`): <em>used, called, found, made, known, considered, taken, born, done, allowed</em>
-* `EMPTY` (16255): <em>have, know, get, make, do, said, see, go, are, think</em>
+* `EMPTY` (16228): <em>have, know, get, make, do, said, see, go, are, think</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (527) occur only with one value of `Voice`.
 

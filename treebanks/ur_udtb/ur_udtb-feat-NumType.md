@@ -31,21 +31,19 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ur_udtb-pos-NUM.htm
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (248; 100% of non-empty `NumType`): دوسری، پہلے، پہلی، دوسرے، پہلا، دوسرا، تیسرے، دوم، واحد، دونوں
-* `EMPTY` (9871): جاری، شامل، دیگر، سابق، موجود، ریاستی، پیدا، ہلاک، منعقد، سرکاری
+* `EMPTY` (10267): والے، جاری، شامل، دیگر، سابق، موجود، ریاستی، پیدا، ہلاک، والی
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (44) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> NUM</tt> (83; 100%),
+<tt>NUM --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NUM</tt> (132; 100%),
 <tt>NUM --[<tt><a href="ur_udtb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (57; 100%),
 <tt>NUM --[<tt><a href="ur_udtb-dep-dep.html">dep</a></tt>]--> NUM</tt> (18; 100%),
 <tt>NUM --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (17; 100%),
-<tt>NUM --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (15; 100%),
-<tt>NUM --[<tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt>]--> NUM</tt> (9; 100%),
 <tt>NUM --[<tt><a href="ur_udtb-dep-amod.html">amod</a></tt>]--> NUM</tt> (8; 100%),
-<tt>NUM --[<tt><a href="ur_udtb-dep-mark.html">mark</a></tt>]--> NUM</tt> (8; 100%),
 <tt>NUM --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> NUM</tt> (7; 100%),
-<tt>NUM --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NUM</tt> (6; 100%).
+<tt>NUM --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> NUM</tt> (3; 100%),
+<tt>ADJ --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2; 100%).
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Noëmi Aepli.
 
 Repository: [UD_Swiss_German-UZH](https://github.com/UniversalDependencies/UD_Swiss_German-UZH)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgsw_uzh210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgsw_uzh211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -225,7 +225,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (24)</li>
-      <li>VERB--PRON (46)</li>
+      <li>VERB--PRON (44)</li>
     </ul>
   </li>
 </ul>

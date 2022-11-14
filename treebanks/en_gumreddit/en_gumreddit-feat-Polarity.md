@@ -12,7 +12,7 @@ It occurs with 1 different values: `Neg`.
 326 tokens (2%) have a non-empty value of `Polarity`.
 1 types (0) occur at least once with a non-empty value of `Polarity`.
 1 lemmas (0) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 6 part-of-speech tags: <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> (237; 1% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (28; 0% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (5; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> (237; 1% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (28; 0% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `PART`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (28; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (1016): <em>_</em>
+* `EMPTY` (1056): <em>_</em>
 
 ### `DET`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (19; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (973): <em>_</em>
+* `EMPTY` (975): <em>_</em>
 
 ### `INTJ`
 
@@ -65,14 +65,25 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 * `Neg` (9; 100% of non-empty `Polarity`): <em>_</em>
 * `EMPTY` (50): <em>_</em>
 
+### `PRON`
+
+3 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (3; 100%).
+
+`PRON` tokens may have the following values of `Polarity`:
+
+* `Neg` (3; 100% of non-empty `Polarity`): <em>_</em>
+* `EMPTY` (1928): <em>_</em>
+
 ### `NOUN`
 
-5 <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Polarity`.
+2 <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%).
+The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Polarity`:
 
-* `Neg` (5; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (2741): <em>_</em>
+* `Neg` (2; 100% of non-empty `Polarity`): <em>_</em>
+* `EMPTY` (2687): <em>_</em>
 

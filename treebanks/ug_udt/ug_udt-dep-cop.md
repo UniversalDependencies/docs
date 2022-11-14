@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-639 nodes (2%) are attached to their parents as `cop`.
+555 nodes (1%) are attached to their parents as `cop`.
 
-614 instances of `cop` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17370892018779.
+549 instances of `cop` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.12972972972973.
 
-The following 25 pairs of parts of speech are connected with `cop`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (221; 35% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (173; 27% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (129; 20% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (20; 3% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (17; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (15; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (4; 1% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (227; 41% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (159; 29% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (133; 24% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (18; 3% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 25 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam
 5	قوشنا	قوشنا	NOUN	N	Case=Nom	0	root	_	Translit=qoshna
 6	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No|Translit=idi
-7	.	.	PUNCT	Y	_	6	punct	_	Translit=.
+7	.	.	PUNCT	Y	_	5	punct	_	Translit=.
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 25 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam
 5	قوشنا	قوشنا	NOUN	N	Case=Nom	0	root	_	Translit=qoshna
 6	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No|Translit=idi
-7	.	.	PUNCT	Y	_	6	punct	_	Translit=.
+7	.	.	PUNCT	Y	_	5	punct	_	Translit=.
 
 ~~~
 
@@ -64,7 +64,7 @@ The following 25 pairs of parts of speech are connected with `cop`: <tt><a href=
 6	كۆرگۈم	_	VERB	V	_	7	acl	_	Translit=körgüm|Morf=Unknown
 7	يوق	يوق	ADJ	A	_	0	root	_	Translit=yoq
 8	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=idi
-9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
+9	.	.	PUNCT	Y	_	7	punct	_	Translit=.
 
 ~~~
 

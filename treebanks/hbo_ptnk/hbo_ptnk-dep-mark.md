@@ -17,54 +17,22 @@ The following 13 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 mark	color:blue
-1	_	ו	CCONJ	conj	_	8	cc	_	_
-2	_	שׁם	NOUN	subs	Gender=Masc|Number=Sing	8	nsubj	_	_
-3	־	־	PUNCT	punct	_	5	punct	_	SpaceAfter=No
-4	_	ה	DET	art	_	5	det	_	_
-5	_	נהר	NOUN	subs	Gender=Masc|Number=Sing	2	compound:smixut	_	_
-6	_	ה	DET	art	_	7	det	_	_
-7	_	שׁני	NUM	adjv	Gender=Masc|Number=Sing	5	nummod	_	_
-8	גִּיחֹ֑ון	גיחון	PROPN	nmpr	Number=Sing	0	root	_	_
-9	ה֣וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-10	_	ה	SCONJ	art	_	11	mark	_	_
-11	_	סבב	VERB	verb	Gender=Masc|HebBinyan=PAAL|Number=Sing|VerbForm=Part	8	parataxis	_	_
-12	אֵ֖ת	את	ADP	prep	_	13	case	_	_
-13	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
-14	־	־	PUNCT	punct	_	15	punct	_	SpaceAfter=No
-15	אֶ֥רֶץ	ארץ	NOUN	subs	Number=Sing	13	compound:smixut	_	_
-16	כּֽוּשׁ	כושׁ	PROPN	nmpr	Number=Sing	15	compound:smixut	_	SpaceAfter=No
-17	׃	׃	PUNCT	punct	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 9 mark	color:blue
-1	_	ו	CCONJ	conj	_	2	cc	_	_
-2	_	קרא	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	_	ה	DET	art	_	4	det	_	_
-4	_	אדם	NOUN	subs	Gender=Masc|Number=Sing	2	nsubj	_	_
-5	שֵׁ֥ם	שׁם	NOUN	subs	Gender=Masc|Number=Sing	2	obj	_	_
-6	_	אשׁה	NOUN	subs	Gender=Fem|Number=Sing	5	compound:smixut	_	_
-7	_	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	_
-8	חַוָּ֑ה	חוה	PROPN	nmpr	Gender=Fem|Number=Sing	2	xcomp	_	_
-9	כִּ֛י	כי	SCONJ	conj	_	12	mark	_	_
-10	הִ֥וא	היא	PRON	prps	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-11	הָֽיְתָ֖ה	היה	AUX	verb	Aspect=Perf|Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	12	cop	_	_
-12	אֵ֥ם	אם	NOUN	subs	Gender=Fem|Number=Sing	2	advcl	_	_
-13	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	12	compound:smixut	_	SpaceAfter=No
-14	־	־	PUNCT	punct	_	15	punct	_	SpaceAfter=No
-15	חָֽי	חי	ADJ	adjv	Gender=Masc|Number=Sing	13	compound:smixut	_	SpaceAfter=No
-16	׃	׃	PUNCT	punct	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 mark	color:blue
+1	כִּ֥י	כי	SCONJ	conj	_	3	mark	_	Ref=GEN_4.24
+2	שִׁבְעָתַ֖יִם	שׁבע	NUM	subs	Gender=Fem|Number=Dual|NumType=Card	3	obl	_	Ref=GEN_4.24
+3	יֻקַּם	נקם	VERB	verb	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Ref=GEN_4.24|SpaceAfter=No
+4	־	־	PUNCT	punct	_	5	punct	_	Ref=GEN_4.24|SpaceAfter=No
+5	קָ֑יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Ref=GEN_4.24
+6	ו	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_4.24
+7	למך	למך	PROPN	nmpr	Gender=Masc|Number=Sing	3	conj	_	Ref=GEN_4.24
+8	שִׁבְעִ֥ים	שׁבע	NUM	subs	Gender=Masc|Number=Plur|NumType=Card	7	orphan	_	Ref=GEN_4.24
+9	ו	ו	CCONJ	conj	_	10	cc	_	Ref=GEN_4.24
+10	שׁבע	שׁבע	NUM	subs	Gender=Fem|Number=Sing|NumType=Card	8	conj	_	Ref=GEN_4.24
+11	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_4.24
 
 ~~~
 
@@ -72,32 +40,50 @@ The following 13 pairs of parts of speech are connected with `mark`: <tt><a href
 ~~~ conllu
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 13 mark	color:blue
-1	_	ו	CCONJ	conj	_	2	cc	_	_
-2	_	עלה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	אַבְרָ֨ם	אברם	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	_
-4	_	מן	ADP	prep	_	5	case	_	_
-5	_	מצרים	PROPN	nmpr	Number=Sing	2	obl	_	_
-6	ה֠וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	dislocated	_	_
-7	_	ו	CCONJ	conj	_	8	cc	_	_
-8	_	אשׁה	NOUN	subs	Gender=Fem|Number=Sing	6	conj	_	_
-9	_	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod:poss	_	_
-10	_	ו	CCONJ	conj	_	11	cc	_	_
-11	_	כל	NOUN	subs	Gender=Masc|Number=Sing	6	conj	_	_
-12	־	־	PUNCT	punct	_	13	punct	_	SpaceAfter=No
-13	אֲשֶׁר	אשׁר	SCONJ	conj	_	16	mark	_	SpaceAfter=No
-14	־	־	PUNCT	punct	_	13	punct	_	SpaceAfter=No
-15	_	ל	ADP	prep	_	16	case	_	_
-16	_	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	acl	_	_
-17	_	ו	CCONJ	conj	_	20	cc	_	_
-18	_	לוט	PROPN	nmpr	Gender=Masc|Number=Sing	20	nsubj	_	_
-19	_	עם	ADP	prep	_	20	case	_	_
-20	_	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	conj	_	_
-21	_	ה	DET	art	_	22	det	_	_
-22	_	נגב	NOUN	subs	Gender=Masc|Number=Sing	2	obl	_	_
-23	׃	׃	PUNCT	punct	_	2	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 13 mark	color:blue
+1	ו	ו	CCONJ	conj	_	11	cc	_	Ref=GEN_21.13
+2	גם	גם	ADV	advb	_	5	advmod	_	Ref=GEN_21.13
+3	אֶת	את	ADP	prep	_	5	case	_	Ref=GEN_21.13|SpaceAfter=No
+4	־	־	PUNCT	punct	_	3	punct	_	Ref=GEN_21.13|SpaceAfter=No
+5	בֶּן	בן	NOUN	subs	Gender=Masc|Number=Sing	11	dislocated	_	Ref=GEN_21.13|SpaceAfter=No
+6	־	־	PUNCT	punct	_	8	punct	_	Ref=GEN_21.13|SpaceAfter=No
+7	ה	ה	DET	art	PronType=Art	8	det	_	Ref=GEN_21.13
+8	אמה	אמה	NOUN	subs	Gender=Fem|Number=Sing	5	compound:smixut	_	Ref=GEN_21.13
+9	ל	ל	ADP	prep	_	10	case	_	Ref=GEN_21.13
+10	גוי	גוי	NOUN	subs	Gender=Masc|Number=Sing	11	obl	_	Ref=GEN_21.13
+11	שׂים	שׂים	VERB	verb	Aspect=Imp|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Ref=GEN_21.13
+12	הוא	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	Ref=GEN_21.13
+13	כִּ֥י	כי	SCONJ	conj	_	14	mark	_	Ref=GEN_21.13
+14	זרע	זרע	NOUN	subs	Gender=Masc|Number=Sing	11	advcl	_	Ref=GEN_21.13
+15	אתה	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nmod:poss	_	Ref=GEN_21.13
+16	הֽוּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Ref=GEN_21.13|SpaceAfter=No
+17	׃	׃	PUNCT	punct	_	11	punct	_	Ref=GEN_21.13
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 8 mark	color:blue
+1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_25.5
+2	נתן	נתן	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_25.5
+3	אַבְרָהָ֛ם	אברהם	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Ref=GEN_25.5
+4	אֶת	את	ADP	prep	_	6	case	_	Ref=GEN_25.5|SpaceAfter=No
+5	־	־	PUNCT	punct	_	4	punct	_	Ref=GEN_25.5|SpaceAfter=No
+6	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	2	obj	_	Ref=GEN_25.5|SpaceAfter=No
+7	־	־	PUNCT	punct	_	8	punct	_	Ref=GEN_25.5|SpaceAfter=No
+8	אֲשֶׁר	אשׁר	SCONJ	conj	_	11	mark	_	Ref=GEN_25.5|SpaceAfter=No
+9	־	־	PUNCT	punct	_	8	punct	_	Ref=GEN_25.5|SpaceAfter=No
+10	ל	ל	ADP	prep	_	11	case	_	Ref=GEN_25.5
+11	הוא	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	acl	_	Ref=GEN_25.5
+12	ל	ל	ADP	prep	_	13	case	_	Ref=GEN_25.5
+13	יצחק	יצחק	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Ref=GEN_25.5
+14	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_25.5
 
 ~~~
 

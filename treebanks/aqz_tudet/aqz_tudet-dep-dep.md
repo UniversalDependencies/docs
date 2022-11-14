@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (1%) are attached to their parents as `dep`.
+10 nodes (1%) are attached to their parents as `dep`.
 
-6 instances of `dep` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.09090909090909.
+6 instances of `dep` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1.
 
-The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (6; 55% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (1; 9% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (1; 9% instances).
+The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (6; 60% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (2; 20% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -66,18 +66,15 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 dep	color:blue
-1	poga	poga	NOUN	n	_	2	nmod	_	_
-2	pe	pe	NOUN	n	_	3	nmod	_	_
-3	pi	pi	NOUN	n	_	7	nsubj	_	_
-4	,	,	PUNCT	punct	_	3	punct	_	_
-5	ameko	ameko	NOUN	n	_	7	nsubj	_	_
-6	ikora	kora	VERB	vt	Person=3	7	dep	_	_
-7	tʃe	tʃe	AUX	aux	_	0	root	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 dep	color:blue
+1	oko	ko	NOUN	n	Person=1	4	nmod	_	_
+2	oko	ko	NOUN	n	Person=1	1	dep	_	_
+3	te	te	PART	pclfoc	_	1	discourse	_	_
+4	iw	iw	NOUN	n	_	0	root	_	_
 
 ~~~
 

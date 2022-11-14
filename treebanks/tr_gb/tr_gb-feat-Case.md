@@ -11,7 +11,7 @@ It occurs with 8 different values: `Abl`, `Acc`, `Dat`, `Equ`, `Gen`, `Ins`, `Lo
 
 6783 tokens (39%) have a non-empty value of `Case`.
 3052 types (60%) occur at least once with a non-empty value of `Case`.
-1277 lemmas (62%) occur at least once with a non-empty value of `Case`.
+1278 lemmas (62%) occur at least once with a non-empty value of `Case`.
 The feature is used with 8 part-of-speech tags: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (4621; 27% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1070; 6% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (499; 3% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (392; 2% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (72; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (72; 0% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (51; 0% instances), <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (6; 0% instances).
 
 ### `NOUN`
@@ -210,7 +210,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="tr_gb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (39; 76%),
-<tt>NOUN --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (27; 61%),
+<tt>NOUN --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (27; 63%),
 <tt>NOUN --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (21; 70%),
 <tt>NOUN --[<tt><a href="tr_gb-dep-acl.html">acl</a></tt>]--> NOUN</tt> (14; 67%),
 <tt>NOUN --[<tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt>]--> NOUN</tt> (10; 100%),

@@ -9,26 +9,26 @@ udver: '2'
 This feature is language-specific.
 It occurs with 8 different values: `Ad`, `Cmpl`, `Comp`, `Inf`, `Num`, `Pat`, `Vb`, `Voc`.
 
-6103 tokens (7%) have a non-empty value of `PartType`.
+6044 tokens (7%) have a non-empty value of `PartType`.
 40 types (1%) occur at least once with a non-empty value of `PartType`.
 29 lemmas (1%) occur at least once with a non-empty value of `PartType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (6103; 7% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (6044; 7% instances).
 
 ### `PART`
 
-6103 <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> tokens (69% of all `PART` tokens) have a non-empty value of `PartType`.
+6044 <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> tokens (69% of all `PART` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5060; 83%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3521; 58%).
+The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5001; 83%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3520; 58%).
 
 `PART` tokens may have the following values of `PartType`:
 
 * `Ad` (365; 6% of non-empty `PartType`): <em>gu</em>
 * `Cmpl` (1782; 29% of non-empty `PartType`): <em>gun, gu, cha, gum, chan, nach, g', 'g, gan, gur</em>
 * `Comp` (184; 3% of non-empty `PartType`): <em>nas, na, bu, b', 's</em>
-* `Inf` (1002; 16% of non-empty `PartType`): <em>a, 'ic, a'</em>
+* `Inf` (1003; 17% of non-empty `PartType`): <em>a, 'ic, a'</em>
 * `Num` (23; 0% of non-empty `PartType`): <em>a</em>
 * `Pat` (83; 1% of non-empty `PartType`): <em>mac, 'ic, Nic, O, Mhic, Ó, Mc</em>
-* `Vb` (2589; 42% of non-empty `PartType`): <em>a, an, am, nach, na, 'm, 'n, a', ‘n</em>
+* `Vb` (2529; 42% of non-empty `PartType`): <em>a, an, am, nach, na, 'm, 'n, a', ‘n</em>
 * `Voc` (75; 1% of non-empty `PartType`): <em>a, a'</em>
 
 <table>

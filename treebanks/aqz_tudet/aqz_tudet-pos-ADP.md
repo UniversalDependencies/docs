@@ -13,19 +13,19 @@ The 10 most frequent `ADP` lemmas: <em>ete, etʃe, pe</em>
 
 The 10 most frequent `ADP` types:  <em>ete, etʃe, pe</em>
 
-The 10 most frequent ambiguous lemmas: <em>pe</em> (<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>pe</em> (<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>pe</em> (<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>pe</em> (<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>pe</em>
-  * <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 3: <em>poga <b>pe</b> pi , ameko ikora tʃe</em>
+  * <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 5: <em>poga <b>pe</b> pi , ameko ikora tʃe .</em>
   * <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> 1: <em>Ato kobore <b>pe</b> mã , ãka jõma ape akaratʃe , ãka eot pɨta pen , teten .</em>
   * <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 1: <em>kwamoa mãtʃero õjpe ko otʃeta õjpe ko <b>pe</b> matʃero .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.376582).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.420613).
 
 The 1st highest number of forms (1) was observed with the lemma “ete”: <em>ete</em>.
 

@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.848223).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.848266).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -40,21 +40,21 @@ Examples: <em>%, $</em>
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 11 different relations: <tt><a href="hr_set-dep-advmod.html">advmod</a></tt> (53; 45% instances), <tt><a href="hr_set-dep-nmod.html">nmod</a></tt> (13; 11% instances), <tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt> (13; 11% instances), <tt><a href="hr_set-dep-obj.html">obj</a></tt> (11; 9% instances), <tt><a href="hr_set-dep-nummod.html">nummod</a></tt> (8; 7% instances), <tt><a href="hr_set-dep-obl.html">obl</a></tt> (8; 7% instances), <tt><a href="hr_set-dep-parataxis.html">parataxis</a></tt> (6; 5% instances), <tt><a href="hr_set-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="hr_set-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="hr_set-dep-flat.html">flat</a></tt> (1; 1% instances)
+`SYM` nodes are attached to their parents using 10 different relations: <tt><a href="hr_set-dep-flat.html">flat</a></tt> (56; 47% instances), <tt><a href="hr_set-dep-advmod.html">advmod</a></tt> (28; 24% instances), <tt><a href="hr_set-dep-nmod.html">nmod</a></tt> (7; 6% instances), <tt><a href="hr_set-dep-nummod-gov.html">nummod:gov</a></tt> (7; 6% instances), <tt><a href="hr_set-dep-obj.html">obj</a></tt> (6; 5% instances), <tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt> (5; 4% instances), <tt><a href="hr_set-dep-obl.html">obl</a></tt> (5; 4% instances), <tt><a href="hr_set-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="hr_set-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="hr_set-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (49; 41% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (46; 39% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (11; 9% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (1; 1% instances)
+Parents of `SYM` nodes belong to 9 different parts of speech: <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (58; 49% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (27; 23% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (23; 19% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (1; 1% instances)
 
-8 (7%) `SYM` nodes are leaves.
+61 (51%) `SYM` nodes are leaves.
 
-45 (38%) `SYM` nodes have one child.
+18 (15%) `SYM` nodes have one child.
 
-39 (33%) `SYM` nodes have two children.
+25 (21%) `SYM` nodes have two children.
 
-27 (23%) `SYM` nodes have three or more children.
+15 (13%) `SYM` nodes have three or more children.
 
-The highest child degree of a `SYM` node is 5.
+The highest child degree of a `SYM` node is 4.
 
-Children of `SYM` nodes are attached using 15 different relations: <tt><a href="hr_set-dep-nummod.html">nummod</a></tt> (102; 49% instances), <tt><a href="hr_set-dep-case.html">case</a></tt> (36; 17% instances), <tt><a href="hr_set-dep-nmod.html">nmod</a></tt> (32; 15% instances), <tt><a href="hr_set-dep-punct.html">punct</a></tt> (13; 6% instances), <tt><a href="hr_set-dep-advmod.html">advmod</a></tt> (10; 5% instances), <tt><a href="hr_set-dep-amod.html">amod</a></tt> (5; 2% instances), <tt><a href="hr_set-dep-acl.html">acl</a></tt> (2; 1% instances), <tt><a href="hr_set-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="hr_set-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="hr_set-dep-advmod-emph.html">advmod:emph</a></tt> (1; 0% instances), <tt><a href="hr_set-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hr_set-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="hr_set-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="hr_set-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+Children of `SYM` nodes are attached using 12 different relations: <tt><a href="hr_set-dep-nummod-gov.html">nummod:gov</a></tt> (43; 38% instances), <tt><a href="hr_set-dep-case.html">case</a></tt> (26; 23% instances), <tt><a href="hr_set-dep-nmod.html">nmod</a></tt> (21; 18% instances), <tt><a href="hr_set-dep-advmod.html">advmod</a></tt> (7; 6% instances), <tt><a href="hr_set-dep-nummod.html">nummod</a></tt> (5; 4% instances), <tt><a href="hr_set-dep-amod.html">amod</a></tt> (4; 4% instances), <tt><a href="hr_set-dep-acl.html">acl</a></tt> (2; 2% instances), <tt><a href="hr_set-dep-punct.html">punct</a></tt> (2; 2% instances), <tt><a href="hr_set-dep-advmod-emph.html">advmod:emph</a></tt> (1; 1% instances), <tt><a href="hr_set-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="hr_set-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="hr_set-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `SYM` nodes belong to 13 different parts of speech: <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (102; 49% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (36; 17% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (31; 15% instances), <tt><a href="hr_set-pos-PUNCT.html">PUNCT</a></tt> (13; 6% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (11; 5% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Children of `SYM` nodes belong to 11 different parts of speech: <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (48; 42% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (26; 23% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (19; 17% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (8; 7% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="hr_set-pos-PUNCT.html">PUNCT</a></tt> (2; 2% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

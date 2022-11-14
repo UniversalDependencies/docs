@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="fo_oft-dep-aux-pass.html">aux:pass</a></tt>.
 
-66 nodes (1%) are attached to their parents as `aux`.
+65 nodes (1%) are attached to their parents as `aux`.
 
-62 instances of `aux` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.28787878787879.
+61 instances of `aux` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.29230769230769.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (50; 76% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (10; 15% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (4; 6% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (2; 3% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (49; 75% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (10; 15% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (4; 6% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (2; 3% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 aux	color:blue
-1	Limirnir	limur	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	_
+1	Limirnir	limur	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	7	nsubj	_	_
 2	í	í	ADP	Pr	_	4	case	_	_
 3	føstu	fastur	ADJ	A	Case=Dat|Definite=Def|Gender=Fem|Number=Plur	4	amod	_	_
 4	nevndunum	nevnd	NOUN	N	Case=Dat|Definite=Def|Gender=Fem|Number=Plur	1	nmod	_	_

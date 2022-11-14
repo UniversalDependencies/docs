@@ -8,54 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-1173 nodes (3%) are attached to their parents as `nummod`.
+1094 nodes (2%) are attached to their parents as `nummod`.
 
-945 instances of `nummod` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16453537936914.
+943 instances of `nummod` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18921389396709.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (1158; 99% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nummod	color:blue
-1	Tôi	Tôi	PROPN	P	_	3	nsubj	_	_
-2	bị	bị	VERB	V	_	3	aux:pass	_	_
-3	bắt	bắt	VERB	V	_	0	root	_	_
-4	và	và	SCONJ	CC	_	6	cc	_	_
-5	tòa án	tòa án	NOUN	N	_	6	nsubj	_	_
-6	xử	xử	VERB	V	_	3	conj	_	_
-7	5	5	NUM	M	NumType=Card	8	nummod	_	_
-8	năm	năm	NOUN	N	_	6	obj	_	_
-9	tù đày	tù đày	VERB	V	_	8	xcomp	_	SpaceAfter=No
-10	"	"	PUNCT	"	_	3	punct	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	3	punct	_	_
-
-~~~
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (1053; 96% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-DET.html">DET</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 nummod	color:blue
-1	Nhu	Nhu	NOUN	Np	_	2	nsubj	_	_
-2	phóng	phóng	VERB	V	_	0	root	_	_
-3	xe	xe	NOUN	N	_	2	obj	_	_
-4	lên	lên	X	R	_	2	advmod	_	SpaceAfter=No
-5	,	,	PUNCT	,	_	2	punct	_	_
-6	rồi	rồi	CCONJ	C	_	2	cc	_	_
-7	cả	cả	PROPN	P	_	9	nsubj	_	_
-8	hai	hai	NUM	M	NumType=Card	7	nummod	_	_
-9	hối hả	hối hả	ADJ	A	_	2	parataxis	_	_
-10	tiến	tiến	VERB	V	_	9	xcomp	_	_
-11	ra	ra	X	R	_	9	advmod	_	_
-12	ngoại ô	ngoại ô	NOUN	N	_	9	obj	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nummod	color:blue
+1	Mục đích	mục đích	NOUN	N	_	5	nsubj	_	_
+2	của	của	ADP	Pre	_	4	case	_	_
+3	hai	hai	NUM	Num	_	4	nummod	_	_
+4	bà	bà	NOUN	N	_	1	nmod:poss	_	_
+5	là	là	AUX	V	_	0	root	_	_
+6	ông	ông	NOUN	Nc	_	7	clf:det	_	_
+7	Chương	Chương	PROPN	NNP	_	8	nsubj	_	_
+8	chán	chán	VERB	V	_	5	ccomp	_	_
+9	Hà Nội	Hà Nội	PROPN	NNP	_	8	obj	_	_
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	xin	xin	VERB	V	_	8	conj	_	_
+12	về	về	VERB	V	_	11	compound:svc	_	_
+13	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 
@@ -66,18 +45,46 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 nummod	color:blue
-1	điện thoại	điện thoại	NOUN	N	_	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	:	_	1	punct	_	_
-3	LBKT	LBKT	PUNCT	LBKT	_	4	punct	_	_
-4	84 . 4	84 . 4	NUM	M	NumType=Card	1	nummod	_	_
-5	RBKT	RBKT	PUNCT	RBKT	_	4	punct	_	_
-6	5727780	5727780	NUM	M	NumType=Card	4	nummod	_	_
-7	-	-	PUNCT	-	_	1	punct	_	_
-8	LBKT	LBKT	PUNCT	LBKT	_	9	punct	_	_
-9	84 . 4	84 . 4	NUM	M	NumType=Card	1	nummod	_	_
-10	RBKT	RBKT	PUNCT	RBKT	_	9	punct	_	_
-11	8529126	8529126	NUM	M	NumType=Card	9	nummod	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	1	punct	_	_
+1	Fax	fax	NOUN	Nb	_	0	root	_	_
+2	:	:	PUNCT	:	_	4	punct	_	_
+3	(	(	PUNCT	(	_	4	punct	_	_
+4	84 . 4	84 . 4	NUM	Num	_	1	appos	_	_
+5	)	)	PUNCT	)	_	4	punct	_	_
+6	8529126	8529126	NUM	Num	_	4	nummod	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 nummod	color:blue
+1	Trường hợp	trường hợp	NOUN	N	_	12	advcl	_	_
+2	Hạnh	Hạnh	PROPN	NNP	_	4	nsubj	_	_
+3	là	là	AUX	V	_	4	cop	_	_
+4	con gái	con gái	NOUN	N	_	1	ccomp	_	_
+5	ông	ông	NOUN	Nc	_	4	nmod:poss	_	_
+6	Phong	Phong	PROPN	NNP	_	5	nmod	_	_
+7	thì	thì	SCONJ	SC	_	12	cc	_	_
+8	90	90	NUM	Num	_	10	nummod	_	_
+9	%	%	NOUN	Ny	_	8	flat:number	_	_
+10	Hạnh	Hạnh	PROPN	NNP	_	12	nsubj	_	_
+11	sẽ	sẽ	ADV	Adv	_	12	advmod	_	_
+12	ở	ở	VERB	V	_	0	root	_	_
+13	lại	lại	ADV	Adv	_	12	compound:dir	_	_
+14	chứng minh	chứng minh	VERB	V	_	12	xcomp	_	_
+15	điều	điều	NOUN	N	_	14	obj	_	_
+16	đó	đó	PRON	Pro	_	15	det:pmod	_	_
+17	để	để	ADP	Pre	_	21	mark:pcomp	_	_
+18	bố	bố	NOUN	N	_	21	nsubj:pass	_	_
+19	không	không	ADV	Adv	_	21	advmod:neg	_	_
+20	bị	bị	AUX	AUX	_	21	aux:pass	_	_
+21	hiểu	hiểu	VERB	V	_	14	advcl:objective	_	_
+22	lầm	lầm	VERB	V	_	21	compound	_	_
+23	.	.	PUNCT	.	_	12	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (5%) are attached to their parents as `nmod`.
+10 nodes (6%) are attached to their parents as `nmod`.
 
-4 instances of `nmod` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.42857142857143.
+6 instances of `nmod` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.7.
 
-The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (6; 86% instances), <tt><a href="mpu_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="mpu_tudet-pos-DET.html">DET</a></tt> (1; 14% instances).
+The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (7; 70% instances), <tt><a href="mpu_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="mpu_tudet-pos-DET.html">DET</a></tt> (1; 10% instances), <tt><a href="mpu_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mpu_tudet-pos-DET.html">DET</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -44,6 +44,25 @@ The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href=
 3	ten	ten	ADV	adv	_	4	advmod	_	_
 4	nã	n	VERB	vt	Aspect=Imp	5	xcomp	_	_
 5	peka	pek	VERB	vt	Aspect=Imp	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 nmod	color:blue
+1	uro	uro	NOUN	_	_	3	nmod	_	_
+2	weane	weane	ADV	_	_	3	advmod	_	_
+3	kupngaporet	kupngapot	NOUN	_	Rel=Cont	7	nmod	_	_
+4	yan	_	ADV	_	_	5	advmod	_	_
+5	pet	pe	PART	_	_	7	obl	_	_
+6	yan	yan	ADV	_	_	7	advmod	_	_
+7	kurux	kurux	ADV	_	_	8	advmod	_	_
+8	pixe	pixe	VERB	_	_	0	root	_	_
+9	tuk	tuk	VERB	_	_	8	parataxis	_	_
 
 ~~~
 

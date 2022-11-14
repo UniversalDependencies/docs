@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>ДПС</em> (<tt><a href="bg_btb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.025833 (the average of all parts of speech is 1.727418).
+The form / lemma ratio of `PROPN` is 1.025833 (the average of all parts of speech is 1.727244).
 
 The 1st highest number of forms (5) was observed with the lemma “балкан”: <em>Балкан, Балкана, Балкани, Балканите, Балканът</em>.
 

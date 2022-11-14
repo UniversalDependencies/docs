@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Arabic-PUD: POS Tags: `ADV`
 
-There are 109 `ADV` lemmas (2%), 112 `ADV` types (2%) and 404 `ADV` tokens (2%).
+There are 108 `ADV` lemmas (2%), 112 `ADV` types (2%) and 404 `ADV` tokens (2%).
 Out of 16 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 10 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: EAm_1، >ayoDAF_1، hunAka_1، naHow_1، faqaT_1، yawom_1، jid~_1، taqoriyb_1، |n_1، EAdap_1
+The 10 most frequent `ADV` lemmas: عام، أَيضًا، هُنَاكَ، نَحو، فَقَط، يَوم، جِدًّا، آن، تَقرِيب، عادَة
 
 The 10 most frequent `ADV` types:  عام، أيضاً، هناك، فقط، نحو، جداً، الآن، تقريباً، يوم، عادةً
 
-The 10 most frequent ambiguous lemmas: EAm_1 (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 74, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 73, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 1), naHow_1 (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 2), yawom_1 (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 27, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 13), jid~_1 (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), EAdap_1 (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), gAlib_1 (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), lAHiq_1 (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 2), mar~ap_1 (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 4), xuSuwS_1 (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 3), *`lika_1 (<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> 85, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: عام (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 74, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 2), نَحو (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 2), يَوم (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 27, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 13), أَكثَر (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 39, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ar_pud-pos-DET.html">DET</a></tt> 2), خُصُوص (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 3), غالِب (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), مَرَّة (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 4), أَخِير (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), أَوَّل (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 64, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> 1), حِين (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 3)
 
 The 10 most frequent ambiguous types:  عام (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 73, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 53, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 3), نحو (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> 7), يوم (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 9), أكثر (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 32, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ar_pud-pos-DET.html">DET</a></tt> 2), اليوم (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 3), الأسبوع (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 2), المرة (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 2), ذات (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 2), سرعان (<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ar_pud-pos-X.html">X</a></tt> 1), مرات (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 2)
 
@@ -54,13 +54,13 @@ The 10 most frequent ambiguous types:  عام (<tt><a href="ar_pud-pos-ADV.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.027523 (the average of all parts of speech is 1.409765).
+The form / lemma ratio of `ADV` is 1.037037 (the average of all parts of speech is 1.381137).
 
-The 1st highest number of forms (2) was observed with the lemma “*`lika_1”: كذلك, لذلك.
+The 1st highest number of forms (2) was observed with the lemma “دَوم”: دوما, دوماً.
 
-The 2nd highest number of forms (2) was observed with the lemma “EAm_1”: العام, عام.
+The 2nd highest number of forms (2) was observed with the lemma “صَباح”: صباح, صباحاً.
 
-The 3rd highest number of forms (2) was observed with the lemma “SabAH_1”: صباح, صباحاً.
+The 3rd highest number of forms (2) was observed with the lemma “عام”: العام, عام.
 
 `ADV` occurs with 1 features: <tt><a href="ar_pud-feat-Case.html">Case</a></tt> (1; 0% instances)
 
@@ -75,7 +75,7 @@ Examples: عام، أيضاً، هناك، فقط، نحو، جداً، الآن
 
 `ADV` nodes are attached to their parents using 12 different relations: <tt><a href="ar_pud-dep-advmod.html">advmod</a></tt> (272; 67% instances), <tt><a href="ar_pud-dep-obl-tmod.html">obl:tmod</a></tt> (99; 25% instances), <tt><a href="ar_pud-dep-root.html">root</a></tt> (11; 3% instances), <tt><a href="ar_pud-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="ar_pud-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="ar_pud-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="ar_pud-dep-fixed.html">fixed</a></tt> (3; 1% instances), <tt><a href="ar_pud-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="ar_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ar_pud-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="ar_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="ar_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> (237; 59% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (69; 17% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (37; 9% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (23; 6% instances),  (11; 3% instances), <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (10; 2% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> (241; 60% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (67; 17% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (35; 9% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (23; 6% instances),  (11; 3% instances), <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (10; 2% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
 267 (66%) `ADV` nodes are leaves.
 

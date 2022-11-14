@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `advcl`: <tt><a href="koi_uh-dep-advcl-lcl.html">advcl:lcl</a></tt>, <tt><a href="koi_uh-dep-advcl-mcl.html">advcl:mcl</a></tt>, <tt><a href="koi_uh-dep-advcl-tcl.html">advcl:tcl</a></tt>.
 
-18 nodes (2%) are attached to their parents as `advcl`.
+19 nodes (2%) are attached to their parents as `advcl`.
 
-12 instances of `advcl` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+13 instances of `advcl` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.89473684210526.
 
-The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (9; 50% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (5; 28% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 17% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (9; 47% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (5; 26% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 16% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

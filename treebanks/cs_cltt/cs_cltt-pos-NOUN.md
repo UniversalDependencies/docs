@@ -19,22 +19,22 @@ The 10 most frequent ambiguous types:  <em>jednotky</em> (<tt><a href="cs_cltt-p
 
 
 * <em>jednotky</em>
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 295: <em>Vybrané účetní <b>jednotky</b> postupují podle standardů vždy .</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 295: <em>(13) Účetní <b>jednotky</b> jsou povinny vést účetnictví v českém jazyce .</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1: <em>(2) Tento zákon se vztahuje na a) právnické osoby , které mají sídlo na území České republiky , b) zahraniční osoby , pokud na území České republiky podnikají nebo provozují jinou činnost podle zvláštních právních předpisů , c) organizační složky státu podle zvláštního právního předpisu , d) fyzické osoby , které jsou jako podnikatelé zapsány v obchodním rejstříku , e) ostatní fyzické osoby , které jsou podnikateli , pokud jejich obrat podle zákona o dani z přidané hodnoty , včetně plnění osvobozených od této daně , jež nejsou součástí obratu , v rámci jejich podnikatelské činnosti přesáhl za bezprostředně předcházející kalendářní rok částku 25000000 Kč , a to od prvního dne kalendářního roku . f) ostatní fyzické osoby , které vedou účetnictví na základě svého rozhodnutí , g) ostatní fyzické osoby , které jsou podnikateli a jsou účastníky sdružení bez právní subjektivity podle zvláštního právního předpisu , pokud alespoň jeden z účastníků tohoto sdružení je osobou uvedenou v písmenech a)_až_f) nebo h) , nebo h) ostatní fyzické osoby , kterým povinnost vedení účetnictví ukládá zvláštní právní předpis , ( dále jen „ účetní <b>jednotky</b> “ ) .</em>
 * <em>jednotka</em>
   * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 226: <em>Termín této inventarizace si stanoví sama účetní <b>jednotka</b> .</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 9: <em>(2) Povinnost sestavit konsolidovanou účetní závěrku má , za podmínek stanovených tímto zákonem a prováděcími právními předpisy , účetní jednotka , která je obchodní společností a je ovládající osobou , s výjimkou ovládajících osob , které vykonávají společný vliv podle odstavce 4 ( dále jen „ konsolidující účetní <b>jednotka</b> “ ) .</em>
 * <em>majetku</em>
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 225: <em>Inventarizace <b>majetku</b> a závazků</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 225: <em>Metoda komponentního odpisování <b>majetku</b></em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 11: <em>(3) Položka „ B.II.9. Oceňovací rozdíl k nabytému <b>majetku</b> “ obsahuje též opravnou položku k nabytému majetku stanovenou ( vytvořenou ) před nabytím účinnosti této vyhlášky .</em>
 * <em>období</em>
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 190: <em>Stanovená doba nesmí přesáhnout účetní <b>období</b> .</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 190: <em>(3) Zůstatky rezerv se převádějí do následujícího účetního <b>období</b> .</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 11: <em>(2) Položka „ D.I.1. Náklady příštích <b>období</b> “ obsahuje výdaje , které se týkají nákladů příštích účetních období .</em>
 * <em>ocenění</em>
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 141: <em>Uvedený majetek se odpisuje jen do výše jeho <b>ocenění</b> v účetnictví .</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 141: <em>(5) Rezervy není možné používat k úpravám výše <b>ocenění</b> aktiv .</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 5: <em>(2) Účetní jednotky oceňují majetek a závazky a) k okamžiku uskutečnění účetního případu způsoby podle §_25 , b) ke konci rozvahového dne nebo k jinému okamžiku , k němuž se účetní závěrka sestavuje , způsoby podle §_27 ; rovněž toto ocenění je povinna zaznamenat v účetních knihách , ( dále jen „ okamžik <b>ocenění</b> “ ) .</em>
 * <em>ustanovení</em>
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 63: <em>Opravy a ostatní <b>ustanovení</b> o účetních záznamech</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 63: <em>Přechodná <b>ustanovení</b> zavedena vyhláškou č._419/2010_Sb._Čl._II</em>
   * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 1: <em>(3) Účetní jednotky , které vedou účetnictví ve zjednodušeném rozsahu , a) tvoří opravné položky a rezervy pouze podle zvláštních právních předpisů , a proto použijí <b>ustanovení</b> §_16,_26,_31,_55_a_57 přiměřeně , b) neoceňují majetek a závazky reálnou hodnotou podle §_27_zákona , s výjimkou přeměny bytových družstev , a nepoužijí ustanovení §_14,_39 , §_51_až_55 , §_58,_60_a_69 , v rozsahu v jakém upravují oceňování majetku a závazků reálnou hodnotou , c) sestavují účetní závěrku ve zjednodušeném rozsahu .</em>
 * <em>společnosti</em>
   * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 79: <em>Ocenění majetku a závazků při přeměně <b>společnosti</b> a okamžik účtování</em>

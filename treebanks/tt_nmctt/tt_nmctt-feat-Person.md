@@ -11,49 +11,59 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tt_nmctt-feat-Person.html">Person</a></tt>, <tt><a href="tt_nmctt-feat-Person-psor.html">Person[psor]</a></tt>.
 
-103 tokens (7%) have a non-empty value of `Person`.
-78 types (9%) occur at least once with a non-empty value of `Person`.
-54 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (73; 5% instances), <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (17; 1% instances), <tt><a href="tt_nmctt-pos-AUX.html">AUX</a></tt> (13; 1% instances).
+170 tokens (7%) have a non-empty value of `Person`.
+123 types (10%) occur at least once with a non-empty value of `Person`.
+75 lemmas (9%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (126; 6% instances), <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (26; 1% instances), <tt><a href="tt_nmctt-pos-AUX.html">AUX</a></tt> (18; 1% instances).
 
 ### `VERB`
 
-73 <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
+126 <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tt_nmctt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (73; 100%), <tt><a href="tt_nmctt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (49; 67%), <tt><a href="tt_nmctt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48; 66%), <tt><a href="tt_nmctt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (48; 66%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tt_nmctt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (126; 100%), <tt><a href="tt_nmctt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (98; 78%), <tt><a href="tt_nmctt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (90; 71%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (3; 4% of non-empty `Person`): <em>бәйлим, өметләнәбез, өметләнәм</em>
-* `2` (1; 1% of non-empty `Person`): <em>карасаң</em>
-* `3` (69; 95% of non-empty `Person`): <em>диде, итә, белдерде, булмаса, искәртте, ителгән, итте, саклана, фаразлана, әйтте</em>
-* `EMPTY` (147): <em>булган, булырга, Тикшерү, булачак, бара, булуын, булып, дип, иткәнчә, итү</em>
+* `1` (10; 8% of non-empty `Person`): <em>бастым, бәйлим, исбатладык, котлыйбыз, сорадык, сорыйм, үтенәм, үткәрдек, өметләнәбез, өметләнәм</em>
+* `2` (4; 3% of non-empty `Person`): <em>дисәгез, карасаң, яз, ясагыз</em>
+* `3` (112; 89% of non-empty `Person`): <em>диде, итте, итә, ителә, әйтте, ала, белдерде, булмаса, искәртте, ителгән</em>
+* `EMPTY` (222): <em>булган, булырга, саклау, Тикшерү, алып, булачак, итү, планлаштырылган, Очрашуда, бара</em>
 
-`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (47) occur only with one value of `Person`.
+<table>
+  <tr><th>Paradigm <i>ди</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="tt_nmctt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="tt_nmctt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tt_nmctt-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>дисәгез</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tt_nmctt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tt_nmctt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tt_nmctt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>диде</em></td></tr>
+  <tr><td><tt><tt><a href="tt_nmctt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tt_nmctt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>диде</em></td></tr>
+  <tr><td><tt><tt><a href="tt_nmctt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tt_nmctt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>диде</em></td></tr>
+</table>
+
+`Person` seems to be **lexical feature** of `VERB`. 96% lemmas (65) occur only with one value of `Person`.
 
 ### `PRON`
 
-17 <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> tokens (50% of all `PRON` tokens) have a non-empty value of `Person`.
+26 <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> tokens (45% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tt_nmctt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="tt_nmctt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (17; 100%), <tt><a href="tt_nmctt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 59%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tt_nmctt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (26; 100%), <tt><a href="tt_nmctt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (26; 100%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (5; 29% of non-empty `Person`): <em>безгә, Безнең</em>
-* `3` (12; 71% of non-empty `Person`): <em>аның, ул, алар, аны</em>
-* `EMPTY` (17): <em>Бу, аларның, ул, Моннан, Моңа, Россия, аларга, барысы, шуның, Үзебезнең</em>
+* `1` (8; 31% of non-empty `Person`): <em>безгә, Без, Безнең</em>
+* `2` (2; 8% of non-empty `Person`): <em>Сез, сезнең</em>
+* `3` (16; 62% of non-empty `Person`): <em>аның, ул, алар, аларны, аны</em>
+* `EMPTY` (32): <em>Бу, үз, Моннан, аларның, моңа, ул, Аннан, Барлык, Беркем, Монда</em>
 
 ### `AUX`
 
-13 <tt><a href="tt_nmctt-pos-AUX.html">AUX</a></tt> tokens (43% of all `AUX` tokens) have a non-empty value of `Person`.
+18 <tt><a href="tt_nmctt-pos-AUX.html">AUX</a></tt> tokens (42% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="tt_nmctt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="tt_nmctt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 69%), <tt><a href="tt_nmctt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8; 62%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="tt_nmctt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="tt_nmctt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13; 72%), <tt><a href="tt_nmctt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 56%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (1; 8% of non-empty `Person`): <em>идем</em>
-* `3` (12; 92% of non-empty `Person`): <em>иде, тора, ала, алганнар, алмады, калыр, килә, чыгарган, үтә</em>
-* `EMPTY` (17): <em>алачак, кирәк, калу, мөмкин, тиеш, алуы, бару, икәнен, чыгарган, чыгу</em>
+* `1` (2; 11% of non-empty `Person`): <em>башладым, идем</em>
+* `2` (1; 6% of non-empty `Person`): <em>килдегез</em>
+* `3` (15; 83% of non-empty `Person`): <em>иде, тора, ала, алганнар, алды, алмады, бирә, булмады, калыр, килә</em>
+* `EMPTY` (25): <em>кирәк, алачак, мөмкин, тиеш, калу, торган, алуы, бару, бетерү, икәнен</em>
 
 <table>
   <tr><th>Paradigm <i>иде</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -64,6 +74,6 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="tt_nmctt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (4; 67%),
-<tt>VERB --[<tt><a href="tt_nmctt-dep-obj.html">obj</a></tt>]--> PRON</tt> (1; 100%).
+<tt>VERB --[<tt><a href="tt_nmctt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (7; 70%),
+<tt>VERB --[<tt><a href="tt_nmctt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (7; 54%).
 

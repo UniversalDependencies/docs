@@ -8,30 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ug_udt-dep-advmod.html">advmod</a></tt>.
 
-30 nodes (0%) are attached to their parents as `advmod:emph`.
+24 nodes (0%) are attached to their parents as `advmod:emph`.
 
-29 instances of `advmod:emph` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.23333333333333.
+22 instances of `advmod:emph` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.79166666666667.
 
-The following 17 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (5; 17% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (5; 17% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (5; 17% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 advmod:emph	color:blue
-1	راستىنى	راست	NOUN	A	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	2	obj	_	Translit=rastini
-2	دېسەم	دې	VERB	V	Mood=Cnd|Number=Sing|Person=1|VerbForm=Conv	7	advmod	_	SpaceAfter=No|Translit=dësem
-3	،	،	PUNCT	Y	_	2	punct	_	Translit=,
-4	ساڭا	سەن	PRON	P	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	obl	_	Translit=sanga
-5	بەكمۇ	_	ADV	D	_	6	advmod:emph	_	Translit=bekmu|Morf=Unknown
-6	ئىچىم	_	NOUN	N	_	7	compound	_	Translit=ichim|Morf=Unknown
-7	ئاغرىيتتى	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=aghriytti|Morf=Unknown
-8	.	.	PUNCT	Y	_	7	punct	_	Translit=.
-
-~~~
+The following 11 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (5; 21% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (5; 21% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (3; 13% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (3; 13% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -51,7 +33,7 @@ The following 17 pairs of parts of speech are connected with `advmod:emph`: <tt>
 9	مەۋجۇت	مەۋجۇت	NOUN	A	Case=Nom	0	root	_	Translit=mewjut
 10	ئەمەس	ئى	AUX	A	Number=Sing|Person=3|Polarity=Neg	9	cop	_	Translit=emes
 11	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	SpaceAfter=No|Translit=idi
-12	.	.	PUNCT	Y	_	11	punct	_	Translit=.
+12	.	.	PUNCT	Y	_	9	punct	_	Translit=.
 
 ~~~
 
@@ -72,6 +54,24 @@ The following 17 pairs of parts of speech are connected with `advmod:emph`: <tt>
 8	ھېس	ھېس	NOUN	N	Case=Nom	9	compound	_	Translit=hës
 9	قىلاتتى	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=qilatti|Morf=Unknown
 10	.	.	PUNCT	Y	_	9	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod:emph	color:blue
+1	ئۇ	ئۇ	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=u
+2	ئوتلاقتا	ئوتلاق	NOUN	N	Case=Loc	7	obl	_	Translit=otlaqta
+3	ناھايىتى	ناھايىتى	ADV	D	_	4	advmod:emph	_	Translit=nahayiti
+4	چوڭقۇر	چوڭقۇر	ADJ	A	Case=Nom	5	amod	_	Translit=chongqur
+5	ئورەك	ئورەك	NOUN	N	Case=Nom	7	obj	_	Translit=orek
+6	پەيدا	پەيدا	ADJ	N	_	7	compound	_	Translit=peyda
+7	قىلالايدۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=qilalaydu|Morf=Unknown
+8	،	،	PUNCT	Y	_	7	punct	_	Translit=,
 
 ~~~
 

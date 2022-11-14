@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_gsd-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_gsd-dep-aux-tense.html">aux:tense</a></tt>.
 
-3396 nodes (1%) are attached to their parents as `aux:pass`.
+3403 nodes (1%) are attached to their parents as `aux:pass`.
 
-3393 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2517667844523.
+3400 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25124889803115.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3394; 100% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3402; 100% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -64,24 +64,6 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 22	XVI	XVI	PROPN	_	_	21	flat:name	_	_
 23	Gustaf	Gustaf	PROPN	_	_	21	flat:name	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 aux:pass	color:blue
-1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	wordform=la
-2	compagnie	compagnie	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
-3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
-4	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	_
-5	publicly-traded	publicly-traded	X	_	_	0	root	_	ExtPos=VERB
-6	depuis	depuis	ADP	_	_	7	case	_	_
-7	1992	1992	NUM	_	Number=Plur	5	obl:mod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

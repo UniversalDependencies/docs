@@ -22,10 +22,10 @@ The following 22 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 cop	color:blue
-1	A	o	DET	DET	_	2	det	_	_
+1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Nina	_	PROPN	PNOUN	_	5	nsubj	_	_
 3	é	ser	AUX	AUX	_	5	cop	_	_
-4	a	o	DET	DET	_	5	det	_	_
+4	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	chance	chance	NOUN	NOUN	_	0	root	_	_
 6	de	_	ADP	ADP	_	8	mark	_	_
 7	ele	_	PRON	PRON	_	8	nsubj	_	_

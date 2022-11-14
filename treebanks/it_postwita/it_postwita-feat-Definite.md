@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (11002; 87% of non-empty `Definite`): <em>il, la, i, l', le, gli, lo, l, del, Lle</em>
 * `Ind` (1576; 13% of non-empty `Definite`): <em>un, una, un', uno, na, 1, l', n', io, kol</em>
-* `EMPTY` (1893): <em>che, tutti, questo, mio, tutto, mia, questa, suo, sua, ogni</em>
+* `EMPTY` (1898): <em>che, tutti, questo, mio, tutto, mia, questa, suo, sua, ogni</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -45,5 +45,5 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (1; 50% of non-empty `Definite`): <em>le</em>
 * `Ind` (1; 50% of non-empty `Definite`): <em>una</em>
-* `EMPTY` (6481): <em>che, si, mi, ci, lo, ti, tutti, io, chi, c'</em>
+* `EMPTY` (6484): <em>che, si, mi, ci, lo, ti, tutti, io, chi, c'</em>
 

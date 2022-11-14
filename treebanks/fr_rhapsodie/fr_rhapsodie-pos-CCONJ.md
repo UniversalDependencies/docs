@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>puis</em> (<tt><a href="fr_rhapsodie-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.933333 (the average of all parts of speech is 1.353672).
+The form / lemma ratio of `CCONJ` is 0.933333 (the average of all parts of speech is 1.354259).
 
 The 1st highest number of forms (1) was observed with the lemma “c'est-à-dire”: <em>c'est-à-dire</em>.
 
@@ -52,21 +52,21 @@ The 3rd highest number of forms (1) was observed with the lemma “car”: <em>c
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="fr_rhapsodie-dep-cc.html">cc</a></tt> (1079; 90% instances), <tt><a href="fr_rhapsodie-dep-fixed.html">fixed</a></tt> (59; 5% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (39; 3% instances), <tt><a href="fr_rhapsodie-dep-root.html">root</a></tt> (12; 1% instances), <tt><a href="fr_rhapsodie-dep-mark.html">mark</a></tt> (6; 0% instances), <tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 11 different relations: <tt><a href="fr_rhapsodie-dep-cc.html">cc</a></tt> (1078; 90% instances), <tt><a href="fr_rhapsodie-dep-fixed.html">fixed</a></tt> (59; 5% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (36; 3% instances), <tt><a href="fr_rhapsodie-dep-root.html">root</a></tt> (11; 1% instances), <tt><a href="fr_rhapsodie-dep-mark.html">mark</a></tt> (6; 0% instances), <tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="fr_rhapsodie-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (601; 50% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (253; 21% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (92; 8% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (75; 6% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (45; 4% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (37; 3% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (31; 3% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (14; 1% instances),  (12; 1% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (4; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (602; 50% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (257; 21% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (92; 8% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (73; 6% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (44; 4% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (38; 3% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (31; 3% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (11; 1% instances),  (11; 1% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (8; 1% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
 
-1050 (87%) `CCONJ` nodes are leaves.
+1079 (90%) `CCONJ` nodes are leaves.
 
-126 (10%) `CCONJ` nodes have one child.
+79 (7%) `CCONJ` nodes have one child.
 
-22 (2%) `CCONJ` nodes have two children.
+32 (3%) `CCONJ` nodes have two children.
 
-3 (0%) `CCONJ` nodes have three or more children.
+11 (1%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 5.
 
-Children of `CCONJ` nodes are attached using 6 different relations: <tt><a href="fr_rhapsodie-dep-fixed.html">fixed</a></tt> (79; 43% instances), <tt><a href="fr_rhapsodie-dep-punct.html">punct</a></tt> (53; 29% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (37; 20% instances), <tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt> (6; 3% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (4; 2% instances), <tt><a href="fr_rhapsodie-dep-cc.html">cc</a></tt> (3; 2% instances)
+Children of `CCONJ` nodes are attached using 7 different relations: <tt><a href="fr_rhapsodie-dep-fixed.html">fixed</a></tt> (79; 43% instances), <tt><a href="fr_rhapsodie-dep-punct.html">punct</a></tt> (52; 28% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (38; 21% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (6; 3% instances), <tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt> (4; 2% instances), <tt><a href="fr_rhapsodie-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="fr_rhapsodie-dep-case.html">case</a></tt> (1; 1% instances)
 
-Children of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (92; 51% instances), <tt><a href="fr_rhapsodie-pos-PUNCT.html">PUNCT</a></tt> (53; 29% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (12; 7% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (11; 6% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (6; 3% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (92; 50% instances), <tt><a href="fr_rhapsodie-pos-PUNCT.html">PUNCT</a></tt> (52; 28% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (13; 7% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (11; 6% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (1; 1% instances)
 

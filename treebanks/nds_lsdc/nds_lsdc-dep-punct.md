@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-380 nodes (15%) are attached to their parents as `punct`.
+438 nodes (15%) are attached to their parents as `punct`.
 
-236 instances of `punct` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.57368421052632.
+267 instances of `punct` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.47260273972603.
 
-The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (268; 71% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (42; 11% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (20; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (16; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (10; 3% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (9; 2% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (310; 71% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (51; 12% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (20; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (17; 4% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (13; 3% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (11; 3% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -90,7 +90,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 18	hebbe	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	17	aux	_	lemma[gml]=hebben|SpaceAfter=No
 19	,	,	PUNCT	_	_	25	punct	_	_
 20	dan	dan	ADV	_	_	25	advmod	_	lemma[gml]=dan¹
-21	hadde	hebben	AUX	_	Mood=Sub|Number=Sing|Person=1|Tense=Past	25	aux	_	lemma[gml]=hebben|Mood[regional]=Ind
+21	hadde	hebben	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	25	aux	_	lemma[gml]=hebben
 22	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	_	lemma[gml]=ik
 23	nu	nu	ADV	_	_	25	advmod	_	lemma[gml]=nû¹
 24	künnen	künnen	AUX	_	VerbForm=Inf	25	aux	_	lemma[gml]=künnen

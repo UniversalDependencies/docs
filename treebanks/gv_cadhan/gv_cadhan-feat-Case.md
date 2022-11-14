@@ -23,5 +23,5 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 `DET` tokens may have the following values of `Case`:
 
 * `Gen` (25; 100% of non-empty `Case`): <em>ny</em>
-* `EMPTY` (1874): <em>yn, y, ny, e, 'n, my, dty, dagh, ooilley, n'</em>
+* `EMPTY` (1882): <em>yn, y, ny, e, 'n, my, dty, dagh, ooilley, n'</em>
 

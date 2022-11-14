@@ -17,25 +17,24 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 discourse	color:blue
-1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
-2	ou	ou	PRON	_	Number=Sing|Person=2	1	nsubj	_	_
-3	uss	oo	PRON	_	Number=Sing|Person=2|PronType=Emp	2	fixed	_	_
-4	mie	mie	ADJ	_	_	1	xcomp:pred	_	_
-5	as	as	CCONJ	_	_	6	cc	_	_
-6	graysoil	graysoil	ADJ	_	_	4	conj	_	SpaceAfter=No
-7	:	:	PUNCT	_	_	9	punct	_	_
-8	O	o	INTJ	_	_	9	discourse	_	_
-9	ynsee	ynsee	VERB	_	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
-10	da	da	ADP	_	_	11	case	_	_
-11	mee	mee	PRON	_	Number=Sing|Person=1	9	obl	_	_
-12	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	13	nmod:poss	_	_
-13	lattyssyn	slattys	NOUN	_	Form=Len	9	obj	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 discourse	color:blue
+1	‘	‘	PUNCT	_	_	7	punct	_	SpaceAfter=No
+2	Oh	oh	INTJ	_	_	7	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	Yishag	jishag	NOUN	_	Form=Len	7	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	nagh	nagh	PART	_	PartType=Vb|Polarity=Neg	7	mark	_	_
+7	vod	fod	VERB	_	Form=Ecl|Mood=Ind|Tense=Fut	0	root	_	_
+8	oo	oo	PRON	_	Number=Sing|Person=2	7	nsubj	_	_
+9	jannoo	jannoo	NOUN	_	_	7	xcomp	_	_
+10	red	red	NOUN	_	_	9	obj	_	_
+11	erbee	erbee	ADJ	_	_	10	amod	_	_
+12	?	?	PUNCT	_	_	7	punct	_	SpaceAfter=No
+13	’	’	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

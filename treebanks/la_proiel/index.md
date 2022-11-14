@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Dag Haug.
 
 Repository: [UD_Latin-PROIEL](https://github.com/UniversalDependencies/UD_Latin-PROIEL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_proiel210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_proiel211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -428,6 +428,15 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
+  <li>Abs
+    <ul>
+      <li>ADJ: maximum, maxima, plurimum, maximo, carissimi, optimo, optimum, maximam, maximas, maximis</li>
+      <li>ADV: maxime, minime, diligentissime, plurimum, optime, proxime, latissime, novissime, facillime, saepissime</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Cmp
     <ul>
       <li>ADJ: maior, plus, seniores, plures, senioribus, maiores, plura, pluribus, certiorem, maius</li>
@@ -441,15 +450,6 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
     <ul>
       <li>ADJ: multa, magna, multi, multis, magno, publica, bonum, magnum, romani, publicae</li>
       <li>ADV: saepe, valde, longe, satis, bene, facile, similiter, prope, celeriter, vere</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Sup
-    <ul>
-      <li>ADJ: maximum, maxima, plurimum, maximo, carissimi, optimo, optimum, maximam, maximas, maximis</li>
-      <li>ADV: maxime, minime, diligentissime, plurimum, optime, proxime, latissime, novissime, facillime, saepissime</li>
     </ul>
   </li>
 </ul>

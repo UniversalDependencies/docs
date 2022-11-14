@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>ni</em> (<tt><a href="bm_crb-pos-SCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.909091 (the average of all parts of speech is 1.060038).
+The form / lemma ratio of `CCONJ` is 0.909091 (the average of all parts of speech is 1.060207).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>ani, n', ni, nka</em>.
 

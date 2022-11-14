@@ -32,8 +32,8 @@ The 2nd highest number of forms (3) was observed with the lemma “ḫark”: <e
 `AUX` occurs with 10 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `Voice=Act`
 
 `AUX` occurs with 6 feature combinations.
-The most frequent feature combination is `Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Act` (2 tokens).
-Examples: <em>e-eš-du</em>
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act` (2 tokens).
+Examples: <em>e-eš-ta, e-ešta</em>
 
 
 ## Relations

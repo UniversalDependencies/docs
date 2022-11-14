@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-79 nodes (2%) are attached to their parents as `appos`.
+86 nodes (2%) are attached to their parents as `appos`.
 
-79 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.51898734177215.
+86 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.38372093023256.
 
-The following 12 pairs of parts of speech are connected with `appos`: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (31; 39% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (18; 23% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (13; 16% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="tpn_tudet-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `appos`: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (37; 43% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (17; 20% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (14; 16% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="tpn_tudet-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,13 +23,13 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 4 appos	color:blue
 1	SãoSebastião	SãoSebastião	PROPN	propn	_	2	nmod	_	_
-2	ʔara	ʔar	NOUN	n	Case=Ref	7	obl:obj	_	_
+2	ʔara	ʔar	NOUN	n	Case=Ref	7	obj	_	_
 3	,	,	PUNCT	punct	_	2	punct	_	_
 4	seʔõawera	eʔõ	NOUN	n	Case=Ref|Rel=NCont|Tense=Past	2	appos	_	_
 5	,	,	PUNCT	punct	_	4	punct	_	_
-6	Cristãos	Cristão	NOUN	n	_	7	obl:subj	_	_
+6	Cristãos	cristão	NOUN	n	Number=Plur	7	nsubj	_	_
 7	ojmoete	ete	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
-8	ojemotupana	tupa	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger|Voice=Cau	7	advcl	_	tupã-ʔar-a
+8	ojemotupana	tupa	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger|Voice=Cau	7	xcomp	_	tupã-ʔar-a
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 2 appos	color:blue
 1	janejara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	0	root	_	_
-2	JesusCristo	Jesus	PROPN	propn	_	1	appos	_	_
+2	JesusCristo	JesusCristo	PROPN	propn	_	1	appos	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
 ~~~

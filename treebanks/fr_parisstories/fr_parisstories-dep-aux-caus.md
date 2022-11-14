@@ -6,43 +6,35 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParisStories: Relations: `aux:caus`
 
-This relation is a language-specific subtype of <tt><a href="fr_parisstories-dep-aux.html">aux</a></tt>.
+This relation is a language-specific subtype of .
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_parisstories-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="fr_parisstories-dep-aux-tense.html">aux:tense</a></tt>.
 
-6 nodes (0%) are attached to their parents as `aux:caus`.
+16 nodes (0%) are attached to their parents as `aux:caus`.
 
-6 instances of `aux:caus` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+16 instances of `aux:caus` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1875.
 
-The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (6; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (16; 100% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 5 aux:caus	color:blue
-1	et	et	CCONJ	_	_	6	cc	_	_
-2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-3	s'	se	PRON	_	Person=3|PronType=Prs	6	dep:comp	_	SpaceAfter=No
-4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
-5	fait	faire	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Part	6	aux:caus	_	_
-6	tuer	tuer	VERB	_	VerbForm=Inf	0	root	_	_
-7	par	par	ADP	_	_	9	case	_	_
-8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	requin	requin	NOUN	_	Gender=Masc|Number=Sing	6	obl:arg	_	_
-10	sous	sous	ADP	_	_	12	case	_	_
-11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
-12	yeux	œil	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	_
-13	de	de	ADP	_	_	12	dep	_	_
-14	euh	euh	INTJ	_	_	18	discourse	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	14	punct	_	_
-16	de	de	ADP	_	_	18	case	_	_
-17	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	18	det	_	_
-18	femme	femme	NOUN	_	Gender=Fem|Number=Sing	13	reparandum	_	_
-19	apparemment	apparemment	ADV	_	_	12	advmod	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 aux:caus	color:blue
+1	et	et	CCONJ	_	_	8	cc	_	AlignBegin=60484|AlignEnd=60615
+2	donc	donc	ADV	_	_	8	advmod	_	AlignBegin=60615|AlignEnd=60745|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	AlignBegin=60745|AlignEnd=60745
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj:caus	_	AlignBegin=61067|AlignEnd=61234
+5	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj:agent	_	AlignBegin=61234|AlignEnd=61402
+6	fais	faire	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux:caus	_	AlignBegin=61402|AlignEnd=61569
+7	même	même	ADV	_	_	8	advmod	_	AlignBegin=61569|AlignEnd=61737
+8	rentrer	rentrer	VERB	_	VerbForm=Inf	0	root	_	AlignBegin=61737|AlignEnd=61904|Subject=ObjRaising
+9	dans	dans	ADP	_	_	11	case	_	AlignBegin=61904|AlignEnd=62071
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	AlignBegin=62071|AlignEnd=62239
+11	maison	maison	NOUN	_	Gender=Fem|Number=Sing	8	obl:arg	_	AlignBegin=62239|AlignEnd=62406|SpaceAfter=No
+12	.	.	PUNCT	_	_	8	punct	_	AlignBegin=62406|AlignEnd=62406
 
 ~~~
 

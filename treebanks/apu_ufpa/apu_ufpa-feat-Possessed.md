@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `No`, `Yes`.
 
-64 tokens (8%) have a non-empty value of `Possessed`.
-39 types (14%) occur at least once with a non-empty value of `Possessed`.
-33 lemmas (14%) occur at least once with a non-empty value of `Possessed`.
-The feature is used with 2 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (62; 8% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+81 tokens (9%) have a non-empty value of `Possessed`.
+47 types (15%) occur at least once with a non-empty value of `Possessed`.
+41 lemmas (16%) occur at least once with a non-empty value of `Possessed`.
+The feature is used with 2 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (79; 9% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-62 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (26% of all `NOUN` tokens) have a non-empty value of `Possessed`.
+79 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (30% of all `NOUN` tokens) have a non-empty value of `Possessed`.
 
-The most frequent other feature values with which `NOUN` and `Possessed` co-occurred: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (45; 73%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (36; 58%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 52%).
+The most frequent other feature values with which `NOUN` and `Possessed` co-occurred: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (61; 77%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (50; 63%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47; 59%).
 
 `NOUN` tokens may have the following values of `Possessed`:
 
-* `No` (44; 71% of non-empty `Possessed`): <em>kyky, tiwitxi, aapukutxi, awiri, mãkatxi, nhipukury, ximaky, yky, tiitxi, aapukutxiã</em>
-* `Yes` (18; 29% of non-empty `Possessed`): <em>aapuku, Ukywyxikeru, Yẽrẽkatikinhi, amarute, apy, awinhi, awinhinã, iserẽkana, iãkynytikinhi, kikiute</em>
+* `No` (55; 70% of non-empty `Possessed`): <em>awiri, kyky, tiwitxi, ximaky, aapukutxi, mãkatxi, nhipukury, yky, tiitxi, ãputa</em>
+* `Yes` (24; 30% of non-empty `Possessed`): <em>aapuku, yky, Ukywyxikeru, Utukuryte, Yẽrẽkatikinhi, amarute, amarytane, apy, awinhi, awinhinã</em>
 
 <table>
   <tr><th>Paradigm <i>awapukutxi</i></th><th><tt>No</tt></th><th><tt>Yes</tt></th></tr>
@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Possessed` co-occu
   <tr><td><tt><tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ũaapuku</em></td></tr>
 </table>
 
-`Possessed` seems to be **lexical feature** of `NOUN`. 91% lemmas (30) occur only with one value of `Possessed`.
+`Possessed` seems to be **lexical feature** of `NOUN`. 90% lemmas (37) occur only with one value of `Possessed`.
 
 ### `VERB`
 

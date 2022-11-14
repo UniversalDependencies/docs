@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `VerbClass` co-occu
 ## Relations with Agreement in `VerbClass`
 
 The 10 most frequent relations where parent and child node agree in `VerbClass`:
-<tt>VERB --[<tt><a href="bej_nsc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (14; 58%),
+<tt>VERB --[<tt><a href="bej_nsc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (14; 61%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (7; 78%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-parataxis-coord.html">parataxis:coord</a></tt>]--> VERB</tt> (2; 100%),

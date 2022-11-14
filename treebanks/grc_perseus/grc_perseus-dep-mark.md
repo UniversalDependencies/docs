@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2754 nodes (1%) are attached to their parents as `mark`.
+2810 nodes (1%) are attached to their parents as `mark`.
 
-2752 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.60965867828613.
+2795 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.5779359430605.
 
-The following 19 pairs of parts of speech are connected with `mark`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (2059; 75% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> (425; 15% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (82; 3% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (62; 2% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (40; 1% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> (20; 1% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `mark`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (2109; 75% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> (425; 15% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (95; 3% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (62; 2% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (47; 2% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> (20; 1% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 19 pairs of parts of speech are connected with `mark`: <tt><a href
 2	δὲ	δέ	ADV	d--------	_	4	advmod	_	_
 3	ἠδίκουν	ἀδικέω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	csubj	_	_
 4	σαφές	σαφής	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-5	ἐστιν	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No
+5	ἐστιν	εἰμί	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No
 6	·	·	PUNCT	u--------	_	4	punct	_	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 19 pairs of parts of speech are connected with `mark`: <tt><a href
 6	ὠφελῆσαι	ὠφελέω	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	2	ccomp	_	_
 7	ὑμᾶς	σύ	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
 8	ἢ	ἤ	CCONJ	c--------	_	9	mark	_	_
-9	τυχεῖν	τυγχάνω	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	4	advmod	_	_
+9	τυχεῖν	τυγχάνω	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	4	advcl	_	_
 10	τούτου	οὗτος	PRON	p-s---ng-	Case=Gen|Gender=Neut|Number=Sing	9	obj	_	SpaceAfter=No
 11	.	.	PUNCT	u--------	_	2	punct	_	_
 
@@ -67,7 +67,7 @@ The following 19 pairs of parts of speech are connected with `mark`: <tt><a href
 6	καὶ	καί	ADV	d--------	_	7	advmod	_	_
 7	πρότερον	πρότερος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	advmod	_	_
 8	ὑπήκοοι	ὑπήκοος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	advcl	_	_
-9	εἶναι	εἰμί	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	cop	_	SpaceAfter=No
+9	εἶναι	εἰμί	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	cop	_	SpaceAfter=No
 10	.	.	PUNCT	u--------	_	1	punct	_	_
 
 ~~~

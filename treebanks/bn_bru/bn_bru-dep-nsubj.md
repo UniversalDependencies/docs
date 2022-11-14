@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="bn_bru-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-35 nodes (11%) are attached to their parents as `nsubj`.
+34 nodes (11%) are attached to their parents as `nsubj`.
 
-32 instances of `nsubj` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.94285714285714.
+32 instances of `nsubj` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.88235294117647.
 
-The following 8 pairs of parts of speech are connected with `nsubj`: <tt><a href="bn_bru-pos-VERB.html">VERB</a></tt>-<tt><a href="bn_bru-pos-PRON.html">PRON</a></tt> (21; 60% instances), <tt><a href="bn_bru-pos-VERB.html">VERB</a></tt>-<tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt> (6; 17% instances), <tt><a href="bn_bru-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="bn_bru-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bn_bru-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bn_bru-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="bn_bru-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="bn_bru-pos-VERB.html">VERB</a></tt>-<tt><a href="bn_bru-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `nsubj`: <tt><a href="bn_bru-pos-VERB.html">VERB</a></tt>-<tt><a href="bn_bru-pos-PRON.html">PRON</a></tt> (21; 62% instances), <tt><a href="bn_bru-pos-VERB.html">VERB</a></tt>-<tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt> (5; 15% instances), <tt><a href="bn_bru-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="bn_bru-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bn_bru-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bn_bru-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="bn_bru-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bn_bru-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="bn_bru-pos-VERB.html">VERB</a></tt>-<tt><a href="bn_bru-pos-NUM.html">NUM</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

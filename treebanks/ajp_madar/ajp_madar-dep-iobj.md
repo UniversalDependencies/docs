@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	بس	بس	CCONJ	_	_	3	cc	_	_
 2	أنا	آنَا	PRON	_	_	3	nsubj	_	_
 3	عند	عند	PRON	_	_	0	root	_	SpaceAfter=No
-4	ي	هُوَ	PRON	_	_	3	nsubj	_	_
+4	ي	هُوَ	PRON	_	_	3	obj	_	_
 5	موعد	مَوعِد	NOUN	_	_	3	obl:arg	_	_
 6	عشان	عشان	ADP	_	_	7	mark	_	_
 7	أشوف	شاف	VERB	_	_	5	acl	_	SpaceAfter=No

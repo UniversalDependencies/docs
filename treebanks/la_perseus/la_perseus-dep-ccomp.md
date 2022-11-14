@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-323 nodes (1%) are attached to their parents as `ccomp`.
+324 nodes (1%) are attached to their parents as `ccomp`.
 
-212 instances of `ccomp` (66%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.21981424148607.
+212 instances of `ccomp` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.21913580246914.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (318; 98% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (318; 98% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,13 +46,13 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 7	non	non	ADV	d--------	_	8	advmod	_	LId=non1
 8	immemor	immemor	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	amod	_	LId=immemor1
 9	hora	hora	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No|LId=hora1
-10	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
+10	,	,	PUNCT	u--------	_	6	punct	_	LId=comma1
 11	vivere	vivo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	15	ccomp	_	LId=vivo1
 12	me	ego	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	nsubj	_	LId=ego1
 13	duro	durus	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	14	amod	_	LId=durus1
-14	sidere	sidus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	11	advmod	_	LId=sidus1
+14	sidere	sidus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	11	obl	_	LId=sidus1
 15	certus	certus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LId=certus1
-16	eris	sum	VERB	v2sfia---	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	15	cop	_	SpaceAfter=No|LId=sum1
+16	eris	sum	AUX	v2sfia---	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	15	cop	_	SpaceAfter=No|LId=sum1
 17	.	.	PUNCT	u--------	_	15	punct	_	LId=punc1
 
 ~~~
@@ -68,16 +68,16 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 2	quid	quis	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LId=quis1
 3	se	sui	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur	4	obj	_	LId=sui1
 4	dignum	dignus	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	15	obj	_	LId=dignus1
-5	foret	sum	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No|LId=sum1
+5	foret	sum	AUX	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No|LId=sum1
 6	,	,	PUNCT	u--------	_	13	punct	_	LId=comma1
 7	quam	quam	ADV	d--------	_	13	mark	_	LId=quam1
 8	quid	quis	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	LId=quis1
 9	in	in	ADP	r--------	_	10	case	_	LId=in1
 10	illos	ille	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	LId=ille1
-11	iure	jus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	12	advmod	_	LId=jus1
+11	iure	jus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	12	obl	_	LId=jus1
 12	fieri	fio	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	13	xcomp	_	LId=fio1
 13	posset	possum	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No|LId=possum1
-14	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
+14	,	,	PUNCT	u--------	_	13	punct	_	LId=comma1
 15	quaerebant	quaero	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=quaero1
 16	.	.	PUNCT	u--------	_	15	punct	_	LId=punc1
 

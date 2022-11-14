@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-135189 tokens (51%) have a non-empty value of `Case`.
+135187 tokens (51%) have a non-empty value of `Case`.
 41308 types (85%) occur at least once with a non-empty value of `Case`.
 19719 lemmas (78%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (56914; 21% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (28426; 11% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (24235; 9% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (10578; 4% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (7978; 3% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (5590; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (1468; 1% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (56914; 21% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (28426; 11% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (24235; 9% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (10578; 4% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (7978; 3% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (5588; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (1468; 1% instances).
 
 ### `NOUN`
 
@@ -132,13 +132,13 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PRON`
 
-5590 <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> tokens (61% of all `PRON` tokens) have a non-empty value of `Case`.
+5588 <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> tokens (61% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sl_ssj-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5028; 90%), <tt><a href="sl_ssj-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4446; 80%), <tt><a href="sl_ssj-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3546; 63%), <tt><a href="sl_ssj-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (2927; 52%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sl_ssj-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5026; 90%), <tt><a href="sl_ssj-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4446; 80%), <tt><a href="sl_ssj-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3544; 63%), <tt><a href="sl_ssj-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (2927; 52%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (2358; 42% of non-empty `Case`): <em>ga, jih, jo, kaj, kar, me, nas, nekaj, vas, ju</em>
+* `Acc` (2356; 42% of non-empty `Case`): <em>ga, jih, jo, kaj, me, kar, nas, nekaj, vas, ju</em>
 * `Dat` (1514; 27% of non-empty `Case`): <em>si, mu, mi, ji, jim, nam, vam, ti, njemu, sebi</em>
 * `Gen` (377; 7% of non-empty `Case`): <em>jih, ga, njih, nas, česar, je, njega, sebe, nje, ničesar</em>
 * `Ins` (295; 5% of non-empty `Case`): <em>njimi, njim, seboj, njo, nami, sabo, mano, njima, čimer, menoj</em>
@@ -198,11 +198,11 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sl_ssj-dep-amod.html">amod</a></tt>]--> ADJ</tt> (21257; 99%),
 <tt>NOUN --[<tt><a href="sl_ssj-dep-case.html">case</a></tt>]--> ADP</tt> (18962; 99%),
 <tt>NOUN --[<tt><a href="sl_ssj-dep-det.html">det</a></tt>]--> DET</tt> (4983; 88%),
-<tt>NOUN --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4347; 96%),
+<tt>NOUN --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4345; 96%),
 <tt>PROPN --[<tt><a href="sl_ssj-dep-case.html">case</a></tt>]--> ADP</tt> (1968; 99%),
-<tt>ADJ --[<tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1660; 99%),
-<tt>PROPN --[<tt><a href="sl_ssj-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1562; 100%),
+<tt>ADJ --[<tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1661; 99%),
+<tt>PROPN --[<tt><a href="sl_ssj-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1561; 100%),
 <tt>ADJ --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1256; 96%),
 <tt>DET --[<tt><a href="sl_ssj-dep-case.html">case</a></tt>]--> ADP</tt> (1165; 99%),
-<tt>PROPN --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> PROPN</tt> (834; 99%).
+<tt>PROPN --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> PROPN</tt> (833; 99%).
 

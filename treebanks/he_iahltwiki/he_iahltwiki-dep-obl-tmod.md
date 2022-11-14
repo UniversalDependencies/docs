@@ -50,13 +50,13 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
 5	עיר	עיר	NOUN	NOUN	Gender=Fem|Number=Sing	3	compound	_	_
 6	תוניס	תוניס	PROPN	PROPN	_	5	appos	_	_
-7	היו	היה	AUX	AUX	Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past	8	cop	_	_
+7	היו	היה	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=3|Polarity=Pos|Tense=Past	8	cop	_	_
 8	זכאים	זכאי	ADJ	ADJ	Gender=Masc|Number=Plur	0	root	_	_
 9	ל	ל	ADP	ADP	_	10	case	_	_
 10	פיצוי	פיצוי	NOUN	NOUN	Gender=Masc|Number=Sing	8	obl	_	_
 11	משום	משום	SCONJ	SCONJ	_	16	mark	_	_
 12	ש	ש	SCONJ	SCONJ	_	11	fixed	_	_
-13	היו	היה	AUX	AUX	Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past	16	cop	_	_
+13	היו	היה	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=3|Polarity=Pos|Tense=Past	16	cop	_	_
 14	תחת	תחת	ADP	ADP	_	16	case	_	_
 15	ה	ה	DET	DET	Definite=Def|PronType=Art	16	det	_	_
 16	כיבוש	כיבוש	NOUN	NOUN	Gender=Masc|Number=Sing	8	obl	_	_

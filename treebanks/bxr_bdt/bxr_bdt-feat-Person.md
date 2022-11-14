@@ -14,20 +14,20 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 753 tokens (7%) have a non-empty value of `Person`.
 381 types (9%) occur at least once with a non-empty value of `Person`.
 195 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (478; 5% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (132; 1% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (120; 1% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (23; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (502; 5% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (132; 1% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (97; 1% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (22; 0% instances).
 
 ### `VERB`
 
-478 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (32% of all `VERB` tokens) have a non-empty value of `Person`.
+502 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (404; 85%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (306; 64%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (306; 64%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (426; 85%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (313; 62%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (307; 61%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (77; 16% of non-empty `Person`): <em>золгооб, арсалааб, байнабди, болонхойбди, гүйгээб, оройгдооб, оролдодогби, танилсаабди, хэлээб, үгөөб</em>
+* `1` (88; 18% of non-empty `Person`): <em>гээшэб, золгооб, арсалааб, байнабди, болонхойбди, гүйгээб, оройгдооб, оролдодогби, танилсаабди, хэлээб</em>
 * `2` (10; 2% of non-empty `Person`): <em>байгааш, байнат, болонолши, татааш, хаанабши, харанабши, харанат, хэлэхэбши, һэрюулээш</em>
-* `3` (391; 82% of non-empty `Person`): <em>эхилээ, байна, ерээ, ябаа, ерээд, түрэһэн, ябаһан, байһан, болоно, болоо</em>
-* `EMPTY` (1019): <em>гэжэ, бии, байгаа, гээшэ, ажаһуудаг, хэжэ, ябаха, боложо, гэхэдэ, ошожо</em>
+* `3` (404; 80% of non-empty `Person`): <em>эхилээ, ябаа, байна, ерээ, ерээд, түрэһэн, ябаһан, байһан, болоно, болоо</em>
+* `EMPTY` (1028): <em>гэжэ, бии, байгаа, гээшэ, ажаһуудаг, бэлэй, хэжэ, ябаха, боложо, гэхэдэ</em>
 
 <table>
   <tr><th>Paradigm <i>бай</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -53,16 +53,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-120 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (41% of all `AUX` tokens) have a non-empty value of `Person`.
+97 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (120; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (112; 93%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (83; 69%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (83; 69%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (90; 93%), <tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (83; 86%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (82; 85%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (82; 85%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (57; 59%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (22; 18% of non-empty `Person`): <em>байгааб, гээшэб, байнабди, һэмби, байгаагүйб, байнаб, болонхойб, юмбибди, ядааб</em>
-* `2` (4; 3% of non-empty `Person`): <em>байгааш, байнабта, байналши, байнат</em>
-* `3` (94; 78% of non-empty `Person`): <em>байна, байһан, болоно, болоо, бэлэй, шадаа, һэм, болоод, байгаад, болоогүй</em>
-* `EMPTY` (176): <em>юм, байгаа, бай, байба, байдаг, болонхой, шадаха, баатай, байнхаар, байхада</em>
+* `1` (12; 12% of non-empty `Person`): <em>байгааб, байнабди, байгаагүйб, байнаб, болонхойб</em>
+* `2` (4; 4% of non-empty `Person`): <em>байгааш, байнабта, байналши, байнат</em>
+* `3` (81; 84% of non-empty `Person`): <em>байна, байһан, болоно, болоо, шадаа, болоод, байгаад, болоогүй, болошоо, болоһон</em>
+* `EMPTY` (96): <em>байгаа, бай, байба, байдаг, болонхой, шадаха, байнхаар, байхада, байхадаа, болохо</em>
 
 <table>
   <tr><th>Paradigm <i>бай</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -76,16 +76,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PART`
 
-23 <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> tokens (13% of all `PART` tokens) have a non-empty value of `Person`.
+22 <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> tokens (9% of all `PART` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 87%).
+The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (22; 100%).
 
 `PART` tokens may have the following values of `Person`:
 
-* `1` (4; 17% of non-empty `Person`): <em>бэлэйбди, гээшэбибди, хүм, һэмди</em>
+* `1` (3; 14% of non-empty `Person`): <em>гээшэбибди, хүм, һэмди</em>
 * `2` (2; 9% of non-empty `Person`): <em>гүш</em>
-* `3` (17; 74% of non-empty `Person`): <em>гү</em>
-* `EMPTY` (154): <em>даа, һэн, ха, лэ, гээд, һаа, үгы, һаань, ааб, гэхэдээ</em>
+* `3` (17; 77% of non-empty `Person`): <em>гү</em>
+* `EMPTY` (222): <em>юм, даа, һэн, ха, лэ, гээд, һаа, үгы, һаань, ааб</em>
 
 <table>
   <tr><th>Paradigm <i>гү</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

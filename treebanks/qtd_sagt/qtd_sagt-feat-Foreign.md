@@ -69,7 +69,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>The, a</em>
-* `EMPTY` (1733): <em>bir, dem, die, der, ein, das, o, eine, den, her</em>
+* `EMPTY` (1732): <em>bir, dem, die, der, ein, das, o, eine, den, her</em>
 
 ### `VERB`
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>I, my, this</em>
-* `EMPTY` (4150): <em>ich, das, es, du, die, ben, o, wir, ondan, man</em>
+* `EMPTY` (4151): <em>ich, das, es, du, die, ben, o, wir, ondan, man</em>
 
 ### `INTJ`
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="nds_lsdc-dep-det-poss.html">det:poss</a></tt>.
 
-227 nodes (9%) are attached to their parents as `det`.
+266 nodes (9%) are attached to their parents as `det`.
 
-227 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26431718061674.
+266 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25187969924812.
 
-The following 6 pairs of parts of speech are connected with `det`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (205; 90% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (9; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (9; 4% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (241; 91% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (11; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (9; 3% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -74,25 +74,25 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 16 det	color:blue
-1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
-2	un	un	CCONJ	_	_	10	cc	_	_
-3	to	to	ADP	_	AdpType=Prep	7	case	_	_
+1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	lemma[gml]=beschrîven
+2	un	un	CCONJ	_	_	10	cc	_	lemma[gml]=unde²
+3	to	to	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=tô⁴
 4	'	'	PUNCT	_	_	5	punct	_	_
-5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma[gml]=dê¹
 6	31.	31.	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	_
 7	oktober	oktober	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
 8	ao.	ao.	ADV	_	_	7	advmod	_	_
 9	1817	1817	NUM	_	_	8	appos	_	_
 10	heruutgeaven	heruutgeaven	VERB	_	Aspect=Perf|VerbForm=Part	1	conj	_	_
-11	van	van	ADP	_	AdpType=Prep	12	case	_	_
+11	van	van	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=van¹
 12	Claus	Claus	PROPN	_	Gender=Masc|Number=Sing	10	obl	_	_
 13	Harms	Harms	PROPN	_	Gender=Masc|Number=Sing	12	flat	_	_
 14	archidiakonus	archidiakonus	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	_
-15	an	an	ADP	_	AdpType=Prep	17	case	_	_
-16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+15	an	an	ADP	_	AdpType=Prep	17	case	_	lemma[gml]=an
+16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê¹
 17	St.	St.	PROPN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	14	nmod	_	_
 18	Nicolaikarke	Nicolaikarke	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	17	flat	_	_
-19	in	in	ADP	_	AdpType=Prep	20	case	_	_
+19	in	in	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=in²
 20	Kiel	Kiel	PROPN	_	Number=Sing	17	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	10	punct	_	_
 

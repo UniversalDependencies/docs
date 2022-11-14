@@ -11,7 +11,7 @@ This relation is universal.
 1153 nodes (11%) are attached to their parents as `punct`.
 
 936 instances of `punct` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.2419774501301.
+Average distance between parent and child is 6.24544666088465.
 
 The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PUNCT.html">PUNCT</a></tt> (711; 62% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-PUNCT.html">PUNCT</a></tt> (234; 20% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-PUNCT.html">PUNCT</a></tt> (92; 8% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-PUNCT.html">PUNCT</a></tt> (36; 3% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-PUNCT.html">PUNCT</a></tt> (31; 3% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-PUNCT.html">PUNCT</a></tt> (28; 2% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-PUNCT.html">PUNCT</a></tt> (19; 2% instances), <tt><a href="br_keb-pos-DET.html">DET</a></tt>-<tt><a href="br_keb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="br_keb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 

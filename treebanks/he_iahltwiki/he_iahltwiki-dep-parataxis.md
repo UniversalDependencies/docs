@@ -69,7 +69,7 @@ The following 46 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	ל	ל	ADP	ADP	_	3	case	_	_
 3	עיתים	עת	NOUN	NOUN	Gender=Fem|Number=Plur	9	nmod	_	_
 4	קרובות	קרוב	ADJ	ADJ	Gender=Fem|Number=Plur	3	amod	_	_
-5	הייתה	היה	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbType=Cop	9	cop	_	_
+5	הייתה	היה	AUX	AUX	Gender=Fem|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|VerbType=Cop	9	cop	_	_
 6	זו	זה	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_
 7	עבור	עבור	ADP	ADP	_	8	case	_	_
 8	ם	הוא	PRON	PRON	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nmod	_	_

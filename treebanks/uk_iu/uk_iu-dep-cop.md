@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-802 nodes (1%) are attached to their parents as `cop`.
+803 nodes (1%) are attached to their parents as `cop`.
 
-617 instances of `cop` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70947630922693.
+618 instances of `cop` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.71855541718555.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (323; 40% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (285; 36% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (141; 18% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (31; 4% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (13; 2% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (323; 40% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (286; 36% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (141; 18% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (31; 4% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (13; 2% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

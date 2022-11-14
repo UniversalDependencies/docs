@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 iobj	color:blue
-1	@user	@user	SYM	SYM	_	4	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	4	vocative	_	_
 2	ma	ma	CCONJ	CC	_	4	discourse	_	_
 3	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
 4	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -70,14 +70,14 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 16	fgColor:white
 # visual-style 16 15 iobj	color:blue
 1	“	“	PUNCT	FB	_	9	punct	_	_
-2	@user1	@user1	SYM	SYM	_	9	vocative:mention	_	SpaceAfter=No
+2	@user1	@user1	SYM	SYM	_	9	vocative	_	SpaceAfter=No
 3	:	:	PUNCT	FC	_	2	punct	_	_
-4	@user2	@user2	SYM	SYM	_	9	vocative:mention	_	_
+4	@user2	@user2	SYM	SYM	_	9	vocative	_	_
 5	solo	solo	ADV	B	_	7	advmod	_	_
 6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	dm	dm	NOUN	S	_	9	obl	_	_
 8	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
-9	pregooo	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	pregooo	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	NonCan=Stretch
 10	...	...	PUNCT	FS	_	9	punct	_	_
 11	se	se	SCONJ	CS	_	14	mark	_	_
 12	nn	non	ADV	BN	PronType=Neg	14	advmod	_	_
@@ -87,7 +87,7 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 16	def	def	X	X	_	9	parataxis	_	_
 17	ok	ok	INTJ	I	_	16	discourse	_	SpaceAfter=No
 18	?	?	PUNCT	FS	_	16	punct	_	_
-19	😜😂	😜😂	SYM	SYM	_	16	discourse:emo	_	_
+19	😜😂	😜😂	SYM	SYM	_	16	discourse	_	_
 20	”	”	PUNCT	FB	_	9	punct	_	_
 21	vita	vita	NOUN	S	Gender=Fem|Number=Sing	9	vocative	_	_
 22	mia	mio	ADJ	A	Gender=Fem|Number=Sing	21	amod	_	_

@@ -6,27 +6,27 @@ udver: '2'
 
 ## Treebank Statistics: UD_Tupinamba-TuDeT: Features: `Mood`
 
-This feature is universal but the values `Per` are language-specific.
-It occurs with 5 different values: `Cnd`, `Imp`, `Opt`, `Per`, `Sub`.
+This feature is universal but the values `Irr`, `Per` are language-specific.
+It occurs with 6 different values: `Cnd`, `Imp`, `Irr`, `Opt`, `Per`, `Sub`.
 
-116 tokens (3%) have a non-empty value of `Mood`.
-98 types (6%) occur at least once with a non-empty value of `Mood`.
-72 lemmas (6%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 5 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (87; 2% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (19; 0% instances), <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+126 tokens (3%) have a non-empty value of `Mood`.
+105 types (6%) occur at least once with a non-empty value of `Mood`.
+73 lemmas (7%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 5 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (92; 2% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (23; 1% instances), <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-87 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Mood`.
+92 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tpn_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (87; 100%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (86; 99%), <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (78; 90%), <tt><a href="tpn_tudet-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (73; 84%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (50; 57%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tpn_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (92; 100%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (91; 99%), <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (83; 90%), <tt><a href="tpn_tudet-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (75; 82%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (55; 60%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (2; 2% of non-empty `Mood`): <em>orerorɨβetemo, pesememo</em>
-* `Imp` (36; 41% of non-empty `Mood`): <em>jori, Ejori, Ejemi, jame, Eame, Eiori, Ejepeʔa, Ejkuwaβ, Ejmoɲewasem, Ejor</em>
-* `Per` (47; 54% of non-empty `Mood`): <em>toso, taso, tasone, tereso, toromonone, Tajɨβõne, Takaʔune, Teʔikatu, Tojepun, tajmoŋeta</em>
+* `Imp` (40; 43% of non-empty `Mood`): <em>jori, Ejori, Ejemi, jame, Eame, Eiori, Ejepeʔa, Ejkuwaβ, Ejmojewasem, Ejor</em>
+* `Per` (48; 52% of non-empty `Mood`): <em>toso, taso, tasone, tereso, toromonone, Tajɨβõne, Takaʔune, Teʔikatu, Tojepun, tajmoŋeta</em>
 * `Sub` (2; 2% of non-empty `Mood`): <em>asomo, osɨkamo</em>
-* `EMPTY` (562): <em>eʔi, ojaβo, eʔipe, aso, oso, rawsupa, Ojaoβok, ajmono, neʔi, ojkoβo</em>
+* `EMPTY` (600): <em>eʔi, ojaβo, eʔipe, aimono, aso, neʔi, oso, rawsupa, witekoβo, Ojaoβok</em>
 
 <table>
   <tr><th>Paradigm <i>so</i></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th><th><tt>Per</tt></th></tr>
@@ -43,33 +43,34 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="tpn_tudet-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>toso</em></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 95% lemmas (53) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 95% lemmas (54) occur only with one value of `Mood`.
 
 ### `NOUN`
 
-19 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Mood`.
+23 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `NOUN` and `Mood` co-occurred: <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 63%), <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 58%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (11; 58%).
+The most frequent other feature values with which `NOUN` and `Mood` co-occurred: <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 70%), <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15; 65%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (12; 52%).
 
 `NOUN` tokens may have the following values of `Mood`:
 
-* `Cnd` (1; 5% of non-empty `Mood`): <em>ʃekwaukamo</em>
-* `Per` (8; 42% of non-empty `Mood`): <em>Taʃepɨsɨrõ, Taʃemaran, Taʃepeʔa, taʃereroβja, taʃereroβjar, timokajẽ, tiʃepejan</em>
-* `Sub` (10; 53% of non-empty `Mood`): <em>sekoreme, momeʔureme, sɨkeme, Aŋajpaβeʔɨmame, omoʔangekoaime</em>
-* `EMPTY` (1310): <em>aβa, janejara, taβa, maʔe, paʔi, Tupã, apɨaβa, cruz, seko, teko</em>
+* `Cnd` (1; 4% of non-empty `Mood`): <em>ʃekwaukamo</em>
+* `Irr` (1; 4% of non-empty `Mood`): <em>perekoreme</em>
+* `Per` (8; 35% of non-empty `Mood`): <em>Taʃepɨsɨrõ, Taʃemaran, Taʃepeʔa, taʃereroβja, taʃereroβjar, timokajẽ, tisepejan</em>
+* `Sub` (13; 57% of non-empty `Mood`): <em>sekoreme, sɨkeme, momeʔureme, aŋajpaβeʔɨmame, omoʔaŋekoaime, perekoreme</em>
+* `EMPTY` (1413): <em>aβa, janejara, maʔe, taβa, paʔi, Tupã, apɨaβa, cruz, seko, teko</em>
 
-`Mood` seems to be **lexical feature** of `NOUN`. 100% lemmas (14) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `NOUN`. 93% lemmas (13) occur only with one value of `Mood`.
 
 ### `PART`
 
-8 <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> tokens (5% of all `PART` tokens) have a non-empty value of `Mood`.
+9 <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> tokens (5% of all `PART` tokens) have a non-empty value of `Mood`.
 
 `PART` tokens may have the following values of `Mood`:
 
-* `Cnd` (5; 63% of non-empty `Mood`): <em>meemo, temonemo, ʃwemo, ʃwepemo</em>
-* `Imp` (2; 25% of non-empty `Mood`): <em>Teume, Teumẽ</em>
-* `Opt` (1; 13% of non-empty `Mood`): <em>Temone</em>
-* `EMPTY` (166): <em>e, jẽ, ɨβɨa, je, ae, aʔepe, rõ, ã, jẽpe, teʔe</em>
+* `Cnd` (5; 56% of non-empty `Mood`): <em>meemo, temonemo, ʃwemo, ʃwepemo</em>
+* `Imp` (2; 22% of non-empty `Mood`): <em>Teume, Teumẽ</em>
+* `Opt` (2; 22% of non-empty `Mood`): <em>temone</em>
+* `EMPTY` (175): <em>e, jẽ, ɨβɨa, je, ã, ae, aʔepe, rõ, ajẽ, jẽpe</em>
 
 ### `ADP`
 
@@ -80,7 +81,7 @@ The most frequent other feature values with which `ADP` and `Mood` co-occurred: 
 `ADP` tokens may have the following values of `Mood`:
 
 * `Cnd` (1; 100% of non-empty `Mood`): <em>supemo</em>
-* `EMPTY` (252): <em>rese, swi, supe, pupe, sese, rupi, ire, iʃupe, janone, ri</em>
+* `EMPTY` (284): <em>rese, swi, supe, pupe, sese, rupi, isupe, ire, janone, ri</em>
 
 ### `SCONJ`
 
@@ -92,9 +93,4 @@ The most frequent other feature values with which `SCONJ` and `Mood` co-occurred
 
 * `Cnd` (1; 100% of non-empty `Mood`): <em>jepemo</em>
 * `EMPTY` (6): <em>janone, ijaβe, jaβepe, jepe, jepene</em>
-
-## Relations with Agreement in `Mood`
-
-The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="tpn_tudet-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (1; 100%).
 

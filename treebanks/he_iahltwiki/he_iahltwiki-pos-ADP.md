@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  ב (<tt><a href="he_iahltwiki-pos-ADP.htm
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.122699 (the average of all parts of speech is 1.479084).
+The form / lemma ratio of `ADP` is 1.122699 (the average of all parts of speech is 1.479265).
 
 The 1st highest number of forms (6) was observed with the lemma “את”: אֶת, אֹת, אות, אית, את, של.
 
@@ -67,20 +67,20 @@ The 2nd highest number of forms (3) was observed with the lemma “ב”: ב, ב
 
 The 3rd highest number of forms (3) was observed with the lemma “בין”: בין, בינ, ביני.
 
-`ADP` occurs with 5 features: <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (2572; 11% instances), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt> (2572; 11% instances), <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt> (2010; 9% instances), <tt><a href="he_iahltwiki-feat-Abbr.html">Abbr</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (3; 0% instances)
+`ADP` occurs with 5 features: <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt> (3212; 14% instances), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (2572; 11% instances), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt> (2572; 11% instances), <tt><a href="he_iahltwiki-feat-Abbr.html">Abbr</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (3; 0% instances)
 
 `ADP` occurs with 6 feature-value pairs: `Abbr=Yes`, `Case=Acc`, `Case=Gen`, `Definite=Def`, `PronType=Art`, `Typo=Yes`
 
 `ADP` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (18421 tokens).
-Examples: ב, ל, מ, על, של, את, כ, עם, בין, לאחר
+The most frequent feature combination is `_` (17219 tokens).
+Examples: ב, ל, מ, על, את, כ, עם, בין, לאחר, עד
 
 
 ## Relations
 
 `ADP` nodes are attached to their parents using 15 different relations: <tt><a href="he_iahltwiki-dep-case.html">case</a></tt> (22330; 97% instances), <tt><a href="he_iahltwiki-dep-fixed.html">fixed</a></tt> (445; 2% instances), <tt><a href="he_iahltwiki-dep-mark.html">mark</a></tt> (125; 1% instances), <tt><a href="he_iahltwiki-dep-advmod.html">advmod</a></tt> (77; 0% instances), <tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt> (6; 0% instances), <tt><a href="he_iahltwiki-dep-reparandum.html">reparandum</a></tt> (6; 0% instances), <tt><a href="he_iahltwiki-dep-cc.html">cc</a></tt> (4; 0% instances), <tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="he_iahltwiki-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (16794; 73% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (3026; 13% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1616; 7% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (522; 2% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (339; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (281; 1% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (178; 1% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (177; 1% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> (27; 0% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (24; 0% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (16795; 73% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (3026; 13% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1615; 7% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (522; 2% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (339; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (281; 1% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (178; 1% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (177; 1% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> (27; 0% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (24; 0% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances)
 
 21492 (93%) `ADP` nodes are leaves.
 

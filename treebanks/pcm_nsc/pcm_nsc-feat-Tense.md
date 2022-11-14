@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-788 tokens (1%) have a non-empty value of `Tense`.
+789 tokens (1%) have a non-empty value of `Tense`.
 208 types (4%) occur at least once with a non-empty value of `Tense`.
 161 lemmas (4%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (394; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (392; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (394; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (393; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `VERB`
 
@@ -33,14 +33,14 @@ The feature is used with 3 part-of-speech tags: <tt><a href="pcm_nsc-pos-VERB.ht
 
 ### `AUX`
 
-392 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Tense`.
+393 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (392; 100%), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (392; 100%), <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (392; 100%), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (278; 71%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (393; 100%), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (393; 100%), <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (393; 100%), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (279; 71%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (145; 37% of non-empty `Tense`): <em>bin, be, was, were, did, had</em>
-* `Pres` (247; 63% of non-empty `Tense`): <em>is, are, do, 's, 'm, have, am, being, does</em>
+* `Pres` (248; 63% of non-empty `Tense`): <em>is, are, do, 's, 'm, have, am, being, does</em>
 * `EMPTY` (13328): <em>dey, go, na, no, con, don, be, make, fit, come</em>
 
 <table>
@@ -66,11 +66,10 @@ The most frequent other feature values with which `PRON` and `Tense` co-occurred
 `PRON` tokens may have the following values of `Tense`:
 
 * `Pres` (2; 100% of non-empty `Tense`): <em>I</em>
-* `EMPTY` (18360): <em>I, you, e, we, am, de, me, my, dem, im</em>
+* `EMPTY` (18359): <em>I, you, e, we, am, de, me, my, dem, im</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>AUX --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (7; 88%),
 <tt>AUX --[<tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

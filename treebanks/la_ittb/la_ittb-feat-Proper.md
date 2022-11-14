@@ -30,7 +30,7 @@ The most frequent other feature values with which `ADJ` and `Proper` co-occurred
 
 314 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `Proper`.
 
-The most frequent other feature values with which `PROPN` and `Proper` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (314; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (314; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (314; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (313; 100%).
+The most frequent other feature values with which `PROPN` and `Proper` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (314; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (314; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (314; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (314; 100%).
 
 `PROPN` tokens may have the following values of `Proper`:
 

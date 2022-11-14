@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Memduh Gökırmak, Francis Tyers.
 
 Repository: [UD_Kurmanji-MG](https://github.com/UniversalDependencies/UD_Kurmanji-MG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkmr_mg210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkmr_mg211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -82,11 +82,11 @@ year = 2017
 
 
 <ul>
-<li>This corpus contains 754 sentences, 10188 tokens and 10260 syntactic words.</li>
+<li>This corpus contains 754 sentences, 10189 tokens and 10260 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1293 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 1294 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -98,8 +98,8 @@ year = 2017
 </ul>
 
 <ul>
-<li>This corpus contains 72 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 11 types of multi-word tokens. Examples: jê, pê, lê, tê, emê, ezê, Honê, Tiwê, em, le, lev.</li>
+<li>This corpus contains 71 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 10 types of multi-word tokens. Examples: jê, pê, lê, tê, emê, ezê, Honê, Tiwê, le, lev.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -111,7 +111,7 @@ year = 2017
 </ul>
 
 <ul>
-<li>This corpus contains 7 word types tagged as particles (PART): _, de, dê, ji, jî, ma, ê</li>
+<li>This corpus contains 3 word types tagged as particles (PART): ji, jî, ma</li>
 </ul>
 
 <ul>
@@ -127,11 +127,11 @@ year = 2017
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): bûn, hebûn</li>
+<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): bûn, dan, dê, hatin</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: bûn</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: bûn, dan, hatin</li>
 </ul>
 
 <ul>
@@ -141,8 +141,8 @@ year = 2017
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: e, ye, bû, bûn, dibe, hebû, bûye, heye, hene, in</li>
-    <li>VERB: tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</li>
+    <li>AUX: e, ye, bû, tê, hatiye, bûn, dibe, bûye, hate, hat</li>
+    <li>VERB: da, kir, gote, dike, got, hebû, kiriye, heye, divêt, hene</li>
   </ul>
   </li>
 </ul>
@@ -187,7 +187,7 @@ year = 2017
     <ul>
       <li>ADP: yên, ên, en</li>
       <li>DET: her, ev, hin, çend, hinek, ew, van, hemî, wan, hemû</li>
-      <li>PRON: xwe, min, me, em, ew, ez, te, wan, _, ev</li>
+      <li>PRON: xwe, min, me, em, ez, ew, te, wan, _, tu</li>
       <li>PROPN: Hegel</li>
     </ul>
   </li>
@@ -214,13 +214,13 @@ year = 2017
   <li>Plur
     <ul>
       <li>ADP: yên, ên, Stêrên, en</li>
-      <li>AUX-Fin: bûn, hene, in, ne, bûne, bibin, dibin, hebûn, bû bûn, hebûne</li>
+      <li>AUX-Fin: bûn, hatine, in, ne, bûne, tên, dihatin, bibin, dibin, hatin</li>
       <li>DET: gelek, van, hemî, wan, hemû, gellek, pir</li>
       <li>NOUN: kurdan, caran, salên, salan, çavên, helbestên, navên, berhemên, destên, nivîsên</li>
       <li>NUM: du, sê, pênc, hezar, sed, çar, 1932'an, hezaran, sedan, 14an</li>
-      <li>PRON: me, em, wan, emê, we, ew, Honê, hûn, Gelek, gelekê</li>
+      <li>PRON: me, em, wan, we, hûn, ew, Gelek, emê, gelekê, hevdu</li>
       <li>PROPN: Badînan, Botan</li>
-      <li>VERB-Fin: hatine, bikin, dikin, tên, herin, kirin, derketin, didin, digirin, dihatin</li>
+      <li>VERB-Fin: hene, bikin, dikin, herin, kirin, derketin, didin, digirin, ketin, bibînin</li>
     </ul>
   </li>
 </ul>
@@ -229,7 +229,7 @@ year = 2017
   <li>Plur,Sing
     <ul>
       <li>DET: ev, hin, çend, hinek, ew, hindik, hinekî</li>
-      <li>PRON: xwe, ev, hev, ew, kû, _, ku, xwê, çi</li>
+      <li>PRON: xwe, ev, hev, ew, kû, _, xwê, çi</li>
     </ul>
   </li>
 </ul>
@@ -238,14 +238,14 @@ year = 2017
   <li>Sing
     <ul>
       <li>ADP: ya, a, yê, ê, ye</li>
-      <li>AUX-Fin: e, ye, bû, dibe, hebû, bûye, heye, bû bû, im, dibû</li>
+      <li>AUX-Fin: e, ye, bû, tê, hatiye, dibe, bûye, hate, hat, bû bû</li>
       <li>DET: vê, her, wê, vî, wî, Herçî, _, ewqas, herdu, yekî</li>
       <li>NOUN: sala, oda, xweha, navê, zirbavê, gund, serê, zimanê, derî, kurdî</li>
       <li>NUM: yek, yekê</li>
-      <li>PRON: min, wî, _, ez, wê, ew, te, tu, ezê, tukesî</li>
+      <li>PRON: min, wî, _, ez, ew, wê, te, tu, tukesî, vê</li>
       <li>PROPN: Holmes, Rweylot, Stonêrê, Stonêr, Tirkiyeyê, Şerlok, Cûlyayê, Ewropayê, Hindistanê, Wetsin</li>
-      <li>VERB: tê, da, kir, hatiye, gote, hat, dike, hate, got, kiriye</li>
-      <li>VERB-Fin: tê, da, kir, hatiye, gote, hat, dike, hate, got, kiriye</li>
+      <li>VERB: da, kir, gote, dike, got, hebû, kiriye, heye, divêt, girt</li>
+      <li>VERB-Fin: da, kir, gote, dike, got, hebû, kiriye, heye, divêt, girt</li>
     </ul>
   </li>
 </ul>
@@ -260,7 +260,7 @@ year = 2017
       <li>DET: vê, wê, vî, wî, van, wan, _</li>
       <li>NOUN: gund, kurdan, caran, derî, odê, qesirê, dest, cih, salan, demê</li>
       <li>NUM: yekê, 1932'an, 14an, 1500'an, 1534'an, 1603'an, 1604'an, 1788'an, 1825'an, 1829'an</li>
-      <li>PRON: min, me, wî, _, wê, te, wan, we, vê, ewî</li>
+      <li>PRON: min, me, wî, _, wê, te, wan, we, ew, vê</li>
       <li>PROPN: Holmes, Stonêrê, Rweylot, Tirkiyeyê, Cûlyayê, Ewropayê, Hindistanê, Amedê, Stenbolê, Stokmoranê</li>
     </ul>
   </li>
@@ -283,7 +283,7 @@ year = 2017
       <li>DET: ev, ew</li>
       <li>NOUN: kurdî, banû, mirov, nav, tişt, gor, gorî, hûr, mar, seh</li>
       <li>NUM: du, yek, sê, pênc, çar, deh, dido, dwanzde, dû, penc</li>
-      <li>PRON: em, ew, ez, ev, tu, emê, ezê, Honê, hûn, Eve</li>
+      <li>PRON: em, ez, ew, tu, ev, hûn, Eve, Gelek, emê, hon</li>
       <li>PROPN: Holmes, Rweylot, Stonêr, roma, Şerlok, Botan, Keya, Teyran, Abdusamet, Elî</li>
     </ul>
   </li>
@@ -353,9 +353,9 @@ year = 2017
   <li>Neg
     <ul>
       <li>ADV: ne</li>
-      <li>AUX-Fin: nîne, tune</li>
+      <li>AUX-Fin: nayê, nehatiye, nehatine</li>
       <li>DET: tu, ti</li>
-      <li>VERB-Fin: meke, nayê, nehatiye, nikarî bû, nizanî, xuya dikir, ceza dikir, dernexist, maye, nade</li>
+      <li>VERB-Fin: meke, nîne, nikarî bû, nizanî, tune, xuya dikir, ceza dikir, dernexist, maye, nade</li>
     </ul>
   </li>
 </ul>
@@ -371,7 +371,8 @@ year = 2017
 <ul>
   <li>Perf
     <ul>
-      <li>VERB-Fin: hate, hatine, hatiye, nehatiye, da bûye, nehatime, nehatine</li>
+      <li>AUX-Fin: hate, hatine, hatiye, nehatiye, nehatine</li>
+      <li>VERB-Fin: hate, hatine, da bûye, nehatime</li>
     </ul>
   </li>
 </ul>
@@ -379,8 +380,8 @@ year = 2017
 <ul>
   <li>Prog
     <ul>
-      <li>AUX-Fin: dibû, dibûm</li>
-      <li>VERB-Fin: dida, dikir, dihate, dadiket, dihatin, digeriya, digirt, rûdinişt, digeriyan, digot</li>
+      <li>AUX-Fin: dibû, dihatin, dihate, dibûm</li>
+      <li>VERB-Fin: dida, dikir, dadiket, digeriya, digirt, rûdinişt, digeriyan, digot, dihate, dikirin</li>
     </ul>
   </li>
 </ul>
@@ -401,8 +402,8 @@ year = 2017
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: e, ye, bû, bûn, dibe, hebû, bûye, heye, hene, in</li>
-      <li>VERB-Fin: tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</li>
+      <li>AUX-Fin: e, ye, bû, tê, hatiye, bûn, dibe, bûye, hate, hat</li>
+      <li>VERB-Fin: da, kir, gote, dike, got, hebû, kiriye, heye, divêt, hene</li>
     </ul>
   </li>
 </ul>
@@ -410,7 +411,8 @@ year = 2017
 <ul>
   <li>Opt
     <ul>
-      <li>VERB-Fin: bikira, bidîta, bigota, bihata, bistandana</li>
+      <li>AUX-Fin: bihata</li>
+      <li>VERB-Fin: bikira, bidîta, bigota, bistandana</li>
     </ul>
   </li>
 </ul>
@@ -418,8 +420,8 @@ year = 2017
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: be, hebe, bibe, bibim, bibin, bibî, bin, bit, nebe, nebit</li>
-      <li>VERB-Fin: bike, bikin, bidî, bêje, herin, bibêje, herî, berde, bibînin, bidin</li>
+      <li>AUX-Fin: be, bibe, bibim, bibin, bibî, bidî, bin, bit, bê, bên</li>
+      <li>VERB-Fin: bike, bikin, bidî, bêje, herin, bibêje, hebe, herî, berde, bibînin</li>
     </ul>
   </li>
 </ul>
@@ -431,8 +433,8 @@ year = 2017
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: bibin, hebit</li>
-      <li>PART: ê, _, dê, de</li>
+      <li>AUX: dê, de, ê, bibin</li>
+      <li>AUX-Fin: bibin</li>
       <li>VERB-Fin: bibihîsin, biborînin, bibîne, bibînim, bibînin, bidin, bikarim, bikarin, bikî, bixebitin</li>
     </ul>
   </li>
@@ -441,8 +443,8 @@ year = 2017
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: bû, bûn, hebû, bûye, bûne, dibû, hebûn, bûm, bûya, biwa</li>
-      <li>VERB-Fin: da, kir, hatiye, gote, hat, hate, got, hatine, kiriye, girt</li>
+      <li>AUX-Fin: bû, hatiye, bûn, bûye, hate, hat, hatine, bûne, dibû, dihatin</li>
+      <li>VERB-Fin: da, kir, gote, got, hebû, kiriye, girt, hat, dida, dikir</li>
       <li>VERB-Part: mirî, qewimî, bû, dagirtî, daliqandî, diyarkirî, dîti, girtî, keti, parastî</li>
     </ul>
   </li>
@@ -451,8 +453,8 @@ year = 2017
 <ul>
   <li>Pqp
     <ul>
-      <li>AUX-Fin: bû bû, bû bûn</li>
-      <li>VERB-Fin: da bû, dîti bû, goti bû, keti bû, anî bû, bihîsti bû, gihaşti bûn, hatibû, kiri bûn, miri bû</li>
+      <li>AUX-Fin: bû bû, bû bûn, hatibû, hati bû</li>
+      <li>VERB-Fin: da bû, dîti bû, goti bû, keti bû, anî bû, bihîsti bû, gihaşti bûn, kiri bûn, miri bû, nikarî bû</li>
     </ul>
   </li>
 </ul>
@@ -460,8 +462,8 @@ year = 2017
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: e, ye, dibe, heye, hene, in, ne, im, be, dibin</li>
-      <li>VERB-Fin: tê, dike, divêt, dide, bike, bikin, dikin, tên, bidî, bêje</li>
+      <li>AUX-Fin: e, ye, tê, dibe, in, ne, tên, im, be, dibin</li>
+      <li>VERB-Fin: dike, heye, divêt, hene, tê, dide, bike, bikin, dikin, bidî</li>
     </ul>
   </li>
 </ul>
@@ -474,8 +476,8 @@ year = 2017
 <ul>
   <li>Nfh
     <ul>
-      <li>AUX-Fin: bûye, bûne, bûya, biwa, hebûne</li>
-      <li>VERB-Fin: gote, hatiye, kiriye, dihate, maye, daye, digeriya, girtiye, avête, dane</li>
+      <li>AUX-Fin: hatiye, bûye, bûne, dihate, bûya, biwa, dane, daye</li>
+      <li>VERB-Fin: gote, kiriye, maye, daye, digeriya, girtiye, hatiye, avête, dihate, gotiye</li>
     </ul>
   </li>
 </ul>
@@ -492,7 +494,7 @@ year = 2017
     <ul>
       <li>DET: vê, ev, wê, ew, vî, van, wî, wan, _</li>
       <li>NOUN: demê, derê, navê, şanî, armancê, awayî, babetê, beşdarî, caran, gundî</li>
-      <li>PRON: _, wan, ev, vê, ve</li>
+      <li>PRON: _, wan, ev, ew, vê</li>
     </ul>
   </li>
 </ul>
@@ -502,7 +504,7 @@ year = 2017
     <ul>
       <li>DET: her, hin, gelek, çend, tu, hinek, heman, hemî, hemû, ti</li>
       <li>NOUN: dengekî, tiştek, tiştekî, carekê, kesekî, malbateke, meymûnek, mirovekî, nişkekê, odeke</li>
-      <li>PRON: tukesî, yekî, Gelek, Herçî, Heçî, gelekê, heryekê, hevdu, ve, vê</li>
+      <li>PRON: tukesî, yekî, Gelek, Herçî, gelekê, heryekê, hevdu, ve, vê</li>
     </ul>
   </li>
 </ul>
@@ -521,7 +523,7 @@ year = 2017
   <li>Prs
     <ul>
       <li>DET: wî</li>
-      <li>PRON: xwe, min, me, wî, em, ew, ez, wê, te, tu</li>
+      <li>PRON: xwe, min, me, wî, em, ez, ew, wê, te, tu</li>
     </ul>
   </li>
 </ul>
@@ -538,7 +540,7 @@ year = 2017
   <li>Rel
     <ul>
       <li>ADV: çi</li>
-      <li>PRON: kû, ku</li>
+      <li>PRON: kû</li>
     </ul>
   </li>
 </ul>
@@ -575,8 +577,8 @@ year = 2017
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: bûn, im, me, bibim, bibin, hene, bûm</li>
-      <li>PRON: min, me, em, ez, emê, ezê</li>
+      <li>AUX-Fin: bûn, im, me, bibim, bibin, bûm</li>
+      <li>PRON: min, me, em, ez, emê</li>
       <li>VERB-Fin: herin, dizanin, ketin, rabûm, bidin, derketin, dibêjim, dibînim, dixwazim, dîtin</li>
     </ul>
   </li>
@@ -585,8 +587,8 @@ year = 2017
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: bibî, nebe, bibin, yî, î</li>
-      <li>PRON: te, tu, we, Honê, hûn, Tiwê, hon</li>
+      <li>AUX-Fin: bibî, nebe, bibin, bidî, yî, î</li>
+      <li>PRON: te, tu, we, hûn, hon</li>
       <li>VERB-Fin: bidî, bikin, herî, meke, bikî, dixwazî, kirî, nizanî, Rahêje, anî</li>
     </ul>
   </li>
@@ -595,11 +597,11 @@ year = 2017
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: e, ye, bû, dibe, hebû, bûye, heye, bûn, hene, in</li>
+      <li>AUX-Fin: e, ye, bû, tê, hatiye, dibe, bûye, hate, hat, hatine</li>
       <li>DET: wî</li>
       <li>PRON: wî, ew, wê, _, we, ewî, Ev, Eve, wan, wi</li>
-      <li>VERB: tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</li>
-      <li>VERB-Fin: tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</li>
+      <li>VERB: da, kir, gote, dike, got, hebû, kiriye, heye, divêt, girt</li>
+      <li>VERB-Fin: da, kir, gote, dike, got, hebû, kiriye, heye, divêt, girt</li>
     </ul>
   </li>
 </ul>
@@ -646,22 +648,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (1)</li>
+      <li>VERB--NOUN-Nom (2)</li>
       <li>VERB-Fin--NOUN (10)</li>
-      <li>VERB-Fin--NOUN-Acc (27)</li>
-      <li>VERB-Fin--NOUN-Con (85)</li>
-      <li>VERB-Fin--NOUN-Con-ADP(yê) (3)</li>
+      <li>VERB-Fin--NOUN-Acc (28)</li>
+      <li>VERB-Fin--NOUN-Con (104)</li>
+      <li>VERB-Fin--NOUN-Con-ADP(yê) (4)</li>
       <li>VERB-Fin--NOUN-Con-ADP(yê)-ADP(yê) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (72)</li>
+      <li>VERB-Fin--NOUN-Nom (94)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(bi) (1)</li>
-      <li>VERB-Fin--PRON (7)</li>
+      <li>VERB-Fin--PRON (8)</li>
       <li>VERB-Fin--PRON-Acc (91)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(tenê) (1)</li>
-      <li>VERB-Fin--PRON-Nom (107)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(bi) (1)</li>
+      <li>VERB-Fin--PRON-Nom (108)</li>
       <li>VERB-Inf--NOUN-Acc (4)</li>
-      <li>VERB-Inf--NOUN-Con (34)</li>
-      <li>VERB-Inf--NOUN-Con-ADP(yê) (3)</li>
-      <li>VERB-Inf--NOUN-Nom (28)</li>
+      <li>VERB-Inf--NOUN-Con (35)</li>
+      <li>VERB-Inf--NOUN-Con-ADP(yê) (2)</li>
+      <li>VERB-Inf--NOUN-Nom (29)</li>
       <li>VERB-Inf--PRON-Nom (5)</li>
       <li>VERB-Part--NOUN-Con (1)</li>
       <li>VERB-Part--PRON (1)</li>
@@ -676,7 +678,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (58)</li>
       <li>VERB-Fin--NOUN-Con (131)</li>
       <li>VERB-Fin--NOUN-Con-ADP(yê) (6)</li>
-      <li>VERB-Fin--NOUN-Nom (63)</li>
+      <li>VERB-Fin--NOUN-Nom (64)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ve) (1)</li>
       <li>VERB-Fin--NOUN-Voc-ADP(yê) (1)</li>
       <li>VERB-Fin--PRON (26)</li>

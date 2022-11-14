@@ -148,8 +148,8 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>lo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="it_twittiro-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>lo, l', gli, qual</em></td><td><em>li</em></td></tr>
-  <tr><td><tt><tt><a href="it_twittiro-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la</em></td><td><em>le</em></td></tr>
+  <tr><td><tt><tt><a href="it_twittiro-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>lo, l', qual</em></td><td><em>li</em></td></tr>
+  <tr><td><tt><tt><a href="it_twittiro-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la</em></td><td></td></tr>
   <tr><td><tt></tt></td><td><em>l'</em></td><td></td></tr>
 </table>
 
@@ -162,7 +162,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `ADV` tokens may have the following values of `Number`:
 
 * `Plur` (2; 100% of non-empty `Number`): <em>tutti</em>
-* `EMPTY` (1407): <em>non, anche, più, ora, solo, poi, ancora, così, bene, già</em>
+* `EMPTY` (1408): <em>non, anche, più, ora, solo, poi, ancora, così, bene, già</em>
 
 ### `PROPN`
 
@@ -189,7 +189,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `X` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>mal</em>
-* `EMPTY` (110): <em>e, i, o, partes, super, zan, #labuonascuola, #tassadopotassa, 10cent, 13.mo</em>
+* `EMPTY` (109): <em>e, i, o, partes, super, zan, #labuonascuola, #tassadopotassa, 10cent, 13.mo</em>
 
 ## Relations with Agreement in `Number`
 

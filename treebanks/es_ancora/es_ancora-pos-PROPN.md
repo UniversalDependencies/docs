@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-AnCora: POS Tags: `PROPN`
 
-There are 10156 `PROPN` lemmas (35%), 10202 `PROPN` types (23%) and 42484 `PROPN` tokens (8%).
+There are 10152 `PROPN` lemmas (35%), 10202 `PROPN` types (23%) and 42484 `PROPN` tokens (8%).
 Out of 17 observed tags, the rank of `PROPN` is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>gobierno, España, Madrid, Barcelona, José, PP, Estado, Juan, nacional, Estados</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Gobierno</em> (<tt><a href="es_ancora
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.004529 (the average of all parts of speech is 1.501603).
+The form / lemma ratio of `PROPN` is 1.004925 (the average of all parts of speech is 1.503003).
 
 The 1st highest number of forms (2) was observed with the lemma “Alavés”: <em>ALAVÉS, Alavés</em>.
 

@@ -9,24 +9,27 @@ udver: '2'
 This feature is universal but the values `Fh` are language-specific.
 It occurs with 2 different values: `Fh`, `Nfh`.
 
-300 tokens (3%) have a non-empty value of `Evident`.
-7 types (1%) occur at least once with a non-empty value of `Evident`.
-4 lemmas (1%) occur at least once with a non-empty value of `Evident`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (298; 3% instances), <tt><a href="gub_tudet-pos-PART.html">PART</a></tt> (2; 0% instances).
+301 tokens (3%) have a non-empty value of `Evident`.
+6 types (0%) occur at least once with a non-empty value of `Evident`.
+3 lemmas (1%) occur at least once with a non-empty value of `Evident`.
+The feature is used with 2 part-of-speech tags: <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (299; 3% instances), <tt><a href="gub_tudet-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 ### `ADV`
 
-298 <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> tokens (61% of all `ADV` tokens) have a non-empty value of `Evident`.
+299 <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> tokens (77% of all `ADV` tokens) have a non-empty value of `Evident`.
+
+The most frequent other feature values with which `ADV` and `Evident` co-occurred: <tt><a href="gub_tudet-feat-Int.html">Int</a></tt><tt>=Yes</tt> (241; 81%).
 
 `ADV` tokens may have the following values of `Evident`:
 
 * `Fh` (1; 0% of non-empty `Evident`): <em>zekwehe</em>
-* `Nfh` (297; 100% of non-empty `Evident`): <em>zekaipo, zekwehe, Nàzewe, Seze, zeiakpo, zeikaipo</em>
-* `EMPTY` (191): <em>nezewe, aipo, teteaʔu, tue, ɨwate, har, tete, tuwe, haw, katu</em>
+* `Nfh` (298; 100% of non-empty `Evident`): <em>zekaipo, zekwehe, Seze, zeiakpo, zeikaipo</em>
+* `EMPTY` (88): <em>nezewe, awɨze, har, naʔarewahɨ, kwehetete, xe, zekaipo, Taritɨkaʔi, nazewe, paw</em>
 
 <table>
   <tr><th>Paradigm <i>kwehe</i></th><th><tt>Nfh</tt></th><th><tt>Fh</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>zekaipo, zekwehe, zeiakpo, zeikaipo</em></td><td></td></tr>
+  <tr><td><tt>_</tt></td><td><em>zekwehe, zeiakpo, zeikaipo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Int.html">Int</a></tt><tt>=Yes</tt></tt></td><td><em>zekaipo</em></td><td></td></tr>
   <tr><td><tt><tt><a href="gub_tudet-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>zekwehe</em></td></tr>
 </table>
 
@@ -34,10 +37,10 @@ The feature is used with 2 part-of-speech tags: <tt><a href="gub_tudet-pos-ADV.h
 
 2 <tt><a href="gub_tudet-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `PART` and `Evident` co-occurred: <tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PART` and `Evident` co-occurred: <tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="gub_tudet-feat-Speech.html">Speech</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `PART` tokens may have the following values of `Evident`:
 
 * `Fh` (2; 100% of non-empty `Evident`): <em>kakwez</em>
-* `EMPTY` (1404): <em>no, wa, kurɨ, tɨ, xe, wà, nehe, te, zote, pa</em>
+* `EMPTY` (1481): <em>wa, no, kurɨ, tɨ, xe, te, nehe, zote, aipo, pa</em>
 

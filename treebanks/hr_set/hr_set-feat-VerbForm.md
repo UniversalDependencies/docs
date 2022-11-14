@@ -98,7 +98,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (2054; 100% of non-empty `VerbForm`): <em>održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, postignut, usmjerene</em>
-* `EMPTY` (22083): <em>novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</em>
+* `EMPTY` (22084): <em>novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (636) occur only with one value of `VerbForm`.
 
@@ -125,7 +125,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>AUX --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (27; 71%),
 <tt>AUX --[<tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (18; 82%),
 <tt>AUX --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (17; 71%),
-<tt>VERB --[<tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (17; 61%),
+<tt>VERB --[<tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (15; 58%),
 <tt>ADV --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADV</tt> (14; 100%),
 <tt>AUX --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (9; 64%).
 

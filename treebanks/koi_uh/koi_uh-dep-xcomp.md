@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `xcomp`: <tt><a href="koi_uh-dep-xcomp-ds.html">xcomp:ds</a></tt>.
 
-8 nodes (1%) are attached to their parents as `xcomp`.
+9 nodes (1%) are attached to their parents as `xcomp`.
 
-6 instances of `xcomp` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+7 instances of `xcomp` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.44444444444444.
 
-The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (7; 88% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 13% instances).
+The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (8; 89% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2 3 xcomp	color:blue
 1	Петя	Петя	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Ant-Mal,Sg,Nom
 2	кольччис	кольччыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
-3	керкутöг	керку	NOUN	N	Animacy=Inan|Case=Abe|Number=Sing	2	xcomp	_	GTtags=Sem/Inanim,Sg,Car|SpaceAfter=No
+3	керкутöг	керку	NOUN	N	Animacy=Inan|Case=Abe|Number=Sing|Variant=Vclause	2	xcomp	_	GTtags=Sem/Inanim,Sg,Car|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

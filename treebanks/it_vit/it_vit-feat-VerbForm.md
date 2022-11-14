@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-30372 tokens (11%) have a non-empty value of `VerbForm`.
+30324 tokens (11%) have a non-empty value of `VerbForm`.
 7180 types (31%) occur at least once with a non-empty value of `VerbForm`.
 1923 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 7 part-of-speech tags: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (20942; 7% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (9412; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (20894; 7% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (9412; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-20942 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+20894 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13172; 63%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (13082; 62%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13082; 62%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11229; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13124; 63%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (13034; 62%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13034; 62%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11229; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (7860; 38% of non-empty `VerbForm`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
 * `Ger` (709; 3% of non-empty `VerbForm`): <em>facendo, cercando, parlando, indicando, passando, avendo, portando, utilizzando, aggiungendo, dando</em>
-* `Inf` (4579; 22% of non-empty `VerbForm`): <em>fare, far, avere, dare, dire, partire, riempire, chiedere, andare, trovare</em>
+* `Inf` (4531; 22% of non-empty `VerbForm`): <em>fare, far, avere, dare, dire, partire, chiedere, andare, trovare, presentare</em>
 * `Part` (7794; 37% of non-empty `VerbForm`): <em>fatto, detto, approvato, previsto, avuto, previsti, deciso, ottenuto, visto, chiesto</em>
 * `EMPTY` (494): <em>derivanti, vedere, riguarda, provenienti, aventi, esistenti, appartenenti, se, derivante, restante</em>
 
@@ -120,7 +120,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (2; 18% of non-empty `VerbForm`): <em>dice, vedo</em>
 * `Ger` (1; 9% of non-empty `VerbForm`): <em>lenendo</em>
 * `Part` (8; 73% of non-empty `VerbForm`): <em>redigente, controllanti, cauzionante</em>
-* `EMPTY` (57745): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57740): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `ADJ`
 
@@ -142,7 +142,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1; 100% of non-empty `VerbForm`): <em>pare</em>
-* `EMPTY` (10760): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
+* `EMPTY` (10774): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
 
 ### `CCONJ`
 
@@ -162,12 +162,12 @@ The most frequent other feature values with which `PRON` and `VerbForm` co-occur
 `PRON` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>adattate</em>
-* `EMPTY` (9815): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
+* `EMPTY` (9801): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> VERB</tt> (1386; 79%),
+<tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> VERB</tt> (1387; 79%),
 <tt>VERB --[<tt><a href="it_vit-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (9; 53%),
 <tt>AUX --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 100%),
 <tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),

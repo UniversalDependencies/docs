@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Ancient_Greek-Perseus: POS Tags: `SCONJ`
 
 There are 55 `SCONJ` lemmas (0%), 92 `SCONJ` types (0%) and 2299 `SCONJ` tokens (1%).
-Out of 14 observed tags, the rank of `SCONJ` is: 6 in number of lemmas, 8 in number of types and 11 in number of tokens.
+Out of 15 observed tags, the rank of `SCONJ` is: 6 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>εἰ, ὡς, ὅτι, ὥστε, ὅπως, ὅτε, ἵνα, ὄφρα, ἐάν, πρίν</em>
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>ὡς</em> (<tt><a href="grc_perseus-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.672727 (the average of all parts of speech is 3.010090).
+The form / lemma ratio of `SCONJ` is 1.672727 (the average of all parts of speech is 3.010372).
 
 The 1st highest number of forms (7) was observed with the lemma “εἰ”: <em>αἰ, αἴ, εἰ, εἲ, εἴ, κεἰ, κεἴ</em>.
 
@@ -67,21 +67,19 @@ The 3rd highest number of forms (5) was observed with the lemma “ὅπως”:
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="grc_perseus-dep-mark.html">mark</a></tt> (2191; 95% instances), <tt><a href="grc_perseus-dep-advmod.html">advmod</a></tt> (73; 3% instances), <tt><a href="grc_perseus-dep-case.html">case</a></tt> (17; 1% instances), <tt><a href="grc_perseus-dep-cc.html">cc</a></tt> (16; 1% instances), <tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="grc_perseus-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="grc_perseus-dep-mark.html">mark</a></tt> (2264; 98% instances), <tt><a href="grc_perseus-dep-case.html">case</a></tt> (17; 1% instances), <tt><a href="grc_perseus-dep-cc.html">cc</a></tt> (16; 1% instances), <tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="grc_perseus-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2140; 93% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (92; 4% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (47; 2% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2136; 93% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (97; 4% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (49; 2% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-1481 (64%) `SCONJ` nodes are leaves.
+1540 (67%) `SCONJ` nodes are leaves.
 
-782 (34%) `SCONJ` nodes have one child.
+758 (33%) `SCONJ` nodes have one child.
 
-31 (1%) `SCONJ` nodes have two children.
+1 (0%) `SCONJ` nodes have two children.
 
-5 (0%) `SCONJ` nodes have three or more children.
+The highest child degree of a `SCONJ` node is 2.
 
-The highest child degree of a `SCONJ` node is 3.
+Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="grc_perseus-dep-punct.html">punct</a></tt> (760; 100% instances)
 
-Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="grc_perseus-dep-punct.html">punct</a></tt> (774; 90% instances), <tt><a href="grc_perseus-dep-advmod.html">advmod</a></tt> (84; 10% instances), <tt><a href="grc_perseus-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
-
-Children of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (774; 90% instances), <tt><a href="grc_perseus-pos-PART.html">PART</a></tt> (52; 6% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (28; 3% instances), <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (760; 100% instances)
 

@@ -55,5 +55,5 @@ The most frequent other feature values with which `PRON` and `Number[psor]` co-o
 ## Relations with Agreement in `Number[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
-<tt>DET --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (10; 77%).
+<tt>DET --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (10; 71%).
 

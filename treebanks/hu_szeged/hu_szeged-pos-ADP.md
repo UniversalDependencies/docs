@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>szemben</em> (<tt><a href="hu_szeged-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.503135).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.503840).
 
 The 1st highest number of forms (1) was observed with the lemma “alatt”: <em>alatt</em>.
 
@@ -64,17 +64,11 @@ The 3rd highest number of forms (1) was observed with the lemma “alól”: <em
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="hu_szeged-dep-case.html">case</a></tt> (796; 99% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (9; 1% instances), <tt><a href="hu_szeged-dep-advmod-to.html">advmod:to</a></tt> (2; 0% instances), <tt><a href="hu_szeged-dep-compound-preverb.html">compound:preverb</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="hu_szeged-dep-case.html">case</a></tt> (807; 100% instances), <tt><a href="hu_szeged-dep-compound-preverb.html">compound:preverb</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (642; 79% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (72; 9% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (48; 6% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (16; 2% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (649; 80% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (73; 9% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (49; 6% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (15; 2% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-796 (99%) `ADP` nodes are leaves.
+808 (100%) `ADP` nodes are leaves.
 
-12 (1%) `ADP` nodes have one child.
-
-The highest child degree of a `ADP` node is 1.
-
-Children of `ADP` nodes are attached using 2 different relations: <tt><a href="hu_szeged-dep-nmod-obl.html">nmod:obl</a></tt> (11; 92% instances), <tt><a href="hu_szeged-dep-det.html">det</a></tt> (1; 8% instances)
-
-Children of `ADP` nodes belong to 5 different parts of speech: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (8; 67% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (1; 8% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (1; 8% instances)
+The highest child degree of a `ADP` node is 0.
 

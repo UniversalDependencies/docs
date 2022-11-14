@@ -50,7 +50,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (18; 100% of non-empty `PronType`): <em>юундэ, хэды, Юундэб, хэдышье, хэзээ, хэзээб, Хаанаһаа, ямараар</em>
-* `EMPTY` (756): <em>ехэ, мүнөө, гэһэн, бэшэ, һайхан, эндэ, эгээл, хадаа, үшөө, ганса</em>
+* `EMPTY` (758): <em>ехэ, мүнөө, гэһэн, бэшэ, һайхан, эндэ, эгээл, хадаа, үшөө, ганса</em>
 
 ## Relations with Agreement in `PronType`
 

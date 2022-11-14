@@ -13,15 +13,18 @@ The 10 most frequent `AUX` lemmas: <em>txa, amu</em>
 
 The 10 most frequent `AUX` types:  <em>itxa, Amu</em>
 
-The 10 most frequent ambiguous lemmas: 
+The 10 most frequent ambiguous lemmas: <em>txa</em> (<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> 4, <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  
+The 10 most frequent ambiguous types:  <em>itxa</em> (<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> 4, <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 1)
 
 
+* <em>itxa</em>
+  * <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> 4: <em>Kataparaxinery inhinhĩã aiatape <b>itxa</b> .</em>
+  * <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 1: <em>– na <b>itxa</b> pytukara pithe ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.000000 (the average of all parts of speech is 1.195021).
+The form / lemma ratio of `AUX` is 1.000000 (the average of all parts of speech is 1.201493).
 
 The 1st highest number of forms (1) was observed with the lemma “amu”: <em>Amu</em>.
 

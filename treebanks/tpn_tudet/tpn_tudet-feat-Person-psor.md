@@ -11,27 +11,19 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt>, <tt><a href="tpn_tudet-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="tpn_tudet-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="tpn_tudet-feat-Person-subj.html">Person[subj]</a></tt>.
 
-89 tokens (2%) have a non-empty value of `Person[psor]`.
-81 types (5%) occur at least once with a non-empty value of `Person[psor]`.
-70 lemmas (6%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (85; 2% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+124 tokens (3%) have a non-empty value of `Person[psor]`.
+101 types (5%) occur at least once with a non-empty value of `Person[psor]`.
+80 lemmas (8%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (120; 3% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-85 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (6% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+120 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (8% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (85; 100%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (58; 68%), <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (48; 56%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (119; 99%), <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (74; 62%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (70; 58%), <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (67; 56%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
-
-<table>
-  <tr><th>Paradigm <i>ʔaŋ</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
-  <tr><td><tt><tt><a href="tpn_tudet-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tpn_tudet-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>ʃeʔaŋa</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tpn_tudet-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tpn_tudet-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>peʔaŋa</em></td></tr>
-</table>
-
-`Person[psor]` seems to be **lexical feature** of `NOUN`. 94% lemmas (63) occur only with one value of `Person[psor]`.
 
 ### `VERB`
 
@@ -50,9 +42,4 @@ The most frequent other feature values with which `ADP` and `Person[psor]` co-oc
 
 `ADP` tokens may have the following values of `Person[psor]`:
 
-
-## Relations with Agreement in `Person[psor]`
-
-The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>NOUN --[<tt><a href="tpn_tudet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 67%).
 

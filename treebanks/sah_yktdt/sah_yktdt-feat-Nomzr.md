@@ -16,9 +16,9 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sah_yktdt-pos-NOUN.
 
 ### `NOUN`
 
-1 <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Nomzr`.
+1 <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Nomzr`.
 
-The most frequent other feature values with which `NOUN` and `Nomzr` co-occurred: <tt><a href="sah_yktdt-feat-Case.html">Case</a></tt><tt>=Dat</tt> (1; 100%), <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sah_yktdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sah_yktdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Nomzr` co-occurred: <tt><a href="sah_yktdt-feat-Case.html">Case</a></tt><tt>=Dat</tt> (1; 100%), <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="sah_yktdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sah_yktdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Nomzr`:
 

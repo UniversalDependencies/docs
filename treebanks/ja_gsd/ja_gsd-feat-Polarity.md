@@ -44,5 +44,5 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ja_gsd-pos-AUX.html
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>AUX --[<tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt>]--> AUX</tt> (17; 53%).
+<tt>AUX --[<tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt>]--> AUX</tt> (18; 51%).
 

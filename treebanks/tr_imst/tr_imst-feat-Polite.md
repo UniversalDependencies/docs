@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 
 * `Form` (35; 3% of non-empty `Polite`): <em>kapsamaktadır, andırmaktadır, anlatmakta, atmakta, barışmakta, canlanmakta, dayanmaktadır, desteklemektedir, edinmekte, etmekte</em>
 * `Infm` (1326; 97% of non-empty `Polite`): <em>diyor, oluyor, bilmiyorum, geliyor, biliyorum, biliyor, istiyorum, gidiyoruz, yapıyor, ediyor</em>
-* `EMPTY` (9634): <em>dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, olur, etti, değil</em>
+* `EMPTY` (9581): <em>dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, gelen, olur, etti</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>

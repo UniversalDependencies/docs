@@ -25,8 +25,8 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5 2 aux	color:blue
 1	what	what	PRON	_	PronType=Int,Rel	5	obj	_	_
 2	does	do	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-3	d	d	PROPN	_	Number=Sing	5	nsubj	_	_
-4	s	s	PROPN	_	Number=Sing	3	flat	_	_
+3	d	D	PROPN	_	Number=Sing	5	nsubj	_	_
+4	s	S	PROPN	_	Number=Sing	3	flat	_	_
 5	stand	stand	VERB	_	VerbForm=Inf	0	root	_	_
 6	for	for	ADP	_	_	5	compound:prt	_	_
 7	for	for	ADP	_	_	8	case	_	_
@@ -41,15 +41,15 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 aux	color:blue
-1	i	i	PRON	_	PronType=Prs	3	nsubj	_	_
+1	i	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	would	will	AUX	_	_	3	aux	_	_
 3	like	like	ADP	_	_	0	root	_	_
 4	to	to	PART	_	_	5	mark	_	_
 5	fly	fly	VERB	_	VerbForm=Inf	3	xcomp	_	_
 6	from	from	ADP	_	_	7	case	_	_
-7	boston	boston	PROPN	_	Number=Sing	5	obl	_	_
+7	boston	Boston	PROPN	_	Number=Sing	5	obl	_	_
 8	to	to	PART	_	_	9	mark	_	_
-9	denver	denver	PROPN	_	Number=Sing	5	obl	_	_
+9	denver	Denver	PROPN	_	Number=Sing	5	obl	_	_
 10	early	early	ADJ	_	Degree=Pos	13	amod	_	_
 11	in	in	ADP	_	_	13	case	_	_
 12	the	the	DET	_	PronType=Art	13	det	_	_

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `advcl:eval`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-advcl.html">advcl</a></tt>.
-There are also 2 other language-specific subtypes of `advcl`: <tt><a href="kpv_lattice-dep-advcl-lto.html">advcl:lto</a></tt>, <tt><a href="kpv_lattice-dep-advcl-tcl.html">advcl:tcl</a></tt>.
+There are also 2 other language-specific subtypes of `advcl`: <tt><a href="kpv_lattice-dep-advcl-lcl.html">advcl:lcl</a></tt>, <tt><a href="kpv_lattice-dep-advcl-tcl.html">advcl:tcl</a></tt>.
 
 2 nodes (0%) are attached to their parents as `advcl:eval`.
 
@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `advcl:eval`: <tt><a
 12	сӧвтӧмаӧсь	сӧвтны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	GTtags=IV,Ind,Prt2,Pl3
 13	да	да	CCONJ	CC	_	14	cc	_	_
 14	нуӧмаӧсь	нуны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past	12	conj	_	GTtags=TV,Ind,Prt2,Pl3
-15	сэсь	сэсь	ADV	Adv	_	12	advmod:lfrom	_	_
+15	сэсь	сэсь	ADV	Adv	_	12	advmod:lmod	_	_
 16	турунсӧ	турун	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obj	_	GTtags=Sg,Acc,PxSg3|SpaceAfter=No
 17	.	.	PUNCT	CLB	_	2	punct	_	_
 

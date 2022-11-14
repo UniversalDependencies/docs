@@ -22,16 +22,16 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 case	color:blue
-1	5,000	_	NUM	CD	_	2	nummod	_	_
-2	ดอลลาร์	_	NOUN	NNB	_	0	root	_	SpaceAfter=No
-3	ต่อ	_	ADP	IN	_	4	case	_	SpaceAfter=No
-4	คน	_	NOUN	NN	_	2	nmod	_	_
-5	สูง	_	ADJ	JJ	_	2	conj	_	SpaceAfter=No
-6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No
-8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
-9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No
-10	อนุญาต	_	VERB	VV	_	5	xcomp	_	_
+1	5,000	_	NUM	CD	_	2	nummod	_	Translit=5,000
+2	ดอลลาร์	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=dɔːllár
+3	ต่อ	_	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=t¹'
+4	คน	_	NOUN	NN	_	2	nmod	_	Translit=gʰn
+5	สูง	_	ADJ	JJ	_	2	conj	_	SpaceAfter=No|Translit=súŋ
+6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=sud
+7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=tám
+8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=dʰí¹
+9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No|Translit=dai²râb
+10	อนุญาต	_	VERB	VV	_	5	xcomp	_	Translit='nuŷát
 
 ~~~
 
@@ -42,14 +42,14 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 case	color:blue
-1	เขา	_	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No
-2	ทำ	_	VERB	VV	_	0	root	_	SpaceAfter=No
-3	งาน	_	NOUN	NN	_	2	obj	_	SpaceAfter=No
-4	กับ	_	ADP	IN	_	5	case	_	SpaceAfter=No
-5	บีบีซี	_	PROPN	NNP	_	2	obl	_	SpaceAfter=No
-6	มา	_	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No
-7	หนึ่ง	_	NUM	CD	_	8	nummod	_	SpaceAfter=No
-8	ทศวรรษ	_	NOUN	NNB	_	2	obl:tmod	_	_
+1	เขา	_	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=kʰao
+2	ทำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dʰã
+3	งาน	_	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=ŋán
+4	กับ	_	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=kâb
+5	บีบีซี	_	PROPN	NNP	_	2	obl	_	SpaceAfter=No|Translit=bíbící
+6	มา	_	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No|Translit=má
+7	หนึ่ง	_	NUM	CD	_	8	nummod	_	SpaceAfter=No|Translit=hnü¹ŋ
+8	ทศวรรษ	_	NOUN	NNB	_	2	obl:tmod	_	Translit=dʰśwrrš
 
 ~~~
 
@@ -60,16 +60,16 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 case	color:blue
-1	5,000	_	NUM	CD	_	2	nummod	_	_
-2	ดอลลาร์	_	NOUN	NNB	_	0	root	_	SpaceAfter=No
-3	ต่อ	_	ADP	IN	_	4	case	_	SpaceAfter=No
-4	คน	_	NOUN	NN	_	2	nmod	_	_
-5	สูง	_	ADJ	JJ	_	2	conj	_	SpaceAfter=No
-6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No
-8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
-9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No
-10	อนุญาต	_	VERB	VV	_	5	xcomp	_	_
+1	5,000	_	NUM	CD	_	2	nummod	_	Translit=5,000
+2	ดอลลาร์	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=dɔːllár
+3	ต่อ	_	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=t¹'
+4	คน	_	NOUN	NN	_	2	nmod	_	Translit=gʰn
+5	สูง	_	ADJ	JJ	_	2	conj	_	SpaceAfter=No|Translit=súŋ
+6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=sud
+7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=tám
+8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=dʰí¹
+9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No|Translit=dai²râb
+10	อนุญาต	_	VERB	VV	_	5	xcomp	_	Translit='nuŷát
 
 ~~~
 

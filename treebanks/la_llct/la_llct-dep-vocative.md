@@ -23,9 +23,9 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 20	fgColor:white
 # visual-style 20 22 vocative	color:blue
 1	manifestus	manifestus	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-2	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
-3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
-4	Gundiperto	Gundipertus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	3	appos	_	_
+2	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	det	_	_
+4	Gundiperto	Gundipertus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	1	nsubj	_	_
 5	homo	homo	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
 6	Traspadanus	transpadanus	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	Punc	_	8	punct	_	_
@@ -33,9 +33,9 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 9	casarius	casarius	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	Punc	_	12	punct	_	_
 11	quia	quia	SCONJ	c|c|-|-|-|-|-|-|-|-	_	12	mark	_	_
-12	edificavi	aedifico	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
-13	unam	unus	NUM	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|NumType=Card	14	nummod	_	_
-14	casellam	casella	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+12	edificavi	aedifico	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+13	unam	unus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	14	det	_	_
+14	casellam	casella	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Degree=Dim|Gender=Fem|Number=Sing	12	obj	_	_
 15	parvulam	paruulus	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	14	amod	_	_
 16	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	17	case	_	_
 17	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	12	obl	_	_
@@ -53,10 +53,10 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 29	hanc	hic	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	30	det	_	_
 30	civitatem	ciuitas	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
 31	,	,	PUNCT	Punc	_	35	punct	_	_
-32	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	35	mark	_	_
+32	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	35	mark	_	_
 33	ibi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	34	advmod	_	_
-34	avitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	35	xcomp	_	_
-35	deberem	debeo	VERB	v|v|1|s|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Act	12	advcl	_	SpaceAfter=No
+34	avitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	35	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+35	deberem	debeo	VERB	v|v|1|s|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl:relcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 36	;	;	PUNCT	Punc	_	1	punct	_	_
 
 ~~~

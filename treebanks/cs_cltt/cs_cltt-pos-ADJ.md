@@ -19,14 +19,14 @@ The 10 most frequent ambiguous types:  <em>účetní</em> (<tt><a href="cs_cltt-
 
 
 * <em>účetní</em>
-  * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 873: <em>Stanovená doba nesmí přesáhnout <b>účetní</b> období .</em>
+  * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 873: <em>Obsahové vymezení přílohy v konsolidované <b>účetní</b> závěrce</em>
   * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 21: <em>Zobrazení je poctivé , když jsou při něm použity <b>účetní</b> metody způsobem , který vede k dosažení věrnosti .</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 18: <em>(1) Účetní jednotky jsou povinny zachycovat skutečnosti , které jsou předmětem účetnictví , ( dále jen „ <b>účetní</b> případy “ ) účetními doklady .</em>
 * <em>účetního</em>
-  * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 116: <em>Průkaznost <b>účetního</b> záznamu</em>
+  * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 116: <em>(3) Zůstatky rezerv se převádějí do následujícího <b>účetního</b> období .</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1: <em>Položka „ ***Výsledek hospodaření za účetní období “ uvedená ve výkazu zisku a ztráty se musí rovnat položce „ A. V. Výsledek hospodaření běžného <b>účetního</b> období “ uvedené v rozvaze ( bilanci ) .</em>
 * <em>konsolidující</em>
-  * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 47: <em>Informace o této skutečnosti <b>konsolidující</b> účetní jednotka uvede v příloze v konsolidované účetní závěrce .</em>
+  * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 47: <em>(2) Konsolidovaná účetní závěrka se sestavuje ke konci rozvahového dne <b>konsolidující</b> účetní jednotky .</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 2: <em>(2) Povinnost sestavit konsolidovanou účetní závěrku má , za podmínek stanovených tímto zákonem a prováděcími právními předpisy , účetní jednotka , která je obchodní společností a je ovládající osobou , s výjimkou ovládajících osob , které vykonávají společný vliv podle odstavce 4 ( dále jen „ <b>konsolidující</b> účetní jednotka “ ) .</em>
 * <em>finanční</em>
   * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 55: <em>Dlouhodobý <b>finanční</b> majetek</em>

@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	maizu	maizu	NOUN	n	_	3	flat	_	_
 5	umumeʔu	mumeʔu	VERB	vt	Person[subj]=3	0	root	_	_
 6	parupi	paw	PRON	pro	Case=Loc|PronType=Tot|Rel=Cont	8	obl	_	_
-7	maʔe	maʔe	NOUN	n	_	8	nmod	_	_
+7	maʔe	maʔe	PRON	pro	_	8	nmod	_	_
 8	uzeapomaʔe	apo	NOUN	n	Nomzr=Abs|Reflex=Yes|Rel=Corf	5	obj	_	_
 9	izupe	zupe	ADP	posp	Rel=NCont	8	iobj	_	_
 10	.	.	PUNCT	punct	_	5	punct	_	_
@@ -43,18 +43,18 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
 1	Tɨwɨr	ɨwɨr	NOUN	n	Rel=Abs	4	obl:subj	_	_
-2	Mairaʔi	Maira	PROPN	ppn	Dimin=Yes	1	flat	_	_
+2	Mairaʔi	Mair	PROPN	pn	Dimin=Yes	1	flat	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	nukwawkwaw	kwaw	VERB	vt	Person[subj]=3|Polarity=Neg	0	root	_	_
-5	maʔe	maʔe	NOUN	n	_	6	nmod	_	_
+5	maʔe	maʔe	PRON	pro	_	6	nmod	_	_
 6	izapomaʔe	zapo	NOUN	n	Nomzr=Abs|Rel=NCont	4	obj	_	_
-7	aʔe	aʔe	PRON	pro	Person=3|PronType=Dem	4	discourse	_	_
+7	aʔe	aʔe	PRON	pro	PronType=Dem	4	discourse	_	_
 8	,	,	PUNCT	punct	_	4	punct	_	_
 9	naʔe	naʔe	CCONJ	cc	_	4	cc	_	_
 10	uzewɨrɨ	zewɨr	VERB	vi	Person[subj]=3	4	conj	_	_
 11	oho	ho	AUX	aux	Person[subj]=3	10	aux	_	_
 12	wekohawpe	eko	NOUN	n	Case=Loc|Nomzr=Circ|Rel=Corf	10	obl	_	_
-13	wà	wà	PART	pcl	Number=Plur	10	discourse	_	_
+13	wa	wa	PART	pcl	Number=Plur	10	discourse	_	_
 14	kurɨ	kurɨ	PART	pcl	_	10	discourse	_	_
 15	.	.	PUNCT	punct	_	10	punct	_	_
 

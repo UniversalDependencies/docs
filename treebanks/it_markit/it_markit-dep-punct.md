@@ -8,24 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3850 nodes (9%) are attached to their parents as `punct`.
+3844 nodes (9%) are attached to their parents as `punct`.
 
-2924 instances of `punct` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.8184415584416.
+2919 instances of `punct` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.5059833506764.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (1698; 44% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (1425; 37% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (228; 6% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (195; 5% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (150; 4% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (86; 2% instances), <tt><a href="it_markit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (19; 0% instances), <tt><a href="it_markit-pos-AUX.html">AUX</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="it_markit-pos-DET.html">DET</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="it_markit-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="it_markit-pos-X.html">X</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 punct	color:blue
-1	Duecentoventi	Duecentovente	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
-2	:	:	PUNCT	FC	_	1	punct	_	_
-
-~~~
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (1600; 42% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (1538; 40% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (239; 6% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (192; 5% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (138; 4% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (72; 2% instances), <tt><a href="it_markit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances), <tt><a href="it_markit-pos-AUX.html">AUX</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="it_markit-pos-DET.html">DET</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="it_markit-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="it_markit-pos-X.html">X</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,7 +23,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 12 punct	color:blue
 1	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	miliardi	miliardo	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	miliardi	miliardo	NOUN	S	Gender=Masc|Number=Plur	5	nsubj:outer	_	_
 3	che	che	PRON	PR	_	5	nsubj	_	_
 4	si	si	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 5	spenderanno	spendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -46,6 +34,18 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	2003	2003	NUM	N	_	5	obl	_	_
 12	.	.	PUNCT	FS	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 punct	color:blue
+1	Duecentoventi	Duecentovente	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
 
 ~~~
 

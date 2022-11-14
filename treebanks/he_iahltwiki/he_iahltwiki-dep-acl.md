@@ -49,7 +49,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 5 acl	color:blue
 1	שורה	שורה	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
-2	של	של	ADP	ADP	_	3	case	_	_
+2	של	של	ADP	ADP	Case=Gen	3	case	_	_
 3	מחלות	מחלה	NOUN	NOUN	Gender=Fem|Number=Plur	1	nmod:poss	_	_
 4	גנטיות	גנטי	ADJ	ADJ	Gender=Fem|Number=Plur	3	amod	_	_
 5	בעלות	בעל	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	3	acl	_	_

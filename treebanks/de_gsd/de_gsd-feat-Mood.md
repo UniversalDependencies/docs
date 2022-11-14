@@ -134,7 +134,7 @@ The most frequent other feature values with which `X` and `Mood` co-occurred: <t
 
 `ADV` tokens may have the following values of `Mood`:
 
-* `Ind` (8; 100% of non-empty `Mood`): <em>kennen, aussen, bevorzugt, herausstellte, scheint, ﻿Auch</em>
+* `Ind` (8; 100% of non-empty `Mood`): <em>kennen, Auch, aussen, bevorzugt, herausstellte, scheint</em>
 * `EMPTY` (14836): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ### `ADP`
@@ -164,7 +164,7 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 
 `CCONJ` tokens may have the following values of `Mood`:
 
-* `Ind` (3; 100% of non-empty `Mood`): <em>bzw, hatte, ﻿Um</em>
+* `Ind` (3; 100% of non-empty `Mood`): <em>Um, bzw, hatte</em>
 * `EMPTY` (8840): <em>und, oder, sowie, aber, sondern, als, wie, sowohl, doch, and</em>
 
 ### `DET`

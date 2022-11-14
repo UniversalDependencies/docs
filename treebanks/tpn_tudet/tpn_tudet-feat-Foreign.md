@@ -23,5 +23,5 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Capitão</em>
-* `EMPTY` (1328): <em>aβa, janejara, taβa, maʔe, paʔi, Tupã, apɨaβa, cruz, seko, teko</em>
+* `EMPTY` (1435): <em>aβa, janejara, maʔe, taβa, paʔi, Tupã, apɨaβa, cruz, seko, teko</em>
 

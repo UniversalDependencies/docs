@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-31236 tokens (16%) have a non-empty value of `Degree`.
+31237 tokens (16%) have a non-empty value of `Degree`.
 11316 types (32%) occur at least once with a non-empty value of `Degree`.
 4920 lemmas (27%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22931; 11% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (7943; 4% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (362; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22932; 11% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (7943; 4% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (362; 0% instances).
 
 ### `ADJ`
 
-22931 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Degree`.
+22932 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20684; 90%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15101; 66%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (588; 3% of non-empty `Degree`): <em>veći, veće, manji, veća, veću, većeg, bolje, bolji, niže, većim</em>
-* `Pos` (21823; 95% of non-empty `Degree`): <em>novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</em>
+* `Pos` (21824; 95% of non-empty `Degree`): <em>novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</em>
 * `Sup` (520; 2% of non-empty `Degree`): <em>najveći, najbolji, najveća, najveće, najvećih, najbolje, najboljeg, najvažnije, najvećim, najvećem</em>
 * `EMPTY` (1206): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="hr_set-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1139; 83%),
+<tt>ADJ --[<tt><a href="hr_set-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1138; 83%),
 <tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (803; 97%),
 <tt>ADV --[<tt><a href="hr_set-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (296; 75%),
 <tt>ADV --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADV</tt> (83; 86%),

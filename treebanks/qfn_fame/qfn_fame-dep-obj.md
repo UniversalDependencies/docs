@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-138 nodes (4%) are attached to their parents as `obj`.
+139 nodes (4%) are attached to their parents as `obj`.
 
-79 instances of `obj` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.61594202898551.
+80 instances of `obj` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.60431654676259.
 
-The following 12 pairs of parts of speech are connected with `obj`: <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (73; 53% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (43; 31% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt>-<tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `obj`: <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (73; 53% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (43; 31% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt>-<tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,8 +24,8 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 9 6 obj	color:blue
 1	ek	_	ADV	_	_	6	amod	_	Lang=fy
 2	op	_	ADP	_	_	6	case	_	Lang=fy
-3	'e	_	DET	_	_	2	goeswith	_	Lang=fy
-4	nij	_	ADJ	_	_	2	goeswith	_	Lang=fy
+3	'e	_	X	_	_	2	goeswith	_	Lang=fy
+4	nij	_	X	_	_	2	goeswith	_	Lang=fy
 5	de	_	DET	_	_	6	det	_	Lang=fy
 6	saak	_	NOUN	_	_	9	obj	_	Lang=fy
 7	wer	_	ADV	_	_	9	advmod	_	Lang=fy

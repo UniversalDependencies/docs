@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-Taiga: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="ru_taiga-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
 590 nodes (0%) are attached to their parents as `nsubj:pass`.
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Carolina Aragon, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaqz_tudet210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaqz_tudet211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,11 +44,11 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD_Akuntsu-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/akun1241"> Akuntsú</a>. The sentences stem from the grammatical description by Aragon (2014) and Aragon's field work. Sentence annotation and documentation by Carolina Aragon and Fabrício Ferraz Gerardi.
+UD_Akuntsu-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/akun1241"> Akuntsú</a>. The sentences stem from the grammatical description by Aragon (2014) and Aragon's field work. Sentence annotation and documentation by Carolina Aragon, Fabrício Ferraz Gerardi, Luana dos Santos.
 
 
 
-UD_Akuntsu-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/akun1241"> Akuntsú</a>. The sentences stem from the grammatical description by Aragon (2014) and Aragon's field work. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources. The project is work-in-progress and the treebank is being updated on a regular basis. Sentence annotation and documentation by Carolina Aragon and Fabrício Ferraz Gerardi.
+UD_Akuntsu-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/akun1241"> Akuntsú</a>. The sentences stem from the grammatical description by Aragon (2014) and Aragon's field work. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources. The project is work-in-progress and the treebank is being updated on a regular basis. Sentence annotation and documentation by Carolina Aragon, Fabrício Ferraz Gerardi, Luana dos Santos.
 
 ## Text sources
 
@@ -84,7 +84,7 @@ The development of this treebank is supported by the European Research Council (
 
 
 <ul>
-<li>This corpus contains 243 sentences, 1056 tokens and 1074 syntactic words.</li>
+<li>This corpus contains 309 sentences, 1305 tokens and 1324 syntactic words.</li>
 </ul>
 
 <ul>
@@ -100,7 +100,7 @@ The development of this treebank is supported by the European Research Council (
 </ul>
 
 <ul>
-<li>This corpus contains 18 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 19 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 15 types of multi-word tokens. Examples: ino, kɨrom, menerom, apiteperom, ataperom, ekerom, etom, iteterom, itʃoberom, jãjerom, kitʃetom, korom, mepiterom, taɨperom, tʃetom.</li>
 </ul>
 
@@ -114,7 +114,7 @@ The development of this treebank is supported by the European Research Council (
 </ul>
 
 <ul>
-<li>This corpus contains 9 word types tagged as particles (PART): a, ana, kom, mã, ne, pe, te, tea, ãka</li>
+<li>This corpus contains 10 word types tagged as particles (PART): a, ana, ekwa, kom, mã, ne, pe, te, tea, ãka</li>
 </ul>
 
 <ul>
@@ -122,7 +122,7 @@ The development of this treebank is supported by the European Research Council (
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as determiners (DET): eme, jẽ, jẽrom, ke, ta, ẽ, ẽrom</li>
+<li>This corpus contains 8 lemmas tagged as determiners (DET): eme, jõ, jẽ, jẽrom, ke, ta, ẽ, ẽrom</li>
 </ul>
 
 <ul>
@@ -162,7 +162,7 @@ The development of this treebank is supported by the European Research Council (
   <li>Sing
     <ul>
       <li>PRON: en, on, erẽ, erẽbõ, orẽ, te, ebõ, enõ</li>
-      <li>VERB: imaã, oirika</li>
+      <li>VERB: imaã, oewɨbɨka, oirika, ojã</li>
     </ul>
   </li>
 </ul>
@@ -184,7 +184,7 @@ The development of this treebank is supported by the European Research Council (
   <li>All
     <ul>
       <li>DET: jẽbõ, kebõ</li>
-      <li>NOUN: kɨrẽbõ, ekõ, kirẽbõ, kojõpebõ, pabapebõ, pibõ, tabɨtõ, tekõ</li>
+      <li>NOUN: kɨrẽbõ, tabɨtõ, ekõ, kirẽbõ, kojõpebõ, pabapebõ, pibõ, ɨkɨbõ, tekõ</li>
       <li>PRON: erẽbõ, enõ, tebõ</li>
       <li>PROPN: Kanibõ</li>
     </ul>
@@ -247,7 +247,7 @@ The development of this treebank is supported by the European Research Council (
 <ul>
   <li>Hab
     <ul>
-      <li>VERB: kitʃetara, koara, oetara</li>
+      <li>VERB: koara, oetara, mira, etʃetara, kitʃetara, teipara</li>
     </ul>
   </li>
 </ul>
@@ -323,7 +323,7 @@ The development of this treebank is supported by the European Research Council (
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: en, on, kitʃe, erẽbõ, orẽbõ, te, enõ</li>
+      <li>PRON: en, on, erẽbõ, kitʃe, orẽbõ, te, enõ</li>
     </ul>
   </li>
 </ul>
@@ -349,9 +349,9 @@ The development of this treebank is supported by the European Research Council (
   <li>Yes
     <ul>
       <li>AUX: tejã</li>
-      <li>NOUN: teten, teatap, teimaj, teimi, teip, tekɨjt, temen, teti, tetʃet</li>
+      <li>NOUN: jen, pe, po, teten, epo, opo, teatap, teimaj, teimi, teip</li>
       <li>PRON: tebõ</li>
-      <li>VERB: teita, teimaj, tekwata, teakata, teeta, teipa, tejã, tekwepa, tetʃeta, tewɨbɨka</li>
+      <li>VERB: teita, teeta, teimaj, tekwata, teakata, teaota, teera, teipa, teipara, tejã</li>
     </ul>
   </li>
 </ul>
@@ -363,10 +363,10 @@ The development of this treebank is supported by the European Research Council (
 <ul>
   <li>1
     <ul>
-      <li>AUX: ojã, otoa</li>
-      <li>NOUN: omepit, oatap, oko, okɨp, okɨpi, otak, itet, oike, ojẽ, okere</li>
-      <li>PRON: on, kitʃe, orẽ, orẽbõ</li>
-      <li>VERB: oerekwa, opera, opip, itet, kipera, kitʃet, kitʃetara, oatʃoa, obaja, oetara</li>
+      <li>AUX: otoa, ojã</li>
+      <li>NOUN: omepit, oike, oatap, oko, okɨp, okɨpi, otak, otʃipap, opo, itet</li>
+      <li>PRON: on, kitʃe, orẽbõ, orẽ</li>
+      <li>VERB: oerekwa, oetara, opera, opip, itet, kipera, kitʃet, kitʃetara, oaawkwa, oatʃinokwa</li>
     </ul>
   </li>
 </ul>
@@ -375,9 +375,9 @@ The development of this treebank is supported by the European Research Council (
   <li>2
     <ul>
       <li>AUX: ejã, etoa</li>
-      <li>NOUN: eape, eboro, ekem, ekoro, epi, epo, eti, eanampe, eiat, emenna</li>
-      <li>PRON: en, erẽ, erẽbõ, ebõ, enõ, on</li>
-      <li>VERB: eeta, epekã, koara, eata, eerekkwa, eimi, eipa, eõa</li>
+      <li>NOUN: epo, eape, eboro, ekem, ekoro, epi, eti, eanampe, eiat, emenna</li>
+      <li>PRON: en, erẽ, erẽbõ, on, ebõ, enõ</li>
+      <li>VERB: koara, eeta, eneme, epekã, eata, eerekkwa, eimi, eipa, etʃetara, eõa</li>
     </ul>
   </li>
 </ul>
@@ -385,10 +385,10 @@ The development of this treebank is supported by the European Research Council (
 <ul>
   <li>3
     <ul>
-      <li>AUX: iko, tejã</li>
-      <li>NOUN: ikɨp, iiw, imen, imepit, iten, itoap, itʃobe, itʃoke, tajtʃi, tokwajet</li>
+      <li>AUX: iko, tejãkwa, tejã</li>
+      <li>NOUN: ikɨp, iiw, imen, imepit, iten, itoap, itʃobe, itʃoke, tajtʃi, teetɨ</li>
       <li>PRON: i, te, tebõ</li>
-      <li>VERB: teita, ikora, taot, ikoa, iat, ijã, ikɨta, ima, ipoka, ita</li>
+      <li>VERB: teita, ikora, ikoa, taot, iat, iata, iekɨj, ijã, ikɨta, ima</li>
     </ul>
   </li>
 </ul>
@@ -434,7 +434,7 @@ The development of this treebank is supported by the European Research Council (
       </li>
       <li>Prox
         <ul>
-          <li>DET: jẽ, eme, kebõ, ẽ, jẽbõ</li>
+          <li>DET: jẽ, eme, ẽ, kebõ, jẽbõ</li>
         </ul>
       </li>
     </ul>
@@ -475,7 +475,7 @@ The development of this treebank is supported by the European Research Council (
       </li>
       <li>Obj
         <ul>
-          <li>NOUN: iõ, imi, imokwa, itʃopa, eiat, oiat, oiko, teimaj, teimi</li>
+          <li>NOUN: imi, iõ, imokwa, itʃopa, oiko, eiat, oiat, teimaj, teimi</li>
           <li>VERB: iko, eimi, oiko</li>
         </ul>
       </li>
@@ -549,7 +549,7 @@ The development of this treebank is supported by the European Research Council (
       <li>Cont
         <ul>
           <li>NOUN: tek, tep, tet, tanam, takɨma, tokwaj, otek, tekõ, tepna, tetna</li>
-          <li>VERB: itet</li>
+          <li>VERB: itet, itetkwa</li>
         </ul>
       </li>
     </ul>
@@ -561,8 +561,8 @@ The development of this treebank is supported by the European Research Council (
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: pɨtka, ipitka</li>
-          <li>VERB: pɨtka, oerekwa, apeka, erekkwa, kiramka, tokwa, tʃajaka, eerekkwa, ibarãka, ikiramka</li>
+          <li>NOUN: pɨtka, ipitka, iɨka</li>
+          <li>VERB: pɨtka, oerekwa, amkwa, apeka, atabaka, buhka, erekka, erekkwa, jãjka, kerẽka</li>
         </ul>
       </li>
     </ul>
@@ -574,7 +574,7 @@ The development of this treebank is supported by the European Research Council (
     <ul>
       <li>Yes
         <ul>
-          <li>VERB: koa, ata, tʃopa, mia, nia, õa, ikoa, eeta, ipa, koara</li>
+          <li>VERB: ata, koa, tʃopa, mia, nia, ikoa, koara, õa, oetara, atʃoa</li>
         </ul>
       </li>
     </ul>
@@ -590,7 +590,7 @@ The development of this treebank is supported by the European Research Council (
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: jã, ka, toa, ko, piro.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: jã, ka, tʃe, ko, toa, piro.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -599,9 +599,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (37)</li>
-      <li>VERB--PRON (36)</li>
-      <li>VERB--PRON-All (2)</li>
+      <li>VERB--NOUN (46)</li>
+      <li>VERB--PRON (49)</li>
+      <li>VERB--PRON-All (3)</li>
+      <li>VERB--PRON-Dat (1)</li>
     </ul>
   </li>
 </ul>
@@ -609,8 +610,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (78)</li>
+      <li>VERB--NOUN (108)</li>
       <li>VERB--NOUN-ADP(pabape) (1)</li>
+      <li>VERB--NOUN-All (1)</li>
       <li>VERB--PRON (1)</li>
     </ul>
   </li>
@@ -628,7 +630,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: at tekɨjt</li>
+  <li>This corpus contains 5 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: at tekɨjt, ka epo, poro jen, tʃoga opo, õkwa po</li>
 </ul>
 
 <h3>Relations Overview</h3>

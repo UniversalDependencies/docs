@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-730 tokens (0%) have a non-empty value of `Tense`.
+770 tokens (0%) have a non-empty value of `Tense`.
 13 types (0%) occur at least once with a non-empty value of `Tense`.
 13 lemmas (0%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (730; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (770; 0% instances).
 
 ### `ADV`
 
-730 <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Tense`.
+770 <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADV` and `Tense` co-occurred: <tt><a href="lzh_kyoto-feat-AdvType.html">AdvType</a></tt><tt>=Tim</tt> (730; 100%), <tt><a href="lzh_kyoto-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (730; 100%), <tt><a href="lzh_kyoto-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (730; 100%), <tt><a href="lzh_kyoto-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (730; 100%).
+The most frequent other feature values with which `ADV` and `Tense` co-occurred: <tt><a href="lzh_kyoto-feat-AdvType.html">AdvType</a></tt><tt>=Tim</tt> (770; 100%), <tt><a href="lzh_kyoto-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (770; 100%), <tt><a href="lzh_kyoto-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (770; 100%), <tt><a href="lzh_kyoto-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (770; 100%).
 
 `ADV` tokens may have the following values of `Tense`:
 
-* `Fut` (351; 48% of non-empty `Tense`): 將、 且、 預、 倡、 更、 鄉
-* `Past` (311; 43% of non-empty `Tense`): 嘗、 曾、 向、 曩、 鄉
-* `Pres` (68; 9% of non-empty `Tense`): 方、 甫、 屬
-* `EMPTY` (26877): 不、 以、 則、 皆、 必、 故、 亦、 非、 乃、 未
+* `Fut` (370; 48% of non-empty `Tense`): 將、 且、 預、 倡、 更、 鄉
+* `Past` (324; 42% of non-empty `Tense`): 嘗、 曾、 向、 曩、 鄉
+* `Pres` (76; 10% of non-empty `Tense`): 方、 甫、 屬
+* `EMPTY` (28598): 不、 以、 則、 皆、 必、 故、 亦、 未、 非、 乃
 
 <table>
   <tr><th>Paradigm <i>郷</i></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

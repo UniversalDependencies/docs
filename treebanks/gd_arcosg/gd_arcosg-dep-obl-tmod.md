@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="gd_arcosg-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="gd_arcosg-dep-obl-smod.html">obl:smod</a></tt>.
 
-138 nodes (0%) are attached to their parents as `obl:tmod`.
+164 nodes (0%) are attached to their parents as `obl:tmod`.
 
-111 instances of `obl:tmod` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.15942028985507.
+113 instances of `obl:tmod` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.48780487804878.
 
-The following 11 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (80; 58% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (47; 34% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (80; 49% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (47; 29% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (27; 16% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -57,31 +57,22 @@ The following 11 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 20 obl:tmod	color:blue
-1	daoine	duine	NOUN	Ncpmn	Case=Nom|Gender=Masc|Number=Plur	8	dislocated	_	_
-2	a	a	PART	Q-r	PartType=Vb|PronType=Rel	3	mark:prt	_	_
-3	tha	bi	VERB	V-p	Tense=Pres	1	acl:relcl	_	_
-4	ann	an	ADP	Sp	_	6	case	_	_
-5	an	an	ADP	Sp	_	4	fixed	_	_
-6	holiday	holiday	NOUN	Xfe	Foreign=Yes	3	xcomp:pred	_	_
-7	houses	houses	NOUN	Xfe	Foreign=Yes	6	flat:foreign	_	_
-8	dh’fheumadh	feum	VERB	V-h	Mood=Cnd	0	root	_	_
-9	iad	iad	PRON	Pp3p	Number=Plur|Person=3	8	nsubj	_	_
-10	cur	cuir	NOUN	Nv	VerbForm=Vnoun	1	xcomp	_	_
-11	airson	airson	ADP	Nf	_	14	case	_	_
-12	dìreach	dìreach	INTJ	I	_	10	discourse	_	_
-13	nach	nach	PART	Qn	PartType=Cmpl|Polarity=Neg	14	mark:prt	_	_
-14	eil	bi	VERB	V-p--d	Tense=Pres	10	ccomp	_	_
-15	an	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	taigh	taigh	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
-17	ach	ach	ADP	Sp	_	18	case	_	_
-18	occupied	occupied	ADJ	Xfe	Foreign=Yes	14	xcomp:pred	_	_
-19	ceithir	ceithir	NUM	Mc	_	20	nummod	_	_
-20	mìosan	mìos	NOUN	Ncpfn	Case=Nom|Gender=Fem|Number=Plur	18	obl:tmod	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 obl:tmod	color:blue
+1	's	's	CCONJ	Cc	_	4	cc	_	_
+2	cò	cò	PRON	Uq	PronType=Int	4	nmod	_	_
+3	an	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	latha	latha	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	a	a	PART	Q-r	PartType=Vb|PronType=Rel	6	obl:tmod	_	_
+6	chunnaic	faic	VERB	V-s	Tense=Past	4	csubj:cleft	_	_
+7	sibh	sibh	PRON	Pp2p	Number=Plur|Person=2	6	nsubj	_	_
+8	a'	ag	PART	Sa	_	9	case	_	_
+9	falbh	falbh	NOUN	Nv	VerbForm=Vnoun	6	xcomp	_	_
+10	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3	9	nsubj	_	SpaceAfter=No
+11	?	?	PUNCT	Fg	_	4	punct	_	_
 
 ~~~
 

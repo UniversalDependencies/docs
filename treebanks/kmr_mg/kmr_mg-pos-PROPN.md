@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Hêlên</em> (<tt><a href="kmr_mg-pos
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.117021 (the average of all parts of speech is 1.508997).
+The form / lemma ratio of `PROPN` is 1.117021 (the average of all parts of speech is 1.511556).
 
 The 1st highest number of forms (2) was observed with the lemma “Almanya”: <em>Almanya, Almanyayê</em>.
 
@@ -37,8 +37,8 @@ The 3rd highest number of forms (2) was observed with the lemma “Amerîka”: 
 `PROPN` occurs with 9 feature-value pairs: `Case=Acc`, `Case=Con`, `Case=Nom`, `Definite=Def`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 15 feature combinations.
-The most frequent feature combination is `Case=Acc|Gender=Masc|Number=Sing` (115 tokens).
-Examples: <em>Holmes, Rweylot, Stonêr, Wetsin, Mihemed, Mistentiq, Silêman, Özal, Şerlok, Ahmet</em>
+The most frequent feature combination is `Case=Acc|Definite=Def|Gender=Fem|Number=Sing` (115 tokens).
+Examples: <em>Tirkiyeyê, Ewropayê, Hindistanê, Amedê, Stenbolê, Stokmoranê, Germanistanê, Kurdistanê, Swêdê, Îranê</em>
 
 
 ## Relations
@@ -57,7 +57,7 @@ Parents of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="kmr
 
 The highest child degree of a `PROPN` node is 5.
 
-Children of `PROPN` nodes are attached using 15 different relations: <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (67; 22% instances), <tt><a href="kmr_mg-dep-case.html">case</a></tt> (66; 22% instances), <tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt> (46; 15% instances), <tt><a href="kmr_mg-dep-flat.html">flat</a></tt> (39; 13% instances), <tt><a href="kmr_mg-dep-conj.html">conj</a></tt> (25; 8% instances), <tt><a href="kmr_mg-dep-cc.html">cc</a></tt> (16; 5% instances), <tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt> (15; 5% instances), <tt><a href="kmr_mg-dep-cop.html">cop</a></tt> (7; 2% instances), <tt><a href="kmr_mg-dep-amod.html">amod</a></tt> (5; 2% instances), <tt><a href="kmr_mg-dep-appos.html">appos</a></tt> (5; 2% instances), <tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt> (5; 2% instances), <tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="kmr_mg-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="kmr_mg-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="kmr_mg-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 16 different relations: <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (67; 22% instances), <tt><a href="kmr_mg-dep-case.html">case</a></tt> (66; 22% instances), <tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt> (46; 15% instances), <tt><a href="kmr_mg-dep-flat.html">flat</a></tt> (39; 13% instances), <tt><a href="kmr_mg-dep-conj.html">conj</a></tt> (25; 8% instances), <tt><a href="kmr_mg-dep-cc.html">cc</a></tt> (16; 5% instances), <tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt> (14; 5% instances), <tt><a href="kmr_mg-dep-cop.html">cop</a></tt> (7; 2% instances), <tt><a href="kmr_mg-dep-amod.html">amod</a></tt> (5; 2% instances), <tt><a href="kmr_mg-dep-appos.html">appos</a></tt> (5; 2% instances), <tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt> (5; 2% instances), <tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt> (5; 2% instances), <tt><a href="kmr_mg-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="kmr_mg-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="kmr_mg-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="kmr_mg-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 13 different parts of speech: <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (67; 22% instances), <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (67; 22% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (61; 20% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (40; 13% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (26; 9% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (16; 5% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `PROPN` nodes belong to 13 different parts of speech: <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (67; 22% instances), <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (67; 22% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (61; 20% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (40; 13% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (28; 9% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (16; 5% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (8; 3% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

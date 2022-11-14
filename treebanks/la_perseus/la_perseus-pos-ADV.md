@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `ADV`
 
-There are 376 `ADV` lemmas (8%), 401 `ADV` types (4%) and 2203 `ADV` tokens (8%).
-Out of 13 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 6 in number of tokens.
+There are 384 `ADV` lemmas (8%), 409 `ADV` types (4%) and 2213 `ADV` tokens (8%).
+Out of 14 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>non, jam, ne, ita, tamen, quam, nunc, sic, modo, etiam</em>
 
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="la_perseus-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.066489 (the average of all parts of speech is 2.099410).
+The form / lemma ratio of `ADV` is 1.065104 (the average of all parts of speech is 2.099614).
 
 The 1st highest number of forms (5) was observed with the lemma “verus”: <em>uero, uerum, vere, vero, verum</em>.
 
@@ -67,30 +67,30 @@ The 3rd highest number of forms (4) was observed with the lemma “parvus”: <e
 
 `ADV` occurs with 1 features: <tt><a href="la_perseus-feat-Degree.html">Degree</a></tt> (64; 3% instances)
 
-`ADV` occurs with 2 feature-value pairs: `Degree=Cmp`, `Degree=Sup`
+`ADV` occurs with 2 feature-value pairs: `Degree=Abs`, `Degree=Cmp`
 
 `ADV` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (2139 tokens).
+The most frequent feature combination is `_` (2149 tokens).
 Examples: <em>non, iam, ne, tamen, quam, sic, nunc, ita, modo, etiam</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 12 different relations: <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (1985; 90% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (134; 6% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (22; 1% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (20; 1% instances), <tt><a href="la_perseus-dep-nmod.html">nmod</a></tt> (19; 1% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (10; 0% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (6; 0% instances), <tt><a href="la_perseus-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="la_perseus-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 12 different relations: <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (1995; 90% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (134; 6% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (22; 1% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (20; 1% instances), <tt><a href="la_perseus-dep-nmod.html">nmod</a></tt> (19; 1% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (10; 0% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (6; 0% instances), <tt><a href="la_perseus-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="la_perseus-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1681; 76% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (183; 8% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (157; 7% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (106; 5% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (23; 1% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (12; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances),  (3; 0% instances)
+Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1697; 77% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (207; 9% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (163; 7% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (106; 5% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (23; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances),  (3; 0% instances)
 
-1963 (89%) `ADV` nodes are leaves.
+1983 (90%) `ADV` nodes are leaves.
 
-185 (8%) `ADV` nodes have one child.
+194 (9%) `ADV` nodes have one child.
 
-43 (2%) `ADV` nodes have two children.
+23 (1%) `ADV` nodes have two children.
 
-12 (1%) `ADV` nodes have three or more children.
+13 (1%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 17 different relations: <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (121; 39% instances), <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (98; 32% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (22; 7% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (21; 7% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (16; 5% instances), <tt><a href="la_perseus-dep-nmod.html">nmod</a></tt> (9; 3% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (7; 2% instances), <tt><a href="la_perseus-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="la_perseus-dep-cop.html">cop</a></tt> (3; 1% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-csubj.html">csubj</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 18 different relations: <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (99; 35% instances), <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (69; 24% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (22; 8% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (21; 7% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (19; 7% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (17; 6% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (9; 3% instances), <tt><a href="la_perseus-dep-nmod.html">nmod</a></tt> (9; 3% instances), <tt><a href="la_perseus-dep-amod.html">amod</a></tt> (4; 1% instances), <tt><a href="la_perseus-dep-cop.html">cop</a></tt> (3; 1% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (3; 1% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-csubj.html">csubj</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-nummod.html">nummod</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (106; 34% instances), <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (98; 32% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (37; 12% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (25; 8% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (24; 8% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (7; 2% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Children of `ADV` nodes belong to 11 different parts of speech: <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (106; 37% instances), <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (69; 24% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (35; 12% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (27; 9% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (21; 7% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (9; 3% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (8; 3% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="ug_udt-dep-advcl.ht
 20 nodes (0%) are attached to their parents as `advcl:cond`.
 
 20 instances of `advcl:cond` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.8.
+Average distance between parent and child is 6.9.
 
 The following 3 pairs of parts of speech are connected with `advcl:cond`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (18; 90% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
 
@@ -61,10 +61,10 @@ The following 3 pairs of parts of speech are connected with `advcl:cond`: <tt><a
 # visual-style 10	fgColor:white
 # visual-style 10 4 advcl:cond	color:blue
 1	بىر	بىر	NUM	M	_	2	nummod	_	Translit=bir
-2	كۈنى	كۈن	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	4	advmod	_	Translit=küni
+2	كۈنى	كۈن	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	4	obl	_	Translit=küni
 3	سېنى	سان	NOUN	P	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	4	obj	_	Translit=sëni
 4	يېڭىۋالمىسام	_	NOUN	N	_	10	advcl:cond	_	Translit=yëngiwalmisam|Morf=Unknown
-5	«	«	PUNCT	Y	_	4	punct	_	SpaceAfter=No|Translit=«
+5	«	«	PUNCT	Y	_	6	punct	_	SpaceAfter=No|Translit=«
 6	ئەلى	_	NOUN	N	_	8	ccomp	_	SpaceAfter=No|Translit=eli|Morf=Unknown
 7	»	»	PUNCT	Y	_	6	punct	_	Translit=»
 8	دېگەن	دې	VERB	V	Case=Nom|Tense=Past|VerbForm=Part	9	acl	_	Translit=dëgen

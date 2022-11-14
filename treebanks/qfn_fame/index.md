@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Anouck Braggaar, Rob van der Goot.
 
 Repository: [UD_Frisian_Dutch-Fame](https://github.com/UniversalDependencies/UD_Frisian_Dutch-Fame)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqfn_fame210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqfn_fame211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -98,7 +98,7 @@ pages = "4666--4669",
 
 ## POS Tags
 
-[ADJ](qfn_fame-pos-ADJ.html) – [ADP](qfn_fame-pos-ADP.html) – [ADV](qfn_fame-pos-ADV.html) – [AUX](qfn_fame-pos-AUX.html) – [CCONJ](qfn_fame-pos-CCONJ.html) – [DET](qfn_fame-pos-DET.html) – [INTJ](qfn_fame-pos-INTJ.html) – [NOUN](qfn_fame-pos-NOUN.html) – [NUM](qfn_fame-pos-NUM.html) – [PRON](qfn_fame-pos-PRON.html) – [PROPN](qfn_fame-pos-PROPN.html) – [SCONJ](qfn_fame-pos-SCONJ.html) – [VERB](qfn_fame-pos-VERB.html)
+[ADJ](qfn_fame-pos-ADJ.html) – [ADP](qfn_fame-pos-ADP.html) – [ADV](qfn_fame-pos-ADV.html) – [AUX](qfn_fame-pos-AUX.html) – [CCONJ](qfn_fame-pos-CCONJ.html) – [DET](qfn_fame-pos-DET.html) – [INTJ](qfn_fame-pos-INTJ.html) – [NOUN](qfn_fame-pos-NOUN.html) – [NUM](qfn_fame-pos-NUM.html) – [PRON](qfn_fame-pos-PRON.html) – [PROPN](qfn_fame-pos-PROPN.html) – [SCONJ](qfn_fame-pos-SCONJ.html) – [VERB](qfn_fame-pos-VERB.html) – [X](qfn_fame-pos-X.html)
 
 ## Features
 
@@ -135,8 +135,8 @@ pages = "4666--4669",
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: PART, SYM, PUNCT, X</li>
+<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: PART, SYM, PUNCT</li>
 </ul>
 
 <ul>
@@ -224,7 +224,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (40)</li>
       <li>VERB--NOUN-ADP(_) (3)</li>
-      <li>VERB--PRON (205)</li>
+      <li>VERB--PRON (202)</li>
     </ul>
   </li>
 </ul>

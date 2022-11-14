@@ -10,10 +10,10 @@ This relation is universal.
 
 28 nodes (0%) are attached to their parents as `compound`.
 
-22 instances of `compound` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.60714285714286.
+23 instances of `compound` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57142857142857.
 
-The following 7 pairs of parts of speech are connected with `compound`: <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (17; 61% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 11% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `compound`: <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (17; 61% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 11% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -37,30 +37,6 @@ The following 7 pairs of parts of speech are connected with `compound`: <tt><a h
 13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲣ
 14	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	8	nsubj	_	Entity=person)
 15	.	.	PUNCT	PUNCT	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 13 compound	color:blue
-1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	4	mark	_	_
-2	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Orig=ⲧⲉⲧ
-3	ⲛⲁ	ⲛⲁ	AUX	FUT	_	4	aux	_	_
-4	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
-5	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	4	obj	_	Orig=ⲟⲩ̂
-6	ϩⲙ	ϩⲙ	ADP	PREP	_	8	case	_	Orig=ϩ︤ⲙ︥
-7	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(time
-8	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	4	obl	_	_
-9	ⲙ	ⲛ	ADP	PREP	_	11	case	_	Orig=ⲙ̄
-10	ⲡⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	11	det	_	Entity=(event|Orig=ⲡⲉⲧ︤ⲛ︥
-11	ϭⲙ	ϭⲓⲛⲉ	NOUN	N	_	8	nmod	_	Orig=ϭⲙ̄︥
-12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	ϣⲓⲛⲉ	ϣⲓⲛⲉ	NOUN	N	_	11	compound	_	Entity=event)time)
-14	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 
@@ -103,6 +79,28 @@ The following 7 pairs of parts of speech are connected with `compound`: <tt><a h
 30	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	31	case	_	_
 31	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	23	obl	_	_
 32	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 compound	color:blue
+1	ⲱ	ⲱ	PART	PTC	Foreign=Yes	3	discourse	_	Orig=Ⲱ̅|OrigLang=grc
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(person
+3	ⲛⲁⲏⲧ	ⲛⲁⲏⲧ	NOUN	N	_	0	root	_	Orig=ⲛⲁⲏⲧ`
+4	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	ADV	IMOD	_	3	advmod	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	det	_	_
+6	·	·	PUNCT	PUNCT	_	9	punct	_	_
+7	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ⲙⲁⲓ	ⲙⲁⲓ	NOUN	N	_	3	conj	_	Orig=ⲙⲁⲓ̅
+10	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	9	compound	_	Entity=(person
+11	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	10	det	_	Entity=person)person)
+12	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

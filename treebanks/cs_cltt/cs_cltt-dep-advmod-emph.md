@@ -54,35 +54,36 @@ The following 14 pairs of parts of speech are connected with `advmod:emph`: <tt>
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 16 advmod:emph	color:blue
-1	(1)	(1)	PUNCT	Z:-------------	_	5	punct	_	_
-2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	LId=účetní-1
-3	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	5	nsubj	_	_
-4	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-5	povinny	povinný	ADJ	ACTP------A----	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short	0	root	_	_
-6	zachycovat	zachycovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	5	xcomp	_	_
-7	skutečnosti	skutečnost	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	6	obj	_	SpaceAfter=No
-8	,	,	PUNCT	Z:-------------	_	11	punct	_	_
-9	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	11	nsubj	_	_
-10	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
-11	předmětem	předmět	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	7	acl:relcl	_	_
-12	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	11	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	Z:-------------	_	11	punct	_	_
-14	(	(	PUNCT	Z:-------------	_	11	punct	_	SpaceAfter=No
-15	dále	dále	ADV	Db------------1	_	11	dep	_	LId=dále-3
-16	jen	jen	PART	TT-------------	_	18	advmod:emph	_	LId=jen-1
-17	„	"	PUNCT	Z:-------------	_	18	punct	_	SpaceAfter=No
-18	účetní	účetní	X	X@-------------	_	11	dep	_	LGloss=(from_multi_word_term)
-19	případy	případy	X	X@-------------	_	18	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
-20	“	"	PUNCT	Z:-------------	_	18	punct	_	SpaceAfter=No
-21	)	)	PUNCT	Z:-------------	_	11	punct	_	_
-22	účetními	účetní	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	23	amod	_	LId=účetní-1
-23	doklady	doklad	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	6	obl	_	SpaceAfter=No
-24	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 19 advmod:emph	color:blue
+1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	LId=v-1
+2	případech	případ	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	9	obl	_	_
+3	uvedených	uvedený	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	2	amod	_	_
+4	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	LId=v-1
+5	odstavci	odstavec	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
+6	2	2	NUM	C}-------------	NumForm=Roman|NumType=Card	5	nummod	_	_
+7	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	8	amod	_	LId=účetní-1
+8	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	9	nsubj	_	_
+9	mohou	moci	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	provádět	provádět	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	9	xcomp	_	_
+11	inventarizaci	inventarizace	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	10	obj	_	_
+12	i	i	CCONJ	J^-------------	_	16	advmod:emph	_	LId=i-1
+13	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	16	case	_	LId=v-1
+14	průběhu	průběh	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	13	fixed	_	_
+15	účetního	účetní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	16	amod	_	LId=účetní-1
+16	období	období	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	10	obl	_	_
+17	(	(	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
+18	dále	dále	ADV	Db------------1	_	9	dep	_	LId=dále-3
+19	jen	jen	PART	TT-------------	_	21	advmod:emph	_	LId=jen-1
+20	„	"	PUNCT	Z:-------------	_	21	punct	_	SpaceAfter=No
+21	průběžná	průběžná	X	X@-------------	_	9	dep	_	LGloss=(from_multi_word_term)
+22	inventarizace	inventarizace	X	X@-------------	_	21	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+23	“	"	PUNCT	Z:-------------	_	21	punct	_	SpaceAfter=No
+24	)	)	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
+25	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
 ~~~
 

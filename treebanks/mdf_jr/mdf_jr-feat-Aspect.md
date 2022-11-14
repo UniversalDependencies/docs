@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.htm
 
 ### `VERB`
 
-9 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Aspect`.
+9 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
 The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="mdf_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7; 78%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 67%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 56%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Hab` (2; 22% of non-empty `Aspect`): <em>каннель, лезнель</em>
 * `Perf` (7; 78% of non-empty `Aspect`): <em>анеляф, максф, содафоль, таргозьфтольхть, тиф, шапфт, эйндаф</em>
-* `EMPTY` (581): <em>марявсь, варжакстсь, кармась, рамась, сась, тусь, арась, ащи, кармасть, касан</em>
+* `EMPTY` (619): <em>марявсь, моли, сась, варжакстсь, кармась, лиссь, мольсь, рамась, тусь, арась</em>
 
 ## Relations with Agreement in `Aspect`
 

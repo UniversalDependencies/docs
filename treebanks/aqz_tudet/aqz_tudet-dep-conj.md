@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (1%) are attached to their parents as `conj`.
+8 nodes (1%) are attached to their parents as `conj`.
 
-7 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.42857142857143.
+8 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.25.
 
-The following 3 pairs of parts of speech are connected with `conj`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (5; 71% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 14% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (1; 14% instances).
+The following 4 pairs of parts of speech are connected with `conj`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (5; 63% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt> (1; 13% instances).
 
 
 ~~~ conllu

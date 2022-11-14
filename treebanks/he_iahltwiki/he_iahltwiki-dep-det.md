@@ -30,7 +30,7 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 6	יש	יש	VERB	VERB	Polarity=Pos	0	root	_	_
 7	לבדוק	בדק	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	6	csubj	_	_
 8	תאימות	תאימות	NOUN	NOUN	Gender=Fem|Number=Sing	7	obj	_	_
-9	של	של	ADP	ADP	_	10	case	_	_
+9	של	של	ADP	ADP	Case=Gen	10	case	_	_
 10	נוגדנים	נוגדן	NOUN	NOUN	Gender=Masc|Number=Plur	8	nmod:poss	_	_
 11	אצל	אצל	ADP	ADP	_	13	case	_	_
 12	ה	ה	DET	DET	Definite=Def|PronType=Art	13	det	_	_
@@ -49,7 +49,7 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 1	אינדיקציות	אינדיקציה	NOUN	NOUN	Gender=Fem|Number=Plur	7	nsubj	_	_
 2	ל	ל	ADP	ADP	_	3	case	_	_
 3	שימוש	שימוש	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
-4	של	של	ADP	ADP	_	5	case	_	_
+4	של	של	ADP	ADP	Case=Gen	5	case	_	_
 5	פלזמה	פלזמה	NOUN	NOUN	Gender=Fem|Number=Sing	3	nmod:poss	_	_
 6	קפואה	קפוא	ADJ	ADJ	Gender=Fem|Number=Sing	5	amod	_	_
 7	כוללות	כלל	VERB	VERB	Gender=Fem|HebBinyan=PAAL|Number=Plur|Person=3|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_

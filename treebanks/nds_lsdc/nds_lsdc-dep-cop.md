@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (2%) are attached to their parents as `cop`.
+42 nodes (1%) are attached to their parents as `cop`.
 
-20 instances of `cop` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.25641025641026.
+22 instances of `cop` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.30952380952381.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (19; 49% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (11; 28% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (4; 10% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (3; 8% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (21; 50% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (12; 29% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (4; 10% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (3; 7% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -71,7 +71,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 18	fgColor:white
 # visual-style 18 19 cop	color:blue
 1	In	in	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=in²
-2	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹|Case[regional]=Acc
+2	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹
 3	stad	stad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	lemma[gml]=stat⁴
 4	hove	höven	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	lemma[gml]=hö̂ven¹
 5	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	lemma[gml]=gî²

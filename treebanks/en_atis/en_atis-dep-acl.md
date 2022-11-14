@@ -30,9 +30,9 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 5	arriving	arrive	VERB	_	Tense=Pres|VerbForm=Part	6	acl	_	_
 6	flight	flight	NOUN	_	Number=Sing	1	nsubj	_	_
 7	from	from	ADP	_	_	8	case	_	_
-8	houston	houston	PROPN	_	Number=Sing	6	nmod	_	_
+8	houston	Houston	PROPN	_	Number=Sing	6	nmod	_	_
 9	to	to	ADP	_	_	10	case	_	_
-10	orlando	orlando	PROPN	_	Number=Sing	6	nmod	_	_
+10	orlando	Orlando	PROPN	_	Number=Sing	6	nmod	_	_
 
 ~~~
 
@@ -51,9 +51,9 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 6	available	available	ADJ	_	Degree=Pos	5	acl	_	_
 7	in	in	ADP	_	_	9	case	_	_
 8	the	the	DET	_	PronType=Art	9	det	_	_
-9	city	city	PROPN	_	Number=Sing	6	obl	_	_
+9	city	City	PROPN	_	Number=Sing	6	obl	_	_
 10	of	of	ADP	_	_	11	case	_	_
-11	philadelphia	philadelphia	PROPN	_	Number=Sing	9	nmod	_	_
+11	philadelphia	Philadelphia	PROPN	_	Number=Sing	9	nmod	_	_
 
 ~~~
 
@@ -69,13 +69,13 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 3	nonstop	nonstop	ADJ	_	Degree=Pos	4	amod	_	_
 4	flights	flight	NOUN	_	Number=Plur	1	obj	_	_
 5	from	from	ADP	_	_	6	case	_	_
-6	miami	miami	PROPN	_	Number=Sing	4	nmod	_	_
+6	miami	Miami	PROPN	_	Number=Sing	4	nmod	_	_
 7	to	to	ADP	_	_	8	case	_	_
-8	new	new	PROPN	_	Number=Sing	4	nmod	_	_
-9	york	york	PROPN	_	Number=Sing	8	flat	_	_
+8	new	New	PROPN	_	Number=Sing	4	nmod	_	_
+9	york	York	PROPN	_	Number=Sing	8	flat	_	_
 10	on	on	ADP	_	_	12	case	_	_
 11	a	a	DET	_	PronType=Art	12	det	_	_
-12	sunday	sunday	PROPN	_	Number=Sing	4	nmod:tmod	_	_
+12	sunday	Sunday	NOUN	_	Number=Sing	4	nmod:tmod	_	_
 13	along	along	ADP	_	_	16	case	_	_
 14	with	with	ADP	_	_	16	case	_	_
 15	the	the	DET	_	PronType=Art	16	det	_	_

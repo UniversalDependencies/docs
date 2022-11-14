@@ -60,7 +60,7 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>Д, Де, ХАЙ, плз</em>
-* `EMPTY` (7324): <em>не, и, только, же, ли, вот, просто, даже, ну, тоже</em>
+* `EMPTY` (7323): <em>не, и, только, же, ли, вот, просто, даже, ну, тоже</em>
 
 ### `ADJ`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>романтик, стронг, форте</em>
-* `EMPTY` (16882): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
+* `EMPTY` (16881): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
 
 ### `ADV`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>мах</em>
-* `EMPTY` (10857): <em>очень, так, как, там, уже, где, всегда, еще, сейчас, здесь</em>
+* `EMPTY` (10858): <em>очень, так, как, там, уже, где, всегда, еще, сейчас, здесь</em>
 
 ### `INTJ`
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>МАНДРУЕ</em>
-* `EMPTY` (24746): <em>есть, можно, нет, может, надо, могу, делать, хочу, здравствуйте, нравится</em>
+* `EMPTY` (24747): <em>есть, можно, нет, может, надо, могу, делать, хочу, здравствуйте, нравится</em>
 
 ## Relations with Agreement in `Foreign`
 

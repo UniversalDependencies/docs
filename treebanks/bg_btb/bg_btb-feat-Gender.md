@@ -148,7 +148,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 * `Fem` (202; 39% of non-empty `Gender`): <em>две, една, двете, 2, 1, 0, 22, 52, 42, 0.00</em>
 * `Masc` (212; 41% of non-empty `Gender`): <em>един, два, 2, двата, 1, 22, Единият, 32, 4162, 62</em>
 * `Neut` (101; 20% of non-empty `Gender`): <em>едно, 1, две, двете, едното, 42</em>
-* `EMPTY` (1591): <em>3, три, 10, двамата, 20, 000, 15, 4, 5, 6</em>
+* `EMPTY` (1590): <em>3, три, 10, двамата, 20, 000, 15, 4, 5, 6</em>
 
 <table>
   <tr><th>Paradigm <i>два</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

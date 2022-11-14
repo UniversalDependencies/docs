@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 4	geneveze	genevez	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 5	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux:pass	_	_
 6	notat	nota	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-7	ca	ca	ADV	Rc	_	9	advmod	_	_
+7	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 8	„	„	PUNCT	DBLQ	_	9	punct	_	SpaceAfter=No
 9	dangereux	dangereux	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	xcomp	_	_
 10	”	”	PUNCT	DBLQ	_	9	punct	_	SpaceAfter=No

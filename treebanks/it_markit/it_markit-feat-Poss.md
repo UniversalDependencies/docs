@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-413 tokens (1%) have a non-empty value of `Poss`.
-24 types (0%) occur at least once with a non-empty value of `Poss`.
+412 tokens (1%) have a non-empty value of `Poss`.
+23 types (0%) occur at least once with a non-empty value of `Poss`.
 8 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_markit-pos-DET.html">DET</a></tt> (399; 1% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (5; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="it_markit-pos-DET.html">DET</a></tt> (398; 1% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (5; 0% instances).
 
 ### `DET`
 
-399 <tt><a href="it_markit-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Poss`.
+398 <tt><a href="it_markit-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="it_markit-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (399; 100%), <tt><a href="it_markit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (399; 100%), <tt><a href="it_markit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (310; 78%), <tt><a href="it_markit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (217; 54%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="it_markit-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (398; 100%), <tt><a href="it_markit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (398; 100%), <tt><a href="it_markit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (309; 78%), <tt><a href="it_markit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (217; 55%).
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (399; 100% of non-empty `Poss`): <em>suo, sua, loro, nostra, nostro, sue, propria, nostre, suoi, propri</em>
-* `EMPTY` (6180): <em>la, il, l', un, i, le, una, questo, gli, lo</em>
+* `Yes` (398; 100% of non-empty `Poss`): <em>suo, sua, loro, nostra, nostro, sue, propria, nostre, suoi, propri</em>
+* `EMPTY` (6164): <em>la, il, l', un, i, le, una, gli, questo, lo</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (9; 100% of non-empty `Poss`): <em>proprio, propria, proprie, propri</em>
-* `EMPTY` (2560): <em>stesso, grande, importante, altri, stessa, altro, possibile, primo, umano, difficile</em>
+* `EMPTY` (2548): <em>stesso, grande, importante, altri, stessa, altro, possibile, primo, umano, difficile</em>
 
 ### `PRON`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (5; 100% of non-empty `Poss`): <em>nostro, nostre, sua, suo</em>
-* `EMPTY` (3126): <em>che, si, ci, lo, questo, la, c', ciò, noi, cui</em>
+* `EMPTY` (3114): <em>che, si, ci, lo, questo, la, c', ciò, noi, cui</em>
 
 ## Relations with Agreement in `Poss`
 

@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>coalition, dogs, fascist, revolutions, structure</em>
-* `EMPTY` (57751): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57746): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `ADJ`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>of</em>
-* `EMPTY` (45637): <em>di, a, in, per, da, con, su, tra, ad, come</em>
+* `EMPTY` (45589): <em>di, a, in, per, da, con, su, tra, ad, come</em>
 
 ## Relations with Agreement in `Foreign`
 

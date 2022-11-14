@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Kira Droganova, Olga Lyashevskaya, Daniel Zeman.
 
 Repository: [UD_Russian-SynTagRus](https://github.com/UniversalDependencies/UD_Russian-SynTagRus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_syntagrus210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_syntagrus211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -101,7 +101,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 
 ## Relations
 
-[acl](ru_syntagrus-dep-acl.html) – [acl:relcl](ru_syntagrus-dep-acl-relcl.html) – [advcl](ru_syntagrus-dep-advcl.html) – [advmod](ru_syntagrus-dep-advmod.html) – [amod](ru_syntagrus-dep-amod.html) – [appos](ru_syntagrus-dep-appos.html) – [aux](ru_syntagrus-dep-aux.html) – [aux:pass](ru_syntagrus-dep-aux-pass.html) – [case](ru_syntagrus-dep-case.html) – [cc](ru_syntagrus-dep-cc.html) – [ccomp](ru_syntagrus-dep-ccomp.html) – [compound](ru_syntagrus-dep-compound.html) – [conj](ru_syntagrus-dep-conj.html) – [cop](ru_syntagrus-dep-cop.html) – [csubj](ru_syntagrus-dep-csubj.html) – [csubj:pass](ru_syntagrus-dep-csubj-pass.html) – [dep](ru_syntagrus-dep-dep.html) – [det](ru_syntagrus-dep-det.html) – [discourse](ru_syntagrus-dep-discourse.html) – [dislocated](ru_syntagrus-dep-dislocated.html) – [expl](ru_syntagrus-dep-expl.html) – [fixed](ru_syntagrus-dep-fixed.html) – [flat](ru_syntagrus-dep-flat.html) – [flat:foreign](ru_syntagrus-dep-flat-foreign.html) – [flat:name](ru_syntagrus-dep-flat-name.html) – [iobj](ru_syntagrus-dep-iobj.html) – [list](ru_syntagrus-dep-list.html) – [mark](ru_syntagrus-dep-mark.html) – [nmod](ru_syntagrus-dep-nmod.html) – [nsubj](ru_syntagrus-dep-nsubj.html) – [nsubj:pass](ru_syntagrus-dep-nsubj-pass.html) – [nummod](ru_syntagrus-dep-nummod.html) – [nummod:entity](ru_syntagrus-dep-nummod-entity.html) – [nummod:gov](ru_syntagrus-dep-nummod-gov.html) – [obj](ru_syntagrus-dep-obj.html) – [obl](ru_syntagrus-dep-obl.html) – [obl:agent](ru_syntagrus-dep-obl-agent.html) – [obl:tmod](ru_syntagrus-dep-obl-tmod.html) – [orphan](ru_syntagrus-dep-orphan.html) – [parataxis](ru_syntagrus-dep-parataxis.html) – [punct](ru_syntagrus-dep-punct.html) – [root](ru_syntagrus-dep-root.html) – [vocative](ru_syntagrus-dep-vocative.html) – [xcomp](ru_syntagrus-dep-xcomp.html)
+[acl](ru_syntagrus-dep-acl.html) – [acl:relcl](ru_syntagrus-dep-acl-relcl.html) – [advcl](ru_syntagrus-dep-advcl.html) – [advmod](ru_syntagrus-dep-advmod.html) – [amod](ru_syntagrus-dep-amod.html) – [appos](ru_syntagrus-dep-appos.html) – [aux](ru_syntagrus-dep-aux.html) – [aux:pass](ru_syntagrus-dep-aux-pass.html) – [case](ru_syntagrus-dep-case.html) – [cc](ru_syntagrus-dep-cc.html) – [ccomp](ru_syntagrus-dep-ccomp.html) – [compound](ru_syntagrus-dep-compound.html) – [conj](ru_syntagrus-dep-conj.html) – [cop](ru_syntagrus-dep-cop.html) – [csubj](ru_syntagrus-dep-csubj.html) – [csubj:pass](ru_syntagrus-dep-csubj-pass.html) – [dep](ru_syntagrus-dep-dep.html) – [det](ru_syntagrus-dep-det.html) – [discourse](ru_syntagrus-dep-discourse.html) – [dislocated](ru_syntagrus-dep-dislocated.html) – [expl](ru_syntagrus-dep-expl.html) – [fixed](ru_syntagrus-dep-fixed.html) – [flat](ru_syntagrus-dep-flat.html) – [flat:foreign](ru_syntagrus-dep-flat-foreign.html) – [flat:name](ru_syntagrus-dep-flat-name.html) – [iobj](ru_syntagrus-dep-iobj.html) – [list](ru_syntagrus-dep-list.html) – [mark](ru_syntagrus-dep-mark.html) – [nmod](ru_syntagrus-dep-nmod.html) – [nsubj](ru_syntagrus-dep-nsubj.html) – [nsubj:outer](ru_syntagrus-dep-nsubj-outer.html) – [nsubj:pass](ru_syntagrus-dep-nsubj-pass.html) – [nummod](ru_syntagrus-dep-nummod.html) – [nummod:entity](ru_syntagrus-dep-nummod-entity.html) – [nummod:gov](ru_syntagrus-dep-nummod-gov.html) – [obj](ru_syntagrus-dep-obj.html) – [obl](ru_syntagrus-dep-obl.html) – [obl:agent](ru_syntagrus-dep-obl-agent.html) – [obl:tmod](ru_syntagrus-dep-obl-tmod.html) – [orphan](ru_syntagrus-dep-orphan.html) – [parataxis](ru_syntagrus-dep-parataxis.html) – [punct](ru_syntagrus-dep-punct.html) – [root](ru_syntagrus-dep-root.html) – [vocative](ru_syntagrus-dep-vocative.html) – [xcomp](ru_syntagrus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -875,7 +875,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(порядка) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(свыше) (10)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(на) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (41588)</li>
+      <li>VERB-Fin--NOUN-Nom (41586)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(в) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(во) (9)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(до) (1)</li>
@@ -886,11 +886,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Par (13)</li>
       <li>VERB-Fin--PRON (6)</li>
       <li>VERB-Fin--PRON-Acc-ADP(на) (1)</li>
-      <li>VERB-Fin--PRON-Gen (365)</li>
+      <li>VERB-Fin--PRON-Gen (364)</li>
       <li>VERB-Fin--PRON-Gen-ADP(у) (1)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Fin--PRON-Loc-ADP(в) (2)</li>
-      <li>VERB-Fin--PRON-Nom (24291)</li>
+      <li>VERB-Fin--PRON-Nom (24289)</li>
       <li>VERB-Inf--NOUN-Gen (12)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(около) (1)</li>
       <li>VERB-Inf--NOUN-Nom (526)</li>
@@ -1014,6 +1014,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

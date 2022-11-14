@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 15 different values: `Abe`, `Abl`, `Acc`, `Ade`, `All`, `Com`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Nom`, `Par`, `Tra`.
 
-9448 tokens (49%) have a non-empty value of `Case`.
+9446 tokens (49%) have a non-empty value of `Case`.
 6350 types (77%) occur at least once with a non-empty value of `Case`.
 3901 lemmas (75%) occur at least once with a non-empty value of `Case`.
-The feature is used with 10 part-of-speech tags: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (5042; 26% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1280; 7% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1044; 5% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (965; 5% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (942; 5% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (83; 0% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (81; 0% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fi_ood-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="fi_ood-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (5042; 26% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1280; 7% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1042; 5% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (965; 5% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (942; 5% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (83; 0% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (81; 0% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fi_ood-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="fi_ood-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -78,9 +78,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PRON`
 
-1044 <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
+1042 <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (872; 84%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (836; 80%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (870; 83%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (834; 80%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Ess` (8; 1% of non-empty `Case`): <em>tänä, itsenä, joinakin, muina, tänäkään</em>
 * `Gen` (179; 17% of non-empty `Case`): <em>sen, tämän, jonka, hänen, meidän, minun, heidän, kaiken, jonkin, minkä</em>
 * `Ill` (37; 4% of non-empty `Case`): <em>siihen, tähän, johon, samaan, jonne, kaikkeen, muihin, noihin, häneen, itseensä</em>
-* `Ine` (52; 5% of non-empty `Case`): <em>jossa, siinä, tässä, missä, jossain, muissa, Missähän, Noissa, hänessä, joissa</em>
+* `Ine` (50; 5% of non-empty `Case`): <em>jossa, siinä, tässä, missä, jossain, muissa, Missähän, Noissa, hänessä, joissa</em>
 * `Ins` (6; 1% of non-empty `Case`): <em>molemmin, monin, samoin</em>
 * `Nom` (357; 34% of non-empty `Case`): <em>se, joka, hän, kaikki, tämä, ne, mikä, jotka, he, me</em>
 * `Par` (200; 19% of non-empty `Case`): <em>mitä, sitä, muuta, niitä, jotain, mitään, jota, tätä, kaikkea, heitä</em>
@@ -229,7 +229,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Ill` (1; 17% of non-empty `Case`): <em>kipuun</em>
 * `Ins` (1; 17% of non-empty `Case`): <em>hoitolinjoin</em>
 * `Nom` (2; 33% of non-empty `Case`): <em>aika, kumma</em>
-* `EMPTY` (1970): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
+* `EMPTY` (1972): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
 
 ### `X`
 

@@ -278,3 +278,8 @@ The most frequent other feature values with which `NUM` and `Clitic` co-occurred
 
 * `Ko` (2; 100% of non-empty `Clitic`): <em>vaiko</em>
 
+## Relations with Agreement in `Clitic`
+
+The 10 most frequent relations where parent and child node agree in `Clitic`:
+<tt>NOUN --[<tt><a href="fi_tdt-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (1; 100%).
+

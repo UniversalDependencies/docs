@@ -11,7 +11,7 @@ This relation is universal.
 5130 nodes (4%) are attached to their parents as `root`.
 
 5130 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 14.1058479532164.
+Average distance between parent and child is 14.1233918128655.
 
 The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (4521; 88% instances), -<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (311; 6% instances), -<tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (198; 4% instances), -<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (44; 1% instances), -<tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (43; 1% instances), -<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (2; 0% instances), -<tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 0% instances).
 
@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	سرکاری	سرکاری	ADJ	JJ	Case=Acc	5	amod	_	ChunkId=NP2|ChunkType=child
 5	خزانہ	خزانہ	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
 6	پر	پر	ADP	PSP	AdpType=Post	5	case	_	ChunkId=NP2|ChunkType=child
-7	95	95	NUM	QCC	NumType=Card	8	case	_	ChunkId=NP3|ChunkType=child
+7	95	95	NUM	QCC	NumType=Card	8	compound	_	ChunkId=NP3|ChunkType=child
 8	کروڑ	کروڑ	NUM	QC	NumType=Card	9	nummod	_	ChunkId=NP3|ChunkType=child
 9	روپیوں	روپیہ	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	11	nmod	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 10	کا	کا	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	9	case	_	ChunkId=NP3|ChunkType=child

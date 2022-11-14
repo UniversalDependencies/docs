@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  را (<tt><a href="fa_seraji-pos-PART.htm
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.920334).
+The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.409222).
 
 The 1st highest number of forms (2) was observed with the lemma “را”: را, و.
 
@@ -47,7 +47,7 @@ The 2nd highest number of forms (1) was observed with the lemma “رو”: رو
 
 `PART` nodes are attached to their parents using 5 different relations: <tt><a href="fa_seraji-dep-case.html">case</a></tt> (2557; 99% instances), <tt><a href="fa_seraji-dep-dep.html">dep</a></tt> (9; 0% instances), <tt><a href="fa_seraji-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="fa_seraji-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fa_seraji-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (2203; 86% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (325; 13% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (2208; 86% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (327; 13% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (1; 0% instances)
 
 2547 (99%) `PART` nodes are leaves.
 

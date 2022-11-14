@@ -12,9 +12,9 @@ There are also 4 other language-specific subtypes of `parataxis`: <tt><a href="p
 30 nodes (0%) are attached to their parents as `parataxis:dislocated`.
 
 30 instances of `parataxis:dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 12.8.
+Average distance between parent and child is 12.7.
 
-The following 5 pairs of parts of speech are connected with `parataxis:dislocated`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (24; 80% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `parataxis:dislocated`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (23; 77% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -24,20 +24,20 @@ The following 5 pairs of parts of speech are connected with `parataxis:dislocate
 # visual-style 11	fgColor:white
 # visual-style 11 2 parataxis:dislocated	color:blue
 1	#	#	X	_	_	11	dep	_	AlignBegin=341944|AlignEnd=342449|Gloss=PUNCT
-2	complete	complete	VERB	_	_	11	parataxis:dislocated	_	AlignBegin=342449|AlignEnd=342912|Gloss=complete|SyllableCount=2|WordContour=mhh3
-3	almost	almost	ADV	_	_	4	advmod	_	AlignBegin=342912|AlignEnd=343242|Gloss=almost|SyllableCount=2|WordContour=hh
-4	half	half	ADJ	_	_	6	amod	_	AlignBegin=343242|AlignEnd=343532|Gloss=half|SyllableCount=1|WordContour=mm
-5	a	a	DET	_	Definite=Ind|PronType=Art	6	det	_	AlignBegin=343532|AlignEnd=343658|Gloss=INDF.ART|SyllableCount=1|WordContour=mm
-6	year	year	NOUN	_	_	2	obj	_	AlignBegin=343658|AlignEnd=343884|Gloss=year|SyllableCount=1|WordContour=ml
-7	<	<	X	_	_	2	dep	_	AlignBegin=343884|AlignEnd=343914|Gloss=PUNCT
+2	complete	complete	VERB	_	_	11	parataxis:dislocated	_	AlignBegin=342449|AlignEnd=342912|Gloss=complete|LeftOverlap=False|RightOverlap=False|Syl1=mm|Syl2=hh|SyllableCount=2|WordContour=mhh3
+3	almost	almost	ADV	_	_	4	advmod	_	AlignBegin=342912|AlignEnd=343242|Gloss=almost|LeftOverlap=False|RightOverlap=False|Syl1=mm|Syl2=hh|SyllableCount=2|WordContour=hh
+4	half	half	ADJ	_	_	6	amod	_	AlignBegin=343242|AlignEnd=343532|Gloss=half|LeftOverlap=False|RightOverlap=True|Syl1=mm|Syl2=mm|SyllableCount=1|WordContour=mm
+5	a	a	DET	_	Definite=Ind|PronType=Art	6	det	_	AlignBegin=343532|AlignEnd=343658|Gloss=INDF.ART|LeftOverlap=True|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+6	year	year	NOUN	_	_	2	obj	_	AlignBegin=343658|AlignEnd=343914|Gloss=year|LeftOverlap=False|RightOverlap=False|Syl1=ml|SyllableCount=1|WordContour=ml
+7	<	<	X	_	_	2	dep	_	AlignBegin=343914|AlignEnd=343914|Gloss=PUNCT
 8	#	#	X	_	_	11	dep	_	AlignBegin=343914|AlignEnd=344230|Gloss=PUNCT
-9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	AlignBegin=344230|AlignEnd=344362|Gloss=NOM.SG.1|SyllableCount=1|WordContour=ll
-10	no	no	AUX	_	Polarity=Neg	11	aux	_	AlignBegin=344362|AlignEnd=344512|Gloss=NEG|SyllableCount=1|WordContour=lm
-11	see	see	VERB	_	_	0	root	_	AlignBegin=344512|AlignEnd=344692|Gloss=see|SyllableCount=1|WordContour=mm
-12	any	any	DET	_	_	13	det	_	AlignBegin=344692|AlignEnd=344862|Gloss=any|SyllableCount=2|WordContour=mm
-13	work	work	NOUN	_	_	11	obj	_	AlignBegin=344862|AlignEnd=345162|Gloss=work|SyllableCount=1|WordContour=ml
-14	do	do	VERB	_	_	13	acl	_	AlignBegin=345162|AlignEnd=345348|Gloss=do|SyllableCount=1|WordContour=ll
-15	//	//	X	_	_	11	dep	_	AlignBegin=345348|AlignEnd=345378|Gloss=PUNCT
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	AlignBegin=344230|AlignEnd=344362|Gloss=NOM.SG.1|LeftOverlap=False|RightOverlap=False|Syl1=ll|SyllableCount=1|WordContour=ll
+10	no	no	AUX	_	Polarity=Neg	11	aux	_	AlignBegin=344362|AlignEnd=344512|Gloss=NEG|LeftOverlap=False|RightOverlap=False|Syl1=ll|SyllableCount=1|WordContour=lm
+11	see	see	VERB	_	_	0	root	_	AlignBegin=344512|AlignEnd=344692|Gloss=see|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+12	any	any	DET	_	_	13	det	_	AlignBegin=344692|AlignEnd=344862|Gloss=any|LeftOverlap=False|RightOverlap=False|Syl1=mm|Syl2=mm|SyllableCount=2|WordContour=mm
+13	work	work	NOUN	_	_	11	obj	_	AlignBegin=344862|AlignEnd=345162|Gloss=work|LeftOverlap=False|RightOverlap=False|Syl1=ml|SyllableCount=1|WordContour=ml
+14	do	do	VERB	_	_	13	acl	_	AlignBegin=345162|AlignEnd=345378|Gloss=do|LeftOverlap=False|RightOverlap=False|Syl1=ll|SyllableCount=1|WordContour=ll
+15	//	//	X	_	_	11	dep	_	AlignBegin=345378|AlignEnd=345378|Gloss=PUNCT
 
 ~~~
 

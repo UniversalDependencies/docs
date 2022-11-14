@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  היה (<tt><a href="he_iahltwiki-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.437500 (the average of all parts of speech is 1.479084).
+The form / lemma ratio of `AUX` is 4.437500 (the average of all parts of speech is 1.479265).
 
 The 1st highest number of forms (14) was observed with the lemma “היה”: היה, היו, היות, היינו, הייתה, הייתי, יהא, יהיה, יהיו, להיות, נהיה, תהא, תהיה, תהיינה.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (11) was observed with the lemma “יכל”: �
 
 The 3rd highest number of forms (7) was observed with the lemma “אינו”: אינה, אינו, אינך, אינם, אינן, איננה, איננו.
 
-`AUX` occurs with 8 features: <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (922; 96% instances), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (920; 96% instances), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt> (725; 76% instances), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt> (614; 64% instances), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt> (590; 62% instances), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt> (340; 36% instances), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt> (153; 16% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (6; 1% instances)
+`AUX` occurs with 9 features: <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (922; 96% instances), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (920; 96% instances), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt> (725; 76% instances), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt> (614; 64% instances), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt> (590; 62% instances), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt> (575; 60% instances), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt> (340; 36% instances), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt> (153; 16% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (6; 1% instances)
 
-`AUX` occurs with 18 feature-value pairs: `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Inf`, `VerbForm=Part`, `VerbType=Cop`, `VerbType=Mod`
+`AUX` occurs with 19 feature-value pairs: `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `HebBinyan=PAAL`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Inf`, `VerbForm=Part`, `VerbType=Cop`, `VerbType=Mod`
 
-`AUX` occurs with 121 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past` (113 tokens).
+`AUX` occurs with 127 feature combinations.
+The most frequent feature combination is `Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Polarity=Pos|Tense=Past` (113 tokens).
 Examples: היה
 
 
@@ -86,7 +86,7 @@ Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="he_i
 
 The highest child degree of a `AUX` node is 5.
 
-Children of `AUX` nodes are attached using 13 different relations: <tt><a href="he_iahltwiki-dep-punct.html">punct</a></tt> (21; 42% instances), <tt><a href="he_iahltwiki-dep-mark.html">mark</a></tt> (6; 12% instances), <tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt> (5; 10% instances), <tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt> (5; 10% instances), <tt><a href="he_iahltwiki-dep-advmod.html">advmod</a></tt> (2; 4% instances), <tt><a href="he_iahltwiki-dep-cc.html">cc</a></tt> (2; 4% instances), <tt><a href="he_iahltwiki-dep-cop.html">cop</a></tt> (2; 4% instances), <tt><a href="he_iahltwiki-dep-csubj.html">csubj</a></tt> (2; 4% instances), <tt><a href="he_iahltwiki-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="he_iahltwiki-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="he_iahltwiki-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="he_iahltwiki-dep-reparandum.html">reparandum</a></tt> (1; 2% instances)
+Children of `AUX` nodes are attached using 14 different relations: <tt><a href="he_iahltwiki-dep-punct.html">punct</a></tt> (21; 42% instances), <tt><a href="he_iahltwiki-dep-mark.html">mark</a></tt> (6; 12% instances), <tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt> (5; 10% instances), <tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt> (3; 6% instances), <tt><a href="he_iahltwiki-dep-advmod.html">advmod</a></tt> (2; 4% instances), <tt><a href="he_iahltwiki-dep-cc.html">cc</a></tt> (2; 4% instances), <tt><a href="he_iahltwiki-dep-cop.html">cop</a></tt> (2; 4% instances), <tt><a href="he_iahltwiki-dep-csubj.html">csubj</a></tt> (2; 4% instances), <tt><a href="he_iahltwiki-dep-nsubj-outer.html">nsubj:outer</a></tt> (2; 4% instances), <tt><a href="he_iahltwiki-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="he_iahltwiki-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="he_iahltwiki-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="he_iahltwiki-dep-reparandum.html">reparandum</a></tt> (1; 2% instances)
 
 Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (21; 42% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (7; 14% instances), <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (5; 10% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (4; 8% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (4; 8% instances), <tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (3; 6% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

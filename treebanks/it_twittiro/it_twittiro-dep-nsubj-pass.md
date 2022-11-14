@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Italian-TWITTIRO: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="it_twittiro-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="it_twittiro-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
 101 nodes (0%) are attached to their parents as `nsubj:pass`.
 

@@ -7,18 +7,18 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-ITTB: Features: `NameType`
 
 This feature is language-specific.
-It occurs with 4 different values: `Giv`, `Let`, `Lit`, `Nat`.
+It occurs with 5 different values: `Giv`, `Let`, `Lit`, `Nat`, `Rel`.
 
-720 tokens (0%) have a non-empty value of `NameType`.
-53 types (0%) occur at least once with a non-empty value of `NameType`.
-41 lemmas (1%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (330; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (295; 0% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (95; 0% instances).
+747 tokens (0%) have a non-empty value of `NameType`.
+63 types (0%) occur at least once with a non-empty value of `NameType`.
+42 lemmas (1%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (330; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (322; 0% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (95; 0% instances).
 
 ### `PROPN`
 
 330 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (6% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (330; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (330; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (330; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (329; 100%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (330; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (330; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (330; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (330; 100%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
@@ -28,22 +28,23 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 ### `ADJ`
 
-295 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NameType`.
+322 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (295; 100%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (294; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (294; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (294; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (294; 100%).
+The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (322; 100%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (294; 91%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (294; 91%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (294; 91%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (294; 91%).
 
 `ADJ` tokens may have the following values of `NameType`:
 
 * `Lit` (1; 0% of non-empty `NameType`): <em>paralip.</em>
-* `Nat` (294; 100% of non-empty `NameType`): <em>cor., rom., philipp., hebr., ephes., coloss., thess., leuit., philip., heb.</em>
+* `Nat` (297; 92% of non-empty `NameType`): <em>cor., rom., philipp., hebr., ephes., coloss., thess., leuit., philip., heb.</em>
+* `Rel` (24; 7% of non-empty `NameType`): <em>christianae, christiana, christianam, christiani, christiano, christianis, christianum</em>
 
-`NameType` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `NameType`.
 
 ### `NOUN`
 
 95 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `NOUN` and `NameType` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (95; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (95; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (95; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (93; 98%).
+The most frequent other feature values with which `NOUN` and `NameType` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (95; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (95; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (95; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (95; 100%).
 
 `NOUN` tokens may have the following values of `NameType`:
 

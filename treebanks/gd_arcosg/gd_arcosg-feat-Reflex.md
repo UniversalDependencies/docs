@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (428; 100% of non-empty `Reflex`): <em>fhèin, fhéin, chèile, fhìn, a, chéile, péin, a-chèile, fhein, fèin</em>
-* `EMPTY` (9179): <em>e, iad, i, mi, a, thu, sin, sinn, esan, seo</em>
+* `EMPTY` (9242): <em>e, iad, i, mi, a, thu, sin, sinn, esan, seo</em>
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `NOUN` tokens may have the following values of `Reflex`:
 
 * `Yes` (2; 100% of non-empty `Reflex`): <em>a, chèile</em>
-* `EMPTY` (18854): <em>bhith, dol, ràdh, duine, fear, chur, fhios, taobh, ais, dhèanamh</em>
+* `EMPTY` (18859): <em>bhith, dol, ràdh, duine, fear, chur, fhios, taobh, ais, dhèanamh</em>
 
 ## Relations with Agreement in `Reflex`
 

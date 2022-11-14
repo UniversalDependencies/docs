@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.3 release.
 The following people have contributed to making this treebank part of UD: Katya Aplonova, Francis Tyers.
 
 Repository: [UD_Bambara-CRB](https://github.com/UniversalDependencies/UD_Bambara-CRB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbm_crb210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbm_crb211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -100,7 +100,7 @@ In Proceedings of the 16th International Workshop on Treebanks and Linguistic Th
 
 ## Relations
 
-[acl](bm_crb-dep-acl.html) – [advcl](bm_crb-dep-advcl.html) – [advmod](bm_crb-dep-advmod.html) – [amod](bm_crb-dep-amod.html) – [appos](bm_crb-dep-appos.html) – [aux](bm_crb-dep-aux.html) – [case](bm_crb-dep-case.html) – [cc](bm_crb-dep-cc.html) – [ccomp](bm_crb-dep-ccomp.html) – [compound](bm_crb-dep-compound.html) – [compound:redup](bm_crb-dep-compound-redup.html) – [conj](bm_crb-dep-conj.html) – [csubj](bm_crb-dep-csubj.html) – [dep](bm_crb-dep-dep.html) – [det](bm_crb-dep-det.html) – [det:rel](bm_crb-dep-det-rel.html) – [discourse](bm_crb-dep-discourse.html) – [dislocated](bm_crb-dep-dislocated.html) – [fixed](bm_crb-dep-fixed.html) – [flat](bm_crb-dep-flat.html) – [mark](bm_crb-dep-mark.html) – [nmod](bm_crb-dep-nmod.html) – [nmod:poss](bm_crb-dep-nmod-poss.html) – [nsubj](bm_crb-dep-nsubj.html) – [nummod](bm_crb-dep-nummod.html) – [obj](bm_crb-dep-obj.html) – [obl](bm_crb-dep-obl.html) – [orphan](bm_crb-dep-orphan.html) – [parataxis](bm_crb-dep-parataxis.html) – [parataxis:obj](bm_crb-dep-parataxis-obj.html) – [punct](bm_crb-dep-punct.html) – [reparandum](bm_crb-dep-reparandum.html) – [root](bm_crb-dep-root.html) – [vocative](bm_crb-dep-vocative.html) – [xcomp](bm_crb-dep-xcomp.html)
+[acl](bm_crb-dep-acl.html) – [advcl](bm_crb-dep-advcl.html) – [advmod](bm_crb-dep-advmod.html) – [amod](bm_crb-dep-amod.html) – [appos](bm_crb-dep-appos.html) – [aux](bm_crb-dep-aux.html) – [case](bm_crb-dep-case.html) – [cc](bm_crb-dep-cc.html) – [ccomp](bm_crb-dep-ccomp.html) – [compound](bm_crb-dep-compound.html) – [compound:redup](bm_crb-dep-compound-redup.html) – [conj](bm_crb-dep-conj.html) – [dep](bm_crb-dep-dep.html) – [det](bm_crb-dep-det.html) – [det:rel](bm_crb-dep-det-rel.html) – [discourse](bm_crb-dep-discourse.html) – [dislocated](bm_crb-dep-dislocated.html) – [fixed](bm_crb-dep-fixed.html) – [flat](bm_crb-dep-flat.html) – [mark](bm_crb-dep-mark.html) – [nmod](bm_crb-dep-nmod.html) – [nmod:poss](bm_crb-dep-nmod-poss.html) – [nsubj](bm_crb-dep-nsubj.html) – [nummod](bm_crb-dep-nummod.html) – [obj](bm_crb-dep-obj.html) – [obl](bm_crb-dep-obl.html) – [orphan](bm_crb-dep-orphan.html) – [parataxis](bm_crb-dep-parataxis.html) – [parataxis:obj](bm_crb-dep-parataxis-obj.html) – [punct](bm_crb-dep-punct.html) – [reparandum](bm_crb-dep-reparandum.html) – [root](bm_crb-dep-root.html) – [vocative](bm_crb-dep-vocative.html) – [xcomp](bm_crb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -134,7 +134,7 @@ In Proceedings of the 16th International Workshop on Treebanks and Linguistic Th
 </ul>
 
 <ul>
-<li>This corpus contains 19 word types tagged as particles (PART): bada, bani, bilen, de, dennin, dun, dè, dɛ, fana, hali, k', ko, koyi, kòni, le, sa, wa, wo, yo</li>
+<li>This corpus contains 20 word types tagged as particles (PART): bada, bani, bilen, de, dennin, diye, dun, dè, dɛ, fana, hali, k', ko, koyi, kòni, le, sa, wa, wo, yo</li>
 </ul>
 
 <ul>
@@ -150,11 +150,11 @@ In Proceedings of the 16th International Workshop on Treebanks and Linguistic Th
 </ul>
 
 <ul>
-<li>This corpus contains 17 lemmas tagged as auxiliaries (AUX): bá, bɛ, bɛ́na, dìyé, dòn, fulakɛ, ka, kàna, kɔ́, ma, mán, mána, na, tùn, tɛ, tɛ́na, ye</li>
+<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): bɛ, bɛ́na, ka, kàna, ma, mán, mána, na, tùn, tɛ, tɛ́na, ye</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: dòn, tɛ</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: tɛ</li>
 </ul>
 
 <ul>
@@ -369,6 +369,14 @@ In Proceedings of the 16th International Workshop on Treebanks and Linguistic Th
 </ul>
 
 <ul>
+  <li>Int
+    <ul>
+      <li>ADV: min</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Prs
     <ul>
       <li>PRON: a, n, i, u, olu, an, à</li>
@@ -476,7 +484,7 @@ In Proceedings of the 16th International Workshop on Treebanks and Linguistic Th
 </ul>
 
 <ul>
-<li>This corpus uses 17 lemmas as auxiliaries (<a>aux</a>). Examples: ka, ye, bɛ, tɛ, ma, tùn, dìyé, kàna, mána, bɛ́na, na, bá, dòn, fulakɛ, kɔ́, mán, tɛ́na.</li>
+<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: ka, ye, bɛ, tɛ, ma, tùn, kàna, mána, bɛ́na, na, mán, tɛ́na.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -485,8 +493,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (534)</li>
-      <li>VERB--PRON (1213)</li>
+      <li>VERB--NOUN (537)</li>
+      <li>VERB--PRON (1211)</li>
       <li>VERB-Part--NOUN (15)</li>
       <li>VERB-Part--PRON (15)</li>
     </ul>
@@ -497,7 +505,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (517)</li>
-      <li>VERB--PRON (500)</li>
+      <li>VERB--PRON (501)</li>
     </ul>
   </li>
 </ul>
@@ -516,5 +524,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 4 relation subtypes: <a>compound:redup</a>, <a>det:rel</a>, <a>nmod:poss</a>, <a>parataxis:obj</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>cop</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>expl</a>, <a>cop</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

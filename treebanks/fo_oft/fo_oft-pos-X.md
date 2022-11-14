@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>fram</em> (<tt><a href="fo_oft-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.290924).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.292021).
 
 The 1st highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
 
@@ -64,11 +64,17 @@ The 3rd highest number of forms (1) was observed with the lemma “1,1”: <em>1
 
 ## Relations
 
-`X` nodes are attached to their parents using 1 different relations: <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (42; 100% instances)
+`X` nodes are attached to their parents using 3 different relations: <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (34; 81% instances), <tt><a href="fo_oft-dep-case.html">case</a></tt> (6; 14% instances), <tt><a href="fo_oft-dep-mark.html">mark</a></tt> (2; 5% instances)
 
-Parents of `X` nodes belong to 3 different parts of speech: <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (34; 81% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (6; 14% instances), <tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (2; 5% instances)
+Parents of `X` nodes belong to 4 different parts of speech: <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (34; 81% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (5; 12% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 
-42 (100%) `X` nodes are leaves.
+34 (81%) `X` nodes are leaves.
 
-The highest child degree of a `X` node is 0.
+8 (19%) `X` nodes have one child.
+
+The highest child degree of a `X` node is 1.
+
+Children of `X` nodes are attached using 1 different relations: <tt><a href="fo_oft-dep-fixed.html">fixed</a></tt> (8; 100% instances)
+
+Children of `X` nodes belong to 2 different parts of speech: <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (6; 75% instances), <tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (2; 25% instances)
 

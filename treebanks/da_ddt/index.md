@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Anders Johannsen, Héctor Martínez Alonso, Barbara Plank.
 
 Repository: [UD_Danish-DDT](https://github.com/UniversalDependencies/UD_Danish-DDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udda_ddt210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udda_ddt211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -100,7 +100,7 @@ Technical report, DSL
 
 ## Relations
 
-[acl:relcl](da_ddt-dep-acl-relcl.html) – [advcl](da_ddt-dep-advcl.html) – [advmod](da_ddt-dep-advmod.html) – [advmod:lmod](da_ddt-dep-advmod-lmod.html) – [amod](da_ddt-dep-amod.html) – [appos](da_ddt-dep-appos.html) – [aux](da_ddt-dep-aux.html) – [case](da_ddt-dep-case.html) – [cc](da_ddt-dep-cc.html) – [ccomp](da_ddt-dep-ccomp.html) – [compound:prt](da_ddt-dep-compound-prt.html) – [conj](da_ddt-dep-conj.html) – [cop](da_ddt-dep-cop.html) – [dep](da_ddt-dep-dep.html) – [det](da_ddt-dep-det.html) – [discourse](da_ddt-dep-discourse.html) – [expl](da_ddt-dep-expl.html) – [fixed](da_ddt-dep-fixed.html) – [flat](da_ddt-dep-flat.html) – [goeswith](da_ddt-dep-goeswith.html) – [iobj](da_ddt-dep-iobj.html) – [list](da_ddt-dep-list.html) – [mark](da_ddt-dep-mark.html) – [nmod](da_ddt-dep-nmod.html) – [nmod:poss](da_ddt-dep-nmod-poss.html) – [nsubj](da_ddt-dep-nsubj.html) – [nummod](da_ddt-dep-nummod.html) – [obj](da_ddt-dep-obj.html) – [obl](da_ddt-dep-obl.html) – [obl:lmod](da_ddt-dep-obl-lmod.html) – [obl:tmod](da_ddt-dep-obl-tmod.html) – [parataxis](da_ddt-dep-parataxis.html) – [punct](da_ddt-dep-punct.html) – [reparandum](da_ddt-dep-reparandum.html) – [root](da_ddt-dep-root.html) – [vocative](da_ddt-dep-vocative.html) – [xcomp](da_ddt-dep-xcomp.html)
+[acl](da_ddt-dep-acl.html) – [acl:relcl](da_ddt-dep-acl-relcl.html) – [advcl](da_ddt-dep-advcl.html) – [advmod](da_ddt-dep-advmod.html) – [advmod:lmod](da_ddt-dep-advmod-lmod.html) – [amod](da_ddt-dep-amod.html) – [appos](da_ddt-dep-appos.html) – [aux](da_ddt-dep-aux.html) – [case](da_ddt-dep-case.html) – [cc](da_ddt-dep-cc.html) – [ccomp](da_ddt-dep-ccomp.html) – [compound](da_ddt-dep-compound.html) – [compound:prt](da_ddt-dep-compound-prt.html) – [conj](da_ddt-dep-conj.html) – [cop](da_ddt-dep-cop.html) – [dep](da_ddt-dep-dep.html) – [det](da_ddt-dep-det.html) – [discourse](da_ddt-dep-discourse.html) – [dislocated](da_ddt-dep-dislocated.html) – [expl](da_ddt-dep-expl.html) – [fixed](da_ddt-dep-fixed.html) – [flat](da_ddt-dep-flat.html) – [iobj](da_ddt-dep-iobj.html) – [list](da_ddt-dep-list.html) – [mark](da_ddt-dep-mark.html) – [nmod](da_ddt-dep-nmod.html) – [nmod:poss](da_ddt-dep-nmod-poss.html) – [nsubj](da_ddt-dep-nsubj.html) – [nsubj:outer](da_ddt-dep-nsubj-outer.html) – [nummod](da_ddt-dep-nummod.html) – [obj](da_ddt-dep-obj.html) – [obl](da_ddt-dep-obl.html) – [obl:lmod](da_ddt-dep-obl-lmod.html) – [obl:tmod](da_ddt-dep-obl-tmod.html) – [orphan](da_ddt-dep-orphan.html) – [parataxis](da_ddt-dep-parataxis.html) – [punct](da_ddt-dep-punct.html) – [reparandum](da_ddt-dep-reparandum.html) – [root](da_ddt-dep-root.html) – [vocative](da_ddt-dep-vocative.html) – [xcomp](da_ddt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -137,7 +137,7 @@ Technical report, DSL
 </ul>
 
 <ul>
-<li>This corpus contains 35 lemmas tagged as pronouns (PRON): I, alting, anden, begge, de, den, denne, der, deres, det, du, en, enhver, han, hans, hendes, hinanden, hun, hvad, hvem, hver, hvilken, hvis, ingen, ingenting, jeg, man, min, nogen, selv, sig, sin, som, vi, vores</li>
+<li>This corpus contains 36 lemmas tagged as pronouns (PRON): I, alting, anden, begge, de, den, denne, der, deres, det, du, en, enhver, han, hans, hendes, her, hinanden, hun, hvad, hvem, hver, hvilken, hvis, ingen, ingenting, jeg, man, min, nogen, selv, sig, sin, som, vi, vores</li>
 </ul>
 
 <ul>
@@ -163,8 +163,8 @@ Technical report, DSL
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: er, har, kan, var, skal, vil, blev, kunne, havde, bliver</li>
-    <li>VERB: er, har, siger, var, får, fik, sagde, kommer, går, havde</li>
+    <li>AUX: er, har, kan, var, skal, vil, blev, kunne, havde, må</li>
+    <li>VERB: er, har, siger, var, får, fik, sagde, bliver, kommer, blev</li>
   </ul>
   </li>
 </ul>
@@ -180,8 +180,8 @@ Technical report, DSL
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: være, blive, have, kunne, skulle, turde, ville, ku', måtte</li>
-    <li>VERB: få, gå, se, have, komme, være, gøre, tage, finde, sige</li>
+    <li>AUX: være, have, blive, kunne, skulle, turde, ville, ku', måtte</li>
+    <li>VERB: få, gå, se, have, komme, blive, være, gøre, tage, finde</li>
   </ul>
   </li>
 </ul>
@@ -190,7 +190,7 @@ Technical report, DSL
   <li>Part
   <ul>
     <li>AUX: været, blevet, kunnet, måttet, turdet, villet, værende</li>
-    <li>VERB: fået, været, set, haft, gjort, gået, kommet, sagt, kommende, skrevet</li>
+    <li>VERB: fået, været, blevet, set, haft, gjort, gået, kommet, sagt, kommende</li>
   </ul>
   </li>
 </ul>
@@ -205,9 +205,10 @@ Technical report, DSL
 <ul>
   <li>Com
     <ul>
-      <li>ADJ: stor, ny, klar, lang, god, egen, sådan, al, halv, almindelig</li>
+      <li>ADJ: stor, ny, klar, lang, god, egen, sådan, al, almindelig, fri</li>
       <li>DET: en, den, sin, denne, min, ingen, anden, nogen, én, din</li>
       <li>NOUN: kr., gang, dag, tid, del, mand, måde, verden, dage, gange</li>
+      <li>NUM: halv, en, halvanden, én</li>
       <li>PRON: han, jeg, vi, man, hun, den, du, ham, mig, os</li>
       <li>VERB-Part: foretrukne, udskårne</li>
     </ul>
@@ -217,9 +218,10 @@ Technical report, DSL
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: alt, stort, godt, nyt, svært, muligt, eget, klart, halvt, vigtigt</li>
+      <li>ADJ: alt, stort, godt, nyt, svært, muligt, eget, klart, vigtigt, halvt</li>
       <li>DET: et, det, sit, noget, mit, dette, andet, intet, vort, ethvert</li>
       <li>NOUN: år, folk, går, par, børn, mennesker, stedet, fald, arbejde, sted</li>
+      <li>NUM: halvt</li>
       <li>PRON: det, noget, andet, dette, et, hvilket, hvert, intet, a., dét</li>
     </ul>
   </li>
@@ -236,6 +238,7 @@ Technical report, DSL
       <li>ADJ: alle, mange, flere, danske, store, nye, fleste, forskellige, få, gamle</li>
       <li>DET: de, andre, nogle, sine, disse, vore, begge, mine, andres, dine</li>
       <li>NOUN: år, kr., børn, folk, mennesker, dage, gange, kroner, problemer, pct.</li>
+      <li>NUM: flere</li>
       <li>PRON: vi, de, dem, os, andre, hinanden, nogle, I, begge, hvilke</li>
       <li>VERB-Part: ansatte, gensplejsede, Forenede, gentagne, dræbte, interesserede, nævnte, orienterede, designede, feterede</li>
     </ul>
@@ -249,8 +252,9 @@ Technical report, DSL
       <li>AUX-Part: været, blevet, kunnet, måttet, turdet, villet</li>
       <li>DET: en, den, et, det, sin, denne, min, sit, ingen, anden</li>
       <li>NOUN: gang, dag, år, tid, del, går, mand, måde, par, verden</li>
+      <li>NUM: halv, halvt, en, halvanden, kvart, én</li>
       <li>PRON: det, han, jeg, hun, den, du, hvad, ham, mig, noget</li>
-      <li>VERB-Part: fået, været, set, haft, gjort, gået, kommet, sagt, skrevet, taget</li>
+      <li>VERB-Part: fået, været, blevet, set, haft, gjort, gået, kommet, sagt, skrevet</li>
     </ul>
   </li>
 </ul>
@@ -309,7 +313,8 @@ Technical report, DSL
       <li>ADJ: mere, dansk, stor, meget, ny, klar, lang, stort, god, godt</li>
       <li>AUX-Part: været, blevet, kunnet, måttet, turdet, villet</li>
       <li>NOUN: år, kr., gang, dag, tid, del, folk, går, mand, måde</li>
-      <li>VERB-Part: fået, været, set, haft, gjort, gået, kommet, sagt, skrevet, taget</li>
+      <li>NUM: halv, halvt, halvanden, kvart</li>
+      <li>VERB-Part: fået, været, blevet, set, haft, gjort, gået, kommet, sagt, skrevet</li>
     </ul>
   </li>
 </ul>
@@ -370,7 +375,6 @@ Technical report, DSL
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: Bliv</li>
       <li>VERB: lad, rør, se, skær, brug, hold, hæld, steg, prøv, Bland</li>
     </ul>
   </li>
@@ -379,8 +383,8 @@ Technical report, DSL
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: er, har, kan, var, skal, vil, blev, kunne, havde, bliver</li>
-      <li>VERB-Fin: er, har, siger, var, får, fik, sagde, kommer, går, havde</li>
+      <li>AUX-Fin: er, har, kan, var, skal, vil, blev, kunne, havde, må</li>
+      <li>VERB-Fin: er, har, siger, var, får, fik, sagde, bliver, kommer, blev</li>
     </ul>
   </li>
 </ul>
@@ -394,8 +398,8 @@ Technical report, DSL
     <ul>
       <li>AUX-Fin: var, blev, kunne, havde, skulle, ville, måtte, burde, ku', sku'</li>
       <li>AUX-Part: været, blevet, kunnet, måttet, turdet, villet</li>
-      <li>VERB-Fin: var, fik, sagde, havde, gik, kom, begyndte, tog, gjorde, så</li>
-      <li>VERB-Part: fået, været, set, haft, gjort, gået, kommet, sagt, skrevet, taget</li>
+      <li>VERB-Fin: var, fik, sagde, blev, havde, gik, kom, begyndte, tog, gjorde</li>
+      <li>VERB-Part: fået, været, blevet, set, haft, gjort, gået, kommet, sagt, skrevet</li>
     </ul>
   </li>
 </ul>
@@ -403,10 +407,10 @@ Technical report, DSL
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: er, har, kan, skal, vil, bliver, må, bør, tør, ka'</li>
+      <li>AUX-Fin: er, har, kan, skal, vil, må, bliver, bør, tør, ka'</li>
       <li>AUX-Part: værende</li>
-      <li>VERB: er, har, siger, får, kommer, går, ved, gør, mener, giver</li>
-      <li>VERB-Fin: er, har, siger, får, kommer, går, ved, gør, mener, giver</li>
+      <li>VERB: er, har, siger, får, bliver, kommer, går, ved, gør, mener</li>
+      <li>VERB-Fin: er, har, siger, får, bliver, kommer, går, ved, gør, mener</li>
       <li>VERB-Part: kommende, manglende, administrerende, følgende, overlevende, tilfredsstillende, overraskende, stigende, stående, fascinerende</li>
     </ul>
   </li>
@@ -419,10 +423,10 @@ Technical report, DSL
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Fin: er, har, kan, var, skal, vil, blev, kunne, havde, bliver</li>
-      <li>AUX-Inf: være, blive, have, kunne, skulle, turde, ville, ku', måtte</li>
-      <li>VERB-Fin: er, har, siger, var, får, fik, sagde, kommer, går, havde</li>
-      <li>VERB-Inf: få, gå, se, have, komme, være, gøre, tage, finde, sige</li>
+      <li>AUX-Fin: er, har, kan, var, skal, vil, blev, kunne, havde, må</li>
+      <li>AUX-Inf: være, have, blive, kunne, skulle, turde, ville, ku', måtte</li>
+      <li>VERB-Fin: er, har, siger, var, får, fik, sagde, bliver, kommer, blev</li>
+      <li>VERB-Inf: få, gå, se, have, komme, blive, være, gøre, tage, finde</li>
     </ul>
   </li>
 </ul>
@@ -608,7 +612,8 @@ Technical report, DSL
     <ul>
       <li>Yes
         <ul>
-          <li>X: fru, km/t., vind., B, cand.-jur., kl, o/m., 4-cyl., E, G</li>
+          <li>ADV: 4-cyl.</li>
+          <li>X: fru, km/t., vind., B, cand.-jur., kl, o/m., E, G, M</li>
         </ul>
       </li>
     </ul>
@@ -632,7 +637,8 @@ Technical report, DSL
     <ul>
       <li>Yes
         <ul>
-          <li>X: of, are, the, we, a, and, children, dead, in, junkmail</li>
+          <li>ADV: a, downtown, en, fun-music, julienne, racing, retro, roadracing, servo, stadium</li>
+          <li>X: of, are, the, we, and, children, dead, in, junkmail, la</li>
         </ul>
       </li>
     </ul>
@@ -677,7 +683,7 @@ Technical report, DSL
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: være, blive.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: være.</li>
 </ul>
 
 <ul>
@@ -690,25 +696,27 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1569)</li>
+      <li>VERB--PRON-Nom (2)</li>
+      <li>VERB-Fin--NOUN (1599)</li>
       <li>VERB-Fin--NOUN-ADP(omkring) (1)</li>
       <li>VERB-Fin--NOUN-Gen (6)</li>
-      <li>VERB-Fin--PRON (447)</li>
-      <li>VERB-Fin--PRON-Acc (379)</li>
-      <li>VERB-Fin--PRON-Nom (1609)</li>
-      <li>VERB-Inf--NOUN (368)</li>
+      <li>VERB-Fin--PRON (449)</li>
+      <li>VERB-Fin--PRON-Acc (399)</li>
+      <li>VERB-Fin--PRON-Nom (1639)</li>
+      <li>VERB-Inf--NOUN (376)</li>
       <li>VERB-Inf--NOUN-ADP(end) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(over) (1)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--PRON (119)</li>
-      <li>VERB-Inf--PRON-Acc (85)</li>
-      <li>VERB-Inf--PRON-Nom (532)</li>
-      <li>VERB-Part--NOUN (488)</li>
+      <li>VERB-Inf--PRON (117)</li>
+      <li>VERB-Inf--PRON-Acc (89)</li>
+      <li>VERB-Inf--PRON-Nom (542)</li>
+      <li>VERB-Part--NOUN (498)</li>
       <li>VERB-Part--NOUN-ADP(omkring) (2)</li>
+      <li>VERB-Part--NOUN-ADP(over) (1)</li>
       <li>VERB-Part--NOUN-Gen (5)</li>
-      <li>VERB-Part--PRON (153)</li>
-      <li>VERB-Part--PRON-Acc (68)</li>
-      <li>VERB-Part--PRON-Nom (372)</li>
+      <li>VERB-Part--PRON (156)</li>
+      <li>VERB-Part--PRON-Acc (67)</li>
+      <li>VERB-Part--PRON-Gen (1)</li>
+      <li>VERB-Part--PRON-Nom (374)</li>
     </ul>
   </li>
 </ul>
@@ -716,10 +724,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (77)</li>
+      <li>VERB--NOUN (79)</li>
       <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Acc (32)</li>
-      <li>VERB-Fin--NOUN (1575)</li>
+      <li>VERB-Fin--NOUN (1562)</li>
       <li>VERB-Fin--NOUN-ADP(af) (1)</li>
       <li>VERB-Fin--NOUN-ADP(efter) (1)</li>
       <li>VERB-Fin--NOUN-ADP(end) (1)</li>
@@ -731,23 +739,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(til) (2)</li>
       <li>VERB-Fin--NOUN-ADP(under) (1)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
-      <li>VERB-Fin--PRON (131)</li>
-      <li>VERB-Fin--PRON-Acc (393)</li>
+      <li>VERB-Fin--PRON (179)</li>
+      <li>VERB-Fin--PRON-Acc (392)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
-      <li>VERB-Inf--NOUN (1008)</li>
+      <li>VERB-Inf--NOUN (1005)</li>
       <li>VERB-Inf--NOUN-ADP(mellem) (1)</li>
       <li>VERB-Inf--NOUN-ADP(på) (1)</li>
       <li>VERB-Inf--NOUN-Gen (8)</li>
-      <li>VERB-Inf--PRON (56)</li>
+      <li>VERB-Inf--PRON (71)</li>
       <li>VERB-Inf--PRON-ADP(om) (1)</li>
-      <li>VERB-Inf--PRON-Acc (251)</li>
+      <li>VERB-Inf--PRON-Acc (250)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Part--NOUN (421)</li>
+      <li>VERB-Part--NOUN (424)</li>
       <li>VERB-Part--NOUN-ADP(af) (2)</li>
       <li>VERB-Part--NOUN-ADP(om) (1)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
-      <li>VERB-Part--PRON (40)</li>
-      <li>VERB-Part--PRON-Acc (77)</li>
+      <li>VERB-Part--PRON (45)</li>
+      <li>VERB-Part--PRON-Acc (76)</li>
     </ul>
   </li>
 </ul>
@@ -760,12 +768,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (14)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (41)</li>
-      <li>VERB-Inf--NOUN (21)</li>
+      <li>VERB-Inf--NOUN (19)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (39)</li>
-      <li>VERB-Part--NOUN (5)</li>
+      <li>VERB-Inf--PRON-Acc (40)</li>
+      <li>VERB-Part--NOUN (7)</li>
       <li>VERB-Part--PRON (2)</li>
-      <li>VERB-Part--PRON-Acc (18)</li>
+      <li>VERB-Part--PRON-Acc (19)</li>
     </ul>
   </li>
 </ul>
@@ -775,7 +783,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 154 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: vise sig, dreje sig, lade sig, føle sig, sætte sig, befinde sig, gøre sig, holde sig, udtale sig, beskæftige sig, få sig, kaste sig, klare sig, melde sig, tage sig, opføre sig, sige sig, tænke sig, bevæge sig, bryde sig, bøje sig, finde sig, gemme sig, glæde sig, koncentrere sig, lægge sig, påtage sig, rejse sig, se sig, skynde sig, trække sig, vende sig, bane sig, beslutte sig, blande sig, brede sig, dumme sig, egne sig, engagere sig, gifte sig, give sig, hygge sig, komme sig, notere sig, rette sig, sikre sig, skaffe sig, snige sig, strække sig, tillade sig</li>
+  <li>This corpus contains 153 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: vise sig, dreje sig, lade sig, føle sig, sætte sig, befinde sig, gøre sig, holde sig, udtale sig, beskæftige sig, kaste sig, klare sig, melde sig, tage sig, få sig, opføre sig, sige sig, tænke sig, bevæge sig, bryde sig, bøje sig, finde sig, gemme sig, glæde sig, koncentrere sig, lægge sig, påtage sig, rejse sig, se sig, skynde sig, trække sig, vende sig, bane sig, beslutte sig, blande sig, brede sig, dumme sig, egne sig, engagere sig, forestille sig, gifte sig, give sig, hygge sig, komme sig, notere sig, rette sig, sikre sig, skaffe sig, snige sig, strække sig</li>
     <ul>
       <li>Out of those, 6 lemmas occurred more than once, but never without a reflexive dependent. Examples: koncentrere, påtage, skynde, brede, egne, udmønte</li>
     </ul>
@@ -784,7 +792,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>advmod:lmod</a>, <a>compound:prt</a>, <a>nmod:poss</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>compound</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>csubj</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a></li>
+<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>advmod:lmod</a>, <a>compound:prt</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>csubj</a>, <a>clf</a>, <a>goeswith</a></li>
 </ul>

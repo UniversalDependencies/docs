@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cantonese-HK: POS Tags: `SCONJ`
 
-There are 9 `SCONJ` lemmas (1%), 19 `SCONJ` types (1%) and 113 `SCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `SCONJ` is: 15 in number of lemmas, 14 in number of types and 15 in number of tokens.
+There are 18 `SCONJ` lemmas (1%), 19 `SCONJ` types (1%) and 113 `SCONJ` tokens (1%).
+Out of 15 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 14 in number of types and 15 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: _、 去、 唻、 嘅話、 如果、 即使、 若果、 話、 除非
+The 10 most frequent `SCONJ` lemmas: 如果、 嘅話、 唻、 去、 無論、 話、 當、 假如、 即使、 除非
 
 The 10 most frequent `SCONJ` types:  如果、 嘅話、 去、 嚟、 無論、 話、 唻、 當、 假如、 即使
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> 1377, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1352, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1283, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 853, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 764, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 662, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 335, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 217, <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 209, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 140, <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 93, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 92, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 52), 去 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 31, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 2), 唻 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 23, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 11, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 2), 嘅話 (<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 話 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 13, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 1), 除非 (<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 嘅話 (<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 唻 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 25, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 16, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 8), 去 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 84, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 1), 話 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 29, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 當 (<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 2), 除非 (<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 嗰陣時 (<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 4, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 1), 根據 (<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 11, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 由於 (<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 1, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  嘅話 (<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 去 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 84, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 1), 嚟 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 25, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 14, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 5), 話 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 29, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 唻 (<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 2), 當 (<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 2), 除非 (<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 嗰陣時 (<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 4, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 1), 根據 (<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 11, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 由於 (<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 1, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -57,13 +57,13 @@ The 10 most frequent ambiguous types:  嘅話 (<tt><a href="yue_hk-pos-SCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 2.111111 (the average of all parts of speech is 1.624294).
+The form / lemma ratio of `SCONJ` is 1.055556 (the average of all parts of speech is 1.001746).
 
-The 1st highest number of forms (18) was observed with the lemma “_”: 假如, 即使, 去, 哪怕, 唻, 嗰陣時, 嘅話, 嚟, 如果, 既然, 根據, 正如, 無論, 由於, 當, 話, 除非, 雖然.
+The 1st highest number of forms (2) was observed with the lemma “唻”: 唻, 嚟.
 
-The 2nd highest number of forms (1) was observed with the lemma “即使”: 即使.
+The 2nd highest number of forms (1) was observed with the lemma “假如”: 假如.
 
-The 3rd highest number of forms (1) was observed with the lemma “去”: 去.
+The 3rd highest number of forms (1) was observed with the lemma “即使”: 即使.
 
 `SCONJ` does not occur with any features.
 
@@ -74,15 +74,15 @@ The 3rd highest number of forms (1) was observed with the lemma “去”: 去.
 
 Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (99; 88% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 1% instances)
 
-111 (98%) `SCONJ` nodes are leaves.
+112 (99%) `SCONJ` nodes are leaves.
 
 0 (0%) `SCONJ` nodes have one child.
 
-2 (2%) `SCONJ` nodes have two children.
+1 (1%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 4 different relations: <tt><a href="yue_hk-dep-advcl.html">advcl</a></tt> (1; 25% instances), <tt><a href="yue_hk-dep-conj.html">conj</a></tt> (1; 25% instances), <tt><a href="yue_hk-dep-discourse-sp.html">discourse:sp</a></tt> (1; 25% instances), <tt><a href="yue_hk-dep-punct.html">punct</a></tt> (1; 25% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="yue_hk-dep-advcl.html">advcl</a></tt> (1; 50% instances), <tt><a href="yue_hk-dep-conj.html">conj</a></tt> (1; 50% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 25% instances), <tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (1; 25% instances)
+Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 100% instances)
 

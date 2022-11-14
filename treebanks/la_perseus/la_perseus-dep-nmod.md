@@ -42,7 +42,7 @@ The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	quoque	quoque	ADV	d--------	_	1	advmod	_	LId=quoque1
 3	magna	magnus	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	6	amod	_	LId=magnus1
 4	manent	maneo	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=maneo1
-5	regnis	regnum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	advmod	_	LId=regnum1
+5	regnis	regnum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	obl	_	LId=regnum1
 6	penetralia	penetralis	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	LId=penetralis1
 7	nostris	noster	PRON	p-p---nb-	Case=Abl|Gender=Neut|Number=Plur	5	nmod	_	SpaceAfter=No
 8	:	:	PUNCT	u--------	_	4	punct	_	LId=punc1
@@ -60,9 +60,9 @@ The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	cremantur	cremo	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=cremo1
 3	turea	tureus	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	amod	_	LId=tureus1
 4	dona	donum	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	SpaceAfter=No|LId=donum1
-5	,	,	PUNCT	u--------	_	4	punct	_	LId=comma1
+5	,	,	PUNCT	u--------	_	6	punct	_	LId=comma1
 6	dapes	daps	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	4	conj	_	SpaceAfter=No|LId=daps1
-7	,	,	PUNCT	u--------	_	4	punct	_	LId=comma1
+7	,	,	PUNCT	u--------	_	9	punct	_	LId=comma1
 8	fuso	fundo	VERB	v-srppnb-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	nmod	_	LId=fundo1
 9	crateres	crater	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	conj	_	LId=crater1
 10	olivo	olivum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No|LId=olivum1

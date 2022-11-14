@@ -28,7 +28,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 4	ka	ka	AUX	pm	_	2	fixed	_	Gloss=INF
 5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
 6	sinamuso	sìna.muso	NOUN	n	_	8	nmod:poss	_	Gloss=coépouse|Morf=coépouse,coépouse,femme
-7	ka	ka	AUX	pm	_	6	case	_	Gloss=INF
+7	ka	ka	AUX	pm	_	9	aux	_	Gloss=INF
 8	filen	fílen	NOUN	n	_	9	obj	_	Gloss=calebasse.demi-sphérique
 9	ko	kò	VERB	v	_	0	root	_	Gloss=laver|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	Gloss=.
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 4	ka	ka	AUX	pm	_	2	fixed	_	Gloss=INF
 5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
 6	sinamuso	sìna.muso	NOUN	n	_	8	nmod:poss	_	Gloss=coépouse|Morf=coépouse,coépouse,femme
-7	ka	ka	AUX	pm	_	6	case	_	Gloss=INF
+7	ka	ka	AUX	pm	_	9	aux	_	Gloss=INF
 8	filen	fílen	NOUN	n	_	9	obj	_	Gloss=calebasse.demi-sphérique
 9	ko	kò	VERB	v	_	0	root	_	Gloss=laver|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	Gloss=.

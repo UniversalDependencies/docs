@@ -16,11 +16,11 @@ Family: Indo-European, Baltic
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
-The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitry Sichinava.
+The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitri Sitchinava.
 
 Repository: [UD_Lithuanian-HSE](https://github.com/UniversalDependencies/UD_Lithuanian-HSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_hse210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_hse211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -62,7 +62,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 
 ## Relations
 
-[acl](lt_hse-dep-acl.html) – [acl:relcl](lt_hse-dep-acl-relcl.html) – [advcl](lt_hse-dep-advcl.html) – [advmod](lt_hse-dep-advmod.html) – [advmod:emph](lt_hse-dep-advmod-emph.html) – [amod](lt_hse-dep-amod.html) – [appos](lt_hse-dep-appos.html) – [aux](lt_hse-dep-aux.html) – [aux:pass](lt_hse-dep-aux-pass.html) – [case](lt_hse-dep-case.html) – [cc](lt_hse-dep-cc.html) – [ccomp](lt_hse-dep-ccomp.html) – [compound](lt_hse-dep-compound.html) – [conj](lt_hse-dep-conj.html) – [cop](lt_hse-dep-cop.html) – [csubj](lt_hse-dep-csubj.html) – [det](lt_hse-dep-det.html) – [discourse](lt_hse-dep-discourse.html) – [dislocated](lt_hse-dep-dislocated.html) – [fixed](lt_hse-dep-fixed.html) – [flat](lt_hse-dep-flat.html) – [iobj](lt_hse-dep-iobj.html) – [list](lt_hse-dep-list.html) – [mark](lt_hse-dep-mark.html) – [nmod](lt_hse-dep-nmod.html) – [nsubj](lt_hse-dep-nsubj.html) – [nummod](lt_hse-dep-nummod.html) – [nummod:gov](lt_hse-dep-nummod-gov.html) – [obj](lt_hse-dep-obj.html) – [obl](lt_hse-dep-obl.html) – [obl:agent](lt_hse-dep-obl-agent.html) – [orphan](lt_hse-dep-orphan.html) – [parataxis](lt_hse-dep-parataxis.html) – [punct](lt_hse-dep-punct.html) – [root](lt_hse-dep-root.html) – [vocative](lt_hse-dep-vocative.html) – [xcomp](lt_hse-dep-xcomp.html)
+[acl](lt_hse-dep-acl.html) – [acl:relcl](lt_hse-dep-acl-relcl.html) – [advcl](lt_hse-dep-advcl.html) – [advmod](lt_hse-dep-advmod.html) – [advmod:emph](lt_hse-dep-advmod-emph.html) – [amod](lt_hse-dep-amod.html) – [appos](lt_hse-dep-appos.html) – [aux](lt_hse-dep-aux.html) – [aux:pass](lt_hse-dep-aux-pass.html) – [case](lt_hse-dep-case.html) – [cc](lt_hse-dep-cc.html) – [ccomp](lt_hse-dep-ccomp.html) – [compound](lt_hse-dep-compound.html) – [conj](lt_hse-dep-conj.html) – [cop](lt_hse-dep-cop.html) – [csubj](lt_hse-dep-csubj.html) – [det](lt_hse-dep-det.html) – [discourse](lt_hse-dep-discourse.html) – [dislocated](lt_hse-dep-dislocated.html) – [fixed](lt_hse-dep-fixed.html) – [flat](lt_hse-dep-flat.html) – [iobj](lt_hse-dep-iobj.html) – [list](lt_hse-dep-list.html) – [mark](lt_hse-dep-mark.html) – [nmod](lt_hse-dep-nmod.html) – [nsubj](lt_hse-dep-nsubj.html) – [nsubj:outer](lt_hse-dep-nsubj-outer.html) – [nummod](lt_hse-dep-nummod.html) – [nummod:gov](lt_hse-dep-nummod-gov.html) – [obj](lt_hse-dep-obj.html) – [obl](lt_hse-dep-obl.html) – [obl:agent](lt_hse-dep-obl-agent.html) – [orphan](lt_hse-dep-orphan.html) – [parataxis](lt_hse-dep-parataxis.html) – [punct](lt_hse-dep-punct.html) – [root](lt_hse-dep-root.html) – [vocative](lt_hse-dep-vocative.html) – [xcomp](lt_hse-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -680,7 +680,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Gen (10)</li>
-      <li>VERB-Fin--NOUN-Nom (99)</li>
+      <li>VERB-Fin--NOUN-Nom (98)</li>
       <li>VERB-Fin--PRON (8)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
@@ -766,6 +766,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
+<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>nsubj:outer</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

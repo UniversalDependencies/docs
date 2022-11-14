@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>jå, nu, och</em>
 
 The 10 most frequent `INTJ` types:  <em>jå, Now, Och</em>
 
-The 10 most frequent ambiguous lemmas: <em>nu</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 9, <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>nu</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 10, <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>Now</em> (<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Now</em> (<tt><a href="nds_lsdc-pos-I
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.319588).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.319540).
 
 The 1st highest number of forms (1) was observed with the lemma “jå”: <em>jå</em>.
 

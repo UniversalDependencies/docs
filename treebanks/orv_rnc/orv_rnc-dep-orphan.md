@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-96 nodes (0%) are attached to their parents as `orphan`.
+159 nodes (0%) are attached to their parents as `orphan`.
 
-49 instances of `orphan` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.625.
+106 instances of `orphan` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.79245283018868.
 
-The following 19 pairs of parts of speech are connected with `orphan`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (40; 42% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (12; 13% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (7; 7% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (6; 6% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (6; 6% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 21 pairs of parts of speech are connected with `orphan`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (61; 38% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (32; 20% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (12; 8% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (12; 8% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (6; 4% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (6; 4% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,26 +41,30 @@ The following 19 pairs of parts of speech are connected with `orphan`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 11 orphan	color:blue
-1	От	отъ	ADP	_	_	2	case	_	_
-2	Бориса	Борисъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
-3	Ивановича	Ивановичь	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	2	flat:name	_	_
-4	в	въ	ADP	_	_	7	case	_	_
-5	тверскую	тверской	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-6	мою	мой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	7	det	_	_
-7	вотчину	вотчина	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	orphan	_	_
-8	в	въ	ADP	_	_	9	case	_	_
-9	село	село	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	appos	_	_
-10	Городень	Городень	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	9	appos	_	_
-11	человеку	человѣкъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	orphan	_	_
-12	моему	мой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	11	det	_	_
-13	Смирнову	Смирной	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	appos	_	_
-14	Гольцову	Гольцовъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	13	flat:name	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 orphan	color:blue
+1	С	съ	ADP	_	_	2	case	_	wf="С"|SpaceAfter=Yes
+2	Тишки	Тишка	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	7	orphan	_	wf="Тишки"|SpaceAfter=Yes
+3	Иванова	Ивановъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	wf="Иванова"|SpaceAfter=Yes
+4	с	съ	ADP	_	_	5	case	_	wf="с"|SpaceAfter=Yes
+5	шестухи	шестуха	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	orphan	_	wf="шестухи"|SpaceAfter=Yes
+6	два	два	NUM	_	Case=Acc|Gender=Neut|NumForm=Word|NumType=Card	7	nummod:gov	_	wf="два"|SpaceAfter=Yes
+7	полтя	полоть	NOUN	_	Case=Nom|Gender=Masc|Number=Count	0	root	_	wf="полтя"|SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	wf=","|SpaceAfter=Yes
+9	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nsubj	_	wf="весу"|SpaceAfter=Yes
+10	пуд	пудъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	wf="пуд"|SpaceAfter=Yes
+11	и	и	CCONJ	_	_	13	cc	_	wf="и"|SpaceAfter=Yes
+12	с	съ	ADP	_	_	13	case	_	wf="с"|SpaceAfter=Yes
+13	вытным	вытный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	10	nmod	_	wf="вытным"|SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	wf=","|SpaceAfter=Yes
+15	да	да	CCONJ	_	_	16	cc	_	wf="да"|SpaceAfter=Yes
+16	осос	ососъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	wf="осос"|SpaceAfter=Yes
+17	4	4	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	18	nummod:gov	_	wf="4"|SpaceAfter=Yes
+18	гривенки	гривенка	NOUN	_	Case=Nom|Gender=Fem|Number=Count	16	nmod	_	wf="гривенки"|SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	wf="."|SpaceAfter=No
 
 ~~~
 
@@ -68,26 +72,23 @@ The following 19 pairs of parts of speech are connected with `orphan`: <tt><a hr
 ~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 10 orphan	color:blue
-1	148-го	148-й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	0	root	_	Norm=148-го|SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	Norm=,|SpaceAfter=Yes
-3	ноября	ноябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	Norm=ноября|SpaceAfter=Yes
-4	въ	въ	ADP	_	_	6	case	_	Norm=въ|SpaceAfter=Yes
-5	3	3	ADJ	_	NumForm=Digit	6	amod	_	Norm=3|SpaceAfter=Yes
-6	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Norm=день|SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	Norm=,|SpaceAfter=Yes
-8	з	съ	ADP	_	_	10	case	_	Norm=з|SpaceAfter=Yes
-9	Донскою	донской	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	Norm=Донскою|SpaceAfter=Yes
-10	станицею	станица	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	1	orphan	_	Norm=станицею|SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	Norm=,|SpaceAfter=Yes
-12	съ	съ	ADP	_	_	13	case	_	Norm=съ|SpaceAfter=Yes
-13	атаманомъ	атаманъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	10	conj	_	Norm=атаманомъ|SpaceAfter=Yes
-14	съ	съ	ADP	_	_	15	case	_	Norm=съ|SpaceAfter=Yes
-15	Сидоромъ	Сидоръ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	13	appos	_	Norm=Сидоромъ|SpaceAfter=Yes
-16	Олѳимовымъ	Олфимовъ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	15	flat:name	_	Norm=Олѳимовымъ|SpaceAfter=No
-17	.	.	PUNCT	_	_	1	punct	_	Norm=.
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 orphan	color:blue
+1	Да	да	CCONJ	_	_	2	cc	_	wf="Да"|SpaceAfter=Yes
+2	катка	кадка	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="катка"|SpaceAfter=Yes
+3	масла	масло	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	wf="масла"|SpaceAfter=Yes
+4	коров(ь)я	коровий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	amod	_	wf="коровья"|SpaceAfter=Yes
+5	уткинская	уткинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	wf="уткинская"|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	wf=","|SpaceAfter=Yes
+7	а	а	CCONJ	_	_	8	cc	_	wf="а"|SpaceAfter=Yes
+8	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	wf="весу"|SpaceAfter=Yes
+9	в	въ	ADP	_	_	10	case	_	wf="в"|SpaceAfter=Yes
+10	неи	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	orphan	_	wf="неи"|SpaceAfter=Yes
+11	и	и	CCONJ	_	_	13	cc	_	wf="и"|SpaceAfter=Yes
+12	з	съ	ADP	_	_	13	case	_	wf="з"|SpaceAfter=Yes
+13	деревом	дерево	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	8	nmod	_	wf="деревом"|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	wf="."|SpaceAfter=No
 
 ~~~
 

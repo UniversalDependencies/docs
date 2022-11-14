@@ -10,7 +10,7 @@ This relation is universal.
 
 445 nodes (0%) are attached to their parents as `amod`.
 
-443 instances of `amod` (100%) are right-to-left (child precedes parent).
+441 instances of `amod` (99%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.48089887640449.
 
 The following 4 pairs of parts of speech are connected with `amod`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (420; 94% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (14; 3% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).

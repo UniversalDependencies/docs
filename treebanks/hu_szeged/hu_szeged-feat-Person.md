@@ -13,21 +13,21 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 5068 tokens (12%) have a non-empty value of `Person`.
 2376 types (18%) occur at least once with a non-empty value of `Person`.
-1227 lemmas (14%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (3369; 8% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1380; 3% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (204; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (115; 0% instances).
+1225 lemmas (14%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (3372; 8% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1380; 3% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (201; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (115; 0% instances).
 
 ### `VERB`
 
-3369 <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> tokens (92% of all `VERB` tokens) have a non-empty value of `Person`.
+3372 <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> tokens (92% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3319; 99%), <tt><a href="hu_szeged-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3311; 98%), <tt><a href="hu_szeged-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2840; 84%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2452; 73%), <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2018; 60%), <tt><a href="hu_szeged-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1753; 52%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3322; 99%), <tt><a href="hu_szeged-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3314; 98%), <tt><a href="hu_szeged-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2843; 84%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2454; 73%), <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2020; 60%), <tt><a href="hu_szeged-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1754; 52%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (190; 6% of non-empty `Person`): <em>szeretem, tudtuk, csináltam, kaptam, akartam, alakítottam, beszámoltunk, dolgoztam, eljutottunk, gondolom</em>
 * `2` (8; 0% of non-empty `Person`): <em>Repülj, Tégy, felejtsd, keveredsz, lásd, megöltétek, énekelsz, őrizd</em>
-* `3` (3171; 94% of non-empty `Person`): <em>kell, van, lehet, volt, mondta, elmondta, kellene, jelentette, került, nincs</em>
-* `EMPTY` (290): <em>tudni, tartani, folytatni, látni, számítani, ellátni, hívni, kérni, lemondani, menni</em>
+* `3` (3174; 94% of non-empty `Person`): <em>kell, van, lehet, volt, mondta, elmondta, kellene, jelentette, került, nincs</em>
+* `EMPTY` (291): <em>tudni, tartani, folytatni, látni, számítani, ellátni, hívni, kérni, lemondani, menni</em>
 
 <table>
   <tr><th>Paradigm <i>tesz</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hu_szeged-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>tehetnek</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (1048) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (1047) occur only with one value of `Person`.
 
 ### `PRON`
 
@@ -86,15 +86,15 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-204 <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Person`.
+201 <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="hu_szeged-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (204; 100%), <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (195; 96%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (175; 86%), <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (175; 86%), <tt><a href="hu_szeged-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (149; 73%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="hu_szeged-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (201; 100%), <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (193; 96%), <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (188; 94%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (173; 86%), <tt><a href="hu_szeged-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (146; 73%), <tt><a href="hu_szeged-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (101; 50%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (9; 4% of non-empty `Person`): <em>vagyok, lettem, leszek, leszünk, voltam, voltunk</em>
-* `3` (195; 96% of non-empty `Person`): <em>volt, volna, lesz, lenne, voltak, lehet, legyen, lett, fog, fogja</em>
-* `EMPTY` (2): <em>elszenvedni, lenni</em>
+* `3` (192; 96% of non-empty `Person`): <em>volt, volna, lesz, lenne, voltak, lehet, legyen, lett, fog, lehetett</em>
+* `EMPTY` (1): <em>lenni</em>
 
 <table>
   <tr><th>Paradigm <i>van</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -120,13 +120,13 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> VERB</tt> (553; 93%),
+<tt>VERB --[<tt><a href="hu_szeged-dep-obl.html">obl</a></tt>]--> PRON</tt> (269; 85%),
 <tt>VERB --[<tt><a href="hu_szeged-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (266; 100%),
-<tt>VERB --[<tt><a href="hu_szeged-dep-obl.html">obl</a></tt>]--> PRON</tt> (244; 85%),
-<tt>VERB --[<tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (226; 90%),
+<tt>VERB --[<tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (229; 91%),
 <tt>VERB --[<tt><a href="hu_szeged-dep-obj.html">obj</a></tt>]--> PRON</tt> (168; 80%),
 <tt>VERB --[<tt><a href="hu_szeged-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (139; 84%),
-<tt>VERB --[<tt><a href="hu_szeged-dep-ccomp-obl.html">ccomp:obl</a></tt>]--> VERB</tt> (101; 92%),
-<tt>VERB --[<tt><a href="hu_szeged-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (54; 98%),
+<tt>VERB --[<tt><a href="hu_szeged-dep-ccomp-obl.html">ccomp:obl</a></tt>]--> VERB</tt> (100; 92%),
+<tt>PRON --[<tt><a href="hu_szeged-dep-acl.html">acl</a></tt>]--> VERB</tt> (45; 94%),
 <tt>VERB --[<tt><a href="hu_szeged-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (45; 80%),
-<tt>VERB --[<tt><a href="hu_szeged-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (36; 78%).
+<tt>VERB --[<tt><a href="hu_szeged-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (36; 97%).
 

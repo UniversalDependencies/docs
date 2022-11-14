@@ -18,12 +18,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="la_ittb-pos-NOUN.ht
 
 2 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>alpha, omega</em>
-* `EMPTY` (90315): <em>forma, esse, intellectus, formam, formae, materia, anima, potentia, homo, corpus</em>
+* `EMPTY` (90279): <em>forma, esse, intellectus, formam, formae, materia, anima, potentia, homo, corpus</em>
 
 ## Relations with Agreement in `Foreign`
 

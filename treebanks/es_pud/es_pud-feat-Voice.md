@@ -11,7 +11,7 @@ It occurs with 2 different values: `Act`, `Pass`.
 
 1911 tokens (8%) have a non-empty value of `Voice`.
 925 types (16%) occur at least once with a non-empty value of `Voice`.
-50 lemmas (1%) occur at least once with a non-empty value of `Voice`.
+54 lemmas (2%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 2 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1263; 5% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (648; 3% instances).
 
 ### `VERB`
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `Pass` (86; 7% of non-empty `Voice`): <em>conoce, aplicaría, conocen, construyó, cree, dijo, espera, incluyen, lanzó, llevó</em>
 * `EMPTY` (926): <em>hacer, tener, debido, ver, establecer, hecho, ayudar, dado, dejado, dejar</em>
 
-`Voice` seems to be **lexical feature** of `VERB`. 92% lemmas (45) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `VERB`. 92% lemmas (49) occur only with one value of `Voice`.
 
 ### `AUX`
 

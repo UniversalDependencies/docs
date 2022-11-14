@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Urdu-UDTB: POS Tags: `DET`
 
 There are 78 `DET` lemmas (1%), 85 `DET` types (1%) and 2496 `DET` tokens (2%).
-Out of 16 observed tags, the rank of `DET` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
 The 10 most frequent `DET` lemmas: یہ، وہ، کئی، تمام، ایسا، جو، کوئی، کچھ، ہر، چند
 
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  اس (<tt><a href="ur_udtb-pos-DET.html">
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.089744 (the average of all parts of speech is 1.101903).
+The form / lemma ratio of `DET` is 1.089744 (the average of all parts of speech is 1.103404).
 
 The 1st highest number of forms (8) was observed with the lemma “وہ”: اس, اسی, ان, انہیں, اُس, اُن, وہ, وہی.
 
@@ -80,13 +80,13 @@ Examples: اس، ان، اسی، جس، کسی، یہ، اُس، یہی
 
 ## Relations
 
-`DET` nodes are attached to their parents using 19 different relations: <tt><a href="ur_udtb-dep-det.html">det</a></tt> (2420; 97% instances), <tt><a href="ur_udtb-dep-amod.html">amod</a></tt> (14; 1% instances), <tt><a href="ur_udtb-dep-case.html">case</a></tt> (10; 0% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (7; 0% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (7; 0% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (6; 0% instances), <tt><a href="ur_udtb-dep-aux.html">aux</a></tt> (5; 0% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (5; 0% instances), <tt><a href="ur_udtb-dep-obj.html">obj</a></tt> (4; 0% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-obl.html">obl</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 14 different relations: <tt><a href="ur_udtb-dep-det.html">det</a></tt> (2439; 98% instances), <tt><a href="ur_udtb-dep-amod.html">amod</a></tt> (14; 1% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (9; 0% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (7; 0% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (7; 0% instances), <tt><a href="ur_udtb-dep-obj.html">obj</a></tt> (4; 0% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-iobj.html">iobj</a></tt> (1; 0% instances)
 
 Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (2371; 95% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (33; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (22; 1% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (4; 0% instances),  (2; 0% instances)
 
-2428 (97%) `DET` nodes are leaves.
+2426 (97%) `DET` nodes are leaves.
 
-58 (2%) `DET` nodes have one child.
+60 (2%) `DET` nodes have one child.
 
 6 (0%) `DET` nodes have two children.
 
@@ -94,7 +94,7 @@ Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="ur_u
 
 The highest child degree of a `DET` node is 4.
 
-Children of `DET` nodes are attached using 14 different relations: <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (28; 33% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (13; 15% instances), <tt><a href="ur_udtb-dep-case.html">case</a></tt> (9; 11% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (7; 8% instances), <tt><a href="ur_udtb-dep-obl.html">obl</a></tt> (7; 8% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (4; 5% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (4; 5% instances), <tt><a href="ur_udtb-dep-cc.html">cc</a></tt> (3; 4% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (3; 4% instances), <tt><a href="ur_udtb-dep-acl-relcl.html">acl:relcl</a></tt> (2; 2% instances), <tt><a href="ur_udtb-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="ur_udtb-dep-aux.html">aux</a></tt> (1; 1% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (1; 1% instances)
+Children of `DET` nodes are attached using 14 different relations: <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (28; 32% instances), <tt><a href="ur_udtb-dep-case.html">case</a></tt> (11; 13% instances), <tt><a href="ur_udtb-dep-obl.html">obl</a></tt> (11; 13% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (8; 9% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (7; 8% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (4; 5% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (4; 5% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (3; 3% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (3; 3% instances), <tt><a href="ur_udtb-dep-acl-relcl.html">acl:relcl</a></tt> (2; 2% instances), <tt><a href="ur_udtb-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="ur_udtb-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="ur_udtb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (1; 1% instances)
 
-Children of `DET` nodes belong to 14 different parts of speech: <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (27; 32% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (12; 14% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (9; 11% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (7; 8% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (7; 8% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (4; 5% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (4; 5% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Children of `DET` nodes belong to 14 different parts of speech: <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (27; 31% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (14; 16% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (7; 8% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (7; 8% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (4; 5% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (4; 5% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

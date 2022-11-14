@@ -11,22 +11,22 @@ It occurs with 5 different values: `Conv`, `Fin`, `Ger`, `Inf`, `Part`.
 
 2003 tokens (19%) have a non-empty value of `VerbForm`.
 1178 types (27%) occur at least once with a non-empty value of `VerbForm`.
-424 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (1587; 15% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (416; 4% instances).
+423 lemmas (17%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (1643; 16% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (360; 3% instances).
 
 ### `VERB`
 
-1587 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+1643 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1321; 83%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1317; 83%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (883; 56%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (833; 52%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (829; 52%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (820; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1377; 84%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1368; 83%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (929; 57%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (840; 51%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (836; 51%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (827; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (234; 15% of non-empty `VerbForm`): <em>деп, алып, бастап, барып, Сөйтіп, беріп, болып, қашып, құлап, айналып</em>
-* `Fin` (717; 45% of non-empty `VerbForm`): <em>деді, біледі, болды, келді, өтті, береді, шықты, алды, ашылды, болады</em>
-* `Ger` (270; 17% of non-empty `VerbForm`): <em>алуға, жасау, келгенде, оқу, шешуі, қорғалуға, алу, асыру, атауға, ашылу</em>
-* `Inf` (203; 13% of non-empty `VerbForm`): <em>басып, дами, алып, бара, жоспарланып, қарап, ала, бақылап, жаулап, көріп</em>
-* `Part` (163; 10% of non-empty `VerbForm`): <em>болған, деген, шыққан, туған, түскен, айтарлықтай, айтқан, алған, аталған, билеген</em>
+* `Conv` (236; 14% of non-empty `VerbForm`): <em>деп, алып, бастап, барып, Сөйтіп, беріп, болып, қашып, құлап, айналып</em>
+* `Fin` (765; 47% of non-empty `VerbForm`): <em>бастады, кетті, деді, біледі, болды, келді, шықты, өтті, береді, түседі</em>
+* `Ger` (275; 17% of non-empty `VerbForm`): <em>алуға, жасау, келгенде, оқу, шешуі, қорғалуға, алу, асыру, атауға, ашылу</em>
+* `Inf` (204; 12% of non-empty `VerbForm`): <em>бара, басып, дами, алып, жоспарланып, қарап, ала, бақылап, жаулап, көріп</em>
+* `Part` (163; 10% of non-empty `VerbForm`): <em>болған, деген, шыққан, туған, түскен, тұрған, айтарлықтай, айтқан, алған, аталған</em>
 
 <table>
   <tr><th>Paradigm <i>де</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th><th><tt>Conv</tt></th></tr>
@@ -49,17 +49,17 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-416 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+360 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (369; 89%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (280; 67%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (273; 66%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (270; 65%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (254; 61%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (323; 90%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (318; 88%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (234; 65%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (227; 63%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (226; 63%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (208; 58%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Conv` (38; 9% of non-empty `VerbForm`): <em>болып, болса, болмаса, алып, берсек, бола, болсам, болсаң, жатса, жіберіп</em>
-* `Fin` (289; 69% of non-empty `VerbForm`): <em>болды, еді, жатыр, бастады, кетті, емес, келеді, отыр, екен, болады</em>
-* `Ger` (47; 11% of non-empty `VerbForm`): <em>екенін, болуы, болу, болуға, болғанда, болғанын, алатынына, алмауда, алғаннан, алғаныма</em>
-* `Inf` (23; 6% of non-empty `VerbForm`): <em>болып, бола, келе, алмай, бара, боп, отыра, тұра</em>
-* `Part` (19; 5% of non-empty `VerbForm`): <em>жатқан, болған, отырған, тұрған, алмайтындай, алмаған, болатын, болушы, отыратын, қойған</em>
+* `Conv` (36; 10% of non-empty `VerbForm`): <em>болып, болса, болмаса, алып, берсек, бола, болсам, болсаң, жатса, жүріп</em>
+* `Fin` (241; 67% of non-empty `VerbForm`): <em>болды, еді, жатыр, емес, келеді, отыр, екен, болады, қалды, алды</em>
+* `Ger` (42; 12% of non-empty `VerbForm`): <em>екенін, болуы, болу, болуға, болғанда, болғанын, алатынына, алмауда, алғаннан, алғаныма</em>
+* `Inf` (22; 6% of non-empty `VerbForm`): <em>болып, бола, келе, алмай, боп, отыра, тұра</em>
+* `Part` (19; 5% of non-empty `VerbForm`): <em>жатқан, болған, отырған, алмайтындай, алмаған, болатын, болушы, жүрген, отыратын, тұрған</em>
 * `EMPTY` (1): <em>болғалы</em>
 
 <table>
@@ -77,6 +77,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td></td><td><em>болғанда</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td></td><td></td><td><em>болу</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td><em>болуы</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td></td><td><em>болған</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kk_ktb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>болыпты</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td></td><td></td><td></td><td><em>болсам</em></td></tr>
   <tr><td><tt><tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td></td><td></td><td></td><td><em>болсаң</em></td></tr>
@@ -96,7 +97,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="kk_ktb-dep-conj.html">conj</a></tt>]--> VERB</tt> (77; 89%),
-<tt>VERB --[<tt><a href="kk_ktb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (30; 81%),
+<tt>VERB --[<tt><a href="kk_ktb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (31; 84%),
 <tt>VERB --[<tt><a href="kk_ktb-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="kk_ktb-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -7,33 +7,35 @@ udver: '2'
 ## Treebank Statistics: UD_Amharic-ATT: Features: `Number`
 
 This feature is universal.
-It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
+It occurs with 2 different values: `Plur`, `Sing`.
 
-2439 tokens (24%) have a non-empty value of `Number`.
-78 types (5%) occur at least once with a non-empty value of `Number`.
-78 lemmas (5%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (2377; 24% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (56; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+2483 tokens (25%) have a non-empty value of `Number`.
+84 types (6%) occur at least once with a non-empty value of `Number`.
+43 lemmas (3%) occur at least once with a non-empty value of `Number`.
+The feature is used with 6 part-of-speech tags: <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (2421; 24% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (56; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-2377 <tt><a href="am_att-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `Number`.
+2421 <tt><a href="am_att-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=3</tt> (1841; 77%), <tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1232; 52%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="am_att-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2419; 100%), <tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=3</tt> (1858; 77%), <tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1248; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Dual` (1; 0% of non-empty `Number`): ኢ
-* `Plur` (228; 10% of non-empty `Number`): ኡ, ኣቸው, ኣችን, ን, ኧን, እን, ኣችሁ, ኧ, ት, ኡት
-* `Sing` (2148; 90% of non-empty `Number`): ኧ, ይ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት, ኡ
-* `EMPTY` (178): ምን, እኔ, ማን, እሱ, ው, የት, መቼ, ምነው, አንተ, እርሱ
+* `Plur` (230; 10% of non-empty `Number`): ኡ, ኣቸው, ኣችን, ኧን, ን, እን, ኣችሁ, ኧ, እነሱ, ት
+* `Sing` (2191; 90% of non-empty `Number`): ኧ, ይ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት, ኡ
+* `EMPTY` (129): ምን, ማን, ው, የት, መቼ, ምነው, እርሱ, ማንም, እንዴት, ምንም
 
 <table>
-  <tr><th>Paradigm <i>ኧ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>ኧ</td><td></td></tr>
-  <tr><td><tt><tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>ኧ</td><td></td></tr>
-  <tr><td><tt><tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td>ኧ</td></tr>
-  <tr><td><tt><tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>ኧ</td><td>ኧ</td></tr>
-  <tr><td><tt><tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>ኧ</td><td></td></tr>
+  <tr><th>Paradigm <i>እሱ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="am_att-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td>ኡ, ኤ, ው</td><td></td></tr>
+  <tr><td><tt><tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>ኧ, ይ, ኦ, ት, ው, ኧት, ኡ, እሱ, ኧው, ኣ, ህ, ኣቸው, ኣው, ኸ</td><td>ኧት</td></tr>
+  <tr><td><tt><tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="am_att-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td>ኧ</td><td></td></tr>
+  <tr><td><tt><tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="am_att-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td>ዋ, ኡ</td><td></td></tr>
+  <tr><td><tt><tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>ኧች, ት, ኣት, ኣ, ኣች, እሷ, ኢ, ዋ, ኣ_ት</td><td></td></tr>
+  <tr><td><tt><tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td>ሁ, ኝ, ኧሁ, ው</td><td>ኣቸው, ኡ</td></tr>
+  <tr><td><tt><tt><a href="am_att-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td>ኣቸው</td><td>ኣቸው, ው</td></tr>
+  <tr><td><tt></tt></td><td>ኧው, ው, እ</td><td>ኡ, ኣቸው, እነሱ, ት, ኡት, ኣችሁ, ኧው, ይ</td></tr>
 </table>
 
 ### `NOUN`
@@ -82,15 +84,10 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 1 <tt><a href="am_att-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="am_att-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="am_att-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="am_att-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%), <tt><a href="am_att-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): ይ
-* `EMPTY` (1551): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
-
-## Relations with Agreement in `Number`
-
-The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>PRON --[<tt><a href="am_att-dep-goeswith.html">goeswith</a></tt>]--> PRON</tt> (5; 100%).
+* `EMPTY` (1552): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
 

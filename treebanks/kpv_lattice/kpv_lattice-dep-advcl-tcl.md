@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `advcl:tcl`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-advcl.html">advcl</a></tt>.
-There are also 2 other language-specific subtypes of `advcl`: <tt><a href="kpv_lattice-dep-advcl-eval.html">advcl:eval</a></tt>, <tt><a href="kpv_lattice-dep-advcl-lto.html">advcl:lto</a></tt>.
+There are also 2 other language-specific subtypes of `advcl`: <tt><a href="kpv_lattice-dep-advcl-eval.html">advcl:eval</a></tt>, <tt><a href="kpv_lattice-dep-advcl-lcl.html">advcl:lcl</a></tt>.
 
 29 nodes (0%) are attached to their parents as `advcl:tcl`.
 
@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 4	найӧ	сійӧ	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	GTtags=Pers,Pl3,Nom
 5	юасянаӧн	юасяна	VERB	V	Case=Ins|Derivation=Ana|Number=Sing	6	advcl	_	GTtags=Der/Ana,Sg,Ins
 6	видзӧдлісны	видзӧдлыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,Pl3
-7	мӧда-мӧд	мӧда-мӧд	PRON	Pron	PronType=Rcp	6	obl:lto	_	GTtags=Recipr,Cmpl
+7	мӧда-мӧд	мӧда-мӧд	PRON	Pron	PronType=Rcp	6	obl:lmod	_	GTtags=Recipr,Cmpl
 8	вылас	вылӧ	ADP	Adp	AdpType=Post|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	case	_	GTtags=Po,Sg,Ill,PxSg3|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
 10	буракӧ	буракӧ	ADV	Adv	_	13	advmod:eval	_	GTtags=Parenthetic|SpaceAfter=No

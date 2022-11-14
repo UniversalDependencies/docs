@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-302 nodes (1%) are attached to their parents as `acl`.
+303 nodes (1%) are attached to their parents as `acl`.
 
-268 instances of `acl` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.62913907284768.
+269 instances of `acl` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.62046204620462.
 
-The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (203; 67% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (67; 22% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (16; 5% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (203; 67% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (67; 22% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (16; 5% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 1 4 acl	color:blue
 1	Finem	finis	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	LId=finis1
 2	dedit	do	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=do1
-3	ore	os	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	advmod	_	LId=os1
+3	ore	os	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	LId=os1
 4	loquendi	loquor	VERB	v---d--g-	Case=Gen|VerbForm=Ger	1	acl	_	SpaceAfter=No
 5	.	.	PUNCT	u--------	_	2	punct	_	LId=punc1
 
@@ -46,7 +46,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 7	domant	domo	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=domo1
 8	inopi	inops	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	10	amod	_	_
 9	ieiunia	jejunium	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	LId=jejunium1
-10	victu	victus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	9	advmod	_	SpaceAfter=No|LId=victus2
+10	victu	victus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No|LId=victus2
 11	.	.	PUNCT	u--------	_	7	punct	_	LId=punc1
 
 ~~~
@@ -59,7 +59,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 7 acl	color:blue
 1	Non	non	ADV	d--------	_	3	advmod	_	LId=non1
-2	est	sum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	LId=sum1
+2	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	LId=sum1
 3	dignus	dignus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LId=dignus1
 4	quem	qui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	LId=qui1
 5	in	in	ADP	r--------	_	6	case	_	LId=in1

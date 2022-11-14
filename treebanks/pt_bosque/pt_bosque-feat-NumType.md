@@ -11,7 +11,7 @@ It occurs with 6 different values: `Card`, `Frac`, `Mult`, `Ord`, `Range`, `Sets
 
 5436 tokens (2%) have a non-empty value of `NumType`.
 968 types (4%) occur at least once with a non-empty value of `NumType`.
-913 lemmas (5%) occur at least once with a non-empty value of `NumType`.
+911 lemmas (5%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 4 part-of-speech tags: <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (4642; 2% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (789; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `NUM`
@@ -26,7 +26,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="pt_bosque-pos-NUM.h
 * `Ord` (10; 0% of non-empty `NumType`): <em>1º, 2º, II, IX, 1., 2., 4ª, I, XVII, quinta</em>
 * `Range` (2; 0% of non-empty `NumType`): <em>07.00-09.00, 10.00-12.00</em>
 * `Sets` (1; 0% of non-empty `NumType`): <em>dúzia</em>
-* `EMPTY` (17): <em>meio, sete, (0800), 13, 7,5, 97, Cinco, Mil, Uma, VIII</em>
+* `EMPTY` (18): <em>meio, sete, uma, (0800), 13, 7,5, 97, Cinco, Mil, VIII</em>
 
 <table>
   <tr><th>Paradigm <i>meio</i></th><th><tt>Card</tt></th><th><tt>Frac</tt></th></tr>
@@ -44,9 +44,9 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (789; 100% of non-empty `NumType`): <em>primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira</em>
-* `EMPTY` (10599): <em>maior, grande, novo, nova, mesmo, nacional, grandes, melhor, passado, mesma</em>
+* `EMPTY` (10607): <em>maior, grande, novo, nova, mesmo, nacional, grandes, melhor, passado, mesma</em>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (79) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (77) occur only with one value of `NumType`.
 
 ### `NOUN`
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Ord` (3; 100% of non-empty `NumType`): <em>quarto, primeiro</em>
-* `EMPTY` (41376): <em>anos, presidente, ano, dia, país, pessoas, estado, parte, tempo, contos</em>
+* `EMPTY` (41383): <em>anos, presidente, ano, dia, país, pessoas, estado, parte, tempo, contos</em>
 
 ### `DET`
 

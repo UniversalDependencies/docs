@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	ea	is	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	LId=is1
 2	prima	primus	NUM	m-p---fn-	Case=Nom|Gender=Fem|Number=Plur	3	nummod	_	_
 3	piacula	piaculum	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	0	root	_	LId=piaculum1
-4	sunto	sum	VERB	v3pfma---	Mood=Imp|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	cop	_	SpaceAfter=No|LId=sum1
+4	sunto	sum	AUX	v3pfma---	Mood=Imp|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	cop	_	SpaceAfter=No|LId=sum1
 5	:	:	PUNCT	u--------	_	3	punct	_	LId=punc1
 
 ~~~
@@ -40,7 +40,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	et	et	CCONJ	c--------	_	5	cc	_	LId=et1
 2	numerus	numerus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LId=numerus1
 3	eius	is	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	LId=is1
-4	est	sum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	LId=sum1
+4	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	LId=sum1
 5	sescenti	sescenti	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	0	root	_	LId=sescenti1
 6	sexaginta	sexa_ginta	NUM	m--------	_	5	nummod	_	LId=sexa_ginta1
 7	sex	sex	NUM	m--------	_	6	nummod	_	SpaceAfter=No|LId=sex1

@@ -29,9 +29,9 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 4	በ	በ	ADP	ADP	_	6	case	_	Translit=bä|LTranslit=bä
 5	ኣለ	ኣለ	PART	NEG	Polarity=Neg	6	advmod	_	Translit='alä|LTranslit='alä
 6	መምጣት	መምጣት	NOUN	NOUN	VerbForm=Vnoun	8	csubj	_	Translit=mäməţatə|LTranslit=mäməţatə
-7	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	6	nmod	_	Translit='e|LTranslit='e
-8	ተቀየም	ተቀየም	VERB	VERB	Voice=Pass	0	root	_	Translit=täqäjämə|LTranslit=täqäjämə
-9	ኧኝ	ኧኝ	PRON	SUBJC	Number=Sing|Person=1	8	expl	_	Translit='ăňə|LTranslit='ăňə
+7	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod	_	LTranslit='əne|Translit='e
+8	ተቀየም	ተቀየም	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=täqäjämə|LTranslit=täqäjämə
+9	ኧኝ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	8	expl	_	LTranslit='əne|Translit='ăňə
 10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -44,18 +44,18 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 2 csubj	color:blue
 1	ብ	ብ	ADP	ADP	_	2	mark	_	Translit=bə|LTranslit=bə
-2	ሠር	ሠር	VERB	VERB	_	6	csubj	_	Translit=śärə|LTranslit=śärə
-3	ኣ	ኣ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	Translit='a|LTranslit='a
+2	ሠር	ሠር	VERB	VERB	Mood=Ind|VerbForm=Fin	6	csubj	_	Translit=śärə|LTranslit=śärə
+3	ኣ	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit='a
 4	ው	ው	PRON	OBJC	_	2	obj	_	Translit=wə|LTranslit=wə
-5	እ	እ	PRON	SUBJC	Number=Sing|Person=1	6	expl	_	Translit='ə|LTranslit='ə
-6	ወድ	ወድ	VERB	VERB	_	0	root	_	Translit=wädə|LTranslit=wädə
+5	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	6	expl	_	LTranslit='əne|Translit='ə
+6	ወድ	ወድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=wädə|LTranslit=wädə
 7	ኣል	ኣል	AUX	AUX	_	6	aux	_	Translit='alə|LTranslit='alə
-8	ኧሁ	ኧሁ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	6	expl	_	Translit='ăhu|LTranslit='ăhu
-9	ነገር	ነገር	CCONJ	CCONJ	_	12	cc	_	Translit=nägärə|LTranslit=nägärə
-10	ግን	ግን	CCONJ	CCONJ	_	9	goeswith	_	Translit=gənə|LTranslit=gənə
+8	ኧሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	6	expl	_	LTranslit='əne|Translit='ăhu
+9	ነገር	ነገርግን	CCONJ	CCONJ	Typo=Yes	12	cc	_	Translit=nägärə|LTranslit=nägärəgənə
+10	ግን	_	X	_	_	9	goeswith	_	Translit=gənə
 11	ጊዜ	ጊዜ	NOUN	NOUN	_	12	obj	_	Translit=gize|LTranslit=gize
-12	የለ	የለ	VERB	VERB	_	6	conj	_	Translit=jälä|LTranslit=jälä
-13	ኝ	ኝ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	12	nsubj	_	Translit=ňə|LTranslit=ňə
+12	የለ	የለ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	conj	_	Translit=jälä|LTranslit=jälä
+13	ኝ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	LTranslit='əne|Translit=ňə
 14	ም	ም	PART	NEG	Polarity=Neg	12	advmod	_	Translit=mə|LTranslit=mə
 15	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -75,9 +75,9 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 5	መምጣት	መምጣት	NOUN	NOUN	VerbForm=Vnoun	8	advcl	_	Translit=mäməţatə|LTranslit=mäməţatə
 6	አልማዝ	አልማዝ	PROPN	PROPN	_	8	nsubj:pass	_	Translit='äləmazə|LTranslit='äləmazə
 7	ን	ን	PART	ACC	_	6	case	_	Translit=nə|LTranslit=nə
-8	አስጨነ	አስጨነ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəćänä|LTranslit='äsəćänä
-9	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	expl	_	Translit='ă|LTranslit='ă
-10	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	8	expl	_	Translit='atə|LTranslit='atə
+8	አስጨነ	አስጨነ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəćänä|LTranslit='äsəćänä
+9	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ă
+10	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='atə
 11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~

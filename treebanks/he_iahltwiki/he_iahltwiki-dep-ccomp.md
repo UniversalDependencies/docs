@@ -85,7 +85,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 8	,	,	PUNCT	PUNCT	_	2	punct	_	_
 9	ענה	ענה	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 10	"	"	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
-11	הייתי	היה	AUX	AUX	Gender=Masc|Number=Sing|Person=1|Polarity=Pos|Tense=Past	13	cop	_	_
+11	הייתי	היה	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=1|Polarity=Pos|Tense=Past	13	cop	_	_
 12	מאוד	מאוד	ADV	ADV	_	13	advmod	_	_
 13	חסר	חסר	ADJ	ADJ	Definite=Cons|Gender=Masc|Number=Sing	9	ccomp	_	_
 14	ביטחון	ביטחון	NOUN	NOUN	Gender=Masc|Number=Sing	13	compound	_	_

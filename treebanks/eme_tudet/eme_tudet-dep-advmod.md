@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (5%) are attached to their parents as `advmod`.
+106 nodes (8%) are attached to their parents as `advmod`.
 
-9 instances of `advmod` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.69230769230769.
+70 instances of `advmod` (66%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57547169811321.
 
-The following 3 pairs of parts of speech are connected with `advmod`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (7; 54% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (5; 38% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 8% instances).
+The following 11 pairs of parts of speech are connected with `advmod`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (55; 52% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (34; 32% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (5; 5% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-X.html">X</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -31,14 +31,14 @@ The following 3 pairs of parts of speech are connected with `advmod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 advmod	color:blue
-1	wãĩwĩ	wãĩwĩ	NOUN	n	_	2	nsubj	_	_
-2	ipuruʔa	puruʔa	NOUN	n	Rel=NCont	0	root	_	_
-3	ikeʔɨ	ikeʔɨ	ADV	adv	_	2	advmod	_	_
+# visual-style 2 1 advmod	color:blue
+1	aʔenawe	aʔe	ADV	adv	Subord=Yes	2	advmod	_	_
+2	sikãĩwe	sikãĩ	NOUN	n	Also=Yes	0	root	_	_
+3	wãĩwĩkom	wãĩwĩ	NOUN	n	Number=Plur	2	nsubj	_	_
 
 ~~~
 
@@ -46,13 +46,14 @@ The following 3 pairs of parts of speech are connected with `advmod`: <tt><a hre
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 advmod	color:blue
-1	dati	dati	AUX	aux	_	4	cop	_	_
-2	sikə	sikə	ADV	adv	_	4	advmod	_	_
-3	dʒi	dʒi	X	x	_	4	dep	_	_
-4	teko	teko	PROPN	propn	_	0	root	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 advmod	color:blue
+1	nan	nan	ADV	adv	_	4	advmod	_	_
+2	ãhãte	ãhã	ADV	adv	Foc=Yes	1	advmod	_	_
+3	aŋ	aŋ	DET	dem	_	4	det	_	_
+4	baʔekʷər	baʔekʷər	NOUN	n	_	5	obj	_	_
+5	zaidu	idu	VERB	v	Imprs=Yes	0	root	_	_
 
 ~~~
 

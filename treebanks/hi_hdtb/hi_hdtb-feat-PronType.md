@@ -106,14 +106,14 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (53; 96%),
-<tt>PRON --[<tt><a href="hi_hdtb-dep-case.html">case</a></tt>]--> PRON</tt> (23; 96%),
+<tt>PRON --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (57; 97%),
+<tt>PRON --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> PRON</tt> (41; 98%),
 <tt>PRON --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (19; 95%),
 <tt>DET --[<tt><a href="hi_hdtb-dep-det.html">det</a></tt>]--> DET</tt> (16; 100%),
-<tt>PRON --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> PRON</tt> (11; 100%),
-<tt>DET --[<tt><a href="hi_hdtb-dep-case.html">case</a></tt>]--> DET</tt> (5; 71%),
-<tt>PRON --[<tt><a href="hi_hdtb-dep-punct.html">punct</a></tt>]--> PRON</tt> (5; 100%),
-<tt>PRON --[<tt><a href="hi_hdtb-dep-mark.html">mark</a></tt>]--> PRON</tt> (4; 100%),
+<tt>DET --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> DET</tt> (8; 62%),
 <tt>DET --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> DET</tt> (3; 100%),
-<tt>PRON --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 100%).
+<tt>PRON --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 100%),
+<tt>PRON --[<tt><a href="hi_hdtb-dep-det.html">det</a></tt>]--> PRON</tt> (3; 75%),
+<tt>DET --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
+<tt>PRON --[<tt><a href="hi_hdtb-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (1; 100%).
 

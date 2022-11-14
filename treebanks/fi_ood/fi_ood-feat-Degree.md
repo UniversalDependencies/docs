@@ -55,7 +55,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (10; 77% of non-empty `Degree`): <em>paremmin, huonommin, lähempänä, helpommin, pahemmin, pahemminkin</em>
 * `Pos` (1; 8% of non-empty `Degree`): <em>kumma</em>
 * `Sup` (2; 15% of non-empty `Degree`): <em>parhaiten, helpoiten</em>
-* `EMPTY` (1963): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
+* `EMPTY` (1965): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
 
 <table>
   <tr><th>Paradigm <i>hyvin</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

@@ -11,7 +11,7 @@ This relation is universal.
 54 nodes (0%) are attached to their parents as `flat`.
 
 54 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+Average distance between parent and child is 1.66666666666667.
 
 The following 7 pairs of parts of speech are connected with `flat`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (44; 81% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
@@ -22,16 +22,16 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat	color:blue
-1	-	-	PUNCT	Y	_	9	punct	_	Translit=-
-2	تىمساھ	تىمساھ	NOUN	N	Case=Nom	9	discourse	_	Translit=timsah
+1	-	-	PUNCT	Y	_	10	punct	_	Translit=-
+2	تىمساھ	تىمساھ	NOUN	N	Case=Nom	10	discourse	_	Translit=timsah
 3	ئاكا	ئاكا	NOUN	N	Case=Nom	2	flat	_	SpaceAfter=No|Translit=aka
 4	،	،	PUNCT	Y	_	2	punct	_	Translit=,
 5	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	7	det	_	Translit=bu
 6	بەش	بەش	NUM	M	_	7	nummod	_	Translit=besh
 7	قىزنى	قىز	NOUN	N	Case=Acc	9	obj	_	Translit=qizni
-8	دەريادىن	_	NOUN	N	_	9	obl	_	Translit=deryadin|Morf=Unknown
-9	ئۆتكۈزۈپ	ئۆتكۈز	VERB	V	Aspect=Perf|VerbForm=Inf	0	root	_	Translit=ötküzüp
-10	قويسىڭىز	_	AUX	V	_	9	aux	_	SpaceAfter=No|Translit=qoysingiz|Morf=Unknown
+8	دەريادىن	_	NOUN	N	_	10	obl	_	Translit=deryadin|Morf=Unknown
+9	ئۆتكۈزۈپ	ئۆتكۈز	VERB	V	Aspect=Perf|VerbForm=Inf	10	xcomp	_	Translit=ötküzüp
+10	قويسىڭىز	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=qoysingiz|Morf=Unknown
 11	،	،	PUNCT	Y	_	10	punct	_	Translit=,
 
 ~~~
@@ -40,16 +40,16 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 flat	color:blue
-1	باتۇر	باتۇر	NOUN	A	Case=Nom	2	amod	_	Translit=batur
-2	ئەزىمەت	ئەزىمەت	NOUN	A	Case=Nom	6	appos	_	SpaceAfter=No|Translit=ezimet
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 flat	color:blue
+1	باتۇر	باتۇر	ADJ	A	Case=Nom	2	amod	_	Translit=batur
+2	ئەزىمەت	ئەزىمەت	NOUN	A	Case=Nom	12	nsubj	_	SpaceAfter=No|Translit=ezimet
 3	،	،	PUNCT	Y	_	2	punct	_	Translit=,
 4	مەشھۇر	مەشھۇر	ADJ	A	_	5	amod	_	Translit=meshhur
-5	قوشاقچى	قوشاقچى	NOUN	N	Case=Nom	6	appos	_	Translit=qoshaqchi
-6	سادىر	_	NOUN	N	_	12	nsubj	_	Translit=sadir|Morf=Unknown
-7	پالۋان	پالۋان	ADJ	A	Case=Nom	6	flat	_	Translit=palwan
+5	قوشاقچى	قوشاقچى	NOUN	N	Case=Nom	2	appos	_	Translit=qoshaqchi
+6	سادىر	_	NOUN	N	_	2	appos	_	Translit=sadir|Morf=Unknown
+7	پالۋان	پالۋان	ADJ	A	Case=Nom	2	flat	_	Translit=palwan
 8	ئۇنىڭ	ئۇ	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	nmod:poss	_	Translit=uning
 9	قەلبىنىڭ	قەلب	NOUN	N	Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3	10	nmod:poss	_	Translit=qelbining
 10	تۆرىدىن	تۆر	NOUN	N	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	12	obl	_	Translit=töridin

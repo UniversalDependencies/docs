@@ -22,30 +22,30 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 discourse	color:blue
-1	سرعان	surEAna_1	X	UH	_	3	discourse	_	_
-2	ما	mA_4	PART	RP	_	3	compound:prt	_	_
-3	أبهر	>abohar_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-4	"	"_0	PUNCT	``	_	5	punct	_	SpaceAfter=No
-5	شين	$iyn_2	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	3	nsubj	_	_
-6	كيو	yuw_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	5	flat	_	SpaceAfter=No
-7	"	"_0	PUNCT	''	_	5	punct	_	_
-8	"	"_0	PUNCT	``	_	9	punct	_	SpaceAfter=No
-9	وانغ	nagaY-i_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	3	obj	_	_
-10	أنشي	na$iy-a_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	9	flat	_	SpaceAfter=No
-11	"	"_0	PUNCT	''	_	9	punct	_	_
-12	ب	b	ADP	IN	_	13	case	_	SpaceAfter=No
-13	مهارات	mahArap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
-14	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
-15	و	w	CCONJ	CC	_	16	cc	_	SpaceAfter=No
-16	قدرات	qudorap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	13	conj	_	SpaceAfter=No
-17	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	16	nmod	_	_
-18	ك	k	ADP	IN	_	19	case	_	SpaceAfter=No
-19	مسؤولٍ	maso&uwl_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	nmod	_	_
-20	و	w	CCONJ	CC	_	21	cc	_	SpaceAfter=No
-21	وكيلٍ	wakiyl_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	19	conj	_	_
-22	عن	Ean_1	ADP	IN	_	23	case	_	_
-23	الحكومة	Hukuwmap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
-24	.	._0	PUNCT	.	_	3	punct	_	_
+1	سرعان	سُرعانَ	X	UH	_	3	discourse	_	LId=سُرعانَ_1
+2	ما	مَا	PART	RP	_	3	compound:prt	_	LId=ما_4
+3	أبهر	أَبهَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَبْهَر_1
+4	"	"	PUNCT	``	_	5	punct	_	LId="_0|SpaceAfter=No
+5	شين	شِين	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	LId=شِين_2
+6	كيو	يُو	PROPN	NNP	Gender=Masc|Number=Sing	5	flat	_	LId=يُو_1|SpaceAfter=No
+7	"	"	PUNCT	''	_	5	punct	_	LId="_0
+8	"	"	PUNCT	``	_	9	punct	_	LId="_0|SpaceAfter=No
+9	وانغ	نَغَى	PROPN	NNP	Gender=Masc|Number=Sing	3	obj	_	LId=نَغَى-ِ_1
+10	أنشي	نَشِي	PROPN	NNP	Gender=Masc|Number=Sing	9	flat	_	LId=نَشِي-َ_1|SpaceAfter=No
+11	"	"	PUNCT	''	_	9	punct	_	LId="_0
+12	ب	بِ	ADP	IN	_	13	case	_	SpaceAfter=No
+13	مهارات	مَهارَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	LId=مَهارَة_1|SpaceAfter=No
+14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
+15	و	وَ	CCONJ	CC	_	16	cc	_	SpaceAfter=No
+16	قدرات	قُدرَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	13	conj	_	LId=قُدْرَة_1|SpaceAfter=No
+17	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	16	nmod	_	_
+18	ك	كَ	ADP	IN	_	19	case	_	SpaceAfter=No
+19	مسؤولٍ	مَسؤُول	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	nmod	_	LId=مَسْؤُول_1
+20	و	وَ	CCONJ	CC	_	21	cc	_	SpaceAfter=No
+21	وكيلٍ	وَكِيل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	19	conj	_	LId=وَكِيل_1
+22	عن	عَن	ADP	IN	_	23	case	_	LId=عَن_1
+23	الحكومة	حُكُومَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	LId=حُكُومَة_1|SpaceAfter=No
+24	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
 ~~~
 

@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `list` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.
 
-The following 1 pairs of parts of speech are connected with `list`: <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `list`: <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -43,12 +43,12 @@ The following 1 pairs of parts of speech are connected with `list`: <tt><a href=
 19	hetkel	hetk	NOUN	S	Case=Ade|Number=Sing	20	obl	20:obl	_
 20	lasta	laskma	VERB	V	VerbForm=Inf	15	acl:relcl	15:acl	_
 21	vms	vms	ADV	Y	Abbr=Yes	20	obl	20:obl	_
-22	Eric	Eric	PROPN	S	Case=Nom|Number=Sing	15	appos	15:appos	_
-23	Clapton	Clapton	PROPN	S	Case=Nom|Number=Sing	22	flat	22:flat	SpaceAfter=No
+22	Eric	Eric	PROPN	S	Case=Nom|Number=Sing	15	appos	15:appos	NE=B-Per
+23	Clapton	Clapton	PROPN	S	Case=Nom|Number=Sing	22	flat	22:flat	NE=I-Per|SpaceAfter=No
 24	:	:	PUNCT	Z	_	25	punct	25:punct	_
-25	Tears	Tears	PROPN	S	Case=Nom|Foreign=Yes|Number=Sing	22	list	22:list	_
-26	in	in	X	S	Case=Nom|Foreign=Yes|Number=Sing	25	flat:foreign	25:flat	_
-27	heaven	heaven	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing	25	flat:foreign	25:flat	_
+25	Tears	Tears	X	T	Foreign=Yes	22	list	22:list	NE=B-Prod
+26	in	in	X	T	Foreign=Yes	25	flat:foreign	25:flat	NE=I-Prod
+27	heaven	heaven	X	T	Foreign=Yes	25	flat:foreign	25:flat	NE=I-Prod
 28	:)	:)	INTJ	E	_	6	discourse	6:discourse	_
 
 ~~~

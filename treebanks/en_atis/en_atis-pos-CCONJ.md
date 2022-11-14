@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>either</em> (<tt><a href="en_atis-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.150056).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.143493).
 
 The 1st highest number of forms (1) was observed with the lemma “343”: <em>343</em>.
 
@@ -46,7 +46,7 @@ The 3rd highest number of forms (1) was observed with the lemma “both”: <em>
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="en_atis-dep-cc.html">cc</a></tt> (952; 98% instances), <tt><a href="en_atis-dep-cc-preconj.html">cc:preconj</a></tt> (11; 1% instances), <tt><a href="en_atis-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="en_atis-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="en_atis-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (478; 49% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (253; 26% instances), <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (164; 17% instances), <tt><a href="en_atis-pos-NUM.html">NUM</a></tt> (27; 3% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (16; 2% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (6; 1% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (449; 46% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (253; 26% instances), <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (193; 20% instances), <tt><a href="en_atis-pos-NUM.html">NUM</a></tt> (27; 3% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (16; 2% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (6; 1% instances)
 
 965 (100%) `CCONJ` nodes are leaves.
 
