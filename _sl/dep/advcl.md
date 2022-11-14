@@ -44,3 +44,4 @@ advcl(človek,blaten)
 advcl(man,muddy)
 ~~~
 
+<!-- Interlanguage links updated Po lis 14 15:35:03 CET 2022 -->

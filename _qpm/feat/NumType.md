@@ -40,7 +40,6 @@ In Pomak, the feature `NumType` is assigned to the following parts of speech:
 
 - *annóš* "once", *dvaš* "twice", *triš* "thrice /three times", *čétriš "four times"*, *beš keré(t)* "five times", *altý keré(t)* "six times", *jedí keré(t)* "seven times", *ellí keré(t)* "fisty times", *jus keré(t)* "hundred times", *bin keré(t)* "thousand times" 
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->
 
 
-<!-- Interlanguage links updated So kvě 14 19:02:27 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:52 CET 2022 -->

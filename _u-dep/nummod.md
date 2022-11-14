@@ -52,4 +52,4 @@ case(room, in)
 nmod(room, 4)
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:03:57 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:36 CET 2022 -->

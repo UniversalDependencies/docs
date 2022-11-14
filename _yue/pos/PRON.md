@@ -30,4 +30,4 @@ Pronouns are words that substitute for nouns or noun phrases, whose meaning is r
   - X + 方: 對方 / _deoi3fong1_ "the other party", 雙方 / _soeng1fong1_ "both parties"
   - X + 者: 前者 / _cin4ze2_ "the former", 後者 / _hau6ze2_ "the latter", 兩者 / _loeng2ze2_ "the two", 三者 / _saam1ze2_ "the three", etc.
   - 其餘 / _kei4jyu4_ "the rest"
-<!-- Interlanguage links updated So kvě 14 19:01:54 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:35 CET 2022 -->

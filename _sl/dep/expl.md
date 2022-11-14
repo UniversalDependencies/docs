@@ -31,3 +31,4 @@ expl(žurali,ga)
 Zagodla jim jo je bolezen .
 expl(Zagodla,jo)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:25 CET 2022 -->

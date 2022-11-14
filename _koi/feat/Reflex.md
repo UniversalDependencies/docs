@@ -25,4 +25,4 @@ column. (Which means that empty value has the `No` meaning.)
 
 #### Examples
 
-<!-- Interlanguage links updated So kvě 14 19:02:37 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:57 CET 2022 -->

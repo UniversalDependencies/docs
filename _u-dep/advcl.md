@@ -82,4 +82,4 @@ Entering the room sad is not recommended
 advcl(Entering, sad)
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:02:50 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:04 CET 2022 -->

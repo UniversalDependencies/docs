@@ -19,4 +19,4 @@ parataxis:insert(faudra, déclara)
 vraiment dit Job la vie de l'homme sur Terre est une corvée \n truely, said Job, man's life on earth is nothing more than pressed service
 parataxis:insert(corvée, dit)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:04:11 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:43 CET 2022 -->

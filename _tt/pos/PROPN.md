@@ -24,4 +24,4 @@ Acronyms of proper nouns, such as _РФ_ and _ТР_, should be tagged `PROPN`.
 - _Марат_, _Гөлнара_
 - _Казан_
 - _ТР_, _РФ_, _АКШ_
-<!-- Interlanguage links updated So kvě 14 19:01:55 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:36 CET 2022 -->

@@ -75,4 +75,4 @@ Masculine nouns are lenited and slenderised, feminine nouns merely lenited.
 #### Examples
 
 * _Dè do bheachd air a’ chùis, **a** Mhurchaidh?_ (What is your opinion on the matter, Murdo?)
-<!-- Interlanguage links updated So kvě 14 19:02:28 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:52 CET 2022 -->

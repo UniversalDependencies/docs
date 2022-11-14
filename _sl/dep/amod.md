@@ -37,3 +37,4 @@ amod(vzorec,podoben)
 nova ladja , velika 1350 kvadratnih metrov
 amod(ladja,velika)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:08 CET 2022 -->

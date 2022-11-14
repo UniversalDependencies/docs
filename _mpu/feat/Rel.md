@@ -43,4 +43,4 @@ The non-contiguous are: t- or y-
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated So kvě 14 19:02:38 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:58 CET 2022 -->

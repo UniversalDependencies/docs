@@ -53,4 +53,4 @@ nsubj(honest, you)
 
 This relation is no longer used for optional depictives: [advcl]() should be used instead.
 
-<!-- Interlanguage links updated So kvě 14 19:02:46 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:02 CET 2022 -->

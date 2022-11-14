@@ -51,4 +51,4 @@ Nager avec les dauphins ne me fait pas rêver. C' est explorer la forêt tropica
 advcl:cleft(explorer, intéresse.)
 nsubj:expl(explorer,C')
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:02:51 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:04 CET 2022 -->

@@ -152,4 +152,4 @@ Examples cited by Avila (2021) (our English translations):
 * [yrl] _Indé rewewé <b>yepé</b> kutara [...]&nbsp;_  “You were flying fast in vain [...]” (Casasnovas, 93)
 * [yrl] _Apurakí-putari <b>yepé</b>, ixé se maraari. &nbsp;_  “I wanted to work, but I'm tired.” (Magalhães, 96, adap.)
 
-<!-- Interlanguage links updated So kvě 14 19:02:04 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->

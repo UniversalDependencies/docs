@@ -30,4 +30,4 @@ Note that in Armenian nominal usually allows one `DET` modifier, but there are o
 - emphatic determiners։ _ինքը, ինքները&nbsp;_ “himself, themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։&nbsp;_ “President <b>himself</b> came to see it.”
 - total determiners: _ամեն, ամեն մի, բոլոր, յուրաքանչյուր, ողջ, ամբողջ, համայն, ամենյան;_ “every, each, all, each, whole, all, whole, all”
 - negative determiner: _ոչ մի&nbsp;_ “no” as in _Հիմա <b>ոչ մի</b> մեքենա չունենք։&nbsp;_ “We have <b>no</b> cars available.”
-<!-- Interlanguage links updated So kvě 14 19:01:47 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:31 CET 2022 -->

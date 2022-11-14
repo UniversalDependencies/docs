@@ -26,4 +26,4 @@ parataxis(παραδεχτούμε, αποτύχαμε)
 Ρίξε κάτι πάνω σου , κάνει κρύο .
 parataxis(Ρίξε, κάνει)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:04:09 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:42 CET 2022 -->

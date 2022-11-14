@@ -29,4 +29,4 @@ _ina bhfuil <b>27</b> Ballstát_ `in which there are <b>27</b> Member States'
 ina bhfuil 27 Ballstát \n in_which are 27 Member_States
 nummod(Ballstát, 27)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:56 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:36 CET 2022 -->

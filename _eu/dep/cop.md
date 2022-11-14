@@ -33,4 +33,4 @@ advcl(nabil-4, ito-2)
 cop(beldur-3, nabil-4)
 punct(beldur-3, .-5)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:20 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:18 CET 2022 -->

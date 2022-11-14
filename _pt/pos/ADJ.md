@@ -27,4 +27,4 @@ To conform to the UD guidelines, possessive adjectives are handled as determiner
 * _verde_ "green"
 * _incompreensível_ “incomprehensible”
 * _primeiro_ "first", _segundo_ "second", _terceiro_ "third"
-<!-- Interlanguage links updated So kvě 14 19:01:41 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:28 CET 2022 -->

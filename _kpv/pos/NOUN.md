@@ -14,4 +14,4 @@ such as people, places, things, animals and ideas.
 * [kpv] _кань_ "cat"
 * [kpv] _пу_ "tree"
 
-<!-- Interlanguage links updated So kvě 14 19:01:50 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:33 CET 2022 -->

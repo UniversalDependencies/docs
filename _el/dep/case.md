@@ -90,4 +90,4 @@ mark(συναντήσω, πριν)
 ## TODO
 
 Add guidelines on tokenization of  _στ-_ preposition+article combinations.
-<!-- Interlanguage links updated So kvě 14 19:03:08 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:12 CET 2022 -->

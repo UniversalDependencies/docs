@@ -30,4 +30,4 @@ This word form must be used after a preposition.
 
 Examples: [cs] _k <b>němu</b>_ "to him" (dative)
 
-<!-- Interlanguage links updated So kvě 14 19:02:34 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:55 CET 2022 -->

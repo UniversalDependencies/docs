@@ -111,4 +111,4 @@ The temporal noun may be part of a complex noun phrase.
 14	ago"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:04:08 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:41 CET 2022 -->

@@ -15,4 +15,4 @@ expresses a semantic relationship between them.
 - _og_ "and"
 - _eller_ "or"
 - _men_ "but"
-<!-- Interlanguage links updated So kvě 14 19:01:46 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:31 CET 2022 -->

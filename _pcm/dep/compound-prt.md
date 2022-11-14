@@ -39,4 +39,4 @@ The `compound:prt` relation is used for the particles of idiomatic phrasal verbs
 6	rain	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:16 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:16 CET 2022 -->

@@ -53,3 +53,4 @@ Ko si enkrat na vrhu in se poškoduješ , se je težko vrniti .
 conj(si,poškoduješ)
 cc(poškoduješ,in)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:17 CET 2022 -->

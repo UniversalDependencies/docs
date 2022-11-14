@@ -33,4 +33,4 @@ The possessor's number is marked morphologically on the possessed noun
 * [ess] _<b>qikmiput</b>_ "our (plural) dogs" `Number=Plur|Number[psor]=Plur`
 
 
-<!-- Interlanguage links updated So kvě 14 19:02:26 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:51 CET 2022 -->

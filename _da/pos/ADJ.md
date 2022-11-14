@@ -15,4 +15,4 @@ Danish adjectives have positive/comparative/superlative degree, e.g. _hurtig/hur
 - _gammel/gammelt/gamle_ "old"
 - _grøn/grønt/grønne_ "green"
 - _ufatlig/ufatligt/ufatlige_ "incomprehensible"
-<!-- Interlanguage links updated So kvě 14 19:01:41 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:28 CET 2022 -->

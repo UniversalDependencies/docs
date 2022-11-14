@@ -38,4 +38,4 @@ A plural noun denotes several persons, animals or things. Plural nouns may be us
 ### References
  * Steven A. Jacobson. 2001. A Practical Grammar of the St. Lawrence Island / Siberian Yupik Eskimo Language, Preliminary Edition, 2nd edition. Alaska Native Language Center, Fairbanks, Alaska.
 
-<!-- Interlanguage links updated So kvě 14 19:02:24 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:50 CET 2022 -->

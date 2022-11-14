@@ -94,4 +94,4 @@ the aorist expresses either habitual aspect or various kinds of modality: genera
 hypothetical, presumptive (with future time reference) or volitional
 -->
 
-<!-- Interlanguage links updated So kvě 14 19:02:41 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:59 CET 2022 -->

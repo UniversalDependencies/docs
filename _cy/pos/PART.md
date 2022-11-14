@@ -16,4 +16,4 @@ There are some particles in Welsh
   * _Roedd Llion **yn** gryf_ "Llion was strong"
   * _Mae Mair **yn** athrowes_ "Mair is a teacher"
 
-<!-- Interlanguage links updated So kvě 14 19:01:52 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:34 CET 2022 -->

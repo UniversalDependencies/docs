@@ -24,4 +24,4 @@ nummod(здыйсэ-8, ниле-7)
 
 
 
-<!-- Interlanguage links updated So kvě 14 19:04:04 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:39 CET 2022 -->

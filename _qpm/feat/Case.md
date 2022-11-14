@@ -61,4 +61,4 @@ The vocative case is typically used to address someone.
 * _tébe, <b>Asáne</b>, še to pójemom sas móne, da mi pamágaš_ "you <b>Chasan</b>, I am going to take with me to help me"
 * kadé si, bre <b>dúšo</b>? - godíny tó som ne vídeval!_ "where have you been, my dearest? It is a very long time since I have seen you [lit: where are you, oh soul? years you [I] have not seen" 
 
-<!-- Interlanguage links updated So kvě 14 19:02:05 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:41 CET 2022 -->

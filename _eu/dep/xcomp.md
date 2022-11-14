@@ -66,4 +66,4 @@ xcomp(erabaki-4, joatea-3)
 aux(erabaki-4, zuen-5)
 punct(erabaki-4, .-6)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:04:17 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:45 CET 2022 -->

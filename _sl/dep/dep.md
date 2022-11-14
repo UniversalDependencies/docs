@@ -17,3 +17,4 @@ dep(sprejetje,19)
 cop(sprejetje,je)
 nsubj(sprejetje,Institucija)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:21 CET 2022 -->

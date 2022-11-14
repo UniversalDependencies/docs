@@ -12,4 +12,4 @@ to modify the meaning of the nominal head.
 POSS1 EGEN SPRÅK VETA-INTE PRO1 \n I didn't know my own language
 amod(SPRÅK, EGEN)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:01 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:08 CET 2022 -->

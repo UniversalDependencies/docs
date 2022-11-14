@@ -13,4 +13,4 @@ The relation `obl:agent` is used for agents of passive verbs
 obl:agent(принято, отцом)
 obl:agent(made, father)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:04:02 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:38 CET 2022 -->

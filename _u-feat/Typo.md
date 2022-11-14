@@ -44,4 +44,4 @@ A valid word that is superfluous in the sentence and attached as [reparandum]() 
 
 * [en] _<b>Barak</b> Obama_
 
-<!-- Interlanguage links updated So kvě 14 19:02:42 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:59 CET 2022 -->

@@ -46,4 +46,4 @@ In compound forms, the counted element follows the first numeral not the whole e
 * _pedair awr ar hugain_ "24 hours"
 * _unfed ganrif ar hugain_ 21st century"
 
-<!-- Interlanguage links updated So kvě 14 19:01:51 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:33 CET 2022 -->

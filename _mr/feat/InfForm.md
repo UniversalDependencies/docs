@@ -27,4 +27,4 @@ Used as the citation form of verbs. It may function as a verbal noun and take ca
 
 * <b>होऊ</b> / _<b>hoū</b>_ “to be”
 
-<!-- Interlanguage links updated So kvě 14 19:02:18 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:47 CET 2022 -->

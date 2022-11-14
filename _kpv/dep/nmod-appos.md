@@ -34,4 +34,4 @@ nmod(кодзув, Войвыв)
 nmod:appos(журналын, кодзув)
 obl:lmod(Йӧзӧдӧма, журналын)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:46 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:31 CET 2022 -->

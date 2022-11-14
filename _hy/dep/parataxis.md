@@ -90,4 +90,4 @@ punct(know, ,-18)
 ~~~
 
 Note that in Armnian two coordinate clauses in a sentence can be separated with Armenian colon “.”. We do not use the [conj]() relation, but [parataxis]() to connect these clauses, if they are rather independent from each other semantically.
-<!-- Interlanguage links updated So kvě 14 19:04:09 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:42 CET 2022 -->

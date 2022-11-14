@@ -29,4 +29,4 @@ root(ROOT, Sorpresa)
 nmod(Sorpresa, sorpresa)
 punct(Sorpresa, .)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:04:15 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:44 CET 2022 -->

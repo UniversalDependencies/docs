@@ -27,4 +27,4 @@ The quality of one object is compared to the same quality of all other objects w
 #### Examples
 
 * _иң яхшы_  "best"
-<!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:43 CET 2022 -->

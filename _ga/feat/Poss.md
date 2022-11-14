@@ -29,4 +29,4 @@ Certain prepositions (e.g. _faoi_ "under", _i_ "in", _le_ "with") in Irish can a
 * _ina c<b>h</b>orpán_ "in his body"
 * _ina cónaí_ "she lives in (lit. in her dwelling)"
 * _ina <b>g</b>cónaí_ "they live in (lit. in their dwelling)"
-<!-- Interlanguage links updated So kvě 14 19:02:33 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:55 CET 2022 -->

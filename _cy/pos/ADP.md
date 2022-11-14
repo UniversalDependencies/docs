@@ -38,4 +38,4 @@ if there is a overt pronoun, we annotate as follows: _... amdanyn nhw..._
 10      nhw     hwy     PRON    indep   Number=Plur|Person=3|PronType=Prs       9       compound:redup  _       SpaceAfter=No
 ```
 
-<!-- Interlanguage links updated So kvě 14 19:01:42 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:29 CET 2022 -->

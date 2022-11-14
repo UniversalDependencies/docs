@@ -17,4 +17,4 @@ For _subordinating conjunctions,_ see [SCONJ]().
 - _и&nbsp;_ “and”
 - _или&nbsp;_ “or”
 - _но&nbsp;_ “but”
-<!-- Interlanguage links updated So kvě 14 19:01:46 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:31 CET 2022 -->

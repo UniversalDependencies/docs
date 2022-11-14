@@ -13,4 +13,4 @@ Adverbs are words that typically modify [VERB]() for such categories as time, pl
 
 - so (used to focalize the attention) : <b>So</b> na bad thing.
 - naim (used as a marker in the second part of a cleft phrase) : Na only di living <b>naim</b> dey celebrate.
-<!-- Interlanguage links updated So kvě 14 19:01:44 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:30 CET 2022 -->

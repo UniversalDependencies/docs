@@ -34,3 +34,4 @@ discourse:q(mü, bugün)
 discourse:q(mi, içtin)
 ~~~
 
+<!-- Interlanguage links updated Po lis 14 15:35:24 CET 2022 -->

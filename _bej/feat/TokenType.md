@@ -48,4 +48,4 @@ Token which is unfinished like false starts, marked by the hash sign.
 #### Examples
 
 - _aː#_ (False start `DET`)
-<!-- Interlanguage links updated So kvě 14 19:02:41 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:59 CET 2022 -->

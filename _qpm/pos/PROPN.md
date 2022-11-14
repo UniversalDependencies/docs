@@ -40,4 +40,4 @@ but still consist of one token, they are tagged PROPN and not SYM. However, if a
 _OTE_ "ΟGT - Organization of Greek Telecommunication"
 
 
-<!-- Interlanguage links updated So kvě 14 19:01:55 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:35 CET 2022 -->

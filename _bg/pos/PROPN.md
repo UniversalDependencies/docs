@@ -22,4 +22,4 @@ mapped here as [proper nouns](PROPN), and 2. name adjectives, which are mapped t
 - Клинтън / _"Klintan"_ "Clinton"
 
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
-<!-- Interlanguage links updated So kvě 14 19:01:54 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:35 CET 2022 -->

@@ -21,4 +21,4 @@ advcl:lmod(it-begins,there)
 'The second part begins **thus**: «The lamp of the world rises on mortals by different entrances».'' (*Letters*, UDante) 
 
 * this translation paraphrases the spatial reference of *ibi* 'there' with an expression of manner, 'thus' 
-<!-- Interlanguage links updated So kvě 14 19:02:57 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:07 CET 2022 -->

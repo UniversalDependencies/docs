@@ -18,3 +18,4 @@ Nikoli jih nismo zares razumeli , otrok .
 dislocated(razumeli,otrok)
 obj(razumeli,jih)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:24 CET 2022 -->

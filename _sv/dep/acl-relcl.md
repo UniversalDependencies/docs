@@ -28,4 +28,4 @@ Jag såg den man du älskar \n I saw the man you love
 acl:relcl(man-4, älskar)
 nsubj(älskar, du)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:02:49 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:03 CET 2022 -->

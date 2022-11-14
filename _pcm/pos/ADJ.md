@@ -20,4 +20,4 @@ In Naija, adjectives are always preposed except when they act as the root.
 - bad : Na very <b>bad</b> thing.
 - plenty : Im dey cause <b>plenty</b> accident.
 - national : We don check di matter for our <b>national</b> headquarters.
-<!-- Interlanguage links updated So kvě 14 19:01:41 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:28 CET 2022 -->

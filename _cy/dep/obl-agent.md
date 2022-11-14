@@ -16,4 +16,4 @@ obl:agent(Argraffwyd, Wasg)
 case(Wasg, gan)
 name(Wasg, Gomer)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:04:02 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:38 CET 2022 -->

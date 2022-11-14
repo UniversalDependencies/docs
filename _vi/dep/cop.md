@@ -15,4 +15,4 @@ cop(sinh_viên, là)
 punct(sinh_viên, 。)
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:03:21 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:18 CET 2022 -->

@@ -38,4 +38,4 @@ The subject of the verb is affected by the event (patient). The doer
 
 * _Η Οδύσσεια γράφτηκε από τον Όμηρο._ "Odyssey was written by Homer" (Homer is the doer/controller of the writing event and surfaces as the complemnt of the preposition από that is selected by the passive verb. Odyssey is created, therefore affected by the writing event and surfaces as the subject of the passive verb.)
 
-<!-- Interlanguage links updated So kvě 14 19:02:45 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:01 CET 2022 -->

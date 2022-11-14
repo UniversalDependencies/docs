@@ -14,4 +14,4 @@ possessives, for further informations, see [Person[psor]]() and
 [Person[psed]]().
 
 The fourth person of some Uralic grammars is [Person=Impers]().
-<!-- Interlanguage links updated So kvě 14 19:02:30 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:53 CET 2022 -->

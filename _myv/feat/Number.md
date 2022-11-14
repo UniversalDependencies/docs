@@ -29,4 +29,4 @@ and [numbers](myv-pos/NUM) as well as of [verbs](u-pos/VERB) and
 * [myv] _сёрмадыть_ "write"
 * [myv] _стакат_ "difficult"
 
-<!-- Interlanguage links updated So kvě 14 19:02:24 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:50 CET 2022 -->

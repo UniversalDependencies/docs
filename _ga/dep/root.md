@@ -146,4 +146,4 @@ nsubj(dtiocfaidh, Cé)
 obl:prep(Cé, leis)
 mark:prt(dtiocfaidh, a)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:04:15 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:44 CET 2022 -->

@@ -50,3 +50,4 @@ obj(odpeljali,žensko)
 acl(woman,hurt)
 obj(drove,woman)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:02 CET 2022 -->

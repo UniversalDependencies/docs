@@ -29,3 +29,4 @@ Zaradi njegovega polhastega spanja je/AUX bila/AUX večkrat jezna .
 aux(jezna,je)
 cop(jezna,bila)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:10 CET 2022 -->

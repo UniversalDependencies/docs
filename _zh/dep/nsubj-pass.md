@@ -22,4 +22,4 @@ The `nsubj:pass` relation is used for the passive subject of a verb.
 3	punished."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:55 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:35 CET 2022 -->

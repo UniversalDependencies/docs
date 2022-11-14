@@ -12,4 +12,4 @@ Polarity feature is used for negation expressions. In many Uralic languages
 there is a negation verb, for this we use the `Polarity=Neg`. There can also be
 a set of verb forms that are used in context of negation verb, for this we use
 the Uralic specific [Connegative=Yes]() feature.
-<!-- Interlanguage links updated So kvě 14 19:02:32 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:54 CET 2022 -->
