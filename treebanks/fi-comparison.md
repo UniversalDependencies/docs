@@ -4951,14 +4951,14 @@ udver: '2'
             <li>VERB-Fin--NOUN-Gen (27)</li>
             <li>VERB-Fin--NOUN-Ill (1)</li>
             <li>VERB-Fin--NOUN-Ins (1)</li>
-            <li>VERB-Fin--NOUN-Nom (4138)</li>
+            <li>VERB-Fin--NOUN-Nom (4137)</li>
             <li>VERB-Fin--NOUN-Par (389)</li>
-            <li>VERB-Fin--PRON-Gen (5)</li>
+            <li>VERB-Fin--PRON-Gen (4)</li>
             <li>VERB-Fin--PRON-Nom (2136)</li>
-            <li>VERB-Fin--PRON-Par (52)</li>
+            <li>VERB-Fin--PRON-Par (51)</li>
             <li>VERB-Inf--NOUN-Gen (232)</li>
             <li>VERB-Inf--NOUN-Ins (1)</li>
-            <li>VERB-Inf--NOUN-Nom (345)</li>
+            <li>VERB-Inf--NOUN-Nom (344)</li>
             <li>VERB-Inf--NOUN-Par (106)</li>
             <li>VERB-Inf--PRON-Acc (29)</li>
             <li>VERB-Inf--PRON-Gen (137)</li>
@@ -4966,7 +4966,7 @@ udver: '2'
             <li>VERB-Inf--PRON-Par (32)</li>
             <li>VERB-Part--NOUN-Gen (454)</li>
             <li>VERB-Part--NOUN-Ins (1)</li>
-            <li>VERB-Part--NOUN-Nom (654)</li>
+            <li>VERB-Part--NOUN-Nom (652)</li>
             <li>VERB-Part--NOUN-Par (100)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
             <li>VERB-Part--PRON-Gen (152)</li>
@@ -5103,7 +5103,7 @@ udver: '2'
             <li>VERB-Fin--PRON-All (1)</li>
             <li>VERB-Fin--PRON-Gen (200)</li>
             <li>VERB-Fin--PRON-Nom (145)</li>
-            <li>VERB-Fin--PRON-Par (565)</li>
+            <li>VERB-Fin--PRON-Par (566)</li>
             <li>VERB-Inf--NOUN-Ela (1)</li>
             <li>VERB-Inf--NOUN-Gen (329)</li>
             <li>VERB-Inf--NOUN-Ill (1)</li>
@@ -5235,8 +5235,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
-      <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+      <li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>xcomp:ds</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -5244,15 +5244,15 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
-      <li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      <li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
     <td width="25%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
-      <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+      <li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>xcomp:ds</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>
   </tr>
