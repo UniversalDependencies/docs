@@ -26,7 +26,7 @@ acl(tisto,zapustili)
 acl(it,pass)
 ~~~
 
-The `acl` relation is currently also used for **optional depicatives**, where the adjective is taken to modify the nominal of which it provides a [secondary predication](https://universaldependencies.org/u/overview/complex-syntax.html#secondary-predicates). However, in line with recent [changes](https://universaldependencies.org/changes.html#optional-depictives) in the general UD guidelines, such constructions should be reanalyzed as adverbial clause modifiers ([advcl]()) in the future, as there is no longer a need to distinguish between optional predicatives with (`acl`) and without (`advcl`) overt nominal heads.
+The `acl` relation is currently also used for **optional depictives**, where the adjective is taken to modify the nominal of which it provides a [secondary predication](https://universaldependencies.org/u/overview/complex-syntax.html#secondary-predicates). However, in line with recent [changes](https://universaldependencies.org/changes.html#optional-depictives) in the general UD guidelines, such constructions should be reanalyzed as adverbial clause modifiers ([advcl]()) in the future, as there is no longer a need to distinguish between optional predicatives with (`acl`) and without (`advcl`) overt nominal heads.
 
 
 ~~~ sdparse
